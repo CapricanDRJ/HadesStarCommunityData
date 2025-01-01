@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:29 L:10 D:1 Bonus ✅
+description: W:30 L:10 D:1 Bonus ✅
 image: ./favicon.png
-date: 1735095580
+date: 1735737455
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,12 +23,13 @@ date: 1735095580
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (104)|
-| ELO Competitive | 1424 🔺  (119)|
-| Total Matches | 40 |
-| Wins | 29 |
+| ELO Regular | 1346 🔺  (98)|
+| ELO Competitive | 1426 🔺  (117)|
+| Total Matches | 41 |
+| Wins | 30 |
 | Losses | 10 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 8 |
 
@@ -48,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/01 | 34-0 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2024/12/25 | 33-3 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ❌ | 2024/12/17 | 3-15 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2024/12/16 | 0-28 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新集团
-description: W:4 L:0 D:0 Bonus ✅
+description: W:4 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734982999
 ---
@@ -15,12 +15,12 @@ date: 1734982999
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔺  (240)|
-| ELO Competitive | 1268 🔺  (344)|
+| ELO Competitive | 1268 🔺  (347)|
 | Total Matches | 4 |
 | Wins | 4 |
 | Losses | 0 |

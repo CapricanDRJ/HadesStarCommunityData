@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:21 L:3 D:0 Bonus ✅
+description: W:21 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735048495
 ---
@@ -19,12 +19,12 @@ orp.
 WDL 88/2/4
 ```
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1410 🔺  (46)|
-| ELO Competitive | 1439 🔺  (104)|
+| ELO Competitive | 1439 🔺  (105)|
 | Total Matches | 24 |
 | Wins | 21 |
 | Losses | 3 |

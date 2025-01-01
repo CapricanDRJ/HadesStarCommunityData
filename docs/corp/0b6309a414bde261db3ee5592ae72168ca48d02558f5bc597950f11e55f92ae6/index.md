@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:8 L:7 D:0 Bonus ✅
+description: W:8 L:8 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735008236
+date: 1735712816
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,16 @@ Relaxed game play. The Corp for working people also known as “The hot
 lease join us on Discord and don't be a stranger!
 ```
 ### [Discord](https://discord.gg/drqrMsVtEp)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (353)|
-| ELO Competitive | 1267 🔺  (348)|
-| Total Matches | 15 |
+| ELO Regular | 1207 🔻  (459)|
+| ELO Competitive | 1255 🔻  (387)|
+| Total Matches | 16 |
 | Wins | 8 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734576236,1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
+        let timestamps = [1735280816,1734576236,1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/01 | 21-23 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2024/12/24 | 21-5 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/12/10 | 24-15 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2024/11/26 | 9-10 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spaceballs
-description: W:21 L:16 D:0 Bonus ✅
+description: W:21 L:16 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735068931
 ---
@@ -18,12 +18,12 @@ Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make
 titans.com
 ```
 ### [Discord](https://discord.gg/QhMTEDb8zt)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (89)|
-| ELO Competitive | 1401 🔺  (138)|
+| ELO Regular | 1352 🔺  (90)|
+| ELO Competitive | 1401 🔺  (140)|
 | Total Matches | 37 |
 | Wins | 21 |
 | Losses | 16 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:11 L:16 D:1 Bonus ✅
+description: W:11 L:16 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735117868
 ---
@@ -25,12 +25,12 @@ Corporaciones aliadas:
 Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1036)|
-| ELO Competitive | 1282 🔺  (303)|
+| ELO Regular | 1160 🔻  (1034)|
+| ELO Competitive | 1282 🔺  (305)|
 | Total Matches | 28 |
 | Wins | 11 |
 | Losses | 16 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:34 L:28 D:2 Bonus ❌
+description: W:34 L:29 D:2 Bonus ❌
 image: ./favicon.png
-date: 1734970677
+date: 1735564389
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ on events. No alts.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (491)|
-| ELO Competitive | 1266 🔻  (352)|
-| Total Matches | 64 |
+| ELO Regular | 1195 🔻  (550)|
+| ELO Competitive | 1260 🔻  (371)|
+| Total Matches | 65 |
 | Wins | 34 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734538677,1733850296,1733001826,1732187367,1731421114,1730332099,1729446834,1728913698,1728325520,1727755131,1727106360,1726586308,1725984694,1725466634,1725420659,1724984637,1724458150,1723813233,1722972717,1722302278,1721707240,1721173241,1720306473,1719724053,1719096598,1718316913,1717616607,1716875477,1716378478,1715838275,1715268618,1714797811,1714355421,1713699228,1713022580,1712456186,1711740441,1711261180,1710797567,1710293372,1709782265,1709330955,1708895859,1708401245,1707921346,1707445508,1706989785,1706541117,1706081028,1705603509,1705112774,1704668023,1704231673,1703610799,1703156103,1702697890,1702237160,1701759583,1701321097,1700887101,1700438694,1700004038,1699419731,1698720440];
+        let timestamps = [1735132389,1734538677,1733850296,1733001826,1732187367,1731421114,1730332099,1729446834,1728913698,1728325520,1727755131,1727106360,1726586308,1725984694,1725466634,1725420659,1724984637,1724458150,1723813233,1722972717,1722302278,1721707240,1721173241,1720306473,1719724053,1719096598,1718316913,1717616607,1716875477,1716378478,1715838275,1715268618,1714797811,1714355421,1713699228,1713022580,1712456186,1711740441,1711261180,1710797567,1710293372,1709782265,1709330955,1708895859,1708401245,1707921346,1707445508,1706989785,1706541117,1706081028,1705603509,1705112774,1704668023,1704231673,1703610799,1703156103,1702697890,1702237160,1701759583,1701321097,1700887101,1700438694,1700004038,1699419731,1698720440];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 2 | 0 | 2 |
 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) | 3 | 0 | 0 | 3 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/30 | 0-20 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2024/12/23 | 7-45 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2024/12/15 | 16-7 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ✅ | 2024/12/05 | 16-0 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |

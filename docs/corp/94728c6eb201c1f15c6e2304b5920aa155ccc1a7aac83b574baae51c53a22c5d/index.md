@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:22 L:30 D:0 Bonus ❌
+description: W:23 L:30 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735095580
+date: 1735735952
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Small but perfectly formed English speaking Corp seeks experienced ac
 tive players wanting to grow.White Star⚪ on Thursdays.
 ```
 ### [Discord](https://discord.gg/Hc9hVMCcMT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (913)|
-| ELO Competitive | 1282 🔻  (302)|
-| Total Matches | 52 |
-| Wins | 22 |
+| ELO Regular | 1184 🔺  (802)|
+| ELO Competitive | 1294 🔺  (284)|
+| Total Matches | 53 |
+| Wins | 23 |
 | Losses | 30 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734663580,1734080145,1733425706,1732782659,1732203897,1732192476,1731598100,1731590886,1731011818,1730980559,1730409026,1730403917,1729785784,1729771357,1729202812,1728484189,1727988335,1727380108,1726781838,1726169493,1725535741,1725015588,1724406455,1724361088,1723843590,1723168340,1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
+        let timestamps = [1735303952,1734663580,1734080145,1733425706,1732782659,1732203897,1732192476,1731598100,1731590886,1731011818,1730980559,1730409026,1730403917,1729785784,1729771357,1729202812,1728484189,1727988335,1727380108,1726781838,1726169493,1725535741,1725015588,1724406455,1724361088,1723843590,1723168340,1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/01 | 23-0 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | ❌ | 2024/12/25 | 3-33 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ✅ | 2024/12/18 | 19-2 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ❌ | 2024/12/10 | 2-30 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |

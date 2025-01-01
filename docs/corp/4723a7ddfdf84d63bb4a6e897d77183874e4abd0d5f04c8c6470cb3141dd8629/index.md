@@ -20,7 +20,7 @@ Home to all as long as you are willing to contribute to our growth 🤝
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (900)|
-| ELO Competitive | 1214 🔻  (558)|
+| ELO Competitive | 1214 🔻  (561)|
 | Total Matches | 34 |
 | Wins | 15 |
 | Losses | 19 |

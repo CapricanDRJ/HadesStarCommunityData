@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:60 L:25 D:3 Bonus ✅
+description: W:60 L:25 D:3 Bonus ❌
 image: ./favicon.png
 date: 1735351976
 ---
@@ -18,12 +18,12 @@ articipation appreciated.                            No experience re
 quired. We can help speed your progress :)
 ```
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1433 🔻  (29)|
-| ELO Competitive | 1539 🔻  (35)|
+| ELO Regular | 1433 🔻  (31)|
+| ELO Competitive | 1539 🔻  (36)|
 | Total Matches | 88 |
 | Wins | 60 |
 | Losses | 25 |

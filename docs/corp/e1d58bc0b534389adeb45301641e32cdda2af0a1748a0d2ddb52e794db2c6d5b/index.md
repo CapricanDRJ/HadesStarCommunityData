@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:8 L:2 D:1 Bonus ✅
+description: W:8 L:2 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735114895
 ---
@@ -16,12 +16,12 @@ date: 1735114895
 Looking for members. Come grow with us!
 ```
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (208)|
-| ELO Competitive | 1271 🔺  (328)|
+| ELO Regular | 1271 🔺  (209)|
+| ELO Competitive | 1271 🔺  (331)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 2 |

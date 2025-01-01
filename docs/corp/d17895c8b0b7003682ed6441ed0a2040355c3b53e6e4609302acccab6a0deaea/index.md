@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BAB
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733507981
+date: 1735525033
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1733507981
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (975)|
-| ELO Competitive | 1170 🔻  (1108)|
-| Total Matches | 3 |
+| ELO Regular | 1154 🔻  (1081)|
+| ELO Competitive | 1157 🔻  (1196)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733075981,1732459650,1730821005];
+        let timestamps = [1735093033,1733075981,1732459650,1730821005];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/30 | 0-6 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/12/06 | 0-4 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ↔️ | 2024/11/29 | 0-0 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) |
 | ❌ | 2024/11/10 | 0-10 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |

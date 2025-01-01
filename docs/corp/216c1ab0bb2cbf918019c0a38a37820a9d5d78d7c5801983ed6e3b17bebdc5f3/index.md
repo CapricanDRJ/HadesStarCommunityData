@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:27 L:11 D:1 Bonus ✅
+description: W:27 L:11 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734969475
 ---
@@ -18,12 +18,12 @@ e Wolfpack is on the lookout for dominant Alphas to join us in our ra
 nks
 ```
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1438 🔺  (26)|
-| ELO Competitive | 1503 🔺  (52)|
+| ELO Competitive | 1503 🔺  (53)|
 | Total Matches | 39 |
 | Wins | 27 |
 | Losses | 11 |

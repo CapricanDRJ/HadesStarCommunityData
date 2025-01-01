@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:27 L:13 D:1 Bonus ✅
+description: W:27 L:13 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735394037
 ---
@@ -16,11 +16,11 @@ date: 1735394037
 Have 401 K, dental, 0 days off, plenty of overtime, child labor recom
 mended, & remember you are expendable, we love you
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (180)|
+| ELO Regular | 1288 🔻  (181)|
 | ELO Competitive | 1423 🔻  (121)|
 | Total Matches | 41 |
 | Wins | 27 |

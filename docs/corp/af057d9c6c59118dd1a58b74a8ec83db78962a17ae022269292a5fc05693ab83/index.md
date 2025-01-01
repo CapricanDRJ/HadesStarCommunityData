@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​孤星长城
-description: W:2 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735124510
 ---
@@ -15,12 +15,12 @@ date: 1735124510
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1231 🔺  (318)|
-| ELO Competitive | 1238 🔺  (432)|
+| ELO Competitive | 1238 🔺  (435)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

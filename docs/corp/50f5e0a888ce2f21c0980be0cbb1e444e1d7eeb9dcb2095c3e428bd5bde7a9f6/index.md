@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:21 L:7 D:2 Bonus ✅
+description: W:21 L:8 D:2 Bonus ✅
 image: ./favicon.png
-date: 1735295182
+date: 1735728139
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1735295182
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1340 🔺  (110)|
-| ELO Competitive | 1380 🔺  (163)|
-| Total Matches | 30 |
+| ELO Regular | 1317 🔻  (137)|
+| ELO Competitive | 1358 🔻  (182)|
+| Total Matches | 31 |
 | Wins | 21 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
-| Streak | 8 |
 | Streak Record | 8 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734863182,1734427199,1733957563,1733407975,1732965371,1732920208,1732462327,1732112249,1732028414,1731595995,1731590886,1731108574,1731075515,1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
+        let timestamps = [1735296139,1734863182,1734427199,1733957563,1733407975,1732965371,1732920208,1732462327,1732112249,1732028414,1731595995,1731590886,1731108574,1731075515,1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/01 | 2-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/12/27 | 11-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/12/22 | 10-0 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2024/12/16 | 8-2 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |

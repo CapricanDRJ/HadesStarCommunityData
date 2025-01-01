@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New Star
-description: W:4 L:6 D:0 Bonus ❌
+description: W:5 L:6 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734731510
+date: 1735685180
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,18 +20,18 @@ We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (381)|
-| ELO Competitive | 1248 🔺  (405)|
-| Total Matches | 10 |
-| Wins | 4 |
+| ELO Regular | 1238 🔺  (295)|
+| ELO Competitive | 1272 🔺  (330)|
+| Total Matches | 11 |
+| Wins | 5 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 6 |
 
 ---
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734299510,1733092789,1731895002,1730021379,1729304683,1727572125,1721851190,1714178748,1712961583,1701681441];
+        let timestamps = [1735253180,1734299510,1733092789,1731895002,1730021379,1729304683,1727572125,1721851190,1714178748,1712961583,1701681441];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,12 +133,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/31 | 26-11 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2024/12/20 | 30-9 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/12/06 | 35-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/11/23 | 14-24 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |

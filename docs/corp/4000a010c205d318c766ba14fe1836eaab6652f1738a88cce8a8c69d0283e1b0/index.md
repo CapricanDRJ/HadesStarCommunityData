@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Axiom
-description: W:88 L:39 D:0 Bonus ✅
+description: W:88 L:39 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734901291
 ---
@@ -19,12 +19,12 @@ date: 1734901291
 https://discord.gg/CY4M2awSgS
 ```
 ### [Discord](https://discord.gg/CY4M2awSgS)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (249)|
-| ELO Competitive | 1539 🔺  (34)|
+| ELO Regular | 1250 🔺  (253)|
+| ELO Competitive | 1539 🔺  (35)|
 | Total Matches | 127 |
 | Wins | 88 |
 | Losses | 39 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Team Rainbow
-description: W:5 L:3 D:0 Bonus ✅
+description: W:5 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735061418
 ---
@@ -18,12 +18,12 @@ opefully you'll be gyatt Ohio skibidi here. Remember, discord is no c
 ap fyah, so get cooked.**
 ```
 ### [Discord](https://discord.gg/eghZesnPZn)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔺  (314)|
-| ELO Competitive | 1264 🔺  (356)|
+| ELO Competitive | 1264 🔺  (355)|
 | Total Matches | 8 |
 | Wins | 5 |
 | Losses | 3 |

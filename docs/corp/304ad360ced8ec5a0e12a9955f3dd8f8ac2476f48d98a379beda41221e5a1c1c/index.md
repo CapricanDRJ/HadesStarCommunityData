@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stardust
-description: W:3 L:18 D:0 Bonus ✅
+description: W:3 L:18 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735035273
 ---
@@ -17,12 +17,12 @@ We run monthly or couple of weeks White Stars and private Red Stars o
 n request. New players welcome, we are happy to help you learn the ga
 me.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1096 🔺  (1276)|
-| ELO Competitive | 1145 🔺  (1248)|
+| ELO Competitive | 1145 🔺  (1246)|
 | Total Matches | 21 |
 | Wins | 3 |
 | Losses | 18 |

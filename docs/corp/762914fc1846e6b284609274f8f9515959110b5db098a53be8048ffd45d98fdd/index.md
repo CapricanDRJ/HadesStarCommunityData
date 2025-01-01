@@ -19,8 +19,8 @@ Chookity pop!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (973)|
-| ELO Competitive | 1172 🔻  (1067)|
+| ELO Regular | 1169 🔻  (972)|
+| ELO Competitive | 1172 🔻  (1063)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

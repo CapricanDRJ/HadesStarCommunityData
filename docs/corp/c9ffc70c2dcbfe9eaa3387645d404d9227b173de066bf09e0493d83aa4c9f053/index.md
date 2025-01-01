@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Лютые
-description: W:18 L:10 D:1 Bonus ✅
+description: W:18 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735021454
 ---
@@ -16,12 +16,12 @@ date: 1735021454
 Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (103)|
-| ELO Competitive | 1415 🔺  (127)|
+| ELO Regular | 1343 🔺  (105)|
+| ELO Competitive | 1415 🔺  (129)|
 | Total Matches | 29 |
 | Wins | 18 |
 | Losses | 10 |

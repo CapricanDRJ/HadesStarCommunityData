@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:36 L:19 D:1 Bonus ✅
+description: W:36 L:19 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734966168
 ---
@@ -29,12 +29,12 @@ Discord required for WS.
 148
 ```
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔺  (140)|
-| ELO Competitive | 1398 🔺  (140)|
+| ELO Regular | 1315 🔺  (141)|
+| ELO Competitive | 1398 🔺  (142)|
 | Total Matches | 56 |
 | Wins | 36 |
 | Losses | 19 |
