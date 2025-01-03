@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​昙花一现
-description: W:2 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735193921
+date: 1735883573
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,18 @@ date: 1735193921
 <color=green>欢迎来到这个新建的集团(welcome to the group )，让我们把这个集体建没的更好！（不定期会开白
 ，不定期送 r8)友团：分子集团
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (805)|
-| ELO Competitive | 1199 🔺  (663)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1191 🔺  (576)|
+| ELO Competitive | 1207 🔺  (602)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -44,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734761921,1734746290,1734157072,1733476780,1733031180];
+        let timestamps = [1735451573,1734761921,1734746290,1734157072,1733476780,1733031180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/03 | 2-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/12/26 | 4-2 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ❌ | 2024/12/26 | 1-19 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) |
 | ❌ | 2024/12/19 | 1-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |

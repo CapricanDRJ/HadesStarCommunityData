@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​斯比纳兰
-description: W:5 L:14 D:1 Bonus ❌
+description: W:6 L:14 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734182237
+date: 1735880787
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1734182237
 棠花之约(干事高员踢了有奖 千万不能晋升)本团白星策略:先一起上采矿舰采完回去之后一起换运输旗下分团:斯比纳兰分团 一起同行
 ```
 ### [Discord](https://discord.gg/sghx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (1270)|
-| ELO Competitive | 1141 🔻  (1262)|
-| Total Matches | 20 |
-| Wins | 5 |
+| ELO Regular | 1122 🔺  (1219)|
+| ELO Competitive | 1159 🔺  (1179)|
+| Total Matches | 21 |
+| Wins | 6 |
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733750237,1733233705,1732107440,1731615833,1731061390,1730385883,1729847666,1729346456,1728901073,1728393426,1728141607,1727949554,1727700134,1727509017,1727010203,1726571581,1726057106,1725544157,1724989428,1724554613];
+        let timestamps = [1735448787,1733750237,1733233705,1732107440,1731615833,1731061390,1730385883,1729847666,1729346456,1728901073,1728393426,1728141607,1727949554,1727700134,1727509017,1727010203,1726571581,1726057106,1725544157,1724989428,1724554613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/03 | 3-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ❌ | 2024/12/14 | 3-6 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/12/08 | 0-2 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/11/25 | 0-13 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |

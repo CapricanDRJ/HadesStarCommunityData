@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​方星集团
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735639501
+date: 1735880787
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1735639501
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (419)|
+| ELO Regular | 1194 🔻  (557)|
 | ELO Competitive | 1220 🔻  (495)|
-| Total Matches | 5 |
+| Total Matches | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735207501,1734693411,1734185920,1733541986,1732629997];
+        let timestamps = [1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/03 | 0-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/12/31 | 1-7 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2024/12/25 | 4-2 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2024/12/19 | 0-1 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
