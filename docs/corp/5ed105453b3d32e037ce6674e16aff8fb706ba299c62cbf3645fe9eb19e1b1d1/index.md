@@ -28,8 +28,8 @@ https://discord.gg/gBFFE5x
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1041)|
-| ELO Competitive | 1165 🔻  (1142)|
+| ELO Regular | 1159 🔻  (1042)|
+| ELO Competitive | 1165 🔻  (1143)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

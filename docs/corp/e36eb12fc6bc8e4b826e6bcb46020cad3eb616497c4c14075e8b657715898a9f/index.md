@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​INFINITY STAR
-description: W:14 L:17 D:0 Bonus ✅
+description: W:14 L:17 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735308105
 ---
@@ -16,7 +16,7 @@ date: 1735308105
 Lost in Space...? Dann komm zu uns! 
 ```
 ### [Discord](https://discord.gg/qZFjFeg5wP)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
