@@ -21,7 +21,7 @@ p anyone who desires the aid.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (64)|
+| ELO Regular | 1387 🔺  (65)|
 | ELO Competitive | 1459 🔺  (90)|
 | Total Matches | 48 |
 | Wins | 37 |
