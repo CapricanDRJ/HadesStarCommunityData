@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Equinox
-description: W:8 L:1 D:0 Bonus ✅
+description: W:8 L:1 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735228780
 ---
@@ -17,12 +17,12 @@ Totally new corporation. Your experience or level is unimportant.  It
 's your commitment to grow and become stronger that is paramount. No 
 deadline though. We all do what we do when we do it...
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔺  (180)|
-| ELO Competitive | 1297 🔺  (275)|
+| ELO Competitive | 1297 🔺  (276)|
 | Total Matches | 9 |
 | Wins | 8 |
 | Losses | 1 |

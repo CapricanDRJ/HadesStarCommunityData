@@ -22,8 +22,8 @@ uld be an Honor that you would join us! >=)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔺  (1184)|
-| ELO Competitive | 1174 🔺  (1037)|
+| ELO Regular | 1132 🔺  (1185)|
+| ELO Competitive | 1174 🔺  (1038)|
 | Total Matches | 68 |
 | Wins | 31 |
 | Losses | 37 |

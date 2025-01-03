@@ -22,7 +22,7 @@ https://discord.gg/DDhaupc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (848)|
+| ELO Regular | 1180 🔺  (847)|
 | ELO Competitive | 1250 🔺  (402)|
 | Total Matches | 40 |
 | Wins | 13 |

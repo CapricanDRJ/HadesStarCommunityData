@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​公共星际集团
-description: W:7 L:21 D:2 Bonus ❌
+description: W:7 L:23 D:2 Bonus ❌
 image: ./favicon.png
-date: 1723284510
+date: 1735805664
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1723284510
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔻  (1311)|
-| ELO Competitive | 1166 🔻  (1130)|
-| Total Matches | 30 |
+| ELO Regular | 1046 🔻  (1324)|
+| ELO Competitive | 1156 🔻  (1201)|
+| Total Matches | 32 |
 | Wins | 7 |
-| Losses | 21 |
+| Losses | 23 |
 | Draws | 2 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722852510,1722818121,1722362681,1721541350,1721062037,1720512325,1720512325,1719923287,1719922686,1717821128,1710674965,1710659134,1709331642,1709317432,1708646447,1708629918,1708174362,1708173160,1707605526,1707573213,1707119902,1707053490,1706658323,1706618348,1706189811,1705723413,1705285274,1704842321,1704404168,1703932954];
+        let timestamps = [1735373664,1735364951,1722852510,1722818121,1722362681,1721541350,1721062037,1720512325,1720512325,1719923287,1719922686,1717821128,1710674965,1710659134,1709331642,1709317432,1708646447,1708629918,1708174362,1708173160,1707605526,1707573213,1707119902,1707053490,1706658323,1706618348,1706189811,1705723413,1705285274,1704842321,1704404168,1703932954];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/02 | 0-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
+| ❌ | 2025/01/02 | 0-6 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ❌ | 2024/08/10 | 0-2 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2024/08/10 | 3-6 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/08/04 | 5-3 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |

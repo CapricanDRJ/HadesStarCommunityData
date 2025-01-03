@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​E.T.A
-description: W:9 L:31 D:0 Bonus ✅
+description: W:9 L:31 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735624780
 ---
@@ -16,12 +16,12 @@ date: 1735624780
 别捐旗舰，其它随意
 ```
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1020 🔻  (1338)|
-| ELO Competitive | 1162 🔻  (1161)|
+| ELO Regular | 1020 🔻  (1340)|
+| ELO Competitive | 1162 🔻  (1162)|
 | Total Matches | 40 |
 | Wins | 9 |
 | Losses | 31 |

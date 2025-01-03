@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:13 L:24 D:0 Bonus ❌
+description: W:14 L:25 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735191480
+date: 1735800557
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 1735191480
 <#f99><size=51>墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往<#ccff00>盟团：星落苑</color>，长期开白
 ，欢迎前来参与，常驻福利多多😍</size></color>本团为北极星联盟成员
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1229)|
-| ELO Competitive | 1238 🔻  (437)|
-| Total Matches | 37 |
-| Wins | 13 |
-| Losses | 24 |
+| ELO Regular | 1126 🔻  (1202)|
+| ELO Competitive | 1248 🔺  (413)|
+| Total Matches | 39 |
+| Wins | 14 |
+| Losses | 25 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734759480,1734754711,1734270105,1734261339,1733752341,1733743024,1733182931,1733149918,1732745931,1732710825,1732269698,1732106839,1731745643,1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
+        let timestamps = [1735368557,1735362248,1734759480,1734754711,1734270105,1734261339,1733752341,1733743024,1733182931,1733149918,1732745931,1732710825,1732269698,1732106839,1731745643,1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/02 | 0-15 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
+| ✅ | 2025/01/02 | 3-1 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |
 | ❌ | 2024/12/26 | 0-8 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2024/12/26 | 0-34 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2024/12/20 | 2-0 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |

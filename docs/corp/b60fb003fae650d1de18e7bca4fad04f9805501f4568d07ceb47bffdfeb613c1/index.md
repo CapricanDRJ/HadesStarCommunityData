@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:22 L:2 D:0 Bonus ✅
+description: W:22 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735217058
 ---
@@ -17,12 +17,12 @@ date: 1735217058
  weekly ws   and in a search of active players,no discord required 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1402 🔺  (54)|
-| ELO Competitive | 1426 🔺  (116)|
+| ELO Regular | 1402 🔺  (55)|
+| ELO Competitive | 1426 🔺  (115)|
 | Total Matches | 24 |
 | Wins | 22 |
 | Losses | 2 |

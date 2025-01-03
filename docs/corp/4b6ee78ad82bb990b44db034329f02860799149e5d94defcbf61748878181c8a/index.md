@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​wyvern
-description: W:2 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1717154509
+date: 1735837820
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,18 @@ Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE
 s WS
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/AXfZ6BVzjx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (546)|
-| ELO Competitive | 1198 🔺  (665)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1214 🔺  (412)|
+| ELO Competitive | 1222 🔺  (491)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716722509,1704534581,1704042951,1703601180,1703089388];
+        let timestamps = [1735405820,1716722509,1704534581,1704042951,1703601180,1703089388];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/02 | 20-5 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/05/31 | 14-7 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/01/11 | 1-12 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/01/05 | 0-9 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |

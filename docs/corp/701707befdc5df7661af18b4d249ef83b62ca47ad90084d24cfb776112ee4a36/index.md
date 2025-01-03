@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星系联盟
-description: W:1 L:2 D:0 Bonus ❌
+description: W:2 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735100777
+date: 1735796951
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1735100777
 欢迎萌新们加入，到了20级以上就可以去主团了，前三名加入的当干事，主团国际联盟，干事请不要随便把别人晋升成干事，最多晋升成高级成员，请大家
 常驻。   不定期清红点
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (829)|
-| ELO Competitive | 1184 🔻  (962)|
-| Total Matches | 3 |
-| Wins | 1 |
+| ELO Regular | 1193 🔺  (563)|
+| ELO Competitive | 1198 🔺  (668)|
+| Total Matches | 4 |
+| Wins | 2 |
 | Losses | 2 |
 | Draws | 0 |
 | Flagship | 1 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734668777,1734141451,1732243561];
+        let timestamps = [1735364951,1734668777,1734141451,1732243561];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/02 | 6-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ❌ | 2024/12/25 | 2-9 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ❌ | 2024/12/19 | 1-6 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2024/11/27 | 1-0 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |

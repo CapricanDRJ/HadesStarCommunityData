@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​六大天神
-description: W:103 L:56 D:2 Bonus ✅
+description: W:103 L:56 D:2 Bonus ❌
 image: ./favicon.png
 date: 1735670155
 ---
@@ -23,11 +23,11 @@ date: 1735670155
 某某干事：没了
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1420 🔻  (36)|
+| ELO Regular | 1420 🔻  (35)|
 | ELO Competitive | 1720 🔻  (4)|
 | Total Matches | 161 |
 | Wins | 103 |

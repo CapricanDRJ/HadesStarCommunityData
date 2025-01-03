@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:6 L:2 D:1 Bonus ❌
+description: W:7 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734770262
+date: 1735846536
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ In this corporation, we help eachother in red stars and will do white
  stars to grow the corp! Be nice to everyone and lets grow our star s
 ystems!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (219)|
-| ELO Competitive | 1269 🔺  (344)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1275 🔺  (201)|
+| ELO Competitive | 1287 🔺  (300)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 1 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734338262,1733791510,1732620071,1731720705,1730020430,1729481988,1728955477,1728478238,1727741912];
+        let timestamps = [1735414536,1734338262,1733791510,1732620071,1731720705,1730020430,1729481988,1728955477,1728478238,1727741912];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/02 | 24-6 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/12/21 | 12-6 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ✅ | 2024/12/15 | 23-3 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ✅ | 2024/12/01 | 13-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |

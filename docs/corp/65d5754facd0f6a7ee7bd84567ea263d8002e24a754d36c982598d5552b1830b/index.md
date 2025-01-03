@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星约组织：基地分团
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735034072
+date: 1735818885
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1735034072
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1071)|
-| ELO Competitive | 1162 🔻  (1159)|
-| Total Matches | 5 |
+| ELO Regular | 1143 🔻  (1146)|
+| ELO Competitive | 1149 🔻  (1229)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734602072,1733231899,1732711125,1732273904,1731662100];
+        let timestamps = [1735386885,1734602072,1733231899,1732711125,1732273904,1731662100];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/02 | 0-5 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ❌ | 2024/12/24 | 0-19 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/08 | 0-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2024/12/02 | 0-5 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |

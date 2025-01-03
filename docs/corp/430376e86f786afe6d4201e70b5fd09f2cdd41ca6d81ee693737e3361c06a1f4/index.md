@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Likapa
-description: W:99 L:9 D:0 Bonus ✅
+description: W:99 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735387726
 ---
@@ -18,11 +18,11 @@ date: 1735387726
 or></size></b>
 ```
 ### [Discord](https://discord.gg/3CE2zAs)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1640 🔻  (1)|
+| ELO Regular | 1640 🔻  (2)|
 | ELO Competitive | 1729 🔺  (3)|
 | Total Matches | 108 |
 | Wins | 99 |

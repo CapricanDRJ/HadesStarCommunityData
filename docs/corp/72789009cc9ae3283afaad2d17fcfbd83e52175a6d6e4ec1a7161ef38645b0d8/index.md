@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:18 L:24 D:2 Bonus ✅
+description: W:18 L:24 D:2 Bonus ❌
 image: ./favicon.png
 date: 1735669855
 ---
@@ -15,7 +15,7 @@ date: 1735669855
 ```
 English speaking – would you want to communicate
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -22,8 +22,8 @@ requires your full attention 🍆as she can be lot to handle and more �
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (526)|
-| ELO Competitive | 1219 🔻  (504)|
+| ELO Regular | 1198 🔻  (525)|
+| ELO Competitive | 1219 🔻  (505)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 5 |

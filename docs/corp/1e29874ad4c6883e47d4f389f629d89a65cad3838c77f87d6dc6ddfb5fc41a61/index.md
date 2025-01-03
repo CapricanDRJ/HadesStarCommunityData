@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Blue Dwarf
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735178290
 ---
@@ -18,12 +18,12 @@ join us for group Red Star runs, hints and tips, free artifacts, and
 weekly White Stars - enable scanner to opt-in! Discord advised
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔺  (355)|
-| ELO Competitive | 1249 🔺  (406)|
+| ELO Competitive | 1249 🔺  (407)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |

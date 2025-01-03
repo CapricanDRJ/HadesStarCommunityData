@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​昙花一现
-description: W:2 L:3 D:0 Bonus ✅
+description: W:2 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735193921
 ---
@@ -16,12 +16,12 @@ date: 1735193921
 <color=green>欢迎来到这个新建的集团(welcome to the group )，让我们把这个集体建没的更好！（不定期会开白
 ，不定期送 r8)友团：分子集团
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (805)|
-| ELO Competitive | 1199 🔺  (659)|
+| ELO Competitive | 1199 🔺  (663)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

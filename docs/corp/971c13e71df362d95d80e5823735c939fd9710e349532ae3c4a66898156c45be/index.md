@@ -19,7 +19,7 @@ You keep what you kill…Naw. One for all and all for one!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (379)|
+| ELO Regular | 1216 🔺  (380)|
 | ELO Competitive | 1216 🔺  (527)|
 | Total Matches | 1 |
 | Wins | 1 |
