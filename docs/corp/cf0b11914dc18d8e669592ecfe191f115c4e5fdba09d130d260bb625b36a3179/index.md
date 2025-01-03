@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​四季长春
-description: W:17 L:24 D:6 Bonus ❌
+description: W:17 L:24 D:7 Bonus ❌
 image: ./favicon.png
-date: 1724883240
+date: 1735924041
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1724883240
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔺  (852)|
-| ELO Competitive | 1332 🔺  (211)|
-| Total Matches | 47 |
+| ELO Competitive | 1329 🔻  (215)|
+| Total Matches | 48 |
 | Wins | 17 |
 | Losses | 24 |
-| Draws | 6 |
+| Draws | 7 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724451240,1723679812,1723672602,1723158122,1723108839,1722627424,1721580724,1720919570,1720829708,1720132775,1719490862,1719071743,1719027767,1718241783,1718232470,1717775289,1717650653,1717227374,1716822283,1716678338,1716160365,1716159173,1715651701,1715434462,1715010532,1714997010,1714546221,1714515877,1714058645,1714050750,1713447160,1713414111,1712984116,1712961282,1712528690,1712448676,1712067667,1711985639,1711567667,1711479028,1711028609,1710975434,1710595334,1710332426,1709874206,1709384138,1709374822];
+        let timestamps = [1735492041,1724451240,1723679812,1723672602,1723158122,1723108839,1722627424,1721580724,1720919570,1720829708,1720132775,1719490862,1719071743,1719027767,1718241783,1718232470,1717775289,1717650653,1717227374,1716822283,1716678338,1716160365,1716159173,1715651701,1715434462,1715010532,1714997010,1714546221,1714515877,1714058645,1714050750,1713447160,1713414111,1712984116,1712961282,1712528690,1712448676,1712067667,1711985639,1711567667,1711479028,1711028609,1710975434,1710595334,1710332426,1709874206,1709384138,1709374822];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/03 | 0-0 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
 | ✅ | 2024/08/28 | 10-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/08/19 | 0-11 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ↔️ | 2024/08/19 | 5-5 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |

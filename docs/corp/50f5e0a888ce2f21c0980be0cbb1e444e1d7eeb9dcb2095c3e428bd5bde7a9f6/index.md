@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:21 L:8 D:2 Bonus ✅
+description: W:21 L:8 D:2 Bonus ❌
 image: ./favicon.png
 date: 1735728139
 ---
@@ -17,7 +17,7 @@ date: 1735728139
                                                                      
 <size=100><color=red>两个旗舰都捐！进集团加微信18898500351，拉你入群
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

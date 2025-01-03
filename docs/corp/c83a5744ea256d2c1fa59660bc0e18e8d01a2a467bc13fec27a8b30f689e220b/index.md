@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:17 L:9 D:1 Bonus ❌
+description: W:17 L:9 D:2 Bonus ❌
 image: ./favicon.png
-date: 1735001627
+date: 1735924963
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ ess. White star participation required
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (219)|
-| ELO Competitive | 1295 🔻  (278)|
-| Total Matches | 27 |
+| ELO Regular | 1260 🔻  (227)|
+| ELO Competitive | 1294 🔻  (284)|
+| Total Matches | 28 |
 | Wins | 17 |
 | Losses | 9 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 9 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734569627,1733688245,1732392010,1731435241,1730298139,1729675804,1729015883,1728122671,1727620204,1727134610,1726654004,1726184216,1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
+        let timestamps = [1735492963,1734569627,1733688245,1732392010,1731435241,1730298139,1729675804,1729015883,1728122671,1727620204,1727134610,1726654004,1726184216,1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/03 | 0-0 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2024/12/24 | 0-10 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2024/12/13 | 4-23 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ❌ | 2024/11/28 | 0-14 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
