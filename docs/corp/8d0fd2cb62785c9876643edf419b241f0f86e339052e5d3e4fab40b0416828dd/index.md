@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Splendid
-description: W:5 L:4 D:0 Bonus ✅
+description: W:5 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735421684
 ---
@@ -16,12 +16,12 @@ date: 1735421684
 We are frequent in white stars, helping beginners, and pretty calm co
 rporation.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (350)|
-| ELO Competitive | 1227 🔺  (472)|
+| ELO Regular | 1222 🔺  (351)|
+| ELO Competitive | 1227 🔺  (473)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 4 |

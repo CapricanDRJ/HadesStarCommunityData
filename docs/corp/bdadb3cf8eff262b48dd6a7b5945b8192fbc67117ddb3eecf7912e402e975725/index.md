@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:31 L:37 D:0 Bonus ✅
+description: W:31 L:37 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735416276
 ---
@@ -17,7 +17,7 @@ The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the mo
 st seasoned Veterans. This corp is made for and of its members! It wo
 uld be an Honor that you would join us! >=)
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

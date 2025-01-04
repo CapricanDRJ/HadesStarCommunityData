@@ -24,8 +24,8 @@ rejoignez nous sur discord: SBBXmQ9
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (397)|
-| ELO Competitive | 1215 🔺  (543)|
+| ELO Regular | 1215 🔺  (398)|
+| ELO Competitive | 1215 🔺  (544)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
