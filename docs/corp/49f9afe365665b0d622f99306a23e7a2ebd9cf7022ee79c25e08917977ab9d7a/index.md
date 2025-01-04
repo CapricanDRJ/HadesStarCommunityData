@@ -29,7 +29,7 @@ gship for new members is much appreciated.🥰
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

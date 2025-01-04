@@ -29,7 +29,7 @@ or></size></b>
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 42 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

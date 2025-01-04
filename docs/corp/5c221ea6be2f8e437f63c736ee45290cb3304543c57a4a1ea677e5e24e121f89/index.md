@@ -20,7 +20,6 @@ date: 1729596634
 盟团:太阳系联邦
 企鹅（Q）群:<a>865904780</a>
 ```
-### [Discord](https://discord.gg/？)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -32,7 +31,7 @@ date: 1729596634
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

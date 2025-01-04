@@ -26,7 +26,7 @@ Looking for those who are interested in White Star missions
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

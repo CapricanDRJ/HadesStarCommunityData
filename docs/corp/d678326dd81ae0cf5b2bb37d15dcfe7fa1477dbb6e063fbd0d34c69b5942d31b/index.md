@@ -27,7 +27,7 @@ nguages: Hungarian, English.
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 7 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

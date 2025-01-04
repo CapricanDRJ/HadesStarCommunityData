@@ -25,7 +25,7 @@ Red Star Farmers           Currently in Chapter 11 reorganization.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

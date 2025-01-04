@@ -29,7 +29,7 @@ ccount inGame to be a member. InGame space is prioritized for running
 | Losses | 32 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

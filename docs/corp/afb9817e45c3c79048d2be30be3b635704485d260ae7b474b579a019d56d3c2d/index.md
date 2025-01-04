@@ -28,7 +28,7 @@ n>加入本团的人请加企鹅群834525007<color=yellow>不活跃不参与白�
 | Losses | 13 |
 | Draws | 3 |
 | Streak Record | 5 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

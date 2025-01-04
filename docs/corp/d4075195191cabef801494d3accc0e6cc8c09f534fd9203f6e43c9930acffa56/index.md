@@ -28,7 +28,7 @@ Vordergrund.
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

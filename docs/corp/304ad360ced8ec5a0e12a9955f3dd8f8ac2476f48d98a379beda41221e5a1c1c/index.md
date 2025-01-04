@@ -27,7 +27,7 @@ me.
 | Wins | 3 |
 | Losses | 18 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

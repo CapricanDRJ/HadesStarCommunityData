@@ -26,7 +26,7 @@ We don't care. You should try it.
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

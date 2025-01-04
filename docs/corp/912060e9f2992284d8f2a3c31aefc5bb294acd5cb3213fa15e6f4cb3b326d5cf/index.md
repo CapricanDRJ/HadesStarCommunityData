@@ -18,7 +18,7 @@ WS Intro corp for the
 
 Join discord for chat, advice and laughter:
 
-https://discord.gg/gBFFE5x
+gBFFE5x
 
 od-family.com
 ```
@@ -32,7 +32,7 @@ od-family.com
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

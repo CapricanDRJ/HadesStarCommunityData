@@ -35,7 +35,7 @@ Galaxian : RS1-6
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

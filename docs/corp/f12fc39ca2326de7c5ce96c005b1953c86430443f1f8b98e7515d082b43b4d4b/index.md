@@ -18,7 +18,7 @@ Regular white stars.
 
 Part of Red Star Raiders alliance
 
-https://discord.gg/nUgqhbn
+[discord url]
 ```
 ### [Discord](https://discord.gg/nUgqhbn)
 ### Whitestar Bonus ❌
@@ -32,7 +32,7 @@ https://discord.gg/nUgqhbn
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 11 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

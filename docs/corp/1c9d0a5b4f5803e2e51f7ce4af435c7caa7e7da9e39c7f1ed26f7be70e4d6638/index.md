@@ -15,7 +15,6 @@ date: 1700841235
 ```
 Just a group of friends enjoying the game
 ```
-### [Discord](https://discord.gg/cRXreAcJZw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ Just a group of friends enjoying the game
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

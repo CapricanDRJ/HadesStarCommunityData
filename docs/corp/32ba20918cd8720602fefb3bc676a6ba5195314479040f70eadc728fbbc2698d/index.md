@@ -17,7 +17,6 @@ date: 1735635595
 e usually do WS once a week with a day in between searches. If you in
 dicate you will participate and dont you will be kicked.
 ```
-### [Discord](https://discord.gg/Fhks7wPV)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ dicate you will participate and dont you will be kicked.
 | Losses | 25 |
 | Draws | 2 |
 | Streak Record | 10 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

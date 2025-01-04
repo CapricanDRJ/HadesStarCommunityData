@@ -26,7 +26,7 @@ just relax, bro.
 | Losses | 27 |
 | Draws | 2 |
 | Streak Record | 5 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

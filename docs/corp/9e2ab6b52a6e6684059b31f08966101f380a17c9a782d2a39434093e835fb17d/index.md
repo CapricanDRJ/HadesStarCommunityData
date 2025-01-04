@@ -29,7 +29,7 @@ type of stars veterans and beginners. International.
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 11 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

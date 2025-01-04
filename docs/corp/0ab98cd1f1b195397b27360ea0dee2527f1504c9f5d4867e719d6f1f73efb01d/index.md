@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Grunthal Gang
-description: W:44 L:30 D:0 Bonus ❌
+description: W:45 L:30 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735096271
+date: 1735958915
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,21 +15,21 @@ date: 1735096271
 ```
 Grunthal Gang is a competitive corp of international players offering
  daily RS and WS. Please join discord if you'd like to become a membe
-r of our corp. https://discord.gg/jUQReQtRJN
+r of our corp. [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
-### Whitestar Bonus ❌
+### [Discord](https://discord.gg/jUQReQtRJN)
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1371 🔻  (78)|
-| ELO Competitive | 1518 🔻  (41)|
-| Total Matches | 74 |
-| Wins | 44 |
+| ELO Regular | 1377 🔺  (75)|
+| ELO Competitive | 1529 🔺  (39)|
+| Total Matches | 75 |
+| Wins | 45 |
 | Losses | 30 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 14 |
+| Flagship | 0 |
 
 ---
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734664271,1734048303,1733451547,1732332204,1731862848,1731245923,1730746485,1730219114,1729686922,1729023697,1728293963,1727684506,1726950409,1724771883,1724192805,1723581551,1722206421,1721502891,1721013944,1720445909,1719846060,1719260684,1718557482,1717831563,1717065701,1716472514,1715760760,1715210934,1714583482,1713916453,1713449564,1712937844,1712378360,1711802041,1711209197,1710595034,1710546056,1709893898,1709352286,1708757024,1708749513,1708136502,1708092628,1707538056,1707008715,1706996998,1706552239,1706542019,1706101761,1706065405,1705469181,1705426509,1704964321,1704892198,1704410178,1704408676,1703960005,1703915825,1703410652,1703352653,1702818407,1702805182,1702270217,1702257598,1701740654,1701717812,1701193969,1701193668,1700659581,1700165791,1699668290,1699663481,1699175434,1699108426];
+        let timestamps = [1735526915,1734664271,1734048303,1733451547,1732332204,1731862848,1731245923,1730746485,1730219114,1729686922,1729023697,1728293963,1727684506,1726950409,1724771883,1724192805,1723581551,1722206421,1721502891,1721013944,1720445909,1719846060,1719260684,1718557482,1717831563,1717065701,1716472514,1715760760,1715210934,1714583482,1713916453,1713449564,1712937844,1712378360,1711802041,1711209197,1710595034,1710546056,1709893898,1709352286,1708757024,1708749513,1708136502,1708092628,1707538056,1707008715,1706996998,1706552239,1706542019,1706101761,1706065405,1705469181,1705426509,1704964321,1704892198,1704410178,1704408676,1703960005,1703915825,1703410652,1703352653,1702818407,1702805182,1702270217,1702257598,1701740654,1701717812,1701193969,1701193668,1700659581,1700165791,1699668290,1699663481,1699175434,1699108426];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 3 | 0 | 0 | 3 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 2 | 6 | 0 | 8 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 3 | 2 | 0 | 5 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 6 | 3 | 0 | 9 |
@@ -147,7 +148,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 1 | 1 | 0 | 2 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 3 | 0 | 0 | 3 |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 0 | 0 | 2 |
 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) | 2 | 0 | 0 | 2 |
 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) | 1 | 1 | 0 | 2 |
 
@@ -156,6 +156,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/04 | 66-11 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2024/12/25 | 21-58 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2024/12/18 | 49-38 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/12/11 | 32-27 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |

@@ -29,7 +29,7 @@ WS pilots in the game owe their pedigree to Watchers-I and now we are
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

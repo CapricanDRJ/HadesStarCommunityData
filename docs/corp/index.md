@@ -331,7 +331,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) | 1180 | 1254 | 41 |
 | [Green Dwarf](https://ws.tsl.rocks/corp/dbfbd1738d98b2f1a9419727fde30070aae0f158a0aa36a78561489c2bb3283a/) | 1247 | 1262 | 5 |
 | [Gregycool](https://ws.tsl.rocks/corp/f3d8710927bd368f1c3120cd4d2f0b3130f4ba478e4bdee0555ced460ba56b1a/) | 1186 | 1186 | 1 |
-| [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1371 | 1518 | 74 |
+| [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1377 | 1529 | 75 |
 | [Gulinga](https://ws.tsl.rocks/corp/63ab273ab0cfc2919038a10f1641498d1beb4496658f7c5a0fee55c2518815fe/) | 1171 | 1171 | 2 |
 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 1067 | 1124 | 32 |
 | [Gwiezdna Horda](https://ws.tsl.rocks/corp/f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18/) | 1255 | 1255 | 4 |
@@ -993,7 +993,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) | 1276 | 1418 | 47 |
 | [ brazil com\.](https://ws.tsl.rocks/corp/c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/) | 1186 | 1186 | 1 |
 | [ Eligius ](https://ws.tsl.rocks/corp/13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/) | 1190 | 1190 | 3 |
-| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1350 | 1605 | 117 |
+| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1356 | 1610 | 118 |
 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1126 | 1248 | 39 |
 | [ 星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1234 | 1236 | 4 |
 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1189 | 1190 | 12 |
@@ -1054,7 +1054,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Коллайдер](https://ws.tsl.rocks/corp/60b398d181ae0f2807c11d2c7cbff43c29592e2dc7106158ecda8d7222c6b5e0/) | 1188 | 1188 | 1 |
 | [Корпорация](https://ws.tsl.rocks/corp/1b46f51633e76a78a92c3a74b8ae0afc51df5caea195357b98bb56fa9ee03cfa/) | 1185 | 1185 | 1 |
 | [Корпорация Миф](https://ws.tsl.rocks/corp/605aa7df348e96fcaa0cb9dc5c1f37a87fb8991ae0694b9ff21d1f4fee54aa88/) | 1303 | 1305 | 8 |
-| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1087 | 1336 | 95 |
+| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1082 | 1331 | 96 |
 | [Летящий орел](https://ws.tsl.rocks/corp/b39cf2a8d810702af7ba4a49d383736861e0c60d0b10c9934ad8414c4b41d8ef/) | 1190 | 1194 | 1 |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 1365 | 1461 | 73 |
 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 1035 | 1073 | 21 |
@@ -1298,7 +1298,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) | 1099 | 1269 | 70 |
 | [神貓聯盟](https://ws.tsl.rocks/corp/b0060a680643209d5d36af067edd941d1c2208dec911b04a998d4c8c482427a5/) | 1171 | 1171 | 2 |
 | [第一基地·端点星](https://ws.tsl.rocks/corp/8ca1d48f76f54d7c1ccc21058960d5ebdebf2794ceebd71d701d4d3eca557489/) | 1185 | 1185 | 1 |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1140 | 1435 | 91 |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1134 | 1424 | 92 |
 | [第三共产星际世界](https://ws.tsl.rocks/corp/2945f8f36a07056c2d9f1a03534b942587153110fb949efe56ae633c457c77fc/) | 1178 | 1192 | 2 |
 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89/) | 1205 | 1212 | 4 |
 | [第五星际](https://ws.tsl.rocks/corp/8f0d25fe4c802f32f4d3d4ad1a84583c5ae98e4a788a1fa260ef9bd70268818b/) | 1216 | 1217 | 5 |

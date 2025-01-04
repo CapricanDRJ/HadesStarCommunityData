@@ -17,7 +17,6 @@ Welcome my corporation the task its a simple a destory cerberus ship
 and destory cerberus base have fun yeah :) we didnt have discord. <#F
 F0000> we are in weak corporation and needs fixed
 ```
-### [Discord](https://discord.gg/Discord)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ F0000> we are in weak corporation and needs fixed
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

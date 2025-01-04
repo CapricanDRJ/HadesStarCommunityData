@@ -30,7 +30,7 @@ QQ群：362076387，申请前请加入QQ群
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

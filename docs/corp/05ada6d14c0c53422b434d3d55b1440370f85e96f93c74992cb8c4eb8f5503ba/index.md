@@ -17,7 +17,6 @@ Level 8, 9, and 10 artifacts available to all who join!  White Star p
 articipation appreciated.                            No experience re
 quired. We can help speed your progress :)
 ```
-### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ quired. We can help speed your progress :)
 | Losses | 25 |
 | Draws | 3 |
 | Streak Record | 12 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

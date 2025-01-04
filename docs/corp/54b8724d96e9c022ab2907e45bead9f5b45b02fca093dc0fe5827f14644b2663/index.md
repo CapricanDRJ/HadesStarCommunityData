@@ -26,7 +26,7 @@ Max period of inactivity: 3 days.
 
 English only.
 ```
-### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
+### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -38,7 +38,7 @@ English only.
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 21 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

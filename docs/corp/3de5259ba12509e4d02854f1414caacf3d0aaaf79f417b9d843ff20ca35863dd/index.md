@@ -14,7 +14,7 @@ date: 1735695694
 
 ```
 Discord and at least monthly WS participation required. Part of the m
-ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
+ulti-corp group, Astral Alliance [discord url]
 ```
 ### [Discord](https://discord.gg/gdwqCqc2VN)
 ### Whitestar Bonus ❌
@@ -28,7 +28,7 @@ ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 10 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

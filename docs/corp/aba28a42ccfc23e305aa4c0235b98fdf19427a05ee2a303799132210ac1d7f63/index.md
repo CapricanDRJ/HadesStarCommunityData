@@ -28,7 +28,7 @@ dig.
 | Wins | 0 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

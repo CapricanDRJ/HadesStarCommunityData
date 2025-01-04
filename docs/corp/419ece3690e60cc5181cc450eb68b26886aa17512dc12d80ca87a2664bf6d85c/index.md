@@ -26,7 +26,7 @@ Newbie and veterans welcome! Just a chill guild looking to have fun :
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

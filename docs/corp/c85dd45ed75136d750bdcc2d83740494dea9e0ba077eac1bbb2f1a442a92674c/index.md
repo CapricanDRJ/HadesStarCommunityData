@@ -18,7 +18,7 @@ Corvus Ind 🤍
 
 New players welcomed!
 
-Join via Discord: <color=yellow> https://discord.gg/vPsNNxs </color>
+Join via Discord: <color=yellow> [discord url] </color>
 
 Discord MANDATORY.
 We have awesome queue for rs runs!
@@ -35,7 +35,7 @@ We have awesome queue for rs runs!
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 16 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

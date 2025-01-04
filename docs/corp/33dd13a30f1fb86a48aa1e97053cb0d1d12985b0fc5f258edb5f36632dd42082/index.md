@@ -15,7 +15,6 @@ date: 1735624780
 ```
 别捐旗舰，其它随意
 ```
-### [Discord](https://discord.gg/agqGsygv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1735624780
 | Wins | 9 |
 | Losses | 31 |
 | Draws | 0 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

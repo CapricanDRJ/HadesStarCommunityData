@@ -28,7 +28,7 @@ to help each other. Weekly White Stars in our dedicated corp.
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

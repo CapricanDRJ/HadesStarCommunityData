@@ -27,7 +27,7 @@ Welcome to hang out. Very little going on around here.
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

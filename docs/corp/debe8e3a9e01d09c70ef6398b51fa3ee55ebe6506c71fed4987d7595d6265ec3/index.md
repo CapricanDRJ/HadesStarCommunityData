@@ -27,7 +27,7 @@ OR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP.
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -33,7 +33,7 @@ Winter Comes to Hades</b>
 | Wins | 3 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

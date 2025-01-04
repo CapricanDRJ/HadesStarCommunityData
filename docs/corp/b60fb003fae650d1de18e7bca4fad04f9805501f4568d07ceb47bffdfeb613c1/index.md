@@ -16,20 +16,19 @@ date: 1735217058
 "NEVER LEAVE HOPE UNTIL YOU DIE" -- NOX IMPERIUM,A friendly corp with
  weekly ws   and in a search of active players,no discord required 
 ```
-### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1402 🔺  (55)|
-| ELO Competitive | 1426 🔺  (112)|
+| ELO Competitive | 1426 🔺  (111)|
 | Total Matches | 24 |
 | Wins | 22 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak | 18 |
 | Streak Record | 18 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

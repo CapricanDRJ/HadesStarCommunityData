@@ -29,7 +29,7 @@ sporg). 3lt bpdp)(demin).(flech).
 | Draws | 3 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

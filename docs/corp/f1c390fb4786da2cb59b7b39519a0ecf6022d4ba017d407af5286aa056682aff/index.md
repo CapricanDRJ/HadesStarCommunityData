@@ -17,7 +17,6 @@ date: 1735293679
 yment. <color=yellow>Welcomes both newbies and veterans throughout th
 e Hades Galaxy. Join us and have fun 
 ```
-### [Discord](https://discord.gg/aCU5VZGc)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ e Hades Galaxy. Join us and have fun
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

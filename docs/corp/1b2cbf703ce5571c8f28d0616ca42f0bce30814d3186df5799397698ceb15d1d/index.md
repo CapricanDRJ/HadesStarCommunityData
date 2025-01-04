@@ -31,7 +31,7 @@ Discord: z38XKuM
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 15 |
+| Flagship | 0 |
 
 ---
 

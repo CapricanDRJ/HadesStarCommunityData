@@ -17,7 +17,6 @@ date: 1715630616
 llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 .         
 ```
-### [Discord](https://discord.gg/<b><color=black><size=33> discord no disponible )
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

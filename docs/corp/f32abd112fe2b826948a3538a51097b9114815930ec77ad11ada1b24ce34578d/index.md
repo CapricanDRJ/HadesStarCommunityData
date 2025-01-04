@@ -16,19 +16,18 @@ date: 1733633094
 只收中国人。每年必须要圣物。禁止骂人。活跃成员可赠送r7神器。
 
 ```
-### [Discord](https://discord.gg/1538)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1296)|
+| ELO Regular | 1083 🔻  (1295)|
 | ELO Competitive | 1101 🔻  (1328)|
 | Total Matches | 28 |
 | Wins | 7 |
 | Losses | 18 |
 | Draws | 3 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

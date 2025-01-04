@@ -14,10 +14,9 @@ date: 1710273158
 
 ```
 Help each other out. Don't be a dick. Chill out, have fun. Must be ac
-tive, no stress on speed. WS players wanted. Discord: https://discord
-.com/invite/2anpCUHkET
+tive, no stress on speed. WS players wanted. Discord: [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
+### [Discord](https://discord.gg/2anpCUHkET)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

@@ -29,7 +29,7 @@ ether to excel!
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

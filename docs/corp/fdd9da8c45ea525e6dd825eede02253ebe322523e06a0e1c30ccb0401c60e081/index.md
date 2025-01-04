@@ -15,7 +15,7 @@ date: 1732190565
 ```
 Anyone active welcome to join.
 
-https://discord.gg/p5GSVDDrSc
+p5GSVDDrSc
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ https://discord.gg/p5GSVDDrSc
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

@@ -33,7 +33,7 @@ RS9-11
 | Losses | 49 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

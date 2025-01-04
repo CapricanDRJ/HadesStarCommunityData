@@ -15,19 +15,19 @@ date: 1716807774
 ```
 Was once a White Star training corp is now a quiet corner of HS. If w
 e beat you, uninstall! Serious players unwelcome! Fun is our #1 polic
-y. 30days afk=kick https://discord.gg/g7HzK7s
+y. 30days afk=kick g7HzK7s
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1166)|
+| ELO Regular | 1138 🔻  (1165)|
 | ELO Competitive | 1171 🔻  (1093)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

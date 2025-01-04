@@ -26,7 +26,7 @@ RS4 to 7
 | Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

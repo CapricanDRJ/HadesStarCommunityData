@@ -21,7 +21,7 @@ Weekly White stars
 
 Please say hello on discord if you are interested in joining us.
 
-http://discord.gg/7fT6uru
+7fT6uru
 ```
 ### Whitestar Bonus ❌
 
@@ -33,7 +33,7 @@ http://discord.gg/7fT6uru
 | Wins | 0 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

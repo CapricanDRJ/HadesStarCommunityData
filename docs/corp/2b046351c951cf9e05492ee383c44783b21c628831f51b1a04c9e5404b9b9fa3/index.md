@@ -27,7 +27,7 @@ ing the higher-ups, being friendly, and helping your comrads out.
 | Losses | 8 |
 | Draws | 2 |
 | Streak Record | 6 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

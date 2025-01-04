@@ -15,7 +15,6 @@ date: 1713436849
 ```
 请去新团德意志阿尔法帝国
 ```
-### [Discord](https://discord.gg/A.R.F)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1713436849
 | Wins | 3 |
 | Losses | 26 |
 | Draws | 1 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

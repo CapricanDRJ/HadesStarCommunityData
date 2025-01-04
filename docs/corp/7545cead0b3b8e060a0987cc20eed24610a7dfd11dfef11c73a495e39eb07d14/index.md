@@ -16,7 +16,7 @@ date: 1710084164
 🔥Welcome to the Dark Legion training base. We welcome players of all
  nationalities and from all countries. 
 ```
-### [Discord](https://discord.gg/https://discord.gg/MY29hgT5ZE)
+### [Discord](https://discord.gg/MY29hgT5ZE)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +28,7 @@ date: 1710084164
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

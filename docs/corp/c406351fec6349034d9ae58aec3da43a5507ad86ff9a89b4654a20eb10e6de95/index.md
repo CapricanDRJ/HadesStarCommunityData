@@ -16,7 +16,6 @@ date: 1702812215
 Активная корпорация, ищем желающих на БЗ, так как активно участвуем в
  сражениях БЗ. Помогаем всем, а также новичкам. Рады всем!
 ```
-### [Discord](https://discord.gg/z7bNfXvC)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1702812215
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

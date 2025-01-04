@@ -16,7 +16,7 @@ date: 1706193880
 Taking active players of all levels. We prioritize team work and help
  players advance quickly. Three day inactivity tolerance
 
-Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
+Prioritizing White Stars. Discord: wZeNus6JEf
 ```
 ### Whitestar Bonus ❌
 
@@ -28,7 +28,7 @@ Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

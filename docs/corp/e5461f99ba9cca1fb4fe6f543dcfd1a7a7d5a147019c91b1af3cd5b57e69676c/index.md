@@ -25,7 +25,7 @@ welcome~
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

@@ -29,7 +29,7 @@ s required within 24 hours of joining.
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ ze=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ Discord: VjEnT6S
 | Wins | 0 |
 | Losses | 16 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

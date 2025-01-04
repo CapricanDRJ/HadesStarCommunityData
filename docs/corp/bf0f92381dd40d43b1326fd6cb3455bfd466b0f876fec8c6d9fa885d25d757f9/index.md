@@ -27,7 +27,7 @@ Eating bananas, tossing feces, and howling at passers-by. Like normal
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

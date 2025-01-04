@@ -25,7 +25,7 @@ Federation X.  I am mean, we're still here.  Why aren't you?
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

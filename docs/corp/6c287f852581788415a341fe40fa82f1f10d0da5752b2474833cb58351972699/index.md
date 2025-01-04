@@ -29,7 +29,7 @@ WS参加者募集中
 | Draws | 0 |
 | Streak | 7 |
 | Streak Record | 7 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

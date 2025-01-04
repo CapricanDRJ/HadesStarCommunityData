@@ -31,7 +31,7 @@ WDL 88/2/4
 | Draws | 0 |
 | Streak | 6 |
 | Streak Record | 7 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

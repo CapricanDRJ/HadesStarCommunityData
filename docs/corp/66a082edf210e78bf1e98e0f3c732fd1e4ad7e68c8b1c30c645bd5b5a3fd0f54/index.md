@@ -17,7 +17,7 @@ An <size=100>English</size> speaking, independent, <size=200><color=w
 hite><b>White-Star</b></color></size> corp with very <size=100><i>wei
 rd standards</i></size>.
 
-https://discord.gg/7KGYvMbPgK
+7KGYvMbPgK
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ https://discord.gg/7KGYvMbPgK
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

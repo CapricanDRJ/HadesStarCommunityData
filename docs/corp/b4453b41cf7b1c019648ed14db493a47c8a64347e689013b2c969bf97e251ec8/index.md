@@ -22,14 +22,14 @@ ce/
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1379 🔺  (73)|
-| ELO Competitive | 1428 🔺  (111)|
+| ELO Competitive | 1428 🔺  (110)|
 | Total Matches | 23 |
 | Wins | 19 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 9 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

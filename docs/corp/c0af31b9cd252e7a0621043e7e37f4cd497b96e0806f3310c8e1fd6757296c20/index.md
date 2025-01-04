@@ -16,7 +16,7 @@ date: 1709650270
 <size=50><color=#8f00ff>Jump into the wabbit hole ●</color></size> <c
 olor=#f0f30b>Wacky Warriors</color>
 ```
-### [Discord](https://discord.gg/https://discord.gg/knZXJWX)
+### [Discord](https://discord.gg/knZXJWX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +28,7 @@ olor=#f0f30b>Wacky Warriors</color>
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

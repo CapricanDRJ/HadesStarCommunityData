@@ -14,8 +14,7 @@ date: 1735670155
 
 ```
 Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy 
-cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
-.com/invite/v9vXJHAaKm
+cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. v9vXJHAaKm
 ```
 ### Whitestar Bonus ❌
 
@@ -28,7 +27,7 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 8 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

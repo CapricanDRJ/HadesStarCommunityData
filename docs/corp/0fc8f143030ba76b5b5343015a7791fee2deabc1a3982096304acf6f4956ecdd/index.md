@@ -16,7 +16,6 @@ date: 1702033497
 Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz disco
 rd.
 ```
-### [Discord](https://discord.gg/9EdXH7jF)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ rd.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 13 |
+| Flagship | 0 |
 
 ---
 

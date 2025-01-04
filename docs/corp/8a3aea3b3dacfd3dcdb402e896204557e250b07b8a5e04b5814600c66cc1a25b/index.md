@@ -32,7 +32,7 @@ RTA...</b>
 | Draws | 0 |
 | Streak | 5 |
 | Streak Record | 12 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

@@ -26,7 +26,7 @@ But now is a retirement home for solo rs. all are free to join
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

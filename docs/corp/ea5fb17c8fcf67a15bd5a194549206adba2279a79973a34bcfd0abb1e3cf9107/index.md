@@ -30,7 +30,7 @@ S. 18+, English. Discord - apply + RS queue.
 | Losses | 43 |
 | Draws | 2 |
 | Streak Record | 13 |
-| Flagship | 13 |
+| Flagship | 0 |
 
 ---
 

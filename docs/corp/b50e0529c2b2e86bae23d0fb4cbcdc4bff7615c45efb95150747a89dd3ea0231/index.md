@@ -17,7 +17,6 @@ Welcome aboard enlistee to Star Fleet, one of 3 main corps in the Fed
 eration. Please behave yourself adequately. We offer casual RS and co
 mp ws play. White dwarf will be stated every Friday. 
 ```
-### [Discord](https://discord.gg/2YebJryX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ mp ws play. White dwarf will be stated every Friday.
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

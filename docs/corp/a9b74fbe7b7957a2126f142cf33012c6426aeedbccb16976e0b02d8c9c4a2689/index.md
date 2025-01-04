@@ -16,7 +16,7 @@ date: 1703655723
 Welcome, my friends...
 Welcome, my enemies...
 Welcome, everyone... ;))
-https://discord.gg/TJuKzyR
+TJuKzyR
 ```
 ### Whitestar Bonus ❌
 
@@ -28,7 +28,7 @@ https://discord.gg/TJuKzyR
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -17,7 +17,6 @@ date: 1734352296
  to bring order to the galaxy and crush all who oppose the Empire. Jo
 in us or prepare to meet your destiny.
 ```
-### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ in us or prepare to meet your destiny.
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

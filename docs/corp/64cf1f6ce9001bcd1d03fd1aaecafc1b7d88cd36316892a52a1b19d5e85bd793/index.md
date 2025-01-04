@@ -17,7 +17,7 @@ date: 1725637514
 ard core WS focused players wanted. Discord comms essential. We are k
 een to improve WS results. Let's kick ass together!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J)
+### [Discord](https://discord.gg/cevpqFrB7J)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +29,7 @@ een to improve WS results. Let's kick ass together!
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

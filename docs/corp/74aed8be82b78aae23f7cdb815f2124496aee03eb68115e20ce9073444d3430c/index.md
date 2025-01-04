@@ -17,7 +17,6 @@ Primary language is English. Enjoy! Help the corporation to become a
 senior member. Fail to log, I will demote to member. 14 days no log i
 n and I will kick members. 
 ```
-### [Discord](https://discord.gg/yEGmdxCSd9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ n and I will kick members.
 | Wins | 2 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

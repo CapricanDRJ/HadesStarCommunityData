@@ -15,7 +15,6 @@ date: 1719449551
 ```
 Anyone who wants can join.
 ```
-### [Discord](https://discord.gg/https://discord.gg/hfh5fpT7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ Anyone who wants can join.
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

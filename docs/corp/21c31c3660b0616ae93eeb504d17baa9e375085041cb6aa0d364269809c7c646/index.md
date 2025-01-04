@@ -23,7 +23,7 @@ Weekly WS
 2022 WS Stats: 91.6% Win Rate
 
 Discord is mandatory:
-https://discord.gg/sYAuq5vAD4
+sYAuq5vAD4
 ```
 ### Whitestar Bonus ❌
 
@@ -35,7 +35,7 @@ https://discord.gg/sYAuq5vAD4
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -33,7 +33,7 @@ Discord is required.
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 5 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ seja {Brasileiro} e online!
 | Losses | 13 |
 | Draws | 3 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

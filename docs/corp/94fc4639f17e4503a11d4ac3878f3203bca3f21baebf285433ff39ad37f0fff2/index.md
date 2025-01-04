@@ -30,7 +30,7 @@ po no chat da corporação :D
 | Draws | 3 |
 | Streak | 3 |
 | Streak Record | 6 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

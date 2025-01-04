@@ -16,7 +16,6 @@ date: 1735043386
 The Empire of Light led by Lord Spirallis to be one of light rays in 
 space of this game. WS every week. Join us into the Light!
 ```
-### [Discord](https://discord.gg/pfsfZwqh)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ space of this game. WS every week. Join us into the Light!
 | Losses | 26 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

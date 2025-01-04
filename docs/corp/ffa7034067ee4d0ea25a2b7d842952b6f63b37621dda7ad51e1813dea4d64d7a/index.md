@@ -18,7 +18,7 @@ um zu wissen, wie weit er spritzt ~W.R.~
 Chatbeteiligung erwünscht!
 Tägl. RRs bis 10 ab 20:30
 
-https://discord.gg/ftuA2DGDR4
+ftuA2DGDR4
 
 03/2023
 ```
@@ -32,7 +32,7 @@ https://discord.gg/ftuA2DGDR4
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

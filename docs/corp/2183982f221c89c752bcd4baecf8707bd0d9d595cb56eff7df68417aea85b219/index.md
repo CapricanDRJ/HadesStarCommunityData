@@ -27,7 +27,7 @@ White Star scanner owner is promoted to seniour member.
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -16,7 +16,6 @@ date: 1731687844
 Those who move cargo.     English will be the primary language for co
 mmunication.
 ```
-### [Discord](https://discord.gg/AbsBfzPn)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ mmunication.
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

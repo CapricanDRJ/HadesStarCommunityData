@@ -18,7 +18,7 @@ ke friends, have fun, and enjoy the game!
 
 Discord required | Part of Astral Alliance
 ```
-### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
+### [Discord](https://discord.gg/naqEGjHA3B)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -30,7 +30,7 @@ Discord required | Part of Astral Alliance
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 20 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -26,7 +26,7 @@ we are actively recruiting, if you dont play- you dont stay)
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

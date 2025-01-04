@@ -16,7 +16,6 @@ date: 1716342684
 Welcome to the Thunderbears!  New and Active, learning the game toget
 her. Discord is a requirement. 
 ```
-### [Discord](https://discord.gg/ZnXzQ8uS)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ her. Discord is a requirement.
 | Wins | 3 |
 | Losses | 5 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

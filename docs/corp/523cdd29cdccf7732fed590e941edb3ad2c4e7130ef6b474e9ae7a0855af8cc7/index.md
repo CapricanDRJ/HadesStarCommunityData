@@ -17,9 +17,9 @@ Casual Corp. Terbuka untuk semua active player. Bagian dari Nusantara
  Empire (Majapahit, Sriwijaya, Cikopo & the COLLECTOR)
 
 Ingin menjadi anggota?
-Join Discord kita dulu: https://discord.gg/MCDb2Mt
+Join Discord kita dulu: [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt)
+### [Discord](https://discord.gg/MCDb2Mt)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -30,7 +30,7 @@ Join Discord kita dulu: https://discord.gg/MCDb2Mt
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

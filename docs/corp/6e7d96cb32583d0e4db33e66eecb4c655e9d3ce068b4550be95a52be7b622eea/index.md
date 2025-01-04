@@ -20,9 +20,9 @@ Chatsprache vorzugsweise Deutsch.
 
 Für Planung und Kommunikation außerhalb des Spiels
 
-https://discord.gg/CFhYyYave
+[discord url]
 ```
-### [Discord](https://discord.gg/https://discord.gg/nzkvKWGYft)
+### [Discord](https://discord.gg/nzkvKWGYft)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -33,7 +33,7 @@ https://discord.gg/CFhYyYave
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

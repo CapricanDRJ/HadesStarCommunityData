@@ -15,7 +15,7 @@ date: 1710338957
 ```
 New Corp looking for some regular playing members. 
 
-https://discord.gg/geRShvzM89
+geRShvzM89
 ```
 ### Whitestar Bonus ❌
 
@@ -28,7 +28,7 @@ https://discord.gg/geRShvzM89
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

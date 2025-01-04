@@ -16,7 +16,6 @@ date: 1705332614
 Just a small colonial empire seeking to control the galaxy.  We play 
 WS occasionally but we are very laid back when it comes to PVP.
 ```
-### [Discord](https://discord.gg/2vv3BUxj)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ WS occasionally but we are very laid back when it comes to PVP.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

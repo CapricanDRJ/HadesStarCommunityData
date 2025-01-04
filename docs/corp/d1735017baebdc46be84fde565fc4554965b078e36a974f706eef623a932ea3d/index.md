@@ -14,7 +14,7 @@ date: 1710112112
 
 ```
 
-https://discord.gg/aeZrWpH9YW
+aeZrWpH9YW
 ```
 ### Whitestar Bonus ❌
 
@@ -26,7 +26,7 @@ https://discord.gg/aeZrWpH9YW
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

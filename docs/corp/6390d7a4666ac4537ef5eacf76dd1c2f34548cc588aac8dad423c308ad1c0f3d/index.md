@@ -28,7 +28,7 @@ r〉南极星联盟成员
 | Losses | 26 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -30,7 +30,7 @@ eir economies.
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

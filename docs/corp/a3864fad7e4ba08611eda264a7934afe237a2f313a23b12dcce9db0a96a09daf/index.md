@@ -26,7 +26,7 @@ s.
 | Wins | 4 |
 | Losses | 8 |
 | Draws | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

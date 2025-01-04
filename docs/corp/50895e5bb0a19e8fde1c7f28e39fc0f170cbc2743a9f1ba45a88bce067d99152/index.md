@@ -20,7 +20,6 @@ date: 1729304228
 
 <color=red>Joining Discord is required for membership</color>
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/bpZe9bqY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -33,7 +32,7 @@ date: 1729304228
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

@@ -17,7 +17,7 @@ date: 1727398932
 这里也诚邀各位大佬的加入，集团职务根据白星贡献和活跃程度确定。
 集团内部qq群请务必在三天之内添加。
 内部qq群号：1092744803
-discord：https://discord.gg/BQkbAHaGj4
+discord：BQkbAHaGj4
 <size=64><color=red>如有意向参加白星可加入q群并前往分盟</color></size>
 ```
 ### Whitestar Bonus ❌
@@ -30,7 +30,7 @@ discord：https://discord.gg/BQkbAHaGj4
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -20,7 +20,7 @@ Keine Ich AG
 Familientauglich
 Aktive WZler Willkommen
 Discord nur für WZ Pflicht
-https://discord.gg/M35HmhvmC2
+M35HmhvmC2
 
 Mitglied der Tartaros Armada 
 ```
@@ -35,7 +35,7 @@ Mitglied der Tartaros Armada
 | Losses | 27 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

@@ -17,7 +17,7 @@ Subsidiary of Winged Pheonix Corporation.
 All are welcome! 
 Friendly and helpful community. 
 Please be active!
-Discord: https://discord.gg/BpszvZBQ
+Discord: BpszvZBQ
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ Discord: https://discord.gg/BpszvZBQ
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

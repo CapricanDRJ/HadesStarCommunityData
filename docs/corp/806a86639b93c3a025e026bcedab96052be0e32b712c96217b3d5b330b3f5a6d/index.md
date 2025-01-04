@@ -19,7 +19,7 @@ OntarioDynasty family of corps.
 
 Learn from experienced players
 Apply via Discord
-https://discord.gg/gBFFE5x
+[discord url]
 
 od-family.com
 ```
@@ -34,7 +34,7 @@ od-family.com
 | Wins | 9 |
 | Losses | 19 |
 | Draws | 0 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

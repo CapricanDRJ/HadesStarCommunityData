@@ -15,7 +15,7 @@ date: 1726496019
 ```
 Hi jeder aktive Spieler ist willkommen ! Wir suchen vor allem Spieler
  die am Weißen Zwerg teilnehmen möchten ! Deutsch und Englisch Bevorz
-ugt ! Discord Link. https://discord.gg/urC6aghBvF
+ugt ! Discord Link. urC6aghBvF
 ```
 ### Whitestar Bonus ❌
 
@@ -28,7 +28,7 @@ ugt ! Discord Link. https://discord.gg/urC6aghBvF
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

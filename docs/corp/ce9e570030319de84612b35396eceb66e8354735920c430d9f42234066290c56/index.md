@@ -34,7 +34,7 @@ Join Discord here: <b>EEpZuWf</b>
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

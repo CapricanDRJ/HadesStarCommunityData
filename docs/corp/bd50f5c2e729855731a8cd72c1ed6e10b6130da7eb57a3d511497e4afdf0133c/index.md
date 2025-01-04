@@ -17,7 +17,6 @@ An active cooperation with an emphasis on teamwork! With sharing expe
 rience, artifacts and red/white star joint efforts! Join us in the pu
 rsuit of power!
 ```
-### [Discord](https://discord.gg/hpNKcXkf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,9 +15,9 @@ date: 1735762100
 ```
 Corporation dedicated to develop advanced systems and explore the uni
 verse. The most advanced tactics for war and exploration of Red Dwarf
-s. Discord Chat: https://discord.com/invite/8w72hqsAAb
+s. Discord Chat: [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
+### [Discord](https://discord.gg/8w72hqsAAb)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +28,7 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 | Wins | 4 |
 | Losses | 13 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

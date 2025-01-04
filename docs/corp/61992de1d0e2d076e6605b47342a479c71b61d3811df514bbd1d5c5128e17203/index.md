@@ -17,7 +17,7 @@ date: 1714870056
 のんびりプレイが好きな人向き。
 新人さんでもご参加いただけます。
 
-https://discord.gg/95F5HQa
+95F5HQa
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ https://discord.gg/95F5HQa
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

@@ -30,7 +30,7 @@ Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

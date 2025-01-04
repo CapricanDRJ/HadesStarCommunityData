@@ -28,7 +28,7 @@ Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

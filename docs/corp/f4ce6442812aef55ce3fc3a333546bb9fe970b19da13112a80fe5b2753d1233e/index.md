@@ -27,7 +27,7 @@ NSE
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

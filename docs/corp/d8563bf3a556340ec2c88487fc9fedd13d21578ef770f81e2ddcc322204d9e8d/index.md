@@ -24,7 +24,6 @@ WS leaders: jwoods90 / ScTruF
 
 W/D/L - 60/1/2 </color>
 ```
-### [Discord](https://discord.gg/6P5MxXBNFW)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -35,7 +34,7 @@ W/D/L - 60/1/2 </color>
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

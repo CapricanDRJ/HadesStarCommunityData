@@ -27,7 +27,7 @@ ayers can use it as a quiet place to start.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

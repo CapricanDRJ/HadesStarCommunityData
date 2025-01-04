@@ -17,7 +17,6 @@ Kill or be Killed. We as Survivors  have banded together to take on a
 ll enemy forces! We are a small, recently created group of determined
  people doing WS & having fun.
 ```
-### [Discord](https://discord.gg/https://discord.gg/JsfWnkf7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ ll enemy forces! We are a small, recently created group of determined
 | Wins | 4 |
 | Losses | 14 |
 | Draws | 1 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -27,7 +27,7 @@ dly. We may run a casual White Star if we feel like it.
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

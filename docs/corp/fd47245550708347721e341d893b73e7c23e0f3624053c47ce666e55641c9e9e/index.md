@@ -28,7 +28,7 @@ on events. No alts.
 | Losses | 29 |
 | Draws | 2 |
 | Streak Record | 7 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

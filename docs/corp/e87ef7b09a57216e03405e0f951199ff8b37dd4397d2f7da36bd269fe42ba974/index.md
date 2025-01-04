@@ -16,7 +16,7 @@ date: 1719574274
 Corporation pour tous les francophones.
 Aide pour les nouveaux joueurs, déconne et apéro sur une étoile rouge
 .
-Lien de notre Discord : https://discord.gg/vs3fGvzkap
+Lien de notre Discord : vs3fGvzkap
 Merci Halkyr
 ```
 ### Whitestar Bonus ❌
@@ -31,7 +31,7 @@ Merci Halkyr
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

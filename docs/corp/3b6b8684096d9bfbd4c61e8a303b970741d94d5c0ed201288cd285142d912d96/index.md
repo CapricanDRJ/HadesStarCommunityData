@@ -17,7 +17,7 @@ aktiver Nachwuchskonzern im Aufbau
 Teamplay ist Vorraussetzung!
 z. B. RR Hilfe etc.! 
 Für WZ möchten wir die Teilnahme im Discord!
-https://discord.gg/pUXrxxt
+pUXrxxt
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ https://discord.gg/pUXrxxt
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

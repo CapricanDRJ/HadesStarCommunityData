@@ -15,7 +15,6 @@ date: 1701319101
 ```
 <color="green">Member Corp Of U.I.H</color>
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/fqPrfnrcfz)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1701319101
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

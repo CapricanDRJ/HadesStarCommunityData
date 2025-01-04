@@ -16,7 +16,6 @@ date: 1735499198
 WS & RS home of the Dwarf Corps. Please move to Yellow Dwarf (YD), Gr
 een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 ```
-### [Discord](https://discord.gg//invite/FtPf2FRUmU)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 10 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

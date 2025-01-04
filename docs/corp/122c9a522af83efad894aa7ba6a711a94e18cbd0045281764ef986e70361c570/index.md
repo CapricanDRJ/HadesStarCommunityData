@@ -17,7 +17,7 @@ Chill laid back corp looking for new and experienced players. Looking
  for active players.
 We run a weekly WS scanning on Saturday.
 Discord:
-https://discord.gg/wvk5YXqa4y
+wvk5YXqa4y
 ```
 ### Whitestar Bonus ❌
 
@@ -30,7 +30,7 @@ https://discord.gg/wvk5YXqa4y
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

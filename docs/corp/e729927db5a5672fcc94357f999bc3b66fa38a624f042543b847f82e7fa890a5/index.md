@@ -17,7 +17,6 @@ We are active with white stars.We are a corporation with the goal of
 helping new players and creating a community where everyone can thriv
 e together.Be active in chat and white stars for promotion
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/yeVYzgVS)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ e together.Be active in chat and white stars for promotion
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

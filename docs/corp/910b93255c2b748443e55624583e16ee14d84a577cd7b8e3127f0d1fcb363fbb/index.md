@@ -27,7 +27,7 @@ New!!! Join to expand!
 | Draws | 1 |
 | Streak | 7 |
 | Streak Record | 7 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

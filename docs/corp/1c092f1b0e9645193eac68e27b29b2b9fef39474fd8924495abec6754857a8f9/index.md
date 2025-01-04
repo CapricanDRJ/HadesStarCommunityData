@@ -15,7 +15,7 @@ date: 1729863503
 ```
 
 Idioma español
-Discord: https://discord.gg/szv4DVuHA5
+Discord: [discord url]
 Para pertenecer a la corporacion hay que participar y colaborar en al
 guna actividad con los demas compañeros 
 ```
@@ -31,7 +31,7 @@ guna actividad con los demas compañeros
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

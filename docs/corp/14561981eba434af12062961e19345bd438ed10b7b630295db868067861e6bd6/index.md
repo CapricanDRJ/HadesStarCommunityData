@@ -19,9 +19,9 @@ date: 1711683867
 Совместные полёты на КЗ
 <color=#00FFFF><size=65>Обмен артами ( ≤10 лвл )</size></color>
 
-https://discord.gg/H3ZnrmAYw5
+[discord url]
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PuhySY4)
+### [Discord](https://discord.gg/PuhySY4)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -32,7 +32,7 @@ https://discord.gg/H3ZnrmAYw5
 | Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

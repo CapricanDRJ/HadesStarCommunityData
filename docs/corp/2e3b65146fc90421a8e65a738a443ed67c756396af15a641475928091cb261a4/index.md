@@ -16,7 +16,7 @@ date: 1731848606
 We're here to help one and all. So join our corp, and move up togethe
 r.
 
-Find us on discord: https://discord.gg/u2VGhGRrFq
+Find us on discord: u2VGhGRrFq
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ Find us on discord: https://discord.gg/u2VGhGRrFq
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

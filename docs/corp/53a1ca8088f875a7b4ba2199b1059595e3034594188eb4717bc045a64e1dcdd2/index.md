@@ -29,7 +29,7 @@ telar, Alfa Omega GuistonRA
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 4 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

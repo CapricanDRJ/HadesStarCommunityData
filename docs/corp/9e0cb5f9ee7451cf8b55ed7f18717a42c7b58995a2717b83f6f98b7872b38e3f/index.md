@@ -31,7 +31,7 @@ Join via Discord: N3uPEvsFY9</color>
 | Wins | 7 |
 | Losses | 19 |
 | Draws | 1 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

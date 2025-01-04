@@ -15,7 +15,6 @@ date: 1726666751
 ```
 欢迎来到群星联盟
 ```
-### [Discord](https://discord.gg/…)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1726666751
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

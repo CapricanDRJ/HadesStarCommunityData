@@ -19,7 +19,7 @@ A highly cooperative and competitive organization, bent on building t
 he most elite force and the conquest of the known and unknown galaxy
 
 discord obligatory
-https://discord.gg/bAAYCqG2cE
+[discord url]
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ✅
@@ -34,7 +34,7 @@ https://discord.gg/bAAYCqG2cE
 | Draws | 2 |
 | Streak | 2 |
 | Streak Record | 7 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

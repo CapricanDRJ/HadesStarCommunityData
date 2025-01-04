@@ -17,7 +17,6 @@ The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the mo
 st seasoned Veterans. This corp is made for and of its members! It wo
 uld be an Honor that you would join us! >=)
 ```
-### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ uld be an Honor that you would join us! >=)
 | Losses | 37 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

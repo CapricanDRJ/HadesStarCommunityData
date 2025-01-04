@@ -17,7 +17,7 @@ Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE
  BLANCHE OBLIGATOIRE-DISCORD OBLIGATOIRE.Des rires, de l'entraide, de
 s WS
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/AXfZ6BVzjx)
+### [Discord](https://discord.gg/AXfZ6BVzjx)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -30,7 +30,7 @@ s WS
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

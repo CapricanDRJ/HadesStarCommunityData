@@ -16,7 +16,6 @@ date: 1730409510
 Consider joining the discord server. Participation in white star is s
 trongly recomended ;)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/ET3rEFXb)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ trongly recomended ;)
 | Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

@@ -17,7 +17,7 @@ Just for fun.
 To participate in white star missions we ask that you download discor
 d and join our server:
 
-https://discord.gg/gXvbHJm
+gXvbHJm
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ https://discord.gg/gXvbHJm
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

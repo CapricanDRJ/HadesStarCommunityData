@@ -19,7 +19,7 @@ We are also helpful and very active doing Red Stars and White Stars f
 requently. 
 
 Please join our Discord Server 
-https://discord.gg/Xt8tjjGdRD
+[discord url]
 
 ```
 ### [Discord](https://discord.gg/Xt8tjjGdRD)
@@ -33,7 +33,7 @@ https://discord.gg/Xt8tjjGdRD
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

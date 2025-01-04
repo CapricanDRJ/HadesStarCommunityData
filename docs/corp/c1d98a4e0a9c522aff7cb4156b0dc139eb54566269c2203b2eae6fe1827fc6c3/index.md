@@ -28,7 +28,7 @@ s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -27,7 +27,7 @@ Join the discord! No flagship donations.
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 15 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

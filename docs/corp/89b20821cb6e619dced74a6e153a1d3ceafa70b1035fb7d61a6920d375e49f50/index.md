@@ -28,7 +28,7 @@ ons! //You must Join our Discord within 7 days
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -26,7 +26,7 @@ date: 1725065653
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

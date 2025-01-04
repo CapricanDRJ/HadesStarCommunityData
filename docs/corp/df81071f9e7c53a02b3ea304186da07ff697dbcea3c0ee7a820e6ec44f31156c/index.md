@@ -18,7 +18,6 @@ Corpo sans prise de tête pour joueurs occasionnel/débutants
 Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
  
 ```
-### [Discord](https://discord.gg/https://discord.gg/V8HYqRZH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ LP GUIDE @ https://userxinos.github.io/HadesSpace/
 | Losses | 3 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

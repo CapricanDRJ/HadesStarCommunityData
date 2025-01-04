@@ -15,7 +15,7 @@ date: 1718644633
 ```
 Que la fuerza te acompañe
 discord:
-https://discord.gg/3PDKPau
+3PDKPau
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ https://discord.gg/3PDKPau
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

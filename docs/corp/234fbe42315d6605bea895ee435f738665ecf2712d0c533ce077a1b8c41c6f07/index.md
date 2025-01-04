@@ -25,7 +25,6 @@ HVgvAaF
 
 (PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
-### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -36,7 +35,7 @@ HVgvAaF
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

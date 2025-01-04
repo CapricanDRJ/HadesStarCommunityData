@@ -21,7 +21,6 @@ app. Es de carácter obligatorio...
 Alianza de Corporaciones
 AXOLOTLS
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -32,7 +31,7 @@ AXOLOTLS
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

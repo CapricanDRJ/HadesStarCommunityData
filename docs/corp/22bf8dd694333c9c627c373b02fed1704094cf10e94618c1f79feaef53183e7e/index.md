@@ -22,7 +22,6 @@ date: 1735482671
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### [Discord](https://discord.gg/新星团总部)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -34,7 +33,7 @@ date: 1735482671
 | Losses | 18 |
 | Draws | 2 |
 | Streak Record | 5 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

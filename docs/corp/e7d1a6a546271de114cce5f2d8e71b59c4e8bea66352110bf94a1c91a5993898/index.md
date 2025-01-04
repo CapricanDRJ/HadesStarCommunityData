@@ -25,7 +25,7 @@ This corporation is no longer active.
 | Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

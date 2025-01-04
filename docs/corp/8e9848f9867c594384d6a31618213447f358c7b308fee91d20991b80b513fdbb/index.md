@@ -27,7 +27,7 @@ Vulnera Virtutem Vivificant
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 10 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

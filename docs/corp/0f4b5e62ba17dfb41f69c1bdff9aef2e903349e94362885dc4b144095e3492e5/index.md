@@ -17,7 +17,6 @@ date: 1703958954
 екватность, от нас любая возможная помощь, небезразличные учасники, п
 одключаемся к каналу дискорд и ватсап 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/2bQ8kZ8n)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1703958954
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

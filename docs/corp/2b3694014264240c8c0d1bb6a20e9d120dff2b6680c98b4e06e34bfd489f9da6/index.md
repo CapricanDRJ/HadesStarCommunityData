@@ -15,7 +15,6 @@ date: 1735173794
 ```
 Start here. Figure things out. Have fun.
 ```
-### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ Start here. Figure things out. Have fun.
 | Wins | 3 |
 | Losses | 6 |
 | Draws | 1 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

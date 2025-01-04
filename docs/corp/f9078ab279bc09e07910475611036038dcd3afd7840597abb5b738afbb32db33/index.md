@@ -15,7 +15,6 @@ date: 1735377810
 ```
 the official USAR (usar is a micronation) corporation.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/G3xv4sqYvq)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ the official USAR (usar is a micronation) corporation.
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

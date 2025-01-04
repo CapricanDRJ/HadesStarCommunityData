@@ -17,7 +17,7 @@ Wir bieten: gemeinsame rr/drr bis 11, wöchentliche WZ, Spaß, Tipps, H
 ilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordse
 rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
+### [Discord](https://discord.gg/a5t3JQP2hM)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -30,7 +30,7 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 | Draws | 0 |
 | Streak | 6 |
 | Streak Record | 6 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

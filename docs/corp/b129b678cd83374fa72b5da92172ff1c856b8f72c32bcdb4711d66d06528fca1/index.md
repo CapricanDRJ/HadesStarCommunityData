@@ -29,7 +29,7 @@ active! We are actively looking for White Star Players
 | Losses | 27 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -14,7 +14,7 @@ date: 1735563487
 
 ```
 United Fleet Operations:
-https://discord.gg/NuvtUTUxQj 
+NuvtUTUxQj 
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ https://discord.gg/NuvtUTUxQj
 | Losses | 12 |
 | Draws | 2 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

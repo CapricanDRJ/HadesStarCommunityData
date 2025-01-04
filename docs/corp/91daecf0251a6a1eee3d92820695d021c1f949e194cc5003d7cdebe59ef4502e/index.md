@@ -16,7 +16,7 @@ date: 1705901181
 ForWSyielders: Looking for best yield in credit/ws point.
 But there is not more of it in DN now...
 
-https://discord.gg/fCsvae5yXv
+[discord url]
 ```
 ### [Discord](https://discord.gg/fCsvae5yXv)
 ### Whitestar Bonus ❌
@@ -30,7 +30,7 @@ https://discord.gg/fCsvae5yXv
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

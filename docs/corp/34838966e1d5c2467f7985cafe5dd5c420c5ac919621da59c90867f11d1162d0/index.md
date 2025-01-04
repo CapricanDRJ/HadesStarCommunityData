@@ -14,10 +14,9 @@ date: 1731223255
 
 ```
 <color=green>WELCOME TO NERF TOY'S </color> always looking for active
- players. <color=red>discord required https://discord.gg/C5HUwQdS <co
-lor=yellow>weekly WS's and daily Corp runs
+ players. <color=red>discord required [discord url] <color=yellow>wee
+kly WS's and daily Corp runs
 ```
-### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ lor=yellow>weekly WS's and daily Corp runs
 | Losses | 35 |
 | Draws | 2 |
 | Streak Record | 3 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

@@ -17,7 +17,7 @@ It's official branch of PAndORe Corp., more information in discord. S
 ince 20 lvl - old membership, since 35 lvl - officer's membership (ex
 cept 1st twenty members)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/sdxrxgrEqQ)
+### [Discord](https://discord.gg/sdxrxgrEqQ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +29,7 @@ cept 1st twenty members)
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

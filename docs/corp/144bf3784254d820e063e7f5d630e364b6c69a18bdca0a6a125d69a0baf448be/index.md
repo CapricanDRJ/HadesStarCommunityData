@@ -16,7 +16,7 @@ date: 1721093092
 Dedicated to helping new and lower level players learn all aspects th
 e game and grow. Discord server linked below!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/NZqXs3FcKU)
+### [Discord](https://discord.gg/NZqXs3FcKU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +27,7 @@ e game and grow. Discord server linked below!
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

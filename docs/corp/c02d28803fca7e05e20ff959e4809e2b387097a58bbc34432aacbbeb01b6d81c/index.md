@@ -15,7 +15,7 @@ date: 1721569474
 ```
 We the Mandalorians are corp-based culture composed of members from m
 ultiple species and bound by a common creed, language, and code. Disc
-ord https://discord.gg/BdUFA9bhPE , This is the way.
+ord [discord url] , This is the way.
 ```
 ### [Discord](https://discord.gg/BdUFA9bhPE)
 ### Whitestar Bonus ❌
@@ -28,7 +28,7 @@ ord https://discord.gg/BdUFA9bhPE , This is the way.
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

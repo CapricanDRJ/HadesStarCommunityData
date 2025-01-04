@@ -22,7 +22,7 @@ Corporaciones aliadas:
 -Darknova
 -Unión latina
 -Свободный флот
-Discord: https://discord.gg/wnw8sSwy
+Discord: wnw8sSwy
 "Federación Versalles"
 ```
 ### Whitestar Bonus ✅
@@ -37,7 +37,7 @@ Discord: https://discord.gg/wnw8sSwy
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

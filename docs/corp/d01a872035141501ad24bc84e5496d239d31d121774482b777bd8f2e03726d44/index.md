@@ -14,8 +14,8 @@ date: 1733847489
 
 ```
 Welcome to Crimson Dawn. Be active & have fun.
-Ask an officer about discord or join the conversation at https://disc
-ord.gg/j5GeqTEx6E
+Ask an officer about discord or join the conversation at [discord url
+]
 ```
 ### [Discord](https://discord.gg/j5GeqTEx6E)
 ### Whitestar Bonus ❌
@@ -29,7 +29,7 @@ ord.gg/j5GeqTEx6E
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

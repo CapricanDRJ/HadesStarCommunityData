@@ -29,7 +29,7 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
 | Draws | 0 |
 | Streak | 14 |
 | Streak Record | 14 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

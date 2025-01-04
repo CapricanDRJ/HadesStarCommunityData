@@ -15,7 +15,6 @@ date: 1735323133
 ```
 вкладывать в флагман 2
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ date: 1735323133
 | Losses | 25 |
 | Draws | 2 |
 | Streak Record | 8 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -29,7 +29,7 @@ color> focus.
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

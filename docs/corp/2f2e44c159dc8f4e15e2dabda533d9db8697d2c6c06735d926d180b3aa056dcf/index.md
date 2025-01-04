@@ -16,7 +16,6 @@ date: 1734788893
 We  welcome all to join us, we will do our best to help you grow. we 
 do a weekly White Star and we have a Active player base!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/TMcbGqzZ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ do a weekly White Star and we have a Active player base!
 | Losses | 13 |
 | Draws | 2 |
 | Streak Record | 6 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

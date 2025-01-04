@@ -16,7 +16,7 @@ date: 1703858281
 Добро пожаловать в <color=white>КВАЗАР</color>! корпорация,затмевающа
 я своим светом все грани тёмной материи || белые звёзда по пятницам
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/cQeTUP2e4b)
+### [Discord](https://discord.gg/cQeTUP2e4b)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +27,7 @@ date: 1703858281
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

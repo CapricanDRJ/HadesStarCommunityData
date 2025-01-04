@@ -19,7 +19,7 @@ Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discor
 dzie.
 
 Discord obowiązkowy:
-https://discord.gg/qWTndzwmtX
+qWTndzwmtX
 ```
 ### Whitestar Bonus ❌
 
@@ -33,7 +33,7 @@ https://discord.gg/qWTndzwmtX
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

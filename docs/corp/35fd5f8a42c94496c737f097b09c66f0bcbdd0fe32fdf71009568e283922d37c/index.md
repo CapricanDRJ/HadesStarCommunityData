@@ -29,7 +29,7 @@ Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

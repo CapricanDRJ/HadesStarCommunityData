@@ -15,7 +15,6 @@ date: 1730868965
 ```
 Korea Aerospace Research Institute
 ```
-### [Discord](https://discord.gg/https://discord.gg/rxhQwwna)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ Korea Aerospace Research Institute
 | Wins | 2 |
 | Losses | 66 |
 | Draws | 0 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

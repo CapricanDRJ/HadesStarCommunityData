@@ -30,7 +30,7 @@ eratists<br><br><color=red>ДС обязателен
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 5 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

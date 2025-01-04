@@ -26,7 +26,7 @@ Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace.
 | Wins | 0 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

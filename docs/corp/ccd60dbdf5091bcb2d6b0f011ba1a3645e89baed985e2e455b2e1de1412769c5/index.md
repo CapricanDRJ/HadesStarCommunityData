@@ -16,7 +16,6 @@ date: 1708320893
 <color=#aa00ff><i>Everything</i> within warp range belongs to us.</co
 lor>
 ```
-### [Discord](https://discord.gg/vVPYEVWtV7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ lor>
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

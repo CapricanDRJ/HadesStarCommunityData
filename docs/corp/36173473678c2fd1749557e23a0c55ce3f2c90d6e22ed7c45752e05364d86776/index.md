@@ -15,7 +15,7 @@ date: 1708788469
 ```
 Innovative corp looking for active players, we love to help each othe
 r and clearout whole red stars :)
-join our Discord - https://discord.gg/P3ZAdzA
+join our Discord - P3ZAdzA
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ join our Discord - https://discord.gg/P3ZAdzA
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

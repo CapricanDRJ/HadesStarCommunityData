@@ -26,7 +26,7 @@ vity leads to being kicked out.We play without discord.Have fun!
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

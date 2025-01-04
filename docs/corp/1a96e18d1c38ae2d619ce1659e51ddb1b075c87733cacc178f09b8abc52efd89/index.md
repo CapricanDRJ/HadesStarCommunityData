@@ -26,7 +26,7 @@ gg/i/27LVznwk
 | Wins | 1 |
 | Losses | 5 |
 | Draws | 1 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

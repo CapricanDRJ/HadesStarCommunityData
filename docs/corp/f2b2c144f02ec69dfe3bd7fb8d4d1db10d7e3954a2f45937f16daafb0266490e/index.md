@@ -17,7 +17,6 @@ date: 1718926373
 .                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "
 를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]
 ```
-### [Discord](https://discord.gg/invite/5K3vCNNBD9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1718926373
 | Losses | 14 |
 | Draws | 3 |
 | Streak Record | 7 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

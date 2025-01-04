@@ -31,7 +31,7 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 6 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

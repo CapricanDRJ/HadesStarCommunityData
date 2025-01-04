@@ -27,7 +27,7 @@ Poggy Rockers in the house tonight
 | Losses | 21 |
 | Draws | 3 |
 | Streak Record | 15 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

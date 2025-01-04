@@ -28,7 +28,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

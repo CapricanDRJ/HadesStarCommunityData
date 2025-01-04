@@ -27,7 +27,7 @@ atividade e quando tiver 10 membros na disposição bora pra ws
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

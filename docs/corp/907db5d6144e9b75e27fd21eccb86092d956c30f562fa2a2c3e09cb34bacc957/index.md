@@ -13,7 +13,7 @@ date: 1709390352
 
 
 ```
-Join our Discord https://discord.gg/UdS5DmQJRh
+Join our Discord UdS5DmQJRh
 ```
 ### Whitestar Bonus ❌
 
@@ -25,7 +25,7 @@ Join our Discord https://discord.gg/UdS5DmQJRh
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

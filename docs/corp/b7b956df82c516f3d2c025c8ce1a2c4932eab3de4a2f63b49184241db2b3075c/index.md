@@ -17,7 +17,6 @@ Friendly and helpful. Open to all. Discord is required.
 
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
-### [Discord](https://discord.gg/CzUVew5w)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ Note- Discord link is updated. Will expire in 7 DAYS
 | Losses | 18 |
 | Draws | 2 |
 | Streak Record | 12 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

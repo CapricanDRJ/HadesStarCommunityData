@@ -16,19 +16,19 @@ date: 1705458831
 need active players. If you want to participate in WS you have to joi
 n the discord. Trading and co-op RS also available.
 ```
-### [Discord](https://discord.gg/https://discord.gg/DpavCfx8XJ)
+### [Discord](https://discord.gg/DpavCfx8XJ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1171)|
+| ELO Regular | 1137 🔻  (1170)|
 | ELO Competitive | 1218 🔻  (513)|
 | Total Matches | 19 |
 | Wins | 6 |
 | Losses | 11 |
 | Draws | 2 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,6 @@ date: 1729536238
 ```
 WEEKLY WS & JOIN DISCORD 
 ```
-### [Discord](https://discord.gg/https://discord.gg/vB32Cbey)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ WEEKLY WS & JOIN DISCORD
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -34,7 +34,7 @@ Discord-Free White Star
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

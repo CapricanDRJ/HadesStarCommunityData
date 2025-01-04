@@ -29,7 +29,7 @@ cja odbywa się poprzez nasz kanał Discord.
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

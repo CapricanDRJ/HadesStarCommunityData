@@ -26,7 +26,7 @@ Wir sind ein deutschprachiger Konzern.
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

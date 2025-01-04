@@ -20,7 +20,6 @@ date: 1703552345
 Language: English-Spanish
 Discord: pxSK3vbe</color></b>
 ```
-### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -32,7 +31,7 @@ Discord: pxSK3vbe</color></b>
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

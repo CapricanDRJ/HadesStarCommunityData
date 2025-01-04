@@ -27,7 +27,7 @@ open via discord to visitors. We are a tight-knit and supportive crew
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

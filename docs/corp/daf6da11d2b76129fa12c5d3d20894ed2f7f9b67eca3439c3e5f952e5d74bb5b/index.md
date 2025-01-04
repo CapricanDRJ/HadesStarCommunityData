@@ -27,7 +27,7 @@ ze></b></color>
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

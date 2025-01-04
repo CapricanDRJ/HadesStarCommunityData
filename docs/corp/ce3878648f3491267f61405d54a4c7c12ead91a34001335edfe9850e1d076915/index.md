@@ -13,8 +13,7 @@ date: 1703188801
 
 
 ```
-Be nice and be active, we will support you on your way up :) https://
-discord.com/invite/3z6EWUq5
+Be nice and be active, we will support you on your way up :) 3z6EWUq5
 ```
 ### Whitestar Bonus ❌
 
@@ -26,7 +25,7 @@ discord.com/invite/3z6EWUq5
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

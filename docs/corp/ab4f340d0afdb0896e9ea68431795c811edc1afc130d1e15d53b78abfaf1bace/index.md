@@ -15,7 +15,6 @@ date: 1710456150
 ```
 Добро пожаловать в мой мир
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/WRdbp8Xg)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1710456150
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

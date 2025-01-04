@@ -26,7 +26,7 @@ Home for travelers across the multiverse
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

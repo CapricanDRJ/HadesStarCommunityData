@@ -28,7 +28,7 @@ Our leader is writing a good description, please join the corp, enjoy
 | Losses | 29 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

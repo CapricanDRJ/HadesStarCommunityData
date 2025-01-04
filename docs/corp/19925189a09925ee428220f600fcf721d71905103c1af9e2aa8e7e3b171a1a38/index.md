@@ -28,7 +28,7 @@ Sister corporations: TeddisaurusWrex, Armored Union
 | Losses | 52 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

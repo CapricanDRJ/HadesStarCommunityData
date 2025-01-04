@@ -30,7 +30,7 @@ S2 donations welcome.
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 18 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

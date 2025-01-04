@@ -18,7 +18,6 @@ date: 1733301411
 友好关系：绛紫星
 Q：650722059
 ```
-### [Discord](https://discord.gg/akTfXJGv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ Q：650722059
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

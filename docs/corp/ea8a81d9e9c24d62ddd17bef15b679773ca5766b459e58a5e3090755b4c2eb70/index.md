@@ -16,7 +16,7 @@ date: 1699193919
 Ouvert dans l'entraide et la bonne humeur à tous les joueurs occasion
 nels comme pour les plus actifs.
 
-rejoignez nous sur discord: https://discord.gg/SBBXmQ9
+rejoignez nous sur discord: SBBXmQ9
 
 "Vers l'infini et l'otter space !"
 ```
@@ -30,7 +30,7 @@ rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

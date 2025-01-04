@@ -28,7 +28,7 @@ bis 11 genauso. ganz entspannt. WZ wöchentlich 😀
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

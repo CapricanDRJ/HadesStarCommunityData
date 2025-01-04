@@ -28,7 +28,7 @@ The sunset of the dying star was covered in drops of mercury.
 | Draws | 0 |
 | Streak | 43 |
 | Streak Record | 43 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

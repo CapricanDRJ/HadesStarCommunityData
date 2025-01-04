@@ -17,7 +17,7 @@ This is (not) Cinderblock.
 
 WS only: Opt in to scan, only if you are willing to sacrifice 1 battl
 eship and 1 support ship for 5 days.
-The Corporation's Discord = https://discord.gg/w2HZf2cwc2
+The Corporation's Discord = w2HZf2cwc2
 ```
 ### Whitestar Bonus ❌
 
@@ -30,7 +30,7 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

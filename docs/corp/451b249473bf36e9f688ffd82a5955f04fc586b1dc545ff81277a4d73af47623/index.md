@@ -19,7 +19,6 @@ date: 1735759996
 We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
-### [Discord](https://discord.gg/najb7MJf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -31,7 +30,7 @@ Disc AvYQJJh9
 | Losses | 57 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

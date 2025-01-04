@@ -20,7 +20,7 @@ No entries during WS. Plz apply later again.
 
 Beginners welcome, we support you to grow.
 
-https://discord.gg/WKdC8XW
+WKdC8XW
 ```
 ### Whitestar Bonus ❌
 
@@ -32,7 +32,7 @@ https://discord.gg/WKdC8XW
 | Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

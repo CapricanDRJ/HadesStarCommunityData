@@ -25,7 +25,7 @@ Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
 | Wins | 0 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,6 @@ date: 1730956412
 ```
 Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗舰，最好捐给旗舰2号。欢迎各位光临
 ```
-### [Discord](https://discord.gg/星舰国际集团)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗
 | Losses | 8 |
 | Draws | 3 |
 | Streak Record | 4 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

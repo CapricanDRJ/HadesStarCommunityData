@@ -29,7 +29,7 @@ emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 | Losses | 31 |
 | Draws | 3 |
 | Streak Record | 5 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

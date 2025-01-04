@@ -15,7 +15,6 @@ date: 1732270377
 ```
 Part of the Confederation H
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PvpVqPbY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ Part of the Confederation H
 | Wins | 0 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

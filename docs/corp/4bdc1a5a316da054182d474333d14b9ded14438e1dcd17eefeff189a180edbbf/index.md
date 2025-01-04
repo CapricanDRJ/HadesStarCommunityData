@@ -17,7 +17,6 @@ date: 1707455738
  ask is that you must be active and Let our name be known amongst all
 ! 14 day inactive kick enforced. JnrwdDKynd (discord)
 ```
-### [Discord](https://discord.gg/JnrwdDKynd)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1707455738
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

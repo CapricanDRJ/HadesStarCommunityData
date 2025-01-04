@@ -15,7 +15,6 @@ date: 1735713718
 ```
 欢迎各位萌新加入。
 ```
-### [Discord](https://discord.gg/JXaTpU9Q)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ date: 1735713718
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

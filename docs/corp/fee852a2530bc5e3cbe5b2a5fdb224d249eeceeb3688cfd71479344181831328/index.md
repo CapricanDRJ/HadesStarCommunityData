@@ -18,7 +18,6 @@ date: 1735157268
 <color=#e50>Get <color=#9ec>500 Crystals</color> every month!
 <color=#fb3>Bring your crew and join us for 
 ```
-### [Discord](https://discord.gg/HAUXPBta)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ date: 1735157268
 | Losses | 27 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

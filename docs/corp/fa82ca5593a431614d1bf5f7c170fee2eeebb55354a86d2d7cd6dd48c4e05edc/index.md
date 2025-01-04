@@ -31,7 +31,7 @@ Discord : x9QTsuZ3mg
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

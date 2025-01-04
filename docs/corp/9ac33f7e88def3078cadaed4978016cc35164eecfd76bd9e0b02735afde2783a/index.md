@@ -14,8 +14,7 @@ date: 1709592586
 
 ```
 Will help new players. Laid back, no drama.
-Discord participation is mandatory. Join here: https://discord.gg/upz
-nTnWWUf
+Discord participation is mandatory. Join here: upznTnWWUf
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +26,7 @@ nTnWWUf
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -14,7 +14,7 @@ date: 1712989452
 
 ```
 corpo Fr ouverte à tous pour se developper tranquille sans pression ^
-_^ https://discord.com/invite/pWWdSs4xHs
+_^ pWWdSs4xHs
 ```
 ### Whitestar Bonus ❌
 
@@ -26,7 +26,7 @@ _^ https://discord.com/invite/pWWdSs4xHs
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

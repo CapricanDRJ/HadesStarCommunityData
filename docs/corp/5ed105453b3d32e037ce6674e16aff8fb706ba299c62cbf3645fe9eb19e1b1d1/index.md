@@ -21,9 +21,8 @@ New players are welcome to grow your Dynasty in OntarioDiligent, spac
 e bar or Meadow.
 
 Chat us up
-https://discord.gg/gBFFE5x
+[discord url]
 ```
-### [Discord](https://discord.gg/xbJA3n56)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -34,7 +33,7 @@ https://discord.gg/gBFFE5x
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 13 |
+| Flagship | 0 |
 
 ---
 

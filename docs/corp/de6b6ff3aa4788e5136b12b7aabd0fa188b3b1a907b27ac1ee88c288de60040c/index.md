@@ -17,7 +17,6 @@ Our discord is Global Elite, members must join if they wish to partic
 ipate in white stars. Inactivity for 2 weeks will not be tolerated. T
 hose who do not comply with these rules will be kicked
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/AtGdvduz)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ hose who do not comply with these rules will be kicked
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

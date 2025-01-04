@@ -28,7 +28,7 @@ th.. so plz, a good show of hands & I'll start one 🖐️
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -25,7 +25,7 @@ Chookity pop!
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

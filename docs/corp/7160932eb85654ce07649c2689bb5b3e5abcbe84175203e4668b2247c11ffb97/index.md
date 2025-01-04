@@ -15,7 +15,6 @@ date: 1721414692
 ```
 Star Field-星域
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/3PnPgbbf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ Star Field-星域
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 5 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

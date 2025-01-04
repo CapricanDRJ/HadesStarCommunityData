@@ -19,7 +19,6 @@ avonfliegen.
 We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -32,7 +31,7 @@ ut other languages tolerated.
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

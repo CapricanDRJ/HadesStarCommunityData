@@ -30,7 +30,7 @@ Discord mandatory - join at the link below ↓
 | Draws | 0 |
 | Streak | 6 |
 | Streak Record | 6 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

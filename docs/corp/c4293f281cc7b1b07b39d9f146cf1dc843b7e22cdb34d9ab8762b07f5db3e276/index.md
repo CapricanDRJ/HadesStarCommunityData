@@ -26,7 +26,7 @@ ur opponent we just want to play a little
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,6 @@ date: 1734501330
 ```
 Together We Can Achieve More.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ Together We Can Achieve More.
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

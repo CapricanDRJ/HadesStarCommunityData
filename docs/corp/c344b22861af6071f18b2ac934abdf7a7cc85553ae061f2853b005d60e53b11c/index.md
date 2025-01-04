@@ -22,7 +22,7 @@ date: 1700447756
 ・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
 ・ 비매너, 장기미접속은 추방</color>
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/rTYsNzFmxx)
+### [Discord](https://discord.gg/rTYsNzFmxx)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -33,7 +33,7 @@ date: 1700447756
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

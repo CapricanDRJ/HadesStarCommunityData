@@ -26,7 +26,7 @@ We do all types of stars we help in red stars we prepare to battle in
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

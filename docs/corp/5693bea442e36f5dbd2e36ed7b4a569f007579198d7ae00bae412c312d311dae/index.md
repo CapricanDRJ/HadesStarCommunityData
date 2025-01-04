@@ -15,7 +15,6 @@ date: 1735581332
 ```
 Lets WiN all white Stars
 ```
-### [Discord](https://discord.gg/Nope)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ Lets WiN all white Stars
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -26,7 +26,7 @@ Lasst euch vom Nordstern leiten!
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -31,7 +31,7 @@ Ws: a Cada 4 dias
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

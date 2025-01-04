@@ -17,9 +17,8 @@ Bersatu kita teguh,
 Bercerai ya kawin lagi.
 
 Discord :
-<color=orange>https://discord.gg/MCDb2Mt</color>
+<color=orange>[discord url]
 ```
-### [Discord](https://discord.gg/https://discord.gg/2yTUSx2x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -31,7 +30,7 @@ Discord :
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

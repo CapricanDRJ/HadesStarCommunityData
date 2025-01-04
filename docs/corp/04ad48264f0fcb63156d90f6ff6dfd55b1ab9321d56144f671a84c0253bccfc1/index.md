@@ -15,7 +15,7 @@ date: 1705147495
 ```
 Everyone is welcome to our corporation. Be active and enjoy.😀
 ```
-### [Discord](https://discord.gg/https://discord.gg/YXXUMaKBFV)
+### [Discord](https://discord.gg/YXXUMaKBFV)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +26,7 @@ Everyone is welcome to our corporation. Be active and enjoy.😀
 | Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,7 @@ date: 1703132249
 ```
 Have fun. Help your fellow player. White Stars. Private Red Stars. Be
  active.
-Discord: https://discord.gg/
+Discord: [discord url]
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ Discord: https://discord.gg/
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -16,7 +16,7 @@ date: 1735504606
 Welcome! Ask for the discord to best facilitate our leadership to hel
 p anyone who desires the aid.
 ```
-### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
+### [Discord](https://discord.gg/Y3NrTFZHC7)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +29,7 @@ p anyone who desires the aid.
 | Draws | 0 |
 | Streak | 6 |
 | Streak Record | 6 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -17,12 +17,11 @@ Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make
  it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hades
 titans.com
 ```
-### [Discord](https://discord.gg/QhMTEDb8zt)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (92)|
+| ELO Regular | 1352 🔺  (93)|
 | ELO Competitive | 1401 🔺  (141)|
 | Total Matches | 37 |
 | Wins | 21 |
@@ -30,7 +29,7 @@ titans.com
 | Draws | 0 |
 | Streak | 9 |
 | Streak Record | 9 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

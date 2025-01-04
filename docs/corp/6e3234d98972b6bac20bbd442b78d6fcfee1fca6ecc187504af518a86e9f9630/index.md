@@ -18,7 +18,6 @@ I believe in U
 We can build a great alliance of Hades Star
 No discord. Be friendly :)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/WWu5AWvU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ No discord. Be friendly :)
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

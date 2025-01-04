@@ -16,7 +16,7 @@ date: 1734742926
 <b>The Corp Alliance of Oceania Alliance</b>
 <color=green>Open to All Levels.</color>
 <color=yellow>English Speakers, Friendly and Chill.</color>
-OA's Discord: https://discord.gg/2wyNuxb
+OA's Discord: [discord url]
 ```
 ### [Discord](https://discord.gg/ZhF2Npys6N)
 ### Whitestar Bonus ❌
@@ -31,7 +31,7 @@ OA's Discord: https://discord.gg/2wyNuxb
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

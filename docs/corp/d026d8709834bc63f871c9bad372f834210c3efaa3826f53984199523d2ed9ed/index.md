@@ -28,7 +28,7 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 12 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,7 @@ date: 1699696974
 ```
 Looking for active and energetic players who want to have fun and gro
 w. Corp RS encouraged and frequent WS. 
-https://discord.gg/PhNPS5MyUc
+PhNPS5MyUc
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ https://discord.gg/PhNPS5MyUc
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

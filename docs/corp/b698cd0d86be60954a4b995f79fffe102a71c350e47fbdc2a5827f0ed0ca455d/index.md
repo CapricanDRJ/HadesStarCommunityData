@@ -29,7 +29,7 @@ ter guesting RS runs<br><br>Discord mandatory to join!
 | Losses | 30 |
 | Draws | 0 |
 | Streak Record | 12 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

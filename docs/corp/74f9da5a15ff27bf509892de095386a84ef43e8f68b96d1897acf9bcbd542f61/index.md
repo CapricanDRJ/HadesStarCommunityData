@@ -29,7 +29,7 @@ hs国人大群:597444221
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

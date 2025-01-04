@@ -14,7 +14,7 @@ date: 1730938986
 
 ```
 Discord: cRMhmXfctC
-https://discord.gg/cRMhmXfctC
+cRMhmXfctC
 Destroy or be destroyed. This is a place where only the strong surviv
 e
 White star every 2 weeks
@@ -29,7 +29,7 @@ White star every 2 weeks
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

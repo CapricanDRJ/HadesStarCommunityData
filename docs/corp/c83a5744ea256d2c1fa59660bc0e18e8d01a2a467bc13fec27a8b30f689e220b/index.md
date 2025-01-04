@@ -27,7 +27,7 @@ ess. White star participation required
 | Losses | 9 |
 | Draws | 2 |
 | Streak Record | 9 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -22,7 +22,6 @@ date: 1735823394
 **English**
 *Donations Appreciated*
 ```
-### [Discord](https://discord.gg/vmbXh7r7yt)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -34,7 +33,7 @@ date: 1735823394
 | Losses | 59 |
 | Draws | 1 |
 | Streak Record | 7 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

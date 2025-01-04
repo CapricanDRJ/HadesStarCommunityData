@@ -26,7 +26,7 @@ Arbiters of Darkness
 | Wins | 1 |
 | Losses | 11 |
 | Draws | 0 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

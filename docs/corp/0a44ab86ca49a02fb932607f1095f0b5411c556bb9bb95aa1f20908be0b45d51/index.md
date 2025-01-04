@@ -17,7 +17,6 @@ BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nue
 vos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA C
 ORPORACIÓN   • MÉXICO INFINITO 
 ```
-### [Discord](https://discord.gg/invite/qEx3pN9A)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ ORPORACIÓN   • MÉXICO INFINITO
 | Wins | 2 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

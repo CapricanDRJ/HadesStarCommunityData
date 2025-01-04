@@ -28,7 +28,7 @@ Corp. designed primarily for WS players of any level advanced to just
 | Losses | 72 |
 | Draws | 5 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

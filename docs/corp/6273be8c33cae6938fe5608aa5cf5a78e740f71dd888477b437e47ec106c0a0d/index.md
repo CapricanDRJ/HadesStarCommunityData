@@ -17,7 +17,6 @@ Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Plane
 ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
  beginnen!
 ```
-### [Discord](https://discord.gg/MNs4VdSb)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

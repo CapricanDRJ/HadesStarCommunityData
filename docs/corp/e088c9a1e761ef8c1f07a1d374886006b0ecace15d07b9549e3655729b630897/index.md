@@ -30,7 +30,7 @@ ht so ernst nehmen.
 | Losses | 35 |
 | Draws | 4 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

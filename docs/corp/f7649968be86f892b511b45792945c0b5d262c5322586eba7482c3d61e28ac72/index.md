@@ -25,7 +25,7 @@ For all fans of the STARBLAZER yamato series
 | Wins | 2 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

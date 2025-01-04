@@ -16,19 +16,19 @@ date: 1725900738
 <color=#a604ce><size=103>MAƎЯᗡ ƎHT ЯƎTͶƎ™</size></color> discord.com/
 invite/HSsebQuveJ
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/HSsebQuveJ)
+### [Discord](https://discord.gg/HSsebQuveJ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1162)|
+| ELO Regular | 1139 🔻  (1161)|
 | ELO Competitive | 1161 🔻  (1169)|
 | Total Matches | 14 |
 | Wins | 4 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

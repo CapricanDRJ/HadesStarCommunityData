@@ -26,7 +26,7 @@ ive. Lets GO!
 | Wins | 3 |
 | Losses | 53 |
 | Draws | 1 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

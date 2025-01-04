@@ -30,7 +30,7 @@ ated to helping new players grow. Discord recommended for White Stars
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

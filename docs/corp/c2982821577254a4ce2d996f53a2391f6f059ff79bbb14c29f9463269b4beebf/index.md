@@ -32,7 +32,7 @@ No Discord!
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

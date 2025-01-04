@@ -32,7 +32,7 @@ For WS+ join Discord- 8dJDbbm
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

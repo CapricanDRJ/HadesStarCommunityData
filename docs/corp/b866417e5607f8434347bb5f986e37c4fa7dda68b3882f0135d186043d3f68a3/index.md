@@ -29,7 +29,7 @@ e.
 | Draws | 1 |
 | Streak | 7 |
 | Streak Record | 7 |
-| Flagship | 11 |
+| Flagship | 0 |
 
 ---
 

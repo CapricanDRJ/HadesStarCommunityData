@@ -31,7 +31,7 @@ Discord obligatorio: KAguMmM</color>
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

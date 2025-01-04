@@ -25,7 +25,7 @@ You keep what you kill…Naw. One for all and all for one!
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

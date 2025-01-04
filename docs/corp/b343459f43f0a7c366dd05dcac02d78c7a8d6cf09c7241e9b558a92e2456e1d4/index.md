@@ -35,7 +35,7 @@ Trust * Loyalty
 | Losses | 84 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

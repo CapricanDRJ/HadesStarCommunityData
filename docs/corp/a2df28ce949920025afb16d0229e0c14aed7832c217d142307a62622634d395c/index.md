@@ -16,7 +16,6 @@ date: 1724677169
 Welcome to the Elite!we do Red Star 3 and above, and White Stars whe
 n we have enough participants DISCORD MANDATORY!!!!
 ```
-### [Discord](https://discord.gg/https://discord.gg/w47dbC4qZM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ n we have enough participants DISCORD MANDATORY!!!!
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

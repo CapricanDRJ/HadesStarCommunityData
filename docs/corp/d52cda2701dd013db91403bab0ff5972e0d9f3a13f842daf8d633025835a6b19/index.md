@@ -15,7 +15,6 @@ date: 1713636340
 ```
 Bye Bye - ryan
 ```
-### [Discord](https://discord.gg/Galaxy █哦郭聪明莫)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ Bye Bye - ryan
 | Wins | 5 |
 | Losses | 29 |
 | Draws | 2 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

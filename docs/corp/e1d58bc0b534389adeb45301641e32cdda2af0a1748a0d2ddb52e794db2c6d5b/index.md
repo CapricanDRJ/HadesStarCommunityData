@@ -15,7 +15,6 @@ date: 1735114895
 ```
 Looking for members. Come grow with us!
 ```
-### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ Looking for members. Come grow with us!
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

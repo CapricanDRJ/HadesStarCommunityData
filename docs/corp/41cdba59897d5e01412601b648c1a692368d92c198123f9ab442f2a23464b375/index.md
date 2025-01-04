@@ -29,7 +29,7 @@ e run with us! Say hi on Discord!
 | Losses | 33 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

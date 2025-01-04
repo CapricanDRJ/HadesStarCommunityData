@@ -27,7 +27,7 @@ ew member is joined.
 | Wins | 2 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

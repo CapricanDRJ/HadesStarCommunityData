@@ -17,19 +17,18 @@ Benvenuto nella Corporazione federale italiana. Richiesta partecipazi
 one/cooperazione. Per chi ha accesso alle WS è consigliato un contrib
 uto settimanale di 10000 crediti per l'ammiraglia. 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1301 🔻  (162)|
-| ELO Competitive | 1333 🔻  (208)|
+| ELO Competitive | 1333 🔻  (207)|
 | Total Matches | 31 |
 | Wins | 20 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,7 @@ date: 1704229726
 ```
 Dahoam in AT zieht um und findet ein neues Dahoam bei INFINITY STAR. 
 Wer uns nachfolgen will, meldet euch dort! Im Konzern verbleiben unse
-re ausgeschiedenen Pensionisten!      https://discord.gg/V5SHx
+re ausgeschiedenen Pensionisten!      V5SHx
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ re ausgeschiedenen Pensionisten!      https://discord.gg/V5SHx
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

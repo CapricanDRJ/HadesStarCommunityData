@@ -15,7 +15,6 @@ date: 1735104682
 ```
 No camping. Discord mandatory for ws
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/jMqZD8XskE)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ No camping. Discord mandatory for ws
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 15 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

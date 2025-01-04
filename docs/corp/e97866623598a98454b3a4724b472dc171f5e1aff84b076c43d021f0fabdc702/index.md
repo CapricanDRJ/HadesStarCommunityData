@@ -28,7 +28,7 @@ Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in
 | Losses | 18 |
 | Draws | 2 |
 | Streak Record | 14 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

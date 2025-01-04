@@ -18,7 +18,7 @@ Bist du neu oder voll der Pro?! Flieg mit uns...bei RZwoDZwo!!!
 Wir freuen uns auf dich!
 
 \o/
-https://discord.gg/UPTTtGQpTj
+[discord url]
 ```
 ### [Discord](https://discord.gg/UPTTtGQpTj)
 ### Whitestar Bonus ❌
@@ -31,7 +31,7 @@ https://discord.gg/UPTTtGQpTj
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

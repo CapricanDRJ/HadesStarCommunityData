@@ -17,7 +17,6 @@ date: 1733426879
  the galaxy. We welcome every newbie and big guy to join us. We provi
 de early learning guidance for newbies joining the group.
 ```
-### [Discord](https://discord.gg/JTC-6519)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ de early learning guidance for newbies joining the group.
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

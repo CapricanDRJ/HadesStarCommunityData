@@ -16,19 +16,18 @@ date: 1732290073
 <b><size=60><color=#228b22>Welcome to Peace Keepers </color></size></
 b>  Peacefully collecting relics since 2018.                   😎 
 ```
-### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1297)|
+| ELO Regular | 1083 🔻  (1296)|
 | ELO Competitive | 1194 🔻  (703)|
 | Total Matches | 54 |
 | Wins | 16 |
 | Losses | 38 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

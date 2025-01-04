@@ -25,7 +25,7 @@ Laid back corp for people with day jobs. Resistence is futile.
 | Wins | 0 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

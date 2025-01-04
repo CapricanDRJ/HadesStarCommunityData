@@ -29,7 +29,7 @@ IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
 | Losses | 29 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

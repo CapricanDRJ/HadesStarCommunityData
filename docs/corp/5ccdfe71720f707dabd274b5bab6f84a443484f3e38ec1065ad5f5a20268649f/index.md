@@ -25,7 +25,7 @@ Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

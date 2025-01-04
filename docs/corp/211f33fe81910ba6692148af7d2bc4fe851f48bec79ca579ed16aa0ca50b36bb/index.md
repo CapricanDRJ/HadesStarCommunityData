@@ -29,7 +29,7 @@ Interested in our alliance RSR?  Discord   Link below
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,6 @@ date: 1708836120
 ```
 работа на кз. и кач кораблей по возможности делимся артами.
 ```
-### [Discord](https://discord.gg/8YnzVpct)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ date: 1708836120
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

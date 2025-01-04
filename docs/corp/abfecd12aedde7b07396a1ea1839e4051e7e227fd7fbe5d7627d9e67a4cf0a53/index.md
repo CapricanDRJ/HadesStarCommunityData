@@ -15,7 +15,6 @@ date: 1706036411
 ```
 Celestial Combative Legion
 ```
-### [Discord](https://discord.gg/As89TCCw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ Celestial Combative Legion
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -25,7 +25,7 @@ The reemergence of Space Gamers with Super Stars!
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

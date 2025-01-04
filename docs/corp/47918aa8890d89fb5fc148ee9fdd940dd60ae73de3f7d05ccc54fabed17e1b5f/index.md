@@ -15,7 +15,6 @@ date: 1726738849
 ```
 La Nave WIALERKING
 ```
-### [Discord](https://discord.gg/h d h cuw hdo ch wdi h c w d k j c j d hi c h d j c b)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ La Nave WIALERKING
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

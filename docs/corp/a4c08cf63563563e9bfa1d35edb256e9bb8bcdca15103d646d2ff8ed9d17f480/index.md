@@ -16,7 +16,6 @@ date: 1734483908
 <size=70><color=green>欢迎加入全新的<color=red>脉冲星际集团</size></color></color>
 请捐旗舰
 ```
-### [Discord](https://discord.gg/maib)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1734483908
 | Losses | 29 |
 | Draws | 3 |
 | Streak Record | 6 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

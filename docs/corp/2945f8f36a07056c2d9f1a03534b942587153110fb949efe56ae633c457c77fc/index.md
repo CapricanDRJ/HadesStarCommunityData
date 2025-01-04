@@ -27,7 +27,7 @@ or=white>白星群：229395278想要加入集团先加集团QQ群
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

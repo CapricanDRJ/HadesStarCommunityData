@@ -17,7 +17,7 @@ USA or the United Stars Alliance stands for the good for all of the m
 embers Star Nations that are apart of it against the chaos outside of
  it. Casual group with a couple hardcore players! 
 ```
-### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
+### [Discord](https://discord.gg/PvyhHgSDHY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +29,7 @@ embers Star Nations that are apart of it against the chaos outside of
 | Losses | 41 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

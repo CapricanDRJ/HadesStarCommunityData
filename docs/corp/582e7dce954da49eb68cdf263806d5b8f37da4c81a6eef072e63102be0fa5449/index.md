@@ -16,19 +16,19 @@ date: 1735685180
 Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
  8-11
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/JapURyAWBw)
+### [Discord](https://discord.gg/JapURyAWBw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 🔻  (76)|
+| ELO Regular | 1372 🔻  (77)|
 | ELO Competitive | 1447 🔻  (100)|
 | Total Matches | 49 |
 | Wins | 32 |
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 9 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

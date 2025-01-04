@@ -25,7 +25,7 @@ discord.gg/qz8kpgtj
 
 3 day inactivity kick
 ```
-### [Discord](https://discord.gg/discord.gg/wd2GdBVAaa)
+### [Discord](https://discord.gg/wd2GdBVAaa)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -36,7 +36,7 @@ discord.gg/qz8kpgtj
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

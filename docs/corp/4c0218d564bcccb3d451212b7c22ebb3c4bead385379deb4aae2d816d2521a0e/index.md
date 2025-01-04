@@ -33,7 +33,7 @@ QQ群:663677762
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

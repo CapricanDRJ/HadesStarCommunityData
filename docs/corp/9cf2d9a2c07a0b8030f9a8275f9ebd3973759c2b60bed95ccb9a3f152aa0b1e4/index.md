@@ -17,7 +17,6 @@ date: 1728214173
 b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114  
 </a></b>红活已经结束，欢迎回来
 ```
-### [Discord](https://discord.gg/<color=#FF0><b><i><size=30>简阶编辑:OwO</size></i>)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

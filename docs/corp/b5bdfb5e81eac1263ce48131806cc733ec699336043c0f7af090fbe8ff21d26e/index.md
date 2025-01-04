@@ -15,9 +15,9 @@ date: 1731940255
 ```
 We're an enduring community, looking for new and active players. We o
 ffer experienced mentors on hand to help with regular WS and RS runs.
- Use of Discord is highly recommend https://discord.gg/n4nHC3N
+ Use of Discord is highly recommend [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
+### [Discord](https://discord.gg/qbKYCBzmxk)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +29,7 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

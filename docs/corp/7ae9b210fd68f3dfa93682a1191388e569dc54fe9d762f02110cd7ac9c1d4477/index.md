@@ -30,7 +30,7 @@ us and Righteous Fury! ws every week,
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 5 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

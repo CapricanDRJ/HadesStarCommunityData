@@ -27,7 +27,7 @@ n.      Wir handeln Gewürze .Ohne Stress
 | Losses | 37 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

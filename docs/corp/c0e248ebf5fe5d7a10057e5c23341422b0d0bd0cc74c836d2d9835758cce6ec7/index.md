@@ -16,18 +16,17 @@ date: 1720873100
 Willkommen in der Sternenflotten Akademie. Hier oder auf Discord find
 est du Hilfe
 ```
-### [Discord](https://discord.gg/ZWfJ5Tdh)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1168)|
+| ELO Regular | 1137 🔻  (1167)|
 | ELO Competitive | 1149 🔻  (1233)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

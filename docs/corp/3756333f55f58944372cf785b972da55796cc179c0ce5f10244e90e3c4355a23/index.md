@@ -26,7 +26,7 @@ We are here to play white stars. No bs afk players needed!!!
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

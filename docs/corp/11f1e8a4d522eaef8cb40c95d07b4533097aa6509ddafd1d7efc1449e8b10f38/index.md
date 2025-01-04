@@ -26,7 +26,7 @@ Wir haben Spaß zusammen.
 | Losses | 35 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

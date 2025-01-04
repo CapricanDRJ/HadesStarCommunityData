@@ -13,7 +13,7 @@ date: 1702043417
 
 
 ```
-Discord https://discord.gg/mXaAX7Caga
+Discord mXaAX7Caga
 ```
 ### Whitestar Bonus ❌
 
@@ -25,7 +25,7 @@ Discord https://discord.gg/mXaAX7Caga
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

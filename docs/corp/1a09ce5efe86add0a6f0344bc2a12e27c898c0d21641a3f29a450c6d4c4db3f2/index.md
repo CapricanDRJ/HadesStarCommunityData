@@ -30,7 +30,7 @@ amos novos integrantes, peça para colocarem no grupo de WhatsApp aqui
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 5 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

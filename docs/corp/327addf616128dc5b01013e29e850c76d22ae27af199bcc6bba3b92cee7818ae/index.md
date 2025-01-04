@@ -15,7 +15,6 @@ date: 1731054674
 ```
 <#ffa>100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号
 ```
-### [Discord](https://discord.gg/yyZqNDKx6T)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1731054674
 | Wins | 3 |
 | Losses | 26 |
 | Draws | 6 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

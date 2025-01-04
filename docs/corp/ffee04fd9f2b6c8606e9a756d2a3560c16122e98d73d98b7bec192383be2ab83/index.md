@@ -17,7 +17,6 @@ In our strategic yet laid-back corporation, we come together to illum
 inate the cosmos and conquer the void.  Mission…Domination of Red And
  White Stars!  We Are..SHADOW LORDS🌒
 ```
-### [Discord](https://discord.gg/https://discord.gg/nfj46pCB)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ inate the cosmos and conquer the void.  Mission…Domination of Red And
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

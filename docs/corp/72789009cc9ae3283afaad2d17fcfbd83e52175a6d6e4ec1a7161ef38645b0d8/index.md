@@ -26,7 +26,7 @@ English speaking – would you want to communicate
 | Losses | 24 |
 | Draws | 2 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

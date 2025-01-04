@@ -30,7 +30,7 @@ Welcome to KINETIC! A corporation almost as old as the Hades universe
 | Draws | 0 |
 | Streak | 11 |
 | Streak Record | 11 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

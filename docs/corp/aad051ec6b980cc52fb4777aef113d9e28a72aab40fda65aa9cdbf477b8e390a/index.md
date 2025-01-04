@@ -27,7 +27,7 @@ Friendly casual corp. Our discord: discord.gg/nCabaKz
 | Losses | 24 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

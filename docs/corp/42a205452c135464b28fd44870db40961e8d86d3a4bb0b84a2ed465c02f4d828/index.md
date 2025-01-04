@@ -13,8 +13,8 @@ date: 1709557424
 
 
 ```
-<size=70><color=#48a9a9>www.DISCORD.gg/cr67TAf</color></size> We are 
-not active lately. the best times for us passed by.
+<size=70><color=#48a9a9>cr67TAf We are not active lately. the best ti
+mes for us passed by.
 we came to relaxed ws
 ```
 ### Whitestar Bonus ❌
@@ -27,7 +27,7 @@ we came to relaxed ws
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ Part of Oceania Alliance.     New players welcome
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

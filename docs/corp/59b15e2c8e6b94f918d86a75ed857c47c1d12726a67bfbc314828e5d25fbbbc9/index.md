@@ -29,7 +29,7 @@ we will happily arrange your arrival after the match!
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

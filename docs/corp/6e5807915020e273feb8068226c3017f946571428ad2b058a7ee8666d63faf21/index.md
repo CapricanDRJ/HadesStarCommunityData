@@ -17,7 +17,6 @@ Recommended to join the corp DISCORD (currently in test period. All m
 embers when join our DISCORD while in test period will get a free Off
 icer promote). Red is always SUS!
 ```
-### [Discord](https://discord.gg/btpSMwVJQD)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ icer promote). Red is always SUS!
 | Losses | 62 |
 | Draws | 4 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

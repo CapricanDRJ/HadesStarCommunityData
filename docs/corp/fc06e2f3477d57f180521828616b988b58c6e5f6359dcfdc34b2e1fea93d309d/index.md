@@ -25,7 +25,7 @@ United People of Earth.  For the betterment of all people of earth!
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

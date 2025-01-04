@@ -16,7 +16,6 @@ date: 1721995289
 Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społe
 czności na Discord
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/WwfpRzZ6)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ czności na Discord
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

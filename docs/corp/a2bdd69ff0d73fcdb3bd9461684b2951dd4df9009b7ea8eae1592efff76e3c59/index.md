@@ -15,7 +15,7 @@ date: 1735735952
 ```
 Redstar privat în fiecare seară.                        Whitestar sap
 tamanal. Vrei să crești alături de noi? Te așteptăm! Acces discord vi
-a browser: https://dsc.gg/sah
+a browser: [broken url]
 ```
 ### [Discord](https://discord.gg/23cA4bB7X8)
 ### Whitestar Bonus ❌
@@ -29,7 +29,7 @@ a browser: https://dsc.gg/sah
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

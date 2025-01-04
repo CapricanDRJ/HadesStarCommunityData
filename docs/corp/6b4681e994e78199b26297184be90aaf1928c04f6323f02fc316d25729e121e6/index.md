@@ -16,7 +16,6 @@ date: 1735698698
 <b>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743
 ，谢谢！ 有移出的可以重新加入。
 ```
-### [Discord](https://discord.gg/Sh82822)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1735698698
 | Draws | 5 |
 | Streak | 2 |
 | Streak Record | 10 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

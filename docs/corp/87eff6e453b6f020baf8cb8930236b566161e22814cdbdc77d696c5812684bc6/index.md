@@ -14,7 +14,7 @@ date: 1734782882
 
 ```
 we like our coffee dirty
-Discord invite code is https://discord.gg/44nD9yX
+Discord invite code is 44nD9yX
 
 ```
 ### Whitestar Bonus ❌
@@ -28,7 +28,7 @@ Discord invite code is https://discord.gg/44nD9yX
 | Losses | 47 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

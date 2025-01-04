@@ -28,7 +28,7 @@ ion. Team focused; total support. Growing fast!
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 4 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

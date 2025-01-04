@@ -15,7 +15,6 @@ date: 1723153186
 ```
 LEAVE!!!
 ```
-### [Discord](https://discord.gg/I like Chelsea’s feet)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ LEAVE!!!
 | Losses | 18 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

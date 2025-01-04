@@ -17,7 +17,6 @@ date: 1725536033
 席:白芷<br></b>黑名单：三体(AEN-3092)<br>敌团：红日初升，其道大光（和白毁白）<br>神圣罗马帝国第三分团<br>集
 团QQ群：945406414<br>招人中
 ```
-### [Discord](https://discord.gg/WC)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1725536033
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

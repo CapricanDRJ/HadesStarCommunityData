@@ -17,7 +17,6 @@ una corporación unida ayudarse unos a otros y hacer fuertes a los déb
 iles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO 
 DISCORD PARA PARTICIPAR EN EB"
 ```
-### [Discord](https://discord.gg/KzmnSRBBs2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ DISCORD PARA PARTICIPAR EN EB"
 | Wins | 2 |
 | Losses | 8 |
 | Draws | 1 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

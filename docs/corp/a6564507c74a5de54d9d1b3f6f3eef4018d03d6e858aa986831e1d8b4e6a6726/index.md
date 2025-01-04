@@ -19,7 +19,7 @@ dialogue, écoute et persévérance sont là clé. シ︎
 
 La naissance d'un empire ! ❦︎
 
-https://discord.gg/AA2vSmDw ☠︎
+AA2vSmDw ☠︎
 ```
 ### Whitestar Bonus ❌
 
@@ -31,7 +31,7 @@ https://discord.gg/AA2vSmDw ☠︎
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

@@ -29,7 +29,7 @@ Language:English
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

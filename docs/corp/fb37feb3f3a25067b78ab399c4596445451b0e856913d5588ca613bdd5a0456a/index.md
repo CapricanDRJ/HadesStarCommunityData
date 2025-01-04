@@ -25,7 +25,7 @@ Clan de hablá Hispana(Castellano/Español)
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

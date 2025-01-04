@@ -33,7 +33,7 @@ Public Queue 14%-48%
 | Losses | 43 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 14 |
+| Flagship | 0 |
 
 ---
 

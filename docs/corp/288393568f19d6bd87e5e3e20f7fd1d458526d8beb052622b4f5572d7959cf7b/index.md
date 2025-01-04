@@ -29,7 +29,7 @@ r><b>En La tumba sin nombre junto a la de Arch Stanton.
 | Draws | 0 |
 | Streak | 6 |
 | Streak Record | 8 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

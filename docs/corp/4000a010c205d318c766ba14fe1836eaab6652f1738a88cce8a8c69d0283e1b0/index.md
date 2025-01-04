@@ -16,7 +16,7 @@ date: 1734901291
 <b>Добро пожаловать в Axiom! </b> 
  Ведётся набор! Помощь новичкам и лоулвл.  
 Основана 01.09.2019
-https://discord.gg/CY4M2awSgS
+[discord url]
 ```
 ### [Discord](https://discord.gg/CY4M2awSgS)
 ### Whitestar Bonus ❌
@@ -30,7 +30,7 @@ https://discord.gg/CY4M2awSgS
 | Losses | 39 |
 | Draws | 0 |
 | Streak Record | 12 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

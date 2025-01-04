@@ -29,7 +29,7 @@ https://t.me/RSeventHS
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 15 |
+| Flagship | 0 |
 
 ---
 

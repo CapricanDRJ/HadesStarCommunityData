@@ -16,7 +16,7 @@ date: 1700417643
 Corporation française/english ouverte à tous ! 
 Nouvelle corporation, motivée pour des étoiles blanches. Motivate to 
 white stars
-Discord : https://discord.gg/VevrVjTpPG
+Discord : VevrVjTpPG
 Rejoignez-nous !!!
 Join us !!!
 ```
@@ -30,7 +30,7 @@ Join us !!!
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

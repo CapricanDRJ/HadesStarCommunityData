@@ -14,7 +14,7 @@ date: 1713714237
 
 ```
 join the discord server
-https://discord.gg/F8c4yKxNnb
+F8c4yKxNnb
 
 n always friendly
 ```
@@ -28,7 +28,7 @@ n always friendly
 | Wins | 0 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

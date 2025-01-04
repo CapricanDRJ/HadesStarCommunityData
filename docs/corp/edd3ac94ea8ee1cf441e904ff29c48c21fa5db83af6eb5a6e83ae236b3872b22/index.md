@@ -29,7 +29,7 @@ act officers or senior members, Discord invite code:zQGwx3ZtDp
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 18 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

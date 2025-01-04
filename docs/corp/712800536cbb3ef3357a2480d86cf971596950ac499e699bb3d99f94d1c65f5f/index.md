@@ -19,7 +19,7 @@ date: 1715096003
 
 Discord opened
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
+### [Discord](https://discord.gg/7BfdmAAXQ7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -31,7 +31,7 @@ Discord opened
 | Losses | 32 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

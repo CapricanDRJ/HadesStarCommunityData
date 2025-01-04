@@ -29,7 +29,7 @@ r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 | Losses | 33 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 15 |
+| Flagship | 0 |
 
 ---
 

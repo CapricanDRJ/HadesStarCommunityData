@@ -26,7 +26,7 @@ s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

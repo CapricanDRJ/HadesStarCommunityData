@@ -28,7 +28,7 @@ quadron<br>weekly white stars<br>private red stars 3 to 8
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

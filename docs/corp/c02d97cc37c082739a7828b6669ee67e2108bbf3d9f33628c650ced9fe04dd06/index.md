@@ -17,7 +17,6 @@ date: 1728369534
 金天行者×cleiver（CN）×TXG-5137<br><br>首席：Disast<br>福利：r5-8（有时给）<br><br>主团：
 神圣罗马帝国第三帝国<br>社会主义共和制<br>南极星联盟成员<br><br>不准频繁随意进出
 ```
-### [Discord](https://discord.gg/ok)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1728369534
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

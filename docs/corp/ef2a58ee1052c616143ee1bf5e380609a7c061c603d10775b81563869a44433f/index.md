@@ -14,7 +14,7 @@ date: 1731988934
 
 ```
 <size=100>Наш дискорд:</size>
-<color="yellow">https://discord.gg/EVvjFZfGEY</color>
+<color="yellow">[discord url]
 или ЛС <color="yellow">OptiMysticOne#8930</color>
 02.11.2022
 Пытаемся почаще ходить к Белым Звёздам. Всем рады!
@@ -32,7 +32,7 @@ date: 1731988934
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

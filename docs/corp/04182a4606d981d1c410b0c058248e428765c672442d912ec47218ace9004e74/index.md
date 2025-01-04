@@ -26,7 +26,7 @@ What a year….
 | Losses | 31 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

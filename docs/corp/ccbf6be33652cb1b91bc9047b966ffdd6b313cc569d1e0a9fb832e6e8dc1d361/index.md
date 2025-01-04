@@ -17,19 +17,18 @@ date: 1730056727
 cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<color=purple>  <size=
 700>本团QQ福利群<b>763886797</b><color=red><size=920>不要捐旗舰
 ```
-### [Discord](https://discord.gg/数)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1167)|
+| ELO Regular | 1137 🔻  (1166)|
 | ELO Competitive | 1157 🔻  (1194)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

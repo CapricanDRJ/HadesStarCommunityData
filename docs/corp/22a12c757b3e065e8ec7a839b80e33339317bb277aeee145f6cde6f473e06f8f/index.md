@@ -17,7 +17,6 @@ Be active in WS. Grow 500 power each week. Donate 10k daily to Flagsh
 ip. Join Discord for communication purposes. Zero tolerance policy fo
 r zero communication.
 ```
-### [Discord](https://discord.gg/https://discord.gg/waZppQMM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ r zero communication.
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

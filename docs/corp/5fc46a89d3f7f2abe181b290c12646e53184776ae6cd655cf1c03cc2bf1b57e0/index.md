@@ -18,7 +18,7 @@ nfängerfreundlichkeit und der Etablierung einer familiären Spielergem
 einschaft.
 
 Discord:
-https://discord.gg/Mvy7Myx
+Mvy7Myx
 ```
 ### Whitestar Bonus ❌
 
@@ -30,7 +30,7 @@ https://discord.gg/Mvy7Myx
 | Wins | 0 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

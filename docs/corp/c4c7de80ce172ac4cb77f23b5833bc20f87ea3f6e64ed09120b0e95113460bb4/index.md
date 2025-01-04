@@ -28,7 +28,7 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 | Losses | 13 |
 | Draws | 3 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

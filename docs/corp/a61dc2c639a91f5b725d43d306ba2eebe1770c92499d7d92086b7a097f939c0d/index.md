@@ -16,7 +16,6 @@ date: 1734160904
 Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь н
 а кз 2-8. Чат в телеге...
 ```
-### [Discord](https://discord.gg/Дискорда нет)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1734160904
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ s a requirement, add wykidc#5670, read the rules, click ✅, +18
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

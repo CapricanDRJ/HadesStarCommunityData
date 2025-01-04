@@ -15,7 +15,7 @@ date: 1717877900
 ```
 Whats up! Focus on red stars and getting offenses up to white star le
 vel. 
-Discord-https://discord.gg/6f8xNGS
+Discord-6f8xNGS
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ Discord-https://discord.gg/6f8xNGS
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

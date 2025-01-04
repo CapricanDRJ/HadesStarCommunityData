@@ -32,7 +32,7 @@ ntact us on Discord prior to joining.
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 10 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

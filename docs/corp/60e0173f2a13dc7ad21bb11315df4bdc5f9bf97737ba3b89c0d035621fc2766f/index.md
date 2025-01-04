@@ -17,7 +17,6 @@ date: 1735762400
 .. познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ 
 ПЯТНИЦУ В 23:00 ПО МСК***
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ date: 1735762400
 | Draws | 0 |
 | Streak | 5 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

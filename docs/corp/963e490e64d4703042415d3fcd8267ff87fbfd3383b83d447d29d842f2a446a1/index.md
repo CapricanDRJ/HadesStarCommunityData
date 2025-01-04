@@ -28,7 +28,7 @@ Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 4 |
-| Flagship | 13 |
+| Flagship | 0 |
 
 ---
 

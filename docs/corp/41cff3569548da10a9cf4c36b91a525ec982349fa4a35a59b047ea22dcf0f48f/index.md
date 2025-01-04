@@ -17,7 +17,6 @@ ENTRE E VEM JOGAR CONOSCO.
 TRAPSTAR½
 ¹½
 ```
-### [Discord](https://discord.gg/IPTV.IT)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

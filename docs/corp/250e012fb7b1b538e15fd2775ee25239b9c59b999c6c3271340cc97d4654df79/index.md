@@ -19,9 +19,9 @@ piccoli)
 <b><size=40><color=red>WS sempre</color></size></b>
 
 
-Discord: https://discord.gg/A26JEJgPwh
+Discord: [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
+### [Discord](https://discord.gg/xGMUwWdzab)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -33,7 +33,7 @@ Discord: https://discord.gg/A26JEJgPwh
 | Losses | 35 |
 | Draws | 2 |
 | Streak Record | 5 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

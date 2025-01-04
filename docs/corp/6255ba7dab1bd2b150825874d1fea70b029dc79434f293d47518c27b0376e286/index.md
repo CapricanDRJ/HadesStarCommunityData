@@ -34,7 +34,7 @@ Discord: asheRjW
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 12 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

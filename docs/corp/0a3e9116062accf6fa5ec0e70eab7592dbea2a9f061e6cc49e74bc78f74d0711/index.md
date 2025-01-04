@@ -17,7 +17,6 @@ date: 1735637106
 ~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              
 ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
-### [Discord](https://discord.gg/evPmv96K)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1735637106
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 9 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

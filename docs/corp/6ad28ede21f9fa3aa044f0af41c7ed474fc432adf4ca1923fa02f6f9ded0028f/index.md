@@ -16,7 +16,6 @@ date: 1735866667
 <color=orange>Rogue Corp</color> We are serious but fun..., Join us f
 or weekly <color=white>WS</color> and private <color=red>RS</color> 
 ```
-### [Discord](https://discord.gg/MztVs42x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ or weekly <color=white>WS</color> and private <color=red>RS</color>
 | Wins | 1 |
 | Losses | 20 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

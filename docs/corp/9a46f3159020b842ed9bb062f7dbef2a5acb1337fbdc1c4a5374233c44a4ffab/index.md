@@ -15,7 +15,6 @@ date: 1704570813
 ```
 
 ```
-### [Discord](https://discord.gg/bbjwf4M42S)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ date: 1704570813
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

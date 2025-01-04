@@ -18,7 +18,7 @@ L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort
 Sois le bienvenu chez les Pirates!!!!
 RS7 à RS11 full coop
 WS HL hebdo
-https://discord.gg/wZcGGNZ
+[discord url]
 ```
 ### [Discord](https://discord.gg/wZcGGNZ)
 ### Whitestar Bonus ❌
@@ -32,7 +32,7 @@ https://discord.gg/wZcGGNZ
 | Losses | 47 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 11 |
+| Flagship | 0 |
 
 ---
 

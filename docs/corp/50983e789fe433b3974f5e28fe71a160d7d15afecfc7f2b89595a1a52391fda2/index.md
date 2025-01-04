@@ -16,7 +16,6 @@ date: 1735835115
 Non rattristiamoci di averla persa, ma ringraziamo di averla avuta. Q
 ui giàce NONNA DI CAPPUCCETTO. 
 ```
-### [Discord](https://discord.gg/https://discord.gg/WWfeyVes)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ ui giàce NONNA DI CAPPUCCETTO.
 | Draws | 0 |
 | Streak | 12 |
 | Streak Record | 12 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

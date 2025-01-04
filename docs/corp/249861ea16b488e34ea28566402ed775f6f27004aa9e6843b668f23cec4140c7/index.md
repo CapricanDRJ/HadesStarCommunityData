@@ -17,7 +17,6 @@ date: 1709835656
 好联系一点：qq群
 485343146
 ```
-### [Discord](https://discord.gg/qSVJ3kUs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ date: 1709835656
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

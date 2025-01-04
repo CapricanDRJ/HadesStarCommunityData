@@ -28,7 +28,7 @@ olor=orange>南极星联盟成员</color>
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

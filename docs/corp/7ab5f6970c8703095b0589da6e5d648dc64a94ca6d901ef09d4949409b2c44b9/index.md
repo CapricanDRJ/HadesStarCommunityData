@@ -17,7 +17,6 @@ date: 1729837957
 的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</color>   集团qq:149662951          
 <size=150>           捐旗舰二       注意用语文明
 ```
-### [Discord](https://discord.gg/gagagaaaa)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1729837957
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

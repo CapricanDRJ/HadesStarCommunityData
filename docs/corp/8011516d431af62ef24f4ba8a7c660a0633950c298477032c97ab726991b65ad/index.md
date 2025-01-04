@@ -27,7 +27,7 @@ er case). Thank you :)
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

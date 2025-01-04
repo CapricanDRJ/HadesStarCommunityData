@@ -28,7 +28,7 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 | Draws | 0 |
 | Streak | 8 |
 | Streak Record | 8 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

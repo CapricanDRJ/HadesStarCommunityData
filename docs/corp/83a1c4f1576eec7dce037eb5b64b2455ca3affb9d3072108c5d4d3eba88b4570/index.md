@@ -27,7 +27,7 @@ l.  PG-13 chat. Must be able to communicate in English.
 | Losses | 48 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

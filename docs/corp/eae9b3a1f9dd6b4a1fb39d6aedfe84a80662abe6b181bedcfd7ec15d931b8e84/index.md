@@ -19,7 +19,6 @@ Season 56: 6 wins 0 loses
 Season 57: 5 wins 1 loses
 Season 58: 3 wins 1 loses
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/dEGkUskt)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -31,7 +30,7 @@ Season 58: 3 wins 1 loses
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 11 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

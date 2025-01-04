@@ -27,7 +27,7 @@ tiv erwünscht
 | Wins | 1 |
 | Losses | 8 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

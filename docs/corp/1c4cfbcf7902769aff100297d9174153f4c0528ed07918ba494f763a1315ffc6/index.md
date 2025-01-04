@@ -18,7 +18,7 @@ discord required in this corp.
 Discord users join:
 Red_Coat_Mafia 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
+### [Discord](https://discord.gg/MgcvvsKa8q)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -30,7 +30,7 @@ Red_Coat_Mafia
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -18,7 +18,7 @@ Chill corp for active RS and WS pilots! All experience levels welcome
 
 Discord is mandatory for ws
 
-https://discord.gg/jPftecDuNp
+[discord url]
 
 Primarily English
 ```
@@ -34,7 +34,7 @@ Primarily English
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

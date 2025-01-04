@@ -17,20 +17,20 @@ date: 1735592337
 lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 ...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
+### [Discord](https://discord.gg/RsHKaexHNh)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1359 🔺  (86)|
-| ELO Competitive | 1431 🔺  (109)|
+| ELO Competitive | 1431 🔺  (108)|
 | Total Matches | 36 |
 | Wins | 26 |
 | Losses | 9 |
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

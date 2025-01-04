@@ -16,7 +16,6 @@ date: 1728148067
 A friendly corp recommended for lower levels. we help eachother out a
 nd do white stars
 ```
-### [Discord](https://discord.gg/GeUuDDSH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ nd do white stars
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

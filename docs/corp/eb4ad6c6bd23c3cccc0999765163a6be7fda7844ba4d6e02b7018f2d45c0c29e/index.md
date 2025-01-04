@@ -16,7 +16,6 @@ date: 1701864292
 Corpo FR active et vivante ! Recherche nouveaux membres actifs et int
 érésés pour continuer le jeu avec nous. 
 ```
-### [Discord](https://discord.gg/RKV9fSX3)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ Corpo FR active et vivante ! Recherche nouveaux membres actifs et int
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

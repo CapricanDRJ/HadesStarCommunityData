@@ -17,7 +17,6 @@ Casual Corp looking for like minded players. Discord is optional. Wee
 kly White Star with searches starting on Wednesdays. We have 1-2 open
  spots on our White Star group. 
 ```
-### [Discord](https://discord.gg/https://discord.gg/XAcW8fk2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ kly White Star with searches starting on Wednesdays. We have 1-2 open
 | Losses | 20 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

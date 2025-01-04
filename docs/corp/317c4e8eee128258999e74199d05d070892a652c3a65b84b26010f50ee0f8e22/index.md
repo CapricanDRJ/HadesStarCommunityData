@@ -26,7 +26,7 @@ War is hell.
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

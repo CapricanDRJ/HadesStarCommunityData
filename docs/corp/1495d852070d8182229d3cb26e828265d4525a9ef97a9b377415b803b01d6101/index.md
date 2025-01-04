@@ -14,22 +14,22 @@ date: 1734724296
 
 ```
 Ведётся набор. БЗ-ориентированная корпорация. Помогаем с артефактами.
- Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: https://d
-iscord.com/invite/y2m2V3WYtr
+ Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: [discord 
+url]
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
+### [Discord](https://discord.gg/y2m2V3WYtr)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔻  (203)|
-| ELO Competitive | 1332 🔻  (210)|
+| ELO Competitive | 1332 🔻  (209)|
 | Total Matches | 40 |
 | Wins | 20 |
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

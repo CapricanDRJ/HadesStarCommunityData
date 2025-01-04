@@ -27,7 +27,7 @@ chen Yu 副首席：我是神、神域联邦、唐家三少
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

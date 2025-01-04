@@ -15,7 +15,6 @@ date: 1709148762
 ```
 Кукумбер, груша, два кота
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/MhDzaS2P)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1709148762
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

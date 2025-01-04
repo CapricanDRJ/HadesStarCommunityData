@@ -24,14 +24,14 @@ Discord: sqaDS62zfW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1175)|
+| ELO Regular | 1135 🔻  (1174)|
 | ELO Competitive | 1225 🔻  (476)|
 | Total Matches | 31 |
 | Wins | 12 |
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

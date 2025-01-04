@@ -37,7 +37,7 @@ Discord mandatory.  <b>EEpZuWf</b>
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 4 |
-| Flagship | 11 |
+| Flagship | 0 |
 
 ---
 

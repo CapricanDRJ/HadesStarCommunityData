@@ -29,7 +29,7 @@ r="green">Русский, English
 | Losses | 48 |
 | Draws | 2 |
 | Streak Record | 6 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

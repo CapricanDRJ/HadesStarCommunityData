@@ -16,7 +16,6 @@ date: 1732424959
 Welcome to the clan, Steal what you can. Please join our Discord... N
 o Discord No Entry
 ```
-### [Discord](https://discord.gg/https://discord.gg/YyTC3Krh)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ o Discord No Entry
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

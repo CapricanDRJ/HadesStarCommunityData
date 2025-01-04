@@ -29,7 +29,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 | Losses | 50 |
 | Draws | 3 |
 | Streak Record | 8 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

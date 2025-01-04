@@ -26,7 +26,7 @@ Bacon goes great with......EVERYTHING!
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

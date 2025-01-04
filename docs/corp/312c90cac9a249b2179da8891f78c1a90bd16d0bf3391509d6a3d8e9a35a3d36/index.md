@@ -24,7 +24,7 @@ Join the family! Active on discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (75)|
+| ELO Regular | 1373 🔺  (76)|
 | ELO Competitive | 1452 🔺  (94)|
 | Total Matches | 60 |
 | Wins | 36 |
@@ -32,7 +32,7 @@ Join the family! Active on discord!
 | Draws | 3 |
 | Streak | 12 |
 | Streak Record | 12 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

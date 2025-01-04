@@ -27,7 +27,7 @@ idat. WS-ezés feltétele a discord.
 | Losses | 66 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

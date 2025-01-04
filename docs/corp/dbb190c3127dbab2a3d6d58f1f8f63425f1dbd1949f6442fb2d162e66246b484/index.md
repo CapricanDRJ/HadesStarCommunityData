@@ -14,8 +14,8 @@ date: 1734719187
 
 ```
 Soldiers that never give up on the battlefield despite the odds. Grea
-t team atmosphere, regular white/red stars. Active  members join us h
-ttps://discord.com/invite/rmzHUdXef7
+t team atmosphere, regular white/red stars. Active  members join us r
+mzHUdXef7
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ ttps://discord.com/invite/rmzHUdXef7
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 7 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

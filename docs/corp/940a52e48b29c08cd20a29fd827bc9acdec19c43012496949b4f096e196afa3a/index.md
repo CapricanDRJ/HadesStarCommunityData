@@ -25,7 +25,7 @@ Mighty Morphin' Power Rangers
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

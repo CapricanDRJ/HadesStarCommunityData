@@ -13,7 +13,7 @@ date: 1724029522
 
 
 ```
-Because you can't solo White Stars. https://discord.gg/GWA38Gx
+Because you can't solo White Stars. GWA38Gx
 ```
 ### Whitestar Bonus ❌
 
@@ -25,7 +25,7 @@ Because you can't solo White Stars. https://discord.gg/GWA38Gx
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

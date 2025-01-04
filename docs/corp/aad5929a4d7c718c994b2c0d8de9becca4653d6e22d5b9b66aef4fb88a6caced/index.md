@@ -30,7 +30,7 @@ de artefatos ∆
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 1 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

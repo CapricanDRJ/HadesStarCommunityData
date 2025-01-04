@@ -29,7 +29,7 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
 | Losses | 57 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

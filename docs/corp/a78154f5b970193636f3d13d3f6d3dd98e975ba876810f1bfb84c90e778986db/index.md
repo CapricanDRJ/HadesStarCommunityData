@@ -25,7 +25,7 @@ inaktiv <3
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

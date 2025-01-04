@@ -27,7 +27,7 @@ nt font les autres 😅
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

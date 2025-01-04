@@ -21,7 +21,7 @@ OntarioDynasty Family of Corps
 Multiple corps to support
 all RS levels & play styles. 
 
-https://discord.gg/gBFFE5x
+gBFFE5x
 
 od-family.com
 ```
@@ -35,7 +35,7 @@ od-family.com
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

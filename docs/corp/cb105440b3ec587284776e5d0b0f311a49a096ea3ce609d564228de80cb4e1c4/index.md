@@ -15,7 +15,7 @@ date: 1717392827
 ```
 Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
 
-https://discord.gg/EKJFqvs7XA
+EKJFqvs7XA
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ https://discord.gg/EKJFqvs7XA
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

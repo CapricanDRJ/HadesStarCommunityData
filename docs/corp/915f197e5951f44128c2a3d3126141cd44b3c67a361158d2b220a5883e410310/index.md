@@ -14,12 +14,11 @@ date: 1732806878
 
 ```
 <color="green">Набор через дискорд </color>
-https://discord.gg/E67DY45fPC
+[discord url]
 Еженедельное участие в БЗ
 Кз 4-10.
 Дискорд обязателен.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -32,7 +31,7 @@ https://discord.gg/E67DY45fPC
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 4 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

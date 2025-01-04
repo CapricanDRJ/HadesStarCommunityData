@@ -35,7 +35,7 @@ color=#111100><b></b></color>
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

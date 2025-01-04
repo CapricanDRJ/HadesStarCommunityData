@@ -27,7 +27,7 @@ Traut euch... bewirb dich noch heute 🖖🏻
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

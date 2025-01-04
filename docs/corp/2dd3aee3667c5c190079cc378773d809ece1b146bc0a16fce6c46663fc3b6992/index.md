@@ -29,7 +29,7 @@ WhatsApp: <color=#00FFFF>034 99879-2012</color>
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

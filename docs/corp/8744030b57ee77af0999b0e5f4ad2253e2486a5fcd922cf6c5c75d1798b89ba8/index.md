@@ -15,7 +15,7 @@ date: 1720103767
 ```
 United Nations Space Command.
 ```
-### [Discord](https://discord.gg/https://discord.gg/rbQwDdUp8A)
+### [Discord](https://discord.gg/rbQwDdUp8A)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +28,7 @@ United Nations Space Command.
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

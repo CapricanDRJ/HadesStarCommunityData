@@ -28,7 +28,7 @@ an) If u are not going to participate in white stars, tell me
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

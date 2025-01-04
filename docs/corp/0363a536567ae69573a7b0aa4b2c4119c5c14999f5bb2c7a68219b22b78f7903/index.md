@@ -17,7 +17,6 @@ Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a l
 os que nos necesiten y les daremos un ambiente comodo. | Existe un gr
 upo si deseas unirte solo consulta al primer oficial. 
 ```
-### [Discord](https://discord.gg/X6xAG8J9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ upo si deseas unirte solo consulta al primer oficial.
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

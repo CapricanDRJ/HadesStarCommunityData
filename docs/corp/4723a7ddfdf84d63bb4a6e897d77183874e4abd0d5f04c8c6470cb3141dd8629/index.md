@@ -26,7 +26,7 @@ Home to all as long as you are willing to contribute to our growth 🤝
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

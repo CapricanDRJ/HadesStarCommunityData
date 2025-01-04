@@ -29,7 +29,7 @@ rd for easier coordination and fun!
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

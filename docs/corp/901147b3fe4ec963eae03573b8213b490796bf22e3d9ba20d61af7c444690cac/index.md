@@ -29,7 +29,7 @@ r.Rs7 - Rs10Discord zorunludur.
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

@@ -19,7 +19,6 @@ date: 1735791984
 暗红组队群879848835
 神器交易群183736503
 ```
-### [Discord](https://discord.gg/https://discord.com/register)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -31,7 +30,7 @@ date: 1735791984
 | Losses | 73 |
 | Draws | 4 |
 | Streak Record | 7 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

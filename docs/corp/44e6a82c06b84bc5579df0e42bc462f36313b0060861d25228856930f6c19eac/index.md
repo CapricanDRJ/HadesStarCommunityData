@@ -27,7 +27,7 @@ Todoas las personas que puedan hablar español esta permitido aqui nos
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,6 @@ date: 1723877412
 ```
 要求：1．和平2．建国．2023年11·13早上·34．（2024年，5月太阳帝国.取代苏联
 ```
-### [Discord](https://discord.gg/11)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1723877412
 | Wins | 0 |
 | Losses | 15 |
 | Draws | 3 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

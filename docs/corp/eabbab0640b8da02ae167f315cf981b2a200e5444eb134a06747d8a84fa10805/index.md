@@ -17,19 +17,19 @@ WhiteStar with no Discord? Chat and play2win! New ACTIVES welcome. He
 lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
  star school) tips in mail. DailyDarkRed players 7-11
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/W4kNG43XDb)
+### [Discord](https://discord.gg/W4kNG43XDb)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔺  (1173)|
+| ELO Regular | 1136 🔺  (1172)|
 | ELO Competitive | 1380 🔺  (159)|
 | Total Matches | 107 |
 | Wins | 49 |
 | Losses | 58 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

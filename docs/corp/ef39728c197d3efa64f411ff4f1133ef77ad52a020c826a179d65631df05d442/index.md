@@ -17,11 +17,11 @@ date: 1709412292
  Star Clan...
 
 <color=#d6b800><size=60>⚠DISCORD⚠️</size></color>
-<color=#ffffff><size=60>https://discord.gg/SWAeyd</size></color>
+<color=#ffffff><size=60>[discord url]
 
 
 ```
-### [Discord](https://discord.gg/https://discord.gg/SWAeydhRy2)
+### [Discord](https://discord.gg/SWAeydhRy2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -32,7 +32,7 @@ date: 1709412292
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

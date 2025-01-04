@@ -17,7 +17,6 @@ Black Star llc corp a friendly place to hangout and grow. Join Discor
 d & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star l
 lc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
-### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ lc, Osmium star llc. Contribute to corp flag ship for WS.
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

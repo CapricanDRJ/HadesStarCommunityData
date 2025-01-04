@@ -27,7 +27,7 @@ elegram @actung_bunker
 | Losses | 91 |
 | Draws | 2 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

@@ -15,7 +15,6 @@ date: 1735021454
 ```
 Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
-### [Discord](https://discord.gg/https://t.me/Lyutyee)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ date: 1735021454
 | Draws | 1 |
 | Streak | 8 |
 | Streak Record | 8 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

@@ -30,7 +30,7 @@ When your ships blow, our relics will soar..
 | Wins | 0 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

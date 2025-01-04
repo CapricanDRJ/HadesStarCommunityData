@@ -15,7 +15,6 @@ date: 1735299689
 ```
 As long as you’re active you can stay.
 ```
-### [Discord](https://discord.gg/5Ty2Uqmu)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ As long as you’re active you can stay.
 | Losses | 39 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

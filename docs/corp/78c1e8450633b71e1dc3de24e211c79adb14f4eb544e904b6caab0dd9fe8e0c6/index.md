@@ -17,7 +17,6 @@ date: 1707314198
  uma aliança militar e econômica com o objetivo de unir impérios cont
 ra as forças <color=red>Cerberus</color>. Aceitamos todos.
 ```
-### [Discord](https://discord.gg/UFK4q6nABF)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ ra as forças <color=red>Cerberus</color>. Aceitamos todos.
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

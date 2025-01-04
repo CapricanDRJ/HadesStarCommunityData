@@ -32,7 +32,7 @@ ders and a focus on WS!
 | Draws | 0 |
 | Streak | 11 |
 | Streak Record | 29 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -17,7 +17,6 @@ date: 1735688498
 事 2集团不强制打白,需要请联系干事 3所有成员都有义务互帮互助，可量力进行捐赠。集团不限等级所有人均可加入,大家提起携手共进。企鹅群59
 3906941
 ```
-### [Discord](https://discord.gg/593906941)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1735688498
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

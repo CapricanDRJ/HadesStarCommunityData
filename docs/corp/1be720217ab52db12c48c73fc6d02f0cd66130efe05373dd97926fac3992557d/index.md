@@ -29,7 +29,7 @@ date: 1735933979
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 7 |
-| Flagship | 12 |
+| Flagship | 0 |
 
 ---
 

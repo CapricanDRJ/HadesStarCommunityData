@@ -29,7 +29,7 @@ also come aboard🙏. Thank you as you join us😘
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 10 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

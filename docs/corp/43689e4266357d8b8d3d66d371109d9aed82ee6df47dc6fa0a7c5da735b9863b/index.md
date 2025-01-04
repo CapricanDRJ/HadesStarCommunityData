@@ -21,7 +21,7 @@ RS 11 to RS 8
 
 Join our discord <b>first</b> if you want to join our corp.
 
-https://discord.gg/gBFFE5x
+[discord url]
 
 od-family.com
 ```
@@ -37,7 +37,7 @@ od-family.com
 | Losses | 28 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

@@ -25,7 +25,7 @@ Mostly PvE red star
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

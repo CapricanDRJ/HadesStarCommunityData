@@ -15,7 +15,7 @@ date: 1735666549
 ```
 Casual group of mostly Canadians, all are welcome. White stars every 
 week, red stars whenever we can.
-Discord: https://discord.gg/S6fvaKp
+Discord: S6fvaKp
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ Discord: https://discord.gg/S6fvaKp
 | Wins | 0 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 9 |
+| Flagship | 0 |
 
 ---
 

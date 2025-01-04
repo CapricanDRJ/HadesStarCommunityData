@@ -17,7 +17,6 @@ BIENVENIDOS a esta humilde corporación, ayudaremos en lo que nesecite
 n a nuevos miembros de er2-er7 estrella roja=ER estrella azul=EA estr
 ella blanca=EB EB cuando se nos salga de los huevos 
 ```
-### [Discord](https://discord.gg/invite/MwEdMAZu)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ ella blanca=EB EB cuando se nos salga de los huevos
 | Losses | 28 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

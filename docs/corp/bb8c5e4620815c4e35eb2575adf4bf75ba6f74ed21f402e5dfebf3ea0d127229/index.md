@@ -25,7 +25,7 @@ This is a team building exercise
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

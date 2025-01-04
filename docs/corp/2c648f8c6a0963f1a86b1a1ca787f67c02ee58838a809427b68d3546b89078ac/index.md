@@ -17,7 +17,6 @@ date: 1735403054
  invaders out）让我们在游戏里面做大做强，再创辉煌！打倒外国帝国主义！分团：                         
  100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了
 ```
-### [Discord](https://discord.gg/54188)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ date: 1735403054
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

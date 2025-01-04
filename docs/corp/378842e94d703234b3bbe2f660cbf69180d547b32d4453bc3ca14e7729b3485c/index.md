@@ -27,7 +27,7 @@ po,todos los nuevos seran acendidos inmediatamente
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 2 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

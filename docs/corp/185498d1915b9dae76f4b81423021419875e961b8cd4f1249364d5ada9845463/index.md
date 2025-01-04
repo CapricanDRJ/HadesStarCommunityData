@@ -13,10 +13,8 @@ date: 1726836191
 
 
 ```
-Центр психологической поддержки после Голубых Звезд https://discord.g
-g/n4kzEbKs
+Центр психологической поддержки после Голубых Звезд [discord url]
 ```
-### [Discord](https://discord.gg/n4kzEbKs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +25,7 @@ g/n4kzEbKs
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -18,7 +18,7 @@ date: 1734723695
 Discord is mandatory! 
 
 Visit us on discord  to join:
-https://discord.gg/ysGrswJTUp
+[discord url]
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
@@ -33,7 +33,7 @@ https://discord.gg/ysGrswJTUp
 | Draws | 0 |
 | Streak | 10 |
 | Streak Record | 10 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

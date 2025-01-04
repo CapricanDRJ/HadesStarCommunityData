@@ -16,7 +16,7 @@ date: 1709316439
 This corp has moved to Mandaloians (corp), join us there. Discord lin
 k below.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/JCufnsN57Y)
+### [Discord](https://discord.gg/JCufnsN57Y)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +28,7 @@ k below.
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

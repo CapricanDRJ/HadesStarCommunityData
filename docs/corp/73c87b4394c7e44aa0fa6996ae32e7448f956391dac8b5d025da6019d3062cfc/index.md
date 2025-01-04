@@ -29,7 +29,7 @@ frequency: Once a week, starting on Thursdays.
 | Losses | 21 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

@@ -30,7 +30,7 @@ Discord required : discord.gg/2RmfWZB777
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

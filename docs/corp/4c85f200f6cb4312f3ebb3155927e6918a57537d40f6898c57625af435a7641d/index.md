@@ -27,7 +27,7 @@ w game policy we have decided to abandon the game.  12/20/2023
 | Wins | 0 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

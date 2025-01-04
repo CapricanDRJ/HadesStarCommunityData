@@ -23,7 +23,6 @@ date: 1702529096
 频道QQ群695410371
 不要外交黑名单
 ```
-### [Discord](https://discord.gg/SK48856)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -34,7 +33,7 @@ date: 1702529096
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

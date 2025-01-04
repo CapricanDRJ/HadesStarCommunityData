@@ -19,7 +19,7 @@ Pants not required
 
 
 contact us via Discord to join:
-https://discord.gg/gBFFE5x
+gBFFE5x
 
 od-family.com
 ```
@@ -34,7 +34,7 @@ od-family.com
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

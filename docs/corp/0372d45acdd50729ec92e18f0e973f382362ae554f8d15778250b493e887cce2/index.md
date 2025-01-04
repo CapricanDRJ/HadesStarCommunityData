@@ -28,7 +28,7 @@ size><size="50"> So Say We All</size></b></color>
 | Losses | 27 |
 | Draws | 5 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ rk Red Stars. (First Language: English)
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 13 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

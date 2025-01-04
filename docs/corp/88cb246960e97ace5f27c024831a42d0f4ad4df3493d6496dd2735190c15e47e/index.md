@@ -19,7 +19,7 @@ date: 1733580670
 ★二团：南玄星云
 ★玄冥Q群：1037697956
 ★华人Q群：597444221
-★Discord：https://discord.gg/yMRBXE9VZ4
+★Discord：yMRBXE9VZ4
 ★北冥建立时间：2020.7.8
 
 ღ愿世界平和，愿人们的温柔永存
@@ -28,13 +28,13 @@ date: 1733580670
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1176)|
+| ELO Regular | 1135 🔻  (1175)|
 | ELO Competitive | 1159 🔻  (1184)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

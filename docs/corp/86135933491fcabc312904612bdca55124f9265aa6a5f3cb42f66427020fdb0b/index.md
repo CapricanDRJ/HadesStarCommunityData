@@ -29,7 +29,7 @@ rience and have some fun!
 | Losses | 21 |
 | Draws | 1 |
 | Streak Record | 12 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

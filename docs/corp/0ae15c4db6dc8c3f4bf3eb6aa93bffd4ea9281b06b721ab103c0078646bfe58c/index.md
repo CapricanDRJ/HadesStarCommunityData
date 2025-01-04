@@ -32,7 +32,7 @@ t.me/CorpSputnik
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 17 |
-| Flagship | 11 |
+| Flagship | 0 |
 
 ---
 

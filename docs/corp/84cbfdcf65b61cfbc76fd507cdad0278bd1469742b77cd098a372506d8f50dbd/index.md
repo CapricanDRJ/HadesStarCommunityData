@@ -13,8 +13,7 @@ date: 1716917436
 
 
 ```
-New and old welcome have fun discord is.     http://discord.com/invit
-e/38UnuWwp
+New and old welcome have fun discord is.     38UnuWwp
 ```
 ### Whitestar Bonus ❌
 
@@ -26,7 +25,7 @@ e/38UnuWwp
 | Wins | 3 |
 | Losses | 12 |
 | Draws | 1 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

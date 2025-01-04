@@ -34,7 +34,7 @@ vGfaYFN
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 5 |
-| Flagship | 11 |
+| Flagship | 0 |
 
 ---
 

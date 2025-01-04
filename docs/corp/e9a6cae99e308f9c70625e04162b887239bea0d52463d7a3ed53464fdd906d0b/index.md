@@ -27,7 +27,7 @@ ange, <color=red>WS no peace only war :) </color>Recruiting now
 | Wins | 0 |
 | Losses | 17 |
 | Draws | 0 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

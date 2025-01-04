@@ -29,7 +29,7 @@ o nosso grupo no Wpp pelo chat!
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

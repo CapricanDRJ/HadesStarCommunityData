@@ -31,7 +31,7 @@ New Discord: nxEZwvgcg3
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

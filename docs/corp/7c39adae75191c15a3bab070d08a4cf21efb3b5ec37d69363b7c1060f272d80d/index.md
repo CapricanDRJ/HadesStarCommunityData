@@ -15,7 +15,6 @@ date: 1712788428
 ```
 Afk
 ```
-### [Discord](https://discord.gg/2zKhKvHw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -27,7 +26,7 @@ Afk
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

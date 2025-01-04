@@ -31,7 +31,7 @@ Juntos somos mais fortes.
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

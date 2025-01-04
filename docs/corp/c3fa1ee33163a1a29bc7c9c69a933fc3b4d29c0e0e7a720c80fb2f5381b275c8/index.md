@@ -14,7 +14,7 @@ date: 1732941505
 
 ```
 ОБЯЗАТЕЛЬНЫЕ условия:
-- Наличие дискорда https://discord.gg/s7nmhGXugM
+- Наличие дискорда [discord url]
 - КЗ 6 и выше
 - Участие в походах на БЗ 
 - Общительность 
@@ -35,7 +35,7 @@ date: 1732941505
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 31 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

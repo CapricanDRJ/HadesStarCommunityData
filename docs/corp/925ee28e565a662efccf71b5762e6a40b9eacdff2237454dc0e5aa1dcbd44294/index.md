@@ -26,7 +26,7 @@ SOLO GENTE ACTIVA
 | Losses | 2 |
 | Draws | 2 |
 | Streak Record | 7 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

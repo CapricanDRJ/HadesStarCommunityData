@@ -26,7 +26,7 @@ GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO
 | Wins | 2 |
 | Losses | 25 |
 | Draws | 4 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

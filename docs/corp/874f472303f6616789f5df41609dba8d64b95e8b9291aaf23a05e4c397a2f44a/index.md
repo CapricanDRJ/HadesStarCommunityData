@@ -29,7 +29,7 @@ a gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

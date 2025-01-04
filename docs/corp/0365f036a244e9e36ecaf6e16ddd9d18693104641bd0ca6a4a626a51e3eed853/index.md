@@ -26,7 +26,7 @@ s to rs artifacts
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

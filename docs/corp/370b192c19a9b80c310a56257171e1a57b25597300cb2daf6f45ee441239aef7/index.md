@@ -15,7 +15,7 @@ date: 1707724502
 ```
 Warlord retirement village.  Stay off my lawn!
 discord or kick
-https://discord.gg/eMsE7sU
+eMsE7sU
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +27,7 @@ https://discord.gg/eMsE7sU
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

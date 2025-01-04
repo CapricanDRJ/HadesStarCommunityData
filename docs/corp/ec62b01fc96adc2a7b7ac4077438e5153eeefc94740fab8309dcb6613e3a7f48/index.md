@@ -27,7 +27,7 @@ e lose amd every two weeks if we win. No discord required.
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

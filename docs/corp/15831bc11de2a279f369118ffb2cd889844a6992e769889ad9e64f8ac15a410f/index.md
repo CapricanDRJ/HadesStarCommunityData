@@ -29,7 +29,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

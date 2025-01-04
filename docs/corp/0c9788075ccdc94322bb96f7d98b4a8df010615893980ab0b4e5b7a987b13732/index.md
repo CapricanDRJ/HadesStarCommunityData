@@ -15,7 +15,6 @@ date: 1718589338
 ```
 
 ```
-### [Discord](https://discord.gg/https://discord.gg/PcYN9dnt)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1718589338
 | Wins | 2 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

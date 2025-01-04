@@ -28,7 +28,7 @@ tivity and participation very welcome
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

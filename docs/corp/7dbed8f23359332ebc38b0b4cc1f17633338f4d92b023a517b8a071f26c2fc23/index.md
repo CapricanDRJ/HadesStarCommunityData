@@ -14,8 +14,7 @@ date: 1709068832
 
 ```
 After Dark Nebula, we're trying to figure it out and rebuilding.  Joi
-n the gang, looking for active players. https://discord.com/invite/NF
-yP4WnNqW
+n the gang, looking for active players. NFyP4WnNqW
 ```
 ### Whitestar Bonus ❌
 
@@ -27,7 +26,7 @@ yP4WnNqW
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 10 |
+| Flagship | 0 |
 
 ---
 

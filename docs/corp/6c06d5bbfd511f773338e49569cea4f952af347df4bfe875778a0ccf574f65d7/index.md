@@ -25,7 +25,7 @@ Her taler vi dansk (Danish only)
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

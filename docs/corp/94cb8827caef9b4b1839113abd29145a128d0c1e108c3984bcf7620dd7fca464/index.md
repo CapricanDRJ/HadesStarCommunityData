@@ -34,7 +34,7 @@ Discord is mandatory:
 | Draws | 0 |
 | Streak | 11 |
 | Streak Record | 11 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

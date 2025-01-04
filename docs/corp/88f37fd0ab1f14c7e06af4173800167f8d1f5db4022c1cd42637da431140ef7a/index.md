@@ -28,7 +28,7 @@ d Star, let us know and we'll help. Let's Finish the Game!
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 18 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

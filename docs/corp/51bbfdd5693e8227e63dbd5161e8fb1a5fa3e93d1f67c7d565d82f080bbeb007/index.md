@@ -16,7 +16,6 @@ date: 1723404717
 Active, tight-knit, fun and friendly. <b>Part of the Space Pals group
 </b> Discord mandatory. Click the link 'Corporation Discord' below.
 ```
-### [Discord](https://discord.gg/3A9WHQV )
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -28,7 +27,7 @@ Active, tight-knit, fun and friendly. <b>Part of the Space Pals group
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 11 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

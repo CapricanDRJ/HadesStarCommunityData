@@ -29,7 +29,7 @@ our main language in chat.
 | Losses | 40 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

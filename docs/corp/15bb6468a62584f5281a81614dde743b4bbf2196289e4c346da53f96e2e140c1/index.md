@@ -17,7 +17,6 @@ date: 1735863062
  додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефакті
 в, допомога та поради, за бажанням досвід в боях за білу зірку
 ```
-### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ date: 1735863062
 | Draws | 1 |
 | Streak | 12 |
 | Streak Record | 12 |
-| Flagship | 11 |
+| Flagship | 0 |
 
 ---
 

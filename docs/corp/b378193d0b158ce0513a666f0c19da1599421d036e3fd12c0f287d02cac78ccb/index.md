@@ -27,7 +27,7 @@ FF WS scanner if unable to participate.
 | Wins | 0 |
 | Losses | 13 |
 | Draws | 1 |
-| Flagship | 2 |
+| Flagship | 0 |
 
 ---
 

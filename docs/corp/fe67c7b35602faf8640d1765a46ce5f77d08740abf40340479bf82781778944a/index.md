@@ -34,7 +34,7 @@ QQ群号：742063070
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

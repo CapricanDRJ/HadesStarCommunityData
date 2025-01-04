@@ -30,7 +30,7 @@ weekly White Stars - enable scanner to opt-in! Discord advised
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

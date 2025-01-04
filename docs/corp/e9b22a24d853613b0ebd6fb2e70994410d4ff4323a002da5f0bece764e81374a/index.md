@@ -19,9 +19,8 @@ RS 9 to RS 6
 Join us on discord for chat,
 advice, beer and kisses.
 
-https://discord.gg/GdYCEhTeq
+[discord url]
 ```
-### [Discord](https://discord.gg/GdYCEhTeq)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -33,7 +32,7 @@ https://discord.gg/GdYCEhTeq
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

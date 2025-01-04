@@ -29,7 +29,7 @@ Discord obligatoire
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

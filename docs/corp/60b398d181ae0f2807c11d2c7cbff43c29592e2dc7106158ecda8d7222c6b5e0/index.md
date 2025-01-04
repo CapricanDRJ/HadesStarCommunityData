@@ -18,7 +18,7 @@ date: 1704522124
 Планируем совместный поход на БЗ. 
 Так же запрещается мат, особенно оскорбление участников корпы. 
  Дискорд :
-https://discord.gg/dZYNzuwr
+dZYNzuwr
 ```
 ### Whitestar Bonus ❌
 
@@ -30,7 +30,7 @@ https://discord.gg/dZYNzuwr
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

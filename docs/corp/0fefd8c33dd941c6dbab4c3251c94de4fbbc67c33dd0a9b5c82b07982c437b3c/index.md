@@ -26,7 +26,7 @@ Lesbians and Gaytelmen, Welcome to the FAILURES!!!
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

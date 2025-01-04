@@ -33,7 +33,7 @@ If kicked for inactivity, please join back when ready.
 | Losses | 38 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

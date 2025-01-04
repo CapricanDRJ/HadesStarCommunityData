@@ -14,7 +14,7 @@ date: 1733839975
 
 ```
 Bienvenue à tous les aventuriers galactique !
-https://discord.gg/M8HFPDG
+M8HFPDG
 ```
 ### Whitestar Bonus ❌
 
@@ -26,7 +26,7 @@ https://discord.gg/M8HFPDG
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

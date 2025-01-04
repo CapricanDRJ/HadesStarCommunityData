@@ -17,7 +17,6 @@ Chill Corporation. English. White stars not required but encouraged i
 f possible. Come here to develop, help with red stars. Please stay re
 latively active. Discord not required but recommended.
 ```
-### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ latively active. Discord not required but recommended.
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

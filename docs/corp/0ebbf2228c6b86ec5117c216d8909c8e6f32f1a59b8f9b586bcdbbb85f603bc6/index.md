@@ -15,7 +15,7 @@ date: 1735924041
 ```
 ΜΟΛΩΝ ΛΑΒΕ!
 
-https://discord.gg/DDhaupc
+[discord url]
 ```
 ### [Discord](https://discord.gg/DDhaupc)
 ### Whitestar Bonus ✅
@@ -29,7 +29,7 @@ https://discord.gg/DDhaupc
 | Losses | 27 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -28,7 +28,7 @@ kick-off d'idéation de projet consultative du phallus de Fred
 | Losses | 26 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

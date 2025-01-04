@@ -36,7 +36,7 @@ White Star focused.
 | Draws | 1 |
 | Streak | 4 |
 | Streak Record | 17 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

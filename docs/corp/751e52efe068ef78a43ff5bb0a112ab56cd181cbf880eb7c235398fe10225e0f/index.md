@@ -15,7 +15,6 @@ date: 1701667744
 ```
 За сталкер, за Монолит!
 ```
-### [Discord](https://discord.gg/invite/EsqXdmCJ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -26,7 +25,7 @@ date: 1701667744
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 1 |
+| Flagship | 0 |
 
 ---
 

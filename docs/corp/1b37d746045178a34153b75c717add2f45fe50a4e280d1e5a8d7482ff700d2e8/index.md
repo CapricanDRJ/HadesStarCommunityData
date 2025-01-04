@@ -26,7 +26,7 @@ Easy going fun. Must be active, respectful and enjoy a laugh. Over 20
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

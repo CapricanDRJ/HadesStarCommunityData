@@ -16,7 +16,7 @@ date: 1730115015
 корпа для активних гравців
 кз 1-9, також регулярні бз.
 Посилання на Discord:
-https://discord.gg/thfx8WYSru
+thfx8WYSru
 є Telegram 
 ```
 ### Whitestar Bonus ❌
@@ -30,7 +30,7 @@ https://discord.gg/thfx8WYSru
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

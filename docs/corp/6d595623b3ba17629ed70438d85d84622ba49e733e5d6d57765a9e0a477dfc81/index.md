@@ -26,7 +26,6 @@ QQ群号为131920392，
 
 让我们一起“逐梦龙腾，携手共进”吧！
 ```
-### [Discord](https://discord.gg/猫娘喵喵喵)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -38,7 +37,7 @@ QQ群号为131920392，
 | Losses | 45 |
 | Draws | 3 |
 | Streak Record | 5 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

@@ -20,7 +20,7 @@ Wir Fliegen von klein bis größer
 RR0--6.
 
 Jetzt auch mit discord! 
-https://discord.gg/K3TTj9ED
+K3TTj9ED
 ```
 ### Whitestar Bonus ❌
 
@@ -32,7 +32,7 @@ https://discord.gg/K3TTj9ED
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

@@ -27,7 +27,7 @@ en。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

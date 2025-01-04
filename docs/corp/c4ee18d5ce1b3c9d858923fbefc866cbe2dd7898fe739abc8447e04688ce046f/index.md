@@ -17,7 +17,7 @@ Just a friendly group of peeps
 White Star mondays 
 
 Discord Optional:
-https://discord.gg/SCWbttfZbU
+SCWbttfZbU
 ```
 ### Whitestar Bonus ❌
 
@@ -29,7 +29,7 @@ https://discord.gg/SCWbttfZbU
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

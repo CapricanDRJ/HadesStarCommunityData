@@ -17,7 +17,7 @@ Welcome to Rogue dudes
 We like active players
 we will help you in need any time ask help of needed
 any level is ok
-Discord:https://discord:gg/HA83rt6E
+Discord:[broken url]
 
 MAIN=SENIOR MEMBER
 ALT=NO PROMOTION
@@ -34,7 +34,7 @@ ALT=NO PROMOTION
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

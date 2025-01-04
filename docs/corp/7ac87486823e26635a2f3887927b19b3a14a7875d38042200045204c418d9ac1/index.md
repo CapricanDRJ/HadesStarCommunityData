@@ -29,7 +29,7 @@ Deutscher Konzern für Fortgeschrittene
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

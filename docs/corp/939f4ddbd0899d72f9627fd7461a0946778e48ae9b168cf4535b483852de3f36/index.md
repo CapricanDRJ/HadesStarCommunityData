@@ -17,7 +17,6 @@ Achieving greatness through economic stability in local planets, adva
 nced mining capabilities, interstellar diplomacy, and conservative mi
 litary strength. 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/fd8ppQbcH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -30,7 +29,7 @@ litary strength.
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 3 |
+| Flagship | 0 |
 
 ---
 

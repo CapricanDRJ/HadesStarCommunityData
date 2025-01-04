@@ -15,9 +15,8 @@ date: 1729244103
 ```
 Corporation active et joueuse.WS régulièrement prévues. 
  Discord obligatoire pour les WS. Merci :) 
-Lien: https://discord.gg/gaBKUb5t
+Lien: [discord url]
 ```
-### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -29,7 +28,7 @@ Lien: https://discord.gg/gaBKUb5t
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

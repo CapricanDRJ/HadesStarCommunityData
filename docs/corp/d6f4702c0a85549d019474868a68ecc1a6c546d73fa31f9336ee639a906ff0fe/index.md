@@ -28,7 +28,7 @@ deadline though. We all do what we do when we do it...
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

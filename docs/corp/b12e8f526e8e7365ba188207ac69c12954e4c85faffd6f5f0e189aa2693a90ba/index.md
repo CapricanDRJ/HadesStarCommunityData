@@ -33,7 +33,7 @@ Alianza Axolotls
 | Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

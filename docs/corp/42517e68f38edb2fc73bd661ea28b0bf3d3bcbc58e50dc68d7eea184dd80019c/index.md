@@ -29,7 +29,7 @@ discord.gg/Rup2ee8DxR
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

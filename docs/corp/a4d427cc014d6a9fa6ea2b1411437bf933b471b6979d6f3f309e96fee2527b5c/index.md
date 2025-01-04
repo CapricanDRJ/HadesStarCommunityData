@@ -28,7 +28,7 @@ r, John Redd. We do not serve under a flag but only through one ideal
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 4 |
+| Flagship | 0 |
 
 ---
 

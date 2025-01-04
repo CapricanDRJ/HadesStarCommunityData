@@ -30,7 +30,7 @@ established '18
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

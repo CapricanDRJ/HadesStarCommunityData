@@ -16,7 +16,7 @@ date: 1715188047
 Following  the learning curve. Active participation is expected. Plea
 se turn off your White Star scanner if not participating
 
-Discord - https://discord.gg/ZUeGK83 (optional, not required)
+Discord - ZUeGK83 (optional, not required)
 ```
 ### Whitestar Bonus ❌
 
@@ -28,7 +28,7 @@ Discord - https://discord.gg/ZUeGK83 (optional, not required)
 | Wins | 1 |
 | Losses | 13 |
 | Draws | 1 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

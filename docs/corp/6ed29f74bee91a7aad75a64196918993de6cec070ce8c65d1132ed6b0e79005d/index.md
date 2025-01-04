@@ -28,7 +28,7 @@ ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 5 |
+| Flagship | 0 |
 
 ---
 

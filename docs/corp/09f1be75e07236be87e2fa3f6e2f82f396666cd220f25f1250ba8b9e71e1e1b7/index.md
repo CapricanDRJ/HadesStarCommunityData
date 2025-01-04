@@ -19,7 +19,7 @@ RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 ```
-### [Discord](https://discord.gg/discord.gg/BFfSkvu)
+### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -31,7 +31,7 @@ RS 7+ see Lacuna Holdings
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 7 |
+| Flagship | 0 |
 
 ---
 

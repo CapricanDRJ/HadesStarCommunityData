@@ -34,7 +34,7 @@ FS2 - Closed
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 8 |
-| Flagship | 8 |
+| Flagship | 0 |
 
 ---
 

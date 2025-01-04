@@ -29,7 +29,7 @@ https://t.me/+k9Bv8nU9QW80NmFi
 | Wins | 0 |
 | Losses | 10 |
 | Draws | 0 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 

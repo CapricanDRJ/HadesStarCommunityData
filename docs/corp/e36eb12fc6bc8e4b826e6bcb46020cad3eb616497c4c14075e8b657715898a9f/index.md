@@ -27,7 +27,7 @@ Lost in Space...? Dann komm zu uns!
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 6 |
+| Flagship | 0 |
 
 ---
 
