@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:14 L:8 D:0 Bonus ✅
+description: W:14 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735365381
 ---
@@ -15,7 +15,7 @@ date: 1735365381
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

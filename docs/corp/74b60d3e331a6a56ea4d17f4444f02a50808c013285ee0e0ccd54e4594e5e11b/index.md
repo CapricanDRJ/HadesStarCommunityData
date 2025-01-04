@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​русь 
-description: W:71 L:41 D:0 Bonus ✅
+description: W:71 L:41 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735362489
 ---
@@ -17,7 +17,7 @@ date: 1735362489
 бязателен для вступления.
 ```
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

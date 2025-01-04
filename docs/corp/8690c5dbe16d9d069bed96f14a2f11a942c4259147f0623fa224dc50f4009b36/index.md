@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Кулак
-description: W:23 L:74 D:0 Bonus ✅
+description: W:23 L:74 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735965824
 ---
@@ -17,7 +17,7 @@ date: 1735965824
 ным путевкам". С.П.Королев. Добро пожаловать в Профсоюз! Играем "лени
 вые" бз! </b></color></size>. https://t.me/corpkulak
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

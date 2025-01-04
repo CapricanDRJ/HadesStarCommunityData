@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KhaOSs
-description: W:1 L:3 D:0 Bonus ✅
+description: W:1 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735365381
 ---
@@ -20,7 +20,7 @@ CLM
 SpN
 EUR
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
