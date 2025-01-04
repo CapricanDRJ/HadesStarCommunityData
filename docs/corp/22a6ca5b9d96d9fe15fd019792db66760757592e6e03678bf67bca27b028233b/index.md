@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​АарнСарт 
-description: W:6 L:0 D:0 Bonus ✅
+description: W:6 L:1 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735377810
+date: 1735982949
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,16 @@ date: 1735377810
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (183)|
-| ELO Competitive | 1289 🔺  (297)|
-| Total Matches | 6 |
+| ELO Regular | 1272 🔻  (206)|
+| ELO Competitive | 1274 🔻  (324)|
+| Total Matches | 7 |
 | Wins | 6 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/04 | 0-5 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ✅ | 2024/12/28 | 11-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/12/28 | 24-2 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/12/21 | 14-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
