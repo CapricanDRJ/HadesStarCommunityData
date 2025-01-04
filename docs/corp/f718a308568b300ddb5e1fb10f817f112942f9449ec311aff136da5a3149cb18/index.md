@@ -25,7 +25,7 @@ qWTndzwmtX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (238)|
+| ELO Regular | 1255 🔺  (237)|
 | ELO Competitive | 1255 🔺  (384)|
 | Total Matches | 4 |
 | Wins | 4 |

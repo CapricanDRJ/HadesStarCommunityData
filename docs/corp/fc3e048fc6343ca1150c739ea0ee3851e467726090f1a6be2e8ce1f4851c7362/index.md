@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ГОРИЗОНТ
-description: W:25 L:75 D:0 Bonus ✅
+description: W:25 L:75 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735333351
 ---
@@ -17,7 +17,7 @@ date: 1735333351
 з политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi
 ```
 ### [Discord](https://discord.gg/hn2S7qy58g)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
