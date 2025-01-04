@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Glashan
-description: W:11 L:40 D:0 Bonus ❌
+description: W:11 L:41 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734933717
+date: 1735972433
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ our main language in chat.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔻  (1271)|
-| ELO Competitive | 1148 🔻  (1234)|
-| Total Matches | 51 |
+| ELO Regular | 1094 🔻  (1282)|
+| ELO Competitive | 1144 🔻  (1255)|
+| Total Matches | 52 |
 | Wins | 11 |
-| Losses | 40 |
+| Losses | 41 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734501717,1733924804,1733317832,1732810005,1732306362,1731697564,1731230592,1730773530,1730021379,1729470874,1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
+        let timestamps = [1735540433,1734501717,1733924804,1733317832,1732810005,1732306362,1731697564,1731230592,1730773530,1730021379,1729470874,1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) | 0 | 2 | 0 | 2 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1 | 1 | 0 | 2 |
 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 0 | 2 | 0 | 2 |
 | [Медведи](https://ws.tsl.rocks/corp/b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/04 | 4-19 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/12/23 | 0-10 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2024/12/16 | 0-25 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2024/12/09 | 4-9 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
