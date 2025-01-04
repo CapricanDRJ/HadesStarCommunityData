@@ -20,8 +20,8 @@ Poggy Rockers in the house tonight
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (376)|
-| ELO Competitive | 1339 🔻  (201)|
+| ELO Regular | 1217 🔻  (377)|
+| ELO Competitive | 1339 🔻  (202)|
 | Total Matches | 57 |
 | Wins | 33 |
 | Losses | 21 |

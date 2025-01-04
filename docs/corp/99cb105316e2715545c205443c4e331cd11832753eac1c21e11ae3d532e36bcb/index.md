@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:4 L:3 D:2 Bonus ❌
+description: W:5 L:3 D:2 Bonus ✅
 image: ./favicon.png
-date: 1722838251
+date: 1736000980
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1722838251
 ```
 欢迎大家的加入♡
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (465)|
-| ELO Competitive | 1210 🔻  (587)|
-| Total Matches | 9 |
-| Wins | 4 |
+| ELO Regular | 1220 🔺  (359)|
+| ELO Competitive | 1224 🔺  (482)|
+| Total Matches | 10 |
+| Wins | 5 |
 | Losses | 3 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
+        let timestamps = [1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/04 | 18-0 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ❌ | 2024/08/05 | 4-15 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/07/31 | 0-11 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 | ❌ | 2024/07/02 | 0-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
