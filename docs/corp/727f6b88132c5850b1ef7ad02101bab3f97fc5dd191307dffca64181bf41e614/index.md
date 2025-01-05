@@ -21,7 +21,7 @@ or=#ffff55>STRVS233~</color><br>KOOK:[discord url]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1276 🔻  (199)|
-| ELO Competitive | 1310 🔻  (250)|
+| ELO Competitive | 1310 🔻  (251)|
 | Total Matches | 27 |
 | Wins | 17 |
 | Losses | 10 |

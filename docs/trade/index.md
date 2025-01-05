@@ -77,6 +77,57 @@ permalink: /trade/
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Caprican 😈</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>3</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS11</td>
+                    <td>248%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>248%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>248%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>10</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>200%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">Kaila</th>
         </tr>
         <tr>
