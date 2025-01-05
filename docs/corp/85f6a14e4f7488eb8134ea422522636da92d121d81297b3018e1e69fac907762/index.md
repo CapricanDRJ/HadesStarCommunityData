@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:37 L:41 D:5 Bonus ✅
+description: W:37 L:41 D:5 Bonus ❌
 image: ./favicon.png
 date: 1735939087
 ---
@@ -16,11 +16,11 @@ date: 1735939087
 Looking for active player to do Casual whitestar every week. No disco
 rd.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1030)|
+| ELO Regular | 1161 🔻  (1032)|
 | ELO Competitive | 1303 🔻  (266)|
 | Total Matches | 83 |
 | Wins | 37 |

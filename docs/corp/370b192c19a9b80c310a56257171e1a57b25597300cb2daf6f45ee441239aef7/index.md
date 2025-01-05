@@ -21,8 +21,8 @@ eMsE7sU
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (811)|
-| ELO Competitive | 1187 🔻  (819)|
+| ELO Regular | 1184 🔻  (812)|
+| ELO Competitive | 1187 🔻  (821)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

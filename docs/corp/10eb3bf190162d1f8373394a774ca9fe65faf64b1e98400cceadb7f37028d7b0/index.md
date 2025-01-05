@@ -21,8 +21,8 @@ ll enemy forces! We are a small, recently created group of determined
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1288)|
-| ELO Competitive | 1108 🔻  (1318)|
+| ELO Regular | 1089 🔻  (1290)|
+| ELO Competitive | 1108 🔻  (1320)|
 | Total Matches | 19 |
 | Wins | 4 |
 | Losses | 14 |

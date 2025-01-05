@@ -21,7 +21,7 @@ kly WS's and daily Corp runs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (661)|
+| ELO Regular | 1187 🔻  (663)|
 | ELO Competitive | 1270 🔻  (341)|
 | Total Matches | 59 |
 | Wins | 22 |

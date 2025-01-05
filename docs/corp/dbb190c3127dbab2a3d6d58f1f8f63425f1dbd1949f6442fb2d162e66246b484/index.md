@@ -22,7 +22,7 @@ mzHUdXef7
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1317 🔺  (136)|
-| ELO Competitive | 1341 🔺  (198)|
+| ELO Competitive | 1341 🔺  (199)|
 | Total Matches | 25 |
 | Wins | 19 |
 | Losses | 5 |

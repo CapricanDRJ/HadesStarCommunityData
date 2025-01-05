@@ -26,8 +26,8 @@ K3TTj9ED
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (896)|
-| ELO Competitive | 1174 🔻  (1039)|
+| ELO Regular | 1174 🔻  (898)|
+| ELO Competitive | 1174 🔻  (1041)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

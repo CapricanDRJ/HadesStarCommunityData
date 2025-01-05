@@ -24,8 +24,8 @@ dZYNzuwr
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (628)|
-| ELO Competitive | 1188 🔻  (804)|
+| ELO Regular | 1188 🔻  (629)|
+| ELO Competitive | 1188 🔻  (806)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

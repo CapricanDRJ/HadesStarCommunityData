@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Empire of Hades
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735843530
+date: 1736081508
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1735843530
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (330)|
+| ELO Regular | 1214 🔻  (417)|
 | ELO Competitive | 1249 🔺  (404)|
-| Total Matches | 6 |
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
+        let timestamps = [1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/05 | 0-10 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2025/01/02 | 9-2 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/12/27 | 0-8 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ✅ | 2024/12/27 | 6-1 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
