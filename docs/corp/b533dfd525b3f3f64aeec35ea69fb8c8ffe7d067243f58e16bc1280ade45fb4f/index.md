@@ -26,7 +26,7 @@ WKdC8XW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (585)|
+| ELO Regular | 1191 🔻  (586)|
 | ELO Competitive | 1190 🔻  (765)|
 | Total Matches | 5 |
 | Wins | 2 |

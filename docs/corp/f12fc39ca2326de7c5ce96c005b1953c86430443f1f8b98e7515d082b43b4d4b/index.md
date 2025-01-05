@@ -25,7 +25,7 @@ Part of Red Star Raiders alliance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (183)|
+| ELO Regular | 1287 🔻  (182)|
 | ELO Competitive | 1377 🔻  (164)|
 | Total Matches | 55 |
 | Wins | 35 |

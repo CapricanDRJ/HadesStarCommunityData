@@ -20,7 +20,7 @@ NuvtUTUxQj
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (464)|
+| ELO Regular | 1208 🔺  (465)|
 | ELO Competitive | 1239 🔺  (436)|
 | Total Matches | 21 |
 | Wins | 7 |
