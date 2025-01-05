@@ -19,7 +19,7 @@ Charter and Comander
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (945)|
+| ELO Regular | 1171 🔻  (944)|
 | ELO Competitive | 1171 🔻  (1099)|
 | Total Matches | 2 |
 | Wins | 0 |

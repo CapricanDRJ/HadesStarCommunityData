@@ -25,7 +25,7 @@ WS HL hebdo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (355)|
+| ELO Regular | 1221 🔻  (353)|
 | ELO Competitive | 1467 🔻  (80)|
 | Total Matches | 101 |
 | Wins | 54 |

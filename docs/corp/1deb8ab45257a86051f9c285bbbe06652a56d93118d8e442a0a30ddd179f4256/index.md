@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:13 L:15 D:2 Bonus ✅
+description: W:13 L:16 D:2 Bonus ✅
 image: ./favicon.png
-date: 1735601039
+date: 1736065582
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 1735601039
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (339)|
-| ELO Competitive | 1262 🔺  (364)|
-| Total Matches | 30 |
+| ELO Regular | 1211 🔻  (442)|
+| ELO Competitive | 1246 🔻  (415)|
+| Total Matches | 31 |
 | Wins | 13 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735169039,1734690106,1734242172,1733791510,1733316931,1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
+        let timestamps = [1735633582,1735169039,1734690106,1734242172,1733791510,1733316931,1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/05 | 0-26 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2024/12/30 | 17-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ❌ | 2024/12/25 | 3-16 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2024/12/20 | 10-0 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) |

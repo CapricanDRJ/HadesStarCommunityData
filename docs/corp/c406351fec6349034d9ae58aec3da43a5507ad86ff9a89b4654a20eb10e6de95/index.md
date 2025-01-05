@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Альянс звезд
-description: W:3 L:1 D:0 Bonus ❌
+description: W:3 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1702812215
+date: 1736067385
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1702812215
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (334)|
-| ELO Competitive | 1228 🔻  (468)|
-| Total Matches | 4 |
+| ELO Regular | 1215 🔻  (404)|
+| ELO Competitive | 1215 🔻  (543)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702380215,1701772804,1700830893,1699875397];
+        let timestamps = [1735635385,1702380215,1701772804,1700830893,1699875397];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/05 | 0-6 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ❌ | 2023/12/17 | 5-20 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2023/12/10 | 10-1 | [t 72 SwiftKey F](https://ws.tsl.rocks/corp/317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22/) |
 | ✅ | 2023/11/29 | 7-0 | [Training Corp](https://ws.tsl.rocks/corp/4e9dede25c833a580f5457125ae0994132bda9e5949b39b84444c14851a2ab07/) |

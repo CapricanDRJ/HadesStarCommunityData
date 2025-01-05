@@ -22,7 +22,7 @@ EKJFqvs7XA
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (584)|
-| ELO Competitive | 1192 🔻  (732)|
+| ELO Competitive | 1192 🔻  (731)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
