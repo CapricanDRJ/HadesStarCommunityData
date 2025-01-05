@@ -23,7 +23,7 @@ rs. Discord is required, please join us there before applying in game
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1393 🔺  (60)|
-| ELO Competitive | 1517 🔺  (42)|
+| ELO Competitive | 1517 🔺  (43)|
 | Total Matches | 43 |
 | Wins | 31 |
 | Losses | 12 |

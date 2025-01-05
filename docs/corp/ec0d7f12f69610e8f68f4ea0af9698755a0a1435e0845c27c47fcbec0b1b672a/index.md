@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:33 L:5 D:0 Bonus ✅
+description: W:34 L:5 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735488081
+date: 1736034640
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,14 +30,14 @@ QQ群：131920392
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1444 🔺  (23)|
-| ELO Competitive | 1515 🔺  (46)|
-| Total Matches | 38 |
-| Wins | 33 |
+| ELO Regular | 1449 🔺  (23)|
+| ELO Competitive | 1519 🔺  (42)|
+| Total Matches | 39 |
+| Wins | 34 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 14 |
-| Streak Record | 14 |
+| Streak | 15 |
+| Streak Record | 15 |
 | Flagship | 0 |
 
 ---
@@ -56,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735056081,1734477386,1733924804,1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1735602640,1735056081,1734477386,1733924804,1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/04 | 28-8 | [Minutemen](https://ws.tsl.rocks/corp/9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8/) |
 | ✅ | 2024/12/29 | 19-1 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2024/12/22 | 28-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2024/12/16 | 25-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |

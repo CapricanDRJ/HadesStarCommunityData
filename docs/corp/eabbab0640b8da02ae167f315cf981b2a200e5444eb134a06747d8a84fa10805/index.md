@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SQPT
-description: W:49 L:58 D:0 Bonus ✅
+description: W:49 L:58 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735430697
 ---
@@ -18,7 +18,7 @@ lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
  star school) tips in mail. DailyDarkRed players 7-11
 ```
 ### [Discord](https://discord.gg/W4kNG43XDb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
