@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Soul System
-description: W:0 L:11 D:0 Bonus ❌
+description: W:1 L:11 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735426792
+date: 1736110656
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ e stars our souls take flight. In the cosmic night. For in the star d
 ust we are born our souls woven from light. RS and WS focused.
 ```
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1081 🔻  (1302)|
-| ELO Competitive | 1095 🔻  (1335)|
-| Total Matches | 11 |
-| Wins | 0 |
+| ELO Regular | 1099 🔺  (1274)|
+| ELO Competitive | 1118 🔺  (1307)|
+| Total Matches | 12 |
+| Wins | 1 |
 | Losses | 11 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/05 | 36-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024/12/28 | 5-25 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2024/12/17 | 2-22 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
 | ❌ | 2024/07/04 | 1-33 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

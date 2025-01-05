@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Wompwompway 
-description: W:37 L:12 D:0 Bonus ✅
+description: W:37 L:12 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735986854
 ---
@@ -17,7 +17,7 @@ Welcome! Ask for the discord to best facilitate our leadership to hel
 p anyone who desires the aid.
 ```
 ### [Discord](https://discord.gg/Y3NrTFZHC7)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

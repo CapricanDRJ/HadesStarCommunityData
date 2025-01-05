@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​United Gardiens
-description: W:1 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732983274
+date: 1736104047
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 1732983274
 ```
 Guardians united under one.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (526)|
-| ELO Competitive | 1199 🔺  (664)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1210 🔺  (455)|
+| ELO Competitive | 1214 🔺  (556)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732551274,1731654890];
+        let timestamps = [1735672047,1732551274,1731654890];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/05 | 7-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/11/30 | 5-1 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2024/11/20 | 2-3 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 

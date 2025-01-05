@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Witness
-description: W:16 L:19 D:2 Bonus ❌
+description: W:16 L:20 D:2 Bonus ❌
 image: ./favicon.png
-date: 1736102545
+date: 1736104047
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Note- Discord link is updated. Will expire in 7 DAYS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1259)|
-| ELO Competitive | 1211 🔻  (587)|
-| Total Matches | 37 |
+| ELO Regular | 1099 🔻  (1276)|
+| ELO Competitive | 1211 🔻  (588)|
+| Total Matches | 38 |
 | Wins | 16 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 2 |
 | Streak Record | 12 |
 | Flagship | 0 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/05 | 0-7 | [United Gardiens](https://ws.tsl.rocks/corp/5226662f5e132d8b0663c3c04bcc7db077393a4f17214e2e0560e827fb1cd4f5/) |
 | ❌ | 2025/01/05 | 0-10 | [RED STAR CORP](https://ws.tsl.rocks/corp/cac02bd33337307b124bc868304cfc75cf4f0148d825518b2f24f1236431cf75/) |
 | ↔️ | 2024/12/28 | 0-0 | [USAR@Hadesstar](https://ws.tsl.rocks/corp/f9078ab279bc09e07910475611036038dcd3afd7840597abb5b738afbb32db33/) |
 | ❌ | 2024/12/28 | 0-11 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |

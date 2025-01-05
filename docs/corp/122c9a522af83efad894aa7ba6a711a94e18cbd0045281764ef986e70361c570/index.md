@@ -23,8 +23,8 @@ wvk5YXqa4y
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (524)|
-| ELO Competitive | 1203 🔻  (620)|
+| ELO Regular | 1199 🔻  (525)|
+| ELO Competitive | 1203 🔻  (621)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |
