@@ -22,7 +22,7 @@ WS pilots in the game owe their pedigree to Watchers-I and now we are
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (476)|
+| ELO Regular | 1204 🔻  (477)|
 | ELO Competitive | 1290 🔻  (293)|
 | Total Matches | 29 |
 | Wins | 14 |

@@ -25,7 +25,7 @@ AA2vSmDw ☠︎
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1020)|
+| ELO Regular | 1163 🔻  (1019)|
 | ELO Competitive | 1163 🔻  (1155)|
 | Total Matches | 3 |
 | Wins | 0 |

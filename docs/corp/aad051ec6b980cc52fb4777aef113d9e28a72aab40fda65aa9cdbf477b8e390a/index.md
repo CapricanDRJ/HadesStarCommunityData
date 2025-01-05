@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:7 L:24 D:0 Bonus ❌
+description: W:7 L:25 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732739865
+date: 1736114561
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Friendly casual corp. Our discord: discord.gg/nCabaKz
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1032 🔻  (1338)|
-| ELO Competitive | 1083 🔻  (1340)|
-| Total Matches | 31 |
+| ELO Regular | 1024 🔻  (1341)|
+| ELO Competitive | 1078 🔻  (1342)|
+| Total Matches | 32 |
 | Wins | 7 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732307865,1731771191,1730976051,1730332099,1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
+        let timestamps = [1735682561,1732307865,1731771191,1730976051,1730332099,1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/05 | 3-39 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2024/11/27 | 6-43 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ✅ | 2024/11/21 | 40-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2024/11/12 | 5-19 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
