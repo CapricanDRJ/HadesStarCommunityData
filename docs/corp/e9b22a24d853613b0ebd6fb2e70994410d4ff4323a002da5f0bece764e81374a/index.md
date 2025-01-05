@@ -25,7 +25,7 @@ advice, beer and kisses.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (614)|
+| ELO Regular | 1189 🔻  (613)|
 | ELO Competitive | 1188 🔻  (792)|
 | Total Matches | 7 |
 | Wins | 3 |

@@ -21,7 +21,7 @@ PhNPS5MyUc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (697)|
+| ELO Regular | 1186 🔻  (696)|
 | ELO Competitive | 1186 🔻  (869)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -21,7 +21,7 @@ re ausgeschiedenen Pensionisten!      V5SHx
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (675)|
+| ELO Regular | 1186 🔻  (674)|
 | ELO Competitive | 1186 🔻  (848)|
 | Total Matches | 1 |
 | Wins | 0 |

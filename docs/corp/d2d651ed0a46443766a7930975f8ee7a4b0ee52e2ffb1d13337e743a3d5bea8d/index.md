@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RUS
-description: W:19 L:22 D:0 Bonus ✅
+description: W:20 L:22 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735539751
+date: 1736073394
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ https://t.me/RSeventHS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (499)|
-| ELO Competitive | 1316 🔺  (240)|
-| Total Matches | 41 |
-| Wins | 19 |
+| ELO Regular | 1220 🔺  (361)|
+| ELO Competitive | 1334 🔺  (209)|
+| Total Matches | 42 |
+| Wins | 20 |
 | Losses | 22 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735107751,1734503820,1734501116,1733852099,1733069347,1733039292,1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
+        let timestamps = [1735641394,1735107751,1734503820,1734501116,1733852099,1733069347,1733039292,1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/05 | 23-14 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2024/12/30 | 28-19 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/12/23 | 18-51 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/12/23 | 11-7 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
