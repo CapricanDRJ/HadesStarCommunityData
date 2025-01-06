@@ -20,7 +20,7 @@ trabajamos en las sombras para servir a la luz
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (706)|
-| ELO Competitive | 1186 🔻  (888)|
+| ELO Competitive | 1186 🔻  (889)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

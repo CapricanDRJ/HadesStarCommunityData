@@ -21,7 +21,7 @@ Discord participation is mandatory. Join here: upznTnWWUf
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (649)|
-| ELO Competitive | 1189 🔻  (780)|
+| ELO Competitive | 1189 🔻  (781)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

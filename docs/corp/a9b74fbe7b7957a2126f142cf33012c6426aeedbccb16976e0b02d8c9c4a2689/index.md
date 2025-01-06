@@ -23,7 +23,7 @@ TJuKzyR
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (620)|
-| ELO Competitive | 1189 🔻  (785)|
+| ELO Competitive | 1189 🔻  (786)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
