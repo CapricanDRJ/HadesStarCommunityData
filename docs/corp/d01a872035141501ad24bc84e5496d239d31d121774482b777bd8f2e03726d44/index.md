@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:11 L:17 D:0 Bonus ❌
+description: W:11 L:18 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733847489
+date: 1736192080
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Ask an officer about discord or join the conversation at [discord url
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1235)|
-| ELO Competitive | 1169 🔻  (1122)|
-| Total Matches | 28 |
+| ELO Regular | 1110 🔻  (1262)|
+| ELO Competitive | 1160 🔻  (1181)|
+| Total Matches | 29 |
 | Wins | 11 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733415489,1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
+        let timestamps = [1735760080,1733415489,1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/06 | 11-14 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/12/10 | 14-25 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2024/11/12 | 15-30 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ❌ | 2024/10/29 | 3-36 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |

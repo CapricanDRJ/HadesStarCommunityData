@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:10 L:7 D:0 Bonus ✅
+description: W:10 L:7 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735590233
 ---
@@ -17,7 +17,7 @@ date: 1735590233
 diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
 telar, Alfa Omega GuistonRA
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
