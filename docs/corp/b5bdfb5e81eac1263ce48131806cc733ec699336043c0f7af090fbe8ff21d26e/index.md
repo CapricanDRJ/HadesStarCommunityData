@@ -22,8 +22,8 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1047)|
-| ELO Competitive | 1181 🔻  (995)|
+| ELO Regular | 1159 🔻  (1048)|
+| ELO Competitive | 1181 🔻  (996)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

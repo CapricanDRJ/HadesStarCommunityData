@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:27 L:2 D:0 Bonus ✅
+description: W:27 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735571301
 ---
@@ -27,7 +27,7 @@ Max period of inactivity: 3 days.
 English only.
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

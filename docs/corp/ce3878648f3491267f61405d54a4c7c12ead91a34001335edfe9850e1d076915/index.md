@@ -19,8 +19,8 @@ Be nice and be active, we will support you on your way up :) 3z6EWUq5
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (973)|
-| ELO Competitive | 1169 🔻  (1117)|
+| ELO Regular | 1169 🔻  (974)|
+| ELO Competitive | 1169 🔻  (1118)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

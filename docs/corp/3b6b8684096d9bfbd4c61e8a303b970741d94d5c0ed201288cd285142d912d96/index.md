@@ -23,8 +23,8 @@ pUXrxxt
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (822)|
-| ELO Competitive | 1183 🔻  (980)|
+| ELO Regular | 1183 🔻  (823)|
+| ELO Competitive | 1183 🔻  (981)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

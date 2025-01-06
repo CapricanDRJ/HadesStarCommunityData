@@ -20,8 +20,8 @@ C3nffwQkCc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1338)|
-| ELO Competitive | 1073 🔻  (1349)|
+| ELO Regular | 1035 🔻  (1339)|
+| ELO Competitive | 1073 🔻  (1350)|
 | Total Matches | 21 |
 | Wins | 2 |
 | Losses | 19 |
