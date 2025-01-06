@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:50 L:24 D:1 Bonus ✅
+description: W:50 L:24 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735813477
 ---
@@ -16,7 +16,7 @@ date: 1735813477
 歓待艦対艦体感艦隊。日本人歓迎。出入り、無言参加ご自由に。WS不参加の場合はスキャナーのオフをお願いします。Discordはなるべく可能な
 限り参加をお願いします(情報共有のため)
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

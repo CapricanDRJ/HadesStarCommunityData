@@ -22,8 +22,8 @@ ord [discord url] , This is the way.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1000)|
-| ELO Competitive | 1168 🔻  (1122)|
+| ELO Regular | 1165 🔻  (1002)|
+| ELO Competitive | 1168 🔻  (1124)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

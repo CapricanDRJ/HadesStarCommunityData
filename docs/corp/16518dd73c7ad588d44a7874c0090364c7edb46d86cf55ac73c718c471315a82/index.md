@@ -20,8 +20,8 @@ Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (892)|
-| ELO Competitive | 1177 🔻  (1022)|
+| ELO Regular | 1174 🔻  (895)|
+| ELO Competitive | 1177 🔻  (1024)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

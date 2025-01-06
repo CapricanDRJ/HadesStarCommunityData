@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​探索舰队
-description: W:17 L:16 D:1 Bonus ❌
+description: W:18 L:16 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733153946
+date: 1736137282
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,16 +22,17 @@ date: 1733153946
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (959)|
-| ELO Competitive | 1256 🔺  (382)|
-| Total Matches | 34 |
-| Wins | 17 |
+| ELO Regular | 1186 🔺  (667)|
+| ELO Competitive | 1268 🔺  (348)|
+| Total Matches | 35 |
+| Wins | 18 |
 | Losses | 16 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -51,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
+        let timestamps = [1735705282,1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/06 | 1-0 | [IMC](https://ws.tsl.rocks/corp/a751775849b67dbfefb552a6bb2a08317a4c01bc68b929101c41612e9b8f82d7/) |
 | ✅ | 2024/12/02 | 12-3 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ❌ | 2024/10/10 | 0-9 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/10/04 | 0-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |

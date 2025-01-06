@@ -21,7 +21,7 @@ ntacto: +57 3223620356          Alianza "AXOLOTLS"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (484)|
+| ELO Regular | 1203 🔻  (485)|
 | ELO Competitive | 1205 🔻  (613)|
 | Total Matches | 2 |
 | Wins | 1 |

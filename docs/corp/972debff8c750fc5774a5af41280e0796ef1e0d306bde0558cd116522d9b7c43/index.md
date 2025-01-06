@@ -21,8 +21,8 @@ y. 30days afk=kick g7HzK7s
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1168)|
-| ELO Competitive | 1171 🔻  (1094)|
+| ELO Regular | 1138 🔻  (1169)|
+| ELO Competitive | 1171 🔻  (1096)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

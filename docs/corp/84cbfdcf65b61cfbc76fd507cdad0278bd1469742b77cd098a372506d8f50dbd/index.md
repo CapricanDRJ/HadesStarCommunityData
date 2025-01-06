@@ -19,8 +19,8 @@ New and old welcome have fun discord is.     38UnuWwp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔻  (1271)|
-| ELO Competitive | 1181 🔻  (997)|
+| ELO Regular | 1103 🔻  (1273)|
+| ELO Competitive | 1181 🔻  (999)|
 | Total Matches | 16 |
 | Wins | 3 |
 | Losses | 12 |
