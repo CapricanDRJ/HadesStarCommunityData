@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星落苑
-description: W:11 L:3 D:0 Bonus ✅
+description: W:11 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735514726
 ---
@@ -17,7 +17,7 @@ date: 1735514726
                     欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=re
 d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
