@@ -20,8 +20,8 @@ n.      Wir handeln Gewürze .Ohne Stress
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1011 🔻  (1352)|
-| ELO Competitive | 1067 🔻  (1353)|
+| ELO Regular | 1011 🔻  (1353)|
+| ELO Competitive | 1067 🔻  (1354)|
 | Total Matches | 44 |
 | Wins | 6 |
 | Losses | 37 |

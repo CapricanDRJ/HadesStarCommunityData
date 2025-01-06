@@ -19,8 +19,8 @@ DGmS9c2b
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (536)|
-| ELO Competitive | 1196 🔻  (685)|
+| ELO Regular | 1197 🔻  (537)|
+| ELO Competitive | 1196 🔻  (686)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

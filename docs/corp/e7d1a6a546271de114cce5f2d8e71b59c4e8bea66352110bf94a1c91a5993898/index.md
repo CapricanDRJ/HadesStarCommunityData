@@ -19,8 +19,8 @@ This corporation is no longer active.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1088)|
-| ELO Competitive | 1169 🔻  (1117)|
+| ELO Regular | 1154 🔻  (1090)|
+| ELO Competitive | 1169 🔻  (1118)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

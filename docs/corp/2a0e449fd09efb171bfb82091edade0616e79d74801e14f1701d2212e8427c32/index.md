@@ -25,8 +25,8 @@ Wir freuen uns auf dich!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (886)|
-| ELO Competitive | 1174 🔻  (1049)|
+| ELO Regular | 1175 🔻  (887)|
+| ELO Competitive | 1174 🔻  (1050)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

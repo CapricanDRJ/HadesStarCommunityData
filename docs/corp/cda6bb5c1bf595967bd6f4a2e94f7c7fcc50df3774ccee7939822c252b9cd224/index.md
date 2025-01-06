@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​萌新集团
-description: W:4 L:0 D:0 Bonus ❌
+description: W:4 L:1 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734982999
+date: 1736165633
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1734982999
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (241)|
-| ELO Competitive | 1268 🔺  (349)|
-| Total Matches | 4 |
+| ELO Regular | 1237 🔻  (303)|
+| ELO Competitive | 1250 🔻  (403)|
+| Total Matches | 5 |
 | Wins | 4 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734550999,1734099978,1733633648,1732994879];
+        let timestamps = [1735733633,1734550999,1734099978,1733633648,1732994879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/06 | 7-10 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2024/12/23 | 15-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/12/18 | 13-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/12/13 | 3-2 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
