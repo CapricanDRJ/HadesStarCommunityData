@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​无人之境
-description: W:0 L:8 D:0 Bonus ❌
+description: W:0 L:9 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735794248
+date: 1736227532
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ You are lucky to meet me in White Star! Congratulations!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1082 🔻  (1305)|
-| ELO Competitive | 1109 🔻  (1323)|
-| Total Matches | 8 |
+| ELO Regular | 1076 🔻  (1314)|
+| ELO Competitive | 1105 🔻  (1329)|
+| Total Matches | 9 |
 | Wins | 0 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
+        let timestamps = [1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 2-19 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2025/01/02 | 1-3 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ❌ | 2024/12/26 | 0-44 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ❌ | 2024/12/21 | 0-20 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |

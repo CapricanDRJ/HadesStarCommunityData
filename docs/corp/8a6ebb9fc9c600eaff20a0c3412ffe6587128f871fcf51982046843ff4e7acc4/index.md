@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:6 L:1 D:1 Bonus ✅
+description: W:6 L:3 D:1 Bonus ✅
 image: ./favicon.png
-date: 1735789742
+date: 1736223026
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,12 @@ date: 1735789742
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (229)|
-| ELO Competitive | 1266 🔺  (353)|
-| Total Matches | 8 |
+| ELO Regular | 1233 🔻  (310)|
+| ELO Competitive | 1261 🔻  (371)|
+| Total Matches | 10 |
 | Wins | 6 |
-| Losses | 1 |
+| Losses | 3 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -55,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 3-14 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
+| ❌ | 2025/01/07 | 2-12 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/01/02 | 4-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2024/12/31 | 26-5 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ↔️ | 2024/12/25 | 4-4 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |

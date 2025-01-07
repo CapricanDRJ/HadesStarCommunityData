@@ -222,10 +222,17 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>3</td>
+                    <td>2</td>
                     <td><img src="mining.png" alt="mining"></td>
                     <td>RS5</td>
                     <td>198%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>218%</td>
                 </tr>
             
                 <tr>

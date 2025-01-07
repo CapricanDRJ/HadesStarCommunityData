@@ -24,7 +24,7 @@ Join Discord kita dulu: [discord url]
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1025)|
+| ELO Regular | 1162 🔻  (1026)|
 | ELO Competitive | 1163 🔻  (1161)|
 | Total Matches | 3 |
 | Wins | 0 |

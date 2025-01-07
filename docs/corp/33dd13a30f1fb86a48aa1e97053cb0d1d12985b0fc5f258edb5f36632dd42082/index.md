@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​E.T.A
-description: W:9 L:31 D:0 Bonus ❌
+description: W:9 L:32 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735624780
+date: 1736230837
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1735624780
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1020 🔻  (1348)|
-| ELO Competitive | 1162 🔻  (1168)|
-| Total Matches | 40 |
+| ELO Regular | 1002 🔻  (1355)|
+| ELO Competitive | 1140 🔻  (1272)|
+| Total Matches | 41 |
 | Wins | 9 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735192780,1734709340,1733894793,1732802791,1732779354,1732282018,1731771191,1731519376,1730805677,1730798766,1729437215,1727501505,1712211896,1712211896,1711534310,1711003672,1710514504,1710053809,1710053593,1706026638,1706011911,1705500733,1705493821,1704943289,1704903320,1704167961,1704166458,1703528757,1703520642,1702828628,1702824419,1701882510,1701880406,1701349346,1701332216,1700422162,1700406229,1699292019,1699289014,1698711123];
+        let timestamps = [1735798837,1735192780,1734709340,1733894793,1732802791,1732779354,1732282018,1731771191,1731519376,1730805677,1730798766,1729437215,1727501505,1712211896,1712211896,1711534310,1711003672,1710514504,1710053809,1710053593,1706026638,1706011911,1705500733,1705493821,1704943289,1704903320,1704167961,1704166458,1703528757,1703520642,1702828628,1702824419,1701882510,1701880406,1701349346,1701332216,1700422162,1700406229,1699292019,1699289014,1698711123];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 3-22 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/12/31 | 0-54 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024/12/25 | 21-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/12/16 | 0-51 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
