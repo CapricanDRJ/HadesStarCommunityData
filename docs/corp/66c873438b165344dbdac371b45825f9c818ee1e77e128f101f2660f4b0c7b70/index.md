@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Free Ag3nts
-description: W:6 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735762100
+date: 1736274409
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1735762100
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (202)|
-| ELO Competitive | 1290 🔺  (296)|
-| Total Matches | 6 |
-| Wins | 6 |
+| ELO Regular | 1288 🔺  (180)|
+| ELO Competitive | 1303 🔺  (266)|
+| Total Matches | 7 |
+| Wins | 7 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/07 | 32-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/01/01 | 28-2 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/12/27 | 29-8 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ✅ | 2024/12/17 | 23-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |

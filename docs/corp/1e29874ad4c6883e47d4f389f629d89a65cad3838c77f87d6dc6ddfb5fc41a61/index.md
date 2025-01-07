@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Blue Dwarf
-description: W:4 L:2 D:0 Bonus ❌
+description: W:5 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735178290
+date: 1736269300
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ join us for group Red Star runs, hints and tips, free artifacts, and
 weekly White Stars - enable scanner to opt-in! Discord advised
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (358)|
-| ELO Competitive | 1249 🔺  (408)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1243 🔺  (274)|
+| ELO Competitive | 1273 🔺  (327)|
+| Total Matches | 7 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734746290,1734307020,1733755045,1732734570,1732665760,1732094218];
+        let timestamps = [1735837300,1734746290,1734307020,1733755045,1732734570,1732665760,1732094218];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/07 | 20-12 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/12/26 | 19-1 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |
 | ✅ | 2024/12/20 | 15-1 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/12/14 | 1-11 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |

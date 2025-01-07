@@ -20,7 +20,7 @@ aeZrWpH9YW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (776)|
+| ELO Regular | 1185 🔻  (777)|
 | ELO Competitive | 1190 🔻  (771)|
 | Total Matches | 1 |
 | Wins | 0 |

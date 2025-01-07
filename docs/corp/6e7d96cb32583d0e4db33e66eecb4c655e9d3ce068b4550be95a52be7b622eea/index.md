@@ -27,7 +27,7 @@ Für Planung und Kommunikation außerhalb des Spiels
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (782)|
+| ELO Regular | 1185 🔻  (783)|
 | ELO Competitive | 1185 🔻  (954)|
 | Total Matches | 3 |
 | Wins | 1 |

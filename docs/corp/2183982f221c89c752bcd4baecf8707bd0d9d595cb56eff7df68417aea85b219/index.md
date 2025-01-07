@@ -21,7 +21,7 @@ White Star scanner owner is promoted to seniour member.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (774)|
+| ELO Regular | 1185 🔻  (775)|
 | ELO Competitive | 1186 🔻  (858)|
 | Total Matches | 1 |
 | Wins | 0 |

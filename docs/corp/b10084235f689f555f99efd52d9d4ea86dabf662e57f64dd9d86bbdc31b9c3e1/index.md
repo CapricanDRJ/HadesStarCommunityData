@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hexwood
-description: W:9 L:7 D:0 Bonus ❌
+description: W:9 L:8 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734436426
+date: 1736274109
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ A social, easygoing Corp with allies to join together with for Red or
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔻  (256)|
-| ELO Competitive | 1275 🔻  (324)|
-| Total Matches | 16 |
+| ELO Regular | 1239 🔻  (286)|
+| ELO Competitive | 1268 🔻  (349)|
+| Total Matches | 17 |
 | Wins | 9 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 0 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
+        let timestamps = [1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 18-41 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/12/17 | 7-19 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2024/11/24 | 5-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/11/09 | 14-23 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VoidCorp
-description: W:37 L:27 D:1 Bonus ✅
+description: W:37 L:27 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735666549
 ---
@@ -17,7 +17,7 @@ Elite Warriors of VoidCorp/SoS            Part of the Oceanic Allianc
 e. 
 ```
 ### [Discord](https://discord.gg/9vG4zU3)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

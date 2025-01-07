@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpaca Nation
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735818885
+date: 1736268098
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1735818885
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (433)|
-| ELO Competitive | 1213 🔺  (570)|
-| Total Matches | 1 |
+| ELO Regular | 1193 🔻  (566)|
+| ELO Competitive | 1203 🔻  (620)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735386885];
+        let timestamps = [1735836098,1735386885];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 0-4 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/01/02 | 5-0 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 
 ---

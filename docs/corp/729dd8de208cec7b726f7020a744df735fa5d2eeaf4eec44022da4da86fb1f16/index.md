@@ -21,7 +21,7 @@ ayers can use it as a quiet place to start.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (943)|
+| ELO Regular | 1171 🔻  (944)|
 | ELO Competitive | 1171 🔻  (1092)|
 | Total Matches | 2 |
 | Wins | 0 |

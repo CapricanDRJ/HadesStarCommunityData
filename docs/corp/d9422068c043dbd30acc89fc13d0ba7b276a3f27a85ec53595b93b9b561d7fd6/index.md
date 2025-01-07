@@ -23,8 +23,8 @@ thfx8WYSru
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (268)|
-| ELO Competitive | 1257 🔻  (379)|
+| ELO Regular | 1244 🔻  (266)|
+| ELO Competitive | 1257 🔻  (380)|
 | Total Matches | 10 |
 | Wins | 6 |
 | Losses | 4 |
