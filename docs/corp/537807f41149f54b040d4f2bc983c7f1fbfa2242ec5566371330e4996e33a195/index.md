@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:4 L:14 D:0 Bonus ❌
+description: W:5 L:14 D:0 Bonus ✅
 image: ./favicon.png
-date: 1735574606
+date: 1736252470
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,14 +24,14 @@ MarceloPC#2109
 JUNTOS SOMOS MAIS FORTES
 ```
 ### [Discord](https://discord.gg/fmyTs3k)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1199)|
-| ELO Competitive | 1160 🔻  (1175)|
-| Total Matches | 18 |
-| Wins | 4 |
+| ELO Regular | 1144 🔺  (1144)|
+| ELO Competitive | 1178 🔺  (1017)|
+| Total Matches | 19 |
+| Wins | 5 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
+        let timestamps = [1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/07 | 34-13 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/12/30 | 1-38 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2024/12/23 | 12-8 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ❌ | 2024/12/09 | 0-34 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |

@@ -27,7 +27,7 @@ ftuA2DGDR4
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (925)|
-| ELO Competitive | 1172 🔻  (1074)|
+| ELO Competitive | 1172 🔻  (1075)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

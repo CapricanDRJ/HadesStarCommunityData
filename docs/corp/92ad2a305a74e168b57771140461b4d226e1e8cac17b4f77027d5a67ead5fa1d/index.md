@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:25 L:30 D:1 Bonus ✅
+description: W:25 L:30 D:1 Bonus ❌
 image: ./favicon.png
 date: 1736166534
 ---
@@ -17,7 +17,7 @@ date: 1736166534
                                    始建于2023.6 28  已封闭 星光舰队 雪月永恒  红活请前往
 星光禁卫
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

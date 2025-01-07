@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​碧海听潮阁
-description: W:3 L:3 D:2 Bonus ✅
+description: W:3 L:4 D:2 Bonus ✅
 image: ./favicon.png
-date: 1735987456
+date: 1736247962
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1735987456
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (514)|
+| ELO Regular | 1189 🔻  (609)|
 | ELO Competitive | 1242 🔺  (430)|
-| Total Matches | 8 |
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 3-10 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2025/01/04 | 3-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ❌ | 2025/01/02 | 0-1 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ✅ | 2024/12/30 | 6-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
