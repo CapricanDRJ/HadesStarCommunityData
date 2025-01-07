@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Final
-description: W:4 L:11 D:0 Bonus ❌
+description: W:4 L:12 D:0 Bonus ❌
 image: ./favicon.png
-date: 1735125712
+date: 1736278917
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ Are you RS6+ & want to join?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1180)|
-| ELO Competitive | 1181 🔻  (999)|
-| Total Matches | 15 |
+| ELO Regular | 1130 🔻  (1196)|
+| ELO Competitive | 1180 🔻  (1008)|
+| Total Matches | 16 |
 | Wins | 4 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734693712,1733489101,1732388403,1706328950,1705703883,1705070099,1704408676,1700927077,1700568819,1700418855,1699999830,1699927097,1699476524,1699222315,1698967480];
+        let timestamps = [1735846917,1734693712,1733489101,1732388403,1706328950,1705703883,1705070099,1704408676,1700927077,1700568819,1700418855,1699999830,1699927097,1699476524,1699222315,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 59-63 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/12/25 | 21-67 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2024/12/11 | 28-5 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/11/28 | 15-44 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |

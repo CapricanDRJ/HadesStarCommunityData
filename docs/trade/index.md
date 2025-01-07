@@ -91,22 +91,8 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>4</td>
-                    <td><img src="trade.png" alt="trade"></td>
-                    <td>RS11</td>
-                    <td>248%</td>
-                </tr>
-            
-                <tr>
                     <td>2</td>
                     <td><img src="shield.png" alt="shield"></td>
-                    <td>RS11</td>
-                    <td>248%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="drone.png" alt="drone"></td>
                     <td>RS11</td>
                     <td>248%</td>
                 </tr>

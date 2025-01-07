@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:39 L:27 D:1 Bonus ❌
+description: W:39 L:28 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734453557
+date: 1736281923
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ nirse al grupo de Whatsapp</size></color></b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔻  (138)|
-| ELO Competitive | 1407 🔻  (136)|
-| Total Matches | 67 |
+| ELO Regular | 1302 🔻  (161)|
+| ELO Competitive | 1392 🔻  (149)|
+| Total Matches | 68 |
 | Wins | 39 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 0 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734021557,1733540785,1733079265,1732513711,1731814764,1731290709,1730773530,1730231136,1729727194,1729113256,1728605911,1727892462,1726850942,1726342584,1725732574,1725080501,1724512845,1724068604,1723610395,1722997956,1722472664,1721672985,1721083079,1720488887,1719987001,1719520319,1719512203,1718949937,1718932512,1718473637,1717985441,1717542675,1717024840,1716476421,1715929910,1715489149,1715049291,1714517078,1714001180,1713486824,1712866038,1712250059,1711734132,1711202885,1710655734,1710179796,1709662382,1709134139,1708643142,1708111371,1707505645,1706919465,1706459076,1705872178,1705324635,1704838414,1704233697,1703627331,1702784447,1702148794,1701616828,1700873879,1700842317,1700408033,1699946629,1699432649,1698782363];
+        let timestamps = [1735849923,1734021557,1733540785,1733079265,1732513711,1731814764,1731290709,1730773530,1730231136,1729727194,1729113256,1728605911,1727892462,1726850942,1726342584,1725732574,1725080501,1724512845,1724068604,1723610395,1722997956,1722472664,1721672985,1721083079,1720488887,1719987001,1719520319,1719512203,1718949937,1718932512,1718473637,1717985441,1717542675,1717024840,1716476421,1715929910,1715489149,1715049291,1714517078,1714001180,1713486824,1712866038,1712250059,1711734132,1711202885,1710655734,1710179796,1709662382,1709134139,1708643142,1708111371,1707505645,1706919465,1706459076,1705872178,1705324635,1704838414,1704233697,1703627331,1702784447,1702148794,1701616828,1700873879,1700842317,1700408033,1699946629,1699432649,1698782363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) | 1 | 2 | 0 | 3 |
 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) | 1 | 1 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 2 | 0 | 0 | 2 |
 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) | 2 | 0 | 0 | 2 |
@@ -141,7 +142,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 1 | 1 | 0 | 2 |
 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 0 | 2 | 0 | 2 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1 | 1 | 0 | 2 |
-| [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) | 1 | 1 | 0 | 2 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 0 | 2 | 0 | 2 |
 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 0 | 2 | 0 | 2 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 1 | 1 | 0 | 2 |
@@ -154,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 0-26 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ❌ | 2024/12/17 | 0-16 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/12/12 | 21-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/12/06 | 23-1 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
