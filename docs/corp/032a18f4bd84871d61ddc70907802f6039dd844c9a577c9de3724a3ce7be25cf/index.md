@@ -20,8 +20,8 @@ Telegram: https://goo.gl/7TGspS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (690)|
-| ELO Competitive | 1186 🔻  (876)|
+| ELO Regular | 1186 🔻  (692)|
+| ELO Competitive | 1186 🔻  (878)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

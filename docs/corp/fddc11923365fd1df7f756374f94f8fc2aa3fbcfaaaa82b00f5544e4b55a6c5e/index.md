@@ -19,8 +19,8 @@ Because you can't solo White Stars. GWA38Gx
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (838)|
-| ELO Competitive | 1187 🔻  (816)|
+| ELO Regular | 1182 🔻  (840)|
+| ELO Competitive | 1187 🔻  (818)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Goonies
-description: W:3 L:6 D:2 Bonus ❌
+description: W:3 L:7 D:2 Bonus ❌
 image: ./favicon.png
-date: 1721479605
+date: 1736259082
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1721479605
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1057)|
-| ELO Competitive | 1183 🔻  (981)|
-| Total Matches | 11 |
+| ELO Regular | 1150 🔻  (1114)|
+| ELO Competitive | 1177 🔻  (1028)|
+| Total Matches | 12 |
 | Wins | 3 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721047605,1720199786,1716020948,1715460608,1713723569,1712358531,1711717302,1711215208,1710512400,1709847468,1708713756];
+        let timestamps = [1735827082,1721047605,1720199786,1716020948,1715460608,1713723569,1712358531,1711717302,1711215208,1710512400,1709847468,1708713756];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 0-38 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/07/20 | 0-24 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024/07/10 | 6-13 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/05/23 | 3-50 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

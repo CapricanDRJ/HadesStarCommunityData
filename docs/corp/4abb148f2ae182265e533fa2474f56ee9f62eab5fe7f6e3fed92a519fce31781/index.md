@@ -23,8 +23,8 @@ gXvbHJm
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (794)|
-| ELO Competitive | 1186 🔻  (857)|
+| ELO Regular | 1184 🔻  (796)|
+| ELO Competitive | 1186 🔻  (859)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

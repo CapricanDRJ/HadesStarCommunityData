@@ -22,8 +22,8 @@ hKUH</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (392)|
-| ELO Competitive | 1216 🔺  (540)|
+| ELO Regular | 1216 🔺  (394)|
+| ELO Competitive | 1216 🔺  (541)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

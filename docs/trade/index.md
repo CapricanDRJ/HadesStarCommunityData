@@ -228,13 +228,6 @@ permalink: /trade/
                     <td>218%</td>
                 </tr>
             
-                <tr>
-                    <td>1</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS9</td>
-                    <td>218%</td>
-                </tr>
-            
         <tr>
             <td colspan="4">Guild: Private</td>
         </tr>
