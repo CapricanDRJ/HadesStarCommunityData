@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:14 L:9 D:0 Bonus ❌
+description: W:14 L:10 D:0 Bonus ❌
 image: ./favicon.png
-date: 1736208908
+date: 1736212512
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1736208908
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔻  (250)|
-| ELO Competitive | 1308 🔻  (257)|
-| Total Matches | 23 |
+| ELO Regular | 1235 🔻  (306)|
+| ELO Competitive | 1308 🔻  (256)|
+| Total Matches | 24 |
 | Wins | 14 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735776908,1734933381,1734933193,1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1735780512,1735776908,1734933381,1734933193,1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/07 | 0-6 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2025/01/07 | 0-7 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2024/12/28 | 2-3 | [KhaOSs](https://ws.tsl.rocks/corp/95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88/) |
 | ✅ | 2024/12/28 | 11-0 | [KhaOSs](https://ws.tsl.rocks/corp/95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88/) |
