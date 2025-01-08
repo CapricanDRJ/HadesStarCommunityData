@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​麻雀集团
-description: W:2 L:6 D:2 Bonus ✅ 28%
+description: W:2 L:6 D:2 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735748276
 ---
@@ -17,7 +17,7 @@ date: 1735748276
 :王一宁。毛塞，外交官：暮晓云风。请在白星结束后讲和， 星球等级是10级没白扫就踢，黑名单：［R16459BGM ］（乱改集团信息） 上学
 日不打白，扫白者踢。只招国人。成立于：2024．8．25上学日封团。
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
