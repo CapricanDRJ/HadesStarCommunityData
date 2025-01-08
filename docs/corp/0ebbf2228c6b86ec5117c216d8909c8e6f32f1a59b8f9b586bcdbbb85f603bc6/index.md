@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:13 L:27 D:1 Bonus ❌ 7%
+description: W:13 L:28 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1735924041
+date: 1736306561
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1735924041
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (857)|
-| ELO Competitive | 1254 🔺  (389)|
-| Total Matches | 41 |
+| ELO Regular | 1173 🔻  (918)|
+| ELO Competitive | 1246 🔻  (413)|
+| Total Matches | 42 |
 | Wins | 13 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735492041,1735247772,1734984276,1734499915,1734040191,1733485799,1732959962,1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
+        let timestamps = [1735874561,1735492041,1735247772,1734984276,1734499915,1734040191,1733485799,1732959962,1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/08 | 10-17 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ↔️ | 2025/01/03 | 0-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2024/12/31 | 23-21 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/12/28 | 0-7 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
