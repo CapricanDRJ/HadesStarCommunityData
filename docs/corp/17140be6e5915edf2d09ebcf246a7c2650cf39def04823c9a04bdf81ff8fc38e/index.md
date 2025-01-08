@@ -21,8 +21,8 @@ ars2-7. white stars every week
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (280)|
-| ELO Competitive | 1258 🔺  (378)|
+| ELO Regular | 1240 🔺  (279)|
+| ELO Competitive | 1258 🔺  (379)|
 | Total Matches | 16 |
 | Wins | 8 |
 | Losses | 5 |

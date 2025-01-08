@@ -21,7 +21,7 @@ p5GSVDDrSc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (947)|
+| ELO Regular | 1171 🔻  (946)|
 | ELO Competitive | 1173 🔻  (1068)|
 | Total Matches | 3 |
 | Wins | 0 |

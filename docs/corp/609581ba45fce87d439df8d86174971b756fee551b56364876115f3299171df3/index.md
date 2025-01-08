@@ -20,7 +20,7 @@ M8HFPDG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1049)|
+| ELO Regular | 1159 🔻  (1048)|
 | ELO Competitive | 1163 🔻  (1166)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:30 L:19 D:0 Bonus ✅ 38%
+description: W:30 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735712816
 ---
@@ -19,11 +19,11 @@ Discord users join:
 Red_Coat_Mafia 
 ```
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (248)|
+| ELO Regular | 1252 🔺  (247)|
 | ELO Competitive | 1350 🔺  (189)|
 | Total Matches | 49 |
 | Wins | 30 |

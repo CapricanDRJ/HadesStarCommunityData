@@ -201,15 +201,29 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>2</td>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS7</td>
+                    <td>206%</td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
                     <td><img src="mining.png" alt="mining"></td>
                     <td>RS5</td>
                     <td>198%</td>
                 </tr>
             
                 <tr>
-                    <td>1</td>
+                    <td>4</td>
                     <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>218%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
                     <td>RS9</td>
                     <td>218%</td>
                 </tr>
