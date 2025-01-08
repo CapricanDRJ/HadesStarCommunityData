@@ -20,7 +20,7 @@ iscord required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (293)|
+| ELO Regular | 1238 🔺  (294)|
 | ELO Competitive | 1239 🔺  (437)|
 | Total Matches | 5 |
 | Wins | 4 |
