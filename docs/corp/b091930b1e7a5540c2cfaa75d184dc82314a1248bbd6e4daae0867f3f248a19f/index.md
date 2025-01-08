@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:9 L:12 D:0 Bonus ❌
+description: W:9 L:12 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1735499198
 ---
@@ -21,11 +21,11 @@ date: 1735499198
 </i></color>
 ```
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (312)|
+| ELO Regular | 1232 🔻  (311)|
 | ELO Competitive | 1276 🔻  (322)|
 | Total Matches | 21 |
 | Wins | 9 |

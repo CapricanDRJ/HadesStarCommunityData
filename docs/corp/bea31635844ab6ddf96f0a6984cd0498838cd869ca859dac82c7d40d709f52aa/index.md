@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​群星璀璨
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1720614052
 ---
@@ -16,12 +16,12 @@ date: 1720614052
 招RS5以上国人                                                          首席：
 一个好人（到101找我）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (904)|
-| ELO Competitive | 1176 🔻  (1030)|
+| ELO Regular | 1174 🔻  (905)|
+| ELO Competitive | 1176 🔻  (1031)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​MicroNova
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1702667056
 ---
@@ -16,12 +16,12 @@ date: 1702667056
 Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", w
 hatsapp:83-99339-5118.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (620)|
-| ELO Competitive | 1188 🔻  (802)|
+| ELO Regular | 1188 🔻  (621)|
+| ELO Competitive | 1188 🔻  (803)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

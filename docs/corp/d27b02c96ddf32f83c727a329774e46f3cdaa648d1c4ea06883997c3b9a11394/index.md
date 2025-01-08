@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КВАЗАР
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1703858281
 ---
@@ -17,12 +17,12 @@ date: 1703858281
 я своим светом все грани тёмной материи || белые звёзда по пятницам
 ```
 ### [Discord](https://discord.gg/cQeTUP2e4b)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (861)|
-| ELO Competitive | 1179 🔺  (1012)|
+| ELO Regular | 1178 🔺  (862)|
+| ELO Competitive | 1179 🔺  (1013)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

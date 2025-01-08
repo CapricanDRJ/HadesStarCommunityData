@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​小宇宙研究会
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1714870056
 ---
@@ -19,12 +19,12 @@ date: 1714870056
 
 95F5HQa
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (854)|
-| ELO Competitive | 1183 🔻  (991)|
+| ELO Regular | 1180 🔻  (855)|
+| ELO Competitive | 1183 🔻  (992)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

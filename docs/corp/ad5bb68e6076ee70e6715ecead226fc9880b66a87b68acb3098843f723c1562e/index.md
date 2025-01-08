@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:13 L:24 D:0 Bonus ❌
+description: W:13 L:24 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1734784685
 ---
@@ -17,11 +17,11 @@ Fun, easy going yet hardass corp for all. Discord account required fo
 r White Star runs.
 ```
 ### [Discord](https://discord.gg/X8mRJ994nY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (969)|
+| ELO Regular | 1170 🔻  (970)|
 | ELO Competitive | 1222 🔻  (493)|
 | Total Matches | 37 |
 | Wins | 13 |

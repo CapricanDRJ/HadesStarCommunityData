@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Madison Holding
-description: W:7 L:4 D:0 Bonus ❌
+description: W:7 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1704925417
 ---
@@ -20,7 +20,7 @@ date: 1704925417
 <color=#dadde7>
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

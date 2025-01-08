@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TheSpacingGuild
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1705092810
 ---
@@ -18,12 +18,12 @@ MoA - Manic
 MoP - Spiff
 Fedaykin - Athena, Sun, Dune, Ancient
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (728)|
-| ELO Competitive | 1187 🔻  (839)|
+| ELO Regular | 1185 🔻  (729)|
+| ELO Competitive | 1187 🔻  (840)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

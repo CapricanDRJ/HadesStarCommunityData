@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Октябристы
-description: W:61 L:72 D:2 Bonus ✅
+description: W:61 L:72 D:2 Bonus ✅ 40%
 image: ./favicon.png
 date: 1736168337
 ---
@@ -17,11 +17,11 @@ date: 1736168337
  мы в телеге https://t.me/+VA_QNsSwibFjY2Vi
 ```
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (825)|
+| ELO Regular | 1183 🔻  (826)|
 | ELO Competitive | 1483 🔻  (71)|
 | Total Matches | 135 |
 | Wins | 61 |

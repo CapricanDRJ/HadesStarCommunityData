@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Oficina Tuga
-description: W:9 L:27 D:0 Bonus ❌
+description: W:9 L:27 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1731686641
 ---
@@ -15,12 +15,12 @@ date: 1731686641
 ```
 Chat Português 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1053 🔻  (1330)|
-| ELO Competitive | 1103 🔻  (1333)|
+| ELO Regular | 1053 🔻  (1331)|
+| ELO Competitive | 1103 🔻  (1334)|
 | Total Matches | 36 |
 | Wins | 9 |
 | Losses | 27 |

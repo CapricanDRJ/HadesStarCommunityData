@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sanctuary
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1719971489
 ---
@@ -16,12 +16,12 @@ date: 1719971489
 SanctuaryGaming.org for Discord & links.  Please be active and grow y
 our. account.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (847)|
-| ELO Competitive | 1186 🔻  (868)|
+| ELO Regular | 1181 🔻  (848)|
+| ELO Competitive | 1186 🔻  (869)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hands Of God
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1719519560
 ---
@@ -15,12 +15,12 @@ date: 1719519560
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (685)|
-| ELO Competitive | 1186 🔻  (860)|
+| ELO Regular | 1186 🔻  (686)|
+| ELO Competitive | 1186 🔻  (861)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

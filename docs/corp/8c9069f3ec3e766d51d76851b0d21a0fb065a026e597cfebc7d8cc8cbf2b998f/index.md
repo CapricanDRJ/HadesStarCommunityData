@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TheBasics
-description: W:40 L:76 D:2 Bonus ❌
+description: W:40 L:76 D:2 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735995570
 ---
@@ -16,11 +16,11 @@ date: 1735995570
 Just log in and play once per day.
 ```
 ### [Discord](https://discord.gg/pTS382n7ZR)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1025 🔻  (1346)|
+| ELO Regular | 1025 🔻  (1347)|
 | ELO Competitive | 1316 🔻  (243)|
 | Total Matches | 118 |
 | Wins | 40 |

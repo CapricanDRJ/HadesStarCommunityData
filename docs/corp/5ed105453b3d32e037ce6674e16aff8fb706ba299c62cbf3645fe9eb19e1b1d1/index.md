@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDynasty
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1714167890
 ---
@@ -23,12 +23,12 @@ e bar or Meadow.
 Chat us up
 [discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1050)|
-| ELO Competitive | 1165 🔻  (1151)|
+| ELO Regular | 1159 🔻  (1051)|
+| ELO Competitive | 1165 🔻  (1152)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

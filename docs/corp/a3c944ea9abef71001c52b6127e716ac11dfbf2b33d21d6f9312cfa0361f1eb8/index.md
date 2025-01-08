@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Irish Pride 
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1703938816
 ---
@@ -18,7 +18,7 @@ Open to all. Take what you need. Leave some for others. Help when you
 
 Join us on Discord: RvMW8DejVJ
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

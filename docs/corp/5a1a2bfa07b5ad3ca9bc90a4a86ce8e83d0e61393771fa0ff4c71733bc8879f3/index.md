@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​海賊ギルド
-description: W:5 L:17 D:0 Bonus ❌
+description: W:5 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1712643896
 ---
@@ -16,12 +16,12 @@ date: 1712643896
 ギルド大元帥サラマンダーのもとへ集い、シドの女神像を打ち上げるべし。今は眠りについています…
 ```
 ### [Discord](https://discord.gg/e23hyUpZy2)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔺  (1313)|
-| ELO Competitive | 1086 🔺  (1344)|
+| ELO Regular | 1076 🔺  (1314)|
+| ELO Competitive | 1086 🔺  (1345)|
 | Total Matches | 22 |
 | Wins | 5 |
 | Losses | 17 |

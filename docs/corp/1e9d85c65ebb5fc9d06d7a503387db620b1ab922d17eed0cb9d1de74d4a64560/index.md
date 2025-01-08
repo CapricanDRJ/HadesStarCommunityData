@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КУСАКА
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1708905365
 ---
@@ -15,7 +15,7 @@ date: 1708905365
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

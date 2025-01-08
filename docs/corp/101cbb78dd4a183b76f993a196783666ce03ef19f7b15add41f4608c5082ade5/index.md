@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spacey Bois
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707272130
 ---
@@ -15,12 +15,12 @@ date: 1707272130
 ```
 Looking for those who are interested in White Star missions
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (721)|
-| ELO Competitive | 1186 🔻  (856)|
+| ELO Regular | 1185 🔻  (722)|
+| ELO Competitive | 1186 🔻  (857)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

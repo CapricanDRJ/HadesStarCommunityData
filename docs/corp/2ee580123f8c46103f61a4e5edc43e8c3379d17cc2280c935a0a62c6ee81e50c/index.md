@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​德意志联邦集团
-description: W:0 L:4 D:3 Bonus ❌
+description: W:0 L:4 D:3 Bonus ❌ 3%
 image: ./favicon.png
 date: 1724560193
 ---
@@ -15,12 +15,12 @@ date: 1724560193
 ```
 欢迎任何人<br>首席：陆陆陆<br>黑名单：三体(AEN-3092)<br>神圣罗马帝国主团<br>南级星联盟成员<br>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1165)|
-| ELO Competitive | 1145 🔻  (1251)|
+| ELO Regular | 1141 🔻  (1166)|
+| ELO Competitive | 1145 🔻  (1252)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 4 |

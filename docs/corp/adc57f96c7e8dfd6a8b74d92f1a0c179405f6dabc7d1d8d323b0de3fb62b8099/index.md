@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bandidos
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1714900999
 ---
@@ -15,7 +15,7 @@ date: 1714900999
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

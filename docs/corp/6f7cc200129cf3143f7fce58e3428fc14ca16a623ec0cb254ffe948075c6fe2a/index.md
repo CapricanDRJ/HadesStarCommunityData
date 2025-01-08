@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Exodus
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1703087815
 ---
@@ -17,12 +17,12 @@ International corporation with some story behind, learning "Dark Nebu
 la", while trying to stay alive.
 ```
 ### [Discord](https://discord.gg/vgrCTD337x)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (933)|
-| ELO Competitive | 1175 🔻  (1047)|
+| ELO Regular | 1172 🔻  (934)|
+| ELO Competitive | 1175 🔻  (1048)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

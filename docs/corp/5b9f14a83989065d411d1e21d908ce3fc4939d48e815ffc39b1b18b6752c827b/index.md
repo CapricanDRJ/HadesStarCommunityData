@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​分子集团
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1735193921
 ---
@@ -17,12 +17,12 @@ date: 1735193921
 （瓜老板），（白芷），（瓜老板？世），（瓜摊爷）  萌新加入可自选一个r六神器（提醒我或副首席）举报瓜老板混入集团送神器（首席和副首席所有
 最高级神器），乱举报踢出 首席周末才在 （建议周四晚上开白）打白不得违抗首席和副首席的命令！ 友团：昙花一现
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1121)|
-| ELO Competitive | 1153 🔻  (1222)|
+| ELO Regular | 1149 🔻  (1122)|
+| ELO Competitive | 1153 🔻  (1223)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

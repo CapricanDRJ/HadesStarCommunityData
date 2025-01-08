@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​La NoChE NeGrA
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1719009919
 ---
@@ -22,7 +22,7 @@ CONDICIONES:
 -No es necesario tener tanta influencia para entrar.
 -Ayudar con el reclutamiento diario
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​云霄宫
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1728276979
 ---
@@ -25,11 +25,11 @@ date: 1728276979
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (999)|
+| ELO Regular | 1167 🔻  (1000)|
 | ELO Competitive | 1212 🔺  (578)|
 | Total Matches | 9 |
 | Wins | 3 |

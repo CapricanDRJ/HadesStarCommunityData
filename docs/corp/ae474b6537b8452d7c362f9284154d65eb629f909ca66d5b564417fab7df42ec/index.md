@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lost City Corp.
-description: W:1 L:1 D:1 Bonus ❌
+description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1706097412
 ---
@@ -15,7 +15,7 @@ date: 1706097412
 ```
 To defeat the Wraith. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​大舰队がな
-description: W:0 L:9 D:1 Bonus ❌
+description: W:0 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1727920313
 ---
@@ -15,12 +15,12 @@ date: 1727920313
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1314)|
-| ELO Competitive | 1103 🔻  (1332)|
+| ELO Regular | 1076 🔻  (1315)|
+| ELO Competitive | 1103 🔻  (1333)|
 | Total Matches | 10 |
 | Wins | 0 |
 | Losses | 9 |

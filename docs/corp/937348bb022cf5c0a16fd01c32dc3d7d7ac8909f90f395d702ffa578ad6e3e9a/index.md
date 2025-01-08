@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​@ncient £ibrary
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1699698176
 ---
@@ -22,12 +22,12 @@ chapter 4÷20
 
 For WS+ join Discord- 8dJDbbm
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (731)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1185 🔻  (732)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

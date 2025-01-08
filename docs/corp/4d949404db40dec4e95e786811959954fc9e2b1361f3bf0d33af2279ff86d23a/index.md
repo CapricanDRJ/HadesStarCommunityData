@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Out landers
-description: W:11 L:10 D:1 Bonus ❌
+description: W:11 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734833365
 ---
@@ -17,11 +17,11 @@ Chill Corporation. English. White stars not required but encouraged i
 f possible. Come here to develop, help with red stars. Please stay re
 latively active. Discord not required but recommended.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (362)|
+| ELO Regular | 1220 🔺  (361)|
 | ELO Competitive | 1252 🔺  (397)|
 | Total Matches | 22 |
 | Wins | 11 |

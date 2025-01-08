@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Marine
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1699135307
 ---
@@ -21,12 +21,12 @@ date: 1699135307
    Main corp of the SPACE LEGENDS federation</color></size>
 ```
 ### [Discord](https://discord.gg/63DZYSc)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (735)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1185 🔻  (736)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​神圣罗马帝国
-description: W:23 L:46 D:1 Bonus ❌
+description: W:23 L:46 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1724525939
 ---
@@ -17,11 +17,11 @@ date: 1724525939
 r><br>原团:德意志联邦集团<br><br>黑名单:傲世饕餮  瑞瑞<br>分团 ：星际集团    银星舰队SSF   永恒之梦   
 蓝太阳   电池脉冲集团<br><br>理事长：Angel 白星总参：隔壁老王<br>福利:r8及以下 目前暂由hss小号占
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1099 🔻  (1283)|
+| ELO Regular | 1099 🔻  (1284)|
 | ELO Competitive | 1269 🔻  (347)|
 | Total Matches | 70 |
 | Wins | 23 |

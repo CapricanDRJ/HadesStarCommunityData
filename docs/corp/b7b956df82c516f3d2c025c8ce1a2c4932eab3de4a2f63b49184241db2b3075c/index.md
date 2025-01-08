@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Witness
-description: W:16 L:20 D:2 Bonus ❌
+description: W:16 L:20 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736104047
 ---
@@ -17,11 +17,11 @@ Friendly and helpful. Open to all. Discord is required.
 
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1099 🔻  (1284)|
+| ELO Regular | 1099 🔻  (1285)|
 | ELO Competitive | 1211 🔻  (589)|
 | Total Matches | 38 |
 | Wins | 16 |

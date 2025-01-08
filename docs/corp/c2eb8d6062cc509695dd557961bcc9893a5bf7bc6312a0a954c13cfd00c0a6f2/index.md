@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orion France
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1708816660
 ---
@@ -16,12 +16,12 @@ date: 1708816660
 De l'entraide, de la bonne humeur, un minimum de présence et beaucoup
  de communications pour les étoiles blanche ;-)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (647)|
-| ELO Competitive | 1187 🔻  (819)|
+| ELO Regular | 1187 🔻  (648)|
+| ELO Competitive | 1187 🔻  (820)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

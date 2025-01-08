@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rogue Dudes
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1721016974
 ---
@@ -22,11 +22,11 @@ Discord:[broken url]
 MAIN=SENIOR MEMBER
 ALT=NO PROMOTION
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (323)|
+| ELO Regular | 1230 🔺  (322)|
 | ELO Competitive | 1230 🔺  (459)|
 | Total Matches | 2 |
 | Wins | 2 |

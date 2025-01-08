@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpha Galaxy
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1713714237
 ---
@@ -18,7 +18,7 @@ F8c4yKxNnb
 
 n always friendly
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

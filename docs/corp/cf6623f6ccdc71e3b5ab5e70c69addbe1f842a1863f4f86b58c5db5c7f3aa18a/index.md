@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​G.O.D
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1713871648
 ---
@@ -18,12 +18,12 @@ date: 1713871648
 7天不上線者  將被勸退  敬請留意！
 QQ : 763870092
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (782)|
-| ELO Competitive | 1186 🔻  (865)|
+| ELO Regular | 1185 🔻  (783)|
+| ELO Competitive | 1186 🔻  (866)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

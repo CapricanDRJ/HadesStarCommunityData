@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Die Mafia
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1708916623
 ---
@@ -18,7 +18,7 @@ Dies ist ein deutscher Konzern, wir spielen kooperativ und es geht um
 WZs laufen regelmäßig, dabei ist eine aktive Teilnahme absolut notwen
 dig.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

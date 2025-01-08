@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Shadow Lords
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1736184867
 ---
@@ -17,12 +17,12 @@ In our strategic yet laid-back corporation, we come together to illum
 inate the cosmos and conquer the void.  Mission…Domination of Red And
  White Stars!  We Are..SHADOW LORDS🌒
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1045)|
-| ELO Competitive | 1169 🔻  (1121)|
+| ELO Regular | 1160 🔻  (1046)|
+| ELO Competitive | 1169 🔻  (1122)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

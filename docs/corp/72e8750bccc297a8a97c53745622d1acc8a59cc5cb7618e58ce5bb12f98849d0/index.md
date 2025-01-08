@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:9 L:9 D:1 Bonus ✅
+description: W:9 L:9 D:1 Bonus ✅ 32%
 image: ./favicon.png
 date: 1736143999
 ---
@@ -24,11 +24,11 @@ date: 1736143999
 欢迎你的加入！
 Q群：993612413
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (334)|
+| ELO Regular | 1228 🔺  (333)|
 | ELO Competitive | 1256 🔺  (384)|
 | Total Matches | 19 |
 | Wins | 9 |

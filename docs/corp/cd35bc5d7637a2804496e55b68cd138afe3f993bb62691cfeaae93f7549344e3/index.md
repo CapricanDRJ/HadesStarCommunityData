@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​NAC
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1715658553
 ---
@@ -20,11 +20,11 @@ NAC Rebuild. Extremly casual play.
 Discord is required to run in white stars. 
 Request a new link if the above link doesn't work.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (683)|
+| ELO Regular | 1186 🔻  (684)|
 | ELO Competitive | 1190 🔻  (758)|
 | Total Matches | 2 |
 | Wins | 0 |

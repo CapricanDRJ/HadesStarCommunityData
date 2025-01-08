@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​C'est pas faux!
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1726298897
 ---
@@ -20,11 +20,11 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 
 Discord : wZcGGNZ
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔺  (1034)|
+| ELO Regular | 1162 🔺  (1035)|
 | ELO Competitive | 1190 🔺  (759)|
 | Total Matches | 6 |
 | Wins | 1 |

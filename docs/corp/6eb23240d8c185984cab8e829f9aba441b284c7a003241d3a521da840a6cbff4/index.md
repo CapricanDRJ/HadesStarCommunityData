@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​猎户座星云
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1716034724
 ---
@@ -22,12 +22,12 @@ date: 1716034724
 旗舰不要捐钱！(敌人强大）
 卖七级神器可以找独狼编号：VXD-6761
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (981)|
-| ELO Competitive | 1171 🔻  (1090)|
+| ELO Regular | 1169 🔻  (982)|
+| ELO Competitive | 1171 🔻  (1091)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

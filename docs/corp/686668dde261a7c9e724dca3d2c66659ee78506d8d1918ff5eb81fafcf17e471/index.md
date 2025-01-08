@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Smurfing
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1699888688
 ---
@@ -16,12 +16,12 @@ date: 1699888688
 Smurfing, just let us know when you are online, so that the game to b
 e more fun...
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (942)|
-| ELO Competitive | 1171 🔻  (1091)|
+| ELO Regular | 1171 🔻  (943)|
+| ELO Competitive | 1171 🔻  (1092)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

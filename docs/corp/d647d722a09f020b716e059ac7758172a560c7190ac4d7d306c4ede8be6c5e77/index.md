@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Void
-description: W:10 L:18 D:0 Bonus ❌
+description: W:10 L:18 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1732634996
 ---
@@ -23,11 +23,11 @@ Discord is mandatory for ws
 Primarily English
 ```
 ### [Discord](https://discord.gg/jPftecDuNp)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1274)|
+| ELO Regular | 1105 🔻  (1275)|
 | ELO Competitive | 1157 🔻  (1206)|
 | Total Matches | 28 |
 | Wins | 10 |

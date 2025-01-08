@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Celtic Empire 2
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1715128283
 ---
@@ -15,7 +15,7 @@ date: 1715128283
 ```
 Mercury Retrograde
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

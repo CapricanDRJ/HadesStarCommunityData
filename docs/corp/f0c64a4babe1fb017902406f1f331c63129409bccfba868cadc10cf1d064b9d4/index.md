@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:25 L:7 D:1 Bonus ❌
+description: W:25 L:7 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1733227879
 ---
@@ -18,7 +18,7 @@ las vermelhas e brancas; mantenha as atividades e melhorias do sistem
 a em dia. Temos grupo de Discord.
 ```
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

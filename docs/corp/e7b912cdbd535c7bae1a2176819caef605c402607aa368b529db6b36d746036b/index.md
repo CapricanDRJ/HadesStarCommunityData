@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Snack Empire
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1734880537
 ---
@@ -15,12 +15,12 @@ date: 1734880537
 ```
 Welcome to the land of the delicious! Please be active and grow :)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1127)|
-| ELO Competitive | 1169 🔻  (1124)|
+| ELO Regular | 1148 🔻  (1128)|
+| ELO Competitive | 1169 🔻  (1125)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​uzumaki
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1721868476
 ---
@@ -19,7 +19,7 @@ English speaking
 We do private rs
 Inactive players will be kicked out
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

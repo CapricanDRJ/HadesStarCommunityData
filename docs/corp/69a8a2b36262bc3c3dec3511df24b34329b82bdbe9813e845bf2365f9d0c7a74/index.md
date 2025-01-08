@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ReylZ
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1716618499
 ---
@@ -15,12 +15,12 @@ date: 1716618499
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (961)|
-| ELO Competitive | 1175 🔻  (1044)|
+| ELO Regular | 1170 🔻  (962)|
+| ELO Competitive | 1175 🔻  (1045)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

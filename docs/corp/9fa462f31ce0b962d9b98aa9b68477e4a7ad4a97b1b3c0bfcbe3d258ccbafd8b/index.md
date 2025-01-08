@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新兴帝国
-description: W:3 L:4 D:0 Bonus ❌
+description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1711051078
 ---
@@ -16,7 +16,7 @@ date: 1711051078
 帝国的强盛由成员们缔造The strength of the empire is created by its members！招人打白，
 帝国分部帝森舰队已建立，帝国满员后可以去往分部
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ShadowSpaceCult
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1708982290
 ---
@@ -16,7 +16,7 @@ date: 1708982290
 Head over to WompWompWay
 ```
 ### [Discord](https://discord.gg/5KCND3wuds)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

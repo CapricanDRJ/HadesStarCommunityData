@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1735656030
 ---
@@ -16,12 +16,12 @@ date: 1735656030
 We do all types of stars we help in red stars we prepare to battle in
  blue stars and we battle white stars.Sorry i am not online that much
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (842)|
-| ELO Competitive | 1187 🔻  (830)|
+| ELO Regular | 1182 🔻  (843)|
+| ELO Competitive | 1187 🔻  (831)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

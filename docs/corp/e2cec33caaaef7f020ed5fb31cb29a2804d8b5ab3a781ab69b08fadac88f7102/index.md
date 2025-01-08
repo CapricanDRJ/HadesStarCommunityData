@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​避难所
-description: W:10 L:8 D:2 Bonus ❌
+description: W:10 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1722404657
 ---
@@ -16,12 +16,12 @@ date: 1722404657
  <color=#fb9><size=50>欢迎大家加入避难所！常驻请加企鹅群596512697，每周开白（目前招人） 立功给干事 ，（不
 打白就不要开白扫），常驻提供r7神器。盟团：群星璀璨，很多星球的社会主义团；首席：水边散步，欢迎大佬和萌新加入，先捐款旗舰二，不是死团
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔺  (280)|
-| ELO Competitive | 1291 🔺  (294)|
+| ELO Competitive | 1291 🔺  (295)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 8 |

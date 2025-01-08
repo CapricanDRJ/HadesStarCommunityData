@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​QSO
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1727002679
 ---
@@ -23,7 +23,7 @@ date: 1727002679
 集团QQ群（打白星必需）：</color>1093246955
 <color=red>3日未上线踢出（请假除外）</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

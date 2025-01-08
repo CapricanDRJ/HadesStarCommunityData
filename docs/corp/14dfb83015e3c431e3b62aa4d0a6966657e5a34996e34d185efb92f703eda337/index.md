@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New YuGiOh
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1735403054
 ---
@@ -15,7 +15,7 @@ date: 1735403054
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

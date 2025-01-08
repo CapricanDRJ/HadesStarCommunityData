@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​USSR
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1701973393
 ---
@@ -17,12 +17,12 @@ date: 1701973393
 <color=white>• Еженедельные походы на БЗ</color>
 <color=purple>• Чат в TG</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (625)|
-| ELO Competitive | 1189 🔻  (793)|
+| ELO Regular | 1188 🔻  (626)|
+| ELO Competitive | 1189 🔻  (794)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

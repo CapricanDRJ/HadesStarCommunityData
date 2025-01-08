@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SPACECOWBOYS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1709290891
 ---
@@ -15,12 +15,12 @@ date: 1709290891
 ```
 no discord chat | active players | frequent white star scans
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (727)|
-| ELO Competitive | 1185 🔻  (905)|
+| ELO Regular | 1185 🔻  (728)|
+| ELO Competitive | 1185 🔻  (906)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

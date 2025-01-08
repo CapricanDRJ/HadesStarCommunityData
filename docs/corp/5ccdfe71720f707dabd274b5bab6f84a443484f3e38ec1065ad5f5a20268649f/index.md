@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Copelius
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1720495291
 ---
@@ -15,7 +15,7 @@ date: 1720495291
 ```
 Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

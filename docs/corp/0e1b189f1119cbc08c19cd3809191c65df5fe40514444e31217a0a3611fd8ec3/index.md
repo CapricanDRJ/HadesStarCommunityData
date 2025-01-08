@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stars
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1723710627
 ---
@@ -15,12 +15,12 @@ date: 1723710627
 ```
 Join if you have a white star scanner and can help in white stars
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (929)|
-| ELO Competitive | 1178 🔻  (1021)|
+| ELO Regular | 1172 🔻  (930)|
+| ELO Competitive | 1178 🔻  (1022)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

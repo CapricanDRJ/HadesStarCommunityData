@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Qonqr
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1722430732
 ---
@@ -17,12 +17,12 @@ due to lack of contact with 1st officer, we recommend leaving this co
 rp. You are most welcome to join the new corp: QONQR (all letters upp
 er case). Thank you :)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (715)|
-| ELO Competitive | 1186 🔻  (867)|
+| ELO Regular | 1186 🔻  (716)|
+| ELO Competitive | 1186 🔻  (868)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

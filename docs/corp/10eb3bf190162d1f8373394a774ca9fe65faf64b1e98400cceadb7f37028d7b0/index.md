@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Survivors
-description: W:4 L:14 D:1 Bonus ❌
+description: W:4 L:14 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1730566676
 ---
@@ -17,12 +17,12 @@ Kill or be Killed. We as Survivors  have banded together to take on a
 ll enemy forces! We are a small, recently created group of determined
  people doing WS & having fun.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1298)|
-| ELO Competitive | 1108 🔻  (1327)|
+| ELO Regular | 1089 🔻  (1299)|
+| ELO Competitive | 1108 🔻  (1328)|
 | Total Matches | 19 |
 | Wins | 4 |
 | Losses | 14 |

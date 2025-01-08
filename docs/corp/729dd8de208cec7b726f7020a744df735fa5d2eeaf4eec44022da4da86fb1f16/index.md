@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Serenity
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1702422706
 ---
@@ -17,12 +17,12 @@ Serenity merged with lacuna. This leftover corp is not active. New pl
 ayers can use it as a quiet place to start.
 ```
 ### [Discord](https://discord.gg/PSryd83)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (944)|
-| ELO Competitive | 1171 🔻  (1092)|
+| ELO Regular | 1171 🔻  (945)|
+| ELO Competitive | 1171 🔻  (1093)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

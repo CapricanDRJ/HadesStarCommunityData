@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​cikopo
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1714209343
 ---
@@ -20,12 +20,12 @@ Ingin menjadi anggota?
 Join Discord kita dulu: [discord url]
 ```
 ### [Discord](https://discord.gg/MCDb2Mt)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1029)|
-| ELO Competitive | 1163 🔻  (1164)|
+| ELO Regular | 1162 🔻  (1030)|
+| ELO Competitive | 1163 🔻  (1165)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

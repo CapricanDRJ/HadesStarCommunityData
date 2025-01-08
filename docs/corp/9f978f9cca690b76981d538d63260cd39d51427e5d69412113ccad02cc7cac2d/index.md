@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Soylent Corp.
-description: W:26 L:15 D:0 Bonus ❌
+description: W:26 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1727889033
 ---
@@ -18,7 +18,7 @@ der, Final, TS, UG, AN, Dau, Proph, Soy, BSO Acad & Obs.  Working tog
 ether to excel!
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

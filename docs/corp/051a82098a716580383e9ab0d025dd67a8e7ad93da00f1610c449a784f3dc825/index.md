@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ RELAX CZ/SK
-description: W:81 L:38 D:0 Bonus ✅
+description: W:81 L:38 D:0 Bonus ✅ 44%
 image: ./favicon.png
 date: 1735964623
 ---
@@ -17,7 +17,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
  a DRS<br><br>https://userxinos.github.io/HadesSpace/ 
 ```
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |

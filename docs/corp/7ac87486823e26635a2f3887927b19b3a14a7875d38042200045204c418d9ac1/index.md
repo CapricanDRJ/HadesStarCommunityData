@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Star Corp.
-description: W:6 L:15 D:0 Bonus ❌
+description: W:6 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1722615275
 ---
@@ -18,12 +18,12 @@ Deutscher Konzern für Fortgeschrittene
 - Chataktivität gern gesehen
 - Sei Freundlich & Fair
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1079 🔻  (1310)|
-| ELO Competitive | 1099 🔻  (1339)|
+| ELO Regular | 1079 🔻  (1311)|
+| ELO Competitive | 1099 🔻  (1340)|
 | Total Matches | 21 |
 | Wins | 6 |
 | Losses | 15 |

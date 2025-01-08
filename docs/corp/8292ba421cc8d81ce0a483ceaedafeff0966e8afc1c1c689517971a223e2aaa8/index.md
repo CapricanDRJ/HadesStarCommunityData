@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Сибиряки
-description: W:0 L:4 D:1 Bonus ❌
+description: W:0 L:4 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1728114704
 ---
@@ -16,12 +16,12 @@ date: 1728114704
 корпорация для активных игроков базирующихся на территории Сибири, ес
 ли вы такой, тогда, Welcome!!!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1164)|
-| ELO Competitive | 1148 🔻  (1242)|
+| ELO Regular | 1141 🔻  (1165)|
+| ELO Competitive | 1148 🔻  (1243)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

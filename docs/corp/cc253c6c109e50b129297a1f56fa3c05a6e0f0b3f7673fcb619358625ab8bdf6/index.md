@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Стальная крыса
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1720434326
 ---
@@ -20,12 +20,12 @@ date: 1720434326
 
 Общение ведётся в телеграм-чате (обратитесь к @neit_wel или @eidzist)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (900)|
-| ELO Competitive | 1174 🔻  (1050)|
+| ELO Regular | 1174 🔻  (901)|
+| ELO Competitive | 1174 🔻  (1051)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

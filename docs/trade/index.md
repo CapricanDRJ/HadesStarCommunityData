@@ -215,6 +215,17 @@ permalink: /trade/
                 </tr>
             
         <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>10</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>210%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">Guild: Private</td>
         </tr>
     </table>

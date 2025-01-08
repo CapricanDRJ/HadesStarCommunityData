@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​l'empire sylli
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1719962692
 ---
@@ -16,12 +16,12 @@ date: 1719962692
 Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace. 
 ```
 ### [Discord](https://discord.gg/7MEkhpJ47M)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1245)|
-| ELO Competitive | 1118 🔻  (1312)|
+| ELO Regular | 1116 🔻  (1246)|
+| ELO Competitive | 1118 🔻  (1313)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

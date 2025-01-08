@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝色星系
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1728112901
 ---
@@ -22,12 +22,12 @@ date: 1728112901
 discord：eDKGV87N
 集团分盟：蓝色星系一号分盟
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (974)|
-| ELO Competitive | 1172 🔻  (1074)|
+| ELO Regular | 1169 🔻  (975)|
+| ELO Competitive | 1172 🔻  (1075)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​α阿尔法
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1708621391
 ---
@@ -15,7 +15,7 @@ date: 1708621391
 ```
 2022.1.15      xiao
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

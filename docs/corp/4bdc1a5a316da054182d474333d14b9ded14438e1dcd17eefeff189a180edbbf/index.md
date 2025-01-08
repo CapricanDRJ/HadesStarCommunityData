@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FirstAllegiance
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1707455738
 ---
@@ -17,12 +17,12 @@ date: 1707455738
  ask is that you must be active and Let our name be known amongst all
 ! 14 day inactive kick enforced. JnrwdDKynd (discord)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (687)|
-| ELO Competitive | 1186 🔻  (863)|
+| ELO Regular | 1186 🔻  (688)|
+| ELO Competitive | 1186 🔻  (864)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

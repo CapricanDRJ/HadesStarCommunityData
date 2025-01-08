@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ItBurnsWhenIEMP
-description: W:23 L:8 D:0 Bonus ❌
+description: W:23 L:8 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1728755717
 ---
@@ -18,7 +18,7 @@ date: 1728755717
 =orange>GAGZQ3U</color>
 ```
 ### [Discord](https://discord.gg/GAGZQ3U)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​korea
-description: W:23 L:6 D:0 Bonus ❌
+description: W:23 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1718444485
 ---
@@ -15,7 +15,7 @@ date: 1718444485
 ```
 자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

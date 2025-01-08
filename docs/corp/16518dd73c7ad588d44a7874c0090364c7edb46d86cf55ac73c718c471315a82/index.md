@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Avalanche 2.0
-description: W:2 L:4 D:0 Bonus ❌
+description: W:2 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1711139125
 ---
@@ -16,12 +16,12 @@ date: 1711139125
 Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.
 ```
 ### [Discord](https://discord.gg/SrcGUY7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (898)|
-| ELO Competitive | 1177 🔻  (1027)|
+| ELO Regular | 1174 🔻  (899)|
+| ELO Competitive | 1177 🔻  (1028)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国星系集团
-description: W:7 L:1 D:0 Bonus ❌
+description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1714123800
 ---
@@ -15,12 +15,12 @@ date: 1714123800
 ```
 <a>本集团为<size=77>中国星系集团新主团</size></a >
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔺  (184)|
-| ELO Competitive | 1290 🔺  (298)|
+| ELO Competitive | 1290 🔺  (299)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

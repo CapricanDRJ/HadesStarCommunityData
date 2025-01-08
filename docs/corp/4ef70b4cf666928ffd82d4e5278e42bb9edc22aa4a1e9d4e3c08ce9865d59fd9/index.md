@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elite
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1701360580
 ---
@@ -15,11 +15,11 @@ date: 1701360580
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1058)|
+| ELO Regular | 1158 🔻  (1059)|
 | ELO Competitive | 1159 🔻  (1185)|
 | Total Matches | 5 |
 | Wins | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Canada 55
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1702928532
 ---
@@ -22,7 +22,7 @@ color>
 
 Join Discord here: <b>EEpZuWf</b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

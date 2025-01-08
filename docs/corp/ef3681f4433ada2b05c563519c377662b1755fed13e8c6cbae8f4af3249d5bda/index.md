@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Starlancer
-description: W:0 L:18 D:0 Bonus ❌
+description: W:0 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1715051835
 ---
@@ -17,12 +17,12 @@ Deutschsprachiger Konzern sucht aktive Spieler mit Interesse an RR un
 d WZ. Spaß am Spiel steht bei uns im Vordergrund, Hilfe bei Rrs immer
  gegeben, Wz meist wöchentlich 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1351)|
-| ELO Competitive | 1031 🔻  (1372)|
+| ELO Regular | 1016 🔻  (1352)|
+| ELO Competitive | 1031 🔻  (1373)|
 | Total Matches | 18 |
 | Wins | 0 |
 | Losses | 18 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​icell
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1706588757
 ---
@@ -15,12 +15,12 @@ date: 1706588757
 ```
 Have fun :D
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (629)|
-| ELO Competitive | 1188 🔻  (804)|
+| ELO Regular | 1188 🔻  (630)|
+| ELO Competitive | 1188 🔻  (805)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

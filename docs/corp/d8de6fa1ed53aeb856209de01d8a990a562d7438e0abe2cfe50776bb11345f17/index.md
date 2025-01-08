@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​拆迁大队
-description: W:15 L:36 D:3 Bonus ❌
+description: W:15 L:36 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735187612
 ---
@@ -17,12 +17,12 @@ date: 1735187612
 高级成员，打一白5次以上干事，闹事喧哗者一律清除！yuan副团长，严冬白星总指挥，kkk旗舰管理（注：非职位者勿碰旗舰），定期处理停摆研究
 站丨白星：向首席报名，不打白星自己关丨新手加入找柚子免费神器｜请各位多捐旗舰
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1040 🔻  (1338)|
-| ELO Competitive | 1131 🔻  (1295)|
+| ELO Regular | 1040 🔻  (1339)|
+| ELO Competitive | 1131 🔻  (1296)|
 | Total Matches | 54 |
 | Wins | 15 |
 | Losses | 36 |

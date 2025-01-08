@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Russia
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1734015688
 ---
@@ -15,7 +15,7 @@ date: 1734015688
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Discovery
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1721694490
 ---
@@ -15,11 +15,11 @@ date: 1721694490
 ```
 Being active in Discovery is a requirement
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (665)|
+| ELO Regular | 1187 🔻  (666)|
 | ELO Competitive | 1193 🔻  (721)|
 | Total Matches | 1 |
 | Wins | 0 |

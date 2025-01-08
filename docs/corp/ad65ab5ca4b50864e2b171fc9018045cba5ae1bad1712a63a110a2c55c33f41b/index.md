@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​嘤嘤嘤嘤嘤嘤嘤嘤
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1719259943
 ---
@@ -15,12 +15,12 @@ date: 1719259943
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1234)|
-| ELO Competitive | 1136 🔻  (1284)|
+| ELO Regular | 1119 🔻  (1235)|
+| ELO Competitive | 1136 🔻  (1285)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​MiddleOfNowhere
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1724758221
 ---
@@ -18,7 +18,7 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 .
 ```
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

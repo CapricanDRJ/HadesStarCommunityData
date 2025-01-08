@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death knight
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1700164023
 ---
@@ -23,12 +23,12 @@ Please join our Discord Server
 
 ```
 ### [Discord](https://discord.gg/Xt8tjjGdRD)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (957)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1171 🔻  (958)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

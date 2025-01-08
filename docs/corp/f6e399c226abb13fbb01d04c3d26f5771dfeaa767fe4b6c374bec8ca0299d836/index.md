@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star League
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1724050809
 ---
@@ -16,12 +16,12 @@ date: 1724050809
 Greetings, Starfighter! You have been recruited by the star league to
  defend the Empire against Xur and the Ko-Dan Armada.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1036)|
-| ELO Competitive | 1163 🔻  (1166)|
+| ELO Regular | 1161 🔻  (1037)|
+| ELO Competitive | 1163 🔻  (1167)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

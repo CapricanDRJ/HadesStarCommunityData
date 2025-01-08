@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ophelia VII
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1724504942
 ---
@@ -15,7 +15,7 @@ date: 1724504942
 ```
 New begginging?
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

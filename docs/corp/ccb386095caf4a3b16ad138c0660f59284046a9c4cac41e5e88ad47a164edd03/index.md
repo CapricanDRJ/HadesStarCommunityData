@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dahoam in AT
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1704229726
 ---
@@ -17,12 +17,12 @@ Dahoam in AT zieht um und findet ein neues Dahoam bei INFINITY STAR.
 Wer uns nachfolgen will, meldet euch dort! Im Konzern verbleiben unse
 re ausgeschiedenen Pensionisten!      V5SHx
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (680)|
-| ELO Competitive | 1186 🔻  (857)|
+| ELO Regular | 1186 🔻  (681)|
+| ELO Competitive | 1186 🔻  (858)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

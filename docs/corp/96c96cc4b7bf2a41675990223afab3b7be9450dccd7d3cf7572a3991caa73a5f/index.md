@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Austria 
-description: W:2 L:2 D:0 Bonus ❌
+description: W:2 L:2 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1701466685
 ---
@@ -22,7 +22,7 @@ Wir sind Teil der Tartaros Armada.
 Discordpflicht!
 UmWZYtn9Hh
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

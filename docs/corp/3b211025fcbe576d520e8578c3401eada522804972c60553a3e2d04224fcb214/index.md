@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Force
-description: W:1 L:3 D:2 Bonus ❌
+description: W:1 L:3 D:2 Bonus ❌ 3%
 image: ./favicon.png
 date: 1713993924
 ---
@@ -15,12 +15,12 @@ date: 1713993924
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (964)|
-| ELO Competitive | 1189 🔻  (787)|
+| ELO Regular | 1170 🔻  (965)|
+| ELO Competitive | 1189 🔻  (788)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GermanIndustrie
-description: W:10 L:2 D:1 Bonus ❌
+description: W:10 L:2 D:1 Bonus ❌ 15%
 image: ./favicon.png
 date: 1727516721
 ---
@@ -18,11 +18,11 @@ onzern um gemeinsame rr/drr und/oder WZ zu fliegen? Dann bist du hier
  richtig! Komm rein oder erkundige dich auf unserem D-server. 
 ```
 ### [Discord](https://discord.gg/cMHeknWazZ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (160)|
+| ELO Regular | 1302 🔺  (161)|
 | ELO Competitive | 1330 🔺  (214)|
 | Total Matches | 13 |
 | Wins | 10 |

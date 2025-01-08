@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​大侠饶命
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1727852366
 ---
@@ -15,11 +15,11 @@ date: 1727852366
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (615)|
+| ELO Regular | 1189 🔻  (616)|
 | ELO Competitive | 1190 🔻  (755)|
 | Total Matches | 1 |
 | Wins | 0 |

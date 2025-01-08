@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Thurn and Taxis
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1701425499
 ---
@@ -17,11 +17,11 @@ Achieving greatness through economic stability in local planets, adva
 nced mining capabilities, interstellar diplomacy, and conservative mi
 litary strength. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (324)|
+| ELO Regular | 1230 🔺  (323)|
 | ELO Competitive | 1230 🔺  (460)|
 | Total Matches | 2 |
 | Wins | 2 |

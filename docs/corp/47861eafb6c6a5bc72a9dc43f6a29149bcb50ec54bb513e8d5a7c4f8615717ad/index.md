@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Star Banker
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1705138180
 ---
@@ -15,12 +15,12 @@ date: 1705138180
 ```
 UK group, active through the day. New players welcome.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (968)|
-| ELO Competitive | 1170 🔻  (1114)|
+| ELO Regular | 1170 🔻  (969)|
+| ELO Competitive | 1170 🔻  (1115)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

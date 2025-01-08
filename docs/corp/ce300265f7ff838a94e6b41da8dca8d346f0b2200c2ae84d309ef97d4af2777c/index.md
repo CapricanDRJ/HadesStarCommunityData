@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TUSFO星舰第二联邦
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1722686194
 ---
@@ -17,12 +17,12 @@ date: 1722686194
 即咸鱼）也可以去总集团挂号。
 欢迎大家多多进行各种等级的私人红星活动，也欢迎新来的朋友多多发言。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (922)|
-| ELO Competitive | 1180 🔻  (1007)|
+| ELO Regular | 1172 🔻  (923)|
+| ELO Competitive | 1180 🔻  (1008)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

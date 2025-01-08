@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dansk
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1702701316
 ---
@@ -15,12 +15,12 @@ date: 1702701316
 ```
 Her taler vi dansk (Danish only)  
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1143)|
-| ELO Competitive | 1145 🔻  (1252)|
+| ELO Regular | 1145 🔻  (1144)|
+| ELO Competitive | 1145 🔻  (1253)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:7 L:12 D:1 Bonus ❌
+description: W:7 L:12 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735987456
 ---
@@ -17,11 +17,11 @@ date: 1735987456
  invaders out）让我们在游戏里面做大做强，再创辉煌！打倒外国帝国主义！分团：                         
  100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1135)|
+| ELO Regular | 1146 🔻  (1136)|
 | ELO Competitive | 1191 🔻  (748)|
 | Total Matches | 20 |
 | Wins | 7 |

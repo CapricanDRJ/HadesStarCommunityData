@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cygnus X-1
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1705551985
 ---
@@ -15,12 +15,12 @@ date: 1705551985
 ```
 ⚠️integrantes en descogelacion⚠️
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (949)|
-| ELO Competitive | 1171 🔻  (1096)|
+| ELO Regular | 1171 🔻  (950)|
+| ELO Competitive | 1171 🔻  (1097)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

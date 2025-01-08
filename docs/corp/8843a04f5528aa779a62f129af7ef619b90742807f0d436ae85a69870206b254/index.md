@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Valhalla Rising
-description: W:22 L:3 D:0 Bonus ❌
+description: W:22 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1728493664
 ---
@@ -16,7 +16,7 @@ date: 1728493664
 Join the discord! No flagship donations.
 ```
 ### [Discord](https://discord.gg/XPrcvp9hKs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

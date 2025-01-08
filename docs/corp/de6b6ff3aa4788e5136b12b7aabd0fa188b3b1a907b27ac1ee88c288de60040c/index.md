@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Global Elite
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1718903534
 ---
@@ -17,12 +17,12 @@ Our discord is Global Elite, members must join if they wish to partic
 ipate in white stars. Inactivity for 2 weeks will not be tolerated. T
 hose who do not comply with these rules will be kicked
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (919)|
-| ELO Competitive | 1181 🔻  (1001)|
+| ELO Regular | 1172 🔻  (920)|
+| ELO Competitive | 1181 🔻  (1002)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

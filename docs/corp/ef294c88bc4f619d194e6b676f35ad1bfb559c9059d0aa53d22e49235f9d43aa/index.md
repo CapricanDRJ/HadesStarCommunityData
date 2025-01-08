@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​You win
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1730710906
 ---
@@ -15,12 +15,12 @@ date: 1730710906
 ```
 You are lucky to meet me in White Star! Congratulations!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1153)|
-| ELO Competitive | 1156 🔻  (1214)|
+| ELO Regular | 1143 🔻  (1154)|
+| ELO Competitive | 1156 🔻  (1215)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

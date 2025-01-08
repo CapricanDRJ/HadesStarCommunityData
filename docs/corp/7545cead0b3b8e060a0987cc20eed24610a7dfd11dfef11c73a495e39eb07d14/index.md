@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hand of Legion 
-description: W:4 L:1 D:0 Bonus ❌
+description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1710084164
 ---
@@ -17,7 +17,7 @@ date: 1710084164
  nationalities and from all countries. 
 ```
 ### [Discord](https://discord.gg/MY29hgT5ZE)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

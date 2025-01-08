@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​혁명군
-description: W:13 L:32 D:0 Bonus ❌
+description: W:13 L:32 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1715096003
 ---
@@ -20,11 +20,11 @@ date: 1715096003
 Discord opened
 ```
 ### [Discord](https://discord.gg/7BfdmAAXQ7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1253)|
+| ELO Regular | 1115 🔻  (1254)|
 | ELO Competitive | 1248 🔺  (411)|
 | Total Matches | 45 |
 | Wins | 13 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orion
-description: W:12 L:4 D:0 Bonus ❌
+description: W:12 L:4 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1711907723
 ---
@@ -18,12 +18,12 @@ amuser entre fous ! Si tu viens chez Orion, tu joues comme Orion. Nou
 s sommes une team avant tout.Recrutement actif + Formation WS
 ```
 ### [Discord](https://discord.gg/YtyNGek)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (205)|
-| ELO Competitive | 1300 🔻  (273)|
+| ELO Regular | 1273 🔻  (206)|
+| ELO Competitive | 1300 🔻  (274)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

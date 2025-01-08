@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​海澜之家
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725749001
 ---
@@ -15,7 +15,7 @@ date: 1725749001
 ```
 该星际集团还没有任何描述。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

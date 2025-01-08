@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KARI
-description: W:2 L:66 D:0 Bonus ❌
+description: W:2 L:66 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1730868965
 ---
@@ -15,12 +15,12 @@ date: 1730868965
 ```
 Korea Aerospace Research Institute
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 815 🔻  (1377)|
-| ELO Competitive | 994 🔻  (1376)|
+| ELO Regular | 815 🔻  (1378)|
+| ELO Competitive | 994 🔻  (1377)|
 | Total Matches | 68 |
 | Wins | 2 |
 | Losses | 66 |

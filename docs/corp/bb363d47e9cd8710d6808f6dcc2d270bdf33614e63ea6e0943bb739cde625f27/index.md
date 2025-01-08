@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Br Stark Corps
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1703708620
 ---
@@ -15,12 +15,12 @@ date: 1703708620
 ```
 Unir, conquistar, lutar e vencer.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1024)|
-| ELO Competitive | 1165 🔻  (1150)|
+| ELO Regular | 1163 🔻  (1025)|
+| ELO Competitive | 1165 🔻  (1151)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​8 русский рейх
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1710967539
 ---
@@ -15,11 +15,11 @@ date: 1710967539
 ```
 русские идут
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (354)|
+| ELO Regular | 1222 🔺  (353)|
 | ELO Competitive | 1222 🔺  (494)|
 | Total Matches | 1 |
 | Wins | 1 |

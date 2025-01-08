@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​日中連合
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1715002560
 ---
@@ -15,12 +15,12 @@ date: 1715002560
 ```
 <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (893)|
-| ELO Competitive | 1176 🔻  (1033)|
+| ELO Regular | 1175 🔻  (894)|
+| ELO Competitive | 1176 🔻  (1034)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

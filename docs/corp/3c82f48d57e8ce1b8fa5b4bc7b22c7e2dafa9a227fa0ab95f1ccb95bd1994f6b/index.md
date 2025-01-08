@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中团一建
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1733576461
 ---
@@ -15,7 +15,7 @@ date: 1733576461
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

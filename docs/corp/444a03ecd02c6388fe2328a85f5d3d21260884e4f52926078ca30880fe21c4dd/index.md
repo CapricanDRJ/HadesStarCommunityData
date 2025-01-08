@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​解语者研究会
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1714980948
 ---
@@ -22,12 +22,12 @@ date: 1714980948
 集团qq：976760700
 感谢您对解语者研究会的支持！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (713)|
-| ELO Competitive | 1186 🔻  (876)|
+| ELO Regular | 1186 🔻  (714)|
+| ELO Competitive | 1186 🔻  (877)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

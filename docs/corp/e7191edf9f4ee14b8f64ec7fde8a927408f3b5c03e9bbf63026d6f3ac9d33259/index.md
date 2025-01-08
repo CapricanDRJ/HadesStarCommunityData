@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​THE ECHAPES BEL
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1702238474
 ---
@@ -15,12 +15,12 @@ date: 1702238474
 ```
 Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1200)|
-| ELO Competitive | 1132 🔻  (1293)|
+| ELO Regular | 1129 🔻  (1201)|
+| ELO Competitive | 1132 🔻  (1294)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

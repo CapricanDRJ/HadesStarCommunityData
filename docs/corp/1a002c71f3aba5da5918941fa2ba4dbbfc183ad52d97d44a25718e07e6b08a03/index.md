@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:51 L:9 D:0 Bonus ✅
+description: W:51 L:9 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736023221
 ---
@@ -21,7 +21,7 @@ Join over 500 players across a family of 9 corps on discord for chat,
 RS1+
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

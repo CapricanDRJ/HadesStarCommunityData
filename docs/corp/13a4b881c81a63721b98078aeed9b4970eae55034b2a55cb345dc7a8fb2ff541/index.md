@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:12 L:5 D:0 Bonus ❌
+description: W:12 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735677067
 ---
@@ -17,11 +17,11 @@ date: 1735677067
                       Играем в сонном режиме, телеграм или дс иметь н
 е обязательно, иногда ходим на Белую Звезду.        
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (172)|
+| ELO Regular | 1295 🔺  (173)|
 | ELO Competitive | 1321 🔺  (229)|
 | Total Matches | 17 |
 | Wins | 12 |

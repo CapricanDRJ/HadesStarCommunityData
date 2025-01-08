@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Слава Украине!
-description: W:94 L:39 D:1 Bonus ✅
+description: W:94 L:39 D:1 Bonus ✅ 46%
 image: ./favicon.png
 date: 1735863062
 ---
@@ -17,7 +17,7 @@ date: 1735863062
  додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефакті
 в, допомога та поради, за бажанням досвід в боях за білу зірку
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

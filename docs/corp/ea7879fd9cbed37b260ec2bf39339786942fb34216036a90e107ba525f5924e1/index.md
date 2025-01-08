@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:15 L:13 D:0 Bonus ❌
+description: W:15 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1731760563
 ---
@@ -18,11 +18,11 @@ ve</b> players to participate in corp red/white stars. Join our disco
 rd for easier coordination and fun!
 ```
 ### [Discord](https://discord.gg/3CBQRhpWmV)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (365)|
+| ELO Regular | 1220 🔻  (364)|
 | ELO Competitive | 1251 🔻  (400)|
 | Total Matches | 28 |
 | Wins | 15 |

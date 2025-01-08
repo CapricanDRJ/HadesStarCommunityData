@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Farland Ind.
-description: W:7 L:19 D:1 Bonus ❌
+description: W:7 L:19 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1721257201
 ---
@@ -21,12 +21,12 @@ Weekly comp & casual WS.
 Join via Discord: N3uPEvsFY9</color>
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1291)|
-| ELO Competitive | 1164 🔻  (1155)|
+| ELO Regular | 1095 🔻  (1292)|
+| ELO Competitive | 1164 🔻  (1156)|
 | Total Matches | 27 |
 | Wins | 7 |
 | Losses | 19 |

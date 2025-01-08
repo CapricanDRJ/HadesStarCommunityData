@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​USAR@Hadesstar
-description: W:1 L:3 D:1 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1735377810
 ---
@@ -15,12 +15,12 @@ date: 1735377810
 ```
 the official USAR (usar is a micronation) corporation.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (877)|
-| ELO Competitive | 1181 🔺  (1002)|
+| ELO Regular | 1176 🔻  (878)|
+| ELO Competitive | 1181 🔺  (1003)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |

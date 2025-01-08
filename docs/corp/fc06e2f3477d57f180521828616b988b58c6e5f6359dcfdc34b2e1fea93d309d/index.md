@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​U.P.E
-description: W:0 L:3 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1735398546
 ---
@@ -15,12 +15,12 @@ date: 1735398546
 ```
 United People of Earth.  For the betterment of all people of earth!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1020)|
-| ELO Competitive | 1165 🔻  (1147)|
+| ELO Regular | 1164 🔻  (1021)|
+| ELO Competitive | 1165 🔻  (1148)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

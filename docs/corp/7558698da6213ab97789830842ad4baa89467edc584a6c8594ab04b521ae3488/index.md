@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Тёмный Феникс
-description: W:0 L:10 D:0 Bonus ❌
+description: W:0 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1725661259
 ---
@@ -19,12 +19,12 @@ date: 1725661259
 <color=red>Наш телеграм</color> 
 https://t.me/+k9Bv8nU9QW80NmFi
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1296)|
-| ELO Competitive | 1103 🔻  (1334)|
+| ELO Regular | 1090 🔻  (1297)|
+| ELO Competitive | 1103 🔻  (1335)|
 | Total Matches | 10 |
 | Wins | 0 |
 | Losses | 10 |

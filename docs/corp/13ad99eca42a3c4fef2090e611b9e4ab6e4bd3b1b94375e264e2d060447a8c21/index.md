@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Round Table 
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1704086180
 ---
@@ -20,12 +20,12 @@ This is the Round Table. We Help each other and have fun. Most of all
 
 Discord - b8VCJrC
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (812)|
-| ELO Competitive | 1184 🔻  (974)|
+| ELO Regular | 1184 🔻  (813)|
+| ELO Competitive | 1184 🔻  (975)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

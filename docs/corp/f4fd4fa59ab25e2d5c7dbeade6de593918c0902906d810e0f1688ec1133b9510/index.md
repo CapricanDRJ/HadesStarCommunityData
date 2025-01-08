@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​昙花一现
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
 date: 1735883573
 ---
@@ -16,7 +16,7 @@ date: 1735883573
 <color=green>欢迎来到这个新建的集团(welcome to the group )，让我们把这个集体建没的更好！（不定期会开白
 ，不定期送 r8)友团：分子集团
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |

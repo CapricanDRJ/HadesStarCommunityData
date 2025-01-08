@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rogue Corp
-description: W:1 L:20 D:0 Bonus ❌
+description: W:1 L:20 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735866667
 ---
@@ -16,12 +16,12 @@ date: 1735866667
 <color=orange>Rogue Corp</color> We are serious but fun..., Join us f
 or weekly <color=white>WS</color> and private <color=red>RS</color> 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1044 🔻  (1336)|
-| ELO Competitive | 1056 🔻  (1363)|
+| ELO Regular | 1044 🔻  (1337)|
+| ELO Competitive | 1056 🔻  (1364)|
 | Total Matches | 21 |
 | Wins | 1 |
 | Losses | 20 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​G.D.C.
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1726532381
 ---
@@ -20,12 +20,12 @@ ndom stuff. Be kind in chat!!!!!
 7J9fa2egCU
 Join for Senior M.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (810)|
-| ELO Competitive | 1184 🔻  (968)|
+| ELO Regular | 1184 🔻  (811)|
+| ELO Competitive | 1184 🔻  (969)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:48 L:31 D:7 Bonus ✅
+description: W:48 L:31 D:7 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736261787
 ---
@@ -15,7 +15,7 @@ date: 1736261787
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

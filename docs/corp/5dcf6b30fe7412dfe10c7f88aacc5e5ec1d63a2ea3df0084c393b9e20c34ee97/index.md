@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galaxian
-description: W:18 L:9 D:0 Bonus ❌
+description: W:18 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1718353206
 ---
@@ -24,7 +24,7 @@ Battlesquadron : RS 7+
 Galaxian : RS1-6
 ```
 ### [Discord](https://discord.gg/hb9JBGP)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

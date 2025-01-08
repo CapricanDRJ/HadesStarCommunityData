@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​一切终将消逝
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1727168157
 ---
@@ -15,12 +15,12 @@ date: 1727168157
 ```
 成熟 就是慢火熬煮心脏的过程，人成长了, 心也死了  QQ群 638804576  咸鱼养老
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (802)|
-| ELO Competitive | 1188 🔻  (799)|
+| ELO Regular | 1184 🔻  (803)|
+| ELO Competitive | 1188 🔻  (800)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

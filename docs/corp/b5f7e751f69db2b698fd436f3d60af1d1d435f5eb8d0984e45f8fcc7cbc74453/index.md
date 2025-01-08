@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​边界-萌新俱乐部
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1699861645
 ---
@@ -15,11 +15,11 @@ date: 1699861645
 ```
 此集团为边界  分团 。活跃者请前往边界QQ：733613340
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (325)|
+| ELO Regular | 1229 🔺  (324)|
 | ELO Competitive | 1229 🔺  (464)|
 | Total Matches | 2 |
 | Wins | 2 |

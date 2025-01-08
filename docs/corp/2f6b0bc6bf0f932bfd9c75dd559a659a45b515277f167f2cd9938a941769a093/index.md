@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​E.T.A 二营
-description: W:0 L:9 D:2 Bonus ❌
+description: W:0 L:9 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1707695531
 ---
@@ -15,12 +15,12 @@ date: 1707695531
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1092 🔺  (1293)|
-| ELO Competitive | 1115 🔺  (1320)|
+| ELO Regular | 1092 🔺  (1294)|
+| ELO Competitive | 1115 🔺  (1321)|
 | Total Matches | 11 |
 | Wins | 0 |
 | Losses | 9 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:46 L:16 D:0 Bonus ✅
+description: W:46 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736227532
 ---
@@ -17,12 +17,12 @@ Sister Corporation of First Legion & Armored Union. Anyone is Welcome
  to join. Here to help anyone in need. If you need help clearing a Re
 d Star, let us know and we'll help. Let's Finish the Game!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1308 🔺  (143)|
-| ELO Competitive | 1422 🔺  (119)|
+| ELO Competitive | 1422 🔺  (120)|
 | Total Matches | 62 |
 | Wins | 46 |
 | Losses | 16 |

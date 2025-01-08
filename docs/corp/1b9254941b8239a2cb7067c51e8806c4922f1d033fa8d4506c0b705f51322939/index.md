@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Slovensko-Activ
-description: W:0 L:16 D:0 Bonus ❌
+description: W:0 L:16 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1732562884
 ---
@@ -17,12 +17,12 @@ Strážny psík Shu, vedie túto korporáciu a stráži všetkých členov. Hav
  728.      .  _-_  .  WS oponents: we are here to provide WS burnout 
 prevention; it's very real, serious topic. have a week off 🤗
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1042 🔻  (1337)|
-| ELO Competitive | 1067 🔻  (1358)|
+| ELO Regular | 1042 🔻  (1338)|
+| ELO Competitive | 1067 🔻  (1359)|
 | Total Matches | 16 |
 | Wins | 0 |
 | Losses | 16 |

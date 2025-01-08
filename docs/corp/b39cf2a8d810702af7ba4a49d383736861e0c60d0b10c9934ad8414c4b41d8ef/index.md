@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Летящий орел
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1727022215
 ---
@@ -15,7 +15,7 @@ date: 1727022215
 ```
 Корпорация твинов
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

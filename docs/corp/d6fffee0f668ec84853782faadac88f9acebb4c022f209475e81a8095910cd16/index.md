@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Welcome 欢迎
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1728573607
 ---
@@ -17,12 +17,12 @@ date: 1728573607
  find a curse, kick it out.排名前五干事。Top five officers.排名前10高员。Top 10 ra
 nking members.                     首席First Officer：狂妄的神（会离线）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1062)|
-| ELO Competitive | 1172 🔻  (1078)|
+| ELO Regular | 1158 🔻  (1063)|
+| ELO Competitive | 1172 🔻  (1079)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

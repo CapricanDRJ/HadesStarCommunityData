@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Federation 
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1701516867
 ---
@@ -15,12 +15,12 @@ date: 1701516867
 ```
 Federation X.  I am mean, we're still here.  Why aren't you?
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (654)|
-| ELO Competitive | 1187 🔻  (829)|
+| ELO Regular | 1187 🔻  (655)|
+| ELO Competitive | 1187 🔻  (830)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Чистое Небо
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1720780411
 ---
@@ -17,12 +17,12 @@ date: 1720780411
 рищей, защиту и поддержку, а так же добрый коллектив. ЧН приветствует
  тебя.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1088)|
-| ELO Competitive | 1156 🔻  (1212)|
+| ELO Regular | 1155 🔻  (1089)|
+| ELO Competitive | 1156 🔻  (1213)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

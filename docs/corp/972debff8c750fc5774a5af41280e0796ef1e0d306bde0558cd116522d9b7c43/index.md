@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​You Win
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1716807774
 ---
@@ -17,12 +17,12 @@ Was once a White Star training corp is now a quiet corner of HS. If w
 e beat you, uninstall! Serious players unwelcome! Fun is our #1 polic
 y. 30days afk=kick g7HzK7s
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1172)|
-| ELO Competitive | 1171 🔻  (1098)|
+| ELO Regular | 1138 🔻  (1173)|
+| ELO Competitive | 1171 🔻  (1099)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

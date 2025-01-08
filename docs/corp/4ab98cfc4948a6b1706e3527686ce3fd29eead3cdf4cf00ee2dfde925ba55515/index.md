@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gallaecia
-description: W:0 L:16 D:0 Bonus ❌
+description: W:0 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1711749983
 ---
@@ -18,12 +18,12 @@ Buscamos gente con actitud positiva para Estrellas Blancas.
 a hasta Verín.
 Discord: VjEnT6S
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1342)|
-| ELO Competitive | 1038 🔻  (1368)|
+| ELO Regular | 1035 🔻  (1343)|
+| ELO Competitive | 1038 🔻  (1369)|
 | Total Matches | 16 |
 | Wins | 0 |
 | Losses | 16 |

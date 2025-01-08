@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​empire
-description: W:1 L:4 D:1 Bonus ❌
+description: W:1 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1732287246
 ---
@@ -15,12 +15,12 @@ date: 1732287246
 ```
 dont give in we help each other in start a White star ever 2 day
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (1087)|
-| ELO Competitive | 1163 🔺  (1163)|
+| ELO Regular | 1155 🔺  (1088)|
+| ELO Competitive | 1163 🔺  (1164)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 4 |

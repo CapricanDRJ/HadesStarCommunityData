@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Emp 2
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1725589130
 ---
@@ -16,11 +16,11 @@ date: 1725589130
 Open to all, come join and learn or just enjoy playing, no discord ne
 cessary
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (803)|
+| ELO Regular | 1184 🔻  (804)|
 | ELO Competitive | 1193 🔻  (714)|
 | Total Matches | 1 |
 | Wins | 0 |

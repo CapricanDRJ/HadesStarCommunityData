@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​lost souls
-description: W:28 L:28 D:1 Bonus ❌
+description: W:28 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1725637514
 ---
@@ -18,7 +18,7 @@ ard core WS focused players wanted. Discord comms essential. We are k
 een to improve WS results. Let's kick ass together!
 ```
 ### [Discord](https://discord.gg/cevpqFrB7J)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

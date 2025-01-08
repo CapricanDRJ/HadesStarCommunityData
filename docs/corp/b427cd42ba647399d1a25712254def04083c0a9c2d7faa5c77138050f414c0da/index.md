@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​墨痕白星分部
-description: W:9 L:7 D:0 Bonus ❌
+description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1709307723
 ---
@@ -17,12 +17,12 @@ date: 1709307723
 墨痕Q群：796512160
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (434)|
-| ELO Competitive | 1281 🔻  (313)|
+| ELO Competitive | 1281 🔻  (314)|
 | Total Matches | 16 |
 | Wins | 9 |
 | Losses | 7 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Peasants
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1721863369
 ---
@@ -22,11 +22,11 @@ Max 7 days of inactivity.
 HS Compendium required to join WS's
 ```
 ### [Discord](https://discord.gg/s22bSE6EyU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (342)|
+| ELO Regular | 1226 🔺  (341)|
 | ELO Competitive | 1231 🔺  (456)|
 | Total Matches | 2 |
 | Wins | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Invaders
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1734275933
 ---
@@ -20,12 +20,12 @@ A estalagem do fim do mundo.
 mas fica à vontade, pega o que sobrou de cerveja e aproveita o bônus 
 de artefatos ∆
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (706)|
-| ELO Competitive | 1186 🔻  (853)|
+| ELO Regular | 1186 🔻  (707)|
+| ELO Competitive | 1186 🔻  (854)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

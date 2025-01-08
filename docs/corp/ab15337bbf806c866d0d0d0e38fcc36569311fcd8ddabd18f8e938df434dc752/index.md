@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mecha Armada
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1705425169
 ---
@@ -16,7 +16,7 @@ date: 1705425169
 Be friendly and respectful to one another.
 Requirement: Active and have fun.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

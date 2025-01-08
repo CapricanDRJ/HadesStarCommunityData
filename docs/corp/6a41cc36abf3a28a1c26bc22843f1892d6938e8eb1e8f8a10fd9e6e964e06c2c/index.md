@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Marshalls
-description: W:30 L:20 D:0 Bonus ❌
+description: W:30 L:20 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1725512501
 ---
@@ -17,7 +17,7 @@ Station für einsame Piloten, lasst uns gemeinsam stillschweigend chil
 len.
 ```
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

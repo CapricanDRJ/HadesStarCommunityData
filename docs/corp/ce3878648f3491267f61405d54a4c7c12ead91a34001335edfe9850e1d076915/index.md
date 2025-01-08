@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DESERT DEMONS
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1703188801
 ---
@@ -15,12 +15,12 @@ date: 1703188801
 ```
 Be nice and be active, we will support you on your way up :) 3z6EWUq5
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (976)|
-| ELO Competitive | 1169 🔻  (1119)|
+| ELO Regular | 1169 🔻  (977)|
+| ELO Competitive | 1169 🔻  (1120)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

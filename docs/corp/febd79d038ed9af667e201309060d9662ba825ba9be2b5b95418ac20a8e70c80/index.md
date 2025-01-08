@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ark
-description: W:58 L:19 D:1 Bonus ❌
+description: W:58 L:19 D:1 Bonus ❌ 13%
 image: ./favicon.png
 date: 1736166233
 ---
@@ -21,7 +21,7 @@ Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
 Discord ist erwünscht, aber keine Pflicht.
 ```
 ### [Discord](https://discord.gg/kPuseCu4RE)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

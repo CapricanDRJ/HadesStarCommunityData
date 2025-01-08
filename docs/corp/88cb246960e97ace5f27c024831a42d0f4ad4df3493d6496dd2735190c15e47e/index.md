@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​北冥星云
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1733580670
 ---
@@ -24,11 +24,11 @@ date: 1733580670
 
 ღ愿世界平和，愿人们的温柔永存
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1181)|
+| ELO Regular | 1135 🔻  (1182)|
 | ELO Competitive | 1159 🔻  (1192)|
 | Total Matches | 7 |
 | Wins | 1 |

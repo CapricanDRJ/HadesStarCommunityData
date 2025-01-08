@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Северный флот 
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1706608888
 ---
@@ -17,11 +17,11 @@ date: 1706608888
 =#8bbe1b>Discord Канал:<b>#👀сбор-на-кз</b> </color>(читай Справку)
 ```
 ### [Discord](https://discord.gg/xxJxnp5m7f)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (319)|
+| ELO Regular | 1230 🔺  (318)|
 | ELO Competitive | 1231 🔺  (458)|
 | Total Matches | 2 |
 | Wins | 2 |

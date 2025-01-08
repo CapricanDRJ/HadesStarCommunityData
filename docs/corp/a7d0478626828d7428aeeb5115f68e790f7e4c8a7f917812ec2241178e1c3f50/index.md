@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Альянс
-description: W:26 L:10 D:0 Bonus ❌
+description: W:26 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1724593548
 ---
@@ -17,7 +17,7 @@ date: 1724593548
 й. Регулярное участие в операциях у БЗ гарантировано.
 ```
 ### [Discord](https://discord.gg/CKF2yqFhFu)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

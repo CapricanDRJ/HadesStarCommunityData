@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Astra Ultima
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1700916068
 ---
@@ -21,11 +21,11 @@ date: 1700916068
 Discord necessary:hqgVvzTUw3
 ```
 ### [Discord](https://discord.gg/hqgVvzTUw3)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1054)|
+| ELO Regular | 1159 🔻  (1055)|
 | ELO Competitive | 1159 🔻  (1190)|
 | Total Matches | 3 |
 | Wins | 0 |

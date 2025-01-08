@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Karanth Corp.
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1702033497
 ---
@@ -16,12 +16,12 @@ date: 1702033497
 Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz disco
 rd.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (917)|
-| ELO Competitive | 1174 🔻  (1055)|
+| ELO Regular | 1173 🔻  (918)|
+| ELO Competitive | 1174 🔻  (1056)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

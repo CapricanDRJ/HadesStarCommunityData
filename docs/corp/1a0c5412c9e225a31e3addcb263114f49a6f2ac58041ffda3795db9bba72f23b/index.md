@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kratos
-description: W:48 L:32 D:0 Bonus ❌
+description: W:48 L:32 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735094769
 ---
@@ -16,11 +16,11 @@ date: 1735094769
 Bienvenidos 😁
 ```
 ### [Discord](https://discord.gg/RgusRrPMKT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (346)|
+| ELO Regular | 1225 🔻  (345)|
 | ELO Competitive | 1376 🔻  (165)|
 | Total Matches | 80 |
 | Wins | 48 |

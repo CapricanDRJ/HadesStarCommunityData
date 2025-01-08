@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星约组织：莫比乌斯分团
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1733142524
 ---
@@ -16,12 +16,12 @@ date: 1733142524
 我们是星约组织第二分团！目前正处于建设中，在这里，请互帮互助，各自发展，如果你在30级以上请去总团星际公约组织！        星海灿烂，
 星约永恒                欢迎你的加入！QQ群：993612413
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (843)|
-| ELO Competitive | 1184 🔻  (969)|
+| ELO Regular | 1182 🔻  (844)|
+| ELO Competitive | 1184 🔻  (970)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​pirates spatial
-description: W:54 L:47 D:0 Bonus ❌
+description: W:54 L:47 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1735812575
 ---
@@ -21,11 +21,11 @@ WS HL hebdo
 [discord url]
 ```
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (357)|
+| ELO Regular | 1221 🔻  (356)|
 | ELO Competitive | 1467 🔻  (79)|
 | Total Matches | 101 |
 | Wins | 54 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Любители Пива
-description: W:2 L:19 D:0 Bonus ❌
+description: W:2 L:19 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1709926722
 ---
@@ -16,12 +16,12 @@ date: 1709926722
 Всем любителям пива, сюда. Да прибудет с вами пенное...
 C3nffwQkCc
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1341)|
-| ELO Competitive | 1073 🔻  (1352)|
+| ELO Regular | 1035 🔻  (1342)|
+| ELO Competitive | 1073 🔻  (1353)|
 | Total Matches | 21 |
 | Wins | 2 |
 | Losses | 19 |

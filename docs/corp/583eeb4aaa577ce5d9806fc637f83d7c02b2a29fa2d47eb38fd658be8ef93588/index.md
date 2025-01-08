@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bunker
-description: W:30 L:29 D:1 Bonus ❌
+description: W:30 L:29 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1725445905
 ---
@@ -18,11 +18,11 @@ DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP
 IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
 ```
 ### [Discord](https://discord.gg/TZRY8esKFz)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (787)|
+| ELO Regular | 1184 🔻  (788)|
 | ELO Competitive | 1379 🔻  (162)|
 | Total Matches | 60 |
 | Wins | 30 |

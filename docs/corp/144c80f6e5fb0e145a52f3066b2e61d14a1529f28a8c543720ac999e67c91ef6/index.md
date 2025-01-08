@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Неудержимые
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1724217287
 ---
@@ -18,12 +18,12 @@ What Is Dead May Never Die!
 
 https://t.me/nhsuac
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1105)|
-| ELO Competitive | 1166 🔻  (1144)|
+| ELO Regular | 1153 🔻  (1106)|
+| ELO Competitive | 1166 🔻  (1145)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

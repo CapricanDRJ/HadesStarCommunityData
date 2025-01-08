@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Last Chance
-description: W:2 L:3 D:1 Bonus ❌
+description: W:2 L:3 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1732395217
 ---
@@ -22,7 +22,7 @@ Se amable con los demás y diviértete
 
 Alianza Axolotls
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cydonia
-description: W:1 L:2 D:2 Bonus ❌
+description: W:1 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725693704
 ---
@@ -16,7 +16,7 @@ date: 1725693704
 THE CYDONIAN EMPIRE™ 
 ```
 ### [Discord](https://discord.gg/QMdDHJjzwS)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

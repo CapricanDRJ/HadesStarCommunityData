@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​共产主义舰队
-description: W:7 L:1 D:0 Bonus ❌
+description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1708830541
 ---
@@ -17,11 +17,11 @@ date: 1708830541
     <color=white>本集团追求平等自由  承诺人人权力平等！ 本集团由大量学生组成  在校期间学业繁忙          故
 上线人数少  如有活跃者 想谋求长远发展者    请移步共产星际  及其附属集团  寻求更合适的环境
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (197)|
+| ELO Regular | 1277 🔺  (198)|
 | ELO Competitive | 1278 🔺  (320)|
 | Total Matches | 8 |
 | Wins | 7 |

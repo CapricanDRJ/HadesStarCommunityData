@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nodens Provisio
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1724029522
 ---
@@ -15,12 +15,12 @@ date: 1724029522
 ```
 Because you can't solo White Stars. GWA38Gx
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (841)|
-| ELO Competitive | 1187 🔻  (818)|
+| ELO Regular | 1182 🔻  (842)|
+| ELO Competitive | 1187 🔻  (819)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

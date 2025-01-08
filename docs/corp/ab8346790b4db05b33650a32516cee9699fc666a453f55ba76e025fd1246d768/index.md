@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​愿君仍常在
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1701425499
 ---
@@ -19,12 +19,12 @@ QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神
 旗舰捐献名单（自愿捐献不强求，就算离开团名字也不删除）
 虎式3万愿君5万何梦琪70万一个过分1万 yebaha1万北冥5万 时光梦意1万Bailey27万0 28万player2万Enoch1万
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (692)|
-| ELO Competitive | 1186 🔻  (875)|
+| ELO Regular | 1186 🔻  (693)|
+| ELO Competitive | 1186 🔻  (876)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

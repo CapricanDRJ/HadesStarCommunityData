@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:3 L:9 D:0 Bonus ❌
+description: W:3 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1720873100
 ---
@@ -16,12 +16,12 @@ date: 1720873100
 Willkommen in der Sternenflotten Akademie. Hier oder auf Discord find
 est du Hilfe
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1174)|
-| ELO Competitive | 1149 🔻  (1239)|
+| ELO Regular | 1137 🔻  (1175)|
+| ELO Competitive | 1149 🔻  (1240)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |

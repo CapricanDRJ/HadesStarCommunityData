@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Grater T
-description: W:10 L:12 D:0 Bonus ❌
+description: W:10 L:12 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1723271885
 ---
@@ -17,12 +17,12 @@ run by a few active friends, a corp for both new players but also for
  experienced ones, we welcome anyone and we will be happy to see you 
 join. 🔰欢迎全球各地的人加入，新手送r8大礼，氛围轻松，适合养老🔰Friend corps: CIS, 红日初升
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (358)|
-| ELO Competitive | 1295 🔻  (284)|
+| ELO Regular | 1221 🔻  (357)|
+| ELO Competitive | 1295 🔻  (285)|
 | Total Matches | 22 |
 | Wins | 10 |
 | Losses | 12 |

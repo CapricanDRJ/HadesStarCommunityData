@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Free Star
-description: W:5 L:8 D:0 Bonus ❌
+description: W:5 L:8 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1704630910
 ---
@@ -17,11 +17,11 @@ date: 1704630910
  We must create a new empire🔰
 ```
 ### [Discord](https://discord.gg/ZZb34hh2dk)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1078)|
+| ELO Regular | 1156 🔻  (1079)|
 | ELO Competitive | 1202 🔻  (625)|
 | Total Matches | 13 |
 | Wins | 5 |

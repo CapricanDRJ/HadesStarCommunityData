@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国星际联盟·第一自治州
-description: W:1 L:3 D:1 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725618874
 ---
@@ -15,12 +15,12 @@ date: 1725618874
 ```
 本团为中国星际联盟自治分团，欢迎加入！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (972)|
-| ELO Competitive | 1175 🔺  (1040)|
+| ELO Regular | 1170 🔺  (973)|
+| ELO Competitive | 1175 🔺  (1041)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |

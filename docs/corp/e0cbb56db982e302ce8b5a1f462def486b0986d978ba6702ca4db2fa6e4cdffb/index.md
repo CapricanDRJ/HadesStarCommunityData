@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Anti union
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1703961058
 ---
@@ -17,12 +17,12 @@ Friendly low stress corp doing a restart in the new expansion. No req
 uirements besides playing the game though we appreciate it if you hel
 p us win White Stars. So join and be welcome.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (902)|
-| ELO Competitive | 1174 🔻  (1053)|
+| ELO Regular | 1174 🔻  (903)|
+| ELO Competitive | 1174 🔻  (1054)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

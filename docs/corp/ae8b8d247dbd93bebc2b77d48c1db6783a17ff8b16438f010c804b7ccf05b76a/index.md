@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Созидание 2.0
-description: W:11 L:16 D:0 Bonus ❌
+description: W:11 L:16 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1729018377
 ---
@@ -18,11 +18,11 @@ date: 1729018377
 eratists<br><br><color=red>ДС обязателен
 ```
 ### [Discord](https://discord.gg/eukzrdT88y)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (866)|
+| ELO Regular | 1178 🔺  (867)|
 | ELO Competitive | 1195 🔺  (700)|
 | Total Matches | 27 |
 | Wins | 11 |

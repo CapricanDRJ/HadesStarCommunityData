@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Млечный путь
-description: W:17 L:21 D:0 Bonus ✅
+description: W:17 L:21 D:0 Bonus ✅ 36%
 image: ./favicon.png
 date: 1736228434
 ---
@@ -18,12 +18,12 @@ date: 1736228434
 местами в топ.
 ```
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (539)|
-| ELO Competitive | 1292 🔺  (292)|
+| ELO Competitive | 1292 🔺  (293)|
 | Total Matches | 38 |
 | Wins | 17 |
 | Losses | 21 |

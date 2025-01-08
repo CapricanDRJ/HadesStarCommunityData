@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Novana Gaming
-description: W:4 L:5 D:0 Bonus ❌
+description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1724582728
 ---
@@ -20,7 +20,7 @@ date: 1724582728
 - No toxicity<color="yellow">
 ```
 ### [Discord](https://discord.gg/TcQcQt9)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

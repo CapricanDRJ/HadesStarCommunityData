@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏三体-阿拜多斯集团 
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1735293679
 ---
@@ -15,12 +15,12 @@ date: 1735293679
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (678)|
-| ELO Competitive | 1188 🔻  (811)|
+| ELO Regular | 1186 🔻  (679)|
+| ELO Competitive | 1188 🔻  (812)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

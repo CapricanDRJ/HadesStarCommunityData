@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CORE INFLICTION
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1702351177
 ---
@@ -20,12 +20,12 @@ date: 1702351177
 Project for Permanent Peace
 <color="red">                                    * 7일 미접 강퇴  </color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (648)|
-| ELO Competitive | 1187 🔻  (831)|
+| ELO Regular | 1187 🔻  (649)|
+| ELO Competitive | 1187 🔻  (832)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

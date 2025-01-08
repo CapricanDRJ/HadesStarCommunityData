@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​LUPI ROMÎNI
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1716847439
 ---
@@ -15,12 +15,12 @@ date: 1716847439
 ```
 All are welcome.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (962)|
-| ELO Competitive | 1178 🔻  (1020)|
+| ELO Regular | 1170 🔻  (963)|
+| ELO Competitive | 1178 🔻  (1021)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

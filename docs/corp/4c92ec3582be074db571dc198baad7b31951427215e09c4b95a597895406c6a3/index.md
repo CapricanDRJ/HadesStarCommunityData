@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DYLAN
-description: W:8 L:1 D:0 Bonus ❌
+description: W:8 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1705768055
 ---
@@ -15,12 +15,12 @@ date: 1705768055
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔻  (195)|
-| ELO Competitive | 1282 🔻  (309)|
+| ELO Regular | 1281 🔻  (196)|
+| ELO Competitive | 1282 🔻  (310)|
 | Total Matches | 9 |
 | Wins | 8 |
 | Losses | 1 |

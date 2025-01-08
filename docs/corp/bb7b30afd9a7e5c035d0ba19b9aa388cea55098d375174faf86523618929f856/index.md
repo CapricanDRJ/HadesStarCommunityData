@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kingdom Of Meow
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1734327061
 ---
@@ -16,12 +16,12 @@ date: 1734327061
 Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
 Discord: Fyag9U7KFh
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1225)|
-| ELO Competitive | 1140 🔻  (1277)|
+| ELO Regular | 1122 🔻  (1226)|
+| ELO Competitive | 1140 🔻  (1278)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

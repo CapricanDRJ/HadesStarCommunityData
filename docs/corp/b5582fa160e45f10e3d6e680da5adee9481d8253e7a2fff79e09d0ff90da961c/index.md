@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​O.E.B.
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1705726588
 ---
@@ -15,12 +15,12 @@ date: 1705726588
 ```
 organizaçoes dos estados brasileiros / presidente : O.E.B.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (932)|
-| ELO Competitive | 1172 🔻  (1080)|
+| ELO Regular | 1172 🔻  (933)|
+| ELO Competitive | 1172 🔻  (1081)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

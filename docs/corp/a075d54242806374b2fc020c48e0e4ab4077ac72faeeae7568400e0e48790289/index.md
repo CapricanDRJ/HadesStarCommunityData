@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Неизбежный Рок
-description: W:92 L:35 D:1 Bonus ✅
+description: W:92 L:35 D:1 Bonus ✅ 48%
 image: ./favicon.png
 date: 1736235043
 ---
@@ -21,7 +21,7 @@ https://t.me/+rYmH3oRRd5FiMDVi</color>
 Вклад только во Флагман 1
 ```
 ### [Discord](https://discord.gg/QrVCb9V2hX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:11 L:18 D:0 Bonus ❌
+description: W:11 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736192080
 ---
@@ -18,7 +18,7 @@ Ask an officer about discord or join the conversation at [discord url
 ]
 ```
 ### [Discord](https://discord.gg/j5GeqTEx6E)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

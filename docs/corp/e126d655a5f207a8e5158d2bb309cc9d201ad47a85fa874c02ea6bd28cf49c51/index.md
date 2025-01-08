@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Flying Dutchmen
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1711356353
 ---
@@ -16,11 +16,11 @@ date: 1711356353
 » Only freaky deaky Dutch
 ```
 ### [Discord](https://discord.gg/NMhTcRxNSX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (618)|
+| ELO Regular | 1189 🔻  (619)|
 | ELO Competitive | 1190 🔻  (763)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​mijael siuuuuuu
-description: W:0 L:13 D:1 Bonus ❌
+description: W:0 L:13 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1722229384
 ---
@@ -15,12 +15,12 @@ date: 1722229384
 ```
 siuuu
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1057 🔻  (1328)|
-| ELO Competitive | 1059 🔻  (1361)|
+| ELO Regular | 1057 🔻  (1329)|
+| ELO Competitive | 1059 🔻  (1362)|
 | Total Matches | 14 |
 | Wins | 0 |
 | Losses | 13 |

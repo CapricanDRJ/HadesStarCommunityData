@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rocket-Babies
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1700374422
 ---
@@ -24,12 +24,12 @@ Questions: Message a Babies officer on discord
 
 Come join the Flight-Team!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (927)|
-| ELO Competitive | 1173 🔻  (1068)|
+| ELO Regular | 1172 🔻  (928)|
+| ELO Competitive | 1173 🔻  (1069)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

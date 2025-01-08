@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​德意志第三帝国阿尔法分部
-description: W:3 L:26 D:1 Bonus ❌
+description: W:3 L:26 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1713436849
 ---
@@ -15,12 +15,12 @@ date: 1713436849
 ```
 请去新团德意志阿尔法帝国
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1021 🔻  (1348)|
-| ELO Competitive | 1108 🔻  (1326)|
+| ELO Regular | 1021 🔻  (1349)|
+| ELO Competitive | 1108 🔻  (1327)|
 | Total Matches | 30 |
 | Wins | 3 |
 | Losses | 26 |

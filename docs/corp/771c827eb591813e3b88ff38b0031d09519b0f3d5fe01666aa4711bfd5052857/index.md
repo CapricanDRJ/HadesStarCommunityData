@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​<a>超越®</a>光速℡
-description: W:15 L:6 D:0 Bonus ❌
+description: W:15 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1719277369
 ---
@@ -15,7 +15,7 @@ date: 1719277369
 ```
 不如黑神话悟空
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

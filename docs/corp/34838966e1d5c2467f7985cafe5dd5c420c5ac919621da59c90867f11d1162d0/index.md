@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​NERF TOY'S
-description: W:22 L:35 D:2 Bonus ❌
+description: W:22 L:35 D:2 Bonus ❌ 12%
 image: ./favicon.png
 date: 1731223255
 ---
@@ -17,11 +17,11 @@ date: 1731223255
  players. <color=red>discord required [discord url] <color=yellow>wee
 kly WS's and daily Corp runs
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (666)|
+| ELO Regular | 1187 🔻  (667)|
 | ELO Competitive | 1270 🔻  (342)|
 | Total Matches | 59 |
 | Wins | 22 |

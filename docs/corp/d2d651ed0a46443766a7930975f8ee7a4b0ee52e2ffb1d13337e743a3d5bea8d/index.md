@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUS
-description: W:20 L:22 D:0 Bonus ✅
+description: W:20 L:22 D:0 Bonus ✅ 50%
 image: ./favicon.png
 date: 1736073394
 ---
@@ -18,11 +18,11 @@ date: 1736073394
 гроков ру-сегмента. Присоединяйся 👉
 https://t.me/RSeventHS
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (364)|
+| ELO Regular | 1220 🔺  (363)|
 | ELO Competitive | 1334 🔺  (210)|
 | Total Matches | 42 |
 | Wins | 20 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Reservoid  Dogs
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1707867594
 ---
@@ -17,12 +17,12 @@ Our learning Corp for New players!
 If you're interested in joining our discord: discord.gg/4TMBCed
 We’re a BIG family! ~ V
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (788)|
-| ELO Competitive | 1184 🔻  (960)|
+| ELO Regular | 1184 🔻  (789)|
+| ELO Competitive | 1184 🔻  (961)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

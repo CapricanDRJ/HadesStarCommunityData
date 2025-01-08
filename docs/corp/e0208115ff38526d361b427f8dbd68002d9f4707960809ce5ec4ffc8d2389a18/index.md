@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Richthofen
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1706552096
 ---
@@ -15,7 +15,7 @@ date: 1706552096
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

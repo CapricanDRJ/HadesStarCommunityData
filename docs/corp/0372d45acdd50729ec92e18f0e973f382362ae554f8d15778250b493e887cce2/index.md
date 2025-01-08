@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CDG
-description: W:24 L:27 D:5 Bonus ❌
+description: W:24 L:27 D:5 Bonus ❌ 14%
 image: ./favicon.png
 date: 1720925094
 ---
@@ -17,12 +17,12 @@ date: 1720925094
 size><size="50"> So Say We All</size></b></color>
 ```
 ### [Discord](https://discord.gg/Gv2tjDgdSa)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1150)|
-| ELO Competitive | 1295 🔻  (282)|
+| ELO Regular | 1143 🔻  (1151)|
+| ELO Competitive | 1295 🔻  (283)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |

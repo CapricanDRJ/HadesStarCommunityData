@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Solysis
-description: W:3 L:7 D:0 Bonus ❌
+description: W:3 L:7 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1718968140
 ---
@@ -20,12 +20,12 @@ date: 1718968140
 Find us on Discord: <b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1175)|
-| ELO Competitive | 1150 🔻  (1235)|
+| ELO Regular | 1137 🔻  (1176)|
+| ELO Competitive | 1150 🔻  (1236)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

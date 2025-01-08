@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​pegaso
-description: W:0 L:4 D:2 Bonus ❌
+description: W:0 L:4 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1710487997
 ---
@@ -15,12 +15,12 @@ date: 1710487997
 ```
 esperanza
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1133)|
-| ELO Competitive | 1173 🔺  (1060)|
+| ELO Regular | 1147 🔻  (1134)|
+| ELO Competitive | 1173 🔺  (1061)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 4 |

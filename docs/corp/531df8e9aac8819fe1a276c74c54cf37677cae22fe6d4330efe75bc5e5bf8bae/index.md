@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Borg Unimatrix
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1727178974
 ---
@@ -19,7 +19,7 @@ Unimatrix 1 of the Borg collective
 
 BorgHadesStar.reddit.com
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

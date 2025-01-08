@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:34 L:5 D:0 Bonus ✅
+description: W:34 L:5 D:0 Bonus ✅ 36%
 image: ./favicon.png
 date: 1736034640
 ---
@@ -26,7 +26,7 @@ date: 1736034640
 QQ群：131920392
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

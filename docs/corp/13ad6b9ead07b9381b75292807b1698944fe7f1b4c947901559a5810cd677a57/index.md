@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​R.S.F.
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1702319921
 ---
@@ -15,12 +15,12 @@ date: 1702319921
 ```
 Red Star Farmers           Currently in Chapter 11 reorganization.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (953)|
-| ELO Competitive | 1171 🔻  (1103)|
+| ELO Regular | 1171 🔻  (954)|
+| ELO Competitive | 1171 🔻  (1104)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Venture
-description: W:8 L:22 D:4 Bonus ❌
+description: W:8 L:22 D:4 Bonus ❌ 6%
 image: ./favicon.png
 date: 1720229381
 ---
@@ -15,12 +15,12 @@ date: 1720229381
 ```
 wt'star players
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1302)|
-| ELO Competitive | 1136 🔻  (1285)|
+| ELO Regular | 1087 🔻  (1303)|
+| ELO Competitive | 1136 🔻  (1286)|
 | Total Matches | 34 |
 | Wins | 8 |
 | Losses | 22 |

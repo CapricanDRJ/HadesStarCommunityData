@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hungary First
-description: W:18 L:14 D:1 Bonus ❌
+description: W:18 L:14 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1732090796
 ---
@@ -16,7 +16,7 @@ date: 1732090796
 For Hungarians. Magyar játékosoknak, akik szeretik a csapatmunkàt! La
 nguages: Hungarian, English.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

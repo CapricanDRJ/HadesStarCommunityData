@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第五星际
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1711200115
 ---
@@ -21,7 +21,7 @@ date: 1711200115
 <color=yellow>QQ群：946597244
 本团属于九团公约成员
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

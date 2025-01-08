@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​神貓聯盟
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1702140793
 ---
@@ -15,12 +15,12 @@ date: 1702140793
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (943)|
-| ELO Competitive | 1171 🔻  (1093)|
+| ELO Regular | 1171 🔻  (944)|
+| ELO Competitive | 1171 🔻  (1094)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

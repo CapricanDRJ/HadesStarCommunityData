@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​vosk empire 2
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1713714237
 ---
@@ -17,12 +17,12 @@ Welcome all to the SOUTHERN ALLIANCE CORPORATION.... A handful of act
 ive players that communicate in English and looking to expand our Cor
 poration. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (785)|
-| ELO Competitive | 1184 🔺  (958)|
+| ELO Regular | 1184 🔺  (786)|
+| ELO Competitive | 1184 🔺  (959)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

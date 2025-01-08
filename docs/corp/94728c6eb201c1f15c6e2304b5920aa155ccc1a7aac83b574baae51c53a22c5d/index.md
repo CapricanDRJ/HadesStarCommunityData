@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:23 L:30 D:0 Bonus ✅
+description: W:23 L:30 D:0 Bonus ✅ 36%
 image: ./favicon.png
 date: 1735735952
 ---
@@ -17,12 +17,12 @@ Small but perfectly formed English speaking Corp seeks experienced ac
 tive players wanting to grow.White Star⚪ on Thursdays.
 ```
 ### [Discord](https://discord.gg/Hc9hVMCcMT)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (808)|
-| ELO Competitive | 1294 🔺  (288)|
+| ELO Regular | 1184 🔺  (809)|
+| ELO Competitive | 1294 🔺  (289)|
 | Total Matches | 53 |
 | Wins | 23 |
 | Losses | 30 |

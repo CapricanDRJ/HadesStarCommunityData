@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sector7
-description: W:0 L:4 D:1 Bonus ❌
+description: W:0 L:4 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1708953767
 ---
@@ -15,12 +15,12 @@ date: 1708953767
 ```
 Req: English Speaking, Login Daily & Have Fun.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1144)|
-| ELO Competitive | 1144 🔻  (1257)|
+| ELO Regular | 1144 🔻  (1145)|
+| ELO Competitive | 1144 🔻  (1258)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Donuts
-description: W:4 L:4 D:0 Bonus ❌
+description: W:4 L:4 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1729304228
 ---
@@ -20,7 +20,7 @@ date: 1729304228
 
 <color=red>Joining Discord is required for membership</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

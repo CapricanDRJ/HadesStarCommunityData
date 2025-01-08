@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cell Division
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1716452566
 ---
@@ -15,12 +15,12 @@ date: 1716452566
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1053)|
-| ELO Competitive | 1164 🔻  (1156)|
+| ELO Regular | 1159 🔻  (1054)|
+| ELO Competitive | 1164 🔻  (1157)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

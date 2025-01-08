@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prometheus ESP
-description: W:11 L:9 D:0 Bonus ❌
+description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1719704704
 ---
@@ -18,7 +18,7 @@ der imperial. El discord está en la descripción. 30 dias máximos de i
 nactividad 
 ```
 ### [Discord](https://discord.gg/rvVvpBuEb6)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

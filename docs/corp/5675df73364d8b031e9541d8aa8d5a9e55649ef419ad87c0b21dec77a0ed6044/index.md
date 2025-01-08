@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:11 L:10 D:0 Bonus ❌
+description: W:11 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1734968874
 ---
@@ -21,12 +21,12 @@ ER de 1-9
 Esperamos su llegada!
 <b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (269)|
-| ELO Competitive | 1281 🔺  (314)|
+| ELO Competitive | 1281 🔺  (315)|
 | Total Matches | 21 |
 | Wins | 11 |
 | Losses | 10 |

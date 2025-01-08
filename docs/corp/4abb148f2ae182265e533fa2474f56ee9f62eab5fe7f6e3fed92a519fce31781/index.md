@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​just because
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1700545194
 ---
@@ -19,12 +19,12 @@ d and join our server:
 
 gXvbHJm
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (797)|
-| ELO Competitive | 1186 🔻  (859)|
+| ELO Regular | 1184 🔻  (798)|
+| ELO Competitive | 1186 🔻  (860)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

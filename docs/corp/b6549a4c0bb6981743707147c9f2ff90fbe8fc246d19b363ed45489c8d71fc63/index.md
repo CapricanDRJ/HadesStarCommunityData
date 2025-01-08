@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​PSI Division
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1727192499
 ---
@@ -17,12 +17,12 @@ Science Division.. we are here to help.
 
 EdNWKeN
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (718)|
-| ELO Competitive | 1187 🔺  (821)|
+| ELO Regular | 1185 🔺  (719)|
+| ELO Competitive | 1187 🔺  (822)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

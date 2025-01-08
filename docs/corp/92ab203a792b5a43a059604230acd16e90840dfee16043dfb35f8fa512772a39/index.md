@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​☆Sternenkrieger
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1733684034
 ---
@@ -15,7 +15,7 @@ date: 1733684034
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

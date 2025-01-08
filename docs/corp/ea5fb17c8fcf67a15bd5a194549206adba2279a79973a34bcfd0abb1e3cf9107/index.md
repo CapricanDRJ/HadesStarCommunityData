@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Continuum
-description: W:90 L:43 D:2 Bonus ✅
+description: W:90 L:43 D:2 Bonus ✅ 56%
 image: ./favicon.png
 date: 1735933979
 ---
@@ -19,7 +19,7 @@ A corporation of like-minded players 6 years strong. Recruiting for W
 S. 18+, English. Discord - apply + RS queue.
 ```
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 56%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​АарнСарт 
-description: W:6 L:1 D:0 Bonus ❌
+description: W:6 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1735982949
 ---
@@ -15,11 +15,11 @@ date: 1735982949
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (206)|
+| ELO Regular | 1272 🔻  (207)|
 | ELO Competitive | 1274 🔻  (326)|
 | Total Matches | 7 |
 | Wins | 6 |

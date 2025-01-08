@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​HAL
-description: W:3 L:0 D:1 Bonus ❌
+description: W:3 L:0 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709835656
 ---
@@ -17,7 +17,7 @@ date: 1709835656
 好联系一点：qq群
 485343146
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

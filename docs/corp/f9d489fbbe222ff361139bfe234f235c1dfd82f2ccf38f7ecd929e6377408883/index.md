@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​LANCE
-description: W:3 L:8 D:2 Bonus ❌
+description: W:3 L:8 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1705463338
 ---
@@ -15,12 +15,12 @@ date: 1705463338
 ```
 Политические темы офф. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1134)|
-| ELO Competitive | 1150 🔻  (1233)|
+| ELO Regular | 1146 🔻  (1135)|
+| ELO Competitive | 1150 🔻  (1234)|
 | Total Matches | 13 |
 | Wins | 3 |
 | Losses | 8 |

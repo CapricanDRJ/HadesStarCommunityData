@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:6 L:3 D:1 Bonus ✅
+description: W:6 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
 date: 1736223026
 ---
@@ -25,7 +25,7 @@ date: 1736223026
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |

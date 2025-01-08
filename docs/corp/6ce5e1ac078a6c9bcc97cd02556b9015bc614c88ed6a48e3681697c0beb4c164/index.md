@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Saiyan Empire
-description: W:5 L:7 D:0 Bonus ❌
+description: W:5 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1724004235
 ---
@@ -15,12 +15,12 @@ date: 1724004235
 ```
 Casual and easygoing corpo! Just chillin, growing and having fun!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (963)|
-| ELO Competitive | 1181 🔻  (997)|
+| ELO Regular | 1170 🔻  (964)|
+| ELO Competitive | 1181 🔻  (998)|
 | Total Matches | 12 |
 | Wins | 5 |
 | Losses | 7 |

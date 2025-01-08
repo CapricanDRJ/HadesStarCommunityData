@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:16 L:27 D:7 Bonus ❌
+description: W:16 L:27 D:7 Bonus ❌ 7%
 image: ./favicon.png
 date: 1731053472
 ---
@@ -17,11 +17,11 @@ date: 1731053472
 ianyayx……也谢谢所有有贡献者，白星只能首席或副首席扫，表现好升级，国力等级制，月末发暗找tianyayx，加tianyayx微信进
 集团微信群Q：98144527311，禁止随便删消息，随便移人，禁止刷屏，谢谢（分团：华夏舰队-基沃托斯集团）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1022)|
+| ELO Regular | 1163 🔻  (1023)|
 | ELO Competitive | 1272 🔻  (330)|
 | Total Matches | 50 |
 | Wins | 16 |

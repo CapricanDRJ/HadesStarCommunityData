@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​代代守护你的神明
-description: W:8 L:12 D:0 Bonus ❌
+description: W:8 L:12 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1729602647
 ---
@@ -20,11 +20,11 @@ date: 1729602647
 
 q群：741078259
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1159)|
+| ELO Regular | 1142 🔻  (1160)|
 | ELO Competitive | 1241 🔺  (433)|
 | Total Matches | 20 |
 | Wins | 8 |

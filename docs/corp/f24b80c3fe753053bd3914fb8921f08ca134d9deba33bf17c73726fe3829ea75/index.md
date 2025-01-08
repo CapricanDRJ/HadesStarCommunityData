@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nueva Hyperion
-description: W:3 L:1 D:1 Bonus ❌
+description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1707681836
 ---
@@ -17,7 +17,7 @@ Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con la
 s ventajas de una corporación ya empezada. Jugamos de manera relajada
 . Pregunta por el Discord en el chat.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

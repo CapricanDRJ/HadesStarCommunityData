@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BRhue
-description: W:12 L:14 D:0 Bonus ❌
+description: W:12 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1734914793
 ---
@@ -20,7 +20,7 @@ e-se a nós.
 
 Juntos somos mais fortes.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​0v0
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1725764921
 ---
@@ -16,12 +16,12 @@ date: 1725764921
 G.O.D公会0v0的小号盟,可搜G.0.D去大盟
 群号763870092
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (811)|
-| ELO Competitive | 1184 🔻  (973)|
+| ELO Regular | 1184 🔻  (812)|
+| ELO Competitive | 1184 🔻  (974)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

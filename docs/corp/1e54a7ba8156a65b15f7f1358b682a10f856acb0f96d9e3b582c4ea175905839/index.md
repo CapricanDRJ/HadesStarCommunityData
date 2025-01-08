@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spaceballs
-description: W:22 L:16 D:0 Bonus ✅
+description: W:22 L:16 D:0 Bonus ✅ 36%
 image: ./favicon.png
 date: 1736281923
 ---
@@ -17,7 +17,7 @@ Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make
  it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hades
 titans.com
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

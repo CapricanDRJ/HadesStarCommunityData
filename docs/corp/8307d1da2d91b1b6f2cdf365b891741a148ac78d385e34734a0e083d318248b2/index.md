@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FėniX•
-description: W:3 L:4 D:1 Bonus ❌
+description: W:3 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1715630616
 ---
@@ -17,11 +17,11 @@ date: 1715630616
 llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 .         
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (626)|
+| ELO Regular | 1188 🔻  (627)|
 | ELO Competitive | 1189 🔻  (782)|
 | Total Matches | 8 |
 | Wins | 3 |

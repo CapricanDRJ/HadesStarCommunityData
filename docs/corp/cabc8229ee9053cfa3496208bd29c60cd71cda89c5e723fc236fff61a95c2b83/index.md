@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735698698
 ---
@@ -18,12 +18,12 @@ Corporação de treinamento/backup - BRASIL STAR<br><br>Esta corporação
 adicionado aqui no chat!
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1085)|
-| ELO Competitive | 1183 🔻  (990)|
+| ELO Regular | 1155 🔻  (1086)|
+| ELO Competitive | 1183 🔻  (991)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

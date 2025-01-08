@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VAJRA 
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1713318167
 ---
@@ -18,11 +18,11 @@ I believe in U
 We can build a great alliance of Hades Star
 No discord. Be friendly :)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (613)|
+| ELO Regular | 1189 🔻  (614)|
 | ELO Competitive | 1189 🔻  (776)|
 | Total Matches | 3 |
 | Wins | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​titan tv
-description: W:9 L:22 D:1 Bonus ❌
+description: W:9 L:22 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1718984071
 ---
@@ -15,12 +15,12 @@ date: 1718984071
 ```
 guarida del titan tv 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1091 🔺  (1294)|
-| ELO Competitive | 1189 🔺  (790)|
+| ELO Regular | 1091 🔺  (1295)|
+| ELO Competitive | 1189 🔺  (791)|
 | Total Matches | 32 |
 | Wins | 9 |
 | Losses | 22 |

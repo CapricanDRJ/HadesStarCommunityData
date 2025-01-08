@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:12 L:12 D:3 Bonus ❌
+description: W:12 L:12 D:3 Bonus ❌ 6%
 image: ./favicon.png
 date: 1730792639
 ---
@@ -19,7 +19,7 @@ date: 1730792639
 新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团
 ```
 ### [Discord](https://discord.gg/3sg9ppw33F)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

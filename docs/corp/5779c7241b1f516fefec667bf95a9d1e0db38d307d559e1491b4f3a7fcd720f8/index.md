@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Zeta LLC
-description: W:7 L:2 D:0 Bonus ❌
+description: W:7 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1718398212
 ---
@@ -17,7 +17,7 @@ date: 1718398212
  пока афк. Рады как новичкам, так и бывалым игрокам! Стучитесь в Медв
 еди и Дом Датэ. Весь движ там. Коммуникация в Телеграм. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

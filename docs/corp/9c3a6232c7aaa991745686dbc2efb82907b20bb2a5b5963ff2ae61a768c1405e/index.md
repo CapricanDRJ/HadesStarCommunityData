@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Flight 1.
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1714979423
 ---
@@ -17,12 +17,12 @@ rookie or veteran we are all learning this new update together. we ar
 e open to any New Comers. Now's the Time to join and feel close to eq
 ual. most importantly we're here to have some fun.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (873)|
-| ELO Competitive | 1177 🔻  (1026)|
+| ELO Regular | 1176 🔻  (874)|
+| ELO Competitive | 1177 🔻  (1027)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperio Lie Yan
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1703552345
 ---
@@ -20,7 +20,7 @@ date: 1703552345
 Language: English-Spanish
 Discord: pxSK3vbe</color></b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

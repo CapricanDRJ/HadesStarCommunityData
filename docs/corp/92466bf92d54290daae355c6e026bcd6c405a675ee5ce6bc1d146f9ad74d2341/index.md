@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ТРУЛЯЛЯ
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1701861287
 ---
@@ -17,12 +17,12 @@ date: 1701861287
 <color=red>...</color>
 Discord.gg/<b>WAXSmUb</b></color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (677)|
-| ELO Competitive | 1186 🔻  (874)|
+| ELO Regular | 1186 🔻  (678)|
+| ELO Competitive | 1186 🔻  (875)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

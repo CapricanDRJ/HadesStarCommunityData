@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Heavenly Star 
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1714751366
 ---
@@ -16,12 +16,12 @@ date: 1714751366
 Aqui llacen las cuentas de los que un dia fueron jugadores apasionado
 s al juego.    12/18/22 -> Actualidad 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (951)|
-| ELO Competitive | 1171 🔻  (1097)|
+| ELO Regular | 1171 🔻  (952)|
+| ELO Competitive | 1171 🔻  (1098)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:48 L:9 D:0 Bonus ❌
+description: W:48 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1735912940
 ---
@@ -21,7 +21,7 @@ intensas nas Estrelas Brancas.
 🔰Ajudamos com orientação e evolução.
 ```
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

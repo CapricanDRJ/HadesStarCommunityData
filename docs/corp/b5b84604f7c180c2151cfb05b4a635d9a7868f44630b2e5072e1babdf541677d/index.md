@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Trade Systems
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1703021702
 ---
@@ -25,11 +25,11 @@ gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1073)|
+| ELO Regular | 1157 🔻  (1074)|
 | ELO Competitive | 1160 🔻  (1181)|
 | Total Matches | 3 |
 | Wins | 0 |

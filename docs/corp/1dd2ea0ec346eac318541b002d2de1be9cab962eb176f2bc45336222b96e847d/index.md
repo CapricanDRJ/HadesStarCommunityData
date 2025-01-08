@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ten Forward
-description: W:1 L:7 D:0 Bonus ❌
+description: W:1 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1707770237
 ---
@@ -16,12 +16,12 @@ date: 1707770237
 A very casual group. Not currently playing WS. Just a place to chill,
  relax and enjoy.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1252)|
-| ELO Competitive | 1118 🔻  (1314)|
+| ELO Regular | 1115 🔻  (1253)|
+| ELO Competitive | 1118 🔻  (1315)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 7 |

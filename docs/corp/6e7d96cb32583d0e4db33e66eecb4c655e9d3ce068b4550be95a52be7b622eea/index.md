@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sternenwanderer
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1707271529
 ---
@@ -23,12 +23,12 @@ Für Planung und Kommunikation außerhalb des Spiels
 [discord url]
 ```
 ### [Discord](https://discord.gg/nzkvKWGYft)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (783)|
-| ELO Competitive | 1185 🔻  (954)|
+| ELO Regular | 1185 🔻  (784)|
+| ELO Competitive | 1185 🔻  (955)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperial Navy
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1701817115
 ---
@@ -16,12 +16,12 @@ date: 1701817115
 The combined forces of the Imperial ruled planets. Commanded by the I
 mperial High Council
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (967)|
-| ELO Competitive | 1170 🔻  (1113)|
+| ELO Regular | 1170 🔻  (968)|
+| ELO Competitive | 1170 🔻  (1114)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

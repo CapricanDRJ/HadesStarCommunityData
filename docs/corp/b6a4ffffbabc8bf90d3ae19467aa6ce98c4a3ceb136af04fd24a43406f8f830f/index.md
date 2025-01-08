@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​아베노노
-description: W:4 L:3 D:1 Bonus ❌
+description: W:4 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1731028163
 ---
@@ -15,7 +15,7 @@ date: 1731028163
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

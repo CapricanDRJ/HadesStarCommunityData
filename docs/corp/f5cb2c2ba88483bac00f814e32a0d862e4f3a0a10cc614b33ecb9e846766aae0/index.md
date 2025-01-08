@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​We R Bad
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1703271448
 ---
@@ -15,12 +15,12 @@ date: 1703271448
 ```
 Laid back corp for people with day jobs. Resistence is futile.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1189)|
-| ELO Competitive | 1133 🔻  (1292)|
+| ELO Regular | 1132 🔻  (1190)|
+| ELO Competitive | 1133 🔻  (1293)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

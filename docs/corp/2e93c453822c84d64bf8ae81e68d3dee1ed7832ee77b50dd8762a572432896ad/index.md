@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​专业间谍团队
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1720863784
 ---
@@ -15,7 +15,7 @@ date: 1720863784
 ```
 Bye
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

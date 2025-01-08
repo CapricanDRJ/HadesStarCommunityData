@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
 date: 1712768054
 ---
@@ -15,7 +15,7 @@ date: 1712768054
 ```
 We'll bang, ok?
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

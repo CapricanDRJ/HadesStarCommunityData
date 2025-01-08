@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​한국우주연합
-description: W:7 L:14 D:0 Bonus ❌
+description: W:7 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1733273274
 ---
@@ -15,12 +15,12 @@ date: 1733273274
 ```
 kor.cop 많이 들어와주세요
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1267)|
-| ELO Competitive | 1129 🔻  (1299)|
+| ELO Competitive | 1129 🔻  (1300)|
 | Total Matches | 21 |
 | Wins | 7 |
 | Losses | 14 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Intercepter Inc
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1704473749
 ---
@@ -17,12 +17,12 @@ A corp focused on trying to reach the top players in the game, active
  players only please, and social players, we about sharing and growin
 g
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (792)|
-| ELO Competitive | 1184 🔻  (962)|
+| ELO Regular | 1184 🔻  (793)|
+| ELO Competitive | 1184 🔻  (963)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

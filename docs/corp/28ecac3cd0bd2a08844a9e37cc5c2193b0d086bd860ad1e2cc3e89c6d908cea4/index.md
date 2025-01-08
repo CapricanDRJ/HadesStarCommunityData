@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Империя
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1701183247
 ---
@@ -17,7 +17,7 @@ date: 1701183247
 ивость галактике. Но у нас есть преграда в лице террористов из Сопрот
 ивление! Только ты можешь помочь нам победить!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

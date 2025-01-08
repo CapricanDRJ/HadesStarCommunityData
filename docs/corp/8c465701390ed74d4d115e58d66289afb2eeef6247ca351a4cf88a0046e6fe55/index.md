@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​探索舰队
-description: W:18 L:16 D:1 Bonus ✅
+description: W:18 L:16 D:1 Bonus ✅ 34%
 image: ./favicon.png
 date: 1736137282
 ---
@@ -22,11 +22,11 @@ date: 1736137282
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (669)|
+| ELO Regular | 1186 🔺  (670)|
 | ELO Competitive | 1268 🔺  (348)|
 | Total Matches | 35 |
 | Wins | 18 |

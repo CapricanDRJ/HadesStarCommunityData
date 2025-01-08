@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Proteus Tech
-description: W:6 L:1 D:0 Bonus ❌
+description: W:6 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1702541717
 ---
@@ -17,7 +17,7 @@ Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR
  und WZ sind Voraussetzung.)
 ```
 ### [Discord](https://discord.gg/hj3teyk3bu)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

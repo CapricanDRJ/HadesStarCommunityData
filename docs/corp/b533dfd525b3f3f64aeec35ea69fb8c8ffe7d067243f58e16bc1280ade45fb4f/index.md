@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Dust
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1703246800
 ---
@@ -22,7 +22,7 @@ Beginners welcome, we support you to grow.
 
 WKdC8XW
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

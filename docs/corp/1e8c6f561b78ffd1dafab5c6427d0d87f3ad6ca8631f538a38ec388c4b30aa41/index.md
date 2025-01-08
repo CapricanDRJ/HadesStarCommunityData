@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Nerd Herd
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1712463334
 ---
@@ -16,7 +16,7 @@ date: 1712463334
 "No requirements to join, but our First Officer is incompetent" - TNH
 's First Officer
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

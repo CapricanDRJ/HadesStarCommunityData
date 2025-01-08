@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nova Time
-description: W:13 L:1 D:0 Bonus ❌
+description: W:13 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1712499667
 ---
@@ -15,7 +15,7 @@ date: 1712499667
 ```
 There is only one clock that matters.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

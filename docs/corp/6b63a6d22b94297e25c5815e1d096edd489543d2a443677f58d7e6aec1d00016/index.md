@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​NASA Air base
-description: W:0 L:8 D:2 Bonus ❌
+description: W:0 L:8 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1707937906
 ---
@@ -15,12 +15,12 @@ date: 1707937906
 ```
 This is the national space agency of the United States
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1097 🔻  (1287)|
-| ELO Competitive | 1098 🔻  (1340)|
+| ELO Regular | 1097 🔻  (1288)|
+| ELO Competitive | 1098 🔻  (1341)|
 | Total Matches | 10 |
 | Wins | 0 |
 | Losses | 8 |

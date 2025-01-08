@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​cyber_dream
-description: W:4 L:10 D:0 Bonus ❌
+description: W:4 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1725900738
 ---
@@ -17,11 +17,11 @@ date: 1725900738
 invite/HSsebQuveJ
 ```
 ### [Discord](https://discord.gg/HSsebQuveJ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1168)|
+| ELO Regular | 1139 🔻  (1169)|
 | ELO Competitive | 1161 🔻  (1176)|
 | Total Matches | 14 |
 | Wins | 4 |

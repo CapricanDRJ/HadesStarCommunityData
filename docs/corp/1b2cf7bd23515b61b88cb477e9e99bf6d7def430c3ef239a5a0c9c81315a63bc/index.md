@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​德尔塔星舰联盟
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1720971073
 ---
@@ -17,12 +17,12 @@ date: 1720971073
 464<br>首席:超级爱天文的<br><br>福利：每周五、六、日和节假日可找首席要神器（最高r8）<br><br>规则:<br>严禁说
 不良语言<br>7天闲置容忍，见红点必踢<br> <br>本集团急需招人，有意者加入，萌新最好找首席领神器，可快速发展
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (720)|
-| ELO Competitive | 1186 🔻  (846)|
+| ELO Regular | 1185 🔻  (721)|
+| ELO Competitive | 1186 🔻  (847)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

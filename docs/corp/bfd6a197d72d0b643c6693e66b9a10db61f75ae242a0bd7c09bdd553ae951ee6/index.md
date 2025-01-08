@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​the Rubber Duck
-description: W:6 L:10 D:0 Bonus ❌
+description: W:6 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1731687844
 ---
@@ -16,11 +16,11 @@ date: 1731687844
 Those who move cargo.     English will be the primary language for co
 mmunication.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔺  (1141)|
+| ELO Regular | 1145 🔺  (1142)|
 | ELO Competitive | 1159 🔺  (1189)|
 | Total Matches | 16 |
 | Wins | 6 |

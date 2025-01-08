@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:3 L:8 D:0 Bonus ❌
+description: W:3 L:8 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1736060474
 ---
@@ -23,11 +23,11 @@ Discord mandatory. <b>EEpZuWf
 Winter Comes to Hades</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1065)|
+| ELO Regular | 1157 🔻  (1066)|
 | ELO Competitive | 1190 🔻  (757)|
 | Total Matches | 11 |
 | Wins | 3 |

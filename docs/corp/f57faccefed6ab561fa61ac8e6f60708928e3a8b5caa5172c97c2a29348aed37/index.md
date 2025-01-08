@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​公共星际集团
-description: W:7 L:23 D:2 Bonus ❌
+description: W:7 L:23 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735805664
 ---
@@ -16,12 +16,12 @@ date: 1735805664
 欢迎各位萌新、大佬来本星际集团，进了必升到干事。如有不满，敬请投诉。12.2 至少需要3级红巨星扫描仪、所有船舰至少升至2级，并且最多30
 天离线。1.30
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1046 🔻  (1334)|
-| ELO Competitive | 1156 🔻  (1211)|
+| ELO Regular | 1046 🔻  (1335)|
+| ELO Competitive | 1156 🔻  (1212)|
 | Total Matches | 32 |
 | Wins | 7 |
 | Losses | 23 |

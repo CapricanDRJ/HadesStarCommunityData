@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Castellón 
-description: W:1 L:2 D:1 Bonus ❌
+description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725305154
 ---
@@ -15,12 +15,12 @@ date: 1725305154
 ```
 Clan de hablá Hispana(Castellano/Español)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (717)|
-| ELO Competitive | 1188 🔻  (805)|
+| ELO Regular | 1185 🔻  (718)|
+| ELO Competitive | 1188 🔻  (806)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

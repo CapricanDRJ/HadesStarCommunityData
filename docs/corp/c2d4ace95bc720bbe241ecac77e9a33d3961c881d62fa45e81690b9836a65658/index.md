@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​青丘湖
-description: W:5 L:3 D:0 Bonus ❌
+description: W:5 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1728565791
 ---
@@ -25,7 +25,7 @@ date: 1728565791
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

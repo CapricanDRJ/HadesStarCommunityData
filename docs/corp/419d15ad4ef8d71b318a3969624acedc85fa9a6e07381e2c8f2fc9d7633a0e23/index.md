@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ascalon
-description: W:1 L:1 D:1 Bonus ❌
+description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1702446143
 ---
@@ -15,7 +15,7 @@ date: 1702446143
 ```
 Casual players welcome 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Polaris
-description: W:0 L:7 D:0 Bonus ❌
+description: W:0 L:7 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1735666549
 ---
@@ -17,12 +17,12 @@ Casual group of mostly Canadians, all are welcome. White stars every
 week, red stars whenever we can.
 Discord: S6fvaKp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1214)|
-| ELO Competitive | 1142 🔻  (1265)|
+| ELO Regular | 1125 🔻  (1215)|
+| ELO Competitive | 1142 🔻  (1266)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 7 |

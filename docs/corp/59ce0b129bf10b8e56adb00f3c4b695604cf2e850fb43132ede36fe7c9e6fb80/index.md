@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Duchy Kalladan
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1721995289
 ---
@@ -16,7 +16,7 @@ date: 1721995289
 Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społe
 czności na Discord
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

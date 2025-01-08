@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Poison Nebula
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1699229398
 ---
@@ -17,12 +17,12 @@ Welcome to Poison Nebula, we are looking for active players. Low stre
 ss,14 day grace. We want to be more active again and have a good time
 .  
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (735)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1185 🔻  (736)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

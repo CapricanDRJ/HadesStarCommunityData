@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FreeSpcAlliance
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1702742189
 ---
@@ -19,7 +19,7 @@ Supportive community. Regular WS and RS. If u join us for WS, discord
  is required.  [discord url]
 ```
 ### [Discord](https://discord.gg/wVGNEvv)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

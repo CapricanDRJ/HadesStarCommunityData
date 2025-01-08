@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DadCorp
-description: W:5 L:2 D:0 Bonus ❌
+description: W:5 L:2 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1724390393
 ---
@@ -20,7 +20,7 @@ on Discord before sending us an in game request.
 
 Discord: z38XKuM
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

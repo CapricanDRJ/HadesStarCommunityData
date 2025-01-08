@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Midland Ind.
-description: W:10 L:11 D:0 Bonus ❌
+description: W:10 L:11 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1722779350
 ---
@@ -20,7 +20,7 @@ Join our public RS queue on Discord.
 Discord is mandatory:<b>[broken url]
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

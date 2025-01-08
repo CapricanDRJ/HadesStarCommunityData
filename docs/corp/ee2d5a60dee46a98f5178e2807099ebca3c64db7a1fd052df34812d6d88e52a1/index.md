@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Anla'Shok
-description: W:2 L:11 D:0 Bonus ❌
+description: W:2 L:11 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1720811802
 ---
@@ -20,12 +20,12 @@ And a bit of 100% offensive ships
 Discord: <color=orange>YFwYKNHhCr</color>
 ```
 ### [Discord](https://discord.gg/YFwYKNHhCr)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1297)|
-| ELO Competitive | 1096 🔻  (1341)|
+| ELO Regular | 1089 🔻  (1298)|
+| ELO Competitive | 1096 🔻  (1342)|
 | Total Matches | 13 |
 | Wins | 2 |
 | Losses | 11 |

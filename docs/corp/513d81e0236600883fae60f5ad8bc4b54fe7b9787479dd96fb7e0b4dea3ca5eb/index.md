@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​凛冬重工
-description: W:1 L:3 D:1 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1724489272
 ---
@@ -16,11 +16,11 @@ date: 1724489272
 <#f00>盟主大号丢了，<#ff0>偶尔奋发，日常瘫痪，白会打 <#0ff>QQ群：964400509<#ff1>（不强制）<#ffe>
 （有能力的投旗舰1）<#f00>（首席近期要开学了...对...开学，上线时间会比较少，大概周末还会上线）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (895)|
+| ELO Regular | 1175 🔺  (896)|
 | ELO Competitive | 1195 🔺  (702)|
 | Total Matches | 5 |
 | Wins | 1 |

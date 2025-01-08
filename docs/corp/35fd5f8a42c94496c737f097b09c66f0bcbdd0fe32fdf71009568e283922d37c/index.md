@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New Horizons
-description: W:6 L:7 D:0 Bonus ❌
+description: W:6 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1726651365
 ---
@@ -18,7 +18,7 @@ Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
  und spiel nichtmehr alleine!
 ```
 ### [Discord](https://discord.gg/DYXwRY8AhC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SveaEmpire
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1702678179
 ---
@@ -16,12 +16,12 @@ date: 1702678179
 Svensk Corp. Väldigt aktiv med trevlig stämning. Söker medlemmar som 
 vill hjälpa till att vinna white stars!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1152)|
-| ELO Competitive | 1144 🔻  (1260)|
+| ELO Regular | 1143 🔻  (1153)|
+| ELO Competitive | 1144 🔻  (1261)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

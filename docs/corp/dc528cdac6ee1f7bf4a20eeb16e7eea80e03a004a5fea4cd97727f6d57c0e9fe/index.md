@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Foundation 
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1728400193
 ---
@@ -17,12 +17,12 @@ Foundation of the pixelated expanse. Friendly, open to all, starting
 anew with the old Tiesa crew!
 ```
 ### [Discord](https://discord.gg/wuKuPvr)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (815)|
-| ELO Competitive | 1184 🔻  (970)|
+| ELO Regular | 1184 🔻  (816)|
+| ELO Competitive | 1184 🔻  (971)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

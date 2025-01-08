@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​九州分团
-description: W:54 L:74 D:4 Bonus ✅
+description: W:54 L:74 D:4 Bonus ✅ 40%
 image: ./favicon.png
 date: 1736228434
 ---
@@ -19,11 +19,11 @@ date: 1736228434
 暗红组队群879848835
 神器交易群183736503
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔺  (1124)|
+| ELO Regular | 1148 🔺  (1125)|
 | ELO Competitive | 1425 🔺  (116)|
 | Total Matches | 132 |
 | Wins | 54 |

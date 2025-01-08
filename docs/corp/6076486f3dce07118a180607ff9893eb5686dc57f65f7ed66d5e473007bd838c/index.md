@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1734226111
 ---
@@ -16,7 +16,7 @@ date: 1734226111
 We’ll get there… most of the time
 ```
 ### [Discord](https://discord.gg/JnxXSHyWsC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

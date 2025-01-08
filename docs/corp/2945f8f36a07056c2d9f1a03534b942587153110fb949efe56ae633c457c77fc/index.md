@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第三共产星际世界
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1722962060
 ---
@@ -17,11 +17,11 @@ date: 1722962060
 群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<col
 or=white>白星群：229395278想要加入集团先加集团QQ群
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (864)|
+| ELO Regular | 1178 🔻  (865)|
 | ELO Competitive | 1192 🔻  (734)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新手联邦活动用团
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1718682796
 ---
@@ -15,11 +15,11 @@ date: 1718682796
 ```
 新手联邦旗下分团  用于红活  QQ号同初始之音，新手联邦经济开发区。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (656)|
+| ELO Regular | 1187 🔻  (657)|
 | ELO Competitive | 1191 🔻  (741)|
 | Total Matches | 1 |
 | Wins | 0 |

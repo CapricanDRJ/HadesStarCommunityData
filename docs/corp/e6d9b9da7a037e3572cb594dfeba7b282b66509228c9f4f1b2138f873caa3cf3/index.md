@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新港(大佬港)
-description: W:21 L:33 D:0 Bonus ❌
+description: W:21 L:33 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1732184554
 ---
@@ -16,11 +16,11 @@ date: 1732184554
 欢迎各位大佬萌新的加入(„ಡωಡ„)。｜160级以上经过考虑之后升干事，老成员不降。｜微信:l18897038285加拉入。QQ裙：985
 704013｜语言文明，不要骂脏话，违者直接踢出集团。｜不经常上线者或小号也可以先去分团。｜勿私开白！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1028)|
+| ELO Regular | 1163 🔻  (1029)|
 | ELO Competitive | 1251 🔻  (399)|
 | Total Matches | 54 |
 | Wins | 21 |

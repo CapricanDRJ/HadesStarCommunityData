@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙联盟（中国）
-description: W:21 L:39 D:5 Bonus ✅
+description: W:21 L:39 D:5 Bonus ✅ 34%
 image: ./favicon.png
 date: 1735728139
 ---
@@ -17,11 +17,11 @@ date: 1735728139
 想要的这里都有，入团即送d7/d8 ，定期打白，请投喂旗舰1,注意在一周内无任何红巨星或白星参加则被踢出本星际集团，如尝试加入本星际集团您
 将会被永久踢出本星际集团
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔺  (1106)|
+| ELO Regular | 1152 🔺  (1107)|
 | ELO Competitive | 1233 🔺  (451)|
 | Total Matches | 65 |
 | Wins | 21 |

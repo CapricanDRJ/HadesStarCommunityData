@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​方星集团
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735880787
 ---
@@ -16,7 +16,7 @@ date: 1735880787
 本团为环星集团分团qq和主团一样 有5 6级神器给萌新招活跃人士小红点踢出并发送邀请 尽快建白扫 e创始人>首席>干事>高员成员 创始人不
 知道 首席中国，，没人 白星指挥 scp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

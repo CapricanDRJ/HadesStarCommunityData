@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New Orbit ©
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1706202597
 ---
@@ -22,12 +22,12 @@ Discord is mandatory for WS participation!
 
 ```
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (674)|
-| ELO Competitive | 1186 🔻  (844)|
+| ELO Regular | 1186 🔻  (675)|
+| ELO Competitive | 1186 🔻  (845)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

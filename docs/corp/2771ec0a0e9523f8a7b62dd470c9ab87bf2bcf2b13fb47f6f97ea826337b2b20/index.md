@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:43 L:0 D:0 Bonus ❌
+description: W:43 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734877831
 ---
@@ -16,7 +16,7 @@ date: 1734877831
 The sunset of the dying star was covered in drops of mercury.
 ```
 ### [Discord](https://discord.gg/hnywHXhtg5)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

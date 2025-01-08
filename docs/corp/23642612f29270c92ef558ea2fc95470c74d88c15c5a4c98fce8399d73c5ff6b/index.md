@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GoS Academy
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1699812407
 ---
@@ -18,12 +18,12 @@ All levels welcome
 Necessary training and advise provided.
 Discord server :
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (693)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1186 🔻  (694)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Wispered Storm
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1702833557
 ---
@@ -20,12 +20,12 @@ date: 1702833557
 Hop in Discord - 9aD8bFDvY4
 ```
 ### [Discord](https://discord.gg/9aD8bFDvY4)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (960)|
-| ELO Competitive | 1173 🔻  (1059)|
+| ELO Regular | 1171 🔻  (961)|
+| ELO Competitive | 1173 🔻  (1060)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​美丽新世界
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1712643896
 ---
@@ -16,11 +16,11 @@ date: 1712643896
 群聊：929368469
 算了-_-||便宜你们了
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1099)|
+| ELO Regular | 1153 🔻  (1100)|
 | ELO Competitive | 1158 🔻  (1196)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​РусКорп
-description: W:11 L:9 D:0 Bonus ❌
+description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1708836120
 ---
@@ -15,7 +15,7 @@ date: 1708836120
 ```
 работа на кз. и кач кораблей по возможности делимся артами.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SNSS
-description: W:2 L:9 D:1 Bonus ❌
+description: W:2 L:9 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1732728744
 ---
@@ -18,11 +18,11 @@ yet active player (but who are we kidding) no Discord or WS requireme
 nts, Dark RS focussed corp, with optional WS runs.
 ```
 ### [Discord](https://discord.gg/2Dh98GHnug)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1276)|
+| ELO Regular | 1105 🔻  (1277)|
 | ELO Competitive | 1191 🔺  (740)|
 | Total Matches | 12 |
 | Wins | 2 |

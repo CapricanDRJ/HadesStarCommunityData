@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Suicide Squad
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1712707084
 ---
@@ -17,12 +17,12 @@ very layed back have fun is pretty much the only rule. please be able
  to speak English that's all I know lol. if I get enough members I wi
 ll do back to back whites stars.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (851)|
-| ELO Competitive | 1181 🔻  (999)|
+| ELO Regular | 1181 🔻  (852)|
+| ELO Competitive | 1181 🔻  (1000)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:5 L:27 D:0 Bonus ❌
+description: W:5 L:27 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1734181035
 ---
@@ -24,12 +24,12 @@ M35HmhvmC2
 
 Mitglied der Tartaros Armada 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1067 🔻  (1324)|
-| ELO Competitive | 1124 🔻  (1306)|
+| ELO Regular | 1067 🔻  (1325)|
+| ELO Competitive | 1124 🔻  (1307)|
 | Total Matches | 32 |
 | Wins | 5 |
 | Losses | 27 |

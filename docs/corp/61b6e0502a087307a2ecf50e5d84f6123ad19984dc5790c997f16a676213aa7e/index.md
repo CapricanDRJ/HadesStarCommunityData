@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​羽共和体
-description: W:17 L:25 D:8 Bonus ❌
+description: W:17 L:25 D:8 Bonus ❌ 7%
 image: ./favicon.png
 date: 1728735880
 ---
@@ -17,11 +17,11 @@ date: 1728735880
 集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公
 历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1068)|
+| ELO Regular | 1157 🔻  (1069)|
 | ELO Competitive | 1235 🔻  (446)|
 | Total Matches | 50 |
 | Wins | 17 |

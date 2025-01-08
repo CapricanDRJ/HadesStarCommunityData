@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gemini Ind.
-description: W:34 L:7 D:0 Bonus ❌
+description: W:34 L:7 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1731747642
 ---
@@ -24,7 +24,7 @@ Discord MANDATORY.
 We have awesome queue for rs runs!
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

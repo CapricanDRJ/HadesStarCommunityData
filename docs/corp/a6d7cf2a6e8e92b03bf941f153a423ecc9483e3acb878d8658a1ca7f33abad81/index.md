@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Oddity
-description: W:14 L:10 D:0 Bonus ❌
+description: W:14 L:10 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1714825274
 ---
@@ -18,12 +18,12 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 1<br><br>Strade? Dove andiamo noi non servono strade</color>
 ```
 ### [Discord](https://discord.gg/B5y6qXw)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (282)|
-| ELO Competitive | 1282 🔻  (311)|
+| ELO Competitive | 1282 🔻  (312)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

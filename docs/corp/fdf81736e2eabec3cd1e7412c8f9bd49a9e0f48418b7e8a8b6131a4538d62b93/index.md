@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Visionaries
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1720668745
 ---
@@ -17,7 +17,7 @@ A constituent of the The Watchers' family. This corp is mostly overfl
 ow and retirees. 
 Join us on Discord for RS, WS, chat and other active members: mDEUrs8
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

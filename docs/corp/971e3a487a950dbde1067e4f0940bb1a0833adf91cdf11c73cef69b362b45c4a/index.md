@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​云浪度假村↕
-description: W:2 L:6 D:1 Bonus ❌
+description: W:2 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1711163867
 ---
@@ -21,12 +21,12 @@ date: 1711163867
 首席微信号：18970688854 
 加不了qq群可以加微信 进微信集团群
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔺  (1167)|
-| ELO Competitive | 1146 🔺  (1248)|
+| ELO Regular | 1140 🔺  (1168)|
+| ELO Competitive | 1146 🔺  (1249)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

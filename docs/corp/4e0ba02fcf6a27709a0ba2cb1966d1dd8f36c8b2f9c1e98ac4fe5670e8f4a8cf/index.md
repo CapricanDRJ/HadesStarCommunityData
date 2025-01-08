@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​共和服务器
-description: W:1 L:2 D:1 Bonus ❌
+description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1718228706
 ---
@@ -15,11 +15,11 @@ date: 1718228706
 ```
 已解放
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (804)|
+| ELO Regular | 1184 🔻  (805)|
 | ELO Competitive | 1215 🔻  (557)|
 | Total Matches | 4 |
 | Wins | 1 |

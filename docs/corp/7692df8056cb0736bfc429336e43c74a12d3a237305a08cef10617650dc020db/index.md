@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​世外桃源
-description: W:21 L:120 D:0 Bonus ❌
+description: W:21 L:120 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1736183365
 ---
@@ -18,12 +18,12 @@ date: 1736183365
   QQ群:479054325（欢迎加入，加盟先加群！）
 ```
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 922 🔻  (1369)|
-| ELO Competitive | 1170 🔻  (1110)|
+| ELO Regular | 922 🔻  (1370)|
+| ELO Competitive | 1170 🔻  (1111)|
 | Total Matches | 141 |
 | Wins | 21 |
 | Losses | 120 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:62 L:25 D:3 Bonus ✅
+description: W:62 L:25 D:3 Bonus ✅ 40%
 image: ./favicon.png
 date: 1736223026
 ---
@@ -17,7 +17,7 @@ Level 8, 9, and 10 artifacts available to all who join!  White Star p
 articipation appreciated.                            No experience re
 quired. We can help speed your progress :)
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |

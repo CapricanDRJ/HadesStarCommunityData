@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Sun
-description: W:6 L:13 D:1 Bonus ❌
+description: W:6 L:13 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1713190768
 ---
@@ -16,12 +16,12 @@ date: 1713190768
 Welcome to hang out. Very little going on around here. 
 ```
 ### [Discord](https://discord.gg/kpnq4jZc56)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1235)|
-| ELO Competitive | 1149 🔻  (1237)|
+| ELO Regular | 1119 🔻  (1236)|
+| ELO Competitive | 1149 🔻  (1238)|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 13 |

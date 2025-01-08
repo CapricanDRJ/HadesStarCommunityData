@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperio Galacti
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1700708523
 ---
@@ -17,12 +17,12 @@ Buenos gente, estas corporación esta demasiada inactiva vamos intenta
 r estar mas activos poreso esque aveses perdemos en las EB mas activo
 s ay que hacer una comunidad activa gente; nuestra alianza F.V
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (918)|
-| ELO Competitive | 1173 🔻  (1069)|
+| ELO Regular | 1173 🔻  (919)|
+| ELO Competitive | 1173 🔻  (1070)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

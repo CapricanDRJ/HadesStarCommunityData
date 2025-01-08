@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​F.E.I.
-description: W:0 L:2 D:2 Bonus ❌
+description: W:0 L:2 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1734157161
 ---
@@ -17,12 +17,12 @@ Uma corporação focada no crescimento dos iniciantes
 Estamos recrutando membros ativos.
 Inatividade é punível com expulsão.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1006)|
-| ELO Competitive | 1170 🔻  (1117)|
+| ELO Regular | 1165 🔻  (1007)|
+| ELO Competitive | 1170 🔻  (1118)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 2 |

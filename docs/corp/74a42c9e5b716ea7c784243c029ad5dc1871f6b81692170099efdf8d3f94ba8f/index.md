@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​遨游星空  kdy分盟
-description: W:13 L:18 D:1 Bonus ❌
+description: W:13 L:18 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1721625973
 ---
@@ -21,11 +21,11 @@ date: 1721625973
 
 ```
 ### [Discord](https://discord.gg/BQkbAHaGj4)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1021)|
+| ELO Regular | 1163 🔻  (1022)|
 | ELO Competitive | 1229 🔻  (467)|
 | Total Matches | 32 |
 | Wins | 13 |

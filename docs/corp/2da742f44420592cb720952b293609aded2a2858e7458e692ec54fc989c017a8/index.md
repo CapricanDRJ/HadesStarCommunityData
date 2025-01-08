@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新收留所（目标门集团）
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1702529096
 ---
@@ -23,11 +23,11 @@ date: 1702529096
 频道QQ群695410371
 不要外交黑名单
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1067)|
+| ELO Regular | 1157 🔻  (1068)|
 | ELO Competitive | 1159 🔻  (1191)|
 | Total Matches | 5 |
 | Wins | 1 |

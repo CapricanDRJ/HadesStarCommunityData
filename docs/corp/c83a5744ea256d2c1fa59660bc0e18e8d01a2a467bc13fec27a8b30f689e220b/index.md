@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:17 L:9 D:2 Bonus ❌
+description: W:17 L:9 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735924963
 ---
@@ -16,12 +16,12 @@ date: 1735924963
 The best corporation for white star enthusiasts. On the way to greatn
 ess. White star participation required
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1260 🔻  (228)|
-| ELO Competitive | 1294 🔻  (287)|
+| ELO Competitive | 1294 🔻  (288)|
 | Total Matches | 28 |
 | Wins | 17 |
 | Losses | 9 |

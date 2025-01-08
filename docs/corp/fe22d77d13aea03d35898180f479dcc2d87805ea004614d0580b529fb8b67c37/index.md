@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​диванодавы
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1714108695
 ---
@@ -16,7 +16,7 @@ date: 1714108695
 играем для себя, без фанатизма, общение в чате по желанию, всем удачн
 ой игры😉
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

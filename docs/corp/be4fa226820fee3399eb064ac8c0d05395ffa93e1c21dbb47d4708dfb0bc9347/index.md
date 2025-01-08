@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Рейнджеры
-description: W:6 L:16 D:0 Bonus ❌
+description: W:6 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1725244750
 ---
@@ -18,12 +18,12 @@ date: 1725244750
 ry
 ```
 ### [Discord](https://discord.gg/nPSe9UY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1268)|
-| ELO Competitive | 1140 🔻  (1275)|
+| ELO Competitive | 1140 🔻  (1276)|
 | Total Matches | 22 |
 | Wins | 6 |
 | Losses | 16 |

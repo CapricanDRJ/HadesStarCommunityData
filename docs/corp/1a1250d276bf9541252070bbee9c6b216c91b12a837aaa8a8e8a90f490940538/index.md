@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Emergence
-description: W:41 L:3 D:0 Bonus ❌
+description: W:41 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1734714379
 ---
@@ -17,7 +17,7 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
  bonjour à votre arrivée! Sinon out! En français svp   
 ```
 ### [Discord](https://discord.gg/JygbSj6XMP)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

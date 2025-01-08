@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新的收留所
-description: W:17 L:5 D:1 Bonus ❌
+description: W:17 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1724653949
 ---
@@ -18,7 +18,7 @@ date: 1724653949
 集团QQ群：979969673
 分支         ：萌新的收留所2                        
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

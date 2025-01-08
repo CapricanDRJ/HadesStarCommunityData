@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Caprica command
-description: W:4 L:4 D:0 Bonus ❌
+description: W:4 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1712535128
 ---
@@ -19,7 +19,7 @@ We run a weekly WS scanning on Saturday.
 Discord:
 wvk5YXqa4y
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​HYDRA
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1733781377
 ---
@@ -15,11 +15,11 @@ date: 1733781377
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (655)|
+| ELO Regular | 1187 🔻  (656)|
 | ELO Competitive | 1190 🔻  (772)|
 | Total Matches | 1 |
 | Wins | 0 |

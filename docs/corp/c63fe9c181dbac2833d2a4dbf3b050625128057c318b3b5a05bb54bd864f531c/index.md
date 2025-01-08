@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏航队
-description: W:2 L:7 D:0 Bonus ❌
+description: W:2 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1704688043
 ---
@@ -17,12 +17,12 @@ date: 1704688043
 企鹅号169409626
 新加的玩家可转主盟:华夏舰队
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1163)|
-| ELO Competitive | 1176 🔻  (1036)|
+| ELO Regular | 1141 🔻  (1164)|
+| ELO Competitive | 1176 🔻  (1037)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 7 |

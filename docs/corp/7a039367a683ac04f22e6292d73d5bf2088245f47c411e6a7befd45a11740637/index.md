@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elite2.0
-description: W:1 L:3 D:1 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1703905762
 ---
@@ -16,12 +16,12 @@ date: 1703905762
 Please only English speaking.We play red stars and white stars.Inacti
 vity leads to being kicked out.We play without discord.Have fun!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (989)|
-| ELO Competitive | 1183 🔻  (978)|
+| ELO Regular | 1168 🔻  (990)|
+| ELO Competitive | 1183 🔻  (979)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |

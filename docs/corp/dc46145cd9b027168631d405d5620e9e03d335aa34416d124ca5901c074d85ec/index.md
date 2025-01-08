@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDistrict
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1701009836
 ---
@@ -23,7 +23,7 @@ gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

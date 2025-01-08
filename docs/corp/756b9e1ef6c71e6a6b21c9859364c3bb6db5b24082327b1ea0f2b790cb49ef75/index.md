@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​使命白星分团
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1723378267
 ---
@@ -15,12 +15,12 @@ date: 1723378267
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1005)|
-| ELO Competitive | 1167 🔻  (1135)|
+| ELO Regular | 1165 🔻  (1006)|
+| ELO Competitive | 1167 🔻  (1136)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

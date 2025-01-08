@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​$TAR$
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1731052270
 ---
@@ -16,11 +16,11 @@ date: 1731052270
 $TAR$ - Twinkkonzern
 ```
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (652)|
+| ELO Regular | 1187 🔻  (653)|
 | ELO Competitive | 1196 🔻  (690)|
 | Total Matches | 1 |
 | Wins | 0 |

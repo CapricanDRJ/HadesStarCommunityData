@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​hades' star
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1709683723
 ---
@@ -15,12 +15,12 @@ date: 1709683723
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (726)|
-| ELO Competitive | 1186 🔻  (845)|
+| ELO Regular | 1185 🔻  (727)|
+| ELO Competitive | 1186 🔻  (846)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

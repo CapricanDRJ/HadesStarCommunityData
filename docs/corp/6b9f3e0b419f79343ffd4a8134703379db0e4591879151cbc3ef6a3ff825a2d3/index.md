@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:12 L:19 D:0 Bonus ❌
+description: W:12 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1733553326
 ---
@@ -20,11 +20,11 @@ Bi-Weekly WS
 Beware of Viking
 Discord: sqaDS62zfW
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1180)|
+| ELO Regular | 1135 🔻  (1181)|
 | ELO Competitive | 1225 🔻  (480)|
 | Total Matches | 31 |
 | Wins | 12 |

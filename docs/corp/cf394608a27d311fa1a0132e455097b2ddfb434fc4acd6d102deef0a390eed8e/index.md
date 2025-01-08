@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Offshore Trash
-description: W:2 L:2 D:0 Bonus ❌
+description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1716108934
 ---
@@ -18,7 +18,7 @@ eccentric group of comrades runs on dro, whisky, and a blatant disreg
 ard for safety.
 ```
 ### [Discord](https://discord.gg/bUTEsDp)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Pirate
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732424959
 ---
@@ -16,12 +16,12 @@ date: 1732424959
 Welcome to the clan, Steal what you can. Please join our Discord... N
 o Discord No Entry
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (867)|
-| ELO Competitive | 1187 🔺  (832)|
+| ELO Regular | 1178 🔺  (868)|
+| ELO Competitive | 1187 🔺  (833)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

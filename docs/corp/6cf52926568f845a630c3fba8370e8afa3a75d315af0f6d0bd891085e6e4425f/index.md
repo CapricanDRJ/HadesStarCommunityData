@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Antioch
-description: W:10 L:25 D:0 Bonus ❌
+description: W:10 L:25 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735127214
 ---
@@ -17,12 +17,12 @@ THE CYDONIAN EMPIRE™       Seeking 3 WS pilots, RS7,8,9 arts to new a
 ctive pilots. 
 ```
 ### [Discord](https://discord.gg/xtHV8rkkAT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1308)|
-| ELO Competitive | 1128 🔻  (1301)|
+| ELO Regular | 1080 🔻  (1309)|
+| ELO Competitive | 1128 🔻  (1302)|
 | Total Matches | 35 |
 | Wins | 10 |
 | Losses | 25 |

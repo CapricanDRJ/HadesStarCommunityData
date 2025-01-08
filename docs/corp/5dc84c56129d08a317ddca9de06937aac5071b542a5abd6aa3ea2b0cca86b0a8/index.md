@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VALHALLA
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1699450257
 ---
@@ -16,12 +16,12 @@ date: 1699450257
 welcome VALHALLA
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (735)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1185 🔻  (736)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

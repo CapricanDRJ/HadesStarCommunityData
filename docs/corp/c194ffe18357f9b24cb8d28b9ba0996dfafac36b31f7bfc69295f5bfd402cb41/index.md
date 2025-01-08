@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UNNP
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1721021240
 ---
@@ -16,12 +16,12 @@ date: 1721021240
 One Galaxy under god, ruled by an iron fist to comply and listen or s
 hall be struck down with utter destruction.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (977)|
-| ELO Competitive | 1170 🔻  (1116)|
+| ELO Regular | 1169 🔻  (978)|
+| ELO Competitive | 1170 🔻  (1117)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

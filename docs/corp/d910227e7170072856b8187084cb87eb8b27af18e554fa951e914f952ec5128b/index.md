@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Im Paradies
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1730107804
 ---
@@ -15,7 +15,7 @@ date: 1730107804
 ```
 There is a snake in every paradise.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

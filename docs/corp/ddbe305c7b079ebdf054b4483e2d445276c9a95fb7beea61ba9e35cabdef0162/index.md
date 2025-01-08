@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUSSIAN TEAM
-description: W:0 L:9 D:0 Bonus ❌
+description: W:0 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1715154591
 ---
@@ -15,12 +15,12 @@ date: 1715154591
 ```
 Ждем всех желающих активно играть и общаться!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1270)|
-| ELO Competitive | 1109 🔻  (1325)|
+| ELO Competitive | 1109 🔻  (1326)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 9 |

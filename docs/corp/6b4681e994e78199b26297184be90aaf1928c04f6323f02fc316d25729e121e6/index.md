@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​101
-description: W:51 L:75 D:5 Bonus ✅
+description: W:51 L:75 D:5 Bonus ❌ 10%
 image: ./favicon.png
 date: 1735698698
 ---
@@ -16,12 +16,12 @@ date: 1735698698
 <b>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743
 ，谢谢！ 有移出的可以重新加入。
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔺  (1236)|
-| ELO Competitive | 1424 🔺  (117)|
+| ELO Regular | 1119 🔺  (1237)|
+| ELO Competitive | 1424 🔺  (118)|
 | Total Matches | 131 |
 | Wins | 51 |
 | Losses | 75 |

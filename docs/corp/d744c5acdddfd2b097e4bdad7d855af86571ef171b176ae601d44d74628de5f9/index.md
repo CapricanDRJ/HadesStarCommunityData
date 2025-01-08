@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Schnuppenfarm
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1730959416
 ---
@@ -17,12 +17,12 @@ date: 1730959416
 2. Am Monatsende wird ein Aktivitätscheck durchgeführt!
 3. keine fusion oder änlinches!!!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1012)|
-| ELO Competitive | 1182 🔻  (995)|
+| ELO Regular | 1165 🔻  (1013)|
+| ELO Competitive | 1182 🔻  (996)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

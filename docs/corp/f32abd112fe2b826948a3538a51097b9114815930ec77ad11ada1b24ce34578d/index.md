@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:7 L:18 D:3 Bonus ❌
+description: W:7 L:18 D:3 Bonus ❌ 5%
 image: ./favicon.png
 date: 1733633094
 ---
@@ -16,12 +16,12 @@ date: 1733633094
 只收中国人。每年必须要圣物。禁止骂人。活跃成员可赠送r7神器。
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1304)|
-| ELO Competitive | 1101 🔻  (1336)|
+| ELO Regular | 1083 🔻  (1305)|
+| ELO Competitive | 1101 🔻  (1337)|
 | Total Matches | 28 |
 | Wins | 7 |
 | Losses | 18 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The trade pub
-description: W:25 L:28 D:0 Bonus ❌
+description: W:25 L:28 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1735276553
 ---
@@ -26,7 +26,7 @@ Join our discord <b>first</b> if you want to join our corp.
 od-family.com
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

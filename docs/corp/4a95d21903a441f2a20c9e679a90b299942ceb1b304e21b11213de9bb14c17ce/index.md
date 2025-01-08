@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第四天灾
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1716917436
 ---
@@ -15,7 +15,7 @@ date: 1716917436
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

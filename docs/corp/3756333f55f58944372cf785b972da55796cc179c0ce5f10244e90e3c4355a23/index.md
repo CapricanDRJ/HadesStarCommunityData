@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Destroyers
-description: W:16 L:18 D:0 Bonus ❌
+description: W:16 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1729463812
 ---
@@ -15,7 +15,7 @@ date: 1729463812
 ```
 We are here to play white stars. No bs afk players needed!!!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

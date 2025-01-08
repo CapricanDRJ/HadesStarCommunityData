@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Aurora Burning
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709467281
 ---
@@ -16,12 +16,12 @@ date: 1709467281
 RS4 to 7
 ```
 ### [Discord](https://discord.gg/kmedjBRNBJ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (832)|
-| ELO Competitive | 1184 🔺  (976)|
+| ELO Regular | 1183 🔺  (833)|
+| ELO Competitive | 1184 🔺  (977)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

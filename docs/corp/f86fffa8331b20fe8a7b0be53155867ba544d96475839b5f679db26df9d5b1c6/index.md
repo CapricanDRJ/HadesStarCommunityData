@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sith Academy
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1714273340
 ---
@@ -17,12 +17,12 @@ The Academy to Sith Empire | Join us on Discord | Recruiting Active P
 layers For White Star | All Red Star Levels Welcome Here | € -> FS1
 ```
 ### [Discord](https://discord.gg/R6sJCw2)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (910)|
-| ELO Competitive | 1180 🔻  (1010)|
+| ELO Regular | 1173 🔻  (911)|
+| ELO Competitive | 1180 🔻  (1011)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

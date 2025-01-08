@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nightmares 
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1716459858
 ---
@@ -17,12 +17,12 @@ Habla hispana ... Activos con ganas de crecer en equipo y respeto.
 7 dias de inactividad sin aviso, expulsión.
 ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (948)|
-| ELO Competitive | 1172 🔻  (1070)|
+| ELO Regular | 1171 🔻  (949)|
+| ELO Competitive | 1172 🔻  (1071)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

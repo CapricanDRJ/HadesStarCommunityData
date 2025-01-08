@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nooooobs
-description: W:2 L:5 D:0 Bonus ❌
+description: W:2 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1705181761
 ---
@@ -16,11 +16,11 @@ date: 1705181761
 <color=#3c78d8><size=90>Join us now!</size></color>
 ```
 ### [Discord](https://discord.gg/pECD6CY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1037)|
+| ELO Regular | 1161 🔻  (1038)|
 | ELO Competitive | 1160 🔻  (1177)|
 | Total Matches | 7 |
 | Wins | 2 |

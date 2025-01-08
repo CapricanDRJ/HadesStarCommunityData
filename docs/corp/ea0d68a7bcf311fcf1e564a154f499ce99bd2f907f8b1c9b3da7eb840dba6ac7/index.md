@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​火洋分团
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1725092395
 ---
@@ -15,11 +15,11 @@ date: 1725092395
 ```
 这里是火洋之心的分团
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (644)|
+| ELO Regular | 1187 🔻  (645)|
 | ELO Competitive | 1192 🔻  (729)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​1st/Ave/Junkie2
-description: W:21 L:27 D:1 Bonus ❌
+description: W:21 L:27 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1733511265
 ---
@@ -18,11 +18,11 @@ Welcome! We are looking for new and experienced players interested in
 active! We are actively looking for White Star Players
 ```
 ### [Discord](https://discord.gg/m9xzuMbpqS)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (684)|
+| ELO Regular | 1186 🔻  (685)|
 | ELO Competitive | 1226 🔻  (478)|
 | Total Matches | 49 |
 | Wins | 21 |

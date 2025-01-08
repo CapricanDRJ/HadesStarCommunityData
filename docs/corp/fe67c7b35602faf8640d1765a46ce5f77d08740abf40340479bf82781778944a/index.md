@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​水星联合组织
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1702443740
 ---
@@ -23,7 +23,7 @@ date: 1702443740
 QQ群号：742063070
 <color=yellow>*群内有教程，加入享有更多福利</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

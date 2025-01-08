@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​纸鸢台
-description: W:4 L:1 D:0 Bonus ❌
+description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1726040459
 ---
@@ -25,7 +25,7 @@ date: 1726040459
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

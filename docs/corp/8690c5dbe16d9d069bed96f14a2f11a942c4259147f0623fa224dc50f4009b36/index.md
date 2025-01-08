@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Кулак
-description: W:23 L:74 D:0 Bonus ❌
+description: W:23 L:74 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1735965824
 ---
@@ -17,11 +17,11 @@ date: 1735965824
 ным путевкам". С.П.Королев. Добро пожаловать в Профсоюз! Играем "лени
 вые" бз! </b></color></size>. https://t.me/corpkulak
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔻  (1323)|
+| ELO Regular | 1068 🔻  (1324)|
 | ELO Competitive | 1331 🔻  (213)|
 | Total Matches | 97 |
 | Wins | 23 |

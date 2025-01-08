@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spectre
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1709412292
 ---
@@ -22,11 +22,11 @@ date: 1709412292
 
 ```
 ### [Discord](https://discord.gg/SWAeydhRy2)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1075)|
+| ELO Regular | 1156 🔻  (1076)|
 | ELO Competitive | 1157 🔻  (1208)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Призрачный Путь
-description: W:13 L:6 D:0 Bonus ❌
+description: W:13 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1724436985
 ---
@@ -16,7 +16,7 @@ date: 1724436985
 Для Всех желающих. Без политики и оскорбления, помощь новичкам, артеф
 акты с 1-по-6 в помощь,походы в БЗ
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

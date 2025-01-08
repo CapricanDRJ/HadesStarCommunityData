@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​L.B.H.
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1708077481
 ---
@@ -15,12 +15,12 @@ date: 1708077481
 ```
 who dealt it if you haven't smelt it?
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (661)|
-| ELO Competitive | 1187 🔻  (817)|
+| ELO Regular | 1187 🔻  (662)|
+| ELO Competitive | 1187 🔻  (818)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

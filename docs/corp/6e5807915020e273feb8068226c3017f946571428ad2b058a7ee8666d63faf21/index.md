@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:25 L:62 D:4 Bonus ✅
+description: W:25 L:62 D:4 Bonus ✅ 36%
 image: ./favicon.png
 date: 1735829727
 ---
@@ -17,12 +17,12 @@ Recommended to join the corp DISCORD (currently in test period. All m
 embers when join our DISCORD while in test period will get a free Off
 icer promote). Red is always SUS!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔺  (1233)|
-| ELO Competitive | 1297 🔺  (279)|
+| ELO Regular | 1120 🔺  (1234)|
+| ELO Competitive | 1297 🔺  (280)|
 | Total Matches | 91 |
 | Wins | 25 |
 | Losses | 62 |

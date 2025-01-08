@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dritte Macht
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1700160115
 ---
@@ -15,12 +15,12 @@ date: 1700160115
 ```
 Junger Konzern für freie Mitarbeiter. Wir erobern das Universum!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (693)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1186 🔻  (694)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

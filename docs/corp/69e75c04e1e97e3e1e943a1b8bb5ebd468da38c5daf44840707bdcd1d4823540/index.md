@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​洛神峰
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1716371523
 ---
@@ -24,12 +24,12 @@ date: 1716371523
 这里是国服区对萌新最友好的集团
 期待你
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (906)|
-| ELO Competitive | 1174 🔻  (1052)|
+| ELO Regular | 1174 🔻  (907)|
+| ELO Competitive | 1174 🔻  (1053)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​银星S Stars‘
-description: W:3 L:1 D:0 Bonus ❌
+description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1728186229
 ---
@@ -16,11 +16,11 @@ date: 1728186229
 <size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620 
  免费r7，帮打红星（r6及以下）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (318)|
+| ELO Regular | 1231 🔻  (317)|
 | ELO Competitive | 1236 🔻  (444)|
 | Total Matches | 4 |
 | Wins | 3 |

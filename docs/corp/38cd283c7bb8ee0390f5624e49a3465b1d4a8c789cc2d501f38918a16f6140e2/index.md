@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:49 L:8 D:0 Bonus ❌
+description: W:49 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1735963121
 ---
@@ -20,7 +20,7 @@ ders and a focus on WS!
 <b>Discord is required
 ```
 ### [Discord](https://discord.gg/wgHSEFgGBu)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

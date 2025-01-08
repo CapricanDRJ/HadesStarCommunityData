@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Order of Ares
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1701319101
 ---
@@ -15,12 +15,12 @@ date: 1701319101
 ```
 <color="green">Member Corp Of U.I.H</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (958)|
-| ELO Competitive | 1171 🔻  (1108)|
+| ELO Regular | 1171 🔻  (959)|
+| ELO Competitive | 1171 🔻  (1109)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

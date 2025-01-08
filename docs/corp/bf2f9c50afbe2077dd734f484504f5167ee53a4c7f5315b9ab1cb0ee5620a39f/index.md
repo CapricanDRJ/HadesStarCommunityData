@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:10 L:49 D:4 Bonus ❌
+description: W:10 L:49 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736025024
 ---
@@ -15,12 +15,12 @@ date: 1736025024
 ```
  [discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 976 🔻  (1364)|
-| ELO Competitive | 1147 🔻  (1245)|
+| ELO Regular | 976 🔻  (1365)|
+| ELO Competitive | 1147 🔻  (1246)|
 | Total Matches | 63 |
 | Wins | 10 |
 | Losses | 49 |

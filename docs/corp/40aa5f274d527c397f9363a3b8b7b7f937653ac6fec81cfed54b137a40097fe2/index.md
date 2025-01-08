@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Die pösn Purchn
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1716150402
 ---
@@ -17,12 +17,12 @@ Tu pist ein Tevitist!
 Simply the best.
 Enthält Spuren von Starhalla.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (875)|
-| ELO Competitive | 1180 🔻  (1006)|
+| ELO Regular | 1176 🔻  (876)|
+| ELO Competitive | 1180 🔻  (1007)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

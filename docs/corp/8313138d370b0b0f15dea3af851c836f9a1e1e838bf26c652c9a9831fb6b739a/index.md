@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dauntless
-description: W:6 L:17 D:0 Bonus ❌
+description: W:6 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1717539178
 ---
@@ -21,12 +21,12 @@ g together to excel.</b>
 
 RS6 and Discord needed. (YTaYrhy)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1082 🔻  (1307)|
-| ELO Competitive | 1101 🔻  (1335)|
+| ELO Regular | 1082 🔻  (1308)|
+| ELO Competitive | 1101 🔻  (1336)|
 | Total Matches | 23 |
 | Wins | 6 |
 | Losses | 17 |

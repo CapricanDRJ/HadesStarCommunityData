@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Drużyna B
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1703105850
 ---
@@ -15,7 +15,7 @@ date: 1703105850
 ```
 Nieaktywna korporacja
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

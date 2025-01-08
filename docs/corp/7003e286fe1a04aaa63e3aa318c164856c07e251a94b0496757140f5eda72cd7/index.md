@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:5 L:48 D:0 Bonus ✅
+description: W:5 L:48 D:0 Bonus ✅ 48%
 image: ./favicon.png
 date: 1735864564
 ---
@@ -23,12 +23,12 @@ Are you RS6+ and want to join?
 Find us on Discord: YTaYrhy
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 918 🔺  (1370)|
-| ELO Competitive | 980 🔺  (1377)|
+| ELO Regular | 918 🔺  (1371)|
+| ELO Competitive | 980 🔺  (1378)|
 | Total Matches | 53 |
 | Wins | 5 |
 | Losses | 48 |

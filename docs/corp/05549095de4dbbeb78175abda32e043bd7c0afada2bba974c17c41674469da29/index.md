@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AntiCerberus
-description: W:4 L:4 D:1 Bonus ❌
+description: W:4 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1730956412
 ---
@@ -17,7 +17,7 @@ Welcome my corporation the task its a simple a destory cerberus ship
 and destory cerberus base have fun yeah :) we didnt have discord. <#F
 F0000> we are in weak corporation and needs fixed
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​超越声速
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1732713417
 ---
@@ -16,7 +16,7 @@ date: 1732713417
 本团为“落雨观花”第一分团  信息与主团一致 常驻请加qq：598692654萌新福利:3个d7           本团长期招募新人  
  定期打白 不清红点                 祝大家早日R12！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

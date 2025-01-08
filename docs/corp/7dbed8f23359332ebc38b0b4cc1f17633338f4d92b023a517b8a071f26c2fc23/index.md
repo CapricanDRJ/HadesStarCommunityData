@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​nebulous
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1709068832
 ---
@@ -16,7 +16,7 @@ date: 1709068832
 After Dark Nebula, we're trying to figure it out and rebuilding.  Joi
 n the gang, looking for active players. NFyP4WnNqW
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

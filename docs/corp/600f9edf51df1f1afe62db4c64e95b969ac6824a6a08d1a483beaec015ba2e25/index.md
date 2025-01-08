@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​地球联合
-description: W:12 L:4 D:0 Bonus ❌
+description: W:12 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1723897846
 ---
@@ -23,11 +23,11 @@ date: 1723897846
 QQ群号：742063070
 <color=yellow>*群内有教程，加入享有更多福利</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔻  (157)|
+| ELO Regular | 1303 🔻  (158)|
 | ELO Competitive | 1324 🔻  (225)|
 | Total Matches | 16 |
 | Wins | 12 |

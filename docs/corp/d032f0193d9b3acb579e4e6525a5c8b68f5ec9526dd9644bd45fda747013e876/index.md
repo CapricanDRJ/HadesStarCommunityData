@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BSO Academy
-description: W:14 L:1 D:0 Bonus ❌
+description: W:14 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1712594618
 ---
@@ -23,7 +23,7 @@ Our HQ lives on Discord. Enlist today!
 discord.gg/YTaYrhy
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

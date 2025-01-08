@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​battlesquadron
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1722109494
 ---
@@ -18,12 +18,12 @@ s ,groupe actif telles sont nos valeurs !! Bon sejour parmis nous !
                                   corpo école : galaxian 
 ```
 ### [Discord](https://discord.gg/hb9JBGP)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1113)|
-| ELO Competitive | 1166 🔻  (1139)|
+| ELO Regular | 1150 🔻  (1114)|
+| ELO Competitive | 1166 🔻  (1140)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

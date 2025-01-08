@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:9 L:47 D:0 Bonus ❌
+description: W:9 L:47 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734782882
 ---
@@ -17,12 +17,12 @@ we like our coffee dirty
 Discord invite code is 44nD9yX
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 981 🔺  (1363)|
-| ELO Competitive | 1034 🔺  (1370)|
+| ELO Regular | 981 🔺  (1364)|
+| ELO Competitive | 1034 🔺  (1371)|
 | Total Matches | 56 |
 | Wins | 9 |
 | Losses | 47 |

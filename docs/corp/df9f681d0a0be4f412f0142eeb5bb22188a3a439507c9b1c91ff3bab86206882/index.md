@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​盾牌座UY分团
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709204477
 ---
@@ -29,11 +29,11 @@ date: 1709204477
 有事找:老六
 团主：姚银晓
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1076)|
+| ELO Regular | 1156 🔻  (1077)|
 | ELO Competitive | 1158 🔻  (1199)|
 | Total Matches | 3 |
 | Wins | 0 |

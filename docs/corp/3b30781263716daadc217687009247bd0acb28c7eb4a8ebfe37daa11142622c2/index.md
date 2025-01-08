@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​雪月永恒
-description: W:7 L:5 D:0 Bonus ❌
+description: W:7 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1730381858
 ---
@@ -15,7 +15,7 @@ date: 1730381858
 ```
 星光万丈星际集团分团 我们专门招募可爱的萌新😋现在加入以后就是元老了👀真的不来试试嘛       注意：集团会定期清人，被清者可通过邀请重新回家    Q群852308177加群晋升并有萌新福利                         <size=70><color=red>暂时封闭
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

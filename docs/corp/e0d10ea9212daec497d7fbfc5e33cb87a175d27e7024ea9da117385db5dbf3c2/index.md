@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OKC THUNDER 
-description: W:2 L:5 D:0 Bonus ❌
+description: W:2 L:5 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1723474731
 ---
@@ -16,11 +16,11 @@ date: 1723474731
  Request ONLY if you want to play WHITE STAR CAMPAIGNS. NBA fans welc
 ome also:)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (640)|
+| ELO Regular | 1187 🔻  (641)|
 | ELO Competitive | 1196 🔻  (696)|
 | Total Matches | 7 |
 | Wins | 2 |

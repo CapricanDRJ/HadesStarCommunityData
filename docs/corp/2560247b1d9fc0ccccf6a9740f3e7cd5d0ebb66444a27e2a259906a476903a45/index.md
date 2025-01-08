@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Revólver
-description: W:12 L:22 D:1 Bonus ❌
+description: W:12 L:22 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1734808728
 ---
@@ -16,11 +16,11 @@ date: 1734808728
 <size=50><b><color=white>Navegar es necesario. <size=50><b><color=red
 >Vivir no lo es
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1046)|
+| ELO Regular | 1160 🔻  (1047)|
 | ELO Competitive | 1206 🔻  (609)|
 | Total Matches | 35 |
 | Wins | 12 |

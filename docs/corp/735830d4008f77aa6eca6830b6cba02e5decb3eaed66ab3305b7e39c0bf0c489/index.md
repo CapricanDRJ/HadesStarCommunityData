@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Slytherin
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1732894327
 ---
@@ -17,12 +17,12 @@ No matter where you come from and where you go,this can be a home for
  you to have a rest.If you have an app named “wechat”,you can also se
 arch for 18898500351. 欢迎来到斯莱特林集团，身为一名中国人，我们始终坚持和平为主，火力为辅
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (1184)|
-| ELO Competitive | 1142 🔻  (1268)|
+| ELO Regular | 1134 🔻  (1185)|
+| ELO Competitive | 1142 🔻  (1269)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​共产星际
-description: W:31 L:6 D:0 Bonus ❌
+description: W:31 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1723051911
 ---
@@ -15,7 +15,7 @@ date: 1723051911
 ```
 旧群炸了，新群566708662
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

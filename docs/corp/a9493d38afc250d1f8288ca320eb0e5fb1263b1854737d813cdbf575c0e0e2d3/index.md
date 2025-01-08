@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​-=Содружество=-
-description: W:19 L:8 D:0 Bonus ❌
+description: W:19 L:8 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1715160901
 ---
@@ -16,7 +16,7 @@ date: 1715160901
 Основана 28.08.22. Играем свободно, без напряга, без обязаловки.
 ```
 ### [Discord](https://discord.gg/JdCZm4V45k)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Elite
-description: W:12 L:14 D:0 Bonus ❌
+description: W:12 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1724677169
 ---
@@ -16,12 +16,12 @@ date: 1724677169
 Welcome to the Elite!we do Red Star 3 and above, and White Stars whe
 n we have enough participants DISCORD MANDATORY!!!!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1040)|
-| ELO Competitive | 1180 🔻  (1004)|
+| ELO Regular | 1161 🔻  (1041)|
+| ELO Competitive | 1180 🔻  (1005)|
 | Total Matches | 26 |
 | Wins | 12 |
 | Losses | 14 |

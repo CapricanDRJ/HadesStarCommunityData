@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Dwarf
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1711419771
 ---
@@ -18,12 +18,12 @@ date: 1711419771
 d weekly White Stars hosted in White Dwarf! Discord advised. 
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (645)|
-| ELO Competitive | 1187 🔻  (814)|
+| ELO Regular | 1187 🔻  (646)|
+| ELO Competitive | 1187 🔻  (815)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

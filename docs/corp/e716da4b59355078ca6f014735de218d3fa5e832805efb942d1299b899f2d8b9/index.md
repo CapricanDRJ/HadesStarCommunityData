@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​小号营地
-description: W:0 L:7 D:2 Bonus ❌
+description: W:0 L:7 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1732891650
 ---
@@ -15,12 +15,12 @@ date: 1732891650
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔺  (1215)|
-| ELO Competitive | 1144 🔺  (1263)|
+| ELO Regular | 1125 🔺  (1216)|
+| ELO Competitive | 1144 🔺  (1264)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 7 |

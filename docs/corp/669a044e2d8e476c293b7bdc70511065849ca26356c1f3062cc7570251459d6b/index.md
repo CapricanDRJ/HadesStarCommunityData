@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rzeczypospolita
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1730511060
 ---
@@ -16,12 +16,12 @@ date: 1730511060
 Zapraszamy aktywnych graczy. Razem zdobędziemy cały kosmos! ;)
 Używamy discord do komunikacji: qgHRcwP
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (722)|
-| ELO Competitive | 1186 🔻  (872)|
+| ELO Regular | 1185 🔻  (723)|
+| ELO Competitive | 1186 🔻  (873)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

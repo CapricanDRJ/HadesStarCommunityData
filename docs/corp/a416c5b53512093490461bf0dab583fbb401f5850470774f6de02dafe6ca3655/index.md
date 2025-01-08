@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​舰队联邦[FF]
-description: W:1 L:7 D:3 Bonus ❌
+description: W:1 L:7 D:3 Bonus ❌ 3%
 image: ./favicon.png
 date: 1731687844
 ---
@@ -17,12 +17,12 @@ date: 1731687844
            70% of the star system is a star region and 30% is a plane
 t, but the whole Hades universe belongs to us!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1223)|
-| ELO Competitive | 1134 🔻  (1291)|
+| ELO Regular | 1123 🔻  (1224)|
+| ELO Competitive | 1134 🔻  (1292)|
 | Total Matches | 11 |
 | Wins | 1 |
 | Losses | 7 |

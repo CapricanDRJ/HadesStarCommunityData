@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Эдем
-description: W:9 L:9 D:0 Bonus ❌
+description: W:9 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734160904
 ---
@@ -16,7 +16,7 @@ date: 1734160904
 Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь н
 а кз 2-8. Чат в телеге...
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

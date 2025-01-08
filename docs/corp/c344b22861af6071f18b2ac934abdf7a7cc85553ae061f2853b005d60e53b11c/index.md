@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​MiniStarRaiders
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1700447756
 ---
@@ -23,12 +23,12 @@ date: 1700447756
 ・ 비매너, 장기미접속은 추방</color>
 ```
 ### [Discord](https://discord.gg/rTYsNzFmxx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (670)|
-| ELO Competitive | 1186 🔻  (847)|
+| ELO Regular | 1186 🔻  (671)|
+| ELO Competitive | 1186 🔻  (848)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

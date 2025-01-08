@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gemini↕     ☁
-description: W:3 L:9 D:1 Bonus ❌
+description: W:3 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1720686776
 ---
@@ -22,12 +22,12 @@ date: 1720686776
 没qq可以加微信进微信群
 这里是分团 活跃的人不多
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1139)|
-| ELO Competitive | 1155 🔻  (1217)|
+| ELO Regular | 1145 🔻  (1140)|
+| ELO Competitive | 1155 🔻  (1218)|
 | Total Matches | 13 |
 | Wins | 3 |
 | Losses | 9 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​游徒训练营
-description: W:2 L:5 D:1 Bonus ❌
+description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1719768708
 ---
@@ -15,12 +15,12 @@ date: 1719768708
 ```
 求有所真，务有所实；涯有所勒，日无虚渡。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1015)|
-| ELO Competitive | 1182 🔻  (994)|
+| ELO Regular | 1164 🔻  (1016)|
+| ELO Competitive | 1182 🔻  (995)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 5 |

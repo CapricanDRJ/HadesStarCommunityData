@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​心之所向
-description: W:4 L:1 D:0 Bonus ❌
+description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1711149196
 ---
@@ -15,7 +15,7 @@ date: 1711149196
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

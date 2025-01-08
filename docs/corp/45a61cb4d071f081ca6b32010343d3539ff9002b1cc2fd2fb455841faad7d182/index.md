@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​花鸟市场
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1720956947
 ---
@@ -21,12 +21,12 @@ date: 1720956947
 佛系集团，集团内交流会很少，如果需要前期资助以及集团交流的玩家请选择加入国人大团。
 不定期清理红点，如需长期留驻请集团内留言获取高级成员。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (725)|
-| ELO Competitive | 1185 🔻  (902)|
+| ELO Regular | 1185 🔻  (726)|
+| ELO Competitive | 1185 🔻  (903)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

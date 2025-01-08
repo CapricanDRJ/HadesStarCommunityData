@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:7 L:25 D:0 Bonus ❌
+description: W:7 L:25 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736114561
 ---
@@ -16,12 +16,12 @@ date: 1736114561
 Friendly casual corp. Our discord: discord.gg/nCabaKz
 ```
 ### [Discord](https://discord.gg/nCabaKz)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1024 🔻  (1347)|
-| ELO Competitive | 1078 🔻  (1348)|
+| ELO Regular | 1024 🔻  (1348)|
+| ELO Competitive | 1078 🔻  (1349)|
 | Total Matches | 32 |
 | Wins | 7 |
 | Losses | 25 |

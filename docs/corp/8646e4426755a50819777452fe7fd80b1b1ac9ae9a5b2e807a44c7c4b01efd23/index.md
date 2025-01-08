@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第一序列
-description: W:40 L:53 D:0 Bonus ❌
+description: W:40 L:53 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1735982648
 ---
@@ -17,11 +17,11 @@ date: 1735982648
 <color=red>◆祝各位早日R12!!!</color></size>
 <color=yellow>◆</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1208)|
+| ELO Regular | 1126 🔻  (1209)|
 | ELO Competitive | 1427 🔻  (110)|
 | Total Matches | 93 |
 | Wins | 40 |

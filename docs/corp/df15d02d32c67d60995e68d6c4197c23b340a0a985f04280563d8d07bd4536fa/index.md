@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:14 L:13 D:5 Bonus ✅
+description: W:14 L:13 D:5 Bonus ✅ 32%
 image: ./favicon.png
 date: 1736064380
 ---
@@ -15,7 +15,7 @@ date: 1736064380
 ```
 14 дней неактив в игре — кик. 300+ мощь империи.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |

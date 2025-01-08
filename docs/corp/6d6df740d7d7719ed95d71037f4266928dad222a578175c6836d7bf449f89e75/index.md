@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Majapahit
-description: W:6 L:2 D:0 Bonus ❌
+description: W:6 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1724340507
 ---
@@ -19,7 +19,7 @@ Bercerai ya kawin lagi.
 Discord :
 <color=orange>[discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

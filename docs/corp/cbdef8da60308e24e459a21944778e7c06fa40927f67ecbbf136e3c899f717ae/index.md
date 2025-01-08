@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Disintegrators
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1702431720
 ---
@@ -16,7 +16,7 @@ date: 1702431720
 Welcome! If you're active, you'll be promoted fast. Also join our dis
 cord))
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

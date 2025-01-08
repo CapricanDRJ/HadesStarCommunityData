@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:7 L:2 D:1 Bonus ✅
+description: W:7 L:2 D:1 Bonus ✅ 30%
 image: ./favicon.png
 date: 1735846536
 ---
@@ -17,12 +17,12 @@ In this corporation, we help eachother in red stars and will do white
  stars to grow the corp! Be nice to everyone and lets grow our star s
 ystems!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (202)|
-| ELO Competitive | 1287 🔺  (301)|
+| ELO Regular | 1275 🔺  (203)|
+| ELO Competitive | 1287 🔺  (302)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 2 |

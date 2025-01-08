@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Covenant
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1703217349
 ---
@@ -15,11 +15,11 @@ date: 1703217349
 ```
 Inactive
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (682)|
+| ELO Regular | 1186 🔻  (683)|
 | ELO Competitive | 1189 🔻  (785)|
 | Total Matches | 1 |
 | Wins | 0 |

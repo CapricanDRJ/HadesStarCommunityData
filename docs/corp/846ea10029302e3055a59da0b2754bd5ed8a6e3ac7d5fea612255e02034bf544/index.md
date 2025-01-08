@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Омикрон Альфа
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1700125538
 ---
@@ -15,7 +15,7 @@ date: 1700125538
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

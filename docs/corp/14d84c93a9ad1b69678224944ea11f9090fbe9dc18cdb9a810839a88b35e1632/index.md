@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​La orden real
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1712178754
 ---
@@ -18,7 +18,7 @@ date: 1712178754
 •Estrellas Blancas ✓
 •Discord [PgyhFfhnT3] 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

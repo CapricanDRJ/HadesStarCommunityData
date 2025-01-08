@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Draco Ind.
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1708191071
 ---
@@ -18,7 +18,7 @@ A branch of <size=346><color=#5F634F>U.I.H.</color></size><color=#edb
 ⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhp
 hKUH</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

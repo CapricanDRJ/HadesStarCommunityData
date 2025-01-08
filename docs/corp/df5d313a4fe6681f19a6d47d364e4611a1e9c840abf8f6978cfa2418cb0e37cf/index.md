@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​From the Fire
-description: W:2 L:5 D:0 Bonus ❌
+description: W:2 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735707227
 ---
@@ -17,12 +17,12 @@ The lowest inactive member will be kicked out of corporation when a n
 ew member is joined.
 ```
 ### [Discord](https://discord.gg/WpMYj74cJp)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1030)|
-| ELO Competitive | 1171 🔻  (1095)|
+| ELO Regular | 1162 🔻  (1031)|
+| ELO Competitive | 1171 🔻  (1096)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 5 |

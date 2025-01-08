@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​G.O.T GALAXY
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1729726168
 ---
@@ -15,11 +15,11 @@ date: 1729726168
 ```
 Looking for active playerz to compete in white stars 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (627)|
+| ELO Regular | 1188 🔻  (628)|
 | ELO Competitive | 1194 🔻  (708)|
 | Total Matches | 1 |
 | Wins | 0 |

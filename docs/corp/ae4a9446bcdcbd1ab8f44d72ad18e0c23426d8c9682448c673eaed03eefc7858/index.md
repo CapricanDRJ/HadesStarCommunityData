@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​/tmp
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1705511417
 ---
@@ -15,7 +15,7 @@ date: 1705511417
 ```
 初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

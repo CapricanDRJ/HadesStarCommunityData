@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​MÉXICO INFINITO
-description: W:19 L:28 D:0 Bonus ❌
+description: W:19 L:28 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735290975
 ---
@@ -17,11 +17,11 @@ BIENVENIDOS a esta humilde corporación, ayudaremos en lo que nesecite
 n a nuevos miembros de er2-er7 estrella roja=ER estrella azul=EA estr
 ella blanca=EB EB cuando se nos salga de los huevos 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1161)|
+| ELO Regular | 1141 🔻  (1162)|
 | ELO Competitive | 1215 🔻  (545)|
 | Total Matches | 47 |
 | Wins | 19 |

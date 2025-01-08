@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Axioma
-description: W:11 L:27 D:2 Bonus ❌
+description: W:11 L:27 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1726728458
 ---
@@ -15,12 +15,12 @@ date: 1726728458
 ```
 just relax, bro.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1029 🔺  (1344)|
-| ELO Competitive | 1073 🔺  (1353)|
+| ELO Regular | 1029 🔺  (1345)|
+| ELO Competitive | 1073 🔺  (1354)|
 | Total Matches | 40 |
 | Wins | 11 |
 | Losses | 27 |

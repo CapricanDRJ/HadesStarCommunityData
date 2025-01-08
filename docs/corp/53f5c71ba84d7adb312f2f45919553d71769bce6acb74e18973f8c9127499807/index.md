@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​企鹅帝国
-description: W:2 L:4 D:0 Bonus ❌
+description: W:2 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1728114704
 ---
@@ -15,12 +15,12 @@ date: 1728114704
 ```
 企鹅帝国欢迎您的到来！首席：Emperorpenguin     盟团：斯比纳兰
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (916)|
-| ELO Competitive | 1178 🔺  (1019)|
+| ELO Regular | 1173 🔺  (917)|
+| ELO Competitive | 1178 🔺  (1020)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

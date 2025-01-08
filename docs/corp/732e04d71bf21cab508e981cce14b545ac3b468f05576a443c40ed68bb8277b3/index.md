@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​白星成就团
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1732630187
 ---
@@ -15,12 +15,12 @@ date: 1732630187
 ```
 致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (894)|
-| ELO Competitive | 1182 🔻  (993)|
+| ELO Regular | 1175 🔻  (895)|
+| ELO Competitive | 1182 🔻  (994)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

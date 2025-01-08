@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​超新星联盟
-description: W:7 L:14 D:3 Bonus ❌
+description: W:7 L:14 D:3 Bonus ❌ 5%
 image: ./favicon.png
 date: 1731452634
 ---
@@ -17,11 +17,11 @@ date: 1731452634
 30～50高员50+干事。欢迎外国人（foriengers are welcom）（不准擦）。14天清人 
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1247)|
+| ELO Regular | 1116 🔻  (1248)|
 | ELO Competitive | 1198 🔻  (668)|
 | Total Matches | 24 |
 | Wins | 7 |

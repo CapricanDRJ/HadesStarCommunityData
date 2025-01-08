@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​༺༽ʚ天轮间ɞ༼༻
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1720002495
 ---
@@ -16,12 +16,12 @@ date: 1720002495
 (广告招租位)                                                              
         阿弥陀佛，老天保佑!坠机啦
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (914)|
-| ELO Competitive | 1180 🔻  (1005)|
+| ELO Regular | 1173 🔻  (915)|
+| ELO Competitive | 1180 🔻  (1006)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

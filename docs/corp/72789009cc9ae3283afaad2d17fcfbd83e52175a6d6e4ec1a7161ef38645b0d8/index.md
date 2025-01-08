@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:19 L:24 D:2 Bonus ✅
+description: W:19 L:24 D:2 Bonus ✅ 34%
 image: ./favicon.png
 date: 1736221824
 ---
@@ -15,11 +15,11 @@ date: 1736221824
 ```
 English speaking – would you want to communicate
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (988)|
+| ELO Regular | 1168 🔺  (989)|
 | ELO Competitive | 1267 🔺  (352)|
 | Total Matches | 45 |
 | Wins | 19 |

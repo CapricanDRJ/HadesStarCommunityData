@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙警察
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1701915990
 ---
@@ -17,7 +17,7 @@ date: 1701915990
 or=green>合格的</color><color=red><i>警</i></color><a><i>察</I></a>吧！
 <b>警局QQ931045807</b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

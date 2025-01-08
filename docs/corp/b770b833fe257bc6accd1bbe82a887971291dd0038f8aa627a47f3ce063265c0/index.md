@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:30 L:23 D:4 Bonus ❌
+description: W:30 L:23 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735156066
 ---
@@ -17,7 +17,7 @@ date: 1735156066
 игрокам. За долгое бездействие (более двух недель-месяца, по ситуации
 ) - кик.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

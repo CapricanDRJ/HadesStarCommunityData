@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:23 L:17 D:0 Bonus ✅
+description: W:23 L:17 D:0 Bonus ✅ 34%
 image: ./favicon.png
 date: 1735762400
 ---
@@ -17,7 +17,7 @@ date: 1735762400
 .. познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ 
 ПЯТНИЦУ В 23:00 ПО МСК***
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СвятыеНегодники
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1699198575
 ---
@@ -16,7 +16,7 @@ date: 1699198575
 Андреас, ты чего набалансил
 ```
 ### [Discord](https://discord.gg/U7aUhD3SRw)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

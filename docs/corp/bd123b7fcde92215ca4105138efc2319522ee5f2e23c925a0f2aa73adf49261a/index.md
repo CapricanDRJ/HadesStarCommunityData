@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Best
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1703944226
 ---
@@ -19,12 +19,12 @@ date: 1703944226
 <color=#6666FF>DISCORD</color>: pdsQpqw3Wy
 <color=#1DA1F2>TELEGRAM</color>: Best_Corp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (828)|
-| ELO Competitive | 1186 🔻  (842)|
+| ELO Regular | 1183 🔻  (829)|
+| ELO Competitive | 1186 🔻  (843)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

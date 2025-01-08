@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dominadores
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1731010507
 ---
@@ -16,12 +16,12 @@ date: 1731010507
 <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pit
 udo
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (833)|
-| ELO Competitive | 1187 🔻  (828)|
+| ELO Regular | 1183 🔻  (834)|
+| ELO Competitive | 1187 🔻  (829)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

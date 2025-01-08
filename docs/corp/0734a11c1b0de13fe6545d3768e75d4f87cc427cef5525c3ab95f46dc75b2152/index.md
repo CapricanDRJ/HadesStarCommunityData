@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​System Shock
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1727657953
 ---
@@ -17,7 +17,7 @@ The home of small-team Competitive & Hardcore WS. Quality RS9+ queue
 open via discord to visitors. We are a tight-knit and supportive crew
 . Visit our Discord at mmUnEav.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

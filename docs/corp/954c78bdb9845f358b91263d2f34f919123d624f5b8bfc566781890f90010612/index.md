@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​helvetic force
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1719260117
 ---
@@ -16,7 +16,7 @@ date: 1719260117
 wir sind eine deutschsprachige schweizer allianz und stehen für aktiv
 en spiel und spass
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

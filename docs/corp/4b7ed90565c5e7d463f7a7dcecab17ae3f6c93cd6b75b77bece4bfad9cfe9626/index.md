@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ITA
-description: W:14 L:18 D:0 Bonus ❌
+description: W:14 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1709372322
 ---
@@ -18,12 +18,12 @@ Benvenuti in ITA! Main coorp RS7+
           ~Discord obbligatorio!                         
 ```
 ### [Discord](https://discord.gg/TRXN76sqYC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1025)|
-| ELO Competitive | 1283 🔻  (307)|
+| ELO Regular | 1163 🔻  (1026)|
+| ELO Competitive | 1283 🔻  (308)|
 | Total Matches | 32 |
 | Wins | 14 |
 | Losses | 18 |

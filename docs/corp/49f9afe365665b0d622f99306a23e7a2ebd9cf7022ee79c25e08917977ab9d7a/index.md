@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TECH CO
-description: W:9 L:17 D:0 Bonus ❌
+description: W:9 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1715583143
 ---
@@ -18,12 +18,12 @@ careful to each other. Discord is MANDATORY. 10k coin donation to fla
 gship for new members is much appreciated.🥰
 ```
 ### [Discord](https://discord.gg/TayfuucWnS)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1221)|
-| ELO Competitive | 1187 🔻  (823)|
+| ELO Regular | 1123 🔻  (1222)|
+| ELO Competitive | 1187 🔻  (824)|
 | Total Matches | 26 |
 | Wins | 9 |
 | Losses | 17 |

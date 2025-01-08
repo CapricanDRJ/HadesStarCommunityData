@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gastro
-description: W:4 L:5 D:0 Bonus ❌
+description: W:4 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1727860478
 ---
@@ -15,7 +15,7 @@ date: 1727860478
 ```
 Bacon goes great with......EVERYTHING!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

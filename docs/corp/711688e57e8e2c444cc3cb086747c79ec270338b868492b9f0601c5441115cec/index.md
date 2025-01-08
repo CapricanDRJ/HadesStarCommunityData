@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Abh
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1731142719
 ---
@@ -19,11 +19,11 @@ Discord:5tuPR4v
 Traits:Independent
 Language:English
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (663)|
+| ELO Regular | 1187 🔻  (664)|
 | ELO Competitive | 1191 🔻  (742)|
 | Total Matches | 1 |
 | Wins | 0 |

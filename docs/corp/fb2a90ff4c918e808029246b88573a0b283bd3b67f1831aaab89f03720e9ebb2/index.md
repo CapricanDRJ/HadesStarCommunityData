@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​jatnniel 团队
-description: W:3 L:1 D:0 Bonus ❌
+description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1726828977
 ---
@@ -15,11 +15,11 @@ date: 1726828977
 ```
 一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (330)|
+| ELO Regular | 1228 🔻  (329)|
 | ELO Competitive | 1239 🔻  (436)|
 | Total Matches | 4 |
 | Wins | 3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Unit
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1728825426
 ---
@@ -17,7 +17,7 @@ date: 1728825426
 Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscur
 as, Victorias Brillantes." (Grupo de WhatsApp.)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

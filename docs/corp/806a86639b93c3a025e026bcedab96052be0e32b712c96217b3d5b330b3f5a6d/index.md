@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDestiny
-description: W:9 L:19 D:0 Bonus ❌
+description: W:9 L:19 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1720286777
 ---
@@ -24,12 +24,12 @@ Apply via Discord
 od-family.com
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1249)|
-| ELO Competitive | 1135 🔻  (1288)|
+| ELO Regular | 1115 🔻  (1250)|
+| ELO Competitive | 1135 🔻  (1289)|
 | Total Matches | 28 |
 | Wins | 9 |
 | Losses | 19 |

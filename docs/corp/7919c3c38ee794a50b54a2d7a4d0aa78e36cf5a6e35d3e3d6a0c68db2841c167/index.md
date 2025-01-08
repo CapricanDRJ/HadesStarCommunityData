@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prospectors
-description: W:4 L:3 D:1 Bonus ❌
+description: W:4 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1712005979
 ---
@@ -17,7 +17,7 @@ WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS
 donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HE
 LP GUIDE @ https://userxinos.github.io/HadesSpace/
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

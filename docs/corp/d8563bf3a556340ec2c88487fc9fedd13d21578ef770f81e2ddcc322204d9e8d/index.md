@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dacia
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1706875746
 ---
@@ -24,7 +24,7 @@ WS leaders: jwoods90 / ScTruF
 
 W/D/L - 60/1/2 </color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

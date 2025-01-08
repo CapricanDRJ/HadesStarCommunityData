@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Warp Dominion
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1708320893
 ---
@@ -16,7 +16,7 @@ date: 1708320893
 <color=#aa00ff><i>Everything</i> within warp range belongs to us.</co
 lor>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

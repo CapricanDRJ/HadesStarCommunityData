@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sterling Gamers
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1700841235
 ---
@@ -15,7 +15,7 @@ date: 1700841235
 ```
 Just a group of friends enjoying the game
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

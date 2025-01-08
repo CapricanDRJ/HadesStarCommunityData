@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Next Hyperion
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1711536025
 ---
@@ -17,12 +17,12 @@ Corp tranquila de habla hispana. NO hacemos envíos a otros jugadores.
  Interesados en las estrellas blancas. Echamos a las personas sin act
 ividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (991)|
-| ELO Competitive | 1172 🔻  (1073)|
+| ELO Regular | 1168 🔻  (992)|
+| ELO Competitive | 1172 🔻  (1074)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

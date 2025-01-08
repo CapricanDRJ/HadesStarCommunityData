@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际集团
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1722431633
 ---
@@ -15,12 +15,12 @@ date: 1722431633
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (827)|
-| ELO Competitive | 1185 🔻  (901)|
+| ELO Regular | 1183 🔻  (828)|
+| ELO Competitive | 1185 🔻  (902)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

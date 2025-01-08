@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星光禁卫
-description: W:2 L:8 D:1 Bonus ❌
+description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1728381554
 ---
@@ -15,12 +15,12 @@ date: 1728381554
 ```
 星光万丈红活专用
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔺  (1179)|
-| ELO Competitive | 1142 🔺  (1266)|
+| ELO Regular | 1137 🔺  (1180)|
+| ELO Competitive | 1142 🔺  (1267)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

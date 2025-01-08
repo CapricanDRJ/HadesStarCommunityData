@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Skai
-description: W:1 L:11 D:0 Bonus ❌
+description: W:1 L:11 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1705160720
 ---
@@ -16,12 +16,12 @@ date: 1705160720
 Arbiters of Darkness
 ```
 ### [Discord](https://discord.gg/MJSKU8T9T7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1309)|
-| ELO Competitive | 1114 🔻  (1322)|
+| ELO Regular | 1080 🔻  (1310)|
+| ELO Competitive | 1114 🔻  (1323)|
 | Total Matches | 12 |
 | Wins | 1 |
 | Losses | 11 |

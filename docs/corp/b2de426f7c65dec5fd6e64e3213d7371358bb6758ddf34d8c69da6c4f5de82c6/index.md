@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:11 L:68 D:0 Bonus ❌
+description: W:11 L:68 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735998876
 ---
@@ -16,12 +16,12 @@ date: 1735998876
 Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társa
 idat. WS-ezés feltétele a discord.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 889 🔻  (1374)|
-| ELO Competitive | 1100 🔻  (1337)|
+| ELO Regular | 889 🔻  (1375)|
+| ELO Competitive | 1100 🔻  (1338)|
 | Total Matches | 79 |
 | Wins | 11 |
 | Losses | 68 |

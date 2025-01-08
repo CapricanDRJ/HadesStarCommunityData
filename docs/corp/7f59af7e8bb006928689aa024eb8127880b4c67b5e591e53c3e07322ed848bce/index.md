@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legionnaires
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1705332614
 ---
@@ -16,12 +16,12 @@ date: 1705332614
 Just a small colonial empire seeking to control the galaxy.  We play 
 WS occasionally but we are very laid back when it comes to PVP.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (888)|
-| ELO Competitive | 1175 🔻  (1039)|
+| ELO Regular | 1175 🔻  (889)|
+| ELO Competitive | 1175 🔻  (1040)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

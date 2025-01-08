@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gregycool
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1702887653
 ---
@@ -16,12 +16,12 @@ date: 1702887653
 Friendly corp. English chat. Discord is optional.
 ```
 ### [Discord](https://discord.gg/Sy2sRYyZPZ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (689)|
-| ELO Competitive | 1186 🔻  (870)|
+| ELO Regular | 1186 🔻  (690)|
+| ELO Competitive | 1186 🔻  (871)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

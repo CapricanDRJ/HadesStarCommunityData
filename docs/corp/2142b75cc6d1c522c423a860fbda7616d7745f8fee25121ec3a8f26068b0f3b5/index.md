@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星舰国际
-description: W:7 L:8 D:3 Bonus ❌
+description: W:7 L:8 D:3 Bonus ❌ 5%
 image: ./favicon.png
 date: 1730956412
 ---
@@ -15,11 +15,11 @@ date: 1730956412
 ```
 Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗舰，最好捐给旗舰2号。欢迎各位光临
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (907)|
+| ELO Regular | 1173 🔻  (908)|
 | ELO Competitive | 1199 🔻  (660)|
 | Total Matches | 18 |
 | Wins | 7 |

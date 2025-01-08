@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UFSG
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1726793281
 ---
@@ -15,7 +15,7 @@ date: 1726793281
 ```
 HAGUANTE MILEY CARRAJO
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

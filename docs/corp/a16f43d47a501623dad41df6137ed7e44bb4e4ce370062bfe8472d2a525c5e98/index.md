@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UKRAINE STARS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1708244864
 ---
@@ -15,12 +15,12 @@ date: 1708244864
 ```
 Вітаю. Слааа Україні! Героям Слава! Окупантам тут не місце..
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (735)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1185 🔻  (736)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

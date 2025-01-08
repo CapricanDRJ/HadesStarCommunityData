@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Españoles
-description: W:3 L:4 D:2 Bonus ❌
+description: W:3 L:4 D:2 Bonus ❌ 4%
 image: ./favicon.png
 date: 1704366457
 ---
@@ -18,11 +18,11 @@ Españoles. Veteranos y novatos.                   Discord obligatorio
      Estrellas rojas: sábados. Donación: 100k-sábados. Premios
 ```
 ### [Discord](https://discord.gg/JAaHNV9AjU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (798)|
+| ELO Regular | 1184 🔺  (799)|
 | ELO Competitive | 1232 🔺  (455)|
 | Total Matches | 9 |
 | Wins | 3 |

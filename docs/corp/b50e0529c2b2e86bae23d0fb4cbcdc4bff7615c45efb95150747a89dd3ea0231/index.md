@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:12 L:19 D:0 Bonus ❌
+description: W:12 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1726657374
 ---
@@ -17,7 +17,7 @@ Welcome aboard enlistee to Star Fleet, one of 3 main corps in the Fed
 eration. Please behave yourself adequately. We offer casual RS and co
 mp ws play. White dwarf will be stated every Friday. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

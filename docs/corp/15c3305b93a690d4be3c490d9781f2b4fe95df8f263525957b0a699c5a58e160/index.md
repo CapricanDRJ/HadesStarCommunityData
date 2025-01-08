@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​N7 Elite Forces
-description: W:3 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1715248140
 ---
@@ -17,7 +17,7 @@ date: 1715248140
 - RS12<br><color=red>Discord Required
 ```
 ### [Discord](https://discord.gg/zgRuk78)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spaceforce
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1729538944
 ---
@@ -18,12 +18,12 @@ Back in Action!
 DISC: EEpZuWf
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (937)|
-| ELO Competitive | 1180 🔻  (1003)|
+| ELO Regular | 1171 🔻  (938)|
+| ELO Competitive | 1180 🔻  (1004)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

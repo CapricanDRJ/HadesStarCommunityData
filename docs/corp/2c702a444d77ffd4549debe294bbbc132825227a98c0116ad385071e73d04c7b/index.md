@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​仙剑3
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1711149196
 ---
@@ -15,7 +15,7 @@ date: 1711149196
 ```
 萌新
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

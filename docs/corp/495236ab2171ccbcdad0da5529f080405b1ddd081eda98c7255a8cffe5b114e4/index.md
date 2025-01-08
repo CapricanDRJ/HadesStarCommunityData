@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Jalisco México
-description: W:11 L:29 D:5 Bonus ❌
+description: W:11 L:29 D:5 Bonus ❌ 6%
 image: ./favicon.png
 date: 1723743387
 ---
@@ -16,12 +16,12 @@ date: 1723743387
 Bienvenidos a Hades Star esperencias recomendaciones ayuda y mas 0 in
 actividad 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1060 🔻  (1327)|
-| ELO Competitive | 1122 🔻  (1310)|
+| ELO Regular | 1060 🔻  (1328)|
+| ELO Competitive | 1122 🔻  (1311)|
 | Total Matches | 45 |
 | Wins | 11 |
 | Losses | 29 |

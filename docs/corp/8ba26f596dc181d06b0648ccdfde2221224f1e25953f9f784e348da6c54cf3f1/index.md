@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​(◉▼◉ ﾐﾐ )Э
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1713941389
 ---
@@ -15,12 +15,12 @@ date: 1713941389
 ```
 (◉▼◉ ﾐﾐ )Э
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (636)|
-| ELO Competitive | 1188 🔻  (807)|
+| ELO Regular | 1188 🔻  (637)|
+| ELO Competitive | 1188 🔻  (808)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

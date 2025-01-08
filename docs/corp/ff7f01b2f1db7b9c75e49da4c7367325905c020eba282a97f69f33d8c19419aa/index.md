@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​₩.BRASIL.₩
-description: W:2 L:25 D:4 Bonus ❌
+description: W:2 L:25 D:4 Bonus ❌ 4%
 image: ./favicon.png
 date: 1733352709
 ---
@@ -16,12 +16,12 @@ date: 1733352709
 BENVINDOS AO ₩.BRASIL.₩ NADA DE JULGAMENTOS OU OUTRAS  FORMAS DE MAU 
 GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 🔻  (1361)|
-| ELO Competitive | 1009 🔻  (1375)|
+| ELO Regular | 987 🔻  (1362)|
+| ELO Competitive | 1009 🔻  (1376)|
 | Total Matches | 31 |
 | Wins | 2 |
 | Losses | 25 |

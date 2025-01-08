@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​YU-GI-OH
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1735854049
 ---
@@ -15,12 +15,12 @@ date: 1735854049
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (793)|
-| ELO Competitive | 1184 🔻  (963)|
+| ELO Regular | 1184 🔻  (794)|
+| ELO Competitive | 1184 🔻  (964)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КМБ
-description: W:6 L:7 D:0 Bonus ❌
+description: W:6 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1725065653
 ---
@@ -15,7 +15,7 @@ date: 1725065653
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ELITE
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1702547267
 ---
@@ -16,12 +16,12 @@ date: 1702547267
 Телеграм: @prorabMax 
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (673)|
-| ELO Competitive | 1186 🔺  (851)|
+| ELO Regular | 1186 🔺  (674)|
+| ELO Competitive | 1186 🔺  (852)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

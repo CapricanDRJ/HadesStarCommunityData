@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:20 L:31 D:3 Bonus ❌
+description: W:20 L:31 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1730203658
 ---
@@ -16,7 +16,7 @@ date: 1730203658
 я не знаю что сюда написать, просто клан для того чтобы копить монеты
 , не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

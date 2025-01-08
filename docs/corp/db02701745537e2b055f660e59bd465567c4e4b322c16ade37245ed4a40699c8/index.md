@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Russian Style
-description: W:3 L:8 D:1 Bonus ❌
+description: W:3 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735200294
 ---
@@ -16,12 +16,12 @@ date: 1735200294
 Желание участвовать на БЗ приветствуются)). За участие БЗ повышаю в з
 вании
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1160)|
-| ELO Competitive | 1146 🔻  (1247)|
+| ELO Regular | 1141 🔻  (1161)|
+| ELO Competitive | 1146 🔻  (1248)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 8 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Система Редарфа
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1729428040
 ---
@@ -16,11 +16,11 @@ date: 1729428040
 Добро пожаловать в систему Редарфа!
 ```
 ### [Discord](https://discord.gg/nSuus8FjS9)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (356)|
+| ELO Regular | 1221 🔺  (355)|
 | ELO Competitive | 1225 🔺  (483)|
 | Total Matches | 1 |
 | Wins | 1 |

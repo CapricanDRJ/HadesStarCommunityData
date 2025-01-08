@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Curcubeu
-description: W:17 L:22 D:0 Bonus ❌
+description: W:17 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1736175250
 ---
@@ -18,12 +18,12 @@ tamanal. Vrei să crești alături de noi? Te așteptăm! Acces discord vi
 a browser: [broken url]
 ```
 ### [Discord](https://discord.gg/23cA4bB7X8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1321)|
-| ELO Competitive | 1187 🔻  (824)|
+| ELO Regular | 1073 🔻  (1322)|
+| ELO Competitive | 1187 🔻  (825)|
 | Total Matches | 39 |
 | Wins | 17 |
 | Losses | 22 |

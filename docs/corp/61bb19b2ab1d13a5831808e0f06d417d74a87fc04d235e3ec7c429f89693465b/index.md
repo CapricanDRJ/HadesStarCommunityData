@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Team Elite
-description: W:1 L:2 D:1 Bonus ❌
+description: W:1 L:2 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1710273158
 ---
@@ -17,7 +17,7 @@ Help each other out. Don't be a dick. Chill out, have fun. Must be ac
 tive, no stress on speed. WS players wanted. Discord: [discord url]
 ```
 ### [Discord](https://discord.gg/2anpCUHkET)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

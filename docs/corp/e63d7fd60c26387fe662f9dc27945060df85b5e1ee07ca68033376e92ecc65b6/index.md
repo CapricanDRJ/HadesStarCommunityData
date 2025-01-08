@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Phoenix Nest
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1735514726
 ---
@@ -19,11 +19,11 @@ Friendly and helpful community.
 Please be active!
 Discord: BpszvZBQ
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1148)|
+| ELO Regular | 1144 🔻  (1149)|
 | ELO Competitive | 1157 🔻  (1205)|
 | Total Matches | 4 |
 | Wins | 0 |

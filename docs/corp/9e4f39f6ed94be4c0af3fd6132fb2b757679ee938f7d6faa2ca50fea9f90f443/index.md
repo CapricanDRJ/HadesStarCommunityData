@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Uniones
-description: W:0 L:5 D:2 Bonus ❌
+description: W:0 L:5 D:2 Bonus ❌ 1%
 image: ./favicon.png
 date: 1733011558
 ---
@@ -16,12 +16,12 @@ date: 1733011558
 Hola bienvenidos a la corporacion uniones hacemos eb diarias er 4 y e
 spero que se diviertan fundador son of celestial
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1213)|
-| ELO Competitive | 1132 🔻  (1294)|
+| ELO Regular | 1125 🔻  (1214)|
+| ELO Competitive | 1132 🔻  (1295)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 5 |

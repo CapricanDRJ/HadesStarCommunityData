@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quin Armarda 2
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1732788242
 ---
@@ -15,11 +15,11 @@ date: 1732788242
 ```
 Notfallstandort der Quin Armarda
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1116)|
+| ELO Regular | 1150 🔻  (1117)|
 | ELO Competitive | 1160 🔻  (1179)|
 | Total Matches | 4 |
 | Wins | 0 |

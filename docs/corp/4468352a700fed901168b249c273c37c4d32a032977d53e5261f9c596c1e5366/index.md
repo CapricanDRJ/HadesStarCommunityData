@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Smeg Heads
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1731222354
 ---
@@ -15,11 +15,11 @@ date: 1731222354
 ```
 Heads full of SMEG
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (1104)|
+| ELO Regular | 1153 🔺  (1105)|
 | ELO Competitive | 1158 🔺  (1198)|
 | Total Matches | 6 |
 | Wins | 1 |

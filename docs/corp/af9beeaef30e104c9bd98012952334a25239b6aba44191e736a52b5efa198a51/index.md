@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Fracture
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1710899937
 ---
@@ -17,12 +17,12 @@ Relaxed and friendly. We encourage growth, enjoyment and teamwork. Re
 ach out if you need assistance. Malice not tolerated.
 ```
 ### [Discord](https://discord.gg/P9ruZgaZBJ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1126)|
-| ELO Competitive | 1152 🔻  (1231)|
+| ELO Regular | 1148 🔻  (1127)|
+| ELO Competitive | 1152 🔻  (1232)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

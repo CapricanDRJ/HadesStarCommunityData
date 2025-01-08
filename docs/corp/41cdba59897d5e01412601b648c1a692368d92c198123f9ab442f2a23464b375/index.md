@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Crux Cadre
-description: W:35 L:33 D:1 Bonus ❌
+description: W:35 L:33 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1735716421
 ---
@@ -18,11 +18,11 @@ titive crew? We got you covered! We welcome all level players, so com
 e run with us! Say hi on Discord!
 ```
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (817)|
+| ELO Regular | 1184 🔻  (818)|
 | ELO Competitive | 1321 🔻  (230)|
 | Total Matches | 69 |
 | Wins | 35 |

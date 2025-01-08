@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​莫比乌斯-星环
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1736256678
 ---
@@ -15,11 +15,11 @@ date: 1736256678
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (646)|
+| ELO Regular | 1187 🔻  (647)|
 | ELO Competitive | 1189 🔻  (781)|
 | Total Matches | 1 |
 | Wins | 0 |

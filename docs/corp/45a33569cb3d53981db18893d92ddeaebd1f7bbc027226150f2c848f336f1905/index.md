@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bloodtide
-description: W:41 L:49 D:0 Bonus ❌
+description: W:41 L:49 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1734528972
 ---
@@ -22,11 +22,11 @@ RS9-11
 
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔺  (1216)|
+| ELO Regular | 1125 🔺  (1217)|
 | ELO Competitive | 1319 🔺  (236)|
 | Total Matches | 90 |
 | Wins | 41 |

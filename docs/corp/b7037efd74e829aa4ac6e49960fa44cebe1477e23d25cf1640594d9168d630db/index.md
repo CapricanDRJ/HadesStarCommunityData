@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rising star
-description: W:30 L:38 D:0 Bonus ✅
+description: W:30 L:38 D:0 Bonus ✅ 50%
 image: ./favicon.png
 date: 1735994969
 ---
@@ -22,11 +22,11 @@ If kicked for inactivity, please join back when ready.
 
 ```
 ### [Discord](https://discord.gg/fYBf2GNU7y)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔺  (997)|
+| ELO Regular | 1167 🔺  (998)|
 | ELO Competitive | 1266 🔺  (355)|
 | Total Matches | 68 |
 | Wins | 30 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:29 L:9 D:0 Bonus ❌
+description: W:29 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1734723695
 ---
@@ -21,7 +21,7 @@ Visit us on discord  to join:
 [discord url]
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

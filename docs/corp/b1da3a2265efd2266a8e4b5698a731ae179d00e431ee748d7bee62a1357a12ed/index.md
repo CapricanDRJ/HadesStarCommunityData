@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:27 L:9 D:1 Bonus ✅
+description: W:27 L:9 D:1 Bonus ✅ 36%
 image: ./favicon.png
 date: 1736133786
 ---
@@ -18,7 +18,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 ...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"
 ```
 ### [Discord](https://discord.gg/RsHKaexHNh)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

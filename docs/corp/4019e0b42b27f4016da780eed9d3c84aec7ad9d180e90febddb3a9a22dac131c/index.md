@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ẁhıťɛ Ṣօᴌᴧᴙɨṣ
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1723544745
 ---
@@ -15,11 +15,11 @@ date: 1723544745
 ```
 Willkommen bei  Ẁhıťɛ Ṣօᴌᴧᴙɨṣ 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1156)|
+| ELO Regular | 1142 🔻  (1157)|
 | ELO Competitive | 1160 🔻  (1183)|
 | Total Matches | 4 |
 | Wins | 0 |

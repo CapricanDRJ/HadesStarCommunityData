@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​PERSEUS INC.
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1718516310
 ---
@@ -17,7 +17,7 @@ We are the sister Corp of ANDROMEDA INC. We’re the super relaxed, sli
 ghtly lazy Corp in the Guild. And, we’re international and very frien
 dly. We may run a casual White Star if we feel like it.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

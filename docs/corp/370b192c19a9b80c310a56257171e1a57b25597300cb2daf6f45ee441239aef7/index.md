@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​W.O.A
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1707724502
 ---
@@ -17,12 +17,12 @@ Warlord retirement village.  Stay off my lawn!
 discord or kick
 eMsE7sU
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (819)|
-| ELO Competitive | 1187 🔻  (827)|
+| ELO Regular | 1184 🔻  (820)|
+| ELO Competitive | 1187 🔻  (828)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

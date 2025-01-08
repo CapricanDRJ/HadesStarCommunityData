@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:22 L:2 D:0 Bonus ❌
+description: W:22 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735217058
 ---
@@ -16,7 +16,7 @@ date: 1735217058
 "NEVER LEAVE HOPE UNTIL YOU DIE" -- NOX IMPERIUM,A friendly corp with
  weekly ws   and in a search of active players,no discord required 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

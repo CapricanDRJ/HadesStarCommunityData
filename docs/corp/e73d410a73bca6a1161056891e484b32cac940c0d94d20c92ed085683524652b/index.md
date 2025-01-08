@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Polish Pirates
-description: W:21 L:14 D:0 Bonus ❌
+description: W:21 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1734080971
 ---
@@ -22,7 +22,7 @@ DISCORD
 vGfaYFN
 ```
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

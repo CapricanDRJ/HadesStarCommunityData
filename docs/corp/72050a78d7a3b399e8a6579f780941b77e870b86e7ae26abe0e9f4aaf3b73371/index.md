@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Starz
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1702672167
 ---
@@ -16,12 +16,12 @@ date: 1702672167
 We are the glorious Death Starz.  Don't get in our way, better join u
 s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (822)|
-| ELO Competitive | 1183 🔻  (979)|
+| ELO Regular | 1183 🔻  (823)|
+| ELO Competitive | 1183 🔻  (980)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

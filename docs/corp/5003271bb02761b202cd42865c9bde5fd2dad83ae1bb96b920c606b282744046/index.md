@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Avantgarde
-description: W:3 L:86 D:3 Bonus ❌
+description: W:3 L:86 D:3 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736235644
 ---
@@ -17,12 +17,12 @@ date: 1736235644
 лья во имя фана и хорошего настроения! Хаос нельзя остановить! В хаос
  можно только влиться! wAHQ5BX
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 777 🔻  (1378)|
-| ELO Competitive | 1035 🔻  (1369)|
+| ELO Regular | 777 🔻  (1379)|
+| ELO Competitive | 1035 🔻  (1370)|
 | Total Matches | 92 |
 | Wins | 3 |
 | Losses | 86 |

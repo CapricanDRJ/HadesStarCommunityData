@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hornet
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1732270377
 ---
@@ -15,7 +15,7 @@ date: 1732270377
 ```
 Part of the Confederation H
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

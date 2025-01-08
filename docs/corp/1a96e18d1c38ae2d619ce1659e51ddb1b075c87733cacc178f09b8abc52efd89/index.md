@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Vermilion
-description: W:1 L:5 D:1 Bonus ❌
+description: W:1 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709878939
 ---
@@ -16,12 +16,12 @@ date: 1709878939
 <color=#a30606><size=115>₣ØⱤ₲ɆĐ ฿Ɏ ₣łⱤɆ™</size></color>  www.guilded.
 gg/i/27LVznwk 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1109)|
-| ELO Competitive | 1177 🔻  (1024)|
+| ELO Regular | 1152 🔻  (1110)|
+| ELO Competitive | 1177 🔻  (1025)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 5 |

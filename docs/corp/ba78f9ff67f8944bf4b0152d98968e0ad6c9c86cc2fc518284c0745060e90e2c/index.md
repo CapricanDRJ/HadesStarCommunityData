@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Highland Ind. 
-description: W:10 L:10 D:1 Bonus ❌
+description: W:10 L:10 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1714044555
 ---
@@ -18,11 +18,11 @@ date: 1714044555
    Visit on Discord to join: discord.gg/vPsNNxs
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (837)|
+| ELO Regular | 1182 🔻  (838)|
 | ELO Competitive | 1234 🔻  (449)|
 | Total Matches | 21 |
 | Wins | 10 |

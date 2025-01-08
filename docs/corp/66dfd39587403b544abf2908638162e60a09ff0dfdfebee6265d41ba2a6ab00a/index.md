@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Core Systems
-description: W:3 L:2 D:2 Bonus ❌
+description: W:3 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
 date: 1719192673
 ---
@@ -15,7 +15,7 @@ date: 1719192673
 ```
 For passive players who don't play that often.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

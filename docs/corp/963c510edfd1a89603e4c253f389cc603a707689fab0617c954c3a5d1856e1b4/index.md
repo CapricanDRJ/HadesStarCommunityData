@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Черное солнце
-description: W:0 L:3 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1734601090
 ---
@@ -17,12 +17,12 @@ date: 1734601090
 Помощь новичкам артефактами, кз.
 https://t.me/klrlo
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1091)|
-| ELO Competitive | 1178 🔻  (1023)|
+| ELO Regular | 1154 🔻  (1092)|
+| ELO Competitive | 1178 🔻  (1024)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

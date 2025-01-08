@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星约组织：禁卫之翼
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1734583064
 ---
@@ -15,12 +15,12 @@ date: 1734583064
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (930)|
-| ELO Competitive | 1175 🔻  (1043)|
+| ELO Regular | 1172 🔻  (931)|
+| ELO Competitive | 1175 🔻  (1044)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

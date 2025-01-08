@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GhostNakcoorp
-description: W:27 L:30 D:0 Bonus ❌
+description: W:27 L:30 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736122974
 ---
@@ -18,11 +18,11 @@ color=green>White Star Élite </color> <size=60><color=orange>☆NakSaru
 gg☆</color></b>   Recruiting "StarMasters" for WS
 ```
 ### [Discord](https://discord.gg/jQHaBGnQDa)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1230)|
+| ELO Regular | 1121 🔻  (1231)|
 | ELO Competitive | 1206 🔻  (610)|
 | Total Matches | 57 |
 | Wins | 27 |

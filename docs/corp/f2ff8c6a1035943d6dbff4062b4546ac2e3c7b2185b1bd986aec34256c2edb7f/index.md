@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​두빛나래
-description: W:11 L:19 D:0 Bonus ❌
+description: W:11 L:19 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1723938121
 ---
@@ -17,11 +17,11 @@ date: 1723938121
 
 딱히 열심히 활동안해도 되고, 천천히 게임할려는 사람에게 맞는 코퍼레이션
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1202)|
+| ELO Regular | 1127 🔻  (1203)|
 | ELO Competitive | 1194 🔻  (704)|
 | Total Matches | 30 |
 | Wins | 11 |

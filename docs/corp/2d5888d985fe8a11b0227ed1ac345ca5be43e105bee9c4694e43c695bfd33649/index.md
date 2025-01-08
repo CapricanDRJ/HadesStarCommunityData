@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ギャラクシー富士山
-description: W:2 L:5 D:1 Bonus ❌
+description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1727370688
 ---
@@ -18,12 +18,12 @@ date: 1727370688
 あまり参加しないと思いますが、まったりどうぞ！
 無言ok
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1136)|
-| ELO Competitive | 1151 🔻  (1232)|
+| ELO Regular | 1146 🔻  (1137)|
+| ELO Competitive | 1151 🔻  (1233)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 5 |

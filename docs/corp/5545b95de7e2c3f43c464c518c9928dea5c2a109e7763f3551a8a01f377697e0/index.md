@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​mexico unido
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1733575259
 ---
@@ -15,12 +15,12 @@ date: 1733575259
 ```
 para todos los patriotas
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1082)|
-| ELO Competitive | 1164 🔻  (1157)|
+| ELO Regular | 1155 🔻  (1083)|
+| ELO Competitive | 1164 🔻  (1158)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

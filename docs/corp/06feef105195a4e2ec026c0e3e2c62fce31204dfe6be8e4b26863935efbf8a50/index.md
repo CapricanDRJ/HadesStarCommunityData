@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:9 L:9 D:1 Bonus ❌
+description: W:9 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1733352208
 ---
@@ -15,11 +15,11 @@ date: 1733352208
 ```
 欢迎萌新和大佬们的加入Q群852308177
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (835)|
+| ELO Regular | 1183 🔻  (836)|
 | ELO Competitive | 1217 🔻  (530)|
 | Total Matches | 19 |
 | Wins | 9 |

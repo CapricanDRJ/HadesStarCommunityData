@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​NEW HOLLAND
-description: W:1 L:8 D:1 Bonus ❌
+description: W:1 L:8 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1708785058
 ---
@@ -15,12 +15,12 @@ date: 1708785058
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1244)|
-| ELO Competitive | 1139 🔻  (1278)|
+| ELO Regular | 1116 🔻  (1245)|
+| ELO Competitive | 1139 🔻  (1279)|
 | Total Matches | 10 |
 | Wins | 1 |
 | Losses | 8 |

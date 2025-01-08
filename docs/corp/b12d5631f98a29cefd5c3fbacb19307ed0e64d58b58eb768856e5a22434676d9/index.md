@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:31 D:14 Bonus ❌
+description: W:1 L:31 D:14 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735883573
 ---
@@ -15,12 +15,12 @@ date: 1735883573
 ```
 KillFrist
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 984 🔻  (1362)|
-| ELO Competitive | 1016 🔻  (1374)|
+| ELO Regular | 984 🔻  (1363)|
+| ELO Competitive | 1016 🔻  (1375)|
 | Total Matches | 46 |
 | Wins | 1 |
 | Losses | 31 |

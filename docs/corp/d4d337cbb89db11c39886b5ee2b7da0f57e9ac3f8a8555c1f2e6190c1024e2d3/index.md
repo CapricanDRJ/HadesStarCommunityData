@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alfa Reach
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1702625273
 ---
@@ -22,12 +22,12 @@ CONTACTO:
 - C8jvrsR (Discord)
 - D3U3oPzVBrzCl5NNsaepfL (WhatsApp)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (632)|
-| ELO Competitive | 1188 🔻  (809)|
+| ELO Regular | 1188 🔻  (633)|
+| ELO Competitive | 1188 🔻  (810)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

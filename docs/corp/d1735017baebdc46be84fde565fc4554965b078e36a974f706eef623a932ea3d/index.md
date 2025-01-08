@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RATAS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1710112112
 ---
@@ -16,11 +16,11 @@ date: 1710112112
 
 aeZrWpH9YW
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (777)|
+| ELO Regular | 1185 🔻  (778)|
 | ELO Competitive | 1190 🔻  (771)|
 | Total Matches | 1 |
 | Wins | 0 |

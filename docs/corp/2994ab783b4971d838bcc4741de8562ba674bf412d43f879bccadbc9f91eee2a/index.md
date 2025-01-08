@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alterra Corp
-description: W:1 L:1 D:1 Bonus ❌
+description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1727896547
 ---
@@ -16,7 +16,7 @@ date: 1727896547
 we would like players who enjoy ws battles. we have 5, could use 5 mo
 re. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

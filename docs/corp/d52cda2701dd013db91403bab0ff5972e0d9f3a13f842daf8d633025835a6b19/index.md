@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Galxey █
-description: W:5 L:29 D:2 Bonus ❌
+description: W:5 L:29 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1713636340
 ---
@@ -15,12 +15,12 @@ date: 1713636340
 ```
 Bye Bye - ryan
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔺  (1359)|
-| ELO Competitive | 1078 🔺  (1347)|
+| ELO Regular | 1000 🔺  (1360)|
+| ELO Competitive | 1078 🔺  (1348)|
 | Total Matches | 36 |
 | Wins | 5 |
 | Losses | 29 |

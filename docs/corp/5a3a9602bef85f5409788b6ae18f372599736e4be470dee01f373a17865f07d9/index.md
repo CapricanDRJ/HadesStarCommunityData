@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​绛紫星云
-description: W:1 L:5 D:1 Bonus ❌
+description: W:1 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1732179746
 ---
@@ -22,11 +22,11 @@ date: 1732179746
 想要加入？QQ群号：415822703
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1162)|
+| ELO Regular | 1141 🔻  (1163)|
 | ELO Competitive | 1158 🔻  (1194)|
 | Total Matches | 7 |
 | Wins | 1 |

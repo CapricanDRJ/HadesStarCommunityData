@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:43 L:27 D:1 Bonus ❌
+description: W:43 L:27 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735157268
 ---
@@ -18,11 +18,11 @@ date: 1735157268
 <color=#e50>Get <color=#9ec>500 Crystals</color> every month!
 <color=#fb3>Bring your crew and join us for 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔻  (154)|
+| ELO Regular | 1305 🔻  (155)|
 | ELO Competitive | 1452 🔻  (94)|
 | Total Matches | 71 |
 | Wins | 43 |

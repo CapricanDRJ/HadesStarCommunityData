@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bund von Lykon
-description: W:2 L:14 D:0 Bonus ❌
+description: W:2 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734656984
 ---
@@ -17,12 +17,12 @@ Willkommen im chilligsten Verein der Galaxie. Nix muss, vieles kann.
 Wöchentliches Treffen in der Mos Eisley Cantina ist erwünscht. Alle z
 wei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1320)|
-| ELO Competitive | 1126 🔻  (1305)|
+| ELO Regular | 1073 🔻  (1321)|
+| ELO Competitive | 1126 🔻  (1306)|
 | Total Matches | 16 |
 | Wins | 2 |
 | Losses | 14 |

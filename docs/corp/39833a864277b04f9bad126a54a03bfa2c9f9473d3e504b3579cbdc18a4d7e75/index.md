@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​King's Guard
-description: W:26 L:72 D:5 Bonus ❌
+description: W:26 L:72 D:5 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735522630
 ---
@@ -17,12 +17,12 @@ Corp. designed primarily for WS players of any level advanced to just
  starting. 
 ```
 ### [Discord](https://discord.gg/XQ4BnnSKvC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 935 🔻  (1368)|
-| ELO Competitive | 1074 🔻  (1351)|
+| ELO Regular | 935 🔻  (1369)|
+| ELO Competitive | 1074 🔻  (1352)|
 | Total Matches | 103 |
 | Wins | 26 |
 | Losses | 72 |

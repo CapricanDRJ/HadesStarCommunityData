@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hinterm Mars
-description: W:43 L:42 D:0 Bonus ✅
+description: W:43 L:42 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1735931574
 ---
@@ -18,7 +18,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
  WZ (Discordpflicht).               Twinkkonzern: $tar$
 ```
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

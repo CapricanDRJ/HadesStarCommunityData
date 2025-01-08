@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:62 L:6 D:1 Bonus ❌
+description: W:62 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1735040681
 ---
@@ -16,7 +16,7 @@ date: 1735040681
 지금껏 경험하지 못한 짜릿한 모험! 9번째 행성에서 즐거움이 가득한 여행을 떠나보세요. Communication-koreak
 itty
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

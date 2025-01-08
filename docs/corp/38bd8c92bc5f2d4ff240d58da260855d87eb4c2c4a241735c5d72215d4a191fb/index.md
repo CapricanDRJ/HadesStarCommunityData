@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebula
-description: W:4 L:18 D:0 Bonus ❌
+description: W:4 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1729543151
 ---
@@ -17,12 +17,12 @@ date: 1729543151
 •Get diplomatic station so u can get help from one of our members
 •Hit up the chat system so we can hear whats on ur mind
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔻  (1331)|
-| ELO Competitive | 1075 🔻  (1350)|
+| ELO Regular | 1052 🔻  (1332)|
+| ELO Competitive | 1075 🔻  (1351)|
 | Total Matches | 22 |
 | Wins | 4 |
 | Losses | 18 |

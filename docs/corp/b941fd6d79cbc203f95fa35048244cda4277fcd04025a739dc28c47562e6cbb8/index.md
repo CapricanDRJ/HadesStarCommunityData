@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1715922666
 ---
@@ -16,12 +16,12 @@ date: 1715922666
 Explore the galaxy, crush the rebellion, and bring order to the galax
 y.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (638)|
-| ELO Competitive | 1188 🔻  (801)|
+| ELO Regular | 1187 🔻  (639)|
+| ELO Competitive | 1188 🔻  (802)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

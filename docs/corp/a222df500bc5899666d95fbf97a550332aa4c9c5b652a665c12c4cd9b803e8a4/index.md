@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​XXX500XXX
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1711403290
 ---
@@ -16,12 +16,12 @@ date: 1711403290
 I am the commander and i shall not let you down because we have alot 
 of advantare to work of
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (952)|
-| ELO Competitive | 1171 🔻  (1088)|
+| ELO Regular | 1171 🔻  (953)|
+| ELO Competitive | 1171 🔻  (1089)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

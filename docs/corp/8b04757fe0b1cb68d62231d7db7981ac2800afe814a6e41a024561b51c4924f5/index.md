@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Starborne Corp
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1703132249
 ---
@@ -17,12 +17,12 @@ Have fun. Help your fellow player. White Stars. Private Red Stars. Be
  active.
 Discord: [discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (707)|
-| ELO Competitive | 1186 🔻  (871)|
+| ELO Regular | 1186 🔻  (708)|
+| ELO Competitive | 1186 🔻  (872)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Sky
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1723759917
 ---
@@ -19,12 +19,12 @@ Quick Guides:
 https://tinyurl.com/redsky1
 https://tinyurl.com/redsky2
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (795)|
-| ELO Competitive | 1184 🔻  (957)|
+| ELO Regular | 1184 🔻  (796)|
+| ELO Competitive | 1184 🔻  (958)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

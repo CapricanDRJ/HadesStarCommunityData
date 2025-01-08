@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ 星空漫游者-GR
-description: W:3 L:1 D:0 Bonus ❌
+description: W:3 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1709177006
 ---
@@ -22,7 +22,7 @@ QQ群:663677762
 定期清理红点
 拒绝黑名单玩家
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CommCody & LPA
-description: W:13 L:9 D:0 Bonus ❌
+description: W:13 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1712466617
 ---
@@ -18,11 +18,11 @@ g band of misfits pilaging Hades Star's booty.<color="blue"></color>
 Interested in our alliance RSR?  Discord   Link below
 ```
 ### [Discord](https://discord.gg/r66hPREZUW)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (320)|
+| ELO Regular | 1230 🔻  (319)|
 | ELO Competitive | 1256 🔻  (383)|
 | Total Matches | 22 |
 | Wins | 13 |

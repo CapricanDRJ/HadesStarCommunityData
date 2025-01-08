@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​j g f h me t y 
-description: W:5 L:10 D:1 Bonus ❌
+description: W:5 L:10 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1726738849
 ---
@@ -15,12 +15,12 @@ date: 1726738849
 ```
 La Nave WIALERKING
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1197)|
-| ELO Competitive | 1136 🔻  (1286)|
+| ELO Regular | 1130 🔻  (1198)|
+| ELO Competitive | 1136 🔻  (1287)|
 | Total Matches | 16 |
 | Wins | 5 |
 | Losses | 10 |

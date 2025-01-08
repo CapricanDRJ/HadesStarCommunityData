@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UNSC
-description: W:4 L:2 D:0 Bonus ❌
+description: W:4 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1720103767
 ---
@@ -16,7 +16,7 @@ date: 1720103767
 United Nations Space Command.
 ```
 ### [Discord](https://discord.gg/rbQwDdUp8A)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

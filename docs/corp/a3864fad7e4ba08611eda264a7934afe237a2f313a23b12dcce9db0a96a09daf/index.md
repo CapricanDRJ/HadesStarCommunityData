@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:4 L:8 D:2 Bonus ❌
+description: W:4 L:8 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735333050
 ---
@@ -16,11 +16,11 @@ date: 1735333050
 Casual Clan looking for active players. Join our clan and grow with u
 s.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔺  (1118)|
+| ELO Regular | 1150 🔺  (1119)|
 | ELO Competitive | 1160 🔺  (1180)|
 | Total Matches | 14 |
 | Wins | 4 |

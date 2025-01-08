@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Best UA West
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1702043417
 ---
@@ -15,12 +15,12 @@ date: 1702043417
 ```
 Discord mXaAX7Caga
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1147)|
-| ELO Competitive | 1144 🔻  (1259)|
+| ELO Regular | 1144 🔻  (1148)|
+| ELO Competitive | 1144 🔻  (1260)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

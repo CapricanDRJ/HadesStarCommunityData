@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Void Nebula
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1701972491
 ---
@@ -15,12 +15,12 @@ date: 1701972491
 ```
 Anyone is Welcome to the Void Nebula 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1079)|
-| ELO Competitive | 1156 🔻  (1209)|
+| ELO Regular | 1156 🔻  (1080)|
+| ELO Competitive | 1156 🔻  (1210)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

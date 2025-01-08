@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:7 L:7 D:0 Bonus ❌
+description: W:7 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1734794604
 ---
@@ -21,11 +21,11 @@ date: 1734794604
 
 Évolution chez "On en a Gros" pour RS8+
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (863)|
+| ELO Regular | 1178 🔻  (864)|
 | ELO Competitive | 1198 🔻  (679)|
 | Total Matches | 14 |
 | Wins | 7 |

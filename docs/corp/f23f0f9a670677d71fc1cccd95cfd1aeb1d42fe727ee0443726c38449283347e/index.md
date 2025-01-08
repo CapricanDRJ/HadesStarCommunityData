@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​42 Nova Corps.
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1706899492
 ---
@@ -19,7 +19,7 @@ date: 1706899492
 Discord obligatorio: KAguMmM</color>
 ```
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

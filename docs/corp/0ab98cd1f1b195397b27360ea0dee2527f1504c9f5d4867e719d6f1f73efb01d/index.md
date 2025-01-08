@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Grunthal Gang
-description: W:45 L:30 D:0 Bonus ✅
+description: W:45 L:30 D:0 Bonus ✅ 54%
 image: ./favicon.png
 date: 1735958915
 ---
@@ -18,7 +18,7 @@ Grunthal Gang is a competitive corp of international players offering
 r of our corp. [discord url]
 ```
 ### [Discord](https://discord.gg/jUQReQtRJN)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |
 | --- | --- |

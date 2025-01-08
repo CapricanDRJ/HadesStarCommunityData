@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperium of man
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1706527816
 ---
@@ -24,12 +24,12 @@ https://dicord.gg/gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (732)|
-| ELO Competitive | 1185 🔻  (908)|
+| ELO Regular | 1185 🔻  (733)|
+| ELO Competitive | 1185 🔻  (909)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

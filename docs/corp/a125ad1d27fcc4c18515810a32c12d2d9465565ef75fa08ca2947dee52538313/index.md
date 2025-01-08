@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rocket-by Baby
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1706328517
 ---
@@ -20,12 +20,12 @@ Rocket-by Baby, in a White Star
 When your ships blow, our relics will soar..
 ```
 ### [Discord](https://discord.gg/5VHFHkC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1220)|
-| ELO Competitive | 1135 🔻  (1287)|
+| ELO Regular | 1123 🔻  (1221)|
+| ELO Competitive | 1135 🔻  (1288)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

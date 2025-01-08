@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​红星超新星爆炸
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707881714
 ---
@@ -24,12 +24,12 @@ date: 1707881714
 积极推进集团发展者可作为红星指挥
 经常上线的有打白资格</b></color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (637)|
-| ELO Competitive | 1188 🔻  (800)|
+| ELO Regular | 1187 🔻  (638)|
+| ELO Competitive | 1188 🔻  (801)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

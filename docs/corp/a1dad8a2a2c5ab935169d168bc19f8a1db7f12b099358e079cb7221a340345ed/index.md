@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:13 L:11 D:0 Bonus ❌
+description: W:13 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1733426879
 ---
@@ -17,12 +17,12 @@ date: 1733426879
  the galaxy. We welcome every newbie and big guy to join us. We provi
 de early learning guidance for newbies joining the group.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (333)|
-| ELO Competitive | 1298 🔻  (277)|
+| ELO Regular | 1228 🔻  (332)|
+| ELO Competitive | 1298 🔻  (278)|
 | Total Matches | 24 |
 | Wins | 13 |
 | Losses | 11 |

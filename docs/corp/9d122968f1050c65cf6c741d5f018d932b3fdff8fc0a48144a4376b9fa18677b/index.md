@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:25 L:1 D:1 Bonus ❌
+description: W:25 L:1 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1731149329
 ---
@@ -17,7 +17,7 @@ Arrr! We be a transnational band of pirrates from Andromeda. We play
 WS to win or loot, pilfer or otherwise plunder for prize money! Join 
 if ye not be appreciatin' gallow humorr of any kind.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

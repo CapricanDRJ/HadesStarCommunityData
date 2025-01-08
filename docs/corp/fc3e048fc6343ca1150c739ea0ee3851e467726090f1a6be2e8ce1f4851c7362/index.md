@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ГОРИЗОНТ
-description: W:26 L:75 D:0 Bonus ✅
+description: W:26 L:75 D:0 Bonus ✅ 50%
 image: ./favicon.png
 date: 1735965824
 ---
@@ -17,11 +17,11 @@ date: 1735965824
 з политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi
 ```
 ### [Discord](https://discord.gg/hn2S7qy58g)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔺  (1222)|
+| ELO Regular | 1123 🔺  (1223)|
 | ELO Competitive | 1360 🔺  (181)|
 | Total Matches | 101 |
 | Wins | 26 |

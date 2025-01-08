@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Union premiun
-description: W:0 L:3 D:2 Bonus ❌
+description: W:0 L:3 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1723607550
 ---
@@ -17,11 +17,11 @@ Bienvenidos a la corporacion mas poderosa de todas hacemos eb diarias
  ea y er espero que se diviertan todos los nuevos bienvenidos al equi
 po,todos los nuevos seran acendidos inmediatamente 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1070)|
+| ELO Regular | 1157 🔻  (1071)|
 | ELO Competitive | 1162 🔺  (1171)|
 | Total Matches | 5 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hades Seminary 
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707434406
 ---
@@ -18,7 +18,7 @@ very laied back but competitive corp. Please join our Discord and acc
 ept our rules to get your member role!
 ```
 ### [Discord](https://discord.gg/kUcE6EP)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

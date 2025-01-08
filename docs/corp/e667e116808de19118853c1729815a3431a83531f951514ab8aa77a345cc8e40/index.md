@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Highlife
-description: W:23 L:32 D:1 Bonus ❌
+description: W:23 L:32 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734811734
 ---
@@ -18,11 +18,11 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 .
 ```
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1281)|
+| ELO Regular | 1100 🔻  (1282)|
 | ELO Competitive | 1157 🔻  (1204)|
 | Total Matches | 56 |
 | Wins | 23 |

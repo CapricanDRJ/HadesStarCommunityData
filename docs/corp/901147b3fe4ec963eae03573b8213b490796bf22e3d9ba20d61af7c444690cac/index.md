@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Türk Yıldızları
-description: W:16 L:11 D:0 Bonus ❌
+description: W:16 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1717106731
 ---
@@ -18,11 +18,11 @@ date: 1717106731
 r.Rs7 - Rs10Discord zorunludur.
 ```
 ### [Discord](https://discord.gg/PWDf6QH)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (204)|
+| ELO Regular | 1273 🔻  (205)|
 | ELO Competitive | 1305 🔻  (266)|
 | Total Matches | 27 |
 | Wins | 16 |

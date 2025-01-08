@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Inexorable
-description: W:18 L:11 D:0 Bonus ❌
+description: W:18 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1713540223
 ---
@@ -17,12 +17,12 @@ We are a paused corp, join or stay at your own risk, but check us out
  again in the future
 ```
 ### [Discord](https://discord.gg/3yhvuzqeax)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (328)|
-| ELO Competitive | 1286 🔻  (302)|
+| ELO Regular | 1229 🔻  (327)|
+| ELO Competitive | 1286 🔻  (303)|
 | Total Matches | 29 |
 | Wins | 18 |
 | Losses | 11 |

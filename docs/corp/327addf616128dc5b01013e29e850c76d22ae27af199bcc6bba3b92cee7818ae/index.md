@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​以太超星团
-description: W:3 L:26 D:6 Bonus ❌
+description: W:3 L:26 D:6 Bonus ❌ 5%
 image: ./favicon.png
 date: 1731054674
 ---
@@ -15,12 +15,12 @@ date: 1731054674
 ```
 <#ffa>100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1020 🔺  (1349)|
-| ELO Competitive | 1123 🔺  (1309)|
+| ELO Regular | 1020 🔺  (1350)|
+| ELO Competitive | 1123 🔺  (1310)|
 | Total Matches | 35 |
 | Wins | 3 |
 | Losses | 26 |

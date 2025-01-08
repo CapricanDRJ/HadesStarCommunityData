@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TROLL SQUAD
-description: W:11 L:5 D:0 Bonus ❌
+description: W:11 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1705901181
 ---
@@ -19,7 +19,7 @@ But there is not more of it in DN now...
 [discord url]
 ```
 ### [Discord](https://discord.gg/fCsvae5yXv)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

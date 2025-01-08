@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Revelation
-description: W:3 L:4 D:0 Bonus ❌
+description: W:3 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1707180175
 ---
@@ -21,12 +21,12 @@ advice, beer and kisses.
 
 [discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (616)|
-| ELO Competitive | 1188 🔻  (798)|
+| ELO Regular | 1189 🔻  (617)|
+| ELO Competitive | 1188 🔻  (799)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​＊СССР＊
-description: W:37 L:29 D:1 Bonus ✅
+description: W:37 L:29 D:1 Bonus ✅ 46%
 image: ./favicon.png
 date: 1735930973
 ---
@@ -18,11 +18,11 @@ date: 1735930973
 <color=#1E90FF>БЗ Telegram☎</color>
 память ★VeprKoloyar★
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (191)|
+| ELO Regular | 1282 🔺  (192)|
 | ELO Competitive | 1464 🔺  (84)|
 | Total Matches | 67 |
 | Wins | 37 |

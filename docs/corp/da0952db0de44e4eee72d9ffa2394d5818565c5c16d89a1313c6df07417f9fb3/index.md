@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Rangers
-description: W:17 L:9 D:0 Bonus ❌
+description: W:17 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1711927857
 ---
@@ -16,11 +16,11 @@ date: 1711927857
 For the friends and normies
 ```
 ### [Discord](https://discord.gg/GYem3jEagg)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (171)|
+| ELO Regular | 1295 🔺  (172)|
 | ELO Competitive | 1347 🔺  (191)|
 | Total Matches | 26 |
 | Wins | 17 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Web
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1717877900
 ---
@@ -17,7 +17,7 @@ Whats up! Focus on red stars and getting offenses up to white star le
 vel. 
 Discord-6f8xNGS
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Blazing Stars
-description: W:5 L:2 D:1 Bonus ❌
+description: W:5 L:2 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735293679
 ---
@@ -17,7 +17,7 @@ date: 1735293679
 yment. <color=yellow>Welcomes both newbies and veterans throughout th
 e Hades Galaxy. Join us and have fun 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

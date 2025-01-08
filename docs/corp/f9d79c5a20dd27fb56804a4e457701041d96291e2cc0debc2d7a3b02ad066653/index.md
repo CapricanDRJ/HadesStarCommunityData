@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Monster AG
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1701280029
 ---
@@ -16,11 +16,11 @@ date: 1701280029
 Willkommen bei der Monster AG
 ```
 ### [Discord](https://discord.gg/bJH5xq64Kt)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1063)|
+| ELO Regular | 1158 🔻  (1064)|
 | ELO Competitive | 1158 🔻  (1201)|
 | Total Matches | 3 |
 | Wins | 0 |

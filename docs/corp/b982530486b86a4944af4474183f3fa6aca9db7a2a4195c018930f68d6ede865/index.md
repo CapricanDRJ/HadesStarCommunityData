@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ 边域
-description: W:5 L:7 D:1 Bonus ❌
+description: W:5 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1736153850
 ---
@@ -15,12 +15,12 @@ date: 1736153850
 ```
 欢迎各位萌新加入。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (921)|
-| ELO Competitive | 1176 🔻  (1032)|
+| ELO Regular | 1172 🔻  (922)|
+| ELO Competitive | 1176 🔻  (1033)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 7 |

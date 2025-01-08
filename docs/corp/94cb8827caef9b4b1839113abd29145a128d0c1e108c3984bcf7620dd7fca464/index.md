@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Outland Ind.
-description: W:37 L:11 D:0 Bonus ❌
+description: W:37 L:11 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1731144822
 ---
@@ -22,7 +22,7 @@ Discord is mandatory:
 <color=yellow>discord.gg/vPsNNxs</color>
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

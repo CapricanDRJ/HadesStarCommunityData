@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:23 L:9 D:2 Bonus ❌
+description: W:23 L:9 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1726314222
 ---
@@ -17,7 +17,7 @@ We are a corporation where we help each other to do more together. Ne
 w white star search every Monday. Discord optional
 ```
 ### [Discord](https://discord.gg/tF9fNMwh2E)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

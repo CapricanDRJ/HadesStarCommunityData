@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gold Star
-description: W:2 L:11 D:2 Bonus ❌
+description: W:2 L:11 D:2 Bonus ❌ 4%
 image: ./favicon.png
 date: 1734014560
 ---
@@ -15,12 +15,12 @@ date: 1734014560
 ```
 Ruling the universe is our simple goal.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1248)|
-| ELO Competitive | 1127 🔻  (1303)|
+| ELO Regular | 1116 🔻  (1249)|
+| ELO Competitive | 1127 🔻  (1304)|
 | Total Matches | 15 |
 | Wins | 2 |
 | Losses | 11 |

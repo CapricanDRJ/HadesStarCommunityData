@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Betelgeuse
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1732190565
 ---
@@ -17,12 +17,12 @@ Anyone active welcome to join.
 
 p5GSVDDrSc
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (946)|
-| ELO Competitive | 1173 🔻  (1067)|
+| ELO Regular | 1171 🔻  (947)|
+| ELO Competitive | 1173 🔻  (1068)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

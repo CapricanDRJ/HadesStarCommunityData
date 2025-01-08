@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Shadow Council
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1717815379
 ---
@@ -17,12 +17,12 @@ Its continuing mission, to explore strange new worlds. To seek out ne
 w life and new civilizations. To boldly go where no one has gone befo
 re.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1060)|
-| ELO Competitive | 1167 🔻  (1130)|
+| ELO Regular | 1158 🔻  (1061)|
+| ELO Competitive | 1167 🔻  (1131)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

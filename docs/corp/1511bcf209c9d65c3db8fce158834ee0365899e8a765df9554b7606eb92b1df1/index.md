@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​太阳系联邦
-description: W:0 L:18 D:0 Bonus ❌
+description: W:0 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1729231178
 ---
@@ -15,12 +15,12 @@ date: 1729231178
 ```
 欢迎大家加入，进团升干事！加入送三个神器，最高九级。旗舰有理由即可动用，白星由参与人员提出方案后择优执行。每周清理小红点
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1015 🔻  (1353)|
-| ELO Competitive | 1085 🔻  (1345)|
+| ELO Regular | 1015 🔻  (1354)|
+| ELO Competitive | 1085 🔻  (1346)|
 | Total Matches | 18 |
 | Wins | 0 |
 | Losses | 18 |

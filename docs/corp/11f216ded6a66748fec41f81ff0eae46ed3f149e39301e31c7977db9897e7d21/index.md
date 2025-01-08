@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Trade
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1703011782
 ---
@@ -17,12 +17,12 @@ Advice, teaching and a friendly community aiming for victory, power a
 nd fame in the galaxy. Applications will be processed in around 24 ho
 urs and will accept new and old players. Founded 22/10/22
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1115)|
-| ELO Competitive | 1152 🔻  (1228)|
+| ELO Regular | 1150 🔻  (1116)|
+| ELO Competitive | 1152 🔻  (1229)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

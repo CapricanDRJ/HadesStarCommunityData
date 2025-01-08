@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​行星联合军
-description: W:7 L:10 D:0 Bonus ❌
+description: W:7 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1729688296
 ---
@@ -16,12 +16,12 @@ date: 1729688296
 觉悟者，恒幸福           Do you believe in gravity? Humans always go to heav
 en。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1110)|
-| ELO Competitive | 1173 🔻  (1058)|
+| ELO Regular | 1151 🔻  (1111)|
+| ELO Competitive | 1173 🔻  (1059)|
 | Total Matches | 17 |
 | Wins | 7 |
 | Losses | 10 |

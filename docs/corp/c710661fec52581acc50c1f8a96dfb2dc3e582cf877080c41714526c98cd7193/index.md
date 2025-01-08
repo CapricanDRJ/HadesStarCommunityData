@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eternal empire 
-description: W:7 L:15 D:0 Bonus ❌
+description: W:7 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1714808450
 ---
@@ -17,12 +17,12 @@ Welcome Eternal Empire, laid back take your time.. it's a game right.
 . I love White Stars, but getting a posse together's like pulling tee
 th.. so plz, a good show of hands & I'll start one 🖐️
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (1278)|
-| ELO Competitive | 1176 🔻  (1031)|
+| ELO Regular | 1102 🔻  (1279)|
+| ELO Competitive | 1176 🔻  (1032)|
 | Total Matches | 22 |
 | Wins | 7 |
 | Losses | 15 |

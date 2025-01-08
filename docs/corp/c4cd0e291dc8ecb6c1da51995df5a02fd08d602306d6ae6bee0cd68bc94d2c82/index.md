@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​USA Corp
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1711033947
 ---
@@ -18,12 +18,12 @@ ery weekend. We are a group of casual players who play at individual
 paces. Discord optional
 ```
 ### [Discord](https://discord.gg/qvXDRKy)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1125)|
-| ELO Competitive | 1147 🔻  (1244)|
+| ELO Regular | 1148 🔻  (1126)|
+| ELO Competitive | 1147 🔻  (1245)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​corporacion I.A
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1734829460
 ---
@@ -18,12 +18,12 @@ Unete a nosotros en esta larga travesía.             -Capital del Imp
 erio Pendejico- Discord: [discord url]
 ```
 ### [Discord](https://discord.gg/fRfYczjyuD)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1122)|
-| ELO Competitive | 1155 🔻  (1219)|
+| ELO Regular | 1149 🔻  (1123)|
+| ELO Competitive | 1155 🔻  (1220)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

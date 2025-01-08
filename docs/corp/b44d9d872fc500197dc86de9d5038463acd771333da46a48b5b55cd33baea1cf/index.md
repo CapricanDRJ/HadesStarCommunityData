@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:38 L:28 D:4 Bonus ✅
+description: W:38 L:28 D:4 Bonus ✅ 36%
 image: ./favicon.png
 date: 1736116514
 ---
@@ -21,7 +21,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 特别鸣谢：残月，可靠的同志
 >勿谈和白<
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

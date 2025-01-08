@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​JPR. Pretorians
-description: W:6 L:9 D:0 Bonus ❌
+description: W:6 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1710787868
 ---
@@ -17,11 +17,11 @@ date: 1710787868
 ions.🌟🌟level3. *(A)* lunar.(A) Ragnarok.Admiral S. AS lexxf. anawk.
 gateway
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1081)|
+| ELO Regular | 1155 🔻  (1082)|
 | ELO Competitive | 1218 🔻  (516)|
 | Total Matches | 15 |
 | Wins | 6 |

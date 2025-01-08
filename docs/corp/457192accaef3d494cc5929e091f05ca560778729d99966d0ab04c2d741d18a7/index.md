@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Эдельвейс
-description: W:0 L:3 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1701058584
 ---
@@ -19,12 +19,12 @@ date: 1701058584
 если ты безработный и не знаешь чем заняться, то мы всегда рады таким
  активным игрокам, как ты)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1077)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1156 🔻  (1078)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

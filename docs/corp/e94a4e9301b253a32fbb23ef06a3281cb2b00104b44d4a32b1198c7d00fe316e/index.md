@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​LCP
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1716990439
 ---
@@ -15,12 +15,12 @@ date: 1716990439
 ```
 ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (901)|
-| ELO Competitive | 1178 🔻  (1022)|
+| ELO Regular | 1174 🔻  (902)|
+| ELO Competitive | 1178 🔻  (1023)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

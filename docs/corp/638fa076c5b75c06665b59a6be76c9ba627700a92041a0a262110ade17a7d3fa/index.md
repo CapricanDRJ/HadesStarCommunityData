@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CDS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709942349
 ---
@@ -16,12 +16,12 @@ date: 1709942349
 Francophone International. Recherche joueurs pour étoiles sombres niv
 eau 7
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (781)|
-| ELO Competitive | 1185 🔻  (955)|
+| ELO Regular | 1185 🔻  (782)|
+| ELO Competitive | 1185 🔻  (956)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

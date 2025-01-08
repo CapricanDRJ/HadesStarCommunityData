@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Liasteria
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1710800150
 ---
@@ -16,11 +16,11 @@ date: 1710800150
 t.me/Librianets
 WechatID Librianets 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (653)|
+| ELO Regular | 1187 🔻  (654)|
 | ELO Competitive | 1190 🔻  (761)|
 | Total Matches | 1 |
 | Wins | 0 |

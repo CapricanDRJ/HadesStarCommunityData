@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Девчата
-description: W:3 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1724069137
 ---
@@ -20,7 +20,7 @@ date: 1724069137
 gals ❀
 ```
 ### [Discord](https://discord.gg/UD9E7M59W7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​МеГаКо
-description: W:18 L:17 D:0 Bonus ❌
+description: W:18 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1728664664
 ---
@@ -17,7 +17,7 @@ date: 1728664664
  Помощь в зачистке красных звёзд 1-6 уровней.
  Всё ради прогресса!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

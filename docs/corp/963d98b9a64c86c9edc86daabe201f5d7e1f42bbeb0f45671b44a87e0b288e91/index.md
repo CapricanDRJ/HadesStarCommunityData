@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Los Unidos 
-description: W:7 L:8 D:1 Bonus ❌
+description: W:7 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1714444916
 ---
@@ -16,11 +16,11 @@ date: 1714444916
 Русская корпорация ищет активных участников для развития и процветани
 я.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (658)|
+| ELO Regular | 1187 🔺  (659)|
 | ELO Competitive | 1217 🔺  (528)|
 | Total Matches | 16 |
 | Wins | 7 |

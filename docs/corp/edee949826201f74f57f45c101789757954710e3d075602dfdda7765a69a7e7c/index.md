@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:21 L:8 D:1 Bonus ❌
+description: W:21 L:8 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1731957387
 ---
@@ -18,7 +18,7 @@ eady white star Matches😎. For new players who wanna grow faster can
 also come aboard🙏. Thank you as you join us😘
 ```
 ### [Discord](https://discord.gg/T3BNxjbCU2)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

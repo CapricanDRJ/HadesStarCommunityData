@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dying stars
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709592586
 ---
@@ -16,11 +16,11 @@ date: 1709592586
 Will help new players. Laid back, no drama.
 Discord participation is mandatory. Join here: upznTnWWUf
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (651)|
+| ELO Regular | 1187 🔻  (652)|
 | ELO Competitive | 1189 🔻  (784)|
 | Total Matches | 1 |
 | Wins | 0 |

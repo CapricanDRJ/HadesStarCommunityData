@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​하데스 스타 코리아
-description: W:9 L:7 D:0 Bonus ❌
+description: W:9 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1711680863
 ---
@@ -15,7 +15,7 @@ date: 1711680863
 ```
 노장은 사실 죽어요
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

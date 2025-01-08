@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:9 L:5 D:0 Bonus ✅
+description: W:9 L:5 D:0 Bonus ✅ 32%
 image: ./favicon.png
 date: 1736087519
 ---
@@ -16,12 +16,12 @@ date: 1736087519
 欢迎我们的萌新 创造者仙女座 2024年8月9日 分团星系联盟 建设于2024年11月1日<br>分团 银河系星系 成立于2024年11月
 11日    <br>南极星联盟成员             请大家常驻！！！
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔻  (270)|
-| ELO Competitive | 1286 🔺  (304)|
+| ELO Competitive | 1286 🔺  (305)|
 | Total Matches | 14 |
 | Wins | 9 |
 | Losses | 5 |

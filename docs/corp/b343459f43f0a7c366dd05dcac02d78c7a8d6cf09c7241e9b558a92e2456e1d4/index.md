@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Flight
-description: W:25 L:84 D:1 Bonus ✅
+description: W:25 L:84 D:1 Bonus ✅ 46%
 image: ./favicon.png
 date: 1735885294
 ---
@@ -24,11 +24,11 @@ Trust * Loyalty
 
 “Busting Ours to kick Yours!”
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1012 🔻  (1354)|
+| ELO Regular | 1012 🔻  (1355)|
 | ELO Competitive | 1209 🔺  (598)|
 | Total Matches | 110 |
 | Wins | 25 |

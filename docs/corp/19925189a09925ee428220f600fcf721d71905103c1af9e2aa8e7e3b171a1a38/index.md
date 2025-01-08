@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​First Legion
-description: W:43 L:52 D:1 Bonus ❌
+description: W:43 L:52 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735001928
 ---
@@ -17,11 +17,11 @@ leave no man behind! join and we'll share the  fights!<br>Coordinate
 Red Star battles, with GMT. Weekly WS starting on wednesdays.<br><br>
 Sister corporations: TeddisaurusWrex, Armored Union
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1229)|
+| ELO Regular | 1121 🔻  (1230)|
 | ELO Competitive | 1274 🔻  (325)|
 | Total Matches | 96 |
 | Wins | 43 |

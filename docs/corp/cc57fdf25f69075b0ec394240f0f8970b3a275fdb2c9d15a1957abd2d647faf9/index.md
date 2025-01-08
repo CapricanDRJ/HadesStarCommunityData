@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Vertin's box
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1717941473
 ---
@@ -15,7 +15,7 @@ date: 1717941473
 ```
 ??
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

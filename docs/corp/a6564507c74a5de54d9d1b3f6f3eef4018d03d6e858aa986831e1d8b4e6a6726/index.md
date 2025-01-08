@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Neutro Corpo
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1713971404
 ---
@@ -21,12 +21,12 @@ La naissance d'un empire ! ❦︎
 
 AA2vSmDw ☠︎
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1026)|
-| ELO Competitive | 1163 🔻  (1160)|
+| ELO Regular | 1163 🔻  (1027)|
+| ELO Competitive | 1163 🔻  (1161)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

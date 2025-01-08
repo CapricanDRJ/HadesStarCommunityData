@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国星系舰队
-description: W:2 L:4 D:1 Bonus ❌
+description: W:2 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1704183140
 ---
@@ -15,11 +15,11 @@ date: 1704183140
 ```
 CORP COLONIZADA
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (897)|
+| ELO Regular | 1174 🔻  (898)|
 | ELO Competitive | 1201 🔻  (636)|
 | Total Matches | 7 |
 | Wins | 2 |

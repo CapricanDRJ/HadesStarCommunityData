@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StalkerUA 
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1701667744
 ---
@@ -15,12 +15,12 @@ date: 1701667744
 ```
 За сталкер, за Монолит!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (703)|
-| ELO Competitive | 1186 🔻  (892)|
+| ELO Regular | 1186 🔻  (704)|
+| ELO Competitive | 1186 🔻  (893)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

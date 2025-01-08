@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Atlas SLV-1
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1708399924
 ---
@@ -17,12 +17,12 @@ Welcome
 All I require is you be active and positive 
 No bullying 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (617)|
-| ELO Competitive | 1189 🔻  (791)|
+| ELO Regular | 1189 🔻  (618)|
+| ELO Competitive | 1189 🔻  (792)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

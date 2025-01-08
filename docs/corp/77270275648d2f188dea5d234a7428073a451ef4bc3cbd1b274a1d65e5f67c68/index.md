@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Final
-description: W:4 L:12 D:0 Bonus ❌
+description: W:4 L:12 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1736278917
 ---
@@ -21,12 +21,12 @@ orporation.
 Are you RS6+ & want to join?
 <color=blue>Discord: (YTaYrhy)</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1196)|
-| ELO Competitive | 1180 🔻  (1008)|
+| ELO Regular | 1130 🔻  (1197)|
+| ELO Competitive | 1180 🔻  (1009)|
 | Total Matches | 16 |
 | Wins | 4 |
 | Losses | 12 |

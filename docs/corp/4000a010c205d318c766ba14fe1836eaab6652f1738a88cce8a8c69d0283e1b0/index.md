@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Axiom
-description: W:88 L:39 D:0 Bonus ❌
+description: W:88 L:39 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1734901291
 ---
@@ -19,7 +19,7 @@ date: 1734901291
 [discord url]
 ```
 ### [Discord](https://discord.gg/CY4M2awSgS)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

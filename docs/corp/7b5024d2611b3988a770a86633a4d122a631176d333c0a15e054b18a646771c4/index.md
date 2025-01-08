@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​⚜NOVA⚜
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1702618360
 ---
@@ -18,12 +18,12 @@ date: 1702618360
 Неактив - кик. БЗ по воскресеньям. <b>Telegram @hs_NOVA.</b> Наличие 
 телеграма обязательно
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (878)|
-| ELO Competitive | 1175 🔻  (1038)|
+| ELO Regular | 1176 🔻  (879)|
+| ELO Competitive | 1175 🔻  (1039)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

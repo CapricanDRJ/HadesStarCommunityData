@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lacuna Academy
-description: W:15 L:2 D:0 Bonus ❌
+description: W:15 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1718228706
 ---
@@ -21,7 +21,7 @@ RS 7+ see Lacuna Holdings
 RS 8-11 see Lacuna Ind.
 ```
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

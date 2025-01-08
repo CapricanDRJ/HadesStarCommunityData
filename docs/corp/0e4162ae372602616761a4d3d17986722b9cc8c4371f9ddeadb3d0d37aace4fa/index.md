@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Grater U
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1728124618
 ---
@@ -16,7 +16,7 @@ date: 1728124618
 This is part of Grater T.Welcome the ones who are inactive and kicked
  by a bad guy called wx. Hope you guys a nice day
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

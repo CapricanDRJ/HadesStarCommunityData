@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StarControl
-description: W:31 L:12 D:0 Bonus ❌
+description: W:31 L:12 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1734806324
 ---
@@ -18,7 +18,7 @@ rs. Discord is required, please join us there before applying in game
 . RS8-11
 ```
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

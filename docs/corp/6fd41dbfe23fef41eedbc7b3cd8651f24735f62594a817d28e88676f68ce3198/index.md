@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Toxic
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1706031300
 ---
@@ -15,12 +15,12 @@ date: 1706031300
 ```
 not in use
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1171)|
-| ELO Competitive | 1142 🔻  (1267)|
+| ELO Regular | 1138 🔻  (1172)|
+| ELO Competitive | 1142 🔻  (1268)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

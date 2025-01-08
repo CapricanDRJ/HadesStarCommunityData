@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SpaceCowboys
-description: W:13 L:5 D:0 Bonus ❌
+description: W:13 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1709316439
 ---
@@ -17,12 +17,12 @@ This corp has moved to Mandaloians (corp), join us there. Discord lin
 k below.
 ```
 ### [Discord](https://discord.gg/JCufnsN57Y)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (179)|
-| ELO Competitive | 1297 🔻  (280)|
+| ELO Competitive | 1297 🔻  (281)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |

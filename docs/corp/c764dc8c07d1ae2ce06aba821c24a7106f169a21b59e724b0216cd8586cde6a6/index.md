@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​украина№1
-description: W:39 L:37 D:0 Bonus ✅
+description: W:39 L:37 D:0 Bonus ✅ 44%
 image: ./favicon.png
 date: 1736114561
 ---
@@ -18,7 +18,7 @@ date: 1736114561
 //t.me/ukraine1win. Гарної всім гри.
 ```
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |

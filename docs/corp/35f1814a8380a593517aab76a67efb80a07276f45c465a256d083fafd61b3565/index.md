@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WTF
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1712188114
 ---
@@ -15,7 +15,7 @@ date: 1712188114
 ```
 DGmS9c2b
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

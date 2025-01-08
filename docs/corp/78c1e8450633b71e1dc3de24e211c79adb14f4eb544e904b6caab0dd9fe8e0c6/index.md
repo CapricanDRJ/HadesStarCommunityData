@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​U.I.H
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1707314198
 ---
@@ -17,12 +17,12 @@ date: 1707314198
  uma aliança militar e econômica com o objetivo de unir impérios cont
 ra as forças <color=red>Cerberus</color>. Aceitamos todos.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1083)|
-| ELO Competitive | 1155 🔻  (1216)|
+| ELO Regular | 1155 🔻  (1084)|
+| ELO Competitive | 1155 🔻  (1217)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

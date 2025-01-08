@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OPA
-description: W:46 L:17 D:0 Bonus ✅
+description: W:46 L:17 D:0 Bonus ✅ 40%
 image: ./favicon.png
 date: 1736274109
 ---
@@ -19,7 +19,7 @@ Weekly white stars, new players welcome.
 Discord required : discord.gg/2RmfWZB777
 ```
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |

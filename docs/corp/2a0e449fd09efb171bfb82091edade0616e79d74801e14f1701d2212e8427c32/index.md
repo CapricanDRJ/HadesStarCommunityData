@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​R2D2
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1703244396
 ---
@@ -21,12 +21,12 @@ Wir freuen uns auf dich!
 [discord url]
 ```
 ### [Discord](https://discord.gg/UPTTtGQpTj)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (890)|
-| ELO Competitive | 1174 🔻  (1054)|
+| ELO Regular | 1175 🔻  (891)|
+| ELO Competitive | 1174 🔻  (1055)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

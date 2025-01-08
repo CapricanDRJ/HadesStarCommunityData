@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:27 L:15 D:1 Bonus ❌
+description: W:27 L:15 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735849842
 ---
@@ -16,7 +16,7 @@ date: 1735849842
 Have 401 K, dental, 0 days off, plenty of overtime, child labor recom
 mended, & remember you are expendable, we love you
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corporation
-description: W:16 L:4 D:0 Bonus ❌
+description: W:16 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1723404717
 ---
@@ -16,7 +16,7 @@ date: 1723404717
 Active, tight-knit, fun and friendly. <b>Part of the Space Pals group
 </b> Discord mandatory. Click the link 'Corporation Discord' below.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

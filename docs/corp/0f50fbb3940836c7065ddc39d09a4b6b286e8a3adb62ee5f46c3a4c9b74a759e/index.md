@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Mirror Co
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1702214121
 ---
@@ -19,12 +19,12 @@ date: 1702214121
 Find us on Discord:<b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (709)|
-| ELO Competitive | 1186 🔻  (894)|
+| ELO Regular | 1186 🔻  (710)|
+| ELO Competitive | 1186 🔻  (895)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

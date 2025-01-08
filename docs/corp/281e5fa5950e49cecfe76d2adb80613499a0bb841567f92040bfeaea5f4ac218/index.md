@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quin Armarda
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1733237806
 ---
@@ -15,12 +15,12 @@ date: 1733237806
 ```
 Hauptstreitmacht der Quin Armarda
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1041)|
-| ELO Competitive | 1166 🔻  (1143)|
+| ELO Regular | 1160 🔻  (1042)|
+| ELO Competitive | 1166 🔻  (1144)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

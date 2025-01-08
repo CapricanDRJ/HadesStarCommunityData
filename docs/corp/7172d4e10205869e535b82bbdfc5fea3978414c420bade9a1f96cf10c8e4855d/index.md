@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​지고받자
-description: W:0 L:9 D:0 Bonus ❌
+description: W:0 L:9 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1703129890
 ---
@@ -15,12 +15,12 @@ date: 1703129890
 ```
   Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1295)|
-| ELO Competitive | 1124 🔻  (1307)|
+| ELO Regular | 1090 🔻  (1296)|
+| ELO Competitive | 1124 🔻  (1308)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 9 |

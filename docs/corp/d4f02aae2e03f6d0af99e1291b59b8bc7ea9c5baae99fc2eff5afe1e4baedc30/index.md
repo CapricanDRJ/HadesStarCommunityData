@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​日月星辰
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1733433826
 ---
@@ -17,12 +17,12 @@ date: 1733433826
                          <#00FF00>QQ群：910734770                      
                                    <#00RFFF>尽量进群，方便沟通
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1057)|
-| ELO Competitive | 1187 🔻  (826)|
+| ELO Regular | 1158 🔻  (1058)|
+| ELO Competitive | 1187 🔻  (827)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

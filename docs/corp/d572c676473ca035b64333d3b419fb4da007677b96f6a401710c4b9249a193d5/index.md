@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Укр інтроверти
-description: W:1 L:8 D:0 Bonus ❌
+description: W:1 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1730512585
 ---
@@ -16,12 +16,12 @@ date: 1730512585
 лише інтроверти і лише живі, серед українських- найдоступніший для те
 бе, якщо ти адекват (прийом в п'ятницю)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1237)|
-| ELO Competitive | 1127 🔻  (1304)|
+| ELO Regular | 1119 🔻  (1238)|
+| ELO Competitive | 1127 🔻  (1305)|
 | Total Matches | 9 |
 | Wins | 1 |
 | Losses | 8 |

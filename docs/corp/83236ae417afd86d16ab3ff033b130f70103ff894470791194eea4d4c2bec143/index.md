@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Belters
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1699696974
 ---
@@ -17,12 +17,12 @@ Looking for active and energetic players who want to have fun and gro
 w. Corp RS encouraged and frequent WS. 
 PhNPS5MyUc
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (703)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1186 🔻  (704)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Suns
-description: W:15 L:19 D:0 Bonus ❌
+description: W:15 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734561434
 ---
@@ -15,11 +15,11 @@ date: 1734561434
 ```
 Home to all as long as you are willing to contribute to our growth 🤝
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (908)|
+| ELO Regular | 1173 🔻  (909)|
 | ELO Competitive | 1214 🔻  (569)|
 | Total Matches | 34 |
 | Wins | 15 |

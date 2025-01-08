@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Order
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1732105819
 ---
@@ -15,12 +15,12 @@ date: 1732105819
 ```
 Surrender to The Order, belive to The Order, take part in The Order.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (996)|
-| ELO Competitive | 1169 🔻  (1118)|
+| ELO Regular | 1167 🔻  (997)|
+| ELO Competitive | 1169 🔻  (1119)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

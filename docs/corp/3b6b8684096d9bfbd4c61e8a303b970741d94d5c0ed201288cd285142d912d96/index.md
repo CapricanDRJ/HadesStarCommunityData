@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tau Alpha
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1706539713
 ---
@@ -19,12 +19,12 @@ z. B. RR Hilfe etc.!
 Für WZ möchten wir die Teilnahme im Discord!
 pUXrxxt
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (826)|
-| ELO Competitive | 1183 🔻  (983)|
+| ELO Regular | 1183 🔻  (827)|
+| ELO Competitive | 1183 🔻  (984)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

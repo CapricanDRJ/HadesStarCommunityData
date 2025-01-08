@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Спутник
-description: W:36 L:12 D:0 Bonus ❌
+description: W:36 L:12 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1735362489
 ---
@@ -21,7 +21,7 @@ t.me/CorpSputnik
 Сюда заходить на кз для помощи.
 Телеграмм: t.me/soyuz_academy
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

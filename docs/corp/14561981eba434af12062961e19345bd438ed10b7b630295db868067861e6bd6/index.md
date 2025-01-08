@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Russia 
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1711683867
 ---
@@ -22,12 +22,12 @@ date: 1711683867
 [discord url]
 ```
 ### [Discord](https://discord.gg/PuhySY4)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (801)|
-| ELO Competitive | 1186 🔻  (855)|
+| ELO Regular | 1184 🔻  (802)|
+| ELO Competitive | 1186 🔻  (856)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

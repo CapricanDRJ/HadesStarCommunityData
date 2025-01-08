@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​春城阳关
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1708001005
 ---
@@ -16,12 +16,12 @@ date: 1708001005
 成立时间：2022.5.17 欢迎各位萌新大佬加入，我们基本上都是学生党，很自由。首席:HYX       有事请找：干事星空之源    
 mars JHX大帅哥，或者首席小号九尘，干事萨卡班甲鱼。没有任何要求，只要能打白就行。黑名单：暂无     友盟：德意志帝国阿尔法分部
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (643)|
-| ELO Competitive | 1187 🔻  (813)|
+| ELO Regular | 1187 🔻  (644)|
+| ELO Competitive | 1187 🔻  (814)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Terranova
-description: W:11 L:46 D:0 Bonus ❌
+description: W:11 L:46 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1735384721
 ---
@@ -16,11 +16,11 @@ date: 1735384721
 <b>Terranova</b>, Gründungsmitglied der <b>Tartaros Armada</b>
 ```
 ### [Discord](https://discord.gg/SUVSGGYGz2)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1301)|
+| ELO Regular | 1087 🔻  (1302)|
 | ELO Competitive | 1220 🔻  (497)|
 | Total Matches | 57 |
 | Wins | 11 |

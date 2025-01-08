@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BLOK EKIPA
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1711701595
 ---
@@ -22,12 +22,12 @@ Bób, humus, włoszczyzna... BLOK EKIPA
 
 no i fajnie no i cześć  ^^ witamy!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1130)|
-| ELO Competitive | 1153 🔻  (1224)|
+| ELO Regular | 1147 🔻  (1131)|
+| ELO Competitive | 1153 🔻  (1225)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

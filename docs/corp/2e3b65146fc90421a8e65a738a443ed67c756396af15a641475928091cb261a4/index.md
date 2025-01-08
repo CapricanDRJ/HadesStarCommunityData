@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UK Armada
-description: W:4 L:7 D:1 Bonus ❌
+description: W:4 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1731848606
 ---
@@ -18,12 +18,12 @@ r.
 
 Find us on discord: u2VGhGRrFq
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1080)|
-| ELO Competitive | 1187 🔻  (822)|
+| ELO Regular | 1155 🔻  (1081)|
+| ELO Competitive | 1187 🔻  (823)|
 | Total Matches | 12 |
 | Wins | 4 |
 | Losses | 7 |

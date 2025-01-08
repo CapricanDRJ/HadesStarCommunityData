@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​НИФИГАСЕБЕ
-description: W:8 L:25 D:0 Bonus ❌
+description: W:8 L:25 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1732031941
 ---
@@ -16,12 +16,12 @@ date: 1732031941
 <color="blue">СИНЬКА ЗЛО!</color>  <color="green">ПЕЙ БОРЖОМИ!</color
 >  <color="red">ГАЛАКТИКА БУДЕТ НАША!✊✊</color> t.me/NifigasebeHS
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1084 🔻  (1303)|
-| ELO Competitive | 1105 🔻  (1329)|
+| ELO Regular | 1084 🔻  (1304)|
+| ELO Competitive | 1105 🔻  (1330)|
 | Total Matches | 33 |
 | Wins | 8 |
 | Losses | 25 |

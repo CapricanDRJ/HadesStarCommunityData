@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Jesus Followers
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1731752750
 ---
@@ -17,12 +17,12 @@ Therefore do not be ashamed of the testimony about our Lord, nor of m
 e his prisoner, but share in suffering for the gospel by the power of
  God, 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1061)|
-| ELO Competitive | 1167 🔻  (1134)|
+| ELO Regular | 1158 🔻  (1062)|
+| ELO Competitive | 1167 🔻  (1135)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

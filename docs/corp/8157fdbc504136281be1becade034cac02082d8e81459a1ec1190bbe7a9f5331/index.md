@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Goblin Squad
-description: W:4 L:6 D:0 Bonus ❌
+description: W:4 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1724334192
 ---
@@ -15,11 +15,11 @@ date: 1724334192
 ```
 Friend Group for beginners
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1004)|
+| ELO Regular | 1165 🔻  (1005)|
 | ELO Competitive | 1210 🔻  (592)|
 | Total Matches | 10 |
 | Wins | 4 |

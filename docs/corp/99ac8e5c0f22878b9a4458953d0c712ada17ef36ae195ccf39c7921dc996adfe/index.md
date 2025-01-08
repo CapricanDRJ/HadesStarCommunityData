@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZION
-description: W:28 L:23 D:0 Bonus ❌
+description: W:28 L:23 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1731559503
 ---
@@ -24,12 +24,12 @@ date: 1731559503
 
 ```
 ### [Discord](https://discord.gg/37KaujZtkU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (484)|
-| ELO Competitive | 1290 🔻  (297)|
+| ELO Competitive | 1290 🔻  (298)|
 | Total Matches | 51 |
 | Wins | 28 |
 | Losses | 23 |

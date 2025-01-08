@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dumpster Fire
-description: W:23 L:45 D:0 Bonus ✅
+description: W:23 L:45 D:0 Bonus ✅ 40%
 image: ./favicon.png
 date: 1735930524
 ---
@@ -22,11 +22,11 @@ Weekly Casual
 Discord-Free White Star
 ```
 ### [Discord](https://discord.gg/FCWdtswtP5)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔺  (1232)|
+| ELO Regular | 1121 🔺  (1233)|
 | ELO Competitive | 1219 🔺  (508)|
 | Total Matches | 68 |
 | Wins | 23 |

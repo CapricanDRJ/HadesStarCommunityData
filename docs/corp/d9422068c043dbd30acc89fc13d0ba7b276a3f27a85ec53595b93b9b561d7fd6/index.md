@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Killers from Ua
-description: W:6 L:4 D:0 Bonus ❌
+description: W:6 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1730115015
 ---
@@ -19,7 +19,7 @@ date: 1730115015
 thfx8WYSru
 є Telegram 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

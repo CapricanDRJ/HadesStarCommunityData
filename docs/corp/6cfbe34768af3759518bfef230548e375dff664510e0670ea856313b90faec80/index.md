@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Goa'uld
-description: W:0 L:1 D:2 Bonus ❌
+description: W:0 L:1 D:2 Bonus ❌ 1%
 image: ./favicon.png
 date: 1715999227
 ---
@@ -15,12 +15,12 @@ date: 1715999227
 ```
 De chill aprendiendo
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (844)|
-| ELO Competitive | 1182 🔻  (996)|
+| ELO Regular | 1181 🔻  (845)|
+| ELO Competitive | 1182 🔻  (997)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 1 |

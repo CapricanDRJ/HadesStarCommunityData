@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corp. Estelar 2
-description: W:12 L:4 D:0 Bonus ❌
+description: W:12 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1718937188
 ---
@@ -17,12 +17,12 @@ date: 1718937188
 ze=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
 ```
 ### [Discord](https://discord.gg/YFqE6eAq43)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (181)|
-| ELO Competitive | 1298 🔻  (276)|
+| ELO Competitive | 1298 🔻  (277)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

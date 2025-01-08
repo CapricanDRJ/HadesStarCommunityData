@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Uchiha
-description: W:3 L:12 D:1 Bonus ❌
+description: W:3 L:12 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1716917436
 ---
@@ -15,12 +15,12 @@ date: 1716917436
 ```
 New and old welcome have fun discord is.     38UnuWwp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔻  (1277)|
-| ELO Competitive | 1181 🔻  (1000)|
+| ELO Regular | 1103 🔻  (1278)|
+| ELO Competitive | 1181 🔻  (1001)|
 | Total Matches | 16 |
 | Wins | 3 |
 | Losses | 12 |

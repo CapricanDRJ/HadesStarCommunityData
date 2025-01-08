@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1705985522
 ---
@@ -15,11 +15,11 @@ date: 1705985522
 ```
 dead corp 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1064)|
+| ELO Regular | 1158 🔻  (1065)|
 | ELO Competitive | 1158 🔻  (1193)|
 | Total Matches | 3 |
 | Wins | 0 |

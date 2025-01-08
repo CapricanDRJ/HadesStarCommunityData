@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dreckiger Rest
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1700297178
 ---
@@ -22,12 +22,12 @@ ftuA2DGDR4
 
 03/2023
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (928)|
-| ELO Competitive | 1172 🔻  (1077)|
+| ELO Regular | 1172 🔻  (929)|
+| ELO Competitive | 1172 🔻  (1078)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

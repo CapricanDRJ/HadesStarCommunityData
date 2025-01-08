@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rogue Hero's
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1706926239
 ---
@@ -15,7 +15,7 @@ date: 1706926239
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

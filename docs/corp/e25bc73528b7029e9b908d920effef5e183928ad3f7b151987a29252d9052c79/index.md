@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​phoenix clan
-description: W:4 L:1 D:0 Bonus ❌
+description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1708438086
 ---
@@ -16,7 +16,7 @@ date: 1708438086
 join to chill, get help with red stars, or help us run white stars. d
 iscord required.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

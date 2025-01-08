@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FoxTale
-description: W:3 L:5 D:1 Bonus ❌
+description: W:3 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735333050
 ---
@@ -19,11 +19,11 @@ WS only: Opt in to scan, only if you are willing to sacrifice 1 battl
 eship and 1 support ship for 5 days.
 The Corporation's Discord = w2HZf2cwc2
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (891)|
+| ELO Regular | 1175 🔻  (892)|
 | ELO Competitive | 1190 🔻  (770)|
 | Total Matches | 9 |
 | Wins | 3 |

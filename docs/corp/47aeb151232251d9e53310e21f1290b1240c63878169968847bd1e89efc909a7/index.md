@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:33 L:21 D:3 Bonus ❌
+description: W:33 L:21 D:3 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735592337
 ---
@@ -16,7 +16,7 @@ date: 1735592337
 Poggy Rockers in the house tonight
 ```
 ### [Discord](https://discord.gg/XmASs2XvFW)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

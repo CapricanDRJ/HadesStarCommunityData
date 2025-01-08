@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GalaxyNova
-description: W:8 L:3 D:0 Bonus ❌
+description: W:8 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1726055183
 ---
@@ -18,12 +18,12 @@ but no being mean and excluding... Aires adds: (unless in a blue star
  :) <-- evil smile White/red star battling galore Dis:Rp9mSNP
 ```
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔻  (215)|
-| ELO Competitive | 1290 🔻  (299)|
+| ELO Competitive | 1290 🔻  (300)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 3 |

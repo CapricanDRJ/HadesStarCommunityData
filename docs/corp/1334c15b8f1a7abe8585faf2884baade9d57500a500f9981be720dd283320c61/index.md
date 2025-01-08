@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ComInterns
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1718905637
 ---
@@ -15,12 +15,12 @@ date: 1718905637
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (624)|
-| ELO Competitive | 1189 🔻  (788)|
+| ELO Regular | 1188 🔻  (625)|
+| ELO Competitive | 1189 🔻  (789)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

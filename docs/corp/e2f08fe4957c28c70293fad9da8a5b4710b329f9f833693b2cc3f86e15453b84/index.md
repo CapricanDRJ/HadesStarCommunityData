@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Assasins bees
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1714611048
 ---
@@ -16,7 +16,7 @@ date: 1714611048
 Único requisito: Hablar español
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

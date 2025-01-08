@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Star llc.
-description: W:35 L:20 D:0 Bonus ❌
+description: W:35 L:20 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735762400
 ---
@@ -17,7 +17,7 @@ Black Star llc corp a friendly place to hangout and grow. Join Discor
 d & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star l
 lc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

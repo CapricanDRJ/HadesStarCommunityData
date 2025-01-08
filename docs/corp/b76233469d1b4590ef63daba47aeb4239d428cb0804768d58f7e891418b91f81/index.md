@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cerulean Nebula
-description: W:14 L:10 D:0 Bonus ❌
+description: W:14 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1716738979
 ---
@@ -18,12 +18,12 @@ n , we run rs, ws and we are democratic. Join our discord - most of o
 ur organization is there, use the link below                  
 ```
 ### [Discord](https://discord.gg/tXs82nVf99)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (257)|
-| ELO Competitive | 1294 🔺  (286)|
+| ELO Competitive | 1294 🔺  (287)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

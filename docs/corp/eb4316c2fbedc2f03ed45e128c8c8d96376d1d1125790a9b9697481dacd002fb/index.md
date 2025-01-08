@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​湖心亭看雪
-description: W:2 L:19 D:2 Bonus ❌
+description: W:2 L:19 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1719390049
 ---
@@ -17,12 +17,12 @@ date: 1719390049
               群qq1067984316                白星，尽量好好打，有啥出啥             
 warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1350)|
-| ELO Competitive | 1092 🔻  (1342)|
+| ELO Regular | 1016 🔻  (1351)|
+| ELO Competitive | 1092 🔻  (1343)|
 | Total Matches | 23 |
 | Wins | 2 |
 | Losses | 19 |

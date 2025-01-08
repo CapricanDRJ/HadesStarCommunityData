@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WHITE NOVA
-description: W:2 L:5 D:0 Bonus ❌
+description: W:2 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1731379810
 ---
@@ -17,12 +17,12 @@ BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nue
 vos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA C
 ORPORACIÓN   • MÉXICO INFINITO 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1097)|
-| ELO Competitive | 1156 🔻  (1215)|
+| ELO Regular | 1154 🔻  (1098)|
+| ELO Competitive | 1156 🔻  (1216)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 5 |

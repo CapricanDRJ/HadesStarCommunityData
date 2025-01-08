@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第三舰队
-description: W:2 L:2 D:0 Bonus ❌
+description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1729596634
 ---
@@ -20,7 +20,7 @@ date: 1729596634
 盟团:太阳系联邦
 企鹅（Q）群:<a>865904780</a>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

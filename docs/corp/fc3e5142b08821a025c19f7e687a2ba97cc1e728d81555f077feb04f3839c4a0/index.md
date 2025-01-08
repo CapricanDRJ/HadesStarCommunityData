@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​柯伊伯带
-description: W:77 L:19 D:1 Bonus ❌
+description: W:77 L:19 D:1 Bonus ❌ 13%
 image: ./favicon.png
 date: 1736293043
 ---
@@ -18,7 +18,7 @@ date: 1736293043
 0</color>
 ```
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

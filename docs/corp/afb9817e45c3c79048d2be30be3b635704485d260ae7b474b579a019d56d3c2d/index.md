@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙银河帝国
-description: W:23 L:13 D:3 Bonus ❌
+description: W:23 L:13 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1723819115
 ---
@@ -17,11 +17,11 @@ date: 1723819115
 量每天上线；较活跃可升高成，7天不上线起飞，等级超过85级升干事 大小号同级。<color=red>大家请文明用语。<color=gree
 n>加入本团的人请加企鹅群834525007<color=yellow>不活跃不参与白星<size=500>捐旗舰二
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔻  (164)|
+| ELO Regular | 1300 🔻  (165)|
 | ELO Competitive | 1371 🔻  (170)|
 | Total Matches | 39 |
 | Wins | 23 |

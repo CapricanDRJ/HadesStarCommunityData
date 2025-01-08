@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:9 L:2 D:1 Bonus ✅
+description: W:9 L:2 D:1 Bonus ✅ 32%
 image: ./favicon.png
 date: 1736179458
 ---
@@ -15,12 +15,12 @@ date: 1736179458
 ```
 Looking for members. Come grow with us!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (196)|
-| ELO Competitive | 1282 🔺  (308)|
+| ELO Regular | 1277 🔺  (197)|
+| ELO Competitive | 1282 🔺  (309)|
 | Total Matches | 12 |
 | Wins | 9 |
 | Losses | 2 |

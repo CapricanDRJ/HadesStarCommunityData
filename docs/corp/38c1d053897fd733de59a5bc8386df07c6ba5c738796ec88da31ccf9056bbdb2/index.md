@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​knights abyss
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1712311014
 ---
@@ -16,7 +16,7 @@ date: 1712311014
 cooperate with each other and crush the competition, be helpful and s
 imply put don't be a dick >.>(rs3+ required)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

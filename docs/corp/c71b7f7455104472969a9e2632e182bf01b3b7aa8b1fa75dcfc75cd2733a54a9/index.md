@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新收留所
-description: W:2 L:2 D:2 Bonus ❌
+description: W:2 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
 date: 1708678484
 ---
@@ -17,7 +17,7 @@ date: 1708678484
 才能打白   2.不能骂人说脏话‘否则踢出。注：以上规则可由首席’一只王小花‘、有人建外交吗修改。有人建外交吗供应1到5级神器。残月已请假
 ，大家尽快建白扫          欢迎各位加入我们，这里将是您在太空中最温暖的家！大家有星币的就捐吧‘🙏🙏🙏
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

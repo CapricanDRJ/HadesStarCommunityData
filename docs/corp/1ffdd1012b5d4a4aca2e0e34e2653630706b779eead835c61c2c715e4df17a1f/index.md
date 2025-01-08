@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Starsailors
-description: W:21 L:6 D:0 Bonus ❌
+description: W:21 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1718995794
 ---
@@ -20,7 +20,7 @@ ntact us on Discord prior to joining.
 
 ```
 ### [Discord](https://discord.gg/jrqyXc8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

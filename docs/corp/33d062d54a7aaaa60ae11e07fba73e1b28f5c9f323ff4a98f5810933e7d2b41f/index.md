@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​oen
-description: W:6 L:1 D:1 Bonus ❌
+description: W:6 L:1 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1734481505
 ---
@@ -17,12 +17,12 @@ Bienvenido/a a la     organización espacial multiestelar, tenemos dis
 cord 
 ```
 ### [Discord](https://discord.gg/bRJjJ7Xr6p)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔺  (221)|
-| ELO Competitive | 1280 🔺  (315)|
+| ELO Competitive | 1280 🔺  (316)|
 | Total Matches | 8 |
 | Wins | 6 |
 | Losses | 1 |

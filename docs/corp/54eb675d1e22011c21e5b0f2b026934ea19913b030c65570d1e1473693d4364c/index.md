@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​墨痕空域
-description: W:40 L:42 D:1 Bonus ✅
+description: W:40 L:42 D:1 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736268098
 ---
@@ -16,11 +16,11 @@ date: 1736268098
 <size=51><#00FFFF>墨痕集团第一主团，</size></color>本团为北极星联盟成员，Q群：796512160    
   欢迎各个等级玩家来参与<#ff6666>活跃玩家请移步盟团:星落苑
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔺  (1279)|
+| ELO Regular | 1102 🔺  (1280)|
 | ELO Competitive | 1354 🔺  (186)|
 | Total Matches | 83 |
 | Wins | 40 |

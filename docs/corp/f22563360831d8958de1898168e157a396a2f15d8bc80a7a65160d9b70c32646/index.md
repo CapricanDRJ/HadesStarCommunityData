@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Three Rivers
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1701516567
 ---
@@ -16,12 +16,12 @@ date: 1701516567
 Looking for active players with personality. We have a Discord server
  with no mandatory participation.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (671)|
-| ELO Competitive | 1186 🔻  (848)|
+| ELO Regular | 1186 🔻  (672)|
+| ELO Competitive | 1186 🔻  (849)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

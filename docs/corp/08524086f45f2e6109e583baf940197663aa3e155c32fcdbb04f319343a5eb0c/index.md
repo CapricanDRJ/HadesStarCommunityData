@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Looping
-description: W:29 L:26 D:0 Bonus ❌
+description: W:29 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735927067
 ---
@@ -17,7 +17,7 @@ Toi aussi viens evènementialiser un bénéfice collaboratif dans notre
 kick-off d'idéation de projet consultative du phallus de Fred
 ```
 ### [Discord](https://discord.gg/tdyuYBQ5xs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

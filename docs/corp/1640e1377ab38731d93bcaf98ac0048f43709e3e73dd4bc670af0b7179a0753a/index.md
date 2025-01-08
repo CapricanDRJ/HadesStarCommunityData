@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​遨游星空
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1727398932
 ---
@@ -20,12 +20,12 @@ date: 1727398932
 discord：BQkbAHaGj4
 <size=64><color=red>如有意向参加白星可加入q群并前往分盟</color></size>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (970)|
-| ELO Competitive | 1171 🔻  (1104)|
+| ELO Regular | 1170 🔻  (971)|
+| ELO Competitive | 1171 🔻  (1105)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

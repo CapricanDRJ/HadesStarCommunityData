@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Moon Catchers
-description: W:13 L:20 D:1 Bonus ❌
+description: W:13 L:20 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1726142631
 ---
@@ -17,12 +17,12 @@ Casual Corp looking for like minded players. Discord is optional. Wee
 kly White Star with searches starting on Wednesdays. We have 1-2 open
  spots on our White Star group. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1251)|
-| ELO Competitive | 1155 🔻  (1218)|
+| ELO Regular | 1115 🔻  (1252)|
+| ELO Competitive | 1155 🔻  (1219)|
 | Total Matches | 34 |
 | Wins | 13 |
 | Losses | 20 |

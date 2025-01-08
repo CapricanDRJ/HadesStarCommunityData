@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Failures
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1724567103
 ---
@@ -16,12 +16,12 @@ date: 1724567103
 Lesbians and Gaytelmen, Welcome to the FAILURES!!!
 ```
 ### [Discord](https://discord.gg/FAILURES)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1013)|
-| ELO Competitive | 1183 🔻  (988)|
+| ELO Regular | 1165 🔻  (1014)|
+| ELO Competitive | 1183 🔻  (989)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

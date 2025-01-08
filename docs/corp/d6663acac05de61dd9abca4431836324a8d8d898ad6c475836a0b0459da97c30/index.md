@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lolis Corp
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1706764255
 ---
@@ -18,12 +18,12 @@ I fight for honor and glory
 no matter how strong the enemy is
 mastery wins</color></size></b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (935)|
-| ELO Competitive | 1172 🔻  (1084)|
+| ELO Regular | 1172 🔻  (936)|
+| ELO Competitive | 1172 🔻  (1085)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

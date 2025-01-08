@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:17 L:10 D:0 Bonus ❌
+description: W:17 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1726656172
 ---
@@ -16,11 +16,11 @@ date: 1726656172
 <color=red><u><b><size=150>勿谈和白，不可以骂人</b> </u></size></color><br><col
 or=#ffff55>STRVS233~</color><br>KOOK:[discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔻  (201)|
+| ELO Regular | 1276 🔻  (202)|
 | ELO Competitive | 1310 🔻  (252)|
 | Total Matches | 27 |
 | Wins | 17 |

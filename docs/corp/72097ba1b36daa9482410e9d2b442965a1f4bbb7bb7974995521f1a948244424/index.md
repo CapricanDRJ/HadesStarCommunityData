@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​八月政府
-description: W:5 L:28 D:1 Bonus ❌
+description: W:5 L:28 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735482671
 ---
@@ -15,12 +15,12 @@ date: 1735482671
 ```
 求む魔導師　至難の戦場　わずかな報酬　剣林弾雨の暗い日々　耐え難い危険　生還の保証なし　生還の暁には名誉と賞賛を得ると
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1062 🔺  (1326)|
-| ELO Competitive | 1112 🔺  (1324)|
+| ELO Regular | 1062 🔺  (1327)|
+| ELO Competitive | 1112 🔺  (1325)|
 | Total Matches | 34 |
 | Wins | 5 |
 | Losses | 28 |

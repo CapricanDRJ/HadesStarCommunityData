@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:8 L:26 D:0 Bonus ✅
+description: W:8 L:26 D:0 Bonus ✅ 32%
 image: ./favicon.png
 date: 1735962820
 ---
@@ -17,12 +17,12 @@ date: 1735962820
 席QQ群：756986132 如果敌人发起进攻，就向敌人运输船舰进攻。禁止开启允许旁观。禁止私自动旗舰。没事不要打敌人。星火协会成员，〈b
 r〉南极星联盟成员
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1078 🔺  (1311)|
-| ELO Competitive | 1138 🔺  (1280)|
+| ELO Regular | 1078 🔺  (1312)|
+| ELO Competitive | 1138 🔺  (1281)|
 | Total Matches | 34 |
 | Wins | 8 |
 | Losses | 26 |

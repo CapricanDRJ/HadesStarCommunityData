@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Darkest Hour
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1725453598
 ---
@@ -18,11 +18,11 @@ date: 1725453598
 • “Line” app for chat is helpful to better communicate w/ leaders
 • Kicks are likely after a week of inactivity, w/out prior notice
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (773)|
+| ELO Regular | 1185 🔻  (774)|
 | ELO Competitive | 1198 🔻  (678)|
 | Total Matches | 3 |
 | Wins | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hyperion Radius
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1700089470
 ---
@@ -20,12 +20,12 @@ WS player: <color="#ffea4a">discord required</color>
 established '18
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (814)|
-| ELO Competitive | 1184 🔻  (964)|
+| ELO Regular | 1184 🔻  (815)|
+| ELO Competitive | 1184 🔻  (965)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

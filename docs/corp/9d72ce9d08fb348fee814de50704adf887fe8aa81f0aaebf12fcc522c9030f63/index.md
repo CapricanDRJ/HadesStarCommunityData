@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Феникс 
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1700256910
 ---
@@ -20,7 +20,7 @@ Discord: [discord url]
 Во время бз прием строго ограничен!
 ```
 ### [Discord](https://discord.gg/Hb4ncRxnAx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

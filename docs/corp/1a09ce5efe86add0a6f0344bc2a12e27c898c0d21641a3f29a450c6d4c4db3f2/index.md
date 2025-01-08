@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Helion Prime
-description: W:11 L:6 D:0 Bonus ❌
+description: W:11 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1728870811
 ---
@@ -18,11 +18,11 @@ amos novos integrantes, peça para colocarem no grupo de WhatsApp aqui
  no chat.
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (163)|
+| ELO Regular | 1300 🔺  (164)|
 | ELO Competitive | 1341 🔺  (198)|
 | Total Matches | 17 |
 | Wins | 11 |

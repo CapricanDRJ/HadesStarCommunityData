@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​神仙'
-description: W:8 L:11 D:3 Bonus ❌
+description: W:8 L:11 D:3 Bonus ❌ 6%
 image: ./favicon.png
 date: 1710327537
 ---
@@ -16,11 +16,11 @@ date: 1710327537
 欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要
 给旗舰捐钱。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1102)|
+| ELO Regular | 1153 🔻  (1103)|
 | ELO Competitive | 1198 🔻  (675)|
 | Total Matches | 22 |
 | Wins | 8 |

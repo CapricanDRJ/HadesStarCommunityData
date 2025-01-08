@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​六大天神
-description: W:105 L:56 D:2 Bonus ✅
+description: W:105 L:56 D:2 Bonus ✅ 48%
 image: ./favicon.png
 date: 1736122974
 ---
@@ -23,7 +23,7 @@ date: 1736122974
 某某干事：没了
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

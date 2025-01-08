@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stars Radiant
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1700504921
 ---
@@ -17,12 +17,12 @@ Founded by a few friends whose corp died. Frequent RS and an active c
 ommunity. Join today :D
 ```
 ### [Discord](https://discord.gg/uGvHyGs3RZ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (735)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1185 🔻  (736)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

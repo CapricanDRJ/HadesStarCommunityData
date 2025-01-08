@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1719654813
 ---
@@ -19,12 +19,12 @@ We are recruiting and helping active members.
 Member of Space Ghost Alliance (GE, TF, RST, BB, SJ, USA)
 Discord: fYBf2GNU7y
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1183)|
-| ELO Competitive | 1153 🔻  (1225)|
+| ELO Regular | 1135 🔻  (1184)|
+| ELO Competitive | 1153 🔻  (1226)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

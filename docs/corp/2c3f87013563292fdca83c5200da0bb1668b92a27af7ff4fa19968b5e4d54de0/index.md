@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Continuance
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1704793788
 ---
@@ -16,12 +16,12 @@ date: 1704793788
 Sister corp of Continuum. 
 ```
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (931)|
-| ELO Competitive | 1172 🔻  (1075)|
+| ELO Regular | 1172 🔻  (932)|
+| ELO Competitive | 1172 🔻  (1076)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

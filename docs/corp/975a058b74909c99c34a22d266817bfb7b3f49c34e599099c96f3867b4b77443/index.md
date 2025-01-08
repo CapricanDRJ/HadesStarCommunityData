@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Firestarters
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1712762885
 ---
@@ -17,12 +17,12 @@ A friendly group dedicated to working together to advance in this gam
 e. 
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (911)|
-| ELO Competitive | 1173 🔻  (1061)|
+| ELO Regular | 1173 🔻  (912)|
+| ELO Competitive | 1173 🔻  (1062)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

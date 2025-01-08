@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Todesschwadron
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1704688043
 ---
@@ -19,7 +19,7 @@ itärischen Stärke in der Galaxis gefürchtet.
 
 ```
 ### [Discord](https://discord.gg/fPPpCktmhu)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

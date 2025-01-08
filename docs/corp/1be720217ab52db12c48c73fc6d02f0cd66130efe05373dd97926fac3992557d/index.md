@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UAGC
-description: W:38 L:28 D:0 Bonus ✅
+description: W:38 L:28 D:0 Bonus ✅ 48%
 image: ./favicon.png
 date: 1735933979
 ---
@@ -17,7 +17,7 @@ date: 1735933979
  укр. корпорацій                      https://t.me/+6t52R1bJ8AswYzVi.
  Чат тг UAGC https://t.me/+E3gZdQcQWC05Y2Q6
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

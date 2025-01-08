@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:20 L:10 D:1 Bonus ❌
+description: W:20 L:10 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1733769068
 ---
@@ -17,11 +17,11 @@ Benvenuto nella Corporazione federale italiana. Richiesta partecipazi
 one/cooperazione. Per chi ha accesso alle WS è consigliato un contrib
 uto settimanale di 10000 crediti per l'ammiraglia. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1301 🔻  (162)|
+| ELO Regular | 1301 🔻  (163)|
 | ELO Competitive | 1333 🔻  (211)|
 | Total Matches | 31 |
 | Wins | 20 |

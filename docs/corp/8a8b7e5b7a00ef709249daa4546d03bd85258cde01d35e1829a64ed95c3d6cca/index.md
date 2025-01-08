@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:26 L:16 D:0 Bonus ❌
+description: W:26 L:16 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1732448393
 ---
@@ -17,11 +17,11 @@ Welcome to Lights Off! Friendly Corp using the English language. Dail
 y RS and weekly WS. Discord link below 
 ```
 ### [Discord](https://discord.gg/eYh6VmKZeU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (321)|
+| ELO Regular | 1230 🔻  (320)|
 | ELO Competitive | 1269 🔻  (345)|
 | Total Matches | 42 |
 | Wins | 26 |

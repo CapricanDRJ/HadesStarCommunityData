@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dumpster Fire 2
-description: W:42 L:57 D:2 Bonus ❌
+description: W:42 L:57 D:2 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735889801
 ---
@@ -20,11 +20,11 @@ date: 1735889801
    \|_______________|™
 <b>Easy going Dumpster Fire with Discord—Free White Star</b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1226)|
+| ELO Regular | 1122 🔻  (1227)|
 | ELO Competitive | 1261 🔻  (371)|
 | Total Matches | 101 |
 | Wins | 42 |

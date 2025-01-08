@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bon Ariens
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1731574831
 ---
@@ -17,12 +17,12 @@ Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on
 se distingue dans la compétence 🤔. Si toi aussi tu te demandes comme
 nt font les autres 😅
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1112)|
-| ELO Competitive | 1163 🔻  (1167)|
+| ELO Regular | 1150 🔻  (1113)|
+| ELO Competitive | 1163 🔻  (1168)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

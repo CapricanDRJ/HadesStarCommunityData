@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:29 L:13 D:0 Bonus ❌
+description: W:29 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1728312440
 ---
@@ -16,7 +16,7 @@ date: 1728312440
 红星建议大火单枪，电磁，暗红时缓;蓝星主打配合如A盾复仇，无人机信仰，捆绑传送。升级模组尽量集中不要分散。           有能力者请
 投喂旗舰1        白星Q群：<u>250502867                微信群加yusanban好友
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

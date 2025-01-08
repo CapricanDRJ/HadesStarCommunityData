@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The New Light
-description: W:18 L:21 D:1 Bonus ❌
+description: W:18 L:21 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1729138887
 ---
@@ -18,11 +18,11 @@ for active players to take on <b>white star</b> missions. White star
 frequency: Once a week, starting on Thursdays.
 ```
 ### [Discord](https://discord.gg/z4C9PUKgKD)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (865)|
+| ELO Regular | 1178 🔻  (866)|
 | ELO Competitive | 1224 🔻  (485)|
 | Total Matches | 40 |
 | Wins | 18 |

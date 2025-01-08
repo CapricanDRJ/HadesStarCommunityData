@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​云深不知处
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1736000980
 ---
@@ -15,12 +15,12 @@ date: 1736000980
 ```
 只是一个人的团      QQ群号:763374930 这个团是我一个人的团，或许曾经有一群人不过现在退游了两
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1016)|
-| ELO Competitive | 1171 🔻  (1100)|
+| ELO Regular | 1164 🔻  (1017)|
+| ELO Competitive | 1171 🔻  (1101)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

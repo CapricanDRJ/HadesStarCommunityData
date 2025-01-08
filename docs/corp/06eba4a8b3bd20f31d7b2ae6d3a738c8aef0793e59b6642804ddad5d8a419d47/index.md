@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Time Lords
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1703805424
 ---
@@ -22,12 +22,12 @@ Ally Code-CkQfp5t
 Jr Corp-Time Lords Jr
 Alt Corp - Time Lords Alts
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (830)|
-| ELO Competitive | 1183 🔻  (984)|
+| ELO Regular | 1183 🔻  (831)|
+| ELO Competitive | 1183 🔻  (985)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

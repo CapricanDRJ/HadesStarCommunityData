@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Zeon
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1710232783
 ---
@@ -15,12 +15,12 @@ date: 1710232783
 ```
 relax
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1108)|
-| ELO Competitive | 1152 🔻  (1227)|
+| ELO Regular | 1152 🔻  (1109)|
+| ELO Competitive | 1152 🔻  (1228)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

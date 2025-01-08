@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝太阳
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725536033
 ---
@@ -17,12 +17,12 @@ date: 1725536033
 席:白芷<br></b>黑名单：三体(AEN-3092)<br>敌团：红日初升，其道大光（和白毁白）<br>神圣罗马帝国第三分团<br>集
 团QQ群：945406414<br>招人中
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1031)|
-| ELO Competitive | 1174 🔻  (1057)|
+| ELO Regular | 1162 🔻  (1032)|
+| ELO Competitive | 1174 🔻  (1058)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

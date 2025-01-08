@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:31 L:38 D:0 Bonus ❌
+description: W:31 L:38 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736133786
 ---
@@ -17,12 +17,12 @@ The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the mo
 st seasoned Veterans. This corp is made for and of its members! It wo
 uld be an Honor that you would join us! >=)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1211)|
-| ELO Competitive | 1169 🔻  (1122)|
+| ELO Regular | 1125 🔻  (1212)|
+| ELO Competitive | 1169 🔻  (1123)|
 | Total Matches | 69 |
 | Wins | 31 |
 | Losses | 38 |

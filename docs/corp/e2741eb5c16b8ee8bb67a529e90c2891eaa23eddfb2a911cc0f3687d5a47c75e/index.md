@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Blood Hounds
-description: W:82 L:22 D:1 Bonus ❌
+description: W:82 L:22 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735104682
 ---
@@ -15,7 +15,7 @@ date: 1735104682
 ```
 No camping. Discord mandatory for ws
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

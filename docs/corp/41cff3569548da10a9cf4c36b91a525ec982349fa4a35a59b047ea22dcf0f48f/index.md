@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TRAPSTAR¹
-description: W:0 L:3 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1732704702
 ---
@@ -17,11 +17,11 @@ ENTRE E VEM JOGAR CONOSCO.
 TRAPSTAR½
 ¹½
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1074)|
+| ELO Regular | 1157 🔻  (1075)|
 | ELO Competitive | 1157 🔻  (1203)|
 | Total Matches | 4 |
 | Wins | 0 |

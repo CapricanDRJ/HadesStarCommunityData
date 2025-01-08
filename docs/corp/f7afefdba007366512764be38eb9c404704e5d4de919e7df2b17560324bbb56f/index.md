@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Seperatists
-description: W:15 L:21 D:0 Bonus ❌
+description: W:15 L:21 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1725597843
 ---
@@ -17,11 +17,11 @@ date: 1725597843
 ions to FS1 welcomed. <b> Discord required </b>
 ```
 ### [Discord](https://discord.gg/zXEp3p8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (985)|
+| ELO Regular | 1168 🔻  (986)|
 | ELO Competitive | 1251 🔻  (398)|
 | Total Matches | 36 |
 | Wins | 15 |

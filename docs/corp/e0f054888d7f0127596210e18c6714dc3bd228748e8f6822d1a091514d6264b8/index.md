@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝色星系一号分盟
-description: W:1 L:7 D:1 Bonus ❌
+description: W:1 L:7 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1726148945
 ---
@@ -16,12 +16,12 @@ date: 1726148945
 蓝色星系第一分盟  意在培养R6以下萌新  预备白星人员   欢迎各位萌新大佬前来   喜欢活跃的人员可前往主盟和二分盟，不要捐旗舰，q群
 446097226
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1212)|
-| ELO Competitive | 1141 🔻  (1270)|
+| ELO Regular | 1125 🔻  (1213)|
+| ELO Competitive | 1141 🔻  (1271)|
 | Total Matches | 9 |
 | Wins | 1 |
 | Losses | 7 |

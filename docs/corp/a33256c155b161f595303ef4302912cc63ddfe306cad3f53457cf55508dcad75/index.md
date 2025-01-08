@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Auscorp 
-description: W:78 L:8 D:0 Bonus ✅
+description: W:78 L:8 D:0 Bonus ✅ 52%
 image: ./favicon.png
 date: 1735828803
 ---
@@ -23,7 +23,7 @@ All FS Donations welcome.
 <b><color=red>Must join Discord to remain here.
 ```
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |

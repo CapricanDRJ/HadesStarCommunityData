@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​РОДНЫЕ.
-description: W:4 L:5 D:0 Bonus ❌
+description: W:4 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1715614390
 ---
@@ -15,7 +15,7 @@ date: 1715614390
 ```
 нормальных приветствуем)👍 .. бз, чкз есть.. иногда 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

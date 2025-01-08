@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:19 L:1 D:0 Bonus ❌
+description: W:19 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734886848
 ---
@@ -17,7 +17,7 @@ Corp divisão e aliada a corporação AFronteiraFinal. jogadores inician
 tes são bem vindos! Virtus Unita Fortior.
 ```
 ### [Discord](https://discord.gg/bv5q7qHTDb)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

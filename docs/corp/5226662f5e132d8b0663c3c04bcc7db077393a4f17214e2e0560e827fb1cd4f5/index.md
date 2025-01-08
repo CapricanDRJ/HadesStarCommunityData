@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​United Gardiens
-description: W:2 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
 date: 1736104047
 ---
@@ -15,7 +15,7 @@ date: 1736104047
 ```
 Guardians united under one.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |

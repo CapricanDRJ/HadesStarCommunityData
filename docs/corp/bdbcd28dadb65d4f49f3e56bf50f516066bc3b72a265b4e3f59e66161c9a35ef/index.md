@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Intertwine 
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1718784966
 ---
@@ -16,7 +16,7 @@ date: 1718784966
 Welcome to Intertwine! Part of the Elite Federation, discord not mand
 atory but greatly appreciated!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

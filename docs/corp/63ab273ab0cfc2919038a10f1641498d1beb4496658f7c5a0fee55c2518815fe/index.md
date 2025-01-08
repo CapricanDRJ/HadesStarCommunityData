@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gulinga
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1700612819
 ---
@@ -20,12 +20,12 @@ The Crazy Chickens
 * We help new players with tips, tricks and arts if needed
 Discord required for WS: pQVwk7J
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (959)|
-| ELO Competitive | 1171 🔻  (1109)|
+| ELO Regular | 1171 🔻  (960)|
+| ELO Competitive | 1171 🔻  (1110)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

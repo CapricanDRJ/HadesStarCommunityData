@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Equinox
-description: W:10 L:14 D:1 Bonus ❌
+description: W:10 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1732297253
 ---
@@ -18,11 +18,11 @@ La corpo hard de <color=#FFA040>Seasons Corp</color>, une alliance où
 Discord obligatoire
 ```
 ### [Discord](https://discord.gg/DcuxrTA)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (857)|
+| ELO Regular | 1180 🔻  (858)|
 | ELO Competitive | 1205 🔻  (613)|
 | Total Matches | 25 |
 | Wins | 10 |

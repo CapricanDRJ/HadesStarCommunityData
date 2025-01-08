@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Simply Uranus
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1720730961
 ---
@@ -20,11 +20,11 @@ The thrust to your ship.
 
 A Space Family :)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (903)|
+| ELO Regular | 1174 🔻  (904)|
 | ELO Competitive | 1190 🔻  (766)|
 | Total Matches | 2 |
 | Wins | 0 |

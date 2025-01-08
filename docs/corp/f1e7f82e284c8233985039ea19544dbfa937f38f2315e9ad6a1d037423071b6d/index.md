@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:13 L:9 D:0 Bonus ❌
+description: W:13 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735324635
 ---
@@ -16,12 +16,12 @@ date: 1735324635
 Язык общения в корпорации - русский. Есть свой чат в тг. частые поход
 ы в бз,помощь с кз и артефактами
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1253 🔻  (243)|
-| ELO Competitive | 1295 🔻  (283)|
+| ELO Competitive | 1295 🔻  (284)|
 | Total Matches | 22 |
 | Wins | 13 |
 | Losses | 9 |

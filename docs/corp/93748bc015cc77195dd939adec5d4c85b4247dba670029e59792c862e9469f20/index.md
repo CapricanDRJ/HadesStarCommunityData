@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Наша Вселенная
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1701216316
 ---
@@ -17,12 +17,12 @@ date: 1701216316
 сто общениe</color><color=#FFA500></color>
 ```
 ### [Discord](https://discord.gg/GtUycuvQVG)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (730)|
-| ELO Competitive | 1186 🔻  (891)|
+| ELO Regular | 1185 🔻  (731)|
+| ELO Competitive | 1186 🔻  (892)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

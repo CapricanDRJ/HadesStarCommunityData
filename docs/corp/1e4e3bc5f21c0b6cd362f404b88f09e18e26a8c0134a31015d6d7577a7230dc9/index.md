@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​АНДРОМЕДА 
-description: W:36 L:61 D:1 Bonus ❌
+description: W:36 L:61 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735555674
 ---
@@ -16,11 +16,11 @@ date: 1735555674
 Ищем активных игроков на БЗ. Артами не кормим, учим добывать. Играем 
 КЗ, МКЗ. Заходим здароваемся😉.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1300)|
+| ELO Regular | 1089 🔻  (1301)|
 | ELO Competitive | 1317 🔻  (238)|
 | Total Matches | 98 |
 | Wins | 36 |

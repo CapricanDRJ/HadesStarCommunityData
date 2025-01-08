@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КЕДР
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1709890357
 ---
@@ -17,12 +17,12 @@ date: 1709890357
 
 vk.com/kedr_sh
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (786)|
-| ELO Competitive | 1184 🔻  (959)|
+| ELO Regular | 1184 🔻  (787)|
+| ELO Competitive | 1184 🔻  (960)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sad Panda 2.0
-description: W:2 L:7 D:0 Bonus ❌
+description: W:2 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1726262846
 ---
@@ -17,11 +17,11 @@ Primary language is English. Enjoy! Help the corporation to become a
 senior member. Fail to log, I will demote to member. 14 days no log i
 n and I will kick members. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1084)|
+| ELO Regular | 1155 🔻  (1085)|
 | ELO Competitive | 1159 🔻  (1186)|
 | Total Matches | 9 |
 | Wins | 2 |

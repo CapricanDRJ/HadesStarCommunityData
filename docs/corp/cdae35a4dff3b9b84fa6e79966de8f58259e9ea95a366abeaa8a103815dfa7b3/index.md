@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Grand Mechanism
-description: W:2 L:5 D:1 Bonus ❌
+description: W:2 L:5 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1705013769
 ---
@@ -20,12 +20,12 @@ Part of <b><color=#fce205>A.R.M.O.R</color></b>
 Discord:DUbkgw9uMT
 ```
 ### [Discord](https://discord.gg/DUbkgw9uMT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (992)|
-| ELO Competitive | 1172 🔻  (1081)|
+| ELO Regular | 1168 🔻  (993)|
+| ELO Competitive | 1172 🔻  (1082)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 5 |

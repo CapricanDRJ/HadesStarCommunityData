@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:27 L:11 D:1 Bonus ❌
+description: W:27 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1734969475
 ---
@@ -18,7 +18,7 @@ e Wolfpack is on the lookout for dominant Alphas to join us in our ra
 nks
 ```
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

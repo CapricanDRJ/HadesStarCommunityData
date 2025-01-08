@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:3 L:6 D:1 Bonus ❌
+description: W:3 L:6 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735173794
 ---
@@ -15,11 +15,11 @@ date: 1735173794
 ```
 Start here. Figure things out. Have fun.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (1101)|
+| ELO Regular | 1153 🔺  (1102)|
 | ELO Competitive | 1161 🔺  (1175)|
 | Total Matches | 10 |
 | Wins | 3 |

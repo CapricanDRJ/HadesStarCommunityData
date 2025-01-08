@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Медведи
-description: W:36 L:4 D:0 Bonus ❌
+description: W:36 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1716552700
 ---
@@ -17,7 +17,7 @@ date: 1716552700
 , и бывалым игрокам.Делимся и обмениваемся артефактами. БЗ еженедельн
 о. Коммуникация в ТГ https://t.me/Date_Samurai_HS
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CTG
-description: W:32 L:34 D:0 Bonus ✅
+description: W:32 L:34 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736168337
 ---
@@ -18,11 +18,11 @@ Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<color=yellow>We welcome an
 y newbie and big guy to join us! If you're interested, say hi!
 ```
 ### [Discord](https://discord.gg/xG26mebaUv)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (345)|
+| ELO Regular | 1225 🔺  (344)|
 | ELO Competitive | 1393 🔺  (148)|
 | Total Matches | 66 |
 | Wins | 32 |

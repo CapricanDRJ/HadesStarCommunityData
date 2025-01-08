@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СССР 2.0
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1703584196
 ---
@@ -17,12 +17,12 @@ date: 1703584196
 ивными игроками корпорации СССР, в связи с длительным отсутствием осн
 ователя и других офицеров. Discord: z2RgAqr
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1145)|
-| ELO Competitive | 1146 🔻  (1249)|
+| ELO Regular | 1144 🔻  (1146)|
+| ELO Competitive | 1146 🔻  (1250)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

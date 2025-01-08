@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际集团
-description: W:2 L:4 D:2 Bonus ❌
+description: W:2 L:4 D:2 Bonus ❌ 3%
 image: ./favicon.png
 date: 1718796685
 ---
@@ -16,12 +16,12 @@ date: 1718796685
 本团欢迎各位的到来，本团并无时间限制。国力超过1000或表现好可获得高级成员。黑名单：雪祭启明（因挑逗本集团）能领个神器吗？（背叛本集团）
 广告：无（有意者私聊本团的地球）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1043)|
-| ELO Competitive | 1163 🔻  (1162)|
+| ELO Regular | 1160 🔻  (1044)|
+| ELO Competitive | 1163 🔻  (1163)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 4 |

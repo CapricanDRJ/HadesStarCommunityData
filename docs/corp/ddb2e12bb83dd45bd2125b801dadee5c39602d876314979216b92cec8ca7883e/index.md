@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Metal Nova
-description: W:2 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1700618828
 ---
@@ -17,11 +17,11 @@ chill group of dudes, trying to revive after the disastrous game upda
 te. training and advice for new players, WS once we have numbers for 
 experiemced players.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (325)|
+| ELO Regular | 1229 🔺  (324)|
 | ELO Competitive | 1229 🔺  (464)|
 | Total Matches | 2 |
 | Wins | 2 |

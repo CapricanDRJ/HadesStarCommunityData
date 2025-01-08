@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:9 L:6 D:0 Bonus ❌
+description: W:9 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1728141152
 ---
@@ -25,12 +25,12 @@ date: 1728141152
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔺  (240)|
-| ELO Competitive | 1302 🔺  (272)|
+| ELO Competitive | 1302 🔺  (273)|
 | Total Matches | 15 |
 | Wins | 9 |
 | Losses | 6 |

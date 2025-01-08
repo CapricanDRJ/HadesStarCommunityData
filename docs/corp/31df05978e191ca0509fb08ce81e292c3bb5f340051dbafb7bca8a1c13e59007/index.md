@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elder Things
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1711631579
 ---
@@ -16,11 +16,11 @@ date: 1711631579
 Was once a top 100 Corp
 But now is a retirement home for solo rs. all are free to join
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (649)|
+| ELO Regular | 1187 🔻  (650)|
 | ELO Competitive | 1191 🔻  (749)|
 | Total Matches | 1 |
 | Wins | 0 |

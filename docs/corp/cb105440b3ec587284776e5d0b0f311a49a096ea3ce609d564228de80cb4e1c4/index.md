@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Nova
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1717392827
 ---
@@ -17,7 +17,7 @@ Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
 
 EKJFqvs7XA
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

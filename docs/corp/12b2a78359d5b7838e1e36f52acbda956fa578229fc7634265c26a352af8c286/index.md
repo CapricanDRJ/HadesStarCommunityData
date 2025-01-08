@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SGC
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1703593547
 ---
@@ -16,7 +16,7 @@ date: 1703593547
 Welcome to the Stargate Command. Now that we have defeated the Goa'ul
 d, Replicators, and Wraith; let us explore the galaxy!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

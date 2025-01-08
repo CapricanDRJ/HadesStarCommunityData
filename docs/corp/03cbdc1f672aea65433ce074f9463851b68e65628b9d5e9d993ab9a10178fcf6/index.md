@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cominters
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1718909844
 ---
@@ -15,12 +15,12 @@ date: 1718909844
 ```
 fuck you spy
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (840)|
-| ELO Competitive | 1185 🔻  (904)|
+| ELO Regular | 1182 🔻  (841)|
+| ELO Competitive | 1185 🔻  (905)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

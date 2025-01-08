@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​清霄阁（防御协会）
-description: W:5 L:7 D:0 Bonus ✅
+description: W:5 L:7 D:0 Bonus ✅ 30%
 image: ./favicon.png
 date: 1736166534
 ---
@@ -17,11 +17,11 @@ date: 1736166534
 可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：99396
 4380 大群Q号：597444221
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (990)|
+| ELO Regular | 1168 🔺  (991)|
 | ELO Competitive | 1226 🔺  (477)|
 | Total Matches | 12 |
 | Wins | 5 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Devourers
-description: W:2 L:5 D:1 Bonus ❌
+description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1733621998
 ---
@@ -16,12 +16,12 @@ date: 1733621998
 Corporation driven to fight well, be successful and do missions!! No 
 discord required
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1047)|
-| ELO Competitive | 1165 🔻  (1153)|
+| ELO Regular | 1159 🔻  (1048)|
+| ELO Competitive | 1165 🔻  (1154)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 5 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orione
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1720098657
 ---
@@ -15,11 +15,11 @@ date: 1720098657
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (834)|
+| ELO Regular | 1183 🔻  (835)|
 | ELO Competitive | 1189 🔻  (777)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​레드썬
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1729169549
 ---
@@ -16,11 +16,11 @@ date: 1729169549
 직딩 환영
 자유롭게 놉시다
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (614)|
+| ELO Regular | 1189 🔻  (615)|
 | ELO Competitive | 1193 🔻  (724)|
 | Total Matches | 1 |
 | Wins | 0 |

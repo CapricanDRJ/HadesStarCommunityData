@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Венерский Союз
-description: W:5 L:10 D:0 Bonus ❌
+description: W:5 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1716019102
 ---
@@ -17,12 +17,12 @@ date: 1716019102
  развитии вашей империи!</color>
 ```
 ### [Discord](https://discord.gg/VTbEpQAEXc)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1001)|
-| ELO Competitive | 1171 🔻  (1094)|
+| ELO Regular | 1166 🔻  (1002)|
+| ELO Competitive | 1171 🔻  (1095)|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 10 |

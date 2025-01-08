@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Noobs
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1702178062
 ---
@@ -22,12 +22,12 @@ We welcome all players no matter what level!
 Discord:<color=#3c78d8>pECD6CY</color>
 ```
 ### [Discord](https://discord.gg/pECD6CY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (691)|
-| ELO Competitive | 1186 🔻  (873)|
+| ELO Regular | 1186 🔻  (692)|
+| ELO Competitive | 1186 🔻  (874)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

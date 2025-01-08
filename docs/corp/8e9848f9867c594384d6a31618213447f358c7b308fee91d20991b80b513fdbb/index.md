@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Albedo
-description: W:34 L:12 D:0 Bonus ❌
+description: W:34 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734580660
 ---
@@ -16,12 +16,12 @@ date: 1734580660
 Vulnera Virtutem Vivificant
 ```
 ### [Discord](https://discord.gg/aeWKd23QQ5)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1338 🔻  (116)|
-| ELO Competitive | 1421 🔻  (121)|
+| ELO Competitive | 1421 🔻  (122)|
 | Total Matches | 46 |
 | Wins | 34 |
 | Losses | 12 |

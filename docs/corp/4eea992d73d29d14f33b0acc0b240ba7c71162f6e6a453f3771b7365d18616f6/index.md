@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​柯伊伯带伊甸园
-description: W:15 L:3 D:0 Bonus ❌
+description: W:15 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732661442
 ---
@@ -18,7 +18,7 @@ date: 1732661442
 停止的或红点会被移除，同时会收到邀请，回游后点右下角的社交按钮邀请加入</size></color>
 ```
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Séptimo Círculo
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1702414590
 ---
@@ -21,12 +21,12 @@ Una EB tras otra</size>
 RS: WhatsApp
 Alianza Axolotls</i></color></b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (657)|
-| ELO Competitive | 1187 🔻  (834)|
+| ELO Regular | 1187 🔻  (658)|
+| ELO Competitive | 1187 🔻  (835)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

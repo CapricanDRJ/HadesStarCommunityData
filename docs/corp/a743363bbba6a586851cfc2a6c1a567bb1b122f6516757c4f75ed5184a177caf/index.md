@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Noble
-description: W:0 L:2 D:2 Bonus ❌
+description: W:0 L:2 D:2 Bonus ❌ 1%
 image: ./favicon.png
 date: 1706790433
 ---
@@ -15,12 +15,12 @@ date: 1706790433
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (939)|
-| ELO Competitive | 1171 🔺  (1089)|
+| ELO Regular | 1171 🔺  (940)|
+| ELO Competitive | 1171 🔺  (1090)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 2 |

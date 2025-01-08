@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Killer Shadow
-description: W:2 L:10 D:0 Bonus ❌
+description: W:2 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1708469944
 ---
@@ -20,12 +20,12 @@ tanto Cuidado, Pois a Sua Derrota é a Nossa Glória!"
 Gpp: Whats✔
 Ws: a Cada 4 dias
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1271)|
-| ELO Competitive | 1114 🔻  (1321)|
+| ELO Competitive | 1114 🔻  (1322)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 10 |

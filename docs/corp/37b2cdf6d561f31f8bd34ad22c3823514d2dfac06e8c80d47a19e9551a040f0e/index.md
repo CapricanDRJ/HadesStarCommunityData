@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​LEGION
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1722303620
 ---
@@ -15,11 +15,11 @@ date: 1722303620
 ```
 Need active players for White Star Missions!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (622)|
+| ELO Regular | 1188 🔻  (623)|
 | ELO Competitive | 1195 🔻  (701)|
 | Total Matches | 1 |
 | Wins | 0 |

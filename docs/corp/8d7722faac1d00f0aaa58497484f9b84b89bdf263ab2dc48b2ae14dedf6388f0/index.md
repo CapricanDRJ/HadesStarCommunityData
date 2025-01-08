@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​universe leader
-description: W:2 L:8 D:1 Bonus ❌
+description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1710829328
 ---
@@ -17,12 +17,12 @@ una corporación unida ayudarse unos a otros y hacer fuertes a los déb
 iles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO 
 DISCORD PARA PARTICIPAR EN EB"
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1192)|
-| ELO Competitive | 1148 🔻  (1240)|
+| ELO Regular | 1131 🔻  (1193)|
+| ELO Competitive | 1148 🔻  (1241)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

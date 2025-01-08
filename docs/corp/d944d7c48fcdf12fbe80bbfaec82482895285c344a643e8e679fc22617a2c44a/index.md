@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nexland Ind.
-description: W:5 L:4 D:1 Bonus ❌
+description: W:5 L:4 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1719570374
 ---
@@ -15,7 +15,7 @@ date: 1719570374
 ```
 Buka's secret hideout
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

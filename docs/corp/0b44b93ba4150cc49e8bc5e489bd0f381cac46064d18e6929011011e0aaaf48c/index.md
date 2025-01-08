@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RPFD-DNR-RWPB
-description: W:2 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1720844854
 ---
@@ -15,11 +15,11 @@ date: 1720844854
 ```
 none
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (800)|
+| ELO Regular | 1184 🔺  (801)|
 | ELO Competitive | 1190 🔺  (762)|
 | Total Matches | 5 |
 | Wins | 2 |

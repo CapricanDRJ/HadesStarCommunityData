@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Wehrmacht
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1720703607
 ---
@@ -15,12 +15,12 @@ date: 1720703607
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (853)|
-| ELO Competitive | 1183 🔻  (986)|
+| ELO Regular | 1180 🔻  (854)|
+| ELO Competitive | 1183 🔻  (987)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

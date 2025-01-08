@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Red Dwarves
-description: W:3 L:5 D:1 Bonus ❌
+description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1734051227
 ---
@@ -17,12 +17,12 @@ Any New players join here, we can do quite a bit in large numbers! Ne
 wbs, Assemble! Pls build a white star scanner if you can (only if u c
 an) If u are not going to participate in white stars, tell me
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (926)|
-| ELO Competitive | 1187 🔻  (820)|
+| ELO Regular | 1172 🔻  (927)|
+| ELO Competitive | 1187 🔻  (821)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |

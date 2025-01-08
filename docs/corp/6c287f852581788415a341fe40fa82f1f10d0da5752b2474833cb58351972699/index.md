@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ISERLOHN
-description: W:7 L:0 D:0 Bonus ❌
+description: W:7 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1727192760
 ---
@@ -17,7 +17,7 @@ date: 1727192760
 出入り自由にしますのでRS、DRSに使ってくださいFlagship 1 Closed
 WS参加者募集中
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

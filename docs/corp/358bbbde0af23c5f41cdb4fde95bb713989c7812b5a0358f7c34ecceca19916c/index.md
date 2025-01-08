@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:27 L:21 D:0 Bonus ❌
+description: W:27 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1733084238
 ---
@@ -17,7 +17,7 @@ Corporation tranquille on s'entraide pour tous se développer. Une eto
 ile blanche par semaine. Si vous êtes actif et que vous voulez progre
 sser dans une corporation tranquille on est fait pour vous !
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

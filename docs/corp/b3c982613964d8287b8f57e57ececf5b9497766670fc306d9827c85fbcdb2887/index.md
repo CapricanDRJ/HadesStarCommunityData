@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CAEDRUS [<o>]
-description: W:2 L:3 D:1 Bonus ❌
+description: W:2 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1733134410
 ---
@@ -15,12 +15,12 @@ date: 1733134410
 ```
 This WS is WAR.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (719)|
-| ELO Competitive | 1187 🔻  (812)|
+| ELO Regular | 1185 🔻  (720)|
+| ELO Competitive | 1187 🔻  (813)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Crucible 
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707182127
 ---
@@ -18,7 +18,7 @@ l sings...
 Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her cr
 ushing Novae Song</I>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

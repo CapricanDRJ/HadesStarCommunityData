@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Russia
-description: W:1 L:8 D:0 Bonus ❌
+description: W:1 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1712589809
 ---
@@ -16,12 +16,12 @@ date: 1712589809
 Набор активистоV для участия в батилиях на бз. БЗ с пн-пт, сб-вс выхо
 дной
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1113 🔻  (1259)|
-| ELO Competitive | 1116 🔻  (1319)|
+| ELO Competitive | 1116 🔻  (1320)|
 | Total Matches | 9 |
 | Wins | 1 |
 | Losses | 8 |

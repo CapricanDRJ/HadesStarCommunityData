@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​龙门训练营
-description: W:9 L:18 D:0 Bonus ❌
+description: W:9 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1706690027
 ---
@@ -18,11 +18,11 @@ date: 1706690027
 ※DIS: dAxzXqc</color> </size></b>
 ```
 ### [Discord](https://discord.gg/dAxzXqc)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔺  (1170)|
+| ELO Regular | 1138 🔺  (1171)|
 | ELO Competitive | 1265 🔺  (356)|
 | Total Matches | 27 |
 | Wins | 9 |

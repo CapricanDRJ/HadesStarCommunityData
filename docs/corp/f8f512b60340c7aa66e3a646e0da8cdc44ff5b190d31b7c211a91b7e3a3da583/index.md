@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Pirates
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1726442538
 ---
@@ -17,7 +17,7 @@ Confédération francophone, Notre équipe conviviale a pour but de prog
 resser ensemble et de s'entraider, pour le reste... Pirates! Forum: p
 irates-hades.xoo.it
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

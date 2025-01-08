@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SuperStarGamers
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1704392606
 ---
@@ -15,7 +15,7 @@ date: 1704392606
 ```
 The reemergence of Space Gamers with Super Stars!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

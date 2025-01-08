@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hades' 420
-description: W:2 L:9 D:0 Bonus ❌
+description: W:2 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1722520898
 ---
@@ -15,12 +15,12 @@ date: 1722520898
 ```
 <color=#9932CC><b><size=80>Welcome to the end of time.</size></b>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1113 🔻  (1258)|
-| ELO Competitive | 1137 🔻  (1283)|
+| ELO Competitive | 1137 🔻  (1284)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 9 |

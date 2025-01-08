@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​White Dwarf
-description: W:49 L:16 D:0 Bonus ✅
+description: W:49 L:16 D:0 Bonus ✅ 46%
 image: ./favicon.png
 date: 1736184867
 ---
@@ -16,7 +16,7 @@ date: 1736184867
 WS & RS home of the Dwarf Corps. Please move to Yellow Dwarf (YD), Gr
 een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

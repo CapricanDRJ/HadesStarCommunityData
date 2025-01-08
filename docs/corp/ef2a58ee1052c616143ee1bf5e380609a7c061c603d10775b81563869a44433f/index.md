@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Алый Феникс
-description: W:7 L:9 D:0 Bonus ❌
+description: W:7 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1731988934
 ---
@@ -20,11 +20,11 @@ date: 1731988934
 Пытаемся почаще ходить к Белым Звёздам. Всем рады!
 ```
 ### [Discord](https://discord.gg/EVvjFZfGEY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (849)|
+| ELO Regular | 1181 🔺  (850)|
 | ELO Competitive | 1192 🔺  (726)|
 | Total Matches | 16 |
 | Wins | 7 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Goonies
-description: W:3 L:7 D:2 Bonus ❌
+description: W:3 L:7 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736259082
 ---
@@ -18,12 +18,12 @@ date: 1736259082
 ’all come back)Alliance with: 7SinS, Galaxia. Discord Require
 ```
 ### [Discord](https://discord.gg/U8yKTks)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1114)|
-| ELO Competitive | 1177 🔻  (1028)|
+| ELO Regular | 1150 🔻  (1115)|
+| ELO Competitive | 1177 🔻  (1029)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 7 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​四季长春
-description: W:17 L:24 D:7 Bonus ❌
+description: W:17 L:24 D:7 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735924041
 ---
@@ -17,11 +17,11 @@ date: 1735924041
 会升干事）首席：四圣-青龙-中国。副首席；惊雷滚滚  Elffee。捣乱者一律降级，旗舰别乱跑。同盟：拆迁大队。建立时间2023年12月2
 3日
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (860)|
+| ELO Regular | 1179 🔺  (861)|
 | ELO Competitive | 1329 🔻  (217)|
 | Total Matches | 48 |
 | Wins | 17 |

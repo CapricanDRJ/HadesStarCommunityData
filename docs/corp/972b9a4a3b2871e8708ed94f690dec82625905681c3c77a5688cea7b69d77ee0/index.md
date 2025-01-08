@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​零号帝国
-description: W:3 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1707832132
 ---
@@ -19,7 +19,7 @@ date: 1707832132
 
 黑名单：家园星系。  盟友：边界-萌新剧乐部
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

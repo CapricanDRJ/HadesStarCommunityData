@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​地球星际集团
-description: W:0 L:32 D:11 Bonus ❌
+description: W:0 L:32 D:11 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735581332
 ---
@@ -15,12 +15,12 @@ date: 1735581332
 ```
 和中国星际集团差不多，我喜欢中国🇨🇳
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 958 🔻  (1367)|
-| ELO Competitive | 1075 🔻  (1349)|
+| ELO Regular | 958 🔻  (1368)|
+| ELO Competitive | 1075 🔻  (1350)|
 | Total Matches | 43 |
 | Wins | 0 |
 | Losses | 32 |

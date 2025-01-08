@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Drones
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1732766810
 ---
@@ -15,12 +15,12 @@ date: 1732766810
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (774)|
-| ELO Competitive | 1185 🔻  (900)|
+| ELO Regular | 1185 🔻  (775)|
+| ELO Competitive | 1185 🔻  (901)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

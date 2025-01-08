@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​三体舰队
-description: W:8 L:11 D:0 Bonus ❌
+description: W:8 L:11 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1720619162
 ---
@@ -20,12 +20,12 @@ date: 1720619162
 
 有六级神器的成员，如果愿意就给其他人分一个六级四面体，提高白星时的战力，谢谢。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1017)|
-| ELO Competitive | 1176 🔻  (1035)|
+| ELO Regular | 1164 🔻  (1018)|
+| ELO Competitive | 1176 🔻  (1036)|
 | Total Matches | 19 |
 | Wins | 8 |
 | Losses | 11 |

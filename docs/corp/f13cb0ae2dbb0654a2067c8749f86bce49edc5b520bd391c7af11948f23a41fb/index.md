@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:4 L:58 D:0 Bonus ✅
+description: W:4 L:58 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1735945309
 ---
@@ -17,12 +17,12 @@ date: 1735945309
 ..то есть +2 и -2 часа от Московского времени. Походы на БЗ с понедел
 ьника по пятницу. кто идет ставим "+" в чате в Воскресение.!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 907 🔺  (1372)|
-| ELO Competitive | 953 🔺  (1378)|
+| ELO Regular | 907 🔺  (1373)|
+| ELO Competitive | 953 🔺  (1379)|
 | Total Matches | 62 |
 | Wins | 4 |
 | Losses | 58 |

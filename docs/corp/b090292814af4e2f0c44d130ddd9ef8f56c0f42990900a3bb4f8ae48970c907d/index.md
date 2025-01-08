@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Enigma
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1702352980
 ---
@@ -17,7 +17,7 @@ Laid back group always looking for good active players. WS missions r
 un every other week with a focus on Corporation growth and advancemen
 t
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

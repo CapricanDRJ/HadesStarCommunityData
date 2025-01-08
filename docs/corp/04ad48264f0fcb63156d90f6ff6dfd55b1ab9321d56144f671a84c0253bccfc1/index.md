@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Scourge
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1705147495
 ---
@@ -16,12 +16,12 @@ date: 1705147495
 Everyone is welcome to our corporation. Be active and enjoy.😀
 ```
 ### [Discord](https://discord.gg/YXXUMaKBFV)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1137)|
-| ELO Competitive | 1149 🔻  (1238)|
+| ELO Regular | 1146 🔻  (1138)|
+| ELO Competitive | 1149 🔻  (1239)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

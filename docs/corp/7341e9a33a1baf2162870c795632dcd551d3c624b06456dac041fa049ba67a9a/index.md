@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:54 D:4 Bonus ❌
+description: W:4 L:54 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736247061
 ---
@@ -15,12 +15,12 @@ date: 1736247061
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 828 🔻  (1376)|
-| ELO Competitive | 1056 🔻  (1364)|
+| ELO Regular | 828 🔻  (1377)|
+| ELO Competitive | 1056 🔻  (1365)|
 | Total Matches | 62 |
 | Wins | 4 |
 | Losses | 54 |

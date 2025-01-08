@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KhaOSs
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1735365381
 ---
@@ -20,11 +20,11 @@ CLM
 SpN
 EUR
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (862)|
+| ELO Regular | 1178 🔺  (863)|
 | ELO Competitive | 1190 🔺  (769)|
 | Total Matches | 4 |
 | Wins | 1 |

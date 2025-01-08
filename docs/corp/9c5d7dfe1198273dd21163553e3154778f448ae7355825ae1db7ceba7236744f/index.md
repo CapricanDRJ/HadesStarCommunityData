@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Village of Evil
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1707496428
 ---
@@ -15,12 +15,12 @@ date: 1707496428
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (966)|
-| ELO Competitive | 1185 🔻  (911)|
+| ELO Regular | 1170 🔻  (967)|
+| ELO Competitive | 1185 🔻  (912)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

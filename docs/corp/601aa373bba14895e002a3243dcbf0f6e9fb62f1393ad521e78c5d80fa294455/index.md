@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Gathering
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1703316525
 ---
@@ -17,12 +17,12 @@ date: 1703316525
 Jeder ist willkommen, permanent WZ, RR's und Support.
 Traut euch... bewirb dich noch heute 🖖🏻
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (874)|
-| ELO Competitive | 1176 🔻  (1037)|
+| ELO Regular | 1176 🔻  (875)|
+| ELO Competitive | 1176 🔻  (1038)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

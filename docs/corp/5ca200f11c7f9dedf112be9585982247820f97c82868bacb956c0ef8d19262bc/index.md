@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:14 L:26 D:1 Bonus ❌
+description: W:14 L:26 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735043386
 ---
@@ -16,11 +16,11 @@ date: 1735043386
 The Empire of Light led by Lord Spirallis to be one of light rays in 
 space of this game. WS every week. Join us into the Light!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1219)|
+| ELO Regular | 1124 🔻  (1220)|
 | ELO Competitive | 1271 🔻  (337)|
 | Total Matches | 41 |
 | Wins | 14 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Enigma
-description: W:5 L:12 D:0 Bonus ❌
+description: W:5 L:12 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1712508383
 ---
@@ -17,12 +17,12 @@ date: 1712508383
 -Konzern von Terranova
 ```
 ### [Discord](https://discord.gg/8UCeWAHxKA)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1218)|
-| ELO Competitive | 1152 🔻  (1229)|
+| ELO Regular | 1124 🔻  (1219)|
+| ELO Competitive | 1152 🔻  (1230)|
 | Total Matches | 17 |
 | Wins | 5 |
 | Losses | 12 |

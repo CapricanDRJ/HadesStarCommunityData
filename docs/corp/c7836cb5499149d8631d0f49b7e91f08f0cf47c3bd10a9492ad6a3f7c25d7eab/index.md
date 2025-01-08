@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hellfire Club
-description: W:48 L:35 D:0 Bonus ✅
+description: W:48 L:35 D:0 Bonus ✅ 48%
 image: ./favicon.png
 date: 1736183365
 ---
@@ -18,7 +18,7 @@ ilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordse
 rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 ```
 ### [Discord](https://discord.gg/a5t3JQP2hM)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

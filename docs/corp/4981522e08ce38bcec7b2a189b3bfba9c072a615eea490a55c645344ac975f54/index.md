@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​exirium
-description: W:3 L:4 D:1 Bonus ❌
+description: W:3 L:4 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1733945443
 ---
@@ -17,7 +17,7 @@ date: 1733945443
 n corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crece
 r.                                         WhatsApp incluido.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Españoles
-description: W:23 L:62 D:0 Bonus ❌
+description: W:23 L:62 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1736098038
 ---
@@ -19,12 +19,12 @@ date: 1736098038
 Discord obligatorio: KAguMmM
 ```
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1306)|
-| ELO Competitive | 1183 🔻  (985)|
+| ELO Regular | 1083 🔻  (1307)|
+| ELO Competitive | 1183 🔻  (986)|
 | Total Matches | 85 |
 | Wins | 23 |
 | Losses | 62 |

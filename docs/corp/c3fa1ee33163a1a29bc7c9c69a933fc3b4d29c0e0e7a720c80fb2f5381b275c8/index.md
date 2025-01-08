@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​МАРСЮКИ
-description: W:43 L:2 D:0 Bonus ✅
+description: W:43 L:2 D:0 Bonus ✅ 48%
 image: ./favicon.png
 date: 1736251869
 ---
@@ -23,7 +23,7 @@ date: 1736251869
 
 ```
 ### [Discord](https://discord.gg/s7nmhGXugM)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

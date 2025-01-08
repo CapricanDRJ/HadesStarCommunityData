@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星环-星际联盟
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1701407467
 ---
@@ -15,12 +15,12 @@ date: 1701407467
 ```
 <b><color=yellow>主盟：<i>星环-星际联盟</i>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (672)|
-| ELO Competitive | 1187 🔻  (833)|
+| ELO Regular | 1186 🔻  (673)|
+| ELO Competitive | 1187 🔻  (834)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

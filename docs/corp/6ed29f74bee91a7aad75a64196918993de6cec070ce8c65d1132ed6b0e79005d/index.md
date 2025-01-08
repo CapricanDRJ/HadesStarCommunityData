@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: W:15 L:8 D:0 Bonus ❌
+description: W:15 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1729793787
 ---
@@ -17,7 +17,7 @@ ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.
 00 alebo po 22.00                               WS aktivny
 ```
 ### [Discord](https://discord.gg/U2hhtGszGK)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

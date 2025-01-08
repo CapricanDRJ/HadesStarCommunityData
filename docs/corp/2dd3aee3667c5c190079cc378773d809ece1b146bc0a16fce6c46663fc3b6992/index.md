@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Wars
-description: W:10 L:8 D:0 Bonus ❌
+description: W:10 L:8 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1722148180
 ---
@@ -18,11 +18,11 @@ WhatsApp: <color=#00FFFF>034 99879-2012</color>
  <color=red>Top 1 BR </color> está recrutando guerreiros dedicados em
  RS e WS. interessado chamar no whatsapp.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (347)|
+| ELO Regular | 1225 🔺  (346)|
 | ELO Competitive | 1246 🔺  (416)|
 | Total Matches | 18 |
 | Wins | 10 |

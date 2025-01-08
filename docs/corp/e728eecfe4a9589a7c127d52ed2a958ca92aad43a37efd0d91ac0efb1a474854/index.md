@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hun Avengers
-description: W:12 L:13 D:0 Bonus ❌
+description: W:12 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1709658385
 ---
@@ -19,12 +19,12 @@ Ugyanitt bojler eladó
 Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 ```
 ### [Discord](https://discord.gg/9SyrBAt)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (845)|
-| ELO Competitive | 1288 🔻  (300)|
+| ELO Regular | 1181 🔻  (846)|
+| ELO Competitive | 1288 🔻  (301)|
 | Total Matches | 25 |
 | Wins | 12 |
 | Losses | 13 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tycho Corp
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1713475317
 ---
@@ -16,12 +16,12 @@ date: 1713475317
 Welcome to Tycho. Have fun, be a decent person. Communicate as best y
 ou can. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (880)|
-| ELO Competitive | 1176 🔻  (1034)|
+| ELO Regular | 1176 🔻  (881)|
+| ELO Competitive | 1176 🔻  (1035)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

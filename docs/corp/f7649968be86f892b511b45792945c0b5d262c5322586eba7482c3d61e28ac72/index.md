@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​STARBLAZER 
-description: W:2 L:4 D:0 Bonus ❌
+description: W:2 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707871199
 ---
@@ -15,12 +15,12 @@ date: 1707871199
 ```
 For all fans of the STARBLAZER yamato series
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (947)|
-| ELO Competitive | 1172 🔻  (1076)|
+| ELO Regular | 1171 🔻  (948)|
+| ELO Competitive | 1172 🔻  (1077)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

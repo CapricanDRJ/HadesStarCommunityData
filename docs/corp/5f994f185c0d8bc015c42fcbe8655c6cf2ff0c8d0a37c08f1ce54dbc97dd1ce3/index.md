@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Veil of Maya
-description: W:4 L:2 D:0 Bonus ❌
+description: W:4 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1719574274
 ---
@@ -19,11 +19,11 @@ tud por Discord y te aceptaremos encantados!
 [discord url]
 ```
 ### [Discord](https://discord.gg/nB2Nsukt7X)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (351)|
+| ELO Regular | 1224 🔻  (350)|
 | ELO Competitive | 1224 🔻  (486)|
 | Total Matches | 6 |
 | Wins | 4 |

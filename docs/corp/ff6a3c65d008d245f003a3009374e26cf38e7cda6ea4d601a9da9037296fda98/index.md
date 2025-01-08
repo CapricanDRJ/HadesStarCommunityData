@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​YETI Collective
-description: W:22 L:50 D:0 Bonus ❌
+description: W:22 L:50 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1736023522
 ---
@@ -21,12 +21,12 @@ DC : tqSz2DCJZ8
 
 ```
 ### [Discord](https://discord.gg/tqSz2DCJZ8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1015 🔻  (1352)|
-| ELO Competitive | 1130 🔻  (1298)|
+| ELO Regular | 1015 🔻  (1353)|
+| ELO Competitive | 1130 🔻  (1299)|
 | Total Matches | 72 |
 | Wins | 22 |
 | Losses | 50 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lupus Regnum
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
 date: 1735939087
 ---
@@ -15,11 +15,11 @@ date: 1735939087
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (332)|
+| ELO Regular | 1228 🔺  (331)|
 | ELO Competitive | 1220 🔺  (498)|
 | Total Matches | 2 |
 | Wins | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​●Black•Sails●
-description: W:20 L:23 D:0 Bonus ✅
+description: W:20 L:23 D:0 Bonus ✅ 34%
 image: ./favicon.png
 date: 1736272005
 ---
@@ -15,11 +15,11 @@ date: 1736272005
 ```
 Together We Can Achieve More.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (686)|
+| ELO Regular | 1186 🔺  (687)|
 | ELO Competitive | 1245 🔺  (418)|
 | Total Matches | 43 |
 | Wins | 20 |

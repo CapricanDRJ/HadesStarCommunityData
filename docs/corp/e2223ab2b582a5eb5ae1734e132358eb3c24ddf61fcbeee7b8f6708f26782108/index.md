@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: W:22 L:18 D:0 Bonus ❌
+description: W:22 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1731988333
 ---
@@ -19,11 +19,11 @@ nd rs welcoming all players! Rs on weekends mainly. Inactive players
 will be kicked! Founder: Emperor 
 ```
 ### [Discord](https://discord.gg/Red4yqWn3F)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (338)|
+| ELO Regular | 1226 🔺  (337)|
 | ELO Competitive | 1308 🔺  (260)|
 | Total Matches | 40 |
 | Wins | 22 |

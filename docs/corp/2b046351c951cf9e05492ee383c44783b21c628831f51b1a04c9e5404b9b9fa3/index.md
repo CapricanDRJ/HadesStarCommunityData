@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Paramedic ICU
-description: W:9 L:8 D:2 Bonus ❌
+description: W:9 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1711617455
 ---
@@ -16,7 +16,7 @@ date: 1711617455
 Welcome to Paramedic ICU. This is a clan/corporation based on respect
 ing the higher-ups, being friendly, and helping your comrads out.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:23 L:32 D:1 Bonus ❌
+description: W:23 L:32 D:1 Bonus ❌ 13%
 image: ./favicon.png
 date: 1735168988
 ---
@@ -18,11 +18,11 @@ ccount inGame to be a member. InGame space is prioritized for running
  red or white stars. <color="green"> Discord:MgcvvsKa8q
 ```
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (712)|
+| ELO Regular | 1186 🔻  (713)|
 | ELO Competitive | 1312 🔻  (248)|
 | Total Matches | 56 |
 | Wins | 23 |

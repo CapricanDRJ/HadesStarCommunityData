@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mandalorians
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1721569474
 ---
@@ -18,12 +18,12 @@ ultiple species and bound by a common creed, language, and code. Disc
 ord [discord url] , This is the way.
 ```
 ### [Discord](https://discord.gg/BdUFA9bhPE)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1008)|
-| ELO Competitive | 1168 🔻  (1127)|
+| ELO Regular | 1165 🔻  (1009)|
+| ELO Competitive | 1168 🔻  (1128)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

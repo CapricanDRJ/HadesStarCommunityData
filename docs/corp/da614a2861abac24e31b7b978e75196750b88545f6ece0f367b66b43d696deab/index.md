@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​联合宇宙
-description: W:4 L:15 D:0 Bonus ❌
+description: W:4 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1725261363
 ---
@@ -15,12 +15,12 @@ date: 1725261363
 ```
 黑名单：无 白名单：无 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1071 🔻  (1322)|
-| ELO Competitive | 1117 🔻  (1316)|
+| ELO Regular | 1071 🔻  (1323)|
+| ELO Competitive | 1117 🔻  (1317)|
 | Total Matches | 19 |
 | Wins | 4 |
 | Losses | 15 |

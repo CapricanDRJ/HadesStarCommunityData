@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:7 L:1 D:0 Bonus ✅
+description: W:7 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
 date: 1735719426
 ---
@@ -16,12 +16,12 @@ date: 1735719426
 隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席
 莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (194)|
-| ELO Competitive | 1294 🔺  (285)|
+| ELO Regular | 1281 🔺  (195)|
+| ELO Competitive | 1294 🔺  (286)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

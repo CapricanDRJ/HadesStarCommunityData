@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rebellion!
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1712768023
 ---
@@ -16,7 +16,7 @@ date: 1712768023
 Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like
  otherwise a fairly inactive crew
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

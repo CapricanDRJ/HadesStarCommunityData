@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​自由星际联盟
-description: W:6 L:40 D:0 Bonus ❌
+description: W:6 L:40 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732877795
 ---
@@ -15,12 +15,12 @@ date: 1732877795
 ```
 <color=red>QQ群号：205791816</color>  寒暑假活跃
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 975 🔻  (1365)|
-| ELO Competitive | 1058 🔻  (1362)|
+| ELO Regular | 975 🔻  (1366)|
+| ELO Competitive | 1058 🔻  (1363)|
 | Total Matches | 46 |
 | Wins | 6 |
 | Losses | 40 |

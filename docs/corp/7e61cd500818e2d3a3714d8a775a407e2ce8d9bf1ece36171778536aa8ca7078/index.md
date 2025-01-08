@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:4 L:3 D:0 Bonus ❌
+description: W:4 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735688498
 ---
@@ -17,7 +17,7 @@ date: 1735688498
 事 2集团不强制打白,需要请联系干事 3所有成员都有义务互帮互助，可量力进行捐赠。集团不限等级所有人均可加入,大家提起携手共进。企鹅群59
 3906941
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

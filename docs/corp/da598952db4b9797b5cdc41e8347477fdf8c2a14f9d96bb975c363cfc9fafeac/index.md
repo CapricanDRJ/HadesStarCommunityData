@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​fishwax
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1709098064
 ---
@@ -16,12 +16,12 @@ date: 1709098064
 Join us as we dominate the fake universe!
 And check out our YouTube channel if you get a chance.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (823)|
-| ELO Competitive | 1183 🔻  (987)|
+| ELO Regular | 1183 🔻  (824)|
+| ELO Competitive | 1183 🔻  (988)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Mini Elite
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1714047703
 ---
@@ -16,12 +16,12 @@ date: 1714047703
 Welcome to the Mini Elite!Owned by The ElitePart of The Elite Feder
 ation.May the Low Red Stars of Hades unite into TEF
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1142)|
-| ELO Competitive | 1146 🔻  (1250)|
+| ELO Regular | 1145 🔻  (1143)|
+| ELO Competitive | 1146 🔻  (1251)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

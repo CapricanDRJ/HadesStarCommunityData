@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Urban Legends
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1705760541
 ---
@@ -26,12 +26,12 @@ discord.gg/qz8kpgtj
 3 day inactivity kick
 ```
 ### [Discord](https://discord.gg/wd2GdBVAaa)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (915)|
-| ELO Competitive | 1178 🔻  (1017)|
+| ELO Regular | 1173 🔻  (916)|
+| ELO Competitive | 1178 🔻  (1018)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

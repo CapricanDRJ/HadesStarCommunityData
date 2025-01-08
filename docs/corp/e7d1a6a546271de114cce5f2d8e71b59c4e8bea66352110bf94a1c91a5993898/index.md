@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SALTARDIS
-description: W:2 L:6 D:0 Bonus ❌
+description: W:2 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1706068866
 ---
@@ -15,12 +15,12 @@ date: 1706068866
 ```
 This corporation is no longer active.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1093)|
-| ELO Competitive | 1169 🔻  (1120)|
+| ELO Regular | 1154 🔻  (1094)|
+| ELO Competitive | 1169 🔻  (1121)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

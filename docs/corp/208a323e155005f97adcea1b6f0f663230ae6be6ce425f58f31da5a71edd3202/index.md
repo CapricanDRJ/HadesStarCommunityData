@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​УпсПриехали
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1705149299
 ---
@@ -15,12 +15,12 @@ date: 1705149299
 ```
 lol xdxd корпа сдохла
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (635)|
-| ELO Competitive | 1188 🔻  (806)|
+| ELO Regular | 1188 🔻  (636)|
+| ELO Competitive | 1188 🔻  (807)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

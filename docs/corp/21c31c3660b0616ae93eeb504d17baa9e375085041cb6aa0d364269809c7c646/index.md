@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Relic Hunters
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1701385831
 ---
@@ -25,7 +25,7 @@ Weekly WS
 Discord is mandatory:
 sYAuq5vAD4
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

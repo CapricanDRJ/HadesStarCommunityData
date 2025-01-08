@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star-Jump CORPS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1699184598
 ---
@@ -25,12 +25,12 @@ HVgvAaF
 
 (PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (703)|
-| ELO Competitive | 1186 🔻  (892)|
+| ELO Regular | 1186 🔻  (704)|
+| ELO Competitive | 1186 🔻  (893)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

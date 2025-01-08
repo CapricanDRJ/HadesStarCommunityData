@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UFO
-description: W:7 L:13 D:2 Bonus ❌
+description: W:7 L:13 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1736163529
 ---
@@ -16,7 +16,7 @@ date: 1736163529
 United Fleet Operations:
 NuvtUTUxQj 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

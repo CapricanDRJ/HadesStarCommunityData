@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Бакланы
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1726836191
 ---
@@ -15,7 +15,7 @@ date: 1726836191
 ```
 Центр психологической поддержки после Голубых Звезд [discord url]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:47 L:12 D:0 Bonus ❌
+description: W:47 L:12 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735695694
 ---
@@ -17,7 +17,7 @@ Discord and at least monthly WS participation required. Part of the m
 ulti-corp group, Astral Alliance [discord url]
 ```
 ### [Discord](https://discord.gg/gdwqCqc2VN)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

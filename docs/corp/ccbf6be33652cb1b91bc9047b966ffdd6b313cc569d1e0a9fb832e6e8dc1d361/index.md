@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​数字星际集团
-description: W:8 L:11 D:1 Bonus ❌
+description: W:8 L:11 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1730056727
 ---
@@ -17,11 +17,11 @@ date: 1730056727
 cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<color=purple>  <size=
 700>本团QQ福利群<b>763886797</b><color=red><size=920>不要捐旗舰
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1173)|
+| ELO Regular | 1137 🔻  (1174)|
 | ELO Competitive | 1157 🔻  (1202)|
 | Total Matches | 20 |
 | Wins | 8 |

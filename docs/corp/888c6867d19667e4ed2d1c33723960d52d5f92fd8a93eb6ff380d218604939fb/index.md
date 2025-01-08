@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ДИВЕРСАНТЫ
-description: W:68 L:12 D:1 Bonus ✅
+description: W:68 L:12 D:1 Bonus ✅ 48%
 image: ./favicon.png
 date: 1735716421
 ---
@@ -20,7 +20,7 @@ date: 1735716421
 <color=red>Telegram(<color=red>ОБЯЗАТЕЛЬНО или КИК</color>)
 +79105072411 @lavrusha23</color>
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

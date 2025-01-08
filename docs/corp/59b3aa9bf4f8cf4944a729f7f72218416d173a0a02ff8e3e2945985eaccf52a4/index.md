@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Anarchy G13
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707434106
 ---
@@ -16,11 +16,11 @@ date: 1707434106
 we strive to be the best  follow us on www.facebook.com/AnarchyG13. w
 hitestar or kick
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1059)|
+| ELO Regular | 1158 🔻  (1060)|
 | ELO Competitive | 1158 🔻  (1197)|
 | Total Matches | 3 |
 | Wins | 0 |

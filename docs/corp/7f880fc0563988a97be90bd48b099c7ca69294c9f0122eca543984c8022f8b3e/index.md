@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cronos World
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1710932080
 ---
@@ -16,12 +16,12 @@ date: 1710932080
 Wir gehören zu Enigma.
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (938)|
-| ELO Competitive | 1171 🔻  (1085)|
+| ELO Regular | 1171 🔻  (939)|
+| ELO Competitive | 1171 🔻  (1086)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

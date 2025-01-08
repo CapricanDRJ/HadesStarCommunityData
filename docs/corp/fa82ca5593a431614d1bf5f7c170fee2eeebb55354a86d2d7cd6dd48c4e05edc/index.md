@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Battlestar Fr
-description: W:4 L:4 D:0 Bonus ❌
+description: W:4 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1716997651
 ---
@@ -20,7 +20,7 @@ Paro, nous sommes.
 Discord : x9QTsuZ3mg
 ```
 ### [Discord](https://discord.gg/x9QTsuZ3mg)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

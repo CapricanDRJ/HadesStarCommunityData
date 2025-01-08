@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星环建设集团
-description: W:9 L:7 D:2 Bonus ❌
+description: W:9 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1728129128
 ---
@@ -17,7 +17,7 @@ date: 1728129128
                                  欢迎加入，需要神器找杨星开放外交站                   
              qq群: 637144087
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

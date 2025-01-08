@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Core
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1700618828
 ---
@@ -16,12 +16,12 @@ date: 1700618828
 Copyright (c) 2017. All rights reversed.
 Glory to Ukraine!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (693)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1186 🔻  (694)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Green Dwarf
-description: W:4 L:1 D:0 Bonus ❌
+description: W:4 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1718536141
 ---
@@ -18,7 +18,7 @@ d recommended for RS, weekly WS, advice and community. Currently 4 co
 rps in the Dwarf community. 
 ```
 ### [Discord](https://discord.gg/aBcFBnzKBR)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

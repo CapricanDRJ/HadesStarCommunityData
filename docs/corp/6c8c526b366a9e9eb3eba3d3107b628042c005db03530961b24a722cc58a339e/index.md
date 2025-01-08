@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:32 L:14 D:1 Bonus ❌
+description: W:32 L:14 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735670155
 ---
@@ -16,7 +16,7 @@ date: 1735670155
 Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy 
 cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. v9vXJHAaKm
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

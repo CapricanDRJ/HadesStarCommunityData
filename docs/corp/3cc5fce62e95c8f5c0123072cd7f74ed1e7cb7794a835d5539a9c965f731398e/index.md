@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FAIR
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1722286796
 ---
@@ -16,12 +16,12 @@ date: 1722286796
 FAIR - Farm All In Range.  We are primarily a White Star corp. all co
 rp mambers are expected to do at least one white star a month.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (859)|
-| ELO Competitive | 1184 🔻  (977)|
+| ELO Regular | 1179 🔻  (860)|
+| ELO Competitive | 1184 🔻  (978)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Otters
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1699193919
 ---
@@ -20,7 +20,7 @@ rejoignez nous sur discord: SBBXmQ9
 
 "Vers l'infini et l'otter space !"
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

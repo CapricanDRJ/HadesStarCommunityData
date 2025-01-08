@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​keyan
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1712311014
 ---
@@ -15,7 +15,7 @@ date: 1712311014
 ```
 Dead
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZZZ-V
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735427986
 ---
@@ -17,7 +17,7 @@ date: 1735427986
 ни!! КТО НЕ ИГРАЕТ, НАМ НЕНУЖЕН! АКТИВНЫМ БОЙЦАМ КОРПОРАЦИИ ПРОЦВЕТАН
 ИЯ🎖️и НИКАКОЙ ПОЛИТИКИ!...
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

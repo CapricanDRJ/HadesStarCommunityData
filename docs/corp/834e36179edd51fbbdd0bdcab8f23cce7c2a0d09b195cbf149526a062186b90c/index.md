@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Drużyna A
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1723586519
 ---
@@ -18,12 +18,12 @@ Osoby z niskim lvl zbudujcie stację dyplomatyczną. Ci z nas z wyższym
  lvl udzielą wtedy wsparcia pomagając oczyścić wasz układ z Cerberów 
 i udostępnić lepsze artefakty.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (848)|
-| ELO Competitive | 1186 🔻  (898)|
+| ELO Regular | 1181 🔻  (849)|
+| ELO Competitive | 1186 🔻  (899)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

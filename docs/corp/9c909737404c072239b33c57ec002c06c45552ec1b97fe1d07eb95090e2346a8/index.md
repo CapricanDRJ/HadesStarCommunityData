@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Minutemen
-description: W:9 L:17 D:1 Bonus ❌
+description: W:9 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736034640
 ---
@@ -16,11 +16,11 @@ date: 1736034640
 Relaxed corp. White star with us for fun.
 ```
 ### [Discord](https://discord.gg/dgpJDdf5EX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (994)|
+| ELO Regular | 1168 🔻  (995)|
 | ELO Competitive | 1203 🔻  (622)|
 | Total Matches | 27 |
 | Wins | 9 |

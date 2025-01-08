@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cool Casual
-description: W:3 L:1 D:0 Bonus ✅
+description: W:3 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
 date: 1736254273
 ---
@@ -15,11 +15,11 @@ date: 1736254273
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (344)|
+| ELO Regular | 1225 🔺  (343)|
 | ELO Competitive | 1230 🔺  (463)|
 | Total Matches | 4 |
 | Wins | 3 |

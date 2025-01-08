@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:23 L:23 D:0 Bonus ❌
+description: W:23 L:23 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734757344
 ---
@@ -17,11 +17,11 @@ Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Plane
 ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
  beginnen!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (889)|
+| ELO Regular | 1175 🔻  (890)|
 | ELO Competitive | 1261 🔻  (368)|
 | Total Matches | 46 |
 | Wins | 23 |

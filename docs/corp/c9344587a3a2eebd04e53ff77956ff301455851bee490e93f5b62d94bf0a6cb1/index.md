@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​＊ПОБЕДА＊
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1700458875
 ---
@@ -22,7 +22,7 @@ date: 1700458875
 и БЗ 
 открыт набор новых игроков
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

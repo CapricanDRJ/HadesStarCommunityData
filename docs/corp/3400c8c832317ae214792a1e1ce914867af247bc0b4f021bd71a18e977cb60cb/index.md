@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​REY DE REYES
-description: W:1 L:12 D:0 Bonus ❌
+description: W:1 L:12 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1728409213
 ---
@@ -20,12 +20,12 @@ LIDER ARRIBA LOS PITOS
 
 CORPORACION HISPANA NIVEL 2
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (1312)|
-| ELO Competitive | 1090 🔻  (1343)|
+| ELO Regular | 1077 🔻  (1313)|
+| ELO Competitive | 1090 🔻  (1344)|
 | Total Matches | 13 |
 | Wins | 1 |
 | Losses | 12 |

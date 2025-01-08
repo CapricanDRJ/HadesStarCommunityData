@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OriginsOfQuarks
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1733729102
 ---
@@ -15,11 +15,11 @@ date: 1733729102
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (639)|
+| ELO Regular | 1187 🔻  (640)|
 | ELO Competitive | 1190 🔻  (775)|
 | Total Matches | 1 |
 | Wins | 0 |

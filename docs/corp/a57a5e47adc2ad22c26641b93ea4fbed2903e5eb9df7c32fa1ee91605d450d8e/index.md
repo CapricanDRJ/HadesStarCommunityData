@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Doomsday
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1715246850
 ---
@@ -15,7 +15,7 @@ date: 1715246850
 ```
 Ein kleiner Konzern. Mal schauen wo es hingeht.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

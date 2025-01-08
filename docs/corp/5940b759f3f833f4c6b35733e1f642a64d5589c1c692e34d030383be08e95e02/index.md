@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ark Summit
-description: W:12 L:0 D:0 Bonus ❌
+description: W:12 L:0 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1726301901
 ---
@@ -18,7 +18,7 @@ duct yourself appropriately, for we are a highly experienced WS Group
 .<br><br>(D)RS7-10<br>Bi-Weekly WS<br>Discord Mandatory
 ```
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

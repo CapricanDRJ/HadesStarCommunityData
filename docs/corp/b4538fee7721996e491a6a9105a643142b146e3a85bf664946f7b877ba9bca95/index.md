@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ArcadianVoiders
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1705597966
 ---
@@ -18,12 +18,12 @@ We will help you grow.
 Join us.
 Discord: jQSj4w8CnP
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (941)|
-| ELO Competitive | 1171 🔻  (1087)|
+| ELO Regular | 1171 🔻  (942)|
+| ELO Competitive | 1171 🔻  (1088)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

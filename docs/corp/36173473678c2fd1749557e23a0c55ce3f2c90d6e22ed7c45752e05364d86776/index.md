@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SpaceX
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1708788469
 ---
@@ -17,12 +17,12 @@ Innovative corp looking for active players, we love to help each othe
 r and clearout whole red stars :)
 join our Discord - P3ZAdzA
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1010)|
-| ELO Competitive | 1169 🔻  (1123)|
+| ELO Regular | 1165 🔻  (1011)|
+| ELO Competitive | 1169 🔻  (1124)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

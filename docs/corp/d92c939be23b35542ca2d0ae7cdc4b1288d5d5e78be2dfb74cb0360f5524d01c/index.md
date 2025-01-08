@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​青鸾殿
-description: W:4 L:3 D:0 Bonus ❌
+description: W:4 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1724823432
 ---
@@ -25,7 +25,7 @@ date: 1724823432
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

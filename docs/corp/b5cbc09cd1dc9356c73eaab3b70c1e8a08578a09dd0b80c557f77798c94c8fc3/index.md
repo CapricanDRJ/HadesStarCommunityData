@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ukraine
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1727557898
 ---
@@ -15,12 +15,12 @@ date: 1727557898
 ```
 Українці тут.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (965)|
-| ELO Competitive | 1170 🔻  (1111)|
+| ELO Regular | 1170 🔻  (966)|
+| ELO Competitive | 1170 🔻  (1112)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

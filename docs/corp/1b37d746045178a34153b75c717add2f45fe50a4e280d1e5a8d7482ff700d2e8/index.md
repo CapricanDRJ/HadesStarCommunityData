@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​brit boys
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1700408082
 ---
@@ -16,7 +16,7 @@ date: 1700408082
 Easy going fun. Must be active, respectful and enjoy a laugh. Over 20
  years old only. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

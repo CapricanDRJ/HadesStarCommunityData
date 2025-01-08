@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SkitleStarOrder
-description: W:3 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1728148067
 ---
@@ -16,7 +16,7 @@ date: 1728148067
 A friendly corp recommended for lower levels. we help eachother out a
 nd do white stars
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

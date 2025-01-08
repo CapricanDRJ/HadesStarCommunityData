@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏太空舰队
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1710343465
 ---
@@ -22,12 +22,12 @@ date: 1710343465
 纪念1937年12月17号！勿忘国耻，铭记历史！
 全员传移新团！快
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (702)|
-| ELO Competitive | 1186 🔻  (890)|
+| ELO Regular | 1186 🔻  (703)|
+| ELO Competitive | 1186 🔻  (891)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​united unicorn
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1720172881
 ---
@@ -16,7 +16,7 @@ date: 1720172881
 ws focused on learning, still a lot to learn so we don't worry Farm o
 ur opponent we just want to play a little
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

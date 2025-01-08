@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spy Corp
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1706193880
 ---
@@ -18,12 +18,12 @@ Taking active players of all levels. We prioritize team work and help
 
 Prioritizing White Stars. Discord: wZeNus6JEf
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (978)|
-| ELO Competitive | 1175 🔻  (1046)|
+| ELO Regular | 1169 🔻  (979)|
+| ELO Competitive | 1175 🔻  (1047)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

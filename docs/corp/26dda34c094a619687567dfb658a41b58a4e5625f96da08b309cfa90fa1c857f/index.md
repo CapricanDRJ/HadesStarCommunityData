@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Anomaly
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1702763834
 ---
@@ -21,11 +21,11 @@ date: 1702763834
 Join Discord here: <b> 8aARTQU </b>
 SFA : EEpZuWf
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1035)|
+| ELO Regular | 1162 🔻  (1036)|
 | ELO Competitive | 1161 🔻  (1174)|
 | Total Matches | 3 |
 | Wins | 0 |

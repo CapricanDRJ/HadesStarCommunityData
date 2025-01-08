@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Макароны V1.0
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1705425169
 ---
@@ -15,12 +15,12 @@ date: 1705425169
 ```
 Корпорация создана в июне 2020г.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (729)|
-| ELO Competitive | 1185 🔻  (906)|
+| ELO Regular | 1185 🔻  (730)|
+| ELO Competitive | 1185 🔻  (907)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

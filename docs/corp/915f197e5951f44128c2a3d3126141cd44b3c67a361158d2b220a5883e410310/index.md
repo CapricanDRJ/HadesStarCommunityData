@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:12 L:15 D:0 Bonus ❌
+description: W:12 L:15 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1732806878
 ---
@@ -19,12 +19,12 @@ date: 1732806878
 Кз 4-10.
 Дискорд обязателен.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (341)|
-| ELO Competitive | 1280 🔺  (316)|
+| ELO Regular | 1226 🔺  (340)|
+| ELO Competitive | 1280 🔺  (317)|
 | Total Matches | 27 |
 | Wins | 12 |
 | Losses | 15 |

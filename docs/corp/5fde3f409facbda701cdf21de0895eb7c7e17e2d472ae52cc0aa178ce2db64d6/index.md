@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AKA
-description: W:3 L:13 D:0 Bonus ❌
+description: W:3 L:13 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1724480559
 ---
@@ -17,12 +17,12 @@ date: 1724480559
                                不管是谁都给我加群聊：308604873                  
        随时欢迎～祝各位早日成为“大佬”早日上R12！                          
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1227)|
-| ELO Competitive | 1167 🔻  (1132)|
+| ELO Regular | 1122 🔻  (1228)|
+| ELO Competitive | 1167 🔻  (1133)|
 | Total Matches | 16 |
 | Wins | 3 |
 | Losses | 13 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sprite
-description: W:24 L:8 D:1 Bonus ❌
+description: W:24 L:8 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735563487
 ---
@@ -17,12 +17,12 @@ Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día
  a la vez. Estrellas Blancas exigentes, trabajo en equipo y estrategi
 a. Nuestra filosofía: unidos somos invencibles.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1348 🔻  (95)|
-| ELO Competitive | 1421 🔻  (120)|
+| ELO Regular | 1348 🔻  (96)|
+| ELO Competitive | 1421 🔻  (121)|
 | Total Matches | 33 |
 | Wins | 24 |
 | Losses | 8 |

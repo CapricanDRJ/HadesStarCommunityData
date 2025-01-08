@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​L.P.A.
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1719335664
 ---
@@ -17,7 +17,7 @@ Second wing of Commander Cody and the Lost Planet Airmen Join our Dis
 cord server T9D3BdHY
 ```
 ### [Discord](https://discord.gg/r66hPREZUW)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

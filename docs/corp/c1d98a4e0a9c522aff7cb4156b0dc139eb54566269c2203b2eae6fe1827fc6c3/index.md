@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Brasil
-description: W:5 L:5 D:1 Bonus ❌
+description: W:5 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1734953846
 ---
@@ -17,7 +17,7 @@ Todos são bem-vindos!! Livres para iniciar Estrelas Brancas. Maior pa
 rticipação dentro da corporação é primordial para promoções! Ajude-no
 s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpha 
-description: W:8 L:39 D:1 Bonus ❌
+description: W:8 L:39 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735299689
 ---
@@ -15,12 +15,12 @@ date: 1735299689
 ```
 As long as you’re active you can stay.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 989 🔺  (1360)|
-| ELO Competitive | 1042 🔺  (1367)|
+| ELO Regular | 989 🔺  (1361)|
+| ELO Competitive | 1042 🔺  (1368)|
 | Total Matches | 48 |
 | Wins | 8 |
 | Losses | 39 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏远征太空舰队
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1700392452
 ---
@@ -27,12 +27,12 @@ Q群：838214551
 所有人不准踢人，哪怕是首席。
 黑名单：元宇宙
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (675)|
-| ELO Competitive | 1186 🔻  (854)|
+| ELO Regular | 1186 🔻  (676)|
+| ELO Competitive | 1186 🔻  (855)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

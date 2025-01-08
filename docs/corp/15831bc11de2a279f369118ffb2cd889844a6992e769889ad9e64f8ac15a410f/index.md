@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​No Orbit©
-description: W:16 L:8 D:0 Bonus ❌
+description: W:16 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1733497438
 ---
@@ -18,7 +18,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
  only accept people who have applied via Discord
 ```
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

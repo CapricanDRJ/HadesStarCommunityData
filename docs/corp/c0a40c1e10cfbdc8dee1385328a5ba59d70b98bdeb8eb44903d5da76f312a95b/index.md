@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TERRA P
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1718659061
 ---
@@ -18,12 +18,12 @@ date: 1718659061
 Вступайте в наши ряды!</color></b>
 (для бз нужен тг и активность)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (838)|
-| ELO Competitive | 1183 🔻  (980)|
+| ELO Regular | 1182 🔻  (839)|
+| ELO Competitive | 1183 🔻  (981)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

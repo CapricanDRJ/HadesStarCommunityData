@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​North Star
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1708707938
 ---
@@ -16,12 +16,12 @@ date: 1708707938
 Lasst euch vom Nordstern leiten!  
 ```
 ### [Discord](https://discord.gg/26zvmzND8z)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1014)|
-| ELO Competitive | 1168 🔻  (1125)|
+| ELO Regular | 1164 🔻  (1015)|
+| ELO Competitive | 1168 🔻  (1126)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

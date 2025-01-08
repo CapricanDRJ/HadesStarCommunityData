@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:13 L:13 D:2 Bonus ❌
+description: W:13 L:13 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734788893
 ---
@@ -16,7 +16,7 @@ date: 1734788893
 We  welcome all to join us, we will do our best to help you grow. we 
 do a weekly White Star and we have a Active player base!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

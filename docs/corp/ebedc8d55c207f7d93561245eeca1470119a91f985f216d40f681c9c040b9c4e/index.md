@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Frontier X
-description: W:9 L:4 D:0 Bonus ❌
+description: W:9 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1708872607
 ---
@@ -16,7 +16,7 @@ date: 1708872607
 we focus on white stars, app discord is very necessary. Discord: macr
 o7233
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

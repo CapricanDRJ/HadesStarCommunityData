@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Harpias
-description: W:0 L:1 D:2 Bonus ❌
+description: W:0 L:1 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1725243104
 ---
@@ -27,12 +27,12 @@ ser ativo
 
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (799)|
-| ELO Competitive | 1186 🔻  (889)|
+| ELO Regular | 1184 🔻  (800)|
+| ELO Competitive | 1186 🔻  (890)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 1 |

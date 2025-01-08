@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​death squadron 
-description: W:18 L:22 D:0 Bonus ❌
+description: W:18 L:22 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1719396058
 ---
@@ -17,11 +17,11 @@ date: 1719396058
 quadron<br>weekly white stars<br>private red stars 3 to 8
 ```
 ### [Discord](https://discord.gg/HhVjWquh4J)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1000)|
+| ELO Regular | 1166 🔻  (1001)|
 | ELO Competitive | 1245 🔻  (421)|
 | Total Matches | 40 |
 | Wins | 18 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​銀河戰狼
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1712810060
 ---
@@ -28,7 +28,7 @@ date: 1712810060
 軍团軍委書記长：
 軍团作战參谋长：
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

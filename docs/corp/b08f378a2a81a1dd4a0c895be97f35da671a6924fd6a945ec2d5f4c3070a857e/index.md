@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Vanu Centurions
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1702964295
 ---
@@ -15,12 +15,12 @@ date: 1702964295
 ```
 Worship of a boi named Vanu
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (794)|
-| ELO Competitive | 1184 🔻  (965)|
+| ELO Regular | 1184 🔻  (795)|
+| ELO Competitive | 1184 🔻  (966)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

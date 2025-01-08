@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​R-6 satalite
-description: W:39 L:17 D:1 Bonus ❌
+description: W:39 L:17 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735787338
 ---
@@ -18,11 +18,11 @@ eople with respect and open minded communication. come in and find ou
 t. :-)
 ```
 ### [Discord](https://discord.gg/srVXzBFEMH)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔻  (155)|
+| ELO Regular | 1305 🔻  (156)|
 | ELO Competitive | 1380 🔻  (160)|
 | Total Matches | 57 |
 | Wins | 39 |

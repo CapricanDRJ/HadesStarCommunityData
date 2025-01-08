@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ul'Adri
-description: W:10 L:10 D:0 Bonus ❌
+description: W:10 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1713796231
 ---
@@ -15,7 +15,7 @@ date: 1713796231
 ```
 We are one and never broken.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Discordia
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1711309787
 ---
@@ -15,12 +15,12 @@ date: 1711309787
 ```
 A conclusion is simply where you stopped thinking. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (829)|
-| ELO Competitive | 1184 🔻  (971)|
+| ELO Regular | 1183 🔻  (830)|
+| ELO Competitive | 1184 🔻  (972)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

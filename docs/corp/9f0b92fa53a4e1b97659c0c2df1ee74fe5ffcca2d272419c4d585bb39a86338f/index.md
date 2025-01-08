@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Archangels BR
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707427495
 ---
@@ -20,7 +20,7 @@ utro entrar.
 
 Em breve faremos estrelas brancas.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

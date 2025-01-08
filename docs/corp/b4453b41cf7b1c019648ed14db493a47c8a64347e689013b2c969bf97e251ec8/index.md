@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:19 L:4 D:0 Bonus ❌
+description: W:19 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735225475
 ---
@@ -17,7 +17,7 @@ Cz/Sk korpa pro nováčky, kde si osvojíte základy hry a připraví vás n
 a budoucí cestu vesmírem Hádesu. https://userxinos.github.io/HadesSpa
 ce/
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

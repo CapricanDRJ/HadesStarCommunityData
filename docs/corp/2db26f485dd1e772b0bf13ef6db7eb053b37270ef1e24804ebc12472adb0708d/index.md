@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZN•H2B
-description: W:4 L:9 D:0 Bonus ❌
+description: W:4 L:9 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1720840648
 ---
@@ -15,12 +15,12 @@ date: 1720840648
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1107)|
-| ELO Competitive | 1167 🔻  (1136)|
+| ELO Regular | 1152 🔻  (1108)|
+| ELO Competitive | 1167 🔻  (1137)|
 | Total Matches | 13 |
 | Wins | 4 |
 | Losses | 9 |

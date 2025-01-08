@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第六星际
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1711636989
 ---
@@ -19,7 +19,7 @@ date: 1711636989
 请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
 <color=yellow>QQ群：946597244
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

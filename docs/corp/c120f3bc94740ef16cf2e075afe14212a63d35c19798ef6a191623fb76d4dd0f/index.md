@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​uDS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1700027526
 ---
@@ -18,12 +18,12 @@ Le plan ? Entraide et baston dans la bonne ambiance !
 Nous sommes ouvert à tout français ou étrangers actifs et motivés.
 Discord : 9PEjNfq
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (693)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1186 🔻  (694)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

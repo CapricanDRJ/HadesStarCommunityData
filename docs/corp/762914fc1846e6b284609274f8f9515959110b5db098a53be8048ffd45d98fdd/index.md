@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Final Space
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1732201086
 ---
@@ -15,12 +15,12 @@ date: 1732201086
 ```
 Chookity pop!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (979)|
-| ELO Competitive | 1172 🔻  (1071)|
+| ELO Regular | 1169 🔻  (980)|
+| ELO Competitive | 1172 🔻  (1072)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

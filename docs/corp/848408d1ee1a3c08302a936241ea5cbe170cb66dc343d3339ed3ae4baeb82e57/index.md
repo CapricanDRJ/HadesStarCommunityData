@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Decode
-description: W:37 L:29 D:1 Bonus ❌
+description: W:37 L:29 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736080907
 ---
@@ -15,11 +15,11 @@ date: 1736080907
 ```
 Home for travelers across the multiverse
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1099 🔻  (1285)|
+| ELO Regular | 1099 🔻  (1286)|
 | ELO Competitive | 1226 🔻  (476)|
 | Total Matches | 67 |
 | Wins | 37 |

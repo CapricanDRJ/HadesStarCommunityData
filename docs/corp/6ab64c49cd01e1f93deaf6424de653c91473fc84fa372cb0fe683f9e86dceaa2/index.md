@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​EMPIRE 
-description: W:3 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1729536238
 ---
@@ -15,7 +15,7 @@ date: 1729536238
 ```
 WEEKLY WS & JOIN DISCORD 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

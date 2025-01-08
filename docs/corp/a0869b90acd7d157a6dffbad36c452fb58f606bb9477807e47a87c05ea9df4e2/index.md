@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Freelancer
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1707024506
 ---
@@ -22,12 +22,12 @@ RR0--6.
 Jetzt auch mit discord! 
 K3TTj9ED
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (905)|
-| ELO Competitive | 1174 🔻  (1048)|
+| ELO Regular | 1174 🔻  (906)|
+| ELO Competitive | 1174 🔻  (1049)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

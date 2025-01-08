@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Likapa
-description: W:100 L:9 D:0 Bonus ✅
+description: W:100 L:9 D:0 Bonus ✅ 50%
 image: ./favicon.png
 date: 1735927067
 ---
@@ -18,7 +18,7 @@ date: 1735927067
 or></size></b>
 ```
 ### [Discord](https://discord.gg/3CE2zAs)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |

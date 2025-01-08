@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Heavens
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1703655723
 ---
@@ -18,12 +18,12 @@ Welcome, my enemies...
 Welcome, everyone... ;))
 TJuKzyR
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (621)|
-| ELO Competitive | 1189 🔻  (789)|
+| ELO Regular | 1188 🔻  (622)|
+| ELO Competitive | 1189 🔻  (790)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

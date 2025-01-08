@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ahamkara
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1701071146
 ---
@@ -22,12 +22,12 @@ Peace is boring
 Teamwork makes the dream work,
 Discord Required - R8nzDPk
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (791)|
-| ELO Competitive | 1184 🔻  (961)|
+| ELO Regular | 1184 🔻  (792)|
+| ELO Competitive | 1184 🔻  (962)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

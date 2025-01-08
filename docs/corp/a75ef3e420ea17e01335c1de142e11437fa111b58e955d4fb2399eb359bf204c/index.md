@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​callisto corp
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1701427603
 ---
@@ -16,12 +16,12 @@ date: 1701427603
 Welcome to callisto corporation wanna relax or be competitive we've g
 ot both (white stars on Saturday USA time) 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (956)|
-| ELO Competitive | 1171 🔻  (1107)|
+| ELO Regular | 1171 🔻  (957)|
+| ELO Competitive | 1171 🔻  (1108)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

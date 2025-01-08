@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​NoweUkladyII
-description: W:13 L:0 D:0 Bonus ❌
+description: W:13 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1723854877
 ---
@@ -16,7 +16,7 @@ date: 1723854877
 Zapraszamy wszystkich aktywnych graczy, zarówno rozpoczynających przy
 godę, jak również chętnych na regularne zabawy na WS.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

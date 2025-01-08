@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Yellow Dwarf 
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1699414502
 ---
@@ -18,7 +18,7 @@ arf Crew family of corps-Red, White, Green & Blue. We work as a team
 to help each other. Weekly White Stars in our dedicated corp.
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

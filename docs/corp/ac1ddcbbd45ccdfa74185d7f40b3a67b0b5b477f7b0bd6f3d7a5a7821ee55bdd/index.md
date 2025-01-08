@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:14 L:5 D:0 Bonus ❌
+description: W:14 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1735740160
 ---
@@ -17,7 +17,7 @@ Weekly White Star pvp. New White Star Warriors will be supported, but
  you must be committed. Join to find out more via the Corporation Dis
 cord link below (Space Pals Server, Discord mandatory). 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

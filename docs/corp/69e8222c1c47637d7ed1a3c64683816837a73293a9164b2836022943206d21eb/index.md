@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​MD EMPIRE
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1730409510
 ---
@@ -16,7 +16,7 @@ date: 1730409510
 Consider joining the discord server. Participation in white star is s
 trongly recomended ;)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

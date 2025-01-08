@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Мертвый Космос
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1727297067
 ---
@@ -17,12 +17,12 @@ date: 1727297067
 совместных походов на БЗ. 
 Наш телеграмм https://t.me/hades_star
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1003)|
-| ELO Competitive | 1173 🔻  (1064)|
+| ELO Regular | 1165 🔻  (1004)|
+| ELO Competitive | 1173 🔻  (1065)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

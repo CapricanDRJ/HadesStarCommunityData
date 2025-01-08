@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Conflict
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1713171237
 ---
@@ -18,12 +18,12 @@ date: 1713171237
 <color=yellow>У нас тут дружній колектив \(※↭※)/ </color><color=red>
 Наш ТГ канал:https://t.me/+vzm06AL8ZX</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (676)|
-| ELO Competitive | 1186 🔻  (852)|
+| ELO Regular | 1186 🔻  (677)|
+| ELO Competitive | 1186 🔻  (853)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

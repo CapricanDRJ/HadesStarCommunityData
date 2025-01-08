@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elysium
-description: W:46 L:13 D:0 Bonus ✅
+description: W:46 L:13 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1735963121
 ---
@@ -18,7 +18,7 @@ Weekly WS, 38% art bonus, Regularly top 10 on WS leaderboards. We tra
 in and play. Join today!
 ```
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

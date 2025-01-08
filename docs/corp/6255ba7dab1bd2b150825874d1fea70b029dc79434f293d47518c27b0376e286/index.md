@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:50 L:18 D:0 Bonus ❌
+description: W:50 L:18 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1734774168
 ---
@@ -23,7 +23,7 @@ Recruiting rs9-rs11
 Discord: asheRjW
 ```
 ### [Discord](https://discord.gg/asheRjW)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

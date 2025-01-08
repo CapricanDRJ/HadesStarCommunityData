@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:7 L:5 D:0 Bonus ❌
+description: W:7 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1734208685
 ---
@@ -16,7 +16,7 @@ date: 1734208685
 Todoas las personas que puedan hablar español esta permitido aqui nos
  cuidamos como familia,  si no se conecta en 30 dias seran expulsados
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

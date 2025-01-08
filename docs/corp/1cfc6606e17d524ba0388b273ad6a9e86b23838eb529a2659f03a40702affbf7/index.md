@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:14 L:0 D:0 Bonus ❌
+description: W:14 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1734818344
 ---
@@ -17,7 +17,7 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
  Discord
 ```
 ### [Discord](https://discord.gg/bkjju25TCs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

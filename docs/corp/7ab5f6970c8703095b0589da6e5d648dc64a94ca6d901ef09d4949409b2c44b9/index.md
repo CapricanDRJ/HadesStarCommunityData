@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:13 L:13 D:0 Bonus ❌
+description: W:13 L:13 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1729837957
 ---
@@ -17,11 +17,11 @@ date: 1729837957
 的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</color>   集团qq:149662951          
 <size=150>           捐旗舰二       注意用语文明
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (882)|
+| ELO Regular | 1176 🔻  (883)|
 | ELO Competitive | 1272 🔻  (332)|
 | Total Matches | 26 |
 | Wins | 13 |

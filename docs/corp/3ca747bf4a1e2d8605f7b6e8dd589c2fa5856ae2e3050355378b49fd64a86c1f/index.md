@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​风云集团
-description: W:1 L:4 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1728391474
 ---
@@ -16,12 +16,12 @@ date: 1728391474
 欢迎各位的加入，集团欢迎宇宙里的有志之士。，本团属于发展阶段，让我们这个集团里共同发展，一起强大。合作集团：日月联邦   Commuist
 Union短期目标：没有   新手和不经常上线的想加入本团的前往风云分团  黑名单：残影0号  集团提前通知：啥也没有。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1019)|
-| ELO Competitive | 1163 🔻  (1158)|
+| ELO Regular | 1164 🔻  (1020)|
+| ELO Competitive | 1163 🔻  (1159)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​O.P.S
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1701248167
 ---
@@ -15,12 +15,12 @@ date: 1701248167
 ```
 trabajamos en las sombras para servir a la luz
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (710)|
-| ELO Competitive | 1186 🔻  (895)|
+| ELO Regular | 1186 🔻  (711)|
+| ELO Competitive | 1186 🔻  (896)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

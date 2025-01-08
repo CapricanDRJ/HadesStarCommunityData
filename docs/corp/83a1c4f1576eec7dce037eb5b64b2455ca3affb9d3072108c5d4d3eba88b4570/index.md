@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: W:11 L:48 D:1 Bonus ✅
+description: W:11 L:48 D:1 Bonus ✅ 34%
 image: ./favicon.png
 date: 1735801157
 ---
@@ -16,12 +16,12 @@ date: 1735801157
   Focused on multi-player  redstar raids.  Active, Supportive, & Loya
 l.  PG-13 chat. Must be able to communicate in English. 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1004 🔺  (1356)|
-| ELO Competitive | 1065 🔺  (1359)|
+| ELO Regular | 1004 🔺  (1357)|
+| ELO Competitive | 1065 🔺  (1360)|
 | Total Matches | 60 |
 | Wins | 11 |
 | Losses | 48 |

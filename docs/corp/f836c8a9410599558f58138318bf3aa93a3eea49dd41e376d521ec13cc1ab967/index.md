@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Danish Oil
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1723461506
 ---
@@ -15,12 +15,12 @@ date: 1723461506
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (940)|
-| ELO Competitive | 1173 🔻  (1063)|
+| ELO Regular | 1171 🔻  (941)|
+| ELO Competitive | 1173 🔻  (1064)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

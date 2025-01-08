@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Southall 1
-description: W:2 L:1 D:1 Bonus ❌
+description: W:2 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1732124154
 ---
@@ -15,7 +15,7 @@ date: 1732124154
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

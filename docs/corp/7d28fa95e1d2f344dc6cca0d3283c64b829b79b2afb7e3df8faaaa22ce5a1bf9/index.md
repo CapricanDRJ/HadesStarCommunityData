@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:53 L:6 D:0 Bonus ✅
+description: W:53 L:6 D:0 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736086317
 ---
@@ -16,7 +16,7 @@ date: 1736086317
 PEACE THROUGH POWER!
 ```
 ### [Discord](https://discord.gg/HfGM4PkP8d)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prosperity
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1728993425
 ---
@@ -22,7 +22,7 @@ Discord: WARZG9k
 Members are expected to join our Discord where all communication happ
 ens
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

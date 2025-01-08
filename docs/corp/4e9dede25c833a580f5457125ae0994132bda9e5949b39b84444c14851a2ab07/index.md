@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Training Corp
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1701262893
 ---
@@ -17,12 +17,12 @@ NOTE: the primary active members of this corporation have relocated t
 o Proyectcorp. If you are looking to learn the game please join that 
 corporation. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (693)|
-| ELO Competitive | 1186 🔻  (878)|
+| ELO Regular | 1186 🔻  (694)|
+| ELO Competitive | 1186 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​challenger corp
-description: W:9 L:7 D:0 Bonus ❌
+description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1712788428
 ---
@@ -15,11 +15,11 @@ date: 1712788428
 ```
 Afk
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (363)|
+| ELO Regular | 1220 🔻  (362)|
 | ELO Competitive | 1243 🔻  (425)|
 | Total Matches | 16 |
 | Wins | 9 |

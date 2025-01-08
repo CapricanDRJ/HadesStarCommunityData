@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OTRSᗜωO
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1722382956
 ---
@@ -15,11 +15,11 @@ date: 1722382956
 ```
 本团已废弃...剩余人员请转移至<color=yellow>梨山养老院</color>,谢谢
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (723)|
+| ELO Regular | 1185 🔻  (724)|
 | ELO Competitive | 1190 🔻  (773)|
 | Total Matches | 3 |
 | Wins | 1 |

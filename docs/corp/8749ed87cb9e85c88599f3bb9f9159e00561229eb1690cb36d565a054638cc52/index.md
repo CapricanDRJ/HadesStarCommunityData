@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Seila
-description: W:4 L:6 D:1 Bonus ❌
+description: W:4 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1721976355
 ---
@@ -16,12 +16,12 @@ date: 1721976355
 challenge of seila...at what's up....https://chat.whatsapp.com/Is4tBo
 tbkMiJhAQpMNoJET
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (923)|
-| ELO Competitive | 1180 🔻  (1011)|
+| ELO Regular | 1172 🔻  (924)|
+| ELO Competitive | 1180 🔻  (1012)|
 | Total Matches | 11 |
 | Wins | 4 |
 | Losses | 6 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Aeternae
-description: W:0 L:7 D:0 Bonus ❌
+description: W:0 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1714856234
 ---
@@ -23,12 +23,12 @@ Please say hello on discord if you are interested in joining us.
 
 7fT6uru
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1113 🔻  (1260)|
-| ELO Competitive | 1116 🔻  (1318)|
+| ELO Competitive | 1116 🔻  (1319)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 7 |

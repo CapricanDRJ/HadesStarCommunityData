@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:21 L:3 D:0 Bonus ❌
+description: W:21 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735048495
 ---
@@ -19,7 +19,7 @@ orp.
 WDL 88/2/4
 ```
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

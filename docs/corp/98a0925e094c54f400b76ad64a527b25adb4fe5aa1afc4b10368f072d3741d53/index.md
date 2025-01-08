@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Бестрашный лиги
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1722211667
 ---
@@ -15,12 +15,12 @@ date: 1722211667
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1033)|
-| ELO Competitive | 1166 🔻  (1145)|
+| ELO Regular | 1162 🔻  (1034)|
+| ELO Competitive | 1166 🔻  (1146)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

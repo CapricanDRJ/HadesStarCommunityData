@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ProyectCorp
-description: W:20 L:29 D:0 Bonus ❌
+description: W:20 L:29 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1730805560
 ---
@@ -17,11 +17,11 @@ Our leader is writing a good description, please join the corp, enjoy
  the company.
 ```
 ### [Discord](https://discord.gg/yddJSxbE72)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1190)|
+| ELO Regular | 1131 🔻  (1191)|
 | ELO Competitive | 1191 🔻  (751)|
 | Total Matches | 49 |
 | Wins | 20 |

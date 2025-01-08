@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Рагнарёк
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1703958954
 ---
@@ -17,12 +17,12 @@ date: 1703958954
 екватность, от нас любая возможная помощь, небезразличные учасники, п
 одключаемся к каналу дискорд и ватсап 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (883)|
-| ELO Competitive | 1174 🔻  (1049)|
+| ELO Regular | 1175 🔻  (884)|
+| ELO Competitive | 1174 🔻  (1050)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:21 L:16 D:1 Bonus ❌
+description: W:21 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1728565791
 ---
@@ -19,11 +19,11 @@ Season 56: 6 wins 0 loses
 Season 57: 5 wins 1 loses
 Season 58: 3 wins 1 loses
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (355)|
+| ELO Regular | 1221 🔻  (354)|
 | ELO Competitive | 1253 🔻  (390)|
 | Total Matches | 38 |
 | Wins | 21 |

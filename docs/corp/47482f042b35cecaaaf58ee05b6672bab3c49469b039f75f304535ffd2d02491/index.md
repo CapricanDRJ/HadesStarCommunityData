@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GermanSpaceUno.
-description: W:5 L:20 D:0 Bonus ❌
+description: W:5 L:20 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1726496019
 ---
@@ -17,12 +17,12 @@ Hi jeder aktive Spieler ist willkommen ! Wir suchen vor allem Spieler
  die am Weißen Zwerg teilnehmen möchten ! Deutsch und Englisch Bevorz
 ugt ! Discord Link. urC6aghBvF
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1053 🔻  (1329)|
-| ELO Competitive | 1068 🔻  (1356)|
+| ELO Regular | 1053 🔻  (1330)|
+| ELO Competitive | 1068 🔻  (1357)|
 | Total Matches | 25 |
 | Wins | 5 |
 | Losses | 20 |

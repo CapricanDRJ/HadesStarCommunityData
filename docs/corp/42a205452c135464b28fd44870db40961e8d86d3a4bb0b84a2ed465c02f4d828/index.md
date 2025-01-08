@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​X-wing
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1709557424
 ---
@@ -17,12 +17,12 @@ date: 1709557424
 mes for us passed by.
 we came to relaxed ws
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (870)|
-| ELO Competitive | 1177 🔻  (1025)|
+| ELO Regular | 1177 🔻  (871)|
+| ELO Competitive | 1177 🔻  (1026)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

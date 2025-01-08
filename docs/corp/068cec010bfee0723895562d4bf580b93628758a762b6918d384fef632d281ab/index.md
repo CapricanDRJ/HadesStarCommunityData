@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:10 L:8 D:0 Bonus ✅
+description: W:10 L:8 D:0 Bonus ✅ 48%
 image: ./favicon.png
 date: 1736237146
 ---
@@ -16,11 +16,11 @@ date: 1736237146
 На базе Корпорации СОЮЗ проходит сборный ивент КЗ. Есть желание присо
 единиться - @RSeventHS ( Телега )
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (352)|
+| ELO Regular | 1222 🔺  (351)|
 | ELO Competitive | 1275 🔺  (324)|
 | Total Matches | 18 |
 | Wins | 10 |

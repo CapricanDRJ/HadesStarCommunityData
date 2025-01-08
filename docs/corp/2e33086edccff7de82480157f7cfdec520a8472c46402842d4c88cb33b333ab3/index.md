@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​우주미아
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1726474082
 ---
@@ -16,12 +16,12 @@ date: 1726474082
 Looking for active player. Have fun with RS, WS, BS in any playstyle 
 you want.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1195)|
-| ELO Competitive | 1137 🔻  (1281)|
+| ELO Regular | 1130 🔻  (1196)|
+| ELO Competitive | 1137 🔻  (1282)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

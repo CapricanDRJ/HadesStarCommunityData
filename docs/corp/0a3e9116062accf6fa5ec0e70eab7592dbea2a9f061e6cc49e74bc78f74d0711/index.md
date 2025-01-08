@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:30 L:7 D:1 Bonus ❌
+description: W:30 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735637106
 ---
@@ -17,7 +17,7 @@ date: 1735637106
 ~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              
 ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

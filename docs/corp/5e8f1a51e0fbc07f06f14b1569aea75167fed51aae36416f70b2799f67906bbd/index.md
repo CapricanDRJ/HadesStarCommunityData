@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Fishy Business 
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1731245191
 ---
@@ -17,7 +17,7 @@ Must participate in corporation. Must join EITHER private rs OR ws.
 discord link below 👇
 ```
 ### [Discord](https://discord.gg/m9zTTQnGQX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

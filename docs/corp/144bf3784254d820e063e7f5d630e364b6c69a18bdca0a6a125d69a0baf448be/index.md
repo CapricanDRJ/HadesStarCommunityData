@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Divinity's End
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1721093092
 ---
@@ -17,12 +17,12 @@ Dedicated to helping new and lower level players learn all aspects th
 e game and grow. Discord server linked below!
 ```
 ### [Discord](https://discord.gg/NZqXs3FcKU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (789)|
-| ELO Competitive | 1187 🔻  (840)|
+| ELO Regular | 1184 🔻  (790)|
+| ELO Competitive | 1187 🔻  (841)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

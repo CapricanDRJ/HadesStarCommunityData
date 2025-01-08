@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Blood Brigade
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1731554996
 ---
@@ -19,7 +19,7 @@ Weekly white star.
 Discord Mandatory.
 <color=#FF0000>discord.gg/JsmNexdvXv</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

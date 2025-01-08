@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ brazil com.
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1712072325
 ---
@@ -15,12 +15,12 @@ date: 1712072325
 ```
 vamos ser bom
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (688)|
-| ELO Competitive | 1186 🔻  (850)|
+| ELO Regular | 1186 🔻  (689)|
+| ELO Competitive | 1186 🔻  (851)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

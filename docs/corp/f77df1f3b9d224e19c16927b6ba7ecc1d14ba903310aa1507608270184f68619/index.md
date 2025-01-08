@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TearsWorld
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1701162510
 ---
@@ -15,12 +15,12 @@ date: 1701162510
 ```
 DreamTeam training cob
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (813)|
-| ELO Competitive | 1184 🔻  (975)|
+| ELO Regular | 1184 🔻  (814)|
+| ELO Competitive | 1184 🔻  (976)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

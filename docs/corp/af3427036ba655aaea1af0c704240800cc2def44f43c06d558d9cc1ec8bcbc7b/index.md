@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Черный Легион
-description: W:22 L:14 D:0 Bonus ❌
+description: W:22 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734742024
 ---
@@ -17,7 +17,7 @@ date: 1734742024
 rcenaries available for hire on white stars |Черный Легион- междунаро
 дная корпорация наемников, доступная для найма на белые звезды
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

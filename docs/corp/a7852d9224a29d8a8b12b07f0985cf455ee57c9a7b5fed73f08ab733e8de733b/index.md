@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КРЫЛЯ ФЕНИКСА
-description: W:6 L:7 D:0 Bonus ❌
+description: W:6 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1731180289
 ---
@@ -15,7 +15,7 @@ date: 1731180289
 ```
 Окупаційна Адміністрація Імперії Борос
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

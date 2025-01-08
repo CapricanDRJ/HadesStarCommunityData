@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:14 L:15 D:0 Bonus ❌
+description: W:14 L:15 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1734805122
 ---
@@ -18,12 +18,12 @@ WS pilots in the game owe their pedigree to Watchers-I and now we are
  back under the auspices of Stargate Command. 
 ```
 ### [Discord](https://discord.gg/wNhSPbUyNT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1204 🔻  (478)|
-| ELO Competitive | 1290 🔻  (296)|
+| ELO Competitive | 1290 🔻  (297)|
 | Total Matches | 29 |
 | Wins | 14 |
 | Losses | 15 |

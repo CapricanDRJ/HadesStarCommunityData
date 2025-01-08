@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SUN OF 3LANDS
-description: W:11 L:4 D:1 Bonus ❌
+description: W:11 L:4 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1730897510
 ---
@@ -17,11 +17,11 @@ date: 1730897510
 r=#FFD700>LANDS <color=#FFFFFF>We Warmly welcome Newcomer here. Sa mg
 a gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (192)|
+| ELO Regular | 1282 🔺  (193)|
 | ELO Competitive | 1307 🔺  (262)|
 | Total Matches | 16 |
 | Wins | 11 |

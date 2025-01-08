@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星光舰队
-description: W:3 L:2 D:1 Bonus ❌
+description: W:3 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1723022156
 ---
@@ -15,7 +15,7 @@ date: 1723022156
 ```
 主团：星光万丈                    集团QQ852308177      暂时封闭
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

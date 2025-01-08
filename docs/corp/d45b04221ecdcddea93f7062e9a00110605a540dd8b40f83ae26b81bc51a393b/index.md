@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​chrtrncmndr
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1700546696
 ---
@@ -15,12 +15,12 @@ date: 1700546696
 ```
 Charter and Comander
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (954)|
-| ELO Competitive | 1171 🔻  (1105)|
+| ELO Regular | 1171 🔻  (955)|
+| ELO Competitive | 1171 🔻  (1106)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BlakkFlot
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1725347571
 ---
@@ -15,7 +15,7 @@ date: 1725347571
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

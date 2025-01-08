@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:18 L:42 D:1 Bonus ❌
+description: W:18 L:42 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736179458
 ---
@@ -18,11 +18,11 @@ embers Star Nations that are apart of it against the chaos outside of
  it. Casual group with a couple hardcore players! 
 ```
 ### [Discord](https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 🔻  (1339)|
+| ELO Regular | 1039 🔻  (1340)|
 | ELO Competitive | 1160 🔻  (1178)|
 | Total Matches | 61 |
 | Wins | 18 |

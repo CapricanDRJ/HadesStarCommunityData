@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:6 L:15 D:0 Bonus ❌
+description: W:6 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735160273
 ---
@@ -16,12 +16,12 @@ date: 1735160273
 All Welcome. Friendly Only. Come and Chill. Old or New. No Requiremen
 ts!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1299)|
-| ELO Competitive | 1117 🔻  (1317)|
+| ELO Regular | 1089 🔻  (1300)|
+| ELO Competitive | 1117 🔻  (1318)|
 | Total Matches | 21 |
 | Wins | 6 |
 | Losses | 15 |

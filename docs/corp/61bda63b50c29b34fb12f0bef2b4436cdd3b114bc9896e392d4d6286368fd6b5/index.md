@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Hexagonix
-description: W:2 L:6 D:1 Bonus ❌
+description: W:2 L:6 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1723679677
 ---
@@ -16,12 +16,12 @@ date: 1723679677
 Your typical corp - retired leader (Francus) (Discord - franhug): new
  leader (Delacrowa)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1111)|
-| ELO Competitive | 1152 🔻  (1226)|
+| ELO Regular | 1151 🔻  (1112)|
+| ELO Competitive | 1152 🔻  (1227)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

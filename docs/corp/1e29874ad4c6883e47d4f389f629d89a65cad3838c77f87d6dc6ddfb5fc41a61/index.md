@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Blue Dwarf
-description: W:5 L:2 D:0 Bonus ✅
+description: W:5 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
 date: 1736269300
 ---
@@ -18,7 +18,7 @@ join us for group Red Star runs, hints and tips, free artifacts, and
 weekly White Stars - enable scanner to opt-in! Discord advised
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |

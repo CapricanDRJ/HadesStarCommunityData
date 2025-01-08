@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stellar Exports
-description: W:62 L:41 D:0 Bonus ✅
+description: W:62 L:41 D:0 Bonus ✅ 46%
 image: ./favicon.png
 date: 1735900618
 ---
@@ -25,11 +25,11 @@ Trolls and inactives get kicked
 Discord preferred nBrqgsV 
 ```
 ### [Discord](https://discord.gg/nBrqgsV)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1353 🔺  (92)|
+| ELO Regular | 1353 🔺  (93)|
 | ELO Competitive | 1560 🔺  (30)|
 | Total Matches | 103 |
 | Wins | 62 |

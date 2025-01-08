@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇氏集团
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1703139429
 ---
@@ -20,12 +20,12 @@ QQ群：362076387，申请前请加入QQ群
 禁止黑名单进入。          黑名单：MPW-1594
 开心玩嗷，各位！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (899)|
-| ELO Competitive | 1174 🔻  (1051)|
+| ELO Regular | 1174 🔻  (900)|
+| ELO Competitive | 1174 🔻  (1052)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

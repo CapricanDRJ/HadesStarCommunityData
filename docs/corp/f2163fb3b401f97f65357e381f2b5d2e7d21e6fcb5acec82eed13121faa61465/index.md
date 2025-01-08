@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Starbond
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1707562719
 ---
@@ -15,12 +15,12 @@ date: 1707562719
 ```
 Awaiting the next update
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (716)|
-| ELO Competitive | 1185 🔻  (899)|
+| ELO Regular | 1185 🔻  (717)|
+| ELO Competitive | 1185 🔻  (900)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gwiezdna Horda
-description: W:4 L:0 D:0 Bonus ❌
+description: W:4 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1702798992
 ---
@@ -21,7 +21,7 @@ dzie.
 Discord obowiązkowy:
 qWTndzwmtX
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

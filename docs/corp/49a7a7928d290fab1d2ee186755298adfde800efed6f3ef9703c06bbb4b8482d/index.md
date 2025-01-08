@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Диванные Стражи
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1729093206
 ---
@@ -16,11 +16,11 @@ date: 1729093206
 рады всем адекватам) 
 наша телега @divanguardian удачной игры)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (986)|
+| ELO Regular | 1168 🔻  (987)|
 | ELO Competitive | 1191 🔺  (752)|
 | Total Matches | 4 |
 | Wins | 1 |

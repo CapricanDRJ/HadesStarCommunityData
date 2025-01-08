@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新?的星际集团?
-description: W:20 L:20 D:2 Bonus ❌
+description: W:20 L:20 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736143999
 ---
@@ -22,11 +22,11 @@ date: 1736143999
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1177)|
+| ELO Regular | 1137 🔻  (1178)|
 | ELO Competitive | 1270 🔻  (340)|
 | Total Matches | 42 |
 | Wins | 20 |

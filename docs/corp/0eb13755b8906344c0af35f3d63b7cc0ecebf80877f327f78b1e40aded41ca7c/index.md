@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ukr alliance 
-description: W:1 L:3 D:1 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1708262593
 ---
@@ -15,12 +15,12 @@ date: 1708262593
 ```
 hello everyone
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (884)|
-| ELO Competitive | 1175 🔻  (1041)|
+| ELO Regular | 1175 🔻  (885)|
+| ELO Competitive | 1175 🔻  (1042)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |

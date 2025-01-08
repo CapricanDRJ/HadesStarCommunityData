@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Коллайдер
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1704522124
 ---
@@ -20,12 +20,12 @@ date: 1704522124
  Дискорд :
 dZYNzuwr
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (631)|
-| ELO Competitive | 1188 🔻  (810)|
+| ELO Regular | 1188 🔻  (632)|
+| ELO Competitive | 1188 🔻  (811)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:14 L:11 D:0 Bonus ❌
+description: W:14 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735627484
 ---
@@ -18,11 +18,11 @@ date: 1735627484
 く！アクティブな新人さんのご参加お待ちしています<br>Family: 蝸牛の集い<br>nata il19/09/2022
 ```
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (340)|
+| ELO Regular | 1226 🔻  (339)|
 | ELO Competitive | 1263 🔻  (362)|
 | Total Matches | 25 |
 | Wins | 14 |

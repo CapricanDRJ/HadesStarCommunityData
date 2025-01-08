@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Sun
-description: W:6 L:11 D:2 Bonus ❌
+description: W:6 L:11 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1705458831
 ---
@@ -17,11 +17,11 @@ need active players. If you want to participate in WS you have to joi
 n the discord. Trading and co-op RS also available.
 ```
 ### [Discord](https://discord.gg/DpavCfx8XJ)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1178)|
+| ELO Regular | 1137 🔻  (1179)|
 | ELO Competitive | 1218 🔻  (519)|
 | Total Matches | 19 |
 | Wins | 6 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:7 L:19 D:1 Bonus ❌
+description: W:7 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1733301411
 ---
@@ -18,11 +18,11 @@ date: 1733301411
 友好关系：绛紫星
 Q：650722059
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1097 🔻  (1288)|
+| ELO Regular | 1097 🔻  (1289)|
 | ELO Competitive | 1162 🔻  (1170)|
 | Total Matches | 27 |
 | Wins | 7 |

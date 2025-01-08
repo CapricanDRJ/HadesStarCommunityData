@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Battle Academy
-description: W:5 L:1 D:0 Bonus ❌
+description: W:5 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1731859426
 ---
@@ -24,7 +24,7 @@ Part of the group known as <color=#c4ff00>SPACE PALS<color=#111100><
 color=#111100><b></b></color>
 ```
 ### [Discord](https://discord.gg/3A9WHQV)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

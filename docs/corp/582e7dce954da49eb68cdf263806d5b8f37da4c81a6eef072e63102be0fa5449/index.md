@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:32 L:16 D:1 Bonus ❌
+description: W:32 L:16 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735685180
 ---
@@ -17,7 +17,7 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
  8-11
 ```
 ### [Discord](https://discord.gg/JapURyAWBw)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​L’Amalgame
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1718673783
 ---
@@ -18,11 +18,11 @@ Corpo sans prise de tête pour joueurs occasionnel/débutants
 Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
  
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (820)|
+| ELO Regular | 1184 🔻  (821)|
 | ELO Competitive | 1189 🔺  (786)|
 | Total Matches | 2 |
 | Wins | 0 |

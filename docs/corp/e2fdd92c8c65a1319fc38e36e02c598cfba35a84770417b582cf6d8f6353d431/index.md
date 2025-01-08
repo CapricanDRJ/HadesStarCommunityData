@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galaxy knights
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1727735542
 ---
@@ -15,12 +15,12 @@ date: 1727735542
 ```
 Taking over hades galaxy 1 white star at a time
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1011)|
-| ELO Competitive | 1166 🔻  (1142)|
+| ELO Regular | 1165 🔻  (1012)|
+| ELO Competitive | 1166 🔻  (1143)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

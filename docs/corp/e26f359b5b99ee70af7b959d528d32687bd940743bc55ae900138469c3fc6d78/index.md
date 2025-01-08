@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UniversalCaos
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1727526037
 ---
@@ -17,7 +17,7 @@ Bienvenidos, somos una comunidad dedicada al crecimiento en conjunto
 y el apoyo. Ayudamos ER 1-8, comercio y próximamente EB.           Co
 ntacto: +57 3223620356          Alianza "AXOLOTLS"
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

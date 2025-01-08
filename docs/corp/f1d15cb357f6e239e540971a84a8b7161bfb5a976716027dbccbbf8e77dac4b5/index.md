@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Новый ЭДЭМ
-description: W:2 L:3 D:1 Bonus ❌
+description: W:2 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1703949335
 ---
@@ -17,12 +17,12 @@ date: 1703949335
 тигнув древнюю технологию Старших рас, пришли вернуть былое могуществ
 о расы Людей. https://t.me/new_edem_star
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (778)|
-| ELO Competitive | 1185 🔻  (903)|
+| ELO Regular | 1185 🔻  (779)|
+| ELO Competitive | 1185 🔻  (904)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 3 |

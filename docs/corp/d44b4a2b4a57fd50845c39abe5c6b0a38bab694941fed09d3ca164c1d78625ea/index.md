@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bounty Hunters
-description: W:7 L:7 D:0 Bonus ❌
+description: W:7 L:7 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1733034654
 ---
@@ -18,7 +18,7 @@ e na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekruta
 cja odbywa się poprzez nasz kanał Discord.
 ```
 ### [Discord](https://discord.gg/aWeFFra2B7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Redd Armada
-description: W:8 L:2 D:0 Bonus ❌
+description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1716212889
 ---
@@ -17,12 +17,12 @@ The interdimensional military force named after the founding commande
 r, John Redd. We do not serve under a flag but only through one ideal
 , protection of the multiverse. Integrity, Loyalty, Respect
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (207)|
-| ELO Competitive | 1286 🔻  (303)|
+| ELO Regular | 1272 🔻  (208)|
+| ELO Competitive | 1286 🔻  (304)|
 | Total Matches | 10 |
 | Wins | 8 |
 | Losses | 2 |

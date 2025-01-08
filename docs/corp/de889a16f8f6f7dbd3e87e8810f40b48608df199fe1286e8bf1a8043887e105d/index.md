@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SEK-SPACE ORDER
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1704617086
 ---
@@ -15,12 +15,12 @@ date: 1704617086
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1155)|
-| ELO Competitive | 1145 🔻  (1255)|
+| ELO Regular | 1143 🔻  (1156)|
+| ELO Competitive | 1145 🔻  (1256)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

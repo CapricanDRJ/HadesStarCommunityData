@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​White Star Inc.
-description: W:3 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1731940255
 ---
@@ -18,12 +18,12 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
  Use of Discord is highly recommend [discord url]
 ```
 ### [Discord](https://discord.gg/qbKYCBzmxk)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1051)|
-| ELO Competitive | 1181 🔻  (998)|
+| ELO Regular | 1159 🔻  (1052)|
+| ELO Competitive | 1181 🔻  (999)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

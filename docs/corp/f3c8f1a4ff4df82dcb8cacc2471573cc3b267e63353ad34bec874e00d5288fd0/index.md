@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​自由free
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1733548220
 ---
@@ -16,11 +16,11 @@ date: 1733548220
 Hola amigo today top get max 64 all   Freedom doesn't mean you can't 
 go online! ! !
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1169)|
+| ELO Regular | 1139 🔻  (1170)|
 | ELO Competitive | 1159 🔻  (1184)|
 | Total Matches | 5 |
 | Wins | 0 |

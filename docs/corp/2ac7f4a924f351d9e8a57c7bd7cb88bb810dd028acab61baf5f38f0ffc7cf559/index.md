@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Regulus
-description: W:8 L:15 D:0 Bonus ❌
+description: W:8 L:15 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1726054582
 ---
@@ -17,11 +17,11 @@ date: 1726054582
 </size><color=#fff><br>推薦コーポ<br>🟡Spica(No Discord＆SNS) <br>🟢星を継ぐもの<
 br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1204)|
+| ELO Regular | 1127 🔻  (1205)|
 | ELO Competitive | 1213 🔻  (575)|
 | Total Matches | 23 |
 | Wins | 8 |

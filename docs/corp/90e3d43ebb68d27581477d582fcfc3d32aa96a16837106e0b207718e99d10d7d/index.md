@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Draconis
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1701076397
 ---
@@ -16,12 +16,12 @@ date: 1701076397
 Welcome to Draconis. Anyone is free to join from newbys to experts. J
 ust play relatively regularly and have fun.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (772)|
-| ELO Competitive | 1185 🔻  (909)|
+| ELO Regular | 1185 🔻  (773)|
+| ELO Competitive | 1185 🔻  (910)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

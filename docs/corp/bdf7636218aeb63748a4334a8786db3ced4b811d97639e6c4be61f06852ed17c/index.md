@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​灰蛊风暴
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1727716461
 ---
@@ -15,7 +15,7 @@ date: 1727716461
 ```
 万众一心，一心一体  （咸鱼养老种田）
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

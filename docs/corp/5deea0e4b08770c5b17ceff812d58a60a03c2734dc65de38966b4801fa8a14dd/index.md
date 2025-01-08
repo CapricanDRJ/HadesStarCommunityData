@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RDR2
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1704211691
 ---
@@ -15,7 +15,7 @@ date: 1704211691
 ```
 Have some God Damn Faith, we just need more MONEY! Active 12/31/23
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

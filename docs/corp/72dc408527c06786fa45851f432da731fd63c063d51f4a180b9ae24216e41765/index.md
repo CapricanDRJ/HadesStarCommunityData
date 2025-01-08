@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ToC
-description: W:3 L:7 D:0 Bonus ❌
+description: W:3 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1720624874
 ---
@@ -18,12 +18,12 @@ Help each other in Red Stars.
  Always ask for promotions, they will be reflected in performance.
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1119)|
-| ELO Competitive | 1152 🔻  (1230)|
+| ELO Regular | 1150 🔻  (1120)|
+| ELO Competitive | 1152 🔻  (1231)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

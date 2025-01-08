@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gardiens détoil
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1712989452
 ---
@@ -16,12 +16,12 @@ date: 1712989452
 corpo Fr ouverte à tous pour se developper tranquille sans pression ^
 _^ pWWdSs4xHs
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1002)|
-| ELO Competitive | 1173 🔻  (1065)|
+| ELO Regular | 1165 🔻  (1003)|
+| ELO Competitive | 1173 🔻  (1066)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

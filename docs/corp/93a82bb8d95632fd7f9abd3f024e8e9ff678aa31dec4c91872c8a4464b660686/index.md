@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​United Artists
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1721723333
 ---
@@ -15,12 +15,12 @@ date: 1721723333
 ```
 Dissolution or overhauling soon.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (909)|
-| ELO Competitive | 1174 🔻  (1056)|
+| ELO Regular | 1173 🔻  (910)|
+| ELO Competitive | 1174 🔻  (1057)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

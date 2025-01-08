@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:14 L:19 D:0 Bonus ❌
+description: W:14 L:19 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1736086317
 ---
@@ -17,12 +17,12 @@ Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im
 Vordergrund.
 ```
 ### [Discord](https://discord.gg/UXNc44dxk6)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (290)|
-| ELO Competitive | 1299 🔻  (275)|
+| ELO Competitive | 1299 🔻  (276)|
 | Total Matches | 33 |
 | Wins | 14 |
 | Losses | 19 |

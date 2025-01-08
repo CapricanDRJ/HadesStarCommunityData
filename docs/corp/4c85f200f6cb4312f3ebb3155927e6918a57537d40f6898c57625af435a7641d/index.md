@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​LOST PIRATES
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1702944764
 ---
@@ -17,12 +17,12 @@ date: 1702944764
 k Nebula does not reflect what Hades Star was.  In contrast to the ne
 w game policy we have decided to abandon the game.  12/20/2023
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1191)|
-| ELO Competitive | 1134 🔻  (1290)|
+| ELO Regular | 1131 🔻  (1192)|
+| ELO Competitive | 1134 🔻  (1291)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

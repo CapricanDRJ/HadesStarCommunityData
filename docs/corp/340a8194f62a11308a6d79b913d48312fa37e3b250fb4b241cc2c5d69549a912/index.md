@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SYNDICATE
-description: W:5 L:0 D:0 Bonus ❌
+description: W:5 L:0 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1701301973
 ---
@@ -15,11 +15,11 @@ date: 1701301973
 ```
 <color=#00bfff>Tᴇʟᴇɢʀᴀᴍ:</color>   
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (210)|
+| ELO Regular | 1271 🔺  (211)|
 | ELO Competitive | 1271 🔺  (334)|
 | Total Matches | 5 |
 | Wins | 5 |

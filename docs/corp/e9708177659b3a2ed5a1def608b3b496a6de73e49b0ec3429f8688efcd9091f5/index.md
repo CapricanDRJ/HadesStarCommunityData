@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VALLKIRIA
-description: W:3 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1709703756
 ---
@@ -15,7 +15,7 @@ date: 1709703756
 ```
 донат флагмана запрещен!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

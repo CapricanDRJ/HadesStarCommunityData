@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:4 L:12 D:1 Bonus ❌
+description: W:4 L:12 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1732467328
 ---
@@ -15,12 +15,12 @@ date: 1732467328
 ```
 N'hésitez pas à venir discuter ou poser vos questions 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (1157)|
-| ELO Competitive | 1172 🔺  (1082)|
+| ELO Regular | 1142 🔺  (1158)|
+| ELO Competitive | 1172 🔺  (1083)|
 | Total Matches | 17 |
 | Wins | 4 |
 | Losses | 12 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​t 72 SwiftKey F
-description: W:5 L:8 D:0 Bonus ❌
+description: W:5 L:8 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1712942878
 ---
@@ -15,12 +15,12 @@ date: 1712942878
 ```
 War is hell.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (871)|
-| ELO Competitive | 1183 🔻  (981)|
+| ELO Regular | 1177 🔻  (872)|
+| ELO Competitive | 1183 🔻  (982)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 8 |

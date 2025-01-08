@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Omega Nation
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1725116439
 ---
@@ -17,12 +17,12 @@ date: 1725116439
 ze></b></color>
 ```
 ### [Discord](https://discord.gg/dnjPZnSfEP)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (887)|
-| ELO Competitive | 1180 🔻  (1009)|
+| ELO Regular | 1175 🔻  (888)|
+| ELO Competitive | 1180 🔻  (1010)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

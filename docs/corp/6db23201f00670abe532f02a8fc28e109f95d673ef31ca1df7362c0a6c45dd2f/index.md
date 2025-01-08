@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:11 L:22 D:0 Bonus ❌
+description: W:11 L:22 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1734352296
 ---
@@ -17,12 +17,12 @@ date: 1734352296
  to bring order to the galaxy and crush all who oppose the Empire. Jo
 in us or prepare to meet your destiny.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1239)|
-| ELO Competitive | 1156 🔻  (1210)|
+| ELO Regular | 1118 🔻  (1240)|
+| ELO Competitive | 1156 🔻  (1211)|
 | Total Matches | 33 |
 | Wins | 11 |
 | Losses | 22 |

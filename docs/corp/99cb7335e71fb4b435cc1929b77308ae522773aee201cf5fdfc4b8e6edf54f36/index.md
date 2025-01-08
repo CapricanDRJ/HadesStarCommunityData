@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TITANS
-description: W:3 L:9 D:0 Bonus ❌
+description: W:3 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1710483791
 ---
@@ -16,12 +16,12 @@ date: 1710483791
 <b> BRASIL TITANS vem jogar!damos orientação ,respeitem o tempo de in
 atividade e quando tiver 10 membros na disposição bora pra ws
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1194)|
-| ELO Competitive | 1143 🔻  (1264)|
+| ELO Regular | 1130 🔻  (1195)|
+| ELO Competitive | 1143 🔻  (1265)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |

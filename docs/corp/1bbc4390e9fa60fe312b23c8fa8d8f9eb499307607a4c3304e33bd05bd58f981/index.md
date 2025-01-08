@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ES Gaming 
-description: W:16 L:13 D:1 Bonus ❌
+description: W:16 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1713687157
 ---
@@ -15,7 +15,7 @@ date: 1713687157
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

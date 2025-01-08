@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:13 L:10 D:0 Bonus ❌
+description: W:13 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1734768159
 ---
@@ -16,12 +16,12 @@ date: 1734768159
 A home for any new or veteran player who wants to grow their corporat
 ion. Team focused; total support. Growing fast!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (223)|
-| ELO Competitive | 1298 🔺  (278)|
+| ELO Competitive | 1298 🔺  (279)|
 | Total Matches | 23 |
 | Wins | 13 |
 | Losses | 10 |

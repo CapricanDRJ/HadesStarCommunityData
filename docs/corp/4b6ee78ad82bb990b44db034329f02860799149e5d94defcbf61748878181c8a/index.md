@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​wyvern
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ✅ 28%
 image: ./favicon.png
 date: 1735837820
 ---
@@ -18,7 +18,7 @@ Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE
 s WS
 ```
 ### [Discord](https://discord.gg/AXfZ6BVzjx)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |

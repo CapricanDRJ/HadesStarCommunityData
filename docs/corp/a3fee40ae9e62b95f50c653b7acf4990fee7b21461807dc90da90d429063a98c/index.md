@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​情谊永存
-description: W:2 L:8 D:2 Bonus ❌
+description: W:2 L:8 D:2 Bonus ❌ 4%
 image: ./favicon.png
 date: 1732270377
 ---
@@ -15,12 +15,12 @@ date: 1732270377
 ```
 中国星际联盟附属小盟。欢迎加入，创立于2024.6.19 21点17分35秒。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔺  (1241)|
-| ELO Competitive | 1141 🔺  (1269)|
+| ELO Regular | 1117 🔺  (1242)|
+| ELO Competitive | 1141 🔺  (1270)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 8 |

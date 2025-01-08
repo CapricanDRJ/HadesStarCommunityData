@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hexwood
-description: W:9 L:8 D:0 Bonus ❌
+description: W:9 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736274109
 ---
@@ -19,7 +19,7 @@ Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929
 A social, easygoing Corp with allies to join together with for Red or
  White Stars. No pressure, play at your own pace.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

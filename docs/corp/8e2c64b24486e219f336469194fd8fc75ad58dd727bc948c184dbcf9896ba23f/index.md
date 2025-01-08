@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Anomalies
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1699464101
 ---
@@ -20,7 +20,7 @@ Let us know if you'll be inactive, we keep this Corp alive!
 
 Discord: vndpWu5
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

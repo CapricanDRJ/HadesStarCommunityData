@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CENTINELA
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1712424533
 ---
@@ -15,12 +15,12 @@ date: 1712424533
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (634)|
-| ELO Competitive | 1188 🔻  (794)|
+| ELO Regular | 1188 🔻  (635)|
+| ELO Competitive | 1188 🔻  (795)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

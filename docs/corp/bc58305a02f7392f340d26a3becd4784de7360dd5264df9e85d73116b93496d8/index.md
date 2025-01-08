@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​哈迪斯之星，启动！
-description: W:7 L:6 D:0 Bonus ❌
+description: W:7 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1733397371
 ---
@@ -17,11 +17,11 @@ date: 1733397371
 1（30级以下先发展，不要透支自己）<br>白星出船q群找首席报名<br>活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！<br>要提科技找首
 席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (349)|
+| ELO Regular | 1224 🔻  (348)|
 | ELO Competitive | 1239 🔻  (439)|
 | Total Matches | 13 |
 | Wins | 7 |

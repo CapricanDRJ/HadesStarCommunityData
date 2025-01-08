@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Thunderbears
-description: W:3 L:5 D:1 Bonus ❌
+description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1716342684
 ---
@@ -16,12 +16,12 @@ date: 1716342684
 Welcome to the Thunderbears!  New and Active, learning the game toget
 her. Discord is a requirement. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (912)|
-| ELO Competitive | 1178 🔻  (1015)|
+| ELO Regular | 1173 🔻  (913)|
+| ELO Competitive | 1178 🔻  (1016)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |

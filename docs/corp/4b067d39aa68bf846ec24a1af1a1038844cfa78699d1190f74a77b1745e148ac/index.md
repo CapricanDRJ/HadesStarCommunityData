@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​苏维埃联邦
-description: W:0 L:15 D:3 Bonus ❌
+description: W:0 L:15 D:3 Bonus ❌ 3%
 image: ./favicon.png
 date: 1723877412
 ---
@@ -15,12 +15,12 @@ date: 1723877412
 ```
 要求：1．和平2．建国．2023年11·13早上·34．（2024年，5月太阳帝国.取代苏联
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1044 🔻  (1335)|
-| ELO Competitive | 1051 🔻  (1366)|
+| ELO Regular | 1044 🔻  (1336)|
+| ELO Competitive | 1051 🔻  (1367)|
 | Total Matches | 18 |
 | Wins | 0 |
 | Losses | 15 |

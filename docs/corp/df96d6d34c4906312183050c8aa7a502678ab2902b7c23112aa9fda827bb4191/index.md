@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spica​
-description: W:38 L:9 D:1 Bonus ❌
+description: W:38 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735102880
 ---
@@ -18,7 +18,7 @@ date: 1735102880
 はOFF！<br><br>★初心者上級者問いません！ログイン耐性30日 <br><br>元Regulus Alliance
 ```
 ### [Discord](https://discord.gg/XQ47nAEXuY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

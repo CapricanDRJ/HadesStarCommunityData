@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​the light
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1716171643
 ---
@@ -17,12 +17,12 @@ date: 1716171643
  general chat. 2. Verbal abuse is not allowed. 3. I will be connected
  every day making adjustments to the clan.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (839)|
-| ELO Competitive | 1184 🔻  (966)|
+| ELO Regular | 1182 🔻  (840)|
+| ELO Competitive | 1184 🔻  (967)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

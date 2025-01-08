@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:11 L:8 D:2 Bonus ❌
+description: W:11 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1736016166
 ---
@@ -15,7 +15,7 @@ date: 1736016166
 ```
 Lets WiN all white Stars
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

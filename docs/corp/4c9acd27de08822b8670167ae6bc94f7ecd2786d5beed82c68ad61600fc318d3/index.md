@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​THE BENDERA
-description: W:15 L:6 D:0 Bonus ❌
+description: W:15 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1715830706
 ---
@@ -20,7 +20,7 @@ date: 1715830706
 -NEW PLAYERS ARE WELCOME HERE
 -THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

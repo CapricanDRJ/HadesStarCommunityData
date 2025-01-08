@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Корпорация Миф
-description: W:8 L:0 D:0 Bonus ❌
+description: W:8 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1715551301
 ---
@@ -18,11 +18,11 @@ date: 1715551301
 ёзды и эксперименты. Дата создания: 27.11.2019  КЗ9 - 21:15. 
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (159)|
+| ELO Regular | 1303 🔺  (160)|
 | ELO Competitive | 1305 🔺  (265)|
 | Total Matches | 8 |
 | Wins | 8 |

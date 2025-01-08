@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​N.P.C
-description: W:5 L:3 D:3 Bonus ❌
+description: W:5 L:3 D:3 Bonus ❌ 5%
 image: ./favicon.png
 date: 1722331865
 ---
@@ -15,7 +15,7 @@ date: 1722331865
 ```
 本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

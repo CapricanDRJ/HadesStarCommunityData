@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:6 L:37 D:1 Bonus ❌
+description: W:6 L:37 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735734750
 ---
@@ -16,12 +16,12 @@ date: 1735734750
 Wir sind ein aktiver Club. Aktive WZ-Spieler sind jederzeit willkomme
 n.      Wir handeln Gewürze .Ohne Stress 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1011 🔻  (1355)|
-| ELO Competitive | 1067 🔻  (1357)|
+| ELO Regular | 1011 🔻  (1356)|
+| ELO Competitive | 1067 🔻  (1358)|
 | Total Matches | 44 |
 | Wins | 6 |
 | Losses | 37 |

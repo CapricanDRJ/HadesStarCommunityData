@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Intari
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 date: 1726772074
 ---
@@ -16,12 +16,12 @@ date: 1726772074
 в удовольствие!
 трупы убиты и похоронены)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (824)|
-| ELO Competitive | 1183 🔻  (982)|
+| ELO Regular | 1183 🔻  (825)|
+| ELO Competitive | 1183 🔻  (983)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

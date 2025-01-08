@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CORP GHOST 
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725454801
 ---
@@ -17,7 +17,7 @@ SEJAM TODOS BEM VINDOS PARÁ INICIAR WS DE SEGUNDA A SEXTA> E AJUDAR N
 OVATOS E TAMBÉM ENSINAR > EXPULSÃO PARA VAGAS DE QUEM TIVER INATIVO P
 OR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

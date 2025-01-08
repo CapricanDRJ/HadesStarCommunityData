@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:6 L:8 D:0 Bonus ❌
+description: W:6 L:8 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1731859426
 ---
@@ -16,12 +16,12 @@ date: 1731859426
 Wir sind ein relativ Aktiver Konzern und Freuen uns auf  neue Mitglie
 der 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1072)|
-| ELO Competitive | 1187 🔻  (816)|
+| ELO Regular | 1157 🔻  (1073)|
+| ELO Competitive | 1187 🔻  (817)|
 | Total Matches | 14 |
 | Wins | 6 |
 | Losses | 8 |

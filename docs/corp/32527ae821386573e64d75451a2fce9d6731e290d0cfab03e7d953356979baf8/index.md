@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hail Hydra
-description: W:6 L:18 D:1 Bonus ❌
+description: W:6 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1723153186
 ---
@@ -15,12 +15,12 @@ date: 1723153186
 ```
 LEAVE!!!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1112 🔺  (1261)|
-| ELO Competitive | 1127 🔺  (1302)|
+| ELO Competitive | 1127 🔺  (1303)|
 | Total Matches | 25 |
 | Wins | 6 |
 | Losses | 18 |

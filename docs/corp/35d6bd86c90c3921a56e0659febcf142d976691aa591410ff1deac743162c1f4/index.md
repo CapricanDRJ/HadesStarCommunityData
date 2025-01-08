@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New Era
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1702699513
 ---
@@ -25,12 +25,12 @@ gaylor
 vayanse a la
 Discord: bS2yShvzDz
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (807)|
-| ELO Competitive | 1184 🔻  (967)|
+| ELO Regular | 1184 🔻  (808)|
+| ELO Competitive | 1184 🔻  (968)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

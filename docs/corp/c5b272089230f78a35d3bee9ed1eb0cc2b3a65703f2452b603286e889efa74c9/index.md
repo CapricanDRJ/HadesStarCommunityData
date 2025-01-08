@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: W:7 L:13 D:3 Bonus ❌
+description: W:7 L:13 D:3 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732190565
 ---
@@ -17,12 +17,12 @@ Seja bem vindo, sinta-se em casa! Buscamos ajudar iniciantes e cuidar
  um do outro. Não há proibições, nem requisitos de idade, apenas que 
 seja {Brasileiro} e online!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (1185)|
-| ELO Competitive | 1145 🔺  (1254)|
+| ELO Regular | 1133 🔺  (1186)|
+| ELO Competitive | 1145 🔺  (1255)|
 | Total Matches | 23 |
 | Wins | 7 |
 | Losses | 13 |

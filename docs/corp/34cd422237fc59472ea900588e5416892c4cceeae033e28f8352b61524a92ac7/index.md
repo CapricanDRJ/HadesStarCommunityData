@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CCCP
-description: W:1 L:7 D:3 Bonus ❌
+description: W:1 L:7 D:3 Bonus ❌ 3%
 image: ./favicon.png
 date: 1726918839
 ---
@@ -16,12 +16,12 @@ date: 1726918839
 集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手
 福利送1~6级神器，未经允许不得更改。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1224)|
-| ELO Competitive | 1140 🔺  (1276)|
+| ELO Regular | 1123 🔻  (1225)|
+| ELO Competitive | 1140 🔺  (1277)|
 | Total Matches | 11 |
 | Wins | 1 |
 | Losses | 7 |

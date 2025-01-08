@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Furyans
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1701200386
 ---
@@ -15,7 +15,7 @@ date: 1701200386
 ```
 You keep what you kill…Naw. One for all and all for one! 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

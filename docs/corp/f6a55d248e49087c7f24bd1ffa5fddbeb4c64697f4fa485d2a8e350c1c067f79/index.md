@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperio Tortuga
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1700725519
 ---
@@ -20,7 +20,7 @@ date: 1700725519
 ▒▄████▀▀</color>
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

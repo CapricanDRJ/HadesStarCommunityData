@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:6 L:13 D:3 Bonus ❌
+description: W:6 L:13 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735814679
 ---
@@ -17,11 +17,11 @@ date: 1735814679
 r=purple><size=50>                       🪐🌌..."El qué Persevera Alc
 anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (987)|
+| ELO Regular | 1168 🔻  (988)|
 | ELO Competitive | 1219 🔻  (507)|
 | Total Matches | 22 |
 | Wins | 6 |

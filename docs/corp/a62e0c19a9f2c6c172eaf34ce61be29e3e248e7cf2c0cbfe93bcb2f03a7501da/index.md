@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
-description: W:7 L:93 D:2 Bonus ❌
+description: W:7 L:93 D:2 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736237146
 ---
@@ -16,12 +16,12 @@ date: 1736237146
 elegram @actung_bunker
 ```
 ### [Discord](https://discord.gg/7qRTk7bX3P)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 753 🔻  (1379)|
-| ELO Competitive | 1026 🔻  (1373)|
+| ELO Regular | 753 🔻  (1380)|
+| ELO Competitive | 1026 🔻  (1374)|
 | Total Matches | 102 |
 | Wins | 7 |
 | Losses | 93 |

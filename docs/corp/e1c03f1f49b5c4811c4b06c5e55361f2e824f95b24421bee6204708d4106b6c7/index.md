@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Casual Joe
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1720819016
 ---
@@ -15,12 +15,12 @@ date: 1720819016
 ```
 Corp made for storage of players who don't come back
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (945)|
-| ELO Competitive | 1173 🔻  (1062)|
+| ELO Regular | 1171 🔻  (946)|
+| ELO Competitive | 1173 🔻  (1063)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

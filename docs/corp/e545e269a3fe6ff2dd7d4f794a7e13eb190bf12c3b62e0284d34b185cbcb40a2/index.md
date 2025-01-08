@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rozen Family
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1709148762
 ---
@@ -15,12 +15,12 @@ date: 1709148762
 ```
 Кукумбер, груша, два кота
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (971)|
-| ELO Competitive | 1171 🔻  (1102)|
+| ELO Regular | 1170 🔻  (972)|
+| ELO Competitive | 1171 🔻  (1103)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

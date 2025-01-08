@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​リリース
-description: W:55 L:23 D:0 Bonus ❌
+description: W:55 L:23 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1734905180
 ---
@@ -16,7 +16,7 @@ date: 1734905180
 　マルチゲーマーズグループ リリース へようこそ！　日本人の方を募集中です！初心者から上級者まで誰でも歓迎いたします！　ただしdiscor
 d必須です！　特別待遇はできかねますのでご注意ください！　　　　　　　　　　　　　　　　　　　　　 2024/11アクティブ！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WR104
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1732674359
 ---
@@ -16,11 +16,11 @@ date: 1732674359
 que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación U
 NSC
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (818)|
+| ELO Regular | 1184 🔻  (819)|
 | ELO Competitive | 1190 🔻  (767)|
 | Total Matches | 1 |
 | Wins | 0 |

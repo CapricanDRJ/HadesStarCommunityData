@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Aconitum
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1699715904
 ---
@@ -15,7 +15,7 @@ date: 1699715904
 ```
 inaktiv <3
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

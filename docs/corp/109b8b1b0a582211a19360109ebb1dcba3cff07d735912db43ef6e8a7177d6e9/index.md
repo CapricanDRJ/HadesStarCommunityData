@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Foreshadowing
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1715385150
 ---
@@ -17,12 +17,12 @@ Dusting off the Flagship and rebuilding a community. A mix of old-tim
 ers and new players, come and help us build Foreshadowing 2.0
 ```
 ### [Discord](https://discord.gg/3vcpUw33ew)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (879)|
-| ELO Competitive | 1176 🔻  (1029)|
+| ELO Regular | 1176 🔻  (880)|
+| ELO Competitive | 1176 🔻  (1030)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

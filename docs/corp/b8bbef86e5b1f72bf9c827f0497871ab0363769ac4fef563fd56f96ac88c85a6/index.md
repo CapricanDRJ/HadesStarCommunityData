@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prometheus
-description: W:9 L:11 D:0 Bonus ❌
+description: W:9 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1718761230
 ---
@@ -18,11 +18,11 @@ Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos
 o nosso grupo no Wpp pelo chat!
 ```
 ### [Discord](https://discord.gg/8baNJ6h2nH)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (886)|
+| ELO Regular | 1175 🔺  (887)|
 | ELO Competitive | 1202 🔺  (626)|
 | Total Matches | 20 |
 | Wins | 9 |

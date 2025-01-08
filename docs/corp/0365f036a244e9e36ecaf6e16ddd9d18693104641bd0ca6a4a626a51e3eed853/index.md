@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UsualSuspects
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1701567965
 ---
@@ -16,11 +16,11 @@ date: 1701567965
 Chill Corp Looking for active players of any level for rs/ws. 9% Bonu
 s to rs artifacts
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1138)|
+| ELO Regular | 1145 🔻  (1139)|
 | ELO Competitive | 1158 🔻  (1195)|
 | Total Matches | 4 |
 | Wins | 0 |

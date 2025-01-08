@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​资助会
-description: W:9 L:4 D:0 Bonus ❌
+description: W:9 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1728149871
 ---
@@ -15,7 +15,7 @@ date: 1728149871
 ```
 本集团遵守友好互助，互相尊重的原则，任何人在遇到困难时可以寻求帮助，本团积极招新     qq群号：247609296
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

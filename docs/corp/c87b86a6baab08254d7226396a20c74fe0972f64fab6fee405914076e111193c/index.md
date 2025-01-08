@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Titan Corp.
-description: W:22 L:18 D:0 Bonus ❌
+description: W:22 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1726935372
 ---
@@ -21,12 +21,12 @@ Discord ist Pflicht: discord.gg/SUVSGGYGz2
 Nerven aus Stahl, Eier aus Titan
 ```
 ### [Discord](https://discord.gg/SUVSGGYGz2)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔻  (369)|
-| ELO Competitive | 1303 🔻  (270)|
+| ELO Competitive | 1303 🔻  (271)|
 | Total Matches | 40 |
 | Wins | 22 |
 | Losses | 18 |

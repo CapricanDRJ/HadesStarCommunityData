@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dutch Space Id
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1710725372
 ---
@@ -22,12 +22,12 @@ Founded 29-11-2020
  Discord:  [discord url]
 ```
 ### [Discord](https://discord.gg/cWymECU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1009)|
-| ELO Competitive | 1167 🔻  (1133)|
+| ELO Regular | 1165 🔻  (1010)|
+| ELO Competitive | 1167 🔻  (1134)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

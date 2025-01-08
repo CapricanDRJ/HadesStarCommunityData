@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​First Squad
-description: W:5 L:16 D:1 Bonus ❌
+description: W:5 L:16 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1733653081
 ---
@@ -17,12 +17,12 @@ well... just join and give it a try. casual and idle is tolerated, ac
 tivity and participation very welcome
 ```
 ### [Discord](https://discord.gg/Dtk4Pcg)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1315)|
-| ELO Competitive | 1148 🔻  (1241)|
+| ELO Regular | 1076 🔻  (1316)|
+| ELO Competitive | 1148 🔻  (1242)|
 | Total Matches | 22 |
 | Wins | 5 |
 | Losses | 16 |

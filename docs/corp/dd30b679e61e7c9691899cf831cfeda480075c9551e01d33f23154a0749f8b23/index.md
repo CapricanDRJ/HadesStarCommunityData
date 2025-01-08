@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​La resistencia
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
 date: 1705295296
 ---
@@ -22,7 +22,7 @@ No recibimos personas inactivas
 
 Fundation: 8/12/19
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:9 L:5 D:1 Bonus ❌
+description: W:9 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1733198436
 ---
@@ -17,7 +17,7 @@ date: 1733198436
       北极星联盟q群971945105     分团：无聊不过（分团） 盟团：很多星球的社会主义团        前十为干事，除极光
 以外干事不得私自更改集团的任何信息！欢迎各位萌新大佬加入
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

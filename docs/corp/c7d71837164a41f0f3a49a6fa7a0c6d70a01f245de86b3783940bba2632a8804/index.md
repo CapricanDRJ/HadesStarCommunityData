@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新手联邦（新经济开发区）
-description: W:27 L:0 D:0 Bonus ❌
+description: W:27 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1713013190
 ---
@@ -16,7 +16,7 @@ date: 1713013190
 雕栏玉砌应犹在，只是朱颜改
 ```
 ### [Discord](https://discord.gg/pAqrzF5xc7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

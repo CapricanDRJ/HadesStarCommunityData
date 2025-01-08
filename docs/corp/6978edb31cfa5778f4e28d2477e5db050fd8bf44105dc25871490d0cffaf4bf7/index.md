@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Int. Trading Co
-description: W:16 L:9 D:1 Bonus ❌
+description: W:16 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1721018557
 ---
@@ -19,11 +19,11 @@ We are active players from around the world who cooperate to build th
 eir economies.
 ```
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔻  (166)|
+| ELO Regular | 1300 🔻  (167)|
 | ELO Competitive | 1339 🔻  (205)|
 | Total Matches | 26 |
 | Wins | 16 |

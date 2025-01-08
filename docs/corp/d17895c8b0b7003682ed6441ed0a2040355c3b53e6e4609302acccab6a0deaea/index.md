@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BAB
-description: W:0 L:3 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1735525033
 ---
@@ -16,11 +16,11 @@ date: 1735525033
 本星际集团从不踢人，最多就只有6个干事，不收僵尸号，萌新和大佬都可以加入，新人福利10个r6，代理首席干事ｘ-357。干事不能私自篡改东西
 ，除代理首席干事以外。
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1089)|
+| ELO Regular | 1154 🔻  (1090)|
 | ELO Competitive | 1157 🔻  (1207)|
 | Total Matches | 4 |
 | Wins | 0 |

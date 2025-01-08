@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​深空补给港
-description: W:2 L:12 D:0 Bonus ❌
+description: W:2 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1715412185
 ---
@@ -15,12 +15,12 @@ date: 1715412185
 ```
 深空补给港QQ：610054865 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1273)|
-| ELO Competitive | 1150 🔻  (1234)|
+| ELO Regular | 1107 🔻  (1274)|
+| ELO Competitive | 1150 🔻  (1235)|
 | Total Matches | 14 |
 | Wins | 2 |
 | Losses | 12 |

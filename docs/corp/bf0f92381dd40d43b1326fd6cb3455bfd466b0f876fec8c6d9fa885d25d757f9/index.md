@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Monkeys
-description: W:8 L:17 D:1 Bonus ❌
+description: W:8 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1714980024
 ---
@@ -16,12 +16,12 @@ date: 1714980024
 Eating bananas, tossing feces, and howling at passers-by. Like normal
  monkeys, but in space.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (1186)|
-| ELO Competitive | 1165 🔺  (1148)|
+| ELO Regular | 1133 🔺  (1187)|
+| ELO Competitive | 1165 🔺  (1149)|
 | Total Matches | 26 |
 | Wins | 8 |
 | Losses | 17 |

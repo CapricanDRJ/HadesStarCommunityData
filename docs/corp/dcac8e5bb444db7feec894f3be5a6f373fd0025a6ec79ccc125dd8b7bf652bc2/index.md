@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:10 L:14 D:2 Bonus ❌
+description: W:10 L:14 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735775622
 ---
@@ -17,11 +17,11 @@ date: 1735775622
 ：共产国际航队、共产星际、落雨观花、避难所丶斯比纳兰 无聊不过 锦绣901蓝色星系二号分盟 太阳系集团本团为九团公约成员国 主席：很多星球
  副主席：蛋王黑名单：罗马创世神 丶LLLLrbia～丶瓜老板五世 本团为半死团预计将在明年1月苏醒
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1151)|
+| ELO Regular | 1143 🔻  (1152)|
 | ELO Competitive | 1189 🔻  (778)|
 | Total Matches | 26 |
 | Wins | 10 |

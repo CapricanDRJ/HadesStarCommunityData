@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StargateCommand
-description: W:0 L:13 D:1 Bonus ❌
+description: W:0 L:13 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735789742
 ---
@@ -17,12 +17,12 @@ Welcome to the SGC.  White Star scanners turned on at WS search requi
 res active participation or you will be kicked from the corp.  Turn O
 FF WS scanner if unable to participate.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1333)|
-| ELO Competitive | 1070 🔻  (1354)|
+| ELO Regular | 1048 🔻  (1334)|
+| ELO Competitive | 1070 🔻  (1355)|
 | Total Matches | 14 |
 | Wins | 0 |
 | Losses | 13 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Peak Extraction
-description: W:1 L:13 D:1 Bonus ❌
+description: W:1 L:13 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1715188047
 ---
@@ -18,12 +18,12 @@ se turn off your White Star scanner if not participating
 
 Discord - ZUeGK83 (optional, not required)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1319)|
-| ELO Competitive | 1078 🔻  (1346)|
+| ELO Regular | 1073 🔻  (1320)|
+| ELO Competitive | 1078 🔻  (1347)|
 | Total Matches | 15 |
 | Wins | 1 |
 | Losses | 13 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Retarts
-description: W:25 L:37 D:2 Bonus ✅
+description: W:25 L:37 D:2 Bonus ✅ 38%
 image: ./favicon.png
 date: 1736110656
 ---
@@ -16,11 +16,11 @@ date: 1736110656
 trại trú ẩn đồng hương thất lạc
 ```
 ### [Discord](https://discord.gg/Bj7asyRu67)
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1166)|
+| ELO Regular | 1140 🔻  (1167)|
 | ELO Competitive | 1316 🔺  (241)|
 | Total Matches | 64 |
 | Wins | 25 |

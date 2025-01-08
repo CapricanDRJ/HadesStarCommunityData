@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KLM
-description: W:14 L:38 D:0 Bonus ❌
+description: W:14 L:38 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1736205603
 ---
@@ -16,11 +16,11 @@ date: 1736205603
 Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 ```
 ### [Discord](https://discord.gg/cWymECU)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1209)|
+| ELO Regular | 1126 🔻  (1210)|
 | ELO Competitive | 1208 🔻  (603)|
 | Total Matches | 52 |
 | Wins | 14 |

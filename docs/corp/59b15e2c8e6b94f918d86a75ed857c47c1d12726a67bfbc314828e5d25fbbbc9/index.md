@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​..D.E.I.T.Co..
-description: W:6 L:6 D:0 Bonus ❌
+description: W:6 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1713259271
 ---
@@ -18,7 +18,7 @@ ccept new members during a WS match. If rejected, join our Discord &
 we will happily arrange your arrival after the match!
 ```
 ### [Discord](https://discord.gg/ZxWsQDeHKm)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

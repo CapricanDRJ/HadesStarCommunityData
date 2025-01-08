@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AAAA
-description: W:18 L:15 D:3 Bonus ✅
+description: W:18 L:15 D:3 Bonus ✅ 34%
 image: ./favicon.png
 date: 1736025024
 ---
@@ -15,7 +15,7 @@ date: 1736025024
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

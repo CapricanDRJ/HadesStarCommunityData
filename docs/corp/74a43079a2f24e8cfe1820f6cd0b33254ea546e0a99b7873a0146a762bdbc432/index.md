@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ЭКЛИПТИКА
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1725217707
 ---
@@ -15,7 +15,7 @@ date: 1725217707
 ```
 16.08.2024
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

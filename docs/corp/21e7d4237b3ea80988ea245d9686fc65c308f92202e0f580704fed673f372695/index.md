@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​nova corp
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 2%
 image: ./favicon.png
 date: 1733188100
 ---
@@ -15,12 +15,12 @@ date: 1733188100
 ```
 sworn to protect the innocent and destroy the evil we are nova Corp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (993)|
-| ELO Competitive | 1178 🔻  (1016)|
+| ELO Regular | 1168 🔻  (994)|
+| ELO Competitive | 1178 🔻  (1017)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

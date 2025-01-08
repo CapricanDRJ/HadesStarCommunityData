@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quadra FR
-description: W:6 L:3 D:0 Bonus ❌
+description: W:6 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1719574274
 ---
@@ -19,7 +19,7 @@ Aide pour les nouveaux joueurs, déconne et apéro sur une étoile rouge
 Lien de notre Discord : vs3fGvzkap
 Merci Halkyr
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

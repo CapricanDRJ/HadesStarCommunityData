@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Free Thinkers 2
-description: W:3 L:53 D:1 Bonus ❌
+description: W:3 L:53 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735104682
 ---
@@ -16,12 +16,12 @@ date: 1735104682
 Multi national Corp across all time zones. Friendly, relaxed, support
 ive. Lets GO!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 885 🔻  (1375)|
-| ELO Competitive | 920 🔻  (1379)|
+| ELO Regular | 885 🔻  (1376)|
+| ELO Competitive | 920 🔻  (1380)|
 | Total Matches | 57 |
 | Wins | 3 |
 | Losses | 53 |

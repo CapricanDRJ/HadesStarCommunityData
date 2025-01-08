@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDiligent
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707781355
 ---
@@ -22,12 +22,12 @@ gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (659)|
-| ELO Competitive | 1187 🔻  (835)|
+| ELO Regular | 1187 🔻  (660)|
+| ELO Competitive | 1187 🔻  (836)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

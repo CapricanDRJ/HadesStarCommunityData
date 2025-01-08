@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​한국인
-description: W:31 L:14 D:3 Bonus ❌
+description: W:31 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
 date: 1718926373
 ---
@@ -17,11 +17,11 @@ date: 1718926373
 .                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "
 를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔻  (170)|
+| ELO Regular | 1296 🔻  (171)|
 | ELO Competitive | 1382 🔻  (157)|
 | Total Matches | 48 |
 | Wins | 31 |

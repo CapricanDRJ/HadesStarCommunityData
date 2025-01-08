@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​初始之音
-description: W:11 L:16 D:0 Bonus ❌
+description: W:11 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1725023276
 ---
@@ -15,11 +15,11 @@ date: 1725023276
 ```
 稳定发放D7-9，<size=50>别捐旗舰</size>   QQ群638804576
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1188)|
+| ELO Regular | 1133 🔻  (1189)|
 | ELO Competitive | 1201 🔻  (639)|
 | Total Matches | 27 |
 | Wins | 11 |

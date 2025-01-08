@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:16 L:2 D:0 Bonus ❌
+description: W:16 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1733498040
 ---
@@ -17,7 +17,7 @@ date: 1733498040
 enas", nuestra corporación principal 
 ```
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

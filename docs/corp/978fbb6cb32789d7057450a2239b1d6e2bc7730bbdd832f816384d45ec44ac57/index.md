@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Зелёная корпа
-description: W:4 L:4 D:0 Bonus ❌
+description: W:4 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1710012656
 ---
@@ -16,7 +16,7 @@ date: 1710012656
 Приходишь, вытирай ноги у входа и здоровайся)
 ```
 ### [Discord](https://discord.gg/fsD7Nfv)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

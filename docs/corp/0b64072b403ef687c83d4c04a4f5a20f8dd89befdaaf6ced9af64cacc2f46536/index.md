@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VENTORMENTA
-description: W:3 L:1 D:1 Bonus ❌
+description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1706143394
 ---
@@ -17,11 +17,11 @@ WhatSapp nunero +50768683442 para las EB. Alianza:Axolotls. Fecha de
 inicio de corp : 1/7/2023. Ayuda en ER1/ER7. Estrellas Blancas Diaria
 s 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (337)|
+| ELO Regular | 1227 🔻  (336)|
 | ELO Competitive | 1227 🔻  (471)|
 | Total Matches | 5 |
 | Wins | 3 |

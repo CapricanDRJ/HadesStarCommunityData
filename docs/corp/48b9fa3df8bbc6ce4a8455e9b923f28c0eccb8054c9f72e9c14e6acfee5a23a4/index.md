@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Glashan
-description: W:11 L:41 D:0 Bonus ❌
+description: W:11 L:41 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735972433
 ---
@@ -18,12 +18,12 @@ oup who play for fun and most of us are regularly online. English is
 our main language in chat.
 ```
 ### [Discord](https://discord.gg/Md9TAQJQTp)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔻  (1292)|
-| ELO Competitive | 1144 🔻  (1262)|
+| ELO Regular | 1094 🔻  (1293)|
+| ELO Competitive | 1144 🔻  (1263)|
 | Total Matches | 52 |
 | Wins | 11 |
 | Losses | 41 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kötbrüder
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1726315424
 ---
@@ -15,7 +15,7 @@ date: 1726315424
 ```
 Wir sind ein deutschprachiger Konzern.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BR Gear
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1715217779
 ---
@@ -28,11 +28,11 @@ ALIANÇA: LUSO (BR/PT) 🚀
 - Projeto NU
 </color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (850)|
+| ELO Regular | 1181 🔻  (851)|
 | ELO Competitive | 1193 🔻  (717)|
 | Total Matches | 2 |
 | Wins | 0 |

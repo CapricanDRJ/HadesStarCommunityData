@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Peacekeepers
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1719634683
 ---
@@ -15,7 +15,7 @@ date: 1719634683
 ```
 All for one and one for all
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

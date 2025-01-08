@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tortuga Station
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1700952741
 ---
@@ -16,12 +16,12 @@ date: 1700952741
 Multi corporation for all members of corps who are allied( daily play
 ers only) rest in main corps to build
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (708)|
-| ELO Competitive | 1186 🔻  (877)|
+| ELO Regular | 1186 🔻  (709)|
+| ELO Competitive | 1186 🔻  (878)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

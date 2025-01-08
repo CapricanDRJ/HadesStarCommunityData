@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Belters
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1724334493
 ---
@@ -15,12 +15,12 @@ date: 1724334493
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1094)|
-| ELO Competitive | 1156 🔻  (1213)|
+| ELO Regular | 1154 🔻  (1095)|
+| ELO Competitive | 1156 🔻  (1214)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Альянс звезд
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1736067385
 ---
@@ -16,7 +16,7 @@ date: 1736067385
 Активная корпорация, ищем желающих на БЗ, так как активно участвуем в
  сражениях БЗ. Помогаем всем, а также новичкам. Рады всем!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:8 L:14 D:1 Bonus ❌
+description: W:8 L:14 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1733251941
 ---
@@ -17,12 +17,12 @@ We are active with white stars.We are a corporation with the goal of
 helping new players and creating a community where everyone can thriv
 e together.Be active in chat and white stars for promotion
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1187)|
-| ELO Competitive | 1165 🔻  (1152)|
+| ELO Regular | 1133 🔻  (1188)|
+| ELO Competitive | 1165 🔻  (1153)|
 | Total Matches | 23 |
 | Wins | 8 |
 | Losses | 14 |

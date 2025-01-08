@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:1 L:32 D:1 Bonus ✅
+description: W:1 L:32 D:1 Bonus ✅ 42%
 image: ./favicon.png
 date: 1736230837
 ---
@@ -15,12 +15,12 @@ date: 1736230837
 ```
 ссылка  на группу  в телеграм :  https://t.me/+df2dk6xC7QM4ZWZi
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 964 🔺  (1366)|
-| ELO Competitive | 1033 🔺  (1371)|
+| ELO Regular | 964 🔺  (1367)|
+| ELO Competitive | 1033 🔺  (1372)|
 | Total Matches | 34 |
 | Wins | 1 |
 | Losses | 32 |

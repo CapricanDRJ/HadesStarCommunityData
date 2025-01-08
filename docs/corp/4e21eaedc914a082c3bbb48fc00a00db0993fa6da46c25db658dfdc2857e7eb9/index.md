@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​边际的文明
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1702847100
 ---
@@ -24,12 +24,12 @@ date: 1702847100
 黑名单：太空玩家，家园星系（不要脸的天天来）
 ```
 ### [Discord](https://discord.gg/hello)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1154)|
-| ELO Competitive | 1145 🔻  (1253)|
+| ELO Regular | 1143 🔻  (1155)|
+| ELO Competitive | 1145 🔻  (1254)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

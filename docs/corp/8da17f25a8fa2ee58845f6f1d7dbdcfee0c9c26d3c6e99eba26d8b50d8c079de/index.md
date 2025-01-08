@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​无人之境
-description: W:0 L:9 D:0 Bonus ❌
+description: W:0 L:9 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1736227532
 ---
@@ -15,12 +15,12 @@ date: 1736227532
 ```
 You are lucky to meet me in White Star! Congratulations!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1316)|
-| ELO Competitive | 1105 🔻  (1331)|
+| ELO Regular | 1076 🔻  (1317)|
+| ELO Competitive | 1105 🔻  (1332)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 9 |

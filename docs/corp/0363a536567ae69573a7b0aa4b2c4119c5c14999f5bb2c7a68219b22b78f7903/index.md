@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:13 L:6 D:1 Bonus ❌
+description: W:13 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735632290
 ---
@@ -17,12 +17,12 @@ Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a l
 os que nos necesiten y les daremos un ambiente comodo. | Existe un gr
 upo si deseas unirte solo consulta al primer oficial. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔻  (200)|
-| ELO Competitive | 1291 🔻  (295)|
+| ELO Regular | 1276 🔻  (201)|
+| ELO Competitive | 1291 🔻  (296)|
 | Total Matches | 20 |
 | Wins | 13 |
 | Losses | 6 |

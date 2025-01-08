@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:13 L:27 D:1 Bonus ❌
+description: W:13 L:27 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735924041
 ---
@@ -18,11 +18,11 @@ date: 1735924041
 [discord url]
 ```
 ### [Discord](https://discord.gg/DDhaupc)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (856)|
+| ELO Regular | 1180 🔻  (857)|
 | ELO Competitive | 1254 🔺  (389)|
 | Total Matches | 41 |
 | Wins | 13 |

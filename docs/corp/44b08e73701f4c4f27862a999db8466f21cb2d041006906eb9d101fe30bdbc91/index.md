@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ua online
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1727170260
 ---
@@ -16,12 +16,12 @@ date: 1727170260
 <color=red>discord.gg/KvDRRrvv</color>
 <color=yellow>t.me/UAonline1xx</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1023)|
-| ELO Competitive | 1166 🔻  (1138)|
+| ELO Regular | 1163 🔻  (1024)|
+| ELO Competitive | 1166 🔻  (1139)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​小红色太阳
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1723272781
 ---
@@ -19,12 +19,12 @@ date: 1723272781
 黑名单：太阳系帝国
 阶级分化：20级以下为成员，20级至70级为高级成员，70级以上则为干事
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1018)|
-| ELO Competitive | 1165 🔻  (1149)|
+| ELO Regular | 1164 🔻  (1019)|
+| ELO Competitive | 1165 🔻  (1150)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

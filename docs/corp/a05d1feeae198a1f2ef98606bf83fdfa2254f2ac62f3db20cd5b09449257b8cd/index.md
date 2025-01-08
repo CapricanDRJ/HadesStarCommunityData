@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:48 L:60 D:1 Bonus ❌
+description: W:48 L:60 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736116514
 ---
@@ -18,11 +18,11 @@ Ignoring the White Stars is a kick from the corporation.
 https://t.me/DS_DarkSide
 ```
 ### [Discord](https://discord.gg/UMSR6Uyej5)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1038)|
+| ELO Regular | 1161 🔻  (1039)|
 | ELO Competitive | 1444 🔻  (100)|
 | Total Matches | 109 |
 | Wins | 48 |

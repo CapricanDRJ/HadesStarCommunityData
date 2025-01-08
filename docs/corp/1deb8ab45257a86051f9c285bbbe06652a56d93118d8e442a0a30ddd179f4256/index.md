@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:13 L:16 D:2 Bonus ❌
+description: W:13 L:16 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736065582
 ---
@@ -25,7 +25,7 @@ date: 1736065582
 [discord url]
 ```
 ### [Discord](https://discord.gg/AKnA5maMnG)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

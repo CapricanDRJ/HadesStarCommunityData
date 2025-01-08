@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Wacky Wabbits
-description: W:2 L:2 D:0 Bonus ❌
+description: W:2 L:2 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1709650270
 ---
@@ -17,7 +17,7 @@ date: 1709650270
 olor=#f0f30b>Wacky Warriors</color>
 ```
 ### [Discord](https://discord.gg/knZXJWX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

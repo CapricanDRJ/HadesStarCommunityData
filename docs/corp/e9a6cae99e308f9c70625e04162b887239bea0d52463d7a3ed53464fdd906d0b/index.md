@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Picard
-description: W:0 L:17 D:0 Bonus ❌
+description: W:0 L:17 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1716358005
 ---
@@ -17,12 +17,12 @@ Competitive white star corp, back to back WS, daily RS, artifact exch
 ange, <color=red>WS no peace only war :) </color>Recruiting now
 ```
 ### [Discord](https://discord.gg/6m7h2rY)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1030 🔻  (1343)|
-| ELO Competitive | 1052 🔻  (1365)|
+| ELO Regular | 1030 🔻  (1344)|
+| ELO Competitive | 1052 🔻  (1366)|
 | Total Matches | 17 |
 | Wins | 0 |
 | Losses | 17 |

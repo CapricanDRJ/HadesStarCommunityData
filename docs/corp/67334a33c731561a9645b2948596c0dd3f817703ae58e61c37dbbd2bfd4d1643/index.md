@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WFOS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1718489572
 ---
@@ -23,12 +23,12 @@ Proud member of The Dark Matter Syndicate
 Discord:
 kTmpmWx
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (690)|
-| ELO Competitive | 1186 🔻  (862)|
+| ELO Regular | 1186 🔻  (691)|
+| ELO Competitive | 1186 🔻  (863)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​HADE'S BR
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1732620870
 ---
@@ -18,7 +18,7 @@ a participe de RS e WS, mantenha as atividades e melhorias do sistema
  em dia. Temos grupo de Discord
 ```
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

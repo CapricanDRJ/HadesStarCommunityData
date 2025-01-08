@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
-description: W:1 L:3 D:1 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1726627017
 ---
@@ -15,12 +15,12 @@ date: 1726627017
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (973)|
-| ELO Competitive | 1170 🔻  (1112)|
+| ELO Regular | 1169 🔻  (974)|
+| ELO Competitive | 1170 🔻  (1113)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |

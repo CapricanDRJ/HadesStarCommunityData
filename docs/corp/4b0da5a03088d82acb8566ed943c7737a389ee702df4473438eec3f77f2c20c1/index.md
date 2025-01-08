@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​梨山养老院
-description: W:2 L:2 D:2 Bonus ❌
+description: W:2 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
 date: 1726810042
 ---
@@ -17,11 +17,11 @@ date: 1726810042
 /color></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><color=yellow>允
 许捐旗舰!</color></size>              创立于8月1日
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (855)|
+| ELO Regular | 1180 🔻  (856)|
 | ELO Competitive | 1190 🔻  (756)|
 | Total Matches | 6 |
 | Wins | 2 |

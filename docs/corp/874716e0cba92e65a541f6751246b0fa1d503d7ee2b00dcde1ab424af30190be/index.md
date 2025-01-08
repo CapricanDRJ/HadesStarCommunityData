@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ༀᅗBAR ESTELARᅗༀ
-description: W:1 L:11 D:0 Bonus ❌
+description: W:1 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1721628977
 ---
@@ -18,12 +18,12 @@ bebida y a la cháchara XD
 Aperturado el día (21/09/22)
 Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1238)|
-| ELO Competitive | 1141 🔻  (1271)|
+| ELO Regular | 1118 🔻  (1239)|
+| ELO Competitive | 1141 🔻  (1272)|
 | Total Matches | 12 |
 | Wins | 1 |
 | Losses | 11 |

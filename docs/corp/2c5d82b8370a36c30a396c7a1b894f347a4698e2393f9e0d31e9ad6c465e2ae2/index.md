@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Jumpers
-description: W:4 L:5 D:1 Bonus ❌
+description: W:4 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1719449551
 ---
@@ -15,11 +15,11 @@ date: 1719449551
 ```
 Anyone who wants can join.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (641)|
+| ELO Regular | 1187 🔺  (642)|
 | ELO Competitive | 1197 🔺  (684)|
 | Total Matches | 10 |
 | Wins | 4 |

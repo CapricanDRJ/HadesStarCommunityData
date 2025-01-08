@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Back of the bus
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1699895601
 ---
@@ -18,7 +18,7 @@ Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen
 send friend request to Lucky/ImLucky2 to contact us
 ```
 ### [Discord](https://discord.gg/ExdxEKXv5x)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

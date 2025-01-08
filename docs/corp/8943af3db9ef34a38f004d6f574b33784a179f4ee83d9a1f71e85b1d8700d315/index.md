@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CSI
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1706545194
 ---
@@ -17,12 +17,12 @@ Les Clés de 12 Stellaires Impacla... implacla.... Non, il fait chier
 ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (
 ...)
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1096)|
-| ELO Competitive | 1154 🔻  (1220)|
+| ELO Regular | 1154 🔻  (1097)|
+| ELO Competitive | 1154 🔻  (1221)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

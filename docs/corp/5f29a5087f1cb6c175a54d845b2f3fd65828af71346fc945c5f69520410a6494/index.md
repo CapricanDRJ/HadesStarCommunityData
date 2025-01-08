@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Пабеда
-description: W:1 L:2 D:1 Bonus ❌
+description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
 date: 1707483687
 ---
@@ -15,12 +15,12 @@ date: 1707483687
 ```
 карпа для активных игр аков 40 ранк мак.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (779)|
-| ELO Competitive | 1186 🔻  (897)|
+| ELO Regular | 1185 🔻  (780)|
+| ELO Competitive | 1186 🔻  (898)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

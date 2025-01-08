@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sektion 32
-description: W:4 L:8 D:1 Bonus ❌
+description: W:4 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732482656
 ---
@@ -17,12 +17,12 @@ Alles kann, nix muss.
 
 Immer schön freundlich sein ^^
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1056)|
-| ELO Competitive | 1168 🔻  (1128)|
+| ELO Regular | 1158 🔻  (1057)|
+| ELO Competitive | 1168 🔻  (1129)|
 | Total Matches | 13 |
 | Wins | 4 |
 | Losses | 8 |

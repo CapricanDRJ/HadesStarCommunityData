@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​喵喵喵喵喵喵喵
-description: W:0 L:7 D:2 Bonus ❌
+description: W:0 L:7 D:2 Bonus ❌ 2%
 image: ./favicon.png
 date: 1713636340
 ---
@@ -15,12 +15,12 @@ date: 1713636340
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1290)|
-| ELO Competitive | 1144 🔻  (1261)|
+| ELO Regular | 1095 🔻  (1291)|
+| ELO Competitive | 1144 🔻  (1262)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 7 |

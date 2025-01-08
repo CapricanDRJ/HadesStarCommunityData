@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星海扬帆
-description: W:23 L:18 D:0 Bonus ❌
+description: W:23 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1728214173
 ---
@@ -17,7 +17,7 @@ date: 1728214173
 b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114  
 </a></b>红活已经结束，欢迎回来
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

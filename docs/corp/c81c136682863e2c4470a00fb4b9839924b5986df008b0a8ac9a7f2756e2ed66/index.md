@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Base
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌ 2%
 image: ./favicon.png
 date: 1727601758
 ---
@@ -15,12 +15,12 @@ date: 1727601758
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1240)|
-| ELO Competitive | 1123 🔻  (1308)|
+| ELO Regular | 1117 🔻  (1241)|
+| ELO Competitive | 1123 🔻  (1309)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

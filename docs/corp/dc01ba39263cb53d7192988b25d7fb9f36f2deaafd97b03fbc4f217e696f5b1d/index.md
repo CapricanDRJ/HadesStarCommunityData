@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Snowflake Union
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1727174166
 ---
@@ -15,12 +15,12 @@ date: 1727174166
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (633)|
-| ELO Competitive | 1188 🔻  (803)|
+| ELO Regular | 1188 🔻  (634)|
+| ELO Competitive | 1188 🔻  (804)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

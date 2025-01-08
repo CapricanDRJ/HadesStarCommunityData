@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​夢幻之星＊分盟＊
-description: W:2 L:10 D:2 Bonus ❌
+description: W:2 L:10 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1729423231
 ---
@@ -16,12 +16,12 @@ date: 1729423231
 嗨！！這是個新的開始~期待與你(妳)交個新朋友  ^_^  新來的成員希望能在上線時候打聲招呼  謝謝
 <size=74><color=red>PS 本集团禁止刷屏</color></size>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1114 🔻  (1256)|
-| ELO Competitive | 1131 🔻  (1297)|
+| ELO Competitive | 1131 🔻  (1298)|
 | Total Matches | 14 |
 | Wins | 2 |
 | Losses | 10 |

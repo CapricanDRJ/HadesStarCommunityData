@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​HerronCorp
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 date: 1718361537
 ---
@@ -15,12 +15,12 @@ date: 1718361537
 ```
 a corporation
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (780)|
-| ELO Competitive | 1185 🔻  (951)|
+| ELO Regular | 1185 🔻  (781)|
+| ELO Competitive | 1185 🔻  (952)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​loveboat
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1709390352
 ---
@@ -15,12 +15,12 @@ date: 1709390352
 ```
 Join our Discord UdS5DmQJRh
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (668)|
-| ELO Competitive | 1186 🔻  (843)|
+| ELO Regular | 1186 🔻  (669)|
+| ELO Competitive | 1186 🔻  (844)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

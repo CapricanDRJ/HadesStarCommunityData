@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:12 L:0 D:0 Bonus ✅
+description: W:12 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
 date: 1735835115
 ---
@@ -16,7 +16,7 @@ date: 1735835115
 Non rattristiamoci di averla persa, ma ringraziamo di averla avuta. Q
 ui giàce NONNA DI CAPPUCCETTO. 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |

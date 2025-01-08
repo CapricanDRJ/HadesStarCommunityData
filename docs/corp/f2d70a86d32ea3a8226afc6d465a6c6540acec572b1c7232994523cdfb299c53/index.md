@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​✡天启✡
-description: W:25 L:8 D:0 Bonus ❌
+description: W:25 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1723740983
 ---
@@ -15,7 +15,7 @@ date: 1723740983
 ```
 <color=red>欢迎炸钱的大哥来集团捐钱</color>一槽白星席位稳定Make Apocalypse Great Again!!!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

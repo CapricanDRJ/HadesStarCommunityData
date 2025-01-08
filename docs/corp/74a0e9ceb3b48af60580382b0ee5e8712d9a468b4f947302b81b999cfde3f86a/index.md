@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СлАвЯнСкИй СоЮз
-description: W:7 L:4 D:0 Bonus ❌
+description: W:7 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1707222843
 ---
@@ -15,11 +15,11 @@ date: 1707222843
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (336)|
+| ELO Regular | 1228 🔻  (335)|
 | ELO Competitive | 1231 🔻  (457)|
 | Total Matches | 11 |
 | Wins | 7 |

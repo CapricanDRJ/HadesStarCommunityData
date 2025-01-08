@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dirty Laundry 
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1711126201
 ---
@@ -17,12 +17,12 @@ a Corp for the Casual gamer. some White stars. Our active players hav
 e merged with 2ND-R8.
 ```
 ### [Discord](https://discord.gg/nYPxsBANC3)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (925)|
-| ELO Competitive | 1175 🔻  (1045)|
+| ELO Regular | 1172 🔻  (926)|
+| ELO Competitive | 1175 🔻  (1046)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

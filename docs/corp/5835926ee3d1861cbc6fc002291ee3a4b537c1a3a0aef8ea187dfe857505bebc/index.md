@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​꿀벌왕국
-description: W:7 L:12 D:0 Bonus ❌
+description: W:7 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1709955566
 ---
@@ -24,12 +24,12 @@ https://open.kakao.com/o/gBGFbATe
 
 최종 수정일 2022/12/16/금
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1095)|
-| ELO Competitive | 1163 🔻  (1161)|
+| ELO Regular | 1154 🔻  (1096)|
+| ELO Competitive | 1163 🔻  (1162)|
 | Total Matches | 19 |
 | Wins | 7 |
 | Losses | 12 |

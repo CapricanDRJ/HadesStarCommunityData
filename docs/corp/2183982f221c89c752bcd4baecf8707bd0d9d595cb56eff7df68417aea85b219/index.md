@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙生協
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1700537357
 ---
@@ -17,12 +17,12 @@ date: 1700537357
 20日以上のログイン無しでキックします。リクエストで再入会可能です。
 White Star scanner owner is promoted to seniour member.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (775)|
-| ELO Competitive | 1186 🔻  (858)|
+| ELO Regular | 1185 🔻  (776)|
+| ELO Competitive | 1186 🔻  (859)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

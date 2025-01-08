@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КАЧАМБА
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1728573306
 ---
@@ -16,7 +16,7 @@ date: 1728573306
 Приветствуем активных игроков! Принцип взаимоуважения, помощь в разви
 тии, телеграмм Belizarr
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

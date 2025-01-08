@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星约组织：基地分团
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1736254273
 ---
@@ -17,12 +17,12 @@ date: 1736254273
 利高，请互帮互助。            星海灿烂，星约永恒     欢迎你的加入             集团黑名单：铁锈反叛战争公司，
 所有干事看见立刻清除
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1193)|
-| ELO Competitive | 1137 🔻  (1282)|
+| ELO Regular | 1131 🔻  (1194)|
+| ELO Competitive | 1137 🔻  (1283)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

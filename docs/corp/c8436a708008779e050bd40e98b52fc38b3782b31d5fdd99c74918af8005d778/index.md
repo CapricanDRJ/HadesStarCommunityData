@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dirty Minds Inc
-description: W:5 L:5 D:0 Bonus ❌
+description: W:5 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1733511264
 ---
@@ -18,7 +18,7 @@ requires your full attention 🍆as she can be lot to handle and more �
 �. So come join the team and have some fun along the way. 
 ```
 ### [Discord](https://discord.gg/dYPKQpGa7s)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

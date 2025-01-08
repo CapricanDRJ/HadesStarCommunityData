@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hades Academy
-description: W:5 L:5 D:0 Bonus ❌
+description: W:5 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1721778627
 ---
@@ -20,7 +20,7 @@ Discord is mandatory!</b>
 • Casual WS Corp
 ```
 ### [Discord](https://discord.gg/kUcE6EP)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

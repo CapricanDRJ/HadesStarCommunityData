@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​电磁脉冲集团
-description: W:2 L:1 D:0 Bonus ❌
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1723979587
 ---
@@ -15,7 +15,7 @@ date: 1723979587
 ```
 如有回归请找干事或者首席加好友邀请回归<br>整顿期
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

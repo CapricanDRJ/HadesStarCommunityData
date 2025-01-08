@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:4 L:9 D:1 Bonus ✅
+description: W:4 L:9 D:1 Bonus ✅ 30%
 image: ./favicon.png
 date: 1736124774
 ---
@@ -16,11 +16,11 @@ date: 1736124774
 будем рады АКТИВНЫМ игрокам. степень развития значения не имеет. акти
 вным новичкам беремся оказывать помощь в развитии.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔺  (1044)|
+| ELO Regular | 1160 🔺  (1045)|
 | ELO Competitive | 1202 🔺  (627)|
 | Total Matches | 14 |
 | Wins | 4 |

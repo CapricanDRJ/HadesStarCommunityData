@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ws Polaris
-description: W:4 L:14 D:2 Bonus ❌
+description: W:4 L:14 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1723212986
 ---
@@ -16,12 +16,12 @@ date: 1723212986
 Langage, Français, English, Espagñol...Regular Ws. Discord in the des
 cription 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1110 🔺  (1265)|
-| ELO Competitive | 1119 🔺  (1311)|
+| ELO Competitive | 1119 🔺  (1312)|
 | Total Matches | 20 |
 | Wins | 4 |
 | Losses | 14 |

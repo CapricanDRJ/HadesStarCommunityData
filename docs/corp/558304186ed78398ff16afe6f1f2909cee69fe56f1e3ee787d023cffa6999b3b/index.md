@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​六大天神.轻歌之影
-description: W:22 L:27 D:0 Bonus ❌
+description: W:22 L:27 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1725715639
 ---
@@ -21,11 +21,11 @@ date: 1725715639
 外交部：933074464
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1086)|
+| ELO Regular | 1155 🔻  (1087)|
 | ELO Competitive | 1230 🔻  (462)|
 | Total Matches | 49 |
 | Wins | 22 |

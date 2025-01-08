@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​云浪山庄↕
-description: W:25 L:96 D:1 Bonus ❌
+description: W:25 L:96 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1734853790
 ---
@@ -21,12 +21,12 @@ date: 1734853790
 没qq的可以加微信进集团群
 ✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 916 🔻  (1371)|
-| ELO Competitive | 1171 🔻  (1101)|
+| ELO Regular | 916 🔻  (1372)|
+| ELO Competitive | 1171 🔻  (1102)|
 | Total Matches | 122 |
 | Wins | 25 |
 | Losses | 96 |

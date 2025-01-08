@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Das Imperium
-description: W:1 L:8 D:0 Bonus ❌
+description: W:1 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1706218527
 ---
@@ -17,12 +17,12 @@ Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid ne
 tt zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Ak
 tiv erwünscht
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1246)|
-| ELO Competitive | 1118 🔻  (1315)|
+| ELO Regular | 1116 🔻  (1247)|
+| ELO Competitive | 1118 🔻  (1316)|
 | Total Matches | 9 |
 | Wins | 1 |
 | Losses | 8 |

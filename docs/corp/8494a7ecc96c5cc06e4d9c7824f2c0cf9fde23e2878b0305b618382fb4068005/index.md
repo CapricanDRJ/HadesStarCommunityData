@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​黑色长城
-description: W:2 L:8 D:1 Bonus ❌
+description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1708606362
 ---
@@ -21,12 +21,12 @@ date: 1708606362
 <a>○私人不拉截擊
 ○公共 公屏 外群隨便鬧我們都不管。</a>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1217)|
-| ELO Competitive | 1131 🔻  (1296)|
+| ELO Regular | 1124 🔻  (1218)|
+| ELO Competitive | 1131 🔻  (1297)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

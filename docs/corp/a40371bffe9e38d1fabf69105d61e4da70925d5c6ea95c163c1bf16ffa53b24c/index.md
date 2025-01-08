@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​MILIBARINOS
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1718644633
 ---
@@ -17,7 +17,7 @@ Que la fuerza te acompañe
 discord:
 3PDKPau
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

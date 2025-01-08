@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Warriors
-description: W:3 L:1 D:0 Bonus ❌
+description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1707860684
 ---
@@ -17,11 +17,11 @@ date: 1707860684
 eryone<br>Get a deplomacy station to get help<br><color=#00a6ca><size
 =100>Come one come all</size>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (335)|
+| ELO Regular | 1228 🔺  (334)|
 | ELO Competitive | 1228 🔺  (470)|
 | Total Matches | 4 |
 | Wins | 3 |

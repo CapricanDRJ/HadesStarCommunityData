@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Borg
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1705007195
 ---
@@ -17,12 +17,12 @@ We are the Borg. We will add your biological and technological distin
 ctiveness to our own. Your culture will adapt to service us. Resistan
 ce is futile. No politics and no racism.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (714)|
-| ELO Competitive | 1186 🔻  (896)|
+| ELO Regular | 1186 🔻  (715)|
+| ELO Competitive | 1186 🔻  (897)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

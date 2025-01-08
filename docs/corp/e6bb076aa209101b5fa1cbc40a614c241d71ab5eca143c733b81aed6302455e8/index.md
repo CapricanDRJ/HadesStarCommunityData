@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:9 L:39 D:6 Bonus ❌
+description: W:9 L:39 D:6 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732192068
 ---
@@ -17,12 +17,12 @@ date: 1732192068
 or>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</color></i>               欢迎合作白星，捐旗
 舰1   每2周清一次小红点
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 🔻  (1340)|
-| ELO Competitive | 1105 🔻  (1330)|
+| ELO Regular | 1039 🔻  (1341)|
+| ELO Competitive | 1105 🔻  (1331)|
 | Total Matches | 54 |
 | Wins | 9 |
 | Losses | 39 |

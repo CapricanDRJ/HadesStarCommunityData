@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Titans Pro
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1716684601
 ---
@@ -17,7 +17,7 @@ date: 1716684601
 star el universo de Hades, junto a axolotls. <color=white><size=50>un
 ete a nuestra corp y se uno más de lo conquistadores estelares
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

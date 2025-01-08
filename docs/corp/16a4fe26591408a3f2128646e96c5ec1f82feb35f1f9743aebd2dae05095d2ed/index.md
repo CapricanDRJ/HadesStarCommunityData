@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:13 L:7 D:0 Bonus ❌
+description: W:13 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1732597436
 ---
@@ -25,11 +25,11 @@ date: 1732597436
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (168)|
+| ELO Regular | 1298 🔺  (169)|
 | ELO Competitive | 1336 🔺  (208)|
 | Total Matches | 20 |
 | Wins | 13 |

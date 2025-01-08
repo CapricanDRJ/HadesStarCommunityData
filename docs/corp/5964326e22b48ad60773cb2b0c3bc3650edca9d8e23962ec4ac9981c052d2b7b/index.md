@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Raptor Armada
-description: W:1 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1728728667
 ---
@@ -15,11 +15,11 @@ date: 1728728667
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (348)|
+| ELO Regular | 1225 🔺  (347)|
 | ELO Competitive | 1226 🔺  (475)|
 | Total Matches | 1 |
 | Wins | 1 |

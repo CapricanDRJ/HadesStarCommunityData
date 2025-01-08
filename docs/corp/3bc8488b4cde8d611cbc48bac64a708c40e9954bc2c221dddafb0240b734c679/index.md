@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Aggronauten
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1730303722
 ---
@@ -20,11 +20,11 @@ date: 1730303722
 Kommunikation über <b>Discord</b>:
 <color=#3ffecb>Code: SUVSGGYGz2</color>
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1071)|
+| ELO Regular | 1157 🔻  (1072)|
 | ELO Competitive | 1162 🔻  (1173)|
 | Total Matches | 4 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Rangers
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 date: 1715813584
 ---
@@ -16,12 +16,12 @@ date: 1715813584
 5/10/24 - Join us! We need help with white stars and leveling up our 
 flagship and corp bonuses!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (642)|
-| ELO Competitive | 1188 🔻  (795)|
+| ELO Regular | 1187 🔻  (643)|
+| ELO Competitive | 1188 🔻  (796)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

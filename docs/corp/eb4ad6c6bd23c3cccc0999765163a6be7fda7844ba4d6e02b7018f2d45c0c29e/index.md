@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​REFOUNDATION 
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1701864292
 ---
@@ -16,12 +16,12 @@ date: 1701864292
 Corpo FR active et vivante ! Recherche nouveaux membres actifs et int
 érésés pour continuer le jeu avec nous. 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (936)|
-| ELO Competitive | 1171 🔻  (1086)|
+| ELO Regular | 1171 🔻  (937)|
+| ELO Competitive | 1171 🔻  (1087)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
