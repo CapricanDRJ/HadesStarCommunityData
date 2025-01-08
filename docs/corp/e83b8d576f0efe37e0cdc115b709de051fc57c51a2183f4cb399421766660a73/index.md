@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hades' 420
-description: W:2 L:9 D:0 Bonus ❌ 9%
+description: W:2 L:10 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1722520898
+date: 1736340548
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1722520898
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔻  (1259)|
-| ELO Competitive | 1137 🔻  (1285)|
-| Total Matches | 11 |
+| ELO Regular | 1094 🔻  (1294)|
+| ELO Competitive | 1119 🔻  (1314)|
+| Total Matches | 12 |
 | Wins | 2 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722088898,1721613480,1721099003,1720653280,1719918178,1719296137,1707465877,1707448516,1701448224,1700995302,1699075073];
+        let timestamps = [1735908548,1722088898,1721613480,1721099003,1720653280,1719918178,1719296137,1707465877,1707448516,1701448224,1700995302,1699075073];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/08 | 2-15 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ❌ | 2024/08/01 | 0-25 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/07/27 | 4-22 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/07/21 | 0-16 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |

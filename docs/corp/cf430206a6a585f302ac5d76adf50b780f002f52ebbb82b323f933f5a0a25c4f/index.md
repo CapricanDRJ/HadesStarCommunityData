@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:2 D:1 Bonus ❌ 2%
+description: W:0 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
-date: 1735656030
+date: 1736345327
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,16 @@ date: 1735656030
 We do all types of stars we help in red stars we prepare to battle in
  blue stars and we battle white stars.Sorry i am not online that much
 ```
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (844)|
-| ELO Competitive | 1187 🔻  (831)|
-| Total Matches | 3 |
+| ELO Regular | 1182 🔺  (840)|
+| ELO Competitive | 1188 🔺  (815)|
+| Total Matches | 4 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735224030,1734785058,1727767900];
+        let timestamps = [1735913327,1735224030,1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/08 | 0-0 | [Rogue One Squad](https://ws.tsl.rocks/corp/911d118c4206217f2f2b921bbea3b70d0f405c6384d2c097355bca09e3c7121a/) |
 | ❌ | 2024/12/31 | 0-16 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/12/26 | 0-7 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/10/06 | 0-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |

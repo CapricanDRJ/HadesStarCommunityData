@@ -27,8 +27,8 @@ kTmpmWx
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (691)|
-| ELO Competitive | 1186 🔻  (864)|
+| ELO Regular | 1186 🔻  (692)|
+| ELO Competitive | 1186 🔻  (866)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

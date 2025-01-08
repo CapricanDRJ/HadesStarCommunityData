@@ -21,7 +21,7 @@ n the gang, looking for active players. NFyP4WnNqW
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (569)|
-| ELO Competitive | 1193 🔻  (718)|
+| ELO Competitive | 1193 🔻  (719)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

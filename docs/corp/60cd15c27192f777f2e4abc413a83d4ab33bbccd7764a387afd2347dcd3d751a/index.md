@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:30 L:10 D:1 Bonus ✅ 38%
+description: W:30 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735737455
 ---
@@ -19,7 +19,7 @@ date: 1735737455
 <size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

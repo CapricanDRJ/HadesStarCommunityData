@@ -19,8 +19,8 @@ La corporation des Français !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (694)|
-| ELO Competitive | 1186 🔻  (880)|
+| ELO Regular | 1186 🔻  (695)|
+| ELO Competitive | 1186 🔻  (882)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

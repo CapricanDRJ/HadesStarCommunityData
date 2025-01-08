@@ -19,8 +19,8 @@ Join our Discord UdS5DmQJRh
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (669)|
-| ELO Competitive | 1186 🔻  (844)|
+| ELO Regular | 1186 🔻  (670)|
+| ELO Competitive | 1186 🔻  (846)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

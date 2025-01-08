@@ -23,8 +23,8 @@ rd standards</i></size>.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (811)|
-| ELO Competitive | 1184 🔻  (974)|
+| ELO Regular | 1184 🔻  (812)|
+| ELO Competitive | 1184 🔻  (976)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

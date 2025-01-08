@@ -21,8 +21,8 @@ Discord-6f8xNGS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (608)|
-| ELO Competitive | 1191 🔺  (749)|
+| ELO Regular | 1189 🔺  (609)|
+| ELO Competitive | 1191 🔺  (751)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
