@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:7 L:1 D:0 Bonus ✅ 30%
+description: W:9 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1735719426
+date: 1736322485
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ date: 1735719426
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (195)|
-| ELO Competitive | 1294 🔺  (286)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1295 🔺  (172)|
+| ELO Competitive | 1307 🔺  (265)|
+| Total Matches | 10 |
+| Wins | 9 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/08 | 10-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
+| ✅ | 2025/01/08 | 13-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2025/01/01 | 8-0 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2025/01/01 | 10-2 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2024/12/25 | 8-3 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |

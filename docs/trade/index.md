@@ -87,17 +87,6 @@ permalink: /trade/
         </tr>
     
         <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>2</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS11</td>
-                    <td>248%</td>
-                </tr>
-            
-        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         

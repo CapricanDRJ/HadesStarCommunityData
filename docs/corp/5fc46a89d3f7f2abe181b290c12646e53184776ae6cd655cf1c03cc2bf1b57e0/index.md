@@ -25,7 +25,7 @@ Mvy7Myx
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 ▫️  (505)|
-| ELO Competitive | 1200 ▫️  (646)|
+| ELO Competitive | 1200 ▫️  (645)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |
