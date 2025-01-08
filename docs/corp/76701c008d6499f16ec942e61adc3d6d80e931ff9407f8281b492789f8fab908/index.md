@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New Star
-description: W:5 L:6 D:0 Bonus ✅
+description: W:5 L:6 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735685180
 ---
@@ -19,7 +19,7 @@ avonfliegen.
 We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
