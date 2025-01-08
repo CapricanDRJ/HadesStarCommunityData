@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Pixies
-description: W:13 L:5 D:0 Bonus ✅ 32%
+description: W:13 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735734750
 ---
@@ -18,7 +18,7 @@ white star active
 
 
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
