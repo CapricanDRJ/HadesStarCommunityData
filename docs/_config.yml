@@ -22,6 +22,8 @@ header_pages:
   - win100.md
   - lose100.md
   - trade/index.md
+  - scanning.md
+  - bonus.md
 
 # Site properties
 language: english
