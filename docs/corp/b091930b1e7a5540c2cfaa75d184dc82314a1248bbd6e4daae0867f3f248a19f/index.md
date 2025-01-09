@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:9 L:12 D:0 Bonus ❌ 10%
+description: W:9 L:13 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1735499198
+date: 1736406474
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 1735499198
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (311)|
-| ELO Competitive | 1276 🔻  (322)|
-| Total Matches | 21 |
+| ELO Regular | 1227 🔻  (335)|
+| ELO Competitive | 1274 🔻  (325)|
+| Total Matches | 22 |
 | Wins | 9 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/09 | 10-39 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/12/29 | 17-29 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/12/24 | 21-28 | [Team Rainbow](https://ws.tsl.rocks/corp/4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84/) |
 | ✅ | 2024/12/19 | 29-19 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |

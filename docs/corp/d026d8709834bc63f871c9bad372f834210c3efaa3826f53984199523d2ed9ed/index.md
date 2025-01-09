@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​万星联盟
-description: W:38 L:9 D:0 Bonus ❌ 36%
+description: W:38 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736272005
 ---
@@ -17,7 +17,7 @@ date: 1736272005
 red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团内或其他分团大佬<br>参白进群后找管理员
 报备<br><size=200>不要捐旗舰！qwq<color=yellow>
 ```
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -21,7 +21,7 @@ EdNWKeN
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (722)|
+| ELO Regular | 1185 🔺  (721)|
 | ELO Competitive | 1187 🔺  (826)|
 | Total Matches | 2 |
 | Wins | 0 |

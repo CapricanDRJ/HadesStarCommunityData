@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:14 L:0 D:0 Bonus ❌ 6%
+description: W:15 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1734818344
+date: 1736406080
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
  Discord
 ```
 ### [Discord](https://discord.gg/bkjju25TCs)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (82)|
-| ELO Competitive | 1391 🔺  (149)|
-| Total Matches | 14 |
-| Wins | 14 |
+| ELO Regular | 1372 🔺  (75)|
+| ELO Competitive | 1398 🔺  (143)|
+| Total Matches | 15 |
+| Wins | 15 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 14 |
-| Streak Record | 14 |
+| Streak | 15 |
+| Streak Record | 15 |
 | Flagship | 0 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734386344,1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1735974080,1734386344,1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/09 | 30-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
 | ✅ | 2024/12/21 | 23-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ✅ | 2024/12/12 | 23-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2024/12/04 | 14-0 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: W:11 L:49 D:1 Bonus ✅ 34%
+description: W:11 L:49 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736396121
 ---
@@ -16,7 +16,7 @@ date: 1736396121
   Focused on multi-player  redstar raids.  Active, Supportive, & Loya
 l.  PG-13 chat. Must be able to communicate in English. 
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

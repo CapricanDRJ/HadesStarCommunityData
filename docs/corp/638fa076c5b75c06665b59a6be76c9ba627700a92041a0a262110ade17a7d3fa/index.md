@@ -20,7 +20,7 @@ eau 7
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (785)|
+| ELO Regular | 1185 🔻  (784)|
 | ELO Competitive | 1185 🔻  (960)|
 | Total Matches | 1 |
 | Wins | 0 |

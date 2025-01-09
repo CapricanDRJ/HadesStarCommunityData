@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:12 L:0 D:0 Bonus ✅ 32%
+description: W:13 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1735835115
+date: 1736412206
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ ui giàce NONNA DI CAPPUCCETTO.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔺  (98)|
-| ELO Competitive | 1360 🔺  (179)|
-| Total Matches | 12 |
-| Wins | 12 |
+| ELO Regular | 1356 🔺  (90)|
+| ELO Competitive | 1369 🔺  (172)|
+| Total Matches | 13 |
+| Wins | 13 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 | Flagship | 0 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/09 | 14-0 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ✅ | 2025/01/02 | 3-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/01/02 | 24-2 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/12/28 | 18-3 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |

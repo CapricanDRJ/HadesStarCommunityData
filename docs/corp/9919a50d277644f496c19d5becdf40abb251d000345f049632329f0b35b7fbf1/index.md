@@ -23,7 +23,7 @@ nirse al grupo de Whatsapp</size></color></b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔻  (160)|
-| ELO Competitive | 1392 🔻  (148)|
+| ELO Competitive | 1392 🔻  (149)|
 | Total Matches | 68 |
 | Wins | 39 |
 | Losses | 28 |

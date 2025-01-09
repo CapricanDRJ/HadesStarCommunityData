@@ -22,7 +22,7 @@ Discord : 9PEjNfq
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (696)|
+| ELO Regular | 1186 🔻  (695)|
 | ELO Competitive | 1186 🔻  (883)|
 | Total Matches | 1 |
 | Wins | 0 |
