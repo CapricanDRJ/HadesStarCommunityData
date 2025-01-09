@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:14 L:25 D:0 Bonus ✅ 34%
+description: W:14 L:25 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1735800557
 ---
@@ -16,7 +16,7 @@ date: 1735800557
 <#f99><size=51>墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往<#ccff00>盟团：星落苑</color>，长期开白
 ，欢迎前来参与，常驻福利多多😍</size></color>本团为北极星联盟成员
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

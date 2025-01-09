@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:16 L:35 D:1 Bonus ✅ 36%
+description: W:16 L:35 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735797552
 ---
@@ -23,7 +23,7 @@ Demotion/Removal:-
 Corp Discord Channel [discord url]
 ```
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

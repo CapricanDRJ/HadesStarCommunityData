@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星系联盟
-description: W:2 L:2 D:0 Bonus ✅ 28%
+description: W:2 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735796951
 ---
@@ -16,7 +16,7 @@ date: 1735796951
 欢迎萌新们加入，到了20级以上就可以去主团了，前三名加入的当干事，主团国际联盟，干事请不要随便把别人晋升成干事，最多晋升成高级成员，请大家
 常驻。   不定期清红点
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
