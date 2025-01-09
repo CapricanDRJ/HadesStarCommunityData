@@ -21,8 +21,8 @@ Discord invite code is 44nD9yX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 981 🔺  (1365)|
-| ELO Competitive | 1034 🔺  (1373)|
+| ELO Regular | 981 🔺  (1366)|
+| ELO Competitive | 1034 🔺  (1374)|
 | Total Matches | 56 |
 | Wins | 9 |
 | Losses | 47 |

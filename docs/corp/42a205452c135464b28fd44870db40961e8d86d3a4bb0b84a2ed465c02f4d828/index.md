@@ -21,8 +21,8 @@ we came to relaxed ws
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (872)|
-| ELO Competitive | 1177 🔻  (1028)|
+| ELO Regular | 1177 🔻  (873)|
+| ELO Competitive | 1177 🔻  (1029)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

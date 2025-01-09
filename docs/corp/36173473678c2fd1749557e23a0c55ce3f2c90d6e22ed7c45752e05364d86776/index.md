@@ -21,8 +21,8 @@ join our Discord - P3ZAdzA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1012)|
-| ELO Competitive | 1169 🔻  (1126)|
+| ELO Regular | 1165 🔻  (1013)|
+| ELO Competitive | 1169 🔻  (1127)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -21,8 +21,8 @@ geRShvzM89
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (849)|
-| ELO Competitive | 1189 🔻  (781)|
+| ELO Regular | 1181 🔻  (851)|
+| ELO Competitive | 1189 🔻  (782)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 5 |

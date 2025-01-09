@@ -20,8 +20,8 @@ ation.May the Low Red Stars of Hades unite into TEF
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1145)|
-| ELO Competitive | 1146 🔻  (1253)|
+| ELO Regular | 1145 🔻  (1146)|
+| ELO Competitive | 1146 🔻  (1254)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

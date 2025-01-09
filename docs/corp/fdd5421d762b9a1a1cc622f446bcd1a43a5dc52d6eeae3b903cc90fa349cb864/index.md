@@ -25,8 +25,8 @@ HV5zgTg3SQ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (738)|
-| ELO Competitive | 1185 🔻  (915)|
+| ELO Regular | 1185 🔻  (739)|
+| ELO Competitive | 1185 🔻  (916)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
