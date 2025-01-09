@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:30 L:48 D:2 Bonus ✅ 36%
+description: W:30 L:48 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736373282
 ---
@@ -18,7 +18,7 @@ rp. Come and join a fun loving and chill family like team! Welcome to
  all! 2 white star teams running weekly, compeditave yet fun. 
 ```
 ### [Discord](https://discord.gg/K45fhFgcXv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
