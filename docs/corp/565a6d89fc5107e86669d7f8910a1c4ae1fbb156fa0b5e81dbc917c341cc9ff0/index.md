@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:18 L:14 D:1 Bonus ❌ 7%
+description: W:18 L:15 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1735797552
+date: 1736436405
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1735797552
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (391)|
-| ELO Competitive | 1309 🔻  (256)|
-| Total Matches | 33 |
+| ELO Regular | 1200 🔻  (505)|
+| ELO Competitive | 1301 🔻  (275)|
+| Total Matches | 34 |
 | Wins | 18 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735365552,1734771235,1733845787,1732346369,1731736929,1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
+        let timestamps = [1736004405,1735365552,1734771235,1733845787,1732346369,1731736929,1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/09 | 0-10 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/01/02 | 2-6 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/12/26 | 11-2 | [SpaceX](https://ws.tsl.rocks/corp/3bc1ec1dbc6834fa95adc6d175ab134844b8f2ec4ee1082bc799f5de3c72e301/) |
 | ❌ | 2024/12/15 | 3-10 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |

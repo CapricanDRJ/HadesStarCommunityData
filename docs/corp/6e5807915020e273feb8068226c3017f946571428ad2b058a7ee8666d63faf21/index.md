@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:25 L:62 D:4 Bonus ✅ 36%
+description: W:25 L:62 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735829727
 ---
@@ -17,7 +17,7 @@ Recommended to join the corp DISCORD (currently in test period. All m
 embers when join our DISCORD while in test period will get a free Off
 icer promote). Red is always SUS!
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

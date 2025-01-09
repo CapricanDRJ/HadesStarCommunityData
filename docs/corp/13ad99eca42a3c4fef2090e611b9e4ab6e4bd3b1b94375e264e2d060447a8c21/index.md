@@ -24,7 +24,7 @@ Discord - b8VCJrC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (817)|
+| ELO Regular | 1184 🔻  (815)|
 | ELO Competitive | 1184 🔻  (978)|
 | Total Matches | 1 |
 | Wins | 0 |
