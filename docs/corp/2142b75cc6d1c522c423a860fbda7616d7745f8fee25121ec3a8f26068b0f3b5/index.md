@@ -19,7 +19,7 @@ Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (908)|
+| ELO Regular | 1173 🔻  (910)|
 | ELO Competitive | 1199 🔻  (660)|
 | Total Matches | 18 |
 | Wins | 7 |

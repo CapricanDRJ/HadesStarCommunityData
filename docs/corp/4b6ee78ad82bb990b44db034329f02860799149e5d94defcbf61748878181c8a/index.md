@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​wyvern
-description: W:3 L:3 D:0 Bonus ✅ 28%
+description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1735837820
 ---
@@ -18,12 +18,12 @@ Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE
 s WS
 ```
 ### [Discord](https://discord.gg/AXfZ6BVzjx)
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (421)|
-| ELO Competitive | 1222 🔺  (495)|
+| ELO Competitive | 1222 🔺  (496)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

@@ -23,7 +23,7 @@ SCWbttfZbU
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (983)|
+| ELO Regular | 1169 🔻  (985)|
 | ELO Competitive | 1172 🔻  (1083)|
 | Total Matches | 4 |
 | Wins | 0 |
