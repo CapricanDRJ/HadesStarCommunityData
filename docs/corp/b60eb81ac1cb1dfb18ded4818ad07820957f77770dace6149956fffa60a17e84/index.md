@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:7 L:2 D:1 Bonus ✅ 30%
+description: W:7 L:2 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1735846536
 ---
@@ -17,7 +17,7 @@ In this corporation, we help eachother in red stars and will do white
  stars to grow the corp! Be nice to everyone and lets grow our star s
 ystems!
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

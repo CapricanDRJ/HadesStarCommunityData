@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:30 L:24 D:1 Bonus ✅ 36%
+description: W:30 L:24 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1735849842
 ---
@@ -17,7 +17,7 @@ Boldly we venture into the black of space, conquering White Stars as
 an Armored Union of warriors! Share Artifacts and build strong allies
  in pursuit of adventure! keep up, keep fighting! :)
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrbroZ
-description: W:1 L:2 D:0 Bonus ✅ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1736304458
 ---
@@ -15,7 +15,7 @@ date: 1736304458
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

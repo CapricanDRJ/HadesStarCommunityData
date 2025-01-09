@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:21 L:8 D:2 Bonus ❌ 7%
+description: W:22 L:8 D:2 Bonus ✅ 34%
 image: ./favicon.png
-date: 1735728139
+date: 1736448433
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1735728139
                                                                      
 <size=100><color=red>两个旗舰都捐！进集团加微信18898500351，拉你入群
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔻  (135)|
-| ELO Competitive | 1358 🔻  (184)|
-| Total Matches | 31 |
-| Wins | 21 |
+| ELO Regular | 1326 🔺  (126)|
+| ELO Competitive | 1371 🔺  (172)|
+| Total Matches | 32 |
+| Wins | 22 |
 | Losses | 8 |
 | Draws | 2 |
 | Streak Record | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735296139,1734863182,1734427199,1733957563,1733407975,1732965371,1732920208,1732462327,1732112249,1732028414,1731595995,1731590886,1731108574,1731075515,1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
+        let timestamps = [1736016433,1735296139,1734863182,1734427199,1733957563,1733407975,1732965371,1732920208,1732462327,1732112249,1732028414,1731595995,1731590886,1731108574,1731075515,1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/09 | 4-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2025/01/01 | 2-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/12/27 | 11-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/12/22 | 10-0 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
