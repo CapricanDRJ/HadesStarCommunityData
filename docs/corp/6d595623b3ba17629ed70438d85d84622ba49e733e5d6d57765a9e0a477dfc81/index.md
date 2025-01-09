@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国星际联盟
-description: W:41 L:45 D:3 Bonus ✅ 38%
+description: W:41 L:45 D:3 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735821289
 ---
@@ -26,11 +26,11 @@ QQ群号为131920392，
 
 让我们一起“逐梦龙腾，携手共进”吧！
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔺  (1096)|
+| ELO Regular | 1154 🔺  (1095)|
 | ELO Competitive | 1337 🔺  (208)|
 | Total Matches | 89 |
 | Wins | 41 |

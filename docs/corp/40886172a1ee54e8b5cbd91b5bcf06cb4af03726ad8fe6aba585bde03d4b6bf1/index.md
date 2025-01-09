@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​M4-Valhalla
-description: W:0 L:8 D:0 Bonus ❌ 1%
+description: W:0 L:9 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1727088408
+date: 1736424074
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1727088408
 ```
 
 ```
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1265)|
-| ELO Competitive | 1128 🔻  (1303)|
-| Total Matches | 8 |
+| ELO Regular | 1101 🔻  (1282)|
+| ELO Competitive | 1118 🔻  (1315)|
+| Total Matches | 9 |
 | Wins | 0 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726656408,1724422084,1723968311,1723358261,1722483781,1721989114,1721463219,1711479028];
+        let timestamps = [1735992074,1726656408,1724422084,1723968311,1723358261,1722483781,1721989114,1721463219,1711479028];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/09 | 0-28 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2024/09/23 | 0-16 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024/08/28 | 0-14 | [ISERLOHN](https://ws.tsl.rocks/corp/6c287f852581788415a341fe40fa82f1f10d0da5752b2474833cb58351972699/) |
 | ❌ | 2024/08/23 | 0-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:48 L:31 D:7 Bonus ✅ 38%
+description: W:48 L:31 D:7 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736261787
 ---
@@ -15,11 +15,11 @@ date: 1736261787
 ```
 
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔻  (142)|
+| ELO Regular | 1308 🔻  (143)|
 | ELO Competitive | 1472 🔻  (76)|
 | Total Matches | 86 |
 | Wins | 48 |

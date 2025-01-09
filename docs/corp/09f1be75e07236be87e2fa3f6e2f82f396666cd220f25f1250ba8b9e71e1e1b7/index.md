@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:9 L:28 D:1 Bonus ❌ 13%
+description: W:9 L:29 D:1 Bonus ❌ 13%
 image: ./favicon.png
-date: 1735900618
+date: 1736417160
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ RS 7+ see Lacuna Holdings
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1074 🔻  (1322)|
-| ELO Competitive | 1113 🔻  (1327)|
-| Total Matches | 38 |
+| ELO Regular | 1068 🔻  (1326)|
+| ELO Competitive | 1110 🔻  (1328)|
+| Total Matches | 39 |
 | Wins | 9 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735468618,1734410377,1733594585,1730544844,1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
+        let timestamps = [1735985160,1735468618,1734410377,1733594585,1730544844,1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 0 | 2 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 3 | 0 | 0 | 3 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 3 | 0 | 3 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 2 | 0 | 2 |
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/09 | 16-41 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2025/01/03 | 9-40 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ✅ | 2024/12/22 | 23-20 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ✅ | 2024/12/12 | 37-12 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

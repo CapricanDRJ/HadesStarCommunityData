@@ -22,7 +22,7 @@ Ask an officer about discord or join the conversation at [discord url
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1266)|
+| ELO Regular | 1110 🔻  (1265)|
 | ELO Competitive | 1160 🔻  (1184)|
 | Total Matches | 29 |
 | Wins | 11 |
