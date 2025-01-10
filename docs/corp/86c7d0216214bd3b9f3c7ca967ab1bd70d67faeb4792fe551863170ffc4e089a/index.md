@@ -21,6 +21,7 @@ n>本团为北极星联盟成员
 ☞分团：边域(开拓ing，影响力不够可来)
 <#BDB76B>[QQ:733613340]
 ```
+### [Discord](https://discord.gg/8uQgZfVQ)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

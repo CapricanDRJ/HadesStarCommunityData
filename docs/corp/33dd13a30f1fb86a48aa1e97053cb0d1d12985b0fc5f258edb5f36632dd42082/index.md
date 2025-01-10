@@ -15,6 +15,7 @@ date: 1736230837
 ```
 别捐旗舰，其它随意
 ```
+### [Discord](https://discord.gg/agqGsygv)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

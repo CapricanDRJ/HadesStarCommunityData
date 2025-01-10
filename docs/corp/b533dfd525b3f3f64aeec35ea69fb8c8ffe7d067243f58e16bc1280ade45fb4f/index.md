@@ -20,7 +20,7 @@ No entries during WS. Plz apply later again.
 
 Beginners welcome, we support you to grow.
 
-WKdC8XW
+https://discord.gg/WKdC8XW
 ```
 ### Whitestar Bonus ❌ 9%
 

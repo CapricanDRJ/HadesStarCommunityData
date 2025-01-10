@@ -15,7 +15,7 @@ date: 1717392827
 ```
 Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
 
-EKJFqvs7XA
+https://discord.gg/EKJFqvs7XA
 ```
 ### Whitestar Bonus ❌ 6%
 

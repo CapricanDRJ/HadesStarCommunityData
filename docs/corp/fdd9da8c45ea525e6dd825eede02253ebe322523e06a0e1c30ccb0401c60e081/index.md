@@ -15,7 +15,7 @@ date: 1732190565
 ```
 Anyone active welcome to join.
 
-p5GSVDDrSc
+https://discord.gg/p5GSVDDrSc
 ```
 ### Whitestar Bonus ❌ 1%
 

@@ -14,7 +14,7 @@ date: 1736163529
 
 ```
 United Fleet Operations:
-NuvtUTUxQj 
+https://discord.gg/NuvtUTUxQj 
 ```
 ### Whitestar Bonus ❌ 6%
 

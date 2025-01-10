@@ -14,7 +14,7 @@ date: 1733839975
 
 ```
 Bienvenue à tous les aventuriers galactique !
-M8HFPDG
+https://discord.gg/M8HFPDG
 ```
 ### Whitestar Bonus ❌ 2%
 

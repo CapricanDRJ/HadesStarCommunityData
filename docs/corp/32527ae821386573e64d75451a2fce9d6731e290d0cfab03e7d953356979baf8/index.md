@@ -15,6 +15,7 @@ date: 1723153186
 ```
 LEAVE!!!
 ```
+### [Discord](https://discord.gg/I like Chelsea’s feet)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -15,9 +15,9 @@ date: 1735958915
 ```
 Grunthal Gang is a competitive corp of international players offering
  daily RS and WS. Please join discord if you'd like to become a membe
-r of our corp. [discord url]
+r of our corp. https://discord.gg/jUQReQtRJN
 ```
-### [Discord](https://discord.gg/jUQReQtRJN)
+### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
 ### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |

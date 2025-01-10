@@ -16,7 +16,7 @@ date: 1734901291
 <b>Добро пожаловать в Axiom! </b> 
  Ведётся набор! Помощь новичкам и лоулвл.  
 Основана 01.09.2019
-[discord url]
+https://discord.gg/CY4M2awSgS
 ```
 ### [Discord](https://discord.gg/CY4M2awSgS)
 ### Whitestar Bonus ❌ 15%

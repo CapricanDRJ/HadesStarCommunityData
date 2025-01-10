@@ -26,7 +26,7 @@ Max period of inactivity: 3 days.
 
 English only.
 ```
-### [Discord](https://discord.gg/bAAYCqG2cE)
+### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

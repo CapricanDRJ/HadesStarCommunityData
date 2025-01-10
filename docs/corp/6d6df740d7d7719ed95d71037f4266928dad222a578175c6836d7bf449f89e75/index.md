@@ -17,8 +17,9 @@ Bersatu kita teguh,
 Bercerai ya kawin lagi.
 
 Discord :
-<color=orange>[discord url]
+<color=orange>https://discord.gg/MCDb2Mt</color>
 ```
+### [Discord](https://discord.gg/https://discord.gg/2yTUSx2x)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

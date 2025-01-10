@@ -17,6 +17,7 @@ Kill or be Killed. We as Survivors  have banded together to take on a
 ll enemy forces! We are a small, recently created group of determined
  people doing WS & having fun.
 ```
+### [Discord](https://discord.gg/https://discord.gg/JsfWnkf7)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

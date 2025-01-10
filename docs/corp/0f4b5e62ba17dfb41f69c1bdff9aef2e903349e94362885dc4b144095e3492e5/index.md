@@ -17,6 +17,7 @@ date: 1703958954
 екватность, от нас любая возможная помощь, небезразличные учасники, п
 одключаемся к каналу дискорд и ватсап 
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/2bQ8kZ8n)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

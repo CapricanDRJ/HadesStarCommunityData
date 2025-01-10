@@ -17,6 +17,7 @@ date: 1735929771
 vents (when possible), Also make use of the timemachine capability if
  AFK or not on much during the white star event :::..  😊👍
 ```
+### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

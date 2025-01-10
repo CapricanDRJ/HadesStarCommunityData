@@ -13,7 +13,7 @@ date: 1702043417
 
 
 ```
-Discord mXaAX7Caga
+Discord https://discord.gg/mXaAX7Caga
 ```
 ### Whitestar Bonus ❌ 6%
 

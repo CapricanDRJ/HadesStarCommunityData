@@ -18,7 +18,7 @@ um zu wissen, wie weit er spritzt ~W.R.~
 Chatbeteiligung erwünscht!
 Tägl. RRs bis 10 ab 20:30
 
-ftuA2DGDR4
+https://discord.gg/ftuA2DGDR4
 
 03/2023
 ```

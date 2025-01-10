@@ -25,6 +25,7 @@ HVgvAaF
 
 (PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
+### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

@@ -20,6 +20,7 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 
 Discord : wZcGGNZ
 ```
+### [Discord](https://discord.gg/wZcGGNZ )
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

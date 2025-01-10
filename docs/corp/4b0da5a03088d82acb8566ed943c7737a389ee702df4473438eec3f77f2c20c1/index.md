@@ -17,6 +17,7 @@ date: 1726810042
 /color></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><color=yellow>允
 许捐旗舰!</color></size>              创立于8月1日
 ```
+### [Discord](https://discord.gg/lsyly)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

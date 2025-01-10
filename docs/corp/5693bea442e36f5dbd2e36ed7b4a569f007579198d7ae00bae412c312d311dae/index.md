@@ -15,6 +15,7 @@ date: 1736016166
 ```
 Lets WiN all white Stars
 ```
+### [Discord](https://discord.gg/Nope)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

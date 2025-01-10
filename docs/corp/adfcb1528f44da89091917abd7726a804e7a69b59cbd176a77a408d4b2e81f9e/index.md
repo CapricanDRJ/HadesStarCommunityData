@@ -20,6 +20,7 @@ date: 1703552345
 Language: English-Spanish
 Discord: pxSK3vbe</color></b>
 ```
+### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

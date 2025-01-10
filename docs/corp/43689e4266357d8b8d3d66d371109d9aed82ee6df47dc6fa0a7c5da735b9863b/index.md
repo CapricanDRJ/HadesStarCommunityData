@@ -21,7 +21,7 @@ RS 11 to RS 8
 
 Join our discord <b>first</b> if you want to join our corp.
 
-[discord url]
+https://discord.gg/gBFFE5x
 
 od-family.com
 ```

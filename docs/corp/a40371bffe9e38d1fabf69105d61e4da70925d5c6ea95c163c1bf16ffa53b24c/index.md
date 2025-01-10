@@ -15,7 +15,7 @@ date: 1718644633
 ```
 Que la fuerza te acompañe
 discord:
-3PDKPau
+https://discord.gg/3PDKPau
 ```
 ### Whitestar Bonus ❌ 3%
 

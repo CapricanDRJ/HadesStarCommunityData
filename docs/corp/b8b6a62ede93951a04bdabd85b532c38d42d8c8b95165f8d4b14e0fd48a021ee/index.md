@@ -15,8 +15,9 @@ date: 1729244103
 ```
 Corporation active et joueuse.WS régulièrement prévues. 
  Discord obligatoire pour les WS. Merci :) 
-Lien: [discord url]
+Lien: https://discord.gg/gaBKUb5t
 ```
+### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

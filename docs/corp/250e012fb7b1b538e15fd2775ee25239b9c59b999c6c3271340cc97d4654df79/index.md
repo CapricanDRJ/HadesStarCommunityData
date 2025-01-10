@@ -19,9 +19,9 @@ piccoli)
 <b><size=40><color=red>WS sempre</color></size></b>
 
 
-Discord: [discord url]
+Discord: https://discord.gg/A26JEJgPwh
 ```
-### [Discord](https://discord.gg/xGMUwWdzab)
+### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

@@ -16,6 +16,7 @@ date: 1731687844
 Those who move cargo.     English will be the primary language for co
 mmunication.
 ```
+### [Discord](https://discord.gg/AbsBfzPn)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

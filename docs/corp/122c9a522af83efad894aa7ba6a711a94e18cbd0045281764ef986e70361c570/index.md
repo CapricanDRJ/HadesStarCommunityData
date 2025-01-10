@@ -17,7 +17,7 @@ Chill laid back corp looking for new and experienced players. Looking
  for active players.
 We run a weekly WS scanning on Saturday.
 Discord:
-wvk5YXqa4y
+https://discord.gg/wvk5YXqa4y
 ```
 ### Whitestar Bonus ❌ 6%
 

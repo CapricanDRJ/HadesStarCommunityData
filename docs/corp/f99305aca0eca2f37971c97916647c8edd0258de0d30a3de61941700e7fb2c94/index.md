@@ -18,7 +18,7 @@ date: 1734723695
 Discord is mandatory! 
 
 Visit us on discord  to join:
-[discord url]
+https://discord.gg/ysGrswJTUp
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌ 10%

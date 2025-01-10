@@ -16,6 +16,7 @@ date: 1701817115
 The combined forces of the Imperial ruled planets. Commanded by the I
 mperial High Council
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/PasdADNm)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

@@ -19,7 +19,7 @@ OntarioDynasty family of corps.
 
 Learn from experienced players
 Apply via Discord
-[discord url]
+https://discord.gg/gBFFE5x
 
 od-family.com
 ```

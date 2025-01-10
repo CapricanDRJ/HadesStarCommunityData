@@ -17,7 +17,7 @@ Just a friendly group of peeps
 White Star mondays 
 
 Discord Optional:
-SCWbttfZbU
+https://discord.gg/SCWbttfZbU
 ```
 ### Whitestar Bonus ❌ 5%
 

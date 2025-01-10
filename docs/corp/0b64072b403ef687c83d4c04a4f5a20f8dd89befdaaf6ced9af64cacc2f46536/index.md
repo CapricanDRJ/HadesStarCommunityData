@@ -17,6 +17,7 @@ WhatSapp nunero +50768683442 para las EB. Alianza:Axolotls. Fecha de
 inicio de corp : 1/7/2023. Ayuda en ER1/ER7. Estrellas Blancas Diaria
 s 
 ```
+### [Discord](https://discord.gg/discod:https://discord.gg/aHg6eV7v)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

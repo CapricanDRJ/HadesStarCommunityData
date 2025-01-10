@@ -17,7 +17,7 @@ date: 1734794604
 
 ✓RS 1>7, WS 10 tous les 5 jours (discord requis)
 ✓Entraide et bonne ambiance
-✓EXj5vtr
+✓https://discord.gg/EXj5vtr
 
 Évolution chez "On en a Gros" pour RS8+
 ```

@@ -21,6 +21,7 @@ app. Es de carácter obligatorio...
 Alianza de Corporaciones
 AXOLOTLS
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

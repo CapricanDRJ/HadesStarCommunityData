@@ -17,6 +17,7 @@ date: 1736368473
 .. познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ 
 ПЯТНИЦУ В 23:00 ПО МСК***
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

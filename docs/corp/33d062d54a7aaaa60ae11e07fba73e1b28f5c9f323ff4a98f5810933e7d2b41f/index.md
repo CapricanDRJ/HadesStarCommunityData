@@ -16,7 +16,7 @@ date: 1734481505
 Bienvenido/a a la     organización espacial multiestelar, tenemos dis
 cord 
 ```
-### [Discord](https://discord.gg/bRJjJ7Xr6p)
+### [Discord](https://discord.gg/https://discord.com/invite/bRJjJ7Xr6p)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

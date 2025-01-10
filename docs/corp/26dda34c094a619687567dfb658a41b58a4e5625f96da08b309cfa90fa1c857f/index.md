@@ -18,7 +18,7 @@ date: 1702763834
 •looking for  WS players. first time welcome
 •Active community
 
-Join Discord here: <b> 8aARTQU </b>
+Join Discord here: <b> https://discord.gg/8aARTQU </b>
 SFA : EEpZuWf
 ```
 ### Whitestar Bonus ❌ 9%

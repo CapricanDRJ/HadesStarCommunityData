@@ -17,6 +17,7 @@ date: 1733945443
 n corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crece
 r.                                         WhatsApp incluido.
 ```
+### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

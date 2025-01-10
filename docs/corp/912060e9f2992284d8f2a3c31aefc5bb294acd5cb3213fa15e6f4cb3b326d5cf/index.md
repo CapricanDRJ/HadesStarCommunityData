@@ -18,7 +18,7 @@ WS Intro corp for the
 
 Join discord for chat, advice and laughter:
 
-gBFFE5x
+https://discord.gg/gBFFE5x
 
 od-family.com
 ```

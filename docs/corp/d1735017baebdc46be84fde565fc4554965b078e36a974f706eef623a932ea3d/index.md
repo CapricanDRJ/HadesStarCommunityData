@@ -14,7 +14,7 @@ date: 1710112112
 
 ```
 
-aeZrWpH9YW
+https://discord.gg/aeZrWpH9YW
 ```
 ### Whitestar Bonus ❌ 5%
 

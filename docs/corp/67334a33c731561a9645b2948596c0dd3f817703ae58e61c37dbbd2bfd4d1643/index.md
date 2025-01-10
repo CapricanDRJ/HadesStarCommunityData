@@ -21,7 +21,7 @@ RIP Barriotuba
 Join our development wing: Lemonparty
 Proud member of The Dark Matter Syndicate 
 Discord:
-kTmpmWx
+https://discord.gg/kTmpmWx
 ```
 ### Whitestar Bonus ❌ 12%
 

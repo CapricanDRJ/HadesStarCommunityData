@@ -14,8 +14,8 @@ date: 1736192080
 
 ```
 Welcome to Crimson Dawn. Be active & have fun.
-Ask an officer about discord or join the conversation at [discord url
-]
+Ask an officer about discord or join the conversation at https://disc
+ord.gg/j5GeqTEx6E
 ```
 ### [Discord](https://discord.gg/j5GeqTEx6E)
 ### Whitestar Bonus ❌ 7%

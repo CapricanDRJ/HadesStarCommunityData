@@ -17,6 +17,7 @@ date: 1736192080
 e usually do WS once a week with a day in between searches. If you in
 dicate you will participate and dont you will be kicked.
 ```
+### [Discord](https://discord.gg/Fhks7wPV)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |

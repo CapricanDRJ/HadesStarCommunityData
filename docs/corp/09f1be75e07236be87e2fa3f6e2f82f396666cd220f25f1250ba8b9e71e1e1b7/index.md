@@ -19,7 +19,7 @@ RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 ```
-### [Discord](https://discord.gg/BFfSkvu)
+### [Discord](https://discord.gg/discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

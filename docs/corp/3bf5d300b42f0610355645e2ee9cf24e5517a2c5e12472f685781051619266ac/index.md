@@ -17,6 +17,7 @@ Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día
  a la vez. Estrellas Blancas exigentes, trabajo en equipo y estrategi
 a. Nuestra filosofía: unidos somos invencibles.
 ```
+### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

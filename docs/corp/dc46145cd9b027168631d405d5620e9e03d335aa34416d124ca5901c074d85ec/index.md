@@ -19,7 +19,7 @@ Pants not required
 
 
 contact us via Discord to join:
-gBFFE5x
+https://discord.gg/gBFFE5x
 
 od-family.com
 ```

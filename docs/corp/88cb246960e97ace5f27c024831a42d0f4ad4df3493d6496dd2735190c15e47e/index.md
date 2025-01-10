@@ -19,7 +19,7 @@ date: 1733580670
 ★二团：南玄星云
 ★玄冥Q群：1037697956
 ★华人Q群：597444221
-★Discord：yMRBXE9VZ4
+★Discord：https://discord.gg/yMRBXE9VZ4
 ★北冥建立时间：2020.7.8
 
 ღ愿世界平和，愿人们的温柔永存

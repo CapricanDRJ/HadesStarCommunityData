@@ -16,6 +16,7 @@ date: 1732290073
 <b><size=60><color=#228b22>Welcome to Peace Keepers </color></size></
 b>  Peacefully collecting relics since 2018.                   😎 
 ```
+### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

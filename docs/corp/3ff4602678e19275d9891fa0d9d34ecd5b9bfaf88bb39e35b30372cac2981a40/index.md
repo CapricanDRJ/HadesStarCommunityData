@@ -18,7 +18,7 @@ L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort
 Sois le bienvenu chez les Pirates!!!!
 RS7 à RS11 full coop
 WS HL hebdo
-[discord url]
+https://discord.gg/wZcGGNZ
 ```
 ### [Discord](https://discord.gg/wZcGGNZ)
 ### Whitestar Bonus ❌ 15%

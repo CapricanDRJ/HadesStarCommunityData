@@ -18,7 +18,7 @@ Regular white stars.
 
 Part of Red Star Raiders alliance
 
-[discord url]
+https://discord.gg/nUgqhbn
 ```
 ### [Discord](https://discord.gg/nUgqhbn)
 ### Whitestar Bonus ❌ 13%

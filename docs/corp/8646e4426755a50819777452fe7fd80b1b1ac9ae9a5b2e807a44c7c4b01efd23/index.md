@@ -17,6 +17,7 @@ date: 1735982648
 <color=red>◆祝各位早日R12!!!</color></size>
 <color=yellow>◆</color>
 ```
+### [Discord](https://discord.gg/U7S2BaueGU)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

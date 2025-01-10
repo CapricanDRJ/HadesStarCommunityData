@@ -18,7 +18,7 @@ discord required in this corp.
 Discord users join:
 Red_Coat_Mafia 
 ```
-### [Discord](https://discord.gg/MgcvvsKa8q)
+### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

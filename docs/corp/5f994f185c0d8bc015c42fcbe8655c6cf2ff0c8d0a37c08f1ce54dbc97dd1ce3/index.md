@@ -16,9 +16,9 @@ date: 1719574274
 Bienvenido a Veil of Maya
 Hacemos EB semanal y hay muy buen rollo. Si quieres entrar haz solici
 tud por Discord y te aceptaremos encantados!
-[discord url]
+https://discord.gg/nB2Nsukt7X
 ```
-### [Discord](https://discord.gg/nB2Nsukt7X)
+### [Discord](https://discord.gg/https://discord.gg/nB2Nsukt7X)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

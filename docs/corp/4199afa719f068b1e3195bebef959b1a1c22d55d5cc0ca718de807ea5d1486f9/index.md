@@ -19,7 +19,7 @@ date: 1728112901
 
 集团交流QQ群：446097226
 白星作战群（打白星必加）：<color='#FF0000'>832811269</color>
-discord：eDKGV87N
+discord：https://discord.gg/eDKGV87N
 集团分盟：蓝色星系一号分盟
 ```
 ### Whitestar Bonus ❌ 12%

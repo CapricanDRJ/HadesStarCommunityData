@@ -16,7 +16,7 @@ date: 1734784685
 Fun, easy going yet hardass corp for all. Discord account required fo
 r White Star runs.
 ```
-### [Discord](https://discord.gg/X8mRJ994nY)
+### [Discord](https://discord.gg/https://discord.gg/X8mRJ994nY)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

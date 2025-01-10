@@ -18,7 +18,7 @@ Chill corp for active RS and WS pilots! All experience levels welcome
 
 Discord is mandatory for ws
 
-[discord url]
+https://discord.gg/jPftecDuNp
 
 Primarily English
 ```

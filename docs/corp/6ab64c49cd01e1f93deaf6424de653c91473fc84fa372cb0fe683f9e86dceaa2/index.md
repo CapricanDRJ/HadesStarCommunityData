@@ -15,6 +15,7 @@ date: 1729536238
 ```
 WEEKLY WS & JOIN DISCORD 
 ```
+### [Discord](https://discord.gg/https://discord.gg/vB32Cbey)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

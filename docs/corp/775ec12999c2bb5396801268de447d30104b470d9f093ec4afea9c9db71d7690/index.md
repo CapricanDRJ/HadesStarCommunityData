@@ -17,6 +17,7 @@ date: 1701973393
 <color=white>• Еженедельные походы на БЗ</color>
 <color=purple>• Чат в TG</color>
 ```
+### [Discord](https://discord.gg/tFTT3b8H)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

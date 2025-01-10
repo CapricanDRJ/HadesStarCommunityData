@@ -15,6 +15,7 @@ date: 1736272005
 ```
 Together We Can Achieve More.
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
 ### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |

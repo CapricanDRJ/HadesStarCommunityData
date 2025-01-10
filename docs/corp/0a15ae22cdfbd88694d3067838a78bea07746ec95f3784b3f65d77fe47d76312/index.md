@@ -17,7 +17,7 @@ date: 1736122974
 color=green>White Star Élite </color> <size=60><color=orange>☆NakSaru
 gg☆</color></b>   Recruiting "StarMasters" for WS
 ```
-### [Discord](https://discord.gg/jQHaBGnQDa)
+### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

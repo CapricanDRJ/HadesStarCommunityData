@@ -18,7 +18,7 @@ Corvus Ind 🤍
 
 New players welcomed!
 
-Join via Discord: <color=yellow> [discord url] </color>
+Join via Discord: <color=yellow> https://discord.gg/vPsNNxs </color>
 
 Discord MANDATORY.
 We have awesome queue for rs runs!

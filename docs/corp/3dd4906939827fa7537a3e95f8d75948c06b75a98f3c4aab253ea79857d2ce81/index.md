@@ -18,7 +18,7 @@ ke friends, have fun, and enjoy the game!
 
 Discord required | Part of Astral Alliance
 ```
-### [Discord](https://discord.gg/naqEGjHA3B)
+### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

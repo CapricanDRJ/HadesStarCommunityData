@@ -17,6 +17,7 @@ date: 1715630616
 llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 .         
 ```
+### [Discord](https://discord.gg/<b><color=black><size=33> discord no disponible )
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

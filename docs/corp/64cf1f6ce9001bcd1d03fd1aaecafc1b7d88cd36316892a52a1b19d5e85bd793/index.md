@@ -17,7 +17,7 @@ date: 1725637514
 ard core WS focused players wanted. Discord comms essential. We are k
 een to improve WS results. Let's kick ass together!
 ```
-### [Discord](https://discord.gg/cevpqFrB7J)
+### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

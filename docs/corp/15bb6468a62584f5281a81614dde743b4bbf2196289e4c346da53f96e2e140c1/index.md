@@ -17,6 +17,7 @@ date: 1736406474
  додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефакті
 в, допомога та поради, за бажанням досвід в боях за білу зірку
 ```
+### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |

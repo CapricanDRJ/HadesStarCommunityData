@@ -15,6 +15,7 @@ date: 1700841235
 ```
 Just a group of friends enjoying the game
 ```
+### [Discord](https://discord.gg/cRXreAcJZw)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

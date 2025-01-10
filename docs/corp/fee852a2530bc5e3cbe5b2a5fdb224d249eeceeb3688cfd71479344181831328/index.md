@@ -18,6 +18,7 @@ date: 1736373282
 <color=#e50>Get <color=#9ec>500 Crystals</color> every month!
 <color=#fb3>Bring your crew and join us for 
 ```
+### [Discord](https://discord.gg/HAUXPBta)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |

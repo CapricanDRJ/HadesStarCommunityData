@@ -14,7 +14,7 @@ date: 1735695694
 
 ```
 Discord and at least monthly WS participation required. Part of the m
-ulti-corp group, Astral Alliance [discord url]
+ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 ```
 ### [Discord](https://discord.gg/gdwqCqc2VN)
 ### Whitestar Bonus ❌ 9%

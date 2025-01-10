@@ -19,6 +19,7 @@ date: 1736205603
 We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
+### [Discord](https://discord.gg/najb7MJf)
 ### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |

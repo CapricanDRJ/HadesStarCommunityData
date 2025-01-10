@@ -17,7 +17,7 @@ An <size=100>English</size> speaking, independent, <size=200><color=w
 hite><b>White-Star</b></color></size> corp with very <size=100><i>wei
 rd standards</i></size>.
 
-7KGYvMbPgK
+https://discord.gg/7KGYvMbPgK
 ```
 ### Whitestar Bonus ❌ 8%
 

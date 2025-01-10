@@ -15,7 +15,7 @@ date: 1703132249
 ```
 Have fun. Help your fellow player. White Stars. Private Red Stars. Be
  active.
-Discord: [discord url]
+Discord: https://discord.gg/
 ```
 ### Whitestar Bonus ❌ 4%
 

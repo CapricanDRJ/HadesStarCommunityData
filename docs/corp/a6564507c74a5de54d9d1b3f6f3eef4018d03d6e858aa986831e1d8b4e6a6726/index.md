@@ -19,7 +19,7 @@ dialogue, écoute et persévérance sont là clé. シ︎
 
 La naissance d'un empire ! ❦︎
 
-AA2vSmDw ☠︎
+https://discord.gg/AA2vSmDw ☠︎
 ```
 ### Whitestar Bonus ❌ 2%
 

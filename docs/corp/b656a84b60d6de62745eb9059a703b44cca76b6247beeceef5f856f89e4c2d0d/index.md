@@ -16,7 +16,7 @@ date: 1715188047
 Following  the learning curve. Active participation is expected. Plea
 se turn off your White Star scanner if not participating
 
-Discord - ZUeGK83 (optional, not required)
+Discord - https://discord.gg/ZUeGK83 (optional, not required)
 ```
 ### Whitestar Bonus ❌ 9%
 

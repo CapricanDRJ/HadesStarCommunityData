@@ -18,6 +18,7 @@ date: 1733301411
 友好关系：绛紫星
 Q：650722059
 ```
+### [Discord](https://discord.gg/akTfXJGv)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -17,7 +17,7 @@ USA or the United Stars Alliance stands for the good for all of the m
 embers Star Nations that are apart of it against the chaos outside of
  it. Casual group with a couple hardcore players! 
 ```
-### [Discord](https://discord.gg/PvyhHgSDHY)
+### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

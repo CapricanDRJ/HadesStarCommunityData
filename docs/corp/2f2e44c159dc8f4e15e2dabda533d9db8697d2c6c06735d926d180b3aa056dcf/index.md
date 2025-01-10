@@ -16,6 +16,7 @@ date: 1734788893
 We  welcome all to join us, we will do our best to help you grow. we 
 do a weekly White Star and we have a Active player base!
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/TMcbGqzZ)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

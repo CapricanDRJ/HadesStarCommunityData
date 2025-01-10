@@ -19,7 +19,7 @@ We are also helpful and very active doing Red Stars and White Stars f
 requently. 
 
 Please join our Discord Server 
-[discord url]
+https://discord.gg/Xt8tjjGdRD
 
 ```
 ### [Discord](https://discord.gg/Xt8tjjGdRD)

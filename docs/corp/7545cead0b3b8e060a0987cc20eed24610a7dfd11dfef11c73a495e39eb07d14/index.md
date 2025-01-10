@@ -16,7 +16,7 @@ date: 1710084164
 🔥Welcome to the Dark Legion training base. We welcome players of all
  nationalities and from all countries. 
 ```
-### [Discord](https://discord.gg/MY29hgT5ZE)
+### [Discord](https://discord.gg/https://discord.gg/MY29hgT5ZE)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

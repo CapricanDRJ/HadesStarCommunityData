@@ -17,6 +17,7 @@ date: 1735293679
 yment. <color=yellow>Welcomes both newbies and veterans throughout th
 e Hades Galaxy. Join us and have fun 
 ```
+### [Discord](https://discord.gg/aCU5VZGc)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -14,8 +14,10 @@ date: 1726656172
 
 ```
 <color=red><u><b><size=150>勿谈和白，不可以骂人</b> </u></size></color><br><col
-or=#ffff55>STRVS233~</color><br>KOOK:[discord url]
+or=#ffff55>STRVS233~</color><br>KOOK:https://kook.top/BKE0Pe<br>Disco
+rd:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成员
 ```
+### [Discord](https://discord.gg/qWJGwgf4)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

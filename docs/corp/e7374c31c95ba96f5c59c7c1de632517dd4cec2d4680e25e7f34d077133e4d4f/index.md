@@ -19,6 +19,7 @@ date: 1736228434
 暗红组队群879848835
 神器交易群183736503
 ```
+### [Discord](https://discord.gg/https://discord.com/register)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

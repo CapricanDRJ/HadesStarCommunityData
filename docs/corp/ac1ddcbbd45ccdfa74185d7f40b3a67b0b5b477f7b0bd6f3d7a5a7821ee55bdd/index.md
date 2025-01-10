@@ -17,6 +17,7 @@ Weekly White Star pvp. New White Star Warriors will be supported, but
  you must be committed. Join to find out more via the Corporation Dis
 cord link below (Space Pals Server, Discord mandatory). 
 ```
+### [Discord](https://discord.gg/3A9WHQV )
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

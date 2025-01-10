@@ -14,7 +14,7 @@ date: 1715658553
 
 ```
 North American Commonwealth
-Discord: hdyFZyffM
+Discord: https://discord.gg/hdyFZyffM
 NAC Rebuild. Extremly casual play.
 
 Discord is required to run in white stars. 

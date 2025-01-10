@@ -19,6 +19,7 @@ Season 56: 6 wins 0 loses
 Season 57: 5 wins 1 loses
 Season 58: 3 wins 1 loses
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/dEGkUskt)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

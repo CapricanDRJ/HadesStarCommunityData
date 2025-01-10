@@ -14,8 +14,8 @@ date: 1734719187
 
 ```
 Soldiers that never give up on the battlefield despite the odds. Grea
-t team atmosphere, regular white/red stars. Active  members join us r
-mzHUdXef7
+t team atmosphere, regular white/red stars. Active  members join us h
+ttps://discord.com/invite/rmzHUdXef7
 ```
 ### Whitestar Bonus ❌ 10%
 

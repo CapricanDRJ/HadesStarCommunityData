@@ -17,6 +17,7 @@ date: 1726054582
 </size><color=#fff><br>推薦コーポ<br>🟡Spica(No Discord＆SNS) <br>🟢星を継ぐもの<
 br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 ```
+### [Discord](https://discord.gg/3WAXnPcaNe)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

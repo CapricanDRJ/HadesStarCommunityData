@@ -18,7 +18,7 @@ Bist du neu oder voll der Pro?! Flieg mit uns...bei RZwoDZwo!!!
 Wir freuen uns auf dich!
 
 \o/
-[discord url]
+https://discord.gg/UPTTtGQpTj
 ```
 ### [Discord](https://discord.gg/UPTTtGQpTj)
 ### Whitestar Bonus ❌ 6%

@@ -22,6 +22,7 @@ date: 1736316512
 **English**
 *Donations Appreciated*
 ```
+### [Discord](https://discord.gg/vmbXh7r7yt)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

@@ -26,6 +26,7 @@ QQ群号为131920392，
 
 让我们一起“逐梦龙腾，携手共进”吧！
 ```
+### [Discord](https://discord.gg/猫娘喵喵喵)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

@@ -18,7 +18,7 @@ nter dem persönlichen Kommando von Darth Vader und aufgrund ihrer mil
 itärischen Stärke in der Galaxis gefürchtet.
 
 ```
-### [Discord](https://discord.gg/fPPpCktmhu)
+### [Discord](https://discord.gg/https://discord.com/invite/fPPpCktmhu)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

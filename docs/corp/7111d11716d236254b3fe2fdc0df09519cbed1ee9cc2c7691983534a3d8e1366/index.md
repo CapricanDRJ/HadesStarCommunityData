@@ -20,7 +20,7 @@ Keine Ich AG
 Familientauglich
 Aktive WZler Willkommen
 Discord nur für WZ Pflicht
-M35HmhvmC2
+https://discord.gg/M35HmhvmC2
 
 Mitglied der Tartaros Armada 
 ```

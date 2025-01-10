@@ -15,6 +15,7 @@ date: 1736153850
 ```
 欢迎各位萌新加入。
 ```
+### [Discord](https://discord.gg/JXaTpU9Q)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

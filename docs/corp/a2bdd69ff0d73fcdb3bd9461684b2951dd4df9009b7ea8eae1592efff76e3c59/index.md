@@ -15,7 +15,7 @@ date: 1736175250
 ```
 Redstar privat în fiecare seară.                        Whitestar sap
 tamanal. Vrei să crești alături de noi? Te așteptăm! Acces discord vi
-a browser: [broken url]
+a browser: https://dsc.gg/sah
 ```
 ### [Discord](https://discord.gg/23cA4bB7X8)
 ### Whitestar Bonus ❌ 11%

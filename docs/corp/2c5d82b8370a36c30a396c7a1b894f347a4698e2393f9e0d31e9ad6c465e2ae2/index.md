@@ -15,6 +15,7 @@ date: 1719449551
 ```
 Anyone who wants can join.
 ```
+### [Discord](https://discord.gg/https://discord.gg/hfh5fpT7)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

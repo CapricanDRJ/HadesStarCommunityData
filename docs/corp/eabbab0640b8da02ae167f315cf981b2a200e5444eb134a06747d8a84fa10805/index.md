@@ -17,7 +17,7 @@ WhiteStar with no Discord? Chat and play2win! New ACTIVES welcome. He
 lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
  star school) tips in mail. DailyDarkRed players 7-11
 ```
-### [Discord](https://discord.gg/W4kNG43XDb)
+### [Discord](https://discord.gg/https://discord.com/invite/W4kNG43XDb)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

@@ -17,7 +17,7 @@ date: 1736133786
 lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 ...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"
 ```
-### [Discord](https://discord.gg/RsHKaexHNh)
+### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

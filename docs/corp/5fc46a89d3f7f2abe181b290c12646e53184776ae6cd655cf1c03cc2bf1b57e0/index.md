@@ -18,7 +18,7 @@ nfängerfreundlichkeit und der Etablierung einer familiären Spielergem
 einschaft.
 
 Discord:
-Mvy7Myx
+https://discord.gg/Mvy7Myx
 ```
 ### Whitestar Bonus ❌ 1%
 

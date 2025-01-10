@@ -15,6 +15,7 @@ date: 1736447832
 ```
 As long as you’re active you can stay.
 ```
+### [Discord](https://discord.gg/5Ty2Uqmu)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

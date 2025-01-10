@@ -15,6 +15,7 @@ date: 1736319180
 ```
 No camping. Discord mandatory for ws
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/jMqZD8XskE)
 ### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |

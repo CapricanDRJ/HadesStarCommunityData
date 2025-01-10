@@ -15,6 +15,7 @@ date: 1735021454
 ```
 Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
+### [Discord](https://discord.gg/https://t.me/Lyutyee)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

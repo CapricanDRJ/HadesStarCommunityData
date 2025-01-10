@@ -13,7 +13,8 @@ date: 1703188801
 
 
 ```
-Be nice and be active, we will support you on your way up :) 3z6EWUq5
+Be nice and be active, we will support you on your way up :) https://
+discord.com/invite/3z6EWUq5
 ```
 ### Whitestar Bonus ❌ 8%
 

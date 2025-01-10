@@ -16,7 +16,7 @@ date: 1705458831
 need active players. If you want to participate in WS you have to joi
 n the discord. Trading and co-op RS also available.
 ```
-### [Discord](https://discord.gg/DpavCfx8XJ)
+### [Discord](https://discord.gg/https://discord.gg/DpavCfx8XJ)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

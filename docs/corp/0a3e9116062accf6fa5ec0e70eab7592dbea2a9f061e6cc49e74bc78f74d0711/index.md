@@ -17,6 +17,7 @@ date: 1735637106
 ~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              
 ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
+### [Discord](https://discord.gg/evPmv96K)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

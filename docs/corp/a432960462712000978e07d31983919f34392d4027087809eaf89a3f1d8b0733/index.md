@@ -17,7 +17,7 @@ Galactic Defence Council
 "Hope in the darkness" 
 Please be Active in chat and try to participate during WS, RS, and ra
 ndom stuff. Be kind in chat!!!!! 
-7J9fa2egCU
+https://discord.gg/7J9fa2egCU
 Join for Senior M.
 ```
 ### Whitestar Bonus ❌ 0%

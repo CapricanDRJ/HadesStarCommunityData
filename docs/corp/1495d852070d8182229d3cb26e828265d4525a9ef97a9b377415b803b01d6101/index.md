@@ -14,10 +14,10 @@ date: 1734724296
 
 ```
 Ведётся набор. БЗ-ориентированная корпорация. Помогаем с артефактами.
- Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: [discord 
-url]
+ Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: https://d
+iscord.com/invite/y2m2V3WYtr
 ```
-### [Discord](https://discord.gg/y2m2V3WYtr)
+### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

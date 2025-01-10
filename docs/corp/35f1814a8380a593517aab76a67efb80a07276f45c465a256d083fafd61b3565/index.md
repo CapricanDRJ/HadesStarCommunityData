@@ -13,7 +13,7 @@ date: 1712188114
 
 
 ```
-DGmS9c2b
+https://discord.gg/DGmS9c2b
 ```
 ### Whitestar Bonus ❌ 4%
 

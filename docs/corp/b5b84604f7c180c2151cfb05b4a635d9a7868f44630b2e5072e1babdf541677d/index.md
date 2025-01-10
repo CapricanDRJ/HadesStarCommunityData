@@ -21,7 +21,7 @@ OntarioDynasty Family of Corps
 Multiple corps to support
 all RS levels & play styles. 
 
-gBFFE5x
+https://discord.gg/gBFFE5x
 
 od-family.com
 ```

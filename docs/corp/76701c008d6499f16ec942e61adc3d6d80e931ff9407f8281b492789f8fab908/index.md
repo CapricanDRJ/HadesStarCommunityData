@@ -19,6 +19,7 @@ avonfliegen.
 We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
+### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

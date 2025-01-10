@@ -15,9 +15,9 @@ date: 1731940255
 ```
 We're an enduring community, looking for new and active players. We o
 ffer experienced mentors on hand to help with regular WS and RS runs.
- Use of Discord is highly recommend [discord url]
+ Use of Discord is highly recommend https://discord.gg/n4nHC3N
 ```
-### [Discord](https://discord.gg/qbKYCBzmxk)
+### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

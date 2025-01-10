@@ -17,6 +17,7 @@ date: 1719390049
               群qq1067984316                白星，尽量好好打，有啥出啥             
 warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881
 ```
+### [Discord](https://discord.gg/https://discord.gg/yf6cZcBq)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

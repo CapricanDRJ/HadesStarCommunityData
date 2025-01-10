@@ -15,7 +15,7 @@ date: 1712320278
 ```
 To explore and to assist all we can. 
 
-Discord Recruiting Channel: zBsPybt
+Discord Recruiting Channel: https://discord.gg/zBsPybt
 ```
 ### Whitestar Bonus ❌ 2%
 

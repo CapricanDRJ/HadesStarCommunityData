@@ -15,7 +15,7 @@ date: 1734829460
 ```
 Aquí, todos los miembros se forjan un nombre en este hostil sistema. 
 Unete a nosotros en esta larga travesía.             -Capital del Imp
-erio Pendejico- Discord: [discord url]
+erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 ```
 ### [Discord](https://discord.gg/fRfYczjyuD)
 ### Whitestar Bonus ❌ 4%

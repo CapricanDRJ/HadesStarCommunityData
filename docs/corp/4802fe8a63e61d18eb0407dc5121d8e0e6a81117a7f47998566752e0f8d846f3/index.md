@@ -15,7 +15,7 @@ date: 1735666549
 ```
 Casual group of mostly Canadians, all are welcome. White stars every 
 week, red stars whenever we can.
-Discord: S6fvaKp
+Discord: https://discord.gg/S6fvaKp
 ```
 ### Whitestar Bonus ❌ 10%
 
