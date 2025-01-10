@@ -19,7 +19,7 @@ This WS is WAR.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (723)|
+| ELO Regular | 1185 🔻  (722)|
 | ELO Competitive | 1187 🔻  (818)|
 | Total Matches | 6 |
 | Wins | 2 |

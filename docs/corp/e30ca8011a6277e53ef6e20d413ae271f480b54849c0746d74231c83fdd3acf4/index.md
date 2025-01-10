@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ALPHA
-description: W:23 L:7 D:0 Bonus ✅ 34%
+description: W:24 L:7 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1736094131
+date: 1736528093
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ Crecer principal objetivo        Leko:Join us we need active member
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1379 🔺  (72)|
-| ELO Competitive | 1415 🔺  (131)|
-| Total Matches | 30 |
-| Wins | 23 |
+| ELO Regular | 1387 🔺  (67)|
+| ELO Competitive | 1421 🔺  (122)|
+| Total Matches | 31 |
+| Wins | 24 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 7 |
+| Streak | 8 |
 | Streak Record | 8 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/10 | 6-5 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ✅ | 2025/01/05 | 15-5 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/12/31 | 16-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2024/12/26 | 22-3 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) |

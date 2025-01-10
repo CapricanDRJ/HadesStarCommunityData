@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736522981
+date: 1736528093
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1736522981
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (487)|
-| ELO Competitive | 1203 🔻  (621)|
-| Total Matches | 2 |
+| ELO Regular | 1194 🔻  (554)|
+| ELO Competitive | 1211 🔻  (587)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736090981,1735655519];
+        let timestamps = [1736096093,1736090981,1735655519];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/10 | 5-6 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2025/01/10 | 3-11 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/01/05 | 6-2 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 
