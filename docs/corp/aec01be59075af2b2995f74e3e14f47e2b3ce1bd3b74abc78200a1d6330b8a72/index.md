@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:30 L:19 D:0 Bonus ✅ 42%
+description: W:30 L:19 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1735909934
 ---
@@ -16,7 +16,7 @@ date: 1735909934
 <b><color="yellow"><size=80>Corp. Estelar | Axolotls</size></color></
 b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

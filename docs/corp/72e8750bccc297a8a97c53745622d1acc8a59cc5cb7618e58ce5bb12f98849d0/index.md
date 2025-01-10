@@ -28,7 +28,7 @@ Q群：993612413
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (331)|
+| ELO Regular | 1228 🔺  (333)|
 | ELO Competitive | 1256 🔺  (385)|
 | Total Matches | 19 |
 | Wins | 9 |

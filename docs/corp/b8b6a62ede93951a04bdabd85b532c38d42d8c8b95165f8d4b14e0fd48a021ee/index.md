@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hermitage
-description: W:13 L:8 D:0 Bonus ❌ 7%
+description: W:13 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1729244103
+date: 1736513958
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Lien: https://discord.gg/gaBKUb5t
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (238)|
-| ELO Competitive | 1292 🔻  (291)|
-| Total Matches | 21 |
+| ELO Regular | 1250 🔻  (251)|
+| ELO Competitive | 1287 🔻  (300)|
+| Total Matches | 22 |
 | Wins | 13 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
+        let timestamps = [1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/10 | 3-50 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ❌ | 2024/10/18 | 19-33 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2024/10/11 | 39-24 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/09/20 | 26-7 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
