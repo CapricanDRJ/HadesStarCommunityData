@@ -22,8 +22,8 @@ one alle WS.                                  ~Discord OBBLIGATORIO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (283)|
-| ELO Competitive | 1242 🔻  (432)|
+| ELO Regular | 1240 🔻  (284)|
+| ELO Competitive | 1242 🔻  (433)|
 | Total Matches | 7 |
 | Wins | 5 |
 | Losses | 2 |
