@@ -27,7 +27,7 @@ Closed the list
 | Draws | 0 |
 | Streak | 17 |
 | Streak Record | 17 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

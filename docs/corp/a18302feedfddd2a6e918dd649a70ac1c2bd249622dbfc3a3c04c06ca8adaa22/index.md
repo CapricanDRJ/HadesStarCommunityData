@@ -27,7 +27,7 @@ ividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP
 | Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

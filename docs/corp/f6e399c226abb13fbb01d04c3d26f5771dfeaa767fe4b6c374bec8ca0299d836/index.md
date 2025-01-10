@@ -26,7 +26,7 @@ Greetings, Starfighter! You have been recruited by the star league to
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

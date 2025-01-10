@@ -28,7 +28,7 @@ e Infos on Discord or at: hadestitans.com
 | Losses | 31 |
 | Draws | 4 |
 | Streak Record | 15 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

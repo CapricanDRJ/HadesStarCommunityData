@@ -26,7 +26,7 @@ Everyone is welcome to our corporation. Be active and enjoy.😀
 | Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

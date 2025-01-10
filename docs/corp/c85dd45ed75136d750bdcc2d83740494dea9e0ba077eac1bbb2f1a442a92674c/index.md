@@ -35,7 +35,7 @@ We have awesome queue for rs runs!
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 16 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

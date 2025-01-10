@@ -30,7 +30,7 @@ Supportive community. Regular WS and RS. If u join us for WS, discord
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

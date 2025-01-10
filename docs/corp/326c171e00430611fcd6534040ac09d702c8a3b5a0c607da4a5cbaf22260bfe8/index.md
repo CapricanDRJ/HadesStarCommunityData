@@ -26,7 +26,7 @@ ation.May the Low Red Stars of Hades unite into TEF
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

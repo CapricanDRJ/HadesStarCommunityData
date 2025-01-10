@@ -26,7 +26,7 @@ her. Discord is a requirement.
 | Wins | 3 |
 | Losses | 5 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

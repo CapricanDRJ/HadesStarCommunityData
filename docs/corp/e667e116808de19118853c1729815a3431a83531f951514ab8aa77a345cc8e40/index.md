@@ -29,7 +29,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 | Losses | 33 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

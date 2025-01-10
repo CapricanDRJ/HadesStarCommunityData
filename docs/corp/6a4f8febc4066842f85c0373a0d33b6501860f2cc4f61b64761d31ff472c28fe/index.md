@@ -30,7 +30,7 @@ Discord Active • Coop DRS7-10
 | Draws | 0 |
 | Streak | 15 |
 | Streak Record | 15 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

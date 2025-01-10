@@ -30,7 +30,7 @@ nks
 | Draws | 1 |
 | Streak | 19 |
 | Streak Record | 19 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

@@ -29,7 +29,7 @@ mzHUdXef7
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

@@ -32,7 +32,7 @@ Discord ist Pflicht: discord.gg/SUVSGGYGz2
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

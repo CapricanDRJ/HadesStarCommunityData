@@ -28,7 +28,7 @@ godę, jak również chętnych na regularne zabawy na WS.
 | Draws | 0 |
 | Streak | 13 |
 | Streak Record | 13 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

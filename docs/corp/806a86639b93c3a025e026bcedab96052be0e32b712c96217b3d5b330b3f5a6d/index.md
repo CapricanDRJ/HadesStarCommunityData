@@ -34,7 +34,7 @@ od-family.com
 | Wins | 9 |
 | Losses | 19 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

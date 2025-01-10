@@ -30,7 +30,7 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 | Draws | 0 |
 | Streak | 7 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

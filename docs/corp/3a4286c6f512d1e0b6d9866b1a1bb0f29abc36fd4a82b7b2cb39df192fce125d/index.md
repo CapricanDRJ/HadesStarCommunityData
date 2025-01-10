@@ -29,7 +29,7 @@ s please register exclusively via our Discord bot 🙂
 | Losses | 46 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 16 |
 
 ---
 

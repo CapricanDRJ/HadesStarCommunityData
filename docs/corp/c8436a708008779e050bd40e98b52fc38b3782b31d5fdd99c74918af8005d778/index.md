@@ -29,7 +29,7 @@ requires your full attention 🍆as she can be lot to handle and more �
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

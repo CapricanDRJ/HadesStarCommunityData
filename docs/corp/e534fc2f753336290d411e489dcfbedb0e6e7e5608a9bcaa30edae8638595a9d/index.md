@@ -32,7 +32,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

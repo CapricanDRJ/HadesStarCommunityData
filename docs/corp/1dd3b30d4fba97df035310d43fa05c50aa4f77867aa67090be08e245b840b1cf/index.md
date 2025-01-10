@@ -30,7 +30,7 @@ Find us on Discord: <b>EEpZuWf</b>
 | Wins | 3 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

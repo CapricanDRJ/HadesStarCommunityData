@@ -28,7 +28,7 @@ ept our rules to get your member role!
 | Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

@@ -29,7 +29,7 @@ ur organization is there, use the link below
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

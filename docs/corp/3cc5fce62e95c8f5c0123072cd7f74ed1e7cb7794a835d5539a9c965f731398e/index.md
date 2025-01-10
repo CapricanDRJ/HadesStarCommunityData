@@ -26,7 +26,7 @@ rp mambers are expected to do at least one white star a month.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

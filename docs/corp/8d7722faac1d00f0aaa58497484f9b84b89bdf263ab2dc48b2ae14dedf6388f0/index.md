@@ -27,7 +27,7 @@ DISCORD PARA PARTICIPAR EN EB"
 | Wins | 2 |
 | Losses | 8 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

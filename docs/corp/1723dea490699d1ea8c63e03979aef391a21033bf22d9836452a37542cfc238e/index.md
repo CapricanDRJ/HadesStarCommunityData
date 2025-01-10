@@ -28,7 +28,7 @@ ust we are born our souls woven from light. RS and WS focused.
 | Wins | 1 |
 | Losses | 11 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

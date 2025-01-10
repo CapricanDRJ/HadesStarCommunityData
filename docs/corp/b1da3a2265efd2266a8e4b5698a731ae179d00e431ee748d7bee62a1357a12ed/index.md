@@ -30,7 +30,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

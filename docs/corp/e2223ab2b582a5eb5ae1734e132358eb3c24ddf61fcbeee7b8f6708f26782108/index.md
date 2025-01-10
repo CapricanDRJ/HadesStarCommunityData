@@ -30,7 +30,7 @@ will be kicked! Founder: Emperor
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

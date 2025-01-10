@@ -39,7 +39,7 @@ Discord mandatory. <b>EEpZuWf</b>
 | Losses | 31 |
 | Draws | 0 |
 | Streak Record | 22 |
-| Flagship | 0 |
+| Flagship | 14 |
 
 ---
 

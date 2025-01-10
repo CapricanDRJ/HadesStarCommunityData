@@ -28,7 +28,7 @@ icer promote). Red is always SUS!
 | Losses | 62 |
 | Draws | 4 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

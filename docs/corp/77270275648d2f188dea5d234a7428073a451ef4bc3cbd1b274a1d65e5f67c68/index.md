@@ -32,7 +32,7 @@ Are you RS6+ & want to join?
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 13 |
 
 ---
 

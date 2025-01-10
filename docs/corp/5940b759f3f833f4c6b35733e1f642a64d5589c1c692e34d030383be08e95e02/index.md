@@ -30,7 +30,7 @@ duct yourself appropriately, for we are a highly experienced WS Group
 | Draws | 0 |
 | Streak | 12 |
 | Streak Record | 12 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

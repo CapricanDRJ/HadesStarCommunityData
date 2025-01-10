@@ -30,7 +30,7 @@ y newbie and big guy to join us! If you're interested, say hi!
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

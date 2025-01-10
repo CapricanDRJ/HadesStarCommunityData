@@ -27,7 +27,7 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

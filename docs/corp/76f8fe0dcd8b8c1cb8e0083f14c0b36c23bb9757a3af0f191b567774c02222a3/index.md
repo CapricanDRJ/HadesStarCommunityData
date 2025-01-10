@@ -28,7 +28,7 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 | Losses | 21 |
 | Draws | 2 |
 | Streak Record | 17 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

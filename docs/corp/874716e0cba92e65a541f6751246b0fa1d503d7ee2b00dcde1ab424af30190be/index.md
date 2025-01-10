@@ -28,7 +28,7 @@ Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 | Wins | 1 |
 | Losses | 11 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

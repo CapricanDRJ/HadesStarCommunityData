@@ -26,7 +26,7 @@ or weekly <color=white>WS</color> and private <color=red>RS</color>
 | Wins | 1 |
 | Losses | 20 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

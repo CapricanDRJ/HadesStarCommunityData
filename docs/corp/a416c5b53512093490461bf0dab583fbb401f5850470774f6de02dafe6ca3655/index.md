@@ -27,7 +27,7 @@ t, but the whole Hades universe belongs to us!
 | Wins | 1 |
 | Losses | 7 |
 | Draws | 3 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

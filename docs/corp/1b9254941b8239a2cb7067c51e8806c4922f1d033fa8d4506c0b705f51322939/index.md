@@ -27,7 +27,7 @@ prevention; it's very real, serious topic. have a week off 🤗
 | Wins | 0 |
 | Losses | 16 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

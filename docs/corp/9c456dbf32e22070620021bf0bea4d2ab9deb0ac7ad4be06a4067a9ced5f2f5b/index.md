@@ -26,7 +26,7 @@ Active members looking to expand together and conquer white stars
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

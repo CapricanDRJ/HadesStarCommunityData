@@ -26,7 +26,7 @@ s al juego.    12/18/22 -> Actualidad
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

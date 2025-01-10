@@ -26,7 +26,7 @@ est du Hilfe
 | Wins | 3 |
 | Losses | 9 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

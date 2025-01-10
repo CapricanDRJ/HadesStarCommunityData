@@ -29,7 +29,7 @@ Help each other in Red Stars.
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

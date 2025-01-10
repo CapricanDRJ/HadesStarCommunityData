@@ -27,7 +27,7 @@ Alpacas unite! Have fun and prosper. We do relaxed WS.
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

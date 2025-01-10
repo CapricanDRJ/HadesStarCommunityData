@@ -32,7 +32,7 @@ Join the family! Active on discord!
 | Draws | 3 |
 | Streak | 13 |
 | Streak Record | 13 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

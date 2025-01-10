@@ -27,7 +27,7 @@ tive, no stress on speed. WS players wanted. Discord: [discord url]
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

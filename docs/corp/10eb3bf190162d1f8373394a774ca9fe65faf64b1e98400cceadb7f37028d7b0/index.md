@@ -27,7 +27,7 @@ ll enemy forces! We are a small, recently created group of determined
 | Wins | 4 |
 | Losses | 14 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

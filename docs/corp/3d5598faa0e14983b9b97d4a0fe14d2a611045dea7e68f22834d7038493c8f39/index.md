@@ -29,7 +29,7 @@ s sommes une team avant tout.Recrutement actif + Formation WS
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 11 |
 
 ---
 

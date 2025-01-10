@@ -30,7 +30,7 @@ Discord:DUbkgw9uMT
 | Wins | 2 |
 | Losses | 5 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

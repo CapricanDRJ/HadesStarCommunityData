@@ -30,7 +30,7 @@ Season 58: 3 wins 1 loses
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 11 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

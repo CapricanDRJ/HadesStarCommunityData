@@ -29,7 +29,7 @@ Just come and play to the rules!
 | Losses | 27 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

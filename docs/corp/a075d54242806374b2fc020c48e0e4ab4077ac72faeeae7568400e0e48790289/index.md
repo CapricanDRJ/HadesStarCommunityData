@@ -33,7 +33,7 @@ https://t.me/+rYmH3oRRd5FiMDVi</color>
 | Draws | 1 |
 | Streak | 11 |
 | Streak Record | 11 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

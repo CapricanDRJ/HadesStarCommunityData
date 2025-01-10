@@ -27,7 +27,7 @@ Anyone who wants can join.
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

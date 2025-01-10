@@ -28,7 +28,7 @@ vents (when possible), Also make use of the timemachine capability if
 | Losses | 48 |
 | Draws | 3 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

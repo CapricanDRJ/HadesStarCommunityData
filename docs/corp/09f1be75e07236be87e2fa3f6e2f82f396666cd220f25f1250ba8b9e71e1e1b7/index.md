@@ -31,7 +31,7 @@ RS 7+ see Lacuna Holdings
 | Losses | 29 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

@@ -30,7 +30,7 @@ The Corporation's Discord = w2HZf2cwc2
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

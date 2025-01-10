@@ -25,7 +25,7 @@ Be nice and be active, we will support you on your way up :) 3z6EWUq5
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

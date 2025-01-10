@@ -33,7 +33,7 @@ discord obligatory
 | Losses | 29 |
 | Draws | 2 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

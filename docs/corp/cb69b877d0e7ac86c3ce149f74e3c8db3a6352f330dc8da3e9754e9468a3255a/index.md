@@ -28,7 +28,7 @@ sporg). 3lt bpdp)(demin).(flech).
 | Losses | 20 |
 | Draws | 3 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

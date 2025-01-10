@@ -27,7 +27,7 @@ THE CYDONIAN EMPIRE™
 | Draws | 2 |
 | Streak | 4 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

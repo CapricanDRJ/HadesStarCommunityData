@@ -28,7 +28,7 @@ k below.
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

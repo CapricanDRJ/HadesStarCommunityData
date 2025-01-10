@@ -31,7 +31,7 @@ ders and a focus on WS!
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 29 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

@@ -38,7 +38,7 @@ QQ群：131920392
 | Draws | 0 |
 | Streak | 15 |
 | Streak Record | 15 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

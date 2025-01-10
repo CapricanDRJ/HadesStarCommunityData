@@ -28,7 +28,7 @@ e together.Be active in chat and white stars for promotion
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

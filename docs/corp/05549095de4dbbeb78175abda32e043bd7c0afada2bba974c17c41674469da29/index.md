@@ -28,7 +28,7 @@ F0000> we are in weak corporation and needs fixed
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

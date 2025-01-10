@@ -28,7 +28,7 @@ e Hades Galaxy. Join us and have fun
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

@@ -29,7 +29,7 @@ dicate you will participate and dont you will be kicked.
 | Draws | 2 |
 | Streak | 2 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

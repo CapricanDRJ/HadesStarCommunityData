@@ -25,7 +25,7 @@ Taking over hades galaxy 1 white star at a time
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

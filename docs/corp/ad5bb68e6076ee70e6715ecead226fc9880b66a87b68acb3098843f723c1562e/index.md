@@ -28,7 +28,7 @@ r White Star runs.
 | Losses | 24 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

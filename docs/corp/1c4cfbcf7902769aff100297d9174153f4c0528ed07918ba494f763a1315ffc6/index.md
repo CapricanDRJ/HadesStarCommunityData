@@ -31,7 +31,7 @@ Red_Coat_Mafia
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

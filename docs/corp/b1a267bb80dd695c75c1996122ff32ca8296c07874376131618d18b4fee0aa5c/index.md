@@ -27,7 +27,7 @@ wei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 | Wins | 2 |
 | Losses | 14 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

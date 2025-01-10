@@ -27,7 +27,7 @@ Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 | Losses | 38 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 13 |
 
 ---
 

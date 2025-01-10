@@ -29,7 +29,7 @@ iscord is mandatory for membership.
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 18 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

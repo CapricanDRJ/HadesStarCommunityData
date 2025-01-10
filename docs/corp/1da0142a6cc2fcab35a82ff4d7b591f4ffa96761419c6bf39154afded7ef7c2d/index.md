@@ -29,7 +29,7 @@ Ni retirada ni rendicion
 | Draws | 2 |
 | Streak | 2 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

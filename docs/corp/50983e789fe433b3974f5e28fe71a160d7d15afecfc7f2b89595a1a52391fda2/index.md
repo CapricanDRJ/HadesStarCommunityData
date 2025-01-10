@@ -28,7 +28,7 @@ ui giàce NONNA DI CAPPUCCETTO.
 | Draws | 0 |
 | Streak | 14 |
 | Streak Record | 14 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

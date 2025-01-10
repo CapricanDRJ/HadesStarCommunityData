@@ -28,7 +28,7 @@ warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等
 | Losses | 19 |
 | Draws | 2 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

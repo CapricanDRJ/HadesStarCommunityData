@@ -27,7 +27,7 @@ Centre mine
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

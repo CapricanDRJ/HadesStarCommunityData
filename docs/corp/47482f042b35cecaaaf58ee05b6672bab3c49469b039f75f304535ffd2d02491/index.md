@@ -28,7 +28,7 @@ ugt ! Discord Link. urC6aghBvF
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

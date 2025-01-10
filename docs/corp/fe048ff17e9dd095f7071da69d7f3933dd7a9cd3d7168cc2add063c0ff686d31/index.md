@@ -26,7 +26,7 @@ Together We Can Achieve More.
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -29,7 +29,7 @@ t mandatory, but it's much welcome.
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

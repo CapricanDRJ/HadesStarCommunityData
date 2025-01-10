@@ -25,7 +25,7 @@ CORP COLONIZADA
 | Wins | 2 |
 | Losses | 4 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

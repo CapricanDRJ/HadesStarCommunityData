@@ -29,7 +29,7 @@ riendly community. <b>Must Join Discord</b>
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

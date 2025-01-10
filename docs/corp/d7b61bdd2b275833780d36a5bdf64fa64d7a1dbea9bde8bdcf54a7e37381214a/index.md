@@ -26,7 +26,7 @@ THE CYDONIAN EMPIRE™
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

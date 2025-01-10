@@ -34,7 +34,7 @@ Find us on Discord: YTaYrhy
 | Losses | 48 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 13 |
 
 ---
 

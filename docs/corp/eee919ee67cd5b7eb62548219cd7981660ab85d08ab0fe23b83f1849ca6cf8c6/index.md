@@ -32,7 +32,7 @@ Corpo des alts : On en a petit !
 | Losses | 37 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

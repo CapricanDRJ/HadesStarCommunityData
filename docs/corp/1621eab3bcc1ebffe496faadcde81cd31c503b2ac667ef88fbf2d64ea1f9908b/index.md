@@ -32,7 +32,7 @@ gy
 | Draws | 0 |
 | Streak | 5 |
 | Streak Record | 12 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

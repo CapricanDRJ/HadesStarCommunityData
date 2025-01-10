@@ -30,7 +30,7 @@ CORPORACION HISPANA NIVEL 2
 | Wins | 1 |
 | Losses | 12 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

@@ -26,7 +26,7 @@ we are looking for new recruitements!!
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

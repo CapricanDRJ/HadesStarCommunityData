@@ -28,7 +28,7 @@ kly White Star with searches starting on Wednesdays. We have 1-2 open
 | Losses | 20 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

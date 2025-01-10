@@ -26,7 +26,7 @@ Jack-b is holding me hostage send help! 0_0
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -27,7 +27,7 @@ layers For White Star | All Red Star Levels Welcome Here | € -> FS1
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

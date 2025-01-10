@@ -30,7 +30,7 @@ A social, easygoing Corp with allies to join together with for Red or
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

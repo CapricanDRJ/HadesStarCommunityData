@@ -27,7 +27,7 @@ s ay que hacer una comunidad activa gente; nuestra alianza F.V
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

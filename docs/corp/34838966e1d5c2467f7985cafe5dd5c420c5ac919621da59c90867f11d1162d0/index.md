@@ -28,7 +28,7 @@ kly WS's and daily Corp runs
 | Losses | 35 |
 | Draws | 2 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

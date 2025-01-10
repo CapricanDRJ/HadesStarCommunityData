@@ -28,7 +28,7 @@ w white star search every Monday. Discord optional
 | Losses | 9 |
 | Draws | 2 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

@@ -27,7 +27,7 @@ trại trú ẩn đồng hương thất lạc
 | Losses | 37 |
 | Draws | 2 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

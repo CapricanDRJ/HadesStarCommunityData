@@ -31,7 +31,7 @@ Merci Halkyr
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

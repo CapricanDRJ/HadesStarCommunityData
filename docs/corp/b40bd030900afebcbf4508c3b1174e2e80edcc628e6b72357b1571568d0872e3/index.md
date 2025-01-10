@@ -31,7 +31,7 @@ Discord is mandatory!</b>
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

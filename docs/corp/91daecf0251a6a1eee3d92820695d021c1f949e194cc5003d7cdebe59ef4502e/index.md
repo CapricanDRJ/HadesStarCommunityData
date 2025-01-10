@@ -30,7 +30,7 @@ But there is not more of it in DN now...
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

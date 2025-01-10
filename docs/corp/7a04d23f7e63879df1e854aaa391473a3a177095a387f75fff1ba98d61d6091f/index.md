@@ -29,7 +29,7 @@ orio per le ws: t.me/StellarCorpIT
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

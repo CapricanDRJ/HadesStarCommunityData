@@ -27,7 +27,7 @@ Bienvenidos 😁
 | Losses | 32 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

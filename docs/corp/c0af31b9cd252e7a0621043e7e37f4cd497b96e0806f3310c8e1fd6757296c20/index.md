@@ -28,7 +28,7 @@ olor=#f0f30b>Wacky Warriors</color>
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

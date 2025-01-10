@@ -29,7 +29,7 @@ rp. Come and join a fun loving and chill family like team! Welcome to
 | Losses | 48 |
 | Draws | 2 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

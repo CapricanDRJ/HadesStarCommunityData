@@ -28,7 +28,7 @@ lc, Osmium star llc. Contribute to corp flag ship for WS.
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

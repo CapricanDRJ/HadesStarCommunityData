@@ -26,7 +26,7 @@ G.O.D公会0v0的小号盟,可搜G.0.D去大盟
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

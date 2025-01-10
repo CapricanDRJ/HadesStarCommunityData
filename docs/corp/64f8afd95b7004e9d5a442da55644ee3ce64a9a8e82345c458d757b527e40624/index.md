@@ -32,7 +32,7 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 | Losses | 55 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

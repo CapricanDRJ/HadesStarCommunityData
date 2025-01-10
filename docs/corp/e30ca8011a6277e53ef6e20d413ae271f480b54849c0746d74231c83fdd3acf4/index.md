@@ -28,7 +28,7 @@ Crecer principal objetivo        Leko:Join us we need active member
 | Draws | 0 |
 | Streak | 7 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

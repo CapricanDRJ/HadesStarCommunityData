@@ -26,7 +26,7 @@ mars JHX大帅哥，或者首席小号九尘，干事萨卡班甲鱼。没有任
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

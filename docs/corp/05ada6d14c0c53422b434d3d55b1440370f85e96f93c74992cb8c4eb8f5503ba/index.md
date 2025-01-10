@@ -29,7 +29,7 @@ quired. We can help speed your progress :)
 | Draws | 3 |
 | Streak | 2 |
 | Streak Record | 12 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

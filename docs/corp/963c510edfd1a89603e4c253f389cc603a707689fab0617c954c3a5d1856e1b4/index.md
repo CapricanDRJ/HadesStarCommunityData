@@ -27,7 +27,7 @@ https://t.me/klrlo
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

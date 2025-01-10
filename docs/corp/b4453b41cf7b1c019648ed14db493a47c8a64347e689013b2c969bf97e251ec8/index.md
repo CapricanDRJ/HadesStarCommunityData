@@ -29,7 +29,7 @@ ce/
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

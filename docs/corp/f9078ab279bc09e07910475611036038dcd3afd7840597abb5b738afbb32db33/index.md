@@ -25,7 +25,7 @@ the official USAR (usar is a micronation) corporation.
 | Wins | 1 |
 | Losses | 3 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

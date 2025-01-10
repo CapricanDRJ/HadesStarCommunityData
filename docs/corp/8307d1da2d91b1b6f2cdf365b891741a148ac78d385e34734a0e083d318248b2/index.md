@@ -28,7 +28,7 @@ llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

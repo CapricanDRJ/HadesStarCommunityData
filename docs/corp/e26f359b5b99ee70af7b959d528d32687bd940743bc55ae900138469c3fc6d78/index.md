@@ -27,7 +27,7 @@ ntacto: +57 3223620356          Alianza "AXOLOTLS"
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

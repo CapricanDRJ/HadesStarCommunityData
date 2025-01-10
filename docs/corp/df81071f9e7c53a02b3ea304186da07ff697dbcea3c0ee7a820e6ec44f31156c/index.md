@@ -28,7 +28,7 @@ Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

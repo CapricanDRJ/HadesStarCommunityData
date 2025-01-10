@@ -29,7 +29,7 @@ if ye not be appreciatin' gallow humorr of any kind.
 | Draws | 1 |
 | Streak | 18 |
 | Streak Record | 18 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

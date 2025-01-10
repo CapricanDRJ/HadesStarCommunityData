@@ -27,7 +27,7 @@ Looking for members. Come grow with us!
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

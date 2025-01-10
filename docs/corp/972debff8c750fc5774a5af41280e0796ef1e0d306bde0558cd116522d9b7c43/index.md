@@ -27,7 +27,7 @@ y. 30days afk=kick g7HzK7s
 | Wins | 1 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

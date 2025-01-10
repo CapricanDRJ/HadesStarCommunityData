@@ -32,7 +32,7 @@ Mandatory Discord: p3dTaE9
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 13 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

@@ -27,7 +27,7 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 | Wins | 8 |
 | Losses | 15 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 11 |
 
 ---
 

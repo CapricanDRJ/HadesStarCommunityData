@@ -29,7 +29,7 @@ gg☆</color></b>   Recruiting "StarMasters" for WS
 | Losses | 30 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

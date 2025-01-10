@@ -27,7 +27,7 @@ do a weekly White Star and we have a Active player base!
 | Losses | 13 |
 | Draws | 2 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

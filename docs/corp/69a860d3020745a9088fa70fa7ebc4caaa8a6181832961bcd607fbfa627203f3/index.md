@@ -28,7 +28,7 @@ o华浩 QQ767311697
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

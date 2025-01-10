@@ -28,7 +28,7 @@ len.
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

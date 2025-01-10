@@ -26,7 +26,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 19 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

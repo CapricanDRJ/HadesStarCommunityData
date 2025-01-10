@@ -27,7 +27,7 @@ space of this game. WS every week. Join us into the Light!
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

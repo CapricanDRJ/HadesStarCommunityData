@@ -30,7 +30,7 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

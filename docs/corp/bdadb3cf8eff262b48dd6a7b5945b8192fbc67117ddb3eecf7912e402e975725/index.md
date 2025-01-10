@@ -28,7 +28,7 @@ uld be an Honor that you would join us! >=)
 | Losses | 38 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

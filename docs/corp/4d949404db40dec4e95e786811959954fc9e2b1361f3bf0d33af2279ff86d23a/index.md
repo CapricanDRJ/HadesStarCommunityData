@@ -28,7 +28,7 @@ latively active. Discord not required but recommended.
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

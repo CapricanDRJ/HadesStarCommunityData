@@ -25,7 +25,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

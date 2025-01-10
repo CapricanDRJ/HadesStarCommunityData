@@ -27,7 +27,7 @@ No camping. Discord mandatory for ws
 | Draws | 1 |
 | Streak | 5 |
 | Streak Record | 15 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

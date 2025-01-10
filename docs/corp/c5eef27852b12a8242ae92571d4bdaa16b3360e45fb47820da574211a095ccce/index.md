@@ -26,7 +26,7 @@ kor.cop 많이 들어와주세요
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

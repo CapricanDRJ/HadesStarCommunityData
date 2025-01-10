@@ -28,7 +28,7 @@ cord link below (Space Pals Server, Discord mandatory).
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

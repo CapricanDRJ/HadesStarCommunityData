@@ -28,7 +28,7 @@ Discord invite code is 44nD9yX
 | Losses | 47 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

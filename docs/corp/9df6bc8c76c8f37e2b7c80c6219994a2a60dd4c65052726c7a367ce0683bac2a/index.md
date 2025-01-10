@@ -27,7 +27,7 @@ ng
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

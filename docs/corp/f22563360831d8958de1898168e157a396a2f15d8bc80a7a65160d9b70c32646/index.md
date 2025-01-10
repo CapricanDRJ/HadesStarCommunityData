@@ -26,7 +26,7 @@ Looking for active players with personality. We have a Discord server
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

@@ -28,7 +28,7 @@ DISC: EEpZuWf
 | Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

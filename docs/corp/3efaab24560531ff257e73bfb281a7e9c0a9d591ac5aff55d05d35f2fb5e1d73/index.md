@@ -29,7 +29,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
 | Draws | 1 |
 | Streak | 5 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

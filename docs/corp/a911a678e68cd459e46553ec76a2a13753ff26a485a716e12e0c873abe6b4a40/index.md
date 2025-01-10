@@ -27,7 +27,7 @@ will get free artificants lv 1.2.3.4.
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

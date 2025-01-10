@@ -26,7 +26,7 @@ C3nffwQkCc
 | Wins | 2 |
 | Losses | 19 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

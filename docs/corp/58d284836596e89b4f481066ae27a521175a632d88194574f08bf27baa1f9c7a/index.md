@@ -27,7 +27,7 @@ Help each other and have fun.
 | Wins | 1 |
 | Losses | 6 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -29,7 +29,7 @@ nirse al grupo de Whatsapp</size></color></b>
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

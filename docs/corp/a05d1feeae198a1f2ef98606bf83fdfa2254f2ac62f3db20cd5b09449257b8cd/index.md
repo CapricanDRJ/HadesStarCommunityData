@@ -29,7 +29,7 @@ https://t.me/DS_DarkSide
 | Losses | 60 |
 | Draws | 1 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

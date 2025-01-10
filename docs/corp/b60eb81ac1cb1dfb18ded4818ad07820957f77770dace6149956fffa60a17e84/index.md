@@ -29,7 +29,7 @@ ystems!
 | Draws | 1 |
 | Streak | 7 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

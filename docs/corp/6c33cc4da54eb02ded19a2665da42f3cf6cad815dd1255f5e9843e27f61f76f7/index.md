@@ -27,7 +27,7 @@ ete a nuestra corp y se uno más de lo conquistadores estelares
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -34,7 +34,7 @@ Come join the Flight-Team!
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

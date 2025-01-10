@@ -28,7 +28,7 @@ cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

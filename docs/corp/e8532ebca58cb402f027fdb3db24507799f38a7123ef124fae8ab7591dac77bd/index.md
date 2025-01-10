@@ -42,7 +42,7 @@ B站d音搜：仙女座星雲土豆
 | Draws | 4 |
 | Streak | 5 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

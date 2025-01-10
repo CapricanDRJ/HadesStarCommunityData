@@ -26,7 +26,7 @@ you want.
 | Wins | 0 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

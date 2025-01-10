@@ -25,7 +25,7 @@ Casual players welcome
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

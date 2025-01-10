@@ -26,7 +26,7 @@ A very casual group. Not currently playing WS. Just a place to chill,
 | Wins | 1 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

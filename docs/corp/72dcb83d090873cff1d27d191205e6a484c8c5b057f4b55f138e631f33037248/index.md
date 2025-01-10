@@ -29,7 +29,7 @@ Discord: fYBf2GNU7y
 | Wins | 1 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

@@ -28,7 +28,7 @@ ions to FS1 welcomed. <b> Discord required </b>
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

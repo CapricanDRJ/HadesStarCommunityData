@@ -30,7 +30,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

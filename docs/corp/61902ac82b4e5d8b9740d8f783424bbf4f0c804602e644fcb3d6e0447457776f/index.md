@@ -27,7 +27,7 @@ mended, & remember you are expendable, we love you
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

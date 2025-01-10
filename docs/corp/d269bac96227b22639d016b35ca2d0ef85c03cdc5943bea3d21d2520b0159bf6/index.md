@@ -28,7 +28,7 @@ send friend request to Lucky/ImLucky2 to contact us
 | Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

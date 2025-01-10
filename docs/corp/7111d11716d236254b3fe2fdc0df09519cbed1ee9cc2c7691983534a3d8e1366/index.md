@@ -35,7 +35,7 @@ Mitglied der Tartaros Armada
 | Losses | 27 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 12 |
 
 ---
 

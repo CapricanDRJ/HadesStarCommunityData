@@ -26,7 +26,7 @@ Casual and easygoing corpo! Just chillin, growing and having fun!
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

@@ -26,7 +26,7 @@ ers only) rest in main corps to build
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

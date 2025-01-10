@@ -29,7 +29,7 @@ lease join us on Discord and don't be a stranger!
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

@@ -30,7 +30,7 @@ Kommunikation über <b>Discord</b>:
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

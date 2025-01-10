@@ -29,7 +29,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

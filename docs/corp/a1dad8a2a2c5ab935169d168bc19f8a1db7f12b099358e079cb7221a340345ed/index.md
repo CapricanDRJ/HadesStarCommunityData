@@ -28,7 +28,7 @@ de early learning guidance for newbies joining the group.
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

@@ -29,7 +29,7 @@ ars2-7. white stars every week
 | Draws | 3 |
 | Streak | 2 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

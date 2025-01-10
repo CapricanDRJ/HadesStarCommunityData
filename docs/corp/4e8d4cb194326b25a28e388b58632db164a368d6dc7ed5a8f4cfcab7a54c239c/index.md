@@ -26,7 +26,7 @@ Only for Russian speakers 🇷🇺
 | Losses | 71 |
 | Draws | 3 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

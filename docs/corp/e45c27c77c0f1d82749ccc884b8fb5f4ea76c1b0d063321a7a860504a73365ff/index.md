@@ -28,7 +28,7 @@ s ,groupe actif telles sont nos valeurs !! Bon sejour parmis nous !
 | Wins | 1 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

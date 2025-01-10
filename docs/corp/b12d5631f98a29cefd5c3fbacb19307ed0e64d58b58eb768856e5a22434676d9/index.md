@@ -25,7 +25,7 @@ KillFrist
 | Wins | 1 |
 | Losses | 32 |
 | Draws | 14 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

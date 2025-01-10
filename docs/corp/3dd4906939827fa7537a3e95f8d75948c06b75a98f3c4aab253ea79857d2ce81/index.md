@@ -31,7 +31,7 @@ Discord required | Part of Astral Alliance
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 20 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

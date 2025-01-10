@@ -26,7 +26,7 @@ Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

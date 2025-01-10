@@ -29,7 +29,7 @@ QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

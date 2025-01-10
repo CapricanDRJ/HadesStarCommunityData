@@ -28,7 +28,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

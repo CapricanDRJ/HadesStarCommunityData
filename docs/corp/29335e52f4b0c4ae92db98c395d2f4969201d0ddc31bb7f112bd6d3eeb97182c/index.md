@@ -30,7 +30,7 @@ o hapy to see experienced players. Main corp ( Industrial W.O) . Also
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

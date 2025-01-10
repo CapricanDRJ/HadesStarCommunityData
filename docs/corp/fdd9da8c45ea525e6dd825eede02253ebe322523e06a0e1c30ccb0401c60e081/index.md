@@ -27,7 +27,7 @@ p5GSVDDrSc
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

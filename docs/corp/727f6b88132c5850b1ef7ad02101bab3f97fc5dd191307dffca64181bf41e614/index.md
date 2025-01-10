@@ -27,7 +27,7 @@ or=#ffff55>STRVS233~</color><br>KOOK:[discord url]
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

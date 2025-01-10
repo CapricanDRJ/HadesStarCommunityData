@@ -26,7 +26,7 @@ As long as you’re active you can stay.
 | Losses | 40 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

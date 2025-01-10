@@ -25,7 +25,7 @@ we are all here to have fun, let's have some😃
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

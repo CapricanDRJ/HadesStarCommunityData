@@ -35,7 +35,7 @@ All FS Donations welcome.
 | Draws | 0 |
 | Streak | 20 |
 | Streak Record | 20 |
-| Flagship | 0 |
+| Flagship | 14 |
 
 ---
 

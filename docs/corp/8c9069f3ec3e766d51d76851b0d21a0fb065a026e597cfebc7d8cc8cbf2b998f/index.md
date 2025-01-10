@@ -27,7 +27,7 @@ Just log in and play once per day.
 | Losses | 76 |
 | Draws | 2 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

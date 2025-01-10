@@ -28,7 +28,7 @@ Note- Discord link is updated. Will expire in 7 DAYS
 | Losses | 20 |
 | Draws | 2 |
 | Streak Record | 12 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -30,7 +30,7 @@ wvk5YXqa4y
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

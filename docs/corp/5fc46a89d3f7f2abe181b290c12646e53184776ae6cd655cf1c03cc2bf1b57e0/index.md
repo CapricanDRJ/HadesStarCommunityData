@@ -30,7 +30,7 @@ Mvy7Myx
 | Wins | 0 |
 | Losses | 0 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

@@ -29,7 +29,7 @@ an Armored Union of warriors! Share Artifacts and build strong allies
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

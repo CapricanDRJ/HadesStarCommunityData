@@ -33,7 +33,7 @@ RS 8-11 see Lacuna Ind.
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

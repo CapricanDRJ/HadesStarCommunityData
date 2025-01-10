@@ -28,7 +28,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 | Losses | 38 |
 | Draws | 0 |
 | Streak Record | 14 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

@@ -30,7 +30,7 @@ Discord: <color=orange>YFwYKNHhCr</color>
 | Wins | 2 |
 | Losses | 11 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 11 |
 
 ---
 

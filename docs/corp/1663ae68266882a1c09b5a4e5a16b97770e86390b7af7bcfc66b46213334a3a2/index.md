@@ -30,7 +30,7 @@ Ngā mihi nui, from NZ (and Aus!)
 | Draws | 1 |
 | Streak | 6 |
 | Streak Record | 13 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

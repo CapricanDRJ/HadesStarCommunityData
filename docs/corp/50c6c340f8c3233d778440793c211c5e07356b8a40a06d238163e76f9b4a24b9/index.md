@@ -37,7 +37,7 @@ ser ativo
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

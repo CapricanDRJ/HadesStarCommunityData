@@ -28,7 +28,7 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

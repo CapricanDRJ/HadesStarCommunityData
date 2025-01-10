@@ -27,7 +27,7 @@ b>  Peacefully collecting relics since 2018.                   😎
 | Losses | 38 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

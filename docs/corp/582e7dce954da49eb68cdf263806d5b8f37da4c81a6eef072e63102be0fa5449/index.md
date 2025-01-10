@@ -28,7 +28,7 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

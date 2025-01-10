@@ -27,7 +27,7 @@ Relaxed corp. White star with us for fun.
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

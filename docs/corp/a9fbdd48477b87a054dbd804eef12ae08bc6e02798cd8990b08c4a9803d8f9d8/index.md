@@ -28,7 +28,7 @@ ella blanca=EB EB cuando se nos salga de los huevos
 | Losses | 28 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

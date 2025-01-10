@@ -32,7 +32,7 @@ intensas nas Estrelas Brancas.
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

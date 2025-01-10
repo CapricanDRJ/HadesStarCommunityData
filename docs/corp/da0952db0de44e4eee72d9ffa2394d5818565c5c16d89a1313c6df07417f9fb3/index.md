@@ -27,7 +27,7 @@ For the friends and normies
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

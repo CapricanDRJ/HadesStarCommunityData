@@ -30,7 +30,7 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

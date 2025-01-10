@@ -29,7 +29,7 @@ a browser: [broken url]
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

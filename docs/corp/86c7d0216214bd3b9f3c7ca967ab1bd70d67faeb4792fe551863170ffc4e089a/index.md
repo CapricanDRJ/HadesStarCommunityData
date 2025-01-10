@@ -32,7 +32,7 @@ n>本团为北极星联盟成员
 | Losses | 14 |
 | Draws | 4 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

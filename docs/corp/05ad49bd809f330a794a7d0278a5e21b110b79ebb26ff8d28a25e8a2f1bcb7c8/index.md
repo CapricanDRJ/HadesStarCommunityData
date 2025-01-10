@@ -33,7 +33,7 @@ Please say hello on discord if you are interested in joining us.
 | Wins | 0 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

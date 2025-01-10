@@ -28,7 +28,7 @@ in us or prepare to meet your destiny.
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

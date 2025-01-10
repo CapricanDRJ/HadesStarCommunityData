@@ -37,7 +37,7 @@ QQ群号为131920392，
 | Losses | 46 |
 | Draws | 3 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

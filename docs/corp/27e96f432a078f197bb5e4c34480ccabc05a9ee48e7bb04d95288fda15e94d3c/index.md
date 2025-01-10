@@ -29,7 +29,7 @@ tes são bem vindos! Virtus Unita Fortior.
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 17 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

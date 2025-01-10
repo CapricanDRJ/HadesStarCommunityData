@@ -27,7 +27,7 @@ ORPORACIÓN   • MÉXICO INFINITO
 | Wins | 2 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

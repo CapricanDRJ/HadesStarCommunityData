@@ -27,7 +27,7 @@ hail the second union.     need active members for white stars
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

@@ -25,7 +25,7 @@ A conclusion is simply where you stopped thinking.
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

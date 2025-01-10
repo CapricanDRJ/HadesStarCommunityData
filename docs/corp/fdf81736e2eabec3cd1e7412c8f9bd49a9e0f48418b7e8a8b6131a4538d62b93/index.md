@@ -27,7 +27,7 @@ Join us on Discord for RS, WS, chat and other active members: mDEUrs8
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

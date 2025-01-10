@@ -28,7 +28,7 @@ geRShvzM89
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

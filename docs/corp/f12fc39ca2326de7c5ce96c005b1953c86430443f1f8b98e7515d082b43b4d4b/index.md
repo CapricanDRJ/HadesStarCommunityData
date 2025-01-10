@@ -32,7 +32,7 @@ Part of Red Star Raiders alliance
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 11 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

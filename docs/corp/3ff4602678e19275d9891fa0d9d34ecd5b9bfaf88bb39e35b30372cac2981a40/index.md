@@ -32,7 +32,7 @@ WS HL hebdo
 | Losses | 47 |
 | Draws | 0 |
 | Streak Record | 9 |
-| Flagship | 0 |
+| Flagship | 11 |
 
 ---
 

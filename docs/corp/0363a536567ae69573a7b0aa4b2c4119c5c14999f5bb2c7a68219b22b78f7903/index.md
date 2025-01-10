@@ -28,7 +28,7 @@ upo si deseas unirte solo consulta al primer oficial.
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

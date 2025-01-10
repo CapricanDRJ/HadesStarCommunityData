@@ -30,7 +30,7 @@ https://t.me/+LzDMmSOsCmpjZDhi
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

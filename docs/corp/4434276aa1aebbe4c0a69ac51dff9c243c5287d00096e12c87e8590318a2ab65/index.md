@@ -25,7 +25,7 @@ Korea Aerospace Research Institute
 | Wins | 2 |
 | Losses | 66 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

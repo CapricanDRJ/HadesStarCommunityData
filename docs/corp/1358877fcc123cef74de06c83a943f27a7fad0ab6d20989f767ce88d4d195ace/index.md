@@ -32,7 +32,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 22 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

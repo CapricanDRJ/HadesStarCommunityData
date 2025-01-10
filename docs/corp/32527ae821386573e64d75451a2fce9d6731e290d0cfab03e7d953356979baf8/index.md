@@ -26,7 +26,7 @@ LEAVE!!!
 | Losses | 18 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

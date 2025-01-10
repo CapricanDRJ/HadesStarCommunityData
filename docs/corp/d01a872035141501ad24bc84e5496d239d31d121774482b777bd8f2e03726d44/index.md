@@ -29,7 +29,7 @@ Ask an officer about discord or join the conversation at [discord url
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

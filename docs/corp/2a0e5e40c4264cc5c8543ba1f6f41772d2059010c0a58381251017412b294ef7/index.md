@@ -27,7 +27,7 @@ Resident gift artifact
 | Wins | 3 |
 | Losses | 9 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

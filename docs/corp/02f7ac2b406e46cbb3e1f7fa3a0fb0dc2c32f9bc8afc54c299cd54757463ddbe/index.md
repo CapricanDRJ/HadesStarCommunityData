@@ -28,7 +28,7 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

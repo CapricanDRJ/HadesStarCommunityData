@@ -28,7 +28,7 @@ sser dans une corporation tranquille on est fait pour vous !
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

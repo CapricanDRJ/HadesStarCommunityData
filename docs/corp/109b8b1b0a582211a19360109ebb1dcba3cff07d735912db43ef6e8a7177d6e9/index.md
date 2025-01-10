@@ -27,7 +27,7 @@ ers and new players, come and help us build Foreshadowing 2.0
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

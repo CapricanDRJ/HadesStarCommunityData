@@ -33,7 +33,7 @@ UmWZYtn9Hh
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

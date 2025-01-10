@@ -28,7 +28,7 @@ ulti-corp group, Astral Alliance [discord url]
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

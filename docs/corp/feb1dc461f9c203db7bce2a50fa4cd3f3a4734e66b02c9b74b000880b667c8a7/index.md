@@ -27,7 +27,7 @@ ss,14 day grace. We want to be more active again and have a good time
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

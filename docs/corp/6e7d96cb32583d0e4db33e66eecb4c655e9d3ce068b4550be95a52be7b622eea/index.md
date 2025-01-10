@@ -33,7 +33,7 @@ Für Planung und Kommunikation außerhalb des Spiels
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

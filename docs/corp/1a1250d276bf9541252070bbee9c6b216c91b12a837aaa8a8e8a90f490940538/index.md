@@ -29,7 +29,7 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
 | Draws | 0 |
 | Streak | 14 |
 | Streak Record | 17 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

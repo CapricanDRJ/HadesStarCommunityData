@@ -33,7 +33,7 @@ FS2 - Closed
 | Losses | 25 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

@@ -28,7 +28,7 @@ y RS and weekly WS. Discord link below
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

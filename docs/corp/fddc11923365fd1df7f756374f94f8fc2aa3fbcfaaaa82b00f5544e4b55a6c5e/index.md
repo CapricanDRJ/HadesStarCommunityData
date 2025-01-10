@@ -25,7 +25,7 @@ Because you can't solo White Stars. GWA38Gx
 | Wins | 0 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

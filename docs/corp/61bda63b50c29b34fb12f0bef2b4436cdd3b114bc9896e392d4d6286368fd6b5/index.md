@@ -27,7 +27,7 @@ Your typical corp - retired leader (Francus) (Discord - franhug): new
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

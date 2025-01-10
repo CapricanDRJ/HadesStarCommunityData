@@ -32,7 +32,7 @@ DC : tqSz2DCJZ8
 | Losses | 50 |
 | Draws | 0 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

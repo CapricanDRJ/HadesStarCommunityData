@@ -29,7 +29,7 @@ enas", nuestra corporación principal
 | Draws | 0 |
 | Streak | 7 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

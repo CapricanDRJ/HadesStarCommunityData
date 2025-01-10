@@ -27,7 +27,7 @@ PEACE THROUGH POWER!
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 19 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

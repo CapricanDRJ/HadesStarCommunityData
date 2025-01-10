@@ -30,7 +30,7 @@ in and play. Join today!
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

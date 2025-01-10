@@ -36,7 +36,7 @@ Q群：993612413
 | Draws | 1 |
 | Streak | 6 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

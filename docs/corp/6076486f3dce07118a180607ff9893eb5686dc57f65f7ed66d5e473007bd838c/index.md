@@ -27,7 +27,7 @@ We’ll get there… most of the time
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

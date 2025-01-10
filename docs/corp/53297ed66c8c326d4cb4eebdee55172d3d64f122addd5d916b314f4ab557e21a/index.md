@@ -28,7 +28,7 @@ itty
 | Draws | 1 |
 | Streak | 10 |
 | Streak Record | 24 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

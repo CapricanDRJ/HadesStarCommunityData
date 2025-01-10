@@ -27,7 +27,7 @@ ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (
 | Wins | 1 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

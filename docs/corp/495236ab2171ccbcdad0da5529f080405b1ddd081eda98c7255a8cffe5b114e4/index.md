@@ -27,7 +27,7 @@ actividad
 | Losses | 29 |
 | Draws | 5 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

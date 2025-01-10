@@ -25,7 +25,7 @@ New and old welcome have fun discord is.     38UnuWwp
 | Wins | 3 |
 | Losses | 12 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

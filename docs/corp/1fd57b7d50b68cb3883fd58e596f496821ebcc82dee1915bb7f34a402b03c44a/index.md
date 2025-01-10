@@ -29,7 +29,7 @@ r involvement. Link is 👇
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

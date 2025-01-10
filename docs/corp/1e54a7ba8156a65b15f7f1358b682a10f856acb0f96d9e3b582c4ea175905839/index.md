@@ -29,7 +29,7 @@ titans.com
 | Draws | 0 |
 | Streak | 10 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

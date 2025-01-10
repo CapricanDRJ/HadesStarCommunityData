@@ -26,7 +26,7 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

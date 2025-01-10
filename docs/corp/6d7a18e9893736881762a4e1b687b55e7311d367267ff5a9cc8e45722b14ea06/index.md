@@ -29,7 +29,7 @@ embers Star Nations that are apart of it against the chaos outside of
 | Losses | 42 |
 | Draws | 1 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

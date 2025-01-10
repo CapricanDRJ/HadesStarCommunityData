@@ -27,7 +27,7 @@ p us win White Stars. So join and be welcome.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

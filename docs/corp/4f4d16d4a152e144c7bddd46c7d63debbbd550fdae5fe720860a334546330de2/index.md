@@ -25,7 +25,7 @@ Ruling the universe is our simple goal.
 | Wins | 2 |
 | Losses | 11 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

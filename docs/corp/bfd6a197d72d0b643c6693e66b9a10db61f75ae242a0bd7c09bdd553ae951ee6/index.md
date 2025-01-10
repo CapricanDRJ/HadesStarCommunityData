@@ -27,7 +27,7 @@ mmunication.
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

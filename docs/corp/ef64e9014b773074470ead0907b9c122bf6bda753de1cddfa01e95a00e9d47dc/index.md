@@ -30,7 +30,7 @@ Discord obligatorio: KAguMmM
 | Losses | 54 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

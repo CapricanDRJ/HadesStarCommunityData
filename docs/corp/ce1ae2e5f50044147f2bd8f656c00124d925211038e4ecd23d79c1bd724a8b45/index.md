@@ -28,7 +28,7 @@ nts, Dark RS focussed corp, with optional WS runs.
 | Wins | 2 |
 | Losses | 9 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 10 |
 
 ---
 

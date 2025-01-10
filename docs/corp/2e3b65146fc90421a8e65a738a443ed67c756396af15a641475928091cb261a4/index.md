@@ -29,7 +29,7 @@ Find us on discord: u2VGhGRrFq
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

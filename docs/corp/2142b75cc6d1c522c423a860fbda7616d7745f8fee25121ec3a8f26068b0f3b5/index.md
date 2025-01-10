@@ -26,7 +26,7 @@ Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗
 | Losses | 8 |
 | Draws | 3 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

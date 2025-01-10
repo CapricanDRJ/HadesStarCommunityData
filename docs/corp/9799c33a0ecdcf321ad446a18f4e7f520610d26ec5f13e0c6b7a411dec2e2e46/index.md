@@ -26,7 +26,7 @@ enter if you have ws scanner
 | Losses | 25 |
 | Draws | 3 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

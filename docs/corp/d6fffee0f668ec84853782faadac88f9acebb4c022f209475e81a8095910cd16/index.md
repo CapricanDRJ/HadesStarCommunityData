@@ -27,7 +27,7 @@ nking members.                     首席First Officer：狂妄的神（会离�
 | Wins | 0 |
 | Losses | 3 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

@@ -30,7 +30,7 @@ rs. Discord is required, please join us there before applying in game
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 15 |
 
 ---
 

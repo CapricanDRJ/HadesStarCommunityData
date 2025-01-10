@@ -29,7 +29,7 @@ ith the Titans of Terror.
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 8 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

@@ -28,7 +28,7 @@ We are a paused corp, join or stay at your own risk, but check us out
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 10 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

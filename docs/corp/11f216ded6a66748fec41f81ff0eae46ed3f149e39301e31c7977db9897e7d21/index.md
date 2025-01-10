@@ -27,7 +27,7 @@ urs and will accept new and old players. Founded 22/10/22
 | Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

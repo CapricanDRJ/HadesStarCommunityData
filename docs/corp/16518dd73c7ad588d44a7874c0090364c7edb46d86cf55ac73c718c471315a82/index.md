@@ -27,7 +27,7 @@ Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

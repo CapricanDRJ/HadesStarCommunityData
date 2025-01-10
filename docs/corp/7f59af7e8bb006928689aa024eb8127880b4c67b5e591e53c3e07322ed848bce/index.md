@@ -26,7 +26,7 @@ WS occasionally but we are very laid back when it comes to PVP.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

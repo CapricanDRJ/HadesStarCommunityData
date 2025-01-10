@@ -30,7 +30,7 @@ tud por Discord y te aceptaremos encantados!
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

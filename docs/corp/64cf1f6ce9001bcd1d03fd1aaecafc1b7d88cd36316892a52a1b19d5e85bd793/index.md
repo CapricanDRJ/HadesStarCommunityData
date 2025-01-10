@@ -29,7 +29,7 @@ een to improve WS results. Let's kick ass together!
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

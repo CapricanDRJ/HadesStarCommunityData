@@ -28,7 +28,7 @@ n the discord. Trading and co-op RS also available.
 | Losses | 11 |
 | Draws | 2 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

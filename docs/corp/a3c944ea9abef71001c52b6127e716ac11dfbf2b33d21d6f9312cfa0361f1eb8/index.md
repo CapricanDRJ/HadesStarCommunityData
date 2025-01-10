@@ -28,7 +28,7 @@ Join us on Discord: RvMW8DejVJ
 | Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

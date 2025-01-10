@@ -29,7 +29,7 @@ Que el mundo sepa que somos peligrosos. Somos leones, y los leones no
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

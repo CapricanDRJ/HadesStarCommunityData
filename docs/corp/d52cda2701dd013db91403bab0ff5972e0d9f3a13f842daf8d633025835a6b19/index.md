@@ -25,7 +25,7 @@ Bye Bye - ryan
 | Wins | 5 |
 | Losses | 29 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

@@ -32,7 +32,7 @@ Discord ist erwünscht, aber keine Pflicht.
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 24 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

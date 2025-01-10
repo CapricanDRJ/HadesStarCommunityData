@@ -27,7 +27,7 @@ Inatividade é punível com expulsão.
 | Wins | 0 |
 | Losses | 2 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

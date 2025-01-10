@@ -26,7 +26,7 @@ Union短期目标：没有   新手和不经常上线的想加入本团的前往
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

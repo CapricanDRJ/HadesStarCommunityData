@@ -27,7 +27,7 @@ e his prisoner, but share in suffering for the gospel by the power of
 | Wins | 1 |
 | Losses | 5 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

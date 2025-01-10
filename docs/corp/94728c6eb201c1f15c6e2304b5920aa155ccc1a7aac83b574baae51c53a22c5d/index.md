@@ -28,7 +28,7 @@ tive players wanting to grow.White Star⚪ on Thursdays.
 | Losses | 31 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

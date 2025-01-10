@@ -26,7 +26,7 @@ wt'star players
 | Losses | 22 |
 | Draws | 4 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -28,7 +28,7 @@ a. Nuestra filosofía: unidos somos invencibles.
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 20 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

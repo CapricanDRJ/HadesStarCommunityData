@@ -26,7 +26,7 @@ cription
 | Wins | 4 |
 | Losses | 14 |
 | Draws | 2 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

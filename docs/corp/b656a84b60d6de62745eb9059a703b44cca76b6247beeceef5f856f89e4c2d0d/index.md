@@ -28,7 +28,7 @@ Discord - ZUeGK83 (optional, not required)
 | Wins | 1 |
 | Losses | 13 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

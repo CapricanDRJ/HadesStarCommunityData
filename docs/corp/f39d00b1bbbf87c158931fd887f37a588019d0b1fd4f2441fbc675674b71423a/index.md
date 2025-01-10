@@ -29,7 +29,7 @@ Q：650722059
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

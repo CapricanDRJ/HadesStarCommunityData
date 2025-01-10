@@ -26,7 +26,7 @@ We do White stars every 5 to 8 days
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

@@ -26,7 +26,7 @@ For passive players who don't play that often.
 | Losses | 2 |
 | Draws | 2 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 

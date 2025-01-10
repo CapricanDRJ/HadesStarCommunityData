@@ -32,7 +32,7 @@ RS6 and Discord needed. (YTaYrhy)
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

@@ -27,7 +27,7 @@ r.                                         WhatsApp incluido.
 | Wins | 3 |
 | Losses | 4 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

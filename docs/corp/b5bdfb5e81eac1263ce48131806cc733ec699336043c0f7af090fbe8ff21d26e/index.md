@@ -29,7 +29,7 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

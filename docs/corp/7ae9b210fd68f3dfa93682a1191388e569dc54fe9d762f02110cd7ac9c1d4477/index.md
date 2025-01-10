@@ -29,7 +29,7 @@ us and Righteous Fury! ws every week,
 | Losses | 32 |
 | Draws | 1 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 7 |
 
 ---
 

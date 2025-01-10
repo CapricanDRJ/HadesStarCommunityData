@@ -27,7 +27,7 @@ We don't care. You should try it.
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

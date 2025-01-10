@@ -33,7 +33,7 @@ RS1+
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 23 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

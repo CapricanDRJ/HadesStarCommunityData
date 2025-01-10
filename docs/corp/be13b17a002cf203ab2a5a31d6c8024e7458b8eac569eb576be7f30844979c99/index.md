@@ -30,7 +30,7 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 | Draws | 1 |
 | Streak | 5 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

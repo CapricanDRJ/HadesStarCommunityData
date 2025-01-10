@@ -27,7 +27,7 @@ Active, tight-knit, fun and friendly. <b>Part of the Space Pals group
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 11 |
-| Flagship | 0 |
+| Flagship | 4 |
 
 ---
 

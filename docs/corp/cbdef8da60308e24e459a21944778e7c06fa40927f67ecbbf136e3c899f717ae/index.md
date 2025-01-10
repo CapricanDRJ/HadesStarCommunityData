@@ -27,7 +27,7 @@ cord))
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 1 |
 
 ---
 

@@ -27,7 +27,7 @@ do. Listo para sumarte a nuestras filas?
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

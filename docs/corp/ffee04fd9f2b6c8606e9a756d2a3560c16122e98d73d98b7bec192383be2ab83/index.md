@@ -27,7 +27,7 @@ inate the cosmos and conquer the void.  Mission…Domination of Red And
 | Wins | 0 |
 | Losses | 4 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

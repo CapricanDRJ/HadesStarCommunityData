@@ -28,7 +28,7 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 5 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

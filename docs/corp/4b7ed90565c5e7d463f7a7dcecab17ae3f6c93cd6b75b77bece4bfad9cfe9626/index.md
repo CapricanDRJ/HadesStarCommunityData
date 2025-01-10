@@ -29,7 +29,7 @@ Benvenuti in ITA! Main coorp RS7+
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 6 |
-| Flagship | 0 |
+| Flagship | 8 |
 
 ---
 

@@ -25,7 +25,7 @@ siuuu
 | Wins | 0 |
 | Losses | 13 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

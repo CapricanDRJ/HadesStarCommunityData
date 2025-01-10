@@ -30,7 +30,7 @@ a em dia. Temos grupo de Discord.
 | Draws | 1 |
 | Streak | 4 |
 | Streak Record | 7 |
-| Flagship | 0 |
+| Flagship | 6 |
 
 ---
 

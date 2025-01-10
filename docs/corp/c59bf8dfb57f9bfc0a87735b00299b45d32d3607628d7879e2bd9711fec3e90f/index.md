@@ -25,7 +25,7 @@ dont give in we help each other in start a White star ever 2 day
 | Wins | 1 |
 | Losses | 4 |
 | Draws | 1 |
-| Flagship | 0 |
+| Flagship | 2 |
 
 ---
 

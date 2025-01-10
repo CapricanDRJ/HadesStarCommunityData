@@ -28,7 +28,7 @@ Immer schön freundlich sein ^^
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

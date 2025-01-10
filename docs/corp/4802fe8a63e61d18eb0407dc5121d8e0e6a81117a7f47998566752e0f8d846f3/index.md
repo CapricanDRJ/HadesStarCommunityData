@@ -27,7 +27,7 @@ Discord: S6fvaKp
 | Wins | 0 |
 | Losses | 7 |
 | Draws | 0 |
-| Flagship | 0 |
+| Flagship | 9 |
 
 ---
 

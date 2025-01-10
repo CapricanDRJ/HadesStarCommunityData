@@ -28,7 +28,7 @@ e strategies, and give out advice.        -  Tensible
 | Losses | 59 |
 | Draws | 2 |
 | Streak Record | 4 |
-| Flagship | 0 |
+| Flagship | 5 |
 
 ---
 

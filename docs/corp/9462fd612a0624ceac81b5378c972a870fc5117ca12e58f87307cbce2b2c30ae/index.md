@@ -28,7 +28,7 @@ nd do white stars
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 3 |
-| Flagship | 0 |
+| Flagship | 3 |
 
 ---
 
