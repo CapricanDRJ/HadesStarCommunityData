@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Spaceforce
-description: W:2 L:6 D:0 Bonus ❌ 7%
+description: W:2 L:6 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1729538944
+date: 1736500130
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,12 @@ DISC: EEpZuWf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (940)|
-| ELO Competitive | 1180 🔻  (1007)|
-| Total Matches | 8 |
+| ELO Regular | 1173 🔺  (918)|
+| ELO Competitive | 1181 🔺  (1002)|
+| Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 5 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729106944,1727760239,1727245453,1726340074,1725207619,1723327917,1722076269,1710253707];
+        let timestamps = [1736068130,1729106944,1727760239,1727245453,1726340074,1725207619,1723327917,1722076269,1710253707];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/10 | 0-0 | [Romania](https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/) |
 | ❌ | 2024/10/21 | 2-26 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2024/10/06 | 0-18 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/09/30 | 0-8 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |

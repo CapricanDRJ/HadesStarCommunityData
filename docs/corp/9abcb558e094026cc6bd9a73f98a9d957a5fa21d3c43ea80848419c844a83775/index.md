@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpha Galaxy
-description: W:0 L:0 D:1 Bonus ❌ 1%
+description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1713714237
+date: 1736495327
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ https://discord.gg/F8c4yKxNnb
 
 n always friendly
 ```
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (522)|
-| ELO Competitive | 1199 🔻  (664)|
-| Total Matches | 1 |
+| ELO Regular | 1186 🔻  (682)|
+| ELO Competitive | 1187 🔻  (840)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713282237];
+        let timestamps = [1736063327,1713282237];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/10 | 0-4 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ↔️ | 2024/04/21 | 0-0 | [vosk empire 2](https://ws.tsl.rocks/corp/53f71a919dc236f377371961c475a6df846550d5c1a72199b52ecf72d1494701/) |
 
 ---
