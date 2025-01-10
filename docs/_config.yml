@@ -24,6 +24,8 @@ header_pages:
   - trade/index.md
   - scanning.md
   - bonus.md
+  - avgRelics.md
+  - streak.md
 
 # Site properties
 language: english
