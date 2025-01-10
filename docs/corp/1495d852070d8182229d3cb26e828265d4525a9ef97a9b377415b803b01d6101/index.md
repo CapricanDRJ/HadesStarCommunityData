@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:20 L:20 D:0 Bonus ❌ 9%
+description: W:20 L:21 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1734724296
+date: 1736537714
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ iscord.com/invite/y2m2V3WYtr
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔻  (204)|
-| ELO Competitive | 1332 🔻  (214)|
-| Total Matches | 40 |
+| ELO Regular | 1258 🔻  (231)|
+| ELO Competitive | 1315 🔻  (247)|
+| Total Matches | 41 |
 | Wins | 20 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734292296,1733685341,1733100915,1732485771,1729561322,1728947366,1728398538,1727654464,1726490145,1725259300,1724046756,1722771381,1722230757,1721658256,1721005231,1720306172,1719779354,1719127247,1718565598,1717968015,1717313040,1716754674,1716164871,1715600321,1714937828,1713483907,1711314377,1710104383,1708880532,1707680346,1707076634,1706477713,1705263940,1704654797,1703446118,1702836142,1702237160,1701025666,1699818296,1699206687];
+        let timestamps = [1736105714,1734292296,1733685341,1733100915,1732485771,1729561322,1728947366,1728398538,1727654464,1726490145,1725259300,1724046756,1722771381,1722230757,1721658256,1721005231,1720306172,1719779354,1719127247,1718565598,1717968015,1717313040,1716754674,1716164871,1715600321,1714937828,1713483907,1711314377,1710104383,1708880532,1707680346,1707076634,1706477713,1705263940,1704654797,1703446118,1702836142,1702237160,1701025666,1699818296,1699206687];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/10 | 6-25 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2024/12/20 | 0-24 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/12/13 | 8-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/12/07 | 13-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

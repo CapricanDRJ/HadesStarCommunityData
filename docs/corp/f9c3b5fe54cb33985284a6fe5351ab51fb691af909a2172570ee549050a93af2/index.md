@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:6 L:5 D:0 Bonus ❌ 8%
+description: W:7 L:6 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1734954147
+date: 1736538316
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,17 @@ CZ/SK korporace            Odkaz na stažení HadesSpace https://userxi
 nos.github.io/HadesSpace/
 ```
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (245)|
-| ELO Competitive | 1270 🔺  (340)|
-| Total Matches | 11 |
-| Wins | 6 |
-| Losses | 5 |
+| ELO Regular | 1255 🔻  (238)|
+| ELO Competitive | 1288 🔺  (299)|
+| Total Matches | 13 |
+| Wins | 7 |
+| Losses | 6 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak Record | 5 |
 | Flagship | 8 |
 
 ---
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/10 | 2-7 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
+| ✅ | 2025/01/10 | 25-6 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2024/12/23 | 4-3 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ✅ | 2024/12/20 | 42-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/12/13 | 36-6 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
