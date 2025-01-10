@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ℬlackStar Order
-description: W:10 L:2 D:0 Bonus ✅ 30%
+description: W:11 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736300665
+date: 1736502535
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 1736300665
 ```
 
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔺  (154)|
-| ELO Competitive | 1303 🔺  (270)|
-| Total Matches | 12 |
-| Wins | 10 |
+| ELO Regular | 1314 🔺  (143)|
+| ELO Competitive | 1304 🔺  (270)|
+| Total Matches | 13 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
+        let timestamps = [1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/10 | 6-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ✅ | 2025/01/08 | 16-0 | [Incurzion](https://ws.tsl.rocks/corp/5037b5f4b6d03dd281772beb700e67db4cb87ca14e8ce96e4b5a4e1b81502bf0/) |
 | ✅ | 2025/01/05 | 6-0 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |
 | ✅ | 2025/01/02 | 15-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

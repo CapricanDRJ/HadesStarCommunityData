@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Polish Pirates
-description: W:21 L:14 D:0 Bonus ❌ 13%
+description: W:22 L:14 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1734080971
+date: 1736507345
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,17 +22,17 @@ DISCORD
 vGfaYFN
 ```
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1310 🔺  (142)|
-| ELO Competitive | 1368 🔺  (174)|
-| Total Matches | 35 |
-| Wins | 21 |
+| ELO Regular | 1318 🔺  (134)|
+| ELO Competitive | 1379 🔺  (164)|
+| Total Matches | 36 |
+| Wins | 22 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 11 |
 
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733648971,1732443391,1730633492,1729437215,1728216431,1727002088,1725805899,1725176361,1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
+        let timestamps = [1736075345,1733648971,1732443391,1730633492,1729437215,1728216431,1727002088,1725805899,1725176361,1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,7 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 3 | 0 | 0 | 3 |
+| [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 4 | 0 | 0 | 4 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 2 | 0 | 0 | 2 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1 | 1 | 0 | 2 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/10 | 40-5 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ✅ | 2024/12/13 | 25-13 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/11/29 | 33-17 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ✅ | 2024/11/08 | 29-10 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:7 L:12 D:1 Bonus ❌ 5%
+description: W:8 L:12 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1735987456
+date: 1736504619
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1735987456
  100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了
 ```
 ### [Discord](https://discord.gg/54188)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1139)|
-| ELO Competitive | 1191 🔻  (748)|
-| Total Matches | 20 |
-| Wins | 7 |
+| ELO Regular | 1162 🔺  (1031)|
+| ELO Competitive | 1205 🔺  (612)|
+| Total Matches | 21 |
+| Wins | 8 |
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735555456,1734971054,1734458216,1733663097,1733139052,1732703612,1732221773,1731720705,1731673819,1731214963,1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
+        let timestamps = [1736072619,1735555456,1734971054,1734458216,1733663097,1733139052,1732703612,1732221773,1731720705,1731673819,1731214963,1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/10 | 3-0 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) |
 | ❌ | 2025/01/04 | 0-3 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/12/28 | 3-9 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2024/12/22 | 3-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |

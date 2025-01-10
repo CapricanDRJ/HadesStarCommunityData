@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:13 L:9 D:0 Bonus ❌ 6%
+description: W:14 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1735324635
+date: 1736511854
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1735324635
 Язык общения в корпорации - русский. Есть свой чат в тг. частые поход
 ы в бз,помощь с кз и артефактами
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔻  (244)|
-| ELO Competitive | 1295 🔻  (286)|
-| Total Matches | 22 |
-| Wins | 13 |
+| ELO Regular | 1267 🔺  (214)|
+| ELO Competitive | 1306 🔺  (265)|
+| Total Matches | 23 |
+| Wins | 14 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
+        let timestamps = [1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/10 | 6-2 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2024/12/27 | 8-28 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/12/09 | 19-7 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2024/11/28 | 20-3 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |

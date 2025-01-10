@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​三体舰队
-description: W:8 L:11 D:0 Bonus ❌ 5%
+description: W:8 L:12 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1720619162
+date: 1736504619
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ date: 1720619162
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1019)|
-| ELO Competitive | 1176 🔻  (1040)|
-| Total Matches | 19 |
+| ELO Regular | 1148 🔻  (1125)|
+| ELO Competitive | 1161 🔻  (1176)|
+| Total Matches | 20 |
 | Wins | 8 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 3 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720187162,1718960152,1717872440,1717300116,1714183254,1713621181,1712995534,1712552566,1712118749,1711643981,1711156695,1710672862,1710239284,1709730283,1709296394,1708398541,1707791531,1699896138,1699362935];
+        let timestamps = [1736072619,1720187162,1718960152,1717872440,1717300116,1714183254,1713621181,1712995534,1712552566,1712118749,1711643981,1711156695,1710672862,1710239284,1709730283,1709296394,1708398541,1707791531,1699896138,1699362935];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/10 | 0-3 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ❌ | 2024/07/10 | 0-28 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2024/06/26 | 0-7 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ❌ | 2024/06/13 | 0-2 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
