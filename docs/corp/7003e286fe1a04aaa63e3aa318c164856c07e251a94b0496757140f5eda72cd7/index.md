@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:5 L:48 D:0 Bonus ✅ 48%
+description: W:5 L:48 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1735864564
 ---
@@ -23,7 +23,7 @@ Are you RS6+ and want to join?
 Find us on Discord: YTaYrhy
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

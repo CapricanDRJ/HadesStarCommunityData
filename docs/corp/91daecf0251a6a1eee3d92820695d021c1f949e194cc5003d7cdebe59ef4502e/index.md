@@ -24,7 +24,7 @@ But there is not more of it in DN now...
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔻  (236)|
-| ELO Competitive | 1261 🔻  (370)|
+| ELO Competitive | 1261 🔻  (369)|
 | Total Matches | 16 |
 | Wins | 11 |
 | Losses | 5 |

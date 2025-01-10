@@ -21,7 +21,7 @@ kly White Star with searches starting on Wednesdays. We have 1-2 open
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1256)|
+| ELO Regular | 1115 🔻  (1255)|
 | ELO Competitive | 1155 🔻  (1222)|
 | Total Matches | 34 |
 | Wins | 13 |

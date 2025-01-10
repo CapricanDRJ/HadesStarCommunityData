@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:12 L:5 D:0 Bonus ❌ 7%
+description: W:14 L:5 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1735677067
+date: 1736467673
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 1735677067
                       Играем в сонном режиме, телеграм или дс иметь н
 е обязательно, иногда ходим на Белую Звезду.        
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (173)|
-| ELO Competitive | 1321 🔺  (231)|
-| Total Matches | 17 |
-| Wins | 12 |
+| ELO Regular | 1315 🔺  (141)|
+| ELO Competitive | 1334 🔺  (212)|
+| Total Matches | 19 |
+| Wins | 14 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 5 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/10 | 15-0 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
+| ✅ | 2025/01/09 | 23-4 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/12/31 | 24-0 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ✅ | 2024/12/23 | 19-1 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/12/15 | 23-7 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |

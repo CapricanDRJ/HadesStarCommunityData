@@ -19,8 +19,8 @@ Star Field-星域
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔺  (152)|
-| ELO Competitive | 1329 🔺  (217)|
+| ELO Regular | 1306 🔺  (153)|
+| ELO Competitive | 1329 🔺  (218)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

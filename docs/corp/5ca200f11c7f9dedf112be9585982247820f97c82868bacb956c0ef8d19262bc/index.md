@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:14 L:26 D:1 Bonus ❌ 8%
+description: W:14 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1735043386
+date: 1736467051
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ space of this game. WS every week. Join us into the Light!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1224)|
-| ELO Competitive | 1271 🔻  (337)|
-| Total Matches | 41 |
+| ELO Regular | 1108 🔻  (1273)|
+| ELO Competitive | 1259 🔻  (377)|
+| Total Matches | 43 |
 | Wins | 14 |
-| Losses | 26 |
+| Losses | 28 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/09 | 0-19 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
+| ❌ | 2025/01/09 | 4-23 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2024/12/24 | 0-7 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/12/24 | 6-13 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) |
 | ❌ | 2024/12/16 | 0-28 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
