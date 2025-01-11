@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:14 L:13 D:6 Bonus ✅ 32%
+description: W:15 L:13 D:6 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736536511
+date: 1736582788
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 1736536511
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (300)|
-| ELO Competitive | 1272 🔺  (333)|
-| Total Matches | 33 |
-| Wins | 14 |
+| ELO Regular | 1251 🔺  (248)|
+| ELO Competitive | 1288 🔺  (299)|
+| Total Matches | 34 |
+| Wins | 15 |
 | Losses | 13 |
 | Draws | 6 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736104511,1735632380,1735185871,1735185570,1734685868,1734668777,1734198976,1734185920,1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
+        let timestamps = [1736150788,1736104511,1735632380,1735185871,1735185570,1734685868,1734668777,1734198976,1734185920,1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,12 +127,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/11 | 4-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2025/01/10 | 5-5 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/01/05 | 6-3 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/12/31 | 3-5 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |

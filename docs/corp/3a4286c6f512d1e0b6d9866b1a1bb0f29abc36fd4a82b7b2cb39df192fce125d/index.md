@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hinterm Mond
-description: W:66 L:46 D:0 Bonus ✅ 54%
+description: W:66 L:46 D:0 Bonus ❌ 17%
 image: ./favicon.png
 date: 1736067986
 ---
@@ -18,7 +18,7 @@ ausschließlich über unseren Discord-Bot anmelden /  External RS pilot
 s please register exclusively via our Discord bot 🙂
 ```
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
