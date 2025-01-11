@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Polaris
-description: W:0 L:7 D:0 Bonus ❌ 10%
+description: W:0 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1735666549
+date: 1736562961
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Discord: https://discord.gg/S6fvaKp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1220)|
-| ELO Competitive | 1142 🔻  (1273)|
-| Total Matches | 7 |
+| ELO Regular | 1115 🔻  (1258)|
+| ELO Competitive | 1136 🔻  (1288)|
+| Total Matches | 8 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 9 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735234549,1734252324,1731990556,1730599239,1729665589,1729194698,1728595395];
+        let timestamps = [1736130961,1735234549,1734252324,1731990556,1730599239,1729665589,1729194698,1728595395];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/11 | 15-33 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2024/12/31 | 6-67 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/12/20 | 0-64 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ❌ | 2024/11/24 | 0-36 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
