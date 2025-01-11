@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Стальная крыса
-description: W:0 L:2 D:0 Bonus ❌ 2%
+description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1720434326
+date: 1736612543
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,15 +20,15 @@ date: 1720434326
 
 Общение ведётся в телеграм-чате (обратитесь к @neit_wel или @eidzist)
 ```
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (905)|
-| ELO Competitive | 1174 🔻  (1055)|
-| Total Matches | 2 |
+| ELO Regular | 1166 🔻  (1003)|
+| ELO Competitive | 1167 🔻  (1133)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720002326,1719471631];
+        let timestamps = [1736180543,1720002326,1719471631];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/11 | 0-24 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/07/08 | 0-10 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/07/02 | 0-27 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 
