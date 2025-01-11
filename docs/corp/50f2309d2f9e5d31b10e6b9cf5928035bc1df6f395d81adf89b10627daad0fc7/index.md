@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legión
-description: W:6 L:6 D:0 Bonus ✅ 32%
+description: W:6 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1735986854
 ---
@@ -18,7 +18,7 @@ date: 1735986854
 sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 ```
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

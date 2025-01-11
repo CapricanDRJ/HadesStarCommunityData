@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:16 L:38 D:0 Bonus ❌ 11%
+description: W:16 L:39 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1732290073
+date: 1736596912
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ b>  Peacefully collecting relics since 2018.                   😎
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1310)|
-| ELO Competitive | 1194 🔻  (706)|
-| Total Matches | 54 |
+| ELO Regular | 1079 🔻  (1315)|
+| ELO Competitive | 1190 🔻  (769)|
+| Total Matches | 55 |
 | Wins | 16 |
-| Losses | 38 |
+| Losses | 39 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731858073,1731396774,1730619669,1730092603,1729414973,1728917607,1728229959,1727613289,1727022051,1726388862,1725906569,1721082778,1720400836,1718638315,1717641848,1717177192,1716687951,1716687350,1716142937,1716131218,1715613843,1715610237,1714621638,1714613227,1714160722,1714156815,1713719963,1713147287,1712526508,1711346222,1710778633,1709315028,1708879630,1708877526,1708310495,1708309894,1707671929,1707671629,1707062206,1707061305,1706456671,1706454266,1705885399,1705885399,1705285274,1705280467,1704657804,1704198610,1702790759,1702272621,1701014842,1700340110,1699831823,1698707516];
+        let timestamps = [1736164912,1731858073,1731396774,1730619669,1730092603,1729414973,1728917607,1728229959,1727613289,1727022051,1726388862,1725906569,1721082778,1720400836,1718638315,1717641848,1717177192,1716687951,1716687350,1716142937,1716131218,1715613843,1715610237,1714621638,1714613227,1714160722,1714156815,1713719963,1713147287,1712526508,1711346222,1710778633,1709315028,1708879630,1708877526,1708310495,1708309894,1707671929,1707671629,1707062206,1707061305,1706456671,1706454266,1705885399,1705885399,1705285274,1705280467,1704657804,1704198610,1702790759,1702272621,1701014842,1700340110,1699831823,1698707516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1 | 1 | 0 | 2 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 2 | 0 | 0 | 2 |
 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 1 | 2 | 0 | 3 |
 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) | 1 | 1 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/11 | 4-54 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ❌ | 2024/11/22 | 15-29 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/11/17 | 33-10 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/11/08 | 31-1 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
