@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:3 L:8 D:0 Bonus ❌ 12%
+description: W:3 L:9 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1736060474
+date: 1736624266
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Winter Comes to Hades</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1067)|
-| ELO Competitive | 1190 🔻  (758)|
-| Total Matches | 11 |
+| ELO Regular | 1148 🔻  (1128)|
+| ELO Competitive | 1182 🔻  (998)|
+| Total Matches | 12 |
 | Wins | 3 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/11 | 7-21 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
 | ❌ | 2025/01/05 | 10-28 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/12/28 | 18-49 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/12/08 | 29-5 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |

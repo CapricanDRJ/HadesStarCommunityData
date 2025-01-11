@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:51 L:9 D:0 Bonus ✅ 38%
+description: W:51 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736023221
 ---
@@ -21,12 +21,12 @@ Join over 500 players across a family of 9 corps on discord for chat,
 RS1+
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1471 🔺  (18)|
-| ELO Competitive | 1533 🔺  (40)|
+| ELO Competitive | 1533 🔺  (39)|
 | Total Matches | 60 |
 | Wins | 51 |
 | Losses | 9 |
