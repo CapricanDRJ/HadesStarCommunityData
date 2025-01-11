@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:38 L:23 D:0 Bonus ✅ 46%
+description: W:38 L:23 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1735964623
 ---
@@ -19,11 +19,11 @@ date: 1735964623
 月球白星群  :916418678（常驻在这报道，每周一次白在这报名）
 
 ```
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (144)|
+| ELO Regular | 1309 🔺  (145)|
 | ELO Competitive | 1487 🔺  (69)|
 | Total Matches | 61 |
 | Wins | 38 |

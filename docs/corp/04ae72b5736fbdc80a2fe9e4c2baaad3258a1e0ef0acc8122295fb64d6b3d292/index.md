@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​three kitties
-description: W:46 L:31 D:4 Bonus ✅ 38%
+description: W:46 L:31 D:4 Bonus ❌ 9%
 image: ./favicon.png
 date: 1735972433
 ---
@@ -17,7 +17,7 @@ Subsidiary of the Titans Ф Terror   •Active Players welcome• Find mor
 e Infos on Discord or at: hadestitans.com 
 ```
 ### [Discord](https://discord.gg/YPC7XenfdY)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
