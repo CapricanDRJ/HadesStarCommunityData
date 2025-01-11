@@ -29,8 +29,8 @@ Discord preferred nBrqgsV
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (113)|
-| ELO Competitive | 1561 🔺  (31)|
+| ELO Regular | 1339 🔺  (112)|
+| ELO Competitive | 1561 🔺  (32)|
 | Total Matches | 105 |
 | Wins | 63 |
 | Losses | 42 |

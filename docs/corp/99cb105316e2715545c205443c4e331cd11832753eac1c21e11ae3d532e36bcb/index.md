@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:5 L:4 D:2 Bonus ✅ 32%
+description: W:5 L:4 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1736467673
 ---
@@ -15,7 +15,7 @@ date: 1736467673
 ```
 欢迎大家的加入♡
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

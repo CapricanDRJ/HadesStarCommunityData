@@ -21,7 +21,7 @@ cord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (222)|
+| ELO Regular | 1263 🔺  (223)|
 | ELO Competitive | 1280 🔺  (317)|
 | Total Matches | 8 |
 | Wins | 6 |

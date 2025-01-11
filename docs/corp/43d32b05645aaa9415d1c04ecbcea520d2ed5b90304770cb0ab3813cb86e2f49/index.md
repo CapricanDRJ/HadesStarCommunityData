@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​붉은늑대
-description: W:44 L:76 D:1 Bonus ❌ 42%
+description: W:44 L:76 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1736479694
 ---
@@ -17,7 +17,7 @@ date: 1736479694
 림.<br>◇절찬 성업중인 유일 한국콥으로 초대합니다.<br>◇카톡방에서 붉은늑대 다크 네뷸라를 찾으세요!<br>◇단톡방 참
 여 필수! 항성로그 3일 미접속 방출!
 ```
-### Whitestar Bonus ❌ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
