@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:4 L:59 D:0 Bonus ✅ 38%
+description: W:4 L:59 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736534106
 ---
@@ -17,7 +17,7 @@ date: 1736534106
 ..то есть +2 и -2 часа от Московского времени. Походы на БЗ с понедел
 ьника по пятницу. кто идет ставим "+" в чате в Воскресение.!
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

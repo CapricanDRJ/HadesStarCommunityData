@@ -21,7 +21,7 @@ deadline though. We all do what we do when we do it...
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (158)|
+| ELO Regular | 1303 🔺  (157)|
 | ELO Competitive | 1312 🔺  (252)|
 | Total Matches | 10 |
 | Wins | 9 |
