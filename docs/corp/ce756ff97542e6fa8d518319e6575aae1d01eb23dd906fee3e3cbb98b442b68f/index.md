@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​斯比纳兰
-description: W:6 L:14 D:1 Bonus ❌ 5%
+description: W:6 L:15 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1735880787
+date: 1736681657
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1735880787
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔺  (1232)|
-| ELO Competitive | 1159 🔺  (1193)|
-| Total Matches | 21 |
+| ELO Regular | 1109 🔻  (1274)|
+| ELO Competitive | 1149 🔻  (1246)|
+| Total Matches | 22 |
 | Wins | 6 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735448787,1733750237,1733233705,1732107440,1731615833,1731061390,1730385883,1729847666,1729346456,1728901073,1728393426,1728141607,1727949554,1727700134,1727509017,1727010203,1726571581,1726057106,1725544157,1724989428,1724554613];
+        let timestamps = [1736249657,1735448787,1733750237,1733233705,1732107440,1731615833,1731061390,1730385883,1729847666,1729346456,1728901073,1728393426,1728141607,1727949554,1727700134,1727509017,1727010203,1726571581,1726057106,1725544157,1724989428,1724554613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/12 | 0-13 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/01/03 | 3-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ❌ | 2024/12/14 | 3-6 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/12/08 | 0-2 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
