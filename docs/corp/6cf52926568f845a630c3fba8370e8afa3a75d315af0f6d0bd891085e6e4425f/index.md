@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Antioch
-description: W:10 L:25 D:0 Bonus ❌ 6%
+description: W:10 L:26 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735127214
+date: 1736665431
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ ctive pilots.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1314)|
-| ELO Competitive | 1128 🔻  (1304)|
-| Total Matches | 35 |
+| ELO Regular | 1074 🔻  (1321)|
+| ELO Competitive | 1125 🔻  (1309)|
+| Total Matches | 36 |
 | Wins | 10 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734695214,1732126676,1730738069,1729670696,1728931136,1728393126,1727588047,1726429449,1725758417,1724880067,1724245388,1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
+        let timestamps = [1736233431,1734695214,1732126676,1730738069,1729670696,1728931136,1728393126,1727588047,1726429449,1725758417,1724880067,1724245388,1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/12 | 3-25 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/12/25 | 3-25 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2024/11/25 | 3-30 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/11/09 | 3-33 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |

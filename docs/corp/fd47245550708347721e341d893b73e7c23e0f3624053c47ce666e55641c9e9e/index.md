@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:35 L:29 D:2 Bonus ✅ 40%
+description: W:35 L:29 D:2 Bonus ❌ 10%
 image: ./favicon.png
 date: 1736060474
 ---
@@ -17,7 +17,7 @@ Daily red star runs, weekly white star runs, and occasional corporati
 on events. No alts.
 ```
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

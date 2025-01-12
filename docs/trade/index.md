@@ -190,7 +190,7 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>3</td>
+                    <td>2</td>
                     <td><img src="trade.png" alt="trade"></td>
                     <td>RS9</td>
                     <td>218%</td>

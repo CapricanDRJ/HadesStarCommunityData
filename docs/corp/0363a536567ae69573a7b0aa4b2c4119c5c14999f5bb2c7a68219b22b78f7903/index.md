@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:13 L:6 D:1 Bonus ❌ 6%
+description: W:14 L:6 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1735632290
+date: 1736669722
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ os que nos necesiten y les daremos un ambiente comodo. | Existe un gr
 upo si deseas unirte solo consulta al primer oficial. 
 ```
 ### [Discord](https://discord.gg/X6xAG8J9)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔻  (200)|
-| ELO Competitive | 1291 🔻  (296)|
-| Total Matches | 20 |
-| Wins | 13 |
+| ELO Regular | 1289 🔺  (180)|
+| ELO Competitive | 1304 🔺  (270)|
+| Total Matches | 21 |
+| Wins | 14 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735200290,1734673283,1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
+        let timestamps = [1736237722,1735200290,1734673283,1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/12 | 14-2 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ❌ | 2024/12/31 | 1-28 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/12/25 | 16-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/12/18 | 8-5 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |

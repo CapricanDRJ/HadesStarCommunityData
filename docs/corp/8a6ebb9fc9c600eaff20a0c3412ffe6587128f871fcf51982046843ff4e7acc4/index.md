@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:6 L:3 D:1 Bonus ❌ 
+description: W:6 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1736223026
+date: 1736669722
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 1736223026
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (312)|
-| ELO Competitive | 1261 🔻  (374)|
-| Total Matches | 10 |
+| ELO Regular | 1220 🔻  (362)|
+| ELO Competitive | 1247 🔻  (412)|
+| Total Matches | 11 |
 | Wins | 6 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/12 | 2-14 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
 | ❌ | 2025/01/07 | 3-14 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/01/07 | 2-12 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/01/02 | 4-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
