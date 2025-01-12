@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Retarts
-description: W:25 L:37 D:2 Bonus ✅ 38%
+description: W:25 L:37 D:2 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736110656
 ---
@@ -16,7 +16,7 @@ date: 1736110656
 trại trú ẩn đồng hương thất lạc
 ```
 ### [Discord](https://discord.gg/Bj7asyRu67)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
