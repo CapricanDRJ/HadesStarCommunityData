@@ -103,39 +103,6 @@ permalink: /trade/
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">HellHound</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>22</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>270%</td>
-                </tr>
-            
-                <tr>
-                    <td>36</td>
-                    <td><img src="weapon.png" alt="weapon"></td>
-                    <td>RS9</td>
-                    <td>270%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/1240424212389433374">MOOOOOOOOOOOOOOOOOOOOOOOOOOOON</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">Kaila</th>
         </tr>
         <tr>
