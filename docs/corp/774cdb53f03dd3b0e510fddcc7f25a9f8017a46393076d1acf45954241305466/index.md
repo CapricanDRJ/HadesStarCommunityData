@@ -22,7 +22,7 @@ unication. <B>Discord required!</B> Newbies welcome!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1436 🔺  (34)|
+| ELO Regular | 1436 🔺  (33)|
 | ELO Competitive | 1566 🔺  (31)|
 | Total Matches | 98 |
 | Wins | 75 |
