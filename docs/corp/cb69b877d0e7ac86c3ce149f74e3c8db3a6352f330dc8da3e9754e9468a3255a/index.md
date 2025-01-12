@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:14 L:21 D:4 Bonus ✅ 32%
+description: W:14 L:21 D:4 Bonus ❌ 6%
 image: ./favicon.png
 date: 1736536511
 ---
@@ -17,12 +17,12 @@ date: 1736536511
 maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (
 sporg). 3lt bpdp)(demin).(flech).
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔺  (947)|
-| ELO Competitive | 1307 🔻  (260)|
+| ELO Competitive | 1307 🔻  (259)|
 | Total Matches | 39 |
 | Wins | 14 |
 | Losses | 21 |

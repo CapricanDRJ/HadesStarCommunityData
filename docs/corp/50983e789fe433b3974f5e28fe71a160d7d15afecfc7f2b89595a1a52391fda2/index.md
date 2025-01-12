@@ -22,7 +22,7 @@ ui giàce NONNA DI CAPPUCCETTO.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1374 🔺  (73)|
-| ELO Competitive | 1387 🔺  (154)|
+| ELO Competitive | 1387 🔺  (155)|
 | Total Matches | 14 |
 | Wins | 14 |
 | Losses | 0 |

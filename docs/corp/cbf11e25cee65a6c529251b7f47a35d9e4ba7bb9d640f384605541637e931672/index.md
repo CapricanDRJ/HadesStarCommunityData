@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:1 L:32 D:1 Bonus ✅ 42%
+description: W:1 L:33 D:1 Bonus ✅ 42%
 image: ./favicon.png
-date: 1736230837
+date: 1736687368
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1736230837
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 964 🔺  (1372)|
-| ELO Competitive | 1033 🔺  (1377)|
-| Total Matches | 34 |
+| ELO Regular | 958 🔻  (1373)|
+| ELO Competitive | 1030 🔻  (1378)|
+| Total Matches | 35 |
 | Wins | 1 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/12 | 8-35 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2025/01/07 | 22-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2025/01/01 | 0-34 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ❌ | 2024/12/27 | 12-45 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |

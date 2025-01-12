@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​HADE'S BR
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:2 L:0 D:0 Bonus ✅ 26%
 image: ./favicon.png
-date: 1732620870
+date: 1736695785
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,18 @@ a participe de RS e WS, mantenha as atividades e melhorias do sistema
  em dia. Temos grupo de Discord
 ```
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (432)|
-| ELO Competitive | 1214 🔺  (561)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1229 🔺  (327)|
+| ELO Competitive | 1238 🔺  (440)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 3 |
 
 ---
@@ -46,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732188870];
+        let timestamps = [1736263785,1732188870];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/12 | 42-0 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/11/26 | 37-0 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 
 ---
