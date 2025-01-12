@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​United Gardiens
-description: W:2 L:1 D:0 Bonus ✅ 26%
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1736104047
 ---
@@ -15,12 +15,12 @@ date: 1736104047
 ```
 Guardians united under one.
 ```
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (454)|
-| ELO Competitive | 1214 🔺  (558)|
+| ELO Regular | 1210 🔺  (455)|
+| ELO Competitive | 1214 🔺  (559)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

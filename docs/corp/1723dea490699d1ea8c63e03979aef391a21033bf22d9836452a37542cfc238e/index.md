@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Soul System
-description: W:1 L:12 D:0 Bonus ✅ 36%
+description: W:1 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736603225
 ---
@@ -18,12 +18,12 @@ e stars our souls take flight. In the cosmic night. For in the star d
 ust we are born our souls woven from light. RS and WS focused.
 ```
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1296)|
-| ELO Competitive | 1116 🔻  (1324)|
+| ELO Competitive | 1116 🔻  (1325)|
 | Total Matches | 13 |
 | Wins | 1 |
 | Losses | 12 |
