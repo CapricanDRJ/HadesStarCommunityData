@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Minutemen
-description: W:9 L:17 D:1 Bonus ❌ 7%
+description: W:10 L:17 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1736034640
+date: 1736802175
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1736034640
 Relaxed corp. White star with us for fun.
 ```
 ### [Discord](https://discord.gg/dgpJDdf5EX)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (998)|
-| ELO Competitive | 1203 🔻  (624)|
-| Total Matches | 27 |
-| Wins | 9 |
+| ELO Regular | 1182 🔺  (850)|
+| ELO Competitive | 1228 🔺  (472)|
+| Total Matches | 28 |
+| Wins | 10 |
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735602640,1735134192,1734422773,1727059786,1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
+        let timestamps = [1736370175,1735602640,1735134192,1734422773,1727059786,1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/13 | 10-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/01/04 | 8-28 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ↔️ | 2024/12/30 | 3-3 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/12/22 | 1-11 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

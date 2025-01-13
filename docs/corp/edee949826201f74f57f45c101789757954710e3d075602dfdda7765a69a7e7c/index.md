@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:21 L:8 D:1 Bonus ❌ 7%
+description: W:21 L:9 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1731957387
+date: 1736794618
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ also come aboard🙏. Thank you as you join us😘
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (106)|
-| ELO Competitive | 1384 🔻  (159)|
-| Total Matches | 30 |
+| ELO Regular | 1319 🔻  (135)|
+| ELO Competitive | 1364 🔻  (177)|
+| Total Matches | 31 |
 | Wins | 21 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 10 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731525387,1731011818,1730473997,1729905080,1729361186,1728828039,1728303880,1727719828,1727217543,1725737684,1725235867,1724684439,1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
+        let timestamps = [1736362618,1731525387,1731011818,1730473997,1729905080,1729361186,1728828039,1728303880,1727719828,1727217543,1725737684,1725235867,1724684439,1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/13 | 9-14 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2024/11/18 | 5-10 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/11/12 | 18-2 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/11/06 | 32-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
