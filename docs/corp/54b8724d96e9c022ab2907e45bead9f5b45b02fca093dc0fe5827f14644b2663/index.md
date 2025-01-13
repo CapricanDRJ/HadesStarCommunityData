@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:27 L:2 D:0 Bonus ❌ 8%
+description: W:28 L:2 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1735571301
+date: 1736756188
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,16 +27,17 @@ Max period of inactivity: 3 days.
 English only.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1437 🔺  (31)|
-| ELO Competitive | 1463 🔺  (85)|
-| Total Matches | 29 |
-| Wins | 27 |
+| ELO Regular | 1443 🔺  (27)|
+| ELO Competitive | 1469 🔺  (80)|
+| Total Matches | 30 |
+| Wins | 28 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 21 |
 | Flagship | 4 |
 
@@ -56,7 +57,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
+        let timestamps = [1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/13 | 18-10 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ✅ | 2024/12/30 | 15-6 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ❌ | 2024/12/15 | 3-36 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024/11/19 | 41-15 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |

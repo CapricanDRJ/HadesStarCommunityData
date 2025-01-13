@@ -87,6 +87,17 @@ permalink: /trade/
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS11</td>
+                    <td>248%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
@@ -103,7 +114,33 @@ permalink: /trade/
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Kaila</th>
+            <th colspan="4" class="username-header">LeDaiZi</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS10</td>
+                    <td>270%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">SoloMona18</th>
         </tr>
         <tr>
             <th>Amount</th>
@@ -146,83 +183,6 @@ permalink: /trade/
             
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/1093559047137013800">𝕮𝖊𝖗𝖚𝖑𝖊𝖆𝖓𝖘</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">LeDaiZi</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>1</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS10</td>
-                    <td>270%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: Private</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">whywhy</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>2</td>
-                    <td><img src="trade.png" alt="trade"></td>
-                    <td>RS9</td>
-                    <td>218%</td>
-                </tr>
-            
-                <tr>
-                    <td>3</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS9</td>
-                    <td>218%</td>
-                </tr>
-            
-                <tr>
-                    <td>5</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS9</td>
-                    <td>218%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>10</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS5</td>
-                    <td>200%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: Private</td>
         </tr>
     </table>
     <table>
