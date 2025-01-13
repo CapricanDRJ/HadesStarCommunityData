@@ -198,6 +198,13 @@ permalink: /trade/
             
                 <tr>
                     <td>3</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS9</td>
+                    <td>218%</td>
+                </tr>
+            
+                <tr>
+                    <td>5</td>
                     <td><img src="combat.png" alt="combat"></td>
                     <td>RS9</td>
                     <td>218%</td>
@@ -208,7 +215,7 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>6</td>
+                    <td>10</td>
                     <td><img src="mining.png" alt="mining"></td>
                     <td>RS5</td>
                     <td>200%</td>

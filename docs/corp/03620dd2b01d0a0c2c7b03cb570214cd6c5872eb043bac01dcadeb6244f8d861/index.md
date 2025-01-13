@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ℬlackStar Order
-description: W:11 L:2 D:0 Bonus ✅ 32%
+description: W:12 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736502535
+date: 1736741993
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1736502535
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (145)|
-| ELO Competitive | 1304 🔺  (271)|
-| Total Matches | 13 |
-| Wins | 11 |
+| ELO Regular | 1324 🔺  (130)|
+| ELO Competitive | 1314 🔺  (248)|
+| Total Matches | 14 |
+| Wins | 12 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
+        let timestamps = [1736309993,1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/13 | 13-0 | [gold warriors](https://ws.tsl.rocks/corp/ad1b5098c91cf95eaac6e1d12f53047e627c8cfffc513a0e83b95ccdc4f1811a/) |
 | ✅ | 2025/01/10 | 6-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ✅ | 2025/01/08 | 16-0 | [Incurzion](https://ws.tsl.rocks/corp/5037b5f4b6d03dd281772beb700e67db4cb87ca14e8ce96e4b5a4e1b81502bf0/) |
 | ✅ | 2025/01/05 | 6-0 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |

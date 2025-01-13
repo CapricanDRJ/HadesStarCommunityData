@@ -29,7 +29,7 @@ Come join the Flight-Team!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (932)|
-| ELO Competitive | 1173 🔻  (1074)|
+| ELO Competitive | 1173 🔻  (1075)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

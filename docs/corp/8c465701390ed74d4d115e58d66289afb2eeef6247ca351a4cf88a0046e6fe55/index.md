@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​探索舰队
-description: W:18 L:16 D:1 Bonus ✅ 34%
+description: W:18 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736137282
 ---
@@ -22,7 +22,7 @@ date: 1736137282
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

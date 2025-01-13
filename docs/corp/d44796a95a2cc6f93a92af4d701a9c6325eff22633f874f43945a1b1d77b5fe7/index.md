@@ -19,7 +19,7 @@ We are one and never broken.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (461)|
+| ELO Regular | 1209 🔺  (462)|
 | ELO Competitive | 1222 🔺  (491)|
 | Total Matches | 20 |
 | Wins | 10 |
