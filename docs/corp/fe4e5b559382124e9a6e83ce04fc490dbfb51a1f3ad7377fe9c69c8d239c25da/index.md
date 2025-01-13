@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Pioneer
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1736165633
 ---
@@ -15,12 +15,12 @@ date: 1736165633
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔺  (378)|
-| ELO Competitive | 1218 🔺  (515)|
+| ELO Competitive | 1218 🔺  (516)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

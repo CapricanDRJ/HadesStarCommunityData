@@ -21,8 +21,8 @@ s a requirement, add wykidc#5670, read the rules, click ✅, +18
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (612)|
-| ELO Competitive | 1203 🔻  (622)|
+| ELO Regular | 1189 🔻  (613)|
+| ELO Competitive | 1203 🔻  (623)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |
