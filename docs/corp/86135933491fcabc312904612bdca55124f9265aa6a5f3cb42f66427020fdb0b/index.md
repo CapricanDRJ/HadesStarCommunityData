@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Newbs
-description: W:39 L:21 D:1 Bonus ✅ 42%
+description: W:39 L:22 D:1 Bonus ✅ 42%
 image: ./favicon.png
-date: 1736259082
+date: 1736787747
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ rience and have some fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (110)|
-| ELO Competitive | 1413 🔺  (132)|
-| Total Matches | 61 |
+| ELO Regular | 1322 🔻  (132)|
+| ELO Competitive | 1398 🔻  (147)|
+| Total Matches | 62 |
 | Wins | 39 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 12 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735827082,1734523048,1733909780,1733244521,1732651336,1732126676,1731616434,1730929483,1730334202,1729809827,1729104839,1728482685,1727840172,1727266211,1726649498,1726026759,1725458518,1724911613,1724275144,1723658778,1722981433,1722451629,1721890550,1720616908,1720596172,1720018859,1719358948,1718812012,1718136004,1717527346,1716919059,1716915753,1716296160,1715775480,1715167666,1714560343,1713992769,1713370543,1712768085,1712157809,1711566164,1710960710,1710345649,1709731185,1709163289,1708530455,1707923449,1707318043,1706748175,1706113194,1705509750,1704973636,1704483499,1703787807,1702611337,1701890927,1701292850,1700707072,1700061136,1699472016,1698862004];
+        let timestamps = [1736355747,1735827082,1734523048,1733909780,1733244521,1732651336,1732126676,1731616434,1730929483,1730334202,1729809827,1729104839,1728482685,1727840172,1727266211,1726649498,1726026759,1725458518,1724911613,1724275144,1723658778,1722981433,1722451629,1721890550,1720616908,1720596172,1720018859,1719358948,1718812012,1718136004,1717527346,1716919059,1716915753,1716296160,1715775480,1715167666,1714560343,1713992769,1713370543,1712768085,1712157809,1711566164,1710960710,1710345649,1709731185,1709163289,1708530455,1707923449,1707318043,1706748175,1706113194,1705509750,1704973636,1704483499,1703787807,1702611337,1701890927,1701292850,1700707072,1700061136,1699472016,1698862004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) | 1 | 2 | 0 | 3 |
 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 1 | 1 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 2 | 0 | 0 | 2 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 2 | 0 | 0 | 2 |
@@ -143,7 +144,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1 | 3 | 0 | 4 |
 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) | 1 | 1 | 0 | 2 |
 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 3 | 0 | 0 | 3 |
-| [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) | 1 | 1 | 0 | 2 |
 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 2 | 0 | 0 | 2 |
 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 0 | 2 | 0 | 2 |
 
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/13 | 28-32 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2025/01/07 | 38-0 | [The Goonies](https://ws.tsl.rocks/corp/12ebe9e9a1c71d9a15f622670c299d2b2193e3e7a9ef18b1773c8b5965cb68ab/) |
 | ❌ | 2024/12/23 | 6-19 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/12/16 | 38-3 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |

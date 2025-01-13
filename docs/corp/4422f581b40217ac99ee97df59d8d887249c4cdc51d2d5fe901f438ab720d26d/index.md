@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:10 L:0 D:0 Bonus ❌ 8%
+description: W:10 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1735662643
+date: 1736787146
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,13 +24,12 @@ date: 1735662643
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (128)|
-| ELO Competitive | 1361 🔺  (178)|
-| Total Matches | 10 |
+| ELO Regular | 1313 🔻  (146)|
+| ELO Competitive | 1356 🔻  (183)|
+| Total Matches | 11 |
 | Wins | 10 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 10 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -50,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
+        let timestamps = [1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/13 | 10-31 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/12/31 | 14-13 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2024/12/25 | 36-0 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2024/12/20 | 29-8 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
