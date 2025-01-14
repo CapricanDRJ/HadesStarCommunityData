@@ -19,7 +19,7 @@ Dissolution or overhauling soon.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (916)|
+| ELO Regular | 1173 🔻  (915)|
 | ELO Competitive | 1174 🔻  (1062)|
 | Total Matches | 2 |
 | Wins | 0 |

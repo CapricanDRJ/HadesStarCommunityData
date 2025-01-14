@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​地球星际集团
-description: W:0 L:32 D:11 Bonus ❌ 4%
+description: W:0 L:33 D:11 Bonus ❌ 4%
 image: ./favicon.png
-date: 1735581332
+date: 1736831322
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1735581332
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 958 🔻  (1374)|
-| ELO Competitive | 1075 🔻  (1358)|
-| Total Matches | 43 |
+| ELO Regular | 957 🔻  (1375)|
+| ELO Competitive | 1074 🔻  (1359)|
+| Total Matches | 44 |
 | Wins | 0 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 11 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735149332,1735139902,1726669030,1726662014,1725622004,1725615670,1724852714,1724761704,1719163618,1719152494,1718627640,1718531332,1718076198,1717845687,1716678046,1716650386,1715507204,1715487947,1712552566,1712528690,1711856429,1711853725,1710630785,1709730283,1709061728,1708791885,1708604673,1707975736,1707530245,1707087453,1706648282,1706637033,1706140533,1706017320,1705657599,1705179215,1705109469,1704690256,1704660810,1704152638,1704105448,1703644458,1703162715];
+        let timestamps = [1736399322,1735149332,1735139902,1726669030,1726662014,1725622004,1725615670,1724852714,1724761704,1719163618,1719152494,1718627640,1718531332,1718076198,1717845687,1716678046,1716650386,1715507204,1715487947,1712552566,1712528690,1711856429,1711853725,1710630785,1709730283,1709061728,1708791885,1708604673,1707975736,1707530245,1707087453,1706648282,1706637033,1706140533,1706017320,1705657599,1705179215,1705109469,1704690256,1704660810,1704152638,1704105448,1703644458,1703162715];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/14 | 0-20 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/12/30 | 0-2 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/12/30 | 0-15 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2024/09/23 | 0-13 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |

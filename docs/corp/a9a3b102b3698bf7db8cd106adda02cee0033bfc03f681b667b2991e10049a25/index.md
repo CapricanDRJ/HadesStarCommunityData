@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Млечный путь
-description: W:17 L:21 D:0 Bonus ✅ 36%
+description: W:17 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736228434
 ---
@@ -18,7 +18,7 @@ date: 1736228434
 местами в топ.
 ```
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
