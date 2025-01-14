@@ -29,8 +29,8 @@ Discord: bS2yShvzDz
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (815)|
-| ELO Competitive | 1184 🔻  (973)|
+| ELO Regular | 1184 🔻  (816)|
+| ELO Competitive | 1184 🔻  (972)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
