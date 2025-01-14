@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:17 L:12 D:1 Bonus ✅ 34%
+description: W:17 L:12 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736256678
 ---
@@ -17,11 +17,11 @@ date: 1736256678
   /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vah
 o华浩 QQ767311697
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔺  (215)|
+| ELO Regular | 1266 🔺  (216)|
 | ELO Competitive | 1309 🔺  (256)|
 | Total Matches | 30 |
 | Wins | 17 |

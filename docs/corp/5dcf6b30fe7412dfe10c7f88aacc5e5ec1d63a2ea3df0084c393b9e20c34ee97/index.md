@@ -29,7 +29,7 @@ Galaxian : RS1-6
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔻  (186)|
-| ELO Competitive | 1323 🔻  (232)|
+| ELO Competitive | 1323 🔻  (233)|
 | Total Matches | 27 |
 | Wins | 18 |
 | Losses | 9 |
