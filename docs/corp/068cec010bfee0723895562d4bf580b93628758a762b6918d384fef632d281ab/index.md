@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:10 L:9 D:0 Bonus ✅ 48%
+description: W:10 L:9 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1736601421
 ---
@@ -16,7 +16,7 @@ date: 1736601421
 На базе Корпорации СОЮЗ проходит сборный ивент КЗ. Есть желание присо
 единиться - @RSeventHS ( Телега )
 ```
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
