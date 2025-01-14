@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​八月政府
-description: W:5 L:28 D:1 Bonus ❌ 6%
+description: W:5 L:29 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735482671
+date: 1736822609
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1735482671
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1062 🔺  (1334)|
-| ELO Competitive | 1112 🔺  (1333)|
-| Total Matches | 34 |
+| ELO Regular | 1053 🔻  (1339)|
+| ELO Competitive | 1102 🔻  (1342)|
+| Total Matches | 35 |
 | Wins | 5 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/14 | 10-23 | [Quantum Cats](https://ws.tsl.rocks/corp/0b6309a414bde261db3ee5592ae72168ca48d02558f5bc597950f11e55f92ae6/) |
 | ✅ | 2024/12/29 | 11-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/12/11 | 8-30 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ❌ | 2024/11/19 | 0-32 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

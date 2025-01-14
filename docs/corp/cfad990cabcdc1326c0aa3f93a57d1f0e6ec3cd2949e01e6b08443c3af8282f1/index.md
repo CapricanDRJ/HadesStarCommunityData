@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​EZCO
-description: W:15 L:24 D:1 Bonus ✅ 38%
+description: W:15 L:24 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736220022
 ---
@@ -17,12 +17,12 @@ date: 1736220022
 bis 11 genauso. ganz entspannt. WZ wöchentlich 😀
 ```
 ### [Discord](https://discord.gg/FPjtJsvScr)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔺  (1206)|
-| ELO Competitive | 1220 🔺  (501)|
+| ELO Competitive | 1220 🔺  (503)|
 | Total Matches | 40 |
 | Wins | 15 |
 | Losses | 24 |

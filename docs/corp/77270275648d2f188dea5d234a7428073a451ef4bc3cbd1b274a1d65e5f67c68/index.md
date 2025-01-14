@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Final
-description: W:4 L:12 D:0 Bonus ❌ 13%
+description: W:4 L:13 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1736278917
+date: 1736818403
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ Are you RS6+ & want to join?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1204)|
-| ELO Competitive | 1180 🔻  (1016)|
-| Total Matches | 16 |
+| ELO Regular | 1115 🔻  (1257)|
+| ELO Competitive | 1166 🔻  (1147)|
+| Total Matches | 17 |
 | Wins | 4 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 13 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735846917,1734693712,1733489101,1732388403,1706328950,1705703883,1705070099,1704408676,1700927077,1700568819,1700418855,1699999830,1699927097,1699476524,1699222315,1698967480];
+        let timestamps = [1736386403,1735846917,1734693712,1733489101,1732388403,1706328950,1705703883,1705070099,1704408676,1700927077,1700568819,1700418855,1699999830,1699927097,1699476524,1699222315,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 1 | 1 | 0 | 2 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 2 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 2 | 0 | 2 |
 
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/14 | 14-39 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ❌ | 2025/01/07 | 59-63 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/12/25 | 21-67 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2024/12/11 | 28-5 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |

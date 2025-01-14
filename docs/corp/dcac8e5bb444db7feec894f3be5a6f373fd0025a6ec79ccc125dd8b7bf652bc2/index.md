@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:10 L:14 D:2 Bonus ❌ 6%
+description: W:10 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735775622
+date: 1736817201
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1735775622
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1157)|
-| ELO Competitive | 1189 🔻  (780)|
-| Total Matches | 26 |
+| ELO Regular | 1131 🔻  (1201)|
+| ELO Competitive | 1176 🔻  (1040)|
+| Total Matches | 27 |
 | Wins | 10 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/14 | 2-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/01/01 | 3-5 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ↔️ | 2024/10/03 | 0-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ❌ | 2024/09/25 | 0-11 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
