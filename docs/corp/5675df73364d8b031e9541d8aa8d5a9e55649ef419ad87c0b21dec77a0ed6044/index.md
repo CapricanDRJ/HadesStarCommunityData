@@ -26,7 +26,7 @@ Esperamos su llegada!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔻  (317)|
-| ELO Competitive | 1274 🔻  (328)|
+| ELO Competitive | 1274 🔻  (329)|
 | Total Matches | 22 |
 | Wins | 11 |
 | Losses | 11 |

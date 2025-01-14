@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​墨痕空域
-description: W:40 L:44 D:1 Bonus ✅ 38%
+description: W:40 L:44 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736829820
 ---
@@ -16,7 +16,7 @@ date: 1736829820
 <size=51><#00FFFF>墨痕集团第一主团，</size></color>本团为北极星联盟成员，Q群：796512160    
   欢迎各个等级玩家来参与<#ff6666>活跃玩家请移步盟团:星落苑
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

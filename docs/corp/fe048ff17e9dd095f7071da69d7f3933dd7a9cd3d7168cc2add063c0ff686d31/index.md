@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​●Black•Sails●
-description: W:20 L:23 D:0 Bonus ✅ 34%
+description: W:20 L:23 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736272005
 ---
@@ -16,7 +16,7 @@ date: 1736272005
 Together We Can Achieve More.
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

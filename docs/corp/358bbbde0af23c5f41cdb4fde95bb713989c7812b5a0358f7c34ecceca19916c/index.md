@@ -22,7 +22,7 @@ sser dans une corporation tranquille on est fait pour vous !
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1209 🔻  (464)|
-| ELO Competitive | 1273 🔻  (333)|
+| ELO Competitive | 1273 🔻  (334)|
 | Total Matches | 48 |
 | Wins | 27 |
 | Losses | 21 |
