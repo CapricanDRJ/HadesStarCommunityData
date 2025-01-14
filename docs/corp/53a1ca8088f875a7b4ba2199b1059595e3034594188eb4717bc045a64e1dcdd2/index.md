@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:10 L:7 D:1 Bonus ❌ 6%
+description: W:11 L:7 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736434901
+date: 1736884217
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1736434901
 diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
 telar, Alfa Omega GuistonRA
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (244)|
-| ELO Competitive | 1280 🔻  (318)|
-| Total Matches | 18 |
-| Wins | 10 |
+| ELO Regular | 1267 🔺  (214)|
+| ELO Competitive | 1292 🔺  (294)|
+| Total Matches | 19 |
+| Wins | 11 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/14 | 25-2 | [星光滨岸](https://ws.tsl.rocks/corp/75dfe9299a63edce44f4604dc0bbe19eca157df4838e6e3a46621b7f14a89c39/) |
 | ↔️ | 2025/01/09 | 6-6 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2024/12/30 | 21-12 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/12/25 | 19-0 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |

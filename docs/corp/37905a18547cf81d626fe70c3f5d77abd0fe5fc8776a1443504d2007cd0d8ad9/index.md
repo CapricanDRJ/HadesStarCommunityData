@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星系联盟
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736328494
+date: 1736887624
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1736328494
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (805)|
-| ELO Competitive | 1189 🔻  (789)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1199 🔺  (520)|
+| ELO Competitive | 1204 🔺  (623)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735896494];
+        let timestamps = [1736455624,1735896494];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/14 | 2-0 | [UKRAINE STARS](https://ws.tsl.rocks/corp/a16f43d47a501623dad41df6137ed7e44bb4e4ce370062bfe8472d2a525c5e98/) |
 | ❌ | 2025/01/08 | 0-13 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 
 ---

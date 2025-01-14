@@ -22,7 +22,7 @@ iscord.com/invite/y2m2V3WYtr
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔻  (234)|
+| ELO Regular | 1258 🔻  (235)|
 | ELO Competitive | 1315 🔻  (246)|
 | Total Matches | 41 |
 | Wins | 20 |
