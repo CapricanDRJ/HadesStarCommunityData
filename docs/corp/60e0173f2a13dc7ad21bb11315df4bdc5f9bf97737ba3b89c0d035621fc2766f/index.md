@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:24 L:17 D:0 Bonus ✅ 36%
+description: W:24 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736368473
 ---
@@ -18,7 +18,7 @@ date: 1736368473
 ПЯТНИЦУ В 23:00 ПО МСК***
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
