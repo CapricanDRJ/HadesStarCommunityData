@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:31 L:8 D:0 Bonus ❌ 8%
+description: W:31 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1735421684
+date: 1736953335
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1735421684
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1416 🔻  (42)|
-| ELO Competitive | 1465 🔻  (86)|
-| Total Matches | 39 |
+| ELO Regular | 1402 🔻  (53)|
+| ELO Competitive | 1452 🔻  (93)|
+| Total Matches | 40 |
 | Wins | 31 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 14 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734989684,1733698564,1731834294,1730231136,1729270124,1724046756,1723461338,1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
+        let timestamps = [1736521335,1734989684,1733698564,1731834294,1730231136,1729270124,1724046756,1723461338,1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 1 | 1 | 0 | 2 |
 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 2 | 0 | 0 | 2 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 1 | 1 | 0 | 2 |
 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) | 2 | 0 | 0 | 2 |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 13-16 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2024/12/28 | 7-17 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/12/13 | 7-5 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2024/11/22 | 4-35 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |

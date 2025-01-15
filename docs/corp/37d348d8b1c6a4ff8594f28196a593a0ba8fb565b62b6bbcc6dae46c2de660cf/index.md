@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:6 L:7 D:1 Bonus ❌ 5%
+description: W:6 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1735801157
+date: 1736945819
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ olor=orange>南极星联盟成员</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (582)|
-| ELO Competitive | 1208 🔻  (609)|
-| Total Matches | 14 |
+| ELO Regular | 1179 🔻  (866)|
+| ELO Competitive | 1195 🔻  (702)|
+| Total Matches | 15 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
+        let timestamps = [1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 0-6 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/01/02 | 0-11 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/12/15 | 0-11 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2024/12/04 | 3-0 | [Space Invaders](https://ws.tsl.rocks/corp/aad5929a4d7c718c994b2c0d8de9becca4653d6e22d5b9b66aef4fb88a6caced/) |
