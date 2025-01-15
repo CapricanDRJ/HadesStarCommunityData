@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:8 L:12 D:3 Bonus ❌ 6%
+description: W:8 L:13 D:3 Bonus ❌ 6%
 image: ./favicon.png
-date: 1736153850
+date: 1736942813
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1736153850
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔺  (1059)|
-| ELO Competitive | 1239 🔺  (442)|
-| Total Matches | 23 |
+| ELO Regular | 1150 🔻  (1114)|
+| ELO Competitive | 1227 🔻  (476)|
+| Total Matches | 24 |
 | Wins | 8 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735721850,1735231544,1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1736510813,1735721850,1735231544,1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 1-3 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ✅ | 2025/01/06 | 7-1 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2024/12/31 | 1-21 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/12/25 | 0-10 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
