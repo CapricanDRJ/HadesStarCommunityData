@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:3 L:6 D:1 Bonus ❌ 4%
+description: W:3 L:6 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1735173794
+date: 1736960850
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ Start here. Figure things out. Have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (1103)|
-| ELO Competitive | 1161 🔺  (1187)|
-| Total Matches | 10 |
+| ELO Regular | 1153 🔻  (1108)|
+| ELO Competitive | 1164 🔺  (1166)|
+| Total Matches | 11 |
 | Wins | 3 |
 | Losses | 6 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 3 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
+        let timestamps = [1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/15 | 3-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/12/26 | 3-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2024/11/27 | 0-1 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ❌ | 2024/11/20 | 1-2 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |

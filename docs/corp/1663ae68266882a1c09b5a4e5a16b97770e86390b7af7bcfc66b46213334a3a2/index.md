@@ -22,7 +22,7 @@ Ngā mihi nui, from NZ (and Aus!)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1440 🔺  (31)|
+| ELO Regular | 1440 🔺  (32)|
 | ELO Competitive | 1528 🔺  (43)|
 | Total Matches | 71 |
 | Wins | 57 |

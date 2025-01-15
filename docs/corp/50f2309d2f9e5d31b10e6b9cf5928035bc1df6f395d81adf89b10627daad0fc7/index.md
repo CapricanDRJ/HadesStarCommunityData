@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Legión
-description: W:6 L:6 D:0 Bonus ❌ 6%
+description: W:6 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735986854
+date: 1736959949
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (456)|
-| ELO Competitive | 1237 🔺  (447)|
-| Total Matches | 12 |
+| ELO Regular | 1203 🔻  (483)|
+| ELO Competitive | 1234 🔻  (455)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 7-25 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2025/01/04 | 9-7 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2024/12/30 | 26-8 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/12/24 | 6-19 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |

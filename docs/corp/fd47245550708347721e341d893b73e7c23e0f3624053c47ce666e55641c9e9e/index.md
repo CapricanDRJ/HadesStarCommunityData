@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:35 L:29 D:2 Bonus ❌ 10%
+description: W:36 L:29 D:2 Bonus ✅ 40%
 image: ./favicon.png
-date: 1736060474
+date: 1736958145
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ Daily red star runs, weekly white star runs, and occasional corporati
 on events. No alts.
 ```
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (466)|
-| ELO Competitive | 1272 🔺  (337)|
-| Total Matches | 66 |
-| Wins | 35 |
+| ELO Regular | 1217 🔺  (383)|
+| ELO Competitive | 1290 🔺  (298)|
+| Total Matches | 67 |
+| Wins | 36 |
 | Losses | 29 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 8 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735628474,1735132389,1734538677,1733850296,1733001826,1732187367,1731421114,1730332099,1729446834,1728913698,1728325520,1727755131,1727106360,1726586308,1725984694,1725466634,1725420659,1724984637,1724458150,1723813233,1722972717,1722302278,1721707240,1721173241,1720306473,1719724053,1719096598,1718316913,1717616607,1716875477,1716378478,1715838275,1715268618,1714797811,1714355421,1713699228,1713022580,1712456186,1711740441,1711261180,1710797567,1710293372,1709782265,1709330955,1708895859,1708401245,1707921346,1707445508,1706989785,1706541117,1706081028,1705603509,1705112774,1704668023,1704231673,1703610799,1703156103,1702697890,1702237160,1701759583,1701321097,1700887101,1700438694,1700004038,1699419731,1698720440];
+        let timestamps = [1736526145,1735628474,1735132389,1734538677,1733850296,1733001826,1732187367,1731421114,1730332099,1729446834,1728913698,1728325520,1727755131,1727106360,1726586308,1725984694,1725466634,1725420659,1724984637,1724458150,1723813233,1722972717,1722302278,1721707240,1721173241,1720306473,1719724053,1719096598,1718316913,1717616607,1716875477,1716378478,1715838275,1715268618,1714797811,1714355421,1713699228,1713022580,1712456186,1711740441,1711261180,1710797567,1710293372,1709782265,1709330955,1708895859,1708401245,1707921346,1707445508,1706989785,1706541117,1706081028,1705603509,1705112774,1704668023,1704231673,1703610799,1703156103,1702697890,1702237160,1701759583,1701321097,1700887101,1700438694,1700004038,1699419731,1698720440];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 2 | 0 | 0 | 2 |
 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) | 2 | 0 | 0 | 2 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 2 | 0 | 2 |
@@ -149,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/15 | 19-15 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ✅ | 2025/01/05 | 28-10 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ❌ | 2024/12/30 | 0-20 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2024/12/23 | 7-45 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
