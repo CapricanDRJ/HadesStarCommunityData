@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​清霄阁（防御协会）
-description: W:5 L:7 D:0 Bonus ❌ 5%
+description: W:6 L:7 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1736166534
+date: 1736922079
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ date: 1736166534
 可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：99396
 4380 大群Q号：597444221
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (995)|
-| ELO Competitive | 1226 🔺  (480)|
-| Total Matches | 12 |
-| Wins | 5 |
+| ELO Regular | 1189 🔺  (610)|
+| ELO Competitive | 1245 🔺  (418)|
+| Total Matches | 13 |
+| Wins | 6 |
 | Losses | 7 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 2 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/15 | 8-1 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2025/01/06 | 4-3 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2025/01/01 | 0-8 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2024/12/25 | 1-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |

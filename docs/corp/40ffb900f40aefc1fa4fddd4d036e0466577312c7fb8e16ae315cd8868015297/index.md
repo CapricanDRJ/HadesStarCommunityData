@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:10 L:1 D:0 Bonus ✅ 32%
+description: W:11 L:1 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736908991
+date: 1736922379
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ date: 1736908991
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (148)|
-| ELO Competitive | 1321 🔺  (236)|
-| Total Matches | 11 |
-| Wins | 10 |
+| ELO Regular | 1318 🔺  (137)|
+| ELO Competitive | 1321 🔺  (237)|
+| Total Matches | 12 |
+| Wins | 11 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 2 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/15 | 6-4 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ✅ | 2025/01/15 | 3-2 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) |
 | ✅ | 2025/01/08 | 10-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/01/08 | 13-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星落苑
-description: W:13 L:3 D:0 Bonus ❌ 6%
+description: W:14 L:4 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736247962
+date: 1736922079
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,16 @@ date: 1736247962
                     欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=re
 d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1316 🔺  (138)|
-| ELO Competitive | 1320 🔺  (238)|
-| Total Matches | 16 |
-| Wins | 13 |
-| Losses | 3 |
+| ELO Regular | 1304 🔻  (154)|
+| ELO Competitive | 1340 🔺  (202)|
+| Total Matches | 18 |
+| Wins | 14 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
+        let timestamps = [1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 1-8 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
+| ✅ | 2025/01/15 | 27-7 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2025/01/07 | 10-3 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/01/07 | 18-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/12/29 | 17-0 | [Phoenix Nest](https://ws.tsl.rocks/corp/e63d7fd60c26387fe662f9dc27945060df85b5e1ee07ca68033376e92ecc65b6/) |
