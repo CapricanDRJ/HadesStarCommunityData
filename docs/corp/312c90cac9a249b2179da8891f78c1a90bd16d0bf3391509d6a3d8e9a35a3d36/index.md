@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​United Stars 
-description: W:37 L:21 D:3 Bonus ✅ 40%
+description: W:37 L:21 D:3 Bonus ❌ 10%
 image: ./favicon.png
 date: 1736306561
 ---
@@ -20,7 +20,7 @@ lvl 10 corp bouns on private RS
 Join the family! Active on discord!
 ```
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

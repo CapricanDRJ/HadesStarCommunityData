@@ -22,8 +22,8 @@ our main language in chat.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔻  (1300)|
-| ELO Competitive | 1144 🔻  (1275)|
+| ELO Regular | 1094 🔻  (1301)|
+| ELO Competitive | 1144 🔻  (1276)|
 | Total Matches | 52 |
 | Wins | 11 |
 | Losses | 41 |

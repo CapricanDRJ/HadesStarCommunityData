@@ -24,7 +24,7 @@ Discord: sqaDS62zfW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1196)|
+| ELO Regular | 1133 🔻  (1197)|
 | ELO Competitive | 1223 🔻  (490)|
 | Total Matches | 32 |
 | Wins | 12 |

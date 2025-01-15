@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Blue Dwarf
-description: W:6 L:2 D:0 Bonus ✅ 32%
+description: W:6 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736892333
+date: 1736908991
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ weekly White Stars - enable scanner to opt-in! Discord advised
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (241)|
-| ELO Competitive | 1284 🔺  (311)|
-| Total Matches | 8 |
+| ELO Regular | 1242 🔻  (279)|
+| ELO Competitive | 1284 🔺  (312)|
+| Total Matches | 9 |
 | Wins | 6 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736460333,1735837300,1734746290,1734307020,1733755045,1732734570,1732665760,1732094218];
+        let timestamps = [1736476991,1736460333,1735837300,1734746290,1734307020,1733755045,1732734570,1732665760,1732094218];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 2-3 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/01/14 | 27-0 | [Black Corsairs](https://ws.tsl.rocks/corp/f92c523729e551788705c4e776aad288e8df6e36592a638eb2077d16790f4e87/) |
 | ✅ | 2025/01/07 | 20-12 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/12/26 | 19-1 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |

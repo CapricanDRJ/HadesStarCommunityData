@@ -24,7 +24,7 @@ New Discord: nxEZwvgcg3
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (381)|
+| ELO Regular | 1217 🔻  (382)|
 | ELO Competitive | 1218 🔻  (523)|
 | Total Matches | 7 |
 | Wins | 4 |
