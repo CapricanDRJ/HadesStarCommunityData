@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:7 L:13 D:3 Bonus ✅ 34%
+description: W:7 L:13 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736438811
 ---
@@ -17,7 +17,7 @@ date: 1736438811
 r=purple><size=50>                       🪐🌌..."El qué Persevera Alc
 anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
