@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AKA
-description: W:3 L:13 D:0 Bonus ❌ 6%
+description: W:4 L:13 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1724480559
+date: 1737057932
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1724480559
                                不管是谁都给我加群聊：308604873                  
        随时欢迎～祝各位早日成为“大佬”早日上R12！                          
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1235)|
-| ELO Competitive | 1167 🔻  (1141)|
-| Total Matches | 16 |
-| Wins | 3 |
+| ELO Regular | 1143 🔺  (1163)|
+| ELO Competitive | 1190 🔺  (776)|
+| Total Matches | 17 |
+| Wins | 4 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
+        let timestamps = [1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/16 | 29-12 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/08/24 | 3-25 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2024/08/24 | 0-36 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/08/10 | 26-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
