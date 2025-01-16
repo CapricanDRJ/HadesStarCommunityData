@@ -21,8 +21,8 @@ Centre mine
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (893)|
-| ELO Competitive | 1182 🔺  (994)|
+| ELO Regular | 1175 🔺  (892)|
+| ELO Competitive | 1182 🔺  (993)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |
