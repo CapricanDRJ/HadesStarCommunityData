@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:17 L:12 D:1 Bonus ❌ 7%
+description: W:18 L:12 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1736256678
+date: 1737009236
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ date: 1736256678
   /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vah
 o华浩 QQ767311697
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔺  (220)|
-| ELO Competitive | 1309 🔺  (258)|
-| Total Matches | 30 |
-| Wins | 17 |
+| ELO Regular | 1278 🔺  (201)|
+| ELO Competitive | 1320 🔺  (240)|
+| Total Matches | 31 |
+| Wins | 18 |
 | Losses | 12 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/16 | 7-2 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ✅ | 2025/01/07 | 23-0 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ❌ | 2024/12/31 | 8-11 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |
 | ✅ | 2024/12/25 | 16-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
