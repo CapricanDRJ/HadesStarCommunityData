@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:15 L:0 D:0 Bonus ✅ 32%
+description: W:16 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736406080
+date: 1736977984
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 🔺  (77)|
-| ELO Competitive | 1398 🔺  (145)|
-| Total Matches | 15 |
-| Wins | 15 |
+| ELO Regular | 1380 🔺  (73)|
+| ELO Competitive | 1411 🔺  (137)|
+| Total Matches | 16 |
+| Wins | 16 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 15 |
-| Streak Record | 15 |
+| Streak | 16 |
+| Streak Record | 16 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735974080,1734386344,1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1736545984,1735974080,1734386344,1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/15 | 16-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2025/01/09 | 30-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
 | ✅ | 2024/12/21 | 23-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ✅ | 2024/12/12 | 23-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |

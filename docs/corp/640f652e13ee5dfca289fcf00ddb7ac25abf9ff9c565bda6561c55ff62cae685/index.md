@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​云深不知处
-description: W:1 L:5 D:0 Bonus ❌ 5%
+description: W:1 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1736445427
+date: 1736982492
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1736445427
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1124)|
-| ELO Competitive | 1161 🔻  (1185)|
-| Total Matches | 6 |
+| ELO Regular | 1135 🔻  (1189)|
+| ELO Competitive | 1152 🔻  (1235)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736013427,1735568980,1731595094,1731138623,1730630186,1730120246];
+        let timestamps = [1736550492,1736013427,1735568980,1731595094,1731138623,1730630186,1730120246];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/15 | 0-14 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/01/09 | 0-21 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2025/01/04 | 0-18 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
 | ❌ | 2024/11/19 | 3-12 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
