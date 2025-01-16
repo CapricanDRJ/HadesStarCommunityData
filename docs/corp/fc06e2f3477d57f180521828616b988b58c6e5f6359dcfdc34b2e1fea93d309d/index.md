@@ -19,8 +19,8 @@ United People of Earth.  For the betterment of all people of earth!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1025)|
-| ELO Competitive | 1165 🔻  (1156)|
+| ELO Regular | 1164 🔻  (1026)|
+| ELO Competitive | 1165 🔻  (1157)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

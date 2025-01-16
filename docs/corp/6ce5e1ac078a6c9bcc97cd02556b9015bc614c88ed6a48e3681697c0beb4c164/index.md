@@ -19,8 +19,8 @@ Casual and easygoing corpo! Just chillin, growing and having fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (967)|
-| ELO Competitive | 1181 🔻  (999)|
+| ELO Regular | 1170 🔻  (968)|
+| ELO Competitive | 1181 🔻  (1000)|
 | Total Matches | 12 |
 | Wins | 5 |
 | Losses | 7 |

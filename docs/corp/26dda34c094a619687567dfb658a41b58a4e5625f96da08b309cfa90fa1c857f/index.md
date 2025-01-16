@@ -25,8 +25,8 @@ SFA : EEpZuWf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1042)|
-| ELO Competitive | 1161 🔻  (1186)|
+| ELO Regular | 1162 🔻  (1043)|
+| ELO Competitive | 1161 🔻  (1187)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

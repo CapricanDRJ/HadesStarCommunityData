@@ -21,8 +21,8 @@ ers and new players, come and help us build Foreshadowing 2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (887)|
-| ELO Competitive | 1176 🔻  (1037)|
+| ELO Regular | 1176 🔻  (888)|
+| ELO Competitive | 1176 🔻  (1038)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
