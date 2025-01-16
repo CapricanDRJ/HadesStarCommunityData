@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​环星集团
-description: W:3 L:4 D:0 Bonus ❌ 4%
+description: W:3 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1736075197
+date: 1737020656
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1736075197
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (835)|
-| ELO Competitive | 1193 🔻  (721)|
-| Total Matches | 7 |
+| ELO Regular | 1169 🔻  (984)|
+| ELO Competitive | 1181 🔻  (1008)|
+| Total Matches | 8 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 1 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735643197,1734771672,1734038688,1733308217,1732812108,1732326496,1731882684];
+        let timestamps = [1736588656,1735643197,1734771672,1734038688,1733308217,1732812108,1732326496,1731882684];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/16 | 4-13 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/01/05 | 0-6 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2024/12/26 | 3-0 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2024/12/17 | 4-5 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |

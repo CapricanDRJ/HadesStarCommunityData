@@ -25,7 +25,7 @@ Discord ist Pflicht: discord.gg/SUVSGGYGz2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (370)|
+| ELO Regular | 1219 🔻  (371)|
 | ELO Competitive | 1303 🔻  (274)|
 | Total Matches | 40 |
 | Wins | 22 |
