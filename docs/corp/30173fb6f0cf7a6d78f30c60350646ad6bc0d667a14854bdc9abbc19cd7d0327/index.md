@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:30 L:10 D:0 Bonus ❌ 13%
+description: W:30 L:11 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1733847489
+date: 1737133071
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,13 +24,12 @@ Mandatory Discord: p3dTaE9
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1346 🔺  (99)|
-| ELO Competitive | 1412 🔺  (134)|
-| Total Matches | 40 |
+| ELO Regular | 1327 🔻  (125)|
+| ELO Competitive | 1391 🔻  (149)|
+| Total Matches | 41 |
 | Wins | 30 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 13 |
 | Flagship | 8 |
 
@@ -50,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733415489,1732282018,1729465467,1728709892,1727935731,1727330820,1726510586,1725399030,1724880067,1724275144,1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
+        let timestamps = [1736701071,1733415489,1732282018,1729465467,1728709892,1727935731,1727330820,1726510586,1725399030,1724880067,1724275144,1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/17 | 6-50 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2024/12/10 | 25-14 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ✅ | 2024/11/27 | 13-1 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2024/10/25 | 11-37 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |

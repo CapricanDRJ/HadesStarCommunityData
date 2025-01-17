@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:41 L:27 D:0 Bonus ✅ 48%
+description: W:41 L:27 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1736525387
 ---
@@ -21,12 +21,12 @@ Weekly competitive WS; casual WS if numbers allow.
 Discord is required.
 ```
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (110)|
-| ELO Competitive | 1402 🔺  (142)|
+| ELO Regular | 1338 🔺  (109)|
+| ELO Competitive | 1402 🔺  (141)|
 | Total Matches | 68 |
 | Wins | 41 |
 | Losses | 27 |

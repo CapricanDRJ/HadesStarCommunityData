@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Corp. Luminá
-description: W:9 L:1 D:0 Bonus ❌ 5%
+description: W:10 L:1 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1735571902
+date: 1737130064
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ᴀᴍᴏs ᴀʀᴛᴇғᴀᴄᴛᴏs     •Aʏᴜᴅᴀᴍᴏs ᴇɴ Eʀ ʏ Eʀᴏs   •EB sᴇᴍᴀɴᴀʟ        •Gʀᴜᴘ
 ᴏ ᴅᴇ WʜᴀᴛsAᴘᴘ          •Eᴠᴇɴᴛᴏs Axᴏʟᴏᴛʟ Bᴜsᴄᴀᴍᴏs Cʀᴇᴄᴇʀ✨
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1293 🔺  (177)|
-| ELO Competitive | 1307 🔺  (266)|
-| Total Matches | 10 |
-| Wins | 9 |
+| ELO Regular | 1303 🔺  (156)|
+| ELO Competitive | 1321 🔺  (238)|
+| Total Matches | 11 |
+| Wins | 10 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
+        let timestamps = [1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/17 | 24-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/12/30 | 15-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 | ✅ | 2024/12/23 | 22-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/12/16 | 24-2 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
