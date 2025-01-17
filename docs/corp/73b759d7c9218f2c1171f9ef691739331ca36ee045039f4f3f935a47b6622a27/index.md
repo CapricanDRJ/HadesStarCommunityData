@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AAAA
-description: W:19 L:16 D:3 Bonus ✅ 34%
+description: W:19 L:16 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736904051
 ---
@@ -15,12 +15,12 @@ date: 1736904051
 ```
 
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔻  (203)|
-| ELO Competitive | 1334 🔻  (218)|
+| ELO Competitive | 1334 🔻  (219)|
 | Total Matches | 38 |
 | Wins | 19 |
 | Losses | 16 |
