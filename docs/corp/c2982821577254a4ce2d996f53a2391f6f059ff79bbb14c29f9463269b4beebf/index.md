@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:5 L:13 D:0 Bonus ✅ 36%
+description: W:6 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1736519672
+date: 1737118638
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,13 @@ No Discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔺  (1234)|
-| ELO Competitive | 1162 🔺  (1182)|
-| Total Matches | 18 |
-| Wins | 5 |
+| ELO Regular | 1139 🔺  (1181)|
+| ELO Competitive | 1180 🔺  (1012)|
+| Total Matches | 19 |
+| Wins | 6 |
 | Losses | 13 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 5 |
 
@@ -50,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/17 | 15-4 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2025/01/10 | 23-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2025/01/01 | 3-14 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/12/24 | 23-0 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |

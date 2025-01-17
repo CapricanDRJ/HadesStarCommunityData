@@ -21,8 +21,8 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (891)|
-| ELO Competitive | 1233 🔻  (460)|
+| ELO Regular | 1175 🔻  (890)|
+| ELO Competitive | 1233 🔻  (459)|
 | Total Matches | 24 |
 | Wins | 7 |
 | Losses | 14 |

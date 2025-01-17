@@ -23,7 +23,7 @@ ard for safety.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔻  (368)|
-| ELO Competitive | 1225 🔻  (484)|
+| ELO Competitive | 1225 🔻  (483)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

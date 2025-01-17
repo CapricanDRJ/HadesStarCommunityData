@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Pixies
-description: W:13 L:5 D:0 Bonus ❌ 6%
+description: W:13 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735734750
+date: 1737128260
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ white star active
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (211)|
-| ELO Competitive | 1326 🔺  (231)|
-| Total Matches | 18 |
+| ELO Regular | 1251 🔻  (255)|
+| ELO Competitive | 1315 🔻  (249)|
+| Total Matches | 19 |
 | Wins | 13 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735302750,1733516748,1732708420,1731857738,1730929483,1729794501,1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
+        let timestamps = [1736696260,1735302750,1733516748,1732708420,1731857738,1730929483,1729794501,1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/17 | 1-23 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2025/01/01 | 16-7 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ❌ | 2024/12/11 | 5-24 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2024/12/02 | 26-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |

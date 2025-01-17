@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​the heavy
-description: W:22 L:11 D:0 Bonus ❌ 11%
+description: W:22 L:12 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1734684324
+date: 1737127659
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,13 +23,12 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1340 🔺  (108)|
-| ELO Competitive | 1399 🔺  (145)|
-| Total Matches | 33 |
+| ELO Regular | 1323 🔻  (129)|
+| ELO Competitive | 1381 🔻  (159)|
+| Total Matches | 34 |
 | Wins | 22 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 10 |
 
@@ -49,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
+        let timestamps = [1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) | 0 | 2 | 0 | 2 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 3 | 0 | 0 | 3 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 0 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 2 | 0 | 4 |
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/17 | 30-42 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ✅ | 2024/12/20 | 64-0 | [Polaris](https://ws.tsl.rocks/corp/4802fe8a63e61d18eb0407dc5121d8e0e6a81117a7f47998566752e0f8d846f3/) |
 | ✅ | 2024/12/06 | 33-17 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2024/11/29 | 17-33 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |

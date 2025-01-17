@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:21 L:20 D:1 Bonus ✅ 34%
+description: W:21 L:20 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736520875
 ---
@@ -16,12 +16,12 @@ date: 1736520875
 Have fun and love bacon. Everyone is welcome. Weekly white stars if w
 e lose amd every two weeks if we win. No discord required.
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔺  (284)|
-| ELO Competitive | 1318 🔺  (245)|
+| ELO Competitive | 1318 🔺  (244)|
 | Total Matches | 42 |
 | Wins | 21 |
 | Losses | 20 |
