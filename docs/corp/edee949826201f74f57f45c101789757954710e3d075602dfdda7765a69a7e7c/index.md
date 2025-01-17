@@ -22,7 +22,7 @@ also come aboard🙏. Thank you as you join us😘
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔻  (132)|
+| ELO Regular | 1319 🔻  (134)|
 | ELO Competitive | 1364 🔻  (177)|
 | Total Matches | 31 |
 | Wins | 21 |

@@ -21,7 +21,7 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (248)|
+| ELO Regular | 1255 🔻  (247)|
 | ELO Competitive | 1288 🔺  (305)|
 | Total Matches | 13 |
 | Wins | 7 |

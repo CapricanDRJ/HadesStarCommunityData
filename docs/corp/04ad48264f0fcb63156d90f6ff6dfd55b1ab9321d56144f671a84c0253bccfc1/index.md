@@ -20,8 +20,8 @@ Everyone is welcome to our corporation. Be active and enjoy.😀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1145)|
-| ELO Competitive | 1149 🔻  (1249)|
+| ELO Regular | 1146 🔻  (1146)|
+| ELO Competitive | 1149 🔻  (1250)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

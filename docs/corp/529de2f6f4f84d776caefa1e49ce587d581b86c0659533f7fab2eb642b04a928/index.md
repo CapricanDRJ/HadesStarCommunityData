@@ -19,8 +19,8 @@ Notfallstandort der Quin Armarda
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1118)|
-| ELO Competitive | 1160 🔻  (1190)|
+| ELO Regular | 1150 🔻  (1120)|
+| ELO Competitive | 1160 🔻  (1191)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

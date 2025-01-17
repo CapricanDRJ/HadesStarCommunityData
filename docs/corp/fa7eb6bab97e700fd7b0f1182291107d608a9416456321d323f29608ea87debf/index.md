@@ -19,8 +19,8 @@ Anyone is Welcome to the Void Nebula
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1083)|
-| ELO Competitive | 1156 🔻  (1217)|
+| ELO Regular | 1156 🔻  (1084)|
+| ELO Competitive | 1156 🔻  (1218)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

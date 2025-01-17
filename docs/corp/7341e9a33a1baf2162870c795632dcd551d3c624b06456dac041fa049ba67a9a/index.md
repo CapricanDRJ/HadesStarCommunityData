@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:54 D:4 Bonus ❌ 8%
+description: W:4 L:55 D:5 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736247061
+date: 1737116608
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 1736247061
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 828 🔻  (1388)|
-| ELO Competitive | 1056 🔻  (1376)|
-| Total Matches | 62 |
+| ELO Regular | 819 🔻  (1389)|
+| ELO Competitive | 1054 🔻  (1377)|
+| Total Matches | 64 |
 | Wins | 4 |
-| Losses | 54 |
-| Draws | 4 |
+| Losses | 55 |
+| Draws | 5 |
 | Streak Record | 2 |
 | Flagship | 6 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735815061,1735809653,1735373664,1735372162,1734471077,1734469754,1734027551,1734026065,1733180226,1733159193,1732676875,1732665760,1732199390,1732198153,1731764577,1731754057,1731298994,1730852347,1730435718,1730386184,1729929121,1729928355,1729477758,1729044129,1728614623,1728609292,1728156936,1727753979,1727724485,1727275229,1726871642,1726421931,1726398321,1725964310,1725959149,1725523722,1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
+        let timestamps = [1736684608,1736676116,1735815061,1735809653,1735373664,1735372162,1734471077,1734469754,1734027551,1734026065,1733180226,1733159193,1732676875,1732665760,1732199390,1732198153,1731764577,1731754057,1731298994,1730852347,1730435718,1730386184,1729929121,1729928355,1729477758,1729044129,1728614623,1728609292,1728156936,1727753979,1727724485,1727275229,1726871642,1726421931,1726398321,1725964310,1725959149,1725523722,1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,10 +131,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 1 | 0 | 3 | 4 |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1 | 9 | 0 | 10 |
 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 2 | 0 | 1 | 3 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 9 | 0 | 9 |
-| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 1 | 0 | 2 | 3 |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1 | 8 | 0 | 9 |
 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) | 0 | 2 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 0 | 2 | 0 | 2 |
 
@@ -143,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/17 | 0-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
+| ❌ | 2025/01/17 | 0-7 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2025/01/07 | 0-19 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ❌ | 2025/01/07 | 0-18 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2025/01/02 | 0-7 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |

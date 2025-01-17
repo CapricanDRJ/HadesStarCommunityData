@@ -19,8 +19,8 @@ we are looking for new recruitements!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (327)|
-| ELO Competitive | 1246 🔻  (416)|
+| ELO Regular | 1230 🔻  (328)|
+| ELO Competitive | 1246 🔻  (417)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 8 |
