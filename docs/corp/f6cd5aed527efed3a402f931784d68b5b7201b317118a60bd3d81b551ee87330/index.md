@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Star llc.
-description: W:36 L:21 D:0 Bonus ✅ 36%
+description: W:36 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737045908
 ---
@@ -18,7 +18,7 @@ d & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star l
 lc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

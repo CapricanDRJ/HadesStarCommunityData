@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UAGC
-description: W:39 L:28 D:0 Bonus ✅ 48%
+description: W:39 L:28 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1736542826
 ---
@@ -17,12 +17,12 @@ date: 1736542826
  укр. корпорацій                      https://t.me/+6t52R1bJ8AswYzVi.
  Чат тг UAGC https://t.me/+E3gZdQcQWC05Y2Q6
 ```
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1340 🔺  (106)|
-| ELO Competitive | 1522 🔺  (45)|
+| ELO Competitive | 1522 🔺  (44)|
 | Total Matches | 67 |
 | Wins | 39 |
 | Losses | 28 |

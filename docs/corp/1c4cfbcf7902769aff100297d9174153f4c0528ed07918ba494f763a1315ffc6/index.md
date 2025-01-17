@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:32 L:21 D:0 Bonus ✅ 38%
+description: W:32 L:21 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737127659
 ---
@@ -19,7 +19,7 @@ Discord users join:
 Red_Coat_Mafia 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
