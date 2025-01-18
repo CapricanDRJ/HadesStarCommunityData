@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sons of Liberty
-description: W:7 L:0 D:0 Bonus ✅ 36%
+description: W:7 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736567767
 ---
@@ -18,7 +18,7 @@ he Game, Likapa.
 Discord mandatory - join at the link below ↓
 ```
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
