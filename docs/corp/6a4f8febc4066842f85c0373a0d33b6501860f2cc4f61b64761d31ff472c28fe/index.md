@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:27 L:2 D:0 Bonus ✅ 36%
+description: W:27 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736580986
 ---
@@ -18,11 +18,11 @@ thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>
 Discord Active • Coop DRS7-10 
 ```
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1440 🔺  (32)|
+| ELO Regular | 1440 🔺  (31)|
 | ELO Competitive | 1500 🔺  (61)|
 | Total Matches | 29 |
 | Wins | 27 |
