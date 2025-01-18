@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:76 L:28 D:1 Bonus ✅ 50%
+description: W:76 L:28 D:1 Bonus ❌ 15%
 image: ./favicon.png
 date: 1736603225
 ---
@@ -17,12 +17,12 @@ date: 1736603225
 iscord is mandatory for membership.
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1399 🔺  (58)|
-| ELO Competitive | 1599 🔺  (24)|
+| ELO Competitive | 1599 🔺  (25)|
 | Total Matches | 105 |
 | Wins | 76 |
 | Losses | 28 |

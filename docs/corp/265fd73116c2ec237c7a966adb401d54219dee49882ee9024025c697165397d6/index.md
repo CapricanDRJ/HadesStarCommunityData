@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Utd. Human Fed.
-description: W:41 L:30 D:1 Bonus ✅ 36%
+description: W:41 L:30 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736603525
 ---
@@ -17,7 +17,7 @@ Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend
  gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber n
 atürlich auch wann anders....
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
