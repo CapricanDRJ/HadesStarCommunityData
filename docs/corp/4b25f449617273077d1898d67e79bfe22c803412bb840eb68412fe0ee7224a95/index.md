@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:11 L:5 D:0 Bonus ✅ 32%
+description: W:12 L:5 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736674745
+date: 1737171840
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ date: 1736674745
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (213)|
-| ELO Competitive | 1299 🔺  (280)|
-| Total Matches | 16 |
-| Wins | 11 |
+| ELO Regular | 1284 🔺  (192)|
+| ELO Competitive | 1312 🔺  (256)|
+| Total Matches | 17 |
+| Wins | 12 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/18 | 7-0 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/01/12 | 4-0 | [KhaOSs](https://ws.tsl.rocks/corp/95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88/) |
 | ✅ | 2025/01/12 | 3-0 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2025/01/05 | 2-6 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |

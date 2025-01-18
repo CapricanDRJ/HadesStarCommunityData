@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UAGC
-description: W:39 L:28 D:0 Bonus ❌ 14%
+description: W:40 L:28 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1736542826
+date: 1737168139
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 1736542826
  укр. корпорацій                      https://t.me/+6t52R1bJ8AswYzVi.
  Чат тг UAGC https://t.me/+E3gZdQcQWC05Y2Q6
 ```
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1340 🔺  (106)|
-| ELO Competitive | 1522 🔺  (44)|
-| Total Matches | 67 |
-| Wins | 39 |
+| ELO Regular | 1346 🔺  (99)|
+| ELO Competitive | 1531 🔺  (41)|
+| Total Matches | 68 |
+| Wins | 40 |
 | Losses | 28 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736110826,1735501979,1734877908,1734280876,1733687446,1733069347,1732491180,1731869160,1731275084,1730650927,1730055345,1729451344,1728999949,1728899871,1728506136,1728336041,1727680600,1726951612,1726358813,1725714840,1725223850,1724654085,1724181987,1723632329,1723563819,1723062869,1722702853,1722465755,1722014661,1721358944,1720924978,1720713689,1720140587,1719606259,1719377875,1718719453,1718689403,1718203014,1716797938,1716213239,1715112690,1715057703,1714381257,1714040233,1713921860,1713466093,1713254856,1712804439,1712163519,1711492552,1710885299,1710059904,1709538587,1709014544,1708932210,1708346550,1707814066,1707218879,1705927165,1705314117,1704799340,1704343160,1704313412,1703865640,1703849409,1703248065,1701576854];
+        let timestamps = [1736736139,1736110826,1735501979,1734877908,1734280876,1733687446,1733069347,1732491180,1731869160,1731275084,1730650927,1730055345,1729451344,1728999949,1728899871,1728506136,1728336041,1727680600,1726951612,1726358813,1725714840,1725223850,1724654085,1724181987,1723632329,1723563819,1723062869,1722702853,1722465755,1722014661,1721358944,1720924978,1720713689,1720140587,1719606259,1719377875,1718719453,1718689403,1718203014,1716797938,1716213239,1715112690,1715057703,1714381257,1714040233,1713921860,1713466093,1713254856,1712804439,1712163519,1711492552,1710885299,1710059904,1709538587,1709014544,1708932210,1708346550,1707814066,1707218879,1705927165,1705314117,1704799340,1704343160,1704313412,1703865640,1703849409,1703248065,1701576854];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,10 +134,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 4 | 0 | 0 | 4 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3 | 1 | 0 | 4 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 0 | 0 | 2 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 2 | 0 | 0 | 2 |
-| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 3 | 0 | 0 | 3 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1 | 1 | 0 | 2 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 2 | 1 | 0 | 3 |
 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 2 | 0 | 0 | 2 |
@@ -158,6 +158,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/18 | 54-5 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2025/01/10 | 57-8 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2025/01/03 | 54-0 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/12/27 | 46-13 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |

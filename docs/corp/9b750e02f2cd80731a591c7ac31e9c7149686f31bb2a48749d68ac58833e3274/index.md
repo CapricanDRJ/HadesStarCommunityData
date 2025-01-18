@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​DL Academy
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:1 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
-date: 1729878534
+date: 1737167633
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1729878534
 ain roster after gaining battle experience on the White Stars. Ready 
 to rise and conquer!"
 ```
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (551)|
-| ELO Competitive | 1196 🔻  (694)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1220 🔺  (363)|
+| ELO Competitive | 1223 🔺  (496)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729446534];
+        let timestamps = [1736735633,1729446534];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/18 | 16-8 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024/10/25 | 3-13 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 
 ---
