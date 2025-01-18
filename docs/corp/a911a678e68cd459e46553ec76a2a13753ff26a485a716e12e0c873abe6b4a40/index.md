@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SUSSY IMPOSTER
-description: W:1 L:1 D:0 Bonus ❌ 3%
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1705643343
+date: 1737220527
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ will get free artificants lv 1.2.3.4.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (496)|
-| ELO Competitive | 1201 🔻  (638)|
-| Total Matches | 2 |
+| ELO Regular | 1184 🔻  (815)|
+| ELO Competitive | 1190 🔻  (776)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1705211343,1704569733];
+        let timestamps = [1736788527,1705211343,1704569733];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/18 | 2-4 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/01/19 | 2-18 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) |
 | ✅ | 2024/01/11 | 1-0 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) |
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:31 L:18 D:1 Bonus ✅ 36%
+description: W:31 L:18 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737195876
 ---
@@ -18,7 +18,7 @@ ticipas la asistencia es obligada, no participar = expulsión. Rojas d
 e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cool Casual
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:4 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736712317
+date: 1737220827
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1736712317
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (311)|
-| ELO Competitive | 1244 🔺  (424)|
-| Total Matches | 5 |
+| ELO Regular | 1219 🔻  (370)|
+| ELO Competitive | 1228 🔻  (477)|
+| Total Matches | 6 |
 | Wins | 4 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/18 | 3-18 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/01/12 | 4-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/01/07 | 3-0 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ✅ | 2024/12/24 | 3-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |

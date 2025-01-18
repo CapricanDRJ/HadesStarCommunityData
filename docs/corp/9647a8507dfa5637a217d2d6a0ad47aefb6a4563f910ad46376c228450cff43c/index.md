@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CTG
-description: W:33 L:36 D:0 Bonus ✅ 38%
+description: W:33 L:36 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737127959
 ---
@@ -18,7 +18,7 @@ Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<color=yellow>We welcome an
 y newbie and big guy to join us! If you're interested, say hi!
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
