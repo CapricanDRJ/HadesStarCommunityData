@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​exirium
-description: W:4 L:4 D:1 Bonus ❌ 7%
+description: W:5 L:4 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1736563370
+date: 1737236457
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,18 @@ n corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crece
 r.                                         WhatsApp incluido.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (470)|
-| ELO Competitive | 1218 🔺  (523)|
-| Total Matches | 9 |
-| Wins | 4 |
+| ELO Regular | 1220 🔺  (370)|
+| ELO Competitive | 1232 🔺  (462)|
+| Total Matches | 10 |
+| Wins | 5 |
 | Losses | 4 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 5 |
 
 ---
@@ -46,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736131370,1733513443,1732154321,1731103766,1729916196,1729213328,1728149122,1702605328,1698888451];
+        let timestamps = [1736804457,1736131370,1733513443,1732154321,1731103766,1729916196,1729213328,1728149122,1702605328,1698888451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/18 | 5-3 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ✅ | 2025/01/11 | 4-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2024/12/11 | 0-15 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2024/11/26 | 4-0 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |

@@ -21,7 +21,7 @@ THE CYDONIAN EMPIRE™
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (542)|
-| ELO Competitive | 1219 🔻  (513)|
+| ELO Competitive | 1219 🔻  (514)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 2 |

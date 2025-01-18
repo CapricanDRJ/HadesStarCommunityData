@@ -22,7 +22,7 @@ lease join us on Discord and don't be a stranger!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (396)|
+| ELO Regular | 1216 🔺  (397)|
 | ELO Competitive | 1264 🔺  (364)|
 | Total Matches | 17 |
 | Wins | 9 |

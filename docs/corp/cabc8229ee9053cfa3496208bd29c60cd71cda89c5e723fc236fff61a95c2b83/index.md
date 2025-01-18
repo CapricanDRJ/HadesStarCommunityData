@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:3 L:6 D:1 Bonus ❌ 4%
+description: W:3 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1736346830
+date: 1737236457
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ Corporação de treinamento/backup - BRASIL STAR<br><br>Esta corporação
 adicionado aqui no chat!
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔺  (1073)|
-| ELO Competitive | 1192 🔺  (730)|
-| Total Matches | 10 |
+| ELO Regular | 1145 🔻  (1152)|
+| ELO Competitive | 1178 🔻  (1027)|
+| Total Matches | 11 |
 | Wins | 3 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/18 | 3-5 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ↔️ | 2025/01/08 | 6-6 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/01/01 | 0-3 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/09/07 | 2-20 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
