@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:54 L:6 D:0 Bonus ❌ 9%
+description: W:55 L:6 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1736662727
+date: 1737270109
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,17 @@ date: 1736662727
 PEACE THROUGH POWER!
 ```
 ### [Discord](https://discord.gg/HfGM4PkP8d)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1561 🔺  (4)|
-| ELO Competitive | 1636 🔺  (14)|
-| Total Matches | 60 |
-| Wins | 54 |
+| ELO Regular | 1566 🔺  (4)|
+| ELO Competitive | 1641 🔺  (12)|
+| Total Matches | 61 |
+| Wins | 55 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 19 |
 | Flagship | 9 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736230727,1735654317,1735027533,1734425397,1733817842,1733221983,1732601752,1731997165,1731396474,1730788551,1730179747,1729593168,1728984020,1728364579,1727775862,1727185385,1726550610,1725952839,1725366570,1724735570,1724133601,1723528657,1722935749,1722325114,1721770053,1721126050,1720512025,1720040505,1719292231,1718689403,1718085813,1717534862,1716875477,1716274831,1715675133,1715058905,1714461188,1713862669,1713255457,1712656609,1712034617,1711431253,1710838723,1710225163,1709635937,1709015746,1708428285,1707820976,1707211367,1706606628,1706005600,1705390146,1704782513,1704092226,1703580141,1702966872,1702363386,1701767395,1701150088,1700557099];
+        let timestamps = [1736838109,1736230727,1735654317,1735027533,1734425397,1733817842,1733221983,1732601752,1731997165,1731396474,1730788551,1730179747,1729593168,1728984020,1728364579,1727775862,1727185385,1726550610,1725952839,1725366570,1724735570,1724133601,1723528657,1722935749,1722325114,1721770053,1721126050,1720512025,1720040505,1719292231,1718689403,1718085813,1717534862,1716875477,1716274831,1715675133,1715058905,1714461188,1713862669,1713255457,1712656609,1712034617,1711431253,1710838723,1710225163,1709635937,1709015746,1708428285,1707820976,1707211367,1706606628,1706005600,1705390146,1704782513,1704092226,1703580141,1702966872,1702363386,1701767395,1701150088,1700557099];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,12 +133,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 3 | 0 | 0 | 3 |
 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) | 2 | 0 | 0 | 2 |
 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 1 | 1 | 0 | 2 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 4 | 0 | 0 | 4 |
 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 2 | 0 | 0 | 2 |
-| [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 2 | 0 | 0 | 2 |
 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 4 | 0 | 0 | 4 |
 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 2 | 0 | 0 | 2 |
 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 2 | 0 | 0 | 2 |
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/19 | 39-31 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2025/01/12 | 46-22 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ✅ | 2025/01/05 | 46-8 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ❌ | 2024/12/29 | 21-83 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |

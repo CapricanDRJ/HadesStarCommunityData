@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:52 L:25 D:1 Bonus ✅ 38%
+description: W:52 L:25 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736910360
 ---
@@ -17,7 +17,7 @@ date: 1736910360
 限り参加をお願いします(情報共有のため)
 ```
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -21,7 +21,7 @@ The sunset of the dying star was covered in drops of mercury.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1570 🔺  (3)|
-| ELO Competitive | 1639 🔺  (12)|
+| ELO Competitive | 1639 🔺  (13)|
 | Total Matches | 44 |
 | Wins | 44 |
 | Losses | 0 |
