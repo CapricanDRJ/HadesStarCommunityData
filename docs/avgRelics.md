@@ -151,7 +151,7 @@ permalink: /avgrelics/
 | 142 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea) | 19.86|
 | 143 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3) | 19.83|
 | 144 | [Int. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7) | 19.81|
-| 145 | [Corp. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72) | 19.81|
+| 145 | [Corp. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72) | 19.77|
 | 146 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76) | 19.66|
 | 147 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007) | 19.65|
 | 148 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289) | 19.64|
