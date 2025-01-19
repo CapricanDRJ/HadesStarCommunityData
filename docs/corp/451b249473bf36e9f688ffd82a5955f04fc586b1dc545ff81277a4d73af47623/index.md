@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:29 L:58 D:1 Bonus ✅ 48%
+description: W:29 L:58 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1737078368
 ---
@@ -20,7 +20,7 @@ We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
 ### [Discord](https://discord.gg/najb7MJf)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

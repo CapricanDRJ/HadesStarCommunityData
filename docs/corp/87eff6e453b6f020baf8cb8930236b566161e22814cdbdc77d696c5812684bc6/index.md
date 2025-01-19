@@ -21,7 +21,7 @@ Discord invite code is https://discord.gg/44nD9yX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1002 🔻  (1369)|
+| ELO Regular | 1002 🔻  (1368)|
 | ELO Competitive | 1060 🔻  (1373)|
 | Total Matches | 58 |
 | Wins | 10 |
