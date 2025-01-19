@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:31 L:38 D:0 Bonus ✅ 48%
+description: W:31 L:38 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1737200384
 ---
@@ -21,7 +21,7 @@ Corpo école : Polaris Corpo
 Corpo des alts : On en a petit !
 ```
 ### [Discord](https://discord.gg/EXj5vtr)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

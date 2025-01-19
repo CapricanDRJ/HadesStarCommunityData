@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:26 L:9 D:0 Bonus ❌ 7%
+description: W:27 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1734182237
+date: 1737289942
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ date: 1734182237
 rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生存</color>。<color=orange>南极星联盟成
 员</color>踢红点，由bria成立于2024.7.1
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (126)|
-| ELO Competitive | 1426 🔺  (120)|
-| Total Matches | 35 |
-| Wins | 26 |
-| Losses | 9 |
+| ELO Regular | 1316 🔺  (141)|
+| ELO Competitive | 1434 🔺  (113)|
+| Total Matches | 37 |
+| Wins | 27 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/19 | 3-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
+| ❌ | 2025/01/19 | 0-27 | [HADE'S BR](https://ws.tsl.rocks/corp/c45eed113ca441bc97ea13701b324eef2a880f75a5de80044e11389b8cc67ae0/) |
 | ✅ | 2024/12/14 | 6-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/12/09 | 0-5 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ✅ | 2024/12/09 | 8-0 | [Phoenix Nest](https://ws.tsl.rocks/corp/e63d7fd60c26387fe662f9dc27945060df85b5e1ee07ca68033376e92ecc65b6/) |

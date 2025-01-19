@@ -22,8 +22,8 @@ Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1242)|
-| ELO Competitive | 1141 🔻  (1286)|
+| ELO Regular | 1118 🔻  (1243)|
+| ELO Competitive | 1141 🔻  (1287)|
 | Total Matches | 12 |
 | Wins | 1 |
 | Losses | 11 |

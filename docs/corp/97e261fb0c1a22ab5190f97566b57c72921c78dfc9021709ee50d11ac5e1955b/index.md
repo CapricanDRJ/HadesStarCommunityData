@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Air/Free_ziyou
-description: W:3 L:1 D:0 Bonus ❌ 
+description: W:4 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736664230
+date: 1737280025
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1736664230
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (321)|
-| ELO Competitive | 1237 🔻  (447)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1245 🔺  (268)|
+| ELO Competitive | 1250 🔺  (410)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736232230,1735780512,1735345425,1734875504];
+        let timestamps = [1736848025,1736232230,1735780512,1735345425,1734875504];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/19 | 17-0 | [Россия](https://ws.tsl.rocks/corp/5c3297d91f4c01633055dcdfdb3419996b991e00e2d7c7d7087b00fb853b1c69/) |
 | ❌ | 2025/01/12 | 0-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2025/01/07 | 6-0 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2025/01/02 | 1-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
