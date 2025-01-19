@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:54 L:6 D:0 Bonus ✅ 38%
+description: W:54 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736662727
 ---
@@ -16,12 +16,12 @@ date: 1736662727
 PEACE THROUGH POWER!
 ```
 ### [Discord](https://discord.gg/HfGM4PkP8d)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1561 🔺  (4)|
-| ELO Competitive | 1636 🔺  (13)|
+| ELO Competitive | 1636 🔺  (14)|
 | Total Matches | 60 |
 | Wins | 54 |
 | Losses | 6 |

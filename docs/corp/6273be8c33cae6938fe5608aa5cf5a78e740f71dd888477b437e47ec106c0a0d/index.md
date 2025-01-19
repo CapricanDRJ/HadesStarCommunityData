@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:23 L:24 D:0 Bonus ❌ 8%
+description: W:23 L:25 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736744771
+date: 1737263500
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (1003)|
-| ELO Competitive | 1253 🔻  (394)|
-| Total Matches | 47 |
+| ELO Regular | 1160 🔻  (1055)|
+| ELO Competitive | 1250 🔻  (407)|
+| Total Matches | 48 |
 | Wins | 23 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736312771,1734325344,1733722596,1733206361,1732602053,1732000469,1731474000,1730787950,1725422762,1724054869,1724045554,1722833275,1721108620,1720530357,1720522241,1719810601,1719290428,1718598347,1718015490,1717387586,1716272729,1715660713,1714985893,1714363532,1713762924,1713153897,1712549039,1712037321,1711450780,1710739272,1710134425,1709269652,1708749513,1708274736,1707718503,1707109539,1706524586,1705904328,1704690857,1704176072,1702880619,1702288548,1701667920,1701063091,1700460929,1699854961,1699090095];
+        let timestamps = [1736831500,1736312771,1734325344,1733722596,1733206361,1732602053,1732000469,1731474000,1730787950,1725422762,1724054869,1724045554,1722833275,1721108620,1720530357,1720522241,1719810601,1719290428,1718598347,1718015490,1717387586,1716272729,1715660713,1714985893,1714363532,1713762924,1713153897,1712549039,1712037321,1711450780,1710739272,1710134425,1709269652,1708749513,1708274736,1707718503,1707109539,1706524586,1705904328,1704690857,1704176072,1702880619,1702288548,1701667920,1701063091,1700460929,1699854961,1699090095];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/19 | 13-42 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2025/01/13 | 1-47 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/12/21 | 0-48 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ✅ | 2024/12/14 | 25-6 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |

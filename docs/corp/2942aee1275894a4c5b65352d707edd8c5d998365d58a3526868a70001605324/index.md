@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​毛绒团子
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736816279
+date: 1737264401
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1736816279
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (358)|
-| ELO Competitive | 1222 🔺  (498)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1238 🔺  (302)|
+| ELO Competitive | 1243 🔺  (430)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736384279,1734613526,1734076540];
+        let timestamps = [1736832401,1736384279,1734613526,1734076540];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/19 | 19-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2025/01/14 | 3-2 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 | ✅ | 2024/12/24 | 14-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
 | ❌ | 2024/12/18 | 5-8 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
