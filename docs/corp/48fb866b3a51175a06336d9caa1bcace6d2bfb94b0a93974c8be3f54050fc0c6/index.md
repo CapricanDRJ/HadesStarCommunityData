@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Свободный флот
-description: W:48 L:56 D:1 Bonus ✅ 38%
+description: W:48 L:56 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1736687368
 ---
@@ -18,12 +18,12 @@ date: 1736687368
 елеграм: https://t.me/FreeFleetHadesStar
 ```
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔺  (1206)|
-| ELO Competitive | 1438 🔺  (107)|
+| ELO Competitive | 1438 🔺  (108)|
 | Total Matches | 105 |
 | Wins | 48 |
 | Losses | 56 |

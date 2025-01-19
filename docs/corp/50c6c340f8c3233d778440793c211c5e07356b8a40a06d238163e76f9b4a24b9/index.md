@@ -31,7 +31,7 @@ ser ativo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (809)|
+| ELO Regular | 1184 🔻  (810)|
 | ELO Competitive | 1186 🔻  (897)|
 | Total Matches | 3 |
 | Wins | 0 |

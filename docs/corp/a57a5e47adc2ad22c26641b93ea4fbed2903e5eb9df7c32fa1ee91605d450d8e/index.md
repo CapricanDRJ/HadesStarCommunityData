@@ -19,7 +19,7 @@ Ein kleiner Konzern. Mal schauen wo es hingeht.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (583)|
+| ELO Regular | 1191 🔻  (584)|
 | ELO Competitive | 1193 🔻  (726)|
 | Total Matches | 1 |
 | Wins | 0 |

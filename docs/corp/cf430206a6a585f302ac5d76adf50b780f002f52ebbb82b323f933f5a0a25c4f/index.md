@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:3 D:2 Bonus ❌ 3%
+description: W:0 L:4 D:2 Bonus ❌ 3%
 image: ./favicon.png
-date: 1736854458
+date: 1737301366
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ We do all types of stars we help in red stars we prepare to battle in
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1002)|
-| ELO Competitive | 1173 🔻  (1082)|
-| Total Matches | 5 |
+| ELO Regular | 1153 🔻  (1106)|
+| ELO Competitive | 1159 🔻  (1196)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736422458,1735913327,1735224030,1734785058,1727767900];
+        let timestamps = [1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/19 | 0-14 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2025/01/14 | 1-3 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ↔️ | 2025/01/08 | 0-0 | [Rogue One Squad](https://ws.tsl.rocks/corp/911d118c4206217f2f2b921bbea3b70d0f405c6384d2c097355bca09e3c7121a/) |
 | ❌ | 2024/12/31 | 0-16 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
