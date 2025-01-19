@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:43 L:23 D:2 Bonus ❌ 9%
+description: W:44 L:23 D:2 Bonus ✅ 38%
 image: ./favicon.png
-date: 1736654616
+date: 1737311887
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1736654616
  We are in an alliance with Spaceballs & the Warriorlords.
 ```
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔻  (115)|
-| ELO Competitive | 1480 🔻  (72)|
-| Total Matches | 68 |
-| Wins | 43 |
+| ELO Regular | 1341 🔺  (107)|
+| ELO Competitive | 1484 🔺  (70)|
+| Total Matches | 69 |
+| Wins | 44 |
 | Losses | 23 |
 | Draws | 2 |
 | Streak Record | 9 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736222616,1736207894,1735618561,1734997795,1734419689,1733780592,1733157688,1732679578,1731978239,1731465890,1731006106,1730733561,1730063159,1730049633,1729419481,1729415273,1728842473,1728838263,1728232664,1728230861,1727651460,1727650258,1727036053,1727034250,1726510586,1726510586,1725927904,1725927603,1725297467,1725291455,1724714490,1724084021,1724062380,1723411761,1723411160,1722884066,1722877453,1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
+        let timestamps = [1736879887,1736222616,1736207894,1735618561,1734997795,1734419689,1733780592,1733157688,1732679578,1731978239,1731465890,1731006106,1730733561,1730063159,1730049633,1729419481,1729415273,1728842473,1728838263,1728232664,1728230861,1727651460,1727650258,1727036053,1727034250,1726510586,1726510586,1725927904,1725927603,1725297467,1725291455,1724714490,1724084021,1724062380,1723411761,1723411160,1722884066,1722877453,1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) | 2 | 0 | 0 | 2 |
 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 2 | 1 | 0 | 3 |
 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) | 1 | 0 | 1 | 2 |
 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) | 1 | 1 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/19 | 32-6 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2025/01/12 | 4-15 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ❌ | 2025/01/11 | 3-21 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2025/01/05 | 36-11 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |

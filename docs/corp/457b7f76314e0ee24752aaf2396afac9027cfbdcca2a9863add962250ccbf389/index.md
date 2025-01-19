@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Лунный Феникс
-description: W:46 L:25 D:2 Bonus ❌ 10%
+description: W:47 L:25 D:2 Bonus ✅ 40%
 image: ./favicon.png
-date: 1735323133
+date: 1737304373
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ date: 1735323133
 вкладывать в флагман 2
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (83)|
-| ELO Competitive | 1461 🔺  (88)|
-| Total Matches | 73 |
-| Wins | 46 |
+| ELO Regular | 1381 🔺  (68)|
+| ELO Competitive | 1486 🔺  (69)|
+| Total Matches | 74 |
+| Wins | 47 |
 | Losses | 25 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 6 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734891133,1734291695,1733157687,1732485771,1731896804,1731435241,1730674670,1730055645,1729535784,1728967795,1728936547,1728243185,1728228155,1727706747,1725804997,1724600294,1724070494,1723588462,1723529859,1722958591,1722955285,1722329621,1722325114,1720978783,1719777851,1719248361,1718660862,1717944268,1717557549,1717345853,1716787121,1716754674,1716123705,1715268918,1714820046,1714814850,1714335894,1713777943,1713701932,1713152328,1712675240,1712039123,1711468510,1710915040,1710253707,1709560821,1709401571,1708910580,1708433695,1708242276,1707779813,1707325857,1706948611,1706378839,1705944598,1705215249,1704725113,1704722107,1704205523,1703588256,1702298166,1701793845,1701194269,1701099896,1700582646,1700582045,1700105357,1700103278,1699651156,1699649653,1699213299,1699210594,1698687967];
+        let timestamps = [1736872373,1734891133,1734291695,1733157687,1732485771,1731896804,1731435241,1730674670,1730055645,1729535784,1728967795,1728936547,1728243185,1728228155,1727706747,1725804997,1724600294,1724070494,1723588462,1723529859,1722958591,1722955285,1722329621,1722325114,1720978783,1719777851,1719248361,1718660862,1717944268,1717557549,1717345853,1716787121,1716754674,1716123705,1715268918,1714820046,1714814850,1714335894,1713777943,1713701932,1713152328,1712675240,1712039123,1711468510,1710915040,1710253707,1709560821,1709401571,1708910580,1708433695,1708242276,1707779813,1707325857,1706948611,1706378839,1705944598,1705215249,1704725113,1704722107,1704205523,1703588256,1702298166,1701793845,1701194269,1701099896,1700582646,1700582045,1700105357,1700103278,1699651156,1699649653,1699213299,1699210594,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,12 +133,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 2 | 1 | 0 | 3 |
 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) | 2 | 0 | 0 | 2 |
 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 0 | 2 | 0 | 2 |
 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 2 | 0 | 0 | 2 |
 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) | 2 | 0 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 1 | 1 | 0 | 2 |
-| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 1 | 0 | 2 |
 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) | 1 | 1 | 0 | 2 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 0 | 2 | 0 | 2 |
 
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/19 | 14-2 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/12/27 | 20-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/12/20 | 8-29 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
 | ✅ | 2024/12/07 | 12-0 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
