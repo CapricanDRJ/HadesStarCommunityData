@@ -23,7 +23,7 @@ S. 18+, English. Discord - apply + RS queue.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1378 🔻  (71)|
+| ELO Regular | 1378 🔻  (72)|
 | ELO Competitive | 1691 🔻  (7)|
 | Total Matches | 139 |
 | Wins | 92 |

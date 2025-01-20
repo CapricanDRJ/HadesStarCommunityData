@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:8 L:7 D:0 Bonus ✅ 34%
+description: W:8 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736768509
 ---
@@ -21,7 +21,7 @@ date: 1736768509
 
 Évolution chez "On en a Gros" pour RS8+
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
