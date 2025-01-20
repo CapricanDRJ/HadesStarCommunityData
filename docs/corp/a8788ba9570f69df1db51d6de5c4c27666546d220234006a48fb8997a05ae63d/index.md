@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​47підрозділССП
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:4 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736910360
+date: 1737344644
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1736910360
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (216)|
-| ELO Competitive | 1286 🔺  (310)|
-| Total Matches | 5 |
+| ELO Regular | 1247 🔻  (265)|
+| ELO Competitive | 1267 🔻  (360)|
+| Total Matches | 6 |
 | Wins | 4 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/20 | 9-13 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2025/01/15 | 10-3 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2025/01/10 | 6-0 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ✅ | 2025/01/04 | 11-4 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |

@@ -22,8 +22,8 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1112 🔺  (1269)|
-| ELO Competitive | 1176 🔺  (1049)|
+| ELO Regular | 1112 🔺  (1270)|
+| ELO Competitive | 1176 🔺  (1050)|
 | Total Matches | 58 |
 | Wins | 24 |
 | Losses | 33 |

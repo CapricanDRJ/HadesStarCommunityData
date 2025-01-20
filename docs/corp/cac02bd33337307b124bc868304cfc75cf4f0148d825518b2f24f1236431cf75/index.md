@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RED STAR CORP
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736833726
+date: 1737335029
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1736833726
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (534)|
-| ELO Competitive | 1203 🔻  (625)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1209 🔺  (463)|
+| ELO Competitive | 1215 🔺  (552)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736401726,1735670545];
+        let timestamps = [1736903029,1736401726,1735670545];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/20 | 10-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2025/01/14 | 0-10 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2025/01/05 | 10-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 

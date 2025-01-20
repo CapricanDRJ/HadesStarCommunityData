@@ -20,8 +20,8 @@ spero que se diviertan fundador son of celestial
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1224)|
-| ELO Competitive | 1132 🔻  (1307)|
+| ELO Regular | 1125 🔻  (1226)|
+| ELO Competitive | 1132 🔻  (1308)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 5 |
