@@ -22,7 +22,7 @@ back. Then I will open the company again. Thank you.bay
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (748)|
-| ELO Competitive | 1185 🔻  (921)|
+| ELO Competitive | 1185 🔻  (922)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
