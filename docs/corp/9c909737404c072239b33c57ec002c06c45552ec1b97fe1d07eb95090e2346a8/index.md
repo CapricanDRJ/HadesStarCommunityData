@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Minutemen
-description: W:10 L:18 D:1 Bonus ✅ 36%
+description: W:10 L:18 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737302569
 ---
@@ -16,7 +16,7 @@ date: 1737302569
 Relaxed corp. White star with us for fun.
 ```
 ### [Discord](https://discord.gg/dgpJDdf5EX)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

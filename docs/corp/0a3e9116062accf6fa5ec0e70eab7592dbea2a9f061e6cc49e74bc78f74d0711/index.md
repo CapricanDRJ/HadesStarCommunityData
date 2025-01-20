@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:32 L:7 D:2 Bonus ✅ 36%
+description: W:32 L:8 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737394831
+date: 1737399340
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 1737394831
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (65)|
+| ELO Regular | 1372 🔻  (76)|
 | ELO Competitive | 1480 🔺  (75)|
-| Total Matches | 41 |
+| Total Matches | 42 |
 | Wins | 32 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 6 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -147,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/20 | 0-20 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2025/01/20 | 32-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2025/01/12 | 28-3 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ↔️ | 2025/01/12 | 7-7 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |

@@ -158,7 +158,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) | 1417 | 1474 | 38 |
 | [Covenant](https://ws.tsl.rocks/corp/9a3c20a4642306b7e2f5f40153cc69a9eb635702ce31509522080056b6be555f/) | 1172 | 1187 | 2 |
 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) | 1163 | 1166 | 18 |
-| [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 1118 | 1251 | 89 |
+| [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 1133 | 1263 | 90 |
 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 1170 | 1257 | 50 |
 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) | 1110 | 1160 | 29 |
 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) | 1226 | 1263 | 25 |
@@ -366,7 +366,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 1420 | 1511 | 72 |
 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1/) | 1239 | 1268 | 17 |
 | [Highland Ind\. ](https://ws.tsl.rocks/corp/ba78f9ff67f8944bf4b0152d98968e0ad6c9c86cc2fc518284c0745060e90e2c/) | 1182 | 1234 | 21 |
-| [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 1112 | 1176 | 58 |
+| [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 1097 | 1164 | 59 |
 | [HighSociety](https://ws.tsl.rocks/corp/842d45fa024d216404f7452de7832b2be06969b467e7b50b0155c0133aa1f094/) | 1214 | 1214 | 3 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 1327 | 1536 | 89 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 1340 | 1621 | 116 |
@@ -421,7 +421,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Jesus Followers](https://ws.tsl.rocks/corp/a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41/) | 1158 | 1167 | 6 |
 | [JPR\. Pretorians](https://ws.tsl.rocks/corp/7144c7cdb9f369d9e56199379429b01172d00a5142f6ceda71031de9bf6e0d25/) | 1155 | 1218 | 15 |
 | [just because](https://ws.tsl.rocks/corp/4abb148f2ae182265e533fa2474f56ee9f62eab5fe7f6e3fed92a519fce31781/) | 1184 | 1186 | 1 |
-| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 1390 | 1480 | 41 |
+| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 1372 | 1480 | 42 |
 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) | 1130 | 1136 | 16 |
 | [Karanth Corp\.](https://ws.tsl.rocks/corp/0fc8f143030ba76b5b5343015a7791fee2deabc1a3982096304acf6f4956ecdd/) | 1173 | 1174 | 2 |
 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) | 815 | 994 | 68 |
@@ -1221,7 +1221,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) | 1195 | 1223 | 5 |
 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) | 1015 | 1085 | 18 |
 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) | 1326 | 1371 | 32 |
-| [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) | 1299 | 1299 | 7 |
+| [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) | 1318 | 1305 | 8 |
 | [宇宙生協](https://ws.tsl.rocks/corp/2183982f221c89c752bcd4baecf8707bd0d9d595cb56eff7df68417aea85b219/) | 1185 | 1186 | 1 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 1160 | 1240 | 68 |
 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) | 1215 | 1215 | 1 |
