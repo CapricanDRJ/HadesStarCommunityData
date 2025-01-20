@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:28 L:2 D:0 Bonus ✅ 36%
+description: W:28 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1736756188
 ---
@@ -27,12 +27,12 @@ Max period of inactivity: 3 days.
 English only.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1443 🔺  (30)|
-| ELO Competitive | 1469 🔺  (81)|
+| ELO Competitive | 1469 🔺  (82)|
 | Total Matches | 30 |
 | Wins | 28 |
 | Losses | 2 |

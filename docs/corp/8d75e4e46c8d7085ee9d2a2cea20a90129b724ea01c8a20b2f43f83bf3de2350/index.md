@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​111
-description: W:64 L:22 D:0 Bonus ✅ 48%
+description: W:64 L:22 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1737188364
 ---
@@ -17,7 +17,7 @@ date: 1737188364
 Ники пустые или без кирилических, латинских символов недопускаются
 
 ```
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
