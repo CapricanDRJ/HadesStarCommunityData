@@ -19,8 +19,8 @@ guarida del titan tv
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1091 🔺  (1308)|
-| ELO Competitive | 1189 🔺  (793)|
+| ELO Regular | 1091 🔺  (1309)|
+| ELO Competitive | 1189 🔺  (794)|
 | Total Matches | 32 |
 | Wins | 9 |
 | Losses | 22 |

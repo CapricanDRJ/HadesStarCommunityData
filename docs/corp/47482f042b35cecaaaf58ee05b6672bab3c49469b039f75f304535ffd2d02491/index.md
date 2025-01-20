@@ -21,8 +21,8 @@ ugt ! Discord Link. https://discord.gg/urC6aghBvF
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1053 🔻  (1343)|
-| ELO Competitive | 1068 🔻  (1371)|
+| ELO Regular | 1053 🔻  (1344)|
+| ELO Competitive | 1068 🔻  (1372)|
 | Total Matches | 25 |
 | Wins | 5 |
 | Losses | 20 |

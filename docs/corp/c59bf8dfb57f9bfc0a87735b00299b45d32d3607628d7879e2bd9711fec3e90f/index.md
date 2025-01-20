@@ -19,8 +19,8 @@ dont give in we help each other in start a White star ever 2 day
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (1094)|
-| ELO Competitive | 1163 🔺  (1179)|
+| ELO Regular | 1155 🔺  (1095)|
+| ELO Competitive | 1163 🔺  (1180)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 4 |

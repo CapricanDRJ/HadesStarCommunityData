@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Deadspace
-description: W:29 L:37 D:0 Bonus ✅ 48%
+description: W:29 L:37 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1737298961
 ---
@@ -25,12 +25,12 @@ date: 1737298961
 Discord mandatory.  <b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔻  (314)|
-| ELO Competitive | 1327 🔻  (228)|
+| ELO Competitive | 1327 🔻  (229)|
 | Total Matches | 66 |
 | Wins | 29 |
 | Losses | 37 |

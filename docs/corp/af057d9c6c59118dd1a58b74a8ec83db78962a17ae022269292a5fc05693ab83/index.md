@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​孤星长城
-description: W:5 L:1 D:0 Bonus ✅ 
+description: W:6 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1736870390
+date: 1737381906
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1736870390
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (198)|
-| ELO Competitive | 1282 🔺  (318)|
-| Total Matches | 6 |
-| Wins | 5 |
+| ELO Regular | 1299 🔺  (172)|
+| ELO Competitive | 1299 🔺  (281)|
+| Total Matches | 7 |
+| Wins | 6 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
+        let timestamps = [1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/20 | 9-0 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ✅ | 2025/01/14 | 9-2 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2025/01/05 | 10-0 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/01/05 | 26-0 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
