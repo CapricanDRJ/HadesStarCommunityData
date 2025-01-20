@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:40 L:29 D:2 Bonus ✅ 46%
+description: W:40 L:29 D:2 Bonus ❌ 13%
 image: ./favicon.png
 date: 1736787747
 ---
@@ -22,11 +22,11 @@ discord obligatory
 https://discord.gg/bAAYCqG2cE
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (165)|
+| ELO Regular | 1302 🔺  (164)|
 | ELO Competitive | 1417 🔺  (126)|
 | Total Matches | 71 |
 | Wins | 40 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​kryptonium
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1736783840
 ---
@@ -15,11 +15,11 @@ date: 1736783840
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (311)|
+| ELO Regular | 1235 🔺  (312)|
 | ELO Competitive | 1241 🔺  (436)|
 | Total Matches | 2 |
 | Wins | 2 |
