@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:35 L:17 D:0 Bonus ✅ 36%
+description: W:36 L:17 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737471765
+date: 1737479582
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ ith the Titans of Terror.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (67)|
+| ELO Regular | 1394 🔺  (64)|
 | ELO Competitive | 1507 🔺  (56)|
-| Total Matches | 52 |
-| Wins | 35 |
+| Total Matches | 53 |
+| Wins | 36 |
 | Losses | 17 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737039765,1736044989,1735862845,1734129434,1733949449,1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
+        let timestamps = [1737047582,1737039765,1736044989,1735862845,1734129434,1733949449,1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 2 | 0 | 0 | 2 |
 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) | 2 | 0 | 0 | 2 |
 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 0 | 3 | 0 | 3 |
 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) | 2 | 0 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/21 | 23-6 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2025/01/21 | 12-4 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ✅ | 2025/01/10 | 11-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2025/01/08 | 6-30 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:23 L:32 D:1 Bonus ❌ 13%
+description: W:23 L:33 D:1 Bonus ❌ 13%
 image: ./favicon.png
-date: 1735168988
+date: 1737479582
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ccount inGame to be a member. InGame space is prioritized for running
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (724)|
-| ELO Competitive | 1312 🔻  (255)|
-| Total Matches | 56 |
+| ELO Regular | 1178 🔻  (869)|
+| ELO Competitive | 1305 🔻  (271)|
+| Total Matches | 57 |
 | Wins | 23 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734736988,1733899567,1733279678,1733134845,1732482766,1731940073,1731530796,1730995287,1730668911,1729902376,1728931136,1728504032,1728098031,1727204922,1726206747,1726097678,1725422762,1724952184,1724453644,1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
+        let timestamps = [1737047582,1734736988,1733899567,1733279678,1733134845,1732482766,1731940073,1731530796,1730995287,1730668911,1729902376,1728931136,1728504032,1728098031,1727204922,1726206747,1726097678,1725422762,1724952184,1724453644,1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 0 | 2 | 0 | 2 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 2 | 0 | 0 | 2 |
 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) | 0 | 2 | 0 | 2 |
 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 6-23 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/12/25 | 0-36 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
 | ❌ | 2024/12/16 | 8-44 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/12/09 | 10-13 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |

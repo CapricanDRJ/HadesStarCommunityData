@@ -103,32 +103,6 @@ permalink: /trade/
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Dragon_Galactique</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>1</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS11</td>
-                    <td>201%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/1214893738749337620">teste bot ou autre</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">LeDaiZi</th>
         </tr>
         <tr>
@@ -198,50 +172,6 @@ permalink: /trade/
             
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/1093559047137013800">𝕮𝖊𝖗𝖚𝖑𝖊𝖆𝖓𝖘</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">whywhy</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>4</td>
-                    <td><img src="trade.png" alt="trade"></td>
-                    <td>RS9</td>
-                    <td>218%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS9</td>
-                    <td>218%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>6</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS5</td>
-                    <td>200%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: Private</td>
         </tr>
     </table>
     <table>
