@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:8 L:7 D:0 Bonus ❌ 7%
+description: W:8 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736768509
+date: 1737458237
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 1736768509
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔺  (572)|
-| ELO Competitive | 1223 🔺  (496)|
-| Total Matches | 15 |
+| ELO Regular | 1175 🔻  (896)|
+| ELO Competitive | 1206 🔻  (615)|
+| Total Matches | 16 |
 | Wins | 8 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
+        let timestamps = [1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 1-14 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2025/01/13 | 22-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/12/21 | 10-16 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ❌ | 2024/12/15 | 7-23 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |

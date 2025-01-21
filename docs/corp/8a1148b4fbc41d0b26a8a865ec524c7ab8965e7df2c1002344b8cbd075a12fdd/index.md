@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​环星集团
-description: W:3 L:5 D:0 Bonus ❌ 4%
+description: W:4 L:5 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1737020656
+date: 1737455231
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1737020656
 道提供神器集团帮打23456级红巨星QQ922514426，进群答案，不知道。副首席：中国没人，只有（副）首席有权晋升或移除成员，不踢小红
 点除非人满了，如果长时间不上线，请联系首席或副首席 每周末都有稳定的八级神器，记得来领，所有人不要捐旗舰！！！
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (989)|
-| ELO Competitive | 1181 🔻  (1014)|
-| Total Matches | 8 |
-| Wins | 3 |
+| ELO Regular | 1184 🔺  (817)|
+| ELO Competitive | 1201 🔺  (645)|
+| Total Matches | 9 |
+| Wins | 4 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736588656,1735643197,1734771672,1734038688,1733308217,1732812108,1732326496,1731882684];
+        let timestamps = [1737023231,1736588656,1735643197,1734771672,1734038688,1733308217,1732812108,1732326496,1731882684];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/21 | 13-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/01/16 | 4-13 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/01/05 | 0-6 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2024/12/26 | 3-0 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
