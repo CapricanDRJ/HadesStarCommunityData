@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:14 L:11 D:0 Bonus ❌ 8%
+description: W:15 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1735627484
+date: 1737410462
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1735627484
 く！アクティブな新人さんのご参加お待ちしています<br>Family: 蝸牛の集い<br>nata il19/09/2022
 ```
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (344)|
-| ELO Competitive | 1263 🔻  (370)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1238 🔺  (300)|
+| ELO Competitive | 1276 🔺  (335)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/20 | 24-16 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ❌ | 2024/12/31 | 8-36 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2024/12/16 | 15-5 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/12/02 | 34-47 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |

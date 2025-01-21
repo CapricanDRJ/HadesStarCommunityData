@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:37 L:26 D:2 Bonus ✅ 42%
+description: W:37 L:26 D:2 Bonus ❌ 11%
 image: ./favicon.png
 date: 1737329922
 ---
@@ -18,7 +18,7 @@ e usually do WS once a week with a day in between searches. If you in
 dicate you will participate and dont you will be kicked.
 ```
 ### [Discord](https://discord.gg/Fhks7wPV)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
