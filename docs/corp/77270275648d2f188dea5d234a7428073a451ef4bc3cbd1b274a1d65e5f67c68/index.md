@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Final
-description: W:4 L:13 D:0 Bonus ❌ 13%
+description: W:4 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1736818403
+date: 1737472366
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ Are you RS6+ & want to join?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1261)|
-| ELO Competitive | 1166 🔻  (1157)|
-| Total Matches | 17 |
+| ELO Regular | 1105 🔻  (1286)|
+| ELO Competitive | 1154 🔻  (1234)|
+| Total Matches | 18 |
 | Wins | 4 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 13 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736386403,1735846917,1734693712,1733489101,1732388403,1706328950,1705703883,1705070099,1704408676,1700927077,1700568819,1700418855,1699999830,1699927097,1699476524,1699222315,1698967480];
+        let timestamps = [1737040366,1736386403,1735846917,1734693712,1733489101,1732388403,1706328950,1705703883,1705070099,1704408676,1700927077,1700568819,1700418855,1699999830,1699927097,1699476524,1699222315,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 3-41 | [Tacitus](https://ws.tsl.rocks/corp/257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0/) |
 | ❌ | 2025/01/14 | 14-39 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ❌ | 2025/01/07 | 59-63 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/12/25 | 21-67 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:13 L:15 D:0 Bonus ❌ 7%
+description: W:13 L:16 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736922379
+date: 1737468157
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1736922379
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1103)|
-| ELO Competitive | 1264 🔻  (368)|
-| Total Matches | 28 |
+| ELO Regular | 1144 🔻  (1156)|
+| ELO Competitive | 1252 🔻  (398)|
+| Total Matches | 29 |
 | Wins | 13 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736490379,1736486473,1729405957,1728837963,1728831347,1728124774,1728112154,1727675493,1726310717,1725718448,1725701215,1725010179,1724653784,1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
+        let timestamps = [1737036157,1736490379,1736486473,1729405957,1728837963,1728831347,1728124774,1728112154,1727675493,1726310717,1725718448,1725701215,1725010179,1724653784,1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 2-25 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2025/01/15 | 4-6 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/01/15 | 4-26 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/10/25 | 0-21 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |

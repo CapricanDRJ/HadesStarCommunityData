@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OPA
-description: W:47 L:18 D:0 Bonus ✅ 40%
+description: W:47 L:18 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1736864076
 ---
@@ -19,12 +19,12 @@ Weekly white stars, new players welcome.
 Discord required : discord.gg/2RmfWZB777
 ```
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1413 🔻  (45)|
-| ELO Competitive | 1502 🔺  (60)|
+| ELO Competitive | 1502 🔺  (61)|
 | Total Matches | 65 |
 | Wins | 47 |
 | Losses | 18 |

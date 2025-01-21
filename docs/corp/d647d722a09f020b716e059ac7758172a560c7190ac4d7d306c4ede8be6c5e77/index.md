@@ -27,7 +27,7 @@ Primarily English
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔺  (1237)|
+| ELO Regular | 1123 🔺  (1238)|
 | ELO Competitive | 1176 🔺  (1046)|
 | Total Matches | 29 |
 | Wins | 11 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​White Dwarf
-description: W:50 L:17 D:0 Bonus ✅ 46%
+description: W:50 L:17 D:0 Bonus ❌ 46%
 image: ./favicon.png
 date: 1736888726
 ---
@@ -17,12 +17,12 @@ WS & RS home of the Dwarf Corps. Please move to Yellow Dwarf (YD), Gr
 een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 ```
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 46%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1411 🔻  (47)|
-| ELO Competitive | 1507 🔺  (57)|
+| ELO Competitive | 1507 🔺  (58)|
 | Total Matches | 67 |
 | Wins | 50 |
 | Losses | 17 |
