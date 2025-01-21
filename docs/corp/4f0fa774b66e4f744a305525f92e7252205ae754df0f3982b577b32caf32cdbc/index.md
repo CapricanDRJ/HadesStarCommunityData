@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:18 L:11 D:2 Bonus ✅ 34%
+description: W:18 L:11 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1736839336
 ---
@@ -16,7 +16,7 @@ date: 1736839336
 <#FFDBAF>种田 Q群254025666                                              
   <#FF1620>萌新常驻可提供r5，6，<#AAC6FF>欢迎前来打白，捐旗舰1！
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
