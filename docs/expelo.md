@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final ELO Leaderboard
+title: Experimental ELO Leaderboard
 permalink: /expelo/
 ---
 
