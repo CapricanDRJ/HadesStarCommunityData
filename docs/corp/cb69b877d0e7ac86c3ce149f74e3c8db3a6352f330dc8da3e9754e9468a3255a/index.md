@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:15 L:22 D:4 Bonus ✅ 34%
+description: W:15 L:23 D:4 Bonus ✅ 34%
 image: ./favicon.png
-date: 1736997216
+date: 1737440808
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ sporg). 3lt bpdp)(demin).(flech).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (997)|
-| ELO Competitive | 1317 🔺  (248)|
-| Total Matches | 41 |
+| ELO Regular | 1166 🔻  (1013)|
+| ELO Competitive | 1312 🔻  (254)|
+| Total Matches | 42 |
 | Wins | 15 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736565216,1736550492,1736104511,1736102407,1735662131,1735650109,1735126379,1734569627,1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
+        let timestamps = [1737008808,1736565216,1736550492,1736104511,1736102407,1735662131,1735650109,1735126379,1734569627,1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 4-44 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2025/01/16 | 1-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/01/15 | 14-0 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ↔️ | 2025/01/10 | 5-5 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |

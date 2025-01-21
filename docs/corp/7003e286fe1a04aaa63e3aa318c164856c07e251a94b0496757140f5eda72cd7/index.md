@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:6 L:48 D:0 Bonus ❌ 14%
+description: W:6 L:49 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1736601120
+date: 1737440808
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,13 +27,12 @@ Find us on Discord: YTaYrhy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 945 🔺  (1385)|
-| ELO Competitive | 1008 🔺  (1392)|
-| Total Matches | 54 |
+| ELO Regular | 943 🔻  (1385)|
+| ELO Competitive | 1007 🔻  (1392)|
+| Total Matches | 55 |
 | Wins | 6 |
-| Losses | 48 |
+| Losses | 49 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 13 |
 
@@ -53,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
+        let timestamps = [1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,11 +139,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 | 3 | 0 | 4 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 0 | 2 | 0 | 2 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 0 | 2 | 0 | 2 |
 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) | 0 | 2 | 0 | 2 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 0 | 3 | 0 | 3 |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 | 2 | 0 | 3 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 0 | 2 | 0 | 2 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 1 | 1 | 0 | 2 |
 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 0 | 2 | 0 | 2 |
@@ -158,6 +157,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 13-29 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/01/11 | 47-5 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2025/01/03 | 23-3 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2024/12/27 | 3-40 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
