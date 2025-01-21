@@ -1,108 +1,108 @@
 ---
 layout: page
-title: Experimental ELO
+title: Final ELO Leaderboard
 permalink: /expelo/
 ---
 
 | Rank | Corporation Name | Elo Rating |
 |------|------------------|------------|
-| 1 | Auscorp  | 1639 |
-| 2 | Likapa | 1606 |
-| 3 | Famous Assasins | 1464 |
-| 4 | МАРСЮКИ | 1461 |
-| 5 | Слава Украине! | 1437 |
-| 6 | BlackStar Order | 1416 |
-| 7 | 111 | 1403 |
-| 8 | Stargate Corp | 1402 |
-| 9 | StarControl | 1366 |
-| 10 | Nearland Ind | 1356 |
-| 11 | Ender | 1353 |
-| 12 | Grunthal Gang | 1348 |
-| 13 | Continuum | 1346 |
-| 14 | Hexacropians | 1346 |
-| 15 | Legion | 1343 |
-| 16 | IX Легион | 1333 |
-| 17 | Hand Of NOD!  | 1332 |
-| 18 | Tuatha De Danan | 1322 |
-| 19 | UAGC | 1313 |
-| 20 | Omega Alpha | 1307 |
-| 21 | СССР | 1304 |
-| 22 | Polish Pirates | 1304 |
-| 23 | русь  | 1304 |
-| 24 | Hinterm Mond | 1303 |
-| 25 | ДИВЕРСАНТЫ | 1294 |
-| 26 | United Stars  | 1286 |
-| 27 | Brodudes Inc. | 1284 |
-| 28 | Orion | 1273 |
-| 29 | BrazilCorp. | 1271 |
-| 30 | Ark Summit | 1270 |
-| 31 | the heavy | 1270 |
-| 32 | Newbs | 1264 |
-| 33 | Outland Ind. | 1264 |
-| 34 | ItBurnsWhenIEMP | 1257 |
-| 35 | Sentencia | 1257 |
-| 36 | Titan Corp. | 1256 |
-| 37 | ANZAC Warriors | 1254 |
-| 38 | Curcubeu | 1252 |
-| 39 | IMPERIAL ARMADA | 1252 |
-| 40 | pirates spatial | 1252 |
-| 41 | Space Penguins | 1250 |
-| 42 | Emergence | 1250 |
-| 43 | Галактика Зла | 1249 |
-| 44 | Ninth Planet | 1249 |
-| 45 | Z. O. V.  | 1248 |
-| 46 | KINETIC | 1248 |
-| 47 | VoidCorp | 1248 |
-| 48 | UKR Spase | 1247 |
-| 49 | DarkMoon | 1247 |
-| 50 | Space Marshalls | 1246 |
-| 51 | Industrial W.O | 1245 |
-| 52 | Shrimp City | 1245 |
-| 53 | Stellar Exports | 1243 |
-| 54 | Mass Effect | 1242 |
-| 55 | WSC(no DISCORD) | 1242 |
-| 56 | BRASIL STAR | 1241 |
-| 57 | lonewolf | 1241 |
-| 58 | On en a Gros !  | 1241 |
-| 59 | Elysium | 1240 |
-| 60 | TeddisaurusWrex | 1239 |
-| 61 | 对，进就进人少的 | 1239 |
-| 62 | Providence | 1238 |
-| 63 | The Witness | 1238 |
-| 64 | Widow Makers | 1238 |
-| 65 | Hinterm Mars | 1238 |
-| 66 | Int. Trading Co | 1237 |
-| 67 | Lacuna X | 1236 |
-| 68 | Alpaca Haven | 1232 |
-| 69 | Empire of Light | 1232 |
-| 70 | DadCorp | 1231 |
-| 71 | GermanIndustrie | 1230 |
-| 72 | Red_Coat_Mafia | 1229 |
-| 73 | SILVER TERRA | 1229 |
-| 74 | CommCody & LPA | 1228 |
-| 75 | Corp. Estelar | 1228 |
-| 76 | Zvezdec | 1227 |
-| 77 | Hermitage | 1227 |
-| 78 | AlSounT | 1225 |
-| 79 | 六大天神 | 1224 |
-| 80 |  RELAX CZ/SK | 1224 |
-| 81 | BattleCo | 1223 |
-| 82 | Spacefleet | 1223 |
-| 83 | three kitties | 1222 |
-| 84 | Ironbear Legion | 1221 |
-| 85 | Спутник | 1221 |
-| 86 | 星を継ぐもの | 1221 |
-| 87 | украина№1 | 1220 |
-| 88 | (_(_Vossk_)_) | 1220 |
-| 89 | OntarioDestiny | 1219 |
-| 90 | Cyber Star | 1219 |
-| 91 | BrinySeal | 1218 |
-| 92 | Blood Hounds | 1218 |
-| 93 | 中国星际联盟 | 1218 |
-| 94 | OPA | 1216 |
-| 95 | GDZ | 1215 |
-| 96 | Duchy Arrakis | 1214 |
-| 97 | The Seperatists | 1212 |
-| 98 | White Dwarf | 1211 |
-| 99 | Embers Rising | 1209 |
-| 100 | Hellfire Club | 1207 |
+| 1 | Auscorp  | 1604 |
+| 2 | Likapa | 1553 |
+| 3 | Hand Of NOD!  | 1491 |
+| 4 | Слава Украине! | 1470 |
+| 5 | МАРСЮКИ | 1418 |
+| 6 | Nearland Ind | 1401 |
+| 7 | Famous Assasins | 1399 |
+| 8 | BlackStar Order | 1386 |
+| 9 | Internationals | 1383 |
+| 10 | Stargate Corp | 1379 |
+| 11 | 111 | 1361 |
+| 12 | BrazilCorp. | 1358 |
+| 13 | 六大天神 | 1348 |
+| 14 | Ender | 1347 |
+| 15 | IX Легион | 1345 |
+| 16 | Outland Ind. | 1343 |
+| 17 | Omega Alpha | 1342 |
+| 18 | Continuum | 1338 |
+| 19 | Tuatha De Danan | 1334 |
+| 20 | StarControl | 1332 |
+| 21 | Legion | 1325 |
+| 22 | Polish Pirates | 1324 |
+| 23 | Grunthal Gang | 1321 |
+| 24 | Emergence | 1318 |
+| 25 | ДИВЕРСАНТЫ | 1315 |
+| 26 | UAGC | 1312 |
+| 27 | Space Penguins | 1310 |
+| 28 | the heavy | 1294 |
+| 29 | Hinterm Mond | 1294 |
+| 30 | Order of Hades | 1294 |
+| 31 | СССР | 1290 |
+| 32 | русь  | 1286 |
+| 33 | Ark | 1282 |
+| 34 | Blood Hounds | 1278 |
+| 35 | Hellfire Club | 1277 |
+| 36 | Argentina 1.0 | 1271 |
+| 37 | VoidCorp | 1261 |
+| 38 | UKR Spase | 1260 |
+| 39 | 星舰月球 | 1253 |
+| 40 | Stellar Exports | 1247 |
+| 41 |  RELAX CZ/SK | 1246 |
+| 42 | Zvezdec | 1245 |
+| 43 | United Stars  | 1242 |
+| 44 | Red Dawn | 1242 |
+| 45 | Hexacropians | 1241 |
+| 46 | Imperium XIII | 1238 |
+| 47 | Неизбежный Рок | 1235 |
+| 48 | The Watchers | 1234 |
+| 49 | Brodudes Inc. | 1232 |
+| 50 | 仙女座星雲 | 1229 |
+| 51 | Спутник | 1225 |
+| 52 | GDZ | 1220 |
+| 53 | Providence | 1218 |
+| 54 | Sith Empire | 1216 |
+| 55 | Hinterm Mars | 1215 |
+| 56 | Rogue One | 1214 |
+| 57 | Spacefleet | 1213 |
+| 58 | украина№1 | 1209 |
+| 59 | Soylent Corp. | 1199 |
+| 60 | Croce del Sud | 1199 |
+| 61 | pirates spatial | 1194 |
+| 62 | The trade pub | 1192 |
+| 63 | Deadspace | 1191 |
+| 64 | ЧВК "Котики" | 1191 |
+| 65 | Sich.ua | 1189 |
+| 66 | 脉冲星际集团 | 1189 |
+| 67 | Hamburg AG 2 | 1185 |
+| 68 | RUS | 1181 |
+| 69 | Ironbear Legion | 1181 |
+| 70 | BRhue | 1181 |
+| 71 | Titan Corp. | 1179 |
+| 72 | 柯伊伯带 | 1177 |
+| 73 | Fleet Corp Ares | 1174 |
+| 74 | Lacuna Holdings | 1172 |
+| 75 | Stella☆Glow | 1160 |
+| 76 | BattleCo | 1158 |
+| 77 | Game of Stars | 1154 |
+| 78 | VoidRunners | 1153 |
+| 79 | Nine's Own Goal | 1144 |
+| 80 | EZCO | 1141 |
+| 81 | Crux Cadre | 1139 |
+| 82 | ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ | 1131 |
+| 83 | SQPT | 1130 |
+| 84 | Stellaris | 1130 |
+| 85 | On en a Gros !  | 1129 |
+| 86 | Crazy Elite | 1125 |
+| 87 | The Star League | 1123 |
+| 88 | Rising star | 1121 |
+| 89 | italian warrior | 1112 |
+| 90 | KLM | 1111 |
+| 91 | Bloodtide | 1110 |
+| 92 | Winged Pheonix | 1099 |
+| 93 | ProyectCorp | 1095 |
+| 94 | Void | 1094 |
+| 95 | 第一序列 | 1093 |
+| 96 | DTC | 1090 |
+| 97 | NERF TOY'S | 1089 |
+| 98 | Moon Catchers | 1075 |
+| 99 | Dumpster Fire | 1068 |
+| 100 | Кулак | 1066 |
