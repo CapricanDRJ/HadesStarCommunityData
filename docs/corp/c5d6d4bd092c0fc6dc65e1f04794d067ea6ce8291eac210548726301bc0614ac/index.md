@@ -19,7 +19,7 @@ Junger Konzern für freie Mitarbeiter. Wir erobern das Universum!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (706)|
+| ELO Regular | 1186 🔻  (707)|
 | ELO Competitive | 1186 🔻  (893)|
 | Total Matches | 1 |
 | Wins | 0 |

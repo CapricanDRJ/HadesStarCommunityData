@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:2 L:3 D:0 Bonus ✅ 
+description: W:3 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1737089184
+date: 1737548095
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 1737089184
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (550)|
-| ELO Competitive | 1223 🔺  (496)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1202 🔺  (490)|
+| ELO Competitive | 1231 🔺  (468)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736657184,1736577236,1736096093,1736090981,1735655519];
+        let timestamps = [1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/22 | 18-2 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2025/01/17 | 5-1 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ❌ | 2025/01/16 | 2-7 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2025/01/10 | 5-6 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |

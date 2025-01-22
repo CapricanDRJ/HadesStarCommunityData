@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AKA
-description: W:4 L:13 D:0 Bonus ✅ 32%
+description: W:5 L:13 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737057932
+date: 1737539981
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ date: 1737057932
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔺  (1167)|
-| ELO Competitive | 1190 🔺  (777)|
-| Total Matches | 17 |
-| Wins | 4 |
+| ELO Regular | 1157 🔺  (1074)|
+| ELO Competitive | 1210 🔺  (606)|
+| Total Matches | 18 |
+| Wins | 5 |
 | Losses | 13 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
+        let timestamps = [1737107981,1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/22 | 34-3 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2025/01/16 | 29-12 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/08/24 | 3-25 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2024/08/24 | 0-36 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |

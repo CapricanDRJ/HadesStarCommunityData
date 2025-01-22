@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sprite
-description: W:25 L:8 D:1 Bonus ✅ 38%
+description: W:25 L:9 D:1 Bonus ❌ 9%
 image: ./favicon.png
-date: 1736943714
+date: 1737548395
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día
 a. Nuestra filosofía: unidos somos invencibles.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1353 🔺  (94)|
-| ELO Competitive | 1425 🔺  (120)|
-| Total Matches | 34 |
+| ELO Regular | 1333 🔻  (117)|
+| ELO Competitive | 1405 🔻  (140)|
+| Total Matches | 35 |
 | Wins | 25 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 20 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736511714,1735131487,1734664271,1734088257,1732885437,1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
+        let timestamps = [1737116395,1736511714,1735131487,1734664271,1734088257,1732885437,1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/22 | 16-25 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ✅ | 2025/01/15 | 23-3 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ↔️ | 2024/12/30 | 17-17 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ✅ | 2024/12/25 | 23-8 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |

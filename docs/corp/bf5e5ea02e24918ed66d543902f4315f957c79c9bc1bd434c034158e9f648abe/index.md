@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​麻雀集团
-description: W:2 L:6 D:2 Bonus ❌ 4%
+description: W:2 L:7 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1735748276
+date: 1737539237
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1735748276
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔺  (1074)|
-| ELO Competitive | 1171 🔺  (1118)|
-| Total Matches | 10 |
+| ELO Regular | 1144 🔻  (1161)|
+| ELO Competitive | 1157 🔻  (1222)|
+| Total Matches | 11 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735316276,1734773348,1729271326,1728396433,1727960677,1727511120,1727064592,1726632268,1726057106,1725076595];
+        let timestamps = [1737107237,1735316276,1734773348,1729271326,1728396433,1727960677,1727511120,1727064592,1726632268,1726057106,1725076595];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/22 | 0-3 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/01/01 | 3-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
 | ❌ | 2024/12/26 | 0-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2024/10/23 | 2-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
