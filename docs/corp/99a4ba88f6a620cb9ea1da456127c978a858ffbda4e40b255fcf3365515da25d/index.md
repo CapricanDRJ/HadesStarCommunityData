@@ -23,7 +23,7 @@ emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1299 🔻  (169)|
-| ELO Competitive | 1402 🔻  (141)|
+| ELO Competitive | 1402 🔻  (143)|
 | Total Matches | 74 |
 | Wins | 38 |
 | Losses | 33 |

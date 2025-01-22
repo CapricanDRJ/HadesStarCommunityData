@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​共产国际
-description: W:6 L:9 D:5 Bonus ❌ 5%
+description: W:6 L:10 D:5 Bonus ❌ 5%
 image: ./favicon.png
-date: 1736502535
+date: 1737527662
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1736502535
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1152)|
-| ELO Competitive | 1221 🔻  (505)|
-| Total Matches | 20 |
+| ELO Regular | 1139 🔻  (1185)|
+| ELO Competitive | 1213 🔻  (578)|
+| Total Matches | 21 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 5 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) | 0 | 2 | 0 | 2 |
 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) | 1 | 0 | 1 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/22 | 3-13 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2025/01/10 | 0-6 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ❌ | 2025/01/10 | 0-6 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2025/01/05 | 3-6 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |

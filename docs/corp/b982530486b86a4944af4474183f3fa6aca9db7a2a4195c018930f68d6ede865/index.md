@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 边域
-description: W:5 L:9 D:1 Bonus ❌ 5%
+description: W:6 L:9 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737088884
+date: 1737521954
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1737088884
 欢迎各位萌新加入。
 ```
 ### [Discord](https://discord.gg/JXaTpU9Q)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1131)|
-| ELO Competitive | 1154 🔻  (1233)|
-| Total Matches | 15 |
-| Wins | 5 |
+| ELO Regular | 1167 🔺  (1005)|
+| ELO Competitive | 1176 🔺  (1052)|
+| Total Matches | 16 |
+| Wins | 6 |
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/22 | 3-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2025/01/17 | 0-4 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/01/11 | 0-15 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ❌ | 2025/01/06 | 1-7 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
