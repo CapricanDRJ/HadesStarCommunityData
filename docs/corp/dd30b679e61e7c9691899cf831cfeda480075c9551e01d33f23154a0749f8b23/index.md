@@ -27,7 +27,7 @@ Fundation: 8/12/19
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 ▫️  (509)|
-| ELO Competitive | 1200 ▫️  (656)|
+| ELO Competitive | 1200 ▫️  (657)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

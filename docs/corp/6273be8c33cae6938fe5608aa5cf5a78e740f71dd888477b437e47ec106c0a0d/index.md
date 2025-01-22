@@ -22,7 +22,7 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1055)|
+| ELO Regular | 1160 🔻  (1054)|
 | ELO Competitive | 1250 🔻  (409)|
 | Total Matches | 48 |
 | Wins | 23 |
