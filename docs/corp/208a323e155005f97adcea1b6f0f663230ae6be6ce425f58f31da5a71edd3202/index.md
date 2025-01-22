@@ -19,7 +19,7 @@ lol xdxd корпа сдохла
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (644)|
+| ELO Regular | 1188 🔻  (643)|
 | ELO Competitive | 1188 🔻  (817)|
 | Total Matches | 1 |
 | Wins | 0 |
