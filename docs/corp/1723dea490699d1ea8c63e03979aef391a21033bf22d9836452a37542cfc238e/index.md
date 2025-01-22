@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Soul System
-description: W:2 L:12 D:0 Bonus ✅ 38%
+description: W:2 L:13 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1737037189
+date: 1737500923
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ust we are born our souls woven from light. RS and WS focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔺  (1244)|
-| ELO Competitive | 1144 🔺  (1281)|
-| Total Matches | 14 |
+| ELO Regular | 1111 🔻  (1272)|
+| ELO Competitive | 1140 🔻  (1295)|
+| Total Matches | 15 |
 | Wins | 2 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Flagship | 7 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/21 | 5-15 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2025/01/16 | 14-11 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2025/01/11 | 0-36 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2025/01/05 | 36-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |

@@ -40,6 +40,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [AntiCerberus](https://ws.tsl.rocks/corp/05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29/) | 1205 | 1208 | 9 |
 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) | 1074 | 1125 | 36 |
 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) | 1302 | 1335 | 26 |
+| [Aquiles ](https://ws.tsl.rocks/corp/303ab147f2fce882b5cb391c0b3006c76bc2222ee409fc17b157cb149bda3c9f/) | 1187 | 1189 | 1 |
 | [ArcadianVoiders](https://ws.tsl.rocks/corp/b4538fee7721996e491a6a9105a643142b146e3a85bf664946f7b877ba9bca95/) | 1171 | 1171 | 2 |
 | [Archangels BR](https://ws.tsl.rocks/corp/9f0b92fa53a4e1b97659c0c2df1ee74fe5ffcca2d272419c4d585bb39a86338f/) | 1215 | 1215 | 1 |
 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 1346 | 1425 | 51 |
@@ -87,7 +88,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) | 1185 | 1185 | 2 |
 | [BlakkFlot](https://ws.tsl.rocks/corp/55c9ba9c0d06d8c8f3684544bd7452f440470b687b9e5a2ae40e55044b61e711/) | 1203 | 1205 | 6 |
 | [BlankBoosters](https://ws.tsl.rocks/corp/4785b4fb166ccb4b23d12d1041a31d9b52b59e5284bdf5965805338cbc1c2e33/) | 1175 | 1182 | 4 |
-| [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 1254 | 1283 | 9 |
+| [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 1266 | 1295 | 10 |
 | [BLOK EKIPA](https://ws.tsl.rocks/corp/b52b3a9c372aec6edf23c2fe617847cf4772d46976f5828c415089f5ae0bbcdd/) | 1147 | 1153 | 3 |
 | [Blood Brigade](https://ws.tsl.rocks/corp/ce89aabee19fb85413de6412017d664476f90eef8c162ac415b289797bc770b6/) | 1195 | 1196 | 1 |
 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1448 | 1647 | 109 |
@@ -159,7 +160,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Covenant](https://ws.tsl.rocks/corp/9a3c20a4642306b7e2f5f40153cc69a9eb635702ce31509522080056b6be555f/) | 1172 | 1187 | 2 |
 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) | 1163 | 1166 | 18 |
 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 1133 | 1263 | 90 |
-| [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 1170 | 1257 | 50 |
+| [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 1165 | 1252 | 51 |
 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) | 1110 | 1160 | 29 |
 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) | 1238 | 1276 | 26 |
 | [Cronos World](https://ws.tsl.rocks/corp/7f880fc0563988a97be90bd48b099c7ca69294c9f0122eca543984c8022f8b3e/) | 1171 | 1171 | 2 |
@@ -464,7 +465,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Legionnaires](https://ws.tsl.rocks/corp/7f59af7e8bb006928689aa024eb8127880b4c67b5e591e53c3e07322ed848bce/) | 1175 | 1175 | 2 |
 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) | 1203 | 1234 | 13 |
 | [Les Chevaliers](https://ws.tsl.rocks/corp/5066bce563c093b32a01ddf6e9aba77a363d997bb3b5ae47465c13434af06853/) | 1185 | 1185 | 1 |
-| [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 1459 | 1530 | 80 |
+| [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 1463 | 1535 | 81 |
 | [Lexx](https://ws.tsl.rocks/corp/66a082edf210e78bf1e98e0f3c732fd1e4ad7e68c8b1c30c645bd5b5a3fd0f54/) | 1184 | 1184 | 1 |
 | [Liasteria](https://ws.tsl.rocks/corp/06844e7328fac7e212b6b6900e7293a17f0fef5621284f3a779ae38af5ad20c4/) | 1187 | 1190 | 1 |
 | [Light Warriors](https://ws.tsl.rocks/corp/b600964c900d60ebaf73268a03f54998ec4cf8f924c8a62c5a7b5ccaea81c667/) | 1191 | 1191 | 1 |
@@ -728,7 +729,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Solysis](https://ws.tsl.rocks/corp/1dd3b30d4fba97df035310d43fa05c50aa4f77867aa67090be08e245b840b1cf/) | 1137 | 1150 | 10 |
 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) | 1314 | 1337 | 7 |
 | [SONS OF SUNS](https://ws.tsl.rocks/corp/710d8a5c78fa5042356cb21ac8c446d17cc1275cd8b5b3325582a0d4ca7ae318/) | 1144 | 1144 | 4 |
-| [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) | 1119 | 1144 | 14 |
+| [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) | 1111 | 1140 | 15 |
 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) | 1207 | 1208 | 4 |
 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) | 1261 | 1322 | 41 |
 | [Space Anomalies](https://ws.tsl.rocks/corp/8e2c64b24486e219f336469194fd8fc75ad58dd727bc948c184dbcf9896ba23f/) | 1215 | 1215 | 1 |
@@ -1290,7 +1291,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1097 | 1162 | 27 |
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1177 | 1183 | 4 |
-| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1282 | 1470 | 100 |
+| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1290 | 1474 | 101 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1321 | 1384 | 18 |
 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) | 1180 | 1190 | 6 |
 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) | 1083 | 1101 | 28 |
