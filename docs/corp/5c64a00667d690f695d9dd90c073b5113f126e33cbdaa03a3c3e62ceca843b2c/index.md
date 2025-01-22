@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​FoxTale
-description: W:3 L:5 D:1 Bonus ❌ 6%
+description: W:4 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1735333050
+date: 1737511738
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ WS only: Opt in to scan, only if you are willing to sacrifice 1 battl
 eship and 1 support ship for 5 days.
 The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (900)|
-| ELO Competitive | 1190 🔻  (773)|
-| Total Matches | 9 |
-| Wins | 3 |
+| ELO Regular | 1193 🔺  (569)|
+| ELO Competitive | 1211 🔺  (601)|
+| Total Matches | 10 |
+| Wins | 4 |
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
+        let timestamps = [1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/22 | 6-5 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ↔️ | 2024/12/27 | 4-4 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/12/21 | 3-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/12/06 | 4-6 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |

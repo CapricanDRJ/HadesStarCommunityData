@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Лютые
-description: W:18 L:10 D:1 Bonus ❌ 8%
+description: W:18 L:11 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1735021454
+date: 1737515043
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 1735021454
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (105)|
-| ELO Competitive | 1415 🔺  (127)|
-| Total Matches | 29 |
+| ELO Regular | 1333 🔻  (119)|
+| ELO Competitive | 1409 🔻  (134)|
+| Total Matches | 30 |
 | Wins | 18 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
-| Streak | 8 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734589454,1733369217,1732769140,1731551527,1730972446,1727924937,1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
+        let timestamps = [1737083043,1734589454,1733369217,1732769140,1731551527,1730972446,1727924937,1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/22 | 25-31 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2024/12/24 | 25-8 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/12/10 | 29-7 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2024/12/03 | 23-7 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |

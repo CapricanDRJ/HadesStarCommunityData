@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Highlife
-description: W:24 L:34 D:1 Bonus ✅ 36%
+description: W:24 L:34 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737404451
 ---
@@ -18,7 +18,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 .
 ```
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

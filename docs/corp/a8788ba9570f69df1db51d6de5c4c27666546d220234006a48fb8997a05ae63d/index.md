@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​47підрозділССП
-description: W:4 L:2 D:0 Bonus ✅ 
+description: W:4 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1737344644
 ---
@@ -15,11 +15,11 @@ date: 1737344644
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (265)|
+| ELO Regular | 1247 🔻  (264)|
 | ELO Competitive | 1267 🔻  (362)|
 | Total Matches | 6 |
 | Wins | 4 |

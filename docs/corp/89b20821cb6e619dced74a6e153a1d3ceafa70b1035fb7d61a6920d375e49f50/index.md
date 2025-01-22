@@ -21,7 +21,7 @@ ons! //You must Join our Discord within 7 days
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (278)|
+| ELO Regular | 1243 🔺  (277)|
 | ELO Competitive | 1278 🔺  (332)|
 | Total Matches | 15 |
 | Wins | 9 |

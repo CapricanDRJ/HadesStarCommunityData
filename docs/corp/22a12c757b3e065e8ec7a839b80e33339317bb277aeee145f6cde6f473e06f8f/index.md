@@ -23,7 +23,7 @@ r zero communication.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (364)|
-| ELO Competitive | 1250 🔻  (411)|
+| ELO Competitive | 1250 🔻  (412)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 9 |
