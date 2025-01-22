@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:16 L:0 D:0 Bonus ✅ 32%
+description: W:17 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737527662
+date: 1737533070
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ ui giàce NONNA DI CAPPUCCETTO.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1389 🔺  (66)|
-| ELO Competitive | 1407 🔺  (138)|
-| Total Matches | 16 |
-| Wins | 16 |
+| ELO Regular | 1399 🔺  (60)|
+| ELO Competitive | 1411 🔺  (131)|
+| Total Matches | 17 |
+| Wins | 17 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/22 | 22-2 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ✅ | 2025/01/22 | 5-0 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/01/17 | 32-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2025/01/09 | 27-3 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
