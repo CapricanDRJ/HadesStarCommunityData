@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​使命白星
-description: W:14 L:10 D:2 Bonus ✅ 32%
+description: W:14 L:10 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1737557414
 ---
@@ -16,7 +16,7 @@ date: 1737557414
 欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名
 单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。<size=700><color=red>集团睡觉了
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
