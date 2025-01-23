@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:5 L:4 D:2 Bonus ❌ 6%
+description: W:6 L:4 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1736467673
+date: 1737607600
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1736467673
 ```
 欢迎大家的加入♡
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (466)|
-| ELO Competitive | 1214 🔻  (568)|
-| Total Matches | 11 |
-| Wins | 5 |
+| ELO Regular | 1219 🔺  (372)|
+| ELO Competitive | 1230 🔺  (471)|
+| Total Matches | 12 |
+| Wins | 6 |
 | Losses | 4 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
+        let timestamps = [1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/23 | 20-3 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2025/01/10 | 0-15 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2025/01/04 | 18-0 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ❌ | 2024/08/05 | 4-15 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |

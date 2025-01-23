@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:20 L:25 D:2 Bonus ❌ 7%
+description: W:20 L:26 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737130064
+date: 1737606098
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ English speaking – would you want to communicate
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (964)|
-| ELO Competitive | 1264 🔻  (368)|
-| Total Matches | 47 |
+| ELO Regular | 1157 🔻  (1079)|
+| ELO Competitive | 1248 🔻  (416)|
+| Total Matches | 48 |
 | Wins | 20 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736698064,1736249657,1735789824,1735237855,1734794376,1734378231,1734341867,1733845787,1733541986,1733395654,1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
+        let timestamps = [1737174098,1736698064,1736249657,1735789824,1735237855,1734794376,1734378231,1734341867,1733845787,1733541986,1733395654,1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) | 1 | 1 | 0 | 2 |
 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) | 0 | 3 | 0 | 3 |
 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) | 0 | 2 | 0 | 2 |
 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) | 2 | 0 | 0 | 2 |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/23 | 1-16 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ❌ | 2025/01/17 | 4-24 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2025/01/12 | 13-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ✅ | 2025/01/07 | 12-2 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |

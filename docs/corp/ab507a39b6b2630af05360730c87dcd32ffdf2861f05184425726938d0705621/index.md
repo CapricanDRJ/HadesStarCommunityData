@@ -21,8 +21,8 @@ We’re a BIG family! ~ V
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (801)|
-| ELO Competitive | 1184 🔻  (975)|
+| ELO Regular | 1184 🔻  (800)|
+| ELO Competitive | 1184 🔻  (973)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

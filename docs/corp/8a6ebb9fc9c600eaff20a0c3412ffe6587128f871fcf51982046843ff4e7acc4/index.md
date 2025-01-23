@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:6 L:6 D:1 Bonus ❌ 
+description: W:7 L:6 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1737190167
+date: 1737606098
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ date: 1737190167
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (507)|
-| ELO Competitive | 1239 🔻  (447)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1214 🔺  (426)|
+| ELO Competitive | 1255 🔺  (392)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,12 +137,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/23 | 16-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2025/01/18 | 3-23 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2025/01/13 | 10-18 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ❌ | 2025/01/12 | 2-14 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |

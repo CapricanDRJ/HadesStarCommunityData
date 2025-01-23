@@ -20,8 +20,8 @@ the official USAR (usar is a micronation) corporation.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (891)|
-| ELO Competitive | 1181 🔺  (1017)|
+| ELO Regular | 1176 🔻  (890)|
+| ELO Competitive | 1181 🔺  (1016)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |
