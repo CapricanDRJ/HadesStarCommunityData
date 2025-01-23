@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​U.P.E
-description: W:0 L:3 D:1 Bonus ❌ 3%
+description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1735398546
+date: 1737642763
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ United People of Earth.  For the betterment of all people of earth!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1030)|
-| ELO Competitive | 1165 🔻  (1163)|
-| Total Matches | 4 |
+| ELO Regular | 1155 🔻  (1086)|
+| ELO Competitive | 1157 🔻  (1219)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734966546,1734386344,1733843933,1700065946];
+        let timestamps = [1737210763,1734966546,1734386344,1733843933,1700065946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/23 | 0-15 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ❌ | 2024/12/28 | 0-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2024/12/21 | 0-23 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ↔️ | 2024/12/15 | 0-0 | [Space Invaders](https://ws.tsl.rocks/corp/aad5929a4d7c718c994b2c0d8de9becca4653d6e22d5b9b66aef4fb88a6caced/) |

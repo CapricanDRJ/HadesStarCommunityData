@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ℬlackStar Order
-description: W:14 L:3 D:0 Bonus ✅ 32%
+description: W:15 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737381906
+date: 1737642763
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 1737381906
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1331 🔻  (123)|
-| ELO Competitive | 1337 🔺  (206)|
-| Total Matches | 17 |
-| Wins | 14 |
+| ELO Regular | 1340 🔺  (108)|
+| ELO Competitive | 1345 🔺  (193)|
+| Total Matches | 18 |
+| Wins | 15 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736949906,1736771389,1736510813,1736309993,1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
+        let timestamps = [1737210763,1736949906,1736771389,1736510813,1736309993,1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/23 | 15-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ❌ | 2025/01/20 | 0-9 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2025/01/18 | 9-3 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2025/01/15 | 3-1 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |

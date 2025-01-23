@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​НИФИГАСЕБЕ
-description: W:8 L:25 D:0 Bonus ❌ 10%
+description: W:8 L:26 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1732031941
+date: 1737646070
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1732031941
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1084 🔻  (1322)|
-| ELO Competitive | 1105 🔻  (1347)|
-| Total Matches | 33 |
+| ELO Regular | 1081 🔻  (1325)|
+| ELO Competitive | 1103 🔻  (1349)|
+| Total Matches | 34 |
 | Wins | 8 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731599941,1729851586,1725343714,1713876789,1713325469,1712883163,1712440865,1711956490,1710365184,1710174086,1709909662,1709456554,1709007032,1708552094,1708009993,1707547971,1707106982,1706661628,1705943997,1705463472,1705028033,1704594389,1704112962,1703457838,1702962666,1702461062,1701999119,1701550410,1701053015,1700608198,1700111691,1699674301,1698693080];
+        let timestamps = [1737214070,1731599941,1729851586,1725343714,1713876789,1713325469,1712883163,1712440865,1711956490,1710365184,1710174086,1709909662,1709456554,1709007032,1708552094,1708009993,1707547971,1707106982,1706661628,1705943997,1705463472,1705028033,1704594389,1704112962,1703457838,1702962666,1702461062,1701999119,1701550410,1701053015,1700608198,1700111691,1699674301,1698693080];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/23 | 0-22 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2024/11/19 | 0-35 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/10/30 | 0-32 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024/09/08 | 0-28 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |

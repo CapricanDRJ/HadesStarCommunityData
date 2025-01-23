@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Soul System
-description: W:2 L:13 D:0 Bonus ✅ 38%
+description: W:2 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737500923
 ---
@@ -18,7 +18,7 @@ e stars our souls take flight. In the cosmic night. For in the star d
 ust we are born our souls woven from light. RS and WS focused.
 ```
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
