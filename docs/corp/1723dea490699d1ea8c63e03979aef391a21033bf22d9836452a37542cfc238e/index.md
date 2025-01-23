@@ -22,7 +22,7 @@ ust we are born our souls woven from light. RS and WS focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1273)|
+| ELO Regular | 1111 🔻  (1272)|
 | ELO Competitive | 1140 🔻  (1295)|
 | Total Matches | 15 |
 | Wins | 2 |
