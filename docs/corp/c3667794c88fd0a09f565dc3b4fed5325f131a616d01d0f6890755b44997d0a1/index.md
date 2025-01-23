@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​超新星联盟
-description: W:7 L:14 D:3 Bonus ❌ 5%
+description: W:7 L:14 D:4 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731452634
+date: 1737624376
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,16 @@ date: 1731452634
 30～50高员50+干事。欢迎外国人（foriengers are welcom）（不准擦）。14天清人 
 
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1255)|
-| ELO Competitive | 1198 🔻  (680)|
-| Total Matches | 24 |
+| ELO Regular | 1117 🔺  (1251)|
+| ELO Competitive | 1196 🔻  (699)|
+| Total Matches | 25 |
 | Wins | 7 |
 | Losses | 14 |
-| Draws | 3 |
+| Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731020634,1727709152,1726465807,1724823179,1724761704,1724131498,1724062981,1723515435,1723433417,1723013581,1722955285,1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
+        let timestamps = [1737192376,1731020634,1727709152,1726465807,1724823179,1724761704,1724131498,1724062981,1723515435,1723433417,1723013581,1722955285,1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/23 | 2-2 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
 | ❌ | 2024/11/12 | 0-15 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/10/05 | 0-15 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ↔️ | 2024/09/21 | 0-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |

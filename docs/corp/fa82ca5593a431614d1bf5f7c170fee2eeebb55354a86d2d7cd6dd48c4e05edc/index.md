@@ -25,7 +25,7 @@ Discord : x9QTsuZ3mg
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (544)|
-| ELO Competitive | 1198 🔻  (685)|
+| ELO Competitive | 1198 🔻  (684)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

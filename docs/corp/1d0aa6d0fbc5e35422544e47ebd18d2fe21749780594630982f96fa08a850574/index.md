@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bon Ariens
-description: W:1 L:6 D:0 Bonus ❌ 5%
+description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737023360
+date: 1737624376
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,12 @@ nt font les autres 😅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1199)|
-| ELO Competitive | 1148 🔻  (1259)|
-| Total Matches | 7 |
+| ELO Regular | 1134 🔻  (1201)|
+| ELO Competitive | 1150 🔺  (1251)|
+| Total Matches | 8 |
 | Wins | 1 |
 | Losses | 6 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 2 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736591360,1735888081,1731142831,1729358180,1728204411,1727327215,1726822483];
+        let timestamps = [1737192376,1736591360,1735888081,1731142831,1729358180,1728204411,1727327215,1726822483];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/23 | 2-2 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2025/01/16 | 0-16 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/01/08 | 0-28 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ❌ | 2024/11/14 | 0-11 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |

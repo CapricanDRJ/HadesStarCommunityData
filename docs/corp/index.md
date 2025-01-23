@@ -95,7 +95,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1125 | 1319 | 90 |
 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) | 1242 | 1284 | 9 |
 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) | 1194 | 1213 | 9 |
-| [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) | 1135 | 1148 | 7 |
+| [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) | 1134 | 1150 | 8 |
 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) | 1307 | 1380 | 34 |
 | [Borg Unimatrix](https://ws.tsl.rocks/corp/531df8e9aac8819fe1a276c74c54cf37677cae22fe6d4330efe75bc5e5bf8bae/) | 1191 | 1192 | 1 |
 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea/) | 1212 | 1249 | 14 |
@@ -131,7 +131,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [CENTINELA](https://ws.tsl.rocks/corp/a7b4952c4c6448ae272ebd43ac83af1809c89edc0822f0d8f9df7e3e59687300/) | 1188 | 1188 | 1 |
 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) | 1215 | 1219 | 2 |
 | [Cerulean Nebula](https://ws.tsl.rocks/corp/b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81/) | 1247 | 1294 | 24 |
-| [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 1339 | 1423 | 50 |
+| [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 1344 | 1429 | 51 |
 | [challenger corp](https://ws.tsl.rocks/corp/7c39adae75191c15a3bab070d08a4cf21efb3b5ec37d69363b7c1060f272d80d/) | 1220 | 1243 | 16 |
 | [chrtrncmndr](https://ws.tsl.rocks/corp/d45b04221ecdcddea93f7062e9a00110605a540dd8b40f83ae26b81bc51a393b/) | 1171 | 1171 | 2 |
 | [cikopo](https://ws.tsl.rocks/corp/523cdd29cdccf7732fed590e941edb3ad2c4e7130ef6b474e9ae7a0855af8cc7/) | 1162 | 1163 | 3 |
@@ -896,7 +896,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) | 1273 | 1305 | 27 |
 | [U\.I\.H](https://ws.tsl.rocks/corp/78c1e8450633b71e1dc3de24e211c79adb14f4eb544e904b6caab0dd9fe8e0c6/) | 1155 | 1155 | 3 |
 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) | 1164 | 1165 | 4 |
-| [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) | 1052 | 1173 | 64 |
+| [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) | 1047 | 1168 | 65 |
 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) | 1126 | 1170 | 19 |
 | [ua online](https://ws.tsl.rocks/corp/44b08e73701f4c4f27862a999db8466f21cb2d041006906eb9d101fe30bdbc91/) | 1163 | 1166 | 3 |
 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 1346 | 1531 | 68 |
@@ -1365,7 +1365,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) | 1151 | 1173 | 17 |
 | [解语者研究会](https://ws.tsl.rocks/corp/444a03ecd02c6388fe2328a85f5d3d21260884e4f52926078ca30880fe21c4dd/) | 1186 | 1186 | 1 |
 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) | 1248 | 1260 | 13 |
-| [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) | 1116 | 1198 | 24 |
+| [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) | 1117 | 1196 | 25 |
 | [超越声速](https://ws.tsl.rocks/corp/c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183/) | 1191 | 1197 | 3 |
 | [边界\-萌新俱乐部](https://ws.tsl.rocks/corp/b5f7e751f69db2b698fd436f3d60af1d1d435f5eb8d0984e45f8fcc7cbc74453/) | 1229 | 1229 | 2 |
 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) | 1210 | 1211 | 7 |
