@@ -176,32 +176,6 @@ permalink: /trade/
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Vallochk 🇫🇷</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>6</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS12</td>
-                    <td>318%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/798154265335169054">Infos</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">Ƭʀιƈӄʏ</th>
         </tr>
         <tr>

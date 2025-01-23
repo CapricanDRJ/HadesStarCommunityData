@@ -32,7 +32,7 @@ QQ群号为131920392，
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1236)|
-| ELO Competitive | 1311 🔻  (257)|
+| ELO Competitive | 1311 🔻  (256)|
 | Total Matches | 92 |
 | Wins | 41 |
 | Losses | 48 |

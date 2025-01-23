@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​StargateCommand
-description: W:0 L:13 D:1 Bonus ❌ 4%
+description: W:0 L:14 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1735789742
+date: 1737667411
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ FF WS scanner if unable to participate.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1350)|
-| ELO Competitive | 1070 🔻  (1372)|
-| Total Matches | 14 |
+| ELO Regular | 1039 🔻  (1357)|
+| ELO Competitive | 1062 🔻  (1376)|
+| Total Matches | 15 |
 | Wins | 0 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
+        let timestamps = [1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/23 | 1-6 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ❌ | 2025/01/02 | 0-4 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ❌ | 2024/12/26 | 0-3 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ❌ | 2024/12/20 | 0-17 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |

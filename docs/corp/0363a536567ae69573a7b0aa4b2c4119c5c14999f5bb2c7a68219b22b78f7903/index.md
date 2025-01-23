@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:15 L:6 D:1 Bonus ✅ 32%
+description: W:15 L:7 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737196263
+date: 1737666809
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ upo si deseas unirte solo consulta al primer oficial.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (161)|
-| ELO Competitive | 1320 🔺  (240)|
-| Total Matches | 22 |
+| ELO Regular | 1290 🔻  (181)|
+| ELO Competitive | 1310 🔻  (257)|
+| Total Matches | 23 |
 | Wins | 15 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736764263,1736237722,1735200290,1734673283,1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
+        let timestamps = [1737234809,1736764263,1736237722,1735200290,1734673283,1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/23 | 4-17 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2025/01/18 | 25-0 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2025/01/12 | 14-2 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ❌ | 2024/12/31 | 1-28 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
