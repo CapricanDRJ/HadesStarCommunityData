@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​共产国际
-description: W:6 L:10 D:5 Bonus ❌ 5%
+description: W:7 L:10 D:5 Bonus ✅ 30%
 image: ./favicon.png
-date: 1737527662
+date: 1737699258
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1737527662
 同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成
 员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1184)|
-| ELO Competitive | 1213 🔻  (577)|
-| Total Matches | 21 |
-| Wins | 6 |
+| ELO Regular | 1150 🔺  (1125)|
+| ELO Competitive | 1235 🔺  (456)|
+| Total Matches | 22 |
+| Wins | 7 |
 | Losses | 10 |
 | Draws | 5 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1737267258,1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/24 | 4-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/01/22 | 3-13 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2025/01/10 | 0-6 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ❌ | 2025/01/10 | 0-6 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |

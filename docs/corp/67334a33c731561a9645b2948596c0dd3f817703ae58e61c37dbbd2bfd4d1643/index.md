@@ -28,7 +28,7 @@ https://discord.gg/kTmpmWx
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (701)|
-| ELO Competitive | 1186 🔻  (875)|
+| ELO Competitive | 1186 🔻  (873)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:63 L:27 D:3 Bonus ✅ 40%
+description: W:63 L:27 D:3 Bonus ❌ 10%
 image: ./favicon.png
 date: 1737539981
 ---
@@ -18,7 +18,7 @@ articipation appreciated.                            No experience re
 quired. We can help speed your progress :)
 ```
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

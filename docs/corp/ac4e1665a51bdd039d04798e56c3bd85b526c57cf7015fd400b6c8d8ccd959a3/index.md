@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:15 L:19 D:1 Bonus ✅ 34%
+description: W:15 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737554708
 ---
@@ -25,7 +25,7 @@ Corporaciones aliadas:
 Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
