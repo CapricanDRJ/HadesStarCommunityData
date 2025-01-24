@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ALPHA SQUADRON
-description: W:1 L:0 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736714422
+date: 1737716185
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1736714422
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (455)|
-| ELO Competitive | 1215 🔺  (561)|
-| Total Matches | 1 |
+| ELO Regular | 1197 🔻  (536)|
+| ELO Competitive | 1203 🔻  (628)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736282422];
+        let timestamps = [1737284185,1736282422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/24 | 0-8 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ✅ | 2025/01/12 | 6-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 
 ---

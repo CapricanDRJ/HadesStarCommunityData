@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hinterm Mars
-description: W:46 L:43 D:0 Bonus ✅ 38%
+description: W:46 L:43 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737113527
 ---
@@ -18,11 +18,11 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
  WZ (Discordpflicht).               Twinkkonzern: $tar$
 ```
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (125)|
+| ELO Regular | 1327 🔺  (124)|
 | ELO Competitive | 1536 🔺  (38)|
 | Total Matches | 89 |
 | Wins | 46 |

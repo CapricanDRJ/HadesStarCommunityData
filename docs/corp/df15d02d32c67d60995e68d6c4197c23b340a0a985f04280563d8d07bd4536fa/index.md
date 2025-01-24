@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:16 L:13 D:7 Bonus ❌ 7%
+description: W:17 L:13 D:7 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737115331
+date: 1737716185
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1737115331
 ```
 14 дней неактив в игре — кик. 300+ мощь империи.
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (249)|
-| ELO Competitive | 1296 🔺  (290)|
-| Total Matches | 36 |
-| Wins | 16 |
+| ELO Regular | 1267 🔺  (217)|
+| ELO Competitive | 1307 🔺  (269)|
+| Total Matches | 37 |
+| Wins | 17 |
 | Losses | 13 |
 | Draws | 7 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736683331,1736662292,1736150788,1736104511,1735632380,1735185871,1735185570,1734685868,1734668777,1734198976,1734185920,1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
+        let timestamps = [1737284185,1736683331,1736662292,1736150788,1736104511,1735632380,1735185871,1735185570,1734685868,1734668777,1734198976,1734185920,1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/24 | 8-0 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ↔️ | 2025/01/17 | 0-0 | [pérola negra ](https://ws.tsl.rocks/corp/731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a/) |
 | ✅ | 2025/01/17 | 4-2 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ✅ | 2025/01/11 | 4-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |

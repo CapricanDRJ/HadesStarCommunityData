@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lupus Regnum
-description: W:4 L:2 D:0 Bonus ✅ 
+description: W:5 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1737171840
+date: 1737720596
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 1737171840
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (350)|
-| ELO Competitive | 1256 🔺  (391)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1237 🔺  (309)|
+| ELO Competitive | 1273 🔺  (343)|
+| Total Matches | 7 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
+        let timestamps = [1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/24 | 5-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/01/18 | 0-7 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2025/01/17 | 15-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2025/01/10 | 11-3 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |

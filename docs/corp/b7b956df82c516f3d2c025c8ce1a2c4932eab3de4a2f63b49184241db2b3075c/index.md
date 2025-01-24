@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Witness
-description: W:16 L:25 D:2 Bonus ❌ 7%
+description: W:16 L:26 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737699258
+date: 1737712781
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Note- Discord link is updated. Will expire in 7 DAYS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1051 🔻  (1349)|
-| ELO Competitive | 1173 🔻  (1081)|
-| Total Matches | 43 |
+| ELO Regular | 1044 🔻  (1353)|
+| ELO Competitive | 1175 🔻  (1066)|
+| Total Matches | 44 |
 | Wins | 16 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 2 |
 | Streak Record | 12 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/24 | 3-12 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2025/01/24 | 0-4 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2025/01/18 | 3-29 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ❌ | 2025/01/18 | 0-17 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |

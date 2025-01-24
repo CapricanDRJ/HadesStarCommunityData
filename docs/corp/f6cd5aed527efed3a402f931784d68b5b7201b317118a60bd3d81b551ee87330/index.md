@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Black Star llc.
-description: W:36 L:21 D:0 Bonus ❌ 8%
+description: W:37 L:21 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737045908
+date: 1737717590
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ d & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star l
 lc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔻  (168)|
-| ELO Competitive | 1388 🔻  (150)|
-| Total Matches | 57 |
-| Wins | 36 |
+| ELO Regular | 1303 🔺  (159)|
+| ELO Competitive | 1395 🔺  (147)|
+| Total Matches | 58 |
+| Wins | 37 |
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736613908,1736106316,1735330400,1734725268,1734030874,1733379131,1730969141,1729658077,1723486588,1722996035,1721362850,1720924279,1719980088,1719368261,1718699318,1717760257,1716817774,1716815068,1716083143,1716078338,1715620754,1715429053,1715183291,1714696283,1714079300,1713591065,1713140379,1712625064,1712101025,1711591404,1711516886,1710870875,1710866968,1710368150,1710365184,1709891331,1709885021,1709194833,1709193932,1708741701,1708734190,1708063932,1708061979,1707437096,1707425979,1706765000,1706765000,1706143237,1706138130,1705433723,1704995277,1704520157,1704057375,1703584048,1703066244,1702614642,1702175543];
+        let timestamps = [1737285590,1736613908,1736106316,1735330400,1734725268,1734030874,1733379131,1730969141,1729658077,1723486588,1722996035,1721362850,1720924279,1719980088,1719368261,1718699318,1717760257,1716817774,1716815068,1716083143,1716078338,1715620754,1715429053,1715183291,1714696283,1714079300,1713591065,1713140379,1712625064,1712101025,1711591404,1711516886,1710870875,1710866968,1710368150,1710365184,1709891331,1709885021,1709194833,1709193932,1708741701,1708734190,1708063932,1708061979,1707437096,1707425979,1706765000,1706765000,1706143237,1706138130,1705433723,1704995277,1704520157,1704057375,1703584048,1703066244,1702614642,1702175543];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/24 | 17-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2025/01/16 | 0-12 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2025/01/10 | 7-2 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2025/01/01 | 6-13 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
