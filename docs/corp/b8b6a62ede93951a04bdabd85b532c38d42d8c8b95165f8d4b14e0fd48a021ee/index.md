@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hermitage
-description: W:14 L:10 D:0 Bonus ✅ 34%
+description: W:14 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737711880
 ---
@@ -18,12 +18,12 @@ Corporation active et joueuse.WS régulièrement prévues.
 Lien: https://discord.gg/gaBKUb5t
 ```
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔻  (246)|
-| ELO Competitive | 1304 🔻  (275)|
+| ELO Competitive | 1304 🔻  (274)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

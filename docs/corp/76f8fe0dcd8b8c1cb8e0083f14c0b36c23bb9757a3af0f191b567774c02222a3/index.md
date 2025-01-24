@@ -21,7 +21,7 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔻  (123)|
+| ELO Regular | 1329 🔻  (124)|
 | ELO Competitive | 1397 🔻  (144)|
 | Total Matches | 55 |
 | Wins | 31 |

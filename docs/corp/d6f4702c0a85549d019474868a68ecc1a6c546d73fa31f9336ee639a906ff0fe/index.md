@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Equinox
-description: W:9 L:1 D:0 Bonus ❌ 5%
+description: W:9 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1735982949
+date: 1737725406
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ deadline though. We all do what we do when we do it...
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (160)|
-| ELO Competitive | 1312 🔺  (254)|
-| Total Matches | 10 |
+| ELO Regular | 1283 🔻  (195)|
+| ELO Competitive | 1293 🔻  (298)|
+| Total Matches | 11 |
 | Wins | 9 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735550949,1734796780,1734338262,1733747833,1733116220,1732512209,1732006778,1731563544,1731130809,1730646117];
+        let timestamps = [1737293406,1735550949,1734796780,1734338262,1733747833,1733116220,1732512209,1732006778,1731563544,1731130809,1730646117];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/24 | 3-11 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ✅ | 2025/01/04 | 5-0 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ✅ | 2024/12/26 | 16-3 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2024/12/21 | 6-12 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |

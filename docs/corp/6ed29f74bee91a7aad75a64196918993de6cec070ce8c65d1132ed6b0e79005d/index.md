@@ -22,7 +22,7 @@ ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1265 🔺  (224)|
-| ELO Competitive | 1325 🔺  (230)|
+| ELO Competitive | 1325 🔺  (229)|
 | Total Matches | 23 |
 | Wins | 15 |
 | Losses | 8 |

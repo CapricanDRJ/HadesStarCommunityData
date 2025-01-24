@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Looping
-description: W:31 L:26 D:0 Bonus ✅ 38%
+description: W:31 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737127959
 ---
@@ -17,11 +17,11 @@ Toi aussi viens evènementialiser un bénéfice collaboratif dans notre
 kick-off d'idéation de projet consultative du phallus de Fred
 ```
 ### [Discord](https://discord.gg/tdyuYBQ5xs)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (279)|
+| ELO Regular | 1243 🔺  (281)|
 | ELO Competitive | 1347 🔺  (192)|
 | Total Matches | 57 |
 | Wins | 31 |

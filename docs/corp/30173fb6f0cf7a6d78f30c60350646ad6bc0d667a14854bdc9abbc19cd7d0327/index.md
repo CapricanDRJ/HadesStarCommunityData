@@ -24,8 +24,8 @@ Mandatory Discord: p3dTaE9
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔻  (126)|
-| ELO Competitive | 1391 🔻  (149)|
+| ELO Regular | 1327 🔻  (127)|
+| ELO Competitive | 1391 🔻  (150)|
 | Total Matches | 41 |
 | Wins | 30 |
 | Losses | 11 |
