@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​日月星辰
-description: W:4 L:7 D:0 Bonus ✅ 34%
+description: W:4 L:8 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737355160
+date: 1737794219
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1737355160
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔺  (1057)|
-| ELO Competitive | 1190 🔺  (774)|
-| Total Matches | 11 |
+| ELO Regular | 1149 🔻  (1135)|
+| ELO Competitive | 1181 🔻  (1013)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
+        let timestamps = [1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 11-22 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2025/01/20 | 11-0 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2025/01/14 | 0-33 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ❌ | 2024/12/05 | 0-16 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |

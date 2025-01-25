@@ -24,7 +24,7 @@ QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (705)|
-| ELO Competitive | 1186 🔻  (888)|
+| ELO Competitive | 1186 🔻  (887)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

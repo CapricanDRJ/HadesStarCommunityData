@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​pirates spatial
-description: W:56 L:49 D:0 Bonus ✅ 50%
+description: W:56 L:49 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1737190768
 ---
@@ -21,7 +21,7 @@ WS HL hebdo
 https://discord.gg/wZcGGNZ
 ```
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
