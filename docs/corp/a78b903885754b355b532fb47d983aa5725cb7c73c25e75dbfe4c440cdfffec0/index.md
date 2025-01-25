@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Prosperity
-description: W:0 L:2 D:0 Bonus ❌ 12%
+description: W:1 L:3 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1737073260
+date: 1737815857
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,15 +22,15 @@ Discord: WARZG9k
 Members are expected to join our Discord where all communication happ
 ens
 ```
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (705)|
-| ELO Competitive | 1188 🔻  (810)|
-| Total Matches | 2 |
-| Wins | 0 |
-| Losses | 2 |
+| ELO Regular | 1182 🔻  (848)|
+| ELO Competitive | 1209 🔺  (607)|
+| Total Matches | 4 |
+| Wins | 1 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736641260,1728561425];
+        let timestamps = [1737383857,1737379724,1736641260,1728561425];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 1-9 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
+| ✅ | 2025/01/25 | 8-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2025/01/17 | 0-19 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/10/15 | 1-43 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 

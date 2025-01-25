@@ -21,8 +21,8 @@ czności na Discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (489)|
-| ELO Competitive | 1204 🔻  (621)|
+| ELO Regular | 1203 🔻  (490)|
+| ELO Competitive | 1204 🔻  (622)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

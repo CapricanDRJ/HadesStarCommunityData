@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New Horizons
-description: W:6 L:7 D:0 Bonus ❌ 7%
+description: W:6 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1726651365
+date: 1737811047
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (492)|
-| ELO Competitive | 1235 🔻  (454)|
-| Total Matches | 13 |
+| ELO Regular | 1192 🔻  (577)|
+| ELO Competitive | 1229 🔻  (476)|
+| Total Matches | 14 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726219365,1719222512,1716227363,1713183940,1713179132,1712575780,1711384080,1710176490,1707742240,1704716097,1701808278,1701097492,1699292019];
+        let timestamps = [1737379047,1726219365,1719222512,1716227363,1713183940,1713179132,1712575780,1711384080,1710176490,1707742240,1704716097,1701808278,1701097492,1699292019];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,12 +130,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 43-48 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/09/18 | 17-42 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/06/29 | 17-27 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2024/05/25 | 54-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |

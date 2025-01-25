@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星光滨岸
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737381605
+date: 1737814354
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1737381605
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (922)|
-| ELO Competitive | 1174 🔻  (1071)|
-| Total Matches | 2 |
+| ELO Regular | 1159 🔻  (1058)|
+| ELO Competitive | 1161 🔻  (1191)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736949605,1736452217];
+        let timestamps = [1737382354,1736949605,1736452217];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 0-14 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2025/01/20 | 0-11 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ❌ | 2025/01/14 | 2-25 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 

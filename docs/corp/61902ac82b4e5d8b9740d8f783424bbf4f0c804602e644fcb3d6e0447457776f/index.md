@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:27 L:17 D:1 Bonus ❌ 8%
+description: W:27 L:17 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1737203088
+date: 1737818863
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ mended, & remember you are expendable, we love you
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (336)|
-| ELO Competitive | 1375 🔻  (163)|
-| Total Matches | 45 |
+| ELO Regular | 1229 🔻  (338)|
+| ELO Competitive | 1371 🔻  (172)|
+| Total Matches | 46 |
 | Wins | 27 |
 | Losses | 17 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736771088,1735879668,1735417842,1735405820,1734962037,1734957830,1734521846,1734498713,1733861716,1733379131,1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1737386863,1736771088,1735879668,1735417842,1735405820,1734962037,1734957830,1734521846,1734498713,1733861716,1733379131,1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 0 | 1 | 1 | 2 |
 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 0 | 2 | 0 | 2 |
 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 0 | 2 | 0 | 2 |
 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) | 1 | 1 | 0 | 2 |
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/25 | 9-9 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/01/18 | 3-21 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2025/01/08 | 6-14 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2025/01/02 | 3-14 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
