@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DL Academy
-description: W:1 L:1 D:0 Bonus ✅ 26%
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1737167633
 ---
@@ -17,7 +17,7 @@ date: 1737167633
 ain roster after gaining battle experience on the White Stars. Ready 
 to rise and conquer!"
 ```
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CIS
-description: W:46 L:11 D:1 Bonus ✅ 38%
+description: W:46 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737167032
 ---
@@ -17,7 +17,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
  and fight against the tyranny of the Cerberus!
 ```
 ### [Discord](https://discord.gg/eVBvw68KEU)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

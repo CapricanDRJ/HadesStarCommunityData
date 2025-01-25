@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: W:27 L:49 D:0 Bonus ✅ 46%
+description: W:27 L:49 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1737168534
 ---
@@ -22,7 +22,7 @@ g."
 Zum Server->95WWyXqrhQ</color>
 ```
 ### [Discord](https://discord.gg/95WWyXqrhQ)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
