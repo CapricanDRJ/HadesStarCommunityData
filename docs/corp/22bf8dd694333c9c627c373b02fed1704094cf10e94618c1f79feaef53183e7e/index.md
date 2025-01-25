@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新?的星际集团?
-description: W:22 L:22 D:2 Bonus ✅ 34%
+description: W:22 L:22 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737728111
 ---
@@ -23,11 +23,11 @@ date: 1737728111
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
 ### [Discord](https://discord.gg/新星团总部)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1094)|
+| ELO Regular | 1154 🔻  (1095)|
 | ELO Competitive | 1266 🔻  (369)|
 | Total Matches | 46 |
 | Wins | 22 |

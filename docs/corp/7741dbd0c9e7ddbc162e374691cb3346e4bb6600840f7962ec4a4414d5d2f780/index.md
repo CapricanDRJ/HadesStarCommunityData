@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tuatha De Danan
-description: W:59 L:17 D:0 Bonus ✅ 42%
+description: W:59 L:17 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1737224735
 ---
@@ -17,11 +17,11 @@ New players welcome, we help players get ready for White Stars and Da
 rk Red Stars. (First Language: English)
 ```
 ### [Discord](https://discord.gg/zeDuYzkCzk)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1432 🔺  (36)|
+| ELO Regular | 1432 🔺  (37)|
 | ELO Competitive | 1522 🔺  (48)|
 | Total Matches | 76 |
 | Wins | 59 |

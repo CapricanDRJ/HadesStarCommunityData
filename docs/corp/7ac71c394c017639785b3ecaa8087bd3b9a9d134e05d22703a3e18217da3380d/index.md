@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:17 L:40 D:0 Bonus ✅ 42%
+description: W:17 L:40 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1737781301
 ---
@@ -17,11 +17,11 @@ date: 1737781301
 b>  Peacefully collecting relics since 2018.                   😎 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1318)|
+| ELO Regular | 1087 🔻  (1319)|
 | ELO Competitive | 1205 🔻  (616)|
 | Total Matches | 57 |
 | Wins | 17 |
