@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:3 L:7 D:1 Bonus ❌ 5%
+description: W:3 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737236457
+date: 1737833892
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ adicionado aqui no chat!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1158)|
-| ELO Competitive | 1178 🔻  (1034)|
-| Total Matches | 11 |
+| ELO Regular | 1130 🔻  (1216)|
+| ELO Competitive | 1167 🔻  (1148)|
+| Total Matches | 12 |
 | Wins | 3 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 5-8 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2025/01/18 | 3-5 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ↔️ | 2025/01/08 | 6-6 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/01/01 | 0-3 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |

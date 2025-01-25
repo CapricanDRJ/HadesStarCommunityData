@@ -22,7 +22,7 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (118)|
+| ELO Regular | 1334 🔺  (119)|
 | ELO Competitive | 1488 🔺  (72)|
 | Total Matches | 88 |
 | Wins | 49 |
