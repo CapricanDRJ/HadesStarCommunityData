@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpaca Nation
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:5 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1737240364
+date: 1737760572
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1737240364
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (328)|
-| ELO Competitive | 1255 🔺  (395)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1245 🔺  (273)|
+| ELO Competitive | 1268 🔺  (360)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736808364,1736312170,1735872458,1735836098,1735386885];
+        let timestamps = [1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/24 | 15-1 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/01/18 | 17-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/01/13 | 8-0 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |
 | ✅ | 2025/01/08 | 13-0 | [BrbroZ](https://ws.tsl.rocks/corp/30b4148a5831c38d4e258cd0a3e21598dcb3cab51ae585e7035c8900b836d2ba/) |

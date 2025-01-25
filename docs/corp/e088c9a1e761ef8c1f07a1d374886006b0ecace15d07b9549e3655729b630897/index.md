@@ -23,8 +23,8 @@ ht so ernst nehmen.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔺  (1339)|
-| ELO Competitive | 1136 🔺  (1300)|
+| ELO Regular | 1068 🔺  (1340)|
+| ELO Competitive | 1136 🔺  (1301)|
 | Total Matches | 61 |
 | Wins | 20 |
 | Losses | 37 |

@@ -22,8 +22,8 @@ weekly White Stars - enable scanner to opt-in! Discord advised
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (285)|
-| ELO Competitive | 1284 🔺  (318)|
+| ELO Regular | 1242 🔻  (286)|
+| ELO Competitive | 1284 🔺  (320)|
 | Total Matches | 9 |
 | Wins | 6 |
 | Losses | 3 |

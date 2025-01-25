@@ -22,7 +22,7 @@ Españoles. Veteranos y novatos.                   Discord obligatorio
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (810)|
+| ELO Regular | 1184 🔺  (811)|
 | ELO Competitive | 1232 🔺  (466)|
 | Total Matches | 9 |
 | Wins | 3 |
