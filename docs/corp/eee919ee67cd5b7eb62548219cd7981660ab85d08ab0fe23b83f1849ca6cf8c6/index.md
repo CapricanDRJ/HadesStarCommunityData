@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:31 L:38 D:0 Bonus ❌ 14%
+description: W:31 L:39 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1737200384
+date: 1737800830
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ Corpo des alts : On en a petit !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (529)|
-| ELO Competitive | 1328 🔻  (225)|
-| Total Matches | 69 |
+| ELO Regular | 1191 🔻  (587)|
+| ELO Competitive | 1320 🔻  (239)|
+| Total Matches | 70 |
 | Wins | 31 |
-| Losses | 38 |
+| Losses | 39 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736768384,1736246952,1735555456,1734971956,1734429603,1733829859,1733221081,1732537147,1731926247,1731328563,1730712822,1730205287,1730190863,1729537286,1729514138,1728889956,1728300574,1727683906,1727083820,1726476022,1724410963,1722763553,1716913648,1716204825,1715612942,1715604527,1714995507,1714992502,1714390871,1713865973,1713432137,1713177630,1712570372,1712047535,1711964603,1711473619,1711360341,1710770519,1710760001,1710176490,1710152149,1709652465,1709650662,1709040090,1708603471,1708432192,1707929160,1707909024,1707382704,1707381803,1706791444,1706284474,1706266441,1705694566,1705236286,1705157850,1704636161,1704189293,1703452429,1703008245,1703003235,1702571064,1702028568,1701342133,1700827287,1700322073,1699882311,1699436555,1698929613];
+        let timestamps = [1737368830,1736768384,1736246952,1735555456,1734971956,1734429603,1733829859,1733221081,1732537147,1731926247,1731328563,1730712822,1730205287,1730190863,1729537286,1729514138,1728889956,1728300574,1727683906,1727083820,1726476022,1724410963,1722763553,1716913648,1716204825,1715612942,1715604527,1714995507,1714992502,1714390871,1713865973,1713432137,1713177630,1712570372,1712047535,1711964603,1711473619,1711360341,1710770519,1710760001,1710176490,1710152149,1709652465,1709650662,1709040090,1708603471,1708432192,1707929160,1707909024,1707382704,1707381803,1706791444,1706284474,1706266441,1705694566,1705236286,1705157850,1704636161,1704189293,1703452429,1703008245,1703003235,1702571064,1702028568,1701342133,1700827287,1700322073,1699882311,1699436555,1698929613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,13 +137,13 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) | 0 | 3 | 0 | 3 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 2 | 0 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 0 | 4 | 0 | 4 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) | 0 | 3 | 0 | 3 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 1 | 1 | 0 | 2 |
-| [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) | 0 | 2 | 0 | 2 |
 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) | 0 | 2 | 0 | 2 |
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 1 | 2 | 0 | 3 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1 | 1 | 0 | 2 |
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 13-52 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2025/01/18 | 20-36 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ✅ | 2025/01/12 | 21-4 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2025/01/04 | 17-27 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

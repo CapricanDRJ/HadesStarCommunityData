@@ -22,7 +22,7 @@ r, John Redd. We do not serve under a flag but only through one ideal
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔻  (214)|
-| ELO Competitive | 1286 🔻  (319)|
+| ELO Competitive | 1286 🔻  (320)|
 | Total Matches | 10 |
 | Wins | 8 |
 | Losses | 2 |

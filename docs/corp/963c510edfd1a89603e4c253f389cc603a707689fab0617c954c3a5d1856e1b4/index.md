@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Черное солнце
-description: W:0 L:3 D:1 Bonus ❌ 3%
+description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1734601090
+date: 1737802933
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ https://t.me/klrlo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1095)|
-| ELO Competitive | 1178 🔻  (1042)|
-| Total Matches | 4 |
+| ELO Regular | 1142 🔻  (1171)|
+| ELO Competitive | 1167 🔻  (1152)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734169090,1723126871,1707478802,1707466240];
+        let timestamps = [1737370933,1734169090,1723126871,1707478802,1707466240];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/25 | 0-10 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2024/12/19 | 2-8 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2024/08/13 | 0-14 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/02/14 | 0-3 | [Венерский Союз](https://ws.tsl.rocks/corp/6d869628a64fc11a17264dacfd741e7d603069d526d32a166c48ff7fd9499bf6/) |
