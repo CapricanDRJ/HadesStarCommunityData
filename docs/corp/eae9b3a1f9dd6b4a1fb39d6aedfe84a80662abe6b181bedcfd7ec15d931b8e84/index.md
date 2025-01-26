@@ -24,7 +24,7 @@ Season 58: 3 wins 1 loses
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (360)|
+| ELO Regular | 1221 🔻  (361)|
 | ELO Competitive | 1253 🔻  (398)|
 | Total Matches | 38 |
 | Wins | 21 |

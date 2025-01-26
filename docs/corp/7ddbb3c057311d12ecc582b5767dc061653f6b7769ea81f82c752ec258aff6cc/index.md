@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Internationals
-description: W:38 L:13 D:0 Bonus ✅ 54%
+description: W:38 L:14 D:0 Bonus ✅ 54%
 image: ./favicon.png
-date: 1737325415
+date: 1737925843
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ S2 donations welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1443 🔺  (32)|
-| ELO Competitive | 1525 🔺  (45)|
-| Total Matches | 51 |
+| ELO Regular | 1425 🔻  (39)|
+| ELO Competitive | 1517 🔻  (52)|
+| Total Matches | 52 |
 | Wins | 38 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 18 |
 | Flagship | 12 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736893415,1736372582,1736279415,1735734233,1735132389,1734448236,1733902270,1733260450,1732703011,1732063575,1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
+        let timestamps = [1737493843,1736893415,1736372582,1736279415,1735734233,1735132389,1734448236,1733902270,1733260450,1732703011,1732063575,1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 2 | 0 | 0 | 2 |
 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 2 | 0 | 0 | 2 |
 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 3 | 0 | 0 | 3 |
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 22-38 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/01/19 | 41-20 | [Wacky Wabbits](https://ws.tsl.rocks/corp/c0af31b9cd252e7a0621043e7e37f4cd497b96e0806f3310c8e1fd6757296c20/) |
 | ✅ | 2025/01/13 | 36-8 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/01/12 | 19-77 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
