@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:29 L:10 D:1 Bonus ✅ 36%
+description: W:29 L:10 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737745245
 ---
@@ -18,12 +18,12 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 ...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1374 🔻  (76)|
-| ELO Competitive | 1446 🔻  (101)|
+| ELO Competitive | 1446 🔻  (102)|
 | Total Matches | 40 |
 | Wins | 29 |
 | Losses | 10 |
