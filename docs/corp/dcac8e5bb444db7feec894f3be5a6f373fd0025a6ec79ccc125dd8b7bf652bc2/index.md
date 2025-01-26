@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:11 L:15 D:2 Bonus ✅ 32%
+description: W:11 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1737264401
 ---
@@ -18,7 +18,7 @@ date: 1737264401
  副主席：蛋王黑名单：罗马创世神 丶LLLLrbia～丶瓜老板五世 本团为半死团预计将在明年1月苏醒
 ```
 ### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

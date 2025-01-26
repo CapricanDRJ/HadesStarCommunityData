@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:13 L:5 D:0 Bonus ✅ 32%
+description: W:13 L:6 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737606399
+date: 1737866642
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 1737606399
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (175)|
-| ELO Competitive | 1322 🔺  (231)|
-| Total Matches | 18 |
+| ELO Regular | 1274 🔻  (205)|
+| ELO Competitive | 1322 🔺  (232)|
+| Total Matches | 19 |
 | Wins | 13 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 2 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 0-1 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2025/01/23 | 7-4 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
 | ✅ | 2025/01/18 | 7-0 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/01/12 | 4-0 | [KhaOSs](https://ws.tsl.rocks/corp/95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88/) |

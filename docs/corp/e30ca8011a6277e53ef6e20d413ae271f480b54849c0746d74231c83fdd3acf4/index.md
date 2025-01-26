@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ALPHA
-description: W:26 L:7 D:0 Bonus ✅ 34%
+description: W:27 L:7 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737418275
+date: 1737866341
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ Crecer principal objetivo        Leko:Join us we need active member
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1404 🔺  (54)|
-| ELO Competitive | 1437 🔺  (111)|
-| Total Matches | 33 |
-| Wins | 26 |
+| ELO Regular | 1409 🔺  (50)|
+| ELO Competitive | 1444 🔺  (105)|
+| Total Matches | 34 |
+| Wins | 27 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/26 | 18-0 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2025/01/21 | 15-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/01/15 | 17-1 | [MD EMPIRE](https://ws.tsl.rocks/corp/69e8222c1c47637d7ed1a3c64683816837a73293a9164b2836022943206d21eb/) |
 | ✅ | 2025/01/10 | 6-5 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |

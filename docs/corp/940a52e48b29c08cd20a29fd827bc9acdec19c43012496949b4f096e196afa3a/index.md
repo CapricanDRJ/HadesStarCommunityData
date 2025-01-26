@@ -20,7 +20,7 @@ Mighty Morphin' Power Rangers
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (421)|
-| ELO Competitive | 1223 🔺  (497)|
+| ELO Competitive | 1223 🔺  (496)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

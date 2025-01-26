@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​毛绒团子
-description: W:3 L:1 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1737264401
 ---
@@ -15,7 +15,7 @@ date: 1737264401
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
