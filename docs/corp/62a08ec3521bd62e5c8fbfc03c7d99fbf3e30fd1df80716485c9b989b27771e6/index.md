@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:14 L:15 D:0 Bonus ❌ 16%
+description: W:14 L:16 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1734805122
+date: 1737907810
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ WS pilots in the game owe their pedigree to Watchers-I and now we are
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (480)|
-| ELO Competitive | 1290 🔻  (308)|
-| Total Matches | 29 |
+| ELO Regular | 1196 🔻  (544)|
+| ELO Competitive | 1287 🔻  (318)|
+| Total Matches | 30 |
 | Wins | 14 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 12 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734373122,1731881482,1727861505,1725975676,1715058905,1714204586,1713319761,1712675841,1712078187,1711560454,1711061667,1710885299,1710092962,1710088453,1709621516,1709306913,1708625711,1708453531,1708024119,1707365879,1706282670,1705588480,1703978039,1702590904,1701878001,1701279623,1700493086,1699556450,1698761919];
+        let timestamps = [1737475810,1734373122,1731881482,1727861505,1725975676,1715058905,1714204586,1713319761,1712675841,1712078187,1711560454,1711061667,1710885299,1710092962,1710088453,1709621516,1709306913,1708625711,1708453531,1708024119,1707365879,1706282670,1705588480,1703978039,1702590904,1701878001,1701279623,1700493086,1699556450,1698761919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 0 | 0 | 2 |
 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 0 | 2 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 6-32 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/12/21 | 28-52 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2024/11/22 | 27-10 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024/10/07 | 50-27 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |

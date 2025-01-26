@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:11 L:1 D:0 Bonus ✅ 36%
+description: W:12 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737329922
+date: 1737911417
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,12 +24,13 @@ date: 1737329922
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (128)|
-| ELO Competitive | 1370 🔺  (175)|
-| Total Matches | 12 |
-| Wins | 11 |
+| ELO Regular | 1344 🔺  (107)|
+| ELO Competitive | 1390 🔺  (151)|
+| Total Matches | 13 |
+| Wins | 12 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -49,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
+        let timestamps = [1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/26 | 31-6 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2025/01/19 | 35-4 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2025/01/13 | 10-31 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/12/31 | 14-13 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

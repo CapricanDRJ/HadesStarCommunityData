@@ -19,7 +19,7 @@ SOLO GENTE ACTIVA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔻  (257)|
+| ELO Regular | 1252 🔻  (258)|
 | ELO Competitive | 1281 🔻  (331)|
 | Total Matches | 11 |
 | Wins | 7 |

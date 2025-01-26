@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:19 L:5 D:0 Bonus ❌ 7%
+description: W:19 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736706306
+date: 1737915625
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ ce/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1363 🔻  (84)|
-| ELO Competitive | 1414 🔻  (128)|
-| Total Matches | 24 |
+| ELO Regular | 1343 🔻  (109)|
+| ELO Competitive | 1400 🔻  (140)|
+| Total Matches | 25 |
 | Wins | 19 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 9 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736274306,1734793475,1733252034,1732472547,1731489923,1730118200,1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
+        let timestamps = [1737483625,1736274306,1734793475,1733252034,1732472547,1731489923,1730118200,1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 4-17 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2025/01/12 | 1-6 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2024/12/26 | 13-0 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ✅ | 2024/12/08 | 13-0 | [☆Sternenkrieger](https://ws.tsl.rocks/corp/92ab203a792b5a43a059604230acd16e90840dfee16043dfb35f8fa512772a39/) |
