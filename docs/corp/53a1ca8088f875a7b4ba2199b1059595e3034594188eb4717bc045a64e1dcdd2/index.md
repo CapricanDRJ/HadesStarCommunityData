@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:12 L:7 D:1 Bonus ✅ 32%
+description: W:12 L:8 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737323010
+date: 1737858831
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ telar, Alfa Omega GuistonRA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (206)|
-| ELO Competitive | 1309 🔺  (262)|
-| Total Matches | 20 |
+| ELO Regular | 1263 🔻  (227)|
+| ELO Competitive | 1296 🔻  (289)|
+| Total Matches | 21 |
 | Wins | 12 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 3-42 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
 | ✅ | 2025/01/19 | 23-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/01/14 | 25-2 | [星光滨岸](https://ws.tsl.rocks/corp/75dfe9299a63edce44f4604dc0bbe19eca157df4838e6e3a46621b7f14a89c39/) |
 | ↔️ | 2025/01/09 | 6-6 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |

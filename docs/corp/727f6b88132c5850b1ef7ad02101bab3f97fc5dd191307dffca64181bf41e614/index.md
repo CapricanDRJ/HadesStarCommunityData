@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:17 L:10 D:0 Bonus ❌ 6%
+description: W:17 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1726656172
+date: 1737853829
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ rd:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔻  (205)|
-| ELO Competitive | 1310 🔻  (259)|
-| Total Matches | 27 |
+| ELO Regular | 1262 🔻  (231)|
+| ELO Competitive | 1295 🔻  (295)|
+| Total Matches | 28 |
 | Wins | 17 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726224172,1725284540,1724321714,1723884879,1723387115,1722928538,1722432994,1721971646,1721480348,1721025966,1720589240,1720139085,1717780883,1714143292,1711667420,1711156312,1709299700,1707379699,1706916461,1706450359,1706017320,1705578262,1705066794,1704468171,1703679915,1702629066,1701693763];
+        let timestamps = [1737421829,1726224172,1725284540,1724321714,1723884879,1723387115,1722928538,1722432994,1721971646,1721480348,1721025966,1720589240,1720139085,1717780883,1714143292,1711667420,1711156312,1709299700,1707379699,1706916461,1706450359,1706017320,1705578262,1705066794,1704468171,1703679915,1702629066,1701693763];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 0-15 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ❌ | 2024/09/18 | 0-18 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024/09/07 | 13-3 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/08/27 | 1-33 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
