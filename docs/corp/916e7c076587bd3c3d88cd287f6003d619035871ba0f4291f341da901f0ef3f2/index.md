@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:2 L:4 D:1 Bonus ❌ 4%
+description: W:3 L:4 D:1 Bonus ✅ 28%
 image: ./favicon.png
-date: 1736708710
+date: 1737889476
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1736708710
 ```
 
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (885)|
-| ELO Competitive | 1186 🔻  (903)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1192 🔺  (571)|
+| ELO Competitive | 1207 🔺  (616)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
+        let timestamps = [1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/26 | 12-7 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2025/01/12 | 8-26 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ❌ | 2024/12/31 | 0-8 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/18 | 3-5 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |

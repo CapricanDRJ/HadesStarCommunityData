@@ -688,7 +688,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) | 1141 | 1146 | 12 |
 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) | 1109 | 1109 | 9 |
 | [Rzeczypospolita](https://ws.tsl.rocks/corp/669a044e2d8e476c293b7bdc70511065849ca26356c1f3062cc7570251459d6b/) | 1185 | 1186 | 2 |
-| [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) | 1177 | 1186 | 7 |
+| [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) | 1192 | 1207 | 8 |
 | [Sad Panda 2\.0](https://ws.tsl.rocks/corp/74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c/) | 1155 | 1159 | 9 |
 | [SafeSpace](https://ws.tsl.rocks/corp/5f36c32cb9d25f553cd4a4c7b01aa29cd94172ed8709f42d55b6421223040d2e/) | 1216 | 1216 | 1 |
 | [Saggitarius A](https://ws.tsl.rocks/corp/f277212cba1456eb5a971b7ff854f040097bfc6aa3a0d9befb948692ae06c3c7/) | 1171 | 1171 | 2 |
@@ -1287,7 +1287,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 1268 | 1296 | 24 |
 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) | 1194 | 1235 | 32 |
 | [星际集团](https://ws.tsl.rocks/corp/5487e6c91bbb3348790aa90be274a471189edab52d1567d86412023e0e501871/) | 1160 | 1163 | 8 |
-| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1190 | 1330 | 61 |
+| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1174 | 1330 | 62 |
 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) | 1183 | 1185 | 1 |
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1097 | 1162 | 27 |
