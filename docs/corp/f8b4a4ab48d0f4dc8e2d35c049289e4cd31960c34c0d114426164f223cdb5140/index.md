@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Star League
-description: W:7 L:15 D:0 Bonus ❌ 14%
+description: W:8 L:15 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1732935796
+date: 1737876256
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ r=red>Red Star 9-12</color> and competitive <color=white>White Star</
 color> focus.
 ```
 ### [Discord](https://discord.gg/2cEAstZ)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (1174)|
-| ELO Competitive | 1198 🔺  (686)|
-| Total Matches | 22 |
-| Wins | 7 |
+| ELO Regular | 1166 🔺  (1013)|
+| ELO Competitive | 1224 🔺  (494)|
+| Total Matches | 23 |
+| Wins | 8 |
 | Losses | 15 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 12 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732503796,1726517801,1725906569,1725207318,1724608410,1722893384,1721310564,1720523745,1719204786,1716870969,1711357036,1709071947,1708262411,1707236611,1706762597,1706552239,1705960229,1705318324,1704733830,1704137911,1703262794,1699010444];
+        let timestamps = [1737444256,1732503796,1726517801,1725906569,1725207318,1724608410,1722893384,1721310564,1720523745,1719204786,1716870969,1711357036,1709071947,1708262411,1707236611,1706762597,1706552239,1705960229,1705318324,1704733830,1704137911,1703262794,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/26 | 48-0 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2024/11/30 | 38-11 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2024/09/21 | 19-41 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) |
 | ❌ | 2024/09/14 | 14-36 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |

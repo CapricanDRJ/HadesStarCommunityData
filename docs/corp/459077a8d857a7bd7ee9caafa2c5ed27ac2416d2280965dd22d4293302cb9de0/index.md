@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:9 L:14 D:2 Bonus ❌ 6%
+description: W:9 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737866341
+date: 1737874168
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1737866341
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (1222)|
-| ELO Competitive | 1222 🔻  (500)|
-| Total Matches | 25 |
+| ELO Regular | 1118 🔻  (1248)|
+| ELO Competitive | 1222 🔻  (501)|
+| Total Matches | 26 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737434341,1736941014,1736910715,1736437487,1735996284,1735492963,1735051573,1735051272,1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1737442168,1737434341,1736941014,1736910715,1736437487,1735996284,1735492963,1735051573,1735051272,1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/26 | 3-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/01/26 | 0-18 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2025/01/20 | 0-3 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ❌ | 2025/01/20 | 0-2 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
