@@ -21,8 +21,8 @@ p us win White Stars. So join and be welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (912)|
-| ELO Competitive | 1174 🔻  (1071)|
+| ELO Regular | 1174 🔻  (911)|
+| ELO Competitive | 1174 🔻  (1070)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

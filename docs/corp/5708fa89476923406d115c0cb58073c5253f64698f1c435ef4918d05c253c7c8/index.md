@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​          银钒   
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737606399
+date: 1737959403
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1737606399
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (890)|
-| ELO Competitive | 1178 🔻  (1035)|
-| Total Matches | 2 |
+| ELO Regular | 1165 🔻  (1023)|
+| ELO Competitive | 1168 🔻  (1142)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737174399,1736604287];
+        let timestamps = [1737527403,1737174399,1736604287];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/27 | 3-5 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 | ❌ | 2025/01/23 | 4-7 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2025/01/16 | 1-16 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 

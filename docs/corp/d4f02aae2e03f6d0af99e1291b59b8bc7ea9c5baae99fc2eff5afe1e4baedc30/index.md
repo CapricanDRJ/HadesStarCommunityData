@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​日月星辰
-description: W:4 L:8 D:0 Bonus ✅ 34%
+description: W:4 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737794219
 ---
@@ -17,7 +17,7 @@ date: 1737794219
                          <#00FF00>QQ群：910734770                      
                                    <#00RFFF>尽量进群，方便沟通
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

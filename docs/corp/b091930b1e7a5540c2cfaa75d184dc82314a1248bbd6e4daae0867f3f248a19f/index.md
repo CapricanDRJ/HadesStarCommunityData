@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:10 L:14 D:0 Bonus ❌ 10%
+description: W:11 L:14 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1737331110
+date: 1737958591
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ date: 1737331110
 </i></color>
 ```
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (357)|
-| ELO Competitive | 1269 🔻  (359)|
-| Total Matches | 24 |
-| Wins | 10 |
+| ELO Regular | 1232 🔺  (327)|
+| ELO Competitive | 1277 🔺  (341)|
+| Total Matches | 25 |
+| Wins | 11 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/27 | 35-0 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |
 | ❌ | 2025/01/19 | 8-30 | [USSR](https://ws.tsl.rocks/corp/d1f3713f3ff030b927f8726f1b332023410e7573481c1e7aabf8e4799047c31c/) |
 | ✅ | 2025/01/14 | 33-0 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 | ❌ | 2025/01/09 | 10-39 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
