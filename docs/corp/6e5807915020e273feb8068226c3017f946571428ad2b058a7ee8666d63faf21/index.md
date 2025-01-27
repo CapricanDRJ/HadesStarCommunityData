@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:27 L:64 D:4 Bonus ✅ 36%
+description: W:27 L:64 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737342715
 ---
@@ -18,12 +18,12 @@ embers when join our DISCORD while in test period will get a free Off
 icer promote). Red is always SUS!
 ```
 ### [Discord](https://discord.gg/btpSMwVJQD)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1136 🔺  (1196)|
-| ELO Competitive | 1301 🔺  (281)|
+| ELO Competitive | 1301 🔺  (280)|
 | Total Matches | 95 |
 | Wins | 27 |
 | Losses | 64 |
