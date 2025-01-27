@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​大舰队がな
-description: W:0 L:9 D:1 Bonus ❌ 6%
+description: W:0 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1727920313
+date: 1737979323
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1727920313
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1330)|
-| ELO Competitive | 1103 🔻  (1350)|
-| Total Matches | 10 |
+| ELO Regular | 1055 🔻  (1347)|
+| ELO Competitive | 1100 🔻  (1356)|
+| Total Matches | 12 |
 | Wins | 0 |
-| Losses | 9 |
+| Losses | 11 |
 | Draws | 1 |
 | Flagship | 4 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727488313,1710053809,1708621503,1708178570,1707736531,1704991670,1704386827,1704167961,1703530862,1702827727];
+        let timestamps = [1737547323,1737545820,1727488313,1710053809,1708621503,1708178570,1707736531,1704991670,1704386827,1704167961,1703530862,1702827727];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/27 | 0-51 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
+| ❌ | 2025/01/27 | 0-21 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/10/03 | 0-34 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/03/15 | 0-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2024/02/27 | 0-21 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |

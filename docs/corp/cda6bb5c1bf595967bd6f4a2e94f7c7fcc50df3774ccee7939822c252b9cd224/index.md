@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​萌新集团
-description: W:6 L:1 D:0 Bonus ❌ 
+description: W:6 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737036287
+date: 1737972713
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1737036287
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (232)|
-| ELO Competitive | 1274 🔺  (345)|
-| Total Matches | 7 |
+| ELO Regular | 1250 🔻  (263)|
+| ELO Competitive | 1262 🔻  (378)|
+| Total Matches | 8 |
 | Wins | 6 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
+        let timestamps = [1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/27 | 0-8 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/01/16 | 16-1 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
 | ✅ | 2025/01/11 | 15-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2025/01/06 | 7-10 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |

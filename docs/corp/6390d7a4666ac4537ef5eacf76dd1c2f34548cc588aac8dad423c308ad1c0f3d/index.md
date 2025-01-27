@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:10 L:28 D:0 Bonus ✅ 32%
+description: W:10 L:28 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1737846815
 ---
@@ -17,7 +17,7 @@ date: 1737846815
 席QQ群：756986132 如果敌人发起进攻，就向敌人运输船舰进攻。禁止开启允许旁观。禁止私自动旗舰。没事不要打敌人。星火协会成员，〈b
 r〉南极星联盟成员
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
