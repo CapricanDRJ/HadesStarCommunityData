@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:76 L:22 D:1 Bonus ✅ 42%
+description: W:76 L:22 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1737395132
 ---
@@ -18,7 +18,7 @@ Chill group running weekly ws focused on teamwork, strategy, and comm
 unication. <B>Discord required!</B> Newbies welcome!
 ```
 ### [Discord](https://discord.gg/xhXh3DkNBW)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
