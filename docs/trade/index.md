@@ -103,32 +103,6 @@ permalink: /trade/
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Dragon_Galactique</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>10</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS8</td>
-                    <td>201%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/1230198599531364362">Serveur commu fr</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">LeDaiZi</th>
         </tr>
         <tr>

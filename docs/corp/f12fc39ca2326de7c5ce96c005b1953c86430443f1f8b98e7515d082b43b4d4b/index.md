@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Providence
-description: W:35 L:21 D:0 Bonus ❌ 13%
+description: W:36 L:21 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1737270109
+date: 1737936659
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ Part of Red Star Raiders alliance
 https://discord.gg/nUgqhbn
 ```
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔻  (196)|
-| ELO Competitive | 1372 🔻  (171)|
-| Total Matches | 56 |
-| Wins | 35 |
+| ELO Regular | 1291 🔺  (179)|
+| ELO Competitive | 1385 🔺  (156)|
+| Total Matches | 57 |
+| Wins | 36 |
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736838109,1735641394,1733764363,1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
+        let timestamps = [1737504659,1736838109,1735641394,1733764363,1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 2 | 0 | 0 | 2 |
 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 3 | 0 | 3 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
@@ -152,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/27 | 33-11 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2025/01/19 | 31-39 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2025/01/05 | 14-23 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ❌ | 2024/12/14 | 21-26 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
