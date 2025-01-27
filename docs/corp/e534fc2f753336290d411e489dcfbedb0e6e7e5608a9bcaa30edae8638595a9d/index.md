@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:21 L:15 D:1 Bonus ❌ 7%
+description: W:21 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737264401
+date: 1737988941
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (273)|
-| ELO Competitive | 1324 🔻  (229)|
-| Total Matches | 37 |
+| ELO Regular | 1215 🔻  (416)|
+| ELO Competitive | 1306 🔻  (268)|
+| Total Matches | 39 |
 | Wins | 21 |
-| Losses | 15 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736832401,1735654016,1735411530,1735213511,1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1737556941,1737550028,1736832401,1735654016,1735411530,1735213511,1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/27 | 3-4 | [AwA](https://ws.tsl.rocks/corp/9e1ba6b6db84b30e4d5cc2ff2933e0472d2e943670f25b712564f1cc01a63feb/) |
+| ❌ | 2025/01/27 | 2-25 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |
 | ❌ | 2025/01/19 | 0-19 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/01/05 | 14-1 | [EDEMs](https://ws.tsl.rocks/corp/76ba95fd9096dfec91dcf08671e93c566f43d1500a55541d9ba3d011fd28e055/) |
 | ❌ | 2025/01/02 | 2-9 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |

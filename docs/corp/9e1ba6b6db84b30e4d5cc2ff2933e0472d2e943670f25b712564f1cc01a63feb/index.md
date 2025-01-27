@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AwA
-description: W:3 L:3 D:1 Bonus ❌ 4%
+description: W:4 L:3 D:1 Bonus ✅ 30%
 image: ./favicon.png
-date: 1736016166
+date: 1737988941
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1736016166
 其他为普通成员
 黑名单：三体第一舰队
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (495)|
-| ELO Competitive | 1204 🔺  (629)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1218 🔺  (381)|
+| ELO Competitive | 1223 🔺  (497)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735584166,1727700134,1703325901,1700751247,1700212370,1699380407,1698925706];
+        let timestamps = [1737556941,1735584166,1727700134,1703325901,1700751247,1700212370,1699380407,1698925706];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/27 | 4-3 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ↔️ | 2025/01/04 | 3-3 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/10/05 | 9-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2023/12/28 | 0-11 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
