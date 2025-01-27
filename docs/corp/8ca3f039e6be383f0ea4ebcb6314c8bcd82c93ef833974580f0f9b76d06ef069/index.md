@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​KINETIC
-description: W:11 L:0 D:0 Bonus ❌ 8%
+description: W:12 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1733009420
+date: 1738011183
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ Welcome to KINETIC! A corporation almost as old as the Hades universe
  100+ White Star wins and powerful allies!
 ```
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1366 🔺  (80)|
-| ELO Competitive | 1382 🔺  (159)|
-| Total Matches | 11 |
-| Wins | 11 |
+| ELO Regular | 1381 🔺  (71)|
+| ELO Competitive | 1402 🔺  (140)|
+| Total Matches | 12 |
+| Wins | 12 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 8 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732577420,1731351708,1725297467,1711346222,1708797595,1708277742,1707677641,1707079640,1706486728,1703444916,1699235233];
+        let timestamps = [1737579183,1732577420,1731351708,1725297467,1711346222,1708797595,1708277742,1707677641,1707079640,1706486728,1703444916,1699235233];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/27 | 33-19 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
 | ✅ | 2024/11/30 | 44-17 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ✅ | 2024/11/16 | 40-5 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024/09/07 | 23-15 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

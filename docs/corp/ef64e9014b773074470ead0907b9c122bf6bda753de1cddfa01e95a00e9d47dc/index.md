@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:35 L:55 D:0 Bonus ✅ 50%
+description: W:35 L:55 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1737404451
 ---
@@ -19,7 +19,7 @@ date: 1737404451
 Discord obligatorio: KAguMmM
 ```
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -340,7 +340,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) | 1173 | 1246 | 42 |
 | [Green Dwarf](https://ws.tsl.rocks/corp/dbfbd1738d98b2f1a9419727fde30070aae0f158a0aa36a78561489c2bb3283a/) | 1247 | 1262 | 5 |
 | [Gregycool](https://ws.tsl.rocks/corp/f3d8710927bd368f1c3120cd4d2f0b3130f4ba478e4bdee0555ced460ba56b1a/) | 1186 | 1186 | 1 |
-| [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1361 | 1517 | 77 |
+| [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1346 | 1496 | 78 |
 | [Gulinga](https://ws.tsl.rocks/corp/63ab273ab0cfc2919038a10f1641498d1beb4496658f7c5a0fee55c2518815fe/) | 1171 | 1171 | 2 |
 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 1064 | 1123 | 33 |
 | [Gwiezdna Horda](https://ws.tsl.rocks/corp/f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18/) | 1255 | 1255 | 4 |
@@ -404,7 +404,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Intari](https://ws.tsl.rocks/corp/cd40328f5e2c9c9a9048ffbc090999675ccd6672e60c1ec9e8113daa822bf02f/) | 1183 | 1183 | 2 |
 | [Intercepter Inc](https://ws.tsl.rocks/corp/77a77d3506a7caa4235a9cd6e9789f562649180fe9404bab2bb70d4433a2f520/) | 1184 | 1184 | 1 |
 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) | 1389 | 1418 | 18 |
-| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1425 | 1517 | 52 |
+| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1436 | 1535 | 53 |
 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 1160 | 1316 | 95 |
 | [Interstellar](https://ws.tsl.rocks/corp/4e7e0c5594c3dd4b977908b1b7fb27f64573bc6157bff2e898d08b502b7e3b4b/) | 1187 | 1187 | 1 |
 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) | 1212 | 1216 | 3 |
@@ -434,7 +434,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Killer Bees\.](https://ws.tsl.rocks/corp/d546496b646097fcf90415eea28a75ef1cde9735eab1aab84c044f1f8a323de0/) | 1185 | 1185 | 1 |
 | [Killer Shadow](https://ws.tsl.rocks/corp/e90d22a90153c1fd6c2f02d7d408f1cba9abb2de7f76c38fe7b1aa769df23de7/) | 1109 | 1114 | 12 |
 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6/) | 1244 | 1257 | 10 |
-| [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/) | 1366 | 1382 | 11 |
+| [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/) | 1381 | 1402 | 12 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 926 | 1062 | 106 |
 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) | 1122 | 1140 | 6 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 1135 | 1220 | 54 |
@@ -529,7 +529,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [New Orbit ©](https://ws.tsl.rocks/corp/158a33fb6417b876a2c91e1274223bf6e35548abc4a68e5adc81776c3ed7eafa/) | 1186 | 1186 | 1 |
 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908/) | 1238 | 1272 | 11 |
 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 1244 | 1246 | 3 |
-| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1310 | 1393 | 63 |
+| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1299 | 1384 | 64 |
 | [Nexland Ind\.](https://ws.tsl.rocks/corp/d944d7c48fcdf12fbe80bbfaec82482895285c344a643e8e679fc22617a2c44a/) | 1214 | 1245 | 10 |
 | [Next Hyperion](https://ws.tsl.rocks/corp/a18302feedfddd2a6e918dd649a70ac1c2bd249622dbfc3a3c04c06ca8adaa22/) | 1168 | 1172 | 8 |
 | [Nightmares ](https://ws.tsl.rocks/corp/3f3ee2092ce10bb26d48aebec84860645a59d9e7f80c3ca4908edf6eed5c0d0d/) | 1171 | 1172 | 2 |
