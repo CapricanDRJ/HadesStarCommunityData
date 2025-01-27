@@ -20,8 +20,8 @@ Friendly casual corp. Our discord: discord.gg/nCabaKz
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1024 🔻  (1367)|
-| ELO Competitive | 1078 🔻  (1370)|
+| ELO Regular | 1024 🔻  (1368)|
+| ELO Competitive | 1078 🔻  (1371)|
 | Total Matches | 32 |
 | Wins | 7 |
 | Losses | 25 |

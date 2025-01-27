@@ -19,8 +19,8 @@ Need active players for White Star Missions!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (633)|
-| ELO Competitive | 1195 🔻  (710)|
+| ELO Regular | 1188 🔻  (634)|
+| ELO Competitive | 1195 🔻  (711)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

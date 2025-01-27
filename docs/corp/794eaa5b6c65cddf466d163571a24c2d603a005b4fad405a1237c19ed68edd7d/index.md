@@ -22,8 +22,8 @@ miglior piazzamento in classifica: 69esimi
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (749)|
-| ELO Competitive | 1185 🔻  (924)|
+| ELO Regular | 1185 🔻  (750)|
+| ELO Competitive | 1185 🔻  (926)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
