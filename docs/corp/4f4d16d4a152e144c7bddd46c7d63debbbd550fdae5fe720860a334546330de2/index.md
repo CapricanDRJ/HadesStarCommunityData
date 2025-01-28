@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Gold Star
-description: W:2 L:11 D:2 Bonus ❌ 4%
+description: W:2 L:12 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1734014560
+date: 1738028308
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Ruling the universe is our simple goal.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1261)|
-| ELO Competitive | 1127 🔻  (1321)|
-| Total Matches | 15 |
+| ELO Regular | 1107 🔻  (1284)|
+| ELO Competitive | 1119 🔻  (1332)|
+| Total Matches | 16 |
 | Wins | 2 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 2 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
+        let timestamps = [1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/28 | 0-33 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ❌ | 2024/12/12 | 0-30 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/11/18 | 0-29 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ↔️ | 2024/08/08 | 0-0 | [Hail Hydra](https://ws.tsl.rocks/corp/32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8/) |

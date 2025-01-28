@@ -19,7 +19,7 @@ Home for travelers across the multiverse
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1314)|
+| ELO Regular | 1090 🔻  (1315)|
 | ELO Competitive | 1216 🔻  (541)|
 | Total Matches | 68 |
 | Wins | 37 |

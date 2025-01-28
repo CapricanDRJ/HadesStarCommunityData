@@ -24,8 +24,8 @@ When your ships blow, our relics will soar..
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1237)|
-| ELO Competitive | 1135 🔻  (1306)|
+| ELO Regular | 1123 🔻  (1238)|
+| ELO Competitive | 1135 🔻  (1307)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

@@ -23,7 +23,7 @@ Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (832)|
+| ELO Regular | 1184 🔻  (833)|
 | ELO Competitive | 1189 🔺  (796)|
 | Total Matches | 2 |
 | Wins | 0 |
