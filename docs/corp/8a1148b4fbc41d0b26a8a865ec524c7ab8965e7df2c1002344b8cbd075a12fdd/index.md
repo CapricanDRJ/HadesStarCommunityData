@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​环星集团
-description: W:4 L:5 D:0 Bonus ✅ 30%
+description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1737455231
 ---
@@ -17,11 +17,11 @@ date: 1737455231
 道提供神器集团帮打23456级红巨星QQ922514426，进群答案，不知道。副首席：中国没人，只有（副）首席有权晋升或移除成员，不踢小红
 点除非人满了，如果长时间不上线，请联系首席或副首席 每周末都有稳定的八级神器，记得来领，所有人不要捐旗舰！！！
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (819)|
+| ELO Regular | 1184 🔺  (820)|
 | ELO Competitive | 1201 🔺  (652)|
 | Total Matches | 9 |
 | Wins | 4 |

@@ -20,8 +20,8 @@ https://discord.gg/M8HFPDG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1059)|
-| ELO Competitive | 1163 🔻  (1184)|
+| ELO Regular | 1159 🔻  (1058)|
+| ELO Competitive | 1163 🔻  (1185)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:9 L:8 D:0 Bonus ✅ 34%
+description: W:10 L:9 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737467556
+date: 1738066765
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 1737467556
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (552)|
-| ELO Competitive | 1245 🔺  (428)|
-| Total Matches | 17 |
-| Wins | 9 |
-| Losses | 8 |
+| ELO Regular | 1202 🔻  (492)|
+| ELO Competitive | 1258 🔺  (393)|
+| Total Matches | 19 |
+| Wins | 10 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
+        let timestamps = [1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/28 | 3-21 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
+| ✅ | 2025/01/28 | 21-7 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ✅ | 2025/01/21 | 18-14 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ❌ | 2025/01/21 | 1-14 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2025/01/13 | 22-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

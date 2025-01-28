@@ -22,7 +22,7 @@ us and Righteous Fury! ws every week,
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (139)|
+| ELO Regular | 1319 🔺  (138)|
 | ELO Competitive | 1441 🔺  (109)|
 | Total Matches | 79 |
 | Wins | 46 |

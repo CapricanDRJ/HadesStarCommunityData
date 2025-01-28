@@ -20,8 +20,8 @@ As long as you’re active you can stay.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 983 🔻  (1382)|
-| ELO Competitive | 1037 🔻  (1389)|
+| ELO Regular | 983 🔻  (1383)|
+| ELO Competitive | 1037 🔻  (1390)|
 | Total Matches | 49 |
 | Wins | 8 |
 | Losses | 40 |

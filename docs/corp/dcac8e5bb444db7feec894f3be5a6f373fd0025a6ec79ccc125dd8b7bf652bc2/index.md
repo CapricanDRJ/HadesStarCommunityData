@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:11 L:15 D:2 Bonus ❌ 6%
+description: W:11 L:16 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737264401
+date: 1738059252
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1737264401
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔺  (1150)|
-| ELO Competitive | 1201 🔺  (646)|
-| Total Matches | 28 |
+| ELO Regular | 1143 🔻  (1163)|
+| ELO Competitive | 1199 🔻  (680)|
+| Total Matches | 29 |
 | Wins | 11 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/28 | 3-44 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2025/01/19 | 13-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/01/14 | 2-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/01/01 | 3-5 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
