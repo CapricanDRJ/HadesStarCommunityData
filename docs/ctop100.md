@@ -170,16 +170,16 @@ permalink: /ctop100/
 | 161 | [☆Sternenkrieger](https://ws.tsl.rocks/corp/92ab203a792b5a43a059604230acd16e90840dfee16043dfb35f8fa512772a39) | 1470|
 | 162 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab) | 1469|
 | 163 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491) | 1469|
-| 164 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c) | 1469|
-| 165 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b) | 1468|
-| 166 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0) | 1468|
-| 167 | [Корпорация](https://ws.tsl.rocks/corp/1b46f51633e76a78a92c3a74b8ae0afc51df5caea195357b98bb56fa9ee03cfa) | 1468|
-| 168 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2) | 1467|
-| 169 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd) | 1467|
-| 170 | [OriginsOfQuarks](https://ws.tsl.rocks/corp/4ab8bb29958d1400c427d8f5e25b6f5d5a03088b5d0237177bd58bf6bc0389bf) | 1467|
-| 171 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c) | 1466|
-| 172 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b) | 1466|
-| 173 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015) | 1466|
+| 164 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015) | 1469|
+| 165 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c) | 1469|
+| 166 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b) | 1468|
+| 167 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0) | 1468|
+| 168 | [Корпорация](https://ws.tsl.rocks/corp/1b46f51633e76a78a92c3a74b8ae0afc51df5caea195357b98bb56fa9ee03cfa) | 1468|
+| 169 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2) | 1467|
+| 170 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd) | 1467|
+| 171 | [OriginsOfQuarks](https://ws.tsl.rocks/corp/4ab8bb29958d1400c427d8f5e25b6f5d5a03088b5d0237177bd58bf6bc0389bf) | 1467|
+| 172 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c) | 1466|
+| 173 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b) | 1466|
 | 174 | [BrbroZ](https://ws.tsl.rocks/corp/30b4148a5831c38d4e258cd0a3e21598dcb3cab51ae585e7035c8900b836d2ba) | 1466|
 | 175 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825) | 1465|
 | 176 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b) | 1465|

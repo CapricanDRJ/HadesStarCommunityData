@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Soul System
-description: W:2 L:13 D:0 Bonus ❌ 9%
+description: W:2 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1737500923
+date: 1738056849
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ust we are born our souls woven from light. RS and WS focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1273)|
-| ELO Competitive | 1140 🔻  (1298)|
-| Total Matches | 15 |
+| ELO Regular | 1103 🔻  (1291)|
+| ELO Competitive | 1135 🔻  (1307)|
+| Total Matches | 16 |
 | Wins | 2 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Flagship | 7 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/28 | 8-12 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2025/01/21 | 5-15 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2025/01/16 | 14-11 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2025/01/11 | 0-36 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |

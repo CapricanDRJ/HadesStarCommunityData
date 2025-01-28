@@ -259,7 +259,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) | 1283 | 1293 | 11 |
 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) | 1165 | 1218 | 72 |
 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) | 1235 | 1278 | 30 |
-| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 1112 | 1212 | 88 |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 1106 | 1208 | 89 |
 | [Españoles](https://ws.tsl.rocks/corp/243019fcfd10d4121251ca030b7986781c90f819ba291ee6d7054dc6bbcc9000/) | 1184 | 1232 | 9 |
 | [Eternal empire ](https://ws.tsl.rocks/corp/c710661fec52581acc50c1f8a96dfb2dc3e582cf877080c41714526c98cd7193/) | 1102 | 1176 | 22 |
 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) | 1198 | 1212 | 11 |
@@ -674,7 +674,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/) | 1041 | 1054 | 22 |
 | [Rogue Dudes](https://ws.tsl.rocks/corp/e3af01b69e8035dbe5c48ad403a16f2c1ec8d4d273916750975ea86f317f7582/) | 1230 | 1230 | 2 |
 | [Rogue Hero's](https://ws.tsl.rocks/corp/a1c2437de3e0bbe4c42481ff156cf7b2b96231991aa3d337180fbe30d254857b/) | 1211 | 1211 | 1 |
-| [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 1312 | 1436 | 78 |
+| [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 1319 | 1441 | 79 |
 | [Rogue One Squad](https://ws.tsl.rocks/corp/911d118c4206217f2f2b921bbea3b70d0f405c6384d2c097355bca09e3c7121a/) | 1199 | 1199 | 1 |
 | [Romania](https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/) | 1199 | 1199 | 1 |
 | [Round Table ](https://ws.tsl.rocks/corp/13ad99eca42a3c4fef2090e611b9e4ab6e4bd3b1b94375e264e2d060447a8c21/) | 1184 | 1184 | 1 |
@@ -730,7 +730,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Solysis](https://ws.tsl.rocks/corp/1dd3b30d4fba97df035310d43fa05c50aa4f77867aa67090be08e245b840b1cf/) | 1137 | 1150 | 10 |
 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) | 1314 | 1337 | 7 |
 | [SONS OF SUNS](https://ws.tsl.rocks/corp/710d8a5c78fa5042356cb21ac8c446d17cc1275cd8b5b3325582a0d4ca7ae318/) | 1144 | 1144 | 4 |
-| [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) | 1111 | 1140 | 15 |
+| [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) | 1103 | 1135 | 16 |
 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) | 1207 | 1208 | 4 |
 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) | 1261 | 1322 | 41 |
 | [Space Anomalies](https://ws.tsl.rocks/corp/8e2c64b24486e219f336469194fd8fc75ad58dd727bc948c184dbcf9896ba23f/) | 1215 | 1215 | 1 |
@@ -907,7 +907,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) | 1192 | 1197 | 5 |
 | [UK Armada](https://ws.tsl.rocks/corp/2e3b65146fc90421a8e65a738a443ed67c756396af15a641475928091cb261a4/) | 1147 | 1181 | 13 |
 | [Ukr alliance ](https://ws.tsl.rocks/corp/0eb13755b8906344c0af35f3d63b7cc0ecebf80877f327f78b1e40aded41ca7c/) | 1175 | 1175 | 5 |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 1336 | 1521 | 58 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 1343 | 1525 | 59 |
 | [Ukrain Alliance](https://ws.tsl.rocks/corp/aeefab8a78fae0ec57ba1f076c5f8f138132a429d771364f0e3fb7365a4bca0d/) | 1185 | 1185 | 1 |
 | [Ukraine](https://ws.tsl.rocks/corp/b5cbc09cd1dc9356c73eaab3b70c1e8a08578a09dd0b80c557f77798c94c8fc3/) | 1170 | 1170 | 2 |
 | [UKRAINE STARS](https://ws.tsl.rocks/corp/a16f43d47a501623dad41df6137ed7e44bb4e4ce370062bfe8472d2a525c5e98/) | 1170 | 1170 | 2 |

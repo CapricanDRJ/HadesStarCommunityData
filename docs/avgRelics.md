@@ -90,9 +90,9 @@ permalink: /avgrelics/
 | 81 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8) | 24.04|
 | 82 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd) | 23.9|
 | 83 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03) | 23.87|
-| 84 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015) | 23.86|
-| 85 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f) | 23.81|
-| 86 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c) | 23.8|
+| 84 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f) | 23.81|
+| 85 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c) | 23.8|
+| 86 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015) | 23.76|
 | 87 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369) | 23.7|
 | 88 | [[Blue*Nation]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2) | 23.67|
 | 89 | [Farland Ind.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f) | 23.56|
@@ -171,7 +171,7 @@ permalink: /avgrelics/
 | 162 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908) | 18.82|
 | 163 | [On en a Gros ! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6) | 18.71|
 | 164 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a) | 18.7|
-| 165 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477) | 18.69|
+| 165 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477) | 18.61|
 | 166 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22) | 18.61|
 | 167 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e) | 18.55|
 | 168 | [Team Rainbow](https://ws.tsl.rocks/corp/4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84) | 18.38|
@@ -302,7 +302,7 @@ permalink: /avgrelics/
 | 293 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36) | 12.25|
 | 294 | [*Alfa y Omega*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed) | 12.2|
 | 295 | [Minutemen](https://ws.tsl.rocks/corp/9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8) | 12.07|
-| 296 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2) | 12.01|
+| 296 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2) | 12.03|
 | 297 | [Wacky Wabbits](https://ws.tsl.rocks/corp/c0af31b9cd252e7a0621043e7e37f4cd497b96e0806f3310c8e1fd6757296c20) | 12|
 | 298 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101) | 11.98|
 | 299 | [White Star Inc.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e) | 11.89|
