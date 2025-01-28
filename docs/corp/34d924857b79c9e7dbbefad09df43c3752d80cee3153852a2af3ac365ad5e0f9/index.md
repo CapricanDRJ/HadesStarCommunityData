@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​复生会
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1737557414
+date: 1738020498
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1737557414
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (470)|
-| ELO Competitive | 1211 🔺  (601)|
-| Total Matches | 2 |
+| ELO Regular | 1199 🔻  (521)|
+| ELO Competitive | 1204 🔻  (631)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737125414,1736685435];
+        let timestamps = [1737588498,1737125414,1736685435];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/27 | 0-23 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2025/01/22 | 14-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2025/01/17 | 5-6 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 

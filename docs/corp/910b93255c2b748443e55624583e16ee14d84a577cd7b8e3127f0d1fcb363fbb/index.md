@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:21 L:2 D:1 Bonus ✅ 34%
+description: W:22 L:2 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737527662
+date: 1738020498
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ New!!! Join to expand!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 🔺  (77)|
-| ELO Competitive | 1409 🔺  (134)|
-| Total Matches | 24 |
-| Wins | 21 |
+| ELO Regular | 1381 🔺  (71)|
+| ELO Competitive | 1416 🔺  (126)|
+| Total Matches | 25 |
+| Wins | 22 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 2 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737095662,1736641260,1736180543,1735742349,1735231544,1734378231,1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1737588498,1737095662,1736641260,1736180543,1735742349,1735231544,1734378231,1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/27 | 23-0 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
 | ✅ | 2025/01/22 | 13-3 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ✅ | 2025/01/17 | 19-0 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
 | ✅ | 2025/01/11 | 24-0 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:6 L:15 D:0 Bonus ❌ 11%
+description: W:7 L:15 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1737445315
+date: 1738017493
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,14 +24,14 @@ MarceloPC#2109
 JUNTOS SOMOS MAIS FORTES
 ```
 ### [Discord](https://discord.gg/fmyTs3k)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1144)|
-| ELO Competitive | 1192 🔻  (746)|
-| Total Matches | 21 |
-| Wins | 6 |
+| ELO Regular | 1154 🔺  (1100)|
+| ELO Competitive | 1200 🔺  (669)|
+| Total Matches | 22 |
+| Wins | 7 |
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737013315,1736382798,1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
+        let timestamps = [1737585493,1737013315,1736382798,1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/27 | 44-12 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2025/01/21 | 34-44 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2025/01/14 | 37-30 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/01/07 | 34-13 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
