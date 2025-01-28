@@ -22,8 +22,8 @@ rd for easier coordination and fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (371)|
-| ELO Competitive | 1251 🔻  (411)|
+| ELO Regular | 1220 🔻  (372)|
+| ELO Competitive | 1251 🔻  (412)|
 | Total Matches | 28 |
 | Wins | 15 |
 | Losses | 13 |

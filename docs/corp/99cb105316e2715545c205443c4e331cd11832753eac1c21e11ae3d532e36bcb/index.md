@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:6 L:4 D:2 Bonus ✅ 32%
+description: W:7 L:4 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737607600
+date: 1738078787
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1737607600
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (372)|
-| ELO Competitive | 1230 🔺  (468)|
-| Total Matches | 12 |
-| Wins | 6 |
+| ELO Regular | 1239 🔺  (302)|
+| ELO Competitive | 1251 🔺  (410)|
+| Total Matches | 13 |
+| Wins | 7 |
 | Losses | 4 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
+        let timestamps = [1737646787,1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/28 | 11-10 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2025/01/23 | 20-3 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2025/01/10 | 0-15 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2025/01/04 | 18-0 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tacitus
-description: W:3 L:0 D:0 Bonus ✅ 42%
+description: W:3 L:0 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1737472366
 ---
@@ -16,12 +16,12 @@ date: 1737472366
 Part of Oceania Alliance.     New players welcome
 ```
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (323)|
-| ELO Competitive | 1241 🔺  (440)|
+| ELO Regular | 1235 🔺  (324)|
+| ELO Competitive | 1241 🔺  (441)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |
