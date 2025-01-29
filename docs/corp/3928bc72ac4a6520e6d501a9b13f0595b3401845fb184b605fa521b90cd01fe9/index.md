@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:3 L:5 D:1 Bonus ✅ 
+description: W:3 L:5 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1738126564
 ---
@@ -15,7 +15,7 @@ date: 1738126564
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: W:13 L:10 D:2 Bonus ✅ 34%
+description: W:13 L:10 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737548395
 ---
@@ -17,7 +17,7 @@ Alianza: axolotls
 
 Ni retirada ni rendicion 
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
