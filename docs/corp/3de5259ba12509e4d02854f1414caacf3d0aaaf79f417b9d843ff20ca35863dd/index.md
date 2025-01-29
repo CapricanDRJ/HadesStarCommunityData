@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:48 L:13 D:0 Bonus ✅ 38%
+description: W:48 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737576651
 ---
@@ -17,12 +17,12 @@ Discord and at least monthly WS participation required. Part of the m
 ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 ```
 ### [Discord](https://discord.gg/gdwqCqc2VN)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1415 🔺  (45)|
-| ELO Competitive | 1506 🔺  (58)|
+| ELO Competitive | 1506 🔺  (59)|
 | Total Matches | 61 |
 | Wins | 48 |
 | Losses | 13 |

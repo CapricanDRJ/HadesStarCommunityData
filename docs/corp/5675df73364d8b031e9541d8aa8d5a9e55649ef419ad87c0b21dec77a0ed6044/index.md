@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:11 L:11 D:0 Bonus ❌ 7%
+description: W:12 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1736719532
+date: 1738180055
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ ER de 1-9
 Esperamos su llegada!
 <b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (330)|
-| ELO Competitive | 1274 🔻  (347)|
-| Total Matches | 22 |
-| Wins | 11 |
+| ELO Regular | 1249 🔺  (271)|
+| ELO Competitive | 1291 🔺  (305)|
+| Total Matches | 23 |
+| Wins | 12 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
+        let timestamps = [1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 28-0 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2025/01/12 | 6-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2024/12/23 | 21-12 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/12/10 | 7-29 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
