@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​清霄阁（防御协会）
-description: W:7 L:7 D:0 Bonus ✅ 30%
+description: W:8 L:7 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737611546
+date: 1738158413
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ date: 1737611546
 可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：99396
 4380 大群Q号：597444221
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔺  (480)|
-| ELO Competitive | 1258 🔺  (390)|
-| Total Matches | 14 |
-| Wins | 7 |
+| ELO Regular | 1219 🔺  (373)|
+| ELO Competitive | 1271 🔺  (352)|
+| Total Matches | 15 |
+| Wins | 8 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 2 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 8-0 | [Archangels BR](https://ws.tsl.rocks/corp/9f0b92fa53a4e1b97659c0c2df1ee74fe5ffcca2d272419c4d585bb39a86338f/) |
 | ✅ | 2025/01/23 | 5-1 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2025/01/15 | 8-1 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2025/01/06 | 4-3 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |

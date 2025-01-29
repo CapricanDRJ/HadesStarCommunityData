@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Archangels BR
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707427495
+date: 1738158413
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Em breve faremos estrelas brancas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (406)|
-| ELO Competitive | 1215 🔺  (556)|
-| Total Matches | 1 |
+| ELO Regular | 1200 🔻  (513)|
+| ELO Competitive | 1202 🔻  (639)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1706995495];
+        let timestamps = [1737726413,1706995495];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/29 | 0-8 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2024/02/08 | 3-2 | [BlackOrca](https://ws.tsl.rocks/corp/b347ab5ef3e7adebf30c571089fbba3e2e586c8012477f52477de359826fdfb5/) |
 
 ---

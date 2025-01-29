@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Splendid
-description: W:6 L:4 D:0 Bonus ✅ 30%
+description: W:6 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1737558616
 ---
@@ -16,7 +16,7 @@ date: 1737558616
 We are frequent in white stars, helping beginners, and pretty calm co
 rporation.
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

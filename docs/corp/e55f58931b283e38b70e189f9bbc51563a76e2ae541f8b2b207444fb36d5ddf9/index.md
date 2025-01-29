@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cydonia Order
-description: W:17 L:14 D:2 Bonus ✅ 36%
+description: W:17 L:14 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737555610
 ---
@@ -15,12 +15,12 @@ date: 1737555610
 ```
 THE CYDONIAN EMPIRE™
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔺  (209)|
-| ELO Competitive | 1319 🔺  (241)|
+| ELO Competitive | 1319 🔺  (242)|
 | Total Matches | 33 |
 | Wins | 17 |
 | Losses | 14 |

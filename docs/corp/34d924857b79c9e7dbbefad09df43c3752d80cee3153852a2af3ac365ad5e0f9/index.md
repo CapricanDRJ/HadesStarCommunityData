@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​复生会
-description: W:1 L:3 D:0 Bonus ✅ 
+description: W:1 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1738029810
 ---
@@ -15,12 +15,12 @@ date: 1738029810
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (666)|
-| ELO Competitive | 1204 🔻  (631)|
+| ELO Competitive | 1204 🔻  (630)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

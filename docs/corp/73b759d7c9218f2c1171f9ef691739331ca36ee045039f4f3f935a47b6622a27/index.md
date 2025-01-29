@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AAAA
-description: W:19 L:17 D:3 Bonus ❌ 7%
+description: W:20 L:17 D:3 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737376796
+date: 1738158681
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1737376796
 ```
 
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (255)|
-| ELO Competitive | 1312 🔻  (255)|
-| Total Matches | 39 |
-| Wins | 19 |
+| ELO Regular | 1264 🔺  (229)|
+| ELO Competitive | 1332 🔺  (219)|
+| Total Matches | 40 |
+| Wins | 20 |
 | Losses | 17 |
 | Draws | 3 |
 | Streak Record | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736944796,1736472051,1736035051,1735593024,1735158233,1734662769,1734214470,1733752341,1733293197,1732843377,1732392010,1731947588,1731489923,1731057485,1730589926,1730062558,1729612335,1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
+        let timestamps = [1737726681,1736944796,1736472051,1736035051,1735593024,1735158233,1734662769,1734214470,1733752341,1733293197,1732843377,1732392010,1731947588,1731489923,1731057485,1730589926,1730062558,1729612335,1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 11-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2025/01/20 | 1-11 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2025/01/15 | 5-11 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2025/01/09 | 19-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |

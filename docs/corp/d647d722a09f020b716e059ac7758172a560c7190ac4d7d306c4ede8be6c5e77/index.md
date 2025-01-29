@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Void
-description: W:11 L:18 D:0 Bonus ❌ 10%
+description: W:12 L:18 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1736556652
+date: 1738163523
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,16 +23,17 @@ https://discord.gg/jPftecDuNp
 Primarily English
 ```
 ### [Discord](https://discord.gg/jPftecDuNp)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔺  (1242)|
-| ELO Competitive | 1176 🔺  (1047)|
-| Total Matches | 29 |
-| Wins | 11 |
+| ELO Regular | 1130 🔺  (1219)|
+| ELO Competitive | 1190 🔺  (779)|
+| Total Matches | 30 |
+| Wins | 12 |
 | Losses | 18 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 8 |
 
@@ -52,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736124652,1732202996,1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
+        let timestamps = [1737731523,1736124652,1732202996,1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 51-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2025/01/11 | 27-24 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ❌ | 2024/11/26 | 0-25 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ❌ | 2024/11/20 | 16-32 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
