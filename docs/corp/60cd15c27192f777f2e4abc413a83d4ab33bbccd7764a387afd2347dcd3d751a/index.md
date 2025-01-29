@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:31 L:11 D:1 Bonus ✅ 38%
+description: W:31 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737511137
 ---
@@ -19,12 +19,12 @@ date: 1737511137
 <size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔺  (92)|
-| ELO Competitive | 1436 🔺  (114)|
+| ELO Regular | 1356 🔺  (93)|
+| ELO Competitive | 1436 🔺  (115)|
 | Total Matches | 43 |
 | Wins | 31 |
 | Losses | 11 |

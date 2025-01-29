@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Crux Cadre
-description: W:36 L:34 D:1 Bonus ✅ 48%
+description: W:36 L:34 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1737516245
 ---
@@ -18,7 +18,7 @@ titive crew? We got you covered! We welcome all level players, so com
 e run with us! Say hi on Discord!
 ```
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

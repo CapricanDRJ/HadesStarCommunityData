@@ -19,7 +19,7 @@ Nieaktywna korporacja
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (623)|
+| ELO Regular | 1189 🔻  (622)|
 | ELO Competitive | 1189 🔻  (792)|
 | Total Matches | 1 |
 | Wins | 0 |

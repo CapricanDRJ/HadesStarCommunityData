@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:22 L:12 D:1 Bonus ❌ 8%
+description: W:23 L:12 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1735775322
+date: 1738114246
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,17 +24,17 @@ Alliance:
 2. United Industries of Hades (UIH)
 ```
 ### [Discord](https://discord.gg/gJVbNTWUYM)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔺  (117)|
-| ELO Competitive | 1404 🔺  (138)|
-| Total Matches | 35 |
-| Wins | 22 |
+| ELO Regular | 1346 🔺  (100)|
+| ELO Competitive | 1416 🔺  (127)|
+| Total Matches | 36 |
+| Wins | 23 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 | Flagship | 5 |
 
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735343322,1732782659,1731627252,1730455893,1729202812,1727983225,1726756892,1725551071,1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
+        let timestamps = [1737682246,1735343322,1732782659,1731627252,1730455893,1729202812,1727983225,1726756892,1725551071,1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 28-1 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2025/01/01 | 17-2 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/12/03 | 13-3 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ❌ | 2024/11/19 | 4-11 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
