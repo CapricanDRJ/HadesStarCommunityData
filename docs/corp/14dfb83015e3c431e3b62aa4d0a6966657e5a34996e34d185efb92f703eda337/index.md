@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New YuGiOh
-description: W:3 L:0 D:0 Bonus ✅ 
+description: W:4 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1737726308
+date: 1738169534
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1737726308
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (284)|
-| ELO Competitive | 1246 🔺  (424)|
-| Total Matches | 3 |
-| Wins | 3 |
+| ELO Regular | 1257 🔺  (244)|
+| ELO Competitive | 1260 🔺  (389)|
+| Total Matches | 4 |
+| Wins | 4 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737294308,1736788827,1734971054];
+        let timestamps = [1737737534,1737294308,1736788827,1734971054];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 15-0 | [RED STAR CORP](https://ws.tsl.rocks/corp/cac02bd33337307b124bc868304cfc75cf4f0148d825518b2f24f1236431cf75/) |
 | ✅ | 2025/01/24 | 10-0 | [StarFun](https://ws.tsl.rocks/corp/641dbdde520393710db56ceb7acd0035160eb5cba4e3cc41a956b7c147600d5c/) |
 | ✅ | 2025/01/18 | 18-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2024/12/28 | 9-3 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
