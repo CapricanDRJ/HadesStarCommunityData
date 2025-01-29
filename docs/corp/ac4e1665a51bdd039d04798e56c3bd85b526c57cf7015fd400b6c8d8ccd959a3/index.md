@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:15 L:20 D:1 Bonus ❌ 7%
+description: W:16 L:20 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737720596
+date: 1738109139
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ Corporaciones aliadas:
 Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1157)|
-| ELO Competitive | 1309 🔻  (259)|
-| Total Matches | 36 |
-| Wins | 15 |
+| ELO Regular | 1159 🔺  (1061)|
+| ELO Competitive | 1318 🔺  (245)|
+| Total Matches | 37 |
+| Wins | 16 |
 | Losses | 20 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737288596,1737122708,1736729324,1736658987,1736150788,1736146582,1735373664,1735373664,1734685868,1734666073,1734170030,1734169090,1733549499,1733549498,1733093347,1733079865,1732620071,1732612267,1732098485,1732062674,1731391667,1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
+        let timestamps = [1737677139,1737288596,1737122708,1736729324,1736658987,1736150788,1736146582,1735373664,1735373664,1734685868,1734666073,1734170030,1734169090,1733549499,1733549498,1733093347,1733079865,1732620071,1732612267,1732098485,1732062674,1731391667,1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 4-0 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2025/01/24 | 0-5 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/01/22 | 3-13 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/01/18 | 0-2 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |

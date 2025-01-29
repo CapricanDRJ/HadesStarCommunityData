@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:12 L:9 D:0 Bonus ✅ 48%
+description: W:13 L:9 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1737600089
+date: 1738102529
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ date: 1737600089
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (350)|
-| ELO Competitive | 1287 🔺  (321)|
-| Total Matches | 21 |
-| Wins | 12 |
+| ELO Regular | 1245 🔺  (277)|
+| ELO Competitive | 1306 🔺  (272)|
+| Total Matches | 22 |
+| Wins | 13 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 9 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/28 | 30-3 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ✅ | 2025/01/23 | 12-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2025/01/17 | 20-3 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2025/01/11 | 3-47 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |

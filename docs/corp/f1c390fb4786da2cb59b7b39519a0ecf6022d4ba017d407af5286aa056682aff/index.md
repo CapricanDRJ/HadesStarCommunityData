@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Blazing Stars
-description: W:7 L:2 D:1 Bonus ✅ 30%
+description: W:7 L:2 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1737506631
 ---
@@ -18,12 +18,12 @@ yment. <color=yellow>Welcomes both newbies and veterans throughout th
 e Hades Galaxy. Join us and have fun 
 ```
 ### [Discord](https://discord.gg/aCU5VZGc)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔺  (223)|
-| ELO Competitive | 1295 🔺  (294)|
+| ELO Competitive | 1295 🔺  (295)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 2 |

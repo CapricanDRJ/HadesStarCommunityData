@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:33 L:3 D:0 Bonus ❌ 8%
+description: W:34 L:3 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737446217
+date: 1738108838
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ scord server is required. If you have problems joining dc server cont
 act officers or senior members, Discord invite code:zQGwx3ZtDp
 ```
 ### [Discord](https://discord.gg/zQGwx3ZtDp)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1457 🔺  (24)|
-| ELO Competitive | 1499 🔺  (65)|
-| Total Matches | 36 |
-| Wins | 33 |
+| ELO Regular | 1467 🔺  (20)|
+| ELO Competitive | 1513 🔺  (55)|
+| Total Matches | 37 |
+| Wins | 34 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 18 |
 | Flagship | 5 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737014217,1736407134,1735888081,1735200290,1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1737676838,1737014217,1736407134,1735888081,1735200290,1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 2 | 0 | 0 | 2 |
 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 2 | 0 | 0 | 2 |
 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) | 1 | 1 | 0 | 2 |
 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) | 2 | 0 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/29 | 16-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/01/21 | 16-2 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/01/14 | 12-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/01/08 | 28-0 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
