@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:58 L:14 D:1 Bonus ✅ 42%
+description: W:58 L:14 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1737537277
 ---
@@ -18,7 +18,7 @@ Casual/Competitive WS
 Ngā mihi nui, from NZ (and Aus!)
 ```
 ### [Discord](https://discord.gg/Y7EZe2eQk9)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

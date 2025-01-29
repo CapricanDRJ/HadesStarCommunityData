@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星约组织：基地分团
-description: W:1 L:7 D:0 Bonus ❌ 4%
+description: W:1 L:8 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1737089184
+date: 1738138581
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1737089184
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1251)|
-| ELO Competitive | 1124 🔻  (1326)|
-| Total Matches | 8 |
+| ELO Regular | 1109 🔻  (1275)|
+| ELO Competitive | 1117 🔻  (1341)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736657184,1735822273,1735386885,1734602072,1733231899,1732711125,1732273904,1731662100];
+        let timestamps = [1737706581,1736657184,1735822273,1735386885,1734602072,1733231899,1732711125,1732273904,1731662100];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,13 +132,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 1 | 1 | 0 | 2 |
+| [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 1 | 2 | 0 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/29 | 3-6 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/01/17 | 1-5 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ❌ | 2025/01/07 | 0-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2025/01/02 | 0-5 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​E.T.A
-description: W:11 L:35 D:0 Bonus ✅ 50%
+description: W:11 L:35 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1737978421
 ---
@@ -16,7 +16,7 @@ date: 1737978421
 别捐旗舰，其它随意
 ```
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
