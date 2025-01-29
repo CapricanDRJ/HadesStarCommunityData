@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​方星集团
-description: W:5 L:4 D:0 Bonus ✅ 30%
+description: W:5 L:4 D:1 Bonus ✅ 30%
 image: ./favicon.png
-date: 1737667411
+date: 1738126564
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 1737667411
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (488)|
-| ELO Competitive | 1234 🔺  (459)|
-| Total Matches | 9 |
+| ELO Regular | 1202 🔻  (494)|
+| ELO Competitive | 1233 🔻  (461)|
+| Total Matches | 10 |
 | Wins | 5 |
 | Losses | 4 |
-| Draws | 0 |
-| Streak | 2 |
+| Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
+        let timestamps = [1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/29 | 3-3 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ✅ | 2025/01/23 | 6-1 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2025/01/18 | 2-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/01/09 | 0-8 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |

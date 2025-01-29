@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The New Light
-description: W:19 L:21 D:1 Bonus ✅ 34%
+description: W:19 L:21 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737524357
 ---
@@ -18,7 +18,7 @@ for active players to take on <b>white star</b> missions. White star
 frequency: Once a week, starting on Thursdays.
 ```
 ### [Discord](https://discord.gg/z4C9PUKgKD)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

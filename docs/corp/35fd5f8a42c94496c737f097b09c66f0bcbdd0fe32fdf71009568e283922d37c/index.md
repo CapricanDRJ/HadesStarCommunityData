@@ -23,7 +23,7 @@ Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (579)|
-| ELO Competitive | 1229 🔻  (475)|
+| ELO Competitive | 1229 🔻  (476)|
 | Total Matches | 14 |
 | Wins | 6 |
 | Losses | 8 |
