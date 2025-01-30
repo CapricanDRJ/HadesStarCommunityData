@@ -22,7 +22,7 @@ ated to helping new players grow. Discord recommended for White Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (173)|
+| ELO Regular | 1296 🔺  (172)|
 | ELO Competitive | 1308 🔺  (261)|
 | Total Matches | 12 |
 | Wins | 9 |

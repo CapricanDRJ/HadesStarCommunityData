@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:48 L:13 D:0 Bonus ❌ 9%
+description: W:49 L:13 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1737576651
+date: 1738226327
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ Discord and at least monthly WS participation required. Part of the m
 ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 ```
 ### [Discord](https://discord.gg/gdwqCqc2VN)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔺  (45)|
-| ELO Competitive | 1506 🔺  (59)|
-| Total Matches | 61 |
-| Wins | 48 |
+| ELO Regular | 1428 🔺  (38)|
+| ELO Competitive | 1519 🔺  (54)|
+| Total Matches | 62 |
+| Wins | 49 |
 | Losses | 13 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737144651,1736579039,1735263694,1734649852,1734026666,1733425706,1732844879,1732198187,1731599941,1731054781,1730420143,1729816135,1729218434,1728561425,1728001556,1727368687,1726795355,1726226876,1725561891,1724952184,1724365294,1723749832,1723168340,1722521644,1721915491,1721334909,1720720303,1720117144,1719473735,1718916289,1718352966,1717917816,1717467533,1716860454,1716218048,1715664318,1715124708,1714499951,1713912548,1713321864,1712710998,1712114243,1711574880,1711069177,1710546356,1709828837,1709255232,1708734190,1708243177,1707675837,1707106081,1705864062,1705343870,1704744952,1704135506,1703339727,1702318607,1701016646,1700059633,1699323574,1698706013];
+        let timestamps = [1737794327,1737144651,1736579039,1735263694,1734649852,1734026666,1733425706,1732844879,1732198187,1731599941,1731054781,1730420143,1729816135,1729218434,1728561425,1728001556,1727368687,1726795355,1726226876,1725561891,1724952184,1724365294,1723749832,1723168340,1722521644,1721915491,1721334909,1720720303,1720117144,1719473735,1718916289,1718352966,1717917816,1717467533,1716860454,1716218048,1715664318,1715124708,1714499951,1713912548,1713321864,1712710998,1712114243,1711574880,1711069177,1710546356,1709828837,1709255232,1708734190,1708243177,1707675837,1707106081,1705864062,1705343870,1704744952,1704135506,1703339727,1702318607,1701016646,1700059633,1699323574,1698706013];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) | 1 | 1 | 0 | 2 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 1 | 0 | 3 |
 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 1 | 1 | 0 | 2 |
 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) | 3 | 0 | 0 | 3 |
@@ -146,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/30 | 35-7 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2025/01/22 | 39-0 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ❌ | 2025/01/16 | 8-24 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/01/01 | 13-14 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |

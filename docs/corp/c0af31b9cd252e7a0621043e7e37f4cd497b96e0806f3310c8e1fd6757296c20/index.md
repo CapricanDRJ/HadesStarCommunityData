@@ -21,8 +21,8 @@ olor=#f0f30b>Wacky Warriors</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (876)|
-| ELO Competitive | 1189 🔻  (795)|
+| ELO Regular | 1179 🔻  (877)|
+| ELO Competitive | 1189 🔻  (796)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

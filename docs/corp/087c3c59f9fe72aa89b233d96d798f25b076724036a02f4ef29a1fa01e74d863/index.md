@@ -19,8 +19,8 @@ We'll bang, ok?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (504)|
-| ELO Competitive | 1200 ▫️  (660)|
+| ELO Regular | 1200 ▫️  (505)|
+| ELO Competitive | 1200 ▫️  (661)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

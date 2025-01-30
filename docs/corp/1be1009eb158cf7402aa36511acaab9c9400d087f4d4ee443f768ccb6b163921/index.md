@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:28 L:11 D:0 Bonus ✅ 36%
+description: W:28 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737780099
+date: 1738227228
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔻  (155)|
-| ELO Competitive | 1439 🔺  (111)|
-| Total Matches | 39 |
+| ELO Regular | 1271 🔻  (213)|
+| ELO Competitive | 1419 🔻  (123)|
+| Total Matches | 41 |
 | Wins | 28 |
-| Losses | 11 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/30 | 0-17 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
+| ❌ | 2025/01/30 | 0-6 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/01/25 | 1-11 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/01/25 | 7-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2025/01/19 | 3-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
