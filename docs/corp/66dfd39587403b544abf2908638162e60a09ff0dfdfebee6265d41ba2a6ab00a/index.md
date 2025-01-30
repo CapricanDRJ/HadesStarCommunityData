@@ -19,8 +19,8 @@ For passive players who don't play that often.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (469)|
-| ELO Competitive | 1211 🔻  (598)|
+| ELO Regular | 1207 🔻  (468)|
+| ELO Competitive | 1211 🔻  (599)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 2 |

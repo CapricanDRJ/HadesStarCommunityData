@@ -20,8 +20,8 @@ s al juego.    12/18/22 -> Actualidad
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (966)|
-| ELO Competitive | 1171 🔻  (1115)|
+| ELO Regular | 1171 🔻  (968)|
+| ELO Competitive | 1171 🔻  (1116)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
