@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:31 L:27 D:1 Bonus ✅ 36%
+description: W:32 L:27 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737794219
+date: 1738231736
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ Just come and play to the rules!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (209)|
-| ELO Competitive | 1353 🔺  (193)|
-| Total Matches | 59 |
-| Wins | 31 |
+| ELO Regular | 1281 🔺  (201)|
+| ELO Competitive | 1368 🔺  (180)|
+| Total Matches | 60 |
+| Wins | 32 |
 | Losses | 27 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 7 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737362219,1736640058,1735933166,1734745999,1734162780,1733573239,1732779354,1732012787,1731477906,1730772028,1730133172,1729580850,1728802183,1728182775,1727680901,1727051976,1726471215,1725486168,1724843999,1723717372,1723008773,1722183275,1721233640,1720720905,1720139986,1719662750,1719101106,1718589033,1718112857,1717345853,1716784417,1716210835,1715653504,1715116296,1714520383,1713835932,1713240434,1712620859,1711937563,1711326396,1710632600,1709970959,1709507044,1708933412,1708388026,1707871467,1707346952,1706563661,1706055490,1705454759,1704930971,1704459755,1703856322,1703199386,1702510059,1701887921,1700262267,1699663481,1698935023];
+        let timestamps = [1737799736,1737362219,1736640058,1735933166,1734745999,1734162780,1733573239,1732779354,1732012787,1731477906,1730772028,1730133172,1729580850,1728802183,1728182775,1727680901,1727051976,1726471215,1725486168,1724843999,1723717372,1723008773,1722183275,1721233640,1720720905,1720139986,1719662750,1719101106,1718589033,1718112857,1717345853,1716784417,1716210835,1715653504,1715116296,1714520383,1713835932,1713240434,1712620859,1711937563,1711326396,1710632600,1709970959,1709507044,1708933412,1708388026,1707871467,1707346952,1706563661,1706055490,1705454759,1704930971,1704459755,1703856322,1703199386,1702510059,1701887921,1700262267,1699663481,1698935023];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 2 | 0 | 0 | 2 |
 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 0 | 4 | 0 | 4 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1 | 1 | 0 | 2 |
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/30 | 20-4 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/01/25 | 22-11 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 | ✅ | 2025/01/17 | 28-22 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2025/01/08 | 19-12 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |

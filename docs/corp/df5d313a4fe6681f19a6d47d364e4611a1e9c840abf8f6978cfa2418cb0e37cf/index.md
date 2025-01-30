@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​From the Fire
-description: W:2 L:5 D:0 Bonus ❌ 6%
+description: W:2 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735707227
+date: 1738239833
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ ew member is joined.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1045)|
-| ELO Competitive | 1171 🔻  (1114)|
-| Total Matches | 7 |
+| ELO Regular | 1143 🔻  (1161)|
+| ELO Competitive | 1155 🔻  (1237)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735275227,1705273257,1704049262,1702840350,1702215515,1701618631,1701019352];
+        let timestamps = [1737807833,1735275227,1705273257,1704049262,1702840350,1702215515,1701618631,1701019352];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/30 | 3-13 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2025/01/01 | 0-5 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/01/19 | 0-22 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ✅ | 2024/01/05 | 24-4 | [Celtic Imperium](https://ws.tsl.rocks/corp/58d284836596e89b4f481066ae27a521175a632d88194574f08bf27baa1f9c7a/) |

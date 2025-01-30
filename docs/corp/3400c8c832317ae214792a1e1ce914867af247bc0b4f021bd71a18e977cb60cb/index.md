@@ -24,7 +24,7 @@ CORPORACION HISPANA NIVEL 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (1332)|
+| ELO Regular | 1077 🔻  (1333)|
 | ELO Competitive | 1090 🔻  (1367)|
 | Total Matches | 13 |
 | Wins | 1 |

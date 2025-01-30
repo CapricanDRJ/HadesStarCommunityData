@@ -24,7 +24,7 @@ ut other languages tolerated.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (307)|
+| ELO Regular | 1238 🔺  (308)|
 | ELO Competitive | 1272 🔺  (353)|
 | Total Matches | 11 |
 | Wins | 5 |

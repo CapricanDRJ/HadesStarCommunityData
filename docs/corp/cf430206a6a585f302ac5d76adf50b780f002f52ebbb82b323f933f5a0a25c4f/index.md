@@ -21,7 +21,7 @@ We do all types of stars we help in red stars we prepare to battle in
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔻  (1180)|
-| ELO Competitive | 1150 🔻  (1253)|
+| ELO Competitive | 1150 🔻  (1254)|
 | Total Matches | 8 |
 | Wins | 0 |
 | Losses | 5 |
