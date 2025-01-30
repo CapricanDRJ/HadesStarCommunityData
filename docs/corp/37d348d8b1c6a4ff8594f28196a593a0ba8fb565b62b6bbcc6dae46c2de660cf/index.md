@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:6 L:9 D:1 Bonus ❌ 5%
+description: W:7 L:9 D:1 Bonus ✅ 30%
 image: ./favicon.png
-date: 1737611546
+date: 1738244961
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1737611546
 只有超过70级或r7才会被晋升为干事！</color>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<c
 olor=orange>南极星联盟成员</color>
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1032)|
-| ELO Competitive | 1182 🔻  (1007)|
-| Total Matches | 16 |
-| Wins | 6 |
+| ELO Regular | 1180 🔺  (866)|
+| ELO Competitive | 1198 🔺  (691)|
+| Total Matches | 17 |
+| Wins | 7 |
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737179546,1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
+        let timestamps = [1737812961,1737179546,1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/30 | 7-0 | [StarFun](https://ws.tsl.rocks/corp/641dbdde520393710db56ceb7acd0035160eb5cba4e3cc41a956b7c147600d5c/) |
 | ❌ | 2025/01/23 | 1-5 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ❌ | 2025/01/15 | 0-6 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/01/02 | 0-11 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
