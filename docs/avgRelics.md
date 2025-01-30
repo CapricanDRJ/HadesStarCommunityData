@@ -37,7 +37,7 @@ permalink: /avgrelics/
 | 28 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c) | 30.86|
 | 29 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b) | 29.27|
 | 30 | [Dacia Chill](https://ws.tsl.rocks/corp/b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208) | 29.24|
-| 31 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 29.1|
+| 31 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 28.91|
 | 32 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b) | 28.79|
 | 33 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825) | 28.76|
 | 34 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2) | 28.76|
@@ -152,9 +152,9 @@ permalink: /avgrelics/
 | 143 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea) | 19.86|
 | 144 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2) | 19.84|
 | 145 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2) | 19.82|
-| 146 | [Int. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7) | 19.81|
-| 147 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1) | 19.75|
-| 148 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0) | 19.75|
+| 146 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0) | 19.82|
+| 147 | [Int. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7) | 19.81|
+| 148 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1) | 19.75|
 | 149 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76) | 19.66|
 | 150 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007) | 19.65|
 | 151 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289) | 19.61|

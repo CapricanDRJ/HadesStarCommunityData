@@ -93,17 +93,17 @@ permalink: /streak/
 | 84 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0) | 11|
 | 85 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84) | 11|
 | 86 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b) | 11|
-| 87 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4) | 11|
-| 88 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d) | 11|
-| 89 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861) | 11|
-| 90 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd) | 10|
-| 91 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6) | 10|
-| 92 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6) | 10|
-| 93 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827) | 10|
-| 94 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1) | 10|
-| 95 | [BrazilCorp.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf) | 10|
-| 96 | [Призрачный Путь](https://ws.tsl.rocks/corp/c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528) | 10|
-| 97 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d) | 10|
-| 98 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a) | 10|
-| 99 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438) | 10|
-| 100 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b) | 10|
+| 87 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 11|
+| 88 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4) | 11|
+| 89 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d) | 11|
+| 90 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861) | 11|
+| 91 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd) | 10|
+| 92 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6) | 10|
+| 93 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6) | 10|
+| 94 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827) | 10|
+| 95 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1) | 10|
+| 96 | [BrazilCorp.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf) | 10|
+| 97 | [Призрачный Путь](https://ws.tsl.rocks/corp/c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528) | 10|
+| 98 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d) | 10|
+| 99 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a) | 10|
+| 100 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438) | 10|

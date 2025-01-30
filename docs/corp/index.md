@@ -287,7 +287,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Foreshadowing](https://ws.tsl.rocks/corp/109b8b1b0a582211a19360109ebb1dcba3cff07d735912db43ef6e8a7177d6e9/) | 1176 | 1176 | 2 |
 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) | 1193 | 1211 | 10 |
 | [Fr\_Corp](https://ws.tsl.rocks/corp/15cb64e65ca36cfe0587e97943f7949ab81e724a438ff9d31bd466d55199f8da/) | 1186 | 1186 | 1 |
-| [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) | 1317 | 1335 | 10 |
+| [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) | 1327 | 1344 | 11 |
 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) | 1156 | 1202 | 13 |
 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) | 885 | 920 | 57 |
 | [free ws exp](https://ws.tsl.rocks/corp/4700da789a0342a7535c3fc33803b65259d1112671572841569ed1af8451b929/) | 1215 | 1215 | 1 |
@@ -474,7 +474,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 1664 | 1755 | 114 |
 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) | 1380 | 1411 | 16 |
 | [Lolis Corp](https://ws.tsl.rocks/corp/d6663acac05de61dd9abca4431836324a8d8d898ad6c475836a0b0459da97c30/) | 1172 | 1172 | 2 |
-| [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) | 1199 | 1202 | 2 |
+| [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) | 1189 | 1192 | 3 |
 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) | 1451 | 1519 | 42 |
 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) | 1252 | 1366 | 58 |
 | [Los Unidos ](https://ws.tsl.rocks/corp/963d98b9a64c86c9edc86daabe201f5d7e1f42bbeb0f45671b44a87e0b288e91/) | 1187 | 1217 | 16 |
@@ -712,7 +712,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [ShadowSpaceCult](https://ws.tsl.rocks/corp/2a0dfd09353bfa78a5958fa753f7a17a2e76ea4fcb92a2c6a860eae24cde03d6/) | 1213 | 1216 | 3 |
 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) | 1221 | 1253 | 38 |
 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) | 1126 | 1319 | 68 |
-| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1339 | 1423 | 43 |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1322 | 1410 | 44 |
 | [Simply Uranus](https://ws.tsl.rocks/corp/951c4b2ef77de2b24b3e3b3cd962679643a8fae1131e289d4ed60482d10aff45/) | 1174 | 1190 | 2 |
 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) | 1260 | 1294 | 28 |
 | [Sistemaimperial](https://ws.tsl.rocks/corp/c5d74741e67bccbb74d8e7772ef2f8cf79edb6ece339b45bb2683cb9e019c94c/) | 1199 | 1199 | 2 |
@@ -1295,7 +1295,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1097 | 1162 | 27 |
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1177 | 1183 | 4 |
-| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1278 | 1474 | 102 |
+| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1295 | 1487 | 103 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1321 | 1384 | 18 |
 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) | 1180 | 1190 | 6 |
 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) | 1083 | 1101 | 28 |
