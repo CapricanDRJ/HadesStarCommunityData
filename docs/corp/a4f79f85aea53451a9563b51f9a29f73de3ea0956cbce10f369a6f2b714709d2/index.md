@@ -20,8 +20,8 @@ G.O.D公会0v0的小号盟,可搜G.0.D去大盟
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (827)|
-| ELO Competitive | 1184 🔻  (988)|
+| ELO Regular | 1184 🔻  (828)|
+| ELO Competitive | 1184 🔻  (989)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

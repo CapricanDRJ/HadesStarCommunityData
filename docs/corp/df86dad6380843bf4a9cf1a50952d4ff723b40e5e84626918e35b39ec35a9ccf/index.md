@@ -23,7 +23,7 @@ erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1149 🔻  (1134)|
-| ELO Competitive | 1155 🔻  (1236)|
+| ELO Competitive | 1155 🔻  (1237)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

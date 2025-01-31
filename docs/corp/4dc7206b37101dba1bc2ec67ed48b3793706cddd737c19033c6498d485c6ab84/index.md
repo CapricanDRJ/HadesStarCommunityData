@@ -22,7 +22,7 @@ ap fyah, so get cooked.**
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (331)|
+| ELO Regular | 1232 🔺  (329)|
 | ELO Competitive | 1264 🔺  (377)|
 | Total Matches | 8 |
 | Wins | 5 |

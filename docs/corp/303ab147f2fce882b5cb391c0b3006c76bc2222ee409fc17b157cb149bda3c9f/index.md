@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Aquiles 
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737947475
+date: 1738352848
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1737947475
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (948)|
-| ELO Competitive | 1176 🔻  (1054)|
-| Total Matches | 2 |
+| ELO Regular | 1158 🔻  (1071)|
+| ELO Competitive | 1162 🔻  (1187)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737515475,1737074631];
+        let timestamps = [1737920848,1737515475,1737074631];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 0-7 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ❌ | 2025/01/27 | 1-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/01/22 | 2-11 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 
