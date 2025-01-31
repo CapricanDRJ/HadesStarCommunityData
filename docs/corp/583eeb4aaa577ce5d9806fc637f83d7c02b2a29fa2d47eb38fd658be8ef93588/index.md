@@ -22,8 +22,8 @@ IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (803)|
-| ELO Competitive | 1379 🔻  (163)|
+| ELO Regular | 1184 🔻  (804)|
+| ELO Competitive | 1379 🔻  (164)|
 | Total Matches | 60 |
 | Wins | 30 |
 | Losses | 29 |

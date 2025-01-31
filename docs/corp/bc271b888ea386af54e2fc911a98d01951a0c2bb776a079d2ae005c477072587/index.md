@@ -24,8 +24,8 @@ Auf geht's!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (752)|
-| ELO Competitive | 1185 🔻  (930)|
+| ELO Regular | 1185 🔻  (753)|
+| ELO Competitive | 1185 🔻  (929)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
