@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UK Armada
-description: W:4 L:8 D:1 Bonus ❌ 5%
+description: W:4 L:9 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1736415957
+date: 1738328801
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Find us on discord: https://discord.gg/u2VGhGRrFq
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1144)|
-| ELO Competitive | 1181 🔻  (1017)|
-| Total Matches | 13 |
+| ELO Regular | 1135 🔻  (1199)|
+| ELO Competitive | 1172 🔻  (1089)|
+| Total Matches | 14 |
 | Wins | 4 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735983957,1731416606,1730487151,1729630438,1727085623,1724220747,1723535267,1718970669,1713167716,1711089605,1708443913,1706575379,1705531091];
+        let timestamps = [1737896801,1735983957,1731416606,1730487151,1729630438,1727085623,1724220747,1723535267,1718970669,1713167716,1711089605,1708443913,1706575379,1705531091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 0-16 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ❌ | 2025/01/09 | 1-24 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/11/17 | 8-29 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2024/11/06 | 3-22 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |

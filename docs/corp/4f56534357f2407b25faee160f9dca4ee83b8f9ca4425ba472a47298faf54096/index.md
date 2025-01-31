@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:38 L:11 D:1 Bonus ✅ 36%
+description: W:38 L:11 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737732020
 ---
@@ -15,11 +15,11 @@ date: 1737732020
 ```
 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1377 🔺  (74)|
+| ELO Regular | 1377 🔺  (76)|
 | ELO Competitive | 1461 🔺  (90)|
 | Total Matches | 50 |
 | Wins | 38 |

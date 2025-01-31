@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Polish Pirates
-description: W:23 L:14 D:0 Bonus ✅ 46%
+description: W:23 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1737732320
 ---
@@ -22,11 +22,11 @@ DISCORD
 vGfaYFN
 ```
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔺  (118)|
+| ELO Regular | 1337 🔺  (117)|
 | ELO Competitive | 1397 🔺  (145)|
 | Total Matches | 37 |
 | Wins | 23 |
