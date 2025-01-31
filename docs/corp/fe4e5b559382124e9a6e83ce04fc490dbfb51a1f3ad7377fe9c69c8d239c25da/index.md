@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quantum Pioneer
-description: W:2 L:1 D:0 Bonus ❌ 
+description: W:2 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737682134
+date: 1738302655
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1737682134
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (370)|
-| ELO Competitive | 1225 🔻  (493)|
-| Total Matches | 3 |
+| ELO Regular | 1204 🔻  (476)|
+| ELO Competitive | 1210 🔻  (603)|
+| Total Matches | 4 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737250134,1736644048,1735733633];
+        let timestamps = [1737870655,1737250134,1736644048,1735733633];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 1-13 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2025/01/24 | 2-27 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ✅ | 2025/01/17 | 10-0 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2025/01/06 | 10-7 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |

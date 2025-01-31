@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:11 L:9 D:1 Bonus ✅ 32%
+description: W:12 L:9 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737814354
+date: 1738302655
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 1737814354
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (452)|
-| ELO Competitive | 1242 🔺  (437)|
-| Total Matches | 21 |
-| Wins | 11 |
+| ELO Regular | 1226 🔺  (353)|
+| ELO Competitive | 1257 🔺  (401)|
+| Total Matches | 22 |
+| Wins | 12 |
 | Losses | 9 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/31 | 13-1 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/01/25 | 14-0 | [星光滨岸](https://ws.tsl.rocks/corp/75dfe9299a63edce44f4604dc0bbe19eca157df4838e6e3a46621b7f14a89c39/) |
 | ✅ | 2025/01/19 | 14-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ❌ | 2024/12/04 | 0-4 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |

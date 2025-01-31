@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:11 L:23 D:0 Bonus ❌ 8%
+description: W:11 L:24 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736814798
+date: 1738304458
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ in us or prepare to meet your destiny.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1299)|
-| ELO Competitive | 1146 🔻  (1272)|
-| Total Matches | 34 |
+| ELO Regular | 1094 🔻  (1308)|
+| ELO Competitive | 1141 🔻  (1294)|
+| Total Matches | 35 |
 | Wins | 11 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736382798,1733920296,1732954252,1732188870,1731019030,1727345843,1726738938,1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
+        let timestamps = [1737872458,1736382798,1733920296,1732954252,1732188870,1731019030,1727345843,1726738938,1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 0 | 2 | 0 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 1 | 1 | 0 | 2 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 0 | 2 | 0 | 2 |
 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) | 0 | 2 | 0 | 2 |
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 0-12 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2025/01/14 | 0-4 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/12/16 | 0-22 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ❌ | 2024/12/05 | 3-29 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СССР
-description: W:55 L:41 D:2 Bonus ✅ 50%
+description: W:55 L:41 D:2 Bonus ❌ 15%
 image: ./favicon.png
 date: 1737716689
 ---
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 Мы в ТГ https://t.me/HS_CCCP
 ```
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

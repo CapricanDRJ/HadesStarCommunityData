@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​共产国际
-description: W:7 L:11 D:5 Bonus ✅ 32%
+description: W:7 L:11 D:5 Bonus ❌ 6%
 image: ./favicon.png
 date: 1737998859
 ---
@@ -17,12 +17,12 @@ date: 1737998859
 同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成
 员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1142 🔻  (1171)|
-| ELO Competitive | 1224 🔻  (498)|
+| ELO Competitive | 1224 🔻  (497)|
 | Total Matches | 23 |
 | Wins | 7 |
 | Losses | 11 |

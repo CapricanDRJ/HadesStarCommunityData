@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:17 L:13 D:0 Bonus ✅ 36%
+description: W:18 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737722099
+date: 1738301453
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ We don't care. You should try it.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (177)|
-| ELO Competitive | 1368 🔺  (180)|
-| Total Matches | 30 |
-| Wins | 17 |
+| ELO Regular | 1304 🔺  (156)|
+| ELO Competitive | 1381 🔺  (161)|
+| Total Matches | 31 |
+| Wins | 18 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 8 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
+        let timestamps = [1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/31 | 31-25 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2025/01/24 | 28-15 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2025/01/19 | 32-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2025/01/12 | 15-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

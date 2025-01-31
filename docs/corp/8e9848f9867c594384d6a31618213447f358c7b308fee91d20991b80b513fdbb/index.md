@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Albedo
-description: W:34 L:14 D:0 Bonus ❌ 8%
+description: W:34 L:15 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1737706469
+date: 1738303856
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Vulnera Virtutem Vivificant
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻  (151)|
-| ELO Competitive | 1397 🔻  (145)|
-| Total Matches | 48 |
+| ELO Regular | 1288 🔻  (185)|
+| ELO Competitive | 1382 🔻  (160)|
+| Total Matches | 49 |
 | Wins | 34 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 10 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737274469,1736681527,1734148660,1733538081,1732954252,1732340617,1731727615,1731125701,1730512695,1729902376,1729252389,1728558118,1728004860,1727420366,1726649498,1725997017,1724611717,1724009195,1723538574,1718700519,1718101437,1717406517,1716831302,1716260711,1715702776,1715158052,1714506261,1713896022,1713359423,1712760271,1712145187,1711531305,1710846233,1710229970,1709584863,1709057821,1708567717,1708063932,1707597105,1706922169,1706291988,1705711394,1705103460,1704408075,1703694343,1703031989,1702427707,1701686249];
+        let timestamps = [1737871856,1737274469,1736681527,1734148660,1733538081,1732954252,1732340617,1731727615,1731125701,1730512695,1729902376,1729252389,1728558118,1728004860,1727420366,1726649498,1725997017,1724611717,1724009195,1723538574,1718700519,1718101437,1717406517,1716831302,1716260711,1715702776,1715158052,1714506261,1713896022,1713359423,1712760271,1712145187,1711531305,1710846233,1710229970,1709584863,1709057821,1708567717,1708063932,1707597105,1706922169,1706291988,1705711394,1705103460,1704408075,1703694343,1703031989,1702427707,1701686249];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 2-29 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2025/01/24 | 1-39 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2025/01/17 | 0-31 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/12/19 | 5-25 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
