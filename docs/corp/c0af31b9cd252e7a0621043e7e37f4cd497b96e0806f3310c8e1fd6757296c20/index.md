@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Wacky Wabbits
-description: W:2 L:4 D:0 Bonus ❌ 10%
+description: W:2 L:5 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1737325415
+date: 1738324293
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ olor=#f0f30b>Wacky Warriors</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (879)|
-| ELO Competitive | 1189 🔻  (796)|
-| Total Matches | 6 |
+| ELO Regular | 1162 🔻  (1047)|
+| ELO Competitive | 1177 🔻  (1045)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736893415,1736093387,1709218270,1704794833,1703728305,1701655300];
+        let timestamps = [1737892293,1736893415,1736093387,1709218270,1704794833,1703728305,1701655300];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 7-52 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2025/01/19 | 20-41 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2025/01/10 | 21-37 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2024/03/05 | 11-23 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

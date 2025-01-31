@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DTC
-description: W:24 L:58 D:0 Bonus ✅ 52%
+description: W:24 L:58 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1737716689
 ---
@@ -18,12 +18,12 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
  french language mainly           on est là pour s amuser 🍻🍻
 ```
 ### [Discord](https://discord.gg/5FcqEU96nM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1150 🔺  (1125)|
-| ELO Competitive | 1291 🔺  (307)|
+| ELO Competitive | 1291 🔺  (308)|
 | Total Matches | 82 |
 | Wins | 24 |
 | Losses | 58 |

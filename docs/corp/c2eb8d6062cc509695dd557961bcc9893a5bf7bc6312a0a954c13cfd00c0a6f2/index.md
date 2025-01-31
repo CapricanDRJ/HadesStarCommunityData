@@ -21,7 +21,7 @@ De l'entraide, de la bonne humeur, un minimum de présence et beaucoup
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (660)|
-| ELO Competitive | 1187 🔻  (835)|
+| ELO Competitive | 1187 🔻  (834)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

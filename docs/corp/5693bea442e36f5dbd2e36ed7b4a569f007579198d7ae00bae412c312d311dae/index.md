@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:14 L:9 D:2 Bonus ✅ 32%
+description: W:14 L:10 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737874168
+date: 1738317379
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Lets WiN all white Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔺  (227)|
-| ELO Competitive | 1286 🔺  (323)|
-| Total Matches | 25 |
+| ELO Regular | 1249 🔻  (272)|
+| ELO Competitive | 1271 🔻  (357)|
+| Total Matches | 26 |
 | Wins | 14 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
+        let timestamps = [1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/01/31 | 1-10 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/01/26 | 5-3 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2025/01/21 | 5-15 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2025/01/15 | 6-0 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:17 L:14 D:7 Bonus ✅ 34%
+description: W:17 L:14 D:7 Bonus ❌ 7%
 image: ./favicon.png
 date: 1738236845
 ---
@@ -15,11 +15,11 @@ date: 1738236845
 ```
 14 дней неактив в игре — кик. 300+ мощь империи.
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔻  (266)|
+| ELO Regular | 1251 🔻  (265)|
 | ELO Competitive | 1289 🔻  (313)|
 | Total Matches | 38 |
 | Wins | 17 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Star llc.
-description: W:37 L:21 D:0 Bonus ✅ 36%
+description: W:37 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737717590
 ---
@@ -18,12 +18,12 @@ d & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star l
 lc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (159)|
-| ELO Competitive | 1395 🔺  (146)|
+| ELO Regular | 1303 🔺  (158)|
+| ELO Competitive | 1395 🔺  (147)|
 | Total Matches | 58 |
 | Wins | 37 |
 | Losses | 21 |

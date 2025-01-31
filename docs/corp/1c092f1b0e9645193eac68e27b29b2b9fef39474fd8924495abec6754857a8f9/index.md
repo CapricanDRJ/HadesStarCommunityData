@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​alienigenas
-description: W:9 L:5 D:0 Bonus ✅ 36%
+description: W:9 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737720596
 ---
@@ -20,7 +20,7 @@ Para pertenecer a la corporacion hay que participar y colaborar en al
 guna actividad con los demas compañeros 
 ```
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
