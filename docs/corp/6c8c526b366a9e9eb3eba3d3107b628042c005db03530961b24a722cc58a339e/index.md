@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:35 L:14 D:1 Bonus ✅ 40%
+description: W:35 L:14 D:2 Bonus ✅ 40%
 image: ./favicon.png
-date: 1737800830
+date: 1738315576
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1413 🔺  (47)|
-| ELO Competitive | 1492 🔺  (72)|
-| Total Matches | 50 |
+| ELO Regular | 1407 🔻  (53)|
+| ELO Competitive | 1485 🔻  (77)|
+| Total Matches | 51 |
 | Wins | 35 |
 | Losses | 14 |
-| Draws | 1 |
-| Streak | 3 |
+| Draws | 2 |
 | Streak Record | 8 |
 | Flagship | 9 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737368830,1736768684,1736768684,1735238155,1734446734,1733824752,1733067844,1732550071,1731930755,1731315642,1730712822,1730116640,1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
+        let timestamps = [1737883576,1737368830,1736768684,1736768684,1735238155,1734446734,1733824752,1733067844,1732550071,1731930755,1731315642,1730712822,1730116640,1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/01/31 | 14-14 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | ✅ | 2025/01/25 | 52-13 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ✅ | 2025/01/18 | 34-7 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2025/01/18 | 45-31 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |

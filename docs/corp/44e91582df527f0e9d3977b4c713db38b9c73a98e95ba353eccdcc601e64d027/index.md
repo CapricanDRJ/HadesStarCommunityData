@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stellar Exports
-description: W:65 L:44 D:0 Bonus ✅ 46%
+description: W:65 L:44 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1737722099
 ---
@@ -25,7 +25,7 @@ Trolls and inactives get kicked
 Discord preferred nBrqgsV 
 ```
 ### [Discord](https://discord.gg/nBrqgsV)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
