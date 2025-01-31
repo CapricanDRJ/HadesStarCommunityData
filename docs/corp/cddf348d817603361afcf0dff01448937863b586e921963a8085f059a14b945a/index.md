@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Kobol
-description: W:0 L:3 D:1 Bonus ❌ 
+description: W:1 L:4 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1737756967
+date: 1738343230
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1737756967
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (991)|
-| ELO Competitive | 1194 🔻  (719)|
-| Total Matches | 4 |
-| Wins | 0 |
-| Losses | 3 |
+| ELO Regular | 1178 🔺  (881)|
+| ELO Competitive | 1220 🔺  (512)|
+| Total Matches | 6 |
+| Wins | 1 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737324967,1734702427,1734270105,1734264946];
+        let timestamps = [1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/01/31 | 32-25 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
+| ❌ | 2025/01/31 | 0-12 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/01/24 | 0-24 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ↔️ | 2024/12/25 | 18-18 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2024/12/20 | 0-2 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
