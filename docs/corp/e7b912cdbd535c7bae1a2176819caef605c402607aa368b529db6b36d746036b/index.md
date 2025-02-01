@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Snack Empire
-description: W:0 L:4 D:0 Bonus ❌ 2%
+description: W:0 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1734880537
+date: 1738375083
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1734880537
 ```
 Welcome to the land of the delicious! Please be active and grow :)
 ```
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1138)|
-| ELO Competitive | 1169 🔻  (1143)|
-| Total Matches | 4 |
+| ELO Regular | 1137 🔻  (1191)|
+| ELO Competitive | 1159 🔻  (1207)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734448537,1730940035,1730912953,1700022968];
+        let timestamps = [1737943083,1734448537,1730940035,1730912953,1700022968];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/01 | 0-19 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/12/22 | 0-16 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/11/12 | 0-15 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/11/11 | 2-14 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |

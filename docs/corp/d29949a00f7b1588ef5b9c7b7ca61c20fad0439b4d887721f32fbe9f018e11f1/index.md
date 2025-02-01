@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elysium
-description: W:47 L:14 D:0 Bonus ✅ 38%
+description: W:47 L:14 D:0 Bonus ❌ 38%
 image: ./favicon.png
 date: 1737776794
 ---
@@ -18,11 +18,11 @@ Weekly WS, 38% art bonus, Regularly top 10 on WS leaderboards. We tra
 in and play. Join today!
 ```
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1462 🔺  (19)|
+| ELO Regular | 1462 🔺  (20)|
 | ELO Competitive | 1542 🔺  (38)|
 | Total Matches | 61 |
 | Wins | 47 |

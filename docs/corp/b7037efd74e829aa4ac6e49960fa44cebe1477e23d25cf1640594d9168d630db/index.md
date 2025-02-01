@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Rising star
-description: W:30 L:41 D:0 Bonus ❌ 15%
+description: W:31 L:41 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1737773489
+date: 1738375684
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ If kicked for inactivity, please join back when ready.
 
 ```
 ### [Discord](https://discord.gg/fYBf2GNU7y)
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1230)|
-| ELO Competitive | 1232 🔻  (465)|
-| Total Matches | 71 |
-| Wins | 30 |
+| ELO Regular | 1134 🔺  (1205)|
+| ELO Competitive | 1237 🔺  (450)|
+| Total Matches | 72 |
+| Wins | 31 |
 | Losses | 41 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737341489,1736733830,1736124652,1735562969,1734940403,1734325644,1733717489,1733098497,1732518818,1731910324,1731300021,1730689089,1730092603,1729471174,1728881241,1728275634,1727670386,1727075408,1726457994,1725857883,1725238874,1724647775,1724050963,1723432791,1722833275,1722210026,1721620992,1721011541,1720400836,1719802187,1719205687,1718600751,1717977028,1717397202,1716775104,1716200619,1715567575,1714963362,1714355421,1713761121,1713147287,1712539426,1711939966,1711364471,1710747082,1710134125,1709616109,1708922596,1708918391,1708311997,1708309894,1707700778,1707688461,1707109686,1707093162,1706543221,1705866467,1705278965,1704669826,1704136107,1703457838,1702854178,1702849670,1702269316,1701644483,1701085769,1701037691,1700423064,1699818296,1699270983,1698720440];
+        let timestamps = [1737943684,1737341489,1736733830,1736124652,1735562969,1734940403,1734325644,1733717489,1733098497,1732518818,1731910324,1731300021,1730689089,1730092603,1729471174,1728881241,1728275634,1727670386,1727075408,1726457994,1725857883,1725238874,1724647775,1724050963,1723432791,1722833275,1722210026,1721620992,1721011541,1720400836,1719802187,1719205687,1718600751,1717977028,1717397202,1716775104,1716200619,1715567575,1714963362,1714355421,1713761121,1713147287,1712539426,1711939966,1711364471,1710747082,1710134125,1709616109,1708922596,1708918391,1708311997,1708309894,1707700778,1707688461,1707109686,1707093162,1706543221,1705866467,1705278965,1704669826,1704136107,1703457838,1702854178,1702849670,1702269316,1701644483,1701085769,1701037691,1700423064,1699818296,1699270983,1698720440];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,11 +138,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 3 | 0 | 0 | 3 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 4 | 0 | 4 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 0 | 3 | 0 | 3 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 2 | 0 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 5 | 0 | 5 |
-| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 2 | 0 | 0 | 2 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 1 | 0 | 2 |
 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) | 2 | 1 | 0 | 3 |
 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) | 2 | 0 | 0 | 2 |
@@ -159,6 +159,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/01 | 39-3 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2025/01/25 | 0-32 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2025/01/18 | 14-40 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2025/01/11 | 24-27 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
