@@ -19,7 +19,7 @@ We do White stars every 5 to 8 days
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (560)|
+| ELO Regular | 1194 🔻  (561)|
 | ELO Competitive | 1213 🔻  (584)|
 | Total Matches | 9 |
 | Wins | 4 |

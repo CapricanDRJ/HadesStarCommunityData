@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:8 L:10 D:0 Bonus ✅ 36%
+description: W:8 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738359460
 ---
@@ -17,7 +17,7 @@ CZ/SK korporace            Odkaz na stažení HadesSpace https://userxi
 nos.github.io/HadesSpace/
 ```
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

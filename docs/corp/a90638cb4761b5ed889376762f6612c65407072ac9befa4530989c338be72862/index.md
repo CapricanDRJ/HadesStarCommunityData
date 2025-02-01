@@ -21,8 +21,8 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (137)|
-| ELO Competitive | 1343 🔺  (205)|
+| ELO Regular | 1323 🔺  (136)|
+| ELO Competitive | 1343 🔺  (204)|
 | Total Matches | 13 |
 | Wins | 12 |
 | Losses | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:24 L:26 D:0 Bonus ✅ 36%
+description: W:24 L:26 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738391307
 ---
@@ -18,7 +18,7 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
  beginnen!
 ```
 ### [Discord](https://discord.gg/MNs4VdSb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
