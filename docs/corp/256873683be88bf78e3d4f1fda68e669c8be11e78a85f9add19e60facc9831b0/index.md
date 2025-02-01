@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:23 L:36 D:0 Bonus ✅ 44%
+description: W:23 L:36 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1737760272
 ---
@@ -16,7 +16,7 @@ date: 1737760272
 • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
 ```
 ### [Discord](https://discord.gg/EnduRy84t7)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

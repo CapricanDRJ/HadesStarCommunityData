@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sad Panda 2.0
-description: W:2 L:7 D:0 Bonus ❌ 7%
+description: W:3 L:7 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1726262846
+date: 1738368474
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ senior member. Fail to log, I will demote to member. 14 days no log i
 n and I will kick members. 
 ```
 ### [Discord](https://discord.gg/yEGmdxCSd9)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1097)|
-| ELO Competitive | 1159 🔻  (1205)|
-| Total Matches | 9 |
-| Wins | 2 |
+| ELO Regular | 1167 🔺  (1009)|
+| ELO Competitive | 1172 🔺  (1100)|
+| Total Matches | 10 |
+| Wins | 3 |
 | Losses | 7 |
 | Draws | 0 |
 | Flagship | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725830846,1724027827,1706676952,1703674806,1702610736,1701747564,1700983580,1699946328,1699221113];
+        let timestamps = [1737936474,1725830846,1724027827,1706676952,1703674806,1702610736,1701747564,1700983580,1699946328,1699221113];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/01 | 22-3 | [Red Star Corp\.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) |
 | ❌ | 2024/09/13 | 0-30 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ❌ | 2024/08/24 | 20-44 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/02/05 | 0-27 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​АарнСарт 
-description: W:8 L:3 D:0 Bonus ✅ 
+description: W:8 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1737832230
 ---
@@ -15,7 +15,7 @@ date: 1737832230
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:55 L:6 D:1 Bonus ✅ 40%
+description: W:55 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1737765378
 ---
@@ -24,7 +24,7 @@ White Star focused.
 
 ```
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
