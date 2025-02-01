@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:29 L:10 D:1 Bonus ❌ 8%
+description: W:29 L:10 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1737745245
+date: 1738420756
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,12 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1374 🔻  (78)|
-| ELO Competitive | 1446 🔻  (103)|
-| Total Matches | 40 |
+| ELO Regular | 1365 🔻  (84)|
+| ELO Competitive | 1436 🔻  (112)|
+| Total Matches | 41 |
 | Wins | 29 |
 | Losses | 10 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737313245,1736808364,1736274306,1735701786,1735160337,1734465667,1733032081,1732468339,1731800643,1731233898,1730737168,1730062558,1729392135,1728864718,1728310793,1727738608,1727237968,1726766210,1726207949,1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
+        let timestamps = [1737988756,1737313245,1736808364,1736274306,1735701786,1735160337,1734465667,1733032081,1732468339,1731800643,1731233898,1730737168,1730062558,1729392135,1728864718,1728310793,1727738608,1727237968,1726766210,1726207949,1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/01 | 5-5 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2025/01/24 | 5-16 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2025/01/18 | 11-2 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2025/01/12 | 6-1 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |

@@ -20,8 +20,8 @@ atividade e quando tiver 10 membros na disposição bora pra ws
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1218)|
-| ELO Competitive | 1143 🔻  (1290)|
+| ELO Regular | 1130 🔻  (1219)|
+| ELO Competitive | 1143 🔻  (1291)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |
