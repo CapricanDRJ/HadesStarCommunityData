@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ℬlackStar Order
-description: W:16 L:3 D:0 Bonus ✅ 32%
+description: W:16 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1737820968
 ---
@@ -15,7 +15,7 @@ date: 1737820968
 ```
 
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

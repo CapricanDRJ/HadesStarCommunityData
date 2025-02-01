@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stargate Corp
-description: W:65 L:31 D:0 Bonus ✅ 54%
+description: W:65 L:31 D:0 Bonus ❌ 17%
 image: ./favicon.png
 date: 1737829985
 ---
@@ -18,11 +18,11 @@ Allies of Omega Alpha & The Watchers<br><br>・Open for RS: 52% (closed
 ter guesting RS runs<br><br>Discord mandatory to join!
 ```
 ### [Discord](https://discord.gg/sXxSq4KUmm)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1434 🔺  (35)|
+| ELO Regular | 1434 🔺  (36)|
 | ELO Competitive | 1668 🔺  (9)|
 | Total Matches | 96 |
 | Wins | 65 |
