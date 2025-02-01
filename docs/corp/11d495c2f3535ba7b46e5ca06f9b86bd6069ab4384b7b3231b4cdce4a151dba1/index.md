@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​碧海听潮阁
-description: W:8 L:6 D:3 Bonus ✅ 
+description: W:8 L:6 D:3 Bonus ❌ 
 image: ./favicon.png
 date: 1738220918
 ---
@@ -15,7 +15,7 @@ date: 1738220918
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

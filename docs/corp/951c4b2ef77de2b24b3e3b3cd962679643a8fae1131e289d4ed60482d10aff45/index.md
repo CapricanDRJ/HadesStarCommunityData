@@ -24,7 +24,7 @@ A Space Family :)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (919)|
+| ELO Regular | 1174 🔻  (918)|
 | ELO Competitive | 1190 🔻  (778)|
 | Total Matches | 2 |
 | Wins | 0 |

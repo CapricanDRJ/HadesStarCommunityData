@@ -22,7 +22,7 @@ nks
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1457 🔺  (23)|
+| ELO Regular | 1457 🔺  (22)|
 | ELO Competitive | 1527 🔺  (48)|
 | Total Matches | 43 |
 | Wins | 31 |

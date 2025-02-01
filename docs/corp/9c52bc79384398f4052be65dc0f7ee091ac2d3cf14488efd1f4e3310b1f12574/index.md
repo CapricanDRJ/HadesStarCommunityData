@@ -21,7 +21,7 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1117 🔻  (1255)|
-| ELO Competitive | 1220 🔻  (514)|
+| ELO Competitive | 1220 🔻  (515)|
 | Total Matches | 36 |
 | Wins | 12 |
 | Losses | 24 |
