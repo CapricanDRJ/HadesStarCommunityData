@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:25 L:2 D:0 Bonus ✅ 34%
+description: W:25 L:3 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1737846815
+date: 1738441795
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1737846815
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1422 🔺  (42)|
-| ELO Competitive | 1450 🔺  (98)|
-| Total Matches | 27 |
+| ELO Regular | 1402 🔻  (56)|
+| ELO Competitive | 1431 🔻  (120)|
+| Total Matches | 28 |
 | Wins | 25 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 21 |
 | Streak Record | 21 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737414815,1736721812,1736102407,1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
+        let timestamps = [1738009795,1737414815,1736721812,1736102407,1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/01 | 6-33 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2025/01/25 | 27-10 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ✅ | 2025/01/17 | 28-0 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2025/01/10 | 33-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
