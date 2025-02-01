@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:14 L:6 D:0 Bonus ❌ 13%
+description: W:14 L:7 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1736965659
+date: 1738400320
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ cord link below (Space Pals Server, Discord mandatory).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔻  (147)|
-| ELO Competitive | 1374 🔻  (171)|
-| Total Matches | 20 |
+| ELO Regular | 1299 🔻  (167)|
+| ELO Competitive | 1359 🔻  (189)|
+| Total Matches | 21 |
 | Wins | 14 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736533659,1735308160,1734118013,1732831060,1732211110,1730712822,1729199808,1727968795,1727343739,1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
+        let timestamps = [1737968320,1736533659,1735308160,1734118013,1732831060,1732211110,1730712822,1729199808,1727968795,1727343739,1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/01 | 5-19 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ❌ | 2025/01/15 | 30-38 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2025/01/01 | 28-31 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/12/18 | 4-28 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:8 L:12 D:1 Bonus ❌ 6%
+description: W:8 L:12 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1736504619
+date: 1738394648
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,12 @@ date: 1736504619
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔺  (1044)|
-| ELO Competitive | 1205 🔺  (623)|
-| Total Matches | 21 |
+| ELO Regular | 1162 🔻  (1045)|
+| ELO Competitive | 1203 🔻  (633)|
+| Total Matches | 22 |
 | Wins | 8 |
 | Losses | 12 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 2 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736072619,1735555456,1734971054,1734458216,1733663097,1733139052,1732703612,1732221773,1731720705,1731673819,1731214963,1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
+        let timestamps = [1737962648,1736072619,1735555456,1734971054,1734458216,1733663097,1733139052,1732703612,1732221773,1731720705,1731673819,1731214963,1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/01 | 0-0 | [Aquiles ](https://ws.tsl.rocks/corp/303ab147f2fce882b5cb391c0b3006c76bc2222ee409fc17b157cb149bda3c9f/) |
 | ✅ | 2025/01/10 | 3-0 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) |
 | ❌ | 2025/01/04 | 0-3 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/12/28 | 3-9 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |

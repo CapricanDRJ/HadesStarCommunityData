@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Marshalls
-description: W:33 L:21 D:0 Bonus ✅ 38%
+description: W:33 L:21 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737795421
 ---
@@ -17,11 +17,11 @@ Station für einsame Piloten, lasst uns gemeinsam stillschweigend chil
 len.
 ```
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (206)|
+| ELO Regular | 1274 🔺  (207)|
 | ELO Competitive | 1388 🔺  (150)|
 | Total Matches | 54 |
 | Wins | 33 |
