@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Star League
-description: W:8 L:15 D:0 Bonus ✅ 48%
+description: W:8 L:15 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1737876256
 ---
@@ -18,12 +18,12 @@ r=red>Red Star 9-12</color> and competitive <color=white>White Star</
 color> focus.
 ```
 ### [Discord](https://discord.gg/2cEAstZ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔺  (1016)|
-| ELO Competitive | 1224 🔺  (497)|
+| ELO Competitive | 1224 🔺  (496)|
 | Total Matches | 23 |
 | Wins | 8 |
 | Losses | 15 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:1 L:36 D:1 Bonus ❌ 11%
+description: W:1 L:37 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1738017493
+date: 1738478750
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738017493
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 935 🔻  (1396)|
-| ELO Competitive | 1008 🔻  (1402)|
-| Total Matches | 38 |
+| ELO Regular | 934 🔻  (1396)|
+| ELO Competitive | 1007 🔻  (1402)|
+| Total Matches | 39 |
 | Wins | 1 |
-| Losses | 36 |
+| Losses | 37 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/02 | 0-43 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2025/01/27 | 12-44 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ❌ | 2025/01/22 | 16-22 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2025/01/17 | 5-14 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |

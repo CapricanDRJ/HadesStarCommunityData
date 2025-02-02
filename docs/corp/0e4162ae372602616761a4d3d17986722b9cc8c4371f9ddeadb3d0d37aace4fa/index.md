@@ -20,7 +20,7 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (532)|
+| ELO Regular | 1199 🔻  (533)|
 | ELO Competitive | 1202 🔻  (642)|
 | Total Matches | 3 |
 | Wins | 1 |

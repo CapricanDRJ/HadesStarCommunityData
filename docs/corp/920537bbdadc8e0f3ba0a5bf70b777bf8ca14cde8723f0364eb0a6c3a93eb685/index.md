@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UFO
-description: W:7 L:14 D:2 Bonus ❌ 6%
+description: W:7 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737765378
+date: 1738483258
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ https://discord.gg/NuvtUTUxQj
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (538)|
-| ELO Competitive | 1234 🔻  (463)|
-| Total Matches | 23 |
+| ELO Regular | 1179 🔻  (881)|
+| ELO Competitive | 1215 🔻  (568)|
+| Total Matches | 24 |
 | Wins | 7 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/02 | 10-14 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) |
 | ❌ | 2025/01/25 | 4-28 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2025/01/06 | 4-22 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ↔️ | 2024/12/30 | 17-17 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |

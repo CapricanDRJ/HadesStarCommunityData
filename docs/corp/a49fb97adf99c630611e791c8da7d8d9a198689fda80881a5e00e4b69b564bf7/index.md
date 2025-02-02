@@ -22,7 +22,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (114)|
+| ELO Regular | 1339 🔺  (113)|
 | ELO Competitive | 1555 🔺  (32)|
 | Total Matches | 93 |
 | Wins | 49 |
