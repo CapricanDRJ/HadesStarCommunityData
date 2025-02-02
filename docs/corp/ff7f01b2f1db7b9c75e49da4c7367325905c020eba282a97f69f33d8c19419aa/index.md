@@ -20,7 +20,7 @@ GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 🔻  (1386)|
+| ELO Regular | 987 🔻  (1385)|
 | ELO Competitive | 1009 🔻  (1401)|
 | Total Matches | 31 |
 | Wins | 2 |

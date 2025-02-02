@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Gold Star
-description: W:2 L:12 D:2 Bonus ❌ 4%
+description: W:3 L:12 D:2 Bonus ✅ 30%
 image: ./favicon.png
-date: 1738028308
+date: 1738532244
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1738028308
 ```
 Ruling the universe is our simple goal.
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1283)|
-| ELO Competitive | 1119 🔻  (1337)|
-| Total Matches | 16 |
-| Wins | 2 |
+| ELO Regular | 1118 🔺  (1255)|
+| ELO Competitive | 1131 🔺  (1322)|
+| Total Matches | 17 |
+| Wins | 3 |
 | Losses | 12 |
 | Draws | 2 |
 | Flagship | 3 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
+        let timestamps = [1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/02 | 7-5 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2025/01/28 | 0-33 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ❌ | 2024/12/12 | 0-30 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/11/18 | 0-29 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
