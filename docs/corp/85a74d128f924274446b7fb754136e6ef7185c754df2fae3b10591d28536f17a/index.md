@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: W:28 L:49 D:0 Bonus ✅ 46%
+description: W:28 L:49 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1737842909
 ---
@@ -22,12 +22,12 @@ g."
 Zum Server->95WWyXqrhQ</color>
 ```
 ### [Discord](https://discord.gg/95WWyXqrhQ)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔺  (879)|
-| ELO Competitive | 1377 🔺  (167)|
+| ELO Competitive | 1377 🔺  (168)|
 | Total Matches | 77 |
 | Wins | 28 |
 | Losses | 49 |

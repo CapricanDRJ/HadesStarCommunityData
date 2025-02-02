@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:11 L:2 D:1 Bonus ✅ 32%
+description: W:11 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1737852222
 ---
@@ -16,7 +16,7 @@ date: 1737852222
 Looking for members. Come grow with us!
 ```
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
