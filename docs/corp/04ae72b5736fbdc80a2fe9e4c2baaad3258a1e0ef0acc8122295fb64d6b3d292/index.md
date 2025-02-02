@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​three kitties
-description: W:47 L:32 D:4 Bonus ✅ 38%
+description: W:47 L:32 D:4 Bonus ❌ 9%
 image: ./favicon.png
 date: 1737915625
 ---
@@ -17,12 +17,12 @@ Subsidiary of the Titans Ф Terror   •Active Players welcome• Find mor
 e Infos on Discord or at: hadestitans.com 
 ```
 ### [Discord](https://discord.gg/YPC7XenfdY)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1252 🔺  (264)|
-| ELO Competitive | 1454 🔺  (95)|
+| ELO Competitive | 1454 🔺  (96)|
 | Total Matches | 83 |
 | Wins | 47 |
 | Losses | 32 |
