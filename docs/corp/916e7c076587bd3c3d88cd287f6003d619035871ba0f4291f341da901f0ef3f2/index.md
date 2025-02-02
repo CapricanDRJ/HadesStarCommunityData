@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:3 L:4 D:1 Bonus ✅ 28%
+description: W:3 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
 date: 1737889476
 ---
@@ -15,12 +15,12 @@ date: 1737889476
 ```
 
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔺  (575)|
-| ELO Competitive | 1207 🔺  (619)|
+| ELO Competitive | 1207 🔺  (620)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 4 |

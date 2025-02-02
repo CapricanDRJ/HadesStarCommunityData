@@ -20,7 +20,7 @@ Willkommen bei der Monster AG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1077)|
+| ELO Regular | 1158 🔻  (1078)|
 | ELO Competitive | 1158 🔻  (1221)|
 | Total Matches | 3 |
 | Wins | 0 |
