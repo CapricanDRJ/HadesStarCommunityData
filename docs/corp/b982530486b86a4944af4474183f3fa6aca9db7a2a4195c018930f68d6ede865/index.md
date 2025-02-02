@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 边域
-description: W:7 L:9 D:1 Bonus ✅ 32%
+description: W:7 L:10 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737969948
+date: 1738478450
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 1737969948
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (891)|
-| ELO Competitive | 1185 🔺  (917)|
-| Total Matches | 17 |
+| ELO Regular | 1162 🔻  (1047)|
+| ELO Competitive | 1176 🔻  (1052)|
+| Total Matches | 18 |
 | Wins | 7 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 2 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/02 | 3-5 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2025/01/27 | 4-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ✅ | 2025/01/22 | 3-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2025/01/17 | 0-4 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |

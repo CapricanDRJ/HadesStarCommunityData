@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​孤星长城
-description: W:9 L:1 D:0 Bonus ✅ 
+description: W:9 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1737872952
 ---
@@ -15,7 +15,7 @@ date: 1737872952
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

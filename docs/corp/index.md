@@ -55,7 +55,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Atlas SLV\-1](https://ws.tsl.rocks/corp/22d6e02d0c23dfcde9933252bf0e912846cea7c0c7d6f77c50734310f0a81555/) | 1189 | 1189 | 1 |
 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) | 1428 | 1519 | 62 |
 | [Aurora Burning](https://ws.tsl.rocks/corp/12563d832c8ee65cd0763789549a23ff034c54c9cb77edf2a70afb1cbd904870/) | 1183 | 1184 | 5 |
-| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 1671 | 1803 | 92 |
+| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 1672 | 1803 | 93 |
 | [Austria ](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 1201 | 1201 | 4 |
 | [Avabel Online 2](https://ws.tsl.rocks/corp/5efe2c3c6ca505c52ce401ff3ce7f6de2e885c6372a2741108cb67d09d914baa/) | 1187 | 1187 | 1 |
 | [Avalanche 2\.0](https://ws.tsl.rocks/corp/16518dd73c7ad588d44a7874c0090364c7edb46d86cf55ac73c718c471315a82/) | 1174 | 1177 | 6 |
@@ -608,7 +608,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) | 1206 | 1330 | 58 |
 | [Poison Nebula](https://ws.tsl.rocks/corp/feb1dc461f9c203db7bce2a50fa4cd3f3a4734e66b02c9b74b000880b667c8a7/) | 1185 | 1185 | 1 |
 | [Polandia](https://ws.tsl.rocks/corp/e069826357fea955233cc29c81bb28ed9a781f8991d00833046b9f4fa240c826/) | 1150 | 1167 | 3 |
-| [Polaris](https://ws.tsl.rocks/corp/4802fe8a63e61d18eb0407dc5121d8e0e6a81117a7f47998566752e0f8d846f3/) | 1108 | 1134 | 9 |
+| [Polaris](https://ws.tsl.rocks/corp/4802fe8a63e61d18eb0407dc5121d8e0e6a81117a7f47998566752e0f8d846f3/) | 1107 | 1134 | 10 |
 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) | 1202 | 1258 | 19 |
 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 1337 | 1397 | 37 |
 | [Power Rangers](https://ws.tsl.rocks/corp/940a52e48b29c08cd20a29fd827bc9acdec19c43012496949b4f096e196afa3a/) | 1214 | 1223 | 1 |
@@ -1013,13 +1013,13 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [8 русский рейх](https://ws.tsl.rocks/corp/8e7c8e4fc8fc755c723fafd3a9584dacda0f5a2eb4b800d5e8d379d664da2a44/) | 1222 | 1222 | 1 |
 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) | 1404 | 1457 | 41 |
 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) | 1165 | 1168 | 3 |
-| [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) | 1263 | 1407 | 48 |
+| [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) | 1248 | 1387 | 49 |
 | [ brazil com\.](https://ws.tsl.rocks/corp/c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/) | 1186 | 1186 | 1 |
 | [ Eligius ](https://ws.tsl.rocks/corp/13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/) | 1190 | 1190 | 3 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1328 | 1611 | 127 |
 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1126 | 1248 | 39 |
 | [ 星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1234 | 1236 | 4 |
-| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1177 | 1185 | 17 |
+| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1162 | 1176 | 18 |
 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) | 1344 | 1390 | 13 |
 | ["ПОБЕДА"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) | 1185 | 1185 | 1 |
 | [$TAR$](https://ws.tsl.rocks/corp/05ef16a2f175c0cb548193f16571a9c8285e16d0f0fb2dcd138ab632b57aa53f/) | 1187 | 1196 | 1 |
@@ -1261,7 +1261,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [新兴帝国](https://ws.tsl.rocks/corp/9fa462f31ce0b962d9b98aa9b68477e4a7ad4a97b1b3c0bfcbe3d258ccbafd8b/) | 1196 | 1200 | 7 |
 | [新手联邦活动用团](https://ws.tsl.rocks/corp/f5b74270579ff2fa4013980499962e39d8250d419177582f7d64a13f715b9d6e/) | 1187 | 1191 | 1 |
 | [新手联邦（新经济开发区）](https://ws.tsl.rocks/corp/c7d71837164a41f0f3a49a6fa7a0c6d70a01f245de86b3783940bba2632a8804/) | 1459 | 1480 | 27 |
-| [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) | 1254 | 1276 | 10 |
+| [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) | 1269 | 1296 | 11 |
 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) | 1117 | 1153 | 18 |
 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) | 1202 | 1233 | 10 |
 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) | 1047 | 1083 | 14 |
@@ -1293,7 +1293,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 1297 | 1322 | 27 |
 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) | 1194 | 1235 | 32 |
 | [星际集团](https://ws.tsl.rocks/corp/5487e6c91bbb3348790aa90be274a471189edab52d1567d86412023e0e501871/) | 1160 | 1163 | 8 |
-| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1174 | 1330 | 62 |
+| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1189 | 1339 | 63 |
 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) | 1183 | 1185 | 1 |
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1097 | 1162 | 27 |
