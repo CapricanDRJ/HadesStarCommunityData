@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: W:28 L:49 D:0 Bonus ❌ 13%
+description: W:29 L:49 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1737842909
+date: 1738458621
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,17 +22,17 @@ g."
 Zum Server->95WWyXqrhQ</color>
 ```
 ### [Discord](https://discord.gg/95WWyXqrhQ)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (879)|
-| ELO Competitive | 1377 🔺  (168)|
-| Total Matches | 77 |
-| Wins | 28 |
+| ELO Regular | 1189 🔺  (625)|
+| ELO Competitive | 1386 🔺  (153)|
+| Total Matches | 78 |
+| Wins | 29 |
 | Losses | 49 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 12 |
 
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737410909,1736736534,1735626071,1735599635,1735075611,1734386345,1733883947,1733214472,1732587633,1731977638,1731313840,1730232339,1729629837,1729543298,1728943460,1728939854,1728337844,1728336041,1727754229,1727734702,1727084721,1727079314,1726476923,1726473018,1725875310,1723504319,1723464043,1722849200,1722844994,1721039188,1720461841,1720445909,1719841852,1719829529,1719307855,1719224315,1718630500,1717397803,1717397202,1716797938,1716797337,1716300067,1715596114,1714984992,1714389669,1713798676,1713181236,1712564663,1712051741,1711357036,1710756395,1710192718,1710178894,1709538587,1709535282,1708933111,1708928905,1707119000,1706564262,1706532099,1705910036,1705901022,1705328541,1705318324,1704617526,1704605807,1704035737,1704016501,1703410652,1703407947,1702803078,1702286144,1701622539,1701077956,1700467539,1699476524,1698880939];
+        let timestamps = [1738026621,1737410909,1736736534,1735626071,1735599635,1735075611,1734386345,1733883947,1733214472,1732587633,1731977638,1731313840,1730232339,1729629837,1729543298,1728943460,1728939854,1728337844,1728336041,1727754229,1727734702,1727084721,1727079314,1726476923,1726473018,1725875310,1723504319,1723464043,1722849200,1722844994,1721039188,1720461841,1720445909,1719841852,1719829529,1719307855,1719224315,1718630500,1717397803,1717397202,1716797938,1716797337,1716300067,1715596114,1714984992,1714389669,1713798676,1713181236,1712564663,1712051741,1711357036,1710756395,1710192718,1710178894,1709538587,1709535282,1708933111,1708928905,1707119000,1706564262,1706532099,1705910036,1705901022,1705328541,1705318324,1704617526,1704605807,1704035737,1704016501,1703410652,1703407947,1702803078,1702286144,1701622539,1701077956,1700467539,1699476524,1698880939];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 3 | 0 | 0 | 3 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 2 | 0 | 0 | 2 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 2 | 0 | 3 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1 | 4 | 0 | 5 |
@@ -155,7 +156,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 2 | 0 | 0 | 2 |
 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) | 3 | 0 | 0 | 3 |
 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) | 1 | 1 | 0 | 2 |
-| [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 2 | 0 | 0 | 2 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -163,6 +163,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/02 | 24-4 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ✅ | 2025/01/25 | 36-3 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ✅ | 2025/01/18 | 53-3 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2025/01/05 | 7-54 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
