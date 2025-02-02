@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quin Armarda
-description: W:0 L:5 D:0 Bonus ❌ 3%
+description: W:0 L:6 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1738071274
+date: 1738503392
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Hauptstreitmacht der Quin Armarda
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1178)|
-| ELO Competitive | 1158 🔻  (1220)|
-| Total Matches | 5 |
+| ELO Regular | 1130 🔻  (1223)|
+| ELO Competitive | 1147 🔻  (1270)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737639274,1737199941,1732805806,1720301966,1719841551];
+        let timestamps = [1738071392,1737639274,1737199941,1732805806,1720301966,1719841551];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/02 | 5-21 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ❌ | 2025/01/28 | 3-18 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/01/23 | 4-14 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/12/03 | 5-19 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |

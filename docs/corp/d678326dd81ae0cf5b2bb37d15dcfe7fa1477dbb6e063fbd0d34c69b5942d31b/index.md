@@ -20,7 +20,7 @@ nguages: Hungarian, English.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (381)|
+| ELO Regular | 1218 🔻  (382)|
 | ELO Competitive | 1261 🔻  (385)|
 | Total Matches | 33 |
 | Wins | 18 |

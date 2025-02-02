@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:8 L:6 D:1 Bonus ✅ 
+description: W:9 L:6 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1738058652
+date: 1738503392
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,13 @@ date: 1738058652
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (343)|
-| ELO Competitive | 1268 🔺  (365)|
-| Total Matches | 15 |
-| Wins | 8 |
+| ELO Regular | 1240 🔺  (299)|
+| ELO Competitive | 1279 🔺  (341)|
+| Total Matches | 16 |
+| Wins | 9 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -55,7 +55,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/02 | 21-5 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) |
 | ✅ | 2025/01/28 | 16-2 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) |
 | ✅ | 2025/01/23 | 16-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2025/01/18 | 3-23 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
