@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Providence
-description: W:36 L:21 D:0 Bonus ✅ 46%
+description: W:36 L:21 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1737936659
 ---
@@ -21,7 +21,7 @@ Part of Red Star Raiders alliance
 https://discord.gg/nUgqhbn
 ```
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
