@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AwA
-description: W:4 L:3 D:1 Bonus ✅ 30%
+description: W:4 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1737988941
 ---
@@ -18,7 +18,7 @@ date: 1737988941
 其他为普通成员
 黑名单：三体第一舰队
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

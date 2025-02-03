@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:50 L:10 D:0 Bonus ✅ 40%
+description: W:50 L:10 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1738511806
 ---
@@ -21,12 +21,12 @@ intensas nas Estrelas Brancas.
 🔰Ajudamos com orientação e evolução.
 ```
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1466 🔻  (18)|
-| ELO Competitive | 1537 🔻  (43)|
+| ELO Competitive | 1537 🔻  (42)|
 | Total Matches | 60 |
 | Wins | 50 |
 | Losses | 10 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:4 L:5 D:1 Bonus ✅ 
+description: W:4 L:6 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1738458020
+date: 1738592636
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738458020
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (874)|
+| ELO Regular | 1169 🔻  (989)|
 | ELO Competitive | 1238 🔺  (450)|
-| Total Matches | 10 |
+| Total Matches | 11 |
 | Wins | 4 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
+        let timestamps = [1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/03 | 0-7 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/02/02 | 10-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ↔️ | 2025/01/29 | 3-3 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ❌ | 2025/01/27 | 4-9 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |

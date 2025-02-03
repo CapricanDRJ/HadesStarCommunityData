@@ -20,7 +20,7 @@ Dead
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 ▫️  (512)|
-| ELO Competitive | 1200 ▫️  (661)|
+| ELO Competitive | 1200 ▫️  (662)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |
