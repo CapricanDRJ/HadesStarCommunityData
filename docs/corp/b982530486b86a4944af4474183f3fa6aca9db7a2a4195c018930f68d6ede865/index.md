@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ 边域
-description: W:7 L:10 D:1 Bonus ✅ 32%
+description: W:7 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1738478450
 ---
@@ -16,7 +16,7 @@ date: 1738478450
 欢迎各位萌新加入。
 ```
 ### [Discord](https://discord.gg/JXaTpU9Q)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
