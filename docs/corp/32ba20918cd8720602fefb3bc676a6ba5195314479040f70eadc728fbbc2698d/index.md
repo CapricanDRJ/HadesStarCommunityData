@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:38 L:27 D:2 Bonus ✅ 42%
+description: W:38 L:27 D:2 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738563790
 ---
@@ -18,11 +18,11 @@ e usually do WS once a week with a day in between searches. If you in
 dicate you will participate and dont you will be kicked.
 ```
 ### [Discord](https://discord.gg/Fhks7wPV)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (261)|
+| ELO Regular | 1254 🔻  (260)|
 | ELO Competitive | 1329 🔻  (227)|
 | Total Matches | 67 |
 | Wins | 38 |

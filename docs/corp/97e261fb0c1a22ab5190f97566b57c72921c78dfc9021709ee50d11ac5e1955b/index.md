@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Air/Free_ziyou
-description: W:6 L:1 D:0 Bonus ✅ 
+description: W:7 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738149097
+date: 1738584522
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1738149097
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (224)|
-| ELO Competitive | 1278 🔺  (343)|
-| Total Matches | 7 |
-| Wins | 6 |
-| Losses | 1 |
+| ELO Regular | 1261 🔺  (236)|
+| ELO Competitive | 1289 🔺  (313)|
+| Total Matches | 9 |
+| Wins | 7 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737717097,1737280781,1736848025,1736232230,1735780512,1735345425,1734875504];
+        let timestamps = [1738152522,1738150186,1737717097,1737280781,1736848025,1736232230,1735780512,1735345425,1734875504];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +138,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/03 | 7-2 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
+| ❌ | 2025/02/03 | 0-1 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ✅ | 2025/01/29 | 15-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/01/24 | 12-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/01/19 | 17-0 | [Россия](https://ws.tsl.rocks/corp/5c3297d91f4c01633055dcdfdb3419996b991e00e2d7c7d7087b00fb853b1c69/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:16 L:2 D:0 Bonus ❌ 6%
+description: W:17 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1733498040
+date: 1738584522
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ date: 1733498040
 enas", nuestra corporación principal 
 ```
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1389 🔺  (65)|
-| ELO Competitive | 1418 🔺  (127)|
-| Total Matches | 18 |
-| Wins | 16 |
+| ELO Regular | 1403 🔺  (56)|
+| ELO Competitive | 1436 🔺  (111)|
+| Total Matches | 19 |
+| Wins | 17 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733066040,1731851725,1730636197,1730059252,1728218235,1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
+        let timestamps = [1738152522,1733066040,1731851725,1730636197,1730059252,1728218235,1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/03 | 28-0 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2024/12/06 | 50-4 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/11/22 | 33-5 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/11/08 | 44-6 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |

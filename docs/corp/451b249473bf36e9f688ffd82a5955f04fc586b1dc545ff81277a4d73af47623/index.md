@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:30 L:60 D:1 Bonus ✅ 48%
+description: W:30 L:60 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1738419253
 ---
@@ -20,12 +20,12 @@ We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
 ### [Discord](https://discord.gg/najb7MJf)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1084 🔻  (1327)|
-| ELO Competitive | 1208 🔻  (617)|
+| ELO Competitive | 1208 🔻  (618)|
 | Total Matches | 91 |
 | Wins | 30 |
 | Losses | 60 |

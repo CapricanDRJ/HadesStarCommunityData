@@ -21,7 +21,7 @@ Ni retirada ni rendicion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔻  (247)|
+| ELO Regular | 1258 🔻  (246)|
 | ELO Competitive | 1301 🔻  (286)|
 | Total Matches | 26 |
 | Wins | 13 |
