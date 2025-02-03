@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:10 L:29 D:0 Bonus ❌ 6%
+description: W:10 L:30 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738284629
+date: 1738616381
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ r〉南极星联盟成员
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1096 🔻  (1308)|
-| ELO Competitive | 1152 🔻  (1255)|
-| Total Matches | 39 |
+| ELO Regular | 1085 🔻  (1327)|
+| ELO Competitive | 1153 🔻  (1245)|
+| Total Matches | 40 |
 | Wins | 10 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737852629,1737414815,1736944796,1736428770,1735996284,1735530820,1734771672,1734759480,1727494694,1724591276,1724591276,1724079812,1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
+        let timestamps = [1738184381,1737852629,1737414815,1736944796,1736428770,1735996284,1735530820,1734771672,1734759480,1727494694,1724591276,1724591276,1724079812,1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/03 | 0-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/01/31 | 2-6 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ❌ | 2025/01/25 | 10-27 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ✅ | 2025/01/20 | 11-1 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |

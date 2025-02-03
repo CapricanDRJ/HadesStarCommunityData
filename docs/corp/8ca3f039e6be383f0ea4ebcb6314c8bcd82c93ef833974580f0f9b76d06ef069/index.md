@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KINETIC
-description: W:12 L:0 D:0 Bonus ✅ 36%
+description: W:12 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738011183
 ---
@@ -18,7 +18,7 @@ Welcome to KINETIC! A corporation almost as old as the Hades universe
  100+ White Star wins and powerful allies!
 ```
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

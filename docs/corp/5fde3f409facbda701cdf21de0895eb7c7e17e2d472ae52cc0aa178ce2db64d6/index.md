@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AKA
-description: W:8 L:13 D:0 Bonus ✅ 32%
+description: W:8 L:14 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738092912
+date: 1738615479
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1738092912
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔺  (592)|
-| ELO Competitive | 1235 🔺  (459)|
-| Total Matches | 21 |
+| ELO Regular | 1178 🔻  (879)|
+| ELO Competitive | 1223 🔻  (504)|
+| Total Matches | 22 |
 | Wins | 8 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737660912,1737650694,1737120905,1737107981,1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
+        let timestamps = [1738183479,1737660912,1737650694,1737120905,1737107981,1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/03 | 3-16 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ✅ | 2025/01/28 | 22-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2025/01/28 | 29-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/01/22 | 16-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
