@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:9 L:15 D:2 Bonus ❌ 6%
+description: W:9 L:16 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737874168
+date: 1738547566
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1737874168
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1253)|
-| ELO Competitive | 1222 🔻  (506)|
-| Total Matches | 26 |
+| ELO Regular | 1116 🔻  (1260)|
+| ELO Competitive | 1219 🔻  (515)|
+| Total Matches | 27 |
 | Wins | 9 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737442168,1737434341,1736941014,1736910715,1736437487,1735996284,1735492963,1735051573,1735051272,1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1738115566,1737442168,1737434341,1736941014,1736910715,1736437487,1735996284,1735492963,1735051573,1735051272,1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/03 | 3-22 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2025/01/26 | 3-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/01/26 | 0-18 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2025/01/20 | 0-3 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legion
-description: W:42 L:37 D:0 Bonus ✅ 52%
+description: W:42 L:37 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1738379589
 ---
@@ -18,12 +18,12 @@ nd surrender all relics<br>Resistance is futile<br><br><b>Corps</b><b
 r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 ```
 ### [Discord](https://discord.gg/mA6tbqzS55)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔻  (102)|
-| ELO Competitive | 1528 🔻  (47)|
+| ELO Competitive | 1528 🔻  (48)|
 | Total Matches | 79 |
 | Wins | 42 |
 | Losses | 37 |
