@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:18 L:11 D:0 Bonus ✅ 34%
+description: W:18 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1737959403
 ---
@@ -18,11 +18,11 @@ or=#ffff55>STRVS233~</color><br>KOOK:https://kook.top/BKE0Pe<br>Disco
 rd:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成员
 ```
 ### [Discord](https://discord.gg/qWJGwgf4)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (209)|
+| ELO Regular | 1274 🔺  (208)|
 | ELO Competitive | 1319 🔺  (244)|
 | Total Matches | 29 |
 | Wins | 18 |

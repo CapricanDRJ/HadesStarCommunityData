@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​共产国际
-description: W:7 L:11 D:5 Bonus ❌ 6%
+description: W:7 L:11 D:6 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737998859
+date: 1738554777
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,12 @@ date: 1737998859
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1172)|
-| ELO Competitive | 1224 🔻  (497)|
-| Total Matches | 23 |
+| ELO Regular | 1145 🔺  (1151)|
+| ELO Competitive | 1229 🔺  (481)|
+| Total Matches | 24 |
 | Wins | 7 |
 | Losses | 11 |
-| Draws | 5 |
+| Draws | 6 |
 | Streak Record | 3 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737566859,1737267258,1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1738122777,1737566859,1737267258,1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/03 | 3-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2025/01/27 | 2-21 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2025/01/24 | 4-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/01/22 | 3-13 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:33 L:9 D:2 Bonus ✅ 36%
+description: W:33 L:9 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1737950780
 ---
@@ -18,12 +18,12 @@ date: 1737950780
 ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1361 🔺  (86)|
-| ELO Competitive | 1488 🔺  (74)|
+| ELO Competitive | 1488 🔺  (73)|
 | Total Matches | 44 |
 | Wins | 33 |
 | Losses | 9 |
