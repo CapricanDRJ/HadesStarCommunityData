@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第一序列
-description: W:41 L:54 D:0 Bonus ✅ 48%
+description: W:41 L:54 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1738040925
 ---
@@ -18,11 +18,11 @@ date: 1738040925
 <color=yellow>◆</color>
 ```
 ### [Discord](https://discord.gg/U7S2BaueGU)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1232)|
+| ELO Regular | 1127 🔻  (1233)|
 | ELO Competitive | 1451 🔺  (97)|
 | Total Matches | 95 |
 | Wins | 41 |
