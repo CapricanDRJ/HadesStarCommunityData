@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Укр інтроверти
-description: W:1 L:8 D:0 Bonus ❌ 7%
+description: W:1 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1730512585
+date: 1738669958
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1730512585
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1252)|
-| ELO Competitive | 1127 🔻  (1328)|
-| Total Matches | 9 |
+| ELO Regular | 1109 🔻  (1282)|
+| ELO Competitive | 1117 🔻  (1344)|
+| Total Matches | 10 |
 | Wins | 1 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730080585,1729561322,1729007765,1728512320,1711979328,1711398506,1710915040,1710482356,1709912667];
+        let timestamps = [1738237958,1730080585,1729561322,1729007765,1728512320,1711979328,1711398506,1710915040,1710482356,1709912667];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/04 | 0-20 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2024/11/02 | 3-33 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/10/27 | 0-40 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ❌ | 2024/10/20 | 7-28 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |

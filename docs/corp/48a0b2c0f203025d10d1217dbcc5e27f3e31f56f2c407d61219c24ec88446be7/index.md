@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RGW
-description: W:30 L:8 D:0 Bonus ✅ 36%
+description: W:30 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738066765
 ---
@@ -15,7 +15,7 @@ date: 1738066765
 ```
 Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
