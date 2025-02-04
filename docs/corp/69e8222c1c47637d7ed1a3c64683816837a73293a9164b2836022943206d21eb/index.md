@@ -22,7 +22,7 @@ trongly recomended ;)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (578)|
-| ELO Competitive | 1204 🔻  (630)|
+| ELO Competitive | 1204 🔻  (631)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

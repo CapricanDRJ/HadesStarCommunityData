@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Intertwine 
-description: W:2 L:2 D:0 Bonus ❌ 4%
+description: W:3 L:2 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1738058652
+date: 1738629300
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Welcome to Intertwine! Part of the Elite Federation, discord not mand
 atory but greatly appreciated!
 ```
 ### [Discord](https://discord.gg/https://discord.gg/8VRp3sYPbg)
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (540)|
-| ELO Competitive | 1203 🔻  (636)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1208 🔺  (472)|
+| ELO Competitive | 1220 🔺  (516)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737626652,1718352966,1717741626,1711567667];
+        let timestamps = [1738197300,1737626652,1718352966,1717741626,1711567667];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/04 | 40-21 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2025/01/28 | 2-16 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ❌ | 2024/06/19 | 9-34 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2024/06/12 | 23-2 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |

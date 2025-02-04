@@ -21,7 +21,7 @@ United Nations Space Command.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (406)|
-| ELO Competitive | 1219 🔺  (520)|
+| ELO Competitive | 1219 🔺  (521)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |

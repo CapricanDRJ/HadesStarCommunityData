@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Out landers
-description: W:12 L:10 D:1 Bonus ✅ 32%
+description: W:12 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1738019897
 ---
@@ -18,7 +18,7 @@ f possible. Come here to develop, help with red stars. Please stay re
 latively active. Discord not required but recommended.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
