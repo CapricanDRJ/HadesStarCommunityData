@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AKA
-description: W:8 L:14 D:0 Bonus ✅ 32%
+description: W:8 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1738615479
 ---
@@ -17,7 +17,7 @@ date: 1738615479
                                不管是谁都给我加群聊：308604873                  
        随时欢迎～祝各位早日成为“大佬”早日上R12！                          
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​分子集团
-description: W:0 L:5 D:0 Bonus ❌ 3%
+description: W:1 L:5 D:0 Bonus ✅ 28%
 image: ./favicon.png
-date: 1738031312
+date: 1738703006
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1738031312
 （瓜老板），（白芷），（瓜老板？世），（瓜摊爷）  萌新加入可自选一个r六神器（提醒我或副首席）举报瓜老板混入集团送神器（首席和副首席所有
 最高级神器），乱举报踢出 首席周末才在 （建议周四晚上开白）打白不得违抗首席和副首席的命令！ 友团：昙花一现
 ```
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1199)|
-| ELO Competitive | 1146 🔻  (1275)|
-| Total Matches | 5 |
-| Wins | 0 |
+| ELO Regular | 1144 🔺  (1157)|
+| ELO Competitive | 1155 🔺  (1241)|
+| Total Matches | 6 |
+| Wins | 1 |
 | Losses | 5 |
 | Draws | 0 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737599312,1734761921,1732888142,1732119764,1731672016];
+        let timestamps = [1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/04 | 11-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2025/01/28 | 1-8 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/12/26 | 2-4 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |
 | ❌ | 2024/12/04 | 2-11 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |

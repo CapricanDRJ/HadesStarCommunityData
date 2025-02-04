@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spaceballs
-description: W:25 L:16 D:0 Bonus ✅ 36%
+description: W:25 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738093514
 ---
@@ -18,7 +18,7 @@ Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make
 titans.com
 ```
 ### [Discord](https://discord.gg/QhMTEDb8zt)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
