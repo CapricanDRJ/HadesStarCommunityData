@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:15 L:16 D:0 Bonus ✅ 34%
+description: W:15 L:17 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738217613
+date: 1738655738
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 1738217613
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (872)|
-| ELO Competitive | 1272 🔺  (354)|
-| Total Matches | 31 |
+| ELO Regular | 1169 🔻  (992)|
+| ELO Competitive | 1259 🔻  (391)|
+| Total Matches | 32 |
 | Wins | 15 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737785613,1737771342,1737036157,1736490379,1736486473,1729405957,1728837963,1728831347,1728124774,1728112154,1727675493,1726310717,1725718448,1725701215,1725010179,1724653784,1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
+        let timestamps = [1738223738,1737785613,1737771342,1737036157,1736490379,1736486473,1729405957,1728837963,1728831347,1728124774,1728112154,1727675493,1726310717,1725718448,1725701215,1725010179,1724653784,1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/04 | 3-11 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2025/01/30 | 5-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/01/30 | 25-0 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ❌ | 2025/01/21 | 2-25 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​47підрозділССП
-description: W:6 L:2 D:0 Bonus ✅ 
+description: W:7 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738222120
+date: 1738655738
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 1738222120
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (221)|
-| ELO Competitive | 1305 🔺  (277)|
-| Total Matches | 8 |
-| Wins | 6 |
+| ELO Regular | 1281 🔺  (203)|
+| ELO Competitive | 1318 🔺  (247)|
+| Total Matches | 9 |
+| Wins | 7 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/04 | 11-3 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ✅ | 2025/01/30 | 16-1 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2025/01/25 | 25-0 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/01/20 | 9-13 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
