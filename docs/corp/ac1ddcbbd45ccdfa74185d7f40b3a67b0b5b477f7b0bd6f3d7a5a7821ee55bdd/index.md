@@ -22,7 +22,7 @@ cord link below (Space Pals Server, Discord mandatory).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔻  (168)|
+| ELO Regular | 1299 🔻  (169)|
 | ELO Competitive | 1359 🔻  (191)|
 | Total Matches | 21 |
 | Wins | 14 |

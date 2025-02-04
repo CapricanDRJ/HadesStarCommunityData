@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​碧海听潮阁
-description: W:8 L:6 D:3 Bonus ❌ 
+description: W:9 L:6 D:3 Bonus ✅ 
 image: ./favicon.png
-date: 1738220918
+date: 1738630201
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1738220918
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔻  (364)|
-| ELO Competitive | 1286 🔻  (325)|
-| Total Matches | 17 |
-| Wins | 8 |
+| ELO Regular | 1237 🔺  (317)|
+| ELO Competitive | 1300 🔺  (287)|
+| Total Matches | 18 |
+| Wins | 9 |
 | Losses | 6 |
 | Draws | 3 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/04 | 3-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/01/30 | 4-6 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ❌ | 2025/01/29 | 0-15 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ✅ | 2025/01/25 | 11-1 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |

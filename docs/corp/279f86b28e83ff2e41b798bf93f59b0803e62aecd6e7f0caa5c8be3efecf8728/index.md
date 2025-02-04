@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Foundation
-description: W:9 L:2 D:1 Bonus ✅ 32%
+description: W:11 L:2 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738028308
+date: 1738639514
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ ated to helping new players grow. Discord recommended for White Stars
 .
 ```
 ### [Discord](https://discord.gg/Y5SBYmr)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (172)|
-| ELO Competitive | 1308 🔺  (265)|
-| Total Matches | 12 |
-| Wins | 9 |
+| ELO Regular | 1323 🔺  (135)|
+| ELO Competitive | 1324 🔺  (234)|
+| Total Matches | 14 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737596308,1736994086,1735868253,1734569928,1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
+        let timestamps = [1738207514,1738201205,1737596308,1736994086,1735868253,1734569928,1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/04 | 33-0 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
+| ✅ | 2025/02/04 | 6-3 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2025/01/28 | 33-0 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ✅ | 2025/01/21 | 36-5 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2025/01/08 | 12-5 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
