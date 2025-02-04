@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:34 L:3 D:0 Bonus ✅ 36%
+description: W:35 L:3 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738108838
+date: 1738693303
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ act officers or senior members, Discord invite code:zQGwx3ZtDp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1467 🔺  (17)|
-| ELO Competitive | 1513 🔺  (59)|
-| Total Matches | 37 |
-| Wins | 34 |
+| ELO Regular | 1472 🔺  (16)|
+| ELO Competitive | 1519 🔺  (55)|
+| Total Matches | 38 |
+| Wins | 35 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 18 |
 | Flagship | 5 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737676838,1737014217,1736407134,1735888081,1735200290,1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1738261303,1737676838,1737014217,1736407134,1735888081,1735200290,1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/04 | 25-0 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2025/01/29 | 16-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/01/21 | 16-2 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/01/14 | 12-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |

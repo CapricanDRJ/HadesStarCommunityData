@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ТРУЛЯЛЯ
-description: W:0 L:1 D:0 Bonus ❌ 13%
+description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1701861287
+date: 1738687592
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Discord.gg/<b>WAXSmUb</b></color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (694)|
-| ELO Competitive | 1186 🔻  (894)|
-| Total Matches | 1 |
+| ELO Regular | 1162 🔻  (1046)|
+| ELO Competitive | 1166 🔻  (1162)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 9 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1701429287];
+        let timestamps = [1738255592,1701429287];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/04 | 0-16 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2023/12/06 | 0-55 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 
 ---

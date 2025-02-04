@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:18 L:13 D:2 Bonus ❌ 7%
+description: W:18 L:13 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737521954
+date: 1738687290
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 1737521954
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (455)|
-| ELO Competitive | 1315 🔻  (256)|
-| Total Matches | 33 |
+| ELO Regular | 1210 🔻  (457)|
+| ELO Competitive | 1310 🔻  (262)|
+| Total Matches | 34 |
 | Wins | 18 |
 | Losses | 13 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 6 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737089954,1737079738,1736407336,1734576488,1734529660,1734030874,1733538580,1733093347,1733079865,1732512209,1732376486,1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
+        let timestamps = [1738255290,1737089954,1737079738,1736407336,1734576488,1734529660,1734030874,1733538580,1733093347,1733079865,1732512209,1732376486,1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/04 | 3-3 | [物质体系](https://ws.tsl.rocks/corp/4f43f77265b1dd577d390b9ea0189d557843856f0c16081b2e97e6e701e86c39/) |
 | ❌ | 2025/01/22 | 0-3 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2025/01/22 | 5-6 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2025/01/14 | 3-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
