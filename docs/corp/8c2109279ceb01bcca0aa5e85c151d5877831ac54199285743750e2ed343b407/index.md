@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:35 L:29 D:2 Bonus ✅ 36%
+description: W:35 L:29 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738045131
 ---
@@ -23,7 +23,7 @@ date: 1738045131
 星海似尽无涯路，碧霄唯见绛紫星。 群号：415822703
 指定分团：绛紫星云
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
