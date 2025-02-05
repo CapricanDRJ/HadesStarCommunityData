@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:17 L:14 D:7 Bonus ❌ 7%
+description: W:18 L:14 D:7 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738236845
+date: 1738716141
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1738236845
 ```
 14 дней неактив в игре — кик. 300+ мощь империи.
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔻  (270)|
-| ELO Competitive | 1289 🔻  (313)|
-| Total Matches | 38 |
-| Wins | 17 |
+| ELO Regular | 1258 🔺  (244)|
+| ELO Competitive | 1296 🔺  (295)|
+| Total Matches | 39 |
+| Wins | 18 |
 | Losses | 14 |
 | Draws | 7 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737804845,1737284185,1736683331,1736662292,1736150788,1736104511,1735632380,1735185871,1735185570,1734685868,1734668777,1734198976,1734185920,1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
+        let timestamps = [1738284141,1737804845,1737284185,1736683331,1736662292,1736150788,1736104511,1735632380,1735185871,1735185570,1734685868,1734668777,1734198976,1734185920,1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/05 | 10-2 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ❌ | 2025/01/30 | 0-16 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/01/24 | 8-0 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ↔️ | 2025/01/17 | 0-0 | [pérola negra ](https://ws.tsl.rocks/corp/731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a/) |
