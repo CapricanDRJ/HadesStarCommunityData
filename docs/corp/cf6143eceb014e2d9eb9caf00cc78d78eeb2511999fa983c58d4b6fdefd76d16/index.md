@@ -19,8 +19,8 @@ Relaxed Corp. Join here.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (754)|
-| ELO Competitive | 1185 🔻  (931)|
+| ELO Regular | 1185 🔻  (755)|
+| ELO Competitive | 1185 🔻  (932)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

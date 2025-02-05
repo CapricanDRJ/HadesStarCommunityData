@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cydonia Order
-description: W:18 L:14 D:2 Bonus ✅ 36%
+description: W:19 L:14 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738171337
+date: 1738768426
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ THE CYDONIAN EMPIRE™
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (192)|
-| ELO Competitive | 1329 🔺  (228)|
-| Total Matches | 34 |
-| Wins | 18 |
+| ELO Regular | 1294 🔺  (176)|
+| ELO Competitive | 1339 🔺  (211)|
+| Total Matches | 35 |
+| Wins | 19 |
 | Losses | 14 |
 | Draws | 2 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
+        let timestamps = [1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/05 | 20-2 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2025/01/29 | 13-0 | [KhaOSs](https://ws.tsl.rocks/corp/95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88/) |
 | ✅ | 2025/01/22 | 21-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2025/01/15 | 11-5 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
