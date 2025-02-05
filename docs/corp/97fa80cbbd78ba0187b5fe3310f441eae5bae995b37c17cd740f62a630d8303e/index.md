@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Gastro
-description: W:4 L:5 D:0 Bonus ❌ 4%
+description: W:4 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1727860478
+date: 1738748923
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1727860478
 ```
 Bacon goes great with......EVERYTHING!
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (584)|
-| ELO Competitive | 1199 🔻  (685)|
-| Total Matches | 9 |
+| ELO Regular | 1177 🔻  (884)|
+| ELO Competitive | 1184 🔻  (975)|
+| Total Matches | 10 |
 | Wins | 4 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727428478,1726369876,1724559119,1722907205,1721092693,1719287071,1716941298,1715153245,1714459686];
+        let timestamps = [1738316923,1727428478,1726369876,1724559119,1722907205,1721092693,1719287071,1716941298,1715153245,1714459686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/05 | 0-7 | [Star tap](https://ws.tsl.rocks/corp/419ece3690e60cc5181cc450eb68b26886aa17512dc12d80ca87a2664bf6d85c/) |
 | ❌ | 2024/10/02 | 1-21 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/09/20 | 7-0 | [AntiCerberus](https://ws.tsl.rocks/corp/05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29/) |
 | ❌ | 2024/08/30 | 3-8 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |

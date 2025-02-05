@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Star tap
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:2 L:0 D:0 Bonus ✅ 26%
 image: ./favicon.png
-date: 1727124295
+date: 1738748923
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,18 @@ date: 1727124295
 Newbie and veterans welcome! Just a chill guild looking to have fun :
 )
 ```
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (461)|
-| ELO Competitive | 1210 🔺  (611)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1224 🔺  (363)|
+| ELO Competitive | 1225 🔺  (492)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 2 |
 
 ---
@@ -44,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726692295];
+        let timestamps = [1738316923,1726692295];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/05 | 7-0 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) |
 | ✅ | 2024/09/23 | 5-2 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 
 ---

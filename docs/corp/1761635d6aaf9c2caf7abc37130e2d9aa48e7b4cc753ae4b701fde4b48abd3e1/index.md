@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:8 L:39 D:1 Bonus ✅ 34%
+description: W:9 L:39 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738153905
+date: 1738758206
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,13 @@ n.      Wir handeln Gewürze .Ohne Stress
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1038 🔺  (1366)|
-| ELO Competitive | 1102 🔺  (1364)|
-| Total Matches | 48 |
-| Wins | 8 |
+| ELO Regular | 1055 🔺  (1358)|
+| ELO Competitive | 1118 🔺  (1343)|
+| Total Matches | 49 |
+| Wins | 9 |
 | Losses | 39 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737721905,1737089353,1736511714,1735908548,1735302750,1734690707,1734080145,1733477081,1732849985,1732273303,1731676224,1731069503,1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
+        let timestamps = [1738326206,1737721905,1737089353,1736511714,1735908548,1735302750,1734690707,1734080145,1733477081,1732849985,1732273303,1731676224,1731069503,1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/05 | 19-0 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ✅ | 2025/01/29 | 15-4 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2025/01/22 | 3-9 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/01/15 | 3-23 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |

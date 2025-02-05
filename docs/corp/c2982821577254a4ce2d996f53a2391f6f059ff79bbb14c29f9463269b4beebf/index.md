@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:8 L:13 D:0 Bonus ✅ 36%
+description: W:9 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738262093
+date: 1738754600
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ No Discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (861)|
-| ELO Competitive | 1231 🔺  (467)|
-| Total Matches | 21 |
-| Wins | 8 |
+| ELO Regular | 1190 🔺  (603)|
+| ELO Competitive | 1241 🔺  (440)|
+| Total Matches | 22 |
+| Wins | 9 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 5 |
 
 ---
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/05 | 28-4 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ✅ | 2025/01/30 | 22-3 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2025/01/24 | 12-4 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2025/01/17 | 15-4 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:32 L:9 D:0 Bonus ✅ 36%
+description: W:32 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738154506
 ---
@@ -17,11 +17,11 @@ date: 1738154506
 дем вместе розвиваться и обязательная помощь друг другу, мы вас ждём!
  Коли бз не приймаємо гравців бажаючих вступити до нас 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1404 🔺  (54)|
+| ELO Regular | 1404 🔺  (55)|
 | ELO Competitive | 1457 🔺  (95)|
 | Total Matches | 41 |
 | Wins | 32 |

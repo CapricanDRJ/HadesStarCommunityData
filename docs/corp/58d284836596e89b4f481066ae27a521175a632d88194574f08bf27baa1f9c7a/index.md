@@ -21,7 +21,7 @@ Help each other and have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1198)|
+| ELO Regular | 1137 🔻  (1199)|
 | ELO Competitive | 1140 🔻  (1304)|
 | Total Matches | 8 |
 | Wins | 1 |
