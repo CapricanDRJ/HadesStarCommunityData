@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:12 L:11 D:0 Bonus ✅ 34%
+description: W:12 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1738180055
 ---
@@ -21,7 +21,7 @@ ER de 1-9
 Esperamos su llegada!
 <b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

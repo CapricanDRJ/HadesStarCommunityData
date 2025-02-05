@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Legión
-description: W:7 L:7 D:0 Bonus ❌ 6%
+description: W:7 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737987738
+date: 1738790966
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ date: 1737987738
 sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 ```
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (391)|
-| ELO Competitive | 1258 🔺  (398)|
-| Total Matches | 14 |
+| ELO Regular | 1208 🔻  (472)|
+| ELO Competitive | 1250 🔻  (417)|
+| Total Matches | 15 |
 | Wins | 7 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/05 | 7-16 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2025/01/27 | 21-1 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/01/15 | 7-25 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2025/01/04 | 9-7 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |

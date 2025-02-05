@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:16 L:8 D:1 Bonus ✅ 32%
+description: W:16 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1738639514
 ---
@@ -18,7 +18,7 @@ os que nos necesiten y les daremos un ambiente comodo. | Existe un gr
 upo si deseas unirte solo consulta al primer oficial. 
 ```
 ### [Discord](https://discord.gg/X6xAG8J9)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
