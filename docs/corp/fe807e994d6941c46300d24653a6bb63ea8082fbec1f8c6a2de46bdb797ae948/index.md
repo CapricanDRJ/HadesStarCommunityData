@@ -21,8 +21,8 @@ cord server T9D3BdHY
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (445)|
-| ELO Competitive | 1219 🔻  (526)|
+| ELO Regular | 1212 🔻  (444)|
+| ELO Competitive | 1219 🔻  (527)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |
