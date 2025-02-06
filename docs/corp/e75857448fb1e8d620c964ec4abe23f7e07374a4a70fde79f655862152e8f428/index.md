@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BlackStar Order
-description: W:82 L:52 D:0 Bonus ✅ 58%
+description: W:82 L:52 D:0 Bonus ❌ 19%
 image: ./favicon.png
 date: 1738811699
 ---
@@ -22,7 +22,7 @@ You are RS5+ & want to join?</color>
 Discord: (YTaYrhy)
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

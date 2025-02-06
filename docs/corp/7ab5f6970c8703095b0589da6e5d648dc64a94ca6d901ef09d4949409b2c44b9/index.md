@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:15 L:17 D:0 Bonus ✅ 34%
+description: W:15 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1738655738
 ---
@@ -18,12 +18,12 @@ date: 1738655738
 <size=150>           捐旗舰二       注意用语文明
 ```
 ### [Discord](https://discord.gg/gagagaaaa)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (995)|
-| ELO Competitive | 1259 🔻  (393)|
+| ELO Competitive | 1259 🔻  (394)|
 | Total Matches | 32 |
 | Wins | 15 |
 | Losses | 17 |
