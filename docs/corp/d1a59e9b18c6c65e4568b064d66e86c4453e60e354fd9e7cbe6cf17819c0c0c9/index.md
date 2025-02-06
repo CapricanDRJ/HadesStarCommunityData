@@ -24,7 +24,7 @@ Discord: 3gRh7ae
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (755)|
+| ELO Regular | 1185 🔻  (756)|
 | ELO Competitive | 1185 🔻  (932)|
 | Total Matches | 1 |
 | Wins | 0 |

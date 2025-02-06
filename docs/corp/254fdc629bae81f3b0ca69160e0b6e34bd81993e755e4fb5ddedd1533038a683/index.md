@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:6 L:16 D:0 Bonus ❌ 6%
+description: W:7 L:16 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738173742
+date: 1738805388
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1738173742
 All Welcome. Friendly Only. Come and Chill. Old or New. No Requiremen
 ts!
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔻  (1326)|
-| ELO Competitive | 1116 🔻  (1353)|
-| Total Matches | 22 |
-| Wins | 6 |
+| ELO Regular | 1106 🔺  (1295)|
+| ELO Competitive | 1135 🔺  (1317)|
+| Total Matches | 23 |
+| Wins | 7 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
+        let timestamps = [1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/06 | 17-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/01/29 | 3-50 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/12/25 | 3-33 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2024/12/19 | 17-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
