@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:29 L:13 D:0 Bonus ❌ 8%
+description: W:29 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1728312440
+date: 1738847164
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1728312440
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1416 🔺  (46)|
-| ELO Competitive | 1464 🔺  (87)|
-| Total Matches | 42 |
+| ELO Regular | 1393 🔻  (62)|
+| ELO Competitive | 1441 🔻  (109)|
+| Total Matches | 43 |
 | Wins | 29 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
-| Streak | 20 |
 | Streak Record | 20 |
 | Flagship | 5 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727880440,1726268051,1723157224,1722466055,1721861106,1721089989,1719794077,1719273605,1717628930,1717111084,1716510072,1715908281,1714526992,1714086510,1713480517,1712879859,1712101025,1711665918,1711061066,1710456521,1709867297,1709226986,1708156933,1707698675,1707193940,1706677553,1706237895,1705651890,1704940284,1704322729,1703856322,1703335219,1702789556,1702348962,1701907459,1701442813,1701385115,1700694151,1700235814,1699766286,1699324776,1698843669];
+        let timestamps = [1738415164,1727880440,1726268051,1723157224,1722466055,1721861106,1721089989,1719794077,1719273605,1717628930,1717111084,1716510072,1715908281,1714526992,1714086510,1713480517,1712879859,1712101025,1711665918,1711061066,1710456521,1709867297,1709226986,1708156933,1707698675,1707193940,1706677553,1706237895,1705651890,1704940284,1704322729,1703856322,1703335219,1702789556,1702348962,1701907459,1701442813,1701385115,1700694151,1700235814,1699766286,1699324776,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/06 | 15-34 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 | ✅ | 2024/10/07 | 21-20 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2024/09/18 | 26-23 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ✅ | 2024/08/13 | 27-2 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

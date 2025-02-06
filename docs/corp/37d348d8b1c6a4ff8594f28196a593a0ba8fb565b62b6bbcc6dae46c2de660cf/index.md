@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:7 L:9 D:1 Bonus ✅ 30%
+description: W:7 L:9 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1738244961
 ---
@@ -17,12 +17,12 @@ date: 1738244961
 只有超过70级或r7才会被晋升为干事！</color>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<c
 olor=orange>南极星联盟成员</color>
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔺  (870)|
-| ELO Competitive | 1198 🔺  (693)|
+| ELO Competitive | 1198 🔺  (692)|
 | Total Matches | 17 |
 | Wins | 7 |
 | Losses | 9 |
