@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpaca Nation
-description: W:6 L:1 D:0 Bonus ✅ 
+description: W:6 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1738220918
 ---
@@ -15,7 +15,7 @@ date: 1738220918
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

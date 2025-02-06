@@ -714,7 +714,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [ShadowSpaceCult](https://ws.tsl.rocks/corp/2a0dfd09353bfa78a5958fa753f7a17a2e76ea4fcb92a2c6a860eae24cde03d6/) | 1213 | 1216 | 3 |
 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) | 1221 | 1253 | 38 |
 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) | 1126 | 1319 | 68 |
-| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1328 | 1431 | 45 |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1330 | 1436 | 46 |
 | [Simply Uranus](https://ws.tsl.rocks/corp/951c4b2ef77de2b24b3e3b3cd962679643a8fae1131e289d4ed60482d10aff45/) | 1174 | 1190 | 2 |
 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) | 1260 | 1294 | 28 |
 | [Sistemaimperial](https://ws.tsl.rocks/corp/c5d74741e67bccbb74d8e7772ef2f8cf79edb6ece339b45bb2683cb9e019c94c/) | 1199 | 1199 | 2 |
@@ -1170,7 +1170,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1385 | 1472 | 52 |
 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) | 1148 | 1161 | 20 |
 | [专业间谍团队](https://ws.tsl.rocks/corp/2e93c453822c84d64bf8ae81e68d3dee1ed7832ee77b50dd8762a572432896ad/) | 1193 | 1194 | 1 |
-| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 895 | 1174 | 149 |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 893 | 1168 | 150 |
 | [中华人民共和国](https://ws.tsl.rocks/corp/ab0082c93c1e794e28a2fa7200079d42ee3bbc96a1aa1cc322cf1ad12404867c/) | 1160 | 1162 | 3 |
 | [中团一建](https://ws.tsl.rocks/corp/3c82f48d57e8ce1b8fa5b4bc7b22c7e2dafa9a227fa0ab95f1ccb95bd1994f6b/) | 1216 | 1217 | 1 |
 | [中国家民](https://ws.tsl.rocks/corp/af75be08923f73af2bd3821bcfbdef3e3abbcbc0b9aaeacfeae528cfbf972f5f/) | 1186 | 1187 | 1 |

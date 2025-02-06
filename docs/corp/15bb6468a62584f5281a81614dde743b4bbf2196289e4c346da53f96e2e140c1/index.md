@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Слава Украине!
-description: W:100 L:43 D:1 Bonus ✅ 46%
+description: W:100 L:43 D:1 Bonus ❌ 13%
 image: ./favicon.png
 date: 1738228731
 ---
@@ -18,7 +18,7 @@ date: 1738228731
 в, допомога та поради, за бажанням досвід в боях за білу зірку
 ```
 ### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
