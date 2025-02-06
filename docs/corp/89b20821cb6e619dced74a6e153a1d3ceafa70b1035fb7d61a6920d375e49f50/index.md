@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:10 L:5 D:1 Bonus ❌ 6%
+description: W:11 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1737942367
+date: 1738862798
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ Winter Star llc, a Beginner Corporation to help you out on your missi
 ons! //You must Join our Discord within 7 days 
 ```
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (262)|
-| ELO Competitive | 1294 🔺  (300)|
-| Total Matches | 16 |
-| Wins | 10 |
+| ELO Regular | 1268 🔺  (224)|
+| ELO Competitive | 1307 🔺  (268)|
+| Total Matches | 17 |
+| Wins | 11 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
+        let timestamps = [1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/06 | 12-5 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/01/27 | 13-4 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/01/14 | 10-0 | [RED STAR CORP](https://ws.tsl.rocks/corp/cac02bd33337307b124bc868304cfc75cf4f0148d825518b2f24f1236431cf75/) |
 | ❌ | 2025/01/03 | 6-19 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |

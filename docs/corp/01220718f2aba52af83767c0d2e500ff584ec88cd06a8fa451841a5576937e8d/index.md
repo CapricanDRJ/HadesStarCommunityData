@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​✨ℛedstar Order«
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738506429
+date: 1738862798
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1738506429
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (359)|
-| ELO Competitive | 1233 🔺  (462)|
-| Total Matches | 2 |
+| ELO Regular | 1212 🔻  (446)|
+| ELO Competitive | 1220 🔻  (514)|
+| Total Matches | 3 |
 | Wins | 2 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738074429,1737632061];
+        let timestamps = [1738430798,1738074429,1737632061];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/06 | 5-12 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2025/02/02 | 12-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2025/01/28 | 12-6 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 
