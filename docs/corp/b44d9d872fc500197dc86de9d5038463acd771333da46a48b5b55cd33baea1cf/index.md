@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:39 L:31 D:4 Bonus ✅ 36%
+description: W:39 L:31 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738697210
 ---
@@ -21,12 +21,12 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 特别鸣谢：残月，可靠的同志
 >勿谈和白<
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔻  (157)|
-| ELO Competitive | 1473 🔻  (83)|
+| ELO Competitive | 1473 🔻  (84)|
 | Total Matches | 74 |
 | Wins | 39 |
 | Losses | 31 |
