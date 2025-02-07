@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​the heavy
-description: W:23 L:12 D:0 Bonus ✅ 42%
+description: W:23 L:12 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738317379
 ---
@@ -19,7 +19,7 @@ e members are very welcome, we can assist you to grow.
 Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 ```
 ### [Discord](https://discord.gg/6vgrePN)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

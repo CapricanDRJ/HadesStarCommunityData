@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:36 L:56 D:0 Bonus ✅ 50%
+description: W:36 L:56 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1738767524
 ---
@@ -19,11 +19,11 @@ date: 1738767524
 Discord obligatorio: KAguMmM
 ```
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1187)|
+| ELO Regular | 1140 🔻  (1186)|
 | ELO Competitive | 1267 🔻  (378)|
 | Total Matches | 92 |
 | Wins | 36 |

@@ -23,7 +23,7 @@ Just come and play to the rules!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1281 🔺  (205)|
-| ELO Competitive | 1368 🔺  (183)|
+| ELO Competitive | 1368 🔺  (182)|
 | Total Matches | 60 |
 | Wins | 32 |
 | Losses | 27 |
