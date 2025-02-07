@@ -285,11 +285,11 @@ permalink: /avgrelics/
 | 276 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7) | 13.27|
 | 277 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a) | 13.23|
 | 278 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324) | 13.17|
-| 279 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0) | 13.08|
-| 280 | [Industrial W.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d) | 13.06|
-| 281 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004) | 12.89|
-| 282 | [Battlestar Fr](https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc) | 12.88|
-| 283 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa) | 12.85|
+| 279 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa) | 13.13|
+| 280 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0) | 13.08|
+| 281 | [Industrial W.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d) | 13.06|
+| 282 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004) | 12.89|
+| 283 | [Battlestar Fr](https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc) | 12.88|
 | 284 | [Last Chance](https://ws.tsl.rocks/corp/b12e8f526e8e7365ba188207ac69c12954e4c85faffd6f5f0e189aa2693a90ba) | 12.83|
 | 285 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078) | 12.82|
 | 286 | [death squadron ](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b) | 12.68|

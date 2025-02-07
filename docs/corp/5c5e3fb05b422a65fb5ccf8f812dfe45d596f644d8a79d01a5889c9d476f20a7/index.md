@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GN星际联合
-description: W:3 L:1 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1738734279
 ---
@@ -15,7 +15,7 @@ date: 1738734279
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
