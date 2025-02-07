@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星域 
-description: W:2 L:3 D:0 Bonus ✅ 28%
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1738805388
 ---
@@ -15,7 +15,7 @@ date: 1738805388
 ```
 Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

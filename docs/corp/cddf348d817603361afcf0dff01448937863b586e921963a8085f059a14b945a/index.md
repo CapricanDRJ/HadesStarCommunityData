@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kobol
-description: W:1 L:4 D:1 Bonus ✅ 
+description: W:1 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1738343230
 ---
@@ -15,11 +15,11 @@ date: 1738343230
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (881)|
+| ELO Regular | 1178 🔺  (882)|
 | ELO Competitive | 1220 🔺  (513)|
 | Total Matches | 6 |
 | Wins | 1 |

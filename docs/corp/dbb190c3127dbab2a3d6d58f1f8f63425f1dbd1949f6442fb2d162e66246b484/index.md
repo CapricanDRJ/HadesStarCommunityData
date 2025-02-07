@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ANZAC Warriors
-description: W:19 L:6 D:1 Bonus ❌ 10%
+description: W:20 L:6 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1736554248
+date: 1738953567
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Soldiers that never give up on the battlefield despite the odds. Grea
 t team atmosphere, regular white/red stars. Active  members join us h
 ttps://discord.com/invite/rmzHUdXef7
 ```
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔻  (163)|
-| ELO Competitive | 1335 🔻  (220)|
-| Total Matches | 26 |
-| Wins | 19 |
+| ELO Regular | 1317 🔺  (145)|
+| ELO Competitive | 1350 🔺  (198)|
+| Total Matches | 27 |
+| Wins | 20 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736122248,1734287187,1732388403,1730599239,1716152253,1714340402,1710709229,1710105585,1709507945,1708892553,1708311396,1707685455,1707079640,1706477713,1705870375,1705276261,1704664116,1703978039,1703456335,1702845762,1702263006,1701022359,1700460929,1699811982,1699174233,1698695487];
+        let timestamps = [1738521567,1736122248,1734287187,1732388403,1730599239,1716152253,1714340402,1710709229,1710105585,1709507945,1708892553,1708311396,1707685455,1707079640,1706477713,1705870375,1705276261,1704664116,1703978039,1703456335,1702845762,1702263006,1701022359,1700460929,1699811982,1699174233,1698695487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/07 | 38-34 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ❌ | 2025/01/11 | 3-28 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/12/20 | 38-16 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ✅ | 2024/11/28 | 44-15 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |

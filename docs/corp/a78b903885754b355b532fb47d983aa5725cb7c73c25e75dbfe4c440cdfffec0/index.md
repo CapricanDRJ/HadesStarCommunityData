@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Prosperity
-description: W:1 L:4 D:0 Bonus ❌ 13%
+description: W:2 L:4 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1738415045
+date: 1738947856
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ Discord: WARZG9k
 Members are expected to join our Discord where all communication happ
 ens
 ```
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1007)|
-| ELO Competitive | 1194 🔻  (724)|
-| Total Matches | 5 |
-| Wins | 1 |
+| ELO Regular | 1182 🔺  (852)|
+| ELO Competitive | 1208 🔺  (616)|
+| Total Matches | 6 |
+| Wins | 2 |
 | Losses | 4 |
 | Draws | 0 |
 | Flagship | 4 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737983045,1737383857,1737379724,1736641260,1728561425];
+        let timestamps = [1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/07 | 1-0 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2025/02/01 | 3-23 | [Day Light](https://ws.tsl.rocks/corp/4edb005e2b465cb1d13e8f7f061ba06ce526ff36be7e4e28def7c54790dbe87c/) |
 | ❌ | 2025/01/25 | 1-9 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ✅ | 2025/01/25 | 8-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
