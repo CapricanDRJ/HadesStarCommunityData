@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUS
-description: W:22 L:22 D:0 Bonus ✅ 50%
+description: W:22 L:22 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1738328801
 ---
@@ -18,7 +18,7 @@ date: 1738328801
 гроков ру-сегмента. Присоединяйся 👉
 https://t.me/RSeventHS
 ```
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

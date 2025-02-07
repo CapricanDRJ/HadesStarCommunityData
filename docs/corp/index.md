@@ -487,7 +487,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) | 1209 | 1326 | 57 |
 | [loveboat](https://ws.tsl.rocks/corp/907db5d6144e9b75e27fd21eccb86092d956c30f562fa2a2c3e09cb34bacc957/) | 1186 | 1186 | 1 |
 | [LUPI ROMÎNI](https://ws.tsl.rocks/corp/934374a52ab97c3cc084b49caec3a1c144b0da9300288269c1efabaa671ca4f6/) | 1170 | 1178 | 4 |
-| [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 1288 | 1308 | 11 |
+| [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 1298 | 1308 | 12 |
 | [L’Amalgame](https://ws.tsl.rocks/corp/df81071f9e7c53a02b3ea304186da07ff697dbcea3c0ee7a820e6ec44f31156c/) | 1184 | 1189 | 2 |
 | [M4\-Valhalla](https://ws.tsl.rocks/corp/40886172a1ee54e8b5cbd91b5bcf06cb4af03726ad8fe6aba585bde03d4b6bf1/) | 1101 | 1118 | 9 |
 | [Madison Holding](https://ws.tsl.rocks/corp/94722af3fa4392e52b6bb7af15c2225968543a3de313ace4aa939d138600dd17/) | 1239 | 1243 | 11 |
@@ -1020,7 +1020,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1328 | 1611 | 127 |
 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1126 | 1248 | 39 |
 | [ 星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1234 | 1236 | 4 |
-| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1162 | 1176 | 18 |
+| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1152 | 1167 | 19 |
 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) | 1352 | 1409 | 14 |
 | ["ПОБЕДА"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) | 1185 | 1185 | 1 |
 | [$TAR$](https://ws.tsl.rocks/corp/05ef16a2f175c0cb548193f16571a9c8285e16d0f0fb2dcd138ab632b57aa53f/) | 1187 | 1196 | 1 |

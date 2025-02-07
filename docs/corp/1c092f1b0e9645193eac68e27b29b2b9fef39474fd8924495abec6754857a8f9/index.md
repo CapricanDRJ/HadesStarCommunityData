@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​alienigenas
-description: W:10 L:5 D:0 Bonus ✅ 36%
+description: W:10 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738336317
 ---
@@ -20,11 +20,11 @@ Para pertenecer a la corporacion hay que participar y colaborar en al
 guna actividad con los demas compañeros 
 ```
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (178)|
+| ELO Regular | 1294 🔺  (179)|
 | ELO Competitive | 1329 🔺  (226)|
 | Total Matches | 15 |
 | Wins | 10 |
