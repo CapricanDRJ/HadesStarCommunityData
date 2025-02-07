@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​You Win
-description: W:1 L:6 D:0 Bonus ❌ 5%
+description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716807774
+date: 1738895569
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,12 @@ y. 30days afk=kick https://discord.gg/g7HzK7s
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1196)|
-| ELO Competitive | 1171 🔻  (1124)|
-| Total Matches | 7 |
+| ELO Regular | 1127 🔻  (1238)|
+| ELO Competitive | 1166 🔻  (1171)|
+| Total Matches | 8 |
 | Wins | 1 |
 | Losses | 6 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 4 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716375774,1709317432,1709312323,1708814424,1708151825,1707830593,1706966943];
+        let timestamps = [1738463569,1716375774,1709317432,1709312323,1708814424,1708151825,1707830593,1706966943];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/07 | 0-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ❌ | 2024/05/27 | 0-15 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/03/06 | 4-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ❌ | 2024/03/06 | 0-4 | [cyber\_dream](https://ws.tsl.rocks/corp/72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616/) |
