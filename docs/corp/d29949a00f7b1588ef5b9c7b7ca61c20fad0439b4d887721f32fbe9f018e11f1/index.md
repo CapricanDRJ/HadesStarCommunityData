@@ -23,7 +23,7 @@ in and play. Join today!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1449 🔻  (30)|
-| ELO Competitive | 1529 🔻  (46)|
+| ELO Competitive | 1529 🔻  (45)|
 | Total Matches | 62 |
 | Wins | 47 |
 | Losses | 15 |

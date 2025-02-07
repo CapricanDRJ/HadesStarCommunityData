@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:33 L:19 D:0 Bonus ✅ 36%
+description: W:33 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738304458
 ---
@@ -18,7 +18,7 @@ ekly WS, Dark Star help, guides & advice, democratic atmosphere and f
 riendly community. <b>Must Join Discord</b> 
 ```
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
