@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​💮問鼎無垠💮
-description: W:0 L:3 D:0 Bonus ❌ 
+description: W:1 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738332409
+date: 1738920498
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1738332409
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1040)|
-| ELO Competitive | 1178 🔻  (1039)|
-| Total Matches | 3 |
-| Wins | 0 |
+| ELO Regular | 1178 🔺  (885)|
+| ELO Competitive | 1194 🔺  (718)|
+| Total Matches | 4 |
+| Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737900409,1737331877,1737328572];
+        let timestamps = [1738488498,1737900409,1737331877,1737328572];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/07 | 3-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ❌ | 2025/01/31 | 3-11 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/01/25 | 4-16 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2025/01/24 | 1-15 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |

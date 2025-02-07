@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:14 L:6 D:0 Bonus ❌ 6%
+description: W:15 L:6 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738117524
+date: 1738911482
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ date: 1738117524
 欢迎我们的萌新 创造者仙女座 2024年8月9日 分团星系联盟 建设于2024年11月1日<br>分团 银河系星系 成立于2024年11月
 11日    <br>南极星联盟成员             请大家常驻！！！
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (197)|
-| ELO Competitive | 1333 🔺  (223)|
-| Total Matches | 20 |
-| Wins | 14 |
+| ELO Regular | 1295 🔺  (174)|
+| ELO Competitive | 1342 🔺  (206)|
+| Total Matches | 21 |
+| Wins | 15 |
 | Losses | 6 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 2 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/07 | 5-3 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ✅ | 2025/01/29 | 3-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2025/01/26 | 0-1 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2025/01/23 | 7-4 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
