@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:14 L:13 D:2 Bonus ❌ 7%
+description: W:14 L:14 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737832230
+date: 1738955672
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ do a weekly White Star and we have a Active player base!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (319)|
-| ELO Competitive | 1284 🔺  (328)|
-| Total Matches | 29 |
+| ELO Regular | 1219 🔻  (378)|
+| ELO Competitive | 1265 🔻  (382)|
+| Total Matches | 30 |
 | Wins | 14 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737400230,1734356893,1726415617,1725573311,1724889680,1723725314,1722895187,1721762539,1720129770,1718965260,1717873642,1717011618,1716105076,1714693150,1713804687,1713257560,1711987443,1708972478,1708316202,1707577421,1706966943,1705670521,1704824287,1704205523,1703377598,1702662127,1701349646,1700230704,1699581996];
+        let timestamps = [1738523672,1737400230,1734356893,1726415617,1725573311,1724889680,1723725314,1722895187,1721762539,1720129770,1718965260,1717873642,1717011618,1716105076,1714693150,1713804687,1713257560,1711987443,1708972478,1708316202,1707577421,1706966943,1705670521,1704824287,1704205523,1703377598,1702662127,1701349646,1700230704,1699581996];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/07 | 1-19 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ✅ | 2025/01/25 | 8-0 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2024/12/21 | 3-31 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024/09/20 | 0-19 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

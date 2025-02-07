@@ -22,7 +22,7 @@ https://t.me/DS_DarkSide
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1324)|
+| ELO Regular | 1090 🔻  (1325)|
 | ELO Competitive | 1377 🔻  (169)|
 | Total Matches | 115 |
 | Wins | 48 |

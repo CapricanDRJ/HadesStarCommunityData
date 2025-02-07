@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ RELAX CZ/SK
-description: W:85 L:42 D:0 Bonus ✅ 44%
+description: W:85 L:42 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1738351646
 ---
@@ -17,11 +17,11 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
  a DRS<br><br>https://userxinos.github.io/HadesSpace/ 
 ```
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (130)|
+| ELO Regular | 1328 🔺  (129)|
 | ELO Competitive | 1611 🔺  (23)|
 | Total Matches | 127 |
 | Wins | 85 |

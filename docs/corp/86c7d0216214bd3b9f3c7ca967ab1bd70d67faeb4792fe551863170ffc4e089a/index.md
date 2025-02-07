@@ -26,7 +26,7 @@ n>本团为北极星联盟成员
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (486)|
+| ELO Regular | 1204 🔻  (487)|
 | ELO Competitive | 1370 🔻  (177)|
 | Total Matches | 52 |
 | Wins | 29 |
