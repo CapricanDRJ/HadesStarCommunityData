@@ -22,8 +22,8 @@ a browser: https://dsc.gg/sah
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1346)|
-| ELO Competitive | 1187 🔻  (845)|
+| ELO Regular | 1073 🔻  (1347)|
+| ELO Competitive | 1187 🔻  (846)|
 | Total Matches | 39 |
 | Wins | 17 |
 | Losses | 22 |

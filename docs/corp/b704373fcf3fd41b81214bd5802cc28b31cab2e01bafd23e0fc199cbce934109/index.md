@@ -20,7 +20,7 @@ esperanza
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (1145)|
-| ELO Competitive | 1173 🔺  (1081)|
+| ELO Competitive | 1173 🔺  (1082)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 4 |

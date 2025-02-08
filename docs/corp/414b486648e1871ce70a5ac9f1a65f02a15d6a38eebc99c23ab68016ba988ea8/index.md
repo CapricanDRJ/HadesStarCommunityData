@@ -20,8 +20,8 @@ hail the second union.     need active members for white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1053)|
-| ELO Competitive | 1163 🔻  (1185)|
+| ELO Regular | 1162 🔻  (1054)|
+| ELO Competitive | 1163 🔻  (1186)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |
