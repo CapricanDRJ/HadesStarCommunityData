@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:32 L:40 D:0 Bonus ✅ 48%
+description: W:32 L:40 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1739014867
 ---
@@ -21,12 +21,12 @@ Corpo école : Polaris Corpo
 Corpo des alts : On en a petit !
 ```
 ### [Discord](https://discord.gg/EXj5vtr)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (576)|
-| ELO Competitive | 1326 🔻  (232)|
+| ELO Competitive | 1326 🔻  (231)|
 | Total Matches | 72 |
 | Wins | 32 |
 | Losses | 40 |

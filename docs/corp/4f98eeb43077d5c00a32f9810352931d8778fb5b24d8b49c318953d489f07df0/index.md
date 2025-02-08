@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:6 L:14 D:1 Bonus ✅ 30%
+description: W:6 L:14 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1738442697
 ---
@@ -18,12 +18,12 @@ verse. The most advanced tactics for war and exploration of Red Dwarf
 s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔺  (1267)|
-| ELO Competitive | 1133 🔺  (1327)|
+| ELO Competitive | 1133 🔺  (1328)|
 | Total Matches | 21 |
 | Wins | 6 |
 | Losses | 14 |
