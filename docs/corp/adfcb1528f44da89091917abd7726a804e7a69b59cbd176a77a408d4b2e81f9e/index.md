@@ -25,8 +25,8 @@ Discord: pxSK3vbe</color></b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (452)|
-| ELO Competitive | 1212 🔻  (601)|
+| ELO Regular | 1211 🔻  (453)|
+| ELO Competitive | 1212 🔻  (602)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

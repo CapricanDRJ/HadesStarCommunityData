@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​萌新的收留所
-description: W:17 L:5 D:1 Bonus ❌ 6%
+description: W:18 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1724653949
+date: 1739017873
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ date: 1724653949
 集团QQ群：979969673
 分支         ：萌新的收留所2                        
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (123)|
-| ELO Competitive | 1360 🔺  (190)|
-| Total Matches | 23 |
-| Wins | 17 |
+| ELO Regular | 1341 🔺  (113)|
+| ELO Competitive | 1368 🔺  (182)|
+| Total Matches | 24 |
+| Wins | 18 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 8 |
 | Flagship | 3 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724221949,1724221949,1723787992,1723782282,1723355557,1723299064,1722703673,1722691428,1722082583,1722052825,1721452100,1721449095,1721014846,1720531860,1720110230,1720096700,1719571384,1719570495,1718952941,1718334036,1717727502,1717122664,1715990605];
+        let timestamps = [1738585873,1724221949,1724221949,1723787992,1723782282,1723355557,1723299064,1722703673,1722691428,1722082583,1722052825,1721452100,1721449095,1721014846,1720531860,1720110230,1720096700,1719571384,1719570495,1718952941,1718334036,1717727502,1717122664,1715990605];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/08 | 22-0 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ✅ | 2024/08/26 | 11-3 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ✅ | 2024/08/26 | 2-0 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/08/21 | 13-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |

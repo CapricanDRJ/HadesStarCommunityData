@@ -27,7 +27,7 @@ All FS Donations welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1674 🔺  (1)|
+| ELO Regular | 1674 🔺  (2)|
 | ELO Competitive | 1806 🔺  (1)|
 | Total Matches | 95 |
 | Wins | 87 |
