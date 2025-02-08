@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Day Light
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1738415045
 ---
@@ -15,12 +15,12 @@ date: 1738415045
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (424)|
-| ELO Competitive | 1215 🔺  (562)|
+| ELO Competitive | 1215 🔺  (560)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

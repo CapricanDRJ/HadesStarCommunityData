@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:47 L:5 D:0 Bonus ✅ 50%
+description: W:48 L:5 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1738494375
+date: 1739019075
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,13 +25,13 @@ date: 1738494375
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1534 🔺  (7)|
-| ELO Competitive | 1604 🔺  (23)|
-| Total Matches | 52 |
-| Wins | 47 |
+| ELO Regular | 1546 🔺  (7)|
+| ELO Competitive | 1616 🔺  (22)|
+| Total Matches | 53 |
+| Wins | 48 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 7 |
+| Streak | 8 |
 | Streak Record | 16 |
 | Flagship | 8 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738062375,1737377845,1736836607,1736181745,1734368915,1733819945,1733157688,1732577420,1731940073,1731340587,1730721837,1730120547,1729514740,1728926626,1727706447,1727225953,1726496157,1725891540,1725284841,1724083720,1723465846,1722861222,1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
+        let timestamps = [1738587075,1738062375,1737377845,1736836607,1736181745,1734368915,1733819945,1733157688,1732577420,1731940073,1731340587,1730721837,1730120547,1729514740,1728926626,1727706447,1727225953,1726496157,1725891540,1725284841,1724083720,1723465846,1722861222,1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,11 +138,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 2 | 1 | 0 | 3 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 3 | 0 | 0 | 3 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 2 | 0 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 3 | 0 | 0 | 3 |
-| [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 1 | 1 | 0 | 2 |
 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/08 | 40-28 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ✅ | 2025/02/02 | 29-9 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2025/01/25 | 48-5 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2025/01/19 | 37-5 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

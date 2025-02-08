@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星落苑
-description: W:17 L:7 D:0 Bonus ✅ 32%
+description: W:17 L:8 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738996839
+date: 1739029294
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ date: 1738996839
                     欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=re
 d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔻  (170)|
-| ELO Competitive | 1380 🔻  (164)|
-| Total Matches | 24 |
+| ELO Regular | 1282 🔻  (198)|
+| ELO Competitive | 1380 🔻  (163)|
+| Total Matches | 25 |
 | Wins | 17 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
+        let timestamps = [1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/08 | 1-24 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2025/02/08 | 5-24 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2025/02/03 | 26-15 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2025/02/03 | 11-12 | [HADE'S BR](https://ws.tsl.rocks/corp/c45eed113ca441bc97ea13701b324eef2a880f75a5de80044e11389b8cc67ae0/) |

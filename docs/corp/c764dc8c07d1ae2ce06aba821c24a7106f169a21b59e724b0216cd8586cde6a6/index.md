@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​украина№1
-description: W:42 L:42 D:0 Bonus ✅ 44%
+description: W:42 L:42 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1738423762
 ---
@@ -18,12 +18,12 @@ date: 1738423762
 //t.me/ukraine1win. Гарної всім гри.
 ```
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (1095)|
-| ELO Competitive | 1371 🔺  (177)|
+| ELO Competitive | 1371 🔺  (178)|
 | Total Matches | 84 |
 | Wins | 42 |
 | Losses | 42 |
