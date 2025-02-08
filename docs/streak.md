@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Longest Win Streak
+title: Win Streak
 description: Hades' Star corporations longest win streak leaderboard
 permalink: /streak/
 ---

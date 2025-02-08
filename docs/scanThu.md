@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scanning Thursday Probability
+title: Scanning Thursday
 description: Probability a Hades' Star corporation is scanning Thursday
 permalink: /thu/
 ---

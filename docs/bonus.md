@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top Bonus By Corporation
+title: Top Bonus
 description: Top Corporations with bonus
 permalink: /bonus/
 ---
