@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sad Panda 2.0
-description: W:3 L:7 D:0 Bonus ✅ 34%
+description: W:3 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1738368474
 ---
@@ -18,7 +18,7 @@ senior member. Fail to log, I will demote to member. 14 days no log i
 n and I will kick members. 
 ```
 ### [Discord](https://discord.gg/yEGmdxCSd9)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

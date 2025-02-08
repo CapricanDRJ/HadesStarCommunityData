@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:44 L:27 D:0 Bonus ✅ 48%
+description: W:44 L:27 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1738370577
 ---
@@ -21,7 +21,7 @@ Weekly competitive WS; casual WS if numbers allow.
 Discord is required.
 ```
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
