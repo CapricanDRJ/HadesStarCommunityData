@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:9 L:6 D:1 Bonus ✅ 
+description: W:9 L:7 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1738503392
+date: 1738991130
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,12 @@ date: 1738503392
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (306)|
-| ELO Competitive | 1279 🔺  (346)|
-| Total Matches | 16 |
+| ELO Regular | 1225 🔻  (359)|
+| ELO Competitive | 1266 🔻  (379)|
+| Total Matches | 17 |
 | Wins | 9 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -55,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/08 | 5-12 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2025/02/02 | 21-5 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) |
 | ✅ | 2025/01/28 | 16-2 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) |
 | ✅ | 2025/01/23 | 16-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |

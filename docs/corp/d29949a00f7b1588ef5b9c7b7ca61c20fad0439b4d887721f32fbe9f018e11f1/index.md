@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Elysium
-description: W:47 L:15 D:0 Bonus ❌ 9%
+description: W:48 L:15 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1738387401
+date: 1738986323
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Weekly WS, 38% art bonus, Regularly top 10 on WS leaderboards. We tra
 in and play. Join today!
 ```
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1449 🔻  (30)|
-| ELO Competitive | 1529 🔻  (46)|
-| Total Matches | 62 |
-| Wins | 47 |
+| ELO Regular | 1452 🔺  (29)|
+| ELO Competitive | 1531 🔺  (46)|
+| Total Matches | 63 |
+| Wins | 48 |
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737955401,1737344794,1736735633,1735531121,1734919976,1734310024,1733718391,1733117722,1731908821,1731297617,1730692994,1730092302,1729491603,1728880038,1728284648,1727665278,1727059786,1726459197,1725847969,1725252389,1724639661,1724041047,1723428585,1722823960,1722218439,1721631209,1721044298,1720407446,1719195473,1717985441,1717380674,1716782313,1716175384,1715572082,1714969069,1714367137,1713751509,1713153596,1712549640,1711936061,1711347123,1710727859,1710142836,1710127216,1709134139,1708701734,1708257001,1707814367,1707375793,1706943502,1706504455,1705898318,1705287678,1704682745,1704085918,1703372790,1702889033,1702270217,1701580160,1700487074,1699854961,1698852386];
+        let timestamps = [1738554323,1737955401,1737344794,1736735633,1735531121,1734919976,1734310024,1733718391,1733117722,1731908821,1731297617,1730692994,1730092302,1729491603,1728880038,1728284648,1727665278,1727059786,1726459197,1725847969,1725252389,1724639661,1724041047,1723428585,1722823960,1722218439,1721631209,1721044298,1720407446,1719195473,1717985441,1717380674,1716782313,1716175384,1715572082,1714969069,1714367137,1713751509,1713153596,1712549640,1711936061,1711347123,1710727859,1710142836,1710127216,1709134139,1708701734,1708257001,1707814367,1707375793,1706943502,1706504455,1705898318,1705287678,1704682745,1704085918,1703372790,1702889033,1702270217,1701580160,1700487074,1699854961,1698852386];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Red Star Corp\.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) | 2 | 0 | 0 | 2 |
 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) | 1 | 6 | 0 | 7 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 1 | 0 | 2 |
 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) | 3 | 0 | 0 | 3 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/08 | 39-3 | [Red Star Corp\.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) |
 | ❌ | 2025/02/01 | 18-20 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2025/01/25 | 27-3 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2025/01/18 | 8-16 | [DL Academy](https://ws.tsl.rocks/corp/9b750e02f2cd80731a591c7ac31e9c7149686f31bb2a48749d68ac58833e3274/) |

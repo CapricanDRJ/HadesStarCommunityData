@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Star Corp.
-description: W:6 L:16 D:0 Bonus ❌ 5%
+description: W:6 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738368474
+date: 1738986323
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ Deutscher Konzern für Fortgeschrittene
 - Chataktivität gern gesehen
 - Sei Freundlich & Fair
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔻  (1353)|
-| ELO Competitive | 1086 🔻  (1379)|
-| Total Matches | 22 |
+| ELO Regular | 1065 🔻  (1356)|
+| ELO Competitive | 1084 🔻  (1381)|
+| Total Matches | 23 |
 | Wins | 6 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737936474,1722183275,1717250822,1713827522,1712019297,1710711333,1709440029,1708763035,1707886490,1707085951,1705944598,1705186706,1704744952,1704243694,1703505915,1703030787,1702064038,1701580160,1700924972,1700283001,1699641232,1698913386];
+        let timestamps = [1738554323,1737936474,1722183275,1717250822,1713827522,1712019297,1710711333,1709440029,1708763035,1707886490,1707085951,1705944598,1705186706,1704744952,1704243694,1703505915,1703030787,1702064038,1701580160,1700924972,1700283001,1699641232,1698913386];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,12 +130,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/08 | 3-39 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2025/02/01 | 3-22 | [Sad Panda 2\.0](https://ws.tsl.rocks/corp/74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c/) |
 | ❌ | 2024/08/02 | 3-27 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/06/06 | 9-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |

@@ -22,8 +22,8 @@ https://t.me/nhsuac
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1120)|
-| ELO Competitive | 1166 🔻  (1171)|
+| ELO Regular | 1153 🔻  (1121)|
+| ELO Competitive | 1166 🔻  (1172)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

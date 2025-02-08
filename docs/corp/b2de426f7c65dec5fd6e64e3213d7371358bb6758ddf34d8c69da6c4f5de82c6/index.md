@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:12 L:74 D:0 Bonus ✅ 42%
+description: W:12 L:74 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738408733
 ---
@@ -16,7 +16,7 @@ date: 1738408733
 Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társa
 idat. WS-ezés feltétele a discord.
 ```
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

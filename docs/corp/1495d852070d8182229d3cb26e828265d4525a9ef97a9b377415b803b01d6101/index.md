@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:21 L:22 D:0 Bonus ✅ 38%
+description: W:21 L:22 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1738391607
 ---
@@ -18,12 +18,12 @@ date: 1738391607
 iscord.com/invite/y2m2V3WYtr
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (271)|
-| ELO Competitive | 1307 🔺  (270)|
+| ELO Regular | 1252 🔺  (272)|
+| ELO Competitive | 1307 🔺  (271)|
 | Total Matches | 43 |
 | Wins | 21 |
 | Losses | 22 |

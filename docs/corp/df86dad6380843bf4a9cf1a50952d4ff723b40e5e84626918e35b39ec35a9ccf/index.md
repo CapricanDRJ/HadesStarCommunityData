@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​corporacion I.A
-description: W:1 L:6 D:0 Bonus ❌ 4%
+description: W:2 L:6 D:0 Bonus ✅ 28%
 image: ./favicon.png
-date: 1734829460
+date: 1738990891
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Unete a nosotros en esta larga travesía.             -Capital del Imp
 erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 ```
 ### [Discord](https://discord.gg/fRfYczjyuD)
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1136)|
-| ELO Competitive | 1155 🔻  (1245)|
-| Total Matches | 7 |
-| Wins | 1 |
+| ELO Regular | 1170 🔺  (988)|
+| ELO Competitive | 1177 🔺  (1044)|
+| Total Matches | 8 |
+| Wins | 2 |
 | Losses | 6 |
 | Draws | 0 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734397460,1733951253,1733285385,1732579558,1731922922,1724283856,1710215550];
+        let timestamps = [1738558891,1734397460,1733951253,1733285385,1732579558,1731922922,1724283856,1710215550];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/08 | 3-0 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2024/12/22 | 0-16 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2024/12/16 | 0-15 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/12/09 | 0-25 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |

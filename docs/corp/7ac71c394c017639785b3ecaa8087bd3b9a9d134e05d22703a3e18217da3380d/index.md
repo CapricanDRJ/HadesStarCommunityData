@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:18 L:40 D:0 Bonus ✅ 42%
+description: W:18 L:40 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738391307
 ---
@@ -17,7 +17,7 @@ date: 1738391307
 b>  Peacefully collecting relics since 2018.                   😎 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
