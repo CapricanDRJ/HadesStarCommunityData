@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:36 L:20 D:0 Bonus ✅ 42%
+description: W:36 L:20 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738428872
 ---
@@ -16,12 +16,12 @@ date: 1738428872
 <b><color="yellow"><size=80>Corp. Estelar | Axolotls</size></color></
 b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1404 🔺  (54)|
-| ELO Competitive | 1540 🔺  (40)|
+| ELO Competitive | 1540 🔺  (39)|
 | Total Matches | 56 |
 | Wins | 36 |
 | Losses | 20 |

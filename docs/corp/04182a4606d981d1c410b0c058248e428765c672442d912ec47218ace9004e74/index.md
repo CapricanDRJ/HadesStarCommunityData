@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Created
-description: W:18 L:34 D:1 Bonus ✅ 36%
+description: W:18 L:34 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738428872
 ---
@@ -15,7 +15,7 @@ date: 1738428872
 ```
 What a year….
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
