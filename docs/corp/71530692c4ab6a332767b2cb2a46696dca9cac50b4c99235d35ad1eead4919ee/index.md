@@ -22,7 +22,7 @@ Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (997)|
+| ELO Regular | 1169 🔻  (996)|
 | ELO Competitive | 1175 🔻  (1070)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Zvezdec
-description: W:42 L:22 D:0 Bonus ✅ 42%
+description: W:42 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738501286
 ---
@@ -18,12 +18,12 @@ date: 1738501286
 обязательно.
 ```
 ### [Discord](https://discord.gg/tbGjUb7xSQ)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1361 🔻  (89)|
-| ELO Competitive | 1470 🔺  (86)|
+| ELO Competitive | 1470 🔺  (87)|
 | Total Matches | 64 |
 | Wins | 42 |
 | Losses | 22 |
