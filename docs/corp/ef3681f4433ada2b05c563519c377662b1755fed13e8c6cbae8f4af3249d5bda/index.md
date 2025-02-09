@@ -22,7 +22,7 @@ d WZ. Spaß am Spiel steht bei uns im Vordergrund, Hilfe bei Rrs immer
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1389)|
-| ELO Competitive | 1031 🔻  (1406)|
+| ELO Competitive | 1031 🔻  (1405)|
 | Total Matches | 18 |
 | Wins | 0 |
 | Losses | 18 |

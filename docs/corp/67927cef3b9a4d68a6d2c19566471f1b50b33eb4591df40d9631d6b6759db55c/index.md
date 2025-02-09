@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际集团
-description: W:32 L:28 D:5 Bonus ✅ 36%
+description: W:32 L:28 D:5 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738978813
 ---
@@ -17,11 +17,11 @@ date: 1738978813
 br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:6396
 97949 <br><br>最高福利：r9
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (593)|
+| ELO Regular | 1191 🔻  (594)|
 | ELO Competitive | 1327 🔻  (229)|
 | Total Matches | 65 |
 | Wins | 32 |

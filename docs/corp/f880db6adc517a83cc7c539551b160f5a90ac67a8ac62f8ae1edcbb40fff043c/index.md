@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​莫比乌斯-星环
-description: W:0 L:3 D:0 Bonus ❌ 
+description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1738584522
+date: 1739090895
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738584522
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1049)|
-| ELO Competitive | 1167 🔻  (1157)|
-| Total Matches | 3 |
+| ELO Regular | 1145 🔻  (1156)|
+| ELO Competitive | 1154 🔻  (1250)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738152522,1736597973,1735824678];
+        let timestamps = [1738658895,1738152522,1736597973,1735824678];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/09 | 1-6 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2025/02/03 | 2-7 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2025/01/16 | 3-8 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2025/01/07 | 0-23 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​苏维埃联邦
-description: W:0 L:17 D:3 Bonus ❌ 3%
+description: W:0 L:18 D:3 Bonus ❌ 3%
 image: ./favicon.png
-date: 1737969948
+date: 1739090895
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1737969948
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1025 🔻  (1383)|
-| ELO Competitive | 1035 🔻  (1405)|
-| Total Matches | 20 |
+| ELO Regular | 1019 🔻  (1387)|
+| ELO Competitive | 1029 🔻  (1406)|
+| Total Matches | 21 |
 | Wins | 0 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 3 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737537948,1737022420,1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
+        let timestamps = [1738658895,1737537948,1737022420,1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/09 | 0-9 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/01/27 | 0-4 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2025/01/21 | 0-2 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2024/08/17 | 0-13 | [电磁脉冲集团](https://ws.tsl.rocks/corp/dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482/) |

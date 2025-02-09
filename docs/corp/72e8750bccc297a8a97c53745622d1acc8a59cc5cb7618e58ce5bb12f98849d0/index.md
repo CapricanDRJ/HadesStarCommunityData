@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:17 L:11 D:1 Bonus ✅ 34%
+description: W:18 L:11 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738905471
+date: 1739090895
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,10 +28,10 @@ Q群：993612413
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔻  (181)|
-| ELO Competitive | 1309 🔻  (267)|
-| Total Matches | 29 |
-| Wins | 17 |
+| ELO Regular | 1298 🔺  (171)|
+| ELO Competitive | 1327 🔺  (230)|
+| Total Matches | 30 |
+| Wins | 18 |
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/09 | 9-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2025/02/07 | 4-11 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/02/03 | 7-0 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ✅ | 2025/02/02 | 16-2 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:9 L:17 D:2 Bonus ❌ 6%
+description: W:10 L:17 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739019676
+date: 1739090895
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1739019676
 最重要的。本团规则：1. 不可以乱骂人！2. 不能乱踢刚进团的人(除黑名单外)如有发现极时发出，轻则降为成员3天即以上，重则踢出并拉入黑名
 单。创建于2024.10.14    首席:一根飞机   黑名单：
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1282)|
-| ELO Competitive | 1210 🔻  (611)|
-| Total Matches | 28 |
-| Wins | 9 |
+| ELO Regular | 1127 🔺  (1238)|
+| ELO Competitive | 1232 🔺  (466)|
+| Total Matches | 29 |
+| Wins | 10 |
 | Losses | 17 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738587676,1738115566,1737442168,1737434341,1736941014,1736910715,1736437487,1735996284,1735492963,1735051573,1735051272,1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1738658895,1738587676,1738115566,1737442168,1737434341,1736941014,1736910715,1736437487,1735996284,1735492963,1735051573,1735051272,1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/09 | 6-1 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ❌ | 2025/02/08 | 2-21 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2025/02/03 | 3-22 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2025/01/26 | 3-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
