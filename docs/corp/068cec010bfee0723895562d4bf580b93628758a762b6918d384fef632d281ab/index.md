@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:14 L:9 D:0 Bonus ✅ 48%
+description: W:15 L:9 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1738615479
+date: 1739070985
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ date: 1738615479
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (251)|
-| ELO Competitive | 1318 🔺  (254)|
-| Total Matches | 23 |
-| Wins | 14 |
+| ELO Regular | 1269 🔺  (223)|
+| ELO Competitive | 1339 🔺  (208)|
+| Total Matches | 24 |
+| Wins | 15 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 9 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/09 | 29-8 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/02/03 | 16-3 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ✅ | 2025/01/28 | 30-3 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ✅ | 2025/01/23 | 12-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
