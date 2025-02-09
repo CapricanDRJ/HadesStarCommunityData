@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Españoles
-description: W:26 L:65 D:0 Bonus ✅ 48%
+description: W:26 L:65 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1739020878
 ---
@@ -19,7 +19,7 @@ date: 1739020878
 Discord obligatorio: KAguMmM
 ```
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

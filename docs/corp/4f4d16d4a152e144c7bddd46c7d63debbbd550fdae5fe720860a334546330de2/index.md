@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gold Star
-description: W:3 L:12 D:2 Bonus ✅ 30%
+description: W:3 L:12 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1738532244
 ---
@@ -15,7 +15,7 @@ date: 1738532244
 ```
 Ruling the universe is our simple goal.
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
