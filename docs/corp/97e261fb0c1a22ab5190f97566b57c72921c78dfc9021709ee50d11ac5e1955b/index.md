@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Air/Free_ziyou
-description: W:7 L:2 D:0 Bonus ✅ 
+description: W:7 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738584522
+date: 1739105620
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738584522
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔺  (241)|
-| ELO Competitive | 1289 🔺  (316)|
-| Total Matches | 9 |
+| ELO Regular | 1248 🔻  (284)|
+| ELO Competitive | 1276 🔻  (351)|
+| Total Matches | 10 |
 | Wins | 7 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738152522,1738150186,1737717097,1737280781,1736848025,1736232230,1735780512,1735345425,1734875504];
+        let timestamps = [1738673620,1738152522,1738150186,1737717097,1737280781,1736848025,1736232230,1735780512,1735345425,1734875504];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/09 | 0-20 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2025/02/03 | 7-2 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ❌ | 2025/02/03 | 0-1 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ✅ | 2025/01/29 | 15-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |

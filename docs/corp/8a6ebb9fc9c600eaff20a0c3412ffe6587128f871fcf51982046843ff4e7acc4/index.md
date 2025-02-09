@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:9 L:7 D:1 Bonus ✅ 
+description: W:9 L:7 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1738991130
 ---
@@ -25,11 +25,11 @@ date: 1738991130
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (358)|
+| ELO Regular | 1225 🔻  (357)|
 | ELO Competitive | 1266 🔻  (379)|
 | Total Matches | 17 |
 | Wins | 9 |

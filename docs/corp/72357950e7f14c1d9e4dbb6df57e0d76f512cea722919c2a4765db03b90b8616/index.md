@@ -21,7 +21,7 @@ invite/HSsebQuveJ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1193)|
+| ELO Regular | 1139 🔻  (1194)|
 | ELO Competitive | 1161 🔻  (1203)|
 | Total Matches | 14 |
 | Wins | 4 |
