@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:8 L:4 D:0 Bonus ✅ 30%
+description: W:8 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1738915689
 ---
@@ -18,12 +18,12 @@ date: 1738915689
 3906941
 ```
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (267)|
-| ELO Competitive | 1288 🔻  (318)|
+| ELO Regular | 1254 🔻  (266)|
+| ELO Competitive | 1288 🔻  (319)|
 | Total Matches | 12 |
 | Wins | 8 |
 | Losses | 4 |

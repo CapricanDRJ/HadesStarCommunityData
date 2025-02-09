@@ -20,7 +20,7 @@ hitestar or kick
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1076)|
+| ELO Regular | 1158 🔻  (1077)|
 | ELO Competitive | 1158 🔻  (1226)|
 | Total Matches | 3 |
 | Wins | 0 |

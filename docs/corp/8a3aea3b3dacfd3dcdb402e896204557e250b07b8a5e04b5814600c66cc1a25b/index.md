@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Famous Assasins
-description: W:67 L:12 D:0 Bonus ✅ 50%
+description: W:67 L:12 D:0 Bonus ❌ 50%
 image: ./favicon.png
 date: 1738478750
 ---
@@ -20,7 +20,7 @@ RTA...</b>
 --------- We are Active in Dark Nebula ---------
 ```
 ### [Discord](https://discord.gg/YHtMuQK)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 50%
 
 | Statistic | Value |
 | --- | --- |
