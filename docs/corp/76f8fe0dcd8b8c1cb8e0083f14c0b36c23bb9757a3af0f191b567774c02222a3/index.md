@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:33 L:23 D:2 Bonus ✅ 36%
+description: W:33 L:23 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739049433
 ---
@@ -17,7 +17,7 @@ date: 1739049433
 s blancas semanales. Indispensable participar y aportar. Si no es así
 , te buscas otra. O vuelves con mas tiempo y ganas. 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -21,7 +21,7 @@ ll do back to back whites stars.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (870)|
+| ELO Regular | 1181 🔻  (871)|
 | ELO Competitive | 1181 🔻  (1024)|
 | Total Matches | 1 |
 | Wins | 0 |
