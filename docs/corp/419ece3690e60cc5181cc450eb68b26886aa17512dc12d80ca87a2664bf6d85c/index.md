@@ -21,7 +21,7 @@ Newbie and veterans welcome! Just a chill guild looking to have fun :
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1224 🔺  (361)|
-| ELO Competitive | 1225 🔺  (495)|
+| ELO Competitive | 1225 🔺  (496)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

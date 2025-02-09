@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Starships
-description: W:1 L:0 D:0 Bonus ❌ 
+description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738222420
+date: 1739116741
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1738222420
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (373)|
-| ELO Competitive | 1224 🔺  (500)|
-| Total Matches | 1 |
-| Wins | 1 |
-| Losses | 0 |
+| ELO Regular | 1213 🔺  (429)|
+| ELO Competitive | 1236 🔺  (457)|
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737790420];
+        let timestamps = [1738684741,1738684741,1737790420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/09 | 10-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
+| ❌ | 2025/02/09 | 0-12 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/01/30 | 6-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 
 ---
