@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:4 L:4 D:1 Bonus ❌ 5%
+description: W:5 L:4 D:1 Bonus ✅ 30%
 image: ./favicon.png
-date: 1738584522
+date: 1739213806
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 1738584522
 ```
 
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔺  (486)|
-| ELO Competitive | 1225 🔺  (493)|
-| Total Matches | 9 |
-| Wins | 4 |
+| ELO Regular | 1218 🔺  (387)|
+| ELO Competitive | 1241 🔺  (447)|
+| Total Matches | 10 |
+| Wins | 5 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 3 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
+        let timestamps = [1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/10 | 12-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/02/03 | 23-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2025/01/26 | 12-7 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2025/01/12 | 8-26 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |

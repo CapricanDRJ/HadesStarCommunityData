@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hexwood
-description: W:10 L:8 D:0 Bonus ✅ 36%
+description: W:10 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738610971
 ---
@@ -20,7 +20,7 @@ A social, easygoing Corp with allies to join together with for Red or
  White Stars. No pressure, play at your own pace.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

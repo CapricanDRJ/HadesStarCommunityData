@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙联盟（中国）
-description: W:26 L:42 D:6 Bonus ✅ 36%
+description: W:26 L:42 D:6 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738630201
 ---
@@ -17,7 +17,7 @@ date: 1738630201
 想要的这里都有，入团即送d7/d8 ，定期打白，请投喂旗舰1,注意在一周内无任何红巨星或白星参加则被踢出本星际集团，如尝试加入本星际集团您
 将会被永久踢出本星际集团
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

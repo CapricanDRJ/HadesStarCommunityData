@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:1 L:1 D:0 Bonus ❌ 4%
+description: W:2 L:1 D:0 Bonus ✅ 28%
 image: ./favicon.png
-date: 1737240665
+date: 1739217112
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,18 @@ o connect with our community and get gameplay support. We're excited
 to have you on board!
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔺  (590)|
-| ELO Competitive | 1200 🔺  (664)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1213 🔺  (431)|
+| ELO Competitive | 1226 🔺  (493)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 3 |
 
 ---
@@ -46,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736808665,1706521581];
+        let timestamps = [1738785112,1736808665,1706521581];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/10 | 9-3 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2025/01/18 | 14-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/02/03 | 6-25 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 

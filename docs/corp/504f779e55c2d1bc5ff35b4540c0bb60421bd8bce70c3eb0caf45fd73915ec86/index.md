@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​U.Y.E.U.
-description: W:4 L:12 D:4 Bonus ❌ 5%
+description: W:4 L:13 D:4 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738752195
+date: 1739221873
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1272)|
-| ELO Competitive | 1159 🔻  (1214)|
-| Total Matches | 20 |
+| ELO Regular | 1101 🔻  (1308)|
+| ELO Competitive | 1143 🔻  (1302)|
+| Total Matches | 21 |
 | Wins | 4 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 4 |
 | Flagship | 1 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738320195,1737032550,1714869624,1714422731,1713978344,1713544812,1713102512,1712804439,1712618756,1712119050,1711610629,1711588400,1711077589,1710971290,1710524721,1710500080,1710024150,1710024150,1709458357,1708689932];
+        let timestamps = [1738789873,1738320195,1737032550,1714869624,1714422731,1713978344,1713544812,1713102512,1712804439,1712618756,1712119050,1711610629,1711588400,1711077589,1710971290,1710524721,1710500080,1710024150,1710024150,1709458357,1708689932];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/10 | 0-3 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2025/02/05 | 0-13 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ↔️ | 2025/01/21 | 0-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/05/10 | 3-8 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
