@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Empire of Hades
-description: W:8 L:3 D:1 Bonus ✅ 
+description: W:8 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1738558683
 ---
@@ -15,7 +15,7 @@ date: 1738558683
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

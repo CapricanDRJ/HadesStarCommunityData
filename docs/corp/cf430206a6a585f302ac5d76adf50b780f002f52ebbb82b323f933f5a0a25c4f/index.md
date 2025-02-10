@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:6 D:3 Bonus ❌ 4%
+description: W:0 L:7 D:3 Bonus ❌ 4%
 image: ./favicon.png
-date: 1738665953
+date: 1739161216
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ We do all types of stars we help in red stars we prepare to battle in
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1234)|
-| ELO Competitive | 1142 🔻  (1305)|
-| Total Matches | 9 |
+| ELO Regular | 1118 🔻  (1260)|
+| ELO Competitive | 1135 🔻  (1320)|
+| Total Matches | 10 |
 | Wins | 0 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 3 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
+        let timestamps = [1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/10 | 0-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2025/02/04 | 0-8 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ↔️ | 2025/01/30 | 0-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ❌ | 2025/01/25 | 0-7 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
