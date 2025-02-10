@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:56 L:27 D:1 Bonus ✅ 38%
+description: W:56 L:27 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1738551172
 ---
@@ -17,11 +17,11 @@ date: 1738551172
 限り参加をお願いします(情報共有のため)
 ```
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1331 🔻  (127)|
+| ELO Regular | 1331 🔻  (128)|
 | ELO Competitive | 1554 🔺  (36)|
 | Total Matches | 84 |
 | Wins | 56 |
