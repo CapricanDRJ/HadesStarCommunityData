@@ -21,7 +21,7 @@ irates-hades.xoo.it
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (576)|
+| ELO Regular | 1193 🔻  (577)|
 | ELO Competitive | 1195 🔻  (721)|
 | Total Matches | 1 |
 | Wins | 0 |
