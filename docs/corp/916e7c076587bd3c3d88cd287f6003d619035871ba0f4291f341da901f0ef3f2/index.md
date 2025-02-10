@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:4 L:4 D:1 Bonus ✅ 30%
+description: W:4 L:4 D:1 Bonus ❌ 5%
 image: ./favicon.png
 date: 1738584522
 ---
@@ -15,7 +15,7 @@ date: 1738584522
 ```
 
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

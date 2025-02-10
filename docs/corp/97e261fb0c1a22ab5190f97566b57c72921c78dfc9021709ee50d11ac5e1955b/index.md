@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Air/Free_ziyou
-description: W:7 L:3 D:0 Bonus ✅ 
+description: W:7 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739105620
 ---
@@ -15,12 +15,12 @@ date: 1739105620
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔻  (284)|
-| ELO Competitive | 1276 🔻  (351)|
+| ELO Regular | 1248 🔻  (285)|
+| ELO Competitive | 1276 🔻  (352)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 3 |

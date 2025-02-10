@@ -22,7 +22,7 @@ send friend request to Lucky/ImLucky2 to contact us
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (402)|
+| ELO Regular | 1216 🔺  (403)|
 | ELO Competitive | 1216 🔺  (558)|
 | Total Matches | 1 |
 | Wins | 1 |
