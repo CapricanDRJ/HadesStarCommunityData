@@ -20,7 +20,7 @@ And check out our YouTube channel if you get a chance.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (844)|
+| ELO Regular | 1183 🔻  (845)|
 | ELO Competitive | 1183 🔻  (1010)|
 | Total Matches | 1 |
 | Wins | 0 |

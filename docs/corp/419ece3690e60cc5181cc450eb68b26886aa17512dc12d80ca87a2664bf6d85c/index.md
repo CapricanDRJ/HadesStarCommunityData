@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Star tap
-description: W:2 L:0 D:0 Bonus ✅ 26%
+description: W:2 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
-date: 1738748923
+date: 1739199981
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ Newbie and veterans welcome! Just a chill guild looking to have fun :
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (362)|
-| ELO Competitive | 1225 🔺  (496)|
-| Total Matches | 2 |
+| ELO Regular | 1207 🔻  (474)|
+| ELO Competitive | 1210 🔻  (612)|
+| Total Matches | 3 |
 | Wins | 2 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 2 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738316923,1726692295];
+        let timestamps = [1738767981,1738316923,1726692295];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/10 | 2-8 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ✅ | 2025/02/05 | 7-0 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) |
 | ✅ | 2024/09/23 | 5-2 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 

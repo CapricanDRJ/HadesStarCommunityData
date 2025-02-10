@@ -19,7 +19,7 @@ This is a team building exercise
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (898)|
+| ELO Regular | 1176 🔻  (899)|
 | ELO Competitive | 1179 🔻  (1038)|
 | Total Matches | 4 |
 | Wins | 1 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:8 L:19 D:1 Bonus ✅ 34%
+description: W:8 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1738595642
 ---
@@ -19,7 +19,7 @@ date: 1738595642
 Q：650722059
 ```
 ### [Discord](https://discord.gg/akTfXJGv)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

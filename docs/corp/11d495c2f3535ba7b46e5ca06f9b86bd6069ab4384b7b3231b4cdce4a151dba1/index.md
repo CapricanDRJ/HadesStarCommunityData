@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​碧海听潮阁
-description: W:11 L:6 D:3 Bonus ✅ 
+description: W:11 L:7 D:3 Bonus ✅ 
 image: ./favicon.png
-date: 1739116741
+date: 1739191907
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1739116741
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (241)|
+| ELO Regular | 1242 🔻  (296)|
 | ELO Competitive | 1312 🔺  (259)|
-| Total Matches | 20 |
+| Total Matches | 21 |
 | Wins | 11 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 3 |
-| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/10 | 0-5 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/02/09 | 12-0 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ✅ | 2025/02/04 | 8-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2025/02/04 | 3-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
