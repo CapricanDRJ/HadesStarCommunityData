@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Final Space
-description: W:1 L:4 D:0 Bonus ❌ 3%
+description: W:1 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1732201086
+date: 1739146495
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ Chookity pop!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (999)|
-| ELO Competitive | 1172 🔻  (1098)|
-| Total Matches | 5 |
+| ELO Regular | 1170 🔺  (982)|
+| ELO Competitive | 1173 🔺  (1082)|
+| Total Matches | 6 |
 | Wins | 1 |
 | Losses | 4 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 3 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731769086,1730421645,1725422890,1723541277,1722951377];
+        let timestamps = [1738714495,1731769086,1730421645,1725422890,1723541277,1722951377];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/10 | 2-2 | [人人平等至上集团](https://ws.tsl.rocks/corp/f53ab6b6753f8863f21f2516c82b29bb8c994a766292a5162a18e30a2f577715/) |
 | ❌ | 2024/11/21 | 3-8 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2024/11/06 | 2-0 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ❌ | 2024/09/09 | 1-5 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
