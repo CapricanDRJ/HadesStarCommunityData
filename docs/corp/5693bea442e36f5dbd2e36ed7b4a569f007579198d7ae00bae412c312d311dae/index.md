@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:15 L:10 D:2 Bonus ✅ 32%
+description: W:15 L:11 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738765119
+date: 1739202986
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Lets WiN all white Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (240)|
-| ELO Competitive | 1283 🔺  (330)|
-| Total Matches | 27 |
+| ELO Regular | 1247 🔻  (284)|
+| ELO Competitive | 1269 🔻  (368)|
+| Total Matches | 28 |
 | Wins | 15 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738333119,1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
+        let timestamps = [1738770986,1738333119,1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/10 | 4-8 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/02/05 | 6-3 | [启示空间](https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/) |
 | ❌ | 2025/01/31 | 1-10 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/01/26 | 5-3 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
