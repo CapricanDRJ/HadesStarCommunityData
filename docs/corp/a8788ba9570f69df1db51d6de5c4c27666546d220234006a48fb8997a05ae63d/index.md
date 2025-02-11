@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​47підрозділССП
-description: W:7 L:3 D:0 Bonus ✅ 
+description: W:7 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739089693
 ---
@@ -15,7 +15,7 @@ date: 1739089693
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:47 L:17 D:0 Bonus ✅ 38%
+description: W:47 L:17 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1738653334
 ---
@@ -17,7 +17,7 @@ Sister Corporation of First Legion & Armored Union. Anyone is Welcome
  to join. Here to help anyone in need. If you need help clearing a Re
 d Star, let us know and we'll help. Let's Finish the Game!
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
