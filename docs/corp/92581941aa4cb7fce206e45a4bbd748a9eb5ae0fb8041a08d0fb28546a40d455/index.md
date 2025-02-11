@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​启示空间
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1738765119
+date: 1739303056
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738765119
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (671)|
-| ELO Competitive | 1188 🔻  (822)|
-| Total Matches | 1 |
+| ELO Regular | 1176 🔻  (908)|
+| ELO Competitive | 1178 🔻  (1043)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738333119];
+        let timestamps = [1738871056,1738333119];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/11 | 3-12 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2025/02/05 | 3-6 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 
 ---

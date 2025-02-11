@@ -19,8 +19,8 @@ Looking for those who are interested in White Star missions
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (747)|
-| ELO Competitive | 1186 🔻  (881)|
+| ELO Regular | 1185 🔻  (745)|
+| ELO Competitive | 1186 🔻  (880)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

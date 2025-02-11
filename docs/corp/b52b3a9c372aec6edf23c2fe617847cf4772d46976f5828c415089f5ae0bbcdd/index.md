@@ -26,7 +26,7 @@ no i fajnie no i cześć  ^^ witamy!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1147)|
+| ELO Regular | 1147 🔻  (1148)|
 | ELO Competitive | 1153 🔻  (1257)|
 | Total Matches | 3 |
 | Wins | 0 |
