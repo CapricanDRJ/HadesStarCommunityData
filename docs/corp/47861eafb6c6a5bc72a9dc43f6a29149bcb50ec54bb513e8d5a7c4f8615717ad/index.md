@@ -19,8 +19,8 @@ UK group, active through the day. New players welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (991)|
-| ELO Competitive | 1170 🔻  (1139)|
+| ELO Regular | 1170 🔻  (992)|
+| ELO Competitive | 1170 🔻  (1140)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

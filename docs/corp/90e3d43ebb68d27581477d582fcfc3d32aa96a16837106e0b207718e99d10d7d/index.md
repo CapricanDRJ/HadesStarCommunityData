@@ -21,7 +21,7 @@ ust play relatively regularly and have fun.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (797)|
-| ELO Competitive | 1185 🔻  (932)|
+| ELO Competitive | 1185 🔻  (933)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

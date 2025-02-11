@@ -21,8 +21,8 @@ an) If u are not going to participate in white stars, tell me
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (947)|
-| ELO Competitive | 1187 🔻  (843)|
+| ELO Regular | 1172 🔻  (948)|
+| ELO Competitive | 1187 🔻  (844)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |

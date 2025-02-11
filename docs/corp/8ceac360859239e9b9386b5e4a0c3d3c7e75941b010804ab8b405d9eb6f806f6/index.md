@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:19 L:13 D:0 Bonus ✅ 36%
+description: W:20 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738863700
+date: 1739296745
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ We don't care. You should try it.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1310 🔺  (153)|
-| ELO Competitive | 1389 🔺  (152)|
-| Total Matches | 32 |
-| Wins | 19 |
+| ELO Regular | 1313 🔺  (151)|
+| ELO Competitive | 1396 🔺  (150)|
+| Total Matches | 33 |
+| Wins | 20 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 8 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738431700,1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
+        let timestamps = [1738864745,1738431700,1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/11 | 41-4 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2025/02/06 | 30-14 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2025/01/31 | 31-25 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2025/01/24 | 28-15 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |

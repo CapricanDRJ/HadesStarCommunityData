@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:9 L:9 D:0 Bonus ❌ 7%
+description: W:9 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738045131
+date: 1739292837
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ lease join us on Discord and don't be a stranger!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (501)|
-| ELO Competitive | 1255 🔻  (404)|
-| Total Matches | 18 |
+| ELO Regular | 1192 🔻  (587)|
+| ELO Competitive | 1246 🔻  (432)|
+| Total Matches | 19 |
 | Wins | 9 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737613131,1736390609,1735280816,1734576236,1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
+        let timestamps = [1738860837,1737613131,1736390609,1735280816,1734576236,1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/11 | 2-34 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2025/01/28 | 5-43 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2025/01/14 | 23-10 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
 | ❌ | 2025/01/01 | 21-23 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |

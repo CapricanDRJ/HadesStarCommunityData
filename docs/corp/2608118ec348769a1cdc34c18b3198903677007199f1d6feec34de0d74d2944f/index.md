@@ -19,8 +19,8 @@ Req: English Speaking, Login Daily & Have Fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1165)|
-| ELO Competitive | 1144 🔻  (1295)|
+| ELO Regular | 1144 🔻  (1164)|
+| ELO Competitive | 1144 🔻  (1296)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

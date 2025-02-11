@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RGW
-description: W:31 L:9 D:0 Bonus ❌ 36%
+description: W:31 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739277808
 ---
@@ -15,12 +15,12 @@ date: 1739277808
 ```
 Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1403 🔻  (54)|
-| ELO Competitive | 1466 🔻  (86)|
+| ELO Competitive | 1466 🔻  (87)|
 | Total Matches | 40 |
 | Wins | 31 |
 | Losses | 9 |
