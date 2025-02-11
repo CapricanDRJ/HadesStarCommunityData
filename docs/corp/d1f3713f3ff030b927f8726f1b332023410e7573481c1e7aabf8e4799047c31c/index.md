@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​USSR
-description: W:4 L:1 D:0 Bonus ❌ 8%
+description: W:5 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1737331110
+date: 1739224326
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,18 +20,18 @@ date: 1737331110
 
  
 ```
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (250)|
-| ELO Competitive | 1268 🔺  (370)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1267 🔺  (232)|
+| ELO Competitive | 1280 🔺  (343)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 7 |
 
 ---
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736899110,1734502017,1712900587,1708152126,1705647383];
+        let timestamps = [1738792326,1736899110,1734502017,1712900587,1708152126,1705647383];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/10 | 25-0 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ✅ | 2025/01/19 | 30-8 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ✅ | 2024/12/23 | 35-14 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/04/17 | 0-15 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |

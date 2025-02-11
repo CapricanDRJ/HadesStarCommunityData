@@ -19,7 +19,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (711)|
+| ELO Regular | 1186 🔻  (712)|
 | ELO Competitive | 1220 🔻  (518)|
 | Total Matches | 5 |
 | Wins | 2 |

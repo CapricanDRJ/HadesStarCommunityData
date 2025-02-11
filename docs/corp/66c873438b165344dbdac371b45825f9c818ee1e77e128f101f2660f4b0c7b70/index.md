@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Free Ag3nts
-description: W:12 L:0 D:0 Bonus ✅ 34%
+description: W:13 L:0 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738734279
+date: 1739227789
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1738734279
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (115)|
-| ELO Competitive | 1355 🔺  (194)|
-| Total Matches | 12 |
-| Wins | 12 |
+| ELO Regular | 1348 🔺  (101)|
+| ELO Competitive | 1364 🔺  (189)|
+| Total Matches | 13 |
+| Wins | 13 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/10 | 21-0 | [Imperium ](https://ws.tsl.rocks/corp/1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0/) |
 | ✅ | 2025/02/05 | 20-0 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ✅ | 2025/01/30 | 27-9 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/01/24 | 27-2 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |

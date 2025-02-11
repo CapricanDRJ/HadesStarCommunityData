@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​柯伊伯带试炼塔
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1738719036
+date: 1739224025
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738719036
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1083)|
-| ELO Competitive | 1172 🔻  (1100)|
-| Total Matches | 2 |
+| ELO Regular | 1143 🔻  (1175)|
+| ELO Competitive | 1159 🔻  (1214)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738287036,1737820476];
+        let timestamps = [1738792025,1738287036,1737820476];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/10 | 0-29 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ❌ | 2025/02/05 | 0-3 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ❌ | 2025/01/30 | 0-19 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 

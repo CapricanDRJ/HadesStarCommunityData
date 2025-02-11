@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:36 L:18 D:0 Bonus ✅ 36%
+description: W:36 L:18 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738627197
 ---
@@ -17,7 +17,7 @@ date: 1738627197
 довольствие                 Участвуем в бз и кз                      
              Помогаем в развитии новичкам 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
