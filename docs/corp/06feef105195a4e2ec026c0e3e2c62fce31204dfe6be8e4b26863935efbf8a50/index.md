@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:13 L:10 D:1 Bonus ✅ 32%
+description: W:13 L:11 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739246859
+date: 1739280814
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739246859
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔻  (363)|
+| ELO Regular | 1207 🔻  (476)|
 | ELO Competitive | 1255 🔻  (407)|
-| Total Matches | 24 |
+| Total Matches | 25 |
 | Wins | 13 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738814859,1738382103,1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1738848814,1738814859,1738382103,1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/11 | 0-4 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ❌ | 2025/02/11 | 5-8 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/02/06 | 13-4 | [中国家民](https://ws.tsl.rocks/corp/af75be08923f73af2bd3821bcfbdef3e3abbcbc0b9aaeacfeae528cfbf972f5f/) |
 | ✅ | 2025/01/31 | 13-1 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
