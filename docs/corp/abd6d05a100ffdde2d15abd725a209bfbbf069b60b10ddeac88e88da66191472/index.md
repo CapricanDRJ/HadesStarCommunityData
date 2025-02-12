@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏舰队
-description: W:21 L:58 D:0 Bonus ✅ 46%
+description: W:21 L:58 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1739206893
 ---
@@ -21,12 +21,12 @@ date: 1739206893
 <color=green>本集团为国人满加成集团，欢迎朋友们来打私人红星，让我们一起快速发展</color>
 <color=blue>Dis: https:// discord.gg/v2xC6g9Shy</color>
 ```
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 896 🔻  (1411)|
-| ELO Competitive | 1134 🔻  (1327)|
+| ELO Competitive | 1134 🔻  (1326)|
 | Total Matches | 79 |
 | Wins | 21 |
 | Losses | 58 |

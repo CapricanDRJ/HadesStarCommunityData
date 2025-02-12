@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:7 L:16 D:0 Bonus ✅ 32%
+description: W:7 L:17 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738805388
+date: 1739329196
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ts!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔺  (1301)|
-| ELO Competitive | 1135 🔺  (1323)|
-| Total Matches | 23 |
+| ELO Regular | 1100 🔻  (1310)|
+| ELO Competitive | 1131 🔻  (1336)|
+| Total Matches | 24 |
 | Wins | 7 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
+        let timestamps = [1738897196,1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 0 | 2 | 0 | 2 |
 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 0 | 2 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/12 | 1-34 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2025/02/06 | 17-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/01/29 | 3-50 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/12/25 | 3-33 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |

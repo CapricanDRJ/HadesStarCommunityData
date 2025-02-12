@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:38 L:6 D:0 Bonus ✅ 36%
+description: W:38 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738721549
 ---
@@ -26,11 +26,11 @@ date: 1738721549
 QQ群：131920392
 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1456 🔺  (25)|
+| ELO Regular | 1456 🔺  (26)|
 | ELO Competitive | 1542 🔺  (39)|
 | Total Matches | 44 |
 | Wins | 38 |
