@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​毛绒团子
-description: W:5 L:1 D:0 Bonus ✅ 
+description: W:6 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738738675
+date: 1739341515
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1738738675
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (230)|
-| ELO Competitive | 1274 🔺  (355)|
-| Total Matches | 6 |
-| Wins | 5 |
+| ELO Regular | 1290 🔺  (185)|
+| ELO Competitive | 1299 🔺  (297)|
+| Total Matches | 7 |
+| Wins | 6 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
+        let timestamps = [1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/12 | 15-0 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/02/05 | 22-0 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ✅ | 2025/01/30 | 16-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ✅ | 2025/01/19 | 19-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |

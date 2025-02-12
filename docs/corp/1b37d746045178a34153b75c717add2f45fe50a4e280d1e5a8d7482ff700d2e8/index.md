@@ -20,8 +20,8 @@ Easy going fun. Must be active, respectful and enjoy a laugh. Over 20
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (527)|
-| ELO Competitive | 1199 🔻  (678)|
+| ELO Regular | 1199 🔻  (528)|
+| ELO Competitive | 1199 🔻  (679)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |
