@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​分子集团
-description: W:1 L:5 D:0 Bonus ❌ 4%
+description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1738703006
+date: 1739351431
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1738703006
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔺  (1164)|
-| ELO Competitive | 1155 🔺  (1247)|
-| Total Matches | 6 |
+| ELO Regular | 1135 🔻  (1215)|
+| ELO Competitive | 1147 🔻  (1280)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
+        let timestamps = [1738919431,1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/12 | 0-8 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2025/02/04 | 11-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2025/01/28 | 1-8 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/12/26 | 2-4 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star tap
-description: W:2 L:1 D:0 Bonus ✅ 26%
+description: W:2 L:1 D:0 Bonus ❌ 26%
 image: ./favicon.png
 date: 1739199981
 ---
@@ -16,7 +16,7 @@ date: 1739199981
 Newbie and veterans welcome! Just a chill guild looking to have fun :
 )
 ```
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 26%
 
 | Statistic | Value |
 | --- | --- |
