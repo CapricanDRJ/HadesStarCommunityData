@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Scar
-description: W:46 L:25 D:1 Bonus ✅ 38%
+description: W:46 L:25 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1738715239
 ---
@@ -18,12 +18,12 @@ e stars. Joining discord is required for all activities and White Sta
 r involvement. Link is 👇
 ```
 ### [Discord](https://discord.gg/J5kNRjVJM4)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1371 🔺  (76)|
-| ELO Competitive | 1460 🔺  (93)|
+| ELO Competitive | 1460 🔺  (94)|
 | Total Matches | 72 |
 | Wins | 46 |
 | Losses | 25 |
