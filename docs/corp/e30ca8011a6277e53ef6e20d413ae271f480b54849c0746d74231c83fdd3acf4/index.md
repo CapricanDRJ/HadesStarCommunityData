@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ALPHA
-description: W:29 L:8 D:0 Bonus ❌ 36%
+description: W:29 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739224025
 ---
@@ -16,7 +16,7 @@ date: 1739224025
 Crecer principal objetivo        Leko:Join us we need active member  
                   
 ```
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
