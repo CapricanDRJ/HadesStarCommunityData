@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:9 L:39 D:1 Bonus ✅ 34%
+description: W:9 L:40 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738758206
+date: 1739358943
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,16 @@ date: 1738758206
 Wir sind ein aktiver Club. Aktive WZ-Spieler sind jederzeit willkomme
 n.      Wir handeln Gewürze .Ohne Stress 
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔺  (1364)|
-| ELO Competitive | 1118 🔺  (1353)|
-| Total Matches | 49 |
+| ELO Regular | 1049 🔻  (1371)|
+| ELO Competitive | 1115 🔻  (1361)|
+| Total Matches | 50 |
 | Wins | 9 |
-| Losses | 39 |
+| Losses | 40 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738326206,1737721905,1737089353,1736511714,1735908548,1735302750,1734690707,1734080145,1733477081,1732849985,1732273303,1731676224,1731069503,1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
+        let timestamps = [1738926943,1738326206,1737721905,1737089353,1736511714,1735908548,1735302750,1734690707,1734080145,1733477081,1732849985,1732273303,1731676224,1731069503,1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 0 | 2 | 0 | 2 |
 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) | 2 | 0 | 0 | 2 |
 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 0 | 2 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 0 | 2 | 0 | 2 |
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/12 | 2-11 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/02/05 | 19-0 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ✅ | 2025/01/29 | 15-4 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2025/01/22 | 3-9 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |

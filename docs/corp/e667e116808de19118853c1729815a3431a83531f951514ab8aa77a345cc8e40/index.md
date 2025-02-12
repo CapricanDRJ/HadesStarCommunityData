@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Highlife
-description: W:24 L:37 D:1 Bonus ❌ 8%
+description: W:24 L:38 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738866706
+date: 1739359544
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1071 🔻  (1355)|
-| ELO Competitive | 1143 🔻  (1302)|
-| Total Matches | 62 |
+| ELO Regular | 1068 🔻  (1356)|
+| ELO Competitive | 1140 🔻  (1311)|
+| Total Matches | 63 |
 | Wins | 24 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738434706,1737971024,1737429535,1736972451,1736472051,1736012224,1734379734,1733541687,1732831060,1731789525,1730954419,1730239552,1729743114,1729142699,1728504633,1727909893,1727122291,1726097678,1725508098,1724912514,1724268532,1723658778,1723113947,1722488288,1721883939,1721252276,1720643061,1720047717,1719518816,1718828844,1718316913,1717703764,1717108680,1716585177,1715892661,1715368064,1714896662,1714240042,1713302939,1712699283,1712098021,1710978739,1710546356,1710536441,1709934906,1709338166,1708731486,1708211329,1706922169,1706360804,1705804255,1705287678,1704775302,1703895393,1703462946,1703030787,1702598418,1702163523,1701470768,1700868470,1700235814,1698969283];
+        let timestamps = [1738927544,1738434706,1737971024,1737429535,1736972451,1736472051,1736012224,1734379734,1733541687,1732831060,1731789525,1730954419,1730239552,1729743114,1729142699,1728504633,1727909893,1727122291,1726097678,1725508098,1724912514,1724268532,1723658778,1723113947,1722488288,1721883939,1721252276,1720643061,1720047717,1719518816,1718828844,1718316913,1717703764,1717108680,1716585177,1715892661,1715368064,1714896662,1714240042,1713302939,1712699283,1712098021,1710978739,1710546356,1710536441,1709934906,1709338166,1708731486,1708211329,1706922169,1706360804,1705804255,1705287678,1704775302,1703895393,1703462946,1703030787,1702598418,1702163523,1701470768,1700868470,1700235814,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 0 | 2 | 0 | 2 |
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 2 | 1 | 0 | 3 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 0 | 2 | 0 | 2 |
 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 0 | 2 | 0 | 2 |
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/12 | 7-42 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2025/02/06 | 4-20 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
 | ❌ | 2025/02/01 | 6-35 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2025/01/26 | 9-29 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |

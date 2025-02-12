@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star tap
-description: W:2 L:1 D:0 Bonus ❌ 26%
+description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 date: 1739199981
 ---
@@ -16,12 +16,12 @@ date: 1739199981
 Newbie and veterans welcome! Just a chill guild looking to have fun :
 )
 ```
-### Whitestar Bonus ❌ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔻  (476)|
-| ELO Competitive | 1210 🔻  (615)|
+| ELO Competitive | 1210 🔻  (616)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

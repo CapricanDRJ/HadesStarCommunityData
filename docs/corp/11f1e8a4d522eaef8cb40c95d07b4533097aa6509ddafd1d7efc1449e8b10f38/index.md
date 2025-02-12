@@ -19,7 +19,7 @@ Wir haben Spaß zusammen.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1097 🔻  (1315)|
+| ELO Regular | 1097 🔻  (1314)|
 | ELO Competitive | 1182 🔻  (1016)|
 | Total Matches | 65 |
 | Wins | 26 |
