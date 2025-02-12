@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:8 L:4 D:2 Bonus ✅ 32%
+description: W:8 L:4 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1738766558
 ---
@@ -15,11 +15,11 @@ date: 1738766558
 ```
 欢迎大家的加入♡
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (276)|
+| ELO Regular | 1250 🔺  (275)|
 | ELO Competitive | 1266 🔺  (374)|
 | Total Matches | 14 |
 | Wins | 8 |

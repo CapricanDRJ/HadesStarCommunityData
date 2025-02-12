@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cydonia Order
-description: W:19 L:14 D:2 Bonus ✅ 36%
+description: W:19 L:14 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738768426
 ---
@@ -15,7 +15,7 @@ date: 1738768426
 ```
 THE CYDONIAN EMPIRE™
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

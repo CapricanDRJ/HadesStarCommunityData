@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:45 L:28 D:2 Bonus ✅ 42%
+description: W:45 L:28 D:2 Bonus ❌ 11%
 image: ./favicon.png
 date: 1738767524
 ---
@@ -19,7 +19,7 @@ date: 1738767524
 <color=#fb3>Bring your crew and join us for 
 ```
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

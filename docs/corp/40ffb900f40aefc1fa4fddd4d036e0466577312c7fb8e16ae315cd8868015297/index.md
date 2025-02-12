@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:16 L:3 D:0 Bonus ✅ 32%
+description: W:17 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738905471
+date: 1739365255
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ date: 1738905471
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (125)|
-| ELO Competitive | 1378 🔺  (169)|
-| Total Matches | 19 |
-| Wins | 16 |
+| ELO Regular | 1343 🔺  (112)|
+| ELO Competitive | 1389 🔺  (153)|
+| Total Matches | 20 |
+| Wins | 17 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/12 | 21-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2025/02/07 | 11-4 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/02/01 | 16-0 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/02/01 | 7-11 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |

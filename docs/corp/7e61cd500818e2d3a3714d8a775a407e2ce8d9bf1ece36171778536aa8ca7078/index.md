@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:8 L:4 D:0 Bonus ❌ 5%
+description: W:8 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738915689
+date: 1739370064
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1738915689
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (267)|
-| ELO Competitive | 1288 🔻  (322)|
-| Total Matches | 12 |
+| ELO Regular | 1245 🔻  (288)|
+| ELO Competitive | 1279 🔻  (348)|
+| Total Matches | 13 |
 | Wins | 8 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
+        let timestamps = [1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/12 | 0-23 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ❌ | 2025/02/07 | 1-10 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/02/02 | 23-12 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2025/01/27 | 25-2 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
