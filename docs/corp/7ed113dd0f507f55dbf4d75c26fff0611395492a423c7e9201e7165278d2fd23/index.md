@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Panda clan 
-description: W:4 L:3 D:0 Bonus ❌ 7%
+description: W:5 L:3 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1734742926
+date: 1739478553
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,18 +19,18 @@ date: 1734742926
 OA's Discord: https://discord.gg/2wyNuxb
 ```
 ### [Discord](https://discord.gg/ZhF2Npys6N)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (346)|
-| ELO Competitive | 1233 🔺  (470)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1238 🔺  (317)|
+| ELO Competitive | 1247 🔺  (430)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 5 |
 
 ---
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734310926,1732234549,1716643472,1712531315,1708916588,1706480719,1704603403];
+        let timestamps = [1739046553,1734310926,1732234549,1716643472,1712531315,1708916588,1706480719,1704603403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/13 | 35-16 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2024/12/21 | 41-0 | [Dragon Army](https://ws.tsl.rocks/corp/ee3fff709365ccfb06bdfd7f5af11e78c0b3dba860210acdb459b7d2d0657cc8/) |
 | ✅ | 2024/11/27 | 36-1 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ✅ | 2024/05/30 | 35-5 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |

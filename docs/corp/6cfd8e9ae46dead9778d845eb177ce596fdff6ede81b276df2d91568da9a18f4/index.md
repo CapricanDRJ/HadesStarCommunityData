@@ -20,7 +20,7 @@ Lasst euch vom Nordstern leiten!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1041)|
+| ELO Regular | 1164 🔻  (1042)|
 | ELO Competitive | 1168 🔻  (1154)|
 | Total Matches | 5 |
 | Wins | 1 |
