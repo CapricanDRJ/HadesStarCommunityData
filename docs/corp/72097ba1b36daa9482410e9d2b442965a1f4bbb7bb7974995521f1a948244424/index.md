@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​八月政府
-description: W:6 L:29 D:1 Bonus ❌ 6%
+description: W:7 L:29 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738066765
+date: 1739436176
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 1738066765
 ```
 求む魔導師　至難の戦場　わずかな報酬　剣林弾雨の暗い日々　耐え難い危険　生還の保証なし　生還の暁には名誉と賞賛を得ると
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1072 🔺  (1353)|
-| ELO Competitive | 1123 🔺  (1343)|
-| Total Matches | 36 |
-| Wins | 6 |
+| ELO Regular | 1086 🔺  (1332)|
+| ELO Competitive | 1146 🔺  (1287)|
+| Total Matches | 37 |
+| Wins | 7 |
 | Losses | 29 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 5 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737634765,1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1739004176,1737634765,1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/13 | 19-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/01/28 | 14-2 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ❌ | 2025/01/14 | 10-23 | [Quantum Cats](https://ws.tsl.rocks/corp/0b6309a414bde261db3ee5592ae72168ca48d02558f5bc597950f11e55f92ae6/) |
 | ✅ | 2024/12/29 | 11-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |

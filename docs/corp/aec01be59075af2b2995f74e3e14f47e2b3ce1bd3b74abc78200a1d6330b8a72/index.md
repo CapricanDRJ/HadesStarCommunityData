@@ -21,7 +21,7 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1404 🔺  (54)|
-| ELO Competitive | 1540 🔺  (40)|
+| ELO Competitive | 1540 🔺  (41)|
 | Total Matches | 56 |
 | Wins | 36 |
 | Losses | 20 |
