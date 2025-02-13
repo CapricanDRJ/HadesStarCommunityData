@@ -19,8 +19,8 @@ Welcome to the land of the delicious! Please be active and grow :)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1206)|
-| ELO Competitive | 1159 🔻  (1221)|
+| ELO Regular | 1137 🔻  (1207)|
+| ELO Competitive | 1159 🔻  (1222)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

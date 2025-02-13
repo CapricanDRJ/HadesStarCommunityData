@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​复生会
-description: W:2 L:4 D:0 Bonus ✅ 
+description: W:2 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739459919
+date: 1739463827
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739459919
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (854)|
+| ELO Regular | 1170 🔻  (997)|
 | ELO Competitive | 1202 🔺  (649)|
-| Total Matches | 6 |
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739027919,1738126683,1737597810,1737588498,1737125414,1736685435];
+        let timestamps = [1739031827,1739027919,1738126683,1737597810,1737588498,1737125414,1736685435];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/13 | 1-5 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/02/13 | 6-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2025/02/03 | 0-11 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/01/28 | 2-17 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |

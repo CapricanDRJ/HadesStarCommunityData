@@ -19,8 +19,8 @@ Only for Russian speakers 🇷🇺
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔻  (1322)|
-| ELO Competitive | 1387 🔺  (155)|
+| ELO Regular | 1094 🔻  (1323)|
+| ELO Competitive | 1387 🔺  (156)|
 | Total Matches | 130 |
 | Wins | 51 |
 | Losses | 76 |

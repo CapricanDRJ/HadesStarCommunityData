@@ -19,8 +19,8 @@ para todos los patriotas
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1104)|
-| ELO Competitive | 1164 🔻  (1191)|
+| ELO Regular | 1155 🔻  (1105)|
+| ELO Competitive | 1164 🔻  (1192)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |
