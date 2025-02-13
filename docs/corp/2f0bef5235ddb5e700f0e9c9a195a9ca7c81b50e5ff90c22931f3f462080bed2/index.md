@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​💮問鼎無垠💮
-description: W:2 L:3 D:0 Bonus ✅ 
+description: W:3 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739358342
+date: 1739418449
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1739358342
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (573)|
-| ELO Competitive | 1210 🔺  (614)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1204 🔺  (486)|
+| ELO Competitive | 1210 🔺  (613)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738926342,1738488498,1737900409,1737331877,1737328572];
+        let timestamps = [1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/13 | 8-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2025/02/12 | 15-2 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2025/02/07 | 3-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ❌ | 2025/01/31 | 3-11 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |

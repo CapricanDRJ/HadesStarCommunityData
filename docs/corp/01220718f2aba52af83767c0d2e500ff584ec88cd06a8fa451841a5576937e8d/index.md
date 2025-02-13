@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​✨ℛedstar Order«
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:5 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739321686
+date: 1739419951
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1739321686
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (319)|
-| ELO Competitive | 1256 🔺  (403)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1250 🔺  (276)|
+| ELO Competitive | 1259 🔺  (394)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/13 | 10-0 | [АЭЛИТА](https://ws.tsl.rocks/corp/37d43ef9b17263fd12e9fb723e458ef578db37b826be9af8b892ace8b0dadedc/) |
 | ✅ | 2025/02/12 | 17-15 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ✅ | 2025/02/07 | 4-3 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/02/06 | 5-12 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |

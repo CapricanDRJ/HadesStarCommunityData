@@ -21,7 +21,7 @@ Head over to WompWompWay
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (431)|
-| ELO Competitive | 1216 🔻  (556)|
+| ELO Competitive | 1216 🔻  (555)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

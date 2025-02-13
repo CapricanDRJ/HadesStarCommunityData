@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:13 L:11 D:1 Bonus ❌ 32%
+description: W:13 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739280814
 ---
@@ -15,7 +15,7 @@ date: 1739280814
 ```
 欢迎萌新和大佬们的加入Q群852308177
 ```
-### Whitestar Bonus ❌ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
