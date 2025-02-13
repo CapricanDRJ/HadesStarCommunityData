@@ -19,8 +19,8 @@ siuuu
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1057 🔻  (1364)|
-| ELO Competitive | 1059 🔻  (1398)|
+| ELO Regular | 1057 🔻  (1365)|
+| ELO Competitive | 1059 🔻  (1399)|
 | Total Matches | 14 |
 | Wins | 0 |
 | Losses | 13 |

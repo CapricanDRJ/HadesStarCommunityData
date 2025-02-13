@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:8 L:4 D:2 Bonus ❌ 6%
+description: W:9 L:4 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738766558
+date: 1739444290
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 1738766558
 ```
 欢迎大家的加入♡
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (275)|
-| ELO Competitive | 1266 🔺  (374)|
-| Total Matches | 14 |
-| Wins | 8 |
+| ELO Regular | 1268 🔺  (228)|
+| ELO Competitive | 1289 🔺  (321)|
+| Total Matches | 15 |
+| Wins | 9 |
 | Losses | 4 |
 | Draws | 2 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 4 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738334558,1737646787,1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
+        let timestamps = [1739012290,1738334558,1737646787,1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/13 | 19-5 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/02/05 | 24-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/01/28 | 11-10 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2025/01/23 | 20-3 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
