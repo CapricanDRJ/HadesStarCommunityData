@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:7 L:17 D:0 Bonus ✅ 32%
+description: W:7 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739329196
 ---
@@ -16,7 +16,7 @@ date: 1739329196
 All Welcome. Friendly Only. Come and Chill. Old or New. No Requiremen
 ts!
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
