@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Terran empire 
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1738794872
 ---
@@ -15,7 +15,7 @@ date: 1738794872
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
