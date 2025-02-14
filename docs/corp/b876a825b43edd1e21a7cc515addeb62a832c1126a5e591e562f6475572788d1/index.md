@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:18 L:13 D:0 Bonus ✅ 38%
+description: W:18 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1738930117
 ---
@@ -17,7 +17,7 @@ date: 1738930117
 м  - Ищем отважных и надёжных командиров если ты не трус залетай  к н
 ам и вместе будем биться у Белых Звёзд
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

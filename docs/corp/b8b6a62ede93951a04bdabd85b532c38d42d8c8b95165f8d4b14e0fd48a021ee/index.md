@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hermitage
-description: W:14 L:11 D:1 Bonus ❌ 7%
+description: W:14 L:12 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738788862
+date: 1739528732
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Lien: https://discord.gg/gaBKUb5t
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (268)|
-| ELO Competitive | 1304 🔻  (280)|
-| Total Matches | 26 |
+| ELO Regular | 1249 🔻  (279)|
+| ELO Competitive | 1301 🔻  (289)|
+| Total Matches | 27 |
 | Wins | 14 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
+        let timestamps = [1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/14 | 17-30 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2025/02/05 | 3-20 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ↔️ | 2025/01/31 | 14-14 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2025/01/24 | 26-27 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |

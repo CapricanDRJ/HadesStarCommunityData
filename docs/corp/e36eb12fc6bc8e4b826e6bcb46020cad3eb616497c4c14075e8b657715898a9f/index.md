@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​INFINITY STAR
-description: W:14 L:20 D:1 Bonus ❌ 9%
+description: W:15 L:20 D:1 Bonus ✅ 38%
 image: ./favicon.png
-date: 1738980615
+date: 1739533841
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1738980615
 Lost in Space...? Dann komm zu uns! 
 ```
 ### [Discord](https://discord.gg/qZFjFeg5wP)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1174)|
-| ELO Competitive | 1224 🔻  (502)|
-| Total Matches | 35 |
-| Wins | 14 |
+| ELO Regular | 1162 🔺  (1065)|
+| ELO Competitive | 1242 🔺  (446)|
+| Total Matches | 36 |
+| Wins | 15 |
 | Losses | 20 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738548615,1737903716,1737296111,1736690847,1734876105,1734251422,1733660392,1733121026,1732452106,1731853830,1731250132,1730638000,1730033701,1729433306,1728991231,1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
+        let timestamps = [1739101841,1738548615,1737903716,1737296111,1736690847,1734876105,1734251422,1733660392,1733121026,1732452106,1731853830,1731250132,1730638000,1730033701,1729433306,1728991231,1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/14 | 34-13 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 | ❌ | 2025/02/08 | 6-32 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ↔️ | 2025/01/31 | 14-14 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 | ❌ | 2025/01/24 | 9-35 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:16 L:30 D:4 Bonus ✅ 34%
+description: W:16 L:30 D:4 Bonus ❌ 7%
 image: ./favicon.png
 date: 1739495378
 ---
@@ -17,7 +17,7 @@ date: 1739495378
 maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (
 sporg). 3lt bpdp)(demin).(flech).
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
