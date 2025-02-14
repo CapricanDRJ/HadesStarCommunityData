@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​alienigenas
-description: W:10 L:5 D:0 Bonus ❌ 8%
+description: W:11 L:5 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738336317
+date: 1739543460
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,18 +20,18 @@ Para pertenecer a la corporacion hay que participar y colaborar en al
 guna actividad con los demas compañeros 
 ```
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (182)|
-| ELO Competitive | 1329 🔺  (226)|
-| Total Matches | 15 |
-| Wins | 10 |
+| ELO Regular | 1310 🔺  (153)|
+| ELO Competitive | 1353 🔺  (197)|
+| Total Matches | 16 |
+| Wins | 11 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 6 |
 
 ---
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737904317,1737288596,1736701071,1729431503,1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
+        let timestamps = [1739111460,1737904317,1737288596,1736701071,1729431503,1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/14 | 40-15 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2025/01/31 | 22-16 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2025/01/24 | 38-4 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2025/01/17 | 50-6 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |

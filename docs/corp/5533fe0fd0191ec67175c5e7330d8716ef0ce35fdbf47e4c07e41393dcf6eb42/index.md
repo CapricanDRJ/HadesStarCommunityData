@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​MiddleOfNowhere
-description: W:1 L:1 D:0 Bonus ✅ 30%
+description: W:2 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1738955672
+date: 1739543761
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,14 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (475)|
-| ELO Competitive | 1211 🔺  (610)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1222 🔺  (362)|
+| ELO Competitive | 1233 🔺  (472)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738523672,1724326221];
+        let timestamps = [1739111761,1738523672,1724326221];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/14 | 28-10 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2025/02/07 | 19-1 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |
 | ❌ | 2024/08/27 | 6-15 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 

@@ -26,8 +26,8 @@ HS Compendium required to join WS's
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (354)|
-| ELO Competitive | 1231 🔺  (474)|
+| ELO Regular | 1226 🔺  (353)|
+| ELO Competitive | 1231 🔺  (475)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |
