@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sith Empire
-description: W:32 L:45 D:1 Bonus ✅ 50%
+description: W:32 L:45 D:1 Bonus ❌ 15%
 image: ./favicon.png
 date: 1738961384
 ---
@@ -22,12 +22,12 @@ Join us on Discord
 Public Queue 14%-48%
 ```
 ### [Discord](https://discord.gg/R6sJCw2)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (282)|
-| ELO Competitive | 1437 🔺  (120)|
+| ELO Regular | 1248 🔺  (281)|
+| ELO Competitive | 1437 🔺  (119)|
 | Total Matches | 78 |
 | Wins | 32 |
 | Losses | 45 |
