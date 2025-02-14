@@ -21,7 +21,7 @@ rp mambers are expected to do at least one white star a month.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔻  (888)|
-| ELO Competitive | 1184 🔻  (1004)|
+| ELO Competitive | 1184 🔻  (1005)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

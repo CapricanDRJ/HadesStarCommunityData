@@ -20,8 +20,8 @@ RS4 to 7
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (858)|
-| ELO Competitive | 1184 🔺  (1003)|
+| ELO Regular | 1183 🔺  (860)|
+| ELO Competitive | 1184 🔺  (1004)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

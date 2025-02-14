@@ -21,8 +21,8 @@ anew with the old Tiesa crew!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (841)|
-| ELO Competitive | 1184 🔻  (997)|
+| ELO Regular | 1184 🔻  (843)|
+| ELO Competitive | 1184 🔻  (998)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:16 L:7 D:0 Bonus ✅ 32%
+description: W:16 L:8 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739351431
+date: 1739514306
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1739351431
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔺  (196)|
+| ELO Regular | 1264 🔻  (238)|
 | ELO Competitive | 1350 🔺  (199)|
-| Total Matches | 23 |
+| Total Matches | 24 |
 | Wins | 16 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/14 | 0-1 | [中国家民](https://ws.tsl.rocks/corp/af75be08923f73af2bd3821bcfbdef3e3abbcbc0b9aaeacfeae528cfbf972f5f/) |
 | ✅ | 2025/02/12 | 8-0 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ❌ | 2025/02/08 | 0-3 | [corporacion I\.A](https://ws.tsl.rocks/corp/df86dad6380843bf4a9cf1a50952d4ff723b40e5e84626918e35b39ec35a9ccf/) |
 | ✅ | 2025/02/07 | 5-3 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
