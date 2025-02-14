@@ -22,8 +22,8 @@ Help each other in Red Stars.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1146)|
-| ELO Competitive | 1152 🔻  (1267)|
+| ELO Regular | 1150 🔻  (1148)|
+| ELO Competitive | 1152 🔻  (1269)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

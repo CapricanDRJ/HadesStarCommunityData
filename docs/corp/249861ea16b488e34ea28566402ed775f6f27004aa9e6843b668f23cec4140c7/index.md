@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​HAL
-description: W:3 L:0 D:1 Bonus ❌ 4%
+description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709835656
+date: 1739504692
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 1709835656
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (301)|
-| ELO Competitive | 1242 🔺  (447)|
-| Total Matches | 4 |
+| ELO Regular | 1225 🔻  (356)|
+| ELO Competitive | 1225 🔻  (498)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 3 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709403656,1708387125,1707302416,1706800460];
+        let timestamps = [1739072692,1709403656,1708387125,1707302416,1706800460];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/14 | 0-9 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2024/03/07 | 9-0 | [星际集团](https://ws.tsl.rocks/corp/5487e6c91bbb3348790aa90be274a471189edab52d1567d86412023e0e501871/) |
 | ✅ | 2024/02/24 | 3-1 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ✅ | 2024/02/12 | 4-0 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |

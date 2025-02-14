@@ -20,8 +20,8 @@ of advantare to work of
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (977)|
-| ELO Competitive | 1171 🔻  (1120)|
+| ELO Regular | 1171 🔻  (979)|
+| ELO Competitive | 1171 🔻  (1122)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Interstellar
-description: W:42 L:53 D:3 Bonus ✅ 38%
+description: W:42 L:53 D:3 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739358342
 ---
@@ -18,11 +18,11 @@ vents (when possible), Also make use of the timemachine capability if
  AFK or not on much during the white star event :::..  😊👍
 ```
 ### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1213)|
+| ELO Regular | 1136 🔻  (1216)|
 | ELO Competitive | 1301 🔻  (290)|
 | Total Matches | 98 |
 | Wins | 42 |

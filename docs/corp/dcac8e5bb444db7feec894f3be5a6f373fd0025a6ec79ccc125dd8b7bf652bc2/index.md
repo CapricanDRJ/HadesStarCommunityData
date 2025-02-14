@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:12 L:18 D:2 Bonus ❌ 6%
+description: W:13 L:19 D:2 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738977311
+date: 1739495378
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ date: 1738977311
  副主席：蛋王黑名单：罗马创世神 丶LLLLrbia～丶瓜老板五世 本团为半死团预计将在明年1月苏醒
 ```
 ### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1232)|
-| ELO Competitive | 1203 🔻  (642)|
-| Total Matches | 32 |
-| Wins | 12 |
-| Losses | 18 |
+| ELO Regular | 1137 🔺  (1213)|
+| ELO Competitive | 1222 🔺  (511)|
+| Total Matches | 34 |
+| Wins | 13 |
+| Losses | 19 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/14 | 18-1 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
+| ❌ | 2025/02/14 | 2-11 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ❌ | 2025/02/08 | 0-3 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2025/02/08 | 4-14 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2025/02/02 | 3-2 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |

@@ -20,8 +20,8 @@ cessary
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (827)|
-| ELO Competitive | 1193 🔻  (736)|
+| ELO Regular | 1184 🔻  (829)|
+| ELO Competitive | 1193 🔻  (738)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

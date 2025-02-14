@@ -21,7 +21,7 @@ Vordergrund.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (496)|
+| ELO Regular | 1202 🔻  (497)|
 | ELO Competitive | 1277 🔻  (353)|
 | Total Matches | 36 |
 | Wins | 14 |
