@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:38 L:17 D:0 Bonus ✅ 36%
+description: W:38 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738879030
 ---
@@ -18,7 +18,7 @@ A place for people to enjoy the game, to just play. Live to fight for
 ith the Titans of Terror. 
 ```
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

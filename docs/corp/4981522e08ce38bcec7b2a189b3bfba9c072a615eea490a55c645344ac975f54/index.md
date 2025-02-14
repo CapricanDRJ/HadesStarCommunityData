@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​exirium
-description: W:6 L:6 D:1 Bonus ✅ 34%
+description: W:6 L:7 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738978813
+date: 1739488169
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ r.                                         WhatsApp incluido.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔺  (480)|
-| ELO Competitive | 1227 🔺  (495)|
-| Total Matches | 13 |
+| ELO Regular | 1193 🔻  (573)|
+| ELO Competitive | 1216 🔻  (556)|
+| Total Matches | 14 |
 | Wins | 6 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738546813,1737753164,1737305130,1736804457,1736131370,1733513443,1732154321,1731103766,1729916196,1729213328,1728149122,1702605328,1698888451];
+        let timestamps = [1739056169,1738546813,1737753164,1737305130,1736804457,1736131370,1733513443,1732154321,1731103766,1729916196,1729213328,1728149122,1702605328,1698888451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/13 | 0-20 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2025/02/08 | 9-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2025/01/29 | 4-20 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/01/24 | 8-13 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
