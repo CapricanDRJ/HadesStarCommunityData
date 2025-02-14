@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​资助会
-description: W:10 L:4 D:0 Bonus ✅ 32%
+description: W:10 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1738921100
 ---
@@ -16,11 +16,11 @@ date: 1738921100
 本集团遵守友好互助，互相尊重的原则，任何人在遇到困难时可以寻求帮助，本团积极招新     qq群号：247609296
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (242)|
+| ELO Regular | 1262 🔺  (243)|
 | ELO Competitive | 1280 🔺  (347)|
 | Total Matches | 14 |
 | Wins | 10 |
