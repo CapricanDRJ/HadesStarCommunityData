@@ -22,7 +22,7 @@ n and I will kick members.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔺  (1023)|
+| ELO Regular | 1167 🔺  (1022)|
 | ELO Competitive | 1172 🔺  (1113)|
 | Total Matches | 10 |
 | Wins | 3 |

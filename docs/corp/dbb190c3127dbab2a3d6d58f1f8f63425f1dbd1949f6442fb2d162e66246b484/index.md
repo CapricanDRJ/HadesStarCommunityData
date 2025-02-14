@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ANZAC Warriors
-description: W:20 L:6 D:1 Bonus ✅ 40%
+description: W:20 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1738953567
 ---
@@ -17,7 +17,7 @@ Soldiers that never give up on the battlefield despite the odds. Grea
 t team atmosphere, regular white/red stars. Active  members join us h
 ttps://discord.com/invite/rmzHUdXef7
 ```
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
