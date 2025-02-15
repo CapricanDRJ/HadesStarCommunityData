@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:33 L:9 D:0 Bonus ✅ 36%
+description: W:33 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739042519
 ---
@@ -17,7 +17,7 @@ date: 1739042519
 дем вместе розвиваться и обязательная помощь друг другу, мы вас ждём!
  Коли бз не приймаємо гравців бажаючих вступити до нас 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

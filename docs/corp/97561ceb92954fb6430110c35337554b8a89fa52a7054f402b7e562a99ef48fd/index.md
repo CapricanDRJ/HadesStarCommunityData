@@ -20,7 +20,7 @@ Arbiters of Darkness
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1346)|
+| ELO Regular | 1080 🔻  (1345)|
 | ELO Competitive | 1114 🔻  (1371)|
 | Total Matches | 12 |
 | Wins | 1 |
