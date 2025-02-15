@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:36 L:14 D:2 Bonus ❌ 10%
+description: W:37 L:14 D:2 Bonus ✅ 40%
 image: ./favicon.png
-date: 1739005552
+date: 1739621892
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy
 cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 .com/invite/v9vXJHAaKm
 ```
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1412 🔺  (47)|
-| ELO Competitive | 1495 🔺  (71)|
-| Total Matches | 52 |
-| Wins | 36 |
+| ELO Regular | 1417 🔺  (45)|
+| ELO Competitive | 1501 🔺  (67)|
+| Total Matches | 53 |
+| Wins | 37 |
 | Losses | 14 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 9 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738573552,1737883576,1737368830,1736768684,1736768684,1735238155,1734446734,1733824752,1733067844,1732550071,1731930755,1731315642,1730712822,1730116640,1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
+        let timestamps = [1739189892,1738573552,1737883576,1737368830,1736768684,1736768684,1735238155,1734446734,1733824752,1733067844,1732550071,1731930755,1731315642,1730712822,1730116640,1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,19 +134,20 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 3 | 0 | 0 | 3 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 0 | 0 | 2 |
 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) | 3 | 0 | 0 | 3 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 2 | 0 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 1 | 1 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 0 | 2 | 0 | 2 |
-| [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 34-16 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2025/02/08 | 59-11 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ↔️ | 2025/01/31 | 14-14 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | ✅ | 2025/01/25 | 52-13 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |

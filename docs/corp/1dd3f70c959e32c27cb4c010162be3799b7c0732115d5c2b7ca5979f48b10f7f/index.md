@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新的收留所
-description: W:18 L:5 D:1 Bonus ✅ 32%
+description: W:18 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739017873
 ---
@@ -18,12 +18,12 @@ date: 1739017873
 集团QQ群：979969673
 分支         ：萌新的收留所2                        
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔺  (116)|
-| ELO Competitive | 1368 🔺  (184)|
+| ELO Competitive | 1368 🔺  (185)|
 | Total Matches | 24 |
 | Wins | 18 |
 | Losses | 5 |

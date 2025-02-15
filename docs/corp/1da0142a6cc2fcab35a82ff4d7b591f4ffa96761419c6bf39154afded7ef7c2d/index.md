@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: W:13 L:11 D:2 Bonus ❌ 7%
+description: W:14 L:11 D:2 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738180055
+date: 1739616784
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Alianza: axolotls
 
 Ni retirada ni rendicion 
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔻  (252)|
-| ELO Competitive | 1301 🔻  (289)|
-| Total Matches | 26 |
-| Wins | 13 |
+| ELO Regular | 1268 🔺  (227)|
+| ELO Competitive | 1310 🔺  (265)|
+| Total Matches | 27 |
+| Wins | 14 |
 | Losses | 11 |
 | Draws | 2 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737748055,1737116395,1736610601,1735992074,1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
+        let timestamps = [1739184784,1737748055,1737116395,1736610601,1735992074,1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 17-7 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2025/01/29 | 0-28 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2025/01/22 | 25-16 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ✅ | 2025/01/16 | 27-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

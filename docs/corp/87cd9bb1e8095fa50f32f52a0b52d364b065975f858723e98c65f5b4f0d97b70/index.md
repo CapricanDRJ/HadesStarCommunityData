@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​TAKE IT DEEP
-description: W:0 L:1 D:0 Bonus ❌ 5%
+description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707869096
+date: 1739612878
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ we are all here to have fun, let's have some😃
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (686)|
-| ELO Competitive | 1188 🔻  (824)|
-| Total Matches | 1 |
+| ELO Regular | 1171 🔻  (972)|
+| ELO Competitive | 1177 🔻  (1055)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1707437096];
+        let timestamps = [1739180878,1707437096];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 0-14 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2024/02/14 | 0-1 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 
 ---

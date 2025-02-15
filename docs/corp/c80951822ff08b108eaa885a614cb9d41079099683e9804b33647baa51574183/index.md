@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​超越声速
-description: W:1 L:2 D:0 Bonus ❌ 3%
+description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1732713417
+date: 1739615582
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 1732713417
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (604)|
-| ELO Competitive | 1197 🔻  (706)|
-| Total Matches | 3 |
+| ELO Regular | 1193 🔺  (577)|
+| ELO Competitive | 1202 🔺  (652)|
+| Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 2 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732281417,1731659325,1730904538];
+        let timestamps = [1739183582,1732281417,1731659325,1730904538];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/15 | 3-3 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/11/27 | 4-13 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2024/11/20 | 2-33 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ✅ | 2024/11/11 | 8-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

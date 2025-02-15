@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:24 L:36 D:0 Bonus ✅ 44%
+description: W:24 L:36 D:0 Bonus ❌ 12%
 image: ./favicon.png
 date: 1739014266
 ---
@@ -16,12 +16,12 @@ date: 1739014266
 • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
 ```
 ### [Discord](https://discord.gg/EnduRy84t7)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔺  (373)|
-| ELO Competitive | 1322 🔺  (242)|
+| ELO Competitive | 1322 🔺  (241)|
 | Total Matches | 60 |
 | Wins | 24 |
 | Losses | 36 |

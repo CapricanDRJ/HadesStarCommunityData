@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:6 L:9 D:0 Bonus ❌ 5%
+description: W:6 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738947856
+date: 1739616784
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ der
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1187)|
-| ELO Competitive | 1173 🔻  (1099)|
-| Total Matches | 15 |
+| ELO Regular | 1132 🔻  (1230)|
+| ELO Competitive | 1163 🔻  (1197)|
+| Total Matches | 16 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738515856,1731427426,1730221819,1727920584,1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
+        let timestamps = [1739184784,1738515856,1731427426,1730221819,1727920584,1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 7-17 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2025/02/07 | 0-1 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
 | ❌ | 2024/11/17 | 1-25 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) |
 | ❌ | 2024/11/03 | 3-8 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |

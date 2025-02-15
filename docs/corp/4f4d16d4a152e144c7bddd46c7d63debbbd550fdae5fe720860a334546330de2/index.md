@@ -20,7 +20,7 @@ Ruling the universe is our simple goal.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1105 🔻  (1307)|
-| ELO Competitive | 1120 🔻  (1353)|
+| ELO Competitive | 1120 🔻  (1352)|
 | Total Matches | 18 |
 | Wins | 3 |
 | Losses | 13 |

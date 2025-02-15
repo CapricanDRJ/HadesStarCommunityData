@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bund von Lykon
-description: W:2 L:14 D:0 Bonus ❌ 6%
+description: W:2 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1734656984
+date: 1739623395
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ wei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1357)|
-| ELO Competitive | 1126 🔻  (1345)|
-| Total Matches | 16 |
+| ELO Regular | 1065 🔻  (1365)|
+| ELO Competitive | 1119 🔻  (1355)|
+| Total Matches | 17 |
 | Wins | 2 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734224984,1732012787,1731074313,1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
+        let timestamps = [1739191395,1734224984,1732012787,1731074313,1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 0-31 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024/12/20 | 7-28 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/11/24 | 4-32 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2024/11/13 | 3-29 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
