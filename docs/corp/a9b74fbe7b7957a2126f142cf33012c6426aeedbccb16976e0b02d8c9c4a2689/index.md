@@ -22,7 +22,7 @@ https://discord.gg/TJuKzyR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (646)|
+| ELO Regular | 1188 🔻  (647)|
 | ELO Competitive | 1189 🔻  (815)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:34 L:19 D:0 Bonus ✅ 36%
+description: W:34 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1738996839
 ---
@@ -18,11 +18,11 @@ ekly WS, Dark Star help, guides & advice, democratic atmosphere and f
 riendly community. <b>Must Join Discord</b> 
 ```
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1363 🔺  (85)|
+| ELO Regular | 1363 🔺  (84)|
 | ELO Competitive | 1447 🔺  (110)|
 | Total Matches | 53 |
 | Wins | 34 |

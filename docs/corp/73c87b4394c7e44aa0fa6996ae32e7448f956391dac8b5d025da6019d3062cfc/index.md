@@ -22,7 +22,7 @@ frequency: Once a week, starting on Thursdays.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (883)|
+| ELO Regular | 1180 🔻  (885)|
 | ELO Competitive | 1226 🔻  (495)|
 | Total Matches | 42 |
 | Wins | 19 |

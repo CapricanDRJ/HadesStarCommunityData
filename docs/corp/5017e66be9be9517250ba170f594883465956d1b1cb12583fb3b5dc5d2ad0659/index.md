@@ -19,7 +19,7 @@ All who join are looking to become legend.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (767)|
+| ELO Regular | 1185 🔻  (768)|
 | ELO Competitive | 1185 🔻  (941)|
 | Total Matches | 1 |
 | Wins | 0 |

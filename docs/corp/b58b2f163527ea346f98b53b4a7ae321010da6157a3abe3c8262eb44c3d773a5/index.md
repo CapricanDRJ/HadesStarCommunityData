@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sons of Liberty
-description: W:7 L:0 D:0 Bonus ❌ 8%
+description: W:7 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736567767
+date: 1739599358
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ Discord mandatory - join at the link below ↓
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (148)|
-| ELO Competitive | 1337 🔺  (217)|
-| Total Matches | 7 |
+| ELO Regular | 1304 🔻  (161)|
+| ELO Competitive | 1334 🔻  (220)|
+| Total Matches | 8 |
 | Wins | 7 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 7 |
 | Flagship | 6 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736135767,1734297106,1733142959,1731878779,1729881040,1729319107,1728643771];
+        let timestamps = [1739167358,1736135767,1734297106,1733142959,1731878779,1729881040,1729319107,1728643771];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 11-16 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/01/11 | 19-17 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2024/12/20 | 29-0 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/12/07 | 26-3 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
