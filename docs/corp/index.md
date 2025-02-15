@@ -45,7 +45,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Archangels BR](https://ws.tsl.rocks/corp/9f0b92fa53a4e1b97659c0c2df1ee74fe5ffcca2d272419c4d585bb39a86338f/) | 1200 | 1202 | 2 |
 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 1369 | 1448 | 53 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 1349 | 1477 | 82 |
-| [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 1370 | 1387 | 15 |
+| [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 1385 | 1404 | 16 |
 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 1256 | 1379 | 56 |
 | [Ascalon](https://ws.tsl.rocks/corp/419d15ad4ef8d71b318a3969624acedc85fa9a6e07381e2c8f2fc9d7633a0e23/) | 1201 | 1201 | 3 |
 | [Assasins bees](https://ws.tsl.rocks/corp/e2f08fe4957c28c70293fad9da8a5b4710b329f9f833693b2cc3f86e15453b84/) | 1189 | 1191 | 1 |
@@ -576,7 +576,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Ophelia VII](https://ws.tsl.rocks/corp/dbfa2646c70833a8a7b5648a68c78e0b3fb08c613cee606e3f7f38a97993b042/) | 1189 | 1192 | 1 |
 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) | 1258 | 1301 | 26 |
 | [Order of Ares](https://ws.tsl.rocks/corp/ed566147265086b7d56b1df1fd1deca6db34c89448bd784f644d9e68cbe9330e/) | 1171 | 1171 | 2 |
-| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1367 | 1578 | 110 |
+| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1375 | 1588 | 111 |
 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) | 1212 | 1364 | 96 |
 | [OriginsOfQuarks](https://ws.tsl.rocks/corp/4ab8bb29958d1400c427d8f5e25b6f5d5a03088b5d0237177bd58bf6bc0389bf/) | 1187 | 1190 | 1 |
 | [Orion](https://ws.tsl.rocks/corp/3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39/) | 1273 | 1300 | 16 |
@@ -604,7 +604,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Phoenix Nest](https://ws.tsl.rocks/corp/e63d7fd60c26387fe662f9dc27945060df85b5e1ee07ca68033376e92ecc65b6/) | 1144 | 1157 | 4 |
 | [Phoenix Squad](https://ws.tsl.rocks/corp/c4ee18d5ce1b3c9d858923fbefc866cbe2dd7898fe739abc8447e04688ce046f/) | 1169 | 1172 | 4 |
 | [Pirates](https://ws.tsl.rocks/corp/f8f512b60340c7aa66e3a646e0da8cdc44ff5b190d31b7c211a91b7e3a3da583/) | 1193 | 1195 | 1 |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1206 | 1464 | 112 |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1198 | 1466 | 113 |
 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) | 1256 | 1323 | 20 |
 | [Planet Express](https://ws.tsl.rocks/corp/5b1b4c436f97fa4921cfe2eec358f39bf2ff848eac678d0b8df77abea23339dd/) | 1158 | 1158 | 3 |
 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) | 1333 | 1372 | 19 |
@@ -1025,7 +1025,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) | 1204 | 1370 | 52 |
 | [ brazil com\.](https://ws.tsl.rocks/corp/c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/) | 1186 | 1186 | 1 |
 | [ Eligius ](https://ws.tsl.rocks/corp/13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/) | 1190 | 1190 | 3 |
-| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1282 | 1570 | 130 |
+| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1263 | 1570 | 131 |
 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1126 | 1248 | 39 |
 | [ 星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1234 | 1236 | 4 |
 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1152 | 1167 | 19 |
@@ -1035,7 +1035,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) | 1077 | 1125 | 36 |
 | [\(◉▼◉ ﾐ \)Э](https://ws.tsl.rocks/corp/ff260806dfd902a39d33cf55e8b36e8cc2b3a524c9f784587dc1d258e8d23d66/) | 1173 | 1175 | 2 |
 | [\(◉▼◉ ﾐﾐ \)Э](https://ws.tsl.rocks/corp/8ba26f596dc181d06b0648ccdfde2221224f1e25953f9f784e348da6c54cf3f1/) | 1188 | 1188 | 1 |
-| [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) | 1365 | 1436 | 41 |
+| [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) | 1350 | 1419 | 42 |
 | [\*ВОИТЕЛИ\*](https://ws.tsl.rocks/corp/13f23d956b5cd2af502efa23a1c3640106a8af639b2b1ec422496fbb41a91545/) | 1188 | 1188 | 1 |
 | [\*ПОБЕДА\*](https://ws.tsl.rocks/corp/c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/) | 1216 | 1216 | 3 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1269 | 1500 | 79 |
@@ -1049,7 +1049,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) | 1532 | 1603 | 62 |
 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) | 1416 | 1459 | 21 |
 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1380 | 1521 | 75 |
-| [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 1186 | 1380 | 79 |
+| [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 1205 | 1403 | 80 |
 | [α阿尔法](https://ws.tsl.rocks/corp/0051cb18cf31f6d75dff8017ba8658dd87c5b87d0a7380e447eb68487f30dc27/) | 1189 | 1189 | 1 |
 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 1068 | 1324 | 112 |
 | [АЭЛИТА](https://ws.tsl.rocks/corp/37d43ef9b17263fd12e9fb723e458ef578db37b826be9af8b892ace8b0dadedc/) | 1187 | 1187 | 1 |

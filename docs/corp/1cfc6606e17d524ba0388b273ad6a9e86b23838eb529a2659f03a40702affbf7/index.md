@@ -21,7 +21,7 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (72)|
+| ELO Regular | 1380 🔺  (73)|
 | ELO Competitive | 1411 🔺  (142)|
 | Total Matches | 16 |
 | Wins | 16 |

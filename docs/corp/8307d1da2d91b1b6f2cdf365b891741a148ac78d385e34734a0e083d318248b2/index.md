@@ -22,7 +22,7 @@ llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (651)|
+| ELO Regular | 1188 🔻  (652)|
 | ELO Competitive | 1189 🔻  (805)|
 | Total Matches | 8 |
 | Wins | 3 |

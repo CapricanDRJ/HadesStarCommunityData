@@ -10,10 +10,10 @@ permalink: /avgrelics/
 | 1 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75) | 45.19|
 | 2 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d) | 41.86|
 | 3 | [GermanIndustrie](https://ws.tsl.rocks/corp/5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986) | 39.46|
-| 4 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c) | 39.31|
-| 5 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d) | 39.25|
-| 6 | [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069) | 39|
-| 7 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02) | 38.67|
+| 4 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02) | 39.31|
+| 5 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c) | 39.31|
+| 6 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d) | 39.25|
+| 7 | [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069) | 39|
 | 8 | [Orion](https://ws.tsl.rocks/corp/3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39) | 38.13|
 | 9 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428) | 37.96|
 | 10 | [DadCorp](https://ws.tsl.rocks/corp/1b2cbf703ce5571c8f28d0616ca42f0bce30814d3186df5799397698ceb15d1d) | 37.43|
@@ -41,17 +41,17 @@ permalink: /avgrelics/
 | 32 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b) | 28.78|
 | 33 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2) | 28.63|
 | 34 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7) | 28.56|
-| 35 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825) | 28.39|
+| 35 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825) | 28.24|
 | 36 | [Titan Corp.](https://ws.tsl.rocks/corp/c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c) | 28.18|
 | 37 | [Proteus Tech](https://ws.tsl.rocks/corp/a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b) | 28.14|
 | 38 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f) | 28.04|
 | 39 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254) | 28.04|
 | 40 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80) | 27.96|
 | 41 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191) | 27.71|
-| 42 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 27.62|
-| 43 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb) | 27.6|
-| 44 | [ANDROMEDA INC. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b) | 27.56|
-| 45 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81) | 27.47|
+| 42 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81) | 27.63|
+| 43 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 27.62|
+| 44 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb) | 27.6|
+| 45 | [ANDROMEDA INC. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b) | 27.56|
 | 46 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd) | 27.41|
 | 47 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc) | 27.29|
 | 48 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780) | 27.18|
@@ -113,18 +113,18 @@ permalink: /avgrelics/
 | 104 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e) | 22.42|
 | 105 | [Корпорация Миф](https://ws.tsl.rocks/corp/605aa7df348e96fcaa0cb9dc5c1f37a87fb8991ae0694b9ff21d1f4fee54aa88) | 22.38|
 | 106 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6) | 22.33|
-| 107 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee) | 22.19|
-| 108 | [USSR](https://ws.tsl.rocks/corp/d1f3713f3ff030b927f8726f1b332023410e7573481c1e7aabf8e4799047c31c) | 22.17|
-| 109 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b) | 22.16|
-| 110 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a) | 22.15|
+| 107 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a) | 22.3|
+| 108 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee) | 22.19|
+| 109 | [USSR](https://ws.tsl.rocks/corp/d1f3713f3ff030b927f8726f1b332023410e7573481c1e7aabf8e4799047c31c) | 22.17|
+| 110 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b) | 22.16|
 | 111 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363) | 21.96|
 | 112 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53) | 21.91|
 | 113 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac) | 21.89|
 | 114 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36) | 21.45|
 | 115 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027) | 21.44|
-| 116 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40) | 21.15|
-| 117 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c) | 21.15|
-| 118 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375) | 21.14|
+| 116 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c) | 21.15|
+| 117 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375) | 21.14|
+| 118 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40) | 21.1|
 | 119 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e) | 21.06|
 | 120 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace) | 20.91|
 | 121 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6) | 20.9|
