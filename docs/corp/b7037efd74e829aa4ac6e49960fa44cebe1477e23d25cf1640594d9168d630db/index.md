@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rising star
-description: W:32 L:41 D:0 Bonus ✅ 50%
+description: W:32 L:41 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1738978212
 ---
@@ -22,7 +22,7 @@ If kicked for inactivity, please join back when ready.
 
 ```
 ### [Discord](https://discord.gg/fYBf2GNU7y)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

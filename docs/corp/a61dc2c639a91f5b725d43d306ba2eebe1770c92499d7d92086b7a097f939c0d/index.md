@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Эдем
-description: W:14 L:9 D:0 Bonus ❌ 6%
+description: W:15 L:10 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1738818310
+date: 1739587960
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,16 @@ date: 1738818310
 а кз 2-8. Чат в телеге...
 ```
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (204)|
-| ELO Competitive | 1302 🔺  (283)|
-| Total Matches | 23 |
-| Wins | 14 |
-| Losses | 9 |
+| ELO Regular | 1279 🔺  (205)|
+| ELO Competitive | 1324 🔺  (237)|
+| Total Matches | 25 |
+| Wins | 15 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
+        let timestamps = [1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 6-0 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
+| ❌ | 2025/02/15 | 17-30 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2025/02/06 | 5-1 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) |
 | ✅ | 2025/01/31 | 10-1 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/01/28 | 31-1 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |

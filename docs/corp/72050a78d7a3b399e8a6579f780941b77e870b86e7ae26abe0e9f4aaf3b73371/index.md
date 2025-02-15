@@ -20,8 +20,8 @@ s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (851)|
-| ELO Competitive | 1183 🔻  (1008)|
+| ELO Regular | 1183 🔻  (852)|
+| ELO Competitive | 1183 🔻  (1009)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

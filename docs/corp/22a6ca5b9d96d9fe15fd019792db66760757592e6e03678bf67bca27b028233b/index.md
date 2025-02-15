@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​АарнСарт 
-description: W:10 L:3 D:0 Bonus ✅ 
+description: W:11 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1738992933
+date: 1739587572
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 1738992933
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (178)|
-| ELO Competitive | 1332 🔺  (222)|
-| Total Matches | 13 |
-| Wins | 10 |
+| ELO Regular | 1312 🔺  (151)|
+| ELO Competitive | 1351 🔺  (199)|
+| Total Matches | 14 |
+| Wins | 11 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 31-0 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2025/02/08 | 21-3 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/02/01 | 23-5 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ❌ | 2025/01/25 | 0-8 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |

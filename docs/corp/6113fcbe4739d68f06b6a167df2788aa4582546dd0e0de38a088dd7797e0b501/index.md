@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​深空补给港
-description: W:2 L:12 D:0 Bonus ❌ 8%
+description: W:2 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1715412185
+date: 1739584635
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1715412185
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1301)|
-| ELO Competitive | 1150 🔻  (1275)|
-| Total Matches | 14 |
+| ELO Regular | 1095 🔻  (1324)|
+| ELO Competitive | 1136 🔻  (1325)|
+| Total Matches | 15 |
 | Wins | 2 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714980185,1714033674,1713498840,1713425528,1711020195,1710681277,1710010026,1710006119,1709567998,1708757024,1705579764,1704973636,1704972434,1699318910];
+        let timestamps = [1739152635,1714980185,1714033674,1713498840,1713425528,1711020195,1710681277,1710010026,1710006119,1709567998,1708757024,1705579764,1704973636,1704972434,1699318910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 0-10 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ❌ | 2024/05/11 | 0-5 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024/04/30 | 1-0 | [\(◉▼◉ ﾐ \)Э](https://ws.tsl.rocks/corp/ff260806dfd902a39d33cf55e8b36e8cc2b3a524c9f784587dc1d258e8d23d66/) |
 | ❌ | 2024/04/24 | 0-16 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

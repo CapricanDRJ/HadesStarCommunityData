@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lololol
-description: W:1 L:3 D:0 Bonus ❌ 
+description: W:2 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739008557
+date: 1739584635
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1739008557
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (911)|
-| ELO Competitive | 1182 🔻  (1019)|
-| Total Matches | 4 |
-| Wins | 1 |
+| ELO Regular | 1188 🔺  (654)|
+| ELO Competitive | 1196 🔺  (713)|
+| Total Matches | 5 |
+| Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738576557,1737765402,1737107237,1736473854];
+        let timestamps = [1739152635,1738576557,1737765402,1737107237,1736473854];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 10-0 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) |
 | ❌ | 2025/02/08 | 3-4 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2025/01/30 | 9-27 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ✅ | 2025/01/22 | 3-0 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
