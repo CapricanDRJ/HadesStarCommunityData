@@ -24,7 +24,7 @@ gy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1453 🔺  (29)|
+| ELO Regular | 1453 🔺  (30)|
 | ELO Competitive | 1708 🔺  (7)|
 | Total Matches | 132 |
 | Wins | 89 |

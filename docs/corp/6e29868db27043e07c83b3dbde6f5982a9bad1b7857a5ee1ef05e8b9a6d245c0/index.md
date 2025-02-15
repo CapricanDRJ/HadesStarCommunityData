@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​方星集团
-description: W:6 L:5 D:1 Bonus ❌ 5%
+description: W:6 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739081882
+date: 1739626401
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1739081882
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (473)|
-| ELO Competitive | 1237 🔻  (461)|
-| Total Matches | 12 |
+| ELO Regular | 1195 🔻  (566)|
+| ELO Competitive | 1225 🔻  (504)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738649882,1738150186,1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
+        let timestamps = [1739194401,1738649882,1738150186,1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 0-10 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/02/09 | 0-13 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/02/03 | 1-0 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ↔️ | 2025/01/29 | 3-3 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |

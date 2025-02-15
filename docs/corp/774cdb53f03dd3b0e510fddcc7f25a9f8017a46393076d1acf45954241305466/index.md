@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:78 L:22 D:1 Bonus ✅ 42%
+description: W:78 L:22 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739025688
 ---
@@ -18,11 +18,11 @@ Chill group running weekly ws focused on teamwork, strategy, and comm
 unication. <B>Discord required!</B> Newbies welcome!
 ```
 ### [Discord](https://discord.gg/xhXh3DkNBW)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1459 🔺  (22)|
+| ELO Regular | 1459 🔺  (23)|
 | ELO Competitive | 1591 🔺  (27)|
 | Total Matches | 101 |
 | Wins | 78 |

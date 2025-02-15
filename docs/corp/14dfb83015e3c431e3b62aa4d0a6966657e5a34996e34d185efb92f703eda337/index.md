@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New YuGiOh
-description: W:6 L:0 D:1 Bonus ✅ 
+description: W:8 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1739190363
+date: 1739626401
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1739190363
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (209)|
-| ELO Competitive | 1286 🔺  (333)|
-| Total Matches | 7 |
-| Wins | 6 |
+| ELO Regular | 1300 🔺  (172)|
+| ELO Competitive | 1304 🔺  (283)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 0 |
 | Draws | 1 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
+        let timestamps = [1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 10-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
+| ✅ | 2025/02/15 | 15-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2025/02/10 | 14-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ↔️ | 2025/02/10 | 0-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2025/02/05 | 13-0 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |

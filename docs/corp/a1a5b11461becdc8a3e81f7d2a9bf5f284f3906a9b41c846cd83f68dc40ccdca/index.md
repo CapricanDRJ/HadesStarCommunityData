@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cerberus
-description: W:1 L:0 D:1 Bonus ❌ 
+description: W:2 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1735481769
+date: 1739634216
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 1735481769
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (405)|
-| ELO Competitive | 1219 🔺  (525)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1230 🔺  (343)|
+| ELO Competitive | 1236 🔺  (466)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735049769,1733703372];
+        let timestamps = [1739202216,1735049769,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 9-0 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2024/12/29 | 9-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ↔️ | 2024/12/14 | 2-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 
