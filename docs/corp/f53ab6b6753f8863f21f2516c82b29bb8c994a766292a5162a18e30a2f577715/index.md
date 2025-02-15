@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​人人平等至上集团
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1739146495
+date: 1739603345
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739146495
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (535)|
-| ELO Competitive | 1199 🔻  (690)|
-| Total Matches | 1 |
+| ELO Regular | 1181 🔻  (880)|
+| ELO Competitive | 1189 🔻  (813)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738714495];
+        let timestamps = [1739171345,1738714495];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 3-13 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2025/02/10 | 2-2 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) |
 
 ---

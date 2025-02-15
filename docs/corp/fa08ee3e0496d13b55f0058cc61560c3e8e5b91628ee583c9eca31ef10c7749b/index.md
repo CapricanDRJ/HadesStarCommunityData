@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​C'est pas faux!
-description: W:1 L:6 D:1 Bonus ❌ 7%
+description: W:2 L:6 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738062558
+date: 1739609874
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 Discord : wZcGGNZ
 ```
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1112)|
-| ELO Competitive | 1186 🔻  (877)|
-| Total Matches | 8 |
-| Wins | 1 |
+| ELO Regular | 1175 🔺  (922)|
+| ELO Competitive | 1209 🔺  (618)|
+| Total Matches | 9 |
+| Wins | 2 |
 | Losses | 6 |
 | Draws | 1 |
 | Flagship | 5 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 14-8 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2025/01/28 | 7-21 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 | ↔️ | 2025/01/22 | 6-6 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2024/09/14 | 22-6 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |

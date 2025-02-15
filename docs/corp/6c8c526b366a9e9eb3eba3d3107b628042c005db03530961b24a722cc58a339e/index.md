@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:36 L:14 D:2 Bonus ✅ 40%
+description: W:36 L:14 D:2 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739005552
 ---
@@ -17,7 +17,7 @@ Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy
 cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 .com/invite/v9vXJHAaKm
 ```
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
