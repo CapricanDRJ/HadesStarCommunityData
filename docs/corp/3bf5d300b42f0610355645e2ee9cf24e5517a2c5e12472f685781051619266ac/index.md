@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sprite
-description: W:26 L:10 D:1 Bonus ✅ 38%
+description: W:26 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739632412
 ---
@@ -18,7 +18,7 @@ Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día
 a. Nuestra filosofía: unidos somos invencibles.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

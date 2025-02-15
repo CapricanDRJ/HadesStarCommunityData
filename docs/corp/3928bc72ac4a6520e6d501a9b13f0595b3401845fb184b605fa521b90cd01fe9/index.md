@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:5 L:6 D:1 Bonus ✅ 
+description: W:6 L:6 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1739199981
+date: 1739638724
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1739199981
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (694)|
-| ELO Competitive | 1253 🔺  (410)|
-| Total Matches | 12 |
-| Wins | 5 |
+| ELO Regular | 1201 🔺  (498)|
+| ELO Competitive | 1268 🔺  (369)|
+| Total Matches | 13 |
+| Wins | 6 |
 | Losses | 6 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738767981,1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
+        let timestamps = [1739206724,1738767981,1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/15 | 3-1 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2025/02/10 | 8-2 | [Star tap](https://ws.tsl.rocks/corp/419ece3690e60cc5181cc450eb68b26886aa17512dc12d80ca87a2664bf6d85c/) |
 | ❌ | 2025/02/03 | 0-7 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/02/02 | 10-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
