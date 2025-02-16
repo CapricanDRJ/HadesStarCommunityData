@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:27 L:7 D:1 Bonus ❌ 7%
+description: W:28 L:7 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738511505
+date: 1739707231
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ las vermelhas e brancas; mantenha as atividades e melhorias do sistem
 a em dia. Temos grupo de Discord.
 ```
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1420 🔺  (43)|
-| ELO Competitive | 1458 🔺  (98)|
-| Total Matches | 35 |
-| Wins | 27 |
+| ELO Regular | 1426 🔺  (39)|
+| ELO Competitive | 1469 🔺  (87)|
+| Total Matches | 36 |
+| Wins | 28 |
 | Losses | 7 |
 | Draws | 1 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 7 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738079505,1737545820,1732795879,1729164634,1728650684,1726144846,1723489293,1722505115,1721349931,1720842327,1720232839,1719630296,1719195473,1717091550,1716462901,1715742134,1715051694,1714514375,1714509567,1714070887,1713202274,1713199269,1712407807,1711648789,1710603450,1710597739,1709345676,1708723974,1708095935,1706550436,1705962032,1705153342,1704238886,1701072246,1700072921];
+        let timestamps = [1739275231,1738079505,1737545820,1732795879,1729164634,1728650684,1726144846,1723489293,1722505115,1721349931,1720842327,1720232839,1719630296,1719195473,1717091550,1716462901,1715742134,1715051694,1714514375,1714509567,1714070887,1713202274,1713199269,1712407807,1711648789,1710603450,1710597739,1709345676,1708723974,1708095935,1706550436,1705962032,1705153342,1704238886,1701072246,1700072921];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,12 +131,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/16 | 32-3 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2025/02/02 | 36-0 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2025/01/27 | 38-0 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2024/12/03 | 35-8 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
