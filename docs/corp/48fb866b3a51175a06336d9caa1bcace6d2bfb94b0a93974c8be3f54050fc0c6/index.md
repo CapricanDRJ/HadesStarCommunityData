@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Свободный флот
-description: W:50 L:59 D:1 Bonus ✅ 38%
+description: W:50 L:59 D:1 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739617084
 ---
@@ -18,7 +18,7 @@ date: 1739617084
 елеграм: https://t.me/FreeFleetHadesStar
 ```
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
