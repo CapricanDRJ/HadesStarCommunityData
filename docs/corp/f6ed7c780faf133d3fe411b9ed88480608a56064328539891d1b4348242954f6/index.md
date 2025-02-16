@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:14 L:10 D:1 Bonus ❌ 6%
+description: W:15 L:10 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739163320
+date: 1739678768
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1739163320
 ```
 
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔻  (330)|
-| ELO Competitive | 1306 🔻  (275)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1244 🔺  (289)|
+| ELO Competitive | 1314 🔺  (262)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738731320,1735780512,1735776908,1734933381,1734933193,1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1739246768,1738731320,1735780512,1735776908,1734933381,1734933193,1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/16 | 6-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ↔️ | 2025/02/10 | 5-5 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ❌ | 2025/01/07 | 0-6 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2025/01/07 | 0-7 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |

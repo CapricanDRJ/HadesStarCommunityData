@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:14 L:1 D:0 Bonus ✅ 36%
+description: W:15 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1739121550
+date: 1739684998
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,13 +24,13 @@ date: 1739121550
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1359 🔺  (89)|
-| ELO Competitive | 1416 🔺  (136)|
-| Total Matches | 15 |
-| Wins | 14 |
+| ELO Regular | 1367 🔺  (81)|
+| ELO Competitive | 1424 🔺  (128)|
+| Total Matches | 16 |
+| Wins | 15 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
+        let timestamps = [1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/16 | 24-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/02/09 | 39-3 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ✅ | 2025/02/03 | 31-7 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/01/26 | 31-6 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |

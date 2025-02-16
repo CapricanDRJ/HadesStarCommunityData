@@ -24,7 +24,7 @@ Merci Halkyr
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (288)|
-| ELO Competitive | 1253 🔺  (410)|
+| ELO Competitive | 1253 🔺  (411)|
 | Total Matches | 9 |
 | Wins | 6 |
 | Losses | 3 |
