@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cowboys
-description: W:6 L:9 D:3 Bonus ❌ 5%
+description: W:6 L:10 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1714959908
+date: 1739660362
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1714959908
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1057)|
-| ELO Competitive | 1166 🔺  (1177)|
-| Total Matches | 18 |
+| ELO Regular | 1155 🔻  (1113)|
+| ELO Competitive | 1159 🔻  (1223)|
+| Total Matches | 19 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714527908,1712118749,1710812287,1709759747,1709172001,1708484623,1707618138,1707112686,1706648282,1705974351,1705375123,1704850733,1703960606,1702870403,1702041491,1701574150,1701054518,1700362349];
+        let timestamps = [1739228362,1714527908,1712118749,1710812287,1709759747,1709172001,1708484623,1707618138,1707112686,1706648282,1705974351,1705375123,1704850733,1703960606,1702870403,1702041491,1701574150,1701054518,1700362349];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/15 | 0-26 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ↔️ | 2024/05/06 | 0-0 | [咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕](https://ws.tsl.rocks/corp/038bc19b50c066831931ddd822ae2c29f8d40279e3ef920b8574839c6e3ab35d/) |
 | ❌ | 2024/04/08 | 2-5 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) |
 | ❌ | 2024/03/24 | 1-8 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
