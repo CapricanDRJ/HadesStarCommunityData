@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星域 
-description: W:3 L:4 D:0 Bonus ✅ 28%
+description: W:4 L:5 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1739239648
+date: 1739698265
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1739239648
 ```
 Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (621)|
-| ELO Competitive | 1228 🔺  (491)|
-| Total Matches | 7 |
-| Wins | 3 |
-| Losses | 4 |
+| ELO Regular | 1189 🔺  (627)|
+| ELO Competitive | 1242 🔺  (449)|
+| Total Matches | 9 |
+| Wins | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
+        let timestamps = [1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/16 | 20-2 | [Os Guild](https://ws.tsl.rocks/corp/95419ee3d00a8d81d84d6fdba1cc4478098c152940903bb6a203af8f646d4e13/) |
+| ❌ | 2025/02/16 | 0-14 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2025/02/11 | 0-40 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2025/02/11 | 18-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ❌ | 2025/02/06 | 0-17 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |

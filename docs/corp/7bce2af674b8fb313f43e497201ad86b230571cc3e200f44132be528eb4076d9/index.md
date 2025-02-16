@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Zvezdec
-description: W:43 L:23 D:0 Bonus ✅ 42%
+description: W:43 L:23 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739597556
 ---
@@ -18,7 +18,7 @@ date: 1739597556
 обязательно.
 ```
 ### [Discord](https://discord.gg/tbGjUb7xSQ)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kelebra
-description: W:21 L:25 D:1 Bonus ✅ 34%
+description: W:21 L:25 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1739092698
 ---
@@ -17,7 +17,7 @@ date: 1739092698
 хід на білу зірку ви отримаєте +26% до артефактів. В чаті спілкування
  українською мовою.
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

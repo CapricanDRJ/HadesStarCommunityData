@@ -20,8 +20,8 @@ Sister corp of Continuum.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (957)|
-| ELO Competitive | 1172 🔻  (1107)|
+| ELO Regular | 1172 🔻  (959)|
+| ELO Competitive | 1172 🔻  (1108)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

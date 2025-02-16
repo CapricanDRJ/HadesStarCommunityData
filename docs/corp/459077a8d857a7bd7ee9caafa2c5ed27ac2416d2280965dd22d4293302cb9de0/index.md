@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:10 L:17 D:2 Bonus ✅ 32%
+description: W:10 L:17 D:2 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739090895
 ---
@@ -17,12 +17,12 @@ date: 1739090895
 最重要的。本团规则：1. 不可以乱骂人！2. 不能乱踢刚进团的人(除黑名单外)如有发现极时发出，轻则降为成员3天即以上，重则踢出并拉入黑名
 单。创建于2024.10.14    首席:一根飞机   黑名单：
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔺  (1248)|
-| ELO Competitive | 1232 🔺  (474)|
+| ELO Regular | 1127 🔺  (1249)|
+| ELO Competitive | 1232 🔺  (475)|
 | Total Matches | 29 |
 | Wins | 10 |
 | Losses | 17 |
