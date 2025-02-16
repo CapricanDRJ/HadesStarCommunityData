@@ -24,8 +24,8 @@ Discord is mandatory!</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (472)|
-| ELO Competitive | 1212 🔻  (600)|
+| ELO Regular | 1206 🔻  (473)|
+| ELO Competitive | 1212 🔻  (601)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 5 |

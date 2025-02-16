@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RED STAR CORP
-description: W:3 L:2 D:0 Bonus ✅ 
+description: W:3 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739121550
 ---
@@ -15,12 +15,12 @@ date: 1739121550
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (485)|
-| ELO Competitive | 1214 🔺  (580)|
+| ELO Regular | 1203 🔺  (486)|
+| ELO Competitive | 1214 🔺  (581)|
 | Total Matches | 5 |
 | Wins | 3 |
 | Losses | 2 |

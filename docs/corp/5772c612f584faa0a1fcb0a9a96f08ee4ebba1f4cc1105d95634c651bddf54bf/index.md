@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Empire of Hades
-description: W:9 L:3 D:1 Bonus ✅ 
+description: W:10 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1739202986
+date: 1739721357
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1739202986
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (194)|
-| ELO Competitive | 1319 🔺  (252)|
-| Total Matches | 13 |
-| Wins | 9 |
+| ELO Regular | 1296 🔺  (179)|
+| ELO Competitive | 1327 🔺  (230)|
+| Total Matches | 14 |
+| Wins | 10 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
+        let timestamps = [1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/16 | 14-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ✅ | 2025/02/10 | 8-4 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/02/03 | 11-0 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
 | ✅ | 2025/01/27 | 9-4 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |

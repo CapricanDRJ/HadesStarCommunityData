@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Star
-description: W:11 L:13 D:1 Bonus ❌ 6%
+description: W:11 L:14 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739684998
+date: 1739724063
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739684998
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (853)|
+| ELO Regular | 1169 🔻  (1010)|
 | ELO Competitive | 1253 🔻  (409)|
-| Total Matches | 25 |
+| Total Matches | 26 |
 | Wins | 11 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/16 | 0-9 | [中国家民](https://ws.tsl.rocks/corp/af75be08923f73af2bd3821bcfbdef3e3abbcbc0b9aaeacfeae528cfbf972f5f/) |
 | ❌ | 2025/02/16 | 3-24 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
 | ❌ | 2025/02/10 | 7-27 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2025/02/10 | 0-14 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
