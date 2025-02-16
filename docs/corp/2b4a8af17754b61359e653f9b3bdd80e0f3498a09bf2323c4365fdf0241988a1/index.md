@@ -23,7 +23,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔻  (237)|
-| ELO Competitive | 1482 🔻  (79)|
+| ELO Competitive | 1482 🔻  (80)|
 | Total Matches | 118 |
 | Wins | 60 |
 | Losses | 54 |

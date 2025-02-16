@@ -421,7 +421,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [ITA 2\.0](https://ws.tsl.rocks/corp/4df750932663f0d0c51d8493908ca5cfcee13776b7c6644fa47ecda51fd0fb3f/) | 1240 | 1242 | 7 |
 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) | 1268 | 1304 | 33 |
 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) | 1411 | 1429 | 21 |
-| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1183 | 1374 | 73 |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1188 | 1379 | 74 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 1315 | 1344 | 31 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1453 | 1708 | 132 |
 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) | 1060 | 1122 | 45 |
@@ -770,7 +770,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) | 1236 | 1242 | 10 |
 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) | 1334 | 1403 | 37 |
 | [Spy Corp](https://ws.tsl.rocks/corp/71530692c4ab6a332767b2cb2a46696dca9cac50b4c99235d35ad1eead4919ee/) | 1169 | 1175 | 2 |
-| [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 1073 | 1295 | 115 |
+| [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 1063 | 1298 | 116 |
 | [StalkerUA ](https://ws.tsl.rocks/corp/751e52efe068ef78a43ff5bb0a112ab56cd181cbf880eb7c235398fe10225e0f/) | 1186 | 1186 | 1 |
 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) | 1085 | 1156 | 57 |
 | [Star Conflict](https://ws.tsl.rocks/corp/4019f9482f5f1fce7355a5aaf84a643f78703400d8e21e2443e9d54d658d8bcd/) | 1186 | 1186 | 1 |
@@ -1191,7 +1191,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [中国星际联盟·第一自治州](https://ws.tsl.rocks/corp/545ee3872db51731b8d4a941a5c88e0b8f5dcc68b5a26e1a39133cc7dc0b6c18/) | 1170 | 1175 | 5 |
 | [中国航天科技集团（CASC）](https://ws.tsl.rocks/corp/5024f778d2fe0d25c933dc6e56223693e3ce83954ff4cf6f56e1b5c9f0721763/) | 1171 | 1173 | 2 |
 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) | 1227 | 1229 | 2 |
-| [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 1193 | 1477 | 146 |
+| [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 1203 | 1485 | 147 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 916 | 1171 | 122 |
 | [云浪度假村↕](https://ws.tsl.rocks/corp/971e3a487a950dbde1067e4f0940bb1a0833adf91cdf11c73cef69b362b45c4a/) | 1140 | 1146 | 9 |
 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) | 1135 | 1152 | 7 |
@@ -1224,7 +1224,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [华夏太空舰队](https://ws.tsl.rocks/corp/b36847dc8503eb856ff260ff65b39d3e350068b0e85281b9df132a726d080c92/) | 1186 | 1186 | 2 |
 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) | 1147 | 1187 | 23 |
 | [华夏航队](https://ws.tsl.rocks/corp/c63fe9c181dbac2833d2a4dbf3b050625128057c318b3b5a05bb54bd864f531c/) | 1141 | 1176 | 9 |
-| [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 892 | 1125 | 80 |
+| [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 887 | 1128 | 81 |
 | [华夏远征太空舰队](https://ws.tsl.rocks/corp/01e2a815aa9dd9c1db7cc861838ba180b5bf294273f9eaf4cdea5a256c9999a2/) | 1186 | 1186 | 1 |
 | [启示空间](https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/) | 1176 | 1178 | 2 |
 | [咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕](https://ws.tsl.rocks/corp/038bc19b50c066831931ddd822ae2c29f8d40279e3ef920b8574839c6e3ab35d/) | 1159 | 1186 | 5 |
