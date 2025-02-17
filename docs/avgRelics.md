@@ -29,7 +29,7 @@ permalink: /avgrelics/
 | 20 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f) | 33.64|
 | 21 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20) | 33.48|
 | 22 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107) | 32.42|
-| 23 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438) | 31.32|
+| 23 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438) | 31.91|
 | 24 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062) | 31.2|
 | 25 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286) | 31|
 | 26 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c) | 30.86|
@@ -197,21 +197,21 @@ permalink: /avgrelics/
 | 188 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d) | 17.31|
 | 189 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559) | 17.3|
 | 190 | [Торг. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310) | 17.22|
-| 191 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541) | 17.17|
-| 192 | [FreeSpcAlliance](https://ws.tsl.rocks/corp/96bea64334265762457ed1f5f2d255d54618ac74fcee63697cfe08ccf08d99ce) | 17.17|
-| 193 | [Midland Ind.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23) | 17.05|
-| 194 | [Majapahit](https://ws.tsl.rocks/corp/6d6df740d7d7719ed95d71037f4266928dad222a578175c6836d7bf449f89e75) | 17|
-| 195 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2) | 16.98|
-| 196 | [THE BENDERA](https://ws.tsl.rocks/corp/4c9acd27de08822b8670167ae6bc94f7ecd2786d5beed82c68ad61600fc318d3) | 16.95|
-| 197 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805) | 16.92|
-| 198 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f) | 16.81|
-| 199 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c) | 16.8|
-| 200 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43) | 16.79|
-| 201 | [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e) | 16.77|
-| 202 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626) | 16.75|
-| 203 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc) | 16.71|
-| 204 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623) | 16.66|
-| 205 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195) | 16.63|
+| 191 | [FreeSpcAlliance](https://ws.tsl.rocks/corp/96bea64334265762457ed1f5f2d255d54618ac74fcee63697cfe08ccf08d99ce) | 17.17|
+| 192 | [Midland Ind.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23) | 17.05|
+| 193 | [Majapahit](https://ws.tsl.rocks/corp/6d6df740d7d7719ed95d71037f4266928dad222a578175c6836d7bf449f89e75) | 17|
+| 194 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2) | 16.98|
+| 195 | [THE BENDERA](https://ws.tsl.rocks/corp/4c9acd27de08822b8670167ae6bc94f7ecd2786d5beed82c68ad61600fc318d3) | 16.95|
+| 196 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805) | 16.92|
+| 197 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f) | 16.81|
+| 198 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c) | 16.8|
+| 199 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43) | 16.79|
+| 200 | [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e) | 16.77|
+| 201 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626) | 16.75|
+| 202 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc) | 16.71|
+| 203 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623) | 16.66|
+| 204 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195) | 16.63|
+| 205 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541) | 16.58|
 | 206 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755) | 16.55|
 | 207 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6) | 16.5|
 | 208 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737) | 16.43|
@@ -226,7 +226,7 @@ permalink: /avgrelics/
 | 217 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053) | 16.1|
 | 218 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73) | 16.07|
 | 219 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327) | 16.05|
-| 220 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7) | 16.03|
+| 220 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7) | 16|
 | 221 | [\<a>超越®\</a>光速℡](https://ws.tsl.rocks/corp/771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857) | 16|
 | 222 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb) | 15.94|
 | 223 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83) | 15.9|
@@ -302,7 +302,7 @@ permalink: /avgrelics/
 | 293 | [Capibarius](https://ws.tsl.rocks/corp/9a46f3159020b842ed9bb062f7dbef2a5acb1337fbdc1c4a5374233c44a4ffab) | 12.5|
 | 294 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0) | 12.46|
 | 295 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb) | 12.46|
-| 296 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774) | 12.43|
+| 296 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774) | 12.45|
 | 297 | [P!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c) | 12.42|
 | 298 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240) | 12.3|
 | 299 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2) | 12.29|

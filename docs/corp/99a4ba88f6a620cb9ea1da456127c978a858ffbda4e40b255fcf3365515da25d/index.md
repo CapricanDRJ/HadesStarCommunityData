@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:42 L:33 D:3 Bonus ✅ 40%
+description: W:42 L:33 D:3 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739147851
 ---
@@ -18,11 +18,11 @@ rying there best. Players that don't help towards Whitestar will be r
 emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 ```
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (125)|
+| ELO Regular | 1333 🔺  (126)|
 | ELO Competitive | 1430 🔺  (124)|
 | Total Matches | 78 |
 | Wins | 42 |
