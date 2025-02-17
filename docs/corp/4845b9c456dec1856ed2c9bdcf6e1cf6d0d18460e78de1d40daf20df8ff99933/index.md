@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​GermanSpaceDuo
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1739290733
+date: 1739763125
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739290733
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (521)|
-| ELO Competitive | 1200 🔻  (678)|
-| Total Matches | 1 |
+| ELO Regular | 1192 🔻  (584)|
+| ELO Competitive | 1193 🔻  (735)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738858733];
+        let timestamps = [1739331125,1738858733];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/17 | 0-34 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ↔️ | 2025/02/11 | 0-0 | [★BLACK•TALON★](https://ws.tsl.rocks/corp/3e7a8d9fa0eccda2bbaba515d9658797d143de56c55303f6587d9f817fa80be0/) |
 
 ---
