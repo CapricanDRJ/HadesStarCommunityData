@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:10 L:13 D:1 Bonus ✅ 36%
+description: W:10 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739720756
 ---
@@ -21,7 +21,7 @@ White Stars often, numbers permitting.
 
 No Discord!
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

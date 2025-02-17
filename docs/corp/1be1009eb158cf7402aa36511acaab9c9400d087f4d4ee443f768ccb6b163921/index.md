@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:30 L:16 D:0 Bonus ✅ 36%
+description: W:30 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739666371
 ---
@@ -17,12 +17,12 @@ date: 1739666371
 rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生存</color>。<color=orange>南极星联盟成
 员</color>踢红点，由bria成立于2024.7.1
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (266)|
-| ELO Competitive | 1421 🔻  (130)|
+| ELO Regular | 1255 🔻  (265)|
+| ELO Competitive | 1421 🔻  (131)|
 | Total Matches | 46 |
 | Wins | 30 |
 | Losses | 16 |

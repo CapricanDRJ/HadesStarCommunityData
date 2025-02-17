@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:8 L:10 D:1 Bonus ✅ 32%
+description: W:8 L:12 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739358342
+date: 1739794974
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ olor=orange>南极星联盟成员</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (846)|
-| ELO Competitive | 1222 🔺  (517)|
-| Total Matches | 19 |
+| ELO Regular | 1161 🔻  (1067)|
+| ELO Competitive | 1211 🔻  (609)|
+| Total Matches | 21 |
 | Wins | 8 |
-| Losses | 10 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738926342,1738900502,1737812961,1737179546,1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
+        let timestamps = [1739362974,1739360871,1738926342,1738900502,1737812961,1737179546,1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,12 +129,19 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/17 | 2-18 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
+| ❌ | 2025/02/17 | 3-4 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2025/02/12 | 2-15 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/02/12 | 3-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2025/01/30 | 7-0 | [StarFun](https://ws.tsl.rocks/corp/641dbdde520393710db56ceb7acd0035160eb5cba4e3cc41a956b7c147600d5c/) |
