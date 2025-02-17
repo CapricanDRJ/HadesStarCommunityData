@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:2 L:38 D:1 Bonus ✅ 42%
+description: W:2 L:39 D:1 Bonus ✅ 42%
 image: ./favicon.png
-date: 1739362550
+date: 1739801887
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739362550
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 953 🔺  (1413)|
-| ELO Competitive | 1026 🔺  (1418)|
-| Total Matches | 41 |
+| ELO Regular | 949 🔻  (1415)|
+| ELO Competitive | 1022 🔻  (1419)|
+| Total Matches | 42 |
 | Wins | 2 |
-| Losses | 38 |
+| Losses | 39 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/17 | 0-26 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ✅ | 2025/02/12 | 37-16 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) |
 | ❌ | 2025/02/07 | 16-25 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/02/02 | 0-43 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |

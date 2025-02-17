@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legion
-description: W:43 L:39 D:0 Bonus ✅ 52%
+description: W:43 L:39 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1739639024
 ---
@@ -18,7 +18,7 @@ nd surrender all relics<br>Resistance is futile<br><br><b>Corps</b><b
 r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 ```
 ### [Discord](https://discord.gg/mA6tbqzS55)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

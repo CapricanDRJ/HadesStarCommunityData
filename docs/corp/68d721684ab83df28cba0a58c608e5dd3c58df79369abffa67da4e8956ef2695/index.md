@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​koalition
-description: W:11 L:8 D:1 Bonus ❌ 6%
+description: W:11 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735617570
+date: 1739805193
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ we are looking for new recruitements!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (339)|
-| ELO Competitive | 1246 🔻  (432)|
-| Total Matches | 20 |
+| ELO Regular | 1216 🔻  (397)|
+| ELO Competitive | 1233 🔻  (474)|
+| Total Matches | 21 |
 | Wins | 11 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 8 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735185570,1727474205,1725483411,1724675332,1724112269,1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
+        let timestamps = [1739373193,1735185570,1727474205,1725483411,1724675332,1724112269,1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/17 | 0-5 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2024/12/31 | 0-7 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ✅ | 2024/10/02 | 10-0 | [Betelgeuse](https://ws.tsl.rocks/corp/fdd9da8c45ea525e6dd825eede02253ebe322523e06a0e1c30ccb0401c60e081/) |
 | ❌ | 2024/09/09 | 0-13 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
