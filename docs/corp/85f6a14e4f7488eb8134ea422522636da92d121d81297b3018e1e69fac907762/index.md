@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:45 L:46 D:6 Bonus ✅ 38%
+description: W:45 L:46 D:6 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739624898
 ---
@@ -16,7 +16,7 @@ date: 1739624898
 Looking for active player to do Casual whitestar every week. No disco
 rd.
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

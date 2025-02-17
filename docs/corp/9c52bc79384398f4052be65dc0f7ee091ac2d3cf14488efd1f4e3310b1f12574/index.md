@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​FURIA 2.0
-description: W:14 L:24 D:0 Bonus ✅ 36%
+description: W:15 L:24 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1739307865
+date: 1739766914
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (1142)|
-| ELO Competitive | 1258 🔺  (398)|
-| Total Matches | 38 |
-| Wins | 14 |
+| ELO Regular | 1156 🔺  (1103)|
+| ELO Competitive | 1269 🔺  (367)|
+| Total Matches | 39 |
+| Wins | 15 |
 | Losses | 24 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 6 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738875865,1738350251,1737209861,1736686638,1735477934,1735475229,1734358396,1734336159,1733877639,1733858410,1733403467,1733400161,1732932875,1732920902,1732486372,1732050656,1731618238,1731185216,1730721236,1730280478,1729834160,1729381019,1728937148,1728501627,1727986231,1727464547,1727011406,1726421931,1725738886,1720634643,1719588828,1717133014,1716446679,1715715397,1714870526,1714070887,1699847539,1698835855];
+        let timestamps = [1739334914,1738875865,1738350251,1737209861,1736686638,1735477934,1735475229,1734358396,1734336159,1733877639,1733858410,1733403467,1733400161,1732932875,1732920902,1732486372,1732050656,1731618238,1731185216,1730721236,1730280478,1729834160,1729381019,1728937148,1728501627,1727986231,1727464547,1727011406,1726421931,1725738886,1720634643,1719588828,1717133014,1716446679,1715715397,1714870526,1714070887,1699847539,1698835855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/17 | 31-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2025/02/11 | 28-2 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2025/02/05 | 17-12 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2025/01/23 | 5-13 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

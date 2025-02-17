@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:8 L:11 D:1 Bonus ✅ 32%
+description: W:9 L:11 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739181348
+date: 1739772139
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ date: 1739181348
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (382)|
-| ELO Competitive | 1256 🔺  (403)|
-| Total Matches | 20 |
-| Wins | 8 |
+| ELO Regular | 1220 🔺  (372)|
+| ELO Competitive | 1262 🔺  (390)|
+| Total Matches | 21 |
+| Wins | 9 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/17 | 4-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2025/02/10 | 4-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2025/02/10 | 18-4 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2025/02/03 | 15-3 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
