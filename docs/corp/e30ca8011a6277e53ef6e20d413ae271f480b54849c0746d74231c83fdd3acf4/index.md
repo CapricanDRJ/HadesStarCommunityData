@@ -21,7 +21,7 @@ Crecer principal objetivo        Leko:Join us we need active member
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1412 🔺  (49)|
-| ELO Competitive | 1455 🔺  (101)|
+| ELO Competitive | 1455 🔺  (102)|
 | Total Matches | 38 |
 | Wins | 30 |
 | Losses | 8 |
