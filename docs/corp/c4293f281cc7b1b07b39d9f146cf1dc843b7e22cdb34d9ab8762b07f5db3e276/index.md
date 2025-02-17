@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​united unicorn
-description: W:1 L:2 D:0 Bonus ❌ 4%
+description: W:2 L:2 D:0 Bonus ✅ 28%
 image: ./favicon.png
-date: 1739391406
+date: 1739824129
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1739391406
 ws focused on learning, still a lot to learn so we don't worry Farm o
 ur opponent we just want to play a little
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (646)|
-| ELO Competitive | 1198 🔻  (693)|
-| Total Matches | 3 |
-| Wins | 1 |
+| ELO Regular | 1199 🔺  (534)|
+| ELO Competitive | 1214 🔺  (587)|
+| Total Matches | 4 |
+| Wins | 2 |
 | Losses | 2 |
 | Draws | 0 |
 | Flagship | 1 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738959406,1738496313,1719740881];
+        let timestamps = [1739392129,1738959406,1738496313,1719740881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/17 | 9-4 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2025/02/12 | 5-13 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/02/07 | 0-15 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/07/05 | 8-7 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |

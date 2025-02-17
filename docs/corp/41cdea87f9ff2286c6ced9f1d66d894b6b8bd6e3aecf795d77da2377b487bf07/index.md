@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:2 L:1 D:0 Bonus ✅ 28%
+description: W:2 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1739217112
 ---
@@ -18,7 +18,7 @@ o connect with our community and get gameplay support. We're excited
 to have you on board!
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

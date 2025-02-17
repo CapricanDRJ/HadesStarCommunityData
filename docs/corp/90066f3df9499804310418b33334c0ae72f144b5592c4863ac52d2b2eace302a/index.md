@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DarkMoon
-description: W:22 L:11 D:0 Bonus ✅ 40%
+description: W:22 L:11 D:0 Bonus ❌ 40%
 image: ./favicon.png
 date: 1739224025
 ---
@@ -17,7 +17,7 @@ date: 1739224025
 ужеством", ссылка на дискорд ведет к ним.
 ```
 ### [Discord](https://discord.gg/Vaf5WV2QQs)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |
