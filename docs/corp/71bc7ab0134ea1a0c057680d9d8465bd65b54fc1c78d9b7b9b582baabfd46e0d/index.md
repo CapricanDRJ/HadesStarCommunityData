@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ender
-description: W:77 L:33 D:0 Bonus ✅ 52%
+description: W:77 L:33 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1739669074
 ---
@@ -28,7 +28,7 @@ Win,lose,fight.
 Discord mandatory. <b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
