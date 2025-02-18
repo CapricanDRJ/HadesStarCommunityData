@@ -21,8 +21,8 @@ nt font les autres 😅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (1224)|
-| ELO Competitive | 1150 🔺  (1274)|
+| ELO Regular | 1134 🔻  (1226)|
+| ELO Competitive | 1150 🔺  (1278)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 6 |

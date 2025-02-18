@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:3 L:12 D:0 Bonus ❌ 12%
+description: W:3 L:13 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1739121550
+date: 1739850268
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Winter Comes to Hades</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1233)|
-| ELO Competitive | 1169 🔻  (1154)|
-| Total Matches | 15 |
+| ELO Regular | 1114 🔻  (1289)|
+| ELO Competitive | 1164 🔻  (1196)|
+| Total Matches | 16 |
 | Wins | 3 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/18 | 10-14 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/02/09 | 3-39 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
 | ❌ | 2025/02/01 | 10-43 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2025/01/18 | 7-40 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |

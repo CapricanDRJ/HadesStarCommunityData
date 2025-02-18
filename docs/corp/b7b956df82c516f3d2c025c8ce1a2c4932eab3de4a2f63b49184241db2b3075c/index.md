@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Witness
-description: W:16 L:30 D:2 Bonus ❌ 7%
+description: W:17 L:30 D:3 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739121550
+date: 1739910861
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,16 @@ Friendly and helpful. Open to all. Discord is required.
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
 ### [Discord](https://discord.gg/CzUVew5w)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1008 🔻  (1402)|
-| ELO Competitive | 1149 🔻  (1278)|
-| Total Matches | 48 |
-| Wins | 16 |
+| ELO Regular | 1032 🔺  (1390)|
+| ELO Competitive | 1159 🔺  (1226)|
+| Total Matches | 50 |
+| Wins | 17 |
 | Losses | 30 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 12 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738689550,1738684741,1738013101,1738010697,1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1739478861,1739476864,1738689550,1738684741,1738013101,1738010697,1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 1 | 0 | 1 | 2 |
 | [RED STAR CORP](https://ws.tsl.rocks/corp/cac02bd33337307b124bc868304cfc75cf4f0148d825518b2f24f1236431cf75/) | 0 | 2 | 0 | 2 |
 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 0 | 2 | 0 | 2 |
 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/18 | 3-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
+| ↔️ | 2025/02/18 | 3-3 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/02/09 | 1-13 | [RED STAR CORP](https://ws.tsl.rocks/corp/cac02bd33337307b124bc868304cfc75cf4f0148d825518b2f24f1236431cf75/) |
 | ❌ | 2025/02/09 | 0-10 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/02/01 | 0-6 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |

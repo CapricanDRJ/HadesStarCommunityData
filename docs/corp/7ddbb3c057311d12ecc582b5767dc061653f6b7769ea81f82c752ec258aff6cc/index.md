@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Internationals
-description: W:43 L:14 D:0 Bonus ✅ 54%
+description: W:43 L:14 D:0 Bonus ❌ 17%
 image: ./favicon.png
 date: 1739239648
 ---
@@ -18,7 +18,7 @@ ies and compete in weekly White Stars. Stay active. Discord for WS. F
 S2 donations welcome.
 ```
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

@@ -22,8 +22,8 @@ ra as forças <color=red>Cerberus</color>. Aceitamos todos.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1114)|
-| ELO Competitive | 1155 🔻  (1252)|
+| ELO Regular | 1155 🔻  (1118)|
+| ELO Competitive | 1155 🔻  (1256)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

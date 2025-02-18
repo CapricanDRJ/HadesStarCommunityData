@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Foundation
-description: W:12 L:2 D:1 Bonus ❌ 7%
+description: W:13 L:2 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739206893
+date: 1739865290
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ ated to helping new players grow. Discord recommended for White Stars
 .
 ```
 ### [Discord](https://discord.gg/Y5SBYmr)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔺  (117)|
-| ELO Competitive | 1344 🔺  (207)|
-| Total Matches | 15 |
-| Wins | 12 |
+| ELO Regular | 1354 🔺  (97)|
+| ELO Competitive | 1365 🔺  (189)|
+| Total Matches | 16 |
+| Wins | 13 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738774893,1738207514,1738201205,1737596308,1736994086,1735868253,1734569928,1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
+        let timestamps = [1739433290,1738774893,1738207514,1738201205,1737596308,1736994086,1735868253,1734569928,1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/18 | 18-1 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/02/10 | 18-17 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2025/02/04 | 33-0 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
 | ✅ | 2025/02/04 | 6-3 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |

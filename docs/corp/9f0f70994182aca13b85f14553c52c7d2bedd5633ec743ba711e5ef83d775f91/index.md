@@ -21,8 +21,8 @@ as, Victorias Brillantes." (Grupo de WhatsApp.)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (416)|
-| ELO Competitive | 1216 🔺  (556)|
+| ELO Regular | 1214 🔺  (419)|
+| ELO Competitive | 1216 🔺  (560)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

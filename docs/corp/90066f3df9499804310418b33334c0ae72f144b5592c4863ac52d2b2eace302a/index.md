@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​DarkMoon
-description: W:22 L:11 D:0 Bonus ❌ 10%
+description: W:23 L:11 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1739224025
+date: 1739908864
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,16 @@ date: 1739224025
 ужеством", ссылка на дискорд ведет к ним.
 ```
 ### [Discord](https://discord.gg/Vaf5WV2QQs)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1346 🔺  (109)|
-| ELO Competitive | 1419 🔺  (132)|
-| Total Matches | 33 |
-| Wins | 22 |
+| ELO Regular | 1343 🔻  (114)|
+| ELO Competitive | 1427 🔺  (126)|
+| Total Matches | 35 |
+| Wins | 23 |
 | Losses | 11 |
-| Draws | 0 |
-| Streak | 3 |
+| Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
+        let timestamps = [1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/18 | 3-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
+| ✅ | 2025/02/18 | 33-3 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2025/02/10 | 11-3 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2025/01/31 | 20-10 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2025/01/24 | 16-5 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |

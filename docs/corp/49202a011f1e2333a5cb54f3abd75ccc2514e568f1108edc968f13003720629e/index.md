@@ -22,8 +22,8 @@ d weekly White Stars hosted in White Dwarf! Discord advised.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (676)|
-| ELO Competitive | 1187 🔻  (845)|
+| ELO Regular | 1187 🔻  (679)|
+| ELO Competitive | 1187 🔻  (847)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

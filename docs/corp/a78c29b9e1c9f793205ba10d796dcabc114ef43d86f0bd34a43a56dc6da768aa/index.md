@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:38 L:17 D:0 Bonus ❌ 8%
+description: W:39 L:18 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738879030
+date: 1739910668
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,16 @@ A place for people to enjoy the game, to just play. Live to fight for
 ith the Titans of Terror. 
 ```
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1402 🔺  (58)|
-| ELO Competitive | 1514 🔺  (62)|
-| Total Matches | 55 |
-| Wins | 38 |
-| Losses | 17 |
+| ELO Regular | 1400 🔻  (58)|
+| ELO Competitive | 1525 🔺  (52)|
+| Total Matches | 57 |
+| Wins | 39 |
+| Losses | 18 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738447030,1738245673,1737047582,1737039765,1736044989,1735862845,1734129434,1733949449,1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
+        let timestamps = [1739478668,1739469351,1738447030,1738245673,1737047582,1737039765,1736044989,1735862845,1734129434,1733949449,1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 0 | 2 | 0 | 2 |
+| [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) | 2 | 0 | 0 | 2 |
 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 2 | 0 | 0 | 2 |
 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) | 2 | 0 | 0 | 2 |
 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 0 | 3 | 0 | 3 |
@@ -146,6 +147,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/18 | 11-29 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
+| ✅ | 2025/02/18 | 28-0 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2025/02/06 | 28-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/02/04 | 35-0 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ✅ | 2025/01/21 | 23-6 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

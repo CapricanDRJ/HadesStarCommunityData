@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:12 L:5 D:1 Bonus ✅ 32%
+description: W:12 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739303056
 ---
@@ -17,12 +17,12 @@ Winter Star llc, a Beginner Corporation to help you out on your missi
 ons! //You must Join our Discord within 7 days 
 ```
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1280 🔺  (206)|
-| ELO Competitive | 1317 🔺  (253)|
+| ELO Competitive | 1317 🔺  (252)|
 | Total Matches | 18 |
 | Wins | 12 |
 | Losses | 5 |

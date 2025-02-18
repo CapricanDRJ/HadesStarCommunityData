@@ -21,8 +21,8 @@ Discord.gg/<b>WAXSmUb</b></color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1060)|
-| ELO Competitive | 1166 🔻  (1177)|
+| ELO Regular | 1162 🔻  (1064)|
+| ELO Competitive | 1166 🔻  (1179)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Legion Prime
-description: W:12 L:16 D:0 Bonus ❌ 9%
+description: W:13 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1735117600
+date: 1739896542
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1735117600
 p of players that play hard and enjoy the game!  Join us for RS and W
 S!                         
 ```
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (963)|
-| ELO Competitive | 1208 🔻  (627)|
-| Total Matches | 28 |
-| Wins | 12 |
+| ELO Regular | 1182 🔺  (877)|
+| ELO Competitive | 1227 🔺  (497)|
+| Total Matches | 29 |
+| Wins | 13 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734685600,1732398320,1731154325,1729856394,1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
+        let timestamps = [1739464542,1734685600,1732398320,1731154325,1729856394,1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,12 +129,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/18 | 22-4 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/12/25 | 11-38 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/11/28 | 7-45 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ❌ | 2024/11/14 | 4-38 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |

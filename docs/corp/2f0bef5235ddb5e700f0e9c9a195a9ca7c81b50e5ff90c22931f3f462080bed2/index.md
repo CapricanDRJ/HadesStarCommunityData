@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​💮問鼎無垠💮
-description: W:3 L:3 D:0 Bonus ✅ 
+description: W:4 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739418449
+date: 1739850869
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1739418449
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔺  (481)|
-| ELO Competitive | 1210 🔺  (614)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1224 🔺  (363)|
+| ELO Competitive | 1233 🔺  (474)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
+        let timestamps = [1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/18 | 9-2 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2025/02/13 | 8-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2025/02/12 | 15-2 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2025/02/07 | 3-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​REY DE REYES
-description: W:1 L:12 D:0 Bonus ❌ 3%
+description: W:1 L:13 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1728409213
+date: 1739888728
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ CORPORACION HISPANA NIVEL 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (1355)|
-| ELO Competitive | 1090 🔻  (1391)|
-| Total Matches | 13 |
+| ELO Regular | 1067 🔻  (1364)|
+| ELO Competitive | 1083 🔻  (1397)|
+| Total Matches | 14 |
 | Wins | 1 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727977213,1725626489,1722406852,1719677178,1719221310,1717004433,1716524593,1710142836,1709611546,1709136844,1708700811,1708235187,1700218681];
+        let timestamps = [1739456728,1727977213,1725626489,1722406852,1719677178,1719221310,1717004433,1716524593,1710142836,1709611546,1709136844,1708700811,1708235187,1700218681];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/18 | 0-10 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/10/08 | 0-9 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2024/09/11 | 0-12 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2024/08/05 | 0-14 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |

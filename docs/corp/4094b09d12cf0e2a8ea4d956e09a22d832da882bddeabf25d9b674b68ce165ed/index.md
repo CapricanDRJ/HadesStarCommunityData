@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ALPHA SQUADRON
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739280814
 ---
@@ -15,12 +15,12 @@ date: 1739280814
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (427)|
-| ELO Competitive | 1220 🔺  (522)|
+| ELO Regular | 1213 🔺  (430)|
+| ELO Competitive | 1220 🔺  (525)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

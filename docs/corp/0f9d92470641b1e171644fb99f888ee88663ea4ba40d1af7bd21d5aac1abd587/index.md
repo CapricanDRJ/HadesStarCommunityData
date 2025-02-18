@@ -20,8 +20,8 @@ Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1278)|
-| ELO Competitive | 1118 🔻  (1362)|
+| ELO Regular | 1116 🔻  (1280)|
+| ELO Competitive | 1118 🔻  (1366)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

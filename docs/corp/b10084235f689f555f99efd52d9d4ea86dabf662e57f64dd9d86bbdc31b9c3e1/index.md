@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hexwood
-description: W:10 L:8 D:0 Bonus ❌ 8%
+description: W:11 L:8 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1738610971
+date: 1739895040
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,16 +20,17 @@ A social, easygoing Corp with allies to join together with for Red or
  White Stars. No pressure, play at your own pace.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (279)|
-| ELO Competitive | 1290 🔺  (326)|
-| Total Matches | 18 |
-| Wins | 10 |
+| ELO Regular | 1260 🔺  (250)|
+| ELO Competitive | 1303 🔺  (288)|
+| Total Matches | 19 |
+| Wins | 11 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 5 |
 
@@ -49,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738178971,1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
+        let timestamps = [1739463040,1738178971,1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/18 | 41-2 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2025/02/03 | 27-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2025/01/07 | 18-41 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/12/17 | 7-19 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

@@ -22,8 +22,8 @@ ept our rules to get your member role!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (404)|
-| ELO Competitive | 1218 🔺  (538)|
+| ELO Regular | 1215 🔺  (407)|
+| ELO Competitive | 1218 🔺  (542)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

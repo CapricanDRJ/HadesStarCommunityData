@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:19 L:12 D:1 Bonus ✅ 34%
+description: W:20 L:12 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739593649
+date: 1739849066
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,10 +28,10 @@ Q群：993612413
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (191)|
-| ELO Competitive | 1341 🔺  (210)|
-| Total Matches | 32 |
-| Wins | 19 |
+| ELO Regular | 1300 🔺  (173)|
+| ELO Competitive | 1353 🔺  (197)|
+| Total Matches | 33 |
+| Wins | 20 |
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) | 2 | 0 | 0 | 2 |
 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) | 2 | 1 | 0 | 3 |
 
 ---
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/18 | 26-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2025/02/15 | 7-10 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2025/02/12 | 26-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2025/02/09 | 9-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |

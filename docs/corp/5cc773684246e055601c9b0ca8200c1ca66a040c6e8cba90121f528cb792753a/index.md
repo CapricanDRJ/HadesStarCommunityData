@@ -19,8 +19,8 @@ CORP COLONIZADA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (928)|
-| ELO Competitive | 1201 🔻  (659)|
+| ELO Regular | 1174 🔻  (931)|
+| ELO Competitive | 1201 🔻  (661)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 4 |
