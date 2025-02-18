@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:9 L:15 D:0 Bonus ❌ 42%
+description: W:9 L:15 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739224025
 ---
@@ -24,11 +24,11 @@ MarceloPC#2109
 JUNTOS SOMOS MAIS FORTES
 ```
 ### [Discord](https://discord.gg/fmyTs3k)
-### Whitestar Bonus ❌ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (859)|
+| ELO Regular | 1183 🔺  (860)|
 | ELO Competitive | 1227 🔺  (495)|
 | Total Matches | 24 |
 | Wins | 9 |

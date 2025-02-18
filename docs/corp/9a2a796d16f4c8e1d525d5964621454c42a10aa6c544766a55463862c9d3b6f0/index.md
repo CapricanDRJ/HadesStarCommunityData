@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cool Casual
-description: W:7 L:3 D:0 Bonus ❌ 
+description: W:8 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739377880
+date: 1739831190
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1739377880
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (360)|
-| ELO Competitive | 1238 🔻  (460)|
-| Total Matches | 10 |
-| Wins | 7 |
+| ELO Regular | 1240 🔺  (303)|
+| ELO Competitive | 1256 🔺  (404)|
+| Total Matches | 11 |
+| Wins | 8 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) | 2 | 0 | 0 | 2 |
 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/17 | 3-1 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/02/12 | 0-2 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ✅ | 2025/02/07 | 4-0 | [Aquiles ](https://ws.tsl.rocks/corp/303ab147f2fce882b5cb391c0b3006c76bc2222ee409fc17b157cb149bda3c9f/) |
 | ✅ | 2025/02/01 | 6-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |

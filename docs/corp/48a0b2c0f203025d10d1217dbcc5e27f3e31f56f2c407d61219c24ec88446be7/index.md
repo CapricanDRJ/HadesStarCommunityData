@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RGW
-description: W:31 L:9 D:0 Bonus ❌ 8%
+description: W:31 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739277808
+date: 1739832844
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1403 🔻  (58)|
-| ELO Competitive | 1466 🔻  (91)|
-| Total Matches | 40 |
+| ELO Regular | 1385 🔻  (70)|
+| ELO Competitive | 1449 🔻  (106)|
+| Total Matches | 41 |
 | Wins | 31 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 19 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738845808,1738252245,1737634765,1737038758,1736463639,1734569928,1734083750,1733475278,1732810005,1732208405,1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
+        let timestamps = [1739400844,1738845808,1738252245,1737634765,1737038758,1736463639,1734569928,1734083750,1733475278,1732810005,1732208405,1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/17 | 1-15 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2025/02/11 | 0-8 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2025/02/04 | 7-5 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2025/01/28 | 21-3 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |

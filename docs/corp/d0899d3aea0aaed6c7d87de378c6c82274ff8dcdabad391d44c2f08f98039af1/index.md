@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:16 L:11 D:0 Bonus ✅ 36%
+description: W:16 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739230335
 ---
@@ -18,7 +18,7 @@ date: 1739230335
 く！アクティブな新人さんのご参加お待ちしています<br>Family: 蝸牛の集い<br>nata il19/09/2022
 ```
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

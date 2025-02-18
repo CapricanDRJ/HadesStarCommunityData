@@ -22,7 +22,7 @@ enas", nuestra corporación principal
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1410 🔺  (53)|
-| ELO Competitive | 1442 🔺  (114)|
+| ELO Competitive | 1442 🔺  (115)|
 | Total Matches | 20 |
 | Wins | 18 |
 | Losses | 2 |

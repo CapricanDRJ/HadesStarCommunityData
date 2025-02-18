@@ -20,8 +20,8 @@ e/38UnuWwp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔻  (1311)|
-| ELO Competitive | 1181 🔻  (1031)|
+| ELO Regular | 1103 🔻  (1312)|
+| ELO Competitive | 1181 🔻  (1032)|
 | Total Matches | 16 |
 | Wins | 3 |
 | Losses | 12 |

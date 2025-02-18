@@ -20,8 +20,8 @@ A conclusion is simply where you stopped thinking.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (861)|
-| ELO Competitive | 1184 🔻  (1002)|
+| ELO Regular | 1183 🔻  (862)|
+| ELO Competitive | 1184 🔻  (1003)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

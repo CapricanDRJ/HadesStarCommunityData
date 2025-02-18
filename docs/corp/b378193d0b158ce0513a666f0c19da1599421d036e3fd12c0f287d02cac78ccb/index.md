@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​StargateCommand
-description: W:0 L:16 D:2 Bonus ❌ 4%
+description: W:0 L:17 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1739235715
+date: 1739837405
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ FF WS scanner if unable to participate.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1028 🔻  (1390)|
-| ELO Competitive | 1051 🔻  (1409)|
-| Total Matches | 18 |
+| ELO Regular | 1020 🔻  (1396)|
+| ELO Competitive | 1042 🔻  (1414)|
+| Total Matches | 19 |
 | Wins | 0 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738803715,1738284141,1737774796,1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
+        let timestamps = [1739405405,1738803715,1738284141,1737774796,1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/18 | 0-11 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ❌ | 2025/02/11 | 0-18 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/02/05 | 2-10 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ↔️ | 2025/01/30 | 0-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |

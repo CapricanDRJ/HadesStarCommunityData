@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: W:62 L:16 D:1 Bonus ✅ 40%
+description: W:62 L:16 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739233640
 ---
@@ -19,7 +19,7 @@ ke friends, have fun, and enjoy the game!
 Discord required | Part of Astral Alliance
 ```
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

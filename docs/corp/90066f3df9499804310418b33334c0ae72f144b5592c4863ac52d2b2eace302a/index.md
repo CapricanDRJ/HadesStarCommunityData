@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DarkMoon
-description: W:22 L:11 D:0 Bonus ❌ 40%
+description: W:22 L:11 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739224025
 ---
@@ -17,11 +17,11 @@ date: 1739224025
 ужеством", ссылка на дискорд ведет к ним.
 ```
 ### [Discord](https://discord.gg/Vaf5WV2QQs)
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1346 🔺  (108)|
+| ELO Regular | 1346 🔺  (109)|
 | ELO Competitive | 1419 🔺  (132)|
 | Total Matches | 33 |
 | Wins | 22 |
