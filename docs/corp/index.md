@@ -6,7 +6,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 
 | Corporation Name | ELO Regular | ELO Competitive | Total Matches |
 | --- | --- | --- | --- |
-| [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 1235 | 1303 | 43 |
+| [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 1222 | 1289 | 44 |
 | [Abh](https://ws.tsl.rocks/corp/711688e57e8e2c444cc3cb086747c79ec270338b868492b9f0601c5441115cec/) | 1187 | 1191 | 1 |
 | [Aconitum](https://ws.tsl.rocks/corp/a78154f5b970193636f3d13d3f6d3dd98e975ba876810f1bfb84c90e778986db/) | 1213 | 1214 | 1 |
 | [Aegis Shield](https://ws.tsl.rocks/corp/0c9788075ccdc94322bb96f7d98b4a8df010615893980ab0b4e5b7a987b13732/) | 1126 | 1138 | 9 |
@@ -689,7 +689,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Round Table ](https://ws.tsl.rocks/corp/13ad99eca42a3c4fef2090e611b9e4ab6e4bd3b1b94375e264e2d060447a8c21/) | 1184 | 1184 | 1 |
 | [Rozen Family](https://ws.tsl.rocks/corp/e545e269a3fe6ff2dd7d4f794a7e13eb190bf12c3b62e0284d34b185cbcb40a2/) | 1170 | 1171 | 4 |
 | [RPFD\-DNR\-RWPB](https://ws.tsl.rocks/corp/0b44b93ba4150cc49e8bc5e489bd0f381cac46064d18e6929011011e0aaaf48c/) | 1184 | 1190 | 5 |
-| [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) | 1276 | 1319 | 26 |
+| [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) | 1290 | 1333 | 27 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 1240 | 1343 | 44 |
 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) | 1138 | 1154 | 6 |
 | [Russia](https://ws.tsl.rocks/corp/8a6254c757d7124a5a23df1b60ae058486cc79ca0c2c006241d319b8d5d815db/) | 1113 | 1116 | 9 |

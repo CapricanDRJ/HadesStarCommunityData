@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AAAA
-description: W:21 L:19 D:3 Bonus ❌ 7%
+description: W:21 L:20 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739513705
+date: 1739978871
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739513705
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (323)|
-| ELO Competitive | 1303 🔻  (288)|
-| Total Matches | 43 |
+| ELO Regular | 1222 🔻  (364)|
+| ELO Competitive | 1289 🔻  (328)|
+| Total Matches | 44 |
 | Wins | 21 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 3 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739081705,1738616531,1738173152,1737726681,1736944796,1736472051,1736035051,1735593024,1735158233,1734662769,1734214470,1733752341,1733293197,1732843377,1732392010,1731947588,1731489923,1731057485,1730589926,1730062558,1729612335,1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
+        let timestamps = [1739546871,1739081705,1738616531,1738173152,1737726681,1736944796,1736472051,1736035051,1735593024,1735158233,1734662769,1734214470,1733752341,1733293197,1732843377,1732392010,1731947588,1731489923,1731057485,1730589926,1730062558,1729612335,1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/19 | 0-30 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2025/02/14 | 1-9 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2025/02/08 | 3-6 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2025/02/03 | 14-2 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |

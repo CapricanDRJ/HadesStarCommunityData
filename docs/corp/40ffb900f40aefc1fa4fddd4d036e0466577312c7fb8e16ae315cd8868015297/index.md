@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:17 L:3 D:0 Bonus ✅ 32%
+description: W:17 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739365255
 ---
@@ -16,7 +16,7 @@ date: 1739365255
 隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席
 莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
