@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:30 L:14 D:0 Bonus ✅ 36%
+description: W:30 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739330098
 ---
@@ -17,7 +17,7 @@ date: 1739330098
 投喂旗舰1        白星Q群：<u>250502867                微信群加yusanban好友
 ```
 ### [Discord](https://discord.gg/Q群250502867)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

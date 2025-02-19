@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:34 L:18 D:1 Bonus ✅ 42%
+description: W:34 L:18 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739329196
 ---
@@ -17,12 +17,12 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
  8-11
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/JapURyAWBw)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1369 🔺  (80)|
-| ELO Competitive | 1448 🔺  (108)|
+| ELO Competitive | 1448 🔺  (109)|
 | Total Matches | 53 |
 | Wins | 34 |
 | Losses | 18 |
