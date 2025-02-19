@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​V0RTEX
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:1 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739483061
+date: 1739989692
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1739483061
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (992)|
-| ELO Competitive | 1171 🔻  (1130)|
-| Total Matches | 2 |
-| Wins | 0 |
+| ELO Regular | 1189 🔺  (648)|
+| ELO Competitive | 1193 🔺  (753)|
+| Total Matches | 3 |
+| Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739051061,1738525777];
+        let timestamps = [1739557692,1739051061,1738525777];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/19 | 4-1 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2025/02/13 | 0-1 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ❌ | 2025/02/07 | 3-4 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 

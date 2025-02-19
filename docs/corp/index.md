@@ -945,7 +945,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) | 1287 | 1414 | 72 |
 | [uzumaki](https://ws.tsl.rocks/corp/9d66f913d35d1e894b812e575d3b1157198eb79d55ed3cbc9ab107dae072b60e/) | 1216 | 1216 | 1 |
 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) | 1220 | 1250 | 20 |
-| [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 1171 | 1171 | 2 |
+| [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 1189 | 1193 | 3 |
 | [VAJRA ](https://ws.tsl.rocks/corp/6e3234d98972b6bac20bbd442b78d6fcfee1fca6ecc187504af518a86e9f9630/) | 1189 | 1189 | 3 |
 | [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) | 1185 | 1185 | 1 |
 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) | 1388 | 1415 | 25 |
@@ -1019,7 +1019,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [27rus](https://ws.tsl.rocks/corp/923fd2244430f309d52a73ea98d10efde744e908940809f2b3c2b7b456e7082a/) | 1185 | 1185 | 1 |
 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 1385 | 1489 | 64 |
 | [42 Nova Corps\.](https://ws.tsl.rocks/corp/f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e/) | 1210 | 1211 | 3 |
-| [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 1260 | 1298 | 11 |
+| [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 1275 | 1313 | 12 |
 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 1158 | 1321 | 42 |
 | [666](https://ws.tsl.rocks/corp/73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/) | 1165 | 1166 | 3 |
 | [8 русский рейх](https://ws.tsl.rocks/corp/8e7c8e4fc8fc755c723fafd3a9584dacda0f5a2eb4b800d5e8d379d664da2a44/) | 1222 | 1222 | 1 |
@@ -1236,7 +1236,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6b0f781319f88b96c64aa4c425eb3f834d80a1f0c3ee00918430fd71b2e5b913/) | 1147 | 1164 | 4 |
 | [嘤嘤嘤嘤嘤嘤嘤嘤](https://ws.tsl.rocks/corp/ad65ab5ca4b50864e2b171fc9018045cba5ae1bad1712a63a110a2c55c33f41b/) | 1119 | 1136 | 6 |
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1156 | 1309 | 52 |
-| [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1246 | 1329 | 25 |
+| [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1228 | 1329 | 26 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 966 | 1080 | 45 |
 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1303 | 1324 | 16 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |
@@ -1416,7 +1416,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 1255 | 1439 | 77 |
 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) | 1203 | 1219 | 12 |
 | [零号帝国](https://ws.tsl.rocks/corp/972b9a4a3b2871e8708ed94f690dec82625905681c3c77a5688cea7b69d77ee0/) | 1243 | 1244 | 3 |
-| [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) | 1274 | 1296 | 11 |
+| [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) | 1258 | 1281 | 12 |
 | [青鸾殿](https://ws.tsl.rocks/corp/d92c939be23b35542ca2d0ae7cdc4b1288d5d5e78be2dfb74cb0360f5524d01c/) | 1212 | 1227 | 7 |
 | [风云集团](https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/) | 1164 | 1163 | 5 |
 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) | 1152 | 1167 | 12 |

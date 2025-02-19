@@ -21,8 +21,8 @@ We are a paused corp, join or stay at your own risk, but check us out
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (343)|
-| ELO Competitive | 1286 🔻  (334)|
+| ELO Regular | 1229 🔻  (342)|
+| ELO Competitive | 1286 🔻  (333)|
 | Total Matches | 29 |
 | Wins | 18 |
 | Losses | 11 |

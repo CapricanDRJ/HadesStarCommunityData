@@ -21,7 +21,7 @@ nd do white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (289)|
+| ELO Regular | 1244 🔺  (288)|
 | ELO Competitive | 1245 🔺  (434)|
 | Total Matches | 3 |
 | Wins | 3 |

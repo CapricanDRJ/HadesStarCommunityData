@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:40 L:12 D:2 Bonus ✅ 36%
+description: W:40 L:12 D:2 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739383592
 ---
@@ -15,7 +15,7 @@ date: 1739383592
 ```
 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

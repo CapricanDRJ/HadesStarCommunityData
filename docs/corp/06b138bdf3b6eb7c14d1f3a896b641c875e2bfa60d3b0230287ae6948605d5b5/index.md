@@ -21,8 +21,8 @@ e merged with 2ND-R8.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (957)|
-| ELO Competitive | 1175 🔻  (1083)|
+| ELO Regular | 1172 🔻  (958)|
+| ELO Competitive | 1175 🔻  (1084)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

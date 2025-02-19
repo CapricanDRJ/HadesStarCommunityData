@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:16 L:9 D:0 Bonus ❌ 6%
+description: W:16 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739887526
+date: 1739989692
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1739887526
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (285)|
+| ELO Regular | 1228 🔻  (344)|
 | ELO Competitive | 1329 🔻  (229)|
-| Total Matches | 25 |
+| Total Matches | 26 |
 | Wins | 16 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739455526,1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1739557692,1739455526,1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/19 | 1-4 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/02/18 | 2-3 | [百万繁星](https://ws.tsl.rocks/corp/4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8/) |
 | ❌ | 2025/02/14 | 0-1 | [中国家民](https://ws.tsl.rocks/corp/af75be08923f73af2bd3821bcfbdef3e3abbcbc0b9aaeacfeae528cfbf972f5f/) |
 | ✅ | 2025/02/12 | 8-0 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
