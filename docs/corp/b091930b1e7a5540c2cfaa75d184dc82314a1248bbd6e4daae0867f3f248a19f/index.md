@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:11 L:16 D:0 Bonus ❌ 10%
+description: W:12 L:16 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1739524524
+date: 1739964746
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ date: 1739524524
 </i></color>
 ```
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔻  (455)|
-| ELO Competitive | 1262 🔻  (390)|
-| Total Matches | 27 |
-| Wins | 11 |
+| ELO Regular | 1217 🔺  (395)|
+| ELO Competitive | 1271 🔺  (363)|
+| Total Matches | 28 |
+| Wins | 12 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/19 | 24-0 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ❌ | 2025/02/14 | 6-34 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2025/02/01 | 0-49 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2025/01/27 | 35-0 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |

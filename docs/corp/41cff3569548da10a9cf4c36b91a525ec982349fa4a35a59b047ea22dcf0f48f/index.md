@@ -22,8 +22,8 @@ TRAPSTAR½
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1108)|
-| ELO Competitive | 1157 🔻  (1244)|
+| ELO Regular | 1157 🔻  (1107)|
+| ELO Competitive | 1157 🔻  (1245)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

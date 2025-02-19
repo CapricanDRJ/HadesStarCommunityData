@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:3 L:7 D:2 Bonus ❌ 5%
+description: W:4 L:7 D:2 Bonus ✅ 30%
 image: ./favicon.png
-date: 1738109139
+date: 1739961441
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1738109139
 Start here. Figure things out. Have fun.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1215)|
-| ELO Competitive | 1155 🔻  (1260)|
-| Total Matches | 12 |
-| Wins | 3 |
+| ELO Regular | 1154 🔺  (1131)|
+| ELO Competitive | 1171 🔺  (1135)|
+| Total Matches | 13 |
+| Wins | 4 |
 | Losses | 7 |
 | Draws | 2 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
+        let timestamps = [1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/19 | 7-0 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ❌ | 2025/01/29 | 0-4 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2025/01/15 | 3-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/12/26 | 3-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |

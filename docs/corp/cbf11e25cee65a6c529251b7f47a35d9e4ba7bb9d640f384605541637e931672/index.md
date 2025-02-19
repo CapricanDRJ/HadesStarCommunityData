@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:2 L:39 D:1 Bonus ✅ 42%
+description: W:2 L:39 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739801887
 ---
@@ -15,7 +15,7 @@ date: 1739801887
 ```
 ссылка  на группу  в телеграм :  https://t.me/+df2dk6xC7QM4ZWZi
 ```
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

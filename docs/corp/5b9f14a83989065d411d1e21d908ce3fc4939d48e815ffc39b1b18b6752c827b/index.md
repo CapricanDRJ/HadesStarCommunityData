@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​分子集团
-description: W:3 L:6 D:0 Bonus ✅ 30%
+description: W:3 L:7 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1739868894
+date: 1739961441
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1739868894
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (972)|
+| ELO Regular | 1155 🔻  (1123)|
 | ELO Competitive | 1190 🔺  (788)|
-| Total Matches | 9 |
+| Total Matches | 10 |
 | Wins | 3 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 2 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739436894,1738945880,1738919431,1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
+        let timestamps = [1739529441,1739436894,1738945880,1738919431,1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/19 | 0-7 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ✅ | 2025/02/18 | 6-4 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ✅ | 2025/02/12 | 2-0 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2025/02/12 | 0-8 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |

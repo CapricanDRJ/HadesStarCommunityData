@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​对，进就进人少的
-description: W:60 L:55 D:4 Bonus ✅ 40%
+description: W:60 L:55 D:4 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739865290
 ---
@@ -18,12 +18,12 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 只要常驻4三天上线           黑名单集团：云梦鱼，九州分团，逐光起航 q群：767311697
 ```
 ### [Discord](https://discord.gg/dqW4bytGPe)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1253 🔻  (271)|
-| ELO Competitive | 1482 🔻  (82)|
+| ELO Competitive | 1482 🔻  (83)|
 | Total Matches | 119 |
 | Wins | 60 |
 | Losses | 55 |

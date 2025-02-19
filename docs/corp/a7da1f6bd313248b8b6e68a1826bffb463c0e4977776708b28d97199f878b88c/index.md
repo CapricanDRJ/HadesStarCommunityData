@@ -25,7 +25,7 @@ ons.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1404 🔺  (55)|
-| ELO Competitive | 1445 🔺  (114)|
+| ELO Competitive | 1445 🔺  (113)|
 | Total Matches | 36 |
 | Wins | 30 |
 | Losses | 6 |
