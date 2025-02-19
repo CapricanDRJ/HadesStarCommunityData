@@ -21,7 +21,7 @@ e his prisoner, but share in suffering for the gospel by the power of
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1097)|
+| ELO Regular | 1158 🔻  (1098)|
 | ELO Competitive | 1167 🔻  (1172)|
 | Total Matches | 6 |
 | Wins | 1 |

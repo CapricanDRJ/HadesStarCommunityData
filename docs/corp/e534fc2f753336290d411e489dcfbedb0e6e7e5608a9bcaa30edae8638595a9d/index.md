@@ -26,7 +26,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (297)|
-| ELO Competitive | 1321 🔺  (242)|
+| ELO Competitive | 1321 🔺  (243)|
 | Total Matches | 41 |
 | Wins | 23 |
 | Losses | 17 |

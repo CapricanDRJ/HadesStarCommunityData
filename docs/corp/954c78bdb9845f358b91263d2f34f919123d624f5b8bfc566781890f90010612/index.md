@@ -20,7 +20,7 @@ en spiel und spass
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (389)|
+| ELO Regular | 1217 🔺  (390)|
 | ELO Competitive | 1222 🔺  (517)|
 | Total Matches | 3 |
 | Wins | 2 |

@@ -22,7 +22,7 @@ DISCORD PARA PARTICIPAR EN EB"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1238)|
+| ELO Regular | 1131 🔻  (1237)|
 | ELO Competitive | 1148 🔻  (1288)|
 | Total Matches | 11 |
 | Wins | 2 |
