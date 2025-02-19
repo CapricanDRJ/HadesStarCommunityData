@@ -21,8 +21,8 @@ rk Red Stars. (First Language: English)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1454 🔺  (29)|
-| ELO Competitive | 1551 🔺  (39)|
+| ELO Regular | 1454 🔺  (28)|
+| ELO Competitive | 1551 🔺  (38)|
 | Total Matches | 79 |
 | Wins | 62 |
 | Losses | 17 |

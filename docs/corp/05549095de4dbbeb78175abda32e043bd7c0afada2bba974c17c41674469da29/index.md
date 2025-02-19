@@ -22,8 +22,8 @@ F0000> we are in weak corporation and needs fixed
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔺  (480)|
-| ELO Competitive | 1208 🔺  (627)|
+| ELO Regular | 1205 🔺  (479)|
+| ELO Competitive | 1208 🔺  (628)|
 | Total Matches | 9 |
 | Wins | 4 |
 | Losses | 4 |

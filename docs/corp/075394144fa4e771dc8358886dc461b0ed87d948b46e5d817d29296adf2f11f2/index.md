@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СНГ — РОССИЯ
-description: W:5 L:9 D:3 Bonus ❌ 5%
+description: W:6 L:9 D:3 Bonus ✅ 30%
 image: ./favicon.png
-date: 1731316706
+date: 1739936805
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 1731316706
 ```
 БУДУ РАД ВСЕМ.
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔺  (1164)|
-| ELO Competitive | 1189 🔺  (822)|
-| Total Matches | 17 |
-| Wins | 5 |
+| ELO Regular | 1165 🔺  (1043)|
+| ELO Competitive | 1215 🔺  (579)|
+| Total Matches | 18 |
+| Wins | 6 |
 | Losses | 9 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730884706,1727071502,1720492493,1720192874,1719890534,1714279399,1712776499,1711325494,1711313476,1709156201,1707311731,1707311731,1706691317,1706662331,1706095816,1705588264,1704842321];
+        let timestamps = [1739504805,1730884706,1727071502,1720492493,1720192874,1719890534,1714279399,1712776499,1711325494,1711313476,1709156201,1707311731,1707311731,1706691317,1706662331,1706095816,1705588264,1704842321];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/19 | 3-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/11/11 | 3-1 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ❌ | 2024/09/28 | 1-19 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2024/07/14 | 2-9 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |

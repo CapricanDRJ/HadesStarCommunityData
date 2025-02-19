@@ -21,7 +21,7 @@ to rise and conquer!"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (373)|
+| ELO Regular | 1220 🔺  (372)|
 | ELO Competitive | 1223 🔺  (515)|
 | Total Matches | 2 |
 | Wins | 1 |
