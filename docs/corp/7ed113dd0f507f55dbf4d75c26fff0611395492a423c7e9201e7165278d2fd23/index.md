@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Panda clan 
-description: W:5 L:3 D:0 Bonus ✅ 34%
+description: W:5 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1739478553
 ---
@@ -19,7 +19,7 @@ date: 1739478553
 OA's Discord: https://discord.gg/2wyNuxb
 ```
 ### [Discord](https://discord.gg/ZhF2Npys6N)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

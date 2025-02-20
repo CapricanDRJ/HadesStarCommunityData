@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kobol
-description: W:2 L:6 D:1 Bonus ✅ 
+description: W:2 L:6 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1739473143
 ---
@@ -15,7 +15,7 @@ date: 1739473143
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
