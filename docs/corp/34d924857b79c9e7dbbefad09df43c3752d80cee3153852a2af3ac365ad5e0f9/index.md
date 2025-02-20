@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​复生会
-description: W:2 L:5 D:0 Bonus ✅ 
+description: W:2 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739463827
 ---
@@ -15,7 +15,7 @@ date: 1739463827
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

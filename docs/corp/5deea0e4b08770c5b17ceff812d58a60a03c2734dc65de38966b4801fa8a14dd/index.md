@@ -19,7 +19,7 @@ Have some God Damn Faith, we just need more MONEY! Active 12/31/23
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (514)|
+| ELO Regular | 1200 ▫️  (515)|
 | ELO Competitive | 1200 ▫️  (673)|
 | Total Matches | 1 |
 | Wins | 0 |
