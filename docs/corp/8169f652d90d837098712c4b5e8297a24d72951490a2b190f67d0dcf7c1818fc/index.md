@@ -26,8 +26,8 @@ Founded 29-11-2020
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1047)|
-| ELO Competitive | 1167 🔻  (1172)|
+| ELO Regular | 1165 🔻  (1048)|
+| ELO Competitive | 1167 🔻  (1173)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

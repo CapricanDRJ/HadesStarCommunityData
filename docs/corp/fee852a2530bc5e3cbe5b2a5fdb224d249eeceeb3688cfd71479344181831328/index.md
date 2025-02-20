@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:46 L:29 D:2 Bonus ✅ 42%
+description: W:46 L:29 D:2 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739966548
 ---
@@ -19,11 +19,11 @@ date: 1739966548
 <color=#fb3>Bring your crew and join us for 
 ```
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔻  (188)|
+| ELO Regular | 1290 🔻  (189)|
 | ELO Competitive | 1444 🔻  (114)|
 | Total Matches | 77 |
 | Wins | 46 |

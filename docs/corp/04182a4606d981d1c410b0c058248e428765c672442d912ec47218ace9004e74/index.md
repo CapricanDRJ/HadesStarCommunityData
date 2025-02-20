@@ -19,7 +19,7 @@ What a year….
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1051)|
+| ELO Regular | 1165 🔻  (1052)|
 | ELO Competitive | 1264 🔻  (384)|
 | Total Matches | 54 |
 | Wins | 18 |
