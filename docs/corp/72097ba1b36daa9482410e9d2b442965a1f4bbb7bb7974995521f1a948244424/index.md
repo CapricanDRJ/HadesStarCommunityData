@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​八月政府
-description: W:7 L:29 D:1 Bonus ✅ 32%
+description: W:7 L:29 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1739436176
 ---
@@ -15,7 +15,7 @@ date: 1739436176
 ```
 求む魔導師　至難の戦場　わずかな報酬　剣林弾雨の暗い日々　耐え難い危険　生還の保証なし　生還の暁には名誉と賞賛を得ると
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
