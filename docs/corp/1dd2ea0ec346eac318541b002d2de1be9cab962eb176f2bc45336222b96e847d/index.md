@@ -20,7 +20,7 @@ A very casual group. Not currently playing WS. Just a place to chill,
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1288)|
+| ELO Regular | 1115 🔻  (1289)|
 | ELO Competitive | 1118 🔻  (1367)|
 | Total Matches | 8 |
 | Wins | 1 |

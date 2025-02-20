@@ -19,7 +19,7 @@ hello everyone
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (923)|
+| ELO Regular | 1175 🔻  (922)|
 | ELO Competitive | 1175 🔻  (1081)|
 | Total Matches | 5 |
 | Wins | 1 |

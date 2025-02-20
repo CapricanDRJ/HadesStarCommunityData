@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Prosperity
-description: W:2 L:4 D:0 Bonus ❌ 13%
+description: W:2 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1738947856
+date: 1740072935
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ ens
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔺  (871)|
-| ELO Competitive | 1208 🔺  (631)|
-| Total Matches | 6 |
+| ELO Regular | 1172 🔻  (954)|
+| ELO Competitive | 1202 🔻  (651)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
+        let timestamps = [1739640935,1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/20 | 0-28 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2025/02/07 | 1-0 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2025/02/01 | 3-23 | [Day Light](https://ws.tsl.rocks/corp/4edb005e2b465cb1d13e8f7f061ba06ce526ff36be7e4e28def7c54790dbe87c/) |
 | ❌ | 2025/01/25 | 1-9 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
