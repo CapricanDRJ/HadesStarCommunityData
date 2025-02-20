@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:15 L:8 D:1 Bonus ✅ 32%
+description: W:16 L:8 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739488169
+date: 1740026952
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ telar, Alfa Omega GuistonRA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔺  (185)|
-| ELO Competitive | 1333 🔺  (225)|
-| Total Matches | 24 |
-| Wins | 15 |
+| ELO Regular | 1309 🔺  (154)|
+| ELO Competitive | 1349 🔺  (203)|
+| Total Matches | 25 |
+| Wins | 16 |
 | Losses | 8 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/20 | 9-4 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/02/13 | 20-0 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ✅ | 2025/02/08 | 25-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/02/01 | 19-0 | [Snack Empire](https://ws.tsl.rocks/corp/e7b912cdbd535c7bae1a2176819caef605c402607aa368b529db6b36d746036b/) |

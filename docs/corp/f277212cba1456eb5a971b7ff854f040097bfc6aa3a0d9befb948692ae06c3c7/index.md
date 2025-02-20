@@ -24,7 +24,7 @@ Join us !!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (989)|
+| ELO Regular | 1171 🔻  (988)|
 | ELO Competitive | 1171 🔻  (1143)|
 | Total Matches | 2 |
 | Wins | 0 |

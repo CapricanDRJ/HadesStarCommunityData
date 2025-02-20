@@ -21,7 +21,7 @@ her. Discord is a requirement.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (949)|
+| ELO Regular | 1173 🔻  (948)|
 | ELO Competitive | 1178 🔻  (1052)|
 | Total Matches | 9 |
 | Wins | 3 |
