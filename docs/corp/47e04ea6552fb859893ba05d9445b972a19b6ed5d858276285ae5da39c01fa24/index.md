@@ -19,8 +19,8 @@ Surrender to The Order, belive to The Order, take part in The Order.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (1033)|
-| ELO Competitive | 1169 🔻  (1157)|
+| ELO Regular | 1167 🔻  (1036)|
+| ELO Competitive | 1169 🔻  (1160)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |
