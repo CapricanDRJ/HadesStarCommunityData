@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kratos
-description: W:50 L:38 D:0 Bonus ✅ 38%
+description: W:50 L:38 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739951226
 ---
@@ -16,7 +16,7 @@ date: 1739951226
 Bienvenidos 😁
 ```
 ### [Discord](https://discord.gg/RgusRrPMKT)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
