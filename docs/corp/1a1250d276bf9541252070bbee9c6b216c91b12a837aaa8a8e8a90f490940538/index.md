@@ -21,8 +21,8 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1535 🔺  (9)|
-| ELO Competitive | 1608 🔺  (25)|
+| ELO Regular | 1535 🔺  (8)|
+| ELO Competitive | 1608 🔺  (24)|
 | Total Matches | 48 |
 | Wins | 45 |
 | Losses | 3 |

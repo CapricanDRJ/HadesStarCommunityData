@@ -21,8 +21,8 @@ ange, <color=red>WS no peace only war :) </color>Recruiting now
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1030 🔻  (1397)|
-| ELO Competitive | 1052 🔻  (1415)|
+| ELO Regular | 1030 🔻  (1398)|
+| ELO Competitive | 1052 🔻  (1416)|
 | Total Matches | 17 |
 | Wins | 0 |
 | Losses | 17 |

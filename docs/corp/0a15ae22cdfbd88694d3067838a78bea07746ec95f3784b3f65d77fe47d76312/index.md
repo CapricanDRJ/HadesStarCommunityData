@@ -22,8 +22,8 @@ gg☆</color></b>   Recruiting "StarMasters" for WS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1308)|
-| ELO Competitive | 1194 🔻  (739)|
+| ELO Regular | 1107 🔻  (1309)|
+| ELO Competitive | 1194 🔻  (740)|
 | Total Matches | 59 |
 | Wins | 27 |
 | Losses | 32 |
