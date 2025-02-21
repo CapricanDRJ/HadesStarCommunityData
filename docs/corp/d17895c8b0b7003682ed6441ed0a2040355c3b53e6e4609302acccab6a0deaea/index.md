@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BAB
-description: W:0 L:3 D:1 Bonus ❌ 2%
+description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1735525033
+date: 1740105073
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 1735525033
 本星际集团从不踢人，最多就只有6个干事，不收僵尸号，萌新和大佬都可以加入，新人福利10个r6，代理首席干事ｘ-357。干事不能私自篡改东西
 ，除代理首席干事以外。
 ```
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1129)|
-| ELO Competitive | 1157 🔻  (1248)|
-| Total Matches | 4 |
+| ELO Regular | 1145 🔻  (1175)|
+| ELO Competitive | 1149 🔻  (1282)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735093033,1733075981,1732459650,1730821005];
+        let timestamps = [1739673073,1735093033,1733075981,1732459650,1730821005];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/21 | 0-8 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/30 | 0-6 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/12/06 | 0-4 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ↔️ | 2024/11/29 | 0-0 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) |

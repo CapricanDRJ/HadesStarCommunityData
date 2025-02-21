@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:6 L:7 D:1 Bonus ✅ 
+description: W:6 L:8 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1739645637
+date: 1740099381
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739645637
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (653)|
-| ELO Competitive | 1268 🔺  (375)|
-| Total Matches | 14 |
+| ELO Regular | 1182 🔻  (875)|
+| ELO Competitive | 1261 🔻  (394)|
+| Total Matches | 15 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739213637,1739206724,1738767981,1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
+        let timestamps = [1739667381,1739213637,1739206724,1738767981,1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,12 +127,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/21 | 2-14 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2025/02/15 | 3-4 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/02/15 | 3-1 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2025/02/10 | 8-2 | [Star tap](https://ws.tsl.rocks/corp/419ece3690e60cc5181cc450eb68b26886aa17512dc12d80ca87a2664bf6d85c/) |

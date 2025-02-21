@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Kingdom Of Meow
-description: W:0 L:6 D:0 Bonus ❌ 3%
+description: W:1 L:6 D:0 Bonus ✅ 28%
 image: ./favicon.png
-date: 1734327061
+date: 1740099681
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1734327061
 Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
 Discord: https://discord.gg/Fyag9U7KFh
 ```
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1269)|
-| ELO Competitive | 1140 🔻  (1325)|
-| Total Matches | 6 |
-| Wins | 0 |
+| ELO Regular | 1135 🔺  (1221)|
+| ELO Competitive | 1155 🔺  (1260)|
+| Total Matches | 7 |
+| Wins | 1 |
 | Losses | 6 |
 | Draws | 0 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733895061,1731556934,1729297016,1727925815,1725857583,1724202419];
+        let timestamps = [1739667681,1733895061,1731556934,1729297016,1727925815,1725857583,1724202419];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/21 | 7-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ❌ | 2024/12/16 | 0-5 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/11/19 | 2-14 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
 | ❌ | 2024/10/24 | 6-17 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

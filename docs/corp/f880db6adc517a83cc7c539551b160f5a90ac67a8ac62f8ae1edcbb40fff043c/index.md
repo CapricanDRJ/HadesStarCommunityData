@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​莫比乌斯-星环
-description: W:0 L:5 D:0 Bonus ❌ 
+description: W:0 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739593649
+date: 1740108610
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739593649
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1246)|
-| ELO Competitive | 1145 🔻  (1300)|
-| Total Matches | 5 |
+| ELO Regular | 1123 🔻  (1268)|
+| ELO Competitive | 1139 🔻  (1325)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/21 | 0-32 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ❌ | 2025/02/15 | 0-7 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/02/09 | 1-6 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2025/02/03 | 2-7 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |

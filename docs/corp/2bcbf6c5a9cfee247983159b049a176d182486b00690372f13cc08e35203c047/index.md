@@ -23,7 +23,7 @@ itärischen Stärke in der Galaxis gefürchtet.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (618)|
+| ELO Regular | 1190 🔺  (617)|
 | ELO Competitive | 1192 🔺  (766)|
 | Total Matches | 5 |
 | Wins | 2 |

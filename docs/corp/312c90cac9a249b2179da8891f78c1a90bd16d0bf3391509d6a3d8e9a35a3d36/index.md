@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​United Stars 
-description: W:39 L:23 D:3 Bonus ✅ 40%
+description: W:39 L:23 D:3 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739498984
 ---
@@ -20,12 +20,12 @@ lvl 10 corp bouns on private RS
 Join the family! Active on discord!
 ```
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (76)|
-| ELO Competitive | 1459 🔺  (97)|
+| ELO Regular | 1380 🔺  (75)|
+| ELO Competitive | 1459 🔺  (98)|
 | Total Matches | 65 |
 | Wins | 39 |
 | Losses | 23 |
