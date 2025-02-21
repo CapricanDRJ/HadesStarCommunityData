@@ -21,7 +21,7 @@ s ventajas de una corporación ya empezada. Jugamos de manera relajada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (422)|
+| ELO Regular | 1214 🔻  (423)|
 | ELO Competitive | 1219 🔻  (541)|
 | Total Matches | 5 |
 | Wins | 3 |

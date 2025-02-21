@@ -22,7 +22,7 @@ white star active
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (260)|
+| ELO Regular | 1256 🔺  (259)|
 | ELO Competitive | 1323 🔺  (243)|
 | Total Matches | 20 |
 | Wins | 14 |

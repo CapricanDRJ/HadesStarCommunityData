@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Legión
-description: W:8 L:8 D:0 Bonus ✅ 34%
+description: W:8 L:9 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740066022
+date: 1740164897
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (352)|
-| ELO Competitive | 1270 🔺  (364)|
-| Total Matches | 16 |
+| ELO Regular | 1223 🔻  (368)|
+| ELO Competitive | 1270 🔺  (365)|
+| Total Matches | 17 |
 | Wins | 8 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/21 | 3-28 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ✅ | 2025/02/20 | 13-7 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2025/02/05 | 7-16 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2025/01/27 | 21-1 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
