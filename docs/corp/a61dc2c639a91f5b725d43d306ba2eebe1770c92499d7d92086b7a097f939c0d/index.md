@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Эдем
-description: W:15 L:11 D:0 Bonus ✅ 32%
+description: W:15 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1740056102
 ---
@@ -17,11 +17,11 @@ date: 1740056102
 а кз 2-8. Чат в телеге...
 ```
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔻  (246)|
+| ELO Regular | 1261 🔻  (247)|
 | ELO Competitive | 1309 🔻  (270)|
 | Total Matches | 26 |
 | Wins | 15 |

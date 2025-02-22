@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lololol
-description: W:2 L:3 D:0 Bonus ✅ 
+description: W:2 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739584635
 ---
@@ -15,7 +15,7 @@ date: 1739584635
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
