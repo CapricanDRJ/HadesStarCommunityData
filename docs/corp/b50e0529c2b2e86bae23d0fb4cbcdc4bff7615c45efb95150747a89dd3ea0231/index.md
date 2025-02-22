@@ -22,7 +22,7 @@ mp ws play. White dwarf will be stated every Friday.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (580)|
+| ELO Regular | 1194 🔺  (579)|
 | ELO Competitive | 1244 🔺  (443)|
 | Total Matches | 31 |
 | Wins | 12 |
