@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:50 L:50 D:0 Bonus ✅ 52%
+description: W:50 L:50 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1740196445
 ---
@@ -23,7 +23,7 @@ date: 1740196445
 Discord mandatory. <b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

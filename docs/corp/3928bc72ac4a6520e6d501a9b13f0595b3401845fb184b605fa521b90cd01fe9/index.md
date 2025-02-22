@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​天琴座联邦
-description: W:6 L:8 D:2 Bonus ✅ 
+description: W:6 L:8 D:2 Bonus ❌ 
 image: ./favicon.png
 date: 1740115605
 ---
@@ -15,11 +15,11 @@ date: 1740115605
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (882)|
+| ELO Regular | 1182 🔻  (881)|
 | ELO Competitive | 1265 🔻  (384)|
 | Total Matches | 16 |
 | Wins | 6 |

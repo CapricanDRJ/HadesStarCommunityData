@@ -26,7 +26,7 @@ FS2 - Closed
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1459 🔺  (24)|
+| ELO Regular | 1459 🔺  (25)|
 | ELO Competitive | 1700 🔺  (7)|
 | Total Matches | 107 |
 | Wins | 79 |

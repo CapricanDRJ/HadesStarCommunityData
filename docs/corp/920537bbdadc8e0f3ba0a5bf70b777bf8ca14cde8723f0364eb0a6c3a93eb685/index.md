@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UFO
-description: W:7 L:17 D:2 Bonus ❌ 6%
+description: W:8 L:17 D:2 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739593950
+date: 1740245426
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1739593950
 United Fleet Operations:
 https://discord.gg/NuvtUTUxQj 
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1169)|
-| ELO Competitive | 1194 🔻  (738)|
-| Total Matches | 26 |
-| Wins | 7 |
+| ELO Regular | 1167 🔺  (1042)|
+| ELO Competitive | 1215 🔺  (585)|
+| Total Matches | 27 |
+| Wins | 8 |
 | Losses | 17 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/22 | 25-15 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2025/02/15 | 9-16 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2025/02/08 | 19-23 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2025/02/02 | 10-14 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) |

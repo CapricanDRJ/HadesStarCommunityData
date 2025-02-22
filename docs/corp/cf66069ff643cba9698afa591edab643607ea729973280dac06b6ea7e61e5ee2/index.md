@@ -24,7 +24,7 @@ Discord obligatorio: KAguMmM
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1094 🔻  (1336)|
-| ELO Competitive | 1194 🔻  (731)|
+| ELO Competitive | 1194 🔻  (732)|
 | Total Matches | 93 |
 | Wins | 26 |
 | Losses | 67 |

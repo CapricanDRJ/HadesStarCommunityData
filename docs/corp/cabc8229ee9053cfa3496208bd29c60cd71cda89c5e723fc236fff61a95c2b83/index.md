@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:3 L:10 D:2 Bonus ❌ 5%
+description: W:3 L:11 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739634517
+date: 1740240015
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ adicionado aqui no chat!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1254)|
-| ELO Competitive | 1169 🔻  (1167)|
-| Total Matches | 15 |
+| ELO Regular | 1123 🔻  (1272)|
+| ELO Competitive | 1165 🔻  (1197)|
+| Total Matches | 16 |
 | Wins | 3 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/22 | 3-26 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/02/15 | 3-31 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/02/08 | 3-19 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ↔️ | 2025/02/01 | 5-5 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
