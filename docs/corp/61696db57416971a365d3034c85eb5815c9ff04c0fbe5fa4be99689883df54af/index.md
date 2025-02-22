@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:49 L:26 D:2 Bonus ✅ 38%
+description: W:49 L:26 D:2 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739680791
 ---
@@ -18,7 +18,7 @@ date: 1739680791
  We are in an alliance with Spaceballs & the Warriorlords.
 ```
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

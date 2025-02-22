@@ -21,8 +21,8 @@ sporg). 3lt bpdp)(demin).(flech).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1342)|
-| ELO Competitive | 1273 🔻  (360)|
+| ELO Regular | 1090 🔻  (1343)|
+| ELO Competitive | 1273 🔻  (361)|
 | Total Matches | 52 |
 | Wins | 16 |
 | Losses | 32 |
