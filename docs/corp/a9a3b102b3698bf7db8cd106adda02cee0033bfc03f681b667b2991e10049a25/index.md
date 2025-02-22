@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Млечный путь
-description: W:20 L:23 D:0 Bonus ✅ 36%
+description: W:21 L:23 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740056102
+date: 1740204856
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ date: 1740056102
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (377)|
+| ELO Regular | 1222 🔺  (369)|
 | ELO Competitive | 1332 🔺  (230)|
-| Total Matches | 43 |
-| Wins | 20 |
+| Total Matches | 44 |
+| Wins | 21 |
 | Losses | 23 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739624102,1739160447,1738557328,1737976132,1736744346,1735796434,1735793429,1735281417,1735245067,1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
+        let timestamps = [1739772856,1739624102,1739160447,1738557328,1737976132,1736744346,1735796434,1735793429,1735281417,1735245067,1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/22 | 30-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2025/02/20 | 15-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2025/02/15 | 15-16 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/02/08 | 22-1 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
