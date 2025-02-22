@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:18 L:2 D:0 Bonus ✅ 34%
+description: W:19 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739763125
+date: 1740230396
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ enas", nuestra corporación principal
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (52)|
-| ELO Competitive | 1442 🔺  (122)|
-| Total Matches | 20 |
-| Wins | 18 |
+| ELO Regular | 1421 🔺  (45)|
+| ELO Competitive | 1453 🔺  (104)|
+| Total Matches | 21 |
+| Wins | 19 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739331125,1738152522,1733066040,1731851725,1730636197,1730059252,1728218235,1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
+        let timestamps = [1739798396,1739331125,1738152522,1733066040,1731851725,1730636197,1730059252,1728218235,1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/22 | 32-9 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2025/02/17 | 34-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ✅ | 2025/02/03 | 28-0 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2024/12/06 | 50-4 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |

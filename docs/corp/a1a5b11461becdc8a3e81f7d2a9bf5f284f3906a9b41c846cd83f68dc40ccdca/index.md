@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cerberus
-description: W:2 L:0 D:1 Bonus ✅ 
+description: W:2 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1739634216
 ---
@@ -15,7 +15,7 @@ date: 1739634216
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

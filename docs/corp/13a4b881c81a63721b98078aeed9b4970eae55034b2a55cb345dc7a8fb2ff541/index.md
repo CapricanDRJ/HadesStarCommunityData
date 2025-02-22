@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:17 L:7 D:0 Bonus ❌ 7%
+description: W:17 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739743297
+date: 1740230396
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1739743297
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔻  (156)|
-| ELO Competitive | 1346 🔻  (209)|
-| Total Matches | 24 |
+| ELO Regular | 1297 🔻  (178)|
+| ELO Competitive | 1335 🔻  (223)|
+| Total Matches | 25 |
 | Wins | 17 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739311297,1738703077,1737307835,1736685435,1736679724,1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1739798396,1739311297,1738703077,1737307835,1736685435,1736679724,1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/22 | 9-32 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ❌ | 2025/02/16 | 3-15 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2025/02/09 | 4-28 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2025/01/24 | 23-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

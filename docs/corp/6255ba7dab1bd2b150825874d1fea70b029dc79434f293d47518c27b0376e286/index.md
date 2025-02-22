@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:50 L:20 D:0 Bonus ❌ 14%
+description: W:50 L:21 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1737200684
+date: 1740230997
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Discord: asheRjW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1348 🔻  (105)|
-| ELO Competitive | 1463 🔻  (91)|
-| Total Matches | 70 |
+| ELO Regular | 1330 🔻  (129)|
+| ELO Competitive | 1445 🔻  (118)|
+| Total Matches | 71 |
 | Wins | 50 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 12 |
 | Flagship | 10 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736768684,1736162207,1734342168,1733749035,1733144161,1732520621,1731949992,1731364630,1730710719,1730043321,1729509030,1728897768,1728297569,1727734702,1727093135,1726492850,1725891540,1725265309,1724676623,1724059376,1723488391,1722849200,1722239171,1721644730,1721034680,1720427277,1719819914,1719217104,1718607662,1718018797,1717426055,1716796436,1716194009,1715596114,1715073024,1714504158,1714060969,1713773738,1713172222,1712570372,1711954687,1711449879,1711351328,1710755794,1710115226,1710059904,1709554210,1708940322,1708336633,1708329422,1707728719,1707119000,1707115996,1706525187,1706520679,1705944423,1705910036,1705304202,1704705879,1704116870,1703501407,1702908869,1702888134,1702281035,1701726830,1701077956,1700467539,1699863976,1699361733,1698803103];
+        let timestamps = [1739798997,1736768684,1736162207,1734342168,1733749035,1733144161,1732520621,1731949992,1731364630,1730710719,1730043321,1729509030,1728897768,1728297569,1727734702,1727093135,1726492850,1725891540,1725265309,1724676623,1724059376,1723488391,1722849200,1722239171,1721644730,1721034680,1720427277,1719819914,1719217104,1718607662,1718018797,1717426055,1716796436,1716194009,1715596114,1715073024,1714504158,1714060969,1713773738,1713172222,1712570372,1711954687,1711449879,1711351328,1710755794,1710115226,1710059904,1709554210,1708940322,1708336633,1708329422,1707728719,1707119000,1707115996,1706525187,1706520679,1705944423,1705910036,1705304202,1704705879,1704116870,1703501407,1702908869,1702888134,1702281035,1701726830,1701077956,1700467539,1699863976,1699361733,1698803103];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 1 | 2 | 0 | 3 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 0 | 2 | 0 | 2 |
 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 0 | 2 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 3 | 0 | 0 | 3 |
@@ -151,7 +152,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 4 | 1 | 0 | 5 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 0 | 0 | 2 |
-| [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 1 | 1 | 0 | 2 |
 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) | 2 | 0 | 0 | 2 |
 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626/) | 2 | 0 | 0 | 2 |
 
@@ -160,6 +160,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/22 | 24-26 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2025/01/18 | 31-45 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2025/01/11 | 39-57 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ❌ | 2024/12/21 | 11-27 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |

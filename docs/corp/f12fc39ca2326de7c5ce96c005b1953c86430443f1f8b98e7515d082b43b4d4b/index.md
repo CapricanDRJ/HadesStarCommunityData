@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Providence
-description: W:36 L:22 D:0 Bonus ❌ 13%
+description: W:37 L:22 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1739019074
+date: 1740230997
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ Part of Red Star Raiders alliance
 https://discord.gg/nUgqhbn
 ```
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔻  (204)|
-| ELO Competitive | 1375 🔻  (170)|
-| Total Matches | 58 |
-| Wins | 36 |
+| ELO Regular | 1299 🔺  (174)|
+| ELO Competitive | 1394 🔺  (155)|
+| Total Matches | 59 |
+| Wins | 37 |
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738587074,1737504659,1736838109,1735641394,1733764363,1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
+        let timestamps = [1739798997,1738587074,1737504659,1736838109,1735641394,1733764363,1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,12 +137,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 2 | 1 | 0 | 3 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 2 | 0 | 0 | 2 |
 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 3 | 0 | 3 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1 | 2 | 0 | 3 |
-| [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 1 | 1 | 0 | 2 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 2 | 0 | 0 | 2 |
 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) | 2 | 1 | 0 | 3 |
 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 2 | 0 | 0 | 2 |
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/22 | 26-24 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ❌ | 2025/02/08 | 28-36 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2025/01/27 | 33-11 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2025/01/19 | 31-39 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
