@@ -71,6 +71,13 @@ permalink: /trade/
                     <td>0%</td>
                 </tr>
             
+                <tr>
+                    <td>1</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS8</td>
+                    <td>100%</td>
+                </tr>
+            
         <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
@@ -87,6 +94,13 @@ permalink: /trade/
                     <td><img src="combat.png" alt="combat"></td>
                     <td>RS9</td>
                     <td>1%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS8</td>
+                    <td>100%</td>
                 </tr>
             
         <tr>

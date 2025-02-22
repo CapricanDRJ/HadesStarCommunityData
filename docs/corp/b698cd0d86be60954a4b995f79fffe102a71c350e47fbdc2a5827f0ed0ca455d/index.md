@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stargate Corp
-description: W:69 L:32 D:0 Bonus ✅ 54%
+description: W:69 L:32 D:0 Bonus ❌ 54%
 image: ./favicon.png
 date: 1739623996
 ---
@@ -18,7 +18,7 @@ Allies of Omega Alpha & The Watchers<br><br>・Open for RS: 52% (closed
 ter guesting RS runs<br><br>Discord mandatory to join!
 ```
 ### [Discord](https://discord.gg/sXxSq4KUmm)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 54%
 
 | Statistic | Value |
 | --- | --- |

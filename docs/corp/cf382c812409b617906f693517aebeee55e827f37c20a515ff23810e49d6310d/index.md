@@ -24,7 +24,7 @@ Juntos somos mais fortes.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (468)|
+| ELO Regular | 1209 🔻  (469)|
 | ELO Competitive | 1271 🔻  (363)|
 | Total Matches | 26 |
 | Wins | 12 |

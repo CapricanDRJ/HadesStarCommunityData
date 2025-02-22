@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:29 L:37 D:0 Bonus ❌ 40%
+description: W:29 L:37 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1740203054
 ---
@@ -16,7 +16,7 @@ date: 1740203054
 Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
 ```
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
