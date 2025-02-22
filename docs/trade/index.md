@@ -61,9 +61,27 @@ permalink: /trade/
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS8</td>
+                    <td>0%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS8</td>
+                    <td>0%</td>
+                </tr>
+            
                 <tr>
                     <td>2</td>
                     <td><img src="combat.png" alt="combat"></td>
@@ -72,7 +90,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/1340225934145617941">鱼的死水谭</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/1340304516465037324">中国星际联盟（CNIA）</a></td>
         </tr>
     </table>
     <table>
@@ -297,6 +315,46 @@ permalink: /trade/
             
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/1215955043170258954">Ƭitans Ф ᴛɛʀʀօƦ</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">永恒的永远.</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS8</td>
+                    <td>208%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS8</td>
+                    <td>208%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS8</td>
+                    <td>208%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/1340304516465037324">中国星际联盟（CNIA）</a></td>
         </tr>
     </table>
     </div>

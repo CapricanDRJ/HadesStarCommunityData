@@ -20,7 +20,7 @@ elegram @actung_bunker
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 745 🔻  (1436)|
+| ELO Regular | 745 🔻  (1435)|
 | ELO Competitive | 1015 🔻  (1431)|
 | Total Matches | 118 |
 | Wins | 7 |

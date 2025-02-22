@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RusCorp
-description: W:0 L:5 D:1 Bonus ❌ 
+description: W:0 L:5 D:2 Bonus ❌ 
 image: ./favicon.png
-date: 1738999844
+date: 1740214170
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 1738999844
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1216)|
-| ELO Competitive | 1154 🔺  (1266)|
-| Total Matches | 6 |
+| ELO Regular | 1127 🔻  (1258)|
+| ELO Competitive | 1150 🔻  (1284)|
+| Total Matches | 7 |
 | Wins | 0 |
 | Losses | 5 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738567844,1737539811,1736407336,1735974080,1735316276,1734613526];
+        let timestamps = [1739782170,1738567844,1737539811,1736407336,1735974080,1735316276,1734613526];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/02/22 | 0-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ↔️ | 2025/02/08 | 0-0 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/01/27 | 0-21 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/01/14 | 0-3 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |

@@ -22,7 +22,7 @@ we will happily arrange your arrival after the match!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (619)|
+| ELO Regular | 1190 🔻  (620)|
 | ELO Competitive | 1200 🔻  (675)|
 | Total Matches | 12 |
 | Wins | 6 |
