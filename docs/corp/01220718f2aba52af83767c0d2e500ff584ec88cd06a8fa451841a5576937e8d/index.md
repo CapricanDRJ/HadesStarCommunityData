@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​✨ℛedstar Order«
-description: W:7 L:2 D:0 Bonus ✅ 
+description: W:8 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740238812
+date: 1740330550
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1740238812
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (237)|
+| ELO Regular | 1275 🔺  (215)|
 | ELO Competitive | 1284 🔺  (338)|
-| Total Matches | 9 |
-| Wins | 7 |
+| Total Matches | 10 |
+| Wins | 8 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/23 | 9-0 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
 | ✅ | 2025/02/22 | 15-0 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ❌ | 2025/02/18 | 3-21 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2025/02/17 | 8-2 | [✨ Love Room✨](https://ws.tsl.rocks/corp/b450313304cec8103f820ba28f338518c4247a57d2035b582ac3c7b45becbe1b/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AKA
-description: W:8 L:17 D:0 Bonus ❌ 6%
+description: W:8 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739556688
+date: 1740331668
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1739556688
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1124)|
-| ELO Competitive | 1223 🔻  (512)|
-| Total Matches | 25 |
+| ELO Regular | 1131 🔻  (1246)|
+| ELO Competitive | 1218 🔻  (545)|
+| Total Matches | 27 |
 | Wins | 8 |
-| Losses | 17 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739124688,1739120780,1738289549,1738183479,1737660912,1737650694,1737120905,1737107981,1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
+        let timestamps = [1739899668,1739895459,1739124688,1739120780,1738289549,1738183479,1737660912,1737650694,1737120905,1737107981,1736625932,1724048559,1724048559,1722837181,1722243677,1721810615,1721739093,1720971868,1720969162,1707656901,1706973555,1706970850,1706325044,1700828790,1700204557,1699682115,1698766575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/23 | 0-26 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
+| ❌ | 2025/02/23 | 0-33 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/02/14 | 2-33 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2025/02/14 | 8-35 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2025/02/05 | 0-25 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |

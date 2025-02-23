@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:3 L:13 D:0 Bonus ❌ 12%
+description: W:3 L:14 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1739850268
+date: 1740328662
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Winter Comes to Hades</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1114 🔻  (1299)|
-| ELO Competitive | 1164 🔻  (1207)|
-| Total Matches | 16 |
+| ELO Regular | 1113 🔻  (1302)|
+| ELO Competitive | 1163 🔻  (1214)|
+| Total Matches | 17 |
 | Wins | 3 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/23 | 0-31 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2025/02/18 | 10-14 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/02/09 | 3-39 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
 | ❌ | 2025/02/01 | 10-43 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
