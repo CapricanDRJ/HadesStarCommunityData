@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Germania
-description: W:22 L:40 D:4 Bonus ✅ 36%
+description: W:22 L:40 D:4 Bonus ❌ 8%
 image: ./favicon.png
 date: 1740173914
 ---
@@ -19,11 +19,11 @@ ht so ernst nehmen.
 -Beleidigung, Rassismus ect, 14 Tage Inaktivität ohne Abmeldung führt
  zum Bann 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1361)|
+| ELO Regular | 1080 🔻  (1362)|
 | ELO Competitive | 1146 🔻  (1304)|
 | Total Matches | 66 |
 | Wins | 22 |
