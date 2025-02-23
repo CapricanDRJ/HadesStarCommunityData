@@ -281,7 +281,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) | 1170 | 1173 | 6 |
 | [Firestarters](https://ws.tsl.rocks/corp/975a058b74909c99c34a22d266817bfb7b3f49c34e599099c96f3867b4b77443/) | 1173 | 1173 | 2 |
 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 1076 | 1213 | 103 |
-| [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) | 1072 | 1145 | 23 |
+| [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) | 1058 | 1140 | 24 |
 | [FirstAllegiance](https://ws.tsl.rocks/corp/4bdc1a5a316da054182d474333d14b9ded14438e1dcd17eefeff189a180edbbf/) | 1186 | 1186 | 1 |
 | [fishwax](https://ws.tsl.rocks/corp/da598952db4b9797b5cdc41e8347477fdf8c2a14f9d96bb975c363cfc9fafeac/) | 1183 | 1183 | 1 |
 | [Fishy Business ](https://ws.tsl.rocks/corp/5e8f1a51e0fbc07f06f14b1569aea75167fed51aae36416f70b2799f67906bbd/) | 1190 | 1193 | 3 |
@@ -970,7 +970,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) | 1138 | 1199 | 32 |
 | [Void Nebula](https://ws.tsl.rocks/corp/fa7eb6bab97e700fd7b0f1182291107d608a9416456321d323f29608ea87debf/) | 1156 | 1156 | 3 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1369 | 1460 | 73 |
-| [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1090 | 1428 | 157 |
+| [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1104 | 1447 | 158 |
 | [vosk empire 2](https://ws.tsl.rocks/corp/53f71a919dc236f377371961c475a6df846550d5c1a72199b52ecf72d1494701/) | 1184 | 1184 | 2 |
 | [W\.O\.A](https://ws.tsl.rocks/corp/370b192c19a9b80c310a56257171e1a57b25597300cb2daf6f45ee441239aef7/) | 1184 | 1187 | 1 |
 | [Wacky Wabbits](https://ws.tsl.rocks/corp/c0af31b9cd252e7a0621043e7e37f4cd497b96e0806f3310c8e1fd6757296c20/) | 1162 | 1177 | 7 |
