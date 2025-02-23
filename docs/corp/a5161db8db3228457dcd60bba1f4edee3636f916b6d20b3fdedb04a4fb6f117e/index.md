@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hades’ galaxy
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739837405
+date: 1740281766
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 1739837405
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (474)|
-| ELO Competitive | 1209 🔺  (628)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1223 🔺  (368)|
+| ELO Competitive | 1224 🔺  (511)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739405405];
+        let timestamps = [1739849766,1739405405];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/23 | 11-0 | [Imperium](https://ws.tsl.rocks/corp/4d1bd313c919d981ca390e6f96e152d6f97602d72167108074a99770fc7e74ef/) |
 | ✅ | 2025/02/18 | 11-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 
 ---

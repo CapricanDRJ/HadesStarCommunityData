@@ -24,8 +24,8 @@ Ws: a Cada 4 dias
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1309)|
-| ELO Competitive | 1114 🔻  (1382)|
+| ELO Regular | 1109 🔻  (1310)|
+| ELO Competitive | 1114 🔻  (1383)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 10 |
