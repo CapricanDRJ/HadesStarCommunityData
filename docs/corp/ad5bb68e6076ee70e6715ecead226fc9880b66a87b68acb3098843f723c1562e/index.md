@@ -21,8 +21,8 @@ r White Star runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1110)|
-| ELO Competitive | 1208 🔻  (635)|
+| ELO Regular | 1157 🔻  (1112)|
+| ELO Competitive | 1208 🔻  (636)|
 | Total Matches | 38 |
 | Wins | 13 |
 | Losses | 25 |

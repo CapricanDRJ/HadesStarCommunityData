@@ -22,7 +22,7 @@ y newbie and big guy to join us! If you're interested, say hi!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (210)|
+| ELO Regular | 1278 🔺  (211)|
 | ELO Competitive | 1438 🔺  (125)|
 | Total Matches | 75 |
 | Wins | 38 |

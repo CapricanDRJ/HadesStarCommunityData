@@ -20,7 +20,7 @@ Just log in and play once per day.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1043 🔻  (1392)|
+| ELO Regular | 1043 🔻  (1393)|
 | ELO Competitive | 1305 🔻  (284)|
 | Total Matches | 125 |
 | Wins | 43 |

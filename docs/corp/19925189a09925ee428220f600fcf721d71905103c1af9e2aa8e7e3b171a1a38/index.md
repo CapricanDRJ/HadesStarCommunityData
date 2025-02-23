@@ -21,8 +21,8 @@ Sister corporations: TeddisaurusWrex, Armored Union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1367)|
-| ELO Competitive | 1213 🔻  (608)|
+| ELO Regular | 1076 🔻  (1369)|
+| ELO Competitive | 1213 🔻  (609)|
 | Total Matches | 103 |
 | Wins | 43 |
 | Losses | 59 |

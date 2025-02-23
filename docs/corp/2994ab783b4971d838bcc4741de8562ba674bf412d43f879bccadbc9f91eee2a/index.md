@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alterra Corp
-description: W:1 L:1 D:1 Bonus ❌ 3%
+description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1727896547
+date: 1740322350
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ re.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (636)|
-| ELO Competitive | 1193 🔻  (745)|
-| Total Matches | 3 |
+| ELO Regular | 1175 🔻  (935)|
+| ELO Competitive | 1184 🔻  (1019)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727464547,1724416673,1721507098];
+        let timestamps = [1739890350,1727464547,1724416673,1721507098];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/23 | 3-19 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/10/02 | 0-19 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/08/28 | 9-0 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ↔️ | 2024/07/25 | 4-4 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
