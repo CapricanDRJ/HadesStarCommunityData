@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​USSR
-description: W:6 L:1 D:0 Bonus ✅ 36%
+description: W:6 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739680960
 ---
@@ -20,7 +20,7 @@ date: 1739680960
 
  
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
