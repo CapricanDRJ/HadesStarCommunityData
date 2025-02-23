@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Free Thinkers 2
-description: W:4 L:54 D:1 Bonus ✅ 36%
+description: W:4 L:54 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739706931
 ---
@@ -16,7 +16,7 @@ date: 1739706931
 Multi national Corp across all time zones. Friendly, relaxed, support
 ive. Lets GO!
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

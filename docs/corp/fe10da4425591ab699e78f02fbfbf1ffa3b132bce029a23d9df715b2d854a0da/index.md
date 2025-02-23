@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Yellow Dwarf 
-description: W:1 L:1 D:0 Bonus ❌ 9%
+description: W:2 L:1 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1739483361
+date: 1740309727
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ arf Crew family of corps-Red, White, Green & Blue. We work as a team
 to help each other. Weekly White Stars in our dedicated corp.
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (567)|
-| ELO Competitive | 1203 🔻  (650)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1200 🔺  (529)|
+| ELO Competitive | 1215 🔺  (584)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739051361,1698982502];
+        let timestamps = [1739877727,1739051361,1698982502];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/23 | 23-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ❌ | 2025/02/13 | 18-21 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2023/11/08 | 14-0 | [지고받자](https://ws.tsl.rocks/corp/7172d4e10205869e535b82bbdfc5fea3978414c420bade9a1f96cf10c8e4855d/) |
 

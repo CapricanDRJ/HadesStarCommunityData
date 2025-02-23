@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​★BLACK•TALON★
-description: W:0 L:1 D:2 Bonus ❌ 
+description: W:0 L:3 D:2 Bonus ❌ 
 image: ./favicon.png
-date: 1739296551
+date: 1740311827
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739296551
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (877)|
-| ELO Competitive | 1191 🔺  (777)|
-| Total Matches | 3 |
+| ELO Regular | 1160 🔻  (1086)|
+| ELO Competitive | 1183 🔻  (1029)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 3 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738864551,1738858733,1737388968];
+        let timestamps = [1739879827,1739876826,1738864551,1738858733,1737388968];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/23 | 0-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
+| ❌ | 2025/02/23 | 0-12 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ↔️ | 2025/02/11 | 0-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ↔️ | 2025/02/11 | 0-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ❌ | 2025/01/25 | 0-1 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
