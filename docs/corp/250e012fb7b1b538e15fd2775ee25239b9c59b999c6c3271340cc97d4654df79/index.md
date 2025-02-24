@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​italian warrior
-description: W:31 L:43 D:3 Bonus ✅ 44%
+description: W:31 L:43 D:3 Bonus ❌ 12%
 image: ./favicon.png
 date: 1740250235
 ---
@@ -22,7 +22,7 @@ piccoli)
 Discord: https://discord.gg/A26JEJgPwh
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

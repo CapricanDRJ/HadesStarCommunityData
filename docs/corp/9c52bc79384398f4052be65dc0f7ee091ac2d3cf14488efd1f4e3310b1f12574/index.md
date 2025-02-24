@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FURIA 2.0
-description: W:15 L:26 D:0 Bonus ✅ 36%
+description: W:15 L:26 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1740292601
 ---
@@ -16,7 +16,7 @@ date: 1740292601
 corpo  tranquille  pour se développer a son rythme et nous assurons 1
  étoile  blanche par semaine 👽👽👍
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
