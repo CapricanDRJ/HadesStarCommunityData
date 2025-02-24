@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Black Corsairs
-description: W:0 L:2 D:1 Bonus ❌ 
+description: W:1 L:2 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1738000362
+date: 1740398072
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1738000362
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1096)|
-| ELO Competitive | 1172 🔻  (1122)|
-| Total Matches | 3 |
-| Wins | 0 |
+| ELO Regular | 1173 🔺  (958)|
+| ELO Competitive | 1190 🔺  (803)|
+| Total Matches | 4 |
+| Wins | 1 |
 | Losses | 2 |
 | Draws | 1 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737568362,1736460333,1735942371];
+        let timestamps = [1739966072,1737568362,1736460333,1735942371];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/24 | 4-3 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ↔️ | 2025/01/27 | 0-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2025/01/14 | 0-27 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) |
 | ❌ | 2025/01/08 | 0-3 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​<a>超越®</a>光速℡
-description: W:15 L:7 D:0 Bonus ❌ 11%
+description: W:15 L:8 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1738948457
+date: 1740398973
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1738948457
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔻  (226)|
-| ELO Competitive | 1320 🔻  (253)|
-| Total Matches | 22 |
+| ELO Regular | 1258 🔻  (251)|
+| ELO Competitive | 1316 🔻  (259)|
+| Total Matches | 23 |
 | Wins | 15 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 12 |
 | Flagship | 1 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738516457,1718845369,1718843566,1718132697,1717209344,1715059205,1714740619,1714611424,1714154110,1713708544,1713274688,1712018996,1708646588,1708189391,1707733226,1707263434,1705856848,1701343936,1700882594,1700428175,1699971873,1699293221];
+        let timestamps = [1739966973,1738516457,1718845369,1718843566,1718132697,1717209344,1715059205,1714740619,1714611424,1714154110,1713708544,1713274688,1712018996,1708646588,1708189391,1707733226,1707263434,1705856848,1701343936,1700882594,1700428175,1699971873,1699293221];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/24 | 0-48 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2025/02/07 | 0-48 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/06/25 | 0-46 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/06/25 | 0-26 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

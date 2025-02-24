@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:13 L:21 D:2 Bonus ❌ 7%
+description: W:14 L:22 D:2 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739955132
+date: 1740398072
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ date: 1739955132
  副主席：蛋王黑名单：罗马创世神 丶LLLLrbia～丶瓜老板五世 本团为半死团预计将在明年1月苏醒
 ```
 ### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1282)|
-| ELO Competitive | 1218 🔻  (549)|
-| Total Matches | 36 |
-| Wins | 13 |
-| Losses | 21 |
+| ELO Regular | 1118 🔻  (1283)|
+| ELO Competitive | 1232 🔺  (475)|
+| Total Matches | 38 |
+| Wins | 14 |
+| Losses | 22 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739523132,1739521629,1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1739966072,1739962466,1739523132,1739521629,1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 1 | 1 | 0 | 2 |
 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) | 1 | 0 | 1 | 2 |
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1 | 1 | 0 | 2 |
 
@@ -142,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/24 | 3-4 | [Black Corsairs](https://ws.tsl.rocks/corp/f92c523729e551788705c4e776aad288e8df6e36592a638eb2077d16790f4e87/) |
+| ✅ | 2025/02/24 | 13-0 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2025/02/19 | 0-3 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2025/02/19 | 0-24 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ✅ | 2025/02/14 | 18-1 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
