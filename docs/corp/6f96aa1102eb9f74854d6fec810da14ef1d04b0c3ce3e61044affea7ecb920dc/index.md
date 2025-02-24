@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:10 L:13 D:1 Bonus ✅ 32%
+description: W:10 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
 date: 1740373737
 ---
@@ -16,7 +16,7 @@ date: 1740373737
 будем рады АКТИВНЫМ игрокам. степень развития значения не имеет. акти
 вным новичкам беремся оказывать помощь в развитии.
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

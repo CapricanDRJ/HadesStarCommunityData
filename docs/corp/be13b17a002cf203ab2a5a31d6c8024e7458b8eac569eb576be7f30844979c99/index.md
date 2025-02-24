@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:14 L:4 D:1 Bonus ❌ 7%
+description: W:15 L:4 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739294640
+date: 1740385154
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ laxyNova (Aïres) und Hexwood (Krakawski). Neulinge wie Profis sind he
 rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 ```
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (125)|
-| ELO Competitive | 1372 🔺  (174)|
-| Total Matches | 19 |
-| Wins | 14 |
+| ELO Regular | 1347 🔺  (107)|
+| ELO Competitive | 1395 🔺  (155)|
+| Total Matches | 20 |
+| Wins | 15 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
+        let timestamps = [1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/24 | 31-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2025/02/11 | 33-22 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ✅ | 2025/01/28 | 42-7 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ✅ | 2024/12/26 | 44-0 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |
