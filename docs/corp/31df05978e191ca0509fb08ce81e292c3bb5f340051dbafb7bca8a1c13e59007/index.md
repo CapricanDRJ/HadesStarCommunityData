@@ -21,7 +21,7 @@ But now is a retirement home for solo rs. all are free to join
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (684)|
-| ELO Competitive | 1191 🔻  (784)|
+| ELO Competitive | 1191 🔻  (783)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

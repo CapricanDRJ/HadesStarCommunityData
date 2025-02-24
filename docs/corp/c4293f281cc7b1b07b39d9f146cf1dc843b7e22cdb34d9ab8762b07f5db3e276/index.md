@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​united unicorn
-description: W:2 L:2 D:0 Bonus ✅ 28%
+description: W:2 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1739824129
 ---
@@ -16,11 +16,11 @@ date: 1739824129
 ws focused on learning, still a lot to learn so we don't worry Farm o
 ur opponent we just want to play a little
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (546)|
+| ELO Regular | 1199 🔺  (548)|
 | ELO Competitive | 1214 🔺  (603)|
 | Total Matches | 4 |
 | Wins | 2 |

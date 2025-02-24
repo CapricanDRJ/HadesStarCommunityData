@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​47підрозділССП
-description: W:8 L:4 D:0 Bonus ✅ 
+description: W:9 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739981831
+date: 1740427233
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1739981831
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (214)|
-| ELO Competitive | 1313 🔺  (270)|
-| Total Matches | 12 |
-| Wins | 8 |
+| ELO Regular | 1298 🔺  (178)|
+| ELO Competitive | 1341 🔺  (213)|
+| Total Matches | 13 |
+| Wins | 9 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/24 | 17-5 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2025/02/19 | 16-7 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2025/02/14 | 6-12 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2025/02/09 | 5-33 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |

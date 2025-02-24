@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​昙花一现
-description: W:3 L:4 D:0 Bonus ❌ 
+description: W:3 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736744170
+date: 1740427233
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1736744170
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (914)|
-| ELO Competitive | 1193 🔻  (758)|
-| Total Matches | 7 |
+| ELO Regular | 1162 🔻  (1073)|
+| ELO Competitive | 1178 🔻  (1065)|
+| Total Matches | 8 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736312170,1735451573,1734761921,1734746290,1734157072,1733476780,1733031180];
+        let timestamps = [1739995233,1736312170,1735451573,1734761921,1734746290,1734157072,1733476780,1733031180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/24 | 0-10 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/01/13 | 0-8 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/01/03 | 2-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/12/26 | 4-2 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |

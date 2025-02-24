@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:12 L:3 D:1 Bonus ❌ 6%
+description: W:13 L:3 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1739495378
+date: 1740422724
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ date: 1739495378
 Looking for members. Come grow with us!
 ```
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1297 🔺  (178)|
-| ELO Competitive | 1311 🔺  (273)|
-| Total Matches | 16 |
-| Wins | 12 |
+| ELO Regular | 1309 🔺  (154)|
+| ELO Competitive | 1326 🔺  (242)|
+| Total Matches | 17 |
+| Wins | 13 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
+        let timestamps = [1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/24 | 16-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2025/02/14 | 11-2 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ❌ | 2025/02/05 | 7-10 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2025/01/26 | 12-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
