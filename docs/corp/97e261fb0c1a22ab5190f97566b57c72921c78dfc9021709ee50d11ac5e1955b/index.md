@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Air/Free_ziyou
-description: W:8 L:3 D:0 Bonus ✅ 
+description: W:8 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1739805193
 ---
@@ -15,7 +15,7 @@ date: 1739805193
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:38 L:22 D:1 Bonus ✅ 42%
+description: W:38 L:22 D:1 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739801887
 ---
@@ -29,7 +29,7 @@ Discord required for WS.
 148
 ```
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
