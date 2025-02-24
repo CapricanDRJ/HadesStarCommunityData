@@ -29,7 +29,7 @@ We have awesome queue for rs runs!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1417 🔺  (50)|
-| ELO Competitive | 1451 🔺  (107)|
+| ELO Competitive | 1451 🔺  (106)|
 | Total Matches | 42 |
 | Wins | 35 |
 | Losses | 7 |

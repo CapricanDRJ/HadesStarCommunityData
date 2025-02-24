@@ -22,7 +22,7 @@ gship for new members is much appreciated.🥰
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1274)|
+| ELO Regular | 1123 🔻  (1275)|
 | ELO Competitive | 1187 🔻  (862)|
 | Total Matches | 26 |
 | Wins | 9 |
