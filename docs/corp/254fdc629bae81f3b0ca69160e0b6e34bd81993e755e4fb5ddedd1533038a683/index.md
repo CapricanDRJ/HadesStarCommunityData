@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:7 L:18 D:0 Bonus ❌ 6%
+description: W:7 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739870697
+date: 1740365025
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ts!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1096 🔻  (1335)|
-| ELO Competitive | 1128 🔻  (1356)|
-| Total Matches | 25 |
+| ELO Regular | 1090 🔻  (1345)|
+| ELO Competitive | 1126 🔻  (1358)|
+| Total Matches | 26 |
 | Wins | 7 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739438697,1738897196,1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
+        let timestamps = [1739933025,1739438697,1738897196,1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/24 | 0-39 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ❌ | 2025/02/18 | 0-39 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/02/12 | 1-34 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2025/02/06 | 17-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |

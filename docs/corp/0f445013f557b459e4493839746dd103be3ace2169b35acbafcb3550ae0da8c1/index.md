@@ -22,7 +22,7 @@ mperial High Council
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (1012)|
-| ELO Competitive | 1170 🔻  (1162)|
+| ELO Competitive | 1170 🔻  (1163)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
