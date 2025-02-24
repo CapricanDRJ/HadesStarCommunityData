@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ItBurnsWhenIEMP
-description: W:24 L:8 D:0 Bonus ✅ 48%
+description: W:24 L:8 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1739744198
 ---
@@ -18,11 +18,11 @@ date: 1739744198
 =orange>GAGZQ3U</color>
 ```
 ### [Discord](https://discord.gg/GAGZQ3U)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (142)|
+| ELO Regular | 1319 🔺  (140)|
 | ELO Competitive | 1349 🔺  (204)|
 | Total Matches | 32 |
 | Wins | 24 |
