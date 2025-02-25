@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:43 L:33 D:3 Bonus ✅ 40%
+description: W:43 L:33 D:3 Bonus ❌ 10%
 image: ./favicon.png
 date: 1739832844
 ---
@@ -18,7 +18,7 @@ rying there best. Players that don't help towards Whitestar will be r
 emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 ```
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

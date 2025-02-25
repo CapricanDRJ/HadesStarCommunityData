@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:13 L:11 D:0 Bonus ❌ 7%
+description: W:13 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737792717
+date: 1740438056
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ion. Team focused; total support. Growing fast!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (256)|
-| ELO Competitive | 1293 🔻  (313)|
-| Total Matches | 24 |
+| ELO Regular | 1241 🔻  (298)|
+| ELO Competitive | 1276 🔻  (358)|
+| Total Matches | 25 |
 | Wins | 13 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737360717,1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
+        let timestamps = [1740006056,1737360717,1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/24 | 10-12 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/01/25 | 2-30 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2024/12/21 | 16-8 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/11/22 | 9-8 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
