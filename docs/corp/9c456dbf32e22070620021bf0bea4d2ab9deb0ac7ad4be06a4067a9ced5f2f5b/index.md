@@ -19,8 +19,8 @@ Active members looking to expand together and conquer white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔻  (467)|
-| ELO Competitive | 1237 🔻  (464)|
+| ELO Regular | 1210 🔻  (466)|
+| ELO Competitive | 1237 🔻  (465)|
 | Total Matches | 19 |
 | Wins | 11 |
 | Losses | 7 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Terran empire 
-description: W:3 L:1 D:0 Bonus ❌ 
+description: W:4 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740004420
+date: 1740512596
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1740004420
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (347)|
-| ELO Competitive | 1231 🔻  (479)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1241 🔺  (298)|
+| ELO Competitive | 1251 🔺  (420)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1740080596,1739572420,1739031827,1738362872,1737920848];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/25 | 20-2 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/02/19 | 4-8 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/02/13 | 5-1 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
 | ✅ | 2025/02/05 | 18-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |

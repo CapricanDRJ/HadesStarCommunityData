@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quantum Pioneer
-description: W:4 L:3 D:0 Bonus ✅ 
+description: W:4 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739962041
+date: 1740513198
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1739962041
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (392)|
-| ELO Competitive | 1227 🔺  (500)|
-| Total Matches | 7 |
+| ELO Regular | 1200 🔻  (522)|
+| ELO Competitive | 1216 🔻  (574)|
+| Total Matches | 8 |
 | Wins | 4 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
+        let timestamps = [1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/25 | 2-21 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/02/19 | 7-0 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/02/13 | 1-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/02/06 | 0-3 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |

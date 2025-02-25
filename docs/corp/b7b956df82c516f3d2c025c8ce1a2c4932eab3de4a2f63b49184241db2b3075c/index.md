@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Witness
-description: W:17 L:32 D:3 Bonus ✅ 34%
+description: W:17 L:32 D:3 Bonus ❌ 7%
 image: ./favicon.png
 date: 1740365510
 ---
@@ -18,7 +18,7 @@ Friendly and helpful. Open to all. Discord is required.
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
 ### [Discord](https://discord.gg/CzUVew5w)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
