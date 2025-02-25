@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:10 L:15 D:0 Bonus ✅ 42%
+description: W:10 L:15 D:0 Bonus ❌ 11%
 image: ./favicon.png
 date: 1739854174
 ---
@@ -24,7 +24,7 @@ MarceloPC#2109
 JUNTOS SOMOS MAIS FORTES
 ```
 ### [Discord](https://discord.gg/fmyTs3k)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
