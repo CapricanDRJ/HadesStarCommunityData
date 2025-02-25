@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:10 L:15 D:0 Bonus ❌ 11%
+description: W:10 L:16 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1739854174
+date: 1740468405
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,13 +28,12 @@ JUNTOS SOMOS MAIS FORTES
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔺  (591)|
-| ELO Competitive | 1239 🔺  (460)|
-| Total Matches | 25 |
+| ELO Regular | 1183 🔻  (868)|
+| ELO Competitive | 1230 🔻  (489)|
+| Total Matches | 26 |
 | Wins | 10 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 11 |
 
@@ -54,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739422174,1738792025,1738235756,1737585493,1737013315,1736382798,1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
+        let timestamps = [1740036405,1739422174,1738792025,1738235756,1737585493,1737013315,1736382798,1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/25 | 17-24 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ✅ | 2025/02/18 | 48-5 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2025/02/10 | 29-0 | [柯伊伯带试炼塔](https://ws.tsl.rocks/corp/dde335e4db20006ce28e1c1cf1cf3bbe510a97c5915b67cb2e31400e98291ca1/) |
 | ✅ | 2025/02/04 | 41-17 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |

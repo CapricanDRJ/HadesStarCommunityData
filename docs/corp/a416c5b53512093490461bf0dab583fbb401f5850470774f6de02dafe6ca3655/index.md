@@ -21,8 +21,8 @@ t, but the whole Hades universe belongs to us!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1277)|
-| ELO Competitive | 1134 🔻  (1350)|
+| ELO Regular | 1123 🔻  (1278)|
+| ELO Competitive | 1134 🔻  (1351)|
 | Total Matches | 11 |
 | Wins | 1 |
 | Losses | 7 |
