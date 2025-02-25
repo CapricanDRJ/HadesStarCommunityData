@@ -25,7 +25,7 @@ Discord: https://discord.gg/vndpWu5
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (418)|
-| ELO Competitive | 1215 🔺  (577)|
+| ELO Competitive | 1215 🔺  (578)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
