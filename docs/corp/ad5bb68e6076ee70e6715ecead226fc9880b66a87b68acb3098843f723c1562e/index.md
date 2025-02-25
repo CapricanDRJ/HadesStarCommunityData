@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:13 L:25 D:0 Bonus ❌ 11%
+description: W:13 L:26 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1737410462
+date: 1740485535
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ r White Star runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1112)|
-| ELO Competitive | 1208 🔻  (638)|
-| Total Matches | 38 |
+| ELO Regular | 1154 🔻  (1133)|
+| ELO Competitive | 1206 🔻  (642)|
+| Total Matches | 39 |
 | Wins | 13 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 9 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736978462,1734352685,1733076559,1732357143,1731421114,1730408425,1727853093,1727200114,1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
+        let timestamps = [1740053535,1736978462,1734352685,1733076559,1732357143,1731421114,1730408425,1727853093,1727200114,1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/25 | 0-35 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2025/01/20 | 16-24 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ❌ | 2024/12/21 | 16-38 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/12/06 | 10-20 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
