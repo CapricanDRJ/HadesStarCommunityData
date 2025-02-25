@@ -22,7 +22,7 @@ ord https://discord.gg/BdUFA9bhPE , This is the way.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1057)|
+| ELO Regular | 1165 🔻  (1055)|
 | ELO Competitive | 1168 🔻  (1175)|
 | Total Matches | 5 |
 | Wins | 1 |

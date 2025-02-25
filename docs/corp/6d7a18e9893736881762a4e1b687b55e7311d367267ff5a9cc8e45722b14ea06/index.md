@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:22 L:47 D:1 Bonus ✅ 36%
+description: W:22 L:47 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739895941
 ---
@@ -18,7 +18,7 @@ embers Star Nations that are apart of it against the chaos outside of
  it. Casual group with a couple hardcore players! 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

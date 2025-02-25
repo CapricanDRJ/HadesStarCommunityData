@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legion Prime
-description: W:13 L:16 D:0 Bonus ✅ 38%
+description: W:13 L:16 D:0 Bonus ❌ 9%
 image: ./favicon.png
 date: 1739896542
 ---
@@ -17,12 +17,12 @@ date: 1739896542
 p of players that play hard and enjoy the game!  Join us for RS and W
 S!                         
 ```
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔺  (880)|
-| ELO Competitive | 1227 🔺  (500)|
+| ELO Competitive | 1227 🔺  (499)|
 | Total Matches | 29 |
 | Wins | 13 |
 | Losses | 16 |
