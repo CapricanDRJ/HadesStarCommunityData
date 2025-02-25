@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​碧海听潮阁
-description: W:12 L:8 D:4 Bonus ✅ 
+description: W:12 L:9 D:4 Bonus ✅ 
 image: ./favicon.png
-date: 1740057605
+date: 1740490045
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1740057605
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (317)|
-| ELO Competitive | 1324 🔺  (246)|
-| Total Matches | 24 |
+| ELO Regular | 1222 🔻  (368)|
+| ELO Competitive | 1306 🔻  (283)|
+| Total Matches | 25 |
 | Wins | 12 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/25 | 3-17 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/02/20 | 10-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2025/02/17 | 1-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ↔️ | 2025/02/15 | 3-3 | [超越声速](https://ws.tsl.rocks/corp/c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183/) |

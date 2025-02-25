@@ -23,7 +23,7 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔺  (1056)|
-| ELO Competitive | 1302 🔺  (291)|
+| ELO Competitive | 1302 🔺  (290)|
 | Total Matches | 86 |
 | Wins | 26 |
 | Losses | 60 |
