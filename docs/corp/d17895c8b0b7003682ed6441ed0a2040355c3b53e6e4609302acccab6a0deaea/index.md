@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BAB
-description: W:0 L:4 D:1 Bonus ❌ 3%
+description: W:0 L:5 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1740105073
+date: 1740576901
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1740105073
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1183)|
-| ELO Competitive | 1149 🔻  (1294)|
-| Total Matches | 5 |
+| ELO Regular | 1132 🔻  (1243)|
+| ELO Competitive | 1136 🔻  (1343)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739673073,1735093033,1733075981,1732459650,1730821005];
+        let timestamps = [1740144901,1739673073,1735093033,1733075981,1732459650,1730821005];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/26 | 0-6 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/02/21 | 0-8 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/30 | 0-6 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/12/06 | 0-4 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |

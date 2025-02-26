@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​萌新集团
-description: W:7 L:2 D:0 Bonus ✅ 
+description: W:8 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740070230
+date: 1740577502
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1740070230
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (229)|
-| ELO Competitive | 1279 🔺  (351)|
-| Total Matches | 9 |
-| Wins | 7 |
+| ELO Regular | 1279 🔺  (215)|
+| ELO Competitive | 1291 🔺  (314)|
+| Total Matches | 10 |
+| Wins | 8 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739638230,1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
+        let timestamps = [1740145502,1739638230,1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/26 | 17-1 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ✅ | 2025/02/20 | 2-0 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/01/27 | 0-8 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/01/16 | 16-1 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
