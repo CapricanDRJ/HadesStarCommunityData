@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VoidCorp
-description: W:43 L:30 D:1 Bonus ✅ 48%
+description: W:43 L:30 D:1 Bonus ❌ 14%
 image: ./favicon.png
 date: 1740418212
 ---
@@ -17,12 +17,12 @@ Elite Warriors of VoidCorp/SoS            Part of the Oceanic Allianc
 e. 
 ```
 ### [Discord](https://discord.gg/9vG4zU3)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1346 🔻  (106)|
-| ELO Competitive | 1439 🔻  (123)|
+| ELO Regular | 1346 🔻  (107)|
+| ELO Competitive | 1439 🔻  (124)|
 | Total Matches | 74 |
 | Wins | 43 |
 | Losses | 30 |
