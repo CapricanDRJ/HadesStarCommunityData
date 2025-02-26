@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:12 L:17 D:0 Bonus ✅ 40%
+description: W:12 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1740422423
 ---
@@ -21,7 +21,7 @@ date: 1740422423
 </i></color>
 ```
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

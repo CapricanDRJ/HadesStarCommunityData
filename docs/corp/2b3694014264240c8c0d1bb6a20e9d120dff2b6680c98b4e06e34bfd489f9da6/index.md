@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:4 L:7 D:2 Bonus ✅ 30%
+description: W:4 L:7 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1739961441
 ---
@@ -16,12 +16,12 @@ date: 1739961441
 Start here. Figure things out. Have fun.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔺  (1137)|
-| ELO Competitive | 1171 🔺  (1148)|
+| ELO Regular | 1154 🔺  (1138)|
+| ELO Competitive | 1171 🔺  (1149)|
 | Total Matches | 13 |
 | Wins | 4 |
 | Losses | 7 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Pioneer
-description: W:4 L:4 D:0 Bonus ✅ 
+description: W:4 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740513198
 ---
@@ -15,7 +15,7 @@ date: 1740513198
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
