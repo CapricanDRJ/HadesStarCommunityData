@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Void
-description: W:13 L:19 D:0 Bonus ❌ 10%
+description: W:13 L:20 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1739294640
+date: 1740530330
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Primarily English
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1218)|
-| ELO Competitive | 1199 🔻  (698)|
-| Total Matches | 32 |
+| ELO Regular | 1132 🔻  (1242)|
+| ELO Competitive | 1198 🔻  (707)|
+| Total Matches | 33 |
 | Wins | 13 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 8 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738862640,1738261904,1737731523,1736124652,1732202996,1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
+        let timestamps = [1740098330,1738862640,1738261904,1737731523,1736124652,1732202996,1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/26 | 7-31 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/02/11 | 22-33 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ✅ | 2025/02/04 | 42-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2025/01/29 | 51-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |

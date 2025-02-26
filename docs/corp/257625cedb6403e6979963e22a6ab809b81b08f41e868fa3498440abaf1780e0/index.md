@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Tacitus
-description: W:3 L:0 D:0 Bonus ❌ 11%
+description: W:4 L:0 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1737472366
+date: 1740527026
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 1737472366
 Part of Oceania Alliance.     New players welcome
 ```
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (329)|
-| ELO Competitive | 1241 🔺  (454)|
-| Total Matches | 3 |
-| Wins | 3 |
+| ELO Regular | 1247 🔺  (281)|
+| ELO Competitive | 1259 🔺  (399)|
+| Total Matches | 4 |
+| Wins | 4 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 8 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737040366,1729699847,1718487160];
+        let timestamps = [1740095026,1737040366,1729699847,1718487160];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/25 | 35-3 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2025/01/21 | 41-3 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
 | ✅ | 2024/10/28 | 41-15 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ✅ | 2024/06/20 | 27-13 | [The Seperatists](https://ws.tsl.rocks/corp/f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f/) |
