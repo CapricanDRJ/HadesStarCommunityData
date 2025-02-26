@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СНГ — РОССИЯ
-description: W:6 L:9 D:3 Bonus ✅ 30%
+description: W:6 L:9 D:3 Bonus ❌ 30%
 image: ./favicon.png
 date: 1739936805
 ---
@@ -15,7 +15,7 @@ date: 1739936805
 ```
 БУДУ РАД ВСЕМ.
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 30%
 
 | Statistic | Value |
 | --- | --- |
