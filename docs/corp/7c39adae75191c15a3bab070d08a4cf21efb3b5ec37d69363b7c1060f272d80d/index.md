@@ -20,7 +20,7 @@ Afk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (380)|
+| ELO Regular | 1220 🔻  (381)|
 | ELO Competitive | 1243 🔻  (449)|
 | Total Matches | 16 |
 | Wins | 9 |

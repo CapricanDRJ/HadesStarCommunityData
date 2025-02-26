@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:34 L:39 D:1 Bonus ✅ 36%
+description: W:34 L:39 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1739955132
 ---
@@ -18,7 +18,7 @@ st seasoned Veterans. This corp is made for and of its members! It wo
 uld be an Honor that you would join us! >=)
 ```
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
