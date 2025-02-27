@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:16 L:11 D:0 Bonus ✅ 48%
+description: W:16 L:12 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740602149
+date: 1740691098
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1740602149
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (226)|
+| ELO Regular | 1251 🔻  (270)|
 | ELO Competitive | 1350 🔺  (204)|
-| Total Matches | 27 |
+| Total Matches | 28 |
 | Wins | 16 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 9 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 10-16 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2025/02/26 | 17-9 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2025/02/20 | 1-30 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/02/15 | 12-14 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
