@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New YuGiOh
-description: W:9 L:1 D:1 Bonus ✅ 
+description: W:10 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1740076542
+date: 1740675772
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1740076542
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (168)|
-| ELO Competitive | 1322 🔺  (253)|
-| Total Matches | 11 |
-| Wins | 9 |
+| ELO Regular | 1312 🔺  (150)|
+| ELO Competitive | 1332 🔺  (236)|
+| Total Matches | 12 |
+| Wins | 10 |
 | Losses | 1 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
+        let timestamps = [1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/27 | 15-0 | [RDR2](https://ws.tsl.rocks/corp/5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd/) |
 | ✅ | 2025/02/20 | 5-0 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2025/02/20 | 0-2 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ✅ | 2025/02/15 | 10-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |

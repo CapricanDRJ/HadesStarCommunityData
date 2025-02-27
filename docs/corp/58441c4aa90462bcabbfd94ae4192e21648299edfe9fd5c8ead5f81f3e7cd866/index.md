@@ -20,7 +20,7 @@ Being active in Discovery is a requirement
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (703)|
-| ELO Competitive | 1193 🔻  (757)|
+| ELO Competitive | 1193 🔻  (756)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

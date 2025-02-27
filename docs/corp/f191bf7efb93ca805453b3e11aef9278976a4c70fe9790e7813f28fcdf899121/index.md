@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dumpster Fire
-description: W:24 L:50 D:0 Bonus ✅ 40%
+description: W:24 L:50 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1740601548
 ---
@@ -22,7 +22,7 @@ Weekly Casual
 Discord-Free White Star
 ```
 ### [Discord](https://discord.gg/FCWdtswtP5)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

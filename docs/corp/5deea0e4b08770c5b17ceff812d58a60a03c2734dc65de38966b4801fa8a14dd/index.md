@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RDR2
-description: W:0 L:0 D:1 Bonus ❌ 2%
+description: W:0 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1704211691
+date: 1740675772
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 1704211691
 ```
 Have some God Damn Faith, we just need more MONEY! Active 12/31/23
 ```
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (526)|
-| ELO Competitive | 1200 ▫️  (683)|
-| Total Matches | 1 |
+| ELO Regular | 1189 🔻  (640)|
+| ELO Competitive | 1190 🔻  (798)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1703779691];
+        let timestamps = [1740243772,1703779691];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 0-15 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ↔️ | 2024/01/02 | 3-3 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 
 ---

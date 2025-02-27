@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:27 L:3 D:0 Bonus ✅ 34%
+description: W:27 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 date: 1740068126
 ---
@@ -17,7 +17,7 @@ date: 1740068126
  weekly ws   and in a search of active players,no discord required 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
