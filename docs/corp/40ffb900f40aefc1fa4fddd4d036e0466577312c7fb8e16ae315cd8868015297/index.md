@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:17 L:5 D:0 Bonus ❌ 6%
+description: W:17 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740026952
+date: 1740614169
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1740026952
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔻  (155)|
-| ELO Competitive | 1371 🔻  (178)|
-| Total Matches | 22 |
+| ELO Regular | 1289 🔻  (191)|
+| ELO Competitive | 1351 🔻  (203)|
+| Total Matches | 23 |
 | Wins | 17 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/26 | 2-20 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/02/20 | 4-9 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2025/02/20 | 0-13 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/02/12 | 21-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
