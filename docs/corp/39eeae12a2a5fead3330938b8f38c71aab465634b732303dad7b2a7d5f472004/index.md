@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:37 L:18 D:0 Bonus ❌ 8%
+description: W:37 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739449700
+date: 1740619556
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1739449700
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔺  (93)|
-| ELO Competitive | 1473 🔺  (85)|
-| Total Matches | 55 |
+| ELO Regular | 1338 🔻  (118)|
+| ELO Competitive | 1456 🔻  (99)|
+| Total Matches | 56 |
 | Wins | 37 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739017700,1738195197,1737570466,1737060809,1736456726,1735846316,1735123374,1734556709,1734069330,1733465665,1732856894,1732356242,1730813191,1730153610,1729506926,1729499414,1728880039,1728298470,1727686309,1727096441,1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
+        let timestamps = [1740187556,1739017700,1738195197,1737570466,1737060809,1736456726,1735846316,1735123374,1734556709,1734069330,1733465665,1732856894,1732356242,1730813191,1730153610,1729506926,1729499414,1728880039,1728298470,1727686309,1727096441,1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1 | 1 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 0 | 2 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 2 | 1 | 0 | 3 |
 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) | 2 | 0 | 0 | 2 |
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 1-11 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2025/02/13 | 25-4 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/02/03 | 13-2 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/01/27 | 3-18 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

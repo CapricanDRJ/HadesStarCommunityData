@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​九州·华夏
-description: W:3 L:1 D:0 Bonus ❌ 
+description: W:3 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739962041
+date: 1740617173
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1739962041
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔻  (367)|
-| ELO Competitive | 1215 🔻  (591)|
-| Total Matches | 4 |
+| ELO Regular | 1211 🔻  (460)|
+| ELO Competitive | 1205 🔻  (645)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1740185173,1739530041,1739360871,1739018301,1738545311];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 2-3 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/02/19 | 0-7 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/02/17 | 4-3 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2025/02/13 | 6-4 | [Империя ситхов](https://ws.tsl.rocks/corp/9e1f0256de13abfba9df4dc3a3c4937a5ee55e5371d60ec8a92ec386e75b0007/) |

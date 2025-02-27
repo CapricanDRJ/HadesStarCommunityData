@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dominadores
-description: W:1 L:2 D:0 Bonus ❌ 6%
+description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731010507
+date: 1740623727
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ udo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (871)|
-| ELO Competitive | 1187 🔻  (865)|
-| Total Matches | 3 |
+| ELO Regular | 1177 🔻  (908)|
+| ELO Competitive | 1185 🔻  (942)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730578507,1729881040,1729252138];
+        let timestamps = [1740191727,1730578507,1729881040,1729252138];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 1-25 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/11/07 | 7-14 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
 | ❌ | 2024/10/30 | 0-31 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) |
 | ✅ | 2024/10/23 | 22-1 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |

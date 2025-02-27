@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cydonia Order
-description: W:21 L:14 D:2 Bonus ❌ 8%
+description: W:22 L:14 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740004420
+date: 1740617774
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 1740004420
 ```
 THE CYDONIAN EMPIRE™
 ```
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1312 🔺  (150)|
-| ELO Competitive | 1355 🔺  (196)|
-| Total Matches | 37 |
-| Wins | 21 |
+| ELO Regular | 1319 🔺  (139)|
+| ELO Competitive | 1361 🔺  (194)|
+| Total Matches | 38 |
+| Wins | 22 |
 | Losses | 14 |
 | Draws | 2 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
+        let timestamps = [1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/27 | 17-3 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 | ✅ | 2025/02/19 | 16-1 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ✅ | 2025/02/12 | 13-5 | [united unicorn](https://ws.tsl.rocks/corp/c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276/) |
 | ✅ | 2025/02/05 | 20-2 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |

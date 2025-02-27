@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Survivors
-description: W:4 L:14 D:1 Bonus ❌ 5%
+description: W:4 L:15 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1730566676
+date: 1740617774
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ll enemy forces! We are a small, recently created group of determined
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1353)|
-| ELO Competitive | 1108 🔻  (1392)|
-| Total Matches | 19 |
+| ELO Regular | 1083 🔻  (1360)|
+| ELO Competitive | 1102 🔻  (1396)|
+| Total Matches | 20 |
 | Wins | 4 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730134676,1728272930,1724869775,1717399906,1714892155,1712674038,1711987443,1710471842,1709598985,1708515729,1707327661,1706412795,1705285274,1704578464,1703009146,1702397949,1701391726,1699823106,1699253036];
+        let timestamps = [1740185774,1730134676,1728272930,1724869775,1717399906,1714892155,1712674038,1711987443,1710471842,1709598985,1708515729,1707327661,1706412795,1705285274,1704578464,1703009146,1702397949,1701391726,1699823106,1699253036];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 3-17 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2024/11/02 | 1-3 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |
 | ❌ | 2024/10/12 | 2-6 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/09/02 | 5-8 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
