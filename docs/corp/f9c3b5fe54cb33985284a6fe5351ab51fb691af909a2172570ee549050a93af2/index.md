@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:12 L:11 D:0 Bonus ✅ 36%
+description: W:12 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740771030
+date: 1740774637
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (211)|
+| ELO Regular | 1259 🔻  (246)|
 | ELO Competitive | 1346 🔺  (210)|
-| Total Matches | 23 |
+| Total Matches | 24 |
 | Wins | 12 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 8 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/28 | 2-21 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/02/28 | 33-3 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2025/02/22 | 39-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2025/02/15 | 30-17 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |

@@ -22,7 +22,7 @@ e Infos on Discord or at: hadestitans.com
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1291 🔺  (190)|
-| ELO Competitive | 1490 🔺  (76)|
+| ELO Competitive | 1490 🔺  (77)|
 | Total Matches | 89 |
 | Wins | 52 |
 | Losses | 33 |
