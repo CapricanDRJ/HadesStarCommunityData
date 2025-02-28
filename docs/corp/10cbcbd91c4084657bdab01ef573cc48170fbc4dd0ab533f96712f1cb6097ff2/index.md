@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:40 L:30 D:0 Bonus ✅ 40%
+description: W:40 L:30 D:0 Bonus ❌ 40%
 image: ./favicon.png
 date: 1740152872
 ---
@@ -16,12 +16,12 @@ date: 1740152872
  Добро пожаловать! Открыты всем. Дата основания 09.06.22. Ссылка на г
 остевой чат в ТГ https://t.me/Date_Samurai_HS
 ```
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1356 🔺  (92)|
-| ELO Competitive | 1462 🔺  (95)|
+| ELO Competitive | 1462 🔺  (96)|
 | Total Matches | 70 |
 | Wins | 40 |
 | Losses | 30 |

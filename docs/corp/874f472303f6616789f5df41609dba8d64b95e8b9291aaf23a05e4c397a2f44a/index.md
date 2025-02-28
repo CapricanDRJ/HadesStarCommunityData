@@ -21,7 +21,7 @@ a gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (206)|
+| ELO Regular | 1282 🔺  (205)|
 | ELO Competitive | 1307 🔺  (280)|
 | Total Matches | 16 |
 | Wins | 11 |
