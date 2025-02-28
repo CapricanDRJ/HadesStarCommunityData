@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Latinos :)
-description: W:0 L:2 D:0 Bonus ❌ 1%
+description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1726645867
+date: 1740697109
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ Hola esta corporacion es para nuevos
 que quieran aprender a jugar rodeados de amigo intergalácticos :) UNA
 NSE
 ```
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1032)|
-| ELO Competitive | 1172 🔻  (1137)|
-| Total Matches | 2 |
+| ELO Regular | 1154 🔻  (1140)|
+| ELO Competitive | 1161 🔻  (1228)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726213867,1714635285];
+        let timestamps = [1740265109,1726213867,1714635285];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/27 | 0-9 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/09/18 | 0-3 | [MD EMPIRE](https://ws.tsl.rocks/corp/69e8222c1c47637d7ed1a3c64683816837a73293a9164b2836022943206d21eb/) |
 | ❌ | 2024/05/07 | 0-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 

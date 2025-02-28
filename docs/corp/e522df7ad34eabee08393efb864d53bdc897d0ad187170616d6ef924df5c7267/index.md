@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:13 L:18 D:3 Bonus ✅ 32%
+description: W:14 L:18 D:3 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740295906
+date: 1740697109
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1740295906
 26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集
 团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1025)|
-| ELO Competitive | 1280 🔺  (349)|
-| Total Matches | 34 |
-| Wins | 13 |
+| ELO Regular | 1184 🔺  (840)|
+| ELO Competitive | 1291 🔺  (317)|
+| Total Matches | 35 |
+| Wins | 14 |
 | Losses | 18 |
 | Draws | 3 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739863906,1739797495,1739206724,1739161649,1738438983,1738422380,1737685524,1737632061,1736982970,1736515622,1736510813,1735721850,1735231544,1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1740265109,1739863906,1739797495,1739206724,1739161649,1738438983,1738422380,1737685524,1737632061,1736982970,1736515622,1736510813,1735721850,1735231544,1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/27 | 9-0 | [Latinos :\)](https://ws.tsl.rocks/corp/f4ce6442812aef55ce3fc3a333546bb9fe970b19da13112a80fe5b2753d1233e/) |
 | ❌ | 2025/02/23 | 0-4 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/02/22 | 7-1 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ❌ | 2025/02/15 | 1-3 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |

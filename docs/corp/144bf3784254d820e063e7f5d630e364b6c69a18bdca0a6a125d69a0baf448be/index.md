@@ -21,7 +21,7 @@ e game and grow. Discord server linked below!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (830)|
+| ELO Regular | 1184 🔻  (831)|
 | ELO Competitive | 1187 🔻  (877)|
 | Total Matches | 2 |
 | Wins | 0 |

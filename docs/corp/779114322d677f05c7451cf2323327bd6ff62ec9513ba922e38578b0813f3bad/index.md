@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Star
-description: W:12 L:15 D:1 Bonus ✅ 32%
+description: W:13 L:15 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740324153
+date: 1740698010
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 1740324153
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (902)|
-| ELO Competitive | 1278 🔺  (357)|
-| Total Matches | 28 |
-| Wins | 12 |
+| ELO Regular | 1188 🔺  (657)|
+| ELO Competitive | 1285 🔺  (336)|
+| Total Matches | 29 |
+| Wins | 13 |
 | Losses | 15 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/27 | 6-0 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 | ❌ | 2025/02/23 | 6-9 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2025/02/21 | 10-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/02/16 | 0-9 | [中国家民](https://ws.tsl.rocks/corp/af75be08923f73af2bd3821bcfbdef3e3abbcbc0b9aaeacfeae528cfbf972f5f/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​USSR
-description: W:6 L:1 D:0 Bonus ❌ 8%
+description: W:7 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1739680960
+date: 1740700113
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,18 +20,18 @@ date: 1739680960
 
  
 ```
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (210)|
-| ELO Competitive | 1297 🔺  (300)|
-| Total Matches | 7 |
-| Wins | 6 |
+| ELO Regular | 1295 🔺  (182)|
+| ELO Competitive | 1314 🔺  (272)|
+| Total Matches | 8 |
+| Wins | 7 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 7 |
 
 ---
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739248960,1738792326,1736899110,1734502017,1712900587,1708152126,1705647383];
+        let timestamps = [1740268113,1739248960,1738792326,1736899110,1734502017,1712900587,1708152126,1705647383];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/27 | 13-1 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2025/02/16 | 14-9 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2025/02/10 | 25-0 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ✅ | 2025/01/19 | 30-8 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |

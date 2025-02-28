@@ -22,7 +22,7 @@ Discord: bMXfmD9sKE   Телега: @whiskas_tyan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (777)|
+| ELO Regular | 1185 🔻  (778)|
 | ELO Competitive | 1185 🔻  (950)|
 | Total Matches | 1 |
 | Wins | 0 |
