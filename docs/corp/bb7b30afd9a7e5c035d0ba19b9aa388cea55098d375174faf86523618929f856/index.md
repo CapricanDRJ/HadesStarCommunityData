@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kingdom Of Meow
-description: W:1 L:6 D:0 Bonus ✅ 28%
+description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 date: 1740099681
 ---
@@ -16,7 +16,7 @@ date: 1740099681
 Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
 Discord: https://discord.gg/Fyag9U7KFh
 ```
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

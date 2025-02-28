@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GDZ
-description: W:50 L:43 D:0 Bonus ✅ 46%
+description: W:50 L:43 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1740616572
 ---
@@ -16,7 +16,7 @@ date: 1740616572
 “Gloria Dominatio Zelus” Under a black flag we sail.
 ```
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

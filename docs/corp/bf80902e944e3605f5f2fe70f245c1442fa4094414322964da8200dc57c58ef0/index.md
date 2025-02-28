@@ -22,7 +22,7 @@ tiv erwünscht
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1295)|
-| ELO Competitive | 1118 🔻  (1381)|
+| ELO Competitive | 1118 🔻  (1380)|
 | Total Matches | 9 |
 | Wins | 1 |
 | Losses | 8 |

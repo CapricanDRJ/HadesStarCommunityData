@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​分子集团
-description: W:3 L:7 D:0 Bonus ❌ 5%
+description: W:4 L:7 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1739961441
+date: 1740711528
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1739961441
 （瓜老板），（白芷），（瓜老板？世），（瓜摊爷）  萌新加入可自选一个r六神器（提醒我或副首席）举报瓜老板混入集团送神器（首席和副首席所有
 最高级神器），乱举报踢出 首席周末才在 （建议周四晚上开白）打白不得违抗首席和副首席的命令！ 友团：昙花一现
 ```
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1127)|
-| ELO Competitive | 1190 🔺  (793)|
-| Total Matches | 10 |
-| Wins | 3 |
+| ELO Regular | 1164 🔺  (1063)|
+| ELO Competitive | 1202 🔺  (661)|
+| Total Matches | 11 |
+| Wins | 4 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739529441,1739436894,1738945880,1738919431,1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
+        let timestamps = [1740279528,1739529441,1739436894,1738945880,1738919431,1738271006,1737599312,1734761921,1732888142,1732119764,1731672016];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/28 | 3-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2025/02/19 | 0-7 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ✅ | 2025/02/18 | 6-4 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ✅ | 2025/02/12 | 2-0 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |

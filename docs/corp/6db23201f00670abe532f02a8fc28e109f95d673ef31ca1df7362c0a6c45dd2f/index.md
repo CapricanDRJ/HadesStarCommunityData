@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:12 L:25 D:0 Bonus ✅ 36%
+description: W:12 L:25 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1740108995
 ---
@@ -18,7 +18,7 @@ date: 1740108995
 in us or prepare to meet your destiny.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
