@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DTC
-description: W:26 L:60 D:0 Bonus ✅ 52%
+description: W:26 L:60 D:0 Bonus ❌ 16%
 image: ./favicon.png
 date: 1740139947
 ---
@@ -18,7 +18,7 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
  french language mainly           on est là pour s amuser 🍻🍻
 ```
 ### [Discord](https://discord.gg/5FcqEU96nM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

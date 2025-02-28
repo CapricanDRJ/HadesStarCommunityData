@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​MiddleOfNowhere
-description: W:3 L:1 D:0 Bonus ❌ 5%
+description: W:4 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1740122216
+date: 1740738268
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 .
 ```
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (334)|
-| ELO Competitive | 1250 🔺  (428)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1239 🔺  (312)|
+| ELO Competitive | 1266 🔺  (384)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 4 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739690216,1739111761,1738523672,1724326221];
+        let timestamps = [1740306268,1739690216,1739111761,1738523672,1724326221];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/28 | 31-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/02/21 | 10-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/02/14 | 28-10 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2025/02/07 | 19-1 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |

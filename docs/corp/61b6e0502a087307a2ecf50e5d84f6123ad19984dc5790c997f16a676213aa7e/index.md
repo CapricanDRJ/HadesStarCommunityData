@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​羽共和体
-description: W:17 L:26 D:8 Bonus ❌ 7%
+description: W:18 L:26 D:8 Bonus ✅ 34%
 image: ./favicon.png
-date: 1738506429
+date: 1740741574
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1738506429
 集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公
 历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1185)|
-| ELO Competitive | 1219 🔻  (532)|
-| Total Matches | 51 |
-| Wins | 17 |
+| ELO Regular | 1160 🔺  (1091)|
+| ELO Competitive | 1235 🔺  (470)|
+| Total Matches | 52 |
+| Wins | 18 |
 | Losses | 26 |
 | Draws | 8 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738074429,1728303880,1727786981,1727272223,1726838319,1726835013,1726332665,1725883424,1725443811,1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
+        let timestamps = [1740309574,1738074429,1728303880,1727786981,1727272223,1726838319,1726835013,1726332665,1725883424,1725443811,1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/28 | 10-0 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | ❌ | 2025/02/02 | 0-12 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2024/10/12 | 8-24 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ❌ | 2024/10/06 | 4-16 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
