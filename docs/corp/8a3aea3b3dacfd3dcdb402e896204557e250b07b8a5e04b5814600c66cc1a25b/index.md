@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Famous Assasins
-description: W:68 L:13 D:0 Bonus ✅ 50%
+description: W:68 L:13 D:0 Bonus ❌ 15%
 image: ./favicon.png
 date: 1740153774
 ---
@@ -20,12 +20,12 @@ RTA...</b>
 --------- We are Active in Dark Nebula ---------
 ```
 ### [Discord](https://discord.gg/YHtMuQK)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1464 🔺  (20)|
-| ELO Competitive | 1564 🔺  (33)|
+| ELO Competitive | 1564 🔺  (34)|
 | Total Matches | 81 |
 | Wins | 68 |
 | Losses | 13 |

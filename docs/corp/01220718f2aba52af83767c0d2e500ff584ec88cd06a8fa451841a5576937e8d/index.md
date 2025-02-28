@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​✨ℛedstar Order«
-description: W:9 L:2 D:0 Bonus ✅ 
+description: W:9 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740715493
+date: 1740765620
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1740715493
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (200)|
-| ELO Competitive | 1296 🔺  (302)|
-| Total Matches | 11 |
+| ELO Regular | 1272 🔻  (219)|
+| ELO Competitive | 1296 🔺  (303)|
+| Total Matches | 12 |
 | Wins | 9 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/28 | 1-6 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/02/28 | 6-0 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2025/02/23 | 9-0 | [          银钒   ](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
 | ✅ | 2025/02/22 | 15-0 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |

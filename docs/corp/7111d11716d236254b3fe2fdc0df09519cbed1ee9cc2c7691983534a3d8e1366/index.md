@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:6 L:33 D:0 Bonus ✅ 46%
+description: W:6 L:33 D:0 Bonus ❌ 13%
 image: ./favicon.png
 date: 1740744279
 ---
@@ -24,7 +24,7 @@ https://discord.gg/M35HmhvmC2
 
 Mitglied der Tartaros Armada 
 ```
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

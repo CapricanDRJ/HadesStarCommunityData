@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​=AMG=
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740139947
+date: 1740759308
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1740139947
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (870)|
-| ELO Competitive | 1189 🔻  (824)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (965)|
+| ELO Competitive | 1185 🔻  (936)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739707947];
+        let timestamps = [1740327308,1739707947];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/28 | 6-50 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2025/02/21 | 25-39 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 
 ---

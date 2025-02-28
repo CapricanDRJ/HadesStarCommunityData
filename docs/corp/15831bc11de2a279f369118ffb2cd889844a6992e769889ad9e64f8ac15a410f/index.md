@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​No Orbit©
-description: W:18 L:9 D:0 Bonus ✅ 40%
+description: W:18 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 date: 1740156480
 ---
@@ -18,11 +18,11 @@ ot prepared to use Discord you will not be joining No Orbit as we now
  only accept people who have applied via Discord
 ```
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (171)|
+| ELO Regular | 1300 🔺  (172)|
 | ELO Competitive | 1335 🔺  (224)|
 | Total Matches | 27 |
 | Wins | 18 |

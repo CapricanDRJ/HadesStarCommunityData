@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: W:15 L:12 D:2 Bonus ✅ 34%
+description: W:15 L:12 D:2 Bonus ❌ 7%
 image: ./favicon.png
 date: 1740740672
 ---
@@ -17,11 +17,11 @@ Alianza: axolotls
 
 Ni retirada ni rendicion 
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (227)|
+| ELO Regular | 1269 🔻  (226)|
 | ELO Competitive | 1318 🔻  (263)|
 | Total Matches | 29 |
 | Wins | 15 |

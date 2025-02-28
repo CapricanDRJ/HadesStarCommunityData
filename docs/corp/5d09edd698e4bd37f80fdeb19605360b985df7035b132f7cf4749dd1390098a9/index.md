@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lupus Regnum
-description: W:14 L:3 D:0 Bonus ✅ 
+description: W:15 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740757505
+date: 1740765620
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 1740757505
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔺  (132)|
+| ELO Regular | 1339 🔺  (115)|
 | ELO Competitive | 1344 🔺  (213)|
-| Total Matches | 17 |
-| Wins | 14 |
+| Total Matches | 18 |
+| Wins | 15 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
+        let timestamps = [1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/28 | 6-1 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/02/28 | 30-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/02/21 | 15-0 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2025/02/21 | 5-0 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
