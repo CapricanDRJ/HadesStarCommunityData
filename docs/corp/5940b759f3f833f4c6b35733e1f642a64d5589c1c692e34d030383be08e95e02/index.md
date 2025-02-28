@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ark Summit
-description: W:16 L:0 D:0 Bonus ❌ 11%
+description: W:17 L:0 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1739576825
+date: 1740733761
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ duct yourself appropriately, for we are a highly experienced WS Group
 .<br><br>(D)RS7-10<br>Bi-Weekly WS<br>Discord Mandatory
 ```
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1385 🔺  (72)|
-| ELO Competitive | 1404 🔺  (147)|
-| Total Matches | 16 |
-| Wins | 16 |
+| ELO Regular | 1391 🔺  (67)|
+| ELO Competitive | 1412 🔺  (140)|
+| Total Matches | 17 |
+| Wins | 17 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 | Flagship | 5 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739144825,1737860140,1737426831,1736994086,1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
+        let timestamps = [1740301761,1739144825,1737860140,1737426831,1736994086,1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/02/28 | 44-10 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | ✅ | 2025/02/14 | 49-6 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2025/01/31 | 28-4 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ✅ | 2025/01/26 | 42-3 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |

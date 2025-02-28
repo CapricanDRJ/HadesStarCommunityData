@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Kobol
-description: W:2 L:8 D:1 Bonus ❌ 
+description: W:2 L:9 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1740161590
+date: 1740733761
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1740161590
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1163)|
-| ELO Competitive | 1232 🔻  (478)|
-| Total Matches | 11 |
+| ELO Regular | 1143 🔻  (1198)|
+| ELO Competitive | 1224 🔻  (510)|
+| Total Matches | 12 |
 | Wins | 2 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
+        let timestamps = [1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/28 | 10-44 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
 | ❌ | 2025/02/21 | 0-6 | [N K B](https://ws.tsl.rocks/corp/078cfa0c4e4e118bbd13aa38a810e83f754fe53d40d5ab16232e50a6cf414dec/) |
 | ❌ | 2025/02/21 | 10-49 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ✅ | 2025/02/13 | 19-2 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |

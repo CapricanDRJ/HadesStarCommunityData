@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​无人之境
-description: W:1 L:16 D:0 Bonus ✅ 30%
+description: W:1 L:16 D:0 Bonus ❌ 5%
 image: ./favicon.png
 date: 1740563078
 ---
@@ -15,7 +15,7 @@ date: 1740563078
 ```
 You are lucky to meet me in White Star! Congratulations!
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
