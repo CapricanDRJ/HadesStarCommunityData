@@ -22,7 +22,7 @@ ew member is joined.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1194)|
-| ELO Competitive | 1155 🔻  (1271)|
+| ELO Competitive | 1155 🔻  (1272)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

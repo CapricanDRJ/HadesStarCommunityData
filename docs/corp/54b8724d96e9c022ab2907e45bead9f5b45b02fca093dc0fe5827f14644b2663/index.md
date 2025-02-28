@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:28 L:3 D:0 Bonus ❌ 8%
+description: W:28 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1737906006
+date: 1740721142
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -31,11 +31,11 @@ English only.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1421 🔻  (45)|
-| ELO Competitive | 1449 🔻  (110)|
-| Total Matches | 31 |
+| ELO Regular | 1405 🔻  (56)|
+| ELO Competitive | 1435 🔻  (124)|
+| Total Matches | 32 |
 | Wins | 28 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 21 |
 | Flagship | 4 |
@@ -56,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737474006,1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
+        let timestamps = [1740289142,1737474006,1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/02/28 | 16-35 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2025/01/26 | 13-38 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2025/01/13 | 18-10 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ✅ | 2024/12/30 | 15-6 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
