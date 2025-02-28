@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Starships
-description: W:3 L:1 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740169406
 ---
@@ -15,7 +15,7 @@ date: 1740169406
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
