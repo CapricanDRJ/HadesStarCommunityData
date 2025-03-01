@@ -20,7 +20,7 @@ Together We Can Achieve More.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1071)|
+| ELO Regular | 1163 🔻  (1072)|
 | ELO Competitive | 1221 🔻  (529)|
 | Total Matches | 49 |
 | Wins | 21 |
