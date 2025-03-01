@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:29 L:3 D:0 Bonus ❌ 36%
+description: W:29 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 date: 1740207260
 ---
@@ -18,7 +18,7 @@ thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>
 Discord Active • Coop DRS7-10 
 ```
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

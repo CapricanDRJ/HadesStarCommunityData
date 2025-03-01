@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​C'est pas faux!
-description: W:3 L:6 D:1 Bonus ✅ 34%
+description: W:3 L:6 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1740216874
 ---
@@ -21,7 +21,7 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 Discord : wZcGGNZ
 ```
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

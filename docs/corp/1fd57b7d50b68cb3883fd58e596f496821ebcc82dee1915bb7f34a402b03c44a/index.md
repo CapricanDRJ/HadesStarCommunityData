@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Scar
-description: W:47 L:27 D:1 Bonus ❌ 40%
+description: W:47 L:27 D:1 Bonus ❌ 10%
 image: ./favicon.png
 date: 1740785755
 ---
@@ -18,7 +18,7 @@ e stars. Joining discord is required for all activities and White Sta
 r involvement. Link is 👇
 ```
 ### [Discord](https://discord.gg/J5kNRjVJM4)
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
