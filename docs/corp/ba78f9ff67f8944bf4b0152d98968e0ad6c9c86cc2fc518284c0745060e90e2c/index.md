@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Highland Ind. 
-description: W:10 L:10 D:1 Bonus ❌ 10%
+description: W:11 L:10 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1714044555
+date: 1740798071
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1714044555
    Visit on Discord to join: discord.gg/vPsNNxs
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (874)|
-| ELO Competitive | 1234 🔻  (472)|
-| Total Matches | 21 |
-| Wins | 10 |
+| ELO Regular | 1197 🔺  (562)|
+| ELO Competitive | 1250 🔺  (427)|
+| Total Matches | 22 |
+| Wins | 11 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713612555,1712495850,1712162317,1711700475,1711300552,1708946331,1708652455,1708107656,1707665698,1707318644,1707148150,1706714215,1705869473,1704652092,1704022812,1703435599,1702825020,1702226338,1701615024,1700413444,1699294723];
+        let timestamps = [1740366071,1713612555,1712495850,1712162317,1711700475,1711300552,1708946331,1708652455,1708107656,1707665698,1707318644,1707148150,1706714215,1705869473,1704652092,1704022812,1703435599,1702825020,1702226338,1701615024,1700413444,1699294723];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/01 | 22-14 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/04/25 | 0-21 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/04/12 | 7-24 | [Dacia Chill](https://ws.tsl.rocks/corp/b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208/) |
 | ❌ | 2024/04/08 | 2-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
