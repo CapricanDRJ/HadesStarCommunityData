@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:15 L:4 D:1 Bonus ✅ 34%
+description: W:16 L:4 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740385154
+date: 1740844046
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔺  (105)|
-| ELO Competitive | 1395 🔺  (156)|
-| Total Matches | 20 |
-| Wins | 15 |
+| ELO Regular | 1358 🔺  (93)|
+| ELO Competitive | 1414 🔺  (139)|
+| Total Matches | 21 |
+| Wins | 16 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
+        let timestamps = [1740412046,1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/01 | 26-15 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2025/02/24 | 31-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2025/02/11 | 33-22 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ✅ | 2025/01/28 | 42-7 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |

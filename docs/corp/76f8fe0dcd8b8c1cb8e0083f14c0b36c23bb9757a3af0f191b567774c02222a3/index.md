@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:34 L:23 D:2 Bonus ✅ 36%
+description: W:34 L:24 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740257750
+date: 1740851259
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (125)|
-| ELO Competitive | 1409 🔺  (146)|
-| Total Matches | 59 |
+| ELO Regular | 1325 🔻  (134)|
+| ELO Competitive | 1399 🔻  (151)|
+| Total Matches | 60 |
 | Wins | 34 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 2 |
 | Streak Record | 17 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739825750,1738617433,1738023601,1737407302,1736790631,1736225319,1735618561,1734980970,1734375527,1733790807,1733161594,1732587933,1731978239,1731348402,1730738069,1730135577,1729526765,1728936547,1728326122,1727717571,1727134910,1726505176,1725902963,1725318803,1724690150,1724088829,1723489293,1722877453,1722268021,1721680500,1721049108,1720488887,1719849667,1719261136,1718657855,1718038637,1717428460,1716833406,1716222255,1715627967,1715013237,1714410407,1713804386,1713204679,1712591409,1711989246,1711480531,1710787048,1710181599,1709584863,1708993815,1708512123,1706563661,1705956021,1705364608,1704780410,1702944038,1702198382,1700640348];
+        let timestamps = [1740419259,1739825750,1738617433,1738023601,1737407302,1736790631,1736225319,1735618561,1734980970,1734375527,1733790807,1733161594,1732587933,1731978239,1731348402,1730738069,1730135577,1729526765,1728936547,1728326122,1727717571,1727134910,1726505176,1725902963,1725318803,1724690150,1724088829,1723489293,1722877453,1722268021,1721680500,1721049108,1720488887,1719849667,1719261136,1718657855,1718038637,1717428460,1716833406,1716222255,1715627967,1715013237,1714410407,1713804386,1713204679,1712591409,1711989246,1711480531,1710787048,1710181599,1709584863,1708993815,1708512123,1706563661,1705956021,1705364608,1704780410,1702944038,1702198382,1700640348];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,8 +133,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 2 | 6 | 0 | 8 |
 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) | 2 | 0 | 0 | 2 |
-| [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 2 | 5 | 0 | 7 |
 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 1 | 1 | 0 | 2 |
 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1 | 2 | 0 | 3 |
 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) | 0 | 2 | 0 | 2 |
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/01 | 8-15 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2025/02/22 | 34-6 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ❌ | 2025/02/08 | 8-28 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2025/02/02 | 33-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |

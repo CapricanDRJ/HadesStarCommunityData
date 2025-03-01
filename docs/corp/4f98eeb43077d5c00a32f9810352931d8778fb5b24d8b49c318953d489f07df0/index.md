@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:9 L:14 D:1 Bonus ✅ 32%
+description: W:9 L:15 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740841942
+date: 1740846450
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (1028)|
+| ELO Regular | 1157 🔻  (1114)|
 | ELO Competitive | 1191 🔺  (778)|
-| Total Matches | 24 |
+| Total Matches | 25 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 2 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/01 | 0-8 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/03/01 | 4-0 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
 | ✅ | 2025/02/23 | 10-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/02/10 | 3-0 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |

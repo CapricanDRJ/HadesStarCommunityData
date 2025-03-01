@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cerberus
-description: W:3 L:0 D:1 Bonus ✅ 
+description: W:4 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1740253542
+date: 1740846450
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1740253542
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (295)|
-| ELO Competitive | 1249 🔺  (433)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1255 🔺  (260)|
+| ELO Competitive | 1262 🔺  (396)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 0 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739821542,1739202216,1735049769,1733703372];
+        let timestamps = [1740414450,1739821542,1739202216,1735049769,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/01 | 8-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2025/02/22 | 5-0 | [✨ Love Room✨](https://ws.tsl.rocks/corp/b450313304cec8103f820ba28f338518c4247a57d2035b582ac3c7b45becbe1b/) |
 | ✅ | 2025/02/15 | 9-0 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2024/12/29 | 9-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Soul System
-description: W:4 L:16 D:0 Bonus ✅ 38%
+description: W:5 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740412500
+date: 1740844647
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ ust we are born our souls woven from light. RS and WS focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔺  (1275)|
-| ELO Competitive | 1161 🔺  (1226)|
-| Total Matches | 20 |
-| Wins | 4 |
+| ELO Regular | 1140 🔺  (1211)|
+| ELO Competitive | 1181 🔺  (1049)|
+| Total Matches | 21 |
+| Wins | 5 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 7 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/01 | 18-4 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2025/02/24 | 16-1 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2025/02/18 | 23-0 | [星月夜](https://ws.tsl.rocks/corp/6daf785d5c858520ba741ca1ebec0e6f18652c45b693c06033ee8995fbde6fe8/) |
 | ❌ | 2025/02/12 | 16-37 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
