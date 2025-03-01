@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:3 L:11 D:2 Bonus ❌ 5%
+description: W:3 L:12 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740240015
+date: 1740824209
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ adicionado aqui no chat!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1281)|
-| ELO Competitive | 1165 🔻  (1203)|
-| Total Matches | 16 |
+| ELO Regular | 1114 🔻  (1301)|
+| ELO Competitive | 1160 🔻  (1233)|
+| Total Matches | 17 |
 | Wins | 3 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/01 | 0-7 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/02/22 | 3-26 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/02/15 | 3-31 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/02/08 | 3-19 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:6 L:4 D:1 Bonus ❌ 5%
+description: W:6 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740064819
+date: 1740824509
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1740064819
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (366)|
-| ELO Competitive | 1248 🔺  (435)|
-| Total Matches | 11 |
+| ELO Regular | 1213 🔻  (450)|
+| ELO Competitive | 1237 🔻  (464)|
+| Total Matches | 12 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
+        let timestamps = [1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/01 | 3-11 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2025/02/20 | 10-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2025/02/10 | 12-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/02/03 | 23-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |

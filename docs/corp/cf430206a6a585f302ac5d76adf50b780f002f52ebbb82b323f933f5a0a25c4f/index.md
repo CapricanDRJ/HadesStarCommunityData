@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:9 D:3 Bonus ❌ 4%
+description: W:0 L:9 D:4 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740316639
+date: 1740826766
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,16 @@ date: 1740316639
 We do all types of stars we help in red stars we prepare to battle in
  blue stars and we battle white stars.Sorry i am not online that much
 ```
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1334)|
-| ELO Competitive | 1120 🔻  (1372)|
-| Total Matches | 12 |
+| ELO Regular | 1108 🔺  (1319)|
+| ELO Competitive | 1131 🔺  (1357)|
+| Total Matches | 13 |
 | Wins | 0 |
 | Losses | 9 |
-| Draws | 3 |
+| Draws | 4 |
 | Flagship | 1 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
+        let timestamps = [1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/01 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/02/23 | 0-18 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/02/16 | 0-6 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2025/02/10 | 0-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
