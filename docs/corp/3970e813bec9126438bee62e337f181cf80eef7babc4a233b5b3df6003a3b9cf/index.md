@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Free Star
-description: W:5 L:8 D:0 Bonus ❌ 5%
+description: W:5 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1704630910
+date: 1740841942
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1704630910
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1123)|
-| ELO Competitive | 1202 🔻  (660)|
-| Total Matches | 13 |
+| ELO Regular | 1141 🔻  (1209)|
+| ELO Competitive | 1186 🔻  (892)|
+| Total Matches | 14 |
 | Wins | 5 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704198910,1703236945,1702801576,1702270217,1701806474,1701437101,1701325605,1700882594,1700848930,1700383385,1700316361,1699627397,1699361733];
+        let timestamps = [1740409942,1704198910,1703236945,1702801576,1702270217,1701806474,1701437101,1701325605,1700882594,1700848930,1700383385,1700316361,1699627397,1699361733];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/01 | 0-4 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2024/01/07 | 2-4 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) |
 | ❌ | 2023/12/27 | 2-17 | [РусКорп](https://ws.tsl.rocks/corp/7994b4a10a625b21deff136a17c63d096a4ba2f5cdd9eb9dedd7d0bd21b53d16/) |
 | ❌ | 2023/12/22 | 2-19 | [\-=Содружество=\-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) |
