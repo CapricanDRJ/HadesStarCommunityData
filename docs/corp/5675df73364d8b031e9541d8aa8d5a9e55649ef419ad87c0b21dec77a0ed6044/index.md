@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:13 L:11 D:0 Bonus ❌ 8%
+description: W:14 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1739187958
+date: 1740859674
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,17 +21,17 @@ ER de 1-9
 Esperamos su llegada!
 <b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (257)|
-| ELO Competitive | 1297 🔺  (302)|
-| Total Matches | 24 |
-| Wins | 13 |
+| ELO Regular | 1277 🔺  (212)|
+| ELO Competitive | 1322 🔺  (256)|
+| Total Matches | 25 |
+| Wins | 14 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738755958,1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
+        let timestamps = [1740427674,1738755958,1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/01 | 14-11 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2025/02/10 | 19-2 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/) |
 | ✅ | 2025/01/29 | 28-0 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2025/01/12 | 6-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |

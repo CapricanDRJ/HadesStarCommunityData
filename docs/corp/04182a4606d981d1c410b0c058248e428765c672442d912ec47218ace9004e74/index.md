@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Created
-description: W:19 L:35 D:1 Bonus ❌ 36%
+description: W:19 L:35 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1740250235
 ---
@@ -15,12 +15,12 @@ date: 1740250235
 ```
 What a year….
 ```
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔺  (894)|
-| ELO Competitive | 1283 🔺  (343)|
+| ELO Competitive | 1283 🔺  (342)|
 | Total Matches | 55 |
 | Wins | 19 |
 | Losses | 35 |
