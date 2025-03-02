@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:16 L:1 D:0 Bonus ✅ 36%
+description: W:16 L:1 D:0 Bonus ❌ 36%
 image: ./favicon.png
 date: 1740282687
 ---
@@ -20,11 +20,11 @@ date: 1740282687
 Во имя благополучия соратников.
 Вместе мы сила и единство. 
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (80)|
+| ELO Regular | 1373 🔺  (81)|
 | ELO Competitive | 1434 🔺  (125)|
 | Total Matches | 17 |
 | Wins | 16 |

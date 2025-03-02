@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hades’ galaxy
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740281766
 ---
@@ -15,7 +15,7 @@ date: 1740281766
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
