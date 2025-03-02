@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​中国人民联盟
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740476309
+date: 1740930890
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1740476309
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (417)|
-| ELO Competitive | 1215 🔺  (576)|
-| Total Matches | 1 |
+| ELO Regular | 1200 🔻  (537)|
+| ELO Competitive | 1200 🔻  (691)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740044309];
+        let timestamps = [1740498890,1740044309];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/02 | 2-17 | [Chaos](https://ws.tsl.rocks/corp/d3d471eb959c63d922764ca516d8ecc875c5a087ec4503d87e8d6c9113f4062e/) |
 | ✅ | 2025/02/25 | 1-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 
 ---

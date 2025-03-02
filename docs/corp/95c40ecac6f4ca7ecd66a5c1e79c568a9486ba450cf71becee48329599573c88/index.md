@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​KhaOSs
-description: W:1 L:5 D:0 Bonus ❌ 4%
+description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1738171337
+date: 1740939006
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ EUR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1123)|
-| ELO Competitive | 1170 🔻  (1164)|
-| Total Matches | 6 |
+| ELO Regular | 1144 🔻  (1190)|
+| ELO Competitive | 1161 🔻  (1228)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737739337,1736242745,1734933381,1734933193,1712523503,1710954099];
+        let timestamps = [1740507006,1737739337,1736242745,1734933381,1734933193,1712523503,1710954099];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/02 | 3-8 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/01/29 | 0-13 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/01/12 | 0-4 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2024/12/28 | 3-2 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |

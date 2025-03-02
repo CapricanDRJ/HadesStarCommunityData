@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Chaos
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:1 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1737964601
+date: 1740930890
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1737964601
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (510)|
-| ELO Competitive | 1203 🔺  (656)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1218 🔺  (393)|
+| ELO Competitive | 1218 🔺  (546)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 0 |
 | Draws | 1 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737532601];
+        let timestamps = [1740498890,1737532601];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 17-2 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ↔️ | 2025/01/27 | 4-4 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 
 ---

@@ -20,7 +20,7 @@ ers only) rest in main corps to build
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (752)|
+| ELO Regular | 1186 🔻  (751)|
 | ELO Competitive | 1186 🔻  (916)|
 | Total Matches | 3 |
 | Wins | 1 |
