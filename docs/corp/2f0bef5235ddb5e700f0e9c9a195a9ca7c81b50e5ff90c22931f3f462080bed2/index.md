@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​💮問鼎無垠💮
-description: W:6 L:3 D:0 Bonus ✅ 
+description: W:7 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740438056
+date: 1740891522
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1740438056
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (265)|
-| ELO Competitive | 1250 🔺  (426)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1260 🔺  (246)|
+| ELO Competitive | 1258 🔺  (405)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
+        let timestamps = [1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 14-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2025/02/24 | 12-10 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ✅ | 2025/02/23 | 4-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2025/02/18 | 9-2 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
