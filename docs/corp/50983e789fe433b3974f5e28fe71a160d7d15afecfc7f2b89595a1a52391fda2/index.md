@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:21 L:2 D:0 Bonus ✅ 34%
+description: W:22 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740365427
+date: 1740912854
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ ui giàce NONNA DI CAPPUCCETTO.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1407 🔺  (54)|
-| ELO Competitive | 1433 🔺  (126)|
-| Total Matches | 23 |
-| Wins | 21 |
+| ELO Regular | 1414 🔺  (50)|
+| ELO Competitive | 1439 🔺  (122)|
+| Total Matches | 24 |
+| Wins | 22 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 20 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 33-0 | [南天门](https://ws.tsl.rocks/corp/48cf51e563e11ea015bca0d09af215df1cb9c0e2cb380c8b2f1d19d306c6d6cc/) |
 | ✅ | 2025/02/24 | 27-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/02/17 | 8-18 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/02/10 | 17-18 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |

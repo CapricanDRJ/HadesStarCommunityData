@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Deadspace
-description: W:30 L:41 D:0 Bonus ✅ 48%
+description: W:30 L:41 D:0 Bonus ❌ 14%
 image: ./favicon.png
 date: 1740314235
 ---
@@ -25,7 +25,7 @@ date: 1740314235
 Discord mandatory.  <b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cool Casual
-description: W:9 L:4 D:0 Bonus ✅ 
+description: W:9 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740780948
 ---
@@ -15,7 +15,7 @@ date: 1740780948
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

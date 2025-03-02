@@ -21,8 +21,8 @@ vk.com/kedr_sh
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (827)|
-| ELO Competitive | 1184 🔻  (1000)|
+| ELO Regular | 1184 🔻  (828)|
+| ELO Competitive | 1184 🔻  (1001)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

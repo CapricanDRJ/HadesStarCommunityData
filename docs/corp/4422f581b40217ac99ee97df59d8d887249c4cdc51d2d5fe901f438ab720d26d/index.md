@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:16 L:1 D:0 Bonus ❌ 8%
+description: W:17 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740282687
+date: 1740910150
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ date: 1740282687
 Во имя благополучия соратников.
 Вместе мы сила и единство. 
 ```
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (81)|
-| ELO Competitive | 1434 🔺  (125)|
-| Total Matches | 17 |
-| Wins | 16 |
+| ELO Regular | 1380 🔺  (75)|
+| ELO Competitive | 1442 🔺  (120)|
+| Total Matches | 18 |
+| Wins | 17 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739850687,1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
+        let timestamps = [1740478150,1739850687,1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 35-2 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ✅ | 2025/02/23 | 37-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2025/02/16 | 24-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/02/09 | 39-3 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |

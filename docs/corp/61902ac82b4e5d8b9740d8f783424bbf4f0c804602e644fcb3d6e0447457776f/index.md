@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:29 L:19 D:2 Bonus ❌ 8%
+description: W:30 L:19 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740223484
+date: 1740909249
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,17 @@ date: 1740223484
 Have 401 K, dental, 0 days off, plenty of overtime, child labor recom
 mended, & remember you are expendable, we love you
 ```
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (391)|
-| ELO Competitive | 1353 🔺  (204)|
-| Total Matches | 50 |
-| Wins | 29 |
+| ELO Regular | 1223 🔺  (366)|
+| ELO Competitive | 1359 🔺  (199)|
+| Total Matches | 51 |
+| Wins | 30 |
 | Losses | 19 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739791484,1739194401,1738581365,1737830093,1737386863,1736771088,1735879668,1735417842,1735405820,1734962037,1734957830,1734521846,1734498713,1733861716,1733379131,1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1740477249,1739791484,1739194401,1738581365,1737830093,1737386863,1736771088,1735879668,1735417842,1735405820,1734962037,1734957830,1734521846,1734498713,1733861716,1733379131,1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 21-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2025/02/22 | 21-5 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2025/02/15 | 18-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2025/02/08 | 5-23 | [ETER & CAOS](https://ws.tsl.rocks/corp/16629295d7509be3ecbe986b169113da8270c2b192841cf463fb8bd1f1fc72b7/) |
