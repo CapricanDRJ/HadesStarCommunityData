@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:10 L:15 D:3 Bonus ✅ 36%
+description: W:10 L:16 D:3 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740423926
+date: 1740948927
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (453)|
-| ELO Competitive | 1276 🔺  (360)|
-| Total Matches | 28 |
+| ELO Regular | 1207 🔻  (488)|
+| ELO Competitive | 1275 🔻  (363)|
+| Total Matches | 29 |
 | Wins | 10 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 3 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 5 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739991926,1739251195,1737996872,1737293406,1736679724,1736006811,1735382679,1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1740516927,1739991926,1739251195,1737996872,1737293406,1736679724,1736006811,1735382679,1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 0 | 2 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 2 | 0 | 0 | 2 |
 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) | 1 | 1 | 0 | 2 |
 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 0 | 2 | 0 | 2 |
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/02 | 3-9 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2025/02/24 | 12-2 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2025/02/16 | 15-3 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2025/02/01 | 8-18 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
