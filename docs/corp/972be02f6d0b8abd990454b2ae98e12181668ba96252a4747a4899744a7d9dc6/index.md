@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Новички
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740316940
 ---
@@ -15,7 +15,7 @@ date: 1740316940
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

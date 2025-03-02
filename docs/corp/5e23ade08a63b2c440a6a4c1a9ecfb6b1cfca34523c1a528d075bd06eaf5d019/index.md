@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:13 L:9 D:0 Bonus ✅ 32%
+description: W:13 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1740324153
 ---
@@ -18,7 +18,7 @@ eeks of inactivity tolerance =- Joining the corp discord server is no
 t mandatory, but it's much welcome. 
 ```
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
