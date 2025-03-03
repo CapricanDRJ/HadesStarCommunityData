@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​V0RTEX
-description: W:2 L:4 D:0 Bonus ✅ 
+description: W:2 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740938104
 ---
@@ -15,7 +15,7 @@ date: 1740938104
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
