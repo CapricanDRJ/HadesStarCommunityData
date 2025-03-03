@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eastern Front
-description: W:61 L:66 D:3 Bonus ✅ 42%
+description: W:61 L:66 D:3 Bonus ❌ 11%
 image: ./favicon.png
 date: 1740408291
 ---
@@ -17,7 +17,7 @@ DRS 8 Daily by @Tensible. Any levels are welcome and we actively do W
 hite Stars. We will also entertain any questions about the game, shar
 e strategies, and give out advice.        -  Tensible
 ```
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

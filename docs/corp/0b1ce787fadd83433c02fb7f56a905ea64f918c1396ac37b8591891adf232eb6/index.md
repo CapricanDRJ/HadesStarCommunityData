@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kelebra
-description: W:23 L:25 D:1 Bonus ✅ 34%
+description: W:23 L:25 D:1 Bonus ❌ 7%
 image: ./favicon.png
 date: 1740408291
 ---
@@ -17,12 +17,12 @@ date: 1740408291
 хід на білу зірку ви отримаєте +26% до артефактів. В чаті спілкування
  українською мовою.
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (403)|
-| ELO Competitive | 1329 🔺  (243)|
+| ELO Competitive | 1329 🔺  (242)|
 | Total Matches | 49 |
 | Wins | 23 |
 | Losses | 25 |
