@@ -24,7 +24,7 @@ OA's Discord: https://discord.gg/2wyNuxb
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (318)|
-| ELO Competitive | 1247 🔺  (437)|
+| ELO Competitive | 1247 🔺  (436)|
 | Total Matches | 8 |
 | Wins | 5 |
 | Losses | 3 |

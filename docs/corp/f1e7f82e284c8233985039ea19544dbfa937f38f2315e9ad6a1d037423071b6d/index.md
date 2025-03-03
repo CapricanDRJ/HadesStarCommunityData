@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:17 L:10 D:0 Bonus ❌ 7%
+description: W:18 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1739978871
+date: 1740953736
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ date: 1739978871
 Язык общения в корпорации - русский. Есть свой чат в тг. частые поход
 ы в бз,помощь с кз и артефактами
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔺  (192)|
-| ELO Competitive | 1333 🔺  (236)|
-| Total Matches | 27 |
-| Wins | 17 |
+| ELO Regular | 1299 🔺  (177)|
+| ELO Competitive | 1344 🔺  (219)|
+| Total Matches | 28 |
+| Wins | 18 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 5 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739546871,1738752052,1737795228,1737331877,1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
+        let timestamps = [1740521736,1739546871,1738752052,1737795228,1737331877,1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 28-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/02/19 | 30-0 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2025/02/10 | 4-29 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2025/01/30 | 17-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |

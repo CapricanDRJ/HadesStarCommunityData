@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​青丘湖
-description: W:8 L:5 D:0 Bonus ❌ 6%
+description: W:9 L:5 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740447971
+date: 1740959746
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ date: 1740447971
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (279)|
-| ELO Competitive | 1270 🔻  (371)|
-| Total Matches | 13 |
-| Wins | 8 |
+| ELO Regular | 1259 🔺  (247)|
+| ELO Competitive | 1286 🔺  (337)|
+| Total Matches | 14 |
+| Wins | 9 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
+        let timestamps = [1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/02 | 19-2 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2025/02/25 | 0-21 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ❌ | 2025/02/19 | 7-16 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2025/02/14 | 28-5 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
