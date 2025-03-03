@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Black Corsairs
-description: W:1 L:2 D:1 Bonus ✅ 
+description: W:1 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
 date: 1740398072
 ---
@@ -15,7 +15,7 @@ date: 1740398072
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
