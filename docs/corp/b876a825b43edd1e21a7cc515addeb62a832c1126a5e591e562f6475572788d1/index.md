@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:19 L:14 D:0 Bonus ❌ 9%
+description: W:20 L:14 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740066022
+date: 1740981379
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1740066022
 м  - Ищем отважных и надёжных командиров если ты не трус залетай  к н
 ам и вместе будем биться у Белых Звёзд
 ```
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔻  (192)|
-| ELO Competitive | 1357 🔻  (201)|
-| Total Matches | 33 |
-| Wins | 19 |
+| ELO Regular | 1306 🔺  (162)|
+| ELO Competitive | 1380 🔺  (169)|
+| Total Matches | 34 |
+| Wins | 20 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/03 | 45-15 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2025/02/20 | 7-13 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/02/14 | 35-8 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ✅ | 2025/02/07 | 41-13 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |

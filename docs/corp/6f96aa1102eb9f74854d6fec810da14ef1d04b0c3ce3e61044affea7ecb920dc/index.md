@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:10 L:13 D:1 Bonus ❌ 6%
+description: W:12 L:13 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740373737
+date: 1740983782
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ date: 1740373737
 будем рады АКТИВНЫМ игрокам. степень развития значения не имеет. акти
 вным новичкам беремся оказывать помощь в развитии.
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (499)|
-| ELO Competitive | 1258 🔻  (407)|
-| Total Matches | 24 |
-| Wins | 10 |
+| ELO Regular | 1242 🔺  (298)|
+| ELO Competitive | 1283 🔺  (342)|
+| Total Matches | 26 |
+| Wins | 12 |
 | Losses | 13 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 1 | 1 | 0 | 2 |
 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) | 1 | 0 | 1 | 2 |
 
 ---
@@ -139,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/03 | 13-6 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
+| ✅ | 2025/03/03 | 28-13 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2025/02/24 | 11-21 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ❌ | 2025/02/24 | 2-10 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ✅ | 2025/02/17 | 25-7 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |

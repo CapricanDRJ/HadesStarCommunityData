@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:11 L:13 D:1 Bonus ✅ 36%
+description: W:11 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 date: 1740373737
 ---
@@ -21,12 +21,12 @@ White Stars often, numbers permitting.
 
 No Discord!
 ```
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (482)|
-| ELO Competitive | 1267 🔺  (379)|
+| ELO Regular | 1208 🔺  (483)|
+| ELO Competitive | 1267 🔺  (380)|
 | Total Matches | 25 |
 | Wins | 11 |
 | Losses | 13 |
