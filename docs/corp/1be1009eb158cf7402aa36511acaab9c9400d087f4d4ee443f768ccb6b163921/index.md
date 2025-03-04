@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:33 L:16 D:0 Bonus ✅ 36%
+description: W:33 L:17 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741080233
+date: 1741084139
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔺  (193)|
+| ELO Regular | 1268 🔻  (226)|
 | ELO Competitive | 1437 🔺  (124)|
-| Total Matches | 49 |
+| Total Matches | 50 |
 | Wins | 33 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740648233,1740167109,1740155722,1739234371,1738900502,1738752549,1738325905,1738240144,1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1740652139,1740648233,1740167109,1740155722,1739234371,1738900502,1738752549,1738325905,1738240144,1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 0-3 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2025/03/04 | 5-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/02/26 | 2-0 | [Imperium ](https://ws.tsl.rocks/corp/1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0/) |
 | ✅ | 2025/02/26 | 11-3 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |

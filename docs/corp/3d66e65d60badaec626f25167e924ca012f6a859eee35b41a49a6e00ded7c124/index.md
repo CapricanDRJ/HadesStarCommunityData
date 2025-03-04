@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​G.02
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1739868894
+date: 1741087144
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1739868894
 ```
 
 ```
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (868)|
-| ELO Competitive | 1184 🔻  (1017)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1200 🔺  (524)|
+| ELO Competitive | 1206 🔺  (643)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739436894];
+        let timestamps = [1740655144,1739436894];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 4-0 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2025/02/18 | 4-6 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 
 ---

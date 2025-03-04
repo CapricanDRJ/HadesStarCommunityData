@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:50 L:0 D:0 Bonus ❌ 9%
+description: W:51 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740471431
+date: 1741086403
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 1740471431
 The sunset of the dying star was covered in drops of mercury.
 ```
 ### [Discord](https://discord.gg/hnywHXhtg5)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1587 🔺  (3)|
-| ELO Competitive | 1657 🔺  (17)|
-| Total Matches | 50 |
-| Wins | 50 |
+| ELO Regular | 1588 🔺  (3)|
+| ELO Competitive | 1658 🔺  (17)|
+| Total Matches | 51 |
+| Wins | 51 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 50 |
-| Streak Record | 50 |
+| Streak | 51 |
+| Streak Record | 51 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740039431,1739454624,1738835661,1738223738,1737627252,1737008808,1736411640,1734445831,1733812135,1733222697,1732603855,1732002873,1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
+        let timestamps = [1740654403,1740039431,1739454624,1738835661,1738223738,1737627252,1737008808,1736411640,1734445831,1733812135,1733222697,1732603855,1732002873,1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 45-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2025/02/25 | 33-4 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2025/02/18 | 37-0 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ✅ | 2025/02/11 | 46-0 | [Romania](https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/) |

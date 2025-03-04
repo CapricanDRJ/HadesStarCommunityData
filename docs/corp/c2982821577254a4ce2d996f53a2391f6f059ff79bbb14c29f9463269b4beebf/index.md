@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:11 L:13 D:1 Bonus ❌ 8%
+description: W:11 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740373737
+date: 1741088045
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ No Discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (484)|
-| ELO Competitive | 1267 🔺  (379)|
-| Total Matches | 25 |
+| ELO Regular | 1200 🔻  (526)|
+| ELO Competitive | 1261 🔻  (397)|
+| Total Matches | 26 |
 | Wins | 11 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 5 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739941737,1739288756,1738757461,1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1740656045,1739941737,1739288756,1738757461,1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 14-42 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ✅ | 2025/02/24 | 21-11 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ↔️ | 2025/02/16 | 4-4 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2025/02/10 | 27-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |

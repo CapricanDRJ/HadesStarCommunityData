@@ -23,7 +23,7 @@ rps in the Dwarf community.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (278)|
-| ELO Competitive | 1262 🔺  (396)|
+| ELO Competitive | 1262 🔺  (395)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |
