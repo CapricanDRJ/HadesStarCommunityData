@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lololol
-description: W:3 L:3 D:0 Bonus ✅ 
+description: W:3 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740435953
 ---
@@ -15,12 +15,12 @@ date: 1740435953
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔺  (512)|
-| ELO Competitive | 1214 🔺  (595)|
+| ELO Competitive | 1214 🔺  (594)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StargateCommand
-description: W:1 L:18 D:2 Bonus ✅ 30%
+description: W:1 L:18 D:2 Bonus ❌ 5%
 image: ./favicon.png
 date: 1740891522
 ---
@@ -17,7 +17,7 @@ Welcome to the SGC.  White Star scanners turned on at WS search requi
 res active participation or you will be kicked from the corp.  Turn O
 FF WS scanner if unable to participate.
 ```
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
