@@ -18,14 +18,14 @@ header_pages:
   - corp/index.md
   - top100.md
   - comp100.md
-  - relics100.md
-  - win100.md
-  - lose100.md
-  - trade/index.md
   - scanning.md
   - bonus.md
-  - avgRelics.md
-  - streak.md
+#  - relics100.md
+#  - win100.md
+#  - lose100.md
+#  - trade/index.md
+#  - avgRelics.md
+#  - streak.md
 
 # Site properties
 language: english
