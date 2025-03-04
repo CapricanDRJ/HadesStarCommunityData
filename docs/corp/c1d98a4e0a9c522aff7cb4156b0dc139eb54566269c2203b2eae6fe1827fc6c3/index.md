@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Brasil
-description: W:5 L:6 D:1 Bonus ❌ 5%
+description: W:5 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737566731
+date: 1741105177
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (498)|
-| ELO Competitive | 1222 🔻  (527)|
-| Total Matches | 12 |
+| ELO Regular | 1194 🔻  (588)|
+| ELO Competitive | 1211 🔻  (627)|
+| Total Matches | 13 |
 | Wins | 5 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737134731,1734521846,1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
+        let timestamps = [1740673177,1737134731,1734521846,1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 0-27 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2025/01/22 | 0-21 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2024/12/23 | 0-8 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/12/02 | 10-1 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
