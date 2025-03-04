@@ -12,14 +12,55 @@ plugins:
 minima:
   skin: dark
 
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Corporations
+      url: /corp/
+      weight: 2
+    - name: Top 100
+      url: /top100/
+      weight: 3
+    - name: Comp 100
+      url: /comp100/
+      weight: 4
+    - name: Scanning
+      url: /scanning/
+      weight: 5
+  secondary:
+    - name: Bonus
+      url: /bonus/
+      weight: 10
+    - name: Relics 100
+      url: /relics100/
+      weight: 11
+    - name: Win 100
+      url: /win100/
+      weight: 12
+    - name: Lose 100
+      url: /lose100/
+      weight: 13
+    - name: Trade
+      url: /trade/
+      weight: 14
+    - name: Avg Relics
+      url: /avgRelics/
+      weight: 15
+    - name: Streak
+      url: /streak/
+      weight: 16
+
 # Navigation
-header_pages:
-  - index.md
-  - corp/index.md
-  - top100.md
-  - comp100.md
-  - scanning.md
-  - bonus.md
+#header_pages:
+#  - index.md
+#  - corp/index.md
+#  - top100.md
+#  - comp100.md
+#  - scanning.md
+#  - bonus.md
 #  - relics100.md
 #  - win100.md
 #  - lose100.md
