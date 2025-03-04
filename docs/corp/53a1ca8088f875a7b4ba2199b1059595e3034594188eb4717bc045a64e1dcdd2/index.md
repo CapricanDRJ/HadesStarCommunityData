@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:17 L:8 D:1 Bonus ❌ 6%
+description: W:19 L:8 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740503876
+date: 1741121707
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ date: 1740503876
 diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
 telar, Alfa Omega GuistonRA
 ```
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔺  (146)|
-| ELO Competitive | 1364 🔺  (190)|
-| Total Matches | 26 |
-| Wins | 17 |
+| ELO Regular | 1339 🔺  (117)|
+| ELO Competitive | 1377 🔺  (174)|
+| Total Matches | 28 |
+| Wins | 19 |
 | Losses | 8 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 3 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 13-4 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
+| ✅ | 2025/03/04 | 2-0 | [амурочка](https://ws.tsl.rocks/corp/6cc927cc370ca2dc8f42d77e6d2dfc76b6949703648b704cc4c691a559756b0b/) |
 | ✅ | 2025/02/25 | 23-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2025/02/20 | 9-4 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/02/13 | 20-0 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:23 L:17 D:2 Bonus ❌ 7%
+description: W:23 L:18 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740487339
+date: 1741121707
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (330)|
-| ELO Competitive | 1314 🔻  (275)|
-| Total Matches | 42 |
+| ELO Regular | 1225 🔻  (363)|
+| ELO Competitive | 1301 🔻  (294)|
+| Total Matches | 43 |
 | Wins | 23 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740055339,1738576557,1738511347,1737556941,1737550028,1736832401,1735654016,1735411530,1735213511,1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1740689707,1740055339,1738576557,1738511347,1737556941,1737550028,1736832401,1735654016,1735411530,1735213511,1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 4-13 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ↔️ | 2025/02/25 | 4-4 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) |
 | ✅ | 2025/02/08 | 4-3 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/02/07 | 10-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |

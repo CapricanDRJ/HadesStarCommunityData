@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Terran empire 
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:4 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740512596
 ---
@@ -15,12 +15,12 @@ date: 1740512596
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔺  (299)|
-| ELO Competitive | 1251 🔺  (422)|
+| ELO Competitive | 1251 🔺  (423)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

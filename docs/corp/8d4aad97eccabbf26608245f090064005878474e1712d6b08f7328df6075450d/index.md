@@ -22,7 +22,7 @@ r="green">Русский, English
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (1042)|
+| ELO Regular | 1167 🔻  (1043)|
 | ELO Competitive | 1354 🔻  (207)|
 | Total Matches | 118 |
 | Wins | 60 |
