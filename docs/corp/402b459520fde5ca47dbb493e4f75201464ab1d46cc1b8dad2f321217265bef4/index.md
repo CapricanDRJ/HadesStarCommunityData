@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bow Down
-description: W:3 L:0 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740490045
+date: 1741062544
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1740490045
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (287)|
-| ELO Competitive | 1255 🔺  (414)|
-| Total Matches | 3 |
+| ELO Regular | 1235 🔻  (334)|
+| ELO Competitive | 1245 🔻  (440)|
+| Total Matches | 4 |
 | Wins | 3 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740058045,1739613884,1739072692];
+        let timestamps = [1740630544,1740058045,1739613884,1739072692];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 3-34 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ✅ | 2025/02/25 | 17-3 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/02/20 | 15-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/02/14 | 9-0 | [HAL](https://ws.tsl.rocks/corp/249861ea16b488e34ea28566402ed775f6f27004aa9e6843b668f23cec4140c7/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Free Ag3nts
-description: W:16 L:0 D:0 Bonus ✅ 34%
+description: W:17 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740596137
+date: 1741062544
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 1740596137
 ```
 
 ```
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (82)|
-| ELO Competitive | 1390 🔺  (157)|
-| Total Matches | 16 |
-| Wins | 16 |
+| ELO Regular | 1383 🔺  (75)|
+| ELO Competitive | 1399 🔺  (152)|
+| Total Matches | 17 |
+| Wins | 17 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 34-3 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/02/26 | 23-7 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2025/02/21 | 32-0 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ✅ | 2025/02/15 | 26-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |

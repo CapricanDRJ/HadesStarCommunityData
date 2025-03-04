@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​한국우주연합
-description: W:8 L:15 D:0 Bonus ✅ 32%
+description: W:8 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
 date: 1740456685
 ---
@@ -15,7 +15,7 @@ date: 1740456685
 ```
 kor.cop 많이 들어와주세요
 ```
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
