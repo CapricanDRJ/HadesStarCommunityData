@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:4 L:7 D:2 Bonus ❌ 5%
+description: W:4 L:8 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739961441
+date: 1741095860
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Start here. Figure things out. Have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔺  (1139)|
-| ELO Competitive | 1171 🔺  (1150)|
-| Total Matches | 13 |
+| ELO Regular | 1146 🔻  (1177)|
+| ELO Competitive | 1164 🔻  (1206)|
+| Total Matches | 14 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
+        let timestamps = [1740663860,1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 4-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/02/19 | 7-0 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ❌ | 2025/01/29 | 0-4 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2025/01/15 | 3-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |

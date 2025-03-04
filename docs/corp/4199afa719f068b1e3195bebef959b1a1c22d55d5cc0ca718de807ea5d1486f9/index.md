@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝色星系
-description: W:0 L:2 D:0 Bonus ❌ 12%
+description: W:0 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1728112901
+date: 1741095559
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ discord：https://discord.gg/eDKGV87N
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1023)|
-| ELO Competitive | 1172 🔻  (1129)|
-| Total Matches | 2 |
+| ELO Regular | 1159 🔻  (1104)|
+| ELO Competitive | 1163 🔻  (1213)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727680901,1699020962];
+        let timestamps = [1740663559,1727680901,1699020962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 1-17 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ❌ | 2024/10/05 | 1-15 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2023/11/08 | 0-13 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 

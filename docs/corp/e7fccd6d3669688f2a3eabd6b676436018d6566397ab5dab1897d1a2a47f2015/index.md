@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:40 L:23 D:0 Bonus ❌ 11%
+description: W:41 L:23 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740565782
+date: 1741093455
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1740565782
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
 ```
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔻  (139)|
-| ELO Competitive | 1494 🔻  (77)|
-| Total Matches | 63 |
-| Wins | 40 |
+| ELO Regular | 1339 🔺  (116)|
+| ELO Competitive | 1511 🔺  (65)|
+| Total Matches | 64 |
+| Wins | 41 |
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740133782,1739652958,1739207325,1738140804,1737623647,1737116996,1737105277,1736605189,1736587754,1736046098,1735985160,1735465012,1734944609,1734944609,1734431706,1734429603,1733915789,1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
+        let timestamps = [1740661455,1740133782,1739652958,1739207325,1738140804,1737623647,1737116996,1737105277,1736605189,1736587754,1736046098,1735985160,1735465012,1734944609,1734944609,1734431706,1734429603,1733915789,1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 2 | 0 | 0 | 2 |
 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 1 | 1 | 0 | 2 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 1 | 0 | 3 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1 | 1 | 0 | 2 |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 22-5 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2025/02/26 | 18-32 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2025/02/20 | 30-41 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2025/02/15 | 26-23 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |

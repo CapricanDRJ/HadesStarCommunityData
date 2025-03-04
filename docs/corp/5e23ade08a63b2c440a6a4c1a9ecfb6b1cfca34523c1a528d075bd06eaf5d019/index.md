@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:13 L:9 D:0 Bonus ❌ 6%
+description: W:14 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740324153
+date: 1741095559
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ eeks of inactivity tolerance =- Joining the corp discord server is no
 t mandatory, but it's much welcome. 
 ```
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (217)|
-| ELO Competitive | 1319 🔺  (261)|
-| Total Matches | 22 |
-| Wins | 13 |
+| ELO Regular | 1283 🔺  (202)|
+| ELO Competitive | 1328 🔺  (245)|
+| Total Matches | 23 |
+| Wins | 14 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 4 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 17-1 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) |
 | ✅ | 2025/02/23 | 9-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/02/10 | 29-4 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2025/01/25 | 7-8 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
