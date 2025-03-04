@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国人民联盟
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 date: 1740930890
 ---
@@ -15,7 +15,7 @@ date: 1740930890
 ```
 
 ```
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

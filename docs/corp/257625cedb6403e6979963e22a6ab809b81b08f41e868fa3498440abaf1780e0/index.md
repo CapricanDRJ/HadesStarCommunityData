@@ -20,7 +20,7 @@ Part of Oceania Alliance.     New players welcome
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (281)|
+| ELO Regular | 1247 🔺  (280)|
 | ELO Competitive | 1259 🔺  (403)|
 | Total Matches | 4 |
 | Wins | 4 |
