@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.145.0"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Hades&#39; Star Scoreboards</title>
+
+<meta name="description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+<meta name="author" content="">
+<link rel="canonical" href="https://ws.tsl.rocks/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.45e028aa8ce0961349adf411b013ee39406be2c0bc80d4ea3fc04555f7f4611a.css" integrity="sha256-ReAoqozglhNJrfQRsBPuOUBr4sC8gNTqP8BFVff0YRo=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://ws.tsl.rocks/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ws.tsl.rocks/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ws.tsl.rocks/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://ws.tsl.rocks/apple-touch-icon.png">
+<link rel="mask-icon" href="https://ws.tsl.rocks/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/json" href="https://ws.tsl.rocks/index.json">
+<link rel="alternate" hreflang="en" href="https://ws.tsl.rocks/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="https://ws.tsl.rocks/">
+  <meta property="og:site_name" content="Hades&#39; Star Scoreboards">
+  <meta property="og:title" content="Hades&#39; Star Scoreboards">
+  <meta property="og:description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Hades&#39; Star Scoreboards">
+<meta name="twitter:description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Hades' Star Scoreboards",
+  "url": "https://ws.tsl.rocks/",
+  "description": "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).",
+  "logo": "https://ws.tsl.rocks/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://ws.tsl.rocks/" accesskey="h" title="Hades&#39; Star Scoreboards (Alt + H)">Hades&#39; Star Scoreboards</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://ws.tsl.rocks/" title="Home">
+                    <span class="active">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/corp/" title="Corporations">
+                    <span>Corporations</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/top100/" title="Top 100">
+                    <span>Top 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/comp100/" title="Comp 100">
+                    <span>Comp 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/scanning/" title="Scanning">
+                    <span>Scanning</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/bonus/" title="Bonus">
+                    <span>Bonus</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/relics100/" title="Relics 100">
+                    <span>Relics 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/win100/" title="Win 100">
+                    <span>Win 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/lose100/" title="Lose 100">
+                    <span>Lose 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/trade/" title="Trade">
+                    <span>Trade</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/avgrelics/" title="Avg Relics">
+                    <span>Avg Relics</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/streak/" title="Streak">
+                    <span>Streak</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Неизбежный Рок
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 26 - 0 КОРПОРАЦИЯ ЗЛА</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 10:33:21 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Неизбежный Рок" href="https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​红日初升，其道大光
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 0 - 3 Тихий Омут</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 10:28:59 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​红日初升，其道大光" href="https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Черный Легион
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 24 - 1 星域</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 09:50:02 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Черный Легион" href="https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​星域
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 1 - 24 Черный Легион</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 09:50:02 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​星域" href="https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​落魄山
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 0 - 5 红日初升，其道大光</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 09:23:53 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​落魄山" href="https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Z. O. V.
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 1 - 19 对，进就进人少的</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 09:13:53 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Z. O. V." href="https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​对，进就进人少的
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 19 - 1 Z. O. V.</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 09:13:53 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​对，进就进人少的" href="https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​TheBasics
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 37 - 5 九州分团</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 08:53:51 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​TheBasics" href="https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​111
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 35 - 4 Ark</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 07:53:46 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​111" href="https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Ark
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 4 - 35 111</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-04 07:53:46 +0000 UTC'>March 4, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Ark" href="https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://ws.tsl.rocks/page/4/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="https://ws.tsl.rocks/page/6/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://ws.tsl.rocks/">Hades&#39; Star Scoreboards</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

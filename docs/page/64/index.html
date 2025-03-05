@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.145.0"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Hades&#39; Star Scoreboards</title>
+
+<meta name="description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+<meta name="author" content="">
+<link rel="canonical" href="https://ws.tsl.rocks/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.45e028aa8ce0961349adf411b013ee39406be2c0bc80d4ea3fc04555f7f4611a.css" integrity="sha256-ReAoqozglhNJrfQRsBPuOUBr4sC8gNTqP8BFVff0YRo=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://ws.tsl.rocks/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ws.tsl.rocks/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ws.tsl.rocks/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://ws.tsl.rocks/apple-touch-icon.png">
+<link rel="mask-icon" href="https://ws.tsl.rocks/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/json" href="https://ws.tsl.rocks/index.json">
+<link rel="alternate" hreflang="en" href="https://ws.tsl.rocks/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="https://ws.tsl.rocks/">
+  <meta property="og:site_name" content="Hades&#39; Star Scoreboards">
+  <meta property="og:title" content="Hades&#39; Star Scoreboards">
+  <meta property="og:description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Hades&#39; Star Scoreboards">
+<meta name="twitter:description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Hades' Star Scoreboards",
+  "url": "https://ws.tsl.rocks/",
+  "description": "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).",
+  "logo": "https://ws.tsl.rocks/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://ws.tsl.rocks/" accesskey="h" title="Hades&#39; Star Scoreboards (Alt + H)">Hades&#39; Star Scoreboards</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://ws.tsl.rocks/" title="Home">
+                    <span class="active">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/corp/" title="Corporations">
+                    <span>Corporations</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/top100/" title="Top 100">
+                    <span>Top 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/comp100/" title="Comp 100">
+                    <span>Comp 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/scanning/" title="Scanning">
+                    <span>Scanning</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/bonus/" title="Bonus">
+                    <span>Bonus</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/relics100/" title="Relics 100">
+                    <span>Relics 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/win100/" title="Win 100">
+                    <span>Win 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/lose100/" title="Lose 100">
+                    <span>Lose 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/trade/" title="Trade">
+                    <span>Trade</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/avgrelics/" title="Avg Relics">
+                    <span>Avg Relics</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/streak/" title="Streak">
+                    <span>Streak</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​GALACTIC EMPIRE
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 2 - 34 Mercury Sunset</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-12-01 06:50:55 +0000 UTC'>December 1, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​GALACTIC EMPIRE" href="https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Bounty Hunters
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 0 - 34 六大天神</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-12-01 06:30:54 +0000 UTC'>December 1, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​Bounty Hunters" href="https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Uniones
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 0 - 3 corporacion I.A</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-12-01 00:05:58 +0000 UTC'>December 1, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​Uniones" href="https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Т Е Н Ь
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 22 - 2 Poggy Rockers</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-30 07:03:37 +0000 UTC'>November 30, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​Т Е Н Ь" href="https://ws.tsl.rocks/corp/5f4b3004ce7e14488b409e8036d0f0b04b41aa63e245cb8e9f238b53780c5741/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Slytherin
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 0 - 5 太阳系集团</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-29 15:32:07 +0000 UTC'>November 29, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​Slytherin" href="https://ws.tsl.rocks/corp/735830d4008f77aa6eca6830b6cba02e5decb3eaed66ab3305b7e39c0bf0c489/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​小号营地
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>↔️ 0 - 0 BAB</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-29 14:47:30 +0000 UTC'>November 29, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​小号营地" href="https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Торг. федерация
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>✅ 24 - 5 Crazy Elite</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 15:14:38 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​Торг. федерация" href="https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Quin Armarda 2
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 2 - 17 Север РусКорп</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 10:04:02 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​Quin Armarda 2" href="https://ws.tsl.rocks/corp/529de2f6f4f84d776caefa1e49ce587d581b86c0659533f7fab2eb642b04a928/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​The Drones
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 0 - 9 WhiteSTarfighte</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-28 04:06:50 +0000 UTC'>November 28, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​The Drones" href="https://ws.tsl.rocks/corp/9c2723bb068babe4c73bfc848efbd77209732ae432badf52b7e9b01099f42e43/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​-=FCA=-
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>❌ 4 - 33 星を継ぐもの</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-27 21:02:48 +0000 UTC'>November 27, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to ​-=FCA=-" href="https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://ws.tsl.rocks/page/63/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="https://ws.tsl.rocks/page/65/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://ws.tsl.rocks/">Hades&#39; Star Scoreboards</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
