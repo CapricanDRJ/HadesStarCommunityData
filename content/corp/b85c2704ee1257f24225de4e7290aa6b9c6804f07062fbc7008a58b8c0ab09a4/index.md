@@ -2,6 +2,7 @@
 title: ​Eastern Front
 description: W:63 L:66 D:3 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 9 - 0 星域 
 date: 2025-03-04T02:54:40.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T02:54:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 DRS 8 Daily by @Tensible. Any levels are welcome and we actively do W
 hite Stars. We will also entertain any questions about the game, shar
 e strategies, and give out advice.        -  Tensible
 ```
-### Whitestar Bonus ✅ 42%
+<br>### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |

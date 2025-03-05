@@ -2,6 +2,7 @@
 title: ​RATAS
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 22 King's Guard
 date: 2024-03-10T23:08:32.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-10T23:08:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 https://discord.gg/aeZrWpH9YW
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

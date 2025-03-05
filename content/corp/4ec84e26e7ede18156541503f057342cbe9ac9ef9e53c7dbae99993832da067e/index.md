@@ -2,6 +2,7 @@
 title: ​Legion Prime
 description: W:13 L:16 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 22 - 4 АНДРОМЕДА 
 date: 2025-02-18T16:35:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-18T16:35:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 3 Year Celebration of the Legion Prime!  We are an international grou
 p of players that play hard and enjoy the game!  Join us for RS and W
 S!                         
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

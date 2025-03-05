@@ -2,6 +2,7 @@
 title: ​星落苑
 description: W:19 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 5 - 29 Вселенские 40%
 date: 2025-02-27T11:37:14.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-27T11:37:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=50>2024.10.29<color=purple>     星星栖息的故乡<size=60><color=white>  
                     欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=re
 d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (233)|
+| ELO Regular | 1263 🔻  (232)|
 | ELO Competitive | 1374 🔻  (177)|
 | Total Matches | 30 |
 | Wins | 19 |

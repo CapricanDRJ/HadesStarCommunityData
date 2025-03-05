@@ -2,6 +2,7 @@
 title: ​DarkSide
 description: W:48 L:68 D:2 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 7 - 20 リリース
 date: 2025-02-23T23:58:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-23T23:58:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 You were supposed to fight evil, not join it.
 Ignoring the White Stars is a kick from the corporation.
 https://t.me/DS_DarkSide
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

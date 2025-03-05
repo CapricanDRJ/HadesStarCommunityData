@@ -2,6 +2,7 @@
 title: ​电磁脉冲集团
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 1 - 14 新?的星际集团?
 date: 2024-08-18T11:13:07.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-18T11:13:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 如有回归请找干事或者首席加好友邀请回归<br>整顿期
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

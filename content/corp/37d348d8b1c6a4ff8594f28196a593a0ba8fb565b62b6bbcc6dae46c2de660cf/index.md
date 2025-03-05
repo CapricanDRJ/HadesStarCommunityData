@@ -2,6 +2,7 @@
 title: ​物竞天择，适者生存
 description: W:8 L:14 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 15 ✨ℛedstar Order«
 date: 2025-02-22T15:40:12.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-22T15:40:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本星际集团是<color=red><size=50>红日初升,其道大光</size></color>第一分团。<color=yellow>
 只有超过70级或r7才会被晋升为干事！</color>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<c
 olor=orange>南极星联盟成员</color>
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

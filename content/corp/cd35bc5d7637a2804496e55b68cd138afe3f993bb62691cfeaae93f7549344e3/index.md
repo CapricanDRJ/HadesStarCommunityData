@@ -2,14 +2,13 @@
 title: ​NAC
 description: W:0 L:1 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 14 First Legion
 date: 2024-05-14T03:49:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 North American Commonwealth
@@ -19,7 +18,7 @@ NAC Rebuild. Extremly casual play.
 Discord is required to run in white stars. 
 Request a new link if the above link doesn't work.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

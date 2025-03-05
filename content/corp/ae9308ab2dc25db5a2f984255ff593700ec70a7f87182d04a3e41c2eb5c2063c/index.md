@@ -2,6 +2,7 @@
 title: ​༺༽ʚ天轮间ɞ༼༻
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 25 萌新的收留所
 date: 2024-07-03T10:28:15.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-07-03T10:28:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 (广告招租位)                                                              
         阿弥陀佛，老天保佑!坠机啦
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

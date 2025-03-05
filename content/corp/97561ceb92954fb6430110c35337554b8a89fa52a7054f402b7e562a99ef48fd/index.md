@@ -2,6 +2,7 @@
 title: ​Dark Skai
 description: W:1 L:11 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 0 - 26 Tormenta
 date: 2024-01-13T15:45:20.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-13T15:45:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Arbiters of Darkness
 ```
-### [Discord](https://discord.gg/MJSKU8T9T7)
+<br>### [Discord](https://discord.gg/MJSKU8T9T7)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

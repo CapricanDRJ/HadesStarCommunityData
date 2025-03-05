@@ -2,6 +2,7 @@
 title: ​Highland Ind. 
 description: W:11 L:10 D:1 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 22 - 14 Nine's Own Goal
 date: 2025-03-01T03:01:11.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T03:01:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>Proud member of the UIH!</b>                                      
         Discord is mandatory!                                        
    Visit on Discord to join: discord.gg/vPsNNxs
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Rocket-by Baby
 description: W:0 L:6 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 4 - 47 Deadspace
 date: 2024-01-27T04:08:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Hello! We're a friendly, helpful bunch with active WS and RS! Please 
@@ -18,7 +17,7 @@ join Discord before applying!
 Rocket-by Baby, in a White Star
 When your ships blow, our relics will soar..
 ```
-### [Discord](https://discord.gg/5VHFHkC)
+<br>### [Discord](https://discord.gg/5VHFHkC)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

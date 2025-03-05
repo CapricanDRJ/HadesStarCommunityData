@@ -2,6 +2,7 @@
 title: ​The X - Files
 description: W:4 L:66 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 39 Дом Датэ
 date: 2025-02-28T19:50:33.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T19:50:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 часовой пояс игроков желательно от Калининграда и до Урала не дальше.
 ..то есть +2 и -2 часа от Московского времени. Походы на БЗ с понедел
 ьника по пятницу. кто идет ставим "+" в чате в Воскресение.!
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

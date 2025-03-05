@@ -2,14 +2,13 @@
 title: ​Archangels BR
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 8 清霄阁（防御协会）
 date: 2025-01-29T13:46:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Juntos somos invencíveis.
@@ -19,7 +18,7 @@ utro entrar.
 
 Em breve faremos estrelas brancas.
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

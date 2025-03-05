@@ -1,7 +1,8 @@
 ---
 title: ​ALPHA
-description: W:32 L:9 D:0 Bonus ✅ 36%
+description: W:32 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 9 viCIOus
 date: 2025-03-03T04:11:08.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-03T04:11:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Crecer principal objetivo        Leko:Join us we need active member  
                   
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

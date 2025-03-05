@@ -2,6 +2,7 @@
 title: ​КАЧАМБА
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 17 - 41 Emergence
 date: 2024-10-10T15:15:06.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-10T15:15:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Приветствуем активных игроков! Принцип взаимоуважения, помощь в разви
 тии, телеграмм Belizarr
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

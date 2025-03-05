@@ -2,6 +2,7 @@
 title: ​GhostNakcoorp
 description: W:27 L:32 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 4 - 28 Ark Summit
 date: 2025-01-31T02:55:40.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-01-31T02:55:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=90><b><color=red>"Fight or be Forgotten"</color></b></size>   <
 color=green>White Star Élite </color> <size=60><color=orange>☆NakSaru
 gg☆</color></b>   Recruiting "StarMasters" for WS
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1322)|
+| ELO Regular | 1107 🔻  (1321)|
 | ELO Competitive | 1194 🔻  (747)|
 | Total Matches | 59 |
 | Wins | 27 |

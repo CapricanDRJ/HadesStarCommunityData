@@ -2,14 +2,13 @@
 title: ​星舰月球
 description: W:40 L:26 D:0 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ✅ 28 - 26 Nearland Ind
 date: 2025-03-01T05:21:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 这里是星舰地球直辖分盟，培养r7-r10的玩家，在这里大家可以探讨黄星商业运营，磨练红星作战技巧，试水白星团队协作。
@@ -18,7 +17,7 @@ date: 2025-03-01T05:21:23.000Z
 月球白星群  :916418678（常驻在这报道，每周一次白在这报名）
 
 ```
-### Whitestar Bonus ✅ 46%
+<br>### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

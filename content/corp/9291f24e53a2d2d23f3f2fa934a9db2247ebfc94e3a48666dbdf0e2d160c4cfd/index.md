@@ -2,14 +2,13 @@
 title: ​СССР
 description: W:60 L:42 D:2 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 16 - 0 Lacuna Ind\.
 date: 2025-02-28T06:14:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><color="red">СОЮЗ НЕРУШИМЫЙ
@@ -19,12 +18,12 @@ Discord: discord.gg/aWj7XRq
 Во время БЗ приём ограничен
 Мы в ТГ https://t.me/HS_CCCP
 ```
-### [Discord](https://discord.gg/aWj7XRq)
+<br>### [Discord](https://discord.gg/aWj7XRq)
 ### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (86)|
+| ELO Regular | 1365 🔺  (87)|
 | ELO Competitive | 1626 🔺  (21)|
 | Total Matches | 104 |
 | Wins | 60 |

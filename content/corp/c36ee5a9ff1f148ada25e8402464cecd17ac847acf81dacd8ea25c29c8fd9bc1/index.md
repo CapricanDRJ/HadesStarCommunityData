@@ -2,6 +2,7 @@
 title: ​SEC
 description: W:7 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 2 - 7 蓝星集团
 date: 2024-11-04T10:46:56.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-11-04T10:46:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 星舰地球组织，一个科幻迷集团，充满三体色彩。本团秉持星际共产主义原则，想来就来，想走就走。但是本团成员不能发表污言秽语，且要听指挥（有特殊
 情况除外），尊重他人，尊重一切。欢迎各位大佬，玩家，组织成员加入，Q群788052376，随时摇人做任务。成立时间：2024.5.24
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (272)|
+| ELO Regular | 1250 🔻  (271)|
 | ELO Competitive | 1263 🔻  (393)|
 | Total Matches | 9 |
 | Wins | 7 |

@@ -2,6 +2,7 @@
 title: ​<a>超越®</a>光速℡
 description: W:15 L:8 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 0 - 48 Continuum
 date: 2025-02-24T12:09:33.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-24T12:09:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 不如黑神话悟空
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

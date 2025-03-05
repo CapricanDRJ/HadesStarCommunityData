@@ -2,14 +2,13 @@
 title: ​盾牌座UY分团
 description: W:0 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 6 探索舰队
 date: 2024-02-29T11:01:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎来到盾牌座UY分团
@@ -28,12 +27,12 @@ date: 2024-02-29T11:01:17.000Z
 有事找:老六
 团主：姚银晓
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (1123)|
-| ELO Competitive | 1158 🔻  (1256)|
+| ELO Competitive | 1158 🔻  (1255)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

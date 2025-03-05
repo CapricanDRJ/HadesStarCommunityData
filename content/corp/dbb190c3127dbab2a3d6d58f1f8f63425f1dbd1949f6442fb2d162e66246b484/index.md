@@ -2,6 +2,7 @@
 title: ​ANZAC Warriors
 description: W:20 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 38 - 34 No Orbit©
 date: 2025-02-07T18:39:27.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-07T18:39:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Soldiers that never give up on the battlefield despite the odds. Grea
 t team atmosphere, regular white/red stars. Active  members join us h
 ttps://discord.com/invite/rmzHUdXef7
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1317 🔺  (147)|
-| ELO Competitive | 1350 🔺  (212)|
+| ELO Competitive | 1350 🔺  (211)|
 | Total Matches | 27 |
 | Wins | 20 |
 | Losses | 6 |

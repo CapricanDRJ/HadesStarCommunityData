@@ -2,6 +2,7 @@
 title: ​Unión latina
 description: W:39 L:30 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 25 游徒之家
 date: 2025-01-30T02:15:42.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-01-30T02:15:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>Er1-12</color> <color=#33FFFC>estrellas blancas semanales<
 /color>  <color=grey>fundador:Jorge. <b><color=green><size=70>pedir u
 nirse al grupo de Whatsapp</size></color></b>
 ```
-### [Discord](https://discord.gg/QDzhmPUe8u)
+<br>### [Discord](https://discord.gg/QDzhmPUe8u)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻  (231)|
+| ELO Regular | 1265 🔻  (230)|
 | ELO Competitive | 1359 🔻  (201)|
 | Total Matches | 70 |
 | Wins | 39 |

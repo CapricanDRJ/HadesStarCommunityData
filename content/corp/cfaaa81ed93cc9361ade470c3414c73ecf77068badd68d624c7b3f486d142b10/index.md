@@ -2,6 +2,7 @@
 title: ​StellaMysterium
 description: W:30 L:53 D:2 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 5 - 53 Tormenta
 date: 2025-03-02T14:20:16.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T14:20:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Like the lore of the Phoenix, we arise from the demise of our last Co
 rp. Come and join a fun loving and chill family like team! Welcome to
  all! 2 white star teams running weekly, compeditave yet fun. 
 ```
-### [Discord](https://discord.gg/K45fhFgcXv)
+<br>### [Discord](https://discord.gg/K45fhFgcXv)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

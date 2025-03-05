@@ -2,6 +2,7 @@
 title: ​萌新收留所
 description: W:2 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 10 脉冲星际集团
 date: 2024-02-23T08:54:44.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-23T08:54:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 大家共同努力，争取早日打白，虽然没有神器加成，但我相信会有人加入的。                     规定：1.首席战斗舰升至3级
 才能打白   2.不能骂人说脏话‘否则踢出。注：以上规则可由首席’一只王小花‘、有人建外交吗修改。有人建外交吗供应1到5级神器。残月已请假
 ，大家尽快建白扫          欢迎各位加入我们，这里将是您在太空中最温暖的家！大家有星币的就捐吧‘🙏🙏🙏
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

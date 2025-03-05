@@ -2,6 +2,7 @@
 title: ​中国星系集团
 description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 7 - 0 数字星际集团
 date: 2024-04-26T09:30:00.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-04-26T09:30:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <a>本集团为<size=77>中国星系集团新主团</size></a >
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔺  (196)|
-| ELO Competitive | 1290 🔺  (322)|
+| ELO Competitive | 1290 🔺  (321)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

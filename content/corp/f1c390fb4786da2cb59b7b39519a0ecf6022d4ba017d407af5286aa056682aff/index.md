@@ -2,6 +2,7 @@
 title: ​Blazing Stars
 description: W:13 L:2 D:1 Bonus ✅ 32%
 image: ./favicon.png
+Summary: ✅ 11 - 3 S\.U\.N
 date: 2025-03-01T10:21:49.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T10:21:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
  <color=green>A juvenile corporation, deemed for both growth and enjo
 yment. <color=yellow>Welcomes both newbies and veterans throughout th
 e Hades Galaxy. Join us and have fun 
 ```
-### [Discord](https://discord.gg/aCU5VZGc)
+<br>### [Discord](https://discord.gg/aCU5VZGc)
 ### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |

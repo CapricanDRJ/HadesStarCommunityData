@@ -2,6 +2,7 @@
 title: ​Star Conflict
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 11 Z\. O\. V\. 
 date: 2024-04-15T08:53:57.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-04-15T08:53:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Привіт |(⊙▽⊙)-✋!</color>
 <color=orange> Це корпорація Star Conflict ☜(◐﹏◑)| </color>
 <color=yellow>У нас тут дружній колектив \(※↭※)/ </color><color=red>
 Наш ТГ канал:https://t.me/+vzm06AL8ZX</color>
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

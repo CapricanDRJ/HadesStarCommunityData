@@ -2,6 +2,7 @@
 title: ​Omega Nation
 description: W:0 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Дом Датэ
 date: 2024-08-31T15:00:39.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-31T15:00:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#BDC100><b><size=130>OMEGA <color=#FDFF92>Ω</color> NATION</si
 ze></b></color>
 ```
-### [Discord](https://discord.gg/dnjPZnSfEP)
+<br>### [Discord](https://discord.gg/dnjPZnSfEP)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

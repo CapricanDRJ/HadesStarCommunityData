@@ -2,6 +2,7 @@
 title: ​⭐PRETORIANS.X⭐
 description: W:17 L:33 D:4 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 5 - 4 SILVER TERRA
 date: 2025-02-26T23:16:05.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-26T23:16:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 🏦 PRETORIANS X. command.🌐*★°★*gral   Com.flexx/ ∆\ Maj L.(jraan)/∆\
 maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (
 sporg). 3lt bpdp)(demin).(flech).
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔺  (1324)|
-| ELO Competitive | 1295 🔺  (309)|
+| ELO Regular | 1107 🔺  (1323)|
+| ELO Competitive | 1295 🔺  (308)|
 | Total Matches | 54 |
 | Wins | 17 |
 | Losses | 33 |

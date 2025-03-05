@@ -2,6 +2,7 @@
 title: ​Armored Union 
 description: W:30 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 4 - 6 Eastern Front
 date: 2025-03-04T02:03:18.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T02:03:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Boldly we venture into the black of space, conquering White Stars as 
 an Armored Union of warriors! Share Artifacts and build strong allies
  in pursuit of adventure! keep up, keep fighting! :)
 ```
-### [Discord](https://discord.gg/v454nxdC)
+<br>### [Discord](https://discord.gg/v454nxdC)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

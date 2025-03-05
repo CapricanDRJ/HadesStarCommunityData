@@ -2,14 +2,13 @@
 title: ​IMPERIAL ARMADA
 description: W:28 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 16 - 35 Cerulean Star
 date: 2025-02-28T05:39:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>IA2</b>
@@ -25,7 +24,7 @@ Max period of inactivity: 3 days.
 
 English only.
 ```
-### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
+<br>### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

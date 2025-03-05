@@ -2,14 +2,13 @@
 title: ​边际的文明
 description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 6 Galactic Empire
 date: 2023-12-17T21:05:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>创始人：金gold</b>
@@ -22,7 +21,7 @@ date: 2023-12-17T21:05:00.000Z
 请假人：孙笑川，小草，Eli Clark，浮云猫猫，北冥雪
 黑名单：太空玩家，家园星系（不要脸的天天来）
 ```
-### [Discord](https://discord.gg/hello)
+<br>### [Discord](https://discord.gg/hello)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

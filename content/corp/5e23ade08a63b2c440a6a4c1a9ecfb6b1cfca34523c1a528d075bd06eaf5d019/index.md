@@ -2,6 +2,7 @@
 title: ​QONQR 
 description: W:14 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
+Summary: ✅ 17 - 1 蓝色星系
 date: 2025-03-04T13:39:19.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T13:39:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 English language only. Swarming Legions of Faceless enemies. -= Two w
 eeks of inactivity tolerance =- Joining the corp discord server is no
 t mandatory, but it's much welcome. 
 ```
-### [Discord](https://discord.gg/A8AucxezBX)
+<br>### [Discord](https://discord.gg/A8AucxezBX)
 ### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Prospectors
 description: W:4 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 13 한국인
 date: 2024-04-01T21:12:59.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-04-01T21:12:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS 
 donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HE
 LP GUIDE @ https://userxinos.github.io/HadesSpace/
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

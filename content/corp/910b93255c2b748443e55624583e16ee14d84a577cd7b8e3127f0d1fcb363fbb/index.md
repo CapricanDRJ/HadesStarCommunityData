@@ -2,6 +2,7 @@
 title: ​viCIOus
 description: W:28 L:2 D:1 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 9 - 0 ALPHA
 date: 2025-03-03T04:11:08.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-03T04:11:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 New!!! Join to expand!
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1426 🔺  (43)|
-| ELO Competitive | 1471 🔺  (89)|
+| ELO Competitive | 1471 🔺  (92)|
 | Total Matches | 31 |
 | Wins | 28 |
 | Losses | 2 |

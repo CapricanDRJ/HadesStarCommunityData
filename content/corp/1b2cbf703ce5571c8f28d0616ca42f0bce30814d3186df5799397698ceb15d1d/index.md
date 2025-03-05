@@ -2,14 +2,13 @@
 title: ​DadCorp
 description: W:5 L:2 D:0 Bonus ❌ 16%
 image: ./favicon.png
+Summary: ✅ 36 - 14 СССР
 date: 2024-08-23T05:19:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 A corporation for dads everywhere!
@@ -19,11 +18,11 @@ on Discord before sending us an in game request.
 
 Discord: z38XKuM
 ```
-### Whitestar Bonus ❌ 16%
+<br>### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (293)|
+| ELO Regular | 1243 🔺  (291)|
 | ELO Competitive | 1257 🔺  (410)|
 | Total Matches | 7 |
 | Wins | 5 |

@@ -2,6 +2,7 @@
 title: ​Schnuppenfarm
 description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 14 - 29 붉은늑대
 date: 2024-11-07T06:03:36.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-07T06:03:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 1. Jeder spielt wann er will.
 2. Am Monatsende wird ein Aktivitätscheck durchgeführt!
 3. keine fusion oder änlinches!!!
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

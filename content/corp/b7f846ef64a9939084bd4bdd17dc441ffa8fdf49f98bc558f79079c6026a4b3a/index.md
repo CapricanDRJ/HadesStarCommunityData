@@ -2,14 +2,13 @@
 title: ​space port
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 9 Industrial W\.O
 date: 2023-11-04T18:42:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Go away or don’t your choice. 
@@ -19,7 +18,7 @@ Join our server for questions. But this is a mostly dead corp, honest
 
 discord code:  5xKBwEFxeD
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

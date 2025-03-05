@@ -1,32 +1,32 @@
 ---
 title: ​Spaceballs
-description: W:27 L:17 D:0 Bonus ❌ 8%
+description: W:28 L:17 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 2025-02-25T20:18:22.000Z
+Summary: ✅ 23 - 4 СОЮЗ
+date: 2025-03-05T02:10:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make
  it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hades
 titans.com
 ```
-### [Discord](https://discord.gg/QhMTEDb8zt)
-### Whitestar Bonus ❌ 8%
+<br>### [Discord](https://discord.gg/QhMTEDb8zt)
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (67)|
-| ELO Competitive | 1467 🔺  (93)|
-| Total Matches | 44 |
-| Wins | 27 |
+| ELO Regular | 1402 🔺  (59)|
+| ELO Competitive | 1477 🔺  (89)|
+| Total Matches | 45 |
+| Wins | 28 |
 | Losses | 17 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 14 |
 | Flagship | 6 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740082702,1739485279,1738888484,1737661514,1737060809,1736452217,1735849923,1734636931,1734032677,1733438930,1732215918,1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
+        let timestamps = [1740708635,1740082702,1739485279,1738888484,1737661514,1737060809,1736452217,1735849923,1734636931,1734032677,1733438930,1732215918,1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/05 | 23-4 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ✅ | 2025/02/25 | 15-3 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2025/02/18 | 10-25 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2025/02/12 | 29-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

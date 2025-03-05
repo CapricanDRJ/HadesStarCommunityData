@@ -2,6 +2,7 @@
 title: ​НИФИГАСЕБЕ
 description: W:8 L:26 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 22 lonewolf
 date: 2025-01-23T15:27:50.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-23T15:27:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color="blue">СИНЬКА ЗЛО!</color>  <color="green">ПЕЙ БОРЖОМИ!</color
 >  <color="red">ГАЛАКТИКА БУДЕТ НАША!✊✊</color> t.me/NifigasebeHS
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

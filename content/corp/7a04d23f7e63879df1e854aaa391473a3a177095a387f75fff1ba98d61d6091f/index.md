@@ -2,6 +2,7 @@
 title: ​StellarCorpIT
 description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 18 - 26 Industrial W\.O
 date: 2024-10-10T18:55:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-10T18:55:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>Per partecipare alle ws è richiesta partecipazione attiva 
 e collaborazione             <color=yellow><br>Link telegram obbligat
 orio per le ws: t.me/StellarCorpIT
 ```
-### [Discord](https://discord.gg/dxMw6cbjGt)
+<br>### [Discord](https://discord.gg/dxMw6cbjGt)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

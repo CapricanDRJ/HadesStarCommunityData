@@ -2,6 +2,7 @@
 title: ​Sternenflotte
 description: W:3 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 5 - 28 nuevo mundo
 date: 2024-07-13T12:18:20.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-07-13T12:18:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Willkommen in der Sternenflotten Akademie. Hier oder auf Discord find
 est du Hilfe
 ```
-### [Discord](https://discord.gg/ZWfJ5Tdh)
+<br>### [Discord](https://discord.gg/ZWfJ5Tdh)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

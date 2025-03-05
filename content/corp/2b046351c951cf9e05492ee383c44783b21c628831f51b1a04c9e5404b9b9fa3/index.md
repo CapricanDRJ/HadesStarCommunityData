@@ -2,6 +2,7 @@
 title: ​Paramedic ICU
 description: W:9 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 5 - 8 Galaktika corp
 date: 2024-03-28T09:17:35.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-28T09:17:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Paramedic ICU. This is a clan/corporation based on respect
 ing the higher-ups, being friendly, and helping your comrads out.
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

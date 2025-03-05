@@ -2,6 +2,7 @@
 title: ​Croce del Sud
 description: W:16 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 30 - 70 Continuum
 date: 2025-02-25T00:11:03.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-25T00:11:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=150><#60f>CdS</color></size><br><#c6c>✝南十字星<br>✝クローチェ・デル・スッド<br
 ><#fff>プライベートRS、BLS、時々WS…情報交換しながら、各自のペースで進めるコーポレーションです。イベントやWSはみんなで楽し
 く！アクティブな新人さんのご参加お待ちしています<br>Family: 蝸牛の集い<br>nata il19/09/2022
 ```
-### [Discord](https://discord.gg/jPZ6zuXRmv)
+<br>### [Discord](https://discord.gg/jPZ6zuXRmv)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (317)|
+| ELO Regular | 1238 🔻  (316)|
 | ELO Competitive | 1286 🔻  (333)|
 | Total Matches | 28 |
 | Wins | 16 |

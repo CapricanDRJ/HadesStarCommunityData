@@ -2,14 +2,13 @@
 title: ​Hyperion Radius
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 11 \(\_\(\_Vossk\_\)\_\)
 date: 2023-11-15T23:04:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ~ casual corp ~
@@ -19,7 +18,7 @@ WS player: <color="#ffea4a">discord required</color>
 established '18
 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

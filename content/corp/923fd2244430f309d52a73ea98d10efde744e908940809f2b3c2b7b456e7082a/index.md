@@ -2,14 +2,13 @@
 title: ​27rus
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 2 Star Fleet
 date: 2024-01-08T09:57:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 простые люди, простые решения. 
@@ -18,7 +17,7 @@ watsapp/ telegram
 помощь новичкам 
 корпус  "ALPHA TECH"
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

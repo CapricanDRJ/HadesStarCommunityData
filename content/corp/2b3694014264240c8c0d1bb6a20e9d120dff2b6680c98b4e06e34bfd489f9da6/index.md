@@ -2,6 +2,7 @@
 title: ​Alpha to Omega
 description: W:4 L:8 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 4 - 14 星际公约组织
 date: 2025-03-04T13:44:20.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T13:44:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Start here. Figure things out. Have fun.
 ```
-### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
+<br>### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​지고받자
 description: W:0 L:9 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 34 Nine's Own Goal
 date: 2023-12-21T03:38:10.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-21T03:38:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
   Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

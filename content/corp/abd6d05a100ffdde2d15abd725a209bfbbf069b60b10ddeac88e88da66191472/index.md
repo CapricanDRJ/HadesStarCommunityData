@@ -2,14 +2,13 @@
 title: ​华夏舰队
 description: W:21 L:62 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 60 Deadspace
 date: 2025-02-23T12:37:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎国人朋友加入 互相帮助共同进步
@@ -20,7 +19,7 @@ date: 2025-02-23T12:37:15.000Z
 <color=green>本集团为国人满加成集团，欢迎朋友们来打私人红星，让我们一起快速发展</color>
 <color=blue>Dis: https:// discord.gg/v2xC6g9Shy</color>
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

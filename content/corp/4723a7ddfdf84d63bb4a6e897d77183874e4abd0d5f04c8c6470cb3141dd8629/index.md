@@ -2,6 +2,7 @@
 title: ​Red Suns
 description: W:15 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 28 Warriorlords
 date: 2024-12-18T22:37:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-12-18T22:37:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Home to all as long as you are willing to contribute to our growth 🤝
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

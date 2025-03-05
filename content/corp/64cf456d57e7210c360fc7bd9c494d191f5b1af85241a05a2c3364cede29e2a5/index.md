@@ -2,6 +2,7 @@
 title: ​WR104
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 1 脉冲星际集团
 date: 2024-11-27T02:25:59.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-27T02:25:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación U
 NSC
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

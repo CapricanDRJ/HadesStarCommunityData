@@ -2,6 +2,7 @@
 title: ​UKRAINE STARS
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 2 星系联盟
 date: 2025-01-14T20:47:04.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-14T20:47:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Вітаю. Слааа Україні! Героям Слава! Окупантам тут не місце..
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Mass Effect
 description: W:35 L:28 D:1 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 31 - 7 Space Pirates
 date: 2025-03-02T00:33:20.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-03-02T00:33:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 - no fussing, no trolling, no discord -
 NO KIDDING : GAMING ONLY!
 
 Just come and play to the rules!
 ```
-### Whitestar Bonus ✅ 38%
+<br>### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​＊ПОБЕДА＊
 description: W:2 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 16 - 15 Hexacropians
 date: 2023-11-20T05:41:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 От игроков:
@@ -21,7 +20,7 @@ date: 2023-11-20T05:41:15.000Z
 и БЗ 
 открыт набор новых игроков
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​Gulinga
 description: W:0 L:2 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 4 - 15 Anla'Shok
 date: 2023-11-22T00:26:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 The Crazy Chickens
@@ -19,7 +18,7 @@ The Crazy Chickens
 * We help new players with tips, tricks and arts if needed
 Discord required for WS: pQVwk7J
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

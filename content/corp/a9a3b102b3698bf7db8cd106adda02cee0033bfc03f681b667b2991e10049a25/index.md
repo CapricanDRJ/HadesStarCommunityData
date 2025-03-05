@@ -2,6 +2,7 @@
 title: ​Млечный путь
 description: W:21 L:24 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 11 - 29 IX Легион
 date: 2025-03-01T06:36:30.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T06:36:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Добро пожаловать друг!Если ты новичок в игре,у нас ты найдешь помощь 
 опытных игроков.Если ты старичок,ты не найдешь гонок за реликвиями и 
 местами в топ.
 ```
-### [Discord](https://discord.gg/d4xpzqrZ2f)
+<br>### [Discord](https://discord.gg/d4xpzqrZ2f)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

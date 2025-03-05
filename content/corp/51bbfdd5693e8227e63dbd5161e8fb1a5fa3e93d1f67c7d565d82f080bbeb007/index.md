@@ -2,6 +2,7 @@
 title: ​Corporation
 description: W:16 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 36 - 2 SQPT
 date: 2024-08-11T19:31:57.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-11T19:31:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Active, tight-knit, fun and friendly. <b>Part of the Space Pals group
 </b> Discord mandatory. Click the link 'Corporation Discord' below.
 ```
-### [Discord](https://discord.gg/3A9WHQV )
+<br>### [Discord](https://discord.gg/3A9WHQV )
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

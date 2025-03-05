@@ -2,6 +2,7 @@
 title: ​SiriusStrawMoo
 description: W:17 L:9 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 一根飞机
 date: 2025-01-03T17:22:43.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-01-03T17:22:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The best corporation for white star enthusiasts. On the way to greatn
 ess. White star participation required
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1260 🔻  (243)|
-| ELO Competitive | 1294 🔻  (311)|
+| ELO Competitive | 1294 🔻  (310)|
 | Total Matches | 28 |
 | Wins | 17 |
 | Losses | 9 |

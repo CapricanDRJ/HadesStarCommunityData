@@ -2,6 +2,7 @@
 title: ​РОДНЫЕ.
 description: W:4 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 2 - 31 Looping
 date: 2024-05-13T15:33:10.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-05-13T15:33:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 нормальных приветствуем)👍 .. бз, чкз есть.. иногда 
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

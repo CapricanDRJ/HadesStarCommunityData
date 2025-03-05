@@ -2,6 +2,7 @@
 title: ​Galactic Trade
 description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Death Star llc\.
 date: 2023-12-19T18:49:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-19T18:49:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Advice, teaching and a friendly community aiming for victory, power a
 nd fame in the galaxy. Applications will be processed in around 24 ho
 urs and will accept new and old players. Founded 22/10/22
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

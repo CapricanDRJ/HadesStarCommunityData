@@ -2,6 +2,7 @@
 title: ​共产主义舰队
 description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 16 - 0 三体舰队
 date: 2024-02-25T03:09:01.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-25T03:09:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>抵抗压迫者，联盟共产星际集团                                            
     <color=white>本集团追求平等自由  承诺人人权力平等！ 本集团由大量学生组成  在校期间学业繁忙          故
 上线人数少  如有活跃者 想谋求长远发展者    请移步共产星际  及其附属集团  寻求更合适的环境
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

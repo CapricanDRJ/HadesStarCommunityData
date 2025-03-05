@@ -2,6 +2,7 @@
 title: ​以太超星团
 description: W:3 L:27 D:6 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 3 分子集团
 date: 2025-02-28T02:58:48.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-28T02:58:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#ffa>100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号
 ```
-### [Discord](https://discord.gg/yyZqNDKx6T)
+<br>### [Discord](https://discord.gg/yyZqNDKx6T)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​REFOUNDATION 
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 16 萌新港\(大佬港\)
 date: 2023-12-06T12:04:52.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-06T12:04:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corpo FR active et vivante ! Recherche nouveaux membres actifs et int
 érésés pour continuer le jeu avec nous. 
 ```
-### [Discord](https://discord.gg/RKV9fSX3)
+<br>### [Discord](https://discord.gg/RKV9fSX3)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

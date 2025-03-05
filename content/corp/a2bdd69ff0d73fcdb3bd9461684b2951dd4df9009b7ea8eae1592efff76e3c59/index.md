@@ -2,6 +2,7 @@
 title: ​Curcubeu
 description: W:17 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 0 - 45 Scar
 date: 2025-01-06T14:54:10.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-06T14:54:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Redstar privat în fiecare seară.                        Whitestar sap
 tamanal. Vrei să crești alături de noi? Te așteptăm! Acces discord vi
 a browser: https://dsc.gg/sah
 ```
-### [Discord](https://discord.gg/23cA4bB7X8)
+<br>### [Discord](https://discord.gg/23cA4bB7X8)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

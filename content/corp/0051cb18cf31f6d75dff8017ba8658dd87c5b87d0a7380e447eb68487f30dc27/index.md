@@ -2,6 +2,7 @@
 title: ​α阿尔法
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 20 <a\>超越®</a\>光速℡
 date: 2024-02-22T17:03:11.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-22T17:03:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 2022.1.15      xiao
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

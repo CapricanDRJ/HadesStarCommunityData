@@ -2,6 +2,7 @@
 title: ​Рагнарёк
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 12 Order of Hades
 date: 2023-12-30T17:55:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-30T17:55:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Приветствуем новых игроков в нашей корпорации, от вас активность и ад
 екватность, от нас любая возможная помощь, небезразличные учасники, п
 одключаемся к каналу дискорд и ватсап 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/2bQ8kZ8n)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/2bQ8kZ8n)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

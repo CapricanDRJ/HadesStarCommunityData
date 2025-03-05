@@ -2,6 +2,7 @@
 title: ​(◉▼◉ ﾐﾐ )Э
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ❌ 0 - 6 OrderofTheGeon
 date: 2024-04-24T06:49:49.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-24T06:49:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 (◉▼◉ ﾐﾐ )Э
 ```
-### [Discord](https://discord.gg/(◉▼◉ ﾐﾐ )Э)
+<br>### [Discord](https://discord.gg/(◉▼◉ ﾐﾐ )Э)
 ### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |

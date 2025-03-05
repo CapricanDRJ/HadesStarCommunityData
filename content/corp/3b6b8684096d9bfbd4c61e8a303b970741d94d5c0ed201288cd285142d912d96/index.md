@@ -2,14 +2,13 @@
 title: ​Tau Alpha
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 1 - 7 Венерский Союз
 date: 2024-01-29T14:48:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 aktiver Nachwuchskonzern im Aufbau
@@ -18,7 +17,7 @@ z. B. RR Hilfe etc.!
 Für WZ möchten wir die Teilnahme im Discord!
 https://discord.gg/pUXrxxt
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

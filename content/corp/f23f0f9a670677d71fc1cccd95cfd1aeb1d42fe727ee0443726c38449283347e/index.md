@@ -2,6 +2,7 @@
 title: ​42 Nova Corps.
 description: W:2 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 33 - 1 Любители Пива
 date: 2024-02-02T18:44:52.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-02-02T18:44:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=60><b><color=yellow>ALIANZA HISPÁNICA</color></b></size>
 <color=red>Estrell.Rojas ER5-8</color>
 <color=white>Estrellas Blancas semanales</color>
 Discord obligatorio: KAguMmM</color>
 ```
-### [Discord](https://discord.gg/KAguMmM)
+<br>### [Discord](https://discord.gg/KAguMmM)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

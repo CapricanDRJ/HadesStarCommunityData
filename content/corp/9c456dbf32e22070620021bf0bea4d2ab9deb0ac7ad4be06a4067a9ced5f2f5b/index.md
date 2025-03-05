@@ -2,6 +2,7 @@
 title: ​Anarchy Nation 
 description: W:11 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 17 Empire of Light
 date: 2025-02-23T09:42:25.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-23T09:42:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Active members looking to expand together and conquer white stars 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

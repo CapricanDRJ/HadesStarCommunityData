@@ -2,6 +2,7 @@
 title: ​StargateCommand
 description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Titan Inc\.
 date: 2023-12-17T07:39:09.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-17T07:39:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Recruiting X-304 pilots to defeat the Goa'uld!
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​N7 Elite Forces
 description: W:3 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 27 - 21 Scar
 date: 2024-05-09T09:49:00.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-05-09T09:49:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>N7<color=red>/<color=white>ALLIANCE</b><br><br><color=#ffa630>RS1 
 - RS12<br><color=red>Discord Required
 ```
-### [Discord](https://discord.gg/zgRuk78)
+<br>### [Discord](https://discord.gg/zgRuk78)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (270)|
+| ELO Regular | 1250 🔺  (269)|
 | ELO Competitive | 1252 🔺  (421)|
 | Total Matches | 3 |
 | Wins | 3 |

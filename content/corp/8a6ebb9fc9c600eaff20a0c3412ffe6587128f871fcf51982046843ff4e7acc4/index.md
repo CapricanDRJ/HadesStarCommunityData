@@ -2,14 +2,13 @@
 title: ​藏锋府
 description: W:10 L:8 D:1 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 0 - 37 Mercury Sunset
 date: 2025-02-18T13:50:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为<size=120>仙女座星雲</size>第九分团
@@ -23,13 +22,13 @@ date: 2025-02-18T13:50:24.000Z
 这里是国服区对萌新最友好的集团
 期待你
 ```
-### [Discord](https://discord.gg/snwFMgDPms)
+<br>### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (324)|
-| ELO Competitive | 1287 🔻  (328)|
+| ELO Regular | 1238 🔻  (323)|
+| ELO Competitive | 1287 🔻  (327)|
 | Total Matches | 19 |
 | Wins | 10 |
 | Losses | 8 |

@@ -2,6 +2,7 @@
 title: ​Orion
 description: W:12 L:4 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 20 - 36 BattleCo
 date: 2024-03-31T17:55:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-31T17:55:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 L'empire d'<color=red>Orion</color> recherche des joueurs fr, pour s'
 amuser entre fous ! Si tu viens chez Orion, tu joues comme Orion. Nou
 s sommes une team avant tout.Recrutement actif + Formation WS
 ```
-### [Discord](https://discord.gg/YtyNGek)
+<br>### [Discord](https://discord.gg/YtyNGek)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

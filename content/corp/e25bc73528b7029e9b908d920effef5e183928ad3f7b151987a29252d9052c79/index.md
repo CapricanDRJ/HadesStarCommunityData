@@ -2,6 +2,7 @@
 title: ​phoenix clan
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 20 - 10 Mandalorians
 date: 2024-02-20T14:08:06.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-02-20T14:08:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 join to chill, get help with red stars, or help us run white stars. d
 iscord required.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/zZf6cHbv)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/zZf6cHbv)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (316)|
+| ELO Regular | 1238 🔺  (315)|
 | ELO Competitive | 1239 🔺  (462)|
 | Total Matches | 5 |
 | Wins | 4 |

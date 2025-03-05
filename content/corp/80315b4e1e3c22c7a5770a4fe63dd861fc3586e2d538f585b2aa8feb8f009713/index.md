@@ -2,14 +2,13 @@
 title: ​宇氏集团
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 28 Lacuna X
 date: 2023-12-21T06:17:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 听指挥 打胜仗 共富裕 
@@ -19,7 +18,7 @@ QQ群：362076387，申请前请加入QQ群
 禁止黑名单进入。          黑名单：MPW-1594
 开心玩嗷，各位！
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​U.S.A
 description: W:22 L:48 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 11 九州分团
 date: 2025-03-04T11:54:07.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T11:54:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 USA or the United Stars Alliance stands for the good for all of the m
 embers Star Nations that are apart of it against the chaos outside of
  it. Casual group with a couple hardcore players! 
 ```
-### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
+<br>### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​loveboat
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 27 Orden Estelar 
 date: 2024-03-02T14:39:12.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-02T14:39:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Join our Discord https://discord.gg/UdS5DmQJRh
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

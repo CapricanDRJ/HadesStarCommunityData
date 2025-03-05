@@ -2,6 +2,7 @@
 title: ​DL Academy
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 16 - 8 Elysium
 date: 2025-01-18T02:33:53.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-18T02:33:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 "Dark Legion Academy is the starting point for transitioning to the m
 ain roster after gaining battle experience on the White Stars. Ready 
 to rise and conquer!"
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Interstellar
 description: W:43 L:55 D:3 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 21 - 5 \*СССР\*
 date: 2025-02-28T18:30:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T18:30:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ..::: Focus on upgrading those Planets,   Join in on the white star e
 vents (when possible), Also make use of the timemachine capability if
  AFK or not on much during the white star event :::..  😊👍
 ```
-### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
+<br>### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Cerulean Nebula
 description: W:14 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 20 - 0 Bunker
 date: 2024-05-26T15:56:19.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2024-05-26T15:56:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Binded to the bigger and older cerulean star corp. All welcome to joi
 n , we run rs, ws and we are democratic. Join our discord - most of o
 ur organization is there, use the link below                  
 ```
-### [Discord](https://discord.gg/tXs82nVf99)
+<br>### [Discord](https://discord.gg/tXs82nVf99)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (277)|
-| ELO Competitive | 1294 🔺  (310)|
+| ELO Regular | 1247 🔺  (276)|
+| ELO Competitive | 1294 🔺  (309)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

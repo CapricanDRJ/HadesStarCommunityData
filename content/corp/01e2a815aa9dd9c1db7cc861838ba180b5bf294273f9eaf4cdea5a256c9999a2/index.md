@@ -2,14 +2,13 @@
 title: ​华夏远征太空舰队
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 8 - 22 Октябристы
 date: 2023-11-19T11:14:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <size=90>欢迎各位萌新与大佬的进入！</size>
@@ -26,7 +25,7 @@ Q群：838214551
 所有人不准踢人，哪怕是首席。
 黑名单：元宇宙
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

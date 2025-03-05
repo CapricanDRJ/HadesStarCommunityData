@@ -2,6 +2,7 @@
 title: ​湖心亭看雪
 description: W:2 L:19 D:2 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 38 Серебряная орда
 date: 2024-06-26T08:20:49.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-26T08:20:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶   
               群qq1067984316                白星，尽量好好打，有啥出啥             
 warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881
 ```
-### [Discord](https://discord.gg/https://discord.gg/yf6cZcBq)
+<br>### [Discord](https://discord.gg/https://discord.gg/yf6cZcBq)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

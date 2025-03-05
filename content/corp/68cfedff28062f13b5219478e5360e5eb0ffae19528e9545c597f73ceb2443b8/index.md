@@ -2,6 +2,7 @@
 title: ​The 501st
 description: W:3 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 27 Bunker
 date: 2024-03-13T14:09:17.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-13T14:09:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 New Corp looking for some regular playing members. 
 
 https://discord.gg/geRShvzM89
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

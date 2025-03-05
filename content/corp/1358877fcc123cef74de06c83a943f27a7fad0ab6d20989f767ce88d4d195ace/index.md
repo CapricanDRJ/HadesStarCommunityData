@@ -2,14 +2,13 @@
 title: ​Повстанцы Хаоса
 description: W:52 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 19 - 0 FURIA 2\.0
 date: 2025-02-22T20:00:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Рим анархиста.
@@ -18,7 +17,7 @@ date: 2025-02-22T20:00:43.000Z
 ▼ Белые звёзды - без ограничений
 Telegram обязателен для вступления: https://t.me/DogDogDog10
 ```
-### [Discord](https://discord.gg/HmcXJFdWGC)
+<br>### [Discord](https://discord.gg/HmcXJFdWGC)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

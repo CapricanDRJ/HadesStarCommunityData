@@ -2,14 +2,13 @@
 title: ​La NoChE NeGrA
 description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Weyland Yutani 
 date: 2024-06-21T22:45:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color="Red>EB SEMANAL
@@ -21,7 +20,7 @@ CONDICIONES:
 -No es necesario tener tanta influencia para entrar.
 -Ayudar con el reclutamiento diario
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

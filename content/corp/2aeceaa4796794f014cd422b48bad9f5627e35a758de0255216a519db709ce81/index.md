@@ -2,6 +2,7 @@
 title: ​Order of Hades
 description: W:79 L:33 D:1 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ❌ 19 - 41 Hinterm Mond
 date: 2025-03-01T17:12:35.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T17:12:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
  <color=yellow>Public UIH RS Corp for 48% runs. Join us on discord! d
 iscord is mandatory for membership.
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

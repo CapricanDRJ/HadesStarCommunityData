@@ -2,14 +2,13 @@
 title: ​United Stars 
 description: W:40 L:24 D:3 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 33 - 10 UAGC
 date: 2025-02-28T13:29:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Weekly WS 
@@ -18,7 +17,7 @@ Weekly give aways,
 lvl 10 corp bouns on private RS
 Join the family! Active on discord!
 ```
-### [Discord](https://discord.gg/mjFw6PUW52)
+<br>### [Discord](https://discord.gg/mjFw6PUW52)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

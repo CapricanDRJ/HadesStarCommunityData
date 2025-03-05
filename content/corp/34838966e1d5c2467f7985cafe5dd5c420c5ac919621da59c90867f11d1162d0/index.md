@@ -2,6 +2,7 @@
 title: ​NERF TOY'S
 description: W:22 L:35 D:2 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 16 - 18 日月星辰
 date: 2024-11-10T07:20:55.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-10T07:20:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=green>WELCOME TO NERF TOY'S </color> always looking for active
  players. <color=red>discord required https://discord.gg/C5HUwQdS <co
 lor=yellow>weekly WS's and daily Corp runs
 ```
-### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
+<br>### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

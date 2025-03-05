@@ -2,6 +2,7 @@
 title: ​GoS Academy
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 13 AwA
 date: 2023-11-12T18:06:47.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2023-11-12T18:06:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Recruitment and Training wing for Game of Stars Corp.
 All levels welcome
 Necessary training and advise provided.
 Discord server :
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

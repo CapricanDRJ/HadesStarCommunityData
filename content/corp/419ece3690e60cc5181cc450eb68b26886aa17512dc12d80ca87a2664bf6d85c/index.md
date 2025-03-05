@@ -1,7 +1,8 @@
 ---
 title: ​Star tap
-description: W:3 L:1 D:0 Bonus ✅ 28%
+description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 3 - 0 百万繁星
 date: 2025-02-26T05:09:12.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-26T05:09:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Newbie and veterans welcome! Just a chill guild looking to have fun :
 )
 ```
-### Whitestar Bonus ✅ 28%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

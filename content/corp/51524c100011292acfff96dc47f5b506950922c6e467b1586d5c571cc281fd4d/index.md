@@ -2,6 +2,7 @@
 title: ​永恒之梦
 description: W:6 L:3 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 3 - 0 地球星际集团
 date: 2024-09-02T13:45:14.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-02T13:45:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎任何一位加入集团的成员<br><br>QQ群: 916442658<br><br>福利:r3-8、D7<br><br>主团:神圣罗马帝
 国<br>南极星联盟成员<br><br>直辖管制
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

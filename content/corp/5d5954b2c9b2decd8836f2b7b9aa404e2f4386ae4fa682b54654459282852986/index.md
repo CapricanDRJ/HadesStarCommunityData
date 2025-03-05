@@ -2,6 +2,7 @@
 title: ​GermanIndustrie
 description: W:10 L:2 D:1 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ✅ 36 - 1 ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 date: 2024-09-28T09:45:21.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-28T09:45:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ausbildungskonzern des Hellfire Clubs. Du bist neu und suchst einen K
 onzern um gemeinsame rr/drr und/oder WZ zu fliegen? Dann bist du hier
  richtig! Komm rein oder erkundige dich auf unserem D-server. 
 ```
-### [Discord](https://discord.gg/cMHeknWazZ)
+<br>### [Discord](https://discord.gg/cMHeknWazZ)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

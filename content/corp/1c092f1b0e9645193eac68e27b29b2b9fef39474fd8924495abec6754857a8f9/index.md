@@ -2,14 +2,13 @@
 title: ​alienigenas
 description: W:12 L:5 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 41 - 9 DeutschlandGmbH
 date: 2025-02-28T15:10:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 
@@ -18,7 +17,7 @@ Discord: https://discord.gg/szv4DVuHA5
 Para pertenecer a la corporacion hay que participar y colaborar en al
 guna actividad con los demas compañeros 
 ```
-### [Discord](https://discord.gg/szv4DVuHA5)
+<br>### [Discord](https://discord.gg/szv4DVuHA5)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

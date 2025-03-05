@@ -2,6 +2,7 @@
 title: ​Z. O. V. 
 description: W:41 L:16 D:2 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 19 对，进就进人少的
 date: 2025-03-04T09:13:53.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T09:13:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

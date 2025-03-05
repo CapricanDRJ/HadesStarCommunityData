@@ -2,6 +2,7 @@
 title: ​情谊永存
 description: W:2 L:8 D:2 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Hornet
 date: 2024-11-22T10:12:57.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-22T10:12:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 中国星际联盟附属小盟。欢迎加入，创立于2024.6.19 21点17分35秒。
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

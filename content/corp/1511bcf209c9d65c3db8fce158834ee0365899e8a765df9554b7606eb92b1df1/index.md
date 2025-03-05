@@ -2,6 +2,7 @@
 title: ​太阳系联邦
 description: W:0 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 7 Eastern Front
 date: 2024-10-18T05:59:38.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-10-18T05:59:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎大家加入，进团升干事！加入送三个神器，最高九级。旗舰有理由即可动用，白星由参与人员提出方案后择优执行。每周清理小红点
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​italian warrior
 description: W:33 L:43 D:3 Bonus ✅ 44%
 image: ./favicon.png
+Summary: ✅ 16 - 10 СОЮЗ
 date: 2025-02-27T21:18:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><size=80><color=blue>Corp. per tutti</color></size></b> (grandi e 
@@ -20,7 +19,7 @@ piccoli)
 
 Discord: https://discord.gg/A26JEJgPwh
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
 ### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |

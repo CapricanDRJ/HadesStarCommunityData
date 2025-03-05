@@ -2,14 +2,13 @@
 title: ​绛紫星
 description: W:35 L:29 D:2 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 43 - 5 Quantum Cats
 date: 2025-01-28T06:18:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 冥散青云紫雾，淡盘瑞霭绛烟。
@@ -22,11 +21,11 @@ date: 2025-01-28T06:18:51.000Z
 星海似尽无涯路，碧霄唯见绛紫星。 群号：415822703
 指定分团：绛紫星云
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (238)|
+| ELO Regular | 1262 🔺  (237)|
 | ELO Competitive | 1420 🔺  (131)|
 | Total Matches | 66 |
 | Wins | 35 |

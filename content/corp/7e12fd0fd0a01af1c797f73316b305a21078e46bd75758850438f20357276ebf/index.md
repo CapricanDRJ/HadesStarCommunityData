@@ -2,14 +2,13 @@
 title: ​碧霄殿
 description: W:9 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 15 - 0 超新星联盟
 date: 2024-10-05T15:12:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为<size=120>仙女座星雲</size>第一分团
@@ -23,7 +22,7 @@ date: 2024-10-05T15:12:32.000Z
 这里是国服区对萌新最友好的集团
 期待你
 ```
-### [Discord](https://discord.gg/snwFMgDPms)
+<br>### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

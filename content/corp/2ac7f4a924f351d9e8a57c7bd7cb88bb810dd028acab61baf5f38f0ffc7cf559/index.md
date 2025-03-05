@@ -2,6 +2,7 @@
 title: ​Regulus
 description: W:8 L:15 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 1 - 28 White Dwarf
 date: 2024-09-11T11:36:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-11T11:36:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=96><color=#fff>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</color>
 </size><color=#fff><br>推薦コーポ<br>🟡Spica(No Discord＆SNS) <br>🟢星を継ぐもの<
 br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 ```
-### [Discord](https://discord.gg/3WAXnPcaNe)
+<br>### [Discord](https://discord.gg/3WAXnPcaNe)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

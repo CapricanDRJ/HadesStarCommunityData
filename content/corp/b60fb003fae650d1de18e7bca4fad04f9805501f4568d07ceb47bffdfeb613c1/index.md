@@ -2,6 +2,7 @@
 title: ​Nox Imperium
 description: W:28 L:3 D:0 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 42 - 6 RedStar Raiding
 date: 2025-03-02T18:10:06.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-02T18:10:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 "NEVER LEAVE HOPE UNTIL YOU DIE" -- NOX IMPERIUM,A friendly corp with
  weekly ws   and in a search of active players,no discord required 
 ```
-### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
+<br>### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
 ### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |

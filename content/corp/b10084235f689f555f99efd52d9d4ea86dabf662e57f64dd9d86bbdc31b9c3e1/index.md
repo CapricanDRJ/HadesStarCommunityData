@@ -2,14 +2,13 @@
 title: ​Hexwood
 description: W:11 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 41 - 2 Galaxians
 date: 2025-02-18T16:10:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929
@@ -18,7 +17,7 @@ Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929
 A social, easygoing Corp with allies to join together with for Red or
  White Stars. No pressure, play at your own pace.
 ```
-### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
+<br>### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

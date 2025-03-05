@@ -2,6 +2,7 @@
 title: ​Offshore Trash
 description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 53 Ender
 date: 2024-05-19T08:55:34.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-19T08:55:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 If you’re looking for the best, you’ve come to the WRONG place. This 
 eccentric group of comrades runs on dro, whisky, and a blatant disreg
 ard for safety.
 ```
-### [Discord](https://discord.gg/bUTEsDp)
+<br>### [Discord](https://discord.gg/bUTEsDp)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

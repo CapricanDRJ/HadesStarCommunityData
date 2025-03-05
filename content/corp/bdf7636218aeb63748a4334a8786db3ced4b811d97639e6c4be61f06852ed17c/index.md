@@ -2,6 +2,7 @@
 title: ​灰蛊风暴
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 2 - 0 КОРПОРАЦИЯ ЗЛА
 date: 2024-09-30T17:14:21.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-30T17:14:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 万众一心，一心一体  （咸鱼养老种田）
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Дом Датэ
 description: W:41 L:30 D:0 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 39 - 0 The X \- Files
 date: 2025-02-28T19:50:33.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-28T19:50:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
  Добро пожаловать! Открыты всем. Дата основания 09.06.22. Ссылка на г
 остевой чат в ТГ https://t.me/Date_Samurai_HS
 ```
-### Whitestar Bonus ✅ 40%
+<br>### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (92)|
+| ELO Regular | 1358 🔺  (93)|
 | ELO Competitive | 1463 🔺  (97)|
 | Total Matches | 71 |
 | Wins | 41 |

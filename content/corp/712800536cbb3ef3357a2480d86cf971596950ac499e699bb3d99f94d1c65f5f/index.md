@@ -2,14 +2,13 @@
 title: ​혁명군
 description: W:13 L:32 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 0 - 53 VoidCorp
 date: 2024-05-07T15:33:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 한국인 전용<size="80"></size>
@@ -18,7 +17,7 @@ date: 2024-05-07T15:33:23.000Z
 
 Discord opened
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

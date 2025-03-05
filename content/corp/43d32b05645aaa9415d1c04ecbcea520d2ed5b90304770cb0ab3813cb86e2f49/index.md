@@ -2,6 +2,7 @@
 title: ​붉은늑대
 description: W:44 L:78 D:1 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 15 - 19 Nine's Own Goal
 date: 2025-01-15T16:22:25.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-15T16:22:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ◇7~10 어둠적성 매일 팀플레이 실행 중.<br>◇매주 백성 1,2부 두팀 운영 중.<br>◇초보자 유물지원 빵빵하게 해드
 림.<br>◇절찬 성업중인 유일 한국콥으로 초대합니다.<br>◇카톡방에서 붉은늑대 다크 네뷸라를 찾으세요!<br>◇단톡방 참
 여 필수! 항성로그 3일 미접속 방출!
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

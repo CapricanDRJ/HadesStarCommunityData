@@ -2,14 +2,13 @@
 title: ​New Star
 description: W:5 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 26 - 11 Argentina 1\.0
 date: 2024-12-31T22:46:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ♡Welcome all♡
@@ -18,12 +17,12 @@ avonfliegen.
 We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (315)|
+| ELO Regular | 1238 🔺  (314)|
 | ELO Competitive | 1272 🔺  (366)|
 | Total Matches | 11 |
 | Wins | 5 |

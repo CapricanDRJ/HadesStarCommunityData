@@ -2,14 +2,13 @@
 title: ​Outland Ind.
 description: W:39 L:11 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ✅ 25 - 10 Zvezdec
 date: 2025-02-22T07:59:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow>Proud member of United Industries of Hades (UIH)
@@ -20,12 +19,12 @@ Outland welcomes our newest recruits!
 Discord is mandatory:
 <color=yellow>discord.gg/vPsNNxs</color>
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1464 🔺  (20)|
+| ELO Regular | 1464 🔺  (21)|
 | ELO Competitive | 1533 🔺  (54)|
 | Total Matches | 50 |
 | Wins | 39 |

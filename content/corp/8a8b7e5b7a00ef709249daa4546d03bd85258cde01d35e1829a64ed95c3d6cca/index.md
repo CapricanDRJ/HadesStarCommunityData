@@ -2,6 +2,7 @@
 title: ​Lights Off 
 description: W:26 L:16 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 8 - 15 Planet Express
 date: 2024-11-24T11:39:53.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-24T11:39:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Lights Off! Friendly Corp using the English language. Dail
 y RS and weekly WS. Discord link below 
 ```
-### [Discord](https://discord.gg/eYh6VmKZeU)
+<br>### [Discord](https://discord.gg/eYh6VmKZeU)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

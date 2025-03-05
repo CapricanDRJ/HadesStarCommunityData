@@ -2,14 +2,13 @@
 title: ​OntarioDiligent
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 18 First Legion
 date: 2024-02-12T23:42:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 WS Intro corp for the
@@ -21,7 +20,7 @@ https://discord.gg/gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

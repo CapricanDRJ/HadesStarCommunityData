@@ -2,6 +2,7 @@
 title: ​孤星长城
 description: W:9 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ✅ 23 - 0 世外桃源
 date: 2025-01-26T06:29:12.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-26T06:29:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

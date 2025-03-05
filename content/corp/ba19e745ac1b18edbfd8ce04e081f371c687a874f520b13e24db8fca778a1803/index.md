@@ -2,6 +2,7 @@
 title: ​MicroNova
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 11 Eretria 
 date: 2023-12-15T19:04:16.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-15T19:04:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", w
 hatsapp:83-99339-5118.
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

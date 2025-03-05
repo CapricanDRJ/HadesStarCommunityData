@@ -2,14 +2,13 @@
 title: ​Embers Rising
 description: W:30 L:12 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 50 ДИВЕРСАНТЫ
 date: 2025-01-28T12:34:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><size=90><color=red>Welcome to Embers Rising</color></size></b>
@@ -18,7 +17,7 @@ Always Recruiting! RS: 4-10
 Member of The Rising Imperium
 Mandatory Discord: p3dTaE9
 ```
-### [Discord](https://discord.gg/p3dTaE9)
+<br>### [Discord](https://discord.gg/p3dTaE9)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

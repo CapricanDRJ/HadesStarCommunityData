@@ -2,6 +2,7 @@
 title: ​RUS
 description: W:23 L:22 D:0 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 55 - 36 ГОРИЗОНТ
 date: 2025-02-28T12:24:41.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-28T12:24:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#72bf47><b>RS EVENT RANK 2</b></color>
 На базе корпорации RUS проводится ивент сборной командой с участием и
 гроков ру-сегмента. Присоединяйся 👉
 https://t.me/RSeventHS
 ```
-### Whitestar Bonus ✅ 50%
+<br>### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (269)|
+| ELO Regular | 1251 🔺  (268)|
 | ELO Competitive | 1361 🔺  (196)|
 | Total Matches | 45 |
 | Wins | 23 |

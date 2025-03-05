@@ -2,6 +2,7 @@
 title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 1 Omega corp
 date: 2024-09-18T02:36:57.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-18T02:36:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

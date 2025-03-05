@@ -2,6 +2,7 @@
 title: ​Celtic Imperium
 description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 35 新手联邦（新经济开发区）
 date: 2024-01-18T11:52:09.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-18T11:52:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 “He who stands with me shall be my brother.”
 
 Help each other and have fun.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​Tabula Rasa
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 21 ITA 2\.0
 date: 2023-12-20T18:12:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 A holding corp for alts and travelers
@@ -19,7 +18,7 @@ White stars occasionally too.
 Our more active members can be found in this discord
 Discord: <B>EEpZuWf</B>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

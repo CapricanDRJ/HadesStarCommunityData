@@ -2,6 +2,7 @@
 title: ​苏维埃联邦
 description: W:0 L:18 D:3 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 9 星际公约组织
 date: 2025-02-09T08:48:15.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-09T08:48:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 要求：1．和平2．建国．2023年11·13早上·34．（2024年，5月太阳帝国.取代苏联
 ```
-### [Discord](https://discord.gg/11)
+<br>### [Discord](https://discord.gg/11)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

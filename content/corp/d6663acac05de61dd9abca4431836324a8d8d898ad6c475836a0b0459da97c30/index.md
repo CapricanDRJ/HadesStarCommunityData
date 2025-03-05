@@ -2,6 +2,7 @@
 title: ​Lolis Corp
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 16 星际联盟（中国）
 date: 2024-02-01T05:10:55.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-02-01T05:10:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=80><color=#8000FF>No mercy to our enemies
 I fight for honor and glory
 no matter how strong the enemy is
 mastery wins</color></size></b>
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

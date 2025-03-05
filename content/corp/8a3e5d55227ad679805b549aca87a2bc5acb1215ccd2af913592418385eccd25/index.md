@@ -2,6 +2,7 @@
 title: ​星光禁卫
 description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 9 - 1 斯比纳兰
 date: 2024-10-08T09:59:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-10-08T09:59:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 星光万丈红活专用
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

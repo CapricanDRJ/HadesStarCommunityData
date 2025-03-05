@@ -2,6 +2,7 @@
 title: ​Hun Avengers
 description: W:12 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 8 - 30 Team Rainbow
 date: 2024-03-05T17:06:25.000Z
 ---
 <head>
@@ -9,21 +10,19 @@ date: 2024-03-05T17:06:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#ffffee><size=75>Várunk sok szerettel minden Újoncot tapasztal
 at szerzésre, Tapasztaltakat WS-re!</size>
 Ugyanitt bojler eladó
 Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 ```
-### [Discord](https://discord.gg/9SyrBAt)
+<br>### [Discord](https://discord.gg/9SyrBAt)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (884)|
-| ELO Competitive | 1288 🔻  (327)|
+| ELO Competitive | 1288 🔻  (326)|
 | Total Matches | 25 |
 | Wins | 12 |
 | Losses | 13 |

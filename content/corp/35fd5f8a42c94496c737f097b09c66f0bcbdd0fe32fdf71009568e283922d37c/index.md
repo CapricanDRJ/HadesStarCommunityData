@@ -2,6 +2,7 @@
 title: ​New Horizons
 description: W:6 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 13 - 34 Imperium XIII
 date: 2025-03-01T13:12:07.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T13:12:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
  nicht hohl. RR, WZs, Spanferkelweitwurf und wilde Reime, Komm zu uns
  und spiel nichtmehr alleine!
 ```
-### [Discord](https://discord.gg/DYXwRY8AhC)
+<br>### [Discord](https://discord.gg/DYXwRY8AhC)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

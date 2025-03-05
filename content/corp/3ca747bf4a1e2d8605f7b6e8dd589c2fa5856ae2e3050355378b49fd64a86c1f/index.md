@@ -2,6 +2,7 @@
 title: ​风云集团
 description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 11 The Witness
 date: 2024-10-08T12:44:34.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-08T12:44:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位的加入，集团欢迎宇宙里的有志之士。，本团属于发展阶段，让我们这个集团里共同发展，一起强大。合作集团：日月联邦   Commuist
 Union短期目标：没有   新手和不经常上线的想加入本团的前往风云分团  黑名单：残影0号  集团提前通知：啥也没有。
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

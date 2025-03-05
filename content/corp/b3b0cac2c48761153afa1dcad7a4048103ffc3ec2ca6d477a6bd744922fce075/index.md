@@ -2,6 +2,7 @@
 title: ​Медведи
 description: W:36 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 24 - 7 Rogue One
 date: 2024-05-24T12:11:40.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-24T12:11:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Добро пожаловать!Ведётся набор активных игроков будем рады и новичкам
 , и бывалым игрокам.Делимся и обмениваемся артефактами. БЗ еженедельн
 о. Коммуникация в ТГ https://t.me/Date_Samurai_HS
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

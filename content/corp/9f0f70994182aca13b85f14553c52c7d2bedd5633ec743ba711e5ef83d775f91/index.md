@@ -2,6 +2,7 @@
 title: ​Dark Unit
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 13 - 0 斯比纳兰
 date: 2024-10-13T13:17:06.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-13T13:17:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ! Corporación Nueva.! Sean bienvenidos. Ayudamos En ER, Reclutando y 
 Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscur
 as, Victorias Brillantes." (Grupo de WhatsApp.)
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

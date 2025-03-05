@@ -2,14 +2,13 @@
 title: ​仙女座星雲
 description: W:89 L:61 D:4 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 15 - 8 Highlife
 date: 2025-02-28T13:54:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow><size=70>高效简洁的排队BOT，已经上线加入总群，验车后可以加入赶快来体验吧</size></colo
@@ -28,7 +27,7 @@ B站d音搜：仙女座星雲土豆
 
 成立时间：2022.2.10
 ```
-### [Discord](https://discord.gg/snwFMgDPms)
+<br>### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Brodudes Inc.
 description: W:80 L:23 D:1 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 4 - 28 Omega Alpha
 date: 2025-03-01T15:17:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T15:17:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 🎶I'm a Dude/he's a Dude/she's a Dude/we're all Dudes, hey!🎶<br><br>
 Chill group running weekly ws focused on teamwork, strategy, and comm
 unication. <B>Discord required!</B> Newbies welcome!
 ```
-### [Discord](https://discord.gg/xhXh3DkNBW)
+<br>### [Discord](https://discord.gg/xhXh3DkNBW)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

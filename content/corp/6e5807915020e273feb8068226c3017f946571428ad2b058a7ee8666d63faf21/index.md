@@ -2,6 +2,7 @@
 title: ​Sussy Coloner
 description: W:30 L:70 D:4 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 3 - 0 Argentina 2\.0
 date: 2025-03-01T00:25:59.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T00:25:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Recommended to join the corp DISCORD (currently in test period. All m
 embers when join our DISCORD while in test period will get a free Off
 icer promote). Red is always SUS!
 ```
-### [Discord](https://discord.gg/btpSMwVJQD)
+<br>### [Discord](https://discord.gg/btpSMwVJQD)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

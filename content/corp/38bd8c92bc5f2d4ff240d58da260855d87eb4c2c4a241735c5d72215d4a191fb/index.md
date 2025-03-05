@@ -2,6 +2,7 @@
 title: ​Nebula
 description: W:4 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 43 Rogue One
 date: 2024-10-21T20:39:11.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-21T20:39:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 •This Corp is open to everybody 
 •Get diplomatic station so u can get help from one of our members
 •Hit up the chat system so we can hear whats on ur mind
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

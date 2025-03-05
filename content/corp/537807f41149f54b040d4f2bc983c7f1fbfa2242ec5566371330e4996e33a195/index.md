@@ -2,14 +2,13 @@
 title: ​Tormenta
 description: W:11 L:16 D:0 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 53 - 5 StellaMysterium
 date: 2025-03-02T14:20:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Estamos a procura de guerreiros para Estrelas Brancas!
@@ -22,7 +21,7 @@ MarceloPC#2109
 
 JUNTOS SOMOS MAIS FORTES
 ```
-### [Discord](https://discord.gg/fmyTs3k)
+<br>### [Discord](https://discord.gg/fmyTs3k)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |

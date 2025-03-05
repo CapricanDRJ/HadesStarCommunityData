@@ -2,14 +2,13 @@
 title: ​九州分团
 description: W:69 L:81 D:4 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 11 - 1 U\.S\.A
 date: 2025-03-04T11:54:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎加入一起打红星白星活动
@@ -18,12 +17,12 @@ date: 2025-03-04T11:54:07.000Z
 暗红组队群879848835
 神器交易群183736503
 ```
-### [Discord](https://discord.gg/https://discord.com/register)
+<br>### [Discord](https://discord.gg/https://discord.com/register)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (326)|
+| ELO Regular | 1237 🔺  (325)|
 | ELO Competitive | 1510 🔺  (66)|
 | Total Matches | 154 |
 | Wins | 69 |

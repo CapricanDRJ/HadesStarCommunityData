@@ -2,14 +2,13 @@
 title: ​Midland Ind.
 description: W:10 L:11 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 4 - 47 IMPERIAL ARMADA
 date: 2024-08-04T13:49:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><color=yellow>United Industries of Hades</color></b>
@@ -18,7 +17,7 @@ Join our public RS queue on Discord.
 </color>
 Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

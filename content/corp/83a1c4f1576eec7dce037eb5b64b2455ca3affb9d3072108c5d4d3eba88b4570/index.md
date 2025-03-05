@@ -2,6 +2,7 @@
 title: ​RedStar Raiding
 description: W:12 L:56 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 6 - 42 Nox Imperium
 date: 2025-03-02T18:10:06.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-02T18:10:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
   Focused on multi-player  redstar raids.  Active, Supportive, & Loya
 l.  PG-13 chat. Must be able to communicate in English. 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

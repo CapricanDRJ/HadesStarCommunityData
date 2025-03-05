@@ -2,14 +2,13 @@
 title: ​Dacia
 description: W:1 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 29 Corvus Ind\.
 date: 2024-02-02T12:09:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow>We are the Dacia Mafia
@@ -23,7 +22,7 @@ WS leaders: jwoods90 / ScTruF
 
 W/D/L - 60/1/2 </color>
 ```
-### [Discord](https://discord.gg/6P5MxXBNFW)
+<br>### [Discord](https://discord.gg/6P5MxXBNFW)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

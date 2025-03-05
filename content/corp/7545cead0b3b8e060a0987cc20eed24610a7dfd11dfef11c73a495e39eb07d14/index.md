@@ -2,6 +2,7 @@
 title: ​Hand of Legion 
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 4 - 25 Черный Легион
 date: 2024-03-10T15:22:44.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-03-10T15:22:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 🔥Welcome to the Dark Legion training base. We welcome players of all
  nationalities and from all countries. 
 ```
-### [Discord](https://discord.gg/https://discord.gg/MY29hgT5ZE)
+<br>### [Discord](https://discord.gg/https://discord.gg/MY29hgT5ZE)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (290)|
+| ELO Regular | 1244 🔻  (288)|
 | ELO Competitive | 1247 🔻  (438)|
 | Total Matches | 5 |
 | Wins | 4 |

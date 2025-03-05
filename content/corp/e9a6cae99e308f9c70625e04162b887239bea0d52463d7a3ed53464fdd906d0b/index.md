@@ -2,6 +2,7 @@
 title: ​The Picard
 description: W:0 L:17 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 36 ДИВЕРСАНТЫ
 date: 2024-05-22T06:06:45.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-05-22T06:06:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Competitive white star corp, back to back WS, daily RS, artifact exch
 ange, <color=red>WS no peace only war :) </color>Recruiting now
 ```
-### [Discord](https://discord.gg/6m7h2rY)
+<br>### [Discord](https://discord.gg/6m7h2rY)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

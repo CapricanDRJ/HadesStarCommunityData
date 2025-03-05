@@ -2,6 +2,7 @@
 title: ​Свободный флот
 description: W:53 L:60 D:1 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 2 - 0 Серебряная орда
 date: 2025-03-03T10:29:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-03T10:29:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Добро пожаловать! Активно развиваемся и помогаем с кз и советами,регу
 лярно играем бз,общаемся. Присоединяйтесь к нашей большой семье 😄. Т
 елеграм: https://t.me/FreeFleetHadesStar
 ```
-### [Discord](https://discord.gg/6zQ97TaFpS)
+<br>### [Discord](https://discord.gg/6zQ97TaFpS)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

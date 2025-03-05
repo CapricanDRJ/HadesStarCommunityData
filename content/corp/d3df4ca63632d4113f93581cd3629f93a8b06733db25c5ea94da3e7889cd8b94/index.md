@@ -2,6 +2,7 @@
 title: ​GalaxyNova
 description: W:8 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 15 - 37 Слава Украине\!
 date: 2024-09-11T11:46:23.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2024-09-11T11:46:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Member of Hades Federation- GalaxyGirl's orig msg: Anybody can join, 
 but no being mean and excluding... Aires adds: (unless in a blue star
  :) <-- evil smile White/red star battling galore Dis:Rp9mSNP
 ```
-### [Discord](https://discord.gg/rX4AFRfyPX)
+<br>### [Discord](https://discord.gg/rX4AFRfyPX)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (228)|
-| ELO Competitive | 1290 🔻  (323)|
+| ELO Regular | 1266 🔻  (227)|
+| ELO Competitive | 1290 🔻  (322)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 3 |

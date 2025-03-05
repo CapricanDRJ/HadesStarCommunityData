@@ -2,6 +2,7 @@
 title: ​Interestelar
 description: W:20 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 34 - 1 很多星球的社会主义团
 date: 2025-03-01T12:17:01.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T12:17:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#2E2EFE>Bienvenidos a nuestra corporacion. Escuela de "alienig
 enas", nuestra corporación principal 
 ```
-### [Discord](https://discord.gg/B4d7wfghZ4)
+<br>### [Discord](https://discord.gg/B4d7wfghZ4)
 ### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |

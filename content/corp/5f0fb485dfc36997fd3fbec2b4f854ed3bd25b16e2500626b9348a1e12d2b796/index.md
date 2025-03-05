@@ -2,6 +2,7 @@
 title: ​Quantum Web
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 2 - 2 koalition
 date: 2024-06-08T20:18:20.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-08T20:18:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Whats up! Focus on red stars and getting offenses up to white star le
 vel. 
 Discord-https://discord.gg/6f8xNGS
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

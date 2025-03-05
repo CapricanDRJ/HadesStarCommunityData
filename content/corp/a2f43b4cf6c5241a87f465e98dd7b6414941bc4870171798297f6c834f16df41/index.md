@@ -2,6 +2,7 @@
 title: ​Jesus Followers
 description: W:1 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 5 - 28 Серебряная орда
 date: 2024-11-16T10:25:50.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-16T10:25:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Therefore do not be ashamed of the testimony about our Lord, nor of m
 e his prisoner, but share in suffering for the gospel by the power of
  God, 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​自由星际联盟
 description: W:6 L:41 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 30 Bacon Warriors
 date: 2025-02-01T03:58:13.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-01T03:58:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>QQ群号：205791816</color>  寒暑假活跃
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

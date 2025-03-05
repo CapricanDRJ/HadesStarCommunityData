@@ -2,14 +2,13 @@
 title: ​USSR
 description: W:7 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 13 - 1 Бороская Имерия
 date: 2025-02-27T23:48:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#F00>Русские идут!</color><color=#0F0> Рептилий и тихушников о
@@ -19,7 +18,7 @@ date: 2025-02-27T23:48:33.000Z
 
  
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

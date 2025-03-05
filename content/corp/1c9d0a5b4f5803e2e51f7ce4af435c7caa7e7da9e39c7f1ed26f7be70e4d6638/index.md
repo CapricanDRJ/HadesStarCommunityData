@@ -2,6 +2,7 @@
 title: ​Sterling Gamers
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 2 - 4 Призрачный Путь
 date: 2023-11-24T15:53:55.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-24T15:53:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Just a group of friends enjoying the game
 ```
-### [Discord](https://discord.gg/cRXreAcJZw)
+<br>### [Discord](https://discord.gg/cRXreAcJZw)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

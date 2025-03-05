@@ -2,6 +2,7 @@
 title: ​MILIBARINOS
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 28 The Syndicate 
 date: 2024-06-17T17:17:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-17T17:17:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Que la fuerza te acompañe
 discord:
 https://discord.gg/3PDKPau
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

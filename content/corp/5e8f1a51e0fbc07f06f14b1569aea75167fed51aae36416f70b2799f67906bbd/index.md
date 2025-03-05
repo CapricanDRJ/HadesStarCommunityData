@@ -2,6 +2,7 @@
 title: ​Fishy Business 
 description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Север РусКорп
 date: 2024-11-10T13:26:31.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-10T13:26:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Must participate in corporation. Must join EITHER private rs OR ws.  
 discord link below 👇
 ```
-### [Discord](https://discord.gg/m9zTTQnGQX)
+<br>### [Discord](https://discord.gg/m9zTTQnGQX)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

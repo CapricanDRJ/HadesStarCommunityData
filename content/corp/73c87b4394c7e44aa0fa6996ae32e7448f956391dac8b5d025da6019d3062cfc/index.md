@@ -2,6 +2,7 @@
 title: ​The New Light
 description: W:19 L:22 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 22 毛绒团子
 date: 2025-02-05T06:57:55.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-05T06:57:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to <b><color=#f68>The New Light</color></b>! We are scouting 
 for active players to take on <b>white star</b> missions. White star 
 frequency: Once a week, starting on Thursdays.
 ```
-### [Discord](https://discord.gg/z4C9PUKgKD)
+<br>### [Discord](https://discord.gg/z4C9PUKgKD)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

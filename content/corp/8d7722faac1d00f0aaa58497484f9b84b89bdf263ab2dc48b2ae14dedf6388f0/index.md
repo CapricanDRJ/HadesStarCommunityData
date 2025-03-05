@@ -2,6 +2,7 @@
 title: ​universe leader
 description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 3 - 11 ZION
 date: 2024-03-19T06:22:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-19T06:22:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 una corporación unida ayudarse unos a otros y hacer fuertes a los déb
 iles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO 
 DISCORD PARA PARTICIPAR EN EB"
 ```
-### [Discord](https://discord.gg/KzmnSRBBs2)
+<br>### [Discord](https://discord.gg/KzmnSRBBs2)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

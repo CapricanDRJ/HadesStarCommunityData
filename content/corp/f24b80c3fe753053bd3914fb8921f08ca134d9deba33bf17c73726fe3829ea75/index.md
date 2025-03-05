@@ -2,6 +2,7 @@
 title: ​Nueva Hyperion
 description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 9 three kitties
 date: 2024-02-11T20:03:56.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-11T20:03:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con la
 s ventajas de una corporación ya empezada. Jugamos de manera relajada
 . Pregunta por el Discord en el chat.
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Enigma
 description: W:1 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 1 - 8 U\.S\.A
 date: 2023-12-12T03:49:40.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-12T03:49:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Laid back group always looking for good active players. WS missions r
 un every other week with a focus on Corporation growth and advancemen
 t
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

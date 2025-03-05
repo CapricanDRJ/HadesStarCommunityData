@@ -2,6 +2,7 @@
 title: ​Planet Express
 description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 1 - 6 纸鸢台
 date: 2024-01-23T04:52:02.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-01-23T04:52:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 dead corp 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (1113)|
-| ELO Competitive | 1158 🔻  (1250)|
+| ELO Competitive | 1158 🔻  (1249)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

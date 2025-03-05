@@ -2,6 +2,7 @@
 title: ​✨ Love Room✨
 description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 0 - 3 U\.P\.E
 date: 2025-02-28T04:19:43.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-28T04:19:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1185)|
-| ELO Competitive | 1159 🔻  (1249)|
+| ELO Competitive | 1159 🔻  (1248)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

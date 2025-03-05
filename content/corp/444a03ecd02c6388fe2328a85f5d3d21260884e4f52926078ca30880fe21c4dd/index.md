@@ -2,14 +2,13 @@
 title: ​解语者研究会
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 6 - 10 雪月永恒
 date: 2024-05-06T07:35:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 《徘徊》随着hadesstar宇宙的一次重要更新我们的星际集团做出以下调整：集团的容忍时间改为永久容纳成员；持续提供神器的相换（请提前预约
@@ -21,7 +20,7 @@ date: 2024-05-06T07:35:48.000Z
 集团qq：976760700
 感谢您对解语者研究会的支持！
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​Neutro Corpo
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 13 探索舰队
 date: 2024-04-24T15:10:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Vous êtes là pour grandir. ✯
@@ -20,7 +19,7 @@ La naissance d'un empire ! ❦︎
 
 https://discord.gg/AA2vSmDw ☠︎
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

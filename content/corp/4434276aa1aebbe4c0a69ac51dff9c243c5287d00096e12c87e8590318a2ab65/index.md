@@ -2,6 +2,7 @@
 title: ​KARI
 description: W:2 L:66 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Ender
 date: 2024-11-06T04:56:05.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-06T04:56:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Korea Aerospace Research Institute
 ```
-### [Discord](https://discord.gg/https://discord.gg/rxhQwwna)
+<br>### [Discord](https://discord.gg/https://discord.gg/rxhQwwna)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

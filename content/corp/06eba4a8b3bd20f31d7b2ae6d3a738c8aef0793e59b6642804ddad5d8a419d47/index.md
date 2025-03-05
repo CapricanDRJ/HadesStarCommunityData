@@ -2,14 +2,13 @@
 title: ​Time Lords
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 9 华夏航队
 date: 2023-12-28T23:17:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Have Fun, Be Active in Corp Chat, Be Respectful to Corp Mates. Allies
@@ -21,7 +20,7 @@ Ally Code-CkQfp5t
 Jr Corp-Time Lords Jr
 Alt Corp - Time Lords Alts
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

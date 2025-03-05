@@ -2,14 +2,13 @@
 title: ​ДИВЕРСАНТЫ
 description: W:78 L:14 D:1 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 40 - 4 Rogue One
 date: 2025-03-03T06:46:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=red>БЗ без выходных, арты, прокачка.</color>
@@ -19,7 +18,7 @@ date: 2025-03-03T06:46:23.000Z
 <color=red>Telegram(<color=red>ОБЯЗАТЕЛЬНО или КИК</color>)
 +79105072411 @lavrusha23</color>
 ```
-### Whitestar Bonus ✅ 50%
+<br>### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Dying stars
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 18 First Legion
 date: 2024-03-04T22:49:46.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-04T22:49:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Will help new players. Laid back, no drama.
 Discord participation is mandatory. Join here: https://discord.gg/upz
 nTnWWUf
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

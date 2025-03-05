@@ -2,6 +2,7 @@
 title: ​ua online
 description: W:0 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 逐光起航
 date: 2024-09-24T09:31:00.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-24T09:31:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>discord.gg/KvDRRrvv</color>
 <color=yellow>t.me/UAonline1xx</color>
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

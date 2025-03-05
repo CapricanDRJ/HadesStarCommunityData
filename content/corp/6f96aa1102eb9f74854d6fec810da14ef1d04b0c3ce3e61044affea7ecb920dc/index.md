@@ -2,6 +2,7 @@
 title: ​северный шторм
 description: W:12 L:13 D:1 Bonus ✅ 32%
 image: ./favicon.png
+Summary: ✅ 13 - 6 Эдем
 date: 2025-03-03T06:36:22.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-03T06:36:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 будем рады АКТИВНЫМ игрокам. степень развития значения не имеет. акти
 вным новичкам беремся оказывать помощь в развитии.
 ```
-### Whitestar Bonus ✅ 32%
+<br>### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (297)|
+| ELO Regular | 1242 🔺  (295)|
 | ELO Competitive | 1283 🔺  (340)|
 | Total Matches | 26 |
 | Wins | 12 |

@@ -2,6 +2,7 @@
 title: ​Qonqr
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 7 - 15 Novana Gaming
 date: 2024-07-31T12:58:52.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-07-31T12:58:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 due to lack of contact with 1st officer, we recommend leaving this co
 rp. You are most welcome to join the new corp: QONQR (all letters upp
 er case). Thank you :)
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

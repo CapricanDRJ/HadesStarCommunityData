@@ -2,6 +2,7 @@
 title: ​kryptonium
 description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ✅ 29 - 0 Red Star
 date: 2025-01-13T15:57:20.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-01-13T15:57:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (330)|
+| ELO Regular | 1235 🔺  (329)|
 | ELO Competitive | 1241 🔺  (457)|
 | Total Matches | 2 |
 | Wins | 2 |

@@ -2,6 +2,7 @@
 title: ​ISERLOHN
 description: W:7 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 18 - 10 The Syndicate 
 date: 2024-09-24T15:46:00.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-24T15:46:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 現在ボーナス30％発動中（20240925まで）
 出入り自由にしますのでRS、DRSに使ってくださいFlagship 1 Closed
 WS参加者募集中
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

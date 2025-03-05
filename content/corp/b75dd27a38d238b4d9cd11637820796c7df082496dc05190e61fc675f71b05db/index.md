@@ -2,6 +2,7 @@
 title: ​Starships
 description: W:4 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
+Summary: ✅ 7 - 5 V0RTEX
 date: 2025-03-02T17:55:04.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-03-02T17:55:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (302)|
+| ELO Regular | 1241 🔺  (300)|
 | ELO Competitive | 1262 🔺  (394)|
 | Total Matches | 5 |
 | Wins | 4 |

@@ -2,14 +2,13 @@
 title: ​Nearland Ind
 description: W:80 L:29 D:0 Bonus ✅ 52%
 image: ./favicon.png
+Summary: ❌ 26 - 28 星舰月球
 date: 2025-03-01T05:21:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow>U.I.H. Corp
@@ -20,7 +19,7 @@ Join our public RS queue on discord!
 <color=white>FS1 - Open
 FS2 - Closed
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |

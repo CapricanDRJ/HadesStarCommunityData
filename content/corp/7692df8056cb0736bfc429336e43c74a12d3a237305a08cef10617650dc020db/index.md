@@ -2,6 +2,7 @@
 title: ​世外桃源
 description: W:23 L:136 D:0 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ❌ 5 - 49 italian warrior
 date: 2025-02-27T18:53:03.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T18:53:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>We are 帝国军事学院.   帝国军事学院-主营地。</color><color=orange>这里是一处环境幽
 静，生活安逸的地方。咸鱼玩家/种田党的聚集地。欲买桂花同载酒，终不似，少年游!</color>                      
   QQ群:479054325（欢迎加入，加盟先加群！）
 ```
-### [Discord](https://discord.gg/ndQgHcT)
+<br>### [Discord](https://discord.gg/ndQgHcT)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |

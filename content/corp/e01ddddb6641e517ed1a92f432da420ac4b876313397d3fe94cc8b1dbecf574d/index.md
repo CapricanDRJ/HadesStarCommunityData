@@ -2,6 +2,7 @@
 title: ​IMPERIAL ARMADA
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 20 - 2 MÉXICO INFINITO
 date: 2024-10-03T04:26:39.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-03T04:26:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the 3rd IA Corporation! Join our Discord within 24 hours t
 o connect with our community and get gameplay support. We're excited 
 to have you on board!
 ```
-### [Discord](https://discord.gg/bAAYCqG2cE)
+<br>### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​八月政府
 description: W:7 L:30 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 12 - 14 Серебряная орда
 date: 2025-02-24T10:24:24.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-24T10:24:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 求む魔導師　至難の戦場　わずかな報酬　剣林弾雨の暗い日々　耐え難い危険　生還の保証なし　生還の暁には名誉と賞賛を得ると
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

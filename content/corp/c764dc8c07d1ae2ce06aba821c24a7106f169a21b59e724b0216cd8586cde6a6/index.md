@@ -2,6 +2,7 @@
 title: ​украина№1
 description: W:44 L:48 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 1 - 33 中国星际联盟
 date: 2025-03-02T12:39:25.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T12:39:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Вітаю Козаче!! В Українській корпорації, тут знайдеш для себе друзів,
  розваги, відкриєш для себі іншу сторону гри, на багато годин. https:
 //t.me/ukraine1win. Гарної всім гри.
 ```
-### [Discord](https://discord.gg/nVBRYrQRT6)
+<br>### [Discord](https://discord.gg/nVBRYrQRT6)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​BAB
 description: W:0 L:5 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 6 落魄山
 date: 2025-02-26T13:35:01.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-26T13:35:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本星际集团从不踢人，最多就只有6个干事，不收僵尸号，萌新和大佬都可以加入，新人福利10个r6，代理首席干事ｘ-357。干事不能私自篡改东西
 ，除代理首席干事以外。
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

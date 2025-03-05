@@ -2,6 +2,7 @@
 title: ​Grater T
 description: W:10 L:12 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 37 \[Blue\*Nation\]
 date: 2024-08-10T06:38:05.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-08-10T06:38:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 run by a few active friends, a corp for both new players but also for
  experienced ones, we welcome anyone and we will be happy to see you 
 join. 🔰欢迎全球各地的人加入，新手送r8大礼，氛围轻松，适合养老🔰Friend corps: CIS, 红日初升
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (380)|
-| ELO Competitive | 1295 🔻  (308)|
+| ELO Competitive | 1295 🔻  (307)|
 | Total Matches | 22 |
 | Wins | 10 |
 | Losses | 12 |

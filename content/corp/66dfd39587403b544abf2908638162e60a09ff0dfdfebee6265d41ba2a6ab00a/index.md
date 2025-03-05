@@ -2,6 +2,7 @@
 title: ​Core Systems
 description: W:3 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 15 Sich\.ua
 date: 2024-06-24T01:31:13.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-06-24T01:31:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 For passive players who don't play that often.
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​●Black•Sails●
 description: W:21 L:29 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 6 - 18 lesescargots
 date: 2025-03-04T07:43:46.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T07:43:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Together We Can Achieve More.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

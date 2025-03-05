@@ -2,6 +2,7 @@
 title: ​NameLess Hades
 description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 La resistencia
 date: 2024-01-15T05:08:16.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-01-15T05:08:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 1.There are no RULES here
 2.We DO NOT force to play
 3.Our goal is to LEVEL UP FASTER 
 4.Corporation ARTIFACT GIVE AWAY fri, sun day.
 ```
-### Whitestar Bonus ❌ 0%
+<br>### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Yellow Dwarf 
 description: W:2 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 23 - 0 华夏舰队
 date: 2025-02-23T11:22:07.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-23T11:22:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#FFD700>Welcome to Yellow Dwarf!</color> We are part of the Dw
 arf Crew family of corps-Red, White, Green & Blue. We work as a team 
 to help each other. Weekly White Stars in our dedicated corp.
 ```
-### [Discord](https://discord.gg/mbBssbBRQ8)
+<br>### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Lost Legion
 description: W:31 L:64 D:1 Bonus ✅ 48%
 image: ./favicon.png
+Summary: ✅ 26 - 7 Death Flight
 date: 2025-03-04T01:03:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color="green">"We Are Lost Legion For We Are Many And We Act As One"
@@ -18,7 +17,7 @@ date: 2025-03-04T01:03:13.000Z
 We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
-### [Discord](https://discord.gg/najb7MJf)
+<br>### [Discord](https://discord.gg/najb7MJf)
 ### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |

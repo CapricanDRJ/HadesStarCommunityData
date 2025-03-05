@@ -2,6 +2,7 @@
 title: ​VENTORMENTA
 description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 19 Albedo
 date: 2024-01-25T00:43:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-25T00:43:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 WhatSapp nunero +50768683442 para las EB. Alianza:Axolotls. Fecha de 
 inicio de corp : 1/7/2023. Ayuda en ER1/ER7. Estrellas Blancas Diaria
 s 
 ```
-### [Discord](https://discord.gg/discod:https://discord.gg/aHg6eV7v)
+<br>### [Discord](https://discord.gg/discod:https://discord.gg/aHg6eV7v)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

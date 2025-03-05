@@ -2,6 +2,7 @@
 title: ​Hamburg AG 2
 description: W:15 L:23 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 22 - 35 Stargate Corp
 date: 2025-02-23T15:32:35.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-23T15:32:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im 
 Vordergrund.
 ```
-### [Discord](https://discord.gg/UXNc44dxk6)
+<br>### [Discord](https://discord.gg/UXNc44dxk6)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

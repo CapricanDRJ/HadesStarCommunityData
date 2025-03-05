@@ -2,6 +2,7 @@
 title: ​Orden Estelar 
 description: W:15 L:12 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 17 - 23 Legión
 date: 2025-02-28T11:04:32.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-28T11:04:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Alianza: axolotls 
 
 Ni retirada ni rendicion 
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (224)|
+| ELO Regular | 1269 🔻  (223)|
 | ELO Competitive | 1318 🔻  (268)|
 | Total Matches | 29 |
 | Wins | 15 |

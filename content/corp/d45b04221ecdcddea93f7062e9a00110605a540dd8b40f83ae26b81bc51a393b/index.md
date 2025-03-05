@@ -2,6 +2,7 @@
 title: ​chrtrncmndr
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 3 СлАвЯнСкИй СоЮз
 date: 2023-11-21T06:04:56.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-21T06:04:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Charter and Comander
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

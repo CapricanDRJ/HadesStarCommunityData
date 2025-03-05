@@ -2,6 +2,7 @@
 title: ​C.C Legion
 description: W:5 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 9 - 2 Ul'Adri
 date: 2024-01-23T19:00:11.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-23T19:00:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Celestial Combative Legion
 ```
-### [Discord](https://discord.gg/As89TCCw)
+<br>### [Discord](https://discord.gg/As89TCCw)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

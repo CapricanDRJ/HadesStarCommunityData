@@ -2,6 +2,7 @@
 title: ​麻雀集团
 description: W:2 L:7 D:3 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Z\. O\. V\. 
 date: 2025-02-12T18:06:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-12T18:06:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎大家的加入，常驻请加QQ：459938786 本团为使命白星第四分团。送R1-R5神器，         创始人:麻雀帝国，白星指挥官
 :王一宁。毛塞，外交官：暮晓云风。请在白星结束后讲和， 星球等级是10级没白扫就踢，黑名单：［R16459BGM ］（乱改集团信息） 上学
 日不打白，扫白者踢。只招国人。成立于：2024．8．25上学日封团。
 ```
-### [Discord](https://discord.gg/bous．com)
+<br>### [Discord](https://discord.gg/bous．com)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

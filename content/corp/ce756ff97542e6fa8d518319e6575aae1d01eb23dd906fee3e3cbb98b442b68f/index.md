@@ -2,6 +2,7 @@
 title: ​斯比纳兰
 description: W:6 L:15 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 13 Red Alliance
 date: 2025-01-12T11:34:17.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-01-12T11:34:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎你们加入 🎉('ω')🎉进来直接升高员任何人都可以打白 白星交流Q 群:577029427  集团Q 群:9937377990 盟
 团:企鹅帝国 白星必胜团 很多星球的社会主义团不能篡改集团信息萌新福利:R7 六个或R6 八个或R5 十个 联盟:中国星际联盟 黑名单:海
 棠花之约(干事高员踢了有奖 千万不能晋升)本团白星策略:先一起上采矿舰采完回去之后一起换运输旗下分团:斯比纳兰分团 一起同行
 ```
-### [Discord](https://discord.gg/sghx)
+<br>### [Discord](https://discord.gg/sghx)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1318)|
+| ELO Regular | 1109 🔻  (1317)|
 | ELO Competitive | 1149 🔻  (1300)|
 | Total Matches | 22 |
 | Wins | 6 |

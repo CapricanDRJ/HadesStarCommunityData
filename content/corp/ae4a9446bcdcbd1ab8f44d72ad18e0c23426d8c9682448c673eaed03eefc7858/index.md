@@ -2,6 +2,7 @@
 title: ​/tmp
 description: W:1 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 3 - 0 星海扬帆
 date: 2024-01-17T17:10:17.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-17T17:10:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

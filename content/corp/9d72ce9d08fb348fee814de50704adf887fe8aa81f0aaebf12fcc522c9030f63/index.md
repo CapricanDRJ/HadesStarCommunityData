@@ -2,14 +2,13 @@
 title: ​Феникс 
 description: W:1 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 4 - 9 Veil of Maya
 date: 2023-11-17T21:35:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Девиз: Честь и слава ни шагу назад
@@ -18,7 +17,7 @@ Discord: https://discord.gg/Hb4ncRxnAx
 Корпорация создана в 2020 году.
 Во время бз прием строго ограничен!
 ```
-### [Discord](https://discord.gg/Hb4ncRxnAx)
+<br>### [Discord](https://discord.gg/Hb4ncRxnAx)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

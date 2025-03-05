@@ -2,14 +2,13 @@
 title: ​六大天神
 description: W:118 L:65 D:2 Bonus ✅ 48%
 image: ./favicon.png
+Summary: ✅ 20 - 19 Likapa
 date: 2025-03-03T02:10:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎大佬和萌新，这里是温暖的家，幸福的港湾，有一群可爱的伙伴们。自由，团结，快乐，总有你喜欢的那一份。
@@ -22,11 +21,11 @@ date: 2025-03-03T02:10:57.000Z
 某某干事：没了
 
 ```
-### Whitestar Bonus ✅ 48%
+<br>### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1398 🔺  (61)|
+| ELO Regular | 1398 🔺  (62)|
 | ELO Competitive | 1784 🔺  (3)|
 | Total Matches | 185 |
 | Wins | 118 |

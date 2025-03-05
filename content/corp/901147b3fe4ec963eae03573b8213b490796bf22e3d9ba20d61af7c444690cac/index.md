@@ -2,6 +2,7 @@
 title: ​Türk Yıldızları
 description: W:16 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 27 Famous Assasins
 date: 2024-05-30T22:05:31.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-30T22:05:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ☆Turkish࿌Stars-Elite Turkish Alliance☆Sizi Buraya Getiren Kaderiniz,
  Burada Tutacak Olan Karakterinizdir...Pasifler gider, aktifler geli
 r.Rs7 - Rs10Discord zorunludur.
 ```
-### [Discord](https://discord.gg/PWDf6QH)
+<br>### [Discord](https://discord.gg/PWDf6QH)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

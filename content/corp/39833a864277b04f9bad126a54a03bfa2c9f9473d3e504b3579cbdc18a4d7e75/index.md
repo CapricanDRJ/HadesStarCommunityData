@@ -2,6 +2,7 @@
 title: ​King's Guard
 description: W:28 L:79 D:5 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 3 - 32 柯伊伯带
 date: 2025-03-04T23:30:21.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-04T23:30:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corp. designed primarily for WS players of any level advanced to just
  starting. 
 ```
-### [Discord](https://discord.gg/XQ4BnnSKvC)
+<br>### [Discord](https://discord.gg/XQ4BnnSKvC)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

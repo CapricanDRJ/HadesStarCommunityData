@@ -2,6 +2,7 @@
 title: ​Bl@ck/Galaxy 
 description: W:34 L:24 D:2 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 8 - 15 OntarioDawn
 date: 2025-03-01T17:47:39.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T17:47:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=90><b><color=red>Aquí hay dragones</color></b></size>  Estrella
 s blancas semanales. Indispensable participar y aportar. Si no es así
 , te buscas otra. O vuelves con mas tiempo y ganas. 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

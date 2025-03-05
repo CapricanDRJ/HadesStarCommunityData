@@ -2,6 +2,7 @@
 title: ​imperio galacti
 description: W:19 L:8 D:1 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 13 - 4 阿尔特拉太空港
 date: 2025-03-04T20:55:07.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T20:55:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 "imperio  galactico" en el imperio galactico habra estrellas blancas 
 diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
 telar, Alfa Omega GuistonRA
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

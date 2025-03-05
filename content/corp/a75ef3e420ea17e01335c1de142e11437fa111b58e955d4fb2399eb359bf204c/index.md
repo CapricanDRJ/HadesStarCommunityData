@@ -2,6 +2,7 @@
 title: ​callisto corp
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 1 - 5 The Hexagonix
 date: 2023-12-01T10:46:43.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-01T10:46:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to callisto corporation wanna relax or be competitive we've g
 ot both (white stars on Saturday USA time) 
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

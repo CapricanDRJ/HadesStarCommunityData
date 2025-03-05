@@ -2,6 +2,7 @@
 title: ​UK Armada
 description: W:4 L:9 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 16 RUS
 date: 2025-01-31T13:06:41.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-01-31T13:06:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We're here to help one and all. So join our corp, and move up togethe
 r.
 
 Find us on discord: https://discord.gg/u2VGhGRrFq
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

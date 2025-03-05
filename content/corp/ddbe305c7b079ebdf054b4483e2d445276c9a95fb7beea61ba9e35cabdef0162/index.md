@@ -2,6 +2,7 @@
 title: ​RUSSIAN TEAM
 description: W:0 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 44 Likapa
 date: 2024-05-08T07:49:51.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2024-05-08T07:49:51.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ждем всех желающих активно играть и общаться!
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1316)|
+| ELO Regular | 1109 🔻  (1315)|
 | ELO Competitive | 1109 🔻  (1394)|
 | Total Matches | 9 |
 | Wins | 0 |

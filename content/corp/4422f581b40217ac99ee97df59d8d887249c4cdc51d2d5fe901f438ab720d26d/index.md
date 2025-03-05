@@ -2,14 +2,13 @@
 title: ​" Возрождение "
 description: W:17 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 35 - 2 Sternenflotte
 date: 2025-03-02T10:09:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Играем в свое удовольствие.
@@ -19,12 +18,12 @@ date: 2025-03-02T10:09:10.000Z
 Во имя благополучия соратников.
 Вместе мы сила и единство. 
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1380 🔺  (78)|
-| ELO Competitive | 1442 🔺  (118)|
+| ELO Competitive | 1442 🔺  (119)|
 | Total Matches | 18 |
 | Wins | 17 |
 | Losses | 1 |

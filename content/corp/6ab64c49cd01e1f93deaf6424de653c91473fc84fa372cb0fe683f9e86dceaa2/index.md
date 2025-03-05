@@ -2,6 +2,7 @@
 title: ​EMPIRE 
 description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 20 - 2 ₩\.BRASIL\.₩
 date: 2024-10-21T18:43:58.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-10-21T18:43:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 WEEKLY WS & JOIN DISCORD 
 ```
-### [Discord](https://discord.gg/https://discord.gg/vB32Cbey)
+<br>### [Discord](https://discord.gg/https://discord.gg/vB32Cbey)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (318)|
+| ELO Regular | 1238 🔺  (317)|
 | ELO Competitive | 1243 🔺  (447)|
 | Total Matches | 3 |
 | Wins | 3 |

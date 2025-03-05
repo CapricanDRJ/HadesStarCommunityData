@@ -2,6 +2,7 @@
 title: ​lost souls
 description: W:28 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 5 - 43 Дом Датэ
 date: 2024-09-06T15:45:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-06T15:45:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>UPDATE AUG 24:</b> <color=#dhtrse>RECRUITING NEW SOULS!</color>  H
 ard core WS focused players wanted. Discord comms essential. We are k
 een to improve WS results. Let's kick ass together!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

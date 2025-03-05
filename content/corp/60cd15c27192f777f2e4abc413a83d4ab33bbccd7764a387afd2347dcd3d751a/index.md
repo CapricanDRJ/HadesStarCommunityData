@@ -2,6 +2,7 @@
 title: ​Stone Legion
 description: W:32 L:13 D:1 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 44 - 0 Free Thinkers 2
 date: 2025-03-03T10:11:41.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-03-03T10:11:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=92><color=#9fe5ff>💫 STONE LEGION 💫</b>
 <color=#fff>The Legion wants you!
 <size=48><color=#76aabf>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
 <size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
-### [Discord](https://discord.gg/SZYbjxJSf3)
+<br>### [Discord](https://discord.gg/SZYbjxJSf3)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

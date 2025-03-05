@@ -2,6 +2,7 @@
 title: ​华夏航队
 description: W:2 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 6 Todesschwadron
 date: 2024-01-08T04:27:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-08T04:27:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们是华夏舰队的分部。和本队紧密联系，本队的新手保护和炸船补偿都有效。欢迎各位萌新加入我们，本队将会提供福利。
 企鹅号169409626
 新加的玩家可转主盟:华夏舰队
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

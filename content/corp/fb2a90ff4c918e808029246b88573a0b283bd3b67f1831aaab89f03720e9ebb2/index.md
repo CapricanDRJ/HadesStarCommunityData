@@ -2,6 +2,7 @@
 title: ​jatnniel 团队
 description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 2 - 15 ZORG IND
 date: 2024-09-20T10:42:57.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-20T10:42:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

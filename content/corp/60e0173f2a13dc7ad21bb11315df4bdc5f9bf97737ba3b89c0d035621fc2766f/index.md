@@ -2,6 +2,7 @@
 title: ​SILVER TERRA
 description: W:31 L:21 D:1 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 11 - 1 Север РусКорп
 date: 2025-02-27T01:25:56.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T01:25:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Игра в удовольствие! Знания приветствуются, если нет.... то не беда..
 .. познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ 
 ПЯТНИЦУ В 23:00 ПО МСК***
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​SUN OF 3LANDS
 description: W:11 L:4 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 16 - 5 Pyke Syndicate
 date: 2024-11-06T12:51:50.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-06T12:51:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#FFFFFF>WELCOME TO <color=#FFD700>SUN OF <color=#FFFF00>3<colo
 r=#FFD700>LANDS <color=#FFFFFF>We Warmly welcome Newcomer here. Sa mg
 a gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

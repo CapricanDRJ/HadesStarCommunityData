@@ -2,6 +2,7 @@
 title: ​DTC
 description: W:27 L:61 D:0 Bonus ✅ 52%
 image: ./favicon.png
+Summary: ✅ 28 - 14 ГОРИЗОНТ
 date: 2025-03-01T00:05:57.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T00:05:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
  à rs11 journalière           WS toutes les semaines                 
  french language mainly           on est là pour s amuser 🍻🍻
 ```
-### [Discord](https://discord.gg/5FcqEU96nM)
+<br>### [Discord](https://discord.gg/5FcqEU96nM)
 ### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |

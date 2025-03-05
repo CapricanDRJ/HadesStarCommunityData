@@ -2,6 +2,7 @@
 title: ​Space Rangers
 description: W:17 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 21 - 0 101
 date: 2024-03-31T23:30:57.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-03-31T23:30:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 For the friends and normies
 ```
-### [Discord](https://discord.gg/GYem3jEagg)
+<br>### [Discord](https://discord.gg/GYem3jEagg)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔺  (183)|
-| ELO Competitive | 1347 🔺  (217)|
+| ELO Competitive | 1347 🔺  (216)|
 | Total Matches | 26 |
 | Wins | 17 |
 | Losses | 9 |

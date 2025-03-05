@@ -2,6 +2,7 @@
 title: ​Anarchy G13
 description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 2 Eternal empire 
 date: 2024-02-08T23:15:06.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-02-08T23:15:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 we strive to be the best  follow us on www.facebook.com/AnarchyG13. w
 hitestar or kick
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (1108)|
-| ELO Competitive | 1158 🔻  (1254)|
+| ELO Competitive | 1158 🔻  (1253)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

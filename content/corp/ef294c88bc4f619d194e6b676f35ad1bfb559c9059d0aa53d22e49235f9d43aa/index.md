@@ -2,6 +2,7 @@
 title: ​You win
 description: W:0 L:5 D:0 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ❌ 0 - 22 SQPT
 date: 2024-11-04T09:01:46.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-11-04T09:01:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 You are lucky to meet me in White Star! Congratulations!
 ```
-### Whitestar Bonus ❌ 0%
+<br>### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1197)|
-| ELO Competitive | 1156 🔻  (1268)|
+| ELO Competitive | 1156 🔻  (1267)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

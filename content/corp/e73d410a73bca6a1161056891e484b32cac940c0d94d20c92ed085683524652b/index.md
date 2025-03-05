@@ -2,14 +2,13 @@
 title: ​Polish Pirates
 description: W:24 L:15 D:0 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ✅ 25 - 14 IX Легион
 date: 2025-03-01T05:21:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Zapraszamy aktywnych graczy, chętnych do wspólnych bitew na WS oraz R
@@ -20,7 +19,7 @@ Rekrutację prowadzimy także na naszym discordzie.
 DISCORD
 vGfaYFN
 ```
-### [Discord](https://discord.gg/vGfaYFN)
+<br>### [Discord](https://discord.gg/vGfaYFN)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |

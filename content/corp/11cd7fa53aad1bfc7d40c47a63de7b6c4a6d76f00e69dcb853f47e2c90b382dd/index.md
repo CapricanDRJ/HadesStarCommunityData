@@ -2,6 +2,7 @@
 title: ​МеГаКо
 description: W:18 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 25 Ƭιтαηѕ Ф тєʀʀσƦ
 date: 2024-10-11T16:37:44.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-11T16:37:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
  МежГалактическая Корпорация к вашим услугам.
  Помощь в зачистке красных звёзд 1-6 уровней.
  Всё ради прогресса!
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

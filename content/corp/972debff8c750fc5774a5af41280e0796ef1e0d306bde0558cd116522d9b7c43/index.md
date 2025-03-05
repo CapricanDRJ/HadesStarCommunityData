@@ -2,6 +2,7 @@
 title: ​You Win
 description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 11th Engineers
 date: 2025-02-07T02:32:49.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-07T02:32:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Was once a White Star training corp is now a quiet corner of HS. If w
 e beat you, uninstall! Serious players unwelcome! Fun is our #1 polic
 y. 30days afk=kick https://discord.gg/g7HzK7s
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

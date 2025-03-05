@@ -2,6 +2,7 @@
 title: ​小号营地
 description: W:0 L:7 D:2 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 BAB
 date: 2024-11-29T14:47:30.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-29T14:47:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

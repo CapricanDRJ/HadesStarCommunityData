@@ -2,14 +2,13 @@
 title: ​Titan Corp.
 description: W:22 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 30 Legion
 date: 2024-09-21T16:16:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Gründungsmitglied der Tartaros-Armada
@@ -19,7 +18,7 @@ ichtig.
 Discord ist Pflicht: discord.gg/SUVSGGYGz2
 Nerven aus Stahl, Eier aus Titan
 ```
-### [Discord](https://discord.gg/SUVSGGYGz2)
+<br>### [Discord](https://discord.gg/SUVSGGYGz2)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

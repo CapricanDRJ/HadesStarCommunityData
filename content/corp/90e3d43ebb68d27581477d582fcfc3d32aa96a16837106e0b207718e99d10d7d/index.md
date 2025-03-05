@@ -2,6 +2,7 @@
 title: ​Draconis
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 4 Seila
 date: 2023-11-27T09:13:17.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-11-27T09:13:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Draconis. Anyone is free to join from newbys to experts. J
 ust play relatively regularly and have fun.
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

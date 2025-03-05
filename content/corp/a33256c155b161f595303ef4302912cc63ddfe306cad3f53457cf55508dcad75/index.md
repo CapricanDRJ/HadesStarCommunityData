@@ -2,14 +2,13 @@
 title: ​Auscorp 
 description: W:93 L:8 D:0 Bonus ✅ 52%
 image: ./favicon.png
+Summary: ✅ 54 - 20 BlackStar Order
 date: 2025-03-04T14:14:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><color=white>The Premier White Star Capital of Hades Star.</color>
@@ -21,7 +20,7 @@ All FS Donations welcome.
 
 <b><color=red>Must join Discord to remain here.
 ```
-### [Discord](https://discord.gg/skvJzZH)
+<br>### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |

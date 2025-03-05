@@ -2,6 +2,7 @@
 title: ​imperio estelar
 description: W:10 L:16 D:3 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 9 Слава Украине\!
 date: 2025-03-02T20:55:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T20:55:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=green><size=70>~Imperio Estelar~</size></color></b><b><colo
 r=purple><size=50>                       🪐🌌..."El qué Persevera Alc
 anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​✡天启✡
 description: W:25 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 31 - 6 Embers Rising
 date: 2024-08-15T16:56:23.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2024-08-15T16:56:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>欢迎炸钱的大哥来集团捐钱</color>一槽白星席位稳定Make Apocalypse Great Again!!!
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1399 🔺  (60)|
+| ELO Regular | 1399 🔺  (61)|
 | ELO Competitive | 1494 🔺  (77)|
 | Total Matches | 33 |
 | Wins | 25 |

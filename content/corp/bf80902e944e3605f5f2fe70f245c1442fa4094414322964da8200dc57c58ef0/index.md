@@ -2,6 +2,7 @@
 title: ​Das Imperium
 description: W:1 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 27 lost souls
 date: 2024-01-25T21:35:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-25T21:35:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid ne
 tt zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Ak
 tiv erwünscht
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

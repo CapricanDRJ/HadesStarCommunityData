@@ -2,6 +2,7 @@
 title: ​Призрачный Путь
 description: W:13 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 13 Czech Legion
 date: 2024-08-23T18:16:25.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-08-23T18:16:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Для Всех желающих. Без политики и оскорбления, помощь новичкам, артеф
 акты с 1-по-6 в помощь,походы в БЗ
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (223)|
+| ELO Regular | 1269 🔻  (222)|
 | ELO Competitive | 1280 🔻  (351)|
 | Total Matches | 19 |
 | Wins | 13 |

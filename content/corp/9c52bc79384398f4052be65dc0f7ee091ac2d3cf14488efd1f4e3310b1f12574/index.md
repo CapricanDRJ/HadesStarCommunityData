@@ -2,6 +2,7 @@
 title: ​FURIA 2.0
 description: W:16 L:27 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 9 - 1 The Witness
 date: 2025-03-01T19:57:53.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T19:57:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 corpo  tranquille  pour se développer a son rythme et nous assurons 1
  étoile  blanche par semaine 👽👽👍
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

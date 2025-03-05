@@ -2,6 +2,7 @@
 title: ​Continuance
 description: W:0 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Pyke Syndicate
 date: 2024-01-09T09:49:48.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-09T09:49:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Sister corp of Continuum. 
 ```
-### [Discord](https://discord.gg/BaF8Wk9mFp)
+<br>### [Discord](https://discord.gg/BaF8Wk9mFp)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

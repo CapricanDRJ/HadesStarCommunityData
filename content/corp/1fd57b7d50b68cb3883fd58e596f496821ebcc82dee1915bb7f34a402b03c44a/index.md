@@ -2,6 +2,7 @@
 title: ​Scar
 description: W:47 L:27 D:1 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 17 - 37 BrinySeal
 date: 2025-02-28T23:35:55.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-28T23:35:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Fun relaxed group made up of newbies and the experienced. Weekly whit
 e stars. Joining discord is required for all activities and White Sta
 r involvement. Link is 👇
 ```
-### [Discord](https://discord.gg/J5kNRjVJM4)
+<br>### [Discord](https://discord.gg/J5kNRjVJM4)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1352 🔻  (100)|
-| ELO Competitive | 1443 🔻  (117)|
+| ELO Competitive | 1443 🔻  (118)|
 | Total Matches | 75 |
 | Wins | 47 |
 | Losses | 27 |

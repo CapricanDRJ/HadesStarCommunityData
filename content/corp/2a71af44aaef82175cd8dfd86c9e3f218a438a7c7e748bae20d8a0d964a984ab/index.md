@@ -2,6 +2,7 @@
 title: ​神圣罗马帝国
 description: W:23 L:46 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 4 ALPHA
 date: 2024-08-24T18:58:59.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-08-24T18:58:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <i>欢迎加入我们的集团</i><br><br>加群微信号:lwh201305<br>QQ群:632990396<br>南极星联盟成员<b
 r><br>原团:德意志联邦集团<br><br>黑名单:傲世饕餮  瑞瑞<br>分团 ：星际集团    银星舰队SSF   永恒之梦   
 蓝太阳   电池脉冲集团<br><br>理事长：Angel 白星总参：隔壁老王<br>福利:r8及以下 目前暂由hss小号占
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

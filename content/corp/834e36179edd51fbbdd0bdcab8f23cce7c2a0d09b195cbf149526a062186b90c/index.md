@@ -2,6 +2,7 @@
 title: ​Drużyna A
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 14 华夏三体舰队
 date: 2024-08-13T22:01:59.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-08-13T22:01:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Zapraszamy aktywnych graczy :) 
 Osoby z niskim lvl zbudujcie stację dyplomatyczną. Ci z nas z wyższym
  lvl udzielą wtedy wsparcia pomagając oczyścić wasz układ z Cerberów 
 i udostępnić lepsze artefakty.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

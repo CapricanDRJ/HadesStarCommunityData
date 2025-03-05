@@ -2,6 +2,7 @@
 title: ​Nine's Own Goal
 description: W:36 L:33 D:2 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 14 - 22 Highland Ind\. 
 date: 2025-03-01T03:01:11.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T03:01:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Daily red star runs, weekly white star runs, and occasional corporati
 on events. No alts.
 ```
-### [Discord](https://discord.gg/zVyGtnjRyy)
+<br>### [Discord](https://discord.gg/zVyGtnjRyy)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​中华人民共和国
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 2 - 7 猎户座星云
 date: 2024-02-16T15:23:37.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-16T15:23:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本团由Mingchen Yu建设 欢迎大家加入。           影响力前8且信任者干事   影响力前18且信任者高级。       
                                                               首席：Ming
 chen Yu 副首席：我是神、神域联邦、唐家三少
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

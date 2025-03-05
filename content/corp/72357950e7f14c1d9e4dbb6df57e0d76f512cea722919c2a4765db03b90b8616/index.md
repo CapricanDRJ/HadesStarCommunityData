@@ -2,6 +2,7 @@
 title: ​cyber_dream
 description: W:4 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 20 IMPERIAL ARMADA
 date: 2024-09-09T16:52:18.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-09T16:52:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#a604ce><size=103>MAƎЯᗡ ƎHT ЯƎTͶƎ™</size></color> discord.com/
 invite/HSsebQuveJ
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/HSsebQuveJ)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/HSsebQuveJ)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

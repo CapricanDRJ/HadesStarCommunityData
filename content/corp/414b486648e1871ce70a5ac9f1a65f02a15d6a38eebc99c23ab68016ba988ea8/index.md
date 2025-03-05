@@ -2,6 +2,7 @@
 title: ​Warriors union
 description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 7 t 72 SwiftKey F
 date: 2024-03-28T14:33:08.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-28T14:33:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 hail the second union.     need active members for white stars
 ```
-### [Discord](https://discord.gg/x6785TFrf2)
+<br>### [Discord](https://discord.gg/x6785TFrf2)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

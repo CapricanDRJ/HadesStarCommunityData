@@ -2,6 +2,7 @@
 title: ​Лунный Феникс
 description: W:53 L:29 D:2 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 14 - 6 六大天神
 date: 2025-03-01T16:57:34.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-01T16:57:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 вкладывать в флагман 2
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1359 🔺  (91)|
+| ELO Regular | 1359 🔺  (92)|
 | ELO Competitive | 1543 🔺  (44)|
 | Total Matches | 84 |
 | Wins | 53 |

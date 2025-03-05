@@ -2,6 +2,7 @@
 title: ​Atlas corp
 description: W:8 L:14 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 2 Nebulae Traders
 date: 2024-12-03T18:52:21.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-03T18:52:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are active with white stars.We are a corporation with the goal of 
 helping new players and creating a community where everyone can thriv
 e together.Be active in chat and white stars for promotion
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/yeVYzgVS)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/yeVYzgVS)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

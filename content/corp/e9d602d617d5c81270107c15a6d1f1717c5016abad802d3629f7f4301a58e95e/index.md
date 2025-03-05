@@ -2,6 +2,7 @@
 title: ​元素联邦
 description: W:30 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 28 - 0 Avantgarde
 date: 2025-02-12T03:14:58.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-12T03:14:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 红星建议大火单枪，电磁，暗红时缓;蓝星主打配合如A盾复仇，无人机信仰，捆绑传送。升级模组尽量集中不要分散。           有能力者请
 投喂旗舰1        白星Q群：<u>250502867                微信群加yusanban好友
 ```
-### [Discord](https://discord.gg/Q群250502867)
+<br>### [Discord](https://discord.gg/Q群250502867)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (63)|
-| ELO Competitive | 1443 🔺  (116)|
+| ELO Regular | 1393 🔺  (65)|
+| ELO Competitive | 1443 🔺  (117)|
 | Total Matches | 44 |
 | Wins | 30 |
 | Losses | 14 |

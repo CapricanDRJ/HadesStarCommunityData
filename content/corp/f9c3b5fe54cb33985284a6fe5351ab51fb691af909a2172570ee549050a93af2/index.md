@@ -2,6 +2,7 @@
 title: ​STAR TERROR CZ
 description: W:12 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ❌ 2 - 21 Red Star
 date: 2025-02-28T20:30:37.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-28T20:30:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 CZ/SK korporace            Odkaz na stažení HadesSpace https://userxi
 nos.github.io/HadesSpace/
 ```
-### [Discord](https://discord.gg/syV6uUt9dM)
+<br>### [Discord](https://discord.gg/syV6uUt9dM)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔻  (247)|
-| ELO Competitive | 1346 🔺  (219)|
+| ELO Competitive | 1346 🔺  (218)|
 | Total Matches | 24 |
 | Wins | 12 |
 | Losses | 12 |

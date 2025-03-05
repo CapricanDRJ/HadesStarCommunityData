@@ -1,31 +1,30 @@
 ---
 title: ​Crimson Dawn
-description: W:11 L:18 D:0 Bonus ❌ 7%
+description: W:11 L:19 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 2025-01-06T19:34:40.000Z
+Summary: ❌ 0 - 50 Sentencia
+date: 2025-03-05T02:25:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Crimson Dawn. Be active & have fun.
 Ask an officer about discord or join the conversation at https://disc
 ord.gg/j5GeqTEx6E
 ```
-### [Discord](https://discord.gg/j5GeqTEx6E)
+<br>### [Discord](https://discord.gg/j5GeqTEx6E)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1313)|
-| ELO Competitive | 1160 🔻  (1237)|
-| Total Matches | 29 |
+| ELO Regular | 1105 🔻  (1328)|
+| ELO Competitive | 1156 🔻  (1268)|
+| Total Matches | 30 |
 | Wins | 11 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 6 |
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1735760080,1733415489,1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
+        let timestamps = [1740709536,1735760080,1733415489,1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/05 | 0-50 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ❌ | 2025/01/06 | 11-14 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/12/10 | 14-25 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2024/11/12 | 15-30 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

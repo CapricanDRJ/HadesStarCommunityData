@@ -2,6 +2,7 @@
 title: ​BlackOrca
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 2 - 3 Archangels BR
 date: 2024-02-08T21:24:55.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-08T21:24:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 BlackOrca Corp.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

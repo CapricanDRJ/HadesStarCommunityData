@@ -2,14 +2,13 @@
 title: ​IX Легион
 description: W:91 L:45 D:0 Bonus ✅ 52%
 image: ./favicon.png
+Summary: ✅ 29 - 11 Млечный путь
 date: 2025-03-01T06:36:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color="white">Donate to FL1!Бонус артов +52%.
@@ -18,7 +17,7 @@ date: 2025-03-01T06:36:30.000Z
 Для вступления пройдите по ссылке ниже!Телегам: t.me/+NK7g4Pc--pUzNz
 gy
 ```
-### [Discord](https://discord.gg/fc2eg8hNJm)
+<br>### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |

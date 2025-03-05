@@ -2,6 +2,7 @@
 title: ​Cool Casual
 description: W:9 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 3 - 11 РARADISЕ
 date: 2025-02-28T22:15:48.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-02-28T22:15:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (332)|
+| ELO Regular | 1235 🔻  (331)|
 | ELO Competitive | 1250 🔻  (428)|
 | Total Matches | 13 |
 | Wins | 9 |

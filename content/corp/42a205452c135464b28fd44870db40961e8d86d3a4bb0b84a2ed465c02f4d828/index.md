@@ -2,6 +2,7 @@
 title: ​X-wing
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 5 Free Thinkers 2
 date: 2024-03-04T13:03:44.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-04T13:03:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=70><color=#48a9a9>www.DISCORD.gg/cr67TAf</color></size> We are 
 not active lately. the best times for us passed by.
 we came to relaxed ws
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​BrazilCorp.
 description: W:53 L:12 D:0 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 38 - 10 Gummibärenbande
 date: 2025-02-28T12:04:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras 
@@ -19,7 +18,7 @@ intensas nas Estrelas Brancas.
 🎖WS todas as sextas
 🔰Ajudamos com orientação e evolução.
 ```
-### [Discord](https://discord.gg/sVVAvk9RqC)
+<br>### [Discord](https://discord.gg/sVVAvk9RqC)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

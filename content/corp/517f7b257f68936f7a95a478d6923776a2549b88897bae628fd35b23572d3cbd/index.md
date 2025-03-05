@@ -2,14 +2,13 @@
 title: ​Spacefleet
 description: W:50 L:52 D:0 Bonus ❌ 16%
 image: ./favicon.png
+Summary: ❌ 21 - 52 Continuum
 date: 2025-03-02T07:09:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#49D4C9>Flagship corporation of the<b> Spacefleet Alliance</b>
@@ -21,12 +20,12 @@ date: 2025-03-02T07:09:39.000Z
 
 Discord mandatory. <b>EEpZuWf</b>
 ```
-### [Discord](https://discord.gg/EEpZuWf)
+<br>### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (294)|
+| ELO Regular | 1242 🔻  (292)|
 | ELO Competitive | 1517 🔻  (62)|
 | Total Matches | 102 |
 | Wins | 50 |

@@ -2,6 +2,7 @@
 title: ​CIS
 description: W:46 L:14 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 11 - 15 六大天神
 date: 2025-02-09T05:47:59.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-09T05:47:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corporation of Independent Systems.  Discord is Mandatory. Join today
  and fight against the tyranny of the Cerberus!
 ```
-### [Discord](https://discord.gg/eVBvw68KEU)
+<br>### [Discord](https://discord.gg/eVBvw68KEU)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1357 🔻  (94)|
+| ELO Regular | 1357 🔻  (95)|
 | ELO Competitive | 1455 🔻  (106)|
 | Total Matches | 61 |
 | Wins | 46 |

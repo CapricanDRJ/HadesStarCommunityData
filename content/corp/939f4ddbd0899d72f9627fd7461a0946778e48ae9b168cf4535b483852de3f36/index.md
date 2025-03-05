@@ -2,6 +2,7 @@
 title: ​Thurn and Taxis
 description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 7 - 3 愿君仍常在
 date: 2023-12-01T10:11:39.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-01T10:11:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Achieving greatness through economic stability in local planets, adva
 nced mining capabilities, interstellar diplomacy, and conservative mi
 litary strength. 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/fd8ppQbcH)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/fd8ppQbcH)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

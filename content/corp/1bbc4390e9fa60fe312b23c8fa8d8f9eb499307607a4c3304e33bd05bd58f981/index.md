@@ -2,6 +2,7 @@
 title: ​ES Gaming 
 description: W:16 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 13 Armored Union 
 date: 2024-04-21T08:12:37.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2024-04-21T08:12:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (331)|
+| ELO Regular | 1235 🔻  (330)|
 | ELO Competitive | 1278 🔻  (356)|
 | Total Matches | 30 |
 | Wins | 16 |

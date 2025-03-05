@@ -2,6 +2,7 @@
 title: ​The Titans Pro
 description: W:1 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 18 - 6 CDG
 date: 2024-05-26T00:50:01.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-26T00:50:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red><size=60>Los Titanes resurgen de las tinieblas para conqui
 star el universo de Hades, junto a axolotls. <color=white><size=50>un
 ete a nuestra corp y se uno más de lo conquistadores estelares
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/5NHd4pYU)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/5NHd4pYU)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​群星联盟
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 14 闲散人员
 date: 2024-09-18T13:39:11.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-18T13:39:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎来到群星联盟
 ```
-### [Discord](https://discord.gg/…)
+<br>### [Discord](https://discord.gg/…)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

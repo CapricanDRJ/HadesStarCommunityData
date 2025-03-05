@@ -2,14 +2,13 @@
 title: ​Aggronauten
 description: W:0 L:4 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 2 - 31 Sprite
 date: 2024-10-30T15:55:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><size=80><color=#3ffecb>Tartaros Armada</color></size></b>
@@ -19,7 +18,7 @@ date: 2024-10-30T15:55:22.000Z
 Kommunikation über <b>Discord</b>:
 <color=#3ffecb>Code: SUVSGGYGz2</color>
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

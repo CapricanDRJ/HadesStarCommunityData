@@ -2,6 +2,7 @@
 title: ​Alpaca Haven
 description: W:18 L:27 D:1 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 3 - 23 Rising star
 date: 2025-02-08T01:30:12.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-08T01:30:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Alpacas unite! Have fun and prosper. We do relaxed WS.
 ```
-### [Discord](https://discord.gg/xaRgKha)
+<br>### [Discord](https://discord.gg/xaRgKha)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

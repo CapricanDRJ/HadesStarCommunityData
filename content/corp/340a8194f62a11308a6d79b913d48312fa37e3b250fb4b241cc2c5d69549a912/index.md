@@ -2,6 +2,7 @@
 title: ​SYNDICATE
 description: W:5 L:0 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ✅ 18 - 14 First Squad
 date: 2023-11-29T23:52:53.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2023-11-29T23:52:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#00bfff>Tᴇʟᴇɢʀᴀᴍ:</color>   
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (220)|
+| ELO Regular | 1271 🔺  (219)|
 | ELO Competitive | 1271 🔺  (367)|
 | Total Matches | 5 |
 | Wins | 5 |

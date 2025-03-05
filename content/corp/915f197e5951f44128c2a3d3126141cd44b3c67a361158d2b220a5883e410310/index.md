@@ -2,14 +2,13 @@
 title: ​Торг. федерация
 description: W:12 L:15 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ✅ 24 - 5 Crazy Elite
 date: 2024-11-28T15:14:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color="green">Набор через дискорд </color>
@@ -18,7 +17,7 @@ https://discord.gg/E67DY45fPC
 Кз 4-10.
 Дискорд обязателен.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

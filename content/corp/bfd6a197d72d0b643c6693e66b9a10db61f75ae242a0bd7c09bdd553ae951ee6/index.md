@@ -2,6 +2,7 @@
 title: ​the Rubber Duck
 description: W:6 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 3 - 0 舰队联邦\[FF\]
 date: 2024-11-15T16:24:04.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-11-15T16:24:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Those who move cargo.     English will be the primary language for co
 mmunication.
 ```
-### [Discord](https://discord.gg/AbsBfzPn)
+<br>### [Discord](https://discord.gg/AbsBfzPn)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔺  (1182)|
-| ELO Competitive | 1159 🔺  (1243)|
+| ELO Competitive | 1159 🔺  (1242)|
 | Total Matches | 16 |
 | Wins | 6 |
 | Losses | 10 |

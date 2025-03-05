@@ -2,14 +2,13 @@
 title: ​Deadspace
 description: W:30 L:42 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 9 - 29 Españoles
 date: 2025-03-02T16:39:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#11806a>Competitive member corp of the<b> Spacefleet Alliance<
@@ -23,13 +22,13 @@ date: 2025-03-02T16:39:56.000Z
 
 Discord mandatory.  <b>EEpZuWf</b>
 ```
-### [Discord](https://discord.gg/EEpZuWf)
+<br>### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (702)|
-| ELO Competitive | 1293 🔻  (313)|
+| ELO Competitive | 1293 🔻  (312)|
 | Total Matches | 72 |
 | Wins | 30 |
 | Losses | 42 |

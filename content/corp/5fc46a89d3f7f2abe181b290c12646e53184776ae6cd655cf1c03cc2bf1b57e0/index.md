@@ -2,14 +2,13 @@
 title: ​Titan Inc.
 description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 StargateCommand
 date: 2023-12-17T07:39:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Titan Inc. ist Teil der Titan Corporation. Der Fokus liegt hier auf A
@@ -19,7 +18,7 @@ einschaft.
 Discord:
 https://discord.gg/Mvy7Myx
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

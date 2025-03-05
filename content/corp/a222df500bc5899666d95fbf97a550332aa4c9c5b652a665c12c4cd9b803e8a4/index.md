@@ -2,6 +2,7 @@
 title: ​XXX500XXX
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 3 U\.Y\.E\.U\.
 date: 2024-03-25T21:48:10.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-25T21:48:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 I am the commander and i shall not let you down because we have alot 
 of advantare to work of
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

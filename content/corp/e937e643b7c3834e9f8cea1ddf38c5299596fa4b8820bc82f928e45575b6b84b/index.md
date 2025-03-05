@@ -2,6 +2,7 @@
 title: ​N.P.C
 description: W:5 L:3 D:3 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Osmium Star llc
 date: 2024-07-30T09:31:05.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-07-30T09:31:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

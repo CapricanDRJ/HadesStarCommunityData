@@ -2,6 +2,7 @@
 title: ​THE ECHAPES BEL
 description: W:0 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 9 Free Star
 date: 2023-12-10T20:01:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-10T20:01:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

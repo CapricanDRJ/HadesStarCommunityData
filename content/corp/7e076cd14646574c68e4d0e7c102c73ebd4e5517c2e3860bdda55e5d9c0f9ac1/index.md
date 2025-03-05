@@ -2,14 +2,13 @@
 title: ​СОЮЗ-2
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 5 ZN•H2B
 date: 2024-01-07T19:30:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Наш сервер в Discord’e, где вы сможете найти 
@@ -19,7 +18,7 @@ discord.gg/cc22fFn
  канал союз-2
 discord.gg/PyVCs
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

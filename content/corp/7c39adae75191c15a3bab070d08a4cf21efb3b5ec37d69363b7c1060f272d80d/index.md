@@ -2,6 +2,7 @@
 title: ​challenger corp
 description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Eastern Front
 date: 2024-04-10T22:33:48.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-10T22:33:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Afk
 ```
-### [Discord](https://discord.gg/2zKhKvHw)
+<br>### [Discord](https://discord.gg/2zKhKvHw)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

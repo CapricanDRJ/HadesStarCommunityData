@@ -2,14 +2,13 @@
 title: ​遨游星空  kdy分盟
 description: W:13 L:18 D:1 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 13 星光万丈
 date: 2024-07-22T05:26:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为遨游星空第二营地 <alpha=#44>现在是第一营地了<alpha=#FF>
@@ -19,7 +18,7 @@ date: 2024-07-22T05:26:13.000Z
 <alpha=#22><pos=40%>May The Lilies Bloom For You
 
 ```
-### [Discord](https://discord.gg/BQkbAHaGj4)
+<br>### [Discord](https://discord.gg/BQkbAHaGj4)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​TeddisaurusWrex
 description: W:48 L:18 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 25 The Allegiant
 date: 2025-02-25T22:53:41.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-25T22:53:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Sister Corporation of First Legion & Armored Union. Anyone is Welcome
  to join. Here to help anyone in need. If you need help clearing a Re
 d Star, let us know and we'll help. Let's Finish the Game!
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

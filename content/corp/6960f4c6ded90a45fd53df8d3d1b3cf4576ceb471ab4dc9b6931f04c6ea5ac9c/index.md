@@ -2,14 +2,13 @@
 title: ​代代守护你的神明
 description: W:8 L:12 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 18 Empire of Light
 date: 2024-10-22T13:10:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=white>我们是<size=67><b>白月光</b></size>集团旗下的第二分盟</color>
@@ -19,7 +18,7 @@ date: 2024-10-22T13:10:47.000Z
 
 q群：741078259
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

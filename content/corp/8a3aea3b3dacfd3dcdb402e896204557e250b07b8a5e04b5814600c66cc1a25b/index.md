@@ -2,14 +2,13 @@
 title: ​Famous Assasins
 description: W:68 L:14 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ❌ 18 - 35 Internationals
 date: 2025-03-02T20:05:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Renowned Interstellar Killers... We Are Life-Takers & Heartbreakers..
@@ -18,7 +17,7 @@ RTA...</b>
 
 --------- We are Active in Dark Nebula ---------
 ```
-### [Discord](https://discord.gg/YHtMuQK)
+<br>### [Discord](https://discord.gg/YHtMuQK)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

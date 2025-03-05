@@ -2,6 +2,7 @@
 title: ​КВАЗАР
 description: W:1 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 6 - 0 Cerulean Nebula
 date: 2023-12-29T13:58:01.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-29T13:58:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Добро пожаловать в <color=white>КВАЗАР</color>! корпорация,затмевающа
 я своим светом все грани тёмной материи || белые звёзда по пятницам
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/cQeTUP2e4b)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/cQeTUP2e4b)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

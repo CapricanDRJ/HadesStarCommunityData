@@ -2,6 +2,7 @@
 title: ​Poggy Rockers
 description: W:33 L:22 D:3 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 16 リリース
 date: 2025-01-20T04:54:11.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-20T04:54:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Poggy Rockers in the house tonight
 ```
-### [Discord](https://discord.gg/XmASs2XvFW)
+<br>### [Discord](https://discord.gg/XmASs2XvFW)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

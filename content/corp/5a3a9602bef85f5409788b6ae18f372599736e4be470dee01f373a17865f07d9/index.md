@@ -2,14 +2,13 @@
 title: ​绛紫星云
 description: W:1 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ↔️ 4 - 4 Germania
 date: 2024-11-21T09:02:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎各位来到绛紫星云的朋友们！
@@ -21,12 +20,12 @@ date: 2024-11-21T09:02:26.000Z
 想要加入？QQ群号：415822703
 
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1206)|
-| ELO Competitive | 1158 🔻  (1251)|
+| ELO Competitive | 1158 🔻  (1250)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 5 |

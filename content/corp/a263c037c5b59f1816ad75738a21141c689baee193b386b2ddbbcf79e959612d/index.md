@@ -2,6 +2,7 @@
 title: ​清霄阁（防御协会）
 description: W:8 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 6 ✨ℛedstar Order«
 date: 2025-02-28T04:04:53.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T04:04:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们不属于任何集团的分团，<#DCF>我们的总执行官：Cyka <#ACF>欢迎你的加入～～～ <#FFF>来到这里大于6t且在团一个月并
 可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：99396
 4380 大群Q号：597444221
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

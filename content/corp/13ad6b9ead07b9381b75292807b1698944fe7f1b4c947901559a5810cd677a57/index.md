@@ -2,6 +2,7 @@
 title: ​R.S.F.
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 22 Mass Effect
 date: 2023-12-11T18:38:41.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-11T18:38:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Red Star Farmers           Currently in Chapter 11 reorganization.
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

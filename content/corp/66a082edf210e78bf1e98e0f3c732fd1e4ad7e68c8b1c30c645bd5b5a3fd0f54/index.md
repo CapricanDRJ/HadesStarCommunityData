@@ -2,14 +2,13 @@
 title: ​Lexx
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 31 ✡天启✡
 date: 2023-12-28T19:31:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 An <size=100>English</size> speaking, independent, <size=200><color=w
@@ -18,7 +17,7 @@ rd standards</i></size>.
 
 https://discord.gg/7KGYvMbPgK
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​CSI
 description: W:1 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 25 Newbs
 date: 2024-01-29T16:19:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-29T16:19:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Les Clés de 12 Stellaires Impacla... implacla.... Non, il fait chier 
 ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (
 ...)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/pbRrZKrA)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/pbRrZKrA)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

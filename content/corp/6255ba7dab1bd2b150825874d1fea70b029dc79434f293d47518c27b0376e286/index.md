@@ -2,14 +2,13 @@
 title: ​Space Penguins
 description: W:50 L:21 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 24 - 26 Providence
 date: 2025-02-22T13:29:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=white>What could be better than wobbling around star systems! 
@@ -21,13 +20,13 @@ enguins.</color>
 Recruiting rs9-rs11
 Discord: asheRjW
 ```
-### [Discord](https://discord.gg/asheRjW)
+<br>### [Discord](https://discord.gg/asheRjW)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔻  (131)|
-| ELO Competitive | 1445 🔻  (114)|
+| ELO Competitive | 1445 🔻  (115)|
 | Total Matches | 71 |
 | Wins | 50 |
 | Losses | 21 |

@@ -2,6 +2,7 @@
 title: ​Pixies
 description: W:14 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 5 - 34 仙女座星雲
 date: 2025-02-22T07:59:26.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-22T07:59:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Be a Pixie
 white star active
 
 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (285)|
+| ELO Regular | 1245 🔻  (283)|
 | ELO Competitive | 1319 🔻  (262)|
 | Total Matches | 21 |
 | Wins | 14 |

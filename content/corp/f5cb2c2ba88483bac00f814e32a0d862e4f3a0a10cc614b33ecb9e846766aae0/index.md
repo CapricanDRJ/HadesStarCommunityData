@@ -2,6 +2,7 @@
 title: ​We R Bad
 description: W:0 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 7  RELAX CZ/SK
 date: 2023-12-22T18:57:28.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-22T18:57:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Laid back corp for people with day jobs. Resistence is futile.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

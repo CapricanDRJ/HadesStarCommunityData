@@ -2,14 +2,13 @@
 title: ​三体舰队
 description: W:8 L:12 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 3 华夏联盟
 date: 2025-01-10T10:23:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 犯我者虽远必诛！犯我者虽远必诛！犯我者虽远必诛！（请证明是中国人）
@@ -19,7 +18,7 @@ date: 2025-01-10T10:23:39.000Z
 
 有六级神器的成员，如果愿意就给其他人分一个六级四面体，提高白星时的战力，谢谢。
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

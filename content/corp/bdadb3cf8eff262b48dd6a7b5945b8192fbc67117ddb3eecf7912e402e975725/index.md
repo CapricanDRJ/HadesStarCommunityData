@@ -2,6 +2,7 @@
 title: ​Eretria 
 description: W:34 L:40 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Corp\. Luminá
 date: 2025-03-01T00:30:59.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T00:30:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the mo
 st seasoned Veterans. This corp is made for and of its members! It wo
 uld be an Honor that you would join us! >=)
 ```
-### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
+<br>### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

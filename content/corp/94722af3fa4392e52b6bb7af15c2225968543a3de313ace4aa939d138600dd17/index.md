@@ -2,14 +2,13 @@
 title: ​Madison Holding
 description: W:7 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 38 Famous Assasins
 date: 2024-01-10T22:23:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><size=90><color=#9d80b3></color></size></b>
@@ -19,11 +18,11 @@ date: 2024-01-10T22:23:37.000Z
 <color=#dadde7>
 
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (308)|
+| ELO Regular | 1239 🔻  (306)|
 | ELO Competitive | 1243 🔻  (449)|
 | Total Matches | 11 |
 | Wins | 7 |

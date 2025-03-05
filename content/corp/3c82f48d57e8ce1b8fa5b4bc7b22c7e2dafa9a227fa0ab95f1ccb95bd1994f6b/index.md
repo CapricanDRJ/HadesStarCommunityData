@@ -2,6 +2,7 @@
 title: ​中团一建
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ✅ 1 - 0 一根飞机
 date: 2024-12-07T13:01:01.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-12-07T13:01:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

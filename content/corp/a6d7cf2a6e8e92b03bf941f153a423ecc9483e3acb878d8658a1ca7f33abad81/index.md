@@ -2,6 +2,7 @@
 title: ​Space Oddity
 description: W:14 L:10 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 4 - 17 GhostNakcoorp
 date: 2024-05-04T12:21:14.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-05-04T12:21:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#FFD700>Nata il 04/09/2020 <br><br><b>OFFRIAMO: divertimento, 
 relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 1<br><br>Strade? Dove andiamo noi non servono strade</color>
 ```
-### [Discord](https://discord.gg/B5y6qXw)
+<br>### [Discord](https://discord.gg/B5y6qXw)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (306)|
+| ELO Regular | 1240 🔻  (304)|
 | ELO Competitive | 1282 🔻  (344)|
 | Total Matches | 24 |
 | Wins | 14 |

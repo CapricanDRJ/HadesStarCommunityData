@@ -2,14 +2,13 @@
 title: ​Gwiezdna Horda
 description: W:4 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 14 - 9 Freelancer
 date: 2023-12-17T07:43:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Jeśli lubisz grać zespołowo zapraszamy, początkującym służymy pomocą.
@@ -20,7 +19,7 @@ dzie.
 Discord obowiązkowy:
 https://discord.gg/qWTndzwmtX
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

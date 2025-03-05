@@ -2,14 +2,13 @@
 title: ​Imperium of man
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 1 СНГ — РОССИЯ
 date: 2024-01-29T11:30:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 The Imperium of man.
@@ -23,7 +22,7 @@ https://dicord.gg/gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

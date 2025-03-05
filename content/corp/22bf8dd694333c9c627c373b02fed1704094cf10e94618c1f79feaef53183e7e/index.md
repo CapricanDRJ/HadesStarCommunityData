@@ -2,14 +2,13 @@
 title: ​新?的星际集团?
 description: W:28 L:22 D:2 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 6 - 0 OrderofTheGeon
 date: 2025-03-03T13:37:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为<size=150>新星团</size>总团
@@ -21,12 +20,12 @@ date: 2025-03-03T13:37:02.000Z
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### [Discord](https://discord.gg/新星团总部)
+<br>### [Discord](https://discord.gg/新星团总部)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (283)|
+| ELO Regular | 1246 🔺  (282)|
 | ELO Competitive | 1352 🔺  (210)|
 | Total Matches | 52 |
 | Wins | 28 |

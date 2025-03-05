@@ -2,14 +2,13 @@
 title: ​华夏太空舰队
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 7 The Red Dwarves
 date: 2024-03-13T15:24:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#E57590><size=60>本集团由中国人建立，欢迎大佬和活跃的萌新加入！ 
@@ -21,7 +20,7 @@ date: 2024-03-13T15:24:25.000Z
 纪念1937年12月17号！勿忘国耻，铭记历史！
 全员传移新团！快
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

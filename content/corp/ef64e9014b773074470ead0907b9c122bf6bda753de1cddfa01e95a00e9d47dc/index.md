@@ -2,6 +2,7 @@
 title: ​Crazy Elite
 description: W:41 L:56 D:0 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 32 - 25 VoidCorp
 date: 2025-03-03T19:22:39.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-03-03T19:22:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=60><b><color=yellow>ALIANZA HISPÁNICA</color></b></size>
 <color=red>Estrell.Rojas 9-11</color>
 <color=white>Estrell.Blancas semanales</color>
 Discord obligatorio: KAguMmM
 ```
-### [Discord](https://discord.gg/KAguMmM)
+<br>### [Discord](https://discord.gg/KAguMmM)
 ### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (337)|
+| ELO Regular | 1234 🔺  (336)|
 | ELO Competitive | 1365 🔺  (190)|
 | Total Matches | 97 |
 | Wins | 41 |

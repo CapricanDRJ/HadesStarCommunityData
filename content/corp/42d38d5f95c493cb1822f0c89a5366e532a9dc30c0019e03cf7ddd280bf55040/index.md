@@ -2,6 +2,7 @@
 title: ​第四星际
 description: W:28 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 28 Повстанцы Хаоса
 date: 2024-10-06T05:23:59.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-06T05:23:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本团秉承共产主义原则，互帮互助，欢迎各位加入。欢迎各位来到第四星际（绛紫星云）的朋友们！本团为绛紫星（共产星际）的萌新团，红活500水免费
 开放集团福利极高、社区氛围好，欢迎各位大佬萌新加入绛紫星的大家庭禁止骂人、人身攻击，不定时开白
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

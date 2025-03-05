@@ -2,6 +2,7 @@
 title: ​Got Nothing
 description: W:15 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 5 - 37 On en a Gros \! 
 date: 2024-11-16T12:36:03.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-16T12:36:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Here to have fun! Daily Private RS. Bi-weekly WS. Looking for <b>acti
 ve</b> players to participate in corp red/white stars. Join our disco
 rd for easier coordination and fun!
 ```
-### [Discord](https://discord.gg/3CBQRhpWmV)
+<br>### [Discord](https://discord.gg/3CBQRhpWmV)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

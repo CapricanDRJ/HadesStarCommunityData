@@ -2,14 +2,13 @@
 title: ​Неизбежный Рок
 description: W:109 L:37 D:1 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 26 - 0 КОРПОРАЦИЯ ЗЛА
 date: 2025-03-04T10:33:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Добро пожаловать в <b>Неизбежный Рок</b>!
@@ -19,7 +18,7 @@ date: 2025-03-04T10:33:21.000Z
 https://t.me/+rYmH3oRRd5FiMDVi</color>
 Вклад только во Флагман 1
 ```
-### [Discord](https://discord.gg/QrVCb9V2hX)
+<br>### [Discord](https://discord.gg/QrVCb9V2hX)
 ### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Internationals
 description: W:45 L:15 D:0 Bonus ✅ 54%
 image: ./favicon.png
+Summary: ✅ 35 - 18 Famous Assasins
 date: 2025-03-02T20:05:20.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T20:05:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We have active players all over the world cooperating to build econom
 ies and compete in weekly White Stars. Stay active. Discord for WS. F
 S2 donations welcome.
 ```
-### [Discord](https://discord.gg/gBPEdZt)
+<br>### [Discord](https://discord.gg/gBPEdZt)
 ### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |

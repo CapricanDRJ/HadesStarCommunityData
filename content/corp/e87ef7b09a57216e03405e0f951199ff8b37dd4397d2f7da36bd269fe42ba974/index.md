@@ -2,14 +2,13 @@
 title: ​Quadra FR
 description: W:6 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 22 - 0 Veil of Maya
 date: 2024-06-28T11:31:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Corporation pour tous les francophones.
@@ -18,11 +17,11 @@ Aide pour les nouveaux joueurs, déconne et apéro sur une étoile rouge
 Lien de notre Discord : https://discord.gg/vs3fGvzkap
 Merci Halkyr
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (288)|
+| ELO Regular | 1244 🔺  (286)|
 | ELO Competitive | 1253 🔺  (417)|
 | Total Matches | 9 |
 | Wins | 6 |

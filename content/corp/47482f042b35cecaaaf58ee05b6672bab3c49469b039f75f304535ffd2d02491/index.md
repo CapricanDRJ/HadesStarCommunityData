@@ -2,6 +2,7 @@
 title: ​GermanSpaceUno.
 description: W:5 L:20 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 20 Created
 date: 2024-09-16T14:13:39.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-16T14:13:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Hi jeder aktive Spieler ist willkommen ! Wir suchen vor allem Spieler
  die am Weißen Zwerg teilnehmen möchten ! Deutsch und Englisch Bevorz
 ugt ! Discord Link. https://discord.gg/urC6aghBvF
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

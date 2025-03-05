@@ -2,6 +2,7 @@
 title: ​星际集团
 description: W:32 L:30 D:6 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 3 WSC\(no DISCORD\)
 date: 2025-02-18T20:01:04.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-18T20:01:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=yellow>欢迎加入我集团<br>南极星联盟成员<br>首席、中国外交：瓜老板?世<br>白星指挥:鑫森淼焱垚、cyka<
 br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:6396
 97949 <br><br>最高福利：r9
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

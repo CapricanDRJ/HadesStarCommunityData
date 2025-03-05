@@ -2,6 +2,7 @@
 title: ​Новый ЭДЭМ
 description: W:2 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Orden Estelar 
 date: 2023-12-30T15:15:35.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-30T15:15:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Отважные первопроходцы, покинувшие родную Землю много веков назад.Пос
 тигнув древнюю технологию Старших рас, пришли вернуть былое могуществ
 о расы Людей. https://t.me/new_edem_star
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

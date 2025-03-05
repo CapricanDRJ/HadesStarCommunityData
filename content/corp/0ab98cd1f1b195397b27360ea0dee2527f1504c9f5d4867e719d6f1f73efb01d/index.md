@@ -2,6 +2,7 @@
 title: ​Grunthal Gang
 description: W:48 L:33 D:0 Bonus ✅ 54%
 image: ./favicon.png
+Summary: ✅ 69 - 26 Spacefleet
 date: 2025-02-28T17:25:16.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T17:25:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Grunthal Gang is a competitive corp of international players offering
  daily RS and WS. Please join discord if you'd like to become a membe
 r of our corp. https://discord.gg/jUQReQtRJN
 ```
-### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
+<br>### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
 ### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |

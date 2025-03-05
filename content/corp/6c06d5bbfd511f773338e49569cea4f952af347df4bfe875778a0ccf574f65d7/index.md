@@ -2,6 +2,7 @@
 title: ​Dansk
 description: W:0 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 12 - 34 Rising star
 date: 2023-12-16T04:35:16.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-16T04:35:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Her taler vi dansk (Danish only)  
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

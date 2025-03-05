@@ -2,6 +2,7 @@
 title: ​资助会
 description: W:10 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 22 - 1   边界  
 date: 2025-02-07T09:38:20.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-07T09:38:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本集团遵守友好互助，互相尊重的原则，任何人在遇到困难时可以寻求帮助，本团积极招新     qq群号：247609296
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (237)|
+| ELO Regular | 1262 🔺  (236)|
 | ELO Competitive | 1280 🔺  (350)|
 | Total Matches | 14 |
 | Wins | 10 |

@@ -2,6 +2,7 @@
 title: ​Dark Exodus
 description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 33 柯伊伯带
 date: 2023-12-20T15:56:55.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-20T15:56:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 International corporation with some story behind, learning "Dark Nebu
 la", while trying to stay alive.
 ```
-### [Discord](https://discord.gg/vgrCTD337x)
+<br>### [Discord](https://discord.gg/vgrCTD337x)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

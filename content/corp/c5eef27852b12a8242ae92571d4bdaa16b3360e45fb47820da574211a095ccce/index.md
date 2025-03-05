@@ -2,6 +2,7 @@
 title: ​한국우주연합
 description: W:8 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 8 - 2 The Foundation
 date: 2025-02-25T04:11:25.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-25T04:11:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 kor.cop 많이 들어와주세요
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

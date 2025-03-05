@@ -2,6 +2,7 @@
 title: ​L.P.A.
 description: W:2 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 5 华夏三体舰队
 date: 2024-06-25T17:14:24.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-06-25T17:14:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Second wing of Commander Cody and the Lost Planet Airmen Join our Dis
 cord server T9D3BdHY
 ```
-### [Discord](https://discord.gg/r66hPREZUW)
+<br>### [Discord](https://discord.gg/r66hPREZUW)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​ProyectCorp
 description: W:20 L:29 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 46 ДИВЕРСАНТЫ
 date: 2024-11-05T11:19:20.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-05T11:19:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Our leader is writing a good description, please join the corp, enjoy
  the company.
 ```
-### [Discord](https://discord.gg/yddJSxbE72)
+<br>### [Discord](https://discord.gg/yddJSxbE72)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Bow Down
 description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 3 - 34 Free Ag3nts
 date: 2025-03-04T04:29:04.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-03-04T04:29:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (334)|
+| ELO Regular | 1235 🔻  (333)|
 | ELO Competitive | 1245 🔻  (441)|
 | Total Matches | 4 |
 | Wins | 3 |

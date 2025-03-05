@@ -2,6 +2,7 @@
 title: ​Sternenflotte
 description: W:25 L:28 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 35 " Возрождение "
 date: 2025-03-02T10:09:10.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T10:09:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Plane
 ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
  beginnen!
 ```
-### [Discord](https://discord.gg/MNs4VdSb)
+<br>### [Discord](https://discord.gg/MNs4VdSb)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

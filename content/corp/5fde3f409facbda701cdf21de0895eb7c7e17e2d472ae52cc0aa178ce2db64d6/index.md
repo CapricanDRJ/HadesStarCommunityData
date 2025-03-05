@@ -2,6 +2,7 @@
 title: ​AKA
 description: W:8 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 26 АНДРОМЕДА 
 date: 2025-02-23T17:27:48.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-23T17:27:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 不做思想的巨人，要做行动的矮子！                                                     
                                不管是谁都给我加群聊：308604873                  
        随时欢迎～祝各位早日成为“大佬”早日上R12！                          
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

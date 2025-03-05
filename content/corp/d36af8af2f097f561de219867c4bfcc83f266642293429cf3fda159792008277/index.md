@@ -2,6 +2,7 @@
 title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 1 Lacuna Academy
 date: 2024-05-23T07:49:07.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-05-23T07:49:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 这里是新纪元中央舰队，各路英雄雄集之地。被踼者可去隶属集团：「新纪元2号舰队」；欢迎大佬和萌新加入，有小红点会被踼哟；規則：不定期开白，只
 能开白1，派2号旗舰，不能胡亂改通告；升降级：不守規則降1级；创始人：可怜的小A；黑名單：；招募人才打白中
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

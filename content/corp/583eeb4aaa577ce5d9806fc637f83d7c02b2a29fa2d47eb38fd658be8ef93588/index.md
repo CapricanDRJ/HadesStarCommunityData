@@ -2,6 +2,7 @@
 title: ​Bunker
 description: W:30 L:29 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Osmium Star llc
 date: 2024-09-04T10:31:45.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-04T10:31:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 //THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE  CORP IS 
 DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP 
 IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
 ```
-### [Discord](https://discord.gg/TZRY8esKFz)
+<br>### [Discord](https://discord.gg/TZRY8esKFz)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

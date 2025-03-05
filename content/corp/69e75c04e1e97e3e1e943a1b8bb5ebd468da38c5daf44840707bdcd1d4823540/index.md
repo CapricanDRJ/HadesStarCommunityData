@@ -2,14 +2,13 @@
 title: ​洛神峰
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 3 - 7 超新星联盟
 date: 2024-05-22T09:52:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为<size=120>仙女座星雲</size>第四分团
@@ -23,7 +22,7 @@ date: 2024-05-22T09:52:03.000Z
 这里是国服区对萌新最友好的集团
 期待你
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

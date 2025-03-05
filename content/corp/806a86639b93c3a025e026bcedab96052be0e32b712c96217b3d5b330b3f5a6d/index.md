@@ -2,14 +2,13 @@
 title: ​OntarioDestiny
 description: W:9 L:19 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 15 Tuatha De Danan
 date: 2024-07-06T17:26:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are <b>OntarioDestiny</b>
@@ -22,7 +21,7 @@ https://discord.gg/gBFFE5x
 
 od-family.com
 ```
-### [Discord](https://discord.gg/gBFFE5x)
+<br>### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

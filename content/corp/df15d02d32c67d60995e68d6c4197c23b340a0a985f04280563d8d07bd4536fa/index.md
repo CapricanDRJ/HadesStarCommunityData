@@ -2,6 +2,7 @@
 title: ​🌪TORNADO 
 description: W:18 L:14 D:7 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 10 - 2 StargateCommand
 date: 2025-02-05T00:42:21.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-05T00:42:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 14 дней неактив в игре — кик. 300+ мощь империи.
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔺  (249)|
-| ELO Competitive | 1296 🔺  (304)|
+| ELO Competitive | 1296 🔺  (303)|
 | Total Matches | 39 |
 | Wins | 18 |
 | Losses | 14 |

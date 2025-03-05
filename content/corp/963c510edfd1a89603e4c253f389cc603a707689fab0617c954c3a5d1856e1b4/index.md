@@ -2,6 +2,7 @@
 title: ​Черное солнце
 description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 10 STAR TERROR CZ
 date: 2025-01-25T11:02:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-25T11:02:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ведем набор игроков.
 Помощь новичкам артефактами, кз.
 https://t.me/klrlo
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

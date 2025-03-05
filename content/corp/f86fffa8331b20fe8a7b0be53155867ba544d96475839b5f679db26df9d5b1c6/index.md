@@ -2,6 +2,7 @@
 title: ​Sith Academy
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 5 - 21 VoidRunners
 date: 2024-04-28T03:02:20.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-28T03:02:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The Academy to Sith Empire | Join us on Discord | Recruiting Active P
 layers For White Star | All Red Star Levels Welcome Here | € -> FS1
 ```
-### [Discord](https://discord.gg/R6sJCw2)
+<br>### [Discord](https://discord.gg/R6sJCw2)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

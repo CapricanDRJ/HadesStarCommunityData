@@ -2,6 +2,7 @@
 title: ​ГОРИЗОНТ
 description: W:31 L:86 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ❌ 14 - 28 DTC
 date: 2025-03-01T00:05:57.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T00:05:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=80><color=#9efee4>Принимаем новых игроков .Russia/Рады всем (бе
 з политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi
 ```
-### [Discord](https://discord.gg/hn2S7qy58g)
+<br>### [Discord](https://discord.gg/hn2S7qy58g)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

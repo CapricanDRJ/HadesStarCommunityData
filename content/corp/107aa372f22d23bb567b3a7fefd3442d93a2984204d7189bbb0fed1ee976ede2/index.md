@@ -2,6 +2,7 @@
 title: ​星を継ぐもの
 description: W:60 L:31 D:1 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 13 - 8 Newbs
 date: 2025-03-03T07:36:27.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-03T07:36:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 歓待艦対艦体感艦隊。日本人歓迎。出入り、無言参加ご自由に。WS不参加の場合はスキャナーのオフをお願いします。Discordはなるべく可能な
 限り参加をお願いします(情報共有のため)
 ```
-### [Discord](https://discord.gg/ukC9fmCx)
+<br>### [Discord](https://discord.gg/ukC9fmCx)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

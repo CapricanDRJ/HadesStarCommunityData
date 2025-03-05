@@ -2,6 +2,7 @@
 title: ​Avalanche 2.0
 description: W:2 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 6 - 27 Minutemen
 date: 2024-03-22T20:25:25.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-22T20:25:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.
 ```
-### [Discord](https://discord.gg/SrcGUY7)
+<br>### [Discord](https://discord.gg/SrcGUY7)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

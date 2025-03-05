@@ -2,14 +2,13 @@
 title: ​Trade Systems
 description: W:0 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Октябристы
 date: 2023-12-19T21:35:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#3bfdc8>Trade Systems</color>
@@ -24,7 +23,7 @@ https://discord.gg/gBFFE5x
 
 od-family.com
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

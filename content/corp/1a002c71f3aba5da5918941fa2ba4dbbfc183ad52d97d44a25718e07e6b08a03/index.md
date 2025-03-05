@@ -2,14 +2,13 @@
 title: ​OntarioDawn
 description: W:57 L:11 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 15 - 8 Bl@ck/Galaxy 
 date: 2025-03-01T17:47:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 It's a new Dawn for OntarioDynasty!
@@ -19,7 +18,7 @@ Join over 500 players across a family of 9 corps on discord for chat,
 
 RS1+
 ```
-### [Discord](https://discord.gg/gBFFE5x)
+<br>### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

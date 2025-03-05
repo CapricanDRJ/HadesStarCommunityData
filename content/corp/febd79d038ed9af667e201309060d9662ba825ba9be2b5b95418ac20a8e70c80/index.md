@@ -2,14 +2,13 @@
 title: ​Ark
 description: W:62 L:22 D:1 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ❌ 4 - 35 111
 date: 2025-03-04T07:53:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
@@ -19,13 +18,13 @@ Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
 
 Discord ist erwünscht, aber keine Pflicht.
 ```
-### [Discord](https://discord.gg/kPuseCu4RE)
+<br>### [Discord](https://discord.gg/kPuseCu4RE)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1348 🔻  (106)|
-| ELO Competitive | 1478 🔻  (86)|
+| ELO Competitive | 1478 🔻  (87)|
 | Total Matches | 85 |
 | Wins | 62 |
 | Losses | 22 |

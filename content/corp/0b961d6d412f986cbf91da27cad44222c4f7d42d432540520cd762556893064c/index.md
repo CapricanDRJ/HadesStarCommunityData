@@ -2,14 +2,13 @@
 title: ​Space Marine
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 8 - 28 Madison Holding
 date: 2023-11-04T22:01:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <size=70><b>  
@@ -19,7 +18,7 @@ date: 2023-11-04T22:01:47.000Z
 </b></size><size=48>
    Main corp of the SPACE LEGENDS federation</color></size>
 ```
-### [Discord](https://discord.gg/63DZYSc)
+<br>### [Discord](https://discord.gg/63DZYSc)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

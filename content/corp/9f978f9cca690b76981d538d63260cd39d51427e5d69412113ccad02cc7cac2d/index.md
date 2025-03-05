@@ -2,6 +2,7 @@
 title: ​Soylent Corp.
 description: W:26 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 41 - 3 云浪山庄↕
 date: 2024-10-02T17:10:33.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-10-02T17:10:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are BSO, the oldest and largest conglomerate in HS!   BlackStar Or
 der, Final, TS, UG, AN, Dau, Proph, Soy, BSO Acad & Obs.  Working tog
 ether to excel!
 ```
-### [Discord](https://discord.gg/YTaYrhy)
+<br>### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔺  (240)|
+| ELO Regular | 1261 🔺  (239)|
 | ELO Competitive | 1322 🔺  (256)|
 | Total Matches | 41 |
 | Wins | 26 |

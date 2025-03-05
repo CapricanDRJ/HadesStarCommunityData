@@ -2,6 +2,7 @@
 title: ​Galaxians
 description: W:25 L:39 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 7 - 1 Alpha 
 date: 2025-03-04T20:40:06.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-04T20:40:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Small but perfectly formed English speaking Corp seeks experienced ac
 tive players wanting to grow.White Star⚪ on Thursdays.
 ```
-### [Discord](https://discord.gg/Hc9hVMCcMT)
+<br>### [Discord](https://discord.gg/Hc9hVMCcMT)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

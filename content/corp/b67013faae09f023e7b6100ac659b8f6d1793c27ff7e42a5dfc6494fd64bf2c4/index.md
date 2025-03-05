@@ -2,6 +2,7 @@
 title: ​德意志阿尔法帝国
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 10 Anarchy Nation 
 date: 2024-08-05T00:00:17.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-05T00:00:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#97F3DA><b>欢迎加入！让我们共同建设这片星河吧！</b>集团送7级神器！ 分团:德意志奥米加帝国、阿尔法帝国 只有三位首席可操作旗舰，违反者降职 首席:mars 童年 代理首席:不威水 过90级升干事 不可随意踢人 友盟：春城阳关、STRVS223～、边界 <color=red><b>黑名单:家园星系(来了就踢)</b></color>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

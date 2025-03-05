@@ -2,14 +2,13 @@
 title: ​Simply Uranus
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Sprite
 date: 2024-07-11T20:49:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Keeping it in the family since 2017! 
@@ -19,7 +18,7 @@ The thrust to your ship.
 
 A Space Family :)
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

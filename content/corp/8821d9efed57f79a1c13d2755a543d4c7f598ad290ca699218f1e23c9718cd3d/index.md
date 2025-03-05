@@ -2,14 +2,13 @@
 title: ​小红色太阳
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 3 逐光起航
 date: 2024-08-10T06:53:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 小红色太阳——红色太阳的分团
@@ -18,7 +17,7 @@ date: 2024-08-10T06:53:01.000Z
 黑名单：太阳系帝国
 阶级分化：20级以下为成员，20级至70级为高级成员，70级以上则为干事
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

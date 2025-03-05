@@ -2,6 +2,7 @@
 title: ​GDZ
 description: W:50 L:43 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 10 - 48 Auscorp 
 date: 2025-02-27T00:36:12.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-27T00:36:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 “Gloria Dominatio Zelus” Under a black flag we sail.
 ```
-### [Discord](https://discord.gg/3Kn48fX)
+<br>### [Discord](https://discord.gg/3Kn48fX)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

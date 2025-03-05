@@ -2,6 +2,7 @@
 title: ​русь 
 description: W:86 L:44 D:0 Bonus ✅ 54%
 image: ./favicon.png
+Summary: ✅ 47 - 15 Кулак
 date: 2025-03-01T04:14:48.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T04:14:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=50>Без политоты!Discord или Телеграм https://t.me/pycb_rs_hs о
 бязателен для вступления.
 ```
-### [Discord](https://discord.gg/bjmmfFx)
+<br>### [Discord](https://discord.gg/bjmmfFx)
 ### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |

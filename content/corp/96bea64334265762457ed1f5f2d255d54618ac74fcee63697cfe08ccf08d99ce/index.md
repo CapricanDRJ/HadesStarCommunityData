@@ -2,6 +2,7 @@
 title: ​FreeSpcAlliance
 description: W:3 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 9 - 11 Revólver
 date: 2023-12-16T15:56:29.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2023-12-16T15:56:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=85><color=#ff8833>Free Space</color> <color=#48ff33><b>Alliance
 </b></color></size>
 Supportive community. Regular WS and RS. If u join us for WS, discord
  is required.  https://discord.gg/wVGNEvv
 ```
-### [Discord](https://discord.gg/wVGNEvv)
+<br>### [Discord](https://discord.gg/wVGNEvv)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​ 边域
 description: W:8 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 1 - 0 The Witness
 date: 2025-02-24T02:51:50.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-24T02:51:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位萌新加入。
 ```
-### [Discord](https://discord.gg/JXaTpU9Q)
+<br>### [Discord](https://discord.gg/JXaTpU9Q)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

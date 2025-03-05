@@ -2,6 +2,7 @@
 title: ​S.U.N
 description: W:6 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 11 Blazing Stars
 date: 2025-03-01T10:21:49.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-01T10:21:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

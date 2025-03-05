@@ -2,14 +2,13 @@
 title: ​Battle Academy
 description: W:5 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 25 - 1 DeutschlandGmbH
 date: 2024-11-17T16:03:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Become an elite White Star warrior
@@ -22,7 +21,7 @@ Code 3A9WHQV
 Part of the group known as <color=#c4ff00>SPACE PALS<color=#111100><
 color=#111100><b></b></color>
 ```
-### [Discord](https://discord.gg/3A9WHQV)
+<br>### [Discord](https://discord.gg/3A9WHQV)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

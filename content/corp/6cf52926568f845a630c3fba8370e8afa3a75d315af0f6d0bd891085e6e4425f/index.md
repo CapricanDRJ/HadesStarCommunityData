@@ -2,6 +2,7 @@
 title: ​Antioch
 description: W:10 L:26 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 25 星を継ぐもの
 date: 2025-01-12T07:03:51.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-12T07:03:51.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 THE CYDONIAN EMPIRE™       Seeking 3 WS pilots, RS7,8,9 arts to new a
 ctive pilots. 
 ```
-### [Discord](https://discord.gg/xtHV8rkkAT)
+<br>### [Discord](https://discord.gg/xtHV8rkkAT)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

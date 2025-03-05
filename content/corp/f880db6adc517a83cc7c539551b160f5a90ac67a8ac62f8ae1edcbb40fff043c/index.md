@@ -2,6 +2,7 @@
 title: ​莫比乌斯-星环
 description: W:0 L:7 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 2 - 15 FoxTale
 date: 2025-02-27T09:03:31.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-27T09:03:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

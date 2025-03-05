@@ -2,6 +2,7 @@
 title: ​The Fracture
 description: W:0 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 10 - 23 The Seperatists
 date: 2024-03-20T01:58:57.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-20T01:58:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Relaxed and friendly. We encourage growth, enjoyment and teamwork. Re
 ach out if you need assistance. Malice not tolerated.
 ```
-### [Discord](https://discord.gg/P9ruZgaZBJ)
+<br>### [Discord](https://discord.gg/P9ruZgaZBJ)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

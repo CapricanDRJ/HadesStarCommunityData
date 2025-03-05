@@ -2,6 +2,7 @@
 title: ​Imperium
 description: W:11 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 11 星落苑
 date: 2024-12-23T13:32:39.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-23T13:32:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 From the very beginning, Imperium corporation has charted a course fo
 r growth and success. And to grow even bigger we are looking for all 
 type of stars veterans and beginners. International.
 ```
-### [Discord](https://discord.gg/YNfwuam6Wh)
+<br>### [Discord](https://discord.gg/YNfwuam6Wh)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​第三舰队
 description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 6 - 40 AFronteiraFinal
 date: 2024-10-22T11:30:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#0080FF>第三舰队【The Third Fleet】于2022-6-18宣布建立</color>
@@ -19,7 +18,7 @@ date: 2024-10-22T11:30:34.000Z
 盟团:太阳系联邦
 企鹅（Q）群:<a>865904780</a>
 ```
-### [Discord](https://discord.gg/？)
+<br>### [Discord](https://discord.gg/？)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

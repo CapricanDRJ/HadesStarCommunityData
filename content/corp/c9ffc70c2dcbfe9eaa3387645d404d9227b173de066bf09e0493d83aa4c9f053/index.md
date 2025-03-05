@@ -2,6 +2,7 @@
 title: ​Лютые
 description: W:20 L:11 D:1 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 20 - 10 The Foundation
 date: 2025-03-04T03:08:23.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T03:08:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
-### [Discord](https://discord.gg/https://t.me/Lyutyee)
+<br>### [Discord](https://discord.gg/https://t.me/Lyutyee)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

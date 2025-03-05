@@ -2,6 +2,7 @@
 title: ​CommCody & LPA
 description: W:13 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 3 - 53 Hand Of NOD\! 
 date: 2024-04-07T05:10:17.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-04-07T05:10:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=60>Commander Cody and the Lost Planet Airmen</size> ... a rovin
 g band of misfits pilaging Hades Star's booty.<color="blue"></color> 
 Interested in our alliance RSR?  Discord   Link below
 ```
-### [Discord](https://discord.gg/r66hPREZUW)
+<br>### [Discord](https://discord.gg/r66hPREZUW)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

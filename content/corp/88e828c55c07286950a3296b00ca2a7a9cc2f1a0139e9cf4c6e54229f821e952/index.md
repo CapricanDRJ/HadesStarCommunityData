@@ -2,6 +2,7 @@
 title: ​使命白星
 description: W:15 L:13 D:2 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 26 星际公约组织
 date: 2025-02-18T03:24:26.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-18T03:24:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名
 单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。<size=700><color=red>集团睡觉了
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

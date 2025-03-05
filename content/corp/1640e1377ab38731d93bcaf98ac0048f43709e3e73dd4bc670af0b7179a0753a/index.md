@@ -2,14 +2,13 @@
 title: ​遨游星空
 description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 6 Dark Halo
 date: 2024-09-27T01:02:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎来到遨游星空，本集团提供私人红巨星带打，低价神器交易的服务，萌新也可入住。
@@ -19,7 +18,7 @@ date: 2024-09-27T01:02:12.000Z
 discord：https://discord.gg/BQkbAHaGj4
 <size=64><color=red>如有意向参加白星可加入q群并前往分盟</color></size>
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​The Star League
 description: W:8 L:16 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 37 - 53 Stargate Corp
 date: 2025-02-22T14:45:06.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-22T14:45:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to <color=yellow><b>The Star League</b></color>: active <colo
 r=red>Red Star 9-12</color> and competitive <color=white>White Star</
 color> focus.
 ```
-### [Discord](https://discord.gg/2cEAstZ)
+<br>### [Discord](https://discord.gg/2cEAstZ)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Free Star
 description: W:5 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 4 AlyTec Sys\.
 date: 2025-03-01T15:12:22.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T15:12:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 🔰<color=yellow>Free Star Corporation</color>, once strong, now weak.
  We must create a new empire🔰
 ```
-### [Discord](https://discord.gg/ZZb34hh2dk)
+<br>### [Discord](https://discord.gg/ZZb34hh2dk)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​VALLKIRIA
 description: W:3 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 28 - 2 佛矿寺
 date: 2024-03-06T05:42:36.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2024-03-06T05:42:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 донат флагмана запрещен!
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (322)|
+| ELO Regular | 1238 🔺  (321)|
 | ELO Competitive | 1240 🔺  (459)|
 | Total Matches | 3 |
 | Wins | 3 |

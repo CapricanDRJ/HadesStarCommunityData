@@ -2,6 +2,7 @@
 title: ​Revólver
 description: W:13 L:24 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 4 - 16 Red Dawn
 date: 2025-02-12T23:17:04.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-12T23:17:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=50><b><color=white>Navegar es necesario. <size=50><b><color=red
 >Vivir no lo es
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

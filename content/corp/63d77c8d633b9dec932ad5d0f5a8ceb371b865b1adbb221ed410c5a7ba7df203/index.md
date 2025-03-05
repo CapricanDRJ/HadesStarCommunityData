@@ -2,6 +2,7 @@
 title: ​Cerulean Star
 description: W:36 L:19 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 35 - 16 IMPERIAL ARMADA
 date: 2025-02-28T05:39:02.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-28T05:39:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=80>€erulean</color><color=red>§tar</color></size></b> got we
 ekly WS, Dark Star help, guides & advice, democratic atmosphere and f
 riendly community. <b>Must Join Discord</b> 
 ```
-### [Discord](https://discord.gg/Bc8e4RxtnJ)
+<br>### [Discord](https://discord.gg/Bc8e4RxtnJ)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1397 🔺  (62)|
-| ELO Competitive | 1477 🔺  (87)|
+| ELO Regular | 1397 🔺  (64)|
+| ELO Competitive | 1477 🔺  (88)|
 | Total Matches | 55 |
 | Wins | 36 |
 | Losses | 19 |

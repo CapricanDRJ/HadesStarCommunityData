@@ -2,6 +2,7 @@
 title: ​脉冲星际集团
 description: W:29 L:29 D:3 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ↔️ 2 - 2 ⭐PRETORIANS\.X⭐
 date: 2024-12-18T01:05:08.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-12-18T01:05:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=70><color=green>欢迎加入全新的<color=red>脉冲星际集团</size></color></color>
 请捐旗舰
 ```
-### [Discord](https://discord.gg/maib)
+<br>### [Discord](https://discord.gg/maib)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (1136)|
-| ELO Competitive | 1292 🔻  (315)|
+| ELO Competitive | 1292 🔻  (314)|
 | Total Matches | 61 |
 | Wins | 29 |
 | Losses | 29 |

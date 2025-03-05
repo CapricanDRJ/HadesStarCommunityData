@@ -2,14 +2,13 @@
 title: ​Imperio Tortuga
 description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 5 - 0 KARI
 date: 2023-11-23T07:45:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=red>░▄▄▄▄░
@@ -19,7 +18,7 @@ date: 2023-11-23T07:45:19.000Z
 ▒▄████▀▀</color>
 
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Snowflake Union
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 7 阿尔特拉太空港
 date: 2024-09-24T10:36:06.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-24T10:36:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

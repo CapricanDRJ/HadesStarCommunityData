@@ -2,6 +2,7 @@
 title: ​Shadow Lords
 description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 45 White Dwarf
 date: 2025-01-06T17:34:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-06T17:34:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 In our strategic yet laid-back corporation, we come together to illum
 inate the cosmos and conquer the void.  Mission…Domination of Red And
  White Stars!  We Are..SHADOW LORDS🌒
 ```
-### [Discord](https://discord.gg/https://discord.gg/nfj46pCB)
+<br>### [Discord](https://discord.gg/https://discord.gg/nfj46pCB)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

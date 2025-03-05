@@ -2,6 +2,7 @@
 title: ​Enigma
 description: W:5 L:12 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 3 - 24 Equinox
 date: 2024-04-07T16:46:23.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-07T16:46:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <i>„Alles was ich kenne ist Logik." ~ Mr. Spock</i> Aufbau- und Zweit
 -Konzern von Terranova
 ```
-### [Discord](https://discord.gg/8UCeWAHxKA)
+<br>### [Discord](https://discord.gg/8UCeWAHxKA)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

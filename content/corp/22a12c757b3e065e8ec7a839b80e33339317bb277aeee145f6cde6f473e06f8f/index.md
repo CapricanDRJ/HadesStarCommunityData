@@ -2,6 +2,7 @@
 title: ​V0RTEX
 description: W:10 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 1 - 3 한국인
 date: 2024-04-08T17:23:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-04-08T17:23:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Be active in WS. Grow 500 power each week. Donate 10k daily to Flagsh
 ip. Join Discord for communication purposes. Zero tolerance policy fo
 r zero communication.
 ```
-### [Discord](https://discord.gg/https://discord.gg/waZppQMM)
+<br>### [Discord](https://discord.gg/https://discord.gg/waZppQMM)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

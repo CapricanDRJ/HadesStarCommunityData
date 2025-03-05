@@ -2,14 +2,13 @@
 title: ​Спутник
 description: W:36 L:12 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 29 - 34 русь 
 date: 2024-12-28T05:08:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Корпорация СПУТНИК КЗ 7-11, БЗ
@@ -20,7 +19,7 @@ t.me/CorpSputnik
 Сюда заходить на кз для помощи.
 Телеграмм: t.me/soyuz_academy
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

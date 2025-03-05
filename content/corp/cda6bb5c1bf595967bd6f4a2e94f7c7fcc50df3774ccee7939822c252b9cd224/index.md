@@ -2,6 +2,7 @@
 title: ​萌新集团
 description: W:8 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
+Summary: ❌ 2 - 12 The Syndicate 
 date: 2025-03-04T11:44:06.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-03-04T11:44:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (222)|
+| ELO Regular | 1269 🔻  (221)|
 | ELO Competitive | 1282 🔻  (342)|
 | Total Matches | 11 |
 | Wins | 8 |

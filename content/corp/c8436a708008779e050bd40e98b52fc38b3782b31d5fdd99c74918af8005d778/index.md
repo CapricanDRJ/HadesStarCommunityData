@@ -2,6 +2,7 @@
 title: ​Dirty Minds Inc
 description: W:5 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 27 Nox Imperium
 date: 2024-12-06T18:54:24.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-06T18:54:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Keep them thoughts clean 😉 and eyes on the screen as Lady WhiteStar 
 requires your full attention 🍆as she can be lot to handle and more �
 �. So come join the team and have some fun along the way. 
 ```
-### [Discord](https://discord.gg/dYPKQpGa7s)
+<br>### [Discord](https://discord.gg/dYPKQpGa7s)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

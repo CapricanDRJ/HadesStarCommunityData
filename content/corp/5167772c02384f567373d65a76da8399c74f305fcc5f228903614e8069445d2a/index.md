@@ -2,6 +2,7 @@
 title: ​Spiritic Beacon
 description: W:5 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 8 ES Gaming 
 date: 2024-02-12T22:12:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-12T22:12:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 It's official branch of PAndORe Corp., more information in discord. S
 ince 20 lvl - old membership, since 35 lvl - officer's membership (ex
 cept 1st twenty members)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/sdxrxgrEqQ)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/sdxrxgrEqQ)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

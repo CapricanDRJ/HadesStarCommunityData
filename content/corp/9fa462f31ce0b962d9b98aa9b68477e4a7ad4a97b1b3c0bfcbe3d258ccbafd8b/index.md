@@ -2,6 +2,7 @@
 title: ​新兴帝国
 description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 17 Paramedic ICU
 date: 2024-03-21T19:57:58.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-21T19:57:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 帝国的强盛由成员们缔造The strength of the empire is created by its members！招人打白，
 帝国分部帝森舰队已建立，帝国满员后可以去往分部
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

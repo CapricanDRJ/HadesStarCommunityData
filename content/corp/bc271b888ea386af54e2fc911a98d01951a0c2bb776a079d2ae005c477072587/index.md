@@ -2,14 +2,13 @@
 title: ​Sternenbund
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 3 t 72 SwiftKey F
 date: 2023-11-09T23:14:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Der Sternenbund sucht neue Verbündete! Tretet bei und baut zusammen e
@@ -19,7 +18,7 @@ Jeder Spieler ist willkommen:)
 Auf geht's!!
 (Line ID: Baraethelion)
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

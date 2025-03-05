@@ -2,6 +2,7 @@
 title: ​Kelebra
 description: W:24 L:25 D:1 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 12 - 4 Star Blazers
 date: 2025-03-04T22:55:19.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T22:55:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Допоможемо відкрити модулі які потребують артефактів 5-8 рівня. За по
 хід на білу зірку ви отримаєте +26% до артефактів. В чаті спілкування
  українською мовою.
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

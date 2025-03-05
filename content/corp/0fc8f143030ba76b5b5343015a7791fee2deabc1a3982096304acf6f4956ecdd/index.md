@@ -2,6 +2,7 @@
 title: ​Karanth Corp.
 description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 1 - 53 Nearland Ind
 date: 2023-12-08T11:04:57.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-08T11:04:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz disco
 rd.
 ```
-### [Discord](https://discord.gg/9EdXH7jF)
+<br>### [Discord](https://discord.gg/9EdXH7jF)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

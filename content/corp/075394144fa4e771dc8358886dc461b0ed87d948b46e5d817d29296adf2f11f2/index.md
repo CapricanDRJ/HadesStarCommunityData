@@ -2,6 +2,7 @@
 title: ​СНГ — РОССИЯ
 description: W:6 L:9 D:3 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 3 - 2 Eastern Front
 date: 2025-02-19T03:46:45.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-19T03:46:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 БУДУ РАД ВСЕМ.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

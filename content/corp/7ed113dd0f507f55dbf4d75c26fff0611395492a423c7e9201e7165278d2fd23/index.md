@@ -2,6 +2,7 @@
 title: ​Panda clan 
 description: W:5 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 35 - 16 Españoles
 date: 2025-02-13T20:29:13.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-13T20:29:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>The Corp Alliance of Oceania Alliance</b>
 <color=green>Open to All Levels.</color>
 <color=yellow>English Speakers, Friendly and Chill.</color>
 OA's Discord: https://discord.gg/2wyNuxb
 ```
-### [Discord](https://discord.gg/ZhF2Npys6N)
+<br>### [Discord](https://discord.gg/ZhF2Npys6N)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (320)|
+| ELO Regular | 1238 🔺  (319)|
 | ELO Competitive | 1247 🔺  (437)|
 | Total Matches | 8 |
 | Wins | 5 |

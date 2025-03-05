@@ -2,6 +2,7 @@
 title: ​The Goonies
 description: W:3 L:7 D:2 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 38 Newbs
 date: 2025-01-07T14:11:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-07T14:11:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color="red">Goonies Never Say Die</color> We're active (give or take
  a few members), organised (just check our WS wins yo!) & friendly (y
 ’all come back)Alliance with: 7SinS, Galaxia. Discord Require
 ```
-### [Discord](https://discord.gg/U8yKTks)
+<br>### [Discord](https://discord.gg/U8yKTks)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

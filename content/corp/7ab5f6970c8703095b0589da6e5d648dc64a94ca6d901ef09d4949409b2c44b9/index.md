@@ -2,6 +2,7 @@
 title: ​游徒之家
 description: W:15 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 11 47підрозділССП
 date: 2025-02-04T07:55:38.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-04T07:55:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<color=green>现在，我们正在开展神器支援计划，以提高萌新们
 的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</color>   集团qq:149662951          
 <size=150>           捐旗舰二       注意用语文明
 ```
-### [Discord](https://discord.gg/gagagaaaa)
+<br>### [Discord](https://discord.gg/gagagaaaa)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

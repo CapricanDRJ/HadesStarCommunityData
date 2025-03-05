@@ -2,6 +2,7 @@
 title: ​落雨观花
 description: W:18 L:15 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 10 Eastern Front
 date: 2025-01-09T15:26:45.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-09T15:26:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#FA9400>落雨观花 你永远的避风港 开学不踢红点        本团每周三晚开白 欢迎大佬和萌新们加入！             
 常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                
                       常驻请加qq：598692654
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

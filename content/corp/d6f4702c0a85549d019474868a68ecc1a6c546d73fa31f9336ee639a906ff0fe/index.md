@@ -2,6 +2,7 @@
 title: ​Equinox
 description: W:9 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 11 imperio estelar
 date: 2025-01-24T13:30:06.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-01-24T13:30:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Totally new corporation. Your experience or level is unimportant.  It
 's your commitment to grow and become stronger that is paramount. No 
 deadline though. We all do what we do when we do it...
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔻  (204)|
-| ELO Competitive | 1293 🔻  (312)|
+| ELO Competitive | 1293 🔻  (311)|
 | Total Matches | 11 |
 | Wins | 9 |
 | Losses | 2 |

@@ -2,6 +2,7 @@
 title: ​Weyland Yutani 
 description: W:12 L:25 D:3 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 3 永恒之梦
 date: 2024-08-21T03:28:48.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-21T03:28:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 enter if you have ws scanner
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

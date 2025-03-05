@@ -2,6 +2,7 @@
 title: ​Pirates
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 26 リリース
 date: 2024-09-15T23:22:18.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-15T23:22:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Confédération francophone, Notre équipe conviviale a pour but de prog
 resser ensemble et de s'entraider, pour le reste... Pirates! Forum: p
 irates-hades.xoo.it
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

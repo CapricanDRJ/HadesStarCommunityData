@@ -2,14 +2,13 @@
 title: ​Red Noobs
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 13 TeddisaurusWrex
 date: 2023-12-10T03:14:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=red><size=90>Join us now!</size></color>
@@ -20,7 +19,7 @@ We welcome all players no matter what level!
 
 Discord:<color=#3c78d8>pECD6CY</color>
 ```
-### [Discord](https://discord.gg/pECD6CY)
+<br>### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

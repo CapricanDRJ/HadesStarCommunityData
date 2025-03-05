@@ -2,6 +2,7 @@
 title: ​SONS OF SUNS
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Nebula alliance
 date: 2024-11-01T09:13:50.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-01T09:13:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Casual, carefree, we'll get there when we get there just be active  (
 we are actively recruiting, if you dont play- you dont stay) 
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

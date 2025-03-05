@@ -2,6 +2,7 @@
 title: ​Tortuga Station
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 15 Star Blazers
 date: 2023-11-25T22:52:21.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-11-25T22:52:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Multi corporation for all members of corps who are allied( daily play
 ers only) rest in main corps to build
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Black Mirror Co
 description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 7 - 26 LossFarm No\.648
 date: 2023-12-10T13:15:21.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2023-12-10T13:15:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#d7342a>Retired corporation of the<b> Spacefleet Alliance</b><
 /color>
 
 Find us on Discord:<b>EEpZuWf</b>
 ```
-### [Discord](https://discord.gg/EEpZuWf)
+<br>### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

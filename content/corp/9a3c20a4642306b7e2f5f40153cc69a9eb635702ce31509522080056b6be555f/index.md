@@ -2,14 +2,13 @@
 title: ​Covenant
 description: W:0 L:2 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 26 GDZ
 date: 2023-11-16T17:36:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Que el mundo sepa que somos peligrosos. Somos leones, y los leones no
@@ -18,7 +17,7 @@ Que el mundo sepa que somos peligrosos. Somos leones, y los leones no
 ▪︎WhatsApp obligatorio para EB
 ▪Si buscas pelea, esta es tu corp
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

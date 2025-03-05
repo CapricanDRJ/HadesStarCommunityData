@@ -2,6 +2,7 @@
 title: ​From the Fire
 description: W:2 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 13 Germania
 date: 2025-01-30T12:23:53.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-30T12:23:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The lowest inactive member will be kicked out of corporation when a n
 ew member is joined.
 ```
-### [Discord](https://discord.gg/WpMYj74cJp)
+<br>### [Discord](https://discord.gg/WpMYj74cJp)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Ws Polaris
 description: W:4 L:14 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 6 - 2 Север РусКорп
 date: 2024-08-09T14:16:26.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-08-09T14:16:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Langage, Français, English, Espagñol...Regular Ws. Discord in the des
 cription 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/SrTthfg3)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/SrTthfg3)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔺  (1314)|
+| ELO Regular | 1110 🔺  (1313)|
 | ELO Competitive | 1119 🔺  (1376)|
 | Total Matches | 20 |
 | Wins | 4 |

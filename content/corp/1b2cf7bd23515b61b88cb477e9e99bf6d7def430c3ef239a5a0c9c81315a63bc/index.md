@@ -2,6 +2,7 @@
 title: ​德尔塔星舰联盟
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 4 - 8 Eretria 
 date: 2024-07-14T15:31:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-07-14T15:31:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位大佬新手们加入本团<br>集团成立于2024.6.29<br><br>与“中国星际联盟”合作<br>常驻请加群QQ群号709972
 464<br>首席:超级爱天文的<br><br>福利：每周五、六、日和节假日可找首席要神器（最高r8）<br><br>规则:<br>严禁说
 不良语言<br>7天闲置容忍，见红点必踢<br> <br>本集团急需招人，有意者加入，萌新最好找首席领神器，可快速发展
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

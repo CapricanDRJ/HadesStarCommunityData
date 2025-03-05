@@ -2,14 +2,13 @@
 title: ​Blood Brigade
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 3 - 29 BrazilCorp\.
 date: 2024-11-14T03:29:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><size=99><color=#990000>Blood Brigade</color></size></b>
@@ -18,7 +17,7 @@ Weekly white star.
 Discord Mandatory.
 <color=#FF0000>discord.gg/JsmNexdvXv</color>
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​AlyTec Sys.
 description: W:9 L:15 D:1 Bonus ✅ 32%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Cerberus
 date: 2025-03-01T16:27:30.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T16:27:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corporation dedicated to develop advanced systems and explore the uni
 verse. The most advanced tactics for war and exploration of Red Dwarf
 s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
 ### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |

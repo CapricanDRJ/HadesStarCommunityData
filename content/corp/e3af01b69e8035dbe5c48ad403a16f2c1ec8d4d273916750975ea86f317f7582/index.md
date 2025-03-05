@@ -2,14 +2,13 @@
 title: ​Rogue Dudes
 description: W:2 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 5 - 0 企鹅帝国
 date: 2024-07-15T04:16:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Welcome to Rogue dudes
@@ -21,7 +20,7 @@ Discord:https://discord:gg/HA83rt6E
 MAIN=SENIOR MEMBER
 ALT=NO PROMOTION
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

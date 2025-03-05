@@ -2,14 +2,13 @@
 title: ​Lacuna Ind.
 description: W:10 L:33 D:2 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 16 СССР
 date: 2025-02-28T06:14:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>Lacuna Group's</b> home for RS 9-12
@@ -18,7 +17,7 @@ RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 ```
-### [Discord](https://discord.gg/discord.gg/BFfSkvu)
+<br>### [Discord](https://discord.gg/discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

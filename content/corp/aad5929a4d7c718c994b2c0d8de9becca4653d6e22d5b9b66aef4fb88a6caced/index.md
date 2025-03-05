@@ -2,14 +2,13 @@
 title: ​Space Invaders
 description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
+Summary: ↔️ 0 - 0 U\.P\.E
 date: 2024-12-15T15:18:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 A estalagem do fim do mundo.
@@ -19,7 +18,7 @@ A estalagem do fim do mundo.
 mas fica à vontade, pega o que sobrou de cerveja e aproveita o bônus 
 de artefatos ∆
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

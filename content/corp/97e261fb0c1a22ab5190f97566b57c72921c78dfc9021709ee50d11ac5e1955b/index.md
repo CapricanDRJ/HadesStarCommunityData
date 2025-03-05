@@ -2,6 +2,7 @@
 title: ​Air/Free_ziyou
 description: W:8 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ✅ 5 - 0 koalition
 date: 2025-02-17T15:13:13.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-17T15:13:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (236)|
-| ELO Competitive | 1290 🔺  (321)|
+| ELO Regular | 1262 🔺  (235)|
+| ELO Competitive | 1290 🔺  (320)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 3 |

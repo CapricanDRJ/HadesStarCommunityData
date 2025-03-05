@@ -2,6 +2,7 @@
 title: ​分子集团
 description: W:4 L:7 D:0 Bonus ✅ 30%
 image: ./favicon.png
+Summary: ✅ 3 - 0 以太超星团
 date: 2025-02-28T02:58:48.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T02:58:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
   <color=green>[分子构建物质的基础，赋予了世界的意义] 首席：zyx 代理首席：丹参川芎（China） 天冰   黑名单：
 （瓜老板），（白芷），（瓜老板？世），（瓜摊爷）  萌新加入可自选一个r六神器（提醒我或副首席）举报瓜老板混入集团送神器（首席和副首席所有
 最高级神器），乱举报踢出 首席周末才在 （建议周四晚上开白）打白不得违抗首席和副首席的命令！ 友团：昙花一现
 ```
-### Whitestar Bonus ✅ 30%
+<br>### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |

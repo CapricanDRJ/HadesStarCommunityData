@@ -2,6 +2,7 @@
 title: ​PDC
 description: W:14 L:7 D:3 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 5 阿尔特拉太空港
 date: 2024-10-06T11:28:54.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-10-06T11:28:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本集团全名PDC联合集团，团员务必遵守集团规定。主团：元素联邦                 有困难互帮互助，白星尽力参加，(只带活人)
 25级高级成员，视情况干事
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (274)|
+| ELO Regular | 1249 🔻  (273)|
 | ELO Competitive | 1267 🔻  (381)|
 | Total Matches | 24 |
 | Wins | 14 |

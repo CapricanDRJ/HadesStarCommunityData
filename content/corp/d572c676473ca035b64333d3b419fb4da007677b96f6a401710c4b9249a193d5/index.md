@@ -2,6 +2,7 @@
 title: ​Укр інтроверти
 description: W:1 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 20 青丘湖
 date: 2025-02-04T11:52:38.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-04T11:52:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 лише інтроверти і лише живі, серед українських- найдоступніший для те
 бе, якщо ти адекват (прийом в п'ятницю)
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1317)|
+| ELO Regular | 1109 🔻  (1316)|
 | ELO Competitive | 1117 🔻  (1386)|
 | Total Matches | 10 |
 | Wins | 1 |

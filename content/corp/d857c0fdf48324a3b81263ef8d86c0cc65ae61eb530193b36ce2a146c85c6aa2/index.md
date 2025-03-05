@@ -2,6 +2,7 @@
 title: ​Nooooobs
 description: W:2 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 35 Legion Prime
 date: 2024-01-13T21:36:01.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-13T21:36:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#3c78d8><size=90>Join us now!</size></color>
 ```
-### [Discord](https://discord.gg/pECD6CY)
+<br>### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

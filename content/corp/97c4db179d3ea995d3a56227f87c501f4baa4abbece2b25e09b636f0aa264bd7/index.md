@@ -2,6 +2,7 @@
 title: ​BoomTech
 description: W:23 L:9 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 5 - 11 萌新港\(大佬港\)
 date: 2024-09-14T11:43:42.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-14T11:43:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are a corporation where we help each other to do more together. Ne
 w white star search every Monday. Discord optional
 ```
-### [Discord](https://discord.gg/tF9fNMwh2E)
+<br>### [Discord](https://discord.gg/tF9fNMwh2E)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

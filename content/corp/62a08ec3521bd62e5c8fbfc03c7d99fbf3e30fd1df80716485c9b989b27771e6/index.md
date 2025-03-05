@@ -2,6 +2,7 @@
 title: ​The Watchers
 description: W:14 L:16 D:0 Bonus ❌ 16%
 image: ./favicon.png
+Summary: ❌ 6 - 32 Continuum
 date: 2025-01-26T16:10:10.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-01-26T16:10:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=yellow>One of the oldest corps in Hades. Some of the greatest 
 WS pilots in the game owe their pedigree to Watchers-I and now we are
  back under the auspices of Stargate Command. 
 ```
-### [Discord](https://discord.gg/wNhSPbUyNT)
+<br>### [Discord](https://discord.gg/wNhSPbUyNT)
 ### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (572)|
-| ELO Competitive | 1287 🔻  (329)|
+| ELO Competitive | 1287 🔻  (328)|
 | Total Matches | 30 |
 | Wins | 14 |
 | Losses | 16 |

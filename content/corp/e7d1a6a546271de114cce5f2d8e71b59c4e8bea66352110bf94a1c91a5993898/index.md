@@ -2,6 +2,7 @@
 title: ​SALTARDIS
 description: W:2 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 25 Wompwompway 
 date: 2024-01-24T04:01:06.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-24T04:01:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 This corporation is no longer active.
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

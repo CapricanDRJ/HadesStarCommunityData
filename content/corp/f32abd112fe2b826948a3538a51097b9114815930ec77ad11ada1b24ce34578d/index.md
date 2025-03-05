@@ -2,6 +2,7 @@
 title: ​欢迎国人
 description: W:7 L:18 D:3 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 4 <•\|•\>
 date: 2024-12-08T04:44:54.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-12-08T04:44:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 只收中国人。每年必须要圣物。禁止骂人。活跃成员可赠送r7神器。
 
 ```
-### [Discord](https://discord.gg/1538)
+<br>### [Discord](https://discord.gg/1538)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

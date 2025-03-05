@@ -2,6 +2,7 @@
 title: ​Peak Extraction
 description: W:1 L:13 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 29 Galactic Empire
 date: 2024-05-08T17:07:27.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-05-08T17:07:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Following  the learning curve. Active participation is expected. Plea
 se turn off your White Star scanner if not participating
 
 Discord - https://discord.gg/ZUeGK83 (optional, not required)
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

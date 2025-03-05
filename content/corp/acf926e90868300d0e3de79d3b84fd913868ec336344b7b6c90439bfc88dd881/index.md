@@ -2,6 +2,7 @@
 title: ​Astrium Reborn
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 12 云霄宫
 date: 2024-10-06T16:55:09.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-06T16:55:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are Astrium Reborn! Looking for casual players who want to run sem
 i-regular WS and RS! 
 ```
-### [Discord](https://discord.gg/2tvBA63)
+<br>### [Discord](https://discord.gg/2tvBA63)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

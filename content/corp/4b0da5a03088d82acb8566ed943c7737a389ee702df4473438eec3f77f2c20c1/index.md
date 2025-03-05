@@ -2,6 +2,7 @@
 title: ​梨山养老院
 description: W:2 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 1 欢迎国人
 date: 2024-09-20T05:27:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-20T05:27:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=#00FF9F>Λ<color=yellow>V</color></color><color=white>梨山养老院<
 /color></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><color=yellow>允
 许捐旗舰!</color></size>              创立于8月1日
 ```
-### [Discord](https://discord.gg/lsyly)
+<br>### [Discord](https://discord.gg/lsyly)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

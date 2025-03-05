@@ -2,6 +2,7 @@
 title: ​tropa (BR)
 description: W:7 L:13 D:3 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Betelgeuse
 date: 2024-11-21T12:02:45.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-21T12:02:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Seja bem vindo, sinta-se em casa! Buscamos ajudar iniciantes e cuidar
  um do outro. Não há proibições, nem requisitos de idade, apenas que 
 seja {Brasileiro} e online!
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Rozen Family
 description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 1 titan tv
 date: 2024-02-28T19:32:42.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-28T19:32:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Кукумбер, груша, два кота
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/MhDzaS2P)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/MhDzaS2P)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

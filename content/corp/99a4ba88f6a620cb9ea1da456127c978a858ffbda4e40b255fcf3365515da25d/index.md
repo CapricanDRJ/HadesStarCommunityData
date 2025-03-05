@@ -2,6 +2,7 @@
 title: ​Industrial W.O
 description: W:43 L:34 D:3 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 3 - 15 Spaceballs
 date: 2025-02-25T20:18:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-25T20:18:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 All about the WhiteStars.  Independent corp with close knit players t
 rying there best. Players that don't help towards Whitestar will be r
 emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 ```
-### [Discord](https://discord.gg/QJASDtk4j7)
+<br>### [Discord](https://discord.gg/QJASDtk4j7)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

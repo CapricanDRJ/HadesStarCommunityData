@@ -2,14 +2,13 @@
 title: ​Dumpster Fire 2
 description: W:43 L:60 D:3 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 11 - 21 WinterComes
 date: 2025-03-02T15:09:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
    (\)＾／)/)/^(\ノ)
@@ -19,11 +18,11 @@ date: 2025-03-02T15:09:45.000Z
    \|_______________|™
 <b>Easy going Dumpster Fire with Discord—Free White Star</b>
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (1328)|
+| ELO Regular | 1106 🔻  (1327)|
 | ELO Competitive | 1234 🔻  (474)|
 | Total Matches | 106 |
 | Wins | 43 |

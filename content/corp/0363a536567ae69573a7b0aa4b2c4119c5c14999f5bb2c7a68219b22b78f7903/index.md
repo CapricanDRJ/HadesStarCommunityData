@@ -2,6 +2,7 @@
 title: ​Forces of Light
 description: W:16 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 33 The Foundation
 date: 2025-02-04T03:25:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-04T03:25:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a l
 os que nos necesiten y les daremos un ambiente comodo. | Existe un gr
 upo si deseas unirte solo consulta al primer oficial. 
 ```
-### [Discord](https://discord.gg/X6xAG8J9)
+<br>### [Discord](https://discord.gg/X6xAG8J9)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

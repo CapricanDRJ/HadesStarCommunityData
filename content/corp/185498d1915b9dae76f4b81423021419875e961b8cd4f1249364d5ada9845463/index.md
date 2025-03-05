@@ -2,6 +2,7 @@
 title: ​Бакланы
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 12 - 0 Сибиряки
 date: 2024-09-20T12:43:11.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-20T12:43:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Центр психологической поддержки после Голубых Звезд https://discord.g
 g/n4kzEbKs
 ```
-### [Discord](https://discord.gg/n4kzEbKs)
+<br>### [Discord](https://discord.gg/n4kzEbKs)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

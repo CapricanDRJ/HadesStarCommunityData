@@ -2,14 +2,13 @@
 title: ​uzumaki
 description: W:1 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 24 - 0 星光舰队
 date: 2024-07-25T00:47:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 REQUIREMENTS:
@@ -18,7 +17,7 @@ English speaking
 We do private rs
 Inactive players will be kicked out
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

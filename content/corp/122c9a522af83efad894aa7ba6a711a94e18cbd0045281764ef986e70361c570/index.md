@@ -2,14 +2,13 @@
 title: ​Caprica command
 description: W:4 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 19 星际联盟（中国）
 date: 2024-04-08T00:12:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Chill laid back corp looking for new and experienced players. Looking
@@ -18,7 +17,7 @@ We run a weekly WS scanning on Saturday.
 Discord:
 https://discord.gg/wvk5YXqa4y
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

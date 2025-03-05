@@ -2,6 +2,7 @@
 title: ​Divinity's End
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 7 - 27 Hexacropians
 date: 2024-07-16T01:24:52.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-07-16T01:24:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Dedicated to helping new and lower level players learn all aspects th
 e game and grow. Discord server linked below!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/NZqXs3FcKU)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/NZqXs3FcKU)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

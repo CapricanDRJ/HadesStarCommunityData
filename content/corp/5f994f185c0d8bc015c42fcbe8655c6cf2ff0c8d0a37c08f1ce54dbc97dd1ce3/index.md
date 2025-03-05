@@ -2,6 +2,7 @@
 title: ​Veil of Maya
 description: W:4 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 22 Quadra FR
 date: 2024-06-28T11:31:14.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-06-28T11:31:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bienvenido a Veil of Maya
 Hacemos EB semanal y hay muy buen rollo. Si quieres entrar haz solici
 tud por Discord y te aceptaremos encantados!
 https://discord.gg/nB2Nsukt7X
 ```
-### [Discord](https://discord.gg/https://discord.gg/nB2Nsukt7X)
+<br>### [Discord](https://discord.gg/https://discord.gg/nB2Nsukt7X)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

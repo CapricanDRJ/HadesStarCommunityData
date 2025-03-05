@@ -2,6 +2,7 @@
 title: ​星域 
 description: W:6 L:9 D:0 Bonus ✅ 30%
 image: ./favicon.png
+Summary: ❌ 1 - 24 Черный Легион
 date: 2025-03-04T09:50:02.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T09:50:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
-### Whitestar Bonus ✅ 30%
+<br>### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​Алый Феникс
 description: W:7 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 14 - 2 Kingdom Of Meow
 date: 2024-11-19T04:02:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <size=100>Наш дискорд:</size>
@@ -18,7 +17,7 @@ date: 2024-11-19T04:02:14.000Z
 02.11.2022
 Пытаемся почаще ходить к Белым Звёздам. Всем рады!
 ```
-### [Discord](https://discord.gg/EVvjFZfGEY)
+<br>### [Discord](https://discord.gg/EVvjFZfGEY)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

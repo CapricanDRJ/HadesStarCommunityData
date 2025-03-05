@@ -2,6 +2,7 @@
 title: ​U.Y.E.U.
 description: W:4 L:14 D:4 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 5 Lupus Regnum
 date: 2025-02-21T13:02:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-21T13:02:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限
 （除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русс
 кий，Español）
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

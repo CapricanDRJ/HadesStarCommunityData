@@ -2,6 +2,7 @@
 title: ​First Squad
 description: W:5 L:18 D:1 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 3 - 22 VoidRunners
 date: 2025-02-23T21:33:19.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-23T21:33:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 well... just join and give it a try. casual and idle is tolerated, ac
 tivity and participation very welcome
 ```
-### [Discord](https://discord.gg/Dtk4Pcg)
+<br>### [Discord](https://discord.gg/Dtk4Pcg)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

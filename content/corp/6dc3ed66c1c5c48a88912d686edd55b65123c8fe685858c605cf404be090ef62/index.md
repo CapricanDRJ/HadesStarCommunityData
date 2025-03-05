@@ -2,6 +2,7 @@
 title: ​Corp. Estelar 2
 description: W:12 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 8 - 15 IX Легион
 date: 2024-06-21T02:33:08.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-06-21T02:33:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=#00FFFF>Corp. Estelar 2 | AXOLOTLS</color></b><i><br><u><si
 ze=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
 ```
-### [Discord](https://discord.gg/YFqE6eAq43)
+<br>### [Discord](https://discord.gg/YFqE6eAq43)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

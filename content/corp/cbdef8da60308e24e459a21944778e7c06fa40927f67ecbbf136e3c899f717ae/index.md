@@ -2,6 +2,7 @@
 title: ​Disintegrators
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 9 C\.C Legion
 date: 2023-12-13T01:42:00.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-13T01:42:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome! If you're active, you'll be promoted fast. Also join our dis
 cord))
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

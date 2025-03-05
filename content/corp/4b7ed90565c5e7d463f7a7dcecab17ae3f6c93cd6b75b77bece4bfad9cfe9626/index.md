@@ -2,6 +2,7 @@
 title: ​ITA
 description: W:14 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 38 Space Penguins
 date: 2024-03-02T09:38:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-02T09:38:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Benvenuti in ITA! Main coorp RS7+                                    
               ~WS settimanali                                        
           ~Discord obbligatorio!                         
 ```
-### [Discord](https://discord.gg/TRXN76sqYC)
+<br>### [Discord](https://discord.gg/TRXN76sqYC)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Survivors
 description: W:4 L:15 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 17 Cydonia Order
 date: 2025-02-27T00:56:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T00:56:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Kill or be Killed. We as Survivors  have banded together to take on a
 ll enemy forces! We are a small, recently created group of determined
  people doing WS & having fun.
 ```
-### [Discord](https://discord.gg/https://discord.gg/JsfWnkf7)
+<br>### [Discord](https://discord.gg/https://discord.gg/JsfWnkf7)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

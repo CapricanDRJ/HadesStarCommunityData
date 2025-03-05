@@ -2,6 +2,7 @@
 title: ​Hornet
 description: W:0 L:0 D:1 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 情谊永存
 date: 2024-11-22T10:12:57.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-22T10:12:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Part of the Confederation H
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PvpVqPbY)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/PvpVqPbY)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

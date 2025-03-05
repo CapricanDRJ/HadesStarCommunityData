@@ -2,6 +2,7 @@
 title: ​Warriorlords
 description: W:39 L:18 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 11 - 29 OPA
 date: 2025-02-18T20:31:08.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-18T20:31:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 A place for people to enjoy the game, to just play. Live to fight for
  one purpose, for tomorrow, together, how it should be. In alliance w
 ith the Titans of Terror. 
 ```
-### [Discord](https://discord.gg/2HZBvzmbtx)
+<br>### [Discord](https://discord.gg/2HZBvzmbtx)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1400 🔻  (59)|
+| ELO Regular | 1400 🔻  (60)|
 | ELO Competitive | 1525 🔺  (58)|
 | Total Matches | 57 |
 | Wins | 39 |

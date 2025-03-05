@@ -2,6 +2,7 @@
 title: ​Blackwater co.
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 18 德意志阿尔法帝国
 date: 2024-06-16T23:48:53.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-06-16T23:48:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 confederazione rivolta a player attivi disposti a collaborare. I play
 er inattivi verranno espulsi.
 3g+ inattività o nessuna stella rossa svolta=kick
 miglior piazzamento in classifica: 69esimi
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

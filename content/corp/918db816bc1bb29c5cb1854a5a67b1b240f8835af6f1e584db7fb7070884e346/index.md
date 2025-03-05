@@ -2,14 +2,13 @@
 title: ​Polaris Corpo
 description: W:12 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 30 - 0 星域 
 date: 2025-02-26T13:09:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 "Victoriae mundis et mundis lacrima" 
@@ -20,7 +19,7 @@ date: 2025-02-26T13:09:58.000Z
 
 Évolution chez "On en a Gros" pour RS8+
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

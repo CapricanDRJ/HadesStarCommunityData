@@ -2,6 +2,7 @@
 title: ​Metal Nova
 description: W:2 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 25 - 2 Core
 date: 2023-11-22T02:07:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-11-22T02:07:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 chill group of dudes, trying to revive after the disastrous game upda
 te. training and advice for new players, WS once we have numbers for 
 experiemced players.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

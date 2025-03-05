@@ -2,6 +2,7 @@
 title: ​Spica​
 description: W:39 L:9 D:1 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 29 - 1 无人之境
 date: 2025-02-26T09:44:38.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-26T09:44:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=40><color=#FFFF33>Discord参加不問コーポです😊<br><br>★カジュアルなWSをやりたいというプレ
 イヤーを募集します！<br><br>月2-3回木-土曜スキャンで開催予定！<br><br>★WS参加できる方はWSスキャナON、出来ない方
 はOFF！<br><br>★初心者上級者問いません！ログイン耐性30日 <br><br>元Regulus Alliance
 ```
-### [Discord](https://discord.gg/XQ47nAEXuY)
+<br>### [Discord](https://discord.gg/XQ47nAEXuY)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

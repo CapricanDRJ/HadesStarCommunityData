@@ -2,6 +2,7 @@
 title: ​EZCO
 description: W:15 L:24 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 40 - 13 italian warrior
 date: 2025-01-07T03:20:22.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-07T03:20:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#FFFF00>EasyCorp / North Star</color> Täglich RR8 - RR11, DRR 
 bis 11 genauso. ganz entspannt. WZ wöchentlich 😀
 ```
-### [Discord](https://discord.gg/FPjtJsvScr)
+<br>### [Discord](https://discord.gg/FPjtJsvScr)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​j g f h me t y 
 description: W:5 L:10 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 10 U\.S\.A
 date: 2024-09-19T09:40:49.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-19T09:40:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 La Nave WIALERKING
 ```
-### [Discord](https://discord.gg/h d h cuw hdo ch wdi h c w d k j c j d hi c h d j c b)
+<br>### [Discord](https://discord.gg/h d h cuw hdo ch wdi h c w d k j c j d hi c h d j c b)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

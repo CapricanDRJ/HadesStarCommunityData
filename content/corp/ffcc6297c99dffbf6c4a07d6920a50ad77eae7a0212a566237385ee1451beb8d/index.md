@@ -2,6 +2,7 @@
 title: ​Gardiens détoil
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 9 - 26 King's Guard
 date: 2024-04-13T06:24:12.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-13T06:24:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 corpo Fr ouverte à tous pour se developper tranquille sans pression ^
 _^ https://discord.com/invite/pWWdSs4xHs
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​ETER & CAOS
 description: W:3 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
+Summary: ✅ 29 - 2 VoidRunners
 date: 2025-03-01T07:06:32.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-03-01T07:06:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (281)|
+| ELO Regular | 1246 🔺  (280)|
 | ELO Competitive | 1267 🔺  (380)|
 | Total Matches | 3 |
 | Wins | 3 |

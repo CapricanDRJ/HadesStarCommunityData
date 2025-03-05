@@ -2,14 +2,13 @@
 title: ​Dark Training
 description: W:23 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 28 Warriorlords
 date: 2025-02-18T17:55:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Training corp.
@@ -22,7 +21,7 @@ Alliance:
 1. Dark Terra
 2. United Industries of Hades (UIH)
 ```
-### [Discord](https://discord.gg/gJVbNTWUYM)
+<br>### [Discord](https://discord.gg/gJVbNTWUYM)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

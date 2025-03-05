@@ -2,6 +2,7 @@
 title: ​银星舰队SSF
 description: W:11 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 1 AntiCerberus
 date: 2024-10-08T06:38:54.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-10-08T06:38:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们欢迎任何人加入我们的集团<br>QQ群：976489422<br><br>黑名单:<br>佈雷比斯塔×黑中蠍會×霽瞑×瑞瑞×独山×安纳
 金天行者×cleiver（CN）×TXG-5137<br><br>首席：Disast<br>福利：r5-8（有时给）<br><br>主团：
 神圣罗马帝国第三帝国<br>社会主义共和制<br>南极星联盟成员<br><br>不准频繁随意进出
 ```
-### [Discord](https://discord.gg/ok)
+<br>### [Discord](https://discord.gg/ok)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (319)|
+| ELO Regular | 1238 🔻  (318)|
 | ELO Competitive | 1252 🔻  (422)|
 | Total Matches | 17 |
 | Wins | 11 |

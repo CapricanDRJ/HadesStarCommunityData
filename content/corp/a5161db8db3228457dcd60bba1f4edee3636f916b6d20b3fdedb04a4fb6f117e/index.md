@@ -2,6 +2,7 @@
 title: ​Hades’ galaxy
 description: W:3 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
+Summary: ✅ 15 - 2 WhiteSTarfighte
 date: 2025-03-03T07:16:25.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-03-03T07:16:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (310)|
+| ELO Regular | 1239 🔺  (308)|
 | ELO Competitive | 1241 🔺  (456)|
 | Total Matches | 3 |
 | Wins | 3 |

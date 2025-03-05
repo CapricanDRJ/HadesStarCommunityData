@@ -2,6 +2,7 @@
 title: ​新手联邦（新经济开发区）
 description: W:27 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 38 - 4 Looping
 date: 2024-04-13T12:59:50.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-04-13T12:59:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 雕栏玉砌应犹在，只是朱颜改
 ```
-### [Discord](https://discord.gg/pAqrzF5xc7)
+<br>### [Discord](https://discord.gg/pAqrzF5xc7)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1459 🔺  (23)|
-| ELO Competitive | 1480 🔺  (84)|
+| ELO Competitive | 1480 🔺  (85)|
 | Total Matches | 27 |
 | Wins | 27 |
 | Losses | 0 |

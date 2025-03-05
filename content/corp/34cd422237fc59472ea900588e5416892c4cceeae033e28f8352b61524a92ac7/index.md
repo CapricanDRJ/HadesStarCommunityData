@@ -2,6 +2,7 @@
 title: ​CCCP
 description: W:1 L:7 D:3 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 7 hades star萌新指引站
 date: 2024-09-21T11:40:39.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-21T11:40:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手
 福利送1~6级神器，未经允许不得更改。
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

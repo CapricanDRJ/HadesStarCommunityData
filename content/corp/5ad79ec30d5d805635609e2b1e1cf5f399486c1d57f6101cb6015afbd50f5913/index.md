@@ -2,6 +2,7 @@
 title: ​9-Й СКОРПИОН
 description: W:33 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 9 - 19 Cerulean Star
 date: 2025-02-19T22:58:42.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-19T22:58:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Милости Просим, все желающие особенно вновь прибывшие люди в игру, бу
 дем вместе розвиваться и обязательная помощь друг другу, мы вас ждём!
  Коли бз не приймаємо гравців бажаючих вступити до нас 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔻  (66)|
-| ELO Competitive | 1447 🔻  (113)|
+| ELO Regular | 1393 🔻  (68)|
+| ELO Competitive | 1447 🔻  (114)|
 | Total Matches | 43 |
 | Wins | 33 |
 | Losses | 10 |

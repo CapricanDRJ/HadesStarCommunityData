@@ -2,14 +2,13 @@
 title: ​Lacuna Holdings
 description: W:21 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 7 - 37 BrazilCorp\.
 date: 2024-08-01T19:07:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>Lacuna Group's</b> home for RS 7+ and free-for-all WS
@@ -20,12 +19,12 @@ RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
 RS 8-11 see Lacuna Ind.
 ```
-### [Discord](https://discord.gg/avjXNcv4pj)
+<br>### [Discord](https://discord.gg/avjXNcv4pj)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (312)|
+| ELO Regular | 1239 🔻  (310)|
 | ELO Competitive | 1285 🔻  (337)|
 | Total Matches | 35 |
 | Wins | 21 |

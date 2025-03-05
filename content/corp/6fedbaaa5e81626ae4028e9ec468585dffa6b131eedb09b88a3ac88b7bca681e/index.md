@@ -2,6 +2,7 @@
 title: ​BattleCo
 description: W:21 L:14 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 8 - 38 русь 
 date: 2024-06-14T11:09:00.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-06-14T11:09:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 48% bonus drop a tip on our flagship. Much appreciated. We are active
  and social WS corp, join only if you are interested in WS. Discord i
 s required within 24 hours of joining.
 ```
-### [Discord](https://discord.gg/bZRPCqGtvq)
+<br>### [Discord](https://discord.gg/bZRPCqGtvq)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (329)|
+| ELO Regular | 1236 🔻  (328)|
 | ELO Competitive | 1285 🔻  (336)|
 | Total Matches | 35 |
 | Wins | 21 |

@@ -2,14 +2,13 @@
 title: ​佛矿寺
 description: W:15 L:63 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 12 Dark Halo
 date: 2025-02-28T08:49:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 开区，种矿，养矿仍是佛门日常操作，只有持之以恒行善积德方可圆寂升天功德圆满，欢迎各位施主皈依我佛(老衲一般早上在线，若有急事可群里call
@@ -20,7 +19,7 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 国人交流大群：597444221
 神器交易群：915130142
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

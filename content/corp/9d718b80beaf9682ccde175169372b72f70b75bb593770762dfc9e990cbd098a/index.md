@@ -2,6 +2,7 @@
 title: ​蓝星集团
 description: W:14 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 10 - 0 银河护卫队
 date: 2024-12-25T23:28:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-25T23:28:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=green>创始人&首席干事:五叶树（以下条件已经五叶树同意）<br><color=red>肃反委员:姆<br>黑名单:一切
 和🍉老板有好友关系的人<br><color=yellow>创始人>首席>干事>高级成员>成员<br>一旦有明显损害集团利益的行为，肇事者
 直接肃清<br>分团：白星、电磁脉冲<br><color=red>捐钱给旗舰1<br>QQ:993683689
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

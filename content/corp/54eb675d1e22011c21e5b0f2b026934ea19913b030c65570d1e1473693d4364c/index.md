@@ -2,6 +2,7 @@
 title: ​墨痕空域
 description: W:40 L:56 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 31 MiddleOfNowhere
 date: 2025-02-28T10:24:28.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-28T10:24:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=51><#00FFFF>墨痕集团第一主团，</size></color>本团为北极星联盟成员，Q群：796512160    
   欢迎各个等级玩家来参与<#ff6666>活跃玩家请移步盟团:星落苑
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1008 🔻  (1420)|
-| ELO Competitive | 1295 🔻  (306)|
+| ELO Competitive | 1295 🔻  (305)|
 | Total Matches | 97 |
 | Wins | 40 |
 | Losses | 56 |

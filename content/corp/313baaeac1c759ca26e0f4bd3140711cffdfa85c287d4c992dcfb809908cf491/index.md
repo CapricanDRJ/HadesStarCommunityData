@@ -2,6 +2,7 @@
 title: ​Legion
 description: W:47 L:39 D:0 Bonus ✅ 52%
 image: ./favicon.png
+Summary: ✅ 46 - 25 Stargate Corp
 date: 2025-03-03T11:26:48.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-03-03T11:26:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#7FFFD4";><b>We are THE COLLECTIVE</b><br>Lower your shields a
 nd surrender all relics<br>Resistance is futile<br><br><b>Corps</b><b
 r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 ```
-### [Discord](https://discord.gg/mA6tbqzS55)
+<br>### [Discord](https://discord.gg/mA6tbqzS55)
 ### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔺  (68)|
+| ELO Regular | 1391 🔺  (69)|
 | ELO Competitive | 1576 🔺  (32)|
 | Total Matches | 86 |
 | Wins | 47 |

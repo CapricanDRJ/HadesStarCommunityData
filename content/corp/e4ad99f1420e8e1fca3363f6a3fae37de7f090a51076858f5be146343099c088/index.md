@@ -2,14 +2,13 @@
 title: ​Gemini↕     ☁
 description: W:3 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 4 Red Alliance
 date: 2024-07-11T08:32:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 主团 《云浪山庄↕》
@@ -21,7 +20,7 @@ date: 2024-07-11T08:32:56.000Z
 没qq可以加微信进微信群
 这里是分团 活跃的人不多
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

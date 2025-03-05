@@ -2,6 +2,7 @@
 title: ​Los Unidos 
 description: W:7 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 9 - 0 101
 date: 2024-04-30T02:41:56.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-30T02:41:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Русская корпорация ищет активных участников для развития и процветани
 я.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

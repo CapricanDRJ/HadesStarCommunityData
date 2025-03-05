@@ -2,6 +2,7 @@
 title: ​CDG
 description: W:24 L:27 D:5 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 4 - 20 Antioch
 date: 2024-07-14T02:44:54.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-07-14T02:44:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color="lightblue"><b><size="100">Colonial Defence Grid           </
 size><size="50"> So Say We All</size></b></color>
 ```
-### [Discord](https://discord.gg/Gv2tjDgdSa)
+<br>### [Discord](https://discord.gg/Gv2tjDgdSa)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1193)|
-| ELO Competitive | 1295 🔻  (307)|
+| ELO Competitive | 1295 🔻  (306)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |

@@ -2,14 +2,13 @@
 title: ​Majapahit
 description: W:6 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 39 BrazilCorp\.
 date: 2024-08-22T15:28:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Bersatu kita teguh,
@@ -18,7 +17,7 @@ Bercerai ya kawin lagi.
 Discord :
 <color=orange>https://discord.gg/MCDb2Mt</color>
 ```
-### [Discord](https://discord.gg/https://discord.gg/2yTUSx2x)
+<br>### [Discord](https://discord.gg/https://discord.gg/2yTUSx2x)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Germania
 description: W:22 L:41 D:4 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 30 Sprite
 date: 2025-02-27T15:02:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Aktive Allianz
@@ -18,7 +17,7 @@ ht so ernst nehmen.
 -Beleidigung, Rassismus ect, 14 Tage Inaktivität ohne Abmeldung führt
  zum Bann 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

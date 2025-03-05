@@ -1,7 +1,8 @@
 ---
 title: ​Bacon Warriors
-description: W:26 L:21 D:1 Bonus ✅ 36%
+description: W:26 L:21 D:1 Bonus ❌ 36%
 image: ./favicon.png
+Summary: ✅ 10 - 3 WhiteSTarfighte
 date: 2025-02-26T05:24:14.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-26T05:24:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Have fun and love bacon. Everyone is welcome. Weekly white stars if w
 e lose amd every two weeks if we win. No discord required.
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Space Marshalls
 description: W:36 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 11 - 17 Halcon español
 date: 2025-03-01T12:12:00.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T12:12:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Station für einsame Piloten, lasst uns gemeinsam stillschweigend chil
 len.
 ```
-### [Discord](https://discord.gg/tJfbtQjcxg)
+<br>### [Discord](https://discord.gg/tJfbtQjcxg)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

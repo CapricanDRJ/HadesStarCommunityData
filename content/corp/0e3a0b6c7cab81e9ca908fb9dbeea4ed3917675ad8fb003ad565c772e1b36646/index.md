@@ -2,14 +2,13 @@
 title: ​銀河戰狼
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Blood Hounds
 date: 2024-04-11T04:34:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本团招收每日冒泡发展的活跃玩家
@@ -27,7 +26,7 @@ date: 2024-04-11T04:34:20.000Z
 軍团軍委書記长：
 軍团作战參谋长：
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

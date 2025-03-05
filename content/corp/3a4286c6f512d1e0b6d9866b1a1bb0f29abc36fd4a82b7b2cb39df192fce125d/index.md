@@ -2,6 +2,7 @@
 title: ​Hinterm Mond
 description: W:76 L:52 D:0 Bonus ✅ 54%
 image: ./favicon.png
+Summary: ✅ 41 - 19 Order of Hades
 date: 2025-03-01T17:12:35.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T17:12:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 RR 9-11 täglich und wöchentliche WZ- Runs.  Externe RR-Piloten bitte 
 ausschließlich über unseren Discord-Bot anmelden /  External RS pilot
 s please register exclusively via our Discord bot 🙂
 ```
-### [Discord](https://discord.gg/SK46885)
+<br>### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |

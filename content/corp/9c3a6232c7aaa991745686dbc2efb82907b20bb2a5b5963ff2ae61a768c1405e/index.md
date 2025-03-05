@@ -2,6 +2,7 @@
 title: ​Death Flight 1.
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 29 UKR Spase
 date: 2024-05-06T07:10:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-06T07:10:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 rookie or veteran we are all learning this new update together. we ar
 e open to any New Comers. Now's the Time to join and feel close to eq
 ual. most importantly we're here to have some fun.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

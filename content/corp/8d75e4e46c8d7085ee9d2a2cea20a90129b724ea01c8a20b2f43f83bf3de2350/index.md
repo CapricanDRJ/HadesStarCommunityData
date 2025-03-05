@@ -2,6 +2,7 @@
 title: ​111
 description: W:70 L:23 D:0 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 35 - 4 Ark
 date: 2025-03-04T07:53:46.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T07:53:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#6495ED>Telegram</color> t.me/hs_111_reunion
 Ники пустые или без кирилических, латинских символов недопускаются
 
 ```
-### Whitestar Bonus ✅ 50%
+<br>### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |

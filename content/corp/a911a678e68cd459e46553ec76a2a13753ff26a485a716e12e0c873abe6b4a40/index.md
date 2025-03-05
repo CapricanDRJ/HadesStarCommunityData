@@ -2,6 +2,7 @@
 title: ​SUSSY IMPOSTER
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 2 - 4 新?的星际集团?
 date: 2025-01-18T17:15:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-18T17:15:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Hello budies, join this corporation and we will make you the stronges
 t player.You don't need to join discord.Everyone are welcome and you 
 will get free artificants lv 1.2.3.4.
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

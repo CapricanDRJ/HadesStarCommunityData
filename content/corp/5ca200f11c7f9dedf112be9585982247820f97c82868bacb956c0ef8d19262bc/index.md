@@ -2,6 +2,7 @@
 title: ​Empire of Light
 description: W:15 L:33 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 17 - 0 Anarchy Nation 
 date: 2025-02-23T09:42:25.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-23T09:42:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The Empire of Light led by Lord Spirallis to be one of light rays in 
 space of this game. WS every week. Join us into the Light!
 ```
-### [Discord](https://discord.gg/pfsfZwqh)
+<br>### [Discord](https://discord.gg/pfsfZwqh)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

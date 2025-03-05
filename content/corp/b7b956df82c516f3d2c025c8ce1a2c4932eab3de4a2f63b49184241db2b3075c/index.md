@@ -2,6 +2,7 @@
 title: ​The Witness
 description: W:17 L:33 D:4 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 人人平等至上集团
 date: 2025-03-02T04:33:40.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T04:33:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Friendly and helpful. Open to all. Discord is required. 
 
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
-### [Discord](https://discord.gg/CzUVew5w)
+<br>### [Discord](https://discord.gg/CzUVew5w)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​AlSounT
 description: W:20 L:14 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 45 - 15 星を継ぐもの
 date: 2025-03-03T05:56:19.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-03T05:56:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Играем в свое удовольствия - Регулярные полеты на БЗ - Связь телеграм
 м  - Ищем отважных и надёжных командиров если ты не трус залетай  к н
 ам и вместе будем биться у Белых Звёзд
 ```
-### Whitestar Bonus ✅ 38%
+<br>### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

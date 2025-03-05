@@ -2,6 +2,7 @@
 title: ​Omega corp
 description: W:8 L:5 D:3 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 5 - 0 红日初升，其道大光
 date: 2024-12-09T15:33:14.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-12-09T15:33:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 welcome to my corporation.  Language: English and Español. Discord NO
 T available. Top 5players become senior, top 2become official. red st
 ars2-7. white stars every week
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (304)|
+| ELO Regular | 1240 🔺  (302)|
 | ELO Competitive | 1258 🔺  (406)|
 | Total Matches | 16 |
 | Wins | 8 |

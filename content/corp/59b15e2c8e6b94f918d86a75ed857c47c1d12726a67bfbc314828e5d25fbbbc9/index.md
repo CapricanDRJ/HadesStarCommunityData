@@ -2,6 +2,7 @@
 title: ​..D.E.I.T.Co..
 description: W:6 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 8 - 17 六大天神
 date: 2024-04-16T09:21:11.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-04-16T09:21:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Year 2 of the Great Conquest! We love to WIN! We can not a
 ccept new members during a WS match. If rejected, join our Discord & 
 we will happily arrange your arrival after the match!
 ```
-### [Discord](https://discord.gg/ZxWsQDeHKm)
+<br>### [Discord](https://discord.gg/ZxWsQDeHKm)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

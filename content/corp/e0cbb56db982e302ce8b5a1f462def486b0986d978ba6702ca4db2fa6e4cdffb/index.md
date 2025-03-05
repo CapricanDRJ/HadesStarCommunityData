@@ -2,6 +2,7 @@
 title: ​Anti union
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 6 - 18 OntarioDawn
 date: 2023-12-30T18:30:58.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-30T18:30:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Friendly low stress corp doing a restart in the new expansion. No req
 uirements besides playing the game though we appreciate it if you hel
 p us win White Stars. So join and be welcome.
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Mercury Sunset
 description: W:51 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 45 - 0 Avantgarde
 date: 2025-03-04T11:06:43.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T11:06:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The sunset of the dying star was covered in drops of mercury.
 ```
-### [Discord](https://discord.gg/hnywHXhtg5)
+<br>### [Discord](https://discord.gg/hnywHXhtg5)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

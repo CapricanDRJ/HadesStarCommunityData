@@ -2,6 +2,7 @@
 title: ​PSI Division
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 闲散人员
 date: 2024-09-24T15:41:39.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-24T15:41:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Science Division.. we are here to help.
 
 https://discord.gg/EdNWKeN
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

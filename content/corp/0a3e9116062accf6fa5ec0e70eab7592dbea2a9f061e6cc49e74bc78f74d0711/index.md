@@ -2,6 +2,7 @@
 title: ​Justice Vengers
 description: W:37 L:12 D:2 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 27 - 0 星舰月球
 date: 2025-02-27T16:02:45.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-27T16:02:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=50>Everyone Is Welcome Here All Welcome!<color=#FF00FF> ~~~~
 ~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              
 ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
-### [Discord](https://discord.gg/evPmv96K)
+<br>### [Discord](https://discord.gg/evPmv96K)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (90)|
+| ELO Regular | 1360 🔺  (91)|
 | ELO Competitive | 1521 🔺  (59)|
 | Total Matches | 51 |
 | Wins | 37 |

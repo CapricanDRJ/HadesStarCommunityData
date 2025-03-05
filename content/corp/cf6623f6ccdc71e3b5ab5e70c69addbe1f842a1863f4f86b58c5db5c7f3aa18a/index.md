@@ -2,6 +2,7 @@
 title: ​G.O.D
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 16 阿尔特拉集团
 date: 2024-04-23T11:27:28.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-04-23T11:27:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本盟氣氛輕鬆  守望相助  佛道肝皆可  盟主神器(r2~r8)天天送  歡迎有興趣的玩家加入 ^~^
 另外招有指揮公會戰經驗/興趣的玩家
 7天不上線者  將被勸退  敬請留意！
 QQ : 763870092
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

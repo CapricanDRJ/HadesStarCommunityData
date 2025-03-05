@@ -2,14 +2,13 @@
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 description: W:30 L:53 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 35 - 36 Hinterm Mond
 date: 2025-03-01T00:35:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Willkommen bei <color=red>ʙṢ</color>!
@@ -20,7 +19,7 @@ g."
 
 Zum Server->95WWyXqrhQ</color>
 ```
-### [Discord](https://discord.gg/95WWyXqrhQ)
+<br>### [Discord](https://discord.gg/95WWyXqrhQ)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

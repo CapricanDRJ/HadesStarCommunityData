@@ -2,6 +2,7 @@
 title: ​Sad Panda 2.0
 description: W:3 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 22 - 3 Red Star Corp\.
 date: 2025-02-01T00:07:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-01T00:07:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Primary language is English. Enjoy! Help the corporation to become a 
 senior member. Fail to log, I will demote to member. 14 days no log i
 n and I will kick members. 
 ```
-### [Discord](https://discord.gg/yEGmdxCSd9)
+<br>### [Discord](https://discord.gg/yEGmdxCSd9)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

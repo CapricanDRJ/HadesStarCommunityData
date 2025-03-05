@@ -2,6 +2,7 @@
 title: ​Imperial Navy
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 4 - 5 MÉXICO INFINITO
 date: 2023-12-05T22:58:35.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-05T22:58:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The combined forces of the Imperial ruled planets. Commanded by the I
 mperial High Council
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PasdADNm)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/PasdADNm)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

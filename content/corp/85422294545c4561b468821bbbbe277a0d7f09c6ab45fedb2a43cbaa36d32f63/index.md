@@ -2,6 +2,7 @@
 title: ​星环建设集团
 description: W:9 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 23 ItaFederalFleet
 date: 2024-10-05T11:52:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-05T11:52:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <COLOR=RED>别捐旗舰</COLOR>本团属于九团公约成员国                                   
                                  欢迎加入，需要神器找杨星开放外交站                   
              qq群: 637144087
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

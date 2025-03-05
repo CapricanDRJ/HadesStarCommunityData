@@ -2,6 +2,7 @@
 title: ​Ukrain Alliance
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 3 USAR@Hadesstar
 date: 2024-01-30T01:15:40.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-30T01:15:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Активные игроки начиная с 300 кто не будет играть исключаем
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

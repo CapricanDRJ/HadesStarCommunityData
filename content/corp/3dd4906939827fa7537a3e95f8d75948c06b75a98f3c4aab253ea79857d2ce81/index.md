@@ -2,6 +2,7 @@
 title: ​Death Star llc.
 description: W:63 L:18 D:1 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 20 - 3 Серебряная орда
 date: 2025-03-03T19:32:41.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-03-03T19:32:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Join and be a winner!! All skill levels welcome. We run WS weekly. Ma
 ke friends, have fun, and enjoy the game!
 
 Discord required | Part of Astral Alliance
 ```
-### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
+<br>### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

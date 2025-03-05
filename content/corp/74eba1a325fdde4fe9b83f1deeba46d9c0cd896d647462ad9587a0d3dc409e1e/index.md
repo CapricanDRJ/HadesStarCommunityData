@@ -2,6 +2,7 @@
 title: ​ВЕЧНОСТЬ
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 1 - 3 暮光之城
 date: 2024-06-07T05:58:49.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-06-07T05:58:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

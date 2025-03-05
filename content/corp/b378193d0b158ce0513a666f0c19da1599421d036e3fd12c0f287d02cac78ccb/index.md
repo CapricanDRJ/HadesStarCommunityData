@@ -2,6 +2,7 @@
 title: ​StargateCommand
 description: W:1 L:18 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 14 💮問鼎無垠💮
 date: 2025-03-02T04:58:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T04:58:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the SGC.  White Star scanners turned on at WS search requi
 res active participation or you will be kicked from the corp.  Turn O
 FF WS scanner if unable to participate.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

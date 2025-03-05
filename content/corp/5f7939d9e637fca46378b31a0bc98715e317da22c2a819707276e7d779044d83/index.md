@@ -2,6 +2,7 @@
 title: ​Warriors
 description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 1 - 0 Uniones
 date: 2024-02-13T21:44:44.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-13T21:44:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#00a6ca><size=120>WARRIORS</size><br><color=#01a6ca>Open to ev
 eryone<br>Get a deplomacy station to get help<br><color=#00a6ca><size
 =100>Come one come all</size>
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

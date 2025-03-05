@@ -2,6 +2,7 @@
 title: ​星约组织：基地分团
 description: W:1 L:9 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 17 РARADISЕ
 date: 2025-02-21T09:07:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-21T09:07:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 星际公约组织分团，大佬都请到星际公约组织，新建分团，请多多支持。QQ群993612413，有时间就加进来！这里将是太空中最温暖的家，集团福
 利高，请互帮互助。            星海灿烂，星约永恒     欢迎你的加入             集团黑名单：铁锈反叛战争公司，
 所有干事看见立刻清除
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

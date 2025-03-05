@@ -2,6 +2,7 @@
 title: ​Tuatha De Danan
 description: W:62 L:18 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 25 - 45 Ƭιтαηѕ Ф тєʀʀσƦ
 date: 2025-03-01T18:12:42.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T18:12:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 New players welcome, we help players get ready for White Stars and Da
 rk Red Stars. (First Language: English)
 ```
-### [Discord](https://discord.gg/zeDuYzkCzk)
+<br>### [Discord](https://discord.gg/zeDuYzkCzk)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

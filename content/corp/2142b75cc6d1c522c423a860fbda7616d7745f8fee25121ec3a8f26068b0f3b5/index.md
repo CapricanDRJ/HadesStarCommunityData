@@ -2,6 +2,7 @@
 title: ​星舰国际
 description: W:7 L:8 D:3 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 2 AntiCerberus
 date: 2024-11-07T05:13:32.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-07T05:13:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗舰，最好捐给旗舰2号。欢迎各位光临
 ```
-### [Discord](https://discord.gg/星舰国际集团)
+<br>### [Discord](https://discord.gg/星舰国际集团)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​MD EMPIRE
 description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 1 - 17 ALPHA
 date: 2025-01-15T18:22:38.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-15T18:22:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Consider joining the discord server. Participation in white star is s
 trongly recomended ;)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/ET3rEFXb)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/ET3rEFXb)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

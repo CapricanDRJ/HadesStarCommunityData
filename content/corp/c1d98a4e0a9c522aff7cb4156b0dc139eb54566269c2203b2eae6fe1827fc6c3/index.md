@@ -2,6 +2,7 @@
 title: ​Brasil
 description: W:5 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 27 毛绒团子
 date: 2025-03-04T16:19:37.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T16:19:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Todos são bem-vindos!! Livres para iniciar Estrelas Brancas. Maior pa
 rticipação dentro da corporação é primordial para promoções! Ajude-no
 s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Hun Generals
 description: W:13 L:81 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Лунный Феникс
 date: 2025-03-01T12:47:04.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T12:47:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társa
 idat. WS-ezés feltétele a discord.
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

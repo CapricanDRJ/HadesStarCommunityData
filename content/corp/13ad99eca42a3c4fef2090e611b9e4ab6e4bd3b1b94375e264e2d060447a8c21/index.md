@@ -2,14 +2,13 @@
 title: ​Round Table 
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 5 RGW
 date: 2024-01-01T05:16:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 **Corp is basically dead now. Thanks for the memories lads.**
@@ -19,7 +18,7 @@ This is the Round Table. We Help each other and have fun. Most of all
 
 Discord - https://discord.gg/b8VCJrC
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​O.P.S
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 36 Nova Time
 date: 2023-11-29T08:56:07.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-29T08:56:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 trabajamos en las sombras para servir a la luz
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

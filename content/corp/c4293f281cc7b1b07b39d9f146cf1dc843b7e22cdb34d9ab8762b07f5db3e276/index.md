@@ -2,6 +2,7 @@
 title: ​united unicorn
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 8 - 32 Ninth Planet
 date: 2025-03-03T13:37:02.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-03T13:37:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ws focused on learning, still a lot to learn so we don't worry Farm o
 ur opponent we just want to play a little
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

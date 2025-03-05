@@ -2,6 +2,7 @@
 title: ​1st/Ave/Junkie2
 description: W:21 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 7 - 17 星を継ぐもの
 date: 2025-02-24T07:09:07.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-24T07:09:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome! We are looking for new and experienced players interested in
  Red Star/White Star, and we have decent Blue Star tips! Please stay 
 active! We are actively looking for White Star Players
 ```
-### [Discord](https://discord.gg/m9xzuMbpqS)
+<br>### [Discord](https://discord.gg/m9xzuMbpqS)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

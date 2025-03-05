@@ -2,6 +2,7 @@
 title: ​Hades Seminary 
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 6 - 3 星海扬帆
 date: 2024-02-08T23:20:06.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-08T23:20:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Hades Seminary, the second corp for Hades Academy. We are 
 very laied back but competitive corp. Please join our Discord and acc
 ept our rules to get your member role!
 ```
-### [Discord](https://discord.gg/kUcE6EP)
+<br>### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

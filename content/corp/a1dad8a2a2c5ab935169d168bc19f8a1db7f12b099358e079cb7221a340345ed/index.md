@@ -2,6 +2,7 @@
 title: ​ДИᏰEPℂДℍTᏰℓ
 description: W:13 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 5 萌新集团
 date: 2024-12-05T19:27:59.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-05T19:27:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 32%This is a group dedicated to planting red flags in every corner of
  the galaxy. We welcome every newbie and big guy to join us. We provi
 de early learning guidance for newbies joining the group.
 ```
-### [Discord](https://discord.gg/JTC-6519)
+<br>### [Discord](https://discord.gg/JTC-6519)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

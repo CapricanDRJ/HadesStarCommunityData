@@ -2,6 +2,7 @@
 title: ​Prometheus ESP
 description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 5 Vega Conflict
 date: 2024-06-29T23:45:04.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-29T23:45:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corporación que admite a jugadores activos sin importar su nivel o po
 der imperial. El discord está en la descripción. 30 dias máximos de i
 nactividad 
 ```
-### [Discord](https://discord.gg/rvVvpBuEb6)
+<br>### [Discord](https://discord.gg/rvVvpBuEb6)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

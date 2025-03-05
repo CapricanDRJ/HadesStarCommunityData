@@ -2,6 +2,7 @@
 title: ​公共星际集团
 description: W:7 L:23 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 3 63SALVADORES36
 date: 2025-01-02T08:14:24.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-01-02T08:14:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位萌新、大佬来本星际集团，进了必升到干事。如有不满，敬请投诉。12.2 至少需要3级红巨星扫描仪、所有船舰至少升至2级，并且最多30
 天离线。1.30
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1046 🔻  (1397)|
-| ELO Competitive | 1156 🔻  (1265)|
+| ELO Competitive | 1156 🔻  (1264)|
 | Total Matches | 32 |
 | Wins | 7 |
 | Losses | 23 |

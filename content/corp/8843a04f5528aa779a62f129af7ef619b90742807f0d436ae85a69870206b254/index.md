@@ -2,6 +2,7 @@
 title: ​Valhalla Rising
 description: W:22 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 18 - 20 Death Flight
 date: 2024-10-09T17:07:44.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-10-09T17:07:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Join the discord! No flagship donations.
 ```
-### [Discord](https://discord.gg/XPrcvp9hKs)
+<br>### [Discord](https://discord.gg/XPrcvp9hKs)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

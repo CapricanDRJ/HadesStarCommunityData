@@ -2,6 +2,7 @@
 title: ​Dacia Chill
 description: W:21 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 10 - 26 Polish Pirates
 date: 2025-01-24T15:25:20.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-01-24T15:25:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Formerly the Dacia casual WS team... now rebooted as our primary WS c
 orp.
 DN WS:WDL 17/0/3Pre DN WS (All Dacia Corps):
 WDL 88/2/4
 ```
-### [Discord](https://discord.gg/6RhqZ7dxmf)
+<br>### [Discord](https://discord.gg/6RhqZ7dxmf)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔻  (70)|
+| ELO Regular | 1391 🔻  (71)|
 | ELO Competitive | 1421 🔻  (129)|
 | Total Matches | 25 |
 | Wins | 21 |

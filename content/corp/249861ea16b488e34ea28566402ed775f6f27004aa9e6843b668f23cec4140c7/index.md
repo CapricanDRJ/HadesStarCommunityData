@@ -2,6 +2,7 @@
 title: ​HAL
 description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 9 Bow Down
 date: 2025-02-14T03:44:52.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-14T03:44:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎新人加入
 好联系一点：qq群
 485343146
 ```
-### [Discord](https://discord.gg/qSVJ3kUs)
+<br>### [Discord](https://discord.gg/qSVJ3kUs)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

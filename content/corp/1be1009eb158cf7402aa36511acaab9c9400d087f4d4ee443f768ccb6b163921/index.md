@@ -2,6 +2,7 @@
 title: ​红日初升，其道大光
 description: W:33 L:17 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ❌ 0 - 3 Тихий Омут
 date: 2025-03-04T10:28:59.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-03-04T10:28:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 参与白星扫描的可升高级成员，白星表现好或等级较高可升干事。<color=yellow>禁止乱用权力！</color>盟团：水晶星际集团、G
 rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生存</color>。<color=orange>南极星联盟成
 员</color>踢红点，由bria成立于2024.7.1
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (226)|
+| ELO Regular | 1268 🔻  (225)|
 | ELO Competitive | 1437 🔺  (123)|
 | Total Matches | 50 |
 | Wins | 33 |

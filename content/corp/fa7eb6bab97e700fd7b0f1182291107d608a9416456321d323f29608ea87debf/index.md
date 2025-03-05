@@ -2,6 +2,7 @@
 title: ​Void Nebula
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 2 - 7 阿尔特拉集团
 date: 2023-12-07T18:08:11.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2023-12-07T18:08:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Anyone is Welcome to the Void Nebula 
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (1125)|
-| ELO Competitive | 1156 🔻  (1264)|
+| ELO Competitive | 1156 🔻  (1263)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

@@ -2,6 +2,7 @@
 title: ​Dahoam in AT
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 4 - 23 SpaceCowboys
 date: 2024-01-02T21:08:46.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-02T21:08:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Dahoam in AT zieht um und findet ein neues Dahoam bei INFINITY STAR. 
 Wer uns nachfolgen will, meldet euch dort! Im Konzern verbleiben unse
 re ausgeschiedenen Pensionisten!      https://discord.gg/V5SHx
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

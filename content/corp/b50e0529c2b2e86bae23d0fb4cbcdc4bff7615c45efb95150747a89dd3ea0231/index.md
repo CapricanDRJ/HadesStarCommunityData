@@ -2,6 +2,7 @@
 title: ​Star Fleet
 description: W:12 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 4 - 1 逐光起航
 date: 2024-09-18T11:02:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-18T11:02:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome aboard enlistee to Star Fleet, one of 3 main corps in the Fed
 eration. Please behave yourself adequately. We offer casual RS and co
 mp ws play. White dwarf will be stated every Friday. 
 ```
-### [Discord](https://discord.gg/2YebJryX)
+<br>### [Discord](https://discord.gg/2YebJryX)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

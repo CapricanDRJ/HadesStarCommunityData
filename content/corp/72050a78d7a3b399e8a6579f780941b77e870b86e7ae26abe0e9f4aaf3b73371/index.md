@@ -2,6 +2,7 @@
 title: ​Death Starz
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 4 - 9 Вселенские 40%
 date: 2023-12-15T20:29:27.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-15T20:29:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are the glorious Death Starz.  Don't get in our way, better join u
 s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

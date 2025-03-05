@@ -2,6 +2,7 @@
 title: ​TECH CO
 description: W:9 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 10 避难所
 date: 2024-05-13T06:52:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-13T06:52:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 TECH CO the first fleet of TFF Active members is much appeciated. Be 
 careful to each other. Discord is MANDATORY. 10k coin donation to fla
 gship for new members is much appreciated.🥰
 ```
-### [Discord](https://discord.gg/TayfuucWnS)
+<br>### [Discord](https://discord.gg/TayfuucWnS)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​BRASIL ACADEMY
 description: W:3 L:12 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 7 WSC\(no DISCORD\)
 date: 2025-03-01T10:16:49.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T10:16:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corporação de treinamento/backup - BRASIL STAR<br><br>Esta corporação
  é auxiliar da ⭐ BRASIL STAR ⭐. Para grupo de WhatsApp, peça pra ser 
 adicionado aqui no chat!
 ```
-### [Discord](https://discord.gg/MV5xAcu9Vz)
+<br>### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

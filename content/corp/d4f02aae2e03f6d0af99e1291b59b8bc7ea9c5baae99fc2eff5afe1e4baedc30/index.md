@@ -2,6 +2,7 @@
 title: ​日月星辰
 description: W:4 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 6 - 21 六大天神
 date: 2025-02-10T16:26:29.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-10T16:26:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎加入 【日月星辰】:定期开 白星，不定期送神器9、10、11。                                    
                          <#00FF00>QQ群：910734770                      
                                    <#00RFFF>尽量进群，方便沟通
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

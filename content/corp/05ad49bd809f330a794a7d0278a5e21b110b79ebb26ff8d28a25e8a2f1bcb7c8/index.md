@@ -2,14 +2,13 @@
 title: ​Aeternae
 description: W:0 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 47 Moon Catchers
 date: 2024-05-04T20:57:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are Aeternae! 
@@ -22,7 +21,7 @@ Please say hello on discord if you are interested in joining us.
 
 http://discord.gg/7fT6uru
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

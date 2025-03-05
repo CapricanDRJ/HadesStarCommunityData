@@ -2,6 +2,7 @@
 title: ​Decode
 description: W:37 L:31 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 8 💮問鼎無垠💮
 date: 2025-02-13T03:47:29.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-13T03:47:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Home for travelers across the multiverse
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

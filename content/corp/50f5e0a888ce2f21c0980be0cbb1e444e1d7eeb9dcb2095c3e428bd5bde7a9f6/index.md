@@ -2,6 +2,7 @@
 title: ​太阳系集团
 description: W:22 L:8 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 4 - 1 OrderofTheGeon
 date: 2025-01-09T18:47:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-09T18:47:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎大佬和萌新加入，创始人：［太阳系统帅］，移出成员只能由首席执行，大家要常住呀！不是死团，我们超活跃的哟！黑名单：[土土]       
                                                                      
 <size=100><color=red>两个旗舰都捐！进集团加微信18898500351，拉你入群
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

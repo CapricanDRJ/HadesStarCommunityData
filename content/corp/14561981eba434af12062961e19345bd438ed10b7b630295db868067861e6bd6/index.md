@@ -2,14 +2,13 @@
 title: ​Russia 
 description: W:2 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 10 - 22 lonewolf
 date: 2024-03-29T03:44:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow><i><size=65><b>Открыт набор</b></size></i></color>
@@ -20,7 +19,7 @@ date: 2024-03-29T03:44:27.000Z
 
 https://discord.gg/H3ZnrmAYw5
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PuhySY4)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/PuhySY4)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

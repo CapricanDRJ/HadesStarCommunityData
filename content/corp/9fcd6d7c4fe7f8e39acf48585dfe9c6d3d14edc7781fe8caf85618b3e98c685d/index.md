@@ -2,6 +2,7 @@
 title: ​Sich.ua
 description: W:31 L:34 D:5 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 23 毛绒团子
 date: 2025-02-25T12:52:20.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-25T12:52:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Раді всім, новачкам допомагаємо артефактами, ходимо в білі та червоні
  зірки
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔻  (1321)|
+| ELO Regular | 1108 🔻  (1320)|
 | ELO Competitive | 1286 🔻  (334)|
 | Total Matches | 70 |
 | Wins | 31 |

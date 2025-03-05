@@ -2,6 +2,7 @@
 title: ​Cyber Star
 description: W:27 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 19 VoidRunners
 date: 2024-12-01T20:17:18.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-01T20:17:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corporation tranquille on s'entraide pour tous se développer. Une eto
 ile blanche par semaine. Si vous êtes actif et que vous voulez progre
 sser dans une corporation tranquille on est fait pour vous !
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

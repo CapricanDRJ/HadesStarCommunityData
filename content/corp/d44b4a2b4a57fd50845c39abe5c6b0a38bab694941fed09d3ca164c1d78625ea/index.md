@@ -2,6 +2,7 @@
 title: ​Bounty Hunters
 description: W:7 L:7 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 34 六大天神
 date: 2024-12-01T06:30:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-01T06:30:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawieni
 e na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekruta
 cja odbywa się poprzez nasz kanał Discord.
 ```
-### [Discord](https://discord.gg/aWeFFra2B7)
+<br>### [Discord](https://discord.gg/aWeFFra2B7)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

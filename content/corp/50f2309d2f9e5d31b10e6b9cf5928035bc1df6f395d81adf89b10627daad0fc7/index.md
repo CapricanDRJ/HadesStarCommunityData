@@ -2,6 +2,7 @@
 title: ​Legión
 description: W:9 L:9 D:0 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 23 - 17 Orden Estelar 
 date: 2025-02-28T11:04:32.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-28T11:04:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=#E12E2D>Alianza AXOLOTLS<br></b>Somos muchos, somos Legión.
 <br><br>• Damos artefactos por donar a la NI<br>• Discord/WhatsApp di
 sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 ```
-### [Discord](https://discord.gg/Bt9wnjv2Kh)
+<br>### [Discord](https://discord.gg/Bt9wnjv2Kh)
 ### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (305)|
-| ELO Competitive | 1288 🔺  (326)|
+| ELO Regular | 1240 🔺  (303)|
+| ELO Competitive | 1288 🔺  (325)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 9 |

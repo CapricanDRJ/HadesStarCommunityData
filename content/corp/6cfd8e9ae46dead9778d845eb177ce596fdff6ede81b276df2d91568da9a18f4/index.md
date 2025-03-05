@@ -2,6 +2,7 @@
 title: ​North Star
 description: W:1 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 6 - 22 Outland Ind\.
 date: 2024-02-23T17:05:38.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-23T17:05:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Lasst euch vom Nordstern leiten!  
 ```
-### [Discord](https://discord.gg/26zvmzND8z)
+<br>### [Discord](https://discord.gg/26zvmzND8z)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​白星成就团
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 51 Atlas Star llc\.
 date: 2024-11-26T14:09:47.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-26T14:09:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

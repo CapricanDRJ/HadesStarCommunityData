@@ -2,6 +2,7 @@
 title: ​Utd. Human Fed.
 description: W:41 L:30 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 10 - 0 ItaFederalFleet
 date: 2025-01-11T13:52:05.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-11T13:52:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend
  gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber n
 atürlich auch wann anders....
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

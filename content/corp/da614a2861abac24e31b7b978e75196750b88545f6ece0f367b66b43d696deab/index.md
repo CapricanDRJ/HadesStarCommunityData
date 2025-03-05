@@ -2,6 +2,7 @@
 title: ​联合宇宙
 description: W:4 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 7 宇宙联盟（中国）
 date: 2024-09-02T07:16:03.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-02T07:16:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 黑名单：无 白名单：无 
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

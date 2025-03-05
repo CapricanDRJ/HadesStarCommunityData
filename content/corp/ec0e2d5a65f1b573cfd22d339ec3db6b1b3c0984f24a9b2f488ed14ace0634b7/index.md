@@ -2,6 +2,7 @@
 title: ​Imperio Nova
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 2 - 10 Star Fleet
 date: 2024-07-03T07:07:56.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-07-03T07:07:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (1143)|
-| ELO Competitive | 1158 🔻  (1257)|
+| ELO Competitive | 1158 🔻  (1256)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

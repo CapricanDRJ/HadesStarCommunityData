@@ -2,6 +2,7 @@
 title: ​Die Mafia
 description: W:0 L:0 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Cowboys
 date: 2024-02-26T03:03:43.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-02-26T03:03:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Dies ist ein deutscher Konzern, wir spielen kooperativ und es geht um
  den Spaß am Spiel.
 WZs laufen regelmäßig, dabei ist eine aktive Teilnahme absolut notwen
 dig.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

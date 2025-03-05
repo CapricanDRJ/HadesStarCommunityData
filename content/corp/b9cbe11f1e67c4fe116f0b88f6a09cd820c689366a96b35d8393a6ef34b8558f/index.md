@@ -2,6 +2,7 @@
 title: ​九州·华夏
 description: W:3 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 2 - 3 蓝色星系二号分盟
 date: 2025-02-27T00:46:13.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-27T00:46:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

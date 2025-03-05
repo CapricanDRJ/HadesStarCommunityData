@@ -2,6 +2,7 @@
 title: ​星海扬帆
 description: W:23 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 6 - 3 物竞天择，适者生存
 date: 2024-10-06T11:29:33.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-10-06T11:29:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=#CAFF70>※这里是，星海扬帆                   </a></b>         </a></
 b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114  
 </a></b>红活已经结束，欢迎回来
 ```
-### [Discord](https://discord.gg/<color=#FF0><b><i><size=30>简阶编辑:OwO</size></i>)
+<br>### [Discord](https://discord.gg/<color=#FF0><b><i><size=30>简阶编辑:OwO</size></i>)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (227)|
+| ELO Regular | 1267 🔺  (226)|
 | ELO Competitive | 1375 🔺  (175)|
 | Total Matches | 41 |
 | Wins | 23 |

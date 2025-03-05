@@ -2,14 +2,13 @@
 title: ​纸鸢台
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 5 - 3 Star Fleet
 date: 2024-09-11T07:40:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为<size=120>仙女座星雲</size>第六分团
@@ -23,12 +22,12 @@ date: 2024-09-11T07:40:59.000Z
 这里是国服区对萌新最友好的集团
 期待你
 ```
-### [Discord](https://discord.gg/snwFMgDPms)
+<br>### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (279)|
+| ELO Regular | 1247 🔺  (278)|
 | ELO Competitive | 1249 🔺  (433)|
 | Total Matches | 5 |
 | Wins | 4 |

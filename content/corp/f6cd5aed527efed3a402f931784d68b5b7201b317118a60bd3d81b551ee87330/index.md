@@ -1,7 +1,8 @@
 ---
 title: ​Black Star llc.
-description: W:39 L:23 D:0 Bonus ✅ 36%
+description: W:39 L:23 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 12 - 1 Октябристы
 date: 2025-02-26T04:34:09.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-02-26T04:34:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Black Star llc corp a friendly place to hangout and grow. Join Discor
 d & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star l
 lc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
-### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
-### Whitestar Bonus ✅ 36%
+<br>### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

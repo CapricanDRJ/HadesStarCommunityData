@@ -2,6 +2,7 @@
 title: ​(_(_Vossk_)_)
 description: W:12 L:25 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 2 - 0 火洋之心
 date: 2025-02-21T03:36:35.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-21T03:36:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ∆ We are Corporation Vossk, Squadrons of the 9th Legion. We have come
  to bring order to the galaxy and crush all who oppose the Empire. Jo
 in us or prepare to meet your destiny.
 ```
-### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
+<br>### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

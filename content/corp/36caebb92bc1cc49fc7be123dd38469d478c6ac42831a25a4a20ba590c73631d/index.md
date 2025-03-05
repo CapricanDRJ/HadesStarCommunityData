@@ -2,6 +2,7 @@
 title: ​海澜之家
 description: W:2 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 9 - 5 three kitties
 date: 2024-09-07T22:43:21.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-07T22:43:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 该星际集团还没有任何描述。
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

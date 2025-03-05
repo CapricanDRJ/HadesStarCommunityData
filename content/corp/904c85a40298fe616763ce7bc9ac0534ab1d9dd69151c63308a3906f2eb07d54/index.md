@@ -2,6 +2,7 @@
 title: ​Thunderbears
 description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 4 Weyland Yutani 
 date: 2024-05-22T01:51:24.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-05-22T01:51:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the Thunderbears!  New and Active, learning the game toget
 her. Discord is a requirement. 
 ```
-### [Discord](https://discord.gg/ZnXzQ8uS)
+<br>### [Discord](https://discord.gg/ZnXzQ8uS)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

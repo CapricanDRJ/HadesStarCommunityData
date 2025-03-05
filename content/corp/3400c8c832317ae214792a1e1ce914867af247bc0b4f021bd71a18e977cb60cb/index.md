@@ -2,14 +2,13 @@
 title: ​REY DE REYES
 description: W:1 L:13 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 10 新?的星际集团?
 date: 2025-02-18T14:25:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Hola soy ARRIBA LOS PITOS el líder y te invito a unirte mi Corporació
@@ -19,7 +18,7 @@ LIDER ARRIBA LOS PITOS
 
 CORPORACION HISPANA NIVEL 2
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

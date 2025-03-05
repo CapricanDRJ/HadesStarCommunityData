@@ -2,6 +2,7 @@
 title: ​Alpha 
 description: W:8 L:43 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 7 Galaxians
 date: 2025-03-04T20:40:06.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T20:40:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 As long as you’re active you can stay.
 ```
-### [Discord](https://discord.gg/5Ty2Uqmu)
+<br>### [Discord](https://discord.gg/5Ty2Uqmu)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​ギャラクシー富士山
 description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 30 AlSounT
 date: 2024-09-26T17:11:28.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-09-26T17:11:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 日本人の方推奨
 気軽にどうぞ！
 あまり参加しないと思いますが、まったりどうぞ！
 無言ok
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

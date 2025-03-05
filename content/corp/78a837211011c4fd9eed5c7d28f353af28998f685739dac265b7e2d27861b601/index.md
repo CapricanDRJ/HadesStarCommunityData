@@ -2,6 +2,7 @@
 title: ​Kiith Trollani
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 6 边缘世界
 date: 2023-11-17T12:18:56.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-17T12:18:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

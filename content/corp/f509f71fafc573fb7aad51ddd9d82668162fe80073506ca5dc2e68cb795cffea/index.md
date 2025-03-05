@@ -2,14 +2,13 @@
 title: ​Odessa
 description: W:5 L:12 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 43 IX Легион
 date: 2024-04-26T08:33:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Набираємо охочих на БЗ
@@ -18,7 +17,7 @@ date: 2024-04-26T08:33:33.000Z
 
 https://t.me/+LzDMmSOsCmpjZDhi 
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

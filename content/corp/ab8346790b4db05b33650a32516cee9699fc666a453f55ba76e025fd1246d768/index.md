@@ -2,14 +2,13 @@
 title: ​愿君仍常在
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 3 - 7 Thurn and Taxis
 date: 2023-12-01T10:11:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神器，先进群再进团
@@ -18,7 +17,7 @@ QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神
 旗舰捐献名单（自愿捐献不强求，就算离开团名字也不删除）
 虎式3万愿君5万何梦琪70万一个过分1万 yebaha1万北冥5万 时光梦意1万Bailey27万0 28万player2万Enoch1万
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

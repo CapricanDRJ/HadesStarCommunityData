@@ -2,6 +2,7 @@
 title: ​Quilliance
 description: W:29 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 31 - 4 世外桃源
 date: 2025-02-22T06:54:20.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-22T06:54:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#FFF><b><size=89>Best BBQ & CRoid house</size></color><br><i>Skewer 
 thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>
 Discord Active • Coop DRS7-10 
 ```
-### [Discord](https://discord.gg/6QQJkJ4)
+<br>### [Discord](https://discord.gg/6QQJkJ4)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

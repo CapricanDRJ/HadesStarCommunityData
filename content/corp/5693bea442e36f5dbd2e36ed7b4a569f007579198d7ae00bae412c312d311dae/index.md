@@ -2,6 +2,7 @@
 title: ​WhiteSTarfighte
 description: W:17 L:13 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 2 - 15 Hades’ galaxy
 date: 2025-03-03T07:16:25.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-03T07:16:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Lets WiN all white Stars
 ```
-### [Discord](https://discord.gg/Nope)
+<br>### [Discord](https://discord.gg/Nope)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (299)|
+| ELO Regular | 1241 🔻  (297)|
 | ELO Competitive | 1265 🔻  (388)|
 | Total Matches | 32 |
 | Wins | 17 |

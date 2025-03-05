@@ -2,6 +2,7 @@
 title: ​System Shock
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 3 - 37 Omega Alpha
 date: 2024-09-30T00:59:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-30T00:59:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The home of small-team Competitive & Hardcore WS. Quality RS9+ queue 
 open via discord to visitors. We are a tight-knit and supportive crew
 . Visit our Discord at mmUnEav.
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

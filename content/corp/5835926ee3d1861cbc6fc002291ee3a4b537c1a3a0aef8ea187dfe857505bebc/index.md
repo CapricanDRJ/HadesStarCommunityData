@@ -2,14 +2,13 @@
 title: ​꿀벌왕국
 description: W:7 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 4 - 28 \[Blue\*Nation\]
 date: 2024-03-09T03:39:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 2019/5/27/월 - 최초 기록 시작
@@ -23,7 +22,7 @@ https://open.kakao.com/o/gBGFbATe
 
 최종 수정일 2022/12/16/금
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

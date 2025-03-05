@@ -2,6 +2,7 @@
 title: ​The Visionaries
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 48 Blood Hounds
 date: 2024-07-11T03:32:25.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-07-11T03:32:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 A constituent of the The Watchers' family. This corp is mostly overfl
 ow and retirees. 
 Join us on Discord for RS, WS, chat and other active members: mDEUrs8
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

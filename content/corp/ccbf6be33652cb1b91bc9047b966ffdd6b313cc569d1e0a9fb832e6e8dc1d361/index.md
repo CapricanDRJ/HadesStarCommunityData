@@ -2,6 +2,7 @@
 title: ​数字星际集团
 description: W:8 L:11 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 2 Red Alliance
 date: 2024-10-27T19:18:47.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2024-10-27T19:18:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=yellow><i><size=115>首席干事：郑少逸</i>   <color=green><size=95>代理首席：
 cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<color=purple>  <size=
 700>本团QQ福利群<b>763886797</b><color=red><size=920>不要捐旗舰
 ```
-### [Discord](https://discord.gg/数)
+<br>### [Discord](https://discord.gg/数)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1223)|
-| ELO Competitive | 1157 🔻  (1260)|
+| ELO Competitive | 1157 🔻  (1259)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 11 |

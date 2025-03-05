@@ -2,6 +2,7 @@
 title: ​TITANS
 description: W:3 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 7 - 50 新手联邦（新经济开发区）
 date: 2024-03-15T06:23:11.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-15T06:23:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b> BRASIL TITANS vem jogar!damos orientação ,respeitem o tempo de in
 atividade e quando tiver 10 membros na disposição bora pra ws
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

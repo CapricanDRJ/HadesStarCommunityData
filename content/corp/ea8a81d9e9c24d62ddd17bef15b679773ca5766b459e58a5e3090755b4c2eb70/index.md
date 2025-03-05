@@ -2,14 +2,13 @@
 title: ​Galactic Otters
 description: W:1 L:0 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ✅ 22 - 4 The Watchers
 date: 2023-11-05T14:18:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Ouvert dans l'entraide et la bonne humeur à tous les joueurs occasion
@@ -19,7 +18,7 @@ rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 
 "Vers l'infini et l'otter space !"
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

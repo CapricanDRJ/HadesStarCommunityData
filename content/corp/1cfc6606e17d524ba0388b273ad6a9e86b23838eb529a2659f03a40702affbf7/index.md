@@ -2,6 +2,7 @@
 title: ​Lofty Mountain
 description: W:16 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 16 - 4 星际集团
 date: 2025-01-15T21:53:04.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-15T21:53:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Part of ARk Ecosystem. We do WS every month. Don't forget to join our
  Discord
 ```
-### [Discord](https://discord.gg/bkjju25TCs)
+<br>### [Discord](https://discord.gg/bkjju25TCs)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

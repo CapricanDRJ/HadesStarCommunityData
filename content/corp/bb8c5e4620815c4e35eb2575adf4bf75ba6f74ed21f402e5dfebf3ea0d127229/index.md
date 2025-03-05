@@ -2,6 +2,7 @@
 title: ​Dadsw/Daughterz
 description: W:1 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 1 - 12 SILVER TERRA
 date: 2024-05-01T20:25:26.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-05-01T20:25:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 This is a team building exercise
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

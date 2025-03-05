@@ -2,14 +2,13 @@
 title: ​星际联盟（中国）
 description: W:13 L:17 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 5 星际集团
 date: 2025-01-10T14:44:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎萌新或大佬来到，这里没有欺骗，没有狡诈，只有诚信，只是帮助
@@ -23,7 +22,7 @@ date: 2025-01-10T14:44:33.000Z
 集团水群1023756986(qq)
 https://discord.gg/fAejNbTH
 ```
-### [Discord](https://discord.gg/AKnA5maMnG)
+<br>### [Discord](https://discord.gg/AKnA5maMnG)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

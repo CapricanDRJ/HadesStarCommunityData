@@ -2,6 +2,7 @@
 title: ​Mass Effect
 description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 date: 2024-04-10T16:54:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-10T16:54:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We'll bang, ok?
 ```
-### Whitestar Bonus ❌ 0%
+<br>### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

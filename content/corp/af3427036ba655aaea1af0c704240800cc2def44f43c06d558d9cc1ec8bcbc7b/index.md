@@ -2,6 +2,7 @@
 title: ​Черный Легион
 description: W:25 L:14 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 24 - 1 星域 
 date: 2025-03-04T09:50:02.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T09:50:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color="red">The Dark Legion is an international corporation of me
 rcenaries available for hire on white stars |Черный Легион- междунаро
 дная корпорация наемников, доступная для найма на белые звезды
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/72dm5dqT)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/72dm5dqT)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Slovensko-Activ
 description: W:0 L:16 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 4 - 33 Justice Vengers
 date: 2024-11-25T19:28:04.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-25T19:28:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Strážny psík Shu, vedie túto korporáciu a stráži všetkých členov. Hav
  728.      .  _-_  .  WS oponents: we are here to provide WS burnout 
 prevention; it's very real, serious topic. have a week off 🤗
 ```
-### [Discord](https://discord.gg/H4NkesnB)
+<br>### [Discord](https://discord.gg/H4NkesnB)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

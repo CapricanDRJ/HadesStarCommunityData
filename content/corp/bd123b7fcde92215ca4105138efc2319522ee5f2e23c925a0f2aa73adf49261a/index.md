@@ -2,14 +2,13 @@
 title: ​Best
 description: W:0 L:1 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ❌ 4 - 34 Ender
 date: 2023-12-30T13:50:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>-Еженедельные походы на БЗ
@@ -18,7 +17,7 @@ date: 2023-12-30T13:50:26.000Z
 <color=#6666FF>DISCORD</color>: pdsQpqw3Wy
 <color=#1DA1F2>TELEGRAM</color>: Best_Corp
 ```
-### Whitestar Bonus ❌ 15%
+<br>### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

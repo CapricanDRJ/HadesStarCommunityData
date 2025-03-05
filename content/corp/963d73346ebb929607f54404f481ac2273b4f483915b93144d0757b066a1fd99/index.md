@@ -2,6 +2,7 @@
 title: ​Вселенские 40%
 description: W:30 L:37 D:0 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 29 - 5 星落苑
 date: 2025-02-27T11:37:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-27T11:37:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
 ```
-### [Discord](https://discord.gg/fc2eg8hNJm)
+<br>### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

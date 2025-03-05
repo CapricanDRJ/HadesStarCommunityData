@@ -2,6 +2,7 @@
 title: ​Eternal empire 
 description: W:7 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 11 ЧВК "Котики"
 date: 2024-05-04T07:40:50.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-04T07:40:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome Eternal Empire, laid back take your time.. it's a game right.
 . I love White Stars, but getting a posse together's like pulling tee
 th.. so plz, a good show of hands & I'll start one 🖐️
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​第三共产星际世界
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 10 - 16 OPA
 date: 2024-08-06T16:34:20.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-08-06T16:34:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 <size=50>主盟：共产星际。 <color=red>集团交流QQ
 群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<col
 or=white>白星群：229395278想要加入集团先加集团QQ群
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

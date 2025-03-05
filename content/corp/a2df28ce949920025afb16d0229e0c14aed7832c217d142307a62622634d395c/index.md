@@ -2,6 +2,7 @@
 title: ​The Elite
 description: W:12 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 14 Pixies
 date: 2024-08-26T12:59:29.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-26T12:59:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the Elite!we do Red Star 3 and above, and White Stars whe
 n we have enough participants DISCORD MANDATORY!!!!
 ```
-### [Discord](https://discord.gg/https://discord.gg/w47dbC4qZM)
+<br>### [Discord](https://discord.gg/https://discord.gg/w47dbC4qZM)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

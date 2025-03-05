@@ -2,6 +2,7 @@
 title: ​星际集团
 description: W:2 L:4 D:2 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 3 超新星联盟
 date: 2024-06-19T11:31:25.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-06-19T11:31:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本团欢迎各位的到来，本团并无时间限制。国力超过1000或表现好可获得高级成员。黑名单：雪祭启明（因挑逗本集团）能领个神器吗？（背叛本集团）
 广告：无（有意者私聊本团的地球）
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

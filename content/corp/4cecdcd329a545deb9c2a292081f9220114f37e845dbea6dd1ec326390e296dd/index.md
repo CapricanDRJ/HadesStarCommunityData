@@ -2,6 +2,7 @@
 title: ​The Red Dwarves
 description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 10 华夏三体\-基沃托斯集团
 date: 2024-12-13T00:53:47.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-13T00:53:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Any New players join here, we can do quite a bit in large numbers! Ne
 wbs, Assemble! Pls build a white star scanner if you can (only if u c
 an) If u are not going to participate in white stars, tell me
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

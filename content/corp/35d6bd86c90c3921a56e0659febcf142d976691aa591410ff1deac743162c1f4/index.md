@@ -2,14 +2,13 @@
 title: ​New Era
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 18 Dumpster Fire
 date: 2023-12-16T04:05:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Todos en otras corps:
@@ -24,7 +23,7 @@ gaylor
 vayanse a la
 Discord: bS2yShvzDz
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

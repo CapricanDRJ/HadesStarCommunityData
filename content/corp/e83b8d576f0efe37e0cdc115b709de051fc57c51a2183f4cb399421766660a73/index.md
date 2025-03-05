@@ -2,6 +2,7 @@
 title: ​Hades' 420
 description: W:2 L:10 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 2 - 15 Pyke Syndicate
 date: 2025-01-08T12:49:08.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-08T12:49:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#9932CC><b><size=80>Welcome to the end of time.</size></b>
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

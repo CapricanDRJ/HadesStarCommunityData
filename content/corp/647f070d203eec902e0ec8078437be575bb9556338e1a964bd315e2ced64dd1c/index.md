@@ -2,14 +2,13 @@
 title: ​特拉斯丁第二共和国
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 4 - 0 CCCP
 date: 2023-12-07T15:22:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团为<size=150>新星团</size>第二分团
@@ -21,7 +20,7 @@ date: 2023-12-07T15:22:52.000Z
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

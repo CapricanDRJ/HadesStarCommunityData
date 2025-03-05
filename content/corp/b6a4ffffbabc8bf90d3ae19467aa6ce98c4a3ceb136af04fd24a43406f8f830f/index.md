@@ -2,6 +2,7 @@
 title: ​아베노노
 description: W:4 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 4 - 2 Sussy Coloner
 date: 2024-11-08T01:09:23.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-08T01:09:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

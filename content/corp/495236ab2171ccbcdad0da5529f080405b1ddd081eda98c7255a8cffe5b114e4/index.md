@@ -2,6 +2,7 @@
 title: ​Jalisco México
 description: W:11 L:29 D:5 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 20 Forces of Light
 date: 2024-08-15T17:36:27.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-15T17:36:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bienvenidos a Hades Star esperencias recomendaciones ayuda y mas 0 in
 actividad 
 ```
-### [Discord](https://discord.gg/https://discord.gg/SpFjAqBR)
+<br>### [Discord](https://discord.gg/https://discord.gg/SpFjAqBR)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

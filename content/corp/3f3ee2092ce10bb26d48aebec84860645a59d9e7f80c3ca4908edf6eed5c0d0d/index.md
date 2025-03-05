@@ -2,6 +2,7 @@
 title: ​Nightmares 
 description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ❌ 0 - 14 宇宙银河帝国
 date: 2024-05-23T10:24:18.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-23T10:24:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Habla hispana ... Activos con ganas de crecer en equipo y respeto.
 7 dias de inactividad sin aviso, expulsión.
 ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
 ```
-### Whitestar Bonus ❌ 0%
+<br>### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

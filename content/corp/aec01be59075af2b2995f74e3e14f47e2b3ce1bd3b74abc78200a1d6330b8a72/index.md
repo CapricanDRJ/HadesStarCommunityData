@@ -2,6 +2,7 @@
 title: ​Corp. Estelar
 description: W:38 L:20 D:0 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 25 - 10 SQPT
 date: 2025-03-01T20:17:55.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T20:17:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color="yellow"><size=80>Corp. Estelar | Axolotls</size></color></
 b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
-### Whitestar Bonus ✅ 42%
+<br>### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |

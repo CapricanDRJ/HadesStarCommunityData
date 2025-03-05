@@ -2,6 +2,7 @@
 title: ​Red_Coat_Mafia
 description: W:27 L:34 D:1 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ✅ 11 - 6 RGW
 date: 2025-03-04T18:04:48.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-03-04T18:04:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Active DRS queue. Competitive WS. RSEvent Top100. You don’t need an a
 ccount inGame to be a member. InGame space is prioritized for running
  red or white stars. <color="green"> Discord:MgcvvsKa8q
 ```
-### [Discord](https://discord.gg/MgcvvsKa8q)
+<br>### [Discord](https://discord.gg/MgcvvsKa8q)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (276)|
+| ELO Regular | 1247 🔺  (275)|
 | ELO Competitive | 1355 🔺  (204)|
 | Total Matches | 62 |
 | Wins | 27 |

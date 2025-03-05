@@ -2,14 +2,13 @@
 title: ​Sith Empire
 description: W:35 L:45 D:1 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ✅ 46 - 38 DTC
 date: 2025-02-28T12:59:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 For The Empire!
@@ -20,13 +19,13 @@ Join us on Discord
 
 Public Queue 14%-48%
 ```
-### [Discord](https://discord.gg/R6sJCw2)
+<br>### [Discord](https://discord.gg/R6sJCw2)
 ### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔺  (187)|
-| ELO Competitive | 1479 🔺  (85)|
+| ELO Competitive | 1479 🔺  (86)|
 | Total Matches | 81 |
 | Wins | 35 |
 | Losses | 45 |

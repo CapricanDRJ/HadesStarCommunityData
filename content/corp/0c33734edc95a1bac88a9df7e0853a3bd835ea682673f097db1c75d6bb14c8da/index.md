@@ -2,14 +2,13 @@
 title: ​IMPERIAL ARMADA
 description: W:43 L:30 D:2 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ✅ 27 - 22 Omega Alpha
 date: 2025-02-22T12:34:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 IA1
@@ -20,13 +19,13 @@ he most elite force and the conquest of the known and unknown galaxy
 discord obligatory
 https://discord.gg/bAAYCqG2cE
 ```
-### [Discord](https://discord.gg/bAAYCqG2cE)
+<br>### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1331 🔺  (130)|
-| ELO Competitive | 1447 🔺  (112)|
+| ELO Competitive | 1447 🔺  (113)|
 | Total Matches | 75 |
 | Wins | 43 |
 | Losses | 30 |

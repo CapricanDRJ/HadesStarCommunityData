@@ -2,6 +2,7 @@
 title: ​Shadow Council
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 3 Weyland Yutani 
 date: 2024-06-08T02:56:19.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-08T02:56:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Its continuing mission, to explore strange new worlds. To seek out ne
 w life and new civilizations. To boldly go where no one has gone befo
 re.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Nebulae Traders
 description: W:10 L:57 D:4 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 21 ZORG IND
 date: 2025-03-02T09:54:09.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-02T09:54:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
  https://discord.gg/5a4CpEq7
 ```
-### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
+<br>### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Kratos
 description: W:51 L:39 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 5 - 1 中国星际联盟
 date: 2025-03-02T14:49:42.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-03-02T14:49:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bienvenidos 😁
 ```
-### [Discord](https://discord.gg/RgusRrPMKT)
+<br>### [Discord](https://discord.gg/RgusRrPMKT)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1204 🔺  (498)|
-| ELO Competitive | 1349 🔺  (214)|
+| ELO Competitive | 1349 🔺  (213)|
 | Total Matches | 90 |
 | Wins | 51 |
 | Losses | 39 |

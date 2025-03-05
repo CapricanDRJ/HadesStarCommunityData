@@ -2,6 +2,7 @@
 title: ​Mandalorians
 description: W:1 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 28 Industrial W\.O
 date: 2024-07-21T13:44:34.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-07-21T13:44:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We the Mandalorians are corp-based culture composed of members from m
 ultiple species and bound by a common creed, language, and code. Disc
 ord https://discord.gg/BdUFA9bhPE , This is the way.
 ```
-### [Discord](https://discord.gg/BdUFA9bhPE)
+<br>### [Discord](https://discord.gg/BdUFA9bhPE)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

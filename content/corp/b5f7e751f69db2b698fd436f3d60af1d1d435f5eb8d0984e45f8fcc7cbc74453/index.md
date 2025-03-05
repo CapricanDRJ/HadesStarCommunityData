@@ -2,6 +2,7 @@
 title: ​边界-萌新俱乐部
 description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 5 - 0 Mecha Armada
 date: 2023-11-13T07:47:25.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-13T07:47:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 此集团为边界  分团 。活跃者请前往边界QQ：733613340
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

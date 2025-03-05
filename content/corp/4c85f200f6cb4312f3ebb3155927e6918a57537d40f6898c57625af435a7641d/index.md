@@ -2,6 +2,7 @@
 title: ​LOST PIRATES
 description: W:0 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 43 붉은늑대
 date: 2023-12-19T00:12:44.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-19T00:12:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=73><color=green>LOST PIRATES BREAKS UP</color></size>       Dar
 k Nebula does not reflect what Hades Star was.  In contrast to the ne
 w game policy we have decided to abandon the game.  12/20/2023
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

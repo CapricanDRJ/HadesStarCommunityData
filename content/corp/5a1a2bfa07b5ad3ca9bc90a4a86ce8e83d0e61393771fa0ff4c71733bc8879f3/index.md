@@ -2,6 +2,7 @@
 title: ​海賊ギルド
 description: W:5 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 12 - 0 E\.T\.A
 date: 2024-04-09T06:24:56.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-09T06:24:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ギルド大元帥サラマンダーのもとへ集い、シドの女神像を打ち上げるべし。今は眠りについています…
 ```
-### [Discord](https://discord.gg/https://discord.gg/e23hyUpZy2)
+<br>### [Discord](https://discord.gg/https://discord.gg/e23hyUpZy2)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

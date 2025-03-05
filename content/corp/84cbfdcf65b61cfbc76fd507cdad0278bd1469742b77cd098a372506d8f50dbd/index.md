@@ -2,6 +2,7 @@
 title: ​Uchiha
 description: W:3 L:12 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 5 第四天灾
 date: 2024-05-28T17:30:36.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-05-28T17:30:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 New and old welcome have fun discord is.     http://discord.com/invit
 e/38UnuWwp
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

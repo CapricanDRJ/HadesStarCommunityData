@@ -2,6 +2,7 @@
 title: ​AFronteiraFinal
 description: W:28 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 32 - 3 Серебряная орда
 date: 2025-02-16T12:00:31.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-16T12:00:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 VIRTUS UNITA FORTIOR. Seja bem vindo! Participe dos eventos nas Estre
 las vermelhas e brancas; mantenha as atividades e melhorias do sistem
 a em dia. Temos grupo de Discord.
 ```
-### [Discord](https://discord.gg/zM5ABcAR6s)
+<br>### [Discord](https://discord.gg/zM5ABcAR6s)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1426 🔺  (42)|
-| ELO Competitive | 1469 🔺  (91)|
+| ELO Competitive | 1469 🔺  (93)|
 | Total Matches | 36 |
 | Wins | 28 |
 | Losses | 7 |

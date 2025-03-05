@@ -2,14 +2,13 @@
 title: ​星海共同体
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 1 - 2 Dark Sun
 date: 2023-11-16T05:25:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#F44><b><size=75px>全称：星海命运共同体联盟
@@ -19,7 +18,7 @@ Long live the great communism!
 Q群:669494799
 部分人员即将转移至其他集团，详情请见Q群</size></b></color>
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

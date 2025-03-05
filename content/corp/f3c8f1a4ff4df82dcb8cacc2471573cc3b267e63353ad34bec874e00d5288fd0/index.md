@@ -2,6 +2,7 @@
 title: ​自由free
 description: W:0 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 2 - 18 Equinox
 date: 2024-12-07T05:10:20.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-12-07T05:10:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Hola amigo today top get max 64 all   Freedom doesn't mean you can't 
 go online! ! !
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1219)|
-| ELO Competitive | 1159 🔻  (1239)|
+| ELO Competitive | 1159 🔻  (1238)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

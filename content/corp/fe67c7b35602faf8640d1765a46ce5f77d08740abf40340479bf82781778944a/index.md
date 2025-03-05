@@ -2,14 +2,13 @@
 title: ​水星联合组织
 description: W:3 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 10 - 13 Embers Rising
 date: 2023-12-13T05:02:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=white>我们是<size=67><b>地球联合</b></size>集团的第二分盟
@@ -22,7 +21,7 @@ date: 2023-12-13T05:02:20.000Z
 QQ群号：742063070
 <color=yellow>*群内有教程，加入享有更多福利</color>
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

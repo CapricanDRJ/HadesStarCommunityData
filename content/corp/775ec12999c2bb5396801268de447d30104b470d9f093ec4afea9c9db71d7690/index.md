@@ -2,6 +2,7 @@
 title: ​USSR
 description: W:2 L:3 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 17 - 34 ItBurnsWhenIEMP
 date: 2023-12-07T18:23:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-07T18:23:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>• Ежедневные походы на КЗ 9-11</color>
 <color=white>• Еженедельные походы на БЗ</color>
 <color=purple>• Чат в TG</color>
 ```
-### [Discord](https://discord.gg/tFTT3b8H)
+<br>### [Discord](https://discord.gg/tFTT3b8H)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

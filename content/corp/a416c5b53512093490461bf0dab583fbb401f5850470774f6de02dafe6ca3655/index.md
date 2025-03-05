@@ -2,6 +2,7 @@
 title: ​舰队联邦[FF]
 description: W:1 L:7 D:3 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 3 the Rubber Duck
 date: 2024-11-15T16:24:04.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-15T16:24:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 恒星系70%是星区，30%是星球，但是整个哈迪斯宇宙都属于我们！                                     
            70% of the star system is a star region and 30% is a plane
 t, but the whole Hades universe belongs to us!
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​STARBLAZER 
 description: W:2 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 11 Kelebra
 date: 2024-02-14T00:39:59.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-14T00:39:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 For all fans of the STARBLAZER yamato series
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

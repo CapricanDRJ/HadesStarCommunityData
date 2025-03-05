@@ -2,6 +2,7 @@
 title: ​StarControl
 description: W:31 L:14 D:0 Bonus ❌ 16%
 image: ./favicon.png
+Summary: ❌ 0 - 43 Auscorp 
 date: 2025-01-27T15:41:24.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-27T15:41:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Competitive whitestar team of Hades Star veterans and long time playe
 rs. Discord is required, please join us there before applying in game
 . RS8-11
 ```
-### [Discord](https://discord.gg/j8wnKvB)
+<br>### [Discord](https://discord.gg/j8wnKvB)
 ### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |

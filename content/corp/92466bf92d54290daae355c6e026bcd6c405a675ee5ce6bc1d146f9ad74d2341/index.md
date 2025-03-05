@@ -2,6 +2,7 @@
 title: ​ТРУЛЯЛЯ
 description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 16 King's Guard
 date: 2025-02-04T16:46:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-04T16:46:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#00FF33>
 <color=red>...</color>
 Discord.gg/<b>WAXSmUb</b></color>
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

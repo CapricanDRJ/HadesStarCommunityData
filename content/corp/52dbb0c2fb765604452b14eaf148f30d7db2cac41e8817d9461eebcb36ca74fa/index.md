@@ -2,14 +2,13 @@
 title: ​QSO
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 2 - 6 Retarts
 date: 2024-09-22T10:57:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <size=60><color=white>我们是
@@ -22,7 +21,7 @@ date: 2024-09-22T10:57:59.000Z
 集团QQ群（打白星必需）：</color>1093246955
 <color=red>3日未上线踢出（请假除外）</color>
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

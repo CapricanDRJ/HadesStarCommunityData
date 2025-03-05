@@ -2,14 +2,13 @@
 title: ​ Eligius 
 description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 28 - 32 Hellfire Club
 date: 2024-03-16T12:00:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Escriban a cualquiera de los dos número para entrar al grupo de whats
@@ -20,7 +19,7 @@ app. Es de carácter obligatorio...
 Alianza de Corporaciones
 AXOLOTLS
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

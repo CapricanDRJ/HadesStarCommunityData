@@ -2,6 +2,7 @@
 title: ​레드썬
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 27   边界  
 date: 2024-10-17T12:52:29.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-17T12:52:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 직딩 환영
 자유롭게 놉시다
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

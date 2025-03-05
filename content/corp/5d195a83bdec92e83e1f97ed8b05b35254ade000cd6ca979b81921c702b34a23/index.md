@@ -2,14 +2,13 @@
 title: ​VoidRunners
 description: W:84 L:75 D:1 Bonus ✅ 44%
 image: ./favicon.png
+Summary: ❌ 2 - 29 ETER & CAOS
 date: 2025-03-01T07:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 **NewCorp**
@@ -21,12 +20,12 @@ date: 2025-03-01T07:06:32.000Z
 **English**
 *Donations Appreciated*
 ```
-### [Discord](https://discord.gg/vmbXh7r7yt)
+<br>### [Discord](https://discord.gg/vmbXh7r7yt)
 ### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1325)|
+| ELO Regular | 1107 🔻  (1324)|
 | ELO Competitive | 1456 🔺  (103)|
 | Total Matches | 160 |
 | Wins | 84 |

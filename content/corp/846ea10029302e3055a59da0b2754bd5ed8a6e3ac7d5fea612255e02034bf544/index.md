@@ -2,6 +2,7 @@
 title: ​Омикрон Альфа
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 6 - 0 KARI
 date: 2023-11-16T09:05:38.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-16T09:05:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### [Discord](https://discord.gg/first_order_hs)
+<br>### [Discord](https://discord.gg/first_order_hs)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Galactic Empire
 description: W:1 L:6 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 0 - 34 Свободный флот
 date: 2024-06-29T09:53:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Be a part of something, join the Galactic Empire!
@@ -18,7 +17,7 @@ We are recruiting and helping active members.
 Member of Space Ghost Alliance (GE, TF, RST, BB, SJ, USA)
 Discord: fYBf2GNU7y
 ```
-### Whitestar Bonus ❌ 14%
+<br>### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

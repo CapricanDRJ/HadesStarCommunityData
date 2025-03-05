@@ -2,6 +2,7 @@
 title: ​Sistemaimperial
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 9 tropa \(BR\)
 date: 2023-11-28T04:35:01.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-11-28T04:35:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Sistema imperial é uma corp recem criada que pretende ser uma das mel
 hores
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

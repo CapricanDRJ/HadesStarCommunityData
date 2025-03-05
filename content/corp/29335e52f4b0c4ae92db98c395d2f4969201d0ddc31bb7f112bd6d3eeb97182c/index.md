@@ -2,6 +2,7 @@
 title: ​Zeta Division 
 description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 4 - 3 蓝星集团
 date: 2024-12-07T23:37:10.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-07T23:37:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Training corp for ws and rs . We  like to help new people  , but  als
 o hapy to see experienced players. Main corp ( Industrial W.O) . Also
  join Discord!
 ```
-### [Discord](https://discord.gg/QJASDtk4j7)
+<br>### [Discord](https://discord.gg/QJASDtk4j7)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

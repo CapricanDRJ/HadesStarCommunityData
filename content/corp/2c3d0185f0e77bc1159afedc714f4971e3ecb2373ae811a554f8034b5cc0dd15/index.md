@@ -2,6 +2,7 @@
 title: ​Dominadores
 description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 1 - 25 Blood Hounds
 date: 2025-02-27T02:35:27.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-27T02:35:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pit
 udo
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

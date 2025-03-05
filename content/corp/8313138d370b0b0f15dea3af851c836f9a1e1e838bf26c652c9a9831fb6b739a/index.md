@@ -2,14 +2,13 @@
 title: ​Dauntless
 description: W:6 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 37 lost souls
 date: 2024-06-04T22:12:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=orange>We are BSO! The Oldest Thriving Alliance in H'S.</color
@@ -20,7 +19,7 @@ g together to excel.</b>
 
 RS6 and Discord needed. (YTaYrhy)
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

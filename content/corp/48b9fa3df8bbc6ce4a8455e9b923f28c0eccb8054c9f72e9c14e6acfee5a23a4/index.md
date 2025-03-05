@@ -2,6 +2,7 @@
 title: ​Glashan
 description: W:12 L:47 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 1 - 22 九州分团
 date: 2025-02-27T10:32:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T10:32:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome new members. We are Glashan, an international and friendly gr
 oup who play for fun and most of us are regularly online. English is 
 our main language in chat.
 ```
-### [Discord](https://discord.gg/Md9TAQJQTp)
+<br>### [Discord](https://discord.gg/Md9TAQJQTp)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

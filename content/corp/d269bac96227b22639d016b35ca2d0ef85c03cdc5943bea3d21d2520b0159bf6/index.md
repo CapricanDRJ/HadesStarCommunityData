@@ -2,6 +2,7 @@
 title: ​Back of the bus
 description: W:1 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 22 - 11 \*ПОБЕДА\*
 date: 2023-11-13T17:13:21.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-11-13T17:13:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen
  when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or 
 send friend request to Lucky/ImLucky2 to contact us
 ```
-### [Discord](https://discord.gg/ExdxEKXv5x)
+<br>### [Discord](https://discord.gg/ExdxEKXv5x)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

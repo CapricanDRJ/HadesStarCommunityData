@@ -2,6 +2,7 @@
 title: ​FAIR
 description: W:0 L:2 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 28 Stone Legion
 date: 2024-07-29T20:59:56.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-07-29T20:59:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 FAIR - Farm All In Range.  We are primarily a White Star corp. all co
 rp mambers are expected to do at least one white star a month.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

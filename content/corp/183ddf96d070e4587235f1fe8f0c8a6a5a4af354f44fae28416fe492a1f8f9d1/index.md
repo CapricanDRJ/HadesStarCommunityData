@@ -2,6 +2,7 @@
 title: ​Alpaca Nation
 description: W:11 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
+Summary: ✅ 23 - 0 天琴座联邦
 date: 2025-03-02T05:53:47.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-02T05:53:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1315 🔺  (149)|
-| ELO Competitive | 1346 🔺  (220)|
+| ELO Competitive | 1346 🔺  (219)|
 | Total Matches | 12 |
 | Wins | 11 |
 | Losses | 1 |

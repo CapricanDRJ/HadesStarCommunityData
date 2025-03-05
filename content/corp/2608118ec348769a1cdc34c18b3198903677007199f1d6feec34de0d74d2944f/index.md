@@ -2,6 +2,7 @@
 title: ​Sector7
 description: W:0 L:4 D:1 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 16 德意志第三帝国BATA分部
 date: 2024-02-26T13:22:47.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-26T13:22:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Req: English Speaking, Login Daily & Have Fun.
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

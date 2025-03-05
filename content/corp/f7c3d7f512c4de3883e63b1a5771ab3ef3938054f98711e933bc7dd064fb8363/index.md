@@ -2,6 +2,7 @@
 title: ​Wompwompway 
 description: W:39 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 8 - 25 TheBasics
 date: 2025-02-26T10:39:43.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-26T10:39:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome! Ask for the discord to best facilitate our leadership to hel
 p anyone who desires the aid.
 ```
-### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
+<br>### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

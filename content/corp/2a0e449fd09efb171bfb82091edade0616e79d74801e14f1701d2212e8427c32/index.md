@@ -2,14 +2,13 @@
 title: ​R2D2
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Stellar Exports
 date: 2023-12-22T11:26:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Bist du neu oder voll der Pro?! Flieg mit uns...bei RZwoDZwo!!!
@@ -19,7 +18,7 @@ Wir freuen uns auf dich!
 \o/
 https://discord.gg/UPTTtGQpTj
 ```
-### [Discord](https://discord.gg/UPTTtGQpTj)
+<br>### [Discord](https://discord.gg/UPTTtGQpTj)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

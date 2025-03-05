@@ -2,6 +2,7 @@
 title: ​Vega Conflict
 description: W:13 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 10 - 12 💮問鼎無垠💮
 date: 2025-02-24T23:00:56.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-24T23:00:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 A home for any new or veteran player who wants to grow their corporat
 ion. Team focused; total support. Growing fast!
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (300)|
+| ELO Regular | 1241 🔻  (298)|
 | ELO Competitive | 1276 🔻  (359)|
 | Total Matches | 25 |
 | Wins | 13 |

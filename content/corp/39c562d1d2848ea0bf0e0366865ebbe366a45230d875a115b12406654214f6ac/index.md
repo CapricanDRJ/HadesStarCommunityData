@@ -2,6 +2,7 @@
 title: ​游徒训练营
 description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 6 - 7 リリース
 date: 2024-06-30T17:31:48.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-06-30T17:31:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 求有所真，务有所实；涯有所勒，日无虚渡。
 ```
-### [Discord](https://discord.gg/量大管饱)
+<br>### [Discord](https://discord.gg/量大管饱)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

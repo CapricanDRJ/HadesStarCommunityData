@@ -2,6 +2,7 @@
 title: ​Serenity
 description: W:0 L:2 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 8 - 39 Black Sun
 date: 2023-12-12T23:11:46.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-12T23:11:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Serenity merged with lacuna. This leftover corp is not active. New pl
 ayers can use it as a quiet place to start.
 ```
-### [Discord](https://discord.gg/PSryd83)
+<br>### [Discord](https://discord.gg/PSryd83)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

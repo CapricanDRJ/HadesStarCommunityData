@@ -2,6 +2,7 @@
 title: ​Españoles
 description: W:28 L:67 D:0 Bonus ✅ 48%
 image: ./favicon.png
+Summary: ✅ 29 - 9 Deadspace
 date: 2025-03-02T16:39:56.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-03-02T16:39:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=60><b><color=yellow>ALIANZA HISPÁNICA</color></b></size>
 <color=red>Estrell.Rojas 5-11</color>
 <color=white>Estrellas Blancas semanales</color>
 Discord obligatorio: KAguMmM
 ```
-### [Discord](https://discord.gg/KAguMmM)
+<br>### [Discord](https://discord.gg/KAguMmM)
 ### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |

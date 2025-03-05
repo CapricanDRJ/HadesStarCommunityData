@@ -2,6 +2,7 @@
 title: ​希灵帝国
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 22 Lacuna X
 date: 2024-06-14T03:53:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-14T03:53:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 咸鱼团，没有在线要求。欢迎常玩的萌新跟大佬。
 
 集团QQ群：1011697232在群里修改成游戏马甲!～(￣▽￣～)
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

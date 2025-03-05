@@ -2,6 +2,7 @@
 title: ​Hellfire Club
 description: W:53 L:41 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 12 - 35 Providence
 date: 2025-03-01T13:02:06.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T13:02:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Wir bieten: gemeinsame rr/drr bis 11, wöchentliche WZ, Spaß, Tipps, H
 ilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordse
 rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

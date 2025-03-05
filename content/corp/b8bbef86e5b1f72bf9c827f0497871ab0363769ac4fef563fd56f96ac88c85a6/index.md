@@ -2,6 +2,7 @@
 title: ​Prometheus
 description: W:9 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 4 - 1 Weyland Yutani 
 date: 2024-06-19T01:40:30.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-19T01:40:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos
 !                                         Solicite sua participação n
 o nosso grupo no Wpp pelo chat!
 ```
-### [Discord](https://discord.gg/8baNJ6h2nH)
+<br>### [Discord](https://discord.gg/8baNJ6h2nH)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

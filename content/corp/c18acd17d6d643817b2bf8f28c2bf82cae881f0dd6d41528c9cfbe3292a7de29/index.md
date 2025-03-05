@@ -2,6 +2,7 @@
 title: ​探索舰队
 description: W:3 L:10 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 13 阿尔特拉集团
 date: 2024-03-12T13:21:58.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-12T13:21:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 请移到另一个探索舰队谢谢
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

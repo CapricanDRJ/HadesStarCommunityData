@@ -2,6 +2,7 @@
 title: ​Light Warriors
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 28 Famous Assasins
 date: 2024-02-20T04:02:07.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-20T04:02:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Weekly 10v10 white stars.
 ```
-### [Discord](https://discord.gg/c6sjypySxH)
+<br>### [Discord](https://discord.gg/c6sjypySxH)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

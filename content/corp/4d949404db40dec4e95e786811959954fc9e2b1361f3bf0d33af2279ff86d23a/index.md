@@ -2,6 +2,7 @@
 title: ​Out landers
 description: W:12 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 9 - 7 First Legion
 date: 2025-01-27T23:18:17.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-27T23:18:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Chill Corporation. English. White stars not required but encouraged i
 f possible. Come here to develop, help with red stars. Please stay re
 latively active. Discord not required but recommended.
 ```
-### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
+<br>### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

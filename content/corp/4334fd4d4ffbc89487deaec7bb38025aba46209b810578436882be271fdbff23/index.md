@@ -2,6 +2,7 @@
 title: ​荣耀之星
 description: W:20 L:19 D:5 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 4 - 12 Lupus Regnum
 date: 2025-01-31T14:41:53.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-01-31T14:41:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎大家加入我们团队。我们每周四上午开白周末参加即可。请勿长时间不上号。添加QQ 3465737977 /游戏内 fqy 好友以方便交流。
 招募成员！
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔻  (344)|
-| ELO Competitive | 1292 🔻  (316)|
+| ELO Competitive | 1292 🔻  (315)|
 | Total Matches | 44 |
 | Wins | 20 |
 | Losses | 19 |

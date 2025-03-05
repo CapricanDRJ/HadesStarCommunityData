@@ -2,6 +2,7 @@
 title: ​Grater U
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 41 ANDROMEDA INC\. 
 date: 2024-10-05T10:36:58.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-05T10:36:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 This is part of Grater T.Welcome the ones who are inactive and kicked
  by a bad guy called wx. Hope you guys a nice day
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

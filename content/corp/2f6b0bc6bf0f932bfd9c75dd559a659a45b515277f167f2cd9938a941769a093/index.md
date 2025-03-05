@@ -2,6 +2,7 @@
 title: ​E.T.A 二营
 description: W:0 L:9 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Nebulae Traders
 date: 2024-02-11T23:52:11.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-11T23:52:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

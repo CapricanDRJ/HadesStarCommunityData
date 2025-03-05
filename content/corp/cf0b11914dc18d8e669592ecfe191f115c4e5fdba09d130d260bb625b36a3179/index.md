@@ -2,6 +2,7 @@
 title: ​四季长春
 description: W:18 L:27 D:7 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 13 红日初升，其道大光
 date: 2025-02-10T10:49:09.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-10T10:49:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎加入，带打R6及以下红巨星。加成34%！福利：进盟送R6神器X5（自定义）  40级以上高级成员，80级以上干事。（常驻并取得信任的也
 会升干事）首席：四圣-青龙-中国。副首席；惊雷滚滚  Elffee。捣乱者一律降级，旗舰别乱跑。同盟：拆迁大队。建立时间2023年12月2
 3日
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

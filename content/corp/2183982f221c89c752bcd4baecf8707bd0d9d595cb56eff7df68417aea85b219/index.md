@@ -2,6 +2,7 @@
 title: ​宇宙生協
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 8 - 14 Лунный Феникс
 date: 2023-11-21T03:29:17.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-11-21T03:29:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ホワイトスターを持つ方をシニアに、一部をオフィサーに昇格させます。オフィサーはホワイトスタースキャンを起動できます。
 20日以上のログイン無しでキックします。リクエストで再入会可能です。
 White Star scanner owner is promoted to seniour member.
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

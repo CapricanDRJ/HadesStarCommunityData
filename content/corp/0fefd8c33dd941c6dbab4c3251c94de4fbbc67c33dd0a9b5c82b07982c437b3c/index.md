@@ -2,6 +2,7 @@
 title: ​Failures
 description: W:0 L:2 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 2 - 2 舰队联邦\[FF\]
 date: 2024-08-25T06:25:03.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-25T06:25:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Lesbians and Gaytelmen, Welcome to the FAILURES!!!
 ```
-### [Discord](https://discord.gg/FAILURES)
+<br>### [Discord](https://discord.gg/FAILURES)
 ### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |

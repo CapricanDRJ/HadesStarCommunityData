@@ -2,14 +2,13 @@
 title: ​Dreckiger Rest
 description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 14 - 28 pirates spatial
 date: 2023-11-18T08:46:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Man muß in den Dreck hineingeschlagen haben,
@@ -21,7 +20,7 @@ https://discord.gg/ftuA2DGDR4
 
 03/2023
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

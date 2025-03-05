@@ -2,6 +2,7 @@
 title: ​АНДРОМЕДА 
 description: W:40 L:77 D:1 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 0 - 25 VoidRunners
 date: 2025-03-01T01:38:40.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T01:38:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ищем активных игроков на БЗ. Артами не кормим, учим добывать. Играем 
 КЗ, МКЗ. Заходим здароваемся😉.
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

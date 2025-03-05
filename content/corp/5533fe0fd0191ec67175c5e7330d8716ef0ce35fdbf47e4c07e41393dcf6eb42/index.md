@@ -2,6 +2,7 @@
 title: ​MiddleOfNowhere
 description: W:4 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
+Summary: ✅ 31 - 0 墨痕空域
 date: 2025-02-28T10:24:28.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-28T10:24:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to MiddleofNowhere, we are part of the RSR Alliance, access t
 o the Alliance is gained though our red star "tunnel" .. ask about it
 .
 ```
-### [Discord](https://discord.gg/cKe7eNwCNZ)
+<br>### [Discord](https://discord.gg/cKe7eNwCNZ)
 ### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (313)|
+| ELO Regular | 1239 🔺  (311)|
 | ELO Competitive | 1266 🔺  (384)|
 | Total Matches | 5 |
 | Wins | 4 |

@@ -2,14 +2,13 @@
 title: ​Prosperity
 description: W:2 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 28 SILVER TERRA
 date: 2025-02-20T17:35:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Be Excellent.
@@ -21,7 +20,7 @@ Discord: WARZG9k
 Members are expected to join our Discord where all communication happ
 ens
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

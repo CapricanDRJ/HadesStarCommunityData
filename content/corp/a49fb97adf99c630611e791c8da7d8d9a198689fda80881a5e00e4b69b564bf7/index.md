@@ -2,6 +2,7 @@
 title: ​Hinterm Mars
 description: W:54 L:47 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 48 - 0 $TAR$
 date: 2025-02-28T09:14:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T09:14:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Wir sind die Talentschmiede von HINTERM MOND. Werde auch Du Teil des 
 besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
  WZ (Discordpflicht).               Twinkkonzern: $tar$
 ```
-### [Discord](https://discord.gg/SK46885)
+<br>### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

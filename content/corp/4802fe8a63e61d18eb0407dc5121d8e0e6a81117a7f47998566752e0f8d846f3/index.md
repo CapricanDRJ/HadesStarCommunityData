@@ -2,6 +2,7 @@
 title: ​Polaris
 description: W:0 L:10 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 1 - 42 Auscorp 
 date: 2025-02-02T03:55:35.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-02T03:55:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Casual group of mostly Canadians, all are welcome. White stars every 
 week, red stars whenever we can.
 Discord: https://discord.gg/S6fvaKp
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1326)|
+| ELO Regular | 1107 🔻  (1325)|
 | ELO Competitive | 1134 🔻  (1353)|
 | Total Matches | 10 |
 | Wins | 0 |

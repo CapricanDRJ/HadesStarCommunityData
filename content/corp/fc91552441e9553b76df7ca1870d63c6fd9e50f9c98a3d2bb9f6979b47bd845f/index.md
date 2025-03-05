@@ -2,6 +2,7 @@
 title: ​the heavy
 description: W:24 L:13 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 32 - 41 Duchy Arrakis
 date: 2025-02-28T09:14:22.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-02-28T09:14:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are an independent Corporation with active veteran players.  Activ
 e members are very welcome, we can assist you to grow.
 
 Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 ```
-### [Discord](https://discord.gg/6vgrePN)
+<br>### [Discord](https://discord.gg/6vgrePN)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

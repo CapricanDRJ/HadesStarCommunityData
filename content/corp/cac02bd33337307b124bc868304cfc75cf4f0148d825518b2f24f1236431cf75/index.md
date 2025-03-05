@@ -2,6 +2,7 @@
 title: ​RED STAR CORP
 description: W:3 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ✅ 13 - 1 The Witness
 date: 2025-02-09T17:19:10.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-09T17:19:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​l'empire sylli
 description: W:0 L:6 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 6 华夏三体舰队
 date: 2024-07-02T23:24:52.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-07-02T23:24:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace. 
 ```
-### [Discord](https://discord.gg/7MEkhpJ47M)
+<br>### [Discord](https://discord.gg/7MEkhpJ47M)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

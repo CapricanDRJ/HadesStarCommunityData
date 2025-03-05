@@ -2,6 +2,7 @@
 title: ​Любители Пива
 description: W:2 L:19 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 47  RELAX CZ/SK
 date: 2024-03-08T19:38:42.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-08T19:38:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Всем любителям пива, сюда. Да прибудет с вами пенное...
 https://discord.gg/C3nffwQkCc
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

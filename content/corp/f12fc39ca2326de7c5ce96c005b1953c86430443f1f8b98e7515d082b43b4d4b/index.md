@@ -2,14 +2,13 @@
 title: ​Providence
 description: W:38 L:22 D:0 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ✅ 35 - 12 Hellfire Club
 date: 2025-03-01T13:02:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Friendly, laid back, English speaking corp.
@@ -19,7 +18,7 @@ Part of Red Star Raiders alliance
 
 https://discord.gg/nUgqhbn
 ```
-### [Discord](https://discord.gg/nUgqhbn)
+<br>### [Discord](https://discord.gg/nUgqhbn)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |

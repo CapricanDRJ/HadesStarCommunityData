@@ -2,6 +2,7 @@
 title: ​Rebellion!
 description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 喵喵喵喵喵喵喵
 date: 2024-04-10T16:53:43.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-10T16:53:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like
  otherwise a fairly inactive crew
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

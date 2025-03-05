@@ -2,6 +2,7 @@
 title: ​中国星际联盟·第一自治州
 description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 PDC
 date: 2024-09-06T10:34:34.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-06T10:34:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本团为中国星际联盟自治分团，欢迎加入！
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​империя тьмы
 description: W:20 L:31 D:3 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 10 星际集团
 date: 2024-10-29T12:07:38.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-10-29T12:07:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 я не знаю что сюда написать, просто клан для того чтобы копить монеты
 , не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1315)|
+| ELO Regular | 1109 🔻  (1314)|
 | ELO Competitive | 1251 🔻  (426)|
 | Total Matches | 54 |
 | Wins | 20 |

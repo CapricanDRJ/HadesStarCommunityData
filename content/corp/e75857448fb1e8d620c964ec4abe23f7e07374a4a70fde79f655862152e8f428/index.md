@@ -2,14 +2,13 @@
 title: ​BlackStar Order
 description: W:86 L:56 D:0 Bonus ✅ 58%
 image: ./favicon.png
+Summary: ✅ 61 - 27 Crux Cadre
 date: 2025-03-04T22:10:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=white>We are BSO! The oldest conglomerate in HS
@@ -20,7 +19,7 @@ ther to excel
 You are RS5+ & want to join?</color>
 Discord: (YTaYrhy)
 ```
-### [Discord](https://discord.gg/YTaYrhy)
+<br>### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ✅ 58%
 
 | Statistic | Value |

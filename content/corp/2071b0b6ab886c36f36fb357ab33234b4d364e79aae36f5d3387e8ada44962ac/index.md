@@ -2,6 +2,7 @@
 title: ​korea
 description: W:23 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 5 - 16 Млечный путь
 date: 2024-06-15T09:41:25.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-06-15T09:41:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

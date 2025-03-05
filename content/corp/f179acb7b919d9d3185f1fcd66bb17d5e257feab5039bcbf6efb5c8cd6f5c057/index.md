@@ -2,14 +2,13 @@
 title: ​Star Blazers
 description: W:16 L:43 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 4 - 12 Kelebra
 date: 2025-03-04T22:55:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 From this Star, 2 the last Star.
@@ -21,7 +20,7 @@ Demotion/Removal:-
 
 Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 ```
-### [Discord](https://discord.gg/bPeyG7RQ5t)
+<br>### [Discord](https://discord.gg/bPeyG7RQ5t)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

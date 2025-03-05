@@ -2,6 +2,7 @@
 title: ​Hungary First
 description: W:18 L:14 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 17 Eastern Front
 date: 2024-11-20T08:19:56.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-20T08:19:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 For Hungarians. Magyar játékosoknak, akik szeretik a csapatmunkàt! La
 nguages: Hungarian, English.
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

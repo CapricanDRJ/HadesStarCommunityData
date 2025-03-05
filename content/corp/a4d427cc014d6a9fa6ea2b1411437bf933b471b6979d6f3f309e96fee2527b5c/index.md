@@ -2,6 +2,7 @@
 title: ​Redd Armada
 description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 6 - 17 한국인
 date: 2024-05-20T13:48:09.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-05-20T13:48:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The interdimensional military force named after the founding commande
 r, John Redd. We do not serve under a flag but only through one ideal
 , protection of the multiverse. Integrity, Loyalty, Respect
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (219)|
+| ELO Regular | 1272 🔻  (218)|
 | ELO Competitive | 1286 🔻  (331)|
 | Total Matches | 10 |
 | Wins | 8 |

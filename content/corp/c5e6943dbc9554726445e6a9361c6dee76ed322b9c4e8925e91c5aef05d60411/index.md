@@ -2,6 +2,7 @@
 title: ​銀河星际集团
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 6 - 1 Jalisco México
 date: 2024-01-26T02:15:54.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-26T02:15:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 集團目前休眠
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

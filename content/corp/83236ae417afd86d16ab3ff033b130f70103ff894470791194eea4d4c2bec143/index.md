@@ -2,6 +2,7 @@
 title: ​Belters
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 25 云浪山庄↕
 date: 2023-11-11T10:02:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-11-11T10:02:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Looking for active and energetic players who want to have fun and gro
 w. Corp RS encouraged and frequent WS. 
 https://discord.gg/PhNPS5MyUc
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

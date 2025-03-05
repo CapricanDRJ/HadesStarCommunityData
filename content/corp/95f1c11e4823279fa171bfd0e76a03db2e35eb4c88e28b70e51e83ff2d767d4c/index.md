@@ -2,6 +2,7 @@
 title: ​Imperio Galacti
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 18 Свободный флот
 date: 2023-11-23T03:02:03.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-11-23T03:02:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Buenos gente, estas corporación esta demasiada inactiva vamos intenta
 r estar mas activos poreso esque aveses perdemos en las EB mas activo
 s ay que hacer una comunidad activa gente; nuestra alianza F.V
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

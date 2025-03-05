@@ -2,6 +2,7 @@
 title: ​Zeta LLC
 description: W:7 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 5 - 12 Industrial W\.O
 date: 2024-06-14T20:50:12.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-06-14T20:50:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Добро пожаловать! Это 2-я корпа Медведи для твинов и тех игроков, кто
  пока афк. Рады как новичкам, так и бывалым игрокам! Стучитесь в Медв
 еди и Дом Датэ. Весь движ там. Коммуникация в Телеграм. 
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (229)|
+| ELO Regular | 1266 🔻  (228)|
 | ELO Competitive | 1270 🔻  (369)|
 | Total Matches | 9 |
 | Wins | 7 |

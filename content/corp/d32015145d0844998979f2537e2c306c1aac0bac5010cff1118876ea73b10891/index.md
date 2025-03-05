@@ -2,14 +2,13 @@
 title: ​Peasants
 description: W:2 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 21 - 0 Weyland Yutani 
 date: 2024-07-24T23:22:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Active Players Only. Don't join if your not going to play. 
@@ -20,7 +19,7 @@ Discord  is mandatory (s22bSE6EyU)
 Max 7 days of inactivity.
 HS Compendium required to join WS's
 ```
-### [Discord](https://discord.gg/s22bSE6EyU)
+<br>### [Discord](https://discord.gg/s22bSE6EyU)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

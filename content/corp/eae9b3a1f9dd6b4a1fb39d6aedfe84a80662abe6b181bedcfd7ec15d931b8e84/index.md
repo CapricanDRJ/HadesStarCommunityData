@@ -2,14 +2,13 @@
 title: ​Shrimp City
 description: W:21 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 22 青丘湖
 date: 2024-10-10T13:09:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Rise, champion! Join the space shrimp legion
@@ -18,7 +17,7 @@ Season 56: 6 wins 0 loses
 Season 57: 5 wins 1 loses
 Season 58: 3 wins 1 loses
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/dEGkUskt)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/dEGkUskt)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

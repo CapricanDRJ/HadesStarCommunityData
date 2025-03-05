@@ -2,14 +2,13 @@
 title: ​THE BENDERA
 description: W:15 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 26 - 4 Veteran's Haven
 date: 2024-05-16T03:38:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=red><size=70>WELCOME TO THE BENDERA</size></color> 
@@ -19,7 +18,7 @@ date: 2024-05-16T03:38:26.000Z
 -NEW PLAYERS ARE WELCOME HERE
 -THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

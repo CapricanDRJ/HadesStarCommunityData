@@ -2,14 +2,13 @@
 title: ​地球联合
 description: W:12 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 14 - 34 Omega Alpha
 date: 2024-08-17T12:30:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=white>我们是<size=67><b>地球联合</b></size>集团的主盟
@@ -22,7 +21,7 @@ date: 2024-08-17T12:30:46.000Z
 QQ群号：742063070
 <color=yellow>*群内有教程，加入享有更多福利</color>
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​hades star萌新指引站
 description: W:13 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 4 ALPHA SQUADRON
 date: 2025-02-11T13:33:34.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-11T13:33:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎萌新和大佬们的加入Q群852308177
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

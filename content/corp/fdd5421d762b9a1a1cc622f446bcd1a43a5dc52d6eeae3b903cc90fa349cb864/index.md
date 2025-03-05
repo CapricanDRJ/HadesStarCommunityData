@@ -2,14 +2,13 @@
 title: ​Anarchy
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 12 Space Pirates
 date: 2023-11-06T03:29:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Competitive White Stars
@@ -20,7 +19,7 @@ Discord link below for game advice, private RS coordination, trading,
 
 https://discord.gg/HV5zgTg3SQ
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

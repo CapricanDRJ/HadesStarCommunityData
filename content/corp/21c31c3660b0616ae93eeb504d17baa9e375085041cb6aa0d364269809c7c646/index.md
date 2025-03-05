@@ -2,14 +2,13 @@
 title: ​Relic Hunters
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 25 - 8 VoidCorp
 date: 2023-11-30T23:10:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Fun Enthusiastic Team
@@ -24,7 +23,7 @@ Weekly WS
 Discord is mandatory:
 https://discord.gg/sYAuq5vAD4
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

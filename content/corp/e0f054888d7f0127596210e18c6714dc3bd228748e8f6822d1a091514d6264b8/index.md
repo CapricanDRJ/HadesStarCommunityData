@@ -2,6 +2,7 @@
 title: ​蓝色星系一号分盟
 description: W:1 L:7 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 9 星际集团
 date: 2024-09-12T13:49:05.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-12T13:49:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 蓝色星系第一分盟  意在培养R6以下萌新  预备白星人员   欢迎各位萌新大佬前来   喜欢活跃的人员可前往主盟和二分盟，不要捐旗舰，q群
 446097226
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

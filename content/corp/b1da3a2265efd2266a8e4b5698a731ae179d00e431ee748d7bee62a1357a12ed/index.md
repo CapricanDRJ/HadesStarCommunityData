@@ -2,6 +2,7 @@
 title: ​＊Alfa y Omega＊
 description: W:29 L:12 D:2 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 12 imperio estelar
 date: 2025-02-24T19:05:26.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-24T19:05:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=green><size=70>*Alfa y Omega*</size></color></b><b><color=b
 lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 ...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

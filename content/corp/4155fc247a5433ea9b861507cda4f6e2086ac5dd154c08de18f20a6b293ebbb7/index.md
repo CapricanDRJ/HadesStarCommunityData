@@ -2,14 +2,13 @@
 title: ​Séptimo Círculo
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 17 Созидание 2\.0
 date: 2023-12-12T20:56:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><color=white><size=90><color=yellow>Séptimo Círculo™</color></size
@@ -20,7 +19,7 @@ Una EB tras otra</size>
 RS: WhatsApp
 Alianza Axolotls</i></color></b>
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

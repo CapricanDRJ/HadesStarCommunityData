@@ -2,6 +2,7 @@
 title: ​星系联盟
 description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 1 - 17 萌新集团
 date: 2025-02-26T13:45:02.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-26T13:45:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎萌新们加入，到了20级以上就可以去主团了，前三名加入的当干事，主团国际联盟，干事请不要随便把别人晋升成干事，最多晋升成高级成员，请大家
 常驻。   不定期清红点
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

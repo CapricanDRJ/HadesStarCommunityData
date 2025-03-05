@@ -2,14 +2,13 @@
 title: ​Lacuna Academy
 description: W:15 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 14 - 0 共和服务器
 date: 2024-06-12T21:45:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>Lacuna Group's</b> entry corp.
@@ -19,7 +18,7 @@ RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 RS 8-11 see Lacuna Ind.
 ```
-### [Discord](https://discord.gg/BFfSkvu)
+<br>### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

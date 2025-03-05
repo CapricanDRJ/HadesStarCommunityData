@@ -1,7 +1,8 @@
 ---
 title: ​Октябристы
-description: W:67 L:81 D:2 Bonus ✅ 40%
+description: W:67 L:81 D:2 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 1 - 12 Black Star llc\.
 date: 2025-02-26T04:34:09.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-26T04:34:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Умеренная правая политическая партия крупных землевладельцев России )
  мы в телеге https://t.me/+VA_QNsSwibFjY2Vi
 ```
-### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 40%
+<br>### [Discord](https://discord.gg/XMAWRfxQcD)
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

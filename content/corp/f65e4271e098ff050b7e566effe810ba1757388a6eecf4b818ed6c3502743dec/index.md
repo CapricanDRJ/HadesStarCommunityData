@@ -2,6 +2,7 @@
 title: ​宇宙联盟（中国）
 description: W:30 L:42 D:6 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 12 - 0 落魄山
 date: 2025-02-26T11:14:46.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-26T11:14:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 招人，入团要求：红巨星lv4及以上，有白星扫描仪，能打白星。Lv40及以上加入必成干事。有事直接找首席Thomas，首席不在找其他干事。你
 想要的这里都有，入团即送d7/d8 ，定期打白，请投喂旗舰1,注意在一周内无任何红巨星或白星参加则被踢出本星际集团，如尝试加入本星际集团您
 将会被永久踢出本星际集团
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (286)|
+| ELO Regular | 1245 🔺  (284)|
 | ELO Competitive | 1318 🔺  (267)|
 | Total Matches | 78 |
 | Wins | 30 |

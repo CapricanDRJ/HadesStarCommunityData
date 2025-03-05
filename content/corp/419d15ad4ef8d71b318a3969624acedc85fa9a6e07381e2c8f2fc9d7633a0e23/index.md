@@ -2,6 +2,7 @@
 title: ​Ascalon
 description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 6 Krasse Bros
 date: 2023-12-13T05:42:23.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-12-13T05:42:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Casual players welcome 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Todesschwadron
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 6 - 3 华夏航队
 date: 2024-01-08T04:27:23.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-01-08T04:27:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Das Todesschwadron war eine spezielle Einheit der imperialen Flotte u
 nter dem persönlichen Kommando von Darth Vader und aufgrund ihrer mil
 itärischen Stärke in der Galaxis gefürchtet.
 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/fPPpCktmhu)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/fPPpCktmhu)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

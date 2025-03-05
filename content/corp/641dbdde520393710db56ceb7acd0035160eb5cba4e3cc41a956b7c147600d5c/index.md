@@ -2,6 +2,7 @@
 title: ​StarFun
 description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 7 物竞天择，适者生存
 date: 2025-01-30T13:49:21.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-30T13:49:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Hi !
 ```
-### [Discord](https://discord.gg/4jmzQnZZkr)
+<br>### [Discord](https://discord.gg/4jmzQnZZkr)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

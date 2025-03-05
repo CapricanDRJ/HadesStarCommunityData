@@ -2,6 +2,7 @@
 title: ​Red Star Corp.
 description: W:6 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 39 Elysium
 date: 2025-02-08T03:45:23.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-02-08T03:45:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Deutscher Konzern für Fortgeschrittene
 
 - Chataktivität gern gesehen
 - Sei Freundlich & Fair
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

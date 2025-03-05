@@ -2,14 +2,13 @@
 title: ​第五星际
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 4 - 0 CCCP
 date: 2024-03-23T13:21:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本团秉承共产主义原则，互帮互助，欢迎各位加入。
@@ -20,7 +19,7 @@ date: 2024-03-23T13:21:55.000Z
 <color=yellow>QQ群：946597244
 本团属于九团公约成员
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

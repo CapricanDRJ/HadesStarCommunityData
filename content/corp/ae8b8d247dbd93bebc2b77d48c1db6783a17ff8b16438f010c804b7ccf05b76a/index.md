@@ -2,6 +2,7 @@
 title: ​Созидание 2.0
 description: W:11 L:16 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 8 - 6 Слава Украине\!
 date: 2024-10-15T18:52:57.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-15T18:52:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 После великой депресии в Созидании, идёт только вперёд ⭐ <b>Созидание
  2.0</b> ⭐<br><br>Дружественные корпы:<br>Спутник, СОЮЗ, RUS, The Sep
 eratists<br><br><color=red>ДС обязателен
 ```
-### [Discord](https://discord.gg/eukzrdT88y)
+<br>### [Discord](https://discord.gg/eukzrdT88y)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

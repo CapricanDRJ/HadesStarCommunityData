@@ -2,6 +2,7 @@
 title: ​Bund von Lykon
 description: W:2 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 31 Halcon español
 date: 2025-02-15T12:43:15.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-15T12:43:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Willkommen im chilligsten Verein der Galaxie. Nix muss, vieles kann. 
 Wöchentliches Treffen in der Mos Eisley Cantina ist erwünscht. Alle z
 wei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

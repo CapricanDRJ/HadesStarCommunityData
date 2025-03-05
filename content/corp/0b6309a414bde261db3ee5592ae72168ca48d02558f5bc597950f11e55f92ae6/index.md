@@ -2,6 +2,7 @@
 title: ​Quantum Cats
 description: W:9 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 2 - 34 Newbs
 date: 2025-02-11T16:53:57.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-11T16:53:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Relaxed game play. The Corp for working people also known as “The hot
  tub of Hades Star”. We have real world jobs, and game accordingly. P
 lease join us on Discord and don't be a stranger!
 ```
-### [Discord](https://discord.gg/drqrMsVtEp)
+<br>### [Discord](https://discord.gg/drqrMsVtEp)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

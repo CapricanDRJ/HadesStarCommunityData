@@ -2,6 +2,7 @@
 title: ​第一序列
 description: W:41 L:55 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 1 - 33 Auscorp 
 date: 2025-02-08T09:25:54.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-08T09:25:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=50>◆◆◆◆◆◆◆◆</color>
 <color=red>◆祝各位早日R12!!!</color></size>
 <color=yellow>◆</color>
 ```
-### [Discord](https://discord.gg/U7S2BaueGU)
+<br>### [Discord](https://discord.gg/U7S2BaueGU)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1271)|
-| ELO Competitive | 1447 🔻  (111)|
+| ELO Competitive | 1447 🔻  (112)|
 | Total Matches | 96 |
 | Wins | 41 |
 | Losses | 55 |

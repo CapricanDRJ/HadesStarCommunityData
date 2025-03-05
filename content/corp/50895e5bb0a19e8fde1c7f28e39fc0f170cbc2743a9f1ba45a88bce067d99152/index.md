@@ -2,14 +2,13 @@
 title: ​Space Donuts
 description: W:4 L:4 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ✅ 48 - 7 The X \- Files
 date: 2024-10-19T02:17:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow>Middle of the Road corp of Oceania Alliance</color>
@@ -19,7 +18,7 @@ date: 2024-10-19T02:17:08.000Z
 
 <color=red>Joining Discord is required for membership</color>
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/bpZe9bqY)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/bpZe9bqY)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

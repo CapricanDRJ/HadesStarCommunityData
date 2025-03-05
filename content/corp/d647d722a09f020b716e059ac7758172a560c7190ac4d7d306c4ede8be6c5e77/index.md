@@ -2,14 +2,13 @@
 title: ​Void
 description: W:13 L:20 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 7 - 31 六大天神
 date: 2025-02-26T00:38:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Chill corp for active RS and WS pilots! All experience levels welcome
@@ -21,7 +20,7 @@ https://discord.gg/jPftecDuNp
 
 Primarily English
 ```
-### [Discord](https://discord.gg/jPftecDuNp)
+<br>### [Discord](https://discord.gg/jPftecDuNp)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

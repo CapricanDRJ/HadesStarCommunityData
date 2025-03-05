@@ -2,14 +2,13 @@
 title: ​Gummibärenbande
 description: W:6 L:33 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 10 - 38 BrazilCorp\.
 date: 2025-02-28T12:04:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Hilfe und Rat
@@ -23,7 +22,7 @@ https://discord.gg/M35HmhvmC2
 
 Mitglied der Tartaros Armada 
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

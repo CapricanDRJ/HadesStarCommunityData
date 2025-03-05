@@ -2,14 +2,13 @@
 title: ​pirates spatial
 description: W:61 L:56 D:0 Bonus ✅ 50%
 image: ./favicon.png
+Summary: ❌ 15 - 26 Planet Express
 date: 2025-03-01T15:47:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort
@@ -19,7 +18,7 @@ RS7 à RS11 full coop
 WS HL hebdo
 https://discord.gg/wZcGGNZ
 ```
-### [Discord](https://discord.gg/wZcGGNZ)
+<br>### [Discord](https://discord.gg/wZcGGNZ)
 ### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |

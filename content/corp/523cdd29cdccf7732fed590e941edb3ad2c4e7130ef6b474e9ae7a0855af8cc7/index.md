@@ -2,14 +2,13 @@
 title: ​cikopo
 description: W:0 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 19 Halcon español
 date: 2024-04-27T09:15:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Casual Corp. Terbuka untuk semua active player. Bagian dari Nusantara
@@ -18,7 +17,7 @@ Casual Corp. Terbuka untuk semua active player. Bagian dari Nusantara
 Ingin menjadi anggota?
 Join Discord kita dulu: https://discord.gg/MCDb2Mt
 ```
-### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt)
+<br>### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

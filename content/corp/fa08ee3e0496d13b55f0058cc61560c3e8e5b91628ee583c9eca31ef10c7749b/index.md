@@ -2,14 +2,13 @@
 title: ​C'est pas faux!
 description: W:3 L:6 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 23 - 11 АарнСарт 
 date: 2025-02-22T09:34:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 "L'ivresse du vide et l'exaltation de la victoire sont un trésor qu'a
@@ -19,7 +18,7 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 
 Discord : wZcGGNZ
 ```
-### [Discord](https://discord.gg/wZcGGNZ )
+<br>### [Discord](https://discord.gg/wZcGGNZ )
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Farland Ind.
 description: W:7 L:19 D:1 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 17 - 32 BlackStar Order
 date: 2024-07-17T23:00:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=white><color=yellow>Proud member of the UIH Family.</color>
@@ -19,7 +18,7 @@ Weekly comp & casual WS.
 
 Join via Discord: N3uPEvsFY9</color>
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

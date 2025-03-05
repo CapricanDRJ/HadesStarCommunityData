@@ -2,6 +2,7 @@
 title: ​萌新的收留所
 description: W:18 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 22 - 0 华夏三体\-基沃托斯集团
 date: 2025-02-08T12:31:13.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-02-08T12:31:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 这是个不怎么活跃的集团
 但是这是个摸鱼集团，只要友好相处
 集团QQ群：979969673
 分支         ：萌新的收留所2                        
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

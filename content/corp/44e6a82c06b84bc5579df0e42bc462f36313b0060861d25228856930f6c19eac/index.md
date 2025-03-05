@@ -2,6 +2,7 @@
 title: ​Fairy tail 
 description: W:7 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 1 - 5 星际公约组织
 date: 2025-01-23T01:56:25.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-23T01:56:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Todoas las personas que puedan hablar español esta permitido aqui nos
  cuidamos como familia,  si no se conecta en 30 dias seran expulsados
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

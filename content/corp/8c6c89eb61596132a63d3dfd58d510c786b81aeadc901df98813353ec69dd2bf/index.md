@@ -2,6 +2,7 @@
 title: ​星约组织：莫比乌斯分团
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 3 - 10 星际公约组织
 date: 2024-12-02T12:28:44.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-12-02T12:28:44.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们是星约组织第二分团！目前正处于建设中，在这里，请互帮互助，各自发展，如果你在30级以上请去总团星际公约组织！        星海灿烂，
 星约永恒                欢迎你的加入！QQ群：993612413
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

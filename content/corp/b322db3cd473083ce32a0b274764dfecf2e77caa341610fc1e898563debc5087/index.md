@@ -2,14 +2,13 @@
 title: ​第六星际
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 13 - 0 Lacuna Academy
 date: 2024-03-28T14:43:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本团秉承共产主义原则，互帮互助，欢迎各位加入。
@@ -18,7 +17,7 @@ date: 2024-03-28T14:43:09.000Z
 请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
 <color=yellow>QQ群：946597244
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

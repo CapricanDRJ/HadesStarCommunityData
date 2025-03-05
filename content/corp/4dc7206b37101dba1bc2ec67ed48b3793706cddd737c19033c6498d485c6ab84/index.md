@@ -2,6 +2,7 @@
 title: ​Team Rainbow
 description: W:5 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 28 - 21 Ещё один Миф
 date: 2024-12-24T17:30:18.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-24T17:30:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the Rainbow Corp.    **Welcome to all our new gigachads. H
 opefully you'll be gyatt Ohio skibidi here. Remember, discord is no c
 ap fyah, so get cooked.**
 ```
-### [Discord](https://discord.gg/eghZesnPZn)
+<br>### [Discord](https://discord.gg/eghZesnPZn)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​WFOS
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Fleet Corp Ares
 date: 2024-06-15T22:12:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Warriors From Outer Space !
@@ -22,7 +21,7 @@ Proud member of The Dark Matter Syndicate
 Discord:
 https://discord.gg/kTmpmWx
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

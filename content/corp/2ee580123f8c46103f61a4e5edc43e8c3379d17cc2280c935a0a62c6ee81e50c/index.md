@@ -2,6 +2,7 @@
 title: ​德意志联邦集团
 description: W:0 L:4 D:3 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 13 WHITE NOVA
 date: 2024-08-25T04:29:53.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-25T04:29:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎任何人<br>首席：陆陆陆<br>黑名单：三体(AEN-3092)<br>神圣罗马帝国主团<br>南级星联盟成员<br>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

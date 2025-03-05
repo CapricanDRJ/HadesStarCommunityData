@@ -2,14 +2,13 @@
 title: ​Space Anomalies
 description: W:1 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 14 - 12 Рагнарёк
 date: 2023-11-08T17:21:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Welcome Space Trucker!
@@ -19,7 +18,7 @@ Let us know if you'll be inactive, we keep this Corp alive!
 
 Discord: https://discord.gg/vndpWu5
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​WHITE NOVA
 description: W:2 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 7 Planet Express
 date: 2024-11-12T02:50:10.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-12T02:50:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nue
 vos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA C
 ORPORACIÓN   • MÉXICO INFINITO 
 ```
-### [Discord](https://discord.gg/invite/qEx3pN9A)
+<br>### [Discord](https://discord.gg/invite/qEx3pN9A)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

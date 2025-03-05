@@ -2,6 +2,7 @@
 title: ​Pyke Syndicate
 description: W:9 L:40 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 2 - 11 对，进就进人少的
 date: 2025-02-12T11:15:43.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-12T11:15:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Wir sind ein aktiver Club. Aktive WZ-Spieler sind jederzeit willkomme
 n.      Wir handeln Gewürze .Ohne Stress 
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

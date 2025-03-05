@@ -2,6 +2,7 @@
 title: ​11th Engineers
 description: W:4 L:61 D:8 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 25 Blazing Stars
 date: 2025-02-22T16:55:22.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-22T16:55:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

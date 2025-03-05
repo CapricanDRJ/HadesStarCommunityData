@@ -2,14 +2,13 @@
 title: ​Ender
 description: W:79 L:35 D:0 Bonus ✅ 52%
 image: ./favicon.png
+Summary: ❌ 12 - 59 Legion
 date: 2025-03-02T06:08:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#8c65fe>Member corporation of the<b> Spacefleet Alliance</b></
@@ -26,7 +25,7 @@ Win,lose,fight.
 
 Discord mandatory. <b>EEpZuWf</b>
 ```
-### [Discord](https://discord.gg/EEpZuWf)
+<br>### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​凛冬重工
 description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 WSC\(no DISCORD\)
 date: 2024-08-24T08:47:52.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-24T08:47:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#f00>盟主大号丢了，<#ff0>偶尔奋发，日常瘫痪，白会打 <#0ff>QQ群：964400509<#ff1>（不强制）<#ffe>
 （有能力的投旗舰1）<#f00>（首席近期要开学了...对...开学，上线时间会比较少，大概周末还会上线）
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

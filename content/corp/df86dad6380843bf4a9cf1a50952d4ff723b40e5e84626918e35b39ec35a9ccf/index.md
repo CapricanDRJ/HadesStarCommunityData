@@ -2,6 +2,7 @@
 title: ​corporacion I.A
 description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 3 - 0 国际联盟
 date: 2025-02-08T05:01:31.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-08T05:01:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Aquí, todos los miembros se forjan un nombre en este hostil sistema. 
 Unete a nosotros en esta larga travesía.             -Capital del Imp
 erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 ```
-### [Discord](https://discord.gg/fRfYczjyuD)
+<br>### [Discord](https://discord.gg/fRfYczjyuD)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

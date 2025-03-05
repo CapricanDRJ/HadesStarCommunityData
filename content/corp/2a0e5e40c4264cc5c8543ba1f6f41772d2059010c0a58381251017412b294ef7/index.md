@@ -2,6 +2,7 @@
 title: ​华夏三体-基沃托斯集团
 description: W:3 L:10 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 22 萌新的收留所
 date: 2025-02-08T12:31:13.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-08T12:31:13.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 华夏三体舰队分团，也是红活专用团。欢迎加入。本团为北极星联盟成员团，常驻送神器。首席tianyayx/北星。加首席微信进群，QQ98144
 5723 黑名单：black star。Chinese Trimaran Fleet Division, welcome to join，
 Resident gift artifact
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

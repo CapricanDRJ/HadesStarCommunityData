@@ -2,6 +2,7 @@
 title: ​brit boys
 description: W:1 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 12  星空漫游者\-GR
 date: 2023-11-19T15:34:42.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-11-19T15:34:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Easy going fun. Must be active, respectful and enjoy a laugh. Over 20
  years old only. 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

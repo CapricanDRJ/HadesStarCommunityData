@@ -2,6 +2,7 @@
 title: ​ToC
 description: W:3 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 1 Bacon Warriors
 date: 2024-07-10T15:21:14.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-07-10T15:21:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Please be active in chat.
 Help each other in Red Stars.
  Always ask for promotions, they will be reflected in performance.
 
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

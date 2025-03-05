@@ -2,6 +2,7 @@
 title: ​Red Dawn
 description: W:47 L:29 D:2 Bonus ✅ 44%
 image: ./favicon.png
+Summary: ✅ 50 - 0 King's Guard
 date: 2025-02-26T23:46:08.000Z
 ---
 <head>
@@ -9,21 +10,19 @@ date: 2025-02-26T23:46:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=120><color=#813><b>RΣD <color=#ddd>DΛWN
 <size=60><color=#c23>Red Star Event Rank #58
 <color=#e50>Get <color=#9ec>500 Crystals</color> every month!
 <color=#fb3>Bring your crew and join us for 
 ```
-### [Discord](https://discord.gg/HAUXPBta)
+<br>### [Discord](https://discord.gg/HAUXPBta)
 ### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1294 🔺  (188)|
-| ELO Competitive | 1448 🔺  (110)|
+| ELO Competitive | 1448 🔺  (111)|
 | Total Matches | 78 |
 | Wins | 47 |
 | Losses | 29 |

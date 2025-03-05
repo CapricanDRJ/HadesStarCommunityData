@@ -2,6 +2,7 @@
 title: ​Angel Dragon
 description: W:14 L:14 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 1 - 19 MiddleOfNowhere
 date: 2025-02-07T19:14:32.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-07T19:14:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We  welcome all to join us, we will do our best to help you grow. we 
 do a weekly White Star and we have a Active player base!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/TMcbGqzZ)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/TMcbGqzZ)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Space Monkeys
 description: W:8 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ↔️ 4 - 4 游徒训练营
 date: 2024-05-06T07:20:24.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-05-06T07:20:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Eating bananas, tossing feces, and howling at passers-by. Like normal
  monkeys, but in space.
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

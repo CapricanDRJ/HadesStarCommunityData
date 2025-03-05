@@ -2,14 +2,13 @@
 title: ​Astra Ultima
 description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 4 - 13 Gwiezdna Horda
 date: 2023-11-25T12:41:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><size=80><color=#EC13AD>Better Slogan Needed Lol</color></size></b
@@ -19,13 +18,13 @@ date: 2023-11-25T12:41:08.000Z
 <color=white>-Irregular <i>loss farm</i> ws.</color>
 Discord necessary:hqgVvzTUw3
 ```
-### [Discord](https://discord.gg/hqgVvzTUw3)
+<br>### [Discord](https://discord.gg/hqgVvzTUw3)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (1104)|
-| ELO Competitive | 1159 🔻  (1246)|
+| ELO Competitive | 1159 🔻  (1245)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

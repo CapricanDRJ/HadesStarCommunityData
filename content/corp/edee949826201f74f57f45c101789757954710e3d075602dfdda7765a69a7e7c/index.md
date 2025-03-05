@@ -2,6 +2,7 @@
 title: ​P!RAT£ SHIP
 description: W:21 L:9 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 9 - 14 Kelebra
 date: 2025-01-13T18:56:58.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-13T18:56:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to P!RAT£ SHIP all are welcome. Come help us grow😁, we do st
 eady white star Matches😎. For new players who wanna grow faster can 
 also come aboard🙏. Thank you as you join us😘
 ```
-### [Discord](https://discord.gg/T3BNxjbCU2)
+<br>### [Discord](https://discord.gg/T3BNxjbCU2)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​The Nerd Herd
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 10 PDC
 date: 2024-04-07T04:15:34.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-07T04:15:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 "No requirements to join, but our First Officer is incompetent" - TNH
 's First Officer
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

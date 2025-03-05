@@ -2,14 +2,13 @@
 title: ​[Blue＊Nation]
 description: W:56 L:9 D:0 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 25 - 3 UFO
 date: 2025-03-01T07:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
  <size=100> <color=#feff00>Bring peace to the Hades Star galaxy! </co
@@ -18,7 +17,7 @@ Join the international task force with a community of friendly comman
 ders and a focus on WS!
 <b>Discord is required
 ```
-### [Discord](https://discord.gg/wgHSEFgGBu)
+<br>### [Discord](https://discord.gg/wgHSEFgGBu)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

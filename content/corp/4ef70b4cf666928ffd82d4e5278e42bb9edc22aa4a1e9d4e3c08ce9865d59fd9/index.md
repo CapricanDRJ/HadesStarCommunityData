@@ -2,6 +2,7 @@
 title: ​Elite
 description: W:1 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 3 - 13 Зелёная корпа
 date: 2023-11-30T16:09:40.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2023-11-30T16:09:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (1107)|
-| ELO Competitive | 1159 🔻  (1240)|
+| ELO Competitive | 1159 🔻  (1239)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

@@ -2,6 +2,7 @@
 title: ​萌新港
 description: W:0 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 4 - 16 Nova Time
 date: 2023-11-11T13:38:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-11T13:38:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 此团是萌新港（大佬港）分团。可存放小号或不常上线的号。
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

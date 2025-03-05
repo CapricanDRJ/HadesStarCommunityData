@@ -2,6 +2,7 @@
 title: ​国际联盟
 description: W:18 L:12 D:0 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ❌ 0 - 4 G\.02
 date: 2025-03-04T11:19:04.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-04T11:19:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎我们的萌新 创造者仙女座 2024年8月9日 分团星系联盟 建设于2024年11月1日<br>分团 银河系星系 成立于2024年11月
 11日    <br>南极星联盟成员             请大家常驻！！！
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

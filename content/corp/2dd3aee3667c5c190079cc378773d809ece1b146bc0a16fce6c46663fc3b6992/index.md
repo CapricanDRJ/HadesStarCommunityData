@@ -2,6 +2,7 @@
 title: ​Star Wars
 description: W:10 L:8 D:0 Bonus ❌ 16%
 image: ./favicon.png
+Summary: ✅ 27 - 3 Неудержимые
 date: 2024-07-28T06:29:40.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-07-28T06:29:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 WhatsApp: <color=#00FFFF>034 99879-2012</color>
 
  <color=red>Top 1 BR </color> está recrutando guerreiros dedicados em
  RS e WS. interessado chamar no whatsapp.
 ```
-### Whitestar Bonus ❌ 16%
+<br>### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

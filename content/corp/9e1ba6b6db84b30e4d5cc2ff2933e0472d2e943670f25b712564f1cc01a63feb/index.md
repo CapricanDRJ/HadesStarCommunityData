@@ -2,6 +2,7 @@
 title: ​AwA
 description: W:4 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 4 - 3 阿尔特拉太空港
 date: 2025-01-27T14:42:21.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-01-27T14:42:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 试行:
 *已知*的成员为高级成员
 其他为普通成员
 黑名单：三体第一舰队
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

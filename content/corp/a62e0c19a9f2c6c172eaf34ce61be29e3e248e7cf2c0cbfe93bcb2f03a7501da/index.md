@@ -2,6 +2,7 @@
 title: ​КОРПОРАЦИЯ ЗЛА
 description: W:7 L:110 D:5 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 14 OPA
 date: 2025-03-04T10:59:02.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T10:59:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 elegram @actung_bunker
 ```
-### [Discord](https://discord.gg/7qRTk7bX3P)
+<br>### [Discord](https://discord.gg/7qRTk7bX3P)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Zvezdec
 description: W:44 L:24 D:0 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 40 - 27 Неизбежный Рок
 date: 2025-03-01T04:41:19.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-03-01T04:41:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Мы не проигрываем на бз. Почти. Зайди, проверь. We don't  lose a game
 . Телеграмм      https://t.me/Nebula_Zvezdec            Участие в бз 
 обязательно.
 ```
-### [Discord](https://discord.gg/tbGjUb7xSQ)
+<br>### [Discord](https://discord.gg/tbGjUb7xSQ)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (87)|
+| ELO Regular | 1365 🔺  (88)|
 | ELO Competitive | 1481 🔺  (82)|
 | Total Matches | 68 |
 | Wins | 44 |

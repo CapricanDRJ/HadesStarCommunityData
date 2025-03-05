@@ -2,14 +2,13 @@
 title: ​中国星际联盟
 description: W:45 L:52 D:3 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ❌ 1 - 5 Kratos
 date: 2025-03-02T14:49:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
                              ————公告————
@@ -25,7 +24,7 @@ QQ群号为131920392，
 
 让我们一起“逐梦龙腾，携手共进”吧！
 ```
-### [Discord](https://discord.gg/猫娘喵喵喵)
+<br>### [Discord](https://discord.gg/猫娘喵喵喵)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

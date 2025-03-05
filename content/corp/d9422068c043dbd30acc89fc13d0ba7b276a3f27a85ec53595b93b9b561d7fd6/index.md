@@ -2,14 +2,13 @@
 title: ​Killers from Ua
 description: W:6 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 20 柯伊伯带
 date: 2024-10-28T11:30:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 корпа для активних гравців
@@ -18,11 +17,11 @@ date: 2024-10-28T11:30:15.000Z
 https://discord.gg/thfx8WYSru
 є Telegram 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (291)|
+| ELO Regular | 1244 🔻  (289)|
 | ELO Competitive | 1257 🔻  (409)|
 | Total Matches | 10 |
 | Wins | 6 |

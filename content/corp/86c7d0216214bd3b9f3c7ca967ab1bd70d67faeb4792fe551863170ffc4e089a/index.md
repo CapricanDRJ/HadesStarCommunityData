@@ -2,14 +2,13 @@
 title: ​  边界  
 description: W:29 L:19 D:4 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Lupus Regnum
 date: 2025-02-07T10:48:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>心向星海，无惧边界       </b>                                   <color=gree
@@ -20,7 +19,7 @@ n>本团为北极星联盟成员
 ☞分团：边域(开拓ing，影响力不够可来)
 <#BDB76B>[QQ:733613340]
 ```
-### [Discord](https://discord.gg/8uQgZfVQ)
+<br>### [Discord](https://discord.gg/8uQgZfVQ)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

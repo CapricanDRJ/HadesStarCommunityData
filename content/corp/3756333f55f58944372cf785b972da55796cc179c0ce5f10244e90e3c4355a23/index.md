@@ -2,6 +2,7 @@
 title: ​Destroyers
 description: W:16 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 7 Interstellar
 date: 2024-10-20T22:36:52.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-10-20T22:36:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are here to play white stars. No bs afk players needed!!!
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

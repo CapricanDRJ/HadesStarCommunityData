@@ -2,6 +2,7 @@
 title: ​MÉXICO INFINITO
 description: W:19 L:30 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 20 - 34 BrazilCorp\.
 date: 2025-02-21T15:42:52.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-21T15:42:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 BIENVENIDOS a esta humilde corporación, ayudaremos en lo que nesecite
 n a nuevos miembros de er2-er7 estrella roja=ER estrella azul=EA estr
 ella blanca=EB EB cuando se nos salga de los huevos 
 ```
-### [Discord](https://discord.gg/invite/MwEdMAZu)
+<br>### [Discord](https://discord.gg/invite/MwEdMAZu)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

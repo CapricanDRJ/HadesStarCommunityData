@@ -2,14 +2,13 @@
 title: ​Wispered Storm
 description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 8 - 15 АНДРОМЕДА 
 date: 2023-12-17T17:19:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <size=50><color=#F55D06>~Welcome to Wispered Storm~</color></size>
@@ -18,7 +17,7 @@ date: 2023-12-17T17:19:17.000Z
 *RS 6-10
 Hop in Discord - 9aD8bFDvY4
 ```
-### [Discord](https://discord.gg/9aD8bFDvY4)
+<br>### [Discord](https://discord.gg/9aD8bFDvY4)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

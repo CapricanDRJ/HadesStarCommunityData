@@ -2,14 +2,13 @@
 title: ​CORE INFLICTION
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 4 - 22 华夏舰队
 date: 2023-12-12T03:19:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 동맹 : 혁명군
@@ -19,7 +18,7 @@ date: 2023-12-12T03:19:37.000Z
 Project for Permanent Peace
 <color="red">                                    * 7일 미접 강퇴  </color>
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

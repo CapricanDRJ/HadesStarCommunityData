@@ -2,14 +2,13 @@
 title: ​萌新收留所（目标门集团）
 description: W:1 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 17 拆迁大队
 date: 2023-12-14T04:44:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=red>欢迎来到这里，我会帮助任何来这里的萌新，请加入的团员多多说话，不要咸鱼，不许不文明</color>
@@ -22,13 +21,13 @@ date: 2023-12-14T04:44:56.000Z
 频道QQ群695410371
 不要外交黑名单
 ```
-### [Discord](https://discord.gg/SK48856)
+<br>### [Discord](https://discord.gg/SK48856)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (1115)|
-| ELO Competitive | 1159 🔻  (1247)|
+| ELO Competitive | 1159 🔻  (1246)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

@@ -2,6 +2,7 @@
 title: ​物质体系
 description: W:0 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
+Summary: ↔️ 3 - 3 闲散人员
 date: 2025-02-04T16:41:30.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-04T16:41:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

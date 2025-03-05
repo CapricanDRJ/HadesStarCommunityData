@@ -2,6 +2,7 @@
 title: ​Monster AG
 description: W:0 L:3 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 5 - 25 Madison Holding
 date: 2023-11-29T17:47:09.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2023-11-29T17:47:09.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Willkommen bei der Monster AG
 ```
-### [Discord](https://discord.gg/https://discord.gg/bJH5xq64Kt)
+<br>### [Discord](https://discord.gg/https://discord.gg/bJH5xq64Kt)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (1112)|
-| ELO Competitive | 1158 🔻  (1258)|
+| ELO Competitive | 1158 🔻  (1257)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

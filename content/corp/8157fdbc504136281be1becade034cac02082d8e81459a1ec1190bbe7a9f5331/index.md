@@ -2,6 +2,7 @@
 title: ​Goblin Squad
 description: W:4 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 1 星际集团
 date: 2024-08-22T13:43:12.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-22T13:43:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Friend Group for beginners
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

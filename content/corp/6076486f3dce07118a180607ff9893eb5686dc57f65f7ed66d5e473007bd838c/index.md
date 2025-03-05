@@ -2,6 +2,7 @@
 title: ​Planet Express
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 3 - 11 viCIOus
 date: 2024-12-15T01:28:31.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-12-15T01:28:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We’ll get there… most of the time
 ```
-### [Discord](https://discord.gg/JnxXSHyWsC)
+<br>### [Discord](https://discord.gg/JnxXSHyWsC)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

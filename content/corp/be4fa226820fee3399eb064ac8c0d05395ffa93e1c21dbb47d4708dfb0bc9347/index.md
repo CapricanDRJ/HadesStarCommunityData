@@ -2,6 +2,7 @@
 title: ​Рейнджеры
 description: W:7 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 14 - 10 UFO
 date: 2025-02-02T08:00:58.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-02T08:00:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Мы бороздим космос.Исследуем его,защищаем слабых,сохраняем мир и поря
 док. Ищем активных игроков на бз. Мы в телеграмм https://t.me/rayndje
 ry
 ```
-### [Discord](https://discord.gg/nPSe9UY)
+<br>### [Discord](https://discord.gg/nPSe9UY)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1128 🔺  (1263)|
-| ELO Competitive | 1159 🔺  (1242)|
+| ELO Competitive | 1159 🔺  (1241)|
 | Total Matches | 23 |
 | Wins | 7 |
 | Losses | 16 |

@@ -2,6 +2,7 @@
 title: ​Inexorable
 description: W:18 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 4 - 28 Interestelar
 date: 2024-04-19T15:23:43.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-19T15:23:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are a paused corp, join or stay at your own risk, but check us out
  again in the future
 ```
-### [Discord](https://discord.gg/3yhvuzqeax)
+<br>### [Discord](https://discord.gg/3yhvuzqeax)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

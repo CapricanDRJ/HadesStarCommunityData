@@ -2,6 +2,7 @@
 title: ​Czech Legion
 description: W:19 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 4 - 17 three kitties
 date: 2025-01-26T18:20:25.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-26T18:20:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Cz/Sk korpa pro nováčky, kde si osvojíte základy hry a připraví vás n
 a budoucí cestu vesmírem Hádesu. https://userxinos.github.io/HadesSpa
 ce/
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

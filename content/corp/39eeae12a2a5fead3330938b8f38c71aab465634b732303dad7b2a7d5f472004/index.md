@@ -2,6 +2,7 @@
 title: ​Север РусКорп
 description: W:37 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 11 SILVER TERRA
 date: 2025-02-27T01:25:56.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T01:25:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 телеграм-канал clck.ru/3DwDwC                         Играем в свое у
 довольствие                 Участвуем в бз и кз                      
              Помогаем в развитии новичкам 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

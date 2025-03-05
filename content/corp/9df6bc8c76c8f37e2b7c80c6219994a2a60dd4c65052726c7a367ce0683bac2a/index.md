@@ -2,6 +2,7 @@
 title: ​PLUTON
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 22 ЧВК "Котики"
 date: 2024-07-30T23:14:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-07-30T23:14:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 All are welcome to join! Ask for help if needed on redstar runs. Chat
  through LINE app. Group name “HADES’ STAR”. Send pm to id: stevekuli
 ng
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

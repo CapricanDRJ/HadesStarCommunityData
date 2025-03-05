@@ -2,6 +2,7 @@
 title: ​Blue Dwarf
 description: W:6 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 3 蓝色星系二号分盟
 date: 2025-01-15T02:43:11.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-01-15T02:43:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#88F>Welcome to Blue Dwarf!</color> Part of the Dwarf family, 
 join us for group Red Star runs, hints and tips, free artifacts, and 
 weekly White Stars - enable scanner to opt-in! Discord advised
 ```
-### [Discord](https://discord.gg/mbBssbBRQ8)
+<br>### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (295)|
+| ELO Regular | 1242 🔻  (293)|
 | ELO Competitive | 1284 🔺  (338)|
 | Total Matches | 9 |
 | Wins | 6 |

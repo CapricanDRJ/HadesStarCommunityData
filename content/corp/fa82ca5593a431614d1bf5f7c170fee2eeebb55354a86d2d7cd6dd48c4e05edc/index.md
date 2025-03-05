@@ -2,14 +2,13 @@
 title: ​Battlestar Fr
 description: W:4 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 4 - 51 VoidCorp
 date: 2024-05-29T15:47:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Bienvenue chez BSFR !
@@ -18,7 +17,7 @@ Nos valeurs sont soit tu cours soit tu crèves.
 Paro, nous sommes.
 Discord : x9QTsuZ3mg
 ```
-### [Discord](https://discord.gg/x9QTsuZ3mg)
+<br>### [Discord](https://discord.gg/x9QTsuZ3mg)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

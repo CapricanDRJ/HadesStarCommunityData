@@ -2,6 +2,7 @@
 title: ​德意志第三帝国奥米加分部
 description: W:12 L:12 D:3 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 16 - 0 ●Black•Sails●
 date: 2024-11-05T07:43:59.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2024-11-05T07:43:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎加入奥米加！禁止随意给旗舰捐钱！                                         常驻打白送8  
 帮扶打红
 常驻进q群:952685934
 新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团
 ```
-### [Discord](https://discord.gg/3sg9ppw33F)
+<br>### [Discord](https://discord.gg/3sg9ppw33F)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (321)|
+| ELO Regular | 1238 🔺  (320)|
 | ELO Competitive | 1263 🔺  (392)|
 | Total Matches | 27 |
 | Wins | 12 |

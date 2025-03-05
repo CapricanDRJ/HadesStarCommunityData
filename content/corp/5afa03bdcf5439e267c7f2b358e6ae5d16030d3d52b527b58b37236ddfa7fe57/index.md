@@ -2,6 +2,7 @@
 title: ​行星联合军
 description: W:7 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 6 Sussy Coloner
 date: 2024-10-23T12:58:16.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-23T12:58:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 觉悟者，恒幸福           Do you believe in gravity? Humans always go to heav
 en。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

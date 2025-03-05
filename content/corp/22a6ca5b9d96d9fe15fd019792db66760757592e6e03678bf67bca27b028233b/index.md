@@ -2,6 +2,7 @@
 title: ​АарнСарт 
 description: W:12 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
+Summary: ✅ 28 - 4 Space Marshalls
 date: 2025-03-01T10:11:48.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-01T10:11:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔺  (164)|
-| ELO Competitive | 1349 🔺  (215)|
+| ELO Competitive | 1349 🔺  (214)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

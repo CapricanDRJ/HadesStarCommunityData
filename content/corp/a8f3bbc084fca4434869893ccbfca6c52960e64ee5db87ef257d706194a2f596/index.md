@@ -2,14 +2,13 @@
 title: ​WinterComes
 description: W:4 L:14 D:0 Bonus ✅ 44%
 image: ./favicon.png
+Summary: ✅ 21 - 11 Dumpster Fire 2
 date: 2025-03-02T15:09:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#23dbe7>Casual WS corporation of the <b>Spacefleet Alliance</b
@@ -21,7 +20,7 @@ date: 2025-03-02T15:09:45.000Z
 Discord mandatory. <b>EEpZuWf
 Winter Comes to Hades</b>
 ```
-### [Discord](https://discord.gg/EEpZuWf)
+<br>### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |

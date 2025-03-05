@@ -2,6 +2,7 @@
 title: ​Hermitage
 description: W:14 L:12 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 17 - 30 ДИВЕРСАНТЫ
 date: 2025-02-14T10:25:32.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-14T10:25:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Corporation active et joueuse.WS régulièrement prévues. 
  Discord obligatoire pour les WS. Merci :) 
 Lien: https://discord.gg/gaBKUb5t
 ```
-### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
+<br>### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (275)|
+| ELO Regular | 1249 🔻  (274)|
 | ELO Competitive | 1301 🔻  (296)|
 | Total Matches | 27 |
 | Wins | 14 |

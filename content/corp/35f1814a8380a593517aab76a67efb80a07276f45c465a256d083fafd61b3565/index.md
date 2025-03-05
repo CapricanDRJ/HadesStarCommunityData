@@ -2,6 +2,7 @@
 title: ​WTF
 description: W:1 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 7 - 34 柯伊伯带
 date: 2024-04-03T23:48:34.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-03T23:48:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 https://discord.gg/DGmS9c2b
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

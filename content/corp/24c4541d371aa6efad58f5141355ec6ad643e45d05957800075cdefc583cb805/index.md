@@ -2,6 +2,7 @@
 title: ​Spaceforce
 description: W:2 L:6 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Romania
 date: 2025-01-10T09:08:50.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-10T09:08:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Back in Action!
 
 DISC: EEpZuWf
 ```
-### [Discord](https://discord.gg/EEpZuWf)
+<br>### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

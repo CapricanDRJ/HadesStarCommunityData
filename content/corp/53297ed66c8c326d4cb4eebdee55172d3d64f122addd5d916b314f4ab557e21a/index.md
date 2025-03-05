@@ -2,6 +2,7 @@
 title: ​Ninth Planet
 description: W:70 L:6 D:1 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 32 - 8 united unicorn
 date: 2025-03-03T13:37:02.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-03T13:37:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 지금껏 경험하지 못한 짜릿한 모험! 9번째 행성에서 즐거움이 가득한 여행을 떠나보세요. Communication-koreak
 itty
 ```
-### [Discord](https://discord.gg/ )
+<br>### [Discord](https://discord.gg/ )
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |

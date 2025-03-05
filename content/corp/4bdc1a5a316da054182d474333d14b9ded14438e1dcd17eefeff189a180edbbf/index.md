@@ -2,6 +2,7 @@
 title: ​FirstAllegiance
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 2 - 20 Повстанцы Хаоса
 date: 2024-02-09T05:15:38.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-09T05:15:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 (Dormant Corp, Head Over to The Red_Coat_Mafia) , rs1 upwards. All we
  ask is that you must be active and Let our name be known amongst all
 ! 14 day inactive kick enforced. JnrwdDKynd (discord)
 ```
-### [Discord](https://discord.gg/JnrwdDKynd)
+<br>### [Discord](https://discord.gg/JnrwdDKynd)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

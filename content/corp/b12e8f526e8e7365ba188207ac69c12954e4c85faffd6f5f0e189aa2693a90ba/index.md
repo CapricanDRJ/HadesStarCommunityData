@@ -2,14 +2,13 @@
 title: ​Last Chance
 description: W:2 L:3 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 31 Order of Hades
 date: 2024-11-23T20:53:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Bienvenido a Last Chance, una gran familia que cada vez crece más ¡An
@@ -21,7 +20,7 @@ Se amable con los demás y diviértete
 
 Alianza Axolotls
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

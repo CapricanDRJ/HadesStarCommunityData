@@ -2,14 +2,13 @@
 title: ​New Orbit ©
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 9 - 17 The Allegiant
 date: 2024-01-25T17:09:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Welcome!  SisterCorp to No Orbit©. 
@@ -20,7 +19,7 @@ All levels are welcome!
 Discord is mandatory for WS participation!
 
 ```
-### [Discord](https://discord.gg/CNh7tUG)
+<br>### [Discord](https://discord.gg/CNh7tUG)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

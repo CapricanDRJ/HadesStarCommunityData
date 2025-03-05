@@ -2,6 +2,7 @@
 title: ​Intertwine 
 description: W:3 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 40 - 21 First Legion
 date: 2025-02-04T00:35:00.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-04T00:35:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Intertwine! Part of the Elite Federation, discord not mand
 atory but greatly appreciated!
 ```
-### [Discord](https://discord.gg/https://discord.gg/8VRp3sYPbg)
+<br>### [Discord](https://discord.gg/https://discord.gg/8VRp3sYPbg)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

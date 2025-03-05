@@ -2,6 +2,7 @@
 title: ​Darkest Hour
 description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 4 - 15 对，进就进人少的（分团）
 date: 2024-09-04T12:39:58.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-09-04T12:39:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 • New/Unexperienced players welcome.
 • Active players, only please.
 • “Line” app for chat is helpful to better communicate w/ leaders
 • Kicks are likely after a week of inactivity, w/out prior notice
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​NoweUkladyII
 description: W:13 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 20 - 0 U\.S\.A
 date: 2024-08-17T00:34:37.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-17T00:34:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Zapraszamy wszystkich aktywnych graczy, zarówno rozpoczynających przy
 godę, jak również chętnych na regularne zabawy na WS.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

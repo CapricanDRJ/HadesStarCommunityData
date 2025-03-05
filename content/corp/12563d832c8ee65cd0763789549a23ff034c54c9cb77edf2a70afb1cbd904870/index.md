@@ -2,6 +2,7 @@
 title: ​Aurora Burning
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 3 - 2 水晶星际集团
 date: 2024-03-03T12:01:21.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-03T12:01:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 RS4 to 7
 ```
-### [Discord](https://discord.gg/kmedjBRNBJ)
+<br>### [Discord](https://discord.gg/kmedjBRNBJ)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​IMPERIAL ARMADA
 description: W:2 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 9 - 3 Justice Vengers
 date: 2025-02-10T19:51:52.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-10T19:51:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the 4th IA Corporation! Join our Discord within 24 hours t
 o connect with our community and get gameplay support. We're excited 
 to have you on board!
 ```
-### [Discord](https://discord.gg/bAAYCqG2cE)
+<br>### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​墨痕白星分部
 description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 18 Grater T
 date: 2024-03-01T15:42:03.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-01T15:42:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 红活专用团
 墨痕Q群：796512160
 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

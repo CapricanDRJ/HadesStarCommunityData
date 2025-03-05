@@ -2,6 +2,7 @@
 title: ​水晶星际集团
 description: W:10 L:30 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 3 宇宙联盟（中国）
 date: 2025-02-03T20:59:41.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-03T20:59:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 不许踢人 盟团：银星舰队SSF；红日初升，其道大光。需要神器找首席。敌对集团：Sanguinarios。有白星扫描仪的升干事 打白必须听首
 席QQ群：756986132 如果敌人发起进攻，就向敌人运输船舰进攻。禁止开启允许旁观。禁止私自动旗舰。没事不要打敌人。星火协会成员，〈b
 r〉南极星联盟成员
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

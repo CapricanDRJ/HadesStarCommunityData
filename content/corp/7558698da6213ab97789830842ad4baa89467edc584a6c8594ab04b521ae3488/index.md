@@ -2,14 +2,13 @@
 title: ​Тёмный Феникс
 description: W:0 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 16 Sich\.ua
 date: 2024-09-06T22:20:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и п
@@ -18,7 +17,7 @@ date: 2024-09-06T22:20:59.000Z
 <color=red>Наш телеграм</color> 
 https://t.me/+k9Bv8nU9QW80NmFi
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

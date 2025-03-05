@@ -2,6 +2,7 @@
 title: ​Moon Catchers
 description: W:13 L:20 D:1 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 31 Españoles
 date: 2024-09-12T12:03:51.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-12T12:03:51.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Casual Corp looking for like minded players. Discord is optional. Wee
 kly White Star with searches starting on Wednesdays. We have 1-2 open
  spots on our White Star group. 
 ```
-### [Discord](https://discord.gg/https://discord.gg/XAcW8fk2)
+<br>### [Discord](https://discord.gg/https://discord.gg/XAcW8fk2)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

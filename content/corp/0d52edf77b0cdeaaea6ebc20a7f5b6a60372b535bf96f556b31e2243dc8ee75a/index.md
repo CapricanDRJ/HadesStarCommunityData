@@ -2,14 +2,13 @@
 title: ​Imperium XIII
 description: W:46 L:29 D:0 Bonus ✅ 48%
 image: ./favicon.png
+Summary: ✅ 34 - 13 New Horizons
 date: 2025-03-01T13:12:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are an English-speaking community founded on the ideals of democra
@@ -19,7 +18,7 @@ Weekly competitive WS; casual WS if numbers allow.
 
 Discord is required.
 ```
-### [Discord](https://discord.gg/c9wtCDusgE)
+<br>### [Discord](https://discord.gg/c9wtCDusgE)
 ### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |

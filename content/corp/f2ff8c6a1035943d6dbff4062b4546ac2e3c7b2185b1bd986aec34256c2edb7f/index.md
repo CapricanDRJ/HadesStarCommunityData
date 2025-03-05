@@ -2,6 +2,7 @@
 title: ​두빛나래
 description: W:11 L:19 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 18 Interstellar
 date: 2024-08-17T23:42:01.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-08-17T23:42:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 
 딱히 열심히 활동안해도 되고, 천천히 게임할려는 사람에게 맞는 코퍼레이션
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

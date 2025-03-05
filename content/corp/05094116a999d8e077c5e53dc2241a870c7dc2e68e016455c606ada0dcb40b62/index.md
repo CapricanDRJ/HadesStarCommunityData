@@ -2,6 +2,7 @@
 title: ​地球星际集团
 description: W:0 L:33 D:12 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 минск
 date: 2025-01-14T13:00:26.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-14T13:00:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 和中国星际集团差不多，我喜欢中国🇨🇳
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

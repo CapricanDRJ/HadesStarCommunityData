@@ -2,6 +2,7 @@
 title: ​闲散人员
 description: W:18 L:15 D:3 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 11 红日初升，其道大光
 date: 2025-02-26T16:35:22.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-26T16:35:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#FFDBAF>种田 Q群254025666                                              
   <#FF1620>萌新常驻可提供r5，6，<#AAC6FF>欢迎前来打白，捐旗舰1！
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

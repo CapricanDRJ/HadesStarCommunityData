@@ -2,6 +2,7 @@
 title: ​Atlas SLV-1
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 8 한국인
 date: 2024-02-20T03:32:04.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-20T03:32:04.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome 
 All I require is you be active and positive 
 No bullying 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

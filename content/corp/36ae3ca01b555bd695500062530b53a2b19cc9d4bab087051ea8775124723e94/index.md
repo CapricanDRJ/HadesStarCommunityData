@@ -2,6 +2,7 @@
 title: ​하데스 스타 코리아
 description: W:9 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 5 - 4 宇宙联盟（中国）
 date: 2024-03-29T02:54:23.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2024-03-29T02:54:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 노장은 사실 죽어요
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (314)|
+| ELO Regular | 1239 🔺  (312)|
 | ELO Competitive | 1307 🔺  (282)|
 | Total Matches | 16 |
 | Wins | 9 |

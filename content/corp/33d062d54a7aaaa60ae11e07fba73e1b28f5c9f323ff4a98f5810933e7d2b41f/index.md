@@ -2,6 +2,7 @@
 title: ​oen
 description: W:6 L:1 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 10 - 0 ⭐PRETORIANS\.X⭐
 date: 2024-12-18T00:25:05.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-12-18T00:25:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bienvenido/a a la     organización espacial multiestelar, tenemos dis
 cord 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/bRJjJ7Xr6p)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/bRJjJ7Xr6p)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (234)|
+| ELO Regular | 1263 🔺  (233)|
 | ELO Competitive | 1280 🔺  (348)|
 | Total Matches | 8 |
 | Wins | 6 |

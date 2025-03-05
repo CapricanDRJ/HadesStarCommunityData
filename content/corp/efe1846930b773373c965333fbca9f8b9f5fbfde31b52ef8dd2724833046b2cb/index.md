@@ -2,6 +2,7 @@
 title: ​Syndicated Fed
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 2 - 3 Omega corp
 date: 2024-10-24T21:41:50.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-24T21:41:50.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 se reclutan eb casi diaria requisitos pertenecer a los aliados   habl
 ar español,ingles y portugues Allies: alfa y omega ghostnakcoorp impe
 rio galacti imp estelar 
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

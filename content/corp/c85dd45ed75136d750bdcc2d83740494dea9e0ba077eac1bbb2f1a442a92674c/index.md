@@ -2,14 +2,13 @@
 title: ​Gemini Ind.
 description: W:35 L:7 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 24 - 0 STAR TERROR CZ
 date: 2025-02-14T20:21:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=yellow>U.I.H. Corp.</color>
@@ -22,7 +21,7 @@ Join via Discord: <color=yellow> https://discord.gg/vPsNNxs </color>
 Discord MANDATORY.
 We have awesome queue for rs runs!
 ```
-### [Discord](https://discord.gg/vPsNNxs)
+<br>### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

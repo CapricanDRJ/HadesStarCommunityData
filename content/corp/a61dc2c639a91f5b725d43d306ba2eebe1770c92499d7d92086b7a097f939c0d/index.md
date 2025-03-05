@@ -1,7 +1,8 @@
 ---
 title: ​Эдем
-description: W:16 L:13 D:0 Bonus ✅ 34%
+description: W:16 L:13 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 6 - 13 северный шторм
 date: 2025-03-03T06:36:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-03T06:36:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь н
 а кз 2-8. Чат в телеге...
 ```
-### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅ 34%
+<br>### [Discord](https://discord.gg/Дискорда нет)
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

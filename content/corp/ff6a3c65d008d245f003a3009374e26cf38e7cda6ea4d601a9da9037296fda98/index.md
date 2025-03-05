@@ -2,14 +2,13 @@
 title: ​YETI Collective
 description: W:22 L:55 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Ещё один Миф
 date: 2025-02-19T11:32:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 A friendly group of players that are here to have fun and help. Come 
@@ -19,7 +18,7 @@ Discord recommended
 DC : tqSz2DCJZ8
 
 ```
-### [Discord](https://discord.gg/tqSz2DCJZ8)
+<br>### [Discord](https://discord.gg/tqSz2DCJZ8)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

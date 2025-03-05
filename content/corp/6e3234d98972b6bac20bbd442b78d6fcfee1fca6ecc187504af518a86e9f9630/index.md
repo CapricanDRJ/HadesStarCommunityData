@@ -2,6 +2,7 @@
 title: ​VAJRA 
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 1 - 13 МеГаКо
 date: 2024-04-17T01:42:47.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-04-17T01:42:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 BELIEVE in YOURSELF 
 I believe in U 
 We can build a great alliance of Hades Star
 No discord. Be friendly :)
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/WWu5AWvU)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/WWu5AWvU)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Red Sky
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 1 Spaceforce
 date: 2024-08-15T22:11:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Quarantine boredom.  Make the universe great again.
@@ -18,7 +17,7 @@ Quick Guides:
 https://tinyurl.com/redsky1
 https://tinyurl.com/redsky2
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​pérola negra 
 description: W:0 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
+Summary: ↔️ 0 - 0 🌪TORNADO 
 date: 2025-01-17T12:02:11.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-17T12:02:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

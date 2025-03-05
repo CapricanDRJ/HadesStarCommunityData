@@ -2,14 +2,13 @@
 title: ​Freelancer
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 5 - 24 Star Wars
 date: 2024-02-04T05:28:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Herzlich Willkommen,
@@ -21,7 +20,7 @@ RR0--6.
 Jetzt auch mit discord! 
 https://discord.gg/K3TTj9ED
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

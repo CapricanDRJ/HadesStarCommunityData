@@ -2,6 +2,7 @@
 title: ​宇宙警察
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 2 - 1 Genesis Corp
 date: 2023-12-07T02:26:30.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-12-07T02:26:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=90>欢迎加入</size><color=yellow><b>宇宙警察局</b></color>(~0~)来了就当一个<col
 or=green>合格的</color><color=red><i>警</i></color><a><i>察</I></a>吧！
 <b>警局QQ931045807</b>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

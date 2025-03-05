@@ -2,6 +2,7 @@
 title: ​Peace Keepers
 description: W:18 L:43 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 1 - 51 Nearland Ind
 date: 2025-03-01T03:56:16.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-01T03:56:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=60><color=#228b22>Welcome to Peace Keepers </color></size></
 b>  Peacefully collecting relics since 2018.                   😎 
 ```
-### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
+<br>### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

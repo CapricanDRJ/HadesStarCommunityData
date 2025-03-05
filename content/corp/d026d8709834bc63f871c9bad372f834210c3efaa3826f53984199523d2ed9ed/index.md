@@ -2,6 +2,7 @@
 title: ​万星联盟
 description: W:49 L:10 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 6 - 5 White Dwarf
 date: 2025-02-28T13:34:49.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T13:34:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=yellow>本团为星光万丈星际集团第一分团<br>欢迎大家加入<br>集团定期清人，被踢随时欢迎回家<br><color=
 red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团内或其他分团大佬<br>参白进群后找管理员
 报备<br><size=200>不要捐旗舰！qwq<color=yellow>
 ```
-### Whitestar Bonus ✅ 38%
+<br>### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

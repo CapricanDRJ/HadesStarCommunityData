@@ -2,14 +2,13 @@
 title: ​零号帝国
 description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 3 - 0 遨游星空  kdy分盟
 date: 2024-02-13T13:48:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本集团在发展过程中，欢迎萌新 大佬加入我们。         集团中不可吵架不要乱退集团（备注）成员多为学生。没人为正常情况）会周末不时发
@@ -18,11 +17,11 @@ date: 2024-02-13T13:48:52.000Z
 
 黑名单：家园星系。  盟友：边界-萌新剧乐部
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (292)|
+| ELO Regular | 1243 🔺  (290)|
 | ELO Competitive | 1244 🔺  (445)|
 | Total Matches | 3 |
 | Wins | 3 |

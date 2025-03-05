@@ -2,6 +2,7 @@
 title: ​TROLL SQUAD
 description: W:11 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 3 - 27 Grunthal Gang
 date: 2024-01-22T05:26:21.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-01-22T05:26:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ForWSyielders: Looking for best yield in credit/ws point.
 But there is not more of it in DN now...
 
 https://discord.gg/fCsvae5yXv
 ```
-### [Discord](https://discord.gg/fCsvae5yXv)
+<br>### [Discord](https://discord.gg/fCsvae5yXv)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​No Orbit©
 description: W:18 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 55 - 35 Winged Pheonix
 date: 2025-02-21T16:48:00.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-21T16:48:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to No Orbit, we are a friendly WS oriented Corp. If you are n
 ot prepared to use Discord you will not be joining No Orbit as we now
  only accept people who have applied via Discord
 ```
-### [Discord](https://discord.gg/CNh7tUG)
+<br>### [Discord](https://discord.gg/CNh7tUG)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

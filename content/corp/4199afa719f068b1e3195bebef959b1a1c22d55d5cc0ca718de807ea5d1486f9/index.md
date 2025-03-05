@@ -2,14 +2,13 @@
 title: ​蓝色星系
 description: W:0 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 1 - 17 QONQR 
 date: 2025-03-04T13:39:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 志同道合的兄弟可以一起来奋斗。相信自己，有志者事竟成。同时欢迎各位咸鱼种田者到来。
@@ -21,7 +20,7 @@ date: 2025-03-04T13:39:19.000Z
 discord：https://discord.gg/eDKGV87N
 集团分盟：蓝色星系一号分盟
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

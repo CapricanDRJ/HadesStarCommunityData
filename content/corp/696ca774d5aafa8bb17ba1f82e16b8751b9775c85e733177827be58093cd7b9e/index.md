@@ -2,6 +2,7 @@
 title: ​Black Sun
 description: W:6 L:13 D:1 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 3 - 45 GDZ
 date: 2024-04-15T14:19:28.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-15T14:19:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to hang out. Very little going on around here. 
 ```
-### [Discord](https://discord.gg/kpnq4jZc56)
+<br>### [Discord](https://discord.gg/kpnq4jZc56)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

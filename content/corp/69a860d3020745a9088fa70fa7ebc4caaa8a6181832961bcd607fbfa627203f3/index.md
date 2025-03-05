@@ -2,6 +2,7 @@
 title: ​对，进就进人少的（分团）
 description: W:19 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 6 FoxTale
 date: 2025-03-04T23:55:23.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-03-04T23:55:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 此团直接隶属总团，和总团制度无区别，直接管辖，并不是自治，我们沿用总团制度，自由民主，集团聊天内字体设置不准超过100大小，活人升高级  
   /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vah
 o华浩 QQ767311697
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (327)|
+| ELO Regular | 1236 🔻  (326)|
 | ELO Competitive | 1279 🔻  (352)|
 | Total Matches | 36 |
 | Wins | 19 |

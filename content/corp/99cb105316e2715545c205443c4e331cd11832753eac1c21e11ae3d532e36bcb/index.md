@@ -2,6 +2,7 @@
 title: ​火洋之心
 description: W:9 L:5 D:2 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 2 \(\_\(\_Vossk\_\)\_\)
 date: 2025-02-21T03:36:35.000Z
 ---
 <head>
@@ -9,16 +10,14 @@ date: 2025-02-21T03:36:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎大家的加入♡
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (282)|
+| ELO Regular | 1246 🔻  (281)|
 | ELO Competitive | 1267 🔻  (379)|
 | Total Matches | 16 |
 | Wins | 9 |

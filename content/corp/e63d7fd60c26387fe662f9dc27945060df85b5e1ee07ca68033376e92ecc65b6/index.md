@@ -2,14 +2,13 @@
 title: ​Phoenix Nest
 description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 17 星落苑
 date: 2024-12-29T23:25:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Subsidiary of Winged Pheonix Corporation. 
@@ -18,12 +17,12 @@ Friendly and helpful community.
 Please be active!
 Discord: https://discord.gg/BpszvZBQ
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1190)|
-| ELO Competitive | 1157 🔻  (1262)|
+| ELO Competitive | 1157 🔻  (1261)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

@@ -2,6 +2,7 @@
 title: ​宇宙银河帝国
 description: W:23 L:13 D:3 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 20 STRVS233～
 date: 2024-08-16T14:38:35.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-08-16T14:38:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>宇宙银河帝国欢迎您！本团为北极星联盟集团，本团对所有人友好，每周一白，<color=orange>可供R1～R9，尽
 量每天上线；较活跃可升高成，7天不上线起飞，等级超过85级升干事 大小号同级。<color=red>大家请文明用语。<color=gree
 n>加入本团的人请加企鹅群834525007<color=yellow>不活跃不参与白星<size=500>捐旗舰二
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

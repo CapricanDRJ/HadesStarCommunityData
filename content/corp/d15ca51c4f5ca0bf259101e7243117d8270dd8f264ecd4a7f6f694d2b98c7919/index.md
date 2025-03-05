@@ -2,6 +2,7 @@
 title: ​WSC(no DISCORD)
 description: W:55 L:36 D:8 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Stargroup
 date: 2025-03-01T10:59:26.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-01T10:59:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 38%
+<br>### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1292 🔻  (190)|
-| ELO Competitive | 1473 🔺  (88)|
+| ELO Competitive | 1473 🔺  (91)|
 | Total Matches | 99 |
 | Wins | 55 |
 | Losses | 36 |

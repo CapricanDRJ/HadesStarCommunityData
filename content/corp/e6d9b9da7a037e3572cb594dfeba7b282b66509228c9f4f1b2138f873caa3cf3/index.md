@@ -2,6 +2,7 @@
 title: ​萌新港(大佬港)
 description: W:21 L:34 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 14 八月政府
 date: 2025-01-28T12:19:25.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-28T12:19:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位大佬萌新的加入(„ಡωಡ„)。｜160级以上经过考虑之后升干事，老成员不降。｜微信:l18897038285加拉入。QQ裙：985
 704013｜语言文明，不要骂脏话，违者直接踢出集团。｜不经常上线者或小号也可以先去分团。｜勿私开白！
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

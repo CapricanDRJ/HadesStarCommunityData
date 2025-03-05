@@ -2,6 +2,7 @@
 title: ​Wacky Wabbits
 description: W:2 L:5 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 7 - 52 Crazy Elite
 date: 2025-01-31T11:51:33.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-31T11:51:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=50><color=#8f00ff>Jump into the wabbit hole ●</color></size> <c
 olor=#f0f30b>Wacky Warriors</color>
 ```
-### [Discord](https://discord.gg/https://discord.gg/knZXJWX)
+<br>### [Discord](https://discord.gg/https://discord.gg/knZXJWX)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

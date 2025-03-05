@@ -2,6 +2,7 @@
 title: ​普罗米修斯
 description: W:8 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 18 - 8 Death Flight
 date: 2025-02-03T15:14:02.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-03T15:14:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎萌新大佬加入，从此不做流浪汉
 别捐旗舰！别捐旗舰！
 友好关系：绛紫星
 Q：650722059
 ```
-### [Discord](https://discord.gg/akTfXJGv)
+<br>### [Discord](https://discord.gg/akTfXJGv)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔺  (1327)|
+| ELO Regular | 1107 🔺  (1326)|
 | ELO Competitive | 1177 🔺  (1078)|
 | Total Matches | 28 |
 | Wins | 8 |

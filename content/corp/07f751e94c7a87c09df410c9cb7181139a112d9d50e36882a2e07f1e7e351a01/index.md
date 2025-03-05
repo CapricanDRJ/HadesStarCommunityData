@@ -2,6 +2,7 @@
 title: ​Draco Ind.
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 26 - 9 Sprite
 date: 2024-02-17T17:31:11.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-02-17T17:31:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 A branch of <size=346><color=#5F634F>U.I.H.</color></size><color=#edb
 88b>
 ⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhp
 hKUH</color>
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​한국인
 description: W:31 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 15 Cyber Star
 date: 2024-06-20T23:32:53.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-20T23:32:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 활동하시는 모든 한국인분들을 환영합니다.    매주 목요일 백색성단 활동하오니, 코퍼레이션 인원분들은 많은 참여 부탁드립니다
 .                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "
 를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]
 ```
-### [Discord](https://discord.gg/invite/5K3vCNNBD9)
+<br>### [Discord](https://discord.gg/invite/5K3vCNNBD9)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

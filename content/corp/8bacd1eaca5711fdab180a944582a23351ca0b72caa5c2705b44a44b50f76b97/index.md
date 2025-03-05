@@ -2,6 +2,7 @@
 title: ​Мертвый Космос
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Sich\.ua
 date: 2024-09-25T20:44:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-25T20:44:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ведётся набор в клан. Требуются активные игроки до 6го уровня КЗ для 
 совместных походов на БЗ. 
 Наш телеграмм https://t.me/hades_star
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

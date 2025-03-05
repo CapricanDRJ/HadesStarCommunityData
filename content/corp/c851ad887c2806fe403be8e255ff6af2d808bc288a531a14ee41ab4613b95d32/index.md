@@ -2,6 +2,7 @@
 title: ​ brazil com.
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 6 Nexland Ind\.
 date: 2024-04-02T15:38:45.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-02T15:38:45.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 vamos ser bom
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​Т Е Н Ь
 description: W:8 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ✅ 22 - 2 Poggy Rockers
 date: 2024-11-30T07:03:37.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-30T07:03:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Активность!                                          Еженедельные БЗ 
 (2 дня выходных).         Командные КЗ/МКЗ. Помощь как советами/гайда
 ми, так и артефактами.
 ```
-### [Discord](https://discord.gg/BzbFDrhy3x)
+<br>### [Discord](https://discord.gg/BzbFDrhy3x)
 ### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |

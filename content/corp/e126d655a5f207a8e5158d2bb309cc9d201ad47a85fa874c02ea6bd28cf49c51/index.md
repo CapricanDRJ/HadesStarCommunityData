@@ -2,6 +2,7 @@
 title: ​Flying Dutchmen
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 10 - 42 BattleCo
 date: 2024-03-25T08:45:53.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-25T08:45:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 » Only freaky deaky Dutch
 ```
-### [Discord](https://discord.gg/NMhTcRxNSX)
+<br>### [Discord](https://discord.gg/NMhTcRxNSX)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

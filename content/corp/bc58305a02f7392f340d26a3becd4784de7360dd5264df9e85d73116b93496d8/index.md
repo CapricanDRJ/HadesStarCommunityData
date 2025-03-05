@@ -2,6 +2,7 @@
 title: ​哈迪斯之星，启动！
 description: W:7 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 2 - 4 太阳系集团
 date: 2024-12-05T11:16:11.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-05T11:16:11.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位加入，为萌新提供各种不定期神器福利，<br>急需打白成员，白星出双船可找首席领神器提科技<br>旗舰捐款较多且常驻给高员，捐给旗舰
 1（30级以下先发展，不要透支自己）<br>白星出船q群找首席报名<br>活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！<br>要提科技找首
 席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

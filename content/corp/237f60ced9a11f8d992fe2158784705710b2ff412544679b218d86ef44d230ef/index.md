@@ -2,6 +2,7 @@
 title: ​美丽新世界
 description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 3 E\.T\.A
 date: 2024-04-09T06:24:56.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-04-09T06:24:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 群聊：929368469
 算了-_-||便宜你们了
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (1144)|
-| ELO Competitive | 1158 🔻  (1253)|
+| ELO Competitive | 1158 🔻  (1252)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

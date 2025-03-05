@@ -2,6 +2,7 @@
 title: ​SpaceCowboys
 description: W:13 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 9 - 10 КРЫЛЯ ФЕНИКСА
 date: 2024-03-01T18:07:19.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-01T18:07:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 This corp has moved to Mandaloians (corp), join us there. Discord lin
 k below.
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/JCufnsN57Y)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/JCufnsN57Y)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

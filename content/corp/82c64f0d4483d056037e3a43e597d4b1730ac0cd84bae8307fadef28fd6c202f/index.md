@@ -2,6 +2,7 @@
 title: ​Чистое Небо
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 4 OrderofTheGeon
 date: 2024-07-12T10:33:31.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-07-12T10:33:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Группировка. Сталкер, подойди. Здесь ты найдёшь хороших друзей и това
 рищей, защиту и поддержку, а так же добрый коллектив. ЧН приветствует
  тебя.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (1133)|
-| ELO Competitive | 1156 🔻  (1266)|
+| ELO Competitive | 1156 🔻  (1265)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

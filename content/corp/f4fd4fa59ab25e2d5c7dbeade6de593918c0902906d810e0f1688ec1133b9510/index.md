@@ -2,6 +2,7 @@
 title: ​昙花一现
 description: W:3 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 0 - 10 V0RTEX
 date: 2025-02-24T20:00:33.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-24T20:00:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=green>欢迎来到这个新建的集团(welcome to the group )，让我们把这个集体建没的更好！（不定期会开白
 ，不定期送 r8)友团：分子集团
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

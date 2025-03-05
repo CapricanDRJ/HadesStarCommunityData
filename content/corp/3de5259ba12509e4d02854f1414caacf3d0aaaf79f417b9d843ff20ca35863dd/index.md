@@ -2,6 +2,7 @@
 title: ​Atlas Star llc.
 description: W:51 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 32 - 5 Star Destroyers
 date: 2025-02-25T14:12:31.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-25T14:12:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Discord and at least monthly WS participation required. Part of the m
 ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 ```
-### [Discord](https://discord.gg/gdwqCqc2VN)
+<br>### [Discord](https://discord.gg/gdwqCqc2VN)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

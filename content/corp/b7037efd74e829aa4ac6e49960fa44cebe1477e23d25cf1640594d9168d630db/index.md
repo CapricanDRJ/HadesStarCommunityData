@@ -2,14 +2,13 @@
 title: ​Rising star
 description: W:32 L:44 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ❌ 10 - 30 On en a Gros \! 
 date: 2025-03-01T11:41:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Competitive White Stars every week
@@ -20,7 +19,7 @@ Join our discord: T7DV2nx
 If kicked for inactivity, please join back when ready.  
 
 ```
-### [Discord](https://discord.gg/fYBf2GNU7y)
+<br>### [Discord](https://discord.gg/fYBf2GNU7y)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

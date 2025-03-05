@@ -2,14 +2,13 @@
 title: ​Urban Legends
 description: W:1 L:3 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 0 - 46 ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 date: 2024-01-20T14:22:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Sucka free space initiative
@@ -24,7 +23,7 @@ discord.gg/qz8kpgtj
 
 3 day inactivity kick
 ```
-### [Discord](https://discord.gg/discord.gg/wd2GdBVAaa)
+<br>### [Discord](https://discord.gg/discord.gg/wd2GdBVAaa)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

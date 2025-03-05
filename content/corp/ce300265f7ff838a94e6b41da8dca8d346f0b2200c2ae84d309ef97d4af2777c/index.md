@@ -2,6 +2,7 @@
 title: ​TUSFO星舰第二联邦
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 8 Red Alliance
 date: 2024-08-03T11:56:34.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-08-03T11:56:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 这里是TUSFO星舰联邦的分集团，搜索TUSFO即可进入总集团，QQ群是1075124267，欢迎新朋友一起进来讨论啊，如果有事不能玩的（
 即咸鱼）也可以去总集团挂号。
 欢迎大家多多进行各种等级的私人红星活动，也欢迎新来的朋友多多发言。
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

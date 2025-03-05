@@ -2,6 +2,7 @@
 title: ​KLM
 description: W:15 L:43 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 19 - 46 E\.T\.A
 date: 2025-02-19T00:51:31.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-19T00:51:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 ```
-### [Discord](https://discord.gg/cWymECU)
+<br>### [Discord](https://discord.gg/cWymECU)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

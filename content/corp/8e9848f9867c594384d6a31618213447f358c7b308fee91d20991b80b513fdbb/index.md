@@ -2,6 +2,7 @@
 title: ​Albedo
 description: W:34 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 4 - 24 Свободный флот
 date: 2025-03-03T09:36:38.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-03T09:36:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Vulnera Virtutem Vivificant
 ```
-### [Discord](https://discord.gg/aeWKd23QQ5)
+<br>### [Discord](https://discord.gg/aeWKd23QQ5)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

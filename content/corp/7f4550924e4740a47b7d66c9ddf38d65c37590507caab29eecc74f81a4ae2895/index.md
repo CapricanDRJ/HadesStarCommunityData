@@ -2,6 +2,7 @@
 title: ​DeutschlandGmbH
 description: W:6 L:11 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 9 - 41 alienigenas
 date: 2025-02-28T15:10:00.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-28T15:10:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Wir sind ein relativ Aktiver Konzern und Freuen uns auf  neue Mitglie
 der 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/EsJvWZe)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/EsJvWZe)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

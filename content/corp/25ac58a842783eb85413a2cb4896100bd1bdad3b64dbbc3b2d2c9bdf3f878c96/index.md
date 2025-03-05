@@ -2,6 +2,7 @@
 title: ​夢幻之星＊分盟＊
 description: W:2 L:10 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 28 INFINITY STAR
 date: 2024-10-20T11:20:31.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-20T11:20:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 嗨！！這是個新的開始~期待與你(妳)交個新朋友  ^_^  新來的成員希望能在上線時候打聲招呼  謝謝
 <size=74><color=red>PS 本集团禁止刷屏</color></size>
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

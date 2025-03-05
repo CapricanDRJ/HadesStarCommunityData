@@ -2,6 +2,7 @@
 title: ​Furyans
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 11 - 7 Алый Феникс
 date: 2023-11-28T19:39:46.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-28T19:39:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 You keep what you kill…Naw. One for all and all for one! 
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​北冥星云
 description: W:1 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 12 Death Flight
 date: 2024-12-07T14:11:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ☆欢迎友善伙伴入住，严禁败坏集团风气，提供微薄福利优惠，愉快交流游戏经验
@@ -23,12 +22,12 @@ date: 2024-12-07T14:11:10.000Z
 
 ღ愿世界平和，愿人们的温柔永存
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1234)|
-| ELO Competitive | 1159 🔻  (1248)|
+| ELO Competitive | 1159 🔻  (1247)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

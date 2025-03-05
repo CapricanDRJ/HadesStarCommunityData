@@ -2,6 +2,7 @@
 title: ​Elder Things
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 27 Red Dawn
 date: 2024-03-28T13:12:59.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-28T13:12:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Was once a top 100 Corp
 But now is a retirement home for solo rs. all are free to join
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

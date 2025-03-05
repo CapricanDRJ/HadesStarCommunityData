@@ -2,14 +2,13 @@
 title: ​BSO Academy
 description: W:14 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 28 - 0 对，进就进人少的
 date: 2024-04-08T16:43:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Training Academy for Black Star Order, the #1 Corp in all of Hades' S
@@ -21,7 +20,7 @@ We are actively helping you succeed!
 Our HQ lives on Discord. Enlist today!
 discord.gg/YTaYrhy
 ```
-### [Discord](https://discord.gg/YTaYrhy)
+<br>### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

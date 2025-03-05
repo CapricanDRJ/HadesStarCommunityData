@@ -2,6 +2,7 @@
 title: ​Россия
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 0 - 17 Air/Free\_ziyou
 date: 2025-01-19T09:47:05.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-19T09:47:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

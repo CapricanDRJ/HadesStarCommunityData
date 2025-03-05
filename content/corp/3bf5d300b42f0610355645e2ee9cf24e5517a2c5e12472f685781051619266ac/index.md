@@ -2,6 +2,7 @@
 title: ​Sprite
 description: W:28 L:10 D:1 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 30 - 3 Germania
 date: 2025-02-27T15:02:37.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T15:02:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día
  a la vez. Estrellas Blancas exigentes, trabajo en equipo y estrategi
 a. Nuestra filosofía: unidos somos invencibles.
 ```
-### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
+<br>### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

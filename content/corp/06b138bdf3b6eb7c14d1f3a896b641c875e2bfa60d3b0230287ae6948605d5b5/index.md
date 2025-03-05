@@ -2,6 +2,7 @@
 title: ​Dirty Laundry 
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 4 - 7 두빛나래
 date: 2024-03-22T16:50:01.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-22T16:50:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 a Corp for the Casual gamer. some White stars. Our active players hav
 e merged with 2ND-R8.
 ```
-### [Discord](https://discord.gg/nYPxsBANC3)
+<br>### [Discord](https://discord.gg/nYPxsBANC3)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Fang Empire
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 11 ℬlackStar Order
 date: 2024-12-22T19:26:03.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-12-22T19:26:03.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (1147)|
-| ELO Competitive | 1159 🔻  (1241)|
+| ELO Competitive | 1159 🔻  (1240)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

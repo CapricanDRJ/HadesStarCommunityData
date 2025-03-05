@@ -2,6 +2,7 @@
 title: ​龙门训练营
 description: W:9 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ✅ 12 - 4 Curcubeu
 date: 2024-01-31T08:33:47.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-31T08:33:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=50>※休息中</color> <color=orange>
 ※Q群:936222291
 ※DIS: dAxzXqc</color> </size></b>
 ```
-### [Discord](https://discord.gg/dAxzXqc)
+<br>### [Discord](https://discord.gg/dAxzXqc)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

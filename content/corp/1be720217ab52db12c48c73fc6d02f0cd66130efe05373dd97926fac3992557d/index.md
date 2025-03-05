@@ -2,6 +2,7 @@
 title: ​UAGC
 description: W:46 L:34 D:0 Bonus ✅ 48%
 image: ./favicon.png
+Summary: ✅ 50 - 6 =AMG=
 date: 2025-02-28T16:15:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T16:15:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Українська Галактична Корпорація                       Співтовариство
  укр. корпорацій                      https://t.me/+6t52R1bJ8AswYzVi.
  Чат тг UAGC https://t.me/+E3gZdQcQWC05Y2Q6
 ```
-### Whitestar Bonus ✅ 48%
+<br>### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

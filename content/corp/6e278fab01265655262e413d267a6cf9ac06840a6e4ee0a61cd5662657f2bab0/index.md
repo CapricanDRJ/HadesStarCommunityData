@@ -2,6 +2,7 @@
 title: ​"ПОБЕДА"
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 1 The Red Dwarves
 date: 2024-02-02T14:49:25.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-02T14:49:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 набираем в корпорацию игроков с желанием играть и играть ! принимаем 
 ресурсами помогаем ! от Вас игра и общение ! от Нас помощь и продвиже
 ние !!
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

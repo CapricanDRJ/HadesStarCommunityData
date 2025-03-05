@@ -2,6 +2,7 @@
 title: ​uDS
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 10 Серебряная орда
 date: 2023-11-15T05:52:06.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2023-11-15T05:52:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 L'union Des Sucreries !
 Le plan ? Entraide et baston dans la bonne ambiance !
 Nous sommes ouvert à tout français ou étrangers actifs et motivés.
 Discord : https://discord.gg/9PEjNfq
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

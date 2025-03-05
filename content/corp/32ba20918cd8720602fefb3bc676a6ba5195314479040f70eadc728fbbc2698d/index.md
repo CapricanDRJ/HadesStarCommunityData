@@ -2,6 +2,7 @@
 title: ​Star Destroyers
 description: W:38 L:30 D:2 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 5 - 32 Atlas Star llc\.
 date: 2025-02-25T14:12:31.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-25T14:12:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 7 day inactivity kick. Discord is optional but strongly encouraged. W
 e usually do WS once a week with a day in between searches. If you in
 dicate you will participate and dont you will be kicked.
 ```
-### [Discord](https://discord.gg/Fhks7wPV)
+<br>### [Discord](https://discord.gg/Fhks7wPV)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

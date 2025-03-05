@@ -2,6 +2,7 @@
 title: ​Бороская Имерия
 description: W:17 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 1 - 13 USSR
 date: 2025-02-27T23:48:33.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-27T23:48:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Мы Великая Империя Борос.                 Основана в 10.10.2022      
                       Играем в сонном режиме, телеграм или дс иметь н
 е обязательно, иногда ходим на Белую Звезду.        
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

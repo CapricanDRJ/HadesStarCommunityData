@@ -2,6 +2,7 @@
 title: ​RusCorp
 description: W:0 L:6 D:2 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 0 - 4 国际联盟
 date: 2025-03-03T08:46:33.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-03T08:46:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

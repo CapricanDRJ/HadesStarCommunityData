@@ -2,14 +2,13 @@
 title: ​Imperio Lie Yan
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 7 First Legion
 date: 2023-12-26T00:59:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><color=#4595A4><size=70>꧁FEÐERAŦI0N༒VERSAILES꧂</size></color>
@@ -19,7 +18,7 @@ date: 2023-12-26T00:59:05.000Z
 Language: English-Spanish
 Discord: pxSK3vbe</color></b>
 ```
-### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
+<br>### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

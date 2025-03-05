@@ -2,6 +2,7 @@
 title: ​Rogue One
 description: W:49 L:34 D:1 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 4 - 40 ДИВЕРСАНТЫ
 date: 2025-03-03T06:46:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-03T06:46:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the R1 IMPERIUM,hq of the Empire and sister corp of ROGUE 
 ONE, Join the Imperial Armada and we shall Burn our Enemies in glorio
 us and Righteous Fury! ws every week,
 ```
-### [Discord](https://discord.gg/PY7xzmc7nm)
+<br>### [Discord](https://discord.gg/PY7xzmc7nm)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​Trade Station
 description: W:8 L:52 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 24 - 39 Internationals
 date: 2025-02-25T10:17:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are BSO, the oldest Alliance in HS.
@@ -21,7 +20,7 @@ Are you RS6+ and want to join?
 
 Find us on Discord: YTaYrhy
 ```
-### [Discord](https://discord.gg/YTaYrhy)
+<br>### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

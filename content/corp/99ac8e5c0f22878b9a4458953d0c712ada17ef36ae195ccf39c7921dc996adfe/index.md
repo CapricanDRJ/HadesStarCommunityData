@@ -2,14 +2,13 @@
 title: ​ZION
 description: W:28 L:23 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 7 - 26 ItaFederalFleet
 date: 2024-11-14T04:45:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>ZION</b> ZION II ZION III MSR VEGA ASTRA
@@ -22,13 +21,13 @@ date: 2024-11-14T04:45:03.000Z
 ・ 비매너, 장기미접속은 추방</color> 
 
 ```
-### [Discord](https://discord.gg/37KaujZtkU)
+<br>### [Discord](https://discord.gg/37KaujZtkU)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (506)|
-| ELO Competitive | 1290 🔻  (320)|
+| ELO Competitive | 1290 🔻  (319)|
 | Total Matches | 51 |
 | Wins | 28 |
 | Losses | 23 |

@@ -2,6 +2,7 @@
 title: ​Nova Time
 description: W:13 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ✅ 38 - 2 四季长春
 date: 2024-04-07T14:21:07.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-04-07T14:21:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 There is only one clock that matters.
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1338 🔺  (119)|
-| ELO Competitive | 1342 🔺  (225)|
+| ELO Competitive | 1342 🔺  (224)|
 | Total Matches | 14 |
 | Wins | 13 |
 | Losses | 1 |

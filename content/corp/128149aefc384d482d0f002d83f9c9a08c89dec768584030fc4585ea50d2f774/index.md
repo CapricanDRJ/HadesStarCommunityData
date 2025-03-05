@@ -2,6 +2,7 @@
 title: ​リリース
 description: W:63 L:27 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 13 - 28 северный шторм
 date: 2025-03-03T05:16:14.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-03T05:16:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 　マルチゲーマーズグループ リリース へようこそ！　日本人の方を募集中です！初心者から上級者まで誰でも歓迎いたします！　ただしdiscor
 d必須です！　特別待遇はできかねますのでご注意ください！　　　　　　　　　　　　　　　　　　　　　 2024/11アクティブ！
 ```
-### [Discord](https://discord.gg/jmZpzGx7b5)
+<br>### [Discord](https://discord.gg/jmZpzGx7b5)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

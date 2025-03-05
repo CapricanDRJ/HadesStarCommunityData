@@ -2,6 +2,7 @@
 title: ​银河护卫队
 description: W:14 L:18 D:3 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 9 - 0 Latinos :\)
 date: 2025-02-27T22:58:29.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-27T22:58:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 盟团：斯比纳兰、万星联盟、黑域，中国一建（首席朋友，大哥骏子，他希望有更多人能加入他的群，希望大家帮帮他）。本团每周五晚上10点扫白，8月
 26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集
 团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (841)|
-| ELO Competitive | 1291 🔺  (319)|
+| ELO Competitive | 1291 🔺  (318)|
 | Total Matches | 35 |
 | Wins | 14 |
 | Losses | 18 |

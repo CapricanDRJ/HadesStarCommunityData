@@ -2,6 +2,7 @@
 title: ​Ark Summit
 description: W:17 L:0 D:0 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 44 - 10 Kobol
 date: 2025-02-28T09:09:21.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-28T09:09:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>ARk Ecosystem</b><br><br>Welcome to the ARk, Commander. Please con
 duct yourself appropriately, for we are a highly experienced WS Group
 .<br><br>(D)RS7-10<br>Bi-Weekly WS<br>Discord Mandatory
 ```
-### [Discord](https://discord.gg/teAN7k5Mc7)
+<br>### [Discord](https://discord.gg/teAN7k5Mc7)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔺  (69)|
+| ELO Regular | 1391 🔺  (70)|
 | ELO Competitive | 1412 🔺  (144)|
 | Total Matches | 17 |
 | Wins | 17 |

@@ -2,6 +2,7 @@
 title: ​Rogue Corp
 description: W:1 L:23 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 3 - 35 Scar
 date: 2025-02-22T06:49:19.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-02-22T06:49:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=orange>Rogue Corp</color> We are serious but fun..., Join us f
 or weekly <color=white>WS</color> and private <color=red>RS</color> 
 ```
-### [Discord](https://discord.gg/MztVs42x)
+<br>### [Discord](https://discord.gg/MztVs42x)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

@@ -2,14 +2,13 @@
 title: ​OntarioDynasty
 description: W:1 L:4 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 34 - 44 Hinterm Mond
 date: 2024-04-26T21:44:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are <b>OntarioDynasty!</b>
@@ -22,7 +21,7 @@ e bar or Meadow.
 Chat us up
 https://discord.gg/gBFFE5x
 ```
-### [Discord](https://discord.gg/xbJA3n56)
+<br>### [Discord](https://discord.gg/xbJA3n56)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

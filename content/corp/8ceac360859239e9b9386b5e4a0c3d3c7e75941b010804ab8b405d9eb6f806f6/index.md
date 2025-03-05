@@ -2,6 +2,7 @@
 title: ​Fleet Corp Ares
 description: W:21 L:15 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 19 - 32 Stellar Exports
 date: 2025-02-28T12:29:42.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-28T12:29:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We don't care. You should try it.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​LCP
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 3 - 9 星海扬帆
 date: 2024-05-29T13:47:19.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-05-29T13:47:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

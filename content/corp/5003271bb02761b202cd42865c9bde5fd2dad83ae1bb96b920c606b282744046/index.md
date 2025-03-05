@@ -2,6 +2,7 @@
 title: ​Avantgarde
 description: W:3 L:103 D:3 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 45 Mercury Sunset
 date: 2025-03-04T11:06:43.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T11:06:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Мы, Avantgarde, пришли в Hades' Star, чтобы сеять хаос радости и весе
 лья во имя фана и хорошего настроения! Хаос нельзя остановить! В хаос
  можно только влиться! https://discord.gg/wAHQ5BX
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

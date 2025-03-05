@@ -2,6 +2,7 @@
 title: ​우주미아
 description: W:0 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 22 lonewolf
 date: 2024-09-16T08:08:02.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-09-16T08:08:02.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Looking for active player. Have fun with RS, WS, BS in any playstyle 
 you want.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​2ND-R8 Corp.
 description: W:45 L:19 D:2 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 42 - 14 Curiosity \+ Cat
 date: 2025-03-04T11:34:05.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-03-04T11:34:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in 
 /out of weekly white stars.
 ```
-### [Discord](https://discord.gg/pVhwrfFjx3)
+<br>### [Discord](https://discord.gg/pVhwrfFjx3)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

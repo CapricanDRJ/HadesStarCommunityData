@@ -2,6 +2,7 @@
 title: ​Венерский Союз
 description: W:5 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 7 Ninth Planet
 date: 2024-05-18T07:58:22.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-05-18T07:58:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=green>Иногда идём на БЗ, практически всегда готовы помоч вам в
  развитии вашей империи!</color>
 ```
-### [Discord](https://discord.gg/VTbEpQAEXc)
+<br>### [Discord](https://discord.gg/VTbEpQAEXc)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

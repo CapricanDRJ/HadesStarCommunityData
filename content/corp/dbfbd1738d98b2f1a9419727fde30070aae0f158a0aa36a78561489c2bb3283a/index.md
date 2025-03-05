@@ -2,6 +2,7 @@
 title: ​Green Dwarf
 description: W:4 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 32 - 0 TheBasics
 date: 2024-06-16T11:09:01.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-06-16T11:09:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Green Dwarf (GD); a part of the Dwarf family. Dwarf discor
 d recommended for RS, weekly WS, advice and community. Currently 4 co
 rps in the Dwarf community. 
 ```
-### [Discord](https://discord.gg/aBcFBnzKBR)
+<br>### [Discord](https://discord.gg/aBcFBnzKBR)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (278)|
+| ELO Regular | 1247 🔺  (277)|
 | ELO Competitive | 1262 🔺  (395)|
 | Total Matches | 5 |
 | Wins | 4 |

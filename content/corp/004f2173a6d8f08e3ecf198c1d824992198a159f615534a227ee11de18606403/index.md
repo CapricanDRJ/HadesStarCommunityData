@@ -2,14 +2,13 @@
 title: ​红星超新星爆炸
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 2 - 7 Forces of Light
 date: 2024-02-14T03:35:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=#E57590><b>欢迎大佬萌新加入，祝大家早日R11
@@ -23,7 +22,7 @@ date: 2024-02-14T03:35:14.000Z
 积极推进集团发展者可作为红星指挥
 经常上线的有打白资格</b></color>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

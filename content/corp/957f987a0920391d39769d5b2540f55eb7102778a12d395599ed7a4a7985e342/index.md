@@ -2,6 +2,7 @@
 title: ​Stellaris
 description: W:4 L:12 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 15 - 3 Eretria 
 date: 2024-11-24T16:55:28.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-24T16:55:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 N'hésitez pas à venir discuter ou poser vos questions 
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

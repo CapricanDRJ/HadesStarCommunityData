@@ -2,14 +2,13 @@
 title: ​63SALVADORES36
 description: W:22 L:25 D:1 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 7 - 0 落魄山
 date: 2025-03-04T03:58:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 CORP DE TRADEOS
@@ -24,7 +23,7 @@ Corporaciones aliadas:
 Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

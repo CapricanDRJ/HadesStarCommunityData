@@ -2,6 +2,7 @@
 title: ​UKR Spase
 description: W:41 L:23 D:0 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 22 - 5 OPA
 date: 2025-03-04T13:04:15.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2025-03-04T13:04:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Вiдкрита всiм!)
 Допомога новачкам смачними артами, порадами, допомога в чз/тчз
 Регулярні бз в активному і веселому колективі
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
 ```
-### [Discord](https://discord.gg/dppJFm6)
+<br>### [Discord](https://discord.gg/dppJFm6)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |

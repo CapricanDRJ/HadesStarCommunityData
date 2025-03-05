@@ -2,6 +2,7 @@
 title: ​TheBasics
 description: W:45 L:80 D:2 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 37 - 5 九州分团
 date: 2025-03-04T08:53:51.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-03-04T08:53:51.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Just log in and play once per day.
 ```
-### [Discord](https://discord.gg/pTS382n7ZR)
+<br>### [Discord](https://discord.gg/pTS382n7ZR)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1091 🔺  (1349)|
-| ELO Competitive | 1348 🔺  (216)|
+| ELO Competitive | 1348 🔺  (215)|
 | Total Matches | 127 |
 | Wins | 45 |
 | Losses | 80 |

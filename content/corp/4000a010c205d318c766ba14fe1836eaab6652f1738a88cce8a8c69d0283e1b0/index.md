@@ -2,6 +2,7 @@
 title: ​Axiom
 description: W:88 L:39 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ✅ 3 - 0 КОРПОРАЦИЯ ЗЛА
 date: 2024-12-22T21:01:31.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2024-12-22T21:01:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>Добро пожаловать в Axiom! </b> 
  Ведётся набор! Помощь новичкам и лоулвл.  
 Основана 01.09.2019
 https://discord.gg/CY4M2awSgS
 ```
-### [Discord](https://discord.gg/CY4M2awSgS)
+<br>### [Discord](https://discord.gg/CY4M2awSgS)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (271)|
+| ELO Regular | 1250 🔺  (270)|
 | ELO Competitive | 1539 🔺  (50)|
 | Total Matches | 127 |
 | Wins | 88 |

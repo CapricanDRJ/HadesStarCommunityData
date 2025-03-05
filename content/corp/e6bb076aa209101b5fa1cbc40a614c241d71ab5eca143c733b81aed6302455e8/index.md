@@ -2,6 +2,7 @@
 title: ​逐光起航
 description: W:9 L:40 D:6 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 2 - 4 🌪TORNADO 
 date: 2025-01-17T06:11:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-17T06:11:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#FF0><size=100>欢迎加入逐光起航    <#ff00cc><i></size>本团为<#CC99FF>北极星联盟</col
 or>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</color></i>               欢迎合作白星，捐旗
 舰1   每2周清一次小红点
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

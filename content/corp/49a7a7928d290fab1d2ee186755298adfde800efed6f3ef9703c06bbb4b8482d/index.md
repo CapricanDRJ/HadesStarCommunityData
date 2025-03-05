@@ -2,6 +2,7 @@
 title: ​Диванные Стражи
 description: W:1 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 10 viCIOus
 date: 2024-10-16T15:40:06.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-16T15:40:06.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 рады всем адекватам) 
 наша телега @divanguardian удачной игры)
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

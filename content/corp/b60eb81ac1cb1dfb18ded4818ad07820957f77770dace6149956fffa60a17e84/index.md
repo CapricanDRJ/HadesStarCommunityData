@@ -2,6 +2,7 @@
 title: ​Nebula alliance
 description: W:7 L:3 D:2 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 4 - 4 Chaos
 date: 2025-01-27T07:56:41.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-27T07:56:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 In this corporation, we help eachother in red stars and will do white
  stars to grow the corp! Be nice to everyone and lets grow our star s
 ystems!
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

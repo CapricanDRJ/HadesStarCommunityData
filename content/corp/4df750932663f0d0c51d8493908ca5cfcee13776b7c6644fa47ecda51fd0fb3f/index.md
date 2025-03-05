@@ -2,6 +2,7 @@
 title: ​ITA 2.0
 description: W:5 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 2 - 20 Warriorlords
 date: 2024-02-11T12:23:05.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2024-02-11T12:23:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 BENVENUTI IN ITA! Accademia dell main coorp ITA, RS1-RS6 ed introduzi
 one alle WS.                                  ~Discord OBBLIGATORIO  
                                 
 ```
-### [Discord](https://discord.gg/BRA4bgRtvh)
+<br>### [Discord](https://discord.gg/BRA4bgRtvh)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (307)|
+| ELO Regular | 1240 🔻  (305)|
 | ELO Competitive | 1242 🔻  (454)|
 | Total Matches | 7 |
 | Wins | 5 |

@@ -2,6 +2,7 @@
 title: ​Starlancer
 description: W:0 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 34 Death Star llc\.
 date: 2024-05-07T03:17:15.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-07T03:17:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Deutschsprachiger Konzern sucht aktive Spieler mit Interesse an RR un
 d WZ. Spaß am Spiel steht bei uns im Vordergrund, Hilfe bei Rrs immer
  gegeben, Wz meist wöchentlich 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

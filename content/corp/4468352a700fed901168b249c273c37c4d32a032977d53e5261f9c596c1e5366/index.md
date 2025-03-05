@@ -2,6 +2,7 @@
 title: ​The Smeg Heads
 description: W:1 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 3 - 0 欢迎国人
 date: 2024-11-10T07:05:54.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-11-10T07:05:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Heads full of SMEG
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔺  (1148)|
-| ELO Competitive | 1158 🔺  (1255)|
+| ELO Competitive | 1158 🔺  (1254)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

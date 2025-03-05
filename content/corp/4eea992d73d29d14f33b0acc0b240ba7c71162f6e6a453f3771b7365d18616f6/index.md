@@ -2,6 +2,7 @@
 title: ​柯伊伯带伊甸园
 description: W:15 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 21 - 0 Тихий Омут
 date: 2024-11-26T22:50:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-26T22:50:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#80a4ea><size=100>不要捐旗舰<br><size=55>本团为柯伊伯带分团，带打不了暗红的萌新<br>Q群9
 38915853<br>萌新群<br>寻求帮助没人回复请加群，游戏聊天系统没有消息通知！<br>名额有限，小号、僵尸号请离开<br>研究站
 停止的或红点会被移除，同时会收到邀请，回游后点右下角的社交按钮邀请加入</size></color>
 ```
-### [Discord](https://discord.gg/xa5t5sD3Hx)
+<br>### [Discord](https://discord.gg/xa5t5sD3Hx)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

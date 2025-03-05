@@ -2,6 +2,7 @@
 title: ​Stargroup
 description: W:0 L:9 D:4 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 WSC\(no DISCORD\)
 date: 2025-03-01T10:59:26.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-03-01T10:59:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We do all types of stars we help in red stars we prepare to battle in
  blue stars and we battle white stars.Sorry i am not online that much
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔺  (1320)|
+| ELO Regular | 1108 🔺  (1319)|
 | ELO Competitive | 1131 🔺  (1360)|
 | Total Matches | 13 |
 | Wins | 0 |

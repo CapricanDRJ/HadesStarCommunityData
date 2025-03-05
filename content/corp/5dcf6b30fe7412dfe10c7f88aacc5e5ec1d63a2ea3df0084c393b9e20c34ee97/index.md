@@ -2,14 +2,13 @@
 title: ​Galaxian
 description: W:18 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 27 Серебряная орда
 date: 2024-06-14T08:20:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Nous sommes Battlesquadron ! 
@@ -22,7 +21,7 @@ French Language
 Battlesquadron : RS 7+
 Galaxian : RS1-6
 ```
-### [Discord](https://discord.gg/hb9JBGP)
+<br>### [Discord](https://discord.gg/hb9JBGP)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

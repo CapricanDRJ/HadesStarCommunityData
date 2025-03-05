@@ -2,6 +2,7 @@
 title: ​UNNP
 description: W:0 L:2 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 19 STRVS233～
 date: 2024-07-15T05:27:20.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-07-15T05:27:20.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 One Galaxy under god, ruled by an iron fist to comply and listen or s
 hall be struck down with utter destruction.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

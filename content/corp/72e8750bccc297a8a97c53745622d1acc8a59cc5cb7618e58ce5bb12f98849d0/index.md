@@ -2,14 +2,13 @@
 title: ​星际公约组织
 description: W:25 L:12 D:1 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 14 - 4 Alpha to Omega
 date: 2025-03-04T13:44:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 欢迎萌新大佬，不定时发福利，不定时开白（分团：星约组织基地分团）
@@ -23,7 +22,7 @@ date: 2025-03-04T13:44:20.000Z
 欢迎你的加入！
 Q群：993612413
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

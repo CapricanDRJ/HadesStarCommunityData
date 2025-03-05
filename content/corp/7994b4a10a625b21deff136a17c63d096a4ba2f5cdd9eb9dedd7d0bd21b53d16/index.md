@@ -2,6 +2,7 @@
 title: ​РусКорп
 description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 15 lesescargots
 date: 2024-02-25T04:42:00.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-25T04:42:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 работа на кз. и кач кораблей по возможности делимся артами.
 ```
-### [Discord](https://discord.gg/8YnzVpct)
+<br>### [Discord](https://discord.gg/8YnzVpct)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

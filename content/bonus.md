@@ -2,8 +2,9 @@
 layout: page
 title: Top Bonus
 description: Top Corporations with bonus
-date: 2025-03-05T01:24:13.442Z
+date: 2025-03-05T05:29:04.458Z
 permalink: /bonus/
+searchHidden: true
 ---
 
 | Rank | Corporation Name | Percent |

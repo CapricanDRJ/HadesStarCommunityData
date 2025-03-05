@@ -2,14 +2,13 @@
 title: ​Novana Gaming
 description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 29 Mercury Sunset
 date: 2024-08-25T10:45:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=blue><size=100> Welcome to </size></color>
@@ -18,7 +17,7 @@ date: 2024-08-25T10:45:28.000Z
 - At least 1x White Star every week
 - No toxicity<color="yellow">
 ```
-### [Discord](https://discord.gg/TcQcQt9)
+<br>### [Discord](https://discord.gg/TcQcQt9)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

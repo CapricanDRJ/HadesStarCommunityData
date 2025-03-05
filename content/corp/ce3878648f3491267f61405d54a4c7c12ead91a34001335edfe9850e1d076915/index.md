@@ -2,6 +2,7 @@
 title: ​DESERT DEMONS
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Dumpster Fire
 date: 2023-12-21T20:00:01.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-12-21T20:00:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Be nice and be active, we will support you on your way up :) https://
 discord.com/invite/3z6EWUq5
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

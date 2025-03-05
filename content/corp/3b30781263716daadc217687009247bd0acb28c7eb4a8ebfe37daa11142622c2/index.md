@@ -2,6 +2,7 @@
 title: ​雪月永恒
 description: W:7 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 14 Dark Halo
 date: 2024-10-31T13:37:38.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-10-31T13:37:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 星光万丈星际集团分团 我们专门招募可爱的萌新😋现在加入以后就是元老了👀真的不来试试嘛       注意：集团会定期清人，被清者可通过邀请重新回家    Q群852308177加群晋升并有萌新福利                         <size=70><color=red>暂时封闭
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

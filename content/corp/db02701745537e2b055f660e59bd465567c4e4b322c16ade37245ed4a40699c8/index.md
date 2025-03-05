@@ -2,6 +2,7 @@
 title: ​Russian Style
 description: W:3 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 3 - 22 ALPHA
 date: 2024-12-26T08:04:54.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-12-26T08:04:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Желание участвовать на БЗ приветствуются)). За участие БЗ повышаю в з
 вании
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

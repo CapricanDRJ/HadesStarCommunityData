@@ -2,6 +2,7 @@
 title: ​First Legion
 description: W:44 L:60 D:1 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 10 - 2 Death Flight
 date: 2025-03-03T23:58:08.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-03T23:58:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 leave no man behind! join and we'll share the  fights!<br>Coordinate 
 Red Star battles, with GMT. Weekly WS starting on wednesdays.<br><br>
 Sister corporations: TeddisaurusWrex, Armored Union
 ```
-### Whitestar Bonus ✅ 38%
+<br>### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

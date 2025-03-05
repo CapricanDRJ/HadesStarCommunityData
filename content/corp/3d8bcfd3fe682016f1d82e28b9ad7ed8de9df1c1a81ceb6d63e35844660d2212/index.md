@@ -2,6 +2,7 @@
 title: ​蓝太阳
 description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 4 империя тьмы
 date: 2024-09-05T11:33:53.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-05T11:33:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们欢迎任何人<br>welcome to  everyone<br>Мы рады любому<br>福利:r4~r7<br><b>首
 席:白芷<br></b>黑名单：三体(AEN-3092)<br>敌团：红日初升，其道大光（和白毁白）<br>神圣罗马帝国第三分团<br>集
 团QQ群：945406414<br>招人中
 ```
-### [Discord](https://discord.gg/WC)
+<br>### [Discord](https://discord.gg/WC)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

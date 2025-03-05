@@ -2,14 +2,13 @@
 title: ​Star Dust
 description: W:2 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 24 - 30 Ark
 date: 2023-12-22T12:06:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Welcome to Star Dust.
@@ -21,7 +20,7 @@ Beginners welcome, we support you to grow.
 
 https://discord.gg/WKdC8XW
 ```
-### Whitestar Bonus ❌ 9%
+<br>### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

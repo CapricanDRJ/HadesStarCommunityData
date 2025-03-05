@@ -2,6 +2,7 @@
 title: ​Северный флот 
 description: W:2 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 16 - 3 普罗米修斯
 date: 2024-01-30T10:01:28.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-01-30T10:01:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b> <color=#FFC0CB>Добро Пожаловать в Северный Флот!</b>       <color
 =#8bbe1b>Discord Канал:<b>#👀сбор-на-кз</b> </color>(читай Справку)
 ```
-### [Discord](https://discord.gg/xxJxnp5m7f)
+<br>### [Discord](https://discord.gg/xxJxnp5m7f)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

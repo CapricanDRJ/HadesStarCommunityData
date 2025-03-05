@@ -2,14 +2,13 @@
 title: ​Hades Academy
 description: W:5 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 33 - 39 Croce del Sud
 date: 2024-07-23T23:50:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Laid back corp with occasional WS. Most importantly, we have fun! <b>
@@ -18,7 +17,7 @@ Discord is mandatory!</b>
 • Seeking all new members
 • Casual WS Corp
 ```
-### [Discord](https://discord.gg/kUcE6EP)
+<br>### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​The Foundation
 description: W:14 L:4 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 10 - 20 Лютые
 date: 2025-03-04T03:08:23.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-04T03:08:23.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 A friendly corporation with a variety of skills and experience. Dedic
 ated to helping new players grow. Discord recommended for White Stars
 .
 ```
-### [Discord](https://discord.gg/Y5SBYmr)
+<br>### [Discord](https://discord.gg/Y5SBYmr)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

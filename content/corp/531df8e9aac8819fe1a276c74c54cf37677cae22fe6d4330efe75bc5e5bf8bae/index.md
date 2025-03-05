@@ -2,14 +2,13 @@
 title: ​Borg Unimatrix
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Osmium Star llc
 date: 2024-09-24T11:56:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are the Borg, You will be assimilated, Resistance is futile.
@@ -18,7 +17,7 @@ Unimatrix 1 of the Borg collective
 
 BorgHadesStar.reddit.com
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

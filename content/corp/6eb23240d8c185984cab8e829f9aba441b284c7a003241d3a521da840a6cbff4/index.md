@@ -2,14 +2,13 @@
 title: ​猎户座星云
 description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 13 ItaFederalFleet
 date: 2024-05-18T12:18:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 这里是企鹅帝国第一分团 加入本团后禁止不留言就离开 上学日不打白 欢迎大家加入                           
@@ -21,7 +20,7 @@ date: 2024-05-18T12:18:44.000Z
 旗舰不要捐钱！(敌人强大）
 卖七级神器可以找独狼编号：VXD-6761
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

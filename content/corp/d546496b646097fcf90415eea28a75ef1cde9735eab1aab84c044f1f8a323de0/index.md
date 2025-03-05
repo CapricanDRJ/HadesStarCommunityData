@@ -2,6 +2,7 @@
 title: ​Killer Bees.
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 11 Galaxian
 date: 2023-11-07T10:58:21.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2023-11-07T10:58:21.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Jack-b is holding me hostage send help! 0_0
 ```
-### [Discord](https://discord.gg/https://discord.gg/CRmgtgcxWv)
+<br>### [Discord](https://discord.gg/https://discord.gg/CRmgtgcxWv)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

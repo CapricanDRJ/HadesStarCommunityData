@@ -2,6 +2,7 @@
 title: ​Minutemen
 description: W:10 L:19 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 30 Industrial W\.O
 date: 2025-01-25T00:35:34.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-25T00:35:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Relaxed corp. White star with us for fun.
 ```
-### [Discord](https://discord.gg/dgpJDdf5EX)
+<br>### [Discord](https://discord.gg/dgpJDdf5EX)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

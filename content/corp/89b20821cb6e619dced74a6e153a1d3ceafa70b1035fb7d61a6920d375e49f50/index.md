@@ -2,6 +2,7 @@
 title: ​Winter Star llc
 description: W:12 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 7 - 23 Free Ag3nts
 date: 2025-02-26T18:55:37.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-26T18:55:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Winter Star llc, a Beginner Corporation to help you out on your missi
 ons! //You must Join our Discord within 7 days 
 ```
-### [Discord](https://discord.gg/SpNnydQdNf)
+<br>### [Discord](https://discord.gg/SpNnydQdNf)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (225)|
+| ELO Regular | 1268 🔻  (224)|
 | ELO Competitive | 1304 🔻  (289)|
 | Total Matches | 19 |
 | Wins | 12 |

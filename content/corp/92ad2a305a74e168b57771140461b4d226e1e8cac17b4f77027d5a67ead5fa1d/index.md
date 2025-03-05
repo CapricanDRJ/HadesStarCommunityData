@@ -2,6 +2,7 @@
 title: ​星光万丈
 description: W:25 L:30 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 3 - 4 清霄阁（防御协会）
 date: 2025-01-06T12:28:54.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-01-06T12:28:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎加入QQ群852308177 首席Raine    分团：万星联盟  萌新指引站    禁止和白                   
                                    始建于2023.6 28  已封闭 星光舰队 雪月永恒  红活请前往
 星光禁卫
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (311)|
+| ELO Regular | 1239 🔻  (309)|
 | ELO Competitive | 1373 🔻  (179)|
 | Total Matches | 56 |
 | Wins | 25 |

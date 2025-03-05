@@ -2,6 +2,7 @@
 title: ​Gold Star
 description: W:4 L:14 D:2 Bonus ✅ 30%
 image: ./favicon.png
+Summary: ✅ 6 - 0 Dumpster Fire
 date: 2025-02-26T20:25:48.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-26T20:25:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ruling the universe is our simple goal.
 ```
-### Whitestar Bonus ✅ 30%
+<br>### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |

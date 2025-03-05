@@ -2,6 +2,7 @@
 title: ​Red Alliance
 description: W:22 L:30 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 28 RUFORS
 date: 2025-03-02T22:15:36.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-02T22:15:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 English speaking – would you want to communicate
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

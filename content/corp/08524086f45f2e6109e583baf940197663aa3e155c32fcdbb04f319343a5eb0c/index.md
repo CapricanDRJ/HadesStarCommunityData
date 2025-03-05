@@ -2,6 +2,7 @@
 title: ​Looping
 description: W:33 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 19 - 5 Widow Makers
 date: 2025-02-01T08:58:40.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-02-01T08:58:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Toi aussi viens evènementialiser un bénéfice collaboratif dans notre 
 kick-off d'idéation de projet consultative du phallus de Fred
 ```
-### [Discord](https://discord.gg/tdyuYBQ5xs)
+<br>### [Discord](https://discord.gg/tdyuYBQ5xs)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (221)|
+| ELO Regular | 1270 🔺  (220)|
 | ELO Competitive | 1382 🔺  (169)|
 | Total Matches | 59 |
 | Wins | 33 |

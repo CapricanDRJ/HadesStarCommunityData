@@ -2,6 +2,7 @@
 title: ​          银钒   
 description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
+Summary: ❌ 0 - 9 ✨ℛedstar Order«
 date: 2025-02-23T17:09:10.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-23T17:09:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ❌ 
+<br>### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (1135)|
-| ELO Competitive | 1158 🔻  (1259)|
+| ELO Competitive | 1158 🔻  (1258)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

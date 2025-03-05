@@ -2,6 +2,7 @@
 title: ​Nexland Ind.
 description: W:5 L:4 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 империя тьмы
 date: 2024-06-28T10:26:14.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-06-28T10:26:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Buka's secret hideout
 ```
-### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795)
+<br>### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​ShadowSpaceCult
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 7 - 14 challenger corp
 date: 2024-02-26T21:18:10.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-26T21:18:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Head over to WompWompWay
 ```
-### [Discord](https://discord.gg/5KCND3wuds)
+<br>### [Discord](https://discord.gg/5KCND3wuds)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

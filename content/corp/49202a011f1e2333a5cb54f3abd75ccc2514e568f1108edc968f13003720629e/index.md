@@ -2,6 +2,7 @@
 title: ​Red Dwarf
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 5 Sich\.ua
 date: 2024-03-26T02:22:51.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-26T02:22:51.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=#FF6666>Welcome to Red Dwarf!</color> Part of the Dwarf family
 , join us for group Red Star runs, hints and tips, free artifacts, an
 d weekly White Stars hosted in White Dwarf! Discord advised. 
 ```
-### [Discord](https://discord.gg/mbBssbBRQ8)
+<br>### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

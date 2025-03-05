@@ -2,14 +2,13 @@
 title: ​KhaOSs
 description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 3 - 8 碧海听潮阁
 date: 2025-03-02T18:10:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 KHØS
@@ -19,7 +18,7 @@ CLM
 SpN
 EUR
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

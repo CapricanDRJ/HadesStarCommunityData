@@ -2,6 +2,7 @@
 title: ​Oficina Tuga
 description: W:9 L:27 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 37 Looping
 date: 2024-11-15T16:04:01.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-11-15T16:04:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Chat Português 
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

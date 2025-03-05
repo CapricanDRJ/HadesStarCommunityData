@@ -2,6 +2,7 @@
 title: ​CTG
 description: W:39 L:39 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 3 - 33 STAR TERROR CZ
 date: 2025-02-28T19:30:30.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T19:30:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>Must be English speaking.<color=white> Adults only. CTG = 
 Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<color=yellow>We welcome an
 y newbie and big guy to join us! If you're interested, say hi!
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

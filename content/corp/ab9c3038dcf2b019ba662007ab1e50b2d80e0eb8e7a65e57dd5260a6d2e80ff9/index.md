@@ -2,6 +2,7 @@
 title: ​Halcon español
 description: W:35 L:20 D:1 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 17 - 11 Space Marshalls
 date: 2025-03-01T12:12:00.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T12:12:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si par
 ticipas la asistencia es obligada, no participar = expulsión. Rojas d
 e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
-### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
+<br>### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

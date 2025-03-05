@@ -2,14 +2,13 @@
 title: ​The Syndicate 
 description: W:31 L:6 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 12 - 2 萌新集团
 date: 2025-03-04T11:44:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Welcome to the Syndicate! After conquering the economy in SimCompanie
@@ -18,7 +17,7 @@ s, its time to corporatize the galaxy!
 White star participation is only for those in the discord. No excepti
 ons.
 ```
-### [Discord](https://discord.gg/B3N5by8zUb)
+<br>### [Discord](https://discord.gg/B3N5by8zUb)
 ### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |

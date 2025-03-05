@@ -2,6 +2,7 @@
 title: ​Red Star
 description: W:14 L:15 D:1 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 21 - 2 STAR TERROR CZ
 date: 2025-02-28T20:30:37.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2025-02-28T20:30:37.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔺  (485)|
-| ELO Competitive | 1296 🔺  (305)|
+| ELO Competitive | 1296 🔺  (304)|
 | Total Matches | 30 |
 | Wins | 14 |
 | Losses | 15 |

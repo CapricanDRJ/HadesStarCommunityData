@@ -2,6 +2,7 @@
 title: ​TheSpacingGuild
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 8 - 41  RELAX CZ/SK
 date: 2024-01-12T20:53:30.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-01-12T20:53:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 The spice must flow!
 MoA - Manic
 MoP - Spiff
 Fedaykin - Athena, Sun, Dune, Ancient
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

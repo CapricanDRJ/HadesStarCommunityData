@@ -2,6 +2,7 @@
 title: ​TERRA P
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 0 - 21 Greek Warriors
 date: 2024-06-17T21:17:41.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-06-17T21:17:41.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=red>★Корпорация TERRA P — место, где пролетарии всех стран 
 могут объединиться для совместного труда и побед★</color>
 Вступайте в наши ряды!</color></b>
 (для бз нужен тг и активность)
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

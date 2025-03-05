@@ -2,6 +2,7 @@
 title: ​nebulous
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 41 111
 date: 2024-02-27T21:20:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-27T21:20:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 After Dark Nebula, we're trying to figure it out and rebuilding.  Joi
 n the gang, looking for active players. https://discord.com/invite/NF
 yP4WnNqW
 ```
-### Whitestar Bonus ❌ 10%
+<br>### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

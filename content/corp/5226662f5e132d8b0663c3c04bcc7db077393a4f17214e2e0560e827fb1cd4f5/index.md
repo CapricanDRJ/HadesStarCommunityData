@@ -2,6 +2,7 @@
 title: ​United Gardiens
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 7 - 0 The Witness
 date: 2025-01-05T19:07:27.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-01-05T19:07:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Guardians united under one.
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

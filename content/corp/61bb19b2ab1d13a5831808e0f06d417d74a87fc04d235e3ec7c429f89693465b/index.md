@@ -2,6 +2,7 @@
 title: ​Team Elite
 description: W:1 L:2 D:1 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 21 - 29 BattleCo
 date: 2024-03-12T19:52:38.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-03-12T19:52:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Help each other out. Don't be a dick. Chill out, have fun. Must be ac
 tive, no stress on speed. WS players wanted. Discord: https://discord
 .com/invite/2anpCUHkET
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |

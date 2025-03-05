@@ -2,6 +2,7 @@
 title: ​the light
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 3 КОРПОРАЦИЯ ЗЛА
 date: 2024-05-20T02:20:43.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-20T02:20:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 1. If you leave the game or stop playing for 14 days please advise by
  general chat. 2. Verbal abuse is not allowed. 3. I will be connected
  every day making adjustments to the clan.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

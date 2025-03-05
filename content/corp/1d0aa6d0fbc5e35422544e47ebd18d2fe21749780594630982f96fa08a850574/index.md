@@ -2,6 +2,7 @@
 title: ​Bon Ariens
 description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ↔️ 2 - 2 超新星联盟
 date: 2025-01-23T09:26:16.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-23T09:26:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on 
 se distingue dans la compétence 🤔. Si toi aussi tu te demandes comme
 nt font les autres 😅
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

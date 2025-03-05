@@ -2,6 +2,7 @@
 title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 16 - 0 Sector7
 date: 2024-02-26T13:22:47.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-26T13:22:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 奥米加分部的分团,分团首席:passion 白星指挥: passion 不可私自动用旗舰,别捐旗舰!要不然容易匹配到强敌.集团帮扶打红,不
 准霸屏!禁止骂人!严禁随意删除消息!违者一律踢出集团，拉黑名单。欢迎大家进团一起进步！欢迎萌新,干事与首席可以开白！建于公元2024-02
 -10  状态:活跃 宗旨:让柏林之声响彻大地，让罪恶的犹猪无处躲藏！Free Palestine!
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

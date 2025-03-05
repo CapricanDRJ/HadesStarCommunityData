@@ -2,6 +2,7 @@
 title: ​ЧВК "Котики"
 description: W:30 L:23 D:4 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 37 Justice Vengers
 date: 2024-12-25T19:47:46.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-12-25T19:47:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Приветствую. Ходим на БЗ регулярно(но с перерывами).Будем рады новым 
 игрокам. За долгое бездействие (более двух недель-месяца, по ситуации
 ) - кик.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

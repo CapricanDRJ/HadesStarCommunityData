@@ -2,6 +2,7 @@
 title: ​Space Pirate
 description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 4 - 3 世外桃源
 date: 2024-11-24T05:09:19.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-11-24T05:09:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the clan, Steal what you can. Please join our Discord... N
 o Discord No Entry
 ```
-### [Discord](https://discord.gg/https://discord.gg/YyTC3Krh)
+<br>### [Discord](https://discord.gg/https://discord.gg/YyTC3Krh)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

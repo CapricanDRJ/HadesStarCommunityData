@@ -2,14 +2,13 @@
 title: ​Killer Shadow
 description: W:2 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 27 italian warrior
 date: 2024-02-20T22:59:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 "Vagando a Espreita das Sombras, Sempre Evoluindo a Cada Vitória. Por
@@ -19,11 +18,11 @@ tanto Cuidado, Pois a Sua Derrota é a Nossa Glória!"
 Gpp: Whats✔
 Ws: a Cada 4 dias
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1319)|
+| ELO Regular | 1109 🔻  (1318)|
 | ELO Competitive | 1114 🔻  (1391)|
 | Total Matches | 12 |
 | Wins | 2 |

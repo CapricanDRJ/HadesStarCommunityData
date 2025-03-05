@@ -2,6 +2,7 @@
 title: ​超新星联盟
 description: W:7 L:15 D:4 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 2 环星集团
 date: 2025-01-31T01:25:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-01-31T01:25:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
  首席 中华   本团禁止骂人 ，一旦发现 ，直接提出。本团不能谈论其他游戏的内容一般不打白。长假必打白，人不到不打白。 30级以下成员 
 30～50高员50+干事。欢迎外国人（foriengers are welcom）（不准擦）。14天清人 
 
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

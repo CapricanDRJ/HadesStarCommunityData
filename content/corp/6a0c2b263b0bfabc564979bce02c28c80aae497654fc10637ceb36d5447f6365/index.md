@@ -2,6 +2,7 @@
 title: ​边缘世界
 description: W:3 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 3 - 14 中国星际联盟
 date: 2024-02-02T12:19:07.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-02-02T12:19:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 本集团属于边际的文明分团，隶属于元素联邦集团，集团内玩家需和谐共处，神器和矿场集团内部交易优惠，白星尽力而为，详情看元素联邦介绍（5级集团
 ）                                                   
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

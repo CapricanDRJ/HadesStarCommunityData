@@ -2,6 +2,7 @@
 title: ​初始之音
 description: W:11 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 5 水晶星际集团
 date: 2024-08-30T13:07:56.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-30T13:07:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 稳定发放D7-9，<size=50>别捐旗舰</size>   QQ群638804576
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

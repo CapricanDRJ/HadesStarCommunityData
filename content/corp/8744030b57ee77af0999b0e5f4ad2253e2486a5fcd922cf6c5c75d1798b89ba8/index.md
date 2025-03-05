@@ -2,6 +2,7 @@
 title: ​UNSC
 description: W:4 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 22 - 3 Axioma
 date: 2024-07-04T14:36:07.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-07-04T14:36:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 United Nations Space Command.
 ```
-### [Discord](https://discord.gg/https://discord.gg/rbQwDdUp8A)
+<br>### [Discord](https://discord.gg/https://discord.gg/rbQwDdUp8A)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

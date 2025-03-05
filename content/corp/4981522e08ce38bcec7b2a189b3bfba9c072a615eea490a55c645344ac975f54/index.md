@@ -2,6 +2,7 @@
 title: ​exirium
 description: W:6 L:7 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 20 imperio galacti
 date: 2025-02-13T23:09:29.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-13T23:09:29.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=116>IMPERIO EXIRIUM </size></b> Bienvenidos todos a esta gra
 n corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crece
 r.                                         WhatsApp incluido.
 ```
-### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
+<br>### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

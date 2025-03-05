@@ -2,6 +2,7 @@
 title: ​神仙'
 description: W:8 L:11 D:3 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 15 challenger corp
 date: 2024-03-13T10:58:57.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-03-13T10:58:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要
 给旗舰捐钱。
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

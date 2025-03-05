@@ -2,6 +2,7 @@
 title: ​death squadron 
 description: W:18 L:22 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 5 - 17 Scar
 date: 2024-06-26T10:00:58.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-06-26T10:00:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=green>Welcome to the Death Squadron! The empire's most Elite s
 quadron<br>weekly white stars<br>private red stars 3 to 8
 ```
-### [Discord](https://discord.gg/HhVjWquh4J)
+<br>### [Discord](https://discord.gg/HhVjWquh4J)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

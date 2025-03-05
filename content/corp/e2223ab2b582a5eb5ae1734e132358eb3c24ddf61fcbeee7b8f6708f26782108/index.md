@@ -2,6 +2,7 @@
 title: ​Galactic Empire
 description: W:22 L:20 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 10 Quantum Pioneer
 date: 2025-01-17T01:07:28.000Z
 ---
 <head>
@@ -9,21 +10,19 @@ date: 2025-01-17T01:07:28.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 "Venimus, Vidimus, Vicimus!"
 Welcome to the Galactic Empire recruit, an active corp that does ws a
 nd rs welcoming all players! Rs on weekends mainly. Inactive players 
 will be kicked! Founder: Emperor 
 ```
-### [Discord](https://discord.gg/Red4yqWn3F)
+<br>### [Discord](https://discord.gg/Red4yqWn3F)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (644)|
-| ELO Competitive | 1289 🔻  (324)|
+| ELO Competitive | 1289 🔻  (323)|
 | Total Matches | 42 |
 | Wins | 22 |
 | Losses | 20 |

@@ -2,6 +2,7 @@
 title: ​共产国际
 description: W:8 L:11 D:6 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 14 - 3 Nebulae Traders
 date: 2025-02-08T22:59:40.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-08T22:59:40.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 我们坚持共产主义思想。集团欢迎学生加入，也欢迎大佬来参加。因为大多数人为学生，所以上线时间有较大波动。放假时开白，在没有经过首席或其他干事
 同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成
 员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

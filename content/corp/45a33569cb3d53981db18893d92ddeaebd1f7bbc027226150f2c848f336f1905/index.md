@@ -2,14 +2,13 @@
 title: ​Bloodtide
 description: W:41 L:50 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ❌ 11 - 33 Providence
 date: 2025-01-27T00:10:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Weekly competitive WS crew.
@@ -20,7 +19,7 @@ Discord required to stay
 RS9-11
 
 ```
-### [Discord](https://discord.gg/gBFFE5x)
+<br>### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |

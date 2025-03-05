@@ -2,14 +2,13 @@
 title: ​LossFarm No.648
 description: W:4 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 0 - 23 Ark
 date: 2024-04-07T17:26:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 All for farm, farm for all. We farm from other's losses now.
@@ -19,7 +18,7 @@ ere would give a shit.
 
 New Discord: nxEZwvgcg3
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

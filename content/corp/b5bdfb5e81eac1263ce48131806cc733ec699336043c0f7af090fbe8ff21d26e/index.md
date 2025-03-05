@@ -2,6 +2,7 @@
 title: ​White Star Inc.
 description: W:3 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 1 - 31 Дом Датэ
 date: 2024-11-18T14:30:55.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-18T14:30:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We're an enduring community, looking for new and active players. We o
 ffer experienced mentors on hand to help with regular WS and RS runs.
  Use of Discord is highly recommend https://discord.gg/n4nHC3N
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

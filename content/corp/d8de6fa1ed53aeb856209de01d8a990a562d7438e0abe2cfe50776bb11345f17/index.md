@@ -2,6 +2,7 @@
 title: ​拆迁大队
 description: W:15 L:39 D:3 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 38 仙女座星雲
 date: 2025-02-11T09:43:10.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-11T09:43:10.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 拆迁大吉，禁止捣乱，欢迎来客！『34%加成』QQ群：490217342丨首席干事：咸鱼拆迁队|朋友请捐旗舰1，感谢！有贡献的升级，140级
 高级成员，打一白5次以上干事，闹事喧哗者一律清除！yuan副团长，严冬白星总指挥，kkk旗舰管理（注：非职位者勿碰旗舰），定期处理停摆研究
 站丨白星：向首席报名，不打白星自己关丨新手加入找柚子免费神器｜请各位多捐旗舰
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

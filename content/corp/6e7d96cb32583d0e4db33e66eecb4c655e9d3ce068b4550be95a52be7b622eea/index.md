@@ -2,14 +2,13 @@
 title: ​Sternenwanderer
 description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 5 - 11 Empire of Light
 date: 2024-02-07T02:05:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Entspannter Konzern, um zusammen Spass zu haben und einander zu helfe
@@ -21,7 +20,7 @@ Für Planung und Kommunikation außerhalb des Spiels
 
 https://discord.gg/CFhYyYave
 ```
-### [Discord](https://discord.gg/https://discord.gg/nzkvKWGYft)
+<br>### [Discord](https://discord.gg/https://discord.gg/nzkvKWGYft)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

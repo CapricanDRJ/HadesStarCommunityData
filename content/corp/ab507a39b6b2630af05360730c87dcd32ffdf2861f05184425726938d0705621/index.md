@@ -2,6 +2,7 @@
 title: ​Reservoid  Dogs
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 41 GalaxyNova
 date: 2024-02-13T23:39:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-13T23:39:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Our learning Corp for New players!
 If you're interested in joining our discord: discord.gg/4TMBCed
 We’re a BIG family! ~ V
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

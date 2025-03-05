@@ -2,6 +2,7 @@
 title: ​银星S Stars‘
 description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 2 - 19 星海扬帆
 date: 2024-10-06T03:43:49.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-10-06T03:43:49.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620 
  免费r7，帮打红星（r6及以下）
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

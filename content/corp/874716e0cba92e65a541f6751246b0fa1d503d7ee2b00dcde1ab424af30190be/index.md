@@ -2,6 +2,7 @@
 title: ​ༀᅗBAR ESTELARᅗༀ
 description: W:1 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 24 Повстанцы Хаоса
 date: 2024-07-22T06:16:17.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-07-22T06:16:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Un grupo de locos amigos internacionales que comparten el gusto a la 
 bebida y a la cháchara XD 
 Aperturado el día (21/09/22)
 Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​六大天神.轻歌之影
 description: W:22 L:27 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 1 - 15 Halcon español
 date: 2024-09-07T13:27:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 集团为六大天神旗下分盟，欢迎大佬和萌新的到来
@@ -20,7 +19,7 @@ date: 2024-09-07T13:27:19.000Z
 外交部：933074464
 
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

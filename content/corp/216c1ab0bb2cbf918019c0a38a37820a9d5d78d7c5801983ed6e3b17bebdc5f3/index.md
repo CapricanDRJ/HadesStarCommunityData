@@ -2,6 +2,7 @@
 title: ​lonewolf
 description: W:33 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 37 - 5 Interstellar
 date: 2025-02-17T22:29:01.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-17T22:29:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=100><color=#27AE60> Join The Wolfpack </color></size></b> Th
 e Wolfpack is on the lookout for dominant Alphas to join us in our ra
 nks
 ```
-### [Discord](https://discord.gg/bCDnyHe57T)
+<br>### [Discord](https://discord.gg/bCDnyHe57T)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

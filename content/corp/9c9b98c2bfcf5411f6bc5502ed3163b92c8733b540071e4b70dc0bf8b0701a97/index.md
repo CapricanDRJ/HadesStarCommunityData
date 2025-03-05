@@ -2,6 +2,7 @@
 title: ​UFSG
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 5 The Witness
 date: 2024-09-20T00:48:01.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-20T00:48:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 HAGUANTE MILEY CARRAJO
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

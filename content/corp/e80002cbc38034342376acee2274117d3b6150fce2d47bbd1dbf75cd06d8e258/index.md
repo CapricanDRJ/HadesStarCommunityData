@@ -2,6 +2,7 @@
 title: ​OPA
 description: W:53 L:20 D:0 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ❌ 5 - 22 UKR Spase
 date: 2025-03-04T13:04:15.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-03-04T13:04:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the Outer Planets Alliance (OPA). We are a band of casual 
 players from all around the world.
 Weekly white stars, new players welcome.
 Discord required : discord.gg/2RmfWZB777
 ```
-### [Discord](https://discord.gg/2RmfWZB777)
+<br>### [Discord](https://discord.gg/2RmfWZB777)
 ### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1421 🔻  (46)|
+| ELO Regular | 1421 🔻  (47)|
 | ELO Competitive | 1541 🔺  (46)|
 | Total Matches | 73 |
 | Wins | 53 |

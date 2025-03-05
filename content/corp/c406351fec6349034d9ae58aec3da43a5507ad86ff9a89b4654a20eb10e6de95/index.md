@@ -2,6 +2,7 @@
 title: ​Альянс звезд
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 6 ℬlackStar Order
 date: 2025-01-05T08:56:25.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2025-01-05T08:56:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Активная корпорация, ищем желающих на БЗ, так как активно участвуем в
  сражениях БЗ. Помогаем всем, а также новичкам. Рады всем!
 ```
-### [Discord](https://discord.gg/z7bNfXvC)
+<br>### [Discord](https://discord.gg/z7bNfXvC)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

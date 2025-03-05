@@ -2,6 +2,7 @@
 title: ​Helion Prime
 description: W:11 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 11 - 3 TeddisaurusWrex
 date: 2024-10-14T01:53:31.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2024-10-14T01:53:31.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 - BRASIL STAR - <br>Bem vindos!<br><br> Fazemos WS, RS, DRS.<br> Ajud
 amos novos integrantes, peça para colocarem no grupo de WhatsApp aqui
  no chat.
 ```
-### [Discord](https://discord.gg/MV5xAcu9Vz)
+<br>### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1300 🔺  (173)|
-| ELO Competitive | 1341 🔺  (227)|
+| ELO Competitive | 1341 🔺  (226)|
 | Total Matches | 17 |
 | Wins | 11 |
 | Losses | 6 |

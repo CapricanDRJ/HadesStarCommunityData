@@ -2,6 +2,7 @@
 title: ​Слава Украине!
 description: W:107 L:45 D:1 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ✅ 9 - 3 imperio estelar
 date: 2025-03-02T20:55:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T20:55:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <#007FFF>Вітаю друже! Тут ти знайдеш приємні бонуси та спілкування на
  додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефакті
 в, допомога та поради, за бажанням досвід в боях за білу зірку
 ```
-### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
+<br>### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
 ### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |

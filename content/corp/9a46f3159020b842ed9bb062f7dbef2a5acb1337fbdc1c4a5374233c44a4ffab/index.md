@@ -2,6 +2,7 @@
 title: ​Capibarius
 description: W:5 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 15 - 3 Cerulean Nebula
 date: 2024-01-06T19:53:33.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-06T19:53:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### [Discord](https://discord.gg/bbjwf4M42S)
+<br>### [Discord](https://discord.gg/bbjwf4M42S)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

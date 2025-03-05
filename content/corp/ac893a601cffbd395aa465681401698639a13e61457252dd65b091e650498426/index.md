@@ -2,6 +2,7 @@
 title: ​Tycho Corp
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 26 Lacuna X
 date: 2024-04-18T21:21:57.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-18T21:21:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to Tycho. Have fun, be a decent person. Communicate as best y
 ou can. 
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

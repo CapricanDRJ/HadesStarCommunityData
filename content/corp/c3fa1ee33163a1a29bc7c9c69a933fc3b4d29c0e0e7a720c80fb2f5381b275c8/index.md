@@ -2,14 +2,13 @@
 title: ​МАРСЮКИ
 description: W:46 L:4 D:0 Bonus ✅ 48%
 image: ./favicon.png
+Summary: ✅ 40 - 5 Кулак
 date: 2025-03-01T04:06:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ОБЯЗАТЕЛЬНЫЕ условия:
@@ -21,7 +20,7 @@ date: 2025-03-01T04:06:16.000Z
 - Помощь артефактами
 
 ```
-### [Discord](https://discord.gg/s7nmhGXugM)
+<br>### [Discord](https://discord.gg/s7nmhGXugM)
 ### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |

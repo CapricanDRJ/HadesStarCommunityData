@@ -2,6 +2,7 @@
 title: ​星光舰队
 description: W:3 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ↔️ 6 - 6 华夏三体舰队
 date: 2024-08-07T09:15:56.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-07T09:15:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 主团：星光万丈                    集团QQ852308177      暂时封闭
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

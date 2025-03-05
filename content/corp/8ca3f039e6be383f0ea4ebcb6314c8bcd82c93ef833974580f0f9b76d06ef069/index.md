@@ -2,6 +2,7 @@
 title: ​KINETIC
 description: W:13 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 31 - 5 IMPERIAL ARMADA
 date: 2025-02-14T18:56:34.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-14T18:56:34.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to KINETIC! A corporation almost as old as the Hades universe
  itself! Currently open to anyone looking to learn and grow together.
  100+ White Star wins and powerful allies!
 ```
-### [Discord](https://discord.gg/j8wnKvB)
+<br>### [Discord](https://discord.gg/j8wnKvB)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (65)|
+| ELO Regular | 1393 🔺  (67)|
 | ELO Competitive | 1419 🔺  (133)|
 | Total Matches | 13 |
 | Wins | 13 |

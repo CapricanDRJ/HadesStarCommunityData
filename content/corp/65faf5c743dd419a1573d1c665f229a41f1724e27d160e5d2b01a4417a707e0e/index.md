@@ -2,6 +2,7 @@
 title: ​＊СССР＊
 description: W:44 L:38 D:1 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ❌ 13 - 32  RELAX CZ/SK
 date: 2025-02-28T21:30:43.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-28T21:30:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color=red>★★★</color>.<color=white>Добро пожаловать★КЗ3-9!!!</color>
 <color=red>★★★</color><color=white>Еженедельные походы наБЗ★</color>
 <color=#1E90FF>БЗ Telegram☎</color>
 память ★VeprKoloyar★
 ```
-### Whitestar Bonus ❌ 14%
+<br>### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (325)|
+| ELO Regular | 1238 🔻  (324)|
 | ELO Competitive | 1494 🔻  (76)|
 | Total Matches | 83 |
 | Wins | 44 |

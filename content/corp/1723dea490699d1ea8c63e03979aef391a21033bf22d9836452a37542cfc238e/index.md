@@ -2,6 +2,7 @@
 title: ​Soul System
 description: W:5 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 18 - 4 FURIA 2\.0
 date: 2025-03-01T15:57:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T15:57:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><size=90><color=white>Soul System</color></size></b><br>Beneath th
 e stars our souls take flight. In the cosmic night. For in the star d
 ust we are born our souls woven from light. RS and WS focused.
 ```
-### [Discord](https://discord.gg/KJX7wvq9AC)
+<br>### [Discord](https://discord.gg/KJX7wvq9AC)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

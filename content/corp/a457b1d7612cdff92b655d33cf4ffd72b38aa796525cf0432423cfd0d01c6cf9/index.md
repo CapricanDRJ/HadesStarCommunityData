@@ -2,6 +2,7 @@
 title: ​华夏三体舰队
 description: W:16 L:27 D:7 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 0 - 10 CTG
 date: 2024-11-08T08:11:12.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-08T08:11:12.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎各位加入，送神器，欢迎萌新大佬加入，和谐相处，捐旗舰1，北极星联盟成员，首席：tianyayx，副首席：（待定）鸣谢：羽祈，ETO，t
 ianyayx……也谢谢所有有贡献者，白星只能首席或副首席扫，表现好升级，国力等级制，月末发暗找tianyayx，加tianyayx微信进
 集团微信群Q：98144527311，禁止随便删消息，随便移人，禁止刷屏，谢谢（分团：华夏舰队-基沃托斯集团）
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

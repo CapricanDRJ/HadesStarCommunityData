@@ -2,6 +2,7 @@
 title: ​Crucible 
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 3 - 32 Ninth Planet
 date: 2024-02-06T01:15:27.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2024-02-06T01:15:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <I>Smiths of Creation! Forging steel nerves, as the ringing Star Anvi
 l sings... 
 Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her cr
 ushing Novae Song</I>
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

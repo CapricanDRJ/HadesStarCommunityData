@@ -2,6 +2,7 @@
 title: ​Тихий Омут
 description: W:58 L:77 D:3 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ✅ 4 - 0 Avantgarde
 date: 2025-03-04T10:45:18.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-04T10:45:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Only for Russian speakers 🇷🇺
 ```
-### Whitestar Bonus ✅ 46%
+<br>### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

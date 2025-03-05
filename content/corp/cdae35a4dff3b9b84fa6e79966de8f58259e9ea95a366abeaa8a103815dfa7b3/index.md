@@ -2,14 +2,13 @@
 title: ​Grand Mechanism
 description: W:2 L:5 D:1 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 0 - 33 Corp\. Estelar 2
 date: 2024-01-11T22:56:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <size=70><b><i>Welcome to</i></b></color></size><b><color=#fce205>
@@ -18,7 +17,7 @@ date: 2024-01-11T22:56:09.000Z
 Part of <b><color=#fce205>A.R.M.O.R</color></b>
 Discord:DUbkgw9uMT
 ```
-### [Discord](https://discord.gg/DUbkgw9uMT)
+<br>### [Discord](https://discord.gg/DUbkgw9uMT)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

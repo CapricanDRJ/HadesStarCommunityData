@@ -2,6 +2,7 @@
 title: ​Final Space
 description: W:1 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ↔️ 2 - 2 人人平等至上集团
 date: 2025-02-10T00:14:55.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-10T00:14:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Chookity pop!
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

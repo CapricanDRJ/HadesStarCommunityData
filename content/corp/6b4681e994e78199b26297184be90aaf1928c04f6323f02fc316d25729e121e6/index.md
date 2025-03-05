@@ -2,6 +2,7 @@
 title: ​101
 description: W:57 L:85 D:5 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 6 - 13 Октябристы
 date: 2025-02-26T03:04:01.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-26T03:04:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743
 ，谢谢！ 有移出的可以重新加入。
 ```
-### [Discord](https://discord.gg/Sh82822)
+<br>### [Discord](https://discord.gg/Sh82822)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔻  (1215)|
-| ELO Competitive | 1445 🔻  (115)|
+| ELO Competitive | 1445 🔻  (116)|
 | Total Matches | 147 |
 | Wins | 57 |
 | Losses | 85 |

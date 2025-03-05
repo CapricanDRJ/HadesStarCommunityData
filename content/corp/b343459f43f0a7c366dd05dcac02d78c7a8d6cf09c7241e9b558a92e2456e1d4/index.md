@@ -2,14 +2,13 @@
 title: ​Death Flight
 description: W:28 L:103 D:1 Bonus ✅ 46%
 image: ./favicon.png
+Summary: ❌ 7 - 26 Lost Legion
 date: 2025-03-04T01:03:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Our mission :
@@ -23,7 +22,7 @@ Trust * Loyalty
 
 “Busting Ours to kick Yours!”
 ```
-### Whitestar Bonus ✅ 46%
+<br>### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​Девчата
 description: W:3 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 29 - 0 中国星际联盟
 date: 2024-08-19T12:05:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ♡ Йога. Аромаванна. Смузи. Пауло Коэльо. 
@@ -18,12 +17,12 @@ date: 2024-08-19T12:05:37.000Z
 ❀ Russian speaking Corporation targeted at 
 gals ❀
 ```
-### [Discord](https://discord.gg/UD9E7M59W7)
+<br>### [Discord](https://discord.gg/UD9E7M59W7)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (296)|
+| ELO Regular | 1242 🔺  (294)|
 | ELO Competitive | 1250 🔺  (427)|
 | Total Matches | 3 |
 | Wins | 3 |

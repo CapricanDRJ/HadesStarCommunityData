@@ -2,6 +2,7 @@
 title: ​RUFORS
 description: W:18 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 28 - 0 Red Alliance
 date: 2025-03-02T22:15:36.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-03-02T22:15:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Язык общения в корпорации - русский. Есть свой чат в тг. частые поход
 ы в бз,помощь с кз и артефактами
 ```
-### Whitestar Bonus ✅ 34%
+<br>### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1299 🔺  (178)|
-| ELO Competitive | 1344 🔺  (222)|
+| ELO Competitive | 1344 🔺  (221)|
 | Total Matches | 28 |
 | Wins | 18 |
 | Losses | 10 |

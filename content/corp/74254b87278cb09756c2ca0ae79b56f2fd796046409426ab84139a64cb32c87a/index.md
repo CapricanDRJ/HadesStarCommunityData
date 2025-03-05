@@ -2,6 +2,7 @@
 title: ​PERSEUS INC.
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 12 - 0 Hun Generals
 date: 2024-06-16T05:38:30.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-16T05:38:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are the sister Corp of ANDROMEDA INC. We’re the super relaxed, sli
 ghtly lazy Corp in the Guild. And, we’re international and very frien
 dly. We may run a casual White Star if we feel like it.
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

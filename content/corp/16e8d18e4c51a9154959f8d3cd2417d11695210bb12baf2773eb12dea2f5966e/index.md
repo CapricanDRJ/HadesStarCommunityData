@@ -2,6 +2,7 @@
 title: ​Sektion 32
 description: W:4 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 0 - 22 FURIA 2\.0
 date: 2024-11-24T21:10:56.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-24T21:10:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Alles kann, nix muss. 
 
 Immer schön freundlich sein ^^
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

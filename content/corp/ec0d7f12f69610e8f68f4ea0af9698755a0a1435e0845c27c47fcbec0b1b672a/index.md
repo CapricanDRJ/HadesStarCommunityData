@@ -2,14 +2,13 @@
 title: ​星河绮梦
 description: W:38 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ✅ 25 - 0 AKA
 date: 2025-02-05T02:12:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 此联盟为中国星际联盟第一分团
@@ -25,7 +24,7 @@ date: 2025-02-05T02:12:29.000Z
 QQ群：131920392
 
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

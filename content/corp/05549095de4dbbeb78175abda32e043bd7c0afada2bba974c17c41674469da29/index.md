@@ -2,6 +2,7 @@
 title: ​AntiCerberus
 description: W:4 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ✅ 2 - 0 星舰国际
 date: 2024-11-07T05:13:32.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-07T05:13:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome my corporation the task its a simple a destory cerberus ship 
 and destory cerberus base have fun yeah :) we didnt have discord. <#F
 F0000> we are in weak corporation and needs fixed
 ```
-### [Discord](https://discord.gg/Discord)
+<br>### [Discord](https://discord.gg/Discord)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

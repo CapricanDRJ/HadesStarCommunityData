@@ -2,6 +2,7 @@
 title: ​Variants
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 29 - 30 \*СССР\*
 date: 2024-04-19T16:58:53.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-04-19T16:58:53.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 https://t.me/+DHUj70egD4s0MGUy
 ```
-### Whitestar Bonus ❌ 7%
+<br>### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

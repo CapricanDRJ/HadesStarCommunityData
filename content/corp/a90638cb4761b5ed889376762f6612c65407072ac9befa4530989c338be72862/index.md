@@ -2,6 +2,7 @@
 title: ​Corp. Luminá
 description: W:17 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
+Summary: ✅ 23 - 0 Eretria 
 date: 2025-03-01T00:30:59.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2025-03-01T00:30:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍɪᴇɴᴛᴏ ᴇɴ ᴄᴏɴᴊᴜᴛᴏ ᴄᴏɴ Sᴘʀɪᴛᴇ!    •D
 ᴀᴍᴏs ᴀʀᴛᴇғᴀᴄᴛᴏs     •Aʏᴜᴅᴀᴍᴏs ᴇɴ Eʀ ʏ Eʀᴏs   •EB sᴇᴍᴀɴᴀʟ        •Gʀᴜᴘ
 ᴏ ᴅᴇ WʜᴀᴛsAᴘᴘ          •Eᴠᴇɴᴛᴏs Axᴏʟᴏᴛʟ Bᴜsᴄᴀᴍᴏs Cʀᴇᴄᴇʀ✨
 ```
-### Whitestar Bonus ✅ 32%
+<br>### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1362 🔺  (88)|
+| ELO Regular | 1362 🔺  (89)|
 | ELO Competitive | 1374 🔺  (176)|
 | Total Matches | 19 |
 | Wins | 17 |

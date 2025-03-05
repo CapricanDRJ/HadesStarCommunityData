@@ -2,6 +2,7 @@
 title: ​The Mini Elite
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 20 柯伊伯带伊甸园
 date: 2024-04-25T12:21:43.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-04-25T12:21:43.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome to the Mini Elite!Owned by The ElitePart of The Elite Feder
 ation.May the Low Red Stars of Hades unite into TEF
 ```
-### [Discord](https://discord.gg/https://discord.gg/Y26M3hNF)
+<br>### [Discord](https://discord.gg/https://discord.gg/Y26M3hNF)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

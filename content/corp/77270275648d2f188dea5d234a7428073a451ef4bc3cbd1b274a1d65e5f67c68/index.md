@@ -2,14 +2,13 @@
 title: ​Final
 description: W:4 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 3 - 41 Tacitus
 date: 2025-01-21T15:12:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are BSO! The oldest thriving conglomerate.
@@ -20,7 +19,7 @@ orporation.
 Are you RS6+ & want to join?
 <color=blue>Discord: (YTaYrhy)</color>
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

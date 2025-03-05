@@ -2,14 +2,13 @@
 title: ​Lacuna X
 description: W:58 L:8 D:1 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 5 - 21 仙女座星雲
 date: 2025-02-27T17:32:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b><color=#FF1111>Lacuna Group's</b> advancement corp.
@@ -22,7 +21,7 @@ White Star focused.
 <b>Discord:</b> discord.gg/BFfSkvu
 
 ```
-### [Discord](https://discord.gg/BFfSkvu)
+<br>### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

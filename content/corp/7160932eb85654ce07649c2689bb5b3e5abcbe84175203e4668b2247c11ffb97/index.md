@@ -2,6 +2,7 @@
 title: ​Star Field
 description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 34 - 10 VoidRunners
 date: 2024-07-19T18:44:52.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-07-19T18:44:52.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Star Field-星域
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/3PnPgbbf)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/3PnPgbbf)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

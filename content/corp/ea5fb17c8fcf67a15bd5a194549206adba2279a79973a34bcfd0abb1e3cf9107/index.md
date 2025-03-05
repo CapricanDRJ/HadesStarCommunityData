@@ -2,6 +2,7 @@
 title: ​Continuum
 description: W:102 L:51 D:2 Bonus ✅ 56%
 image: ./favicon.png
+Summary: ✅ 52 - 21 Spacefleet
 date: 2025-03-02T07:09:39.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-03-02T07:09:39.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Open RS, 56% bonus, leave corp, FS donations appreciated! 
 开红星，奖金56%，离职后，旗舰1捐款感激不尽!
 A corporation of like-minded players 6 years strong. Recruiting for W
 S. 18+, English. Discord - apply + RS queue.
 ```
-### [Discord](https://discord.gg/BaF8Wk9mFp)
+<br>### [Discord](https://discord.gg/BaF8Wk9mFp)
 ### Whitestar Bonus ✅ 56%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (71)|
+| ELO Regular | 1390 🔺  (72)|
 | ELO Competitive | 1698 🔺  (9)|
 | Total Matches | 155 |
 | Wins | 102 |

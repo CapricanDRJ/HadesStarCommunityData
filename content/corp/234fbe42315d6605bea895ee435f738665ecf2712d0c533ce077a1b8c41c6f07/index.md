@@ -2,14 +2,13 @@
 title: ​Star-Jump CORPS
 description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 9 - 32 Spacefleet
 date: 2023-11-05T11:43:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Friendly, independent Corp
@@ -24,7 +23,7 @@ HVgvAaF
 
 (PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
-### [Discord](https://discord.gg/HVgvAaF)
+<br>### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Cerberus
 description: W:4 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
+Summary: ✅ 8 - 0 AlyTec Sys\.
 date: 2025-03-01T16:27:30.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-01T16:27:30.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### Whitestar Bonus ✅ 
+<br>### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |

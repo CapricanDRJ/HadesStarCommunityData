@@ -2,6 +2,7 @@
 title: ​The Borg
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ❌ 0 - 7 Goblin Squad
 date: 2024-01-11T21:06:35.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-01-11T21:06:35.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are the Borg. We will add your biological and technological distin
 ctiveness to our own. Your culture will adapt to service us. Resistan
 ce is futile. No politics and no racism.
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

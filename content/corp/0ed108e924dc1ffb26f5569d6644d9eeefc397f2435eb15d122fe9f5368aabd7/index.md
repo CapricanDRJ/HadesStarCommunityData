@@ -2,6 +2,7 @@
 title: ​Ночные Львы
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 2 - 22 Lacuna Holdings
 date: 2023-11-08T09:20:32.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2023-11-08T09:20:32.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=45><b><i>В спячке</b></color></b></color></color></b></i></colo
 r></size>
 
 Discord: bMXfmD9sKE   Телега: @whiskas_tyan
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

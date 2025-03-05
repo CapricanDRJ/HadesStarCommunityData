@@ -2,6 +2,7 @@
 title: ​BRASIL STAR
 description: W:47 L:18 D:3 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ✅ 8 - 3 Newbs
 date: 2025-02-24T00:18:33.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-24T00:18:33.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Bem vindo à BRASIL STAR <br><br>Estrelas Vermelhas (RS) e Estrelas Br
 ancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no gru
 po no chat da corporação :D
 ```
-### [Discord](https://discord.gg/MV5xAcu9Vz)
+<br>### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

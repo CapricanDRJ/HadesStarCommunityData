@@ -2,6 +2,7 @@
 title: ​Global Elite
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 2 - 3 星海扬帆
 date: 2024-06-20T17:12:14.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-20T17:12:14.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Our discord is Global Elite, members must join if they wish to partic
 ipate in white stars. Inactivity for 2 weeks will not be tolerated. T
 hose who do not comply with these rules will be kicked
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/AtGdvduz)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/AtGdvduz)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Elysium
 description: W:51 L:15 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 25 - 0 Veteran's Haven
 date: 2025-03-01T03:51:15.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T03:51:15.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We are Elysium.
 Weekly WS, 38% art bonus, Regularly top 10 on WS leaderboards. We tra
 in and play. Join today!
 ```
-### [Discord](https://discord.gg/cxxcsKHz4N)
+<br>### [Discord](https://discord.gg/cxxcsKHz4N)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

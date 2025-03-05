@@ -2,6 +2,7 @@
 title: ​Sons of Liberty
 description: W:7 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 11 - 16 IX Легион
 date: 2025-02-15T06:02:38.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-15T06:02:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome To Sons of Liberty, Academy corp of the Greatest WS corp in t
 he Game, Likapa. 
 Discord mandatory - join at the link below ↓
 ```
-### [Discord](https://discord.gg/qfRt7h4Gcb)
+<br>### [Discord](https://discord.gg/qfRt7h4Gcb)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

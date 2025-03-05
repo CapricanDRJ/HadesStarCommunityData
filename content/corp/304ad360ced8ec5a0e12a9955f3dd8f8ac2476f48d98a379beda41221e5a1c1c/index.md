@@ -2,6 +2,7 @@
 title: ​Stardust
 description: W:3 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ↔️ 4 - 4 阿尔特拉太空港
 date: 2025-02-25T12:42:19.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-25T12:42:19.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 We run monthly or couple of weeks White Stars and private Red Stars o
 n request. New players welcome, we are happy to help you learn the ga
 me.
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,14 +2,13 @@
 title: ​G.D.C.
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ❌ 0 - 7 63SALVADORES36
 date: 2024-09-17T00:19:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Galactic Defence Council
@@ -19,7 +18,7 @@ ndom stuff. Be kind in chat!!!!!
 https://discord.gg/7J9fa2egCU
 Join for Senior M.
 ```
-### Whitestar Bonus ❌ 0%
+<br>### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

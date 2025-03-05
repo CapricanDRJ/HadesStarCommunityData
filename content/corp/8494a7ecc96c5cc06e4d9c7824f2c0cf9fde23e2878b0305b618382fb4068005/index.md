@@ -2,14 +2,13 @@
 title: ​黑色长城
 description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 3 公共星际集团
 date: 2024-02-22T12:52:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <color=cyan><size=99>E.T.A溫泉開放</size></color>
@@ -20,7 +19,7 @@ date: 2024-02-22T12:52:42.000Z
 <a>○私人不拉截擊
 ○公共 公屏 外群隨便鬧我們都不管。</a>
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

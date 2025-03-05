@@ -2,14 +2,13 @@
 title: ​BRhue
 description: W:12 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 10 - 31 Continuum
 date: 2024-12-23T00:46:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 Venham participar juntos nas RS e WS nossas e da comunidade PT/BR.
@@ -19,7 +18,7 @@ e-se a nós.
 
 Juntos somos mais fortes.
 ```
-### Whitestar Bonus ❌ 13%
+<br>### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

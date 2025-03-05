@@ -2,6 +2,7 @@
 title: ​Hand Of NOD! 
 description: W:59 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 3 - 39 Stargate Corp
 date: 2025-03-02T09:49:08.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-03-02T09:49:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 PEACE THROUGH POWER!
 ```
-### [Discord](https://discord.gg/HfGM4PkP8d)
+<br>### [Discord](https://discord.gg/HfGM4PkP8d)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

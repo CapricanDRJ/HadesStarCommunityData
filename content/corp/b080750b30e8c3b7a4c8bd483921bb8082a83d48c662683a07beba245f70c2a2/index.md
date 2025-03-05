@@ -2,6 +2,7 @@
 title: ​NEW HOLLAND
 description: W:1 L:8 D:1 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 1 - 11 three kitties
 date: 2024-02-24T14:30:58.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-24T14:30:58.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/QEp5Rd7z)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/QEp5Rd7z)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

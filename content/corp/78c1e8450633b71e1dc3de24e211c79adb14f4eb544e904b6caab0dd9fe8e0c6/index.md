@@ -2,6 +2,7 @@
 title: ​U.I.H
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 3 羽共和体
 date: 2024-02-07T13:56:38.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-02-07T13:56:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=65><color=yellow>A União dos Impérios de Hades</color></size> é
  uma aliança militar e econômica com o objetivo de unir impérios cont
 ra as forças <color=red>Cerberus</color>. Aceitamos todos.
 ```
-### [Discord](https://discord.gg/UFK4q6nABF)
+<br>### [Discord](https://discord.gg/UFK4q6nABF)
 ### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |

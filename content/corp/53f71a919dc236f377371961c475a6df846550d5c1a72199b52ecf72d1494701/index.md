@@ -2,6 +2,7 @@
 title: ​vosk empire 2
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Alpha Galaxy
 date: 2024-04-21T15:43:57.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-04-21T15:43:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Welcome all to the SOUTHERN ALLIANCE CORPORATION.... A handful of act
 ive players that communicate in English and looking to expand our Cor
 poration. 
 ```
-### Whitestar Bonus ❌ 1%
+<br>### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

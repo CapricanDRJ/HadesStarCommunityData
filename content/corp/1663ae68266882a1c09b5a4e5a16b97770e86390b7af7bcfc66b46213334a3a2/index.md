@@ -2,6 +2,7 @@
 title: ​Hexacropians
 description: W:62 L:15 D:1 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 32 - 18 UKR Spase
 date: 2025-02-26T10:29:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-26T10:29:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 RS 1-9
 Casual/Competitive WS
 Ngā mihi nui, from NZ (and Aus!)
 ```
-### [Discord](https://discord.gg/Y7EZe2eQk9)
+<br>### [Discord](https://discord.gg/Y7EZe2eQk9)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |

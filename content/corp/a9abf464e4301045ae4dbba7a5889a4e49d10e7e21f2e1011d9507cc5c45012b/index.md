@@ -2,6 +2,7 @@
 title: ​Proteus Tech
 description: W:6 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ❌ 0 - 24 仙女座星雲
 date: 2023-12-14T08:15:17.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2023-12-14T08:15:17.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR
  und WZ sind Voraussetzung.)
 ```
-### [Discord](https://discord.gg/hj3teyk3bu)
+<br>### [Discord](https://discord.gg/hj3teyk3bu)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (235)|
+| ELO Regular | 1263 🔻  (234)|
 | ELO Competitive | 1267 🔻  (382)|
 | Total Matches | 7 |
 | Wins | 6 |

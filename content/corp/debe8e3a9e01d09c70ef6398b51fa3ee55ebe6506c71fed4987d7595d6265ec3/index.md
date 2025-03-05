@@ -2,6 +2,7 @@
 title: ​CORP GHOST 
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 4 - 2 共产国际
 date: 2024-09-04T13:00:01.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-09-04T13:00:01.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 SEJAM TODOS BEM VINDOS PARÁ INICIAR WS DE SEGUNDA A SEXTA> E AJUDAR N
 OVATOS E TAMBÉM ENSINAR > EXPULSÃO PARA VAGAS DE QUEM TIVER INATIVO P
 OR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP. 
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

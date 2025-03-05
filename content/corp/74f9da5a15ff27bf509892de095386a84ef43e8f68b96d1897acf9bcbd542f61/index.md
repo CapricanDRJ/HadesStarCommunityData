@@ -2,14 +2,13 @@
 title: ​星舰地球
 description: W:1 L:3 D:0 Bonus ❌ 15%
 image: ./favicon.png
+Summary: ✅ 27 - 23 Polish Pirates
 date: 2024-04-12T17:22:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 本盟为星舰地球主营地,主招活跃r11玩家、妉娠槑沝，萌新可去星舰月球、星舰太空港
@@ -18,7 +17,7 @@ date: 2024-04-12T17:22:58.000Z
 hs国人大群:597444221
 神器交易群:915130142
 ```
-### Whitestar Bonus ❌ 15%
+<br>### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

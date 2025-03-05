@@ -2,14 +2,13 @@
 title: ​Death knight
 description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ❌ 4 - 10 King's Guard
 date: 2023-11-16T19:47:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 We are a supportive and interactive Corporation.
@@ -21,7 +20,7 @@ Please join our Discord Server
 https://discord.gg/Xt8tjjGdRD
 
 ```
-### [Discord](https://discord.gg/Xt8tjjGdRD)
+<br>### [Discord](https://discord.gg/Xt8tjjGdRD)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

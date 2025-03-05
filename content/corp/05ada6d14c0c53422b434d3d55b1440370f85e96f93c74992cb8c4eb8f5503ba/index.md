@@ -2,6 +2,7 @@
 title: ​BrinySeal
 description: W:70 L:31 D:3 Bonus ✅ 42%
 image: ./favicon.png
+Summary: ✅ 37 - 17 Scar
 date: 2025-02-28T23:35:55.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-02-28T23:35:55.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Level 8, 9, and 10 artifacts available to all who join!  White Star p
 articipation appreciated.                            No experience re
 quired. We can help speed your progress :)
 ```
-### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
+<br>### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
 ### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (64)|
+| ELO Regular | 1393 🔺  (66)|
 | ELO Competitive | 1577 🔺  (31)|
 | Total Matches | 104 |
 | Wins | 70 |

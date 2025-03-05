@@ -2,6 +2,7 @@
 title: ​Aegis Shield
 description: W:2 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 23 阿尔特拉集团
 date: 2024-06-17T01:55:38.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-06-17T01:55:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 
 ```
-### [Discord](https://discord.gg/https://discord.gg/PcYN9dnt)
+<br>### [Discord](https://discord.gg/https://discord.gg/PcYN9dnt)
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

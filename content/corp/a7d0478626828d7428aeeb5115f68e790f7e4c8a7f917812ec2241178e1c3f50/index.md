@@ -2,6 +2,7 @@
 title: ​Альянс
 description: W:26 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 21 - 24 Октябристы
 date: 2024-08-25T13:45:48.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2024-08-25T13:45:48.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Мы рады любому, кто готов развиваться в дружной компании и помогать е
 й. Регулярное участие в операциях у БЗ гарантировано.
 ```
-### [Discord](https://discord.gg/CKF2yqFhFu)
+<br>### [Discord](https://discord.gg/CKF2yqFhFu)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

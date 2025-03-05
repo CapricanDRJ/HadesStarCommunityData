@@ -2,6 +2,7 @@
 title: ​battlesquadron
 description: W:1 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 1 - 28 ГОРИЗОНТ
 date: 2024-07-27T19:44:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-07-27T19:44:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Nous sommes Battlesquadron !!! Entraide ,bonne humeur et ws regulière
 s ,groupe actif telles sont nos valeurs !! Bon sejour parmis nous !  
                                   corpo école : galaxian 
 ```
-### [Discord](https://discord.gg/hb9JBGP)
+<br>### [Discord](https://discord.gg/hb9JBGP)
 ### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |

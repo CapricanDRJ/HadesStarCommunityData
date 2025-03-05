@@ -2,6 +2,7 @@
 title: ​ItBurnsWhenIEMP
 description: W:24 L:8 D:0 Bonus ❌ 14%
 image: ./favicon.png
+Summary: ✅ 50 - 14 Trade Station
 date: 2025-02-16T22:16:38.000Z
 ---
 <head>
@@ -9,20 +10,18 @@ date: 2025-02-16T22:16:38.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <size=50><color=purple>Cry havoc and let slip the dogs of war!</color
 ></size>            <color=lightblue>Discord required:</color> <color
 =orange>GAGZQ3U</color>
 ```
-### [Discord](https://discord.gg/GAGZQ3U)
+<br>### [Discord](https://discord.gg/GAGZQ3U)
 ### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1319 🔺  (143)|
-| ELO Competitive | 1349 🔺  (213)|
+| ELO Competitive | 1349 🔺  (212)|
 | Total Matches | 32 |
 | Wins | 24 |
 | Losses | 8 |

@@ -2,6 +2,7 @@
 title: ​Hail Hydra
 description: W:6 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ↔️ 0 - 0 Gold Star
 date: 2024-08-08T21:39:46.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-08-08T21:39:46.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 LEAVE!!!
 ```
-### [Discord](https://discord.gg/I like Chelsea’s feet)
+<br>### [Discord](https://discord.gg/I like Chelsea’s feet)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Зелёная корпа
 description: W:4 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
+Summary: ❌ 16 - 31 Tuatha De Danan
 date: 2024-03-09T19:30:56.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-03-09T19:30:56.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Приходишь, вытирай ноги у входа и здоровайся)
 ```
-### [Discord](https://discord.gg/fsD7Nfv)
+<br>### [Discord](https://discord.gg/fsD7Nfv)
 ### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |

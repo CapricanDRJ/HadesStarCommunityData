@@ -2,6 +2,7 @@
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
 description: W:52 L:27 D:2 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ❌ 11 - 14 nuevo mundo
 date: 2025-03-01T20:07:54.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-01T20:07:54.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ＴＩＴΛＮＳ  ᴴᵉʳᵉ ᶠᵒʳ ᵛⁱᶜᵗᵒʳⁱᵉˢ ᵃⁿᵈ ᶠᵘⁿ• ᴳʳᵉᵃᵗ ᵖᵉᵒᵖˡᵉ ᶠʳᵒᵐ ᵃᶜʳᵒˢˢ ᵗʰᵉ ʷᵒʳˡ
 ᵈ ᶠᵒʳ ᵃ ᶜᵒᵐᵐᵒⁿ ᵍᵒᵃˡ• ᵀᵒ ᵏⁱˡˡ ᶜᵉʳᵇˢ ᵃⁿᵈ ʷⁱⁿ😁😄•visit hadestitans.com.
  We are in an alliance with Spaceballs & the Warriorlords.
 ```
-### [Discord](https://discord.gg/N9PNB6NVCZ)
+<br>### [Discord](https://discord.gg/N9PNB6NVCZ)
 ### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |

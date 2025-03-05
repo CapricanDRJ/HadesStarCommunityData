@@ -2,14 +2,13 @@
 title: ​FoxTale
 description: W:7 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
+Summary: ✅ 6 - 3 对，进就进人少的（分团）
 date: 2025-03-04T23:55:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 This is (not) Cinderblock.
@@ -18,7 +17,7 @@ WS only: Opt in to scan, only if you are willing to sacrifice 1 battl
 eship and 1 support ship for 5 days.
 The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 ```
-### Whitestar Bonus ✅ 32%
+<br>### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​SQPT
 description: W:49 L:71 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 3 - 7 R\-6 satalite
 date: 2025-03-02T18:55:00.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-03-02T18:55:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 WhiteStar with no Discord? Chat and play2win! New ACTIVES welcome. He
 lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
  star school) tips in mail. DailyDarkRed players 7-11
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/W4kNG43XDb)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/W4kNG43XDb)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

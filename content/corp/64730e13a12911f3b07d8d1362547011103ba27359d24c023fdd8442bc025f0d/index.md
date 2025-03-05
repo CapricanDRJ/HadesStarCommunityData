@@ -2,6 +2,7 @@
 title: ​一切终将消逝
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
+Summary: ❌ 0 - 22 NERF TOY'S
 date: 2024-09-24T08:55:57.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-09-24T08:55:57.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 成熟 就是慢火熬煮心脏的过程，人成长了, 心也死了  QQ群 638804576  咸鱼养老
 ```
-### Whitestar Bonus ❌ 0%
+<br>### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

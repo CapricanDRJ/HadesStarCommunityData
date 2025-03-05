@@ -2,6 +2,7 @@
 title: ​Frontier X
 description: W:9 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 8 - 20 Alpaca Haven
 date: 2024-02-25T14:50:07.000Z
 ---
 <head>
@@ -9,17 +10,15 @@ date: 2024-02-25T14:50:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 we focus on white stars, app discord is very necessary. Discord: macr
 o7233
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (239)|
+| ELO Regular | 1262 🔻  (238)|
 | ELO Competitive | 1263 🔻  (390)|
 | Total Matches | 13 |
 | Wins | 9 |

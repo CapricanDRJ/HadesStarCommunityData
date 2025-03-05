@@ -2,6 +2,7 @@
 title: ​ItaFederalFleet
 description: W:20 L:13 D:1 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 7 - 17 Ƭιтαηѕ Ф тєʀʀσƦ
 date: 2025-02-23T22:48:25.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-23T22:48:25.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Benvenuto nella Corporazione federale italiana. Richiesta partecipazi
 one/cooperazione. Per chi ha accesso alle WS è consigliato un contrib
 uto settimanale di 10000 crediti per l'ammiraglia. 
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 title: ​Duchy Arrakis
 description: W:39 L:14 D:2 Bonus ✅ 40%
 image: ./favicon.png
+Summary: ✅ 41 - 32 the heavy
 date: 2025-02-28T09:14:22.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-28T09:14:22.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy 
 cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 .com/invite/v9vXJHAaKm
 ```
-### Whitestar Bonus ✅ 40%
+<br>### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |

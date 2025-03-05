@@ -2,6 +2,7 @@
 title: ​很多星球的社会主义团
 description: W:14 L:24 D:2 Bonus ❌ 7%
 image: ./favicon.png
+Summary: ❌ 3 - 15 星际公约组织
 date: 2025-03-01T12:57:05.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-03-01T12:57:05.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b>本团为很多星球社会主义团 人人权力平等 神器交易规定：2个x级神器=1个x+1级神器  力3000+升干事其它高级成员（非红点）盟团
 ：共产国际航队、共产星际、落雨观花、避难所丶斯比纳兰 无聊不过 锦绣901蓝色星系二号分盟 太阳系集团本团为九团公约成员国 主席：很多星球
  副主席：蛋王黑名单：罗马创世神 丶LLLLrbia～丶瓜老板五世 本团为半死团预计将在明年1月苏醒
 ```
-### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
+<br>### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
 ### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1323)|
+| ELO Regular | 1107 🔻  (1322)|
 | ELO Competitive | 1226 🔻  (505)|
 | Total Matches | 40 |
 | Wins | 14 |

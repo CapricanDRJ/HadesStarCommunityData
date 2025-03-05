@@ -2,14 +2,13 @@
 title: ​Starsailors
 description: W:21 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ✅ 37 - 4 Lacuna Holdings
 date: 2024-06-21T18:49:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 United Industry of Hades
@@ -18,12 +17,12 @@ ntact us on Discord prior to joining.
 
 
 ```
-### [Discord](https://discord.gg/jrqyXc8)
+<br>### [Discord](https://discord.gg/jrqyXc8)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (89)|
+| ELO Regular | 1360 🔺  (90)|
 | ELO Competitive | 1388 🔺  (160)|
 | Total Matches | 27 |
 | Wins | 21 |

@@ -2,14 +2,13 @@
 title: ​Octoberpierynm
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
+Summary: ❌ 3 - 35 Space Penguins
 date: 2023-11-06T01:45:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ""To Take Her a Prize"" est 2016
@@ -19,7 +18,7 @@ building our star systems and corporation. GL
 All Corp Plyrs May Join!! 
 Discord: 3gRh7ae
 ```
-### Whitestar Bonus ❌ 12%
+<br>### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

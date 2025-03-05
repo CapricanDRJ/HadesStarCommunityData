@@ -2,6 +2,7 @@
 title: ​FėniX•
 description: W:3 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 0 - 18 The Syndicate 
 date: 2024-05-13T20:03:36.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-13T20:03:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <b><color=red><size=240>Fė <b><color=orange><size=240>ni <b><color=ye
 llow><size=240>X• <b><color=green><size=40> bienvenido sean a todos..
 .         
 ```
-### [Discord](https://discord.gg/<b><color=black><size=33> discord no disponible )
+<br>### [Discord](https://discord.gg/<b><color=black><size=33> discord no disponible )
 ### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |

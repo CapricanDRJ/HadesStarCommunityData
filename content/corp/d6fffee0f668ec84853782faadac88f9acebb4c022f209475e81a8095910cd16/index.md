@@ -2,6 +2,7 @@
 title: ​Welcome 欢迎
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 3 斯比纳兰
 date: 2024-10-10T15:20:07.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-10-10T15:20:07.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 欢迎任何人。Anyone is welcome.                         如果发现乱踢人 、骂人就踢。If you
  find a curse, kick it out.排名前五干事。Top five officers.排名前10高员。Top 10 ra
 nking members.                     首席First Officer：狂妄的神（会离线）
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

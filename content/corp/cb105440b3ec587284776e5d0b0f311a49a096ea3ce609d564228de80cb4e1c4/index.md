@@ -2,6 +2,7 @@
 title: ​Black Nova
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ❌ 3 - 29 korea
 date: 2024-06-03T05:33:47.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-06-03T05:33:47.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
 
 https://discord.gg/EKJFqvs7XA
 ```
-### Whitestar Bonus ❌ 6%
+<br>### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

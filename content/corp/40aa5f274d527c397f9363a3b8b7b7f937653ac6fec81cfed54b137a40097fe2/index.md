@@ -2,6 +2,7 @@
 title: ​Die pösn Purchn
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ❌ 0 - 20 リリース
 date: 2024-05-19T20:26:42.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-05-19T20:26:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Tu pist ein Tevitist!
 Simply the best.
 Enthält Spuren von Starhalla.
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

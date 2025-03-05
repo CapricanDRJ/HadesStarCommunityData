@@ -2,14 +2,13 @@
 title: ​nuevo mundo
 description: W:14 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
+Summary: ✅ 14 - 11 Ƭιтαηѕ Ф тєʀʀσƦ
 date: 2025-03-01T20:07:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 <b>Nuevo Mundo | Axolotls</b>
@@ -20,7 +19,7 @@ ER de 1-9
 Esperamos su llegada!
 <b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
-### Whitestar Bonus ✅ 36%
+<br>### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,6 +2,7 @@
 title: ​SNSS
 description: W:2 L:9 D:1 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 3 - 24 붉은늑대
 date: 2024-11-27T17:32:24.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2024-11-27T17:32:24.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <color="white">Still Not So Serious</color> - A corp for the relaxed 
 yet active player (but who are we kidding) no Discord or WS requireme
 nts, Dark RS focussed corp, with optional WS runs.
 ```
-### [Discord](https://discord.gg/2Dh98GHnug)
+<br>### [Discord](https://discord.gg/2Dh98GHnug)
 ### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |

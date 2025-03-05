@@ -2,6 +2,7 @@
 title: ​Smurfing
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
+Summary: ❌ 2 - 19 绛紫星
 date: 2023-11-13T15:18:08.000Z
 ---
 <head>
@@ -9,13 +10,11 @@ date: 2023-11-13T15:18:08.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Smurfing, just let us know when you are online, so that the game to b
 e more fun...
 ```
-### Whitestar Bonus ❌ 4%
+<br>### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

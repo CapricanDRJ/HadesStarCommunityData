@@ -2,14 +2,13 @@
 title: ​Winged Pheonix
 description: W:16 L:22 D:0 Bonus ✅ 38%
 image: ./favicon.png
+Summary: ✅ 52 - 0 E\.T\.A
 date: 2025-02-28T14:29:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 It's all about having fun. Experienced players at all levels helping 
@@ -19,7 +18,7 @@ Bi-Weekly WS
 Beware of Viking
 Discord: sqaDS62zfW
 ```
-### Whitestar Bonus ✅ 38%
+<br>### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

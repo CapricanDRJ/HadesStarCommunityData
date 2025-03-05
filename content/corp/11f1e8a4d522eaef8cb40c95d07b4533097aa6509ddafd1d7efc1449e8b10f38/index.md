@@ -2,6 +2,7 @@
 title: ​SternenStaub
 description: W:26 L:41 D:0 Bonus ❌ 8%
 image: ./favicon.png
+Summary: ❌ 7 - 30 Держава Русь
 date: 2025-02-28T00:28:36.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2025-02-28T00:28:36.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Wir haben Spaß zusammen.
 ```
-### Whitestar Bonus ❌ 8%
+<br>### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

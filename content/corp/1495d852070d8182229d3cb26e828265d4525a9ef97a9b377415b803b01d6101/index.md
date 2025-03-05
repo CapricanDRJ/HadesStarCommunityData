@@ -2,6 +2,7 @@
 title: ​Галактика Зла
 description: W:21 L:22 D:0 Bonus ❌ 9%
 image: ./favicon.png
+Summary: ✅ 10 - 4 Glashan
 date: 2025-02-01T06:33:27.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2025-02-01T06:33:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Ведётся набор. БЗ-ориентированная корпорация. Помогаем с артефактами.
  Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: https://d
 iscord.com/invite/y2m2V3WYtr
 ```
-### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
+<br>### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
 ### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |

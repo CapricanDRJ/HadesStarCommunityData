@@ -2,6 +2,7 @@
 title: ​Irish Pride 
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 5 - 0  墨痕 
 date: 2023-12-30T12:20:16.000Z
 ---
 <head>
@@ -9,15 +10,13 @@ date: 2023-12-30T12:20:16.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Open to all. Take what you need. Leave some for others. Help when you
  can.  We are interested in peaceful white stars when possible.
 
 Join us on Discord: https://discord.gg/RvMW8DejVJ
 ```
-### Whitestar Bonus ❌ 3%
+<br>### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

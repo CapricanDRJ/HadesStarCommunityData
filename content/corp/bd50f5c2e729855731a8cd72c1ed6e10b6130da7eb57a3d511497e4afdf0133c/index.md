@@ -2,6 +2,7 @@
 title: ​Imperium
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
+Summary: ✅ 6 - 3 三体舰队
 date: 2023-11-18T17:22:18.000Z
 ---
 <head>
@@ -9,14 +10,12 @@ date: 2023-11-18T17:22:18.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 An active cooperation with an emphasis on teamwork! With sharing expe
 rience, artifacts and red/white star joint efforts! Join us in the pu
 rsuit of power!
 ```
-### [Discord](https://discord.gg/hpNKcXkf)
+<br>### [Discord](https://discord.gg/hpNKcXkf)
 ### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |

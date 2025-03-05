@@ -2,6 +2,7 @@
 title: ​Скричеры
 description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 9 - 4 Oficina Tuga
 date: 2024-01-14T14:42:42.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-01-14T14:42:42.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Корпорация ЗАКРЫТА
 ```
-### Whitestar Bonus ❌ 5%
+<br>### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

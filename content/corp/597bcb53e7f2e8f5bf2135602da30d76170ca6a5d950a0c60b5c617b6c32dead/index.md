@@ -2,14 +2,13 @@
 title: ​云浪山庄↕
 description: W:25 L:96 D:1 Bonus ❌ 11%
 image: ./favicon.png
+Summary: ❌ 0 - 42 Lost Legion
 date: 2024-12-22T07:49:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 ✡摆烂度假天堂☁
@@ -20,7 +19,7 @@ date: 2024-12-22T07:49:50.000Z
 没qq的可以加微信进集团群
 ✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
 ```
-### Whitestar Bonus ❌ 11%
+<br>### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

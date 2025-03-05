@@ -2,14 +2,13 @@
 title: ​Dumpster Fire
 description: W:24 L:50 D:0 Bonus ❌ 10%
 image: ./favicon.png
+Summary: ❌ 0 - 6 Gold Star
 date: 2025-02-26T20:25:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
-
 
 ```
 (\^/)/)^/)(\/)/)/)    
@@ -20,7 +19,7 @@ date: 2025-02-26T20:25:48.000Z
 Weekly Casual
 Discord-Free White Star
 ```
-### [Discord](https://discord.gg/FCWdtswtP5)
+<br>### [Discord](https://discord.gg/FCWdtswtP5)
 ### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |

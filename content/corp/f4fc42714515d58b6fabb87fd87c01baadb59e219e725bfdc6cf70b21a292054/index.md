@@ -2,6 +2,7 @@
 title: ​Orphans Of Kos
 description: W:5 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
+Summary: ✅ 12 - 4 Серебряная орда
 date: 2024-02-08T21:59:59.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-02-08T21:59:59.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 spreading bloodborne's positive vibes
 ```
-### [Discord](https://discord.gg/XZ9FWsd)
+<br>### [Discord](https://discord.gg/XZ9FWsd)
 ### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |

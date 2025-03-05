@@ -2,6 +2,7 @@
 title: ​sk cz nebula
 description: W:15 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
+Summary: ✅ 22 - 1 АНДРОМЕДА 
 date: 2024-10-24T18:16:27.000Z
 ---
 <head>
@@ -9,18 +10,16 @@ date: 2024-10-24T18:16:27.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.
 00 alebo po 22.00                               WS aktivny
 ```
-### [Discord](https://discord.gg/U2hhtGszGK)
+<br>### [Discord](https://discord.gg/U2hhtGszGK)
 ### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔺  (232)|
+| ELO Regular | 1265 🔺  (231)|
 | ELO Competitive | 1325 🔺  (249)|
 | Total Matches | 23 |
 | Wins | 15 |

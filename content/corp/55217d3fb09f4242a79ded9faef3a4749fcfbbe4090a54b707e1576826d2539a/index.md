@@ -2,6 +2,7 @@
 title: ​日中連合
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
+Summary: ❌ 0 - 11 Warriorlords
 date: 2024-05-06T13:36:00.000Z
 ---
 <head>
@@ -9,12 +10,10 @@ date: 2024-05-06T13:36:00.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
 ```
-### Whitestar Bonus ❌ 2%
+<br>### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |

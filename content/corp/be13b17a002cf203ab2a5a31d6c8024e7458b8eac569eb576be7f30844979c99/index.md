@@ -2,6 +2,7 @@
 title: ​Planet Express
 description: W:16 L:4 D:1 Bonus ✅ 34%
 image: ./favicon.png
+Summary: ✅ 26 - 15 pirates spatial
 date: 2025-03-01T15:47:26.000Z
 ---
 <head>
@@ -9,19 +10,17 @@ date: 2025-03-01T15:47:26.000Z
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
 ```
 Stolzes Gründungsmitglied der Hades Föderation. In Kooperation mit Ga
 laxyNova (Aïres) und Hexwood (Krakawski). Neulinge wie Profis sind he
 rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 ```
-### [Discord](https://discord.gg/rX4AFRfyPX)
+<br>### [Discord](https://discord.gg/rX4AFRfyPX)
 ### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (93)|
+| ELO Regular | 1358 🔺  (94)|
 | ELO Competitive | 1414 🔺  (141)|
 | Total Matches | 21 |
 | Wins | 16 |
