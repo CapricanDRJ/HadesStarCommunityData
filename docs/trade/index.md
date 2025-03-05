@@ -3,6 +3,7 @@ layout: page
 title: Trading
 description: Overview of trading artifacts in Hades' Star, categorized by users and their respective guilds.
 permalink: /trade/
+searchHidden: true
 ---
 <html lang="en">
 <head>
