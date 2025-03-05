@@ -17,6 +17,9 @@ params:
   darkMode: true
   search: true
 
+outputs:
+  home: [HTML, JSON]
+
 menu:
   main:
     - identifier: home
