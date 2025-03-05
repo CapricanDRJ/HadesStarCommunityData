@@ -100,7 +100,7 @@
     
   ],
   "articleBody": " ",
-  "wordCount" : "510",
+  "wordCount" : "89",
   "inLanguage": "en",
   "datePublished": "2023-12-17T17:19:17Z",
   "dateModified": "2023-12-17T17:19:17Z",
@@ -246,37 +246,58 @@
 &lt;size=50&gt;&lt;color=#13FF00&gt;~Join up and Ride the Storm~&lt;/color&gt;&lt;/size&gt;
 *Weekly WS
 *RS 6-10
-Hop in Discord - 9aD8bFDvY4```
-
----
-### [Discord](https://discord.gg/9aD8bFDvY4)
-### Whitestar Bonus ❌ 9%
-
-| Statistic | Value |
-| --- | --- |
-| ELO Regular | 1171 🔻  (1007)|
-| ELO Competitive | 1173 🔻  (1115)|
-| Total Matches | 2 |
-| Wins | 0 |
-| Losses | 2 |
-| Draws | 0 |
-| Flagship | 5 |
-
----
-
-### Whitestar Match Day
-
-This chart shows the frequency of days of the week when whitestars were matched in your local timezone
-
-&lt;!-- Load Chart.js from jsDelivr CDN --&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js@4.0.1&#34;&gt;&lt;/script&gt;
-
-&lt;!-- Create a canvas element where the chart will be rendered --&gt;
-&lt;canvas id=&#34;myChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-
-&lt;!-- JavaScript code to render the bar chart --&gt;
-&lt;script&gt;
-    document.addEventListener(&#34;DOMContentLoaded&#34;, function() {
+Hop in Discord - 9aD8bFDvY4
+</code></pre><hr>
+<h3 id="discord"><a href="https://discord.gg/9aD8bFDvY4">Discord</a><a hidden class="anchor" aria-hidden="true" href="#discord">#</a></h3>
+<h3 id="whitestar-bonus--9">Whitestar Bonus ❌ 9%<a hidden class="anchor" aria-hidden="true" href="#whitestar-bonus--9">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Statistic</th>
+          <th>Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>ELO Regular</td>
+          <td>1171 🔻  (1007)</td>
+      </tr>
+      <tr>
+          <td>ELO Competitive</td>
+          <td>1173 🔻  (1115)</td>
+      </tr>
+      <tr>
+          <td>Total Matches</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>Wins</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>Losses</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>Draws</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>Flagship</td>
+          <td>5</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="whitestar-match-day">Whitestar Match Day<a hidden class="anchor" aria-hidden="true" href="#whitestar-match-day">#</a></h3>
+<p>This chart shows the frequency of days of the week when whitestars were matched in your local timezone</p>
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<!-- Create a canvas element where the chart will be rendered -->
+<p><canvas id="myChart" width="400" height="200"></canvas></p>
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1702401557,1700551390];
 
@@ -289,33 +310,33 @@ This chart shows the frequency of days of the week when whitestars were matched 
         let dayCounts = [0, 0, 0, 0, 0, 0, 0];
 
         // Populate the dayCounts array based on the scanTime data
-        timestamps.forEach(ts =&gt; {
+        timestamps.forEach(ts => {
             let dayOfWeek = getDayOfWeek(ts);
             dayCounts[dayOfWeek]++;
         });
 
         // Chart.js configuration for the bar chart
         const data = {
-            labels: [&#39;Sunday&#39;, &#39;Monday&#39;, &#39;Tuesday&#39;, &#39;Wednesday&#39;, &#39;Thursday&#39;, &#39;Friday&#39;, &#39;Saturday&#39;],
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
             data: dayCounts,
                 backgroundColor: [
-                    &#39;rgba(0, 191, 255, 0.2)&#39;,   // Deep Sky Blue (Sunday)
-                    &#39;rgba(135, 206, 250, 0.2)&#39;, // Light Sky Blue (Monday)
-                    &#39;rgba(173, 216, 230, 0.2)&#39;, // Light Blue (Tuesday)
-                    &#39;rgba(255, 255, 255, 0.2)&#39;, // White (Wednesday)
-                    &#39;rgba(173, 216, 230, 0.2)&#39;, // Light Blue (Thursday)
-                    &#39;rgba(135, 206, 250, 0.2)&#39;, // Light Sky Blue (Friday)
-                    &#39;rgba(0, 191, 255, 0.2)&#39;    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    &#39;rgba(0, 191, 255, 1)&#39;,   // Deep Sky Blue (Sunday)
-                    &#39;rgba(135, 206, 250, 1)&#39;, // Light Sky Blue (Monday)
-                    &#39;rgba(173, 216, 230, 1)&#39;, // Light Blue (Tuesday)
-                    &#39;rgba(255, 255, 255, 1)&#39;, // White (Wednesday)
-                    &#39;rgba(173, 216, 230, 1)&#39;, // Light Blue (Thursday)
-                    &#39;rgba(135, 206, 250, 1)&#39;, // Light Sky Blue (Friday)
-                    &#39;rgba(0, 191, 255, 1)&#39;    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -323,7 +344,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
         };
 
         const config = {
-            type: &#39;bar&#39;,
+            type: 'bar',
             data: data,
             options: {
                 scales: {
@@ -331,15 +352,15 @@ This chart shows the frequency of days of the week when whitestars were matched 
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: &#39;rgba(255, 255, 255, 0.8)&#39;
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: &#39;rgba(255, 255, 255, 0.2)&#39;
+                            color: 'rgba(255, 255, 255, 0.2)'
                         }
                     },
                     x: {
                         ticks: {
-                            color: &#39;rgba(255, 255, 255, 0.8)&#39;
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
                             display: false 
@@ -355,30 +376,44 @@ This chart shows the frequency of days of the week when whitestars were matched 
         };
 
         // Render the chart
-        const ctx = document.getElementById(&#39;myChart&#39;).getContext(&#39;2d&#39;);
+        const ctx = document.getElementById('myChart').getContext('2d');
         const myChart = new Chart(ctx, config);
     });
-&lt;/script&gt;
-    
----
-
----
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ❌ | 2023/12/17 | 8-15 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
-| ❌ | 2023/11/26 | 0-35 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
-
----
-Corporation ID: 5d58fbfcde201245ea367778f646cf1fd772b1d0ef2fbde2892fec45c5c79dfc
-
-[Hades&#39; Star](https://www.hadesstar.com)
-&lt;script src=&#34;{{ &#39;/assets/localtime.js&#39; | relative_url }}&#34;&gt;&lt;/script&gt;
-&lt;div&gt;
-  Last updated: &lt;span class=&#34;last-updated-date&#34; data-unix-time=&#34;{{ page.date }}&#34;&gt;&lt;/span&gt;
-&lt;/div&gt;
-</code></pre>
+</script>
+<hr>
+<hr>
+<h3 id="match-history">Match History<a hidden class="anchor" aria-hidden="true" href="#match-history">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>Date</th>
+          <th>Score</th>
+          <th>Opponent</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>❌</td>
+          <td>2023/12/17</td>
+          <td>8-15</td>
+          <td><a href="https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/">АНДРОМЕДА </a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2023/11/26</td>
+          <td>0-35</td>
+          <td><a href="https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/">Hades Academy</a></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<p>Corporation ID: 5d58fbfcde201245ea367778f646cf1fd772b1d0ef2fbde2892fec45c5c79dfc</p>
+<p><a href="https://www.hadesstar.com">Hades&rsquo; Star</a></p>
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>
 
   </div>
 

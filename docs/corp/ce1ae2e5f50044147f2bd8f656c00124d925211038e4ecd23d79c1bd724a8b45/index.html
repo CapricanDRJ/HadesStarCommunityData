@@ -100,7 +100,7 @@
     
   ],
   "articleBody": " ",
-  "wordCount" : "664",
+  "wordCount" : "164",
   "inLanguage": "en",
   "datePublished": "2024-11-27T17:32:24Z",
   "dateModified": "2024-11-27T17:32:24Z",
@@ -244,37 +244,58 @@
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 <pre tabindex="0"><code>&lt;color=&#34;white&#34;&gt;Still Not So Serious&lt;/color&gt; - A corp for the relaxed 
 yet active player (but who are we kidding) no Discord or WS requireme
-nts, Dark RS focussed corp, with optional WS runs.```
-
----
-### [Discord](https://discord.gg/2Dh98GHnug)
-### Whitestar Bonus ❌ 11%
-
-| Statistic | Value |
-| --- | --- |
-| ELO Regular | 1105 🔻  (1332)|
-| ELO Competitive | 1191 🔺  (779)|
-| Total Matches | 12 |
-| Wins | 2 |
-| Losses | 9 |
-| Draws | 1 |
-| Flagship | 10 |
-
----
-
-### Whitestar Match Day
-
-This chart shows the frequency of days of the week when whitestars were matched in your local timezone
-
-&lt;!-- Load Chart.js from jsDelivr CDN --&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js@4.0.1&#34;&gt;&lt;/script&gt;
-
-&lt;!-- Create a canvas element where the chart will be rendered --&gt;
-&lt;canvas id=&#34;myChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-
-&lt;!-- JavaScript code to render the bar chart --&gt;
-&lt;script&gt;
-    document.addEventListener(&#34;DOMContentLoaded&#34;, function() {
+nts, Dark RS focussed corp, with optional WS runs.
+</code></pre><hr>
+<h3 id="discord"><a href="https://discord.gg/2Dh98GHnug">Discord</a><a hidden class="anchor" aria-hidden="true" href="#discord">#</a></h3>
+<h3 id="whitestar-bonus--11">Whitestar Bonus ❌ 11%<a hidden class="anchor" aria-hidden="true" href="#whitestar-bonus--11">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Statistic</th>
+          <th>Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>ELO Regular</td>
+          <td>1105 🔻  (1332)</td>
+      </tr>
+      <tr>
+          <td>ELO Competitive</td>
+          <td>1191 🔺  (779)</td>
+      </tr>
+      <tr>
+          <td>Total Matches</td>
+          <td>12</td>
+      </tr>
+      <tr>
+          <td>Wins</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>Losses</td>
+          <td>9</td>
+      </tr>
+      <tr>
+          <td>Draws</td>
+          <td>1</td>
+      </tr>
+      <tr>
+          <td>Flagship</td>
+          <td>10</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="whitestar-match-day">Whitestar Match Day<a hidden class="anchor" aria-hidden="true" href="#whitestar-match-day">#</a></h3>
+<p>This chart shows the frequency of days of the week when whitestars were matched in your local timezone</p>
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<!-- Create a canvas element where the chart will be rendered -->
+<p><canvas id="myChart" width="400" height="200"></canvas></p>
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1732296744,1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
 
@@ -287,33 +308,33 @@ This chart shows the frequency of days of the week when whitestars were matched 
         let dayCounts = [0, 0, 0, 0, 0, 0, 0];
 
         // Populate the dayCounts array based on the scanTime data
-        timestamps.forEach(ts =&gt; {
+        timestamps.forEach(ts => {
             let dayOfWeek = getDayOfWeek(ts);
             dayCounts[dayOfWeek]++;
         });
 
         // Chart.js configuration for the bar chart
         const data = {
-            labels: [&#39;Sunday&#39;, &#39;Monday&#39;, &#39;Tuesday&#39;, &#39;Wednesday&#39;, &#39;Thursday&#39;, &#39;Friday&#39;, &#39;Saturday&#39;],
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
             data: dayCounts,
                 backgroundColor: [
-                    &#39;rgba(0, 191, 255, 0.2)&#39;,   // Deep Sky Blue (Sunday)
-                    &#39;rgba(135, 206, 250, 0.2)&#39;, // Light Sky Blue (Monday)
-                    &#39;rgba(173, 216, 230, 0.2)&#39;, // Light Blue (Tuesday)
-                    &#39;rgba(255, 255, 255, 0.2)&#39;, // White (Wednesday)
-                    &#39;rgba(173, 216, 230, 0.2)&#39;, // Light Blue (Thursday)
-                    &#39;rgba(135, 206, 250, 0.2)&#39;, // Light Sky Blue (Friday)
-                    &#39;rgba(0, 191, 255, 0.2)&#39;    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    &#39;rgba(0, 191, 255, 1)&#39;,   // Deep Sky Blue (Sunday)
-                    &#39;rgba(135, 206, 250, 1)&#39;, // Light Sky Blue (Monday)
-                    &#39;rgba(173, 216, 230, 1)&#39;, // Light Blue (Tuesday)
-                    &#39;rgba(255, 255, 255, 1)&#39;, // White (Wednesday)
-                    &#39;rgba(173, 216, 230, 1)&#39;, // Light Blue (Thursday)
-                    &#39;rgba(135, 206, 250, 1)&#39;, // Light Sky Blue (Friday)
-                    &#39;rgba(0, 191, 255, 1)&#39;    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -321,7 +342,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
         };
 
         const config = {
-            type: &#39;bar&#39;,
+            type: 'bar',
             data: data,
             options: {
                 scales: {
@@ -329,15 +350,15 @@ This chart shows the frequency of days of the week when whitestars were matched 
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: &#39;rgba(255, 255, 255, 0.8)&#39;
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: &#39;rgba(255, 255, 255, 0.2)&#39;
+                            color: 'rgba(255, 255, 255, 0.2)'
                         }
                     },
                     x: {
                         ticks: {
-                            color: &#39;rgba(255, 255, 255, 0.8)&#39;
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
                             display: false 
@@ -353,46 +374,132 @@ This chart shows the frequency of days of the week when whitestars were matched 
         };
 
         // Render the chart
-        const ctx = document.getElementById(&#39;myChart&#39;).getContext(&#39;2d&#39;);
+        const ctx = document.getElementById('myChart').getContext('2d');
         const myChart = new Chart(ctx, config);
     });
-&lt;/script&gt;
-    
----
-### Recurring Opponents
-
-| Opponent | Wins | Losses | Draws | Total Matches |
-| --- | --- | --- | --- | --- |
-| [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 0 | 1 | 1 | 2 |
-| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 1 | 0 | 2 |
-
----
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ❌ | 2024/11/27 | 3-24 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
-| ↔️ | 2024/11/27 | 23-23 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
-| ❌ | 2024/11/18 | 4-42 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
-| ❌ | 2024/11/18 | 9-43 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
-| ✅ | 2024/11/09 | 40-13 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
-| ❌ | 2024/11/09 | 0-55 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
-| ✅ | 2024/10/31 | 26-17 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
-| ❌ | 2024/10/31 | 1-49 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
-| ❌ | 2024/10/21 | 17-27 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
-| ❌ | 2024/08/29 | 6-28 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
-| ❌ | 2024/03/02 | 3-26 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
-| ❌ | 2023/11/04 | 4-21 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |
-
----
-Corporation ID: ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45
-
-[Hades&#39; Star](https://www.hadesstar.com)
-&lt;script src=&#34;{{ &#39;/assets/localtime.js&#39; | relative_url }}&#34;&gt;&lt;/script&gt;
-&lt;div&gt;
-  Last updated: &lt;span class=&#34;last-updated-date&#34; data-unix-time=&#34;{{ page.date }}&#34;&gt;&lt;/span&gt;
-&lt;/div&gt;
-</code></pre>
+</script>
+<hr>
+<h3 id="recurring-opponents">Recurring Opponents<a hidden class="anchor" aria-hidden="true" href="#recurring-opponents">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Opponent</th>
+          <th>Wins</th>
+          <th>Losses</th>
+          <th>Draws</th>
+          <th>Total Matches</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/">붉은늑대</a></td>
+          <td>0</td>
+          <td>1</td>
+          <td>1</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td><a href="https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/">Кулак</a></td>
+          <td>1</td>
+          <td>1</td>
+          <td>0</td>
+          <td>2</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="match-history">Match History<a hidden class="anchor" aria-hidden="true" href="#match-history">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>Date</th>
+          <th>Score</th>
+          <th>Opponent</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>❌</td>
+          <td>2024/11/27</td>
+          <td>3-24</td>
+          <td><a href="https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/">붉은늑대</a></td>
+      </tr>
+      <tr>
+          <td>↔️</td>
+          <td>2024/11/27</td>
+          <td>23-23</td>
+          <td><a href="https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/">붉은늑대</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/11/18</td>
+          <td>4-42</td>
+          <td><a href="https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/">Croce del Sud</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/11/18</td>
+          <td>9-43</td>
+          <td><a href="https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/">E.T.A</a></td>
+      </tr>
+      <tr>
+          <td>✅</td>
+          <td>2024/11/09</td>
+          <td>40-13</td>
+          <td><a href="https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/">YETI Collective</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/11/09</td>
+          <td>0-55</td>
+          <td><a href="https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/">Providence</a></td>
+      </tr>
+      <tr>
+          <td>✅</td>
+          <td>2024/10/31</td>
+          <td>26-17</td>
+          <td><a href="https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/">Кулак</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/10/31</td>
+          <td>1-49</td>
+          <td><a href="https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/">Кулак</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/10/21</td>
+          <td>17-27</td>
+          <td><a href="https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/">BlackStar Order</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/08/29</td>
+          <td>6-28</td>
+          <td><a href="https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/">VoidCorp</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2024/03/02</td>
+          <td>3-26</td>
+          <td><a href="https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/">ItBurnsWhenIEMP</a></td>
+      </tr>
+      <tr>
+          <td>❌</td>
+          <td>2023/11/04</td>
+          <td>4-21</td>
+          <td><a href="https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/">ANZAC Warriors</a></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<p>Corporation ID: ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45</p>
+<p><a href="https://www.hadesstar.com">Hades&rsquo; Star</a></p>
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>
 
   </div>
 
