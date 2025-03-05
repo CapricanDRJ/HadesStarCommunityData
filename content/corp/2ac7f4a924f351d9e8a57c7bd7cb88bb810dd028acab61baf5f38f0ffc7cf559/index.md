@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Regulus
 description: W:8 L:15 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1726054582
+date: 2024-09-11T11:36:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Genesis Corp
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1733839975
+date: 2024-12-10T14:12:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

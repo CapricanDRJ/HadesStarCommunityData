@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sternenbund
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1699571671
+date: 2023-11-09T23:14:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

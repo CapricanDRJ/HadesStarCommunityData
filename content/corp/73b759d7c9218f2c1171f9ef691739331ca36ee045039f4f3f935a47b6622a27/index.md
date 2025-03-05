@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​AAAA
 description: W:21 L:20 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739978871
+date: 2025-02-19T15:27:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1739978871
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (371)|
-| ELO Competitive | 1289 🔻  (326)|
+| ELO Regular | 1222 🔻  (373)|
+| ELO Competitive | 1289 🔻  (325)|
 | Total Matches | 44 |
 | Wins | 21 |
 | Losses | 20 |

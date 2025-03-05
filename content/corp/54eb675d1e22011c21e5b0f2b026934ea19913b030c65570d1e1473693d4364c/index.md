@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​墨痕空域
 description: W:40 L:56 D:1 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740738268
+date: 2025-02-28T10:24:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1740738268
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1008 🔻  (1420)|
-| ELO Competitive | 1295 🔻  (307)|
+| ELO Competitive | 1295 🔻  (306)|
 | Total Matches | 97 |
 | Wins | 40 |
 | Losses | 56 |

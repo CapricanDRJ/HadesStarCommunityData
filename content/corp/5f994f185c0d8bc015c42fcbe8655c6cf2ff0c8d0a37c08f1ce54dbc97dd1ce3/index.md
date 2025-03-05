@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Veil of Maya
 description: W:4 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1719574274
+date: 2024-06-28T11:31:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ https://discord.gg/nB2Nsukt7X
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (368)|
+| ELO Regular | 1224 🔻  (370)|
 | ELO Competitive | 1224 🔻  (513)|
 | Total Matches | 6 |
 | Wins | 4 |

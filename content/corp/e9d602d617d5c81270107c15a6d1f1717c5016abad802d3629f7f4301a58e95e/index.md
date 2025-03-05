@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​元素联邦
 description: W:30 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739330098
+date: 2025-02-12T03:14:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

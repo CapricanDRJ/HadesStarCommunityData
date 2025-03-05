@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​LossFarm No.648
 description: W:4 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1712510788
+date: 2024-04-07T17:26:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ New Discord: nxEZwvgcg3
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (400)|
+| ELO Regular | 1217 🔻  (402)|
 | ELO Competitive | 1218 🔻  (549)|
 | Total Matches | 7 |
 | Wins | 4 |

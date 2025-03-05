@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​диванодавы
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1714108695
+date: 2024-04-26T05:18:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

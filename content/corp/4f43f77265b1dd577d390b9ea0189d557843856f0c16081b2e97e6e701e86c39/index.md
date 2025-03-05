@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​物质体系
 description: W:0 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1738687290
+date: 2025-02-04T16:41:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

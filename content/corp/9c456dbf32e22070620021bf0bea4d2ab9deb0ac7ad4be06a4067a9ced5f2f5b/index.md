@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Anarchy Nation 
 description: W:11 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740303745
+date: 2025-02-23T09:42:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Active members looking to expand together and conquer white stars
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔻  (471)|
-| ELO Competitive | 1237 🔻  (467)|
+| ELO Competitive | 1237 🔻  (468)|
 | Total Matches | 19 |
 | Wins | 11 |
 | Losses | 7 |

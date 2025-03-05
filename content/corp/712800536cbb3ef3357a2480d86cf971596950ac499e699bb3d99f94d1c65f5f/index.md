@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​혁명군
 description: W:13 L:32 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1715096003
+date: 2024-05-07T15:33:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ Discord opened
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1304)|
-| ELO Competitive | 1248 🔺  (433)|
+| ELO Competitive | 1248 🔺  (434)|
 | Total Matches | 45 |
 | Wins | 13 |
 | Losses | 32 |

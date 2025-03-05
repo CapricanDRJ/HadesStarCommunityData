@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​S.U.N
 description: W:6 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740824509
+date: 2025-03-01T10:21:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740824509
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (452)|
-| ELO Competitive | 1237 🔻  (466)|
+| ELO Competitive | 1237 🔻  (467)|
 | Total Matches | 12 |
 | Wins | 6 |
 | Losses | 5 |

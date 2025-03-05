@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​百万繁星
 description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740546552
+date: 2025-02-26T05:09:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

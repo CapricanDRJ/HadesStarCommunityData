@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Anla'Shok
 description: W:2 L:11 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1720811802
+date: 2024-07-12T19:16:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

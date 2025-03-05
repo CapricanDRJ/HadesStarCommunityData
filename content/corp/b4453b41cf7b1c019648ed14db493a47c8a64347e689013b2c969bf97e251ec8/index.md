@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Czech Legion
 description: W:19 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737915625
+date: 2025-01-26T18:20:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

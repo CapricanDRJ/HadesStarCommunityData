@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Kötbrüder
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1726315424
+date: 2024-09-14T12:03:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Atlas Star llc.
 description: W:51 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740492751
+date: 2025-02-25T14:12:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1445 🔺  (29)|
-| ELO Competitive | 1539 🔺  (48)|
+| ELO Competitive | 1539 🔺  (49)|
 | Total Matches | 64 |
 | Wins | 51 |
 | Losses | 13 |

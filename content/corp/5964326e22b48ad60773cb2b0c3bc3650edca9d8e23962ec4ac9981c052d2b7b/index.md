@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Raptor Armada
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1728728667
+date: 2024-10-12T10:24:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1728728667
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (366)|
+| ELO Regular | 1225 🔺  (368)|
 | ELO Competitive | 1226 🔺  (503)|
 | Total Matches | 1 |
 | Wins | 1 |

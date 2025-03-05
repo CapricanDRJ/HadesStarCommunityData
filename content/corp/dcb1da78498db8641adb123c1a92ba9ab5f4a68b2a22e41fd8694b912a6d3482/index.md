@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​电磁脉冲集团
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1723979587
+date: 2024-08-18T11:13:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Smeg Heads
 description: W:1 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1731222354
+date: 2024-11-10T07:05:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ Heads full of SMEG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (1149)|
+| ELO Regular | 1153 🔺  (1148)|
 | ELO Competitive | 1158 🔺  (1255)|
 | Total Matches | 6 |
 | Wins | 1 |

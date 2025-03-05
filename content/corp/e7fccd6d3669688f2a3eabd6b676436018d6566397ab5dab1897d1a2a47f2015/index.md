@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UKR Spase
 description: W:41 L:23 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1741093455
+date: 2025-03-04T13:04:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

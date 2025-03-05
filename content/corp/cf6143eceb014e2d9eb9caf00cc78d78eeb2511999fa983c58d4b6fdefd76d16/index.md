@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​FlightCommand
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1703312018
+date: 2023-12-23T06:13:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

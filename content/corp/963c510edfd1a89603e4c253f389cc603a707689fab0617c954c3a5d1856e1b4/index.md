@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Черное солнце
 description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1737802933
+date: 2025-01-25T11:02:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

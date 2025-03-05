@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Soul System
 description: W:5 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740844647
+date: 2025-03-01T15:57:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Elder Things
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1711631579
+date: 2024-03-28T13:12:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

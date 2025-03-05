@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​自由free
 description: W:0 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1733548220
+date: 2024-12-07T05:10:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

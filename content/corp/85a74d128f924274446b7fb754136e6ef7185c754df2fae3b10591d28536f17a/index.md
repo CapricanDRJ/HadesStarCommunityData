@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 description: W:30 L:53 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740789359
+date: 2025-03-01T00:35:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

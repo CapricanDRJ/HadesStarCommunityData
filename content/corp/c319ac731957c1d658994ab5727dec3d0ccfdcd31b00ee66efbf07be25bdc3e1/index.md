@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​云霄宫
 description: W:3 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1728276979
+date: 2024-10-07T04:56:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

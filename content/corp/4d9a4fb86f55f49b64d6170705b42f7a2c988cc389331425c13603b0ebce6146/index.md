@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Best UA West
 description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1702043417
+date: 2023-12-08T13:50:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Discord https://discord.gg/mXaAX7Caga
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1189)|
-| ELO Competitive | 1144 🔻  (1322)|
+| ELO Competitive | 1144 🔻  (1321)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

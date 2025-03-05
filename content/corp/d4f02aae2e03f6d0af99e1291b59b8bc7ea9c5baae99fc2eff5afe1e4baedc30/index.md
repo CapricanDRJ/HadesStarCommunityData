@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​日月星辰
 description: W:4 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739204789
+date: 2025-02-10T16:26:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

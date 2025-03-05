@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gallaecia
 description: W:0 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1711749983
+date: 2024-03-29T22:06:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

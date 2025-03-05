@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dirty Laundry 
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1711126201
+date: 2024-03-22T16:50:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

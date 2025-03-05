@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gold Star
 description: W:4 L:14 D:2 Bonus ✅ 30%
 image: ./favicon.png
-date: 1740601548
+date: 2025-02-26T20:25:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

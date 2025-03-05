@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​titan tv
 description: W:9 L:22 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1718984071
+date: 2024-06-21T15:34:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​国际联盟
 description: W:18 L:12 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1741087144
+date: 2025-03-04T11:19:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1741087144
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔻  (370)|
+| ELO Regular | 1223 🔻  (372)|
 | ELO Competitive | 1352 🔺  (209)|
 | Total Matches | 30 |
 | Wins | 18 |

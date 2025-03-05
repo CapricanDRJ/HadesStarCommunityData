@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​hades' star
 description: W:0 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1709683723
+date: 2024-03-06T00:08:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

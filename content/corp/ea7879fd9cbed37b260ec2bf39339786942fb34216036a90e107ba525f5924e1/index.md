@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Got Nothing
 description: W:15 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1731760563
+date: 2024-11-16T12:36:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ rd for easier coordination and fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (382)|
-| ELO Competitive | 1251 🔻  (424)|
+| ELO Regular | 1220 🔻  (384)|
+| ELO Competitive | 1251 🔻  (425)|
 | Total Matches | 28 |
 | Wins | 15 |
 | Losses | 13 |

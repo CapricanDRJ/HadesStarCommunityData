@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Zvezdec
 description: W:44 L:24 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740804079
+date: 2025-03-01T04:41:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

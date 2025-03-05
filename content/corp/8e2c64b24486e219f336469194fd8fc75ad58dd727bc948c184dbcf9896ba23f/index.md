@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Anomalies
 description: W:1 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1699464101
+date: 2023-11-08T17:21:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

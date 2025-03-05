@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spiritic Beacon
 description: W:5 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707775947
+date: 2024-02-12T22:12:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

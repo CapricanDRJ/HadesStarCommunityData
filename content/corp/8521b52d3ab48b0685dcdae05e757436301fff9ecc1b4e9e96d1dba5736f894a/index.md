@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中国星系集团
 description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1714123800
+date: 2024-04-26T09:30:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1714123800
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔺  (196)|
-| ELO Competitive | 1290 🔺  (323)|
+| ELO Competitive | 1290 🔺  (322)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

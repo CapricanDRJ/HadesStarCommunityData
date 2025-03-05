@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Borg
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1705007195
+date: 2024-01-11T21:06:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

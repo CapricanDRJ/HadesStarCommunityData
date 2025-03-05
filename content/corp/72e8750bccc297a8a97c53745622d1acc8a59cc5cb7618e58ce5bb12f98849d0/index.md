@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星际公约组织
 description: W:25 L:12 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1741095860
+date: 2025-03-04T13:44:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
 description: W:13 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1733426879
+date: 2024-12-05T19:27:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ de early learning guidance for newbies joining the group.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (355)|
+| ELO Regular | 1228 🔻  (356)|
 | ELO Competitive | 1298 🔻  (300)|
 | Total Matches | 24 |
 | Wins | 13 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​世外桃源
 description: W:23 L:136 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1740682383
+date: 2025-02-27T18:53:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

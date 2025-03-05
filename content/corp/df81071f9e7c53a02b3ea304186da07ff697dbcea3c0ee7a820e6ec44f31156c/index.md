@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​L’Amalgame
 description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1718673783
+date: 2024-06-18T01:23:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

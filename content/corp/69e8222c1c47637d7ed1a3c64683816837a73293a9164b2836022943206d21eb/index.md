@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​MD EMPIRE
 description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1736965358
+date: 2025-01-15T18:22:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​R.S.F.
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1702319921
+date: 2023-12-11T18:38:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

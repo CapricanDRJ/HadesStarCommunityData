@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
 description: W:52 L:27 D:2 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740859674
+date: 2025-03-01T20:07:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

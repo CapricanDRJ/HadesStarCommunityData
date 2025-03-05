@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​🌪TORNADO 
 description: W:18 L:14 D:7 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738716141
+date: 2025-02-05T00:42:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1738716141
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔺  (249)|
-| ELO Competitive | 1296 🔺  (305)|
+| ELO Competitive | 1296 🔺  (304)|
 | Total Matches | 39 |
 | Wins | 18 |
 | Losses | 14 |

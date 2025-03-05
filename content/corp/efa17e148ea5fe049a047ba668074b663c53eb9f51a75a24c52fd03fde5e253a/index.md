@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Pumpkin
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1699685036
+date: 2023-11-11T06:43:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

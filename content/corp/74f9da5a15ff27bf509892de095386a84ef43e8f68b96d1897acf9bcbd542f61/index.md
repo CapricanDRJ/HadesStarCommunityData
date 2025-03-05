@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星舰地球
 description: W:1 L:3 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1712942578
+date: 2024-04-12T17:22:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

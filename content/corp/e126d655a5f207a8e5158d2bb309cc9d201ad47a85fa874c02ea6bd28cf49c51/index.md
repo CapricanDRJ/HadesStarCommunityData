@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Flying Dutchmen
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1711356353
+date: 2024-03-25T08:45:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

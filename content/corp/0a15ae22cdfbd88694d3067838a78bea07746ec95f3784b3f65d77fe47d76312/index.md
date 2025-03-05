@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​GhostNakcoorp
 description: W:27 L:32 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738292140
+date: 2025-01-31T02:55:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Final Space
 description: W:1 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1739146495
+date: 2025-02-10T00:14:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

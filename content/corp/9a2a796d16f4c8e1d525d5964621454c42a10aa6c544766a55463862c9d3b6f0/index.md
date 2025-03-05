@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cool Casual
 description: W:9 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740780948
+date: 2025-02-28T22:15:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740780948
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔻  (332)|
-| ELO Competitive | 1250 🔻  (427)|
+| ELO Competitive | 1250 🔻  (428)|
 | Total Matches | 13 |
 | Wins | 9 |
 | Losses | 4 |

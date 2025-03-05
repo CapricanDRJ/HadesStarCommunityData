@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Equinox
 description: W:9 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737725406
+date: 2025-01-24T13:30:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ deadline though. We all do what we do when we do it...
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔻  (204)|
-| ELO Competitive | 1293 🔻  (313)|
+| ELO Competitive | 1293 🔻  (312)|
 | Total Matches | 11 |
 | Wins | 9 |
 | Losses | 2 |

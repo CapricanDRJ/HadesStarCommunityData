@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star Destroyers
 description: W:38 L:30 D:2 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740492751
+date: 2025-02-25T14:12:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ dicate you will participate and dont you will be kicked.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (391)|
+| ELO Regular | 1218 🔻  (393)|
 | ELO Competitive | 1309 🔻  (278)|
 | Total Matches | 70 |
 | Wins | 38 |

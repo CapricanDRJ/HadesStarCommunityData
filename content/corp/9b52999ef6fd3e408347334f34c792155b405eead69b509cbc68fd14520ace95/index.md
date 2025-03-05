@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​群星联盟
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1726666751
+date: 2024-09-18T13:39:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1726666751
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (1170)|
-| ELO Competitive | 1149 🔻  (1298)|
+| ELO Competitive | 1149 🔻  (1297)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

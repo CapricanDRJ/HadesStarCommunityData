@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Эдем
 description: W:16 L:13 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740983782
+date: 2025-03-03T06:36:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1740983782
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔻  (264)|
+| ELO Regular | 1253 🔻  (263)|
 | ELO Competitive | 1315 🔻  (273)|
 | Total Matches | 29 |
 | Wins | 16 |

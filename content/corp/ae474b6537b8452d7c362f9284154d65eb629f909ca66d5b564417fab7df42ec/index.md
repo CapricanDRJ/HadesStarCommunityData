@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lost City Corp.
 description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1706097412
+date: 2024-01-24T11:56:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

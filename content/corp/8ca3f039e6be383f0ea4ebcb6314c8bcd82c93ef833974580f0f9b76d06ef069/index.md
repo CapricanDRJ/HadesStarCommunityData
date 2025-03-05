@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​KINETIC
 description: W:13 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739559394
+date: 2025-02-14T18:56:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

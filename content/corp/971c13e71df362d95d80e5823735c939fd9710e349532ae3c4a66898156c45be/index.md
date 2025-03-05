@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Furyans
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1701200386
+date: 2023-11-28T19:39:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ You keep what you kill…Naw. One for all and all for one!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (406)|
+| ELO Regular | 1216 🔺  (407)|
 | ELO Competitive | 1216 🔺  (560)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​G.02
 description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1741087144
+date: 2025-03-04T11:19:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

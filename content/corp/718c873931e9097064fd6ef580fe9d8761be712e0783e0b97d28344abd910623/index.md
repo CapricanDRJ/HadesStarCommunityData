@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​lesescargots
 description: W:65 L:22 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1741074226
+date: 2025-03-04T07:43:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

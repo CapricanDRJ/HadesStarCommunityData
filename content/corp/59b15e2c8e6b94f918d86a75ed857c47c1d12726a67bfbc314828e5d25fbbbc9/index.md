@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​..D.E.I.T.Co..
 description: W:6 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1713259271
+date: 2024-04-16T09:21:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

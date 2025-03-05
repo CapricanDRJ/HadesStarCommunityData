@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​VD Redux
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739559106
+date: 2025-02-14T18:51:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

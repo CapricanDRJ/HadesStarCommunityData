@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Monkeys
 description: W:8 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1714980024
+date: 2024-05-06T07:20:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

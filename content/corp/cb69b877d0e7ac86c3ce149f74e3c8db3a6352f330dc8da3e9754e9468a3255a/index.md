@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​⭐PRETORIANS.X⭐
 description: W:17 L:33 D:4 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740611765
+date: 2025-02-26T23:16:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ sporg). 3lt bpdp)(demin).(flech).
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔺  (1324)|
-| ELO Competitive | 1295 🔺  (310)|
+| ELO Competitive | 1295 🔺  (309)|
 | Total Matches | 54 |
 | Wins | 17 |
 | Losses | 33 |

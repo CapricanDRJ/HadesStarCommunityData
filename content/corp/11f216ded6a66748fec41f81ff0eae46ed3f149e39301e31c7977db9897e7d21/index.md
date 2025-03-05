@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galactic Trade
 description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1703011782
+date: 2023-12-19T18:49:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

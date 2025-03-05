@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​helvetic force
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1719260117
+date: 2024-06-24T20:15:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ en spiel und spass
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (399)|
+| ELO Regular | 1217 🔺  (401)|
 | ELO Competitive | 1222 🔺  (524)|
 | Total Matches | 3 |
 | Wins | 2 |

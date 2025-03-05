@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Halo
 description: W:16 L:10 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740732559
+date: 2025-02-28T08:49:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740732559
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (274)|
+| ELO Regular | 1250 🔺  (273)|
 | ELO Competitive | 1319 🔺  (265)|
 | Total Matches | 27 |
 | Wins | 16 |

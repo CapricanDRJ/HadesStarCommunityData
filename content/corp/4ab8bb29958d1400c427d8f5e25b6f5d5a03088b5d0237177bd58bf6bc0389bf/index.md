@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OriginsOfQuarks
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1733729102
+date: 2024-12-09T07:25:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

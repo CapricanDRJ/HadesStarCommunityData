@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Free Ag3nts
 description: W:17 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741062544
+date: 2025-03-04T04:29:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

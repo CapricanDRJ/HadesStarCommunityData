@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Серебряная орда
 description: W:60 L:56 D:2 Bonus ❌ 10%
 image: ./favicon.png
-date: 1741030361
+date: 2025-03-03T19:32:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

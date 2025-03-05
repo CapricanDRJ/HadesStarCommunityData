@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中华人民共和国
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1708097017
+date: 2024-02-16T15:23:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

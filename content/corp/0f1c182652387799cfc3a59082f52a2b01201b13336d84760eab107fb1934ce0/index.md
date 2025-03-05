@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nova Time
 description: W:13 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1712499667
+date: 2024-04-07T14:21:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

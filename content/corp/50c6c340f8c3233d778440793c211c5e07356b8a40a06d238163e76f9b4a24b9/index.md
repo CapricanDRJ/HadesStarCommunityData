@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Harpias
 description: W:0 L:1 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1725243104
+date: 2024-09-02T02:11:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​REFOUNDATION 
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1701864292
+date: 2023-12-06T12:04:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Orione
 description: W:0 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1720098657
+date: 2024-07-04T13:10:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

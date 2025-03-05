@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​⚜NOVA⚜
 description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1702618360
+date: 2023-12-15T05:32:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CENTINELA
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1712424533
+date: 2024-04-06T17:28:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

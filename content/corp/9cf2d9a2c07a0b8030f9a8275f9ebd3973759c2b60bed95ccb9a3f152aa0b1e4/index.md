@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星海扬帆
 description: W:23 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1728214173
+date: 2024-10-06T11:29:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

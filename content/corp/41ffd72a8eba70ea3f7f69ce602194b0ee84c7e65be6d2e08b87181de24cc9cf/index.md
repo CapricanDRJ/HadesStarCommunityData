@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Sun
 description: W:6 L:11 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1705458831
+date: 2024-01-17T02:33:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

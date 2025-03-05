@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BRhue
 description: W:12 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1734914793
+date: 2024-12-23T00:46:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

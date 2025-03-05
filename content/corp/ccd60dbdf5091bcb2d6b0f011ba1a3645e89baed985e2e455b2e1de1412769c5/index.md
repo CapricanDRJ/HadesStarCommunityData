@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Warp Dominion
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1708320893
+date: 2024-02-19T05:34:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

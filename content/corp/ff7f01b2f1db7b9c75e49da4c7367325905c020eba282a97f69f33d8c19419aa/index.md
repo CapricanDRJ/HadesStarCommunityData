@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​₩.BRASIL.₩
 description: W:2 L:25 D:4 Bonus ❌ 4%
 image: ./favicon.png
-date: 1733352709
+date: 2024-12-04T22:51:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Система Редарфа
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1729428040
+date: 2024-10-20T12:40:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1729428040
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (376)|
+| ELO Regular | 1221 🔺  (378)|
 | ELO Competitive | 1225 🔺  (511)|
 | Total Matches | 1 |
 | Wins | 1 |

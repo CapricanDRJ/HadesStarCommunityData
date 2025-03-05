@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Syndicate 
 description: W:31 L:6 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741088646
+date: 2025-03-04T11:44:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

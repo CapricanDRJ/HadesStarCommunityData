@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BRASIL ACADEMY
 description: W:3 L:12 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740824209
+date: 2025-03-01T10:16:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

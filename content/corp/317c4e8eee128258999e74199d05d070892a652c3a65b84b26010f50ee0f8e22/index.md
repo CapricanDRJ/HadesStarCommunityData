@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​t 72 SwiftKey F
 description: W:5 L:8 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1712942878
+date: 2024-04-12T17:27:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

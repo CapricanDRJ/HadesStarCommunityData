@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Reservoid  Dogs
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1707867594
+date: 2024-02-13T23:39:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

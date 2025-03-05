@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СССР 2.0
 description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1703584196
+date: 2023-12-26T09:49:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1703584196
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1188)|
-| ELO Competitive | 1146 🔻  (1313)|
+| ELO Competitive | 1146 🔻  (1312)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

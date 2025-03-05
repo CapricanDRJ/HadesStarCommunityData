@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Freelancer
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1707024506
+date: 2024-02-04T05:28:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Copelius
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1720495291
+date: 2024-07-09T03:21:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​KhaOSs
 description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1740939006
+date: 2025-03-02T18:10:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

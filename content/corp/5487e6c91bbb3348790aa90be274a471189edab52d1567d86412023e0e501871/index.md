@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星际集团
 description: W:2 L:4 D:2 Bonus ❌ 3%
 image: ./favicon.png
-date: 1718796685
+date: 2024-06-19T11:31:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

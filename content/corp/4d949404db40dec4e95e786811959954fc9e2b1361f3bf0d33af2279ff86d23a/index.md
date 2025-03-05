@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Out landers
 description: W:12 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738019897
+date: 2025-01-27T23:18:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ latively active. Discord not required but recommended.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (346)|
+| ELO Regular | 1230 🔺  (347)|
 | ELO Competitive | 1267 🔺  (383)|
 | Total Matches | 23 |
 | Wins | 12 |

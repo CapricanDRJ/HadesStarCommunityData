@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ahamkara
 description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1701071146
+date: 2023-11-27T07:45:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

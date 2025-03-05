@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​IX Легион
 description: W:91 L:45 D:0 Bonus ✅ 52%
 image: ./favicon.png
-date: 1740810990
+date: 2025-03-01T06:36:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

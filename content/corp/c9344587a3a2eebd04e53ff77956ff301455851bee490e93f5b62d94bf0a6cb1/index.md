@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​＊ПОБЕДА＊
 description: W:2 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1700458875
+date: 2023-11-20T05:41:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,7 +25,7 @@ date: 1700458875
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (408)|
+| ELO Regular | 1216 🔺  (409)|
 | ELO Competitive | 1216 🔺  (563)|
 | Total Matches | 3 |
 | Wins | 2 |

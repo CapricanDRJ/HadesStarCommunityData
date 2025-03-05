@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​MicroNova
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1702667056
+date: 2023-12-15T19:04:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

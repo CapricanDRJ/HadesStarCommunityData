@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​柯伊伯带试炼塔
 description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739706931
+date: 2025-02-16T11:55:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

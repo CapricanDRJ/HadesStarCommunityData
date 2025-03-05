@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Shrimp City
 description: W:21 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1728565791
+date: 2024-10-10T13:09:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ Season 58: 3 wins 1 loses
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (375)|
+| ELO Regular | 1221 🔻  (377)|
 | ELO Competitive | 1253 🔻  (416)|
 | Total Matches | 38 |
 | Wins | 21 |

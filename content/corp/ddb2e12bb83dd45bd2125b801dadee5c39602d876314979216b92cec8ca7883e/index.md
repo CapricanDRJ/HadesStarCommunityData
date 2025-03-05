@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Metal Nova
 description: W:2 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1700618828
+date: 2023-11-22T02:07:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ experiemced players.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (349)|
+| ELO Regular | 1229 🔺  (350)|
 | ELO Competitive | 1229 🔺  (490)|
 | Total Matches | 2 |
 | Wins | 2 |

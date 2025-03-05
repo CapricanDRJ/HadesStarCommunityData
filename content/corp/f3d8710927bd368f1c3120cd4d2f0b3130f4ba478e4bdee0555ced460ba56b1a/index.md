@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gregycool
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1702887653
+date: 2023-12-18T08:20:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

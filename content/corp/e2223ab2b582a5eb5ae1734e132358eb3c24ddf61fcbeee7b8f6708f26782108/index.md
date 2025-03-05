@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galactic Empire
 description: W:22 L:20 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737076048
+date: 2025-01-17T01:07:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ will be kicked! Founder: Emperor
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (644)|
-| ELO Competitive | 1289 🔻  (325)|
+| ELO Competitive | 1289 🔻  (324)|
 | Total Matches | 42 |
 | Wins | 22 |
 | Losses | 20 |

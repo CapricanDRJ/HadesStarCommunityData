@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Los Unidos 
 description: W:7 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1714444916
+date: 2024-04-30T02:41:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​心之所向
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1711149196
+date: 2024-03-22T23:13:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1711149196
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (324)|
-| ELO Competitive | 1238 🔻  (465)|
+| ELO Regular | 1238 🔻  (323)|
+| ELO Competitive | 1238 🔻  (466)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

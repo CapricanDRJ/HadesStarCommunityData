@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sith Academy
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1714273340
+date: 2024-04-28T03:02:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hexwood
 description: W:11 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739895040
+date: 2025-02-18T16:10:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Snack Empire
 description: W:0 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1738375083
+date: 2025-02-01T01:58:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​探索舰队
 description: W:3 L:10 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1710249718
+date: 2024-03-12T13:21:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​龙门训练营
 description: W:9 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1706690027
+date: 2024-01-31T08:33:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

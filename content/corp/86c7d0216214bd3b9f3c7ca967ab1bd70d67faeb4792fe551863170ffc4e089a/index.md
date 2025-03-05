@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​  边界  
 description: W:29 L:19 D:4 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738925308
+date: 2025-02-07T10:48:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

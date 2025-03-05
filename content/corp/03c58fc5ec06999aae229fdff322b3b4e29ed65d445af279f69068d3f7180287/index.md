@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​РARADISЕ
 description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740780948
+date: 2025-02-28T22:15:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740780948
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (395)|
+| ELO Regular | 1218 🔺  (397)|
 | ELO Competitive | 1229 🔺  (492)|
 | Total Matches | 3 |
 | Wins | 2 |

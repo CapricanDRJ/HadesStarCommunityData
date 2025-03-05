@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Tycho Corp
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1713475317
+date: 2024-04-18T21:21:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

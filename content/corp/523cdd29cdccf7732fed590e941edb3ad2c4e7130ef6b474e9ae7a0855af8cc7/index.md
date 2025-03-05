@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​cikopo
 description: W:0 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1714209343
+date: 2024-04-27T09:15:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

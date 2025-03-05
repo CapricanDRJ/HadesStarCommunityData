@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​水星联合组织
 description: W:3 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1702443740
+date: 2023-12-13T05:02:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

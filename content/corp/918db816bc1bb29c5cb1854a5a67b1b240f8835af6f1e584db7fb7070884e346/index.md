@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Polaris Corpo
 description: W:12 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740575398
+date: 2025-02-26T13:09:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

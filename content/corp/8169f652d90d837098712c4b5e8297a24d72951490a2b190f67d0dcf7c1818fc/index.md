@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dutch Space Id
 description: W:0 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1710725372
+date: 2024-03-18T01:29:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

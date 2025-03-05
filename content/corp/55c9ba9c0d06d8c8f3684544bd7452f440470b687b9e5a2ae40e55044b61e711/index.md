@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BlakkFlot
 description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1725347571
+date: 2024-09-03T07:12:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

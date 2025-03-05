@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hellfire Club
 description: W:53 L:41 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740834126
+date: 2025-03-01T13:02:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

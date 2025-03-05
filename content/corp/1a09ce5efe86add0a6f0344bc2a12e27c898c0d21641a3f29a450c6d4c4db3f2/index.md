@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Helion Prime
 description: W:11 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1728870811
+date: 2024-10-14T01:53:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

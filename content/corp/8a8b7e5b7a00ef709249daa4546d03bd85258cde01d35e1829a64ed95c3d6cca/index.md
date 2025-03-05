@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lights Off 
 description: W:26 L:16 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1732448393
+date: 2024-11-24T11:39:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ y RS and weekly WS. Discord link below
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (345)|
+| ELO Regular | 1230 🔻  (346)|
 | ELO Competitive | 1269 🔻  (374)|
 | Total Matches | 42 |
 | Wins | 26 |

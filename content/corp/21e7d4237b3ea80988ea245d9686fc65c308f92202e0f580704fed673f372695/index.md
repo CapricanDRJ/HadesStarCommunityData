@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​nova corp
 description: W:0 L:2 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1733188100
+date: 2024-12-03T01:08:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

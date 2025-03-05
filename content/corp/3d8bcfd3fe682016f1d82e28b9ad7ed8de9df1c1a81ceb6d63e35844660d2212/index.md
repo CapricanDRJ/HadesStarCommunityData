@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​蓝太阳
 description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725536033
+date: 2024-09-05T11:33:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

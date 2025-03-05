@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​United Stars 
 description: W:40 L:24 D:3 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740749388
+date: 2025-02-28T13:29:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

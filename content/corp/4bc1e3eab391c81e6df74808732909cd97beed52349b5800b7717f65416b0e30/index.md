@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Romania
 description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1739267661
+date: 2025-02-11T09:54:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

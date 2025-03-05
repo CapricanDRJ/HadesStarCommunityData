@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rogue Dudes
 description: W:2 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1721016974
+date: 2024-07-15T04:16:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,7 +25,7 @@ ALT=NO PROMOTION
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (347)|
+| ELO Regular | 1230 🔺  (348)|
 | ELO Competitive | 1230 🔺  (485)|
 | Total Matches | 2 |
 | Wins | 2 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star Wars
 description: W:10 L:8 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1722148180
+date: 2024-07-28T06:29:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ WhatsApp: <color=#00FFFF>034 99879-2012</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (365)|
-| ELO Competitive | 1246 🔺  (439)|
+| ELO Regular | 1225 🔺  (367)|
+| ELO Competitive | 1246 🔺  (440)|
 | Total Matches | 18 |
 | Wins | 10 |
 | Losses | 8 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​V0RTEX
 description: W:2 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740938104
+date: 2025-03-02T17:55:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

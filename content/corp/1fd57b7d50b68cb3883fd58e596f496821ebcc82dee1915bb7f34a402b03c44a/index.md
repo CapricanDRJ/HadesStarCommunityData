@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Scar
 description: W:47 L:27 D:1 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740785755
+date: 2025-02-28T23:35:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

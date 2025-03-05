@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​FAIR
 description: W:0 L:2 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1722286796
+date: 2024-07-29T20:59:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Auscorp 
 description: W:93 L:8 D:0 Bonus ✅ 52%
 image: ./favicon.png
-date: 1741097663
+date: 2025-03-04T14:14:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

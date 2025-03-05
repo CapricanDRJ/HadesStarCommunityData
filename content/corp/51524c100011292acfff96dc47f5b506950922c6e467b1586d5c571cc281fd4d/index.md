@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​永恒之梦
 description: W:6 L:3 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1725284714
+date: 2024-09-02T13:45:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ date: 1725284714
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (362)|
-| ELO Competitive | 1243 🔺  (449)|
+| ELO Regular | 1225 🔺  (364)|
+| ELO Competitive | 1243 🔺  (450)|
 | Total Matches | 11 |
 | Wins | 6 |
 | Losses | 3 |

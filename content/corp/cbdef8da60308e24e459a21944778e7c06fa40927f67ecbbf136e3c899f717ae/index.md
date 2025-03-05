@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Disintegrators
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1702431720
+date: 2023-12-13T01:42:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

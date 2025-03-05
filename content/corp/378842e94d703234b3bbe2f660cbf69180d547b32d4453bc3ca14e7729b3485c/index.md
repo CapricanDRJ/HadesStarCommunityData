@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Union premiun
 description: W:0 L:3 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1723607550
+date: 2024-08-14T03:52:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ po,todos los nuevos seran acendidos inmediatamente
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1117)|
+| ELO Regular | 1157 🔻  (1116)|
 | ELO Competitive | 1162 🔺  (1223)|
 | Total Matches | 5 |
 | Wins | 0 |

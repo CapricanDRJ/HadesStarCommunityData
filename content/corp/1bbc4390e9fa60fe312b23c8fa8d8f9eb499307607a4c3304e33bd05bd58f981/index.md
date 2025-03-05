@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ES Gaming 
 description: W:16 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1713687157
+date: 2024-04-21T08:12:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

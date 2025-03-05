@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第三共产星际世界
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1722962060
+date: 2024-08-06T16:34:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

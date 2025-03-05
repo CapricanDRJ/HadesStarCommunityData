@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Abh
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1731142719
+date: 2024-11-09T08:58:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

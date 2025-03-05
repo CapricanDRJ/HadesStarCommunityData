@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星系联盟
 description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740577502
+date: 2025-02-26T13:45:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​分子集团
 description: W:4 L:7 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1740711528
+date: 2025-02-28T02:58:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

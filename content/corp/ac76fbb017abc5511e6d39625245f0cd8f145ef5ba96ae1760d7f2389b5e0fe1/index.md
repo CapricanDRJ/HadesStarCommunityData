@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ProyectCorp
 description: W:20 L:29 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1730805560
+date: 2024-11-05T11:19:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

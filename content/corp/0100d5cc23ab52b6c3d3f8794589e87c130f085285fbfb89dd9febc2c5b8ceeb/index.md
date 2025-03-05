@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​icell
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1706588757
+date: 2024-01-30T04:25:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

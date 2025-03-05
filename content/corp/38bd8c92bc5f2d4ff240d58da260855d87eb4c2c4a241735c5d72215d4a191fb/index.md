@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nebula
 description: W:4 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1729543151
+date: 2024-10-21T20:39:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

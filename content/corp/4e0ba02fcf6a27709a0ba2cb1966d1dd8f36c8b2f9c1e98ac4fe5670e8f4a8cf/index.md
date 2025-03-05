@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​共和服务器
 description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1718228706
+date: 2024-06-12T21:45:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SILVER TERRA
 description: W:31 L:21 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740619556
+date: 2025-02-27T01:25:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

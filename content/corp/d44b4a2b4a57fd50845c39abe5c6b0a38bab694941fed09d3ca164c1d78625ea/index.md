@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bounty Hunters
 description: W:7 L:7 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1733034654
+date: 2024-12-01T06:30:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ cja odbywa się poprzez nasz kanał Discord.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (458)|
-| ELO Competitive | 1249 🔻  (431)|
+| ELO Competitive | 1249 🔻  (432)|
 | Total Matches | 14 |
 | Wins | 7 |
 | Losses | 7 |

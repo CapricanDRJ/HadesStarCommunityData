@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​WinterComes
 description: W:4 L:14 D:0 Bonus ✅ 44%
 image: ./favicon.png
-date: 1740928185
+date: 2025-03-02T15:09:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

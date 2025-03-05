@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Casual Joe
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1720819016
+date: 2024-07-12T21:16:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

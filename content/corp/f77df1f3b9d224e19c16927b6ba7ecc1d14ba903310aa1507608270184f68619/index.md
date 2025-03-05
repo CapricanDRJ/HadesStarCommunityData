@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TearsWorld
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1701162510
+date: 2023-11-28T09:08:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

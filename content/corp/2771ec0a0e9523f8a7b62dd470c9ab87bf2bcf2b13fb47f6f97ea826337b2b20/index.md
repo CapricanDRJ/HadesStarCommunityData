@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Mercury Sunset
 description: W:51 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1741086403
+date: 2025-03-04T11:06:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

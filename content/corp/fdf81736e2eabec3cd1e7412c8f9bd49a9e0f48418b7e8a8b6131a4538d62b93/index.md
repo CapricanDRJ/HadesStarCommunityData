@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Visionaries
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1720668745
+date: 2024-07-11T03:32:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

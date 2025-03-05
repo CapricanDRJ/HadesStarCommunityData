@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​红日初升，其道大光
 description: W:33 L:17 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741084139
+date: 2025-03-04T10:28:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

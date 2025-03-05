@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ZZZ-V
 description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1737569737
+date: 2025-01-22T18:15:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

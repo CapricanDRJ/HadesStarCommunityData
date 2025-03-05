@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dacia
 description: W:1 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1706875746
+date: 2024-02-02T12:09:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

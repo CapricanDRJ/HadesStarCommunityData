@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Interstellar
 description: W:43 L:55 D:3 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740767423
+date: 2025-02-28T18:30:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bl@ck/Galaxy 
 description: W:34 L:24 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740851259
+date: 2025-03-01T17:47:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (137)|
+| ELO Regular | 1325 🔻  (138)|
 | ELO Competitive | 1399 🔻  (152)|
 | Total Matches | 60 |
 | Wins | 34 |

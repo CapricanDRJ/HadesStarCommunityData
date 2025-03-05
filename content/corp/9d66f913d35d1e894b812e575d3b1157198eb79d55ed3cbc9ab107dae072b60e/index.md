@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​uzumaki
 description: W:1 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1721868476
+date: 2024-07-25T00:47:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ Inactive players will be kicked out
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (409)|
+| ELO Regular | 1216 🔺  (410)|
 | ELO Competitive | 1216 🔺  (562)|
 | Total Matches | 1 |
 | Wins | 1 |

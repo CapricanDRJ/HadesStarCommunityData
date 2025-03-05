@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​1st/Ave/Junkie2
 description: W:21 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740380947
+date: 2025-02-24T07:09:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

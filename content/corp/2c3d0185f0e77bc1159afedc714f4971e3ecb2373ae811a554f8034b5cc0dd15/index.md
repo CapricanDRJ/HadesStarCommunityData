@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dominadores
 description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740623727
+date: 2025-02-27T02:35:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

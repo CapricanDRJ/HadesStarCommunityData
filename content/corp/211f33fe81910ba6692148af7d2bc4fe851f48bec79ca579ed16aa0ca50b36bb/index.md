@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CommCody & LPA
 description: W:13 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1712466617
+date: 2024-04-07T05:10:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ Interested in our alliance RSR?  Discord   Link below
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (344)|
+| ELO Regular | 1230 🔻  (345)|
 | ELO Competitive | 1256 🔻  (412)|
 | Total Matches | 22 |
 | Wins | 13 |

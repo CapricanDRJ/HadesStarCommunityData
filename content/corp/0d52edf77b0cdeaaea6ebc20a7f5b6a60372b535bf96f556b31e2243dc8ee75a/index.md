@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Imperium XIII
 description: W:46 L:29 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740834727
+date: 2025-03-01T13:12:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spacefleet
 description: W:50 L:52 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1740899379
+date: 2025-03-02T07:09:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,7 +26,7 @@ Discord mandatory. <b>EEpZuWf</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (295)|
+| ELO Regular | 1242 🔻  (294)|
 | ELO Competitive | 1517 🔻  (62)|
 | Total Matches | 102 |
 | Wins | 50 |

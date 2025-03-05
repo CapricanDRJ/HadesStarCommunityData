@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Alpaca Nation
 description: W:11 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740894827
+date: 2025-03-02T05:53:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​春城阳关
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1708001005
+date: 2024-02-15T12:43:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​大侠饶命
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1727852366
+date: 2024-10-02T06:59:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

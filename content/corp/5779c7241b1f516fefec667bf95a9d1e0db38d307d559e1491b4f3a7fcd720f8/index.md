@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Zeta LLC
 description: W:7 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1718398212
+date: 2024-06-14T20:50:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

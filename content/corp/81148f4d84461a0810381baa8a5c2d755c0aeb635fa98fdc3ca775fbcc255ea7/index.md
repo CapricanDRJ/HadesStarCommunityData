@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TheSpacingGuild
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1705092810
+date: 2024-01-12T20:53:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

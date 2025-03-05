@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ItBurnsWhenIEMP
 description: W:24 L:8 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1739744198
+date: 2025-02-16T22:16:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

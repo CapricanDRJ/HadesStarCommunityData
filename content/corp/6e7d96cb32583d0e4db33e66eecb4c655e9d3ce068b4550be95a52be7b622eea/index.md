@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sternenwanderer
 description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707271529
+date: 2024-02-07T02:05:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

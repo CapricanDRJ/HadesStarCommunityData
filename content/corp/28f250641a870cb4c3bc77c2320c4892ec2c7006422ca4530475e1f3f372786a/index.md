@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​YU-GI-OH
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1735854049
+date: 2025-01-02T21:40:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

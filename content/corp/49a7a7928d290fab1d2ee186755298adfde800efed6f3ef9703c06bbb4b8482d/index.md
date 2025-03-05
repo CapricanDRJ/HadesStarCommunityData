@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Диванные Стражи
 description: W:1 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1729093206
+date: 2024-10-16T15:40:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Moon Catchers
 description: W:13 L:20 D:1 Bonus ❌ 10%
 image: ./favicon.png
-date: 1726142631
+date: 2024-09-12T12:03:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

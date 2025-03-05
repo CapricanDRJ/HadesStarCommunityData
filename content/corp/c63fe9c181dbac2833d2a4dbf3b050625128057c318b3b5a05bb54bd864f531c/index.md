@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​华夏航队
 description: W:2 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1704688043
+date: 2024-01-08T04:27:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

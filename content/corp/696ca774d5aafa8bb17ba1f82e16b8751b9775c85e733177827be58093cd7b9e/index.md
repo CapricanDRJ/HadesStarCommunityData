@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Black Sun
 description: W:6 L:13 D:1 Bonus ❌ 14%
 image: ./favicon.png
-date: 1713190768
+date: 2024-04-15T14:19:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Welcome to hang out. Very little going on around here.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1288)|
-| ELO Competitive | 1149 🔻  (1299)|
+| ELO Competitive | 1149 🔻  (1298)|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 13 |

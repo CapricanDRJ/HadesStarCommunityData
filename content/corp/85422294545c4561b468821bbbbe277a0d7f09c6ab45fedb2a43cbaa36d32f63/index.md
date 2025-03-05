@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星环建设集团
 description: W:9 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1728129128
+date: 2024-10-05T11:52:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ date: 1728129128
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (388)|
-| ELO Competitive | 1234 🔻  (475)|
+| ELO Regular | 1219 🔻  (390)|
+| ELO Competitive | 1234 🔻  (476)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 7 |

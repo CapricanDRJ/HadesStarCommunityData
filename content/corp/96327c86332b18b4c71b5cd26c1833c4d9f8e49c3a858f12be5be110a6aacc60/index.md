@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cell Division
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1716452566
+date: 2024-05-23T08:22:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

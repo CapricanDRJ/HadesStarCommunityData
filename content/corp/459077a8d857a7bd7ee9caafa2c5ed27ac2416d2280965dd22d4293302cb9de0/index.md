@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​一根飞机
 description: W:10 L:17 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739090895
+date: 2025-02-09T08:48:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

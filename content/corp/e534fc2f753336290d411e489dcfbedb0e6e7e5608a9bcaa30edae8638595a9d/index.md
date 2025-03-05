@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​阿尔特拉太空港
 description: W:23 L:18 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1741121707
+date: 2025-03-04T20:55:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (363)|
+| ELO Regular | 1225 🔻  (365)|
 | ELO Competitive | 1301 🔻  (294)|
 | Total Matches | 43 |
 | Wins | 23 |

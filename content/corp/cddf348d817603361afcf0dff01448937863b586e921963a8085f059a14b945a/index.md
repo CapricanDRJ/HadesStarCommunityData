@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Kobol
 description: W:2 L:10 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1740741574
+date: 2025-02-28T11:19:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SveaEmpire
 description: W:1 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1702678179
+date: 2023-12-15T22:09:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ vill hjälpa till att vinna white stars!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1195)|
-| ELO Competitive | 1144 🔻  (1323)|
+| ELO Competitive | 1144 🔻  (1322)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

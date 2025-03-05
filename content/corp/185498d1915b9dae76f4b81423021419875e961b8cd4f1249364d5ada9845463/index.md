@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Бакланы
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1726836191
+date: 2024-09-20T12:43:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

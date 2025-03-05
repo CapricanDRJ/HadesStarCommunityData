@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Prometheus ESP
 description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1719704704
+date: 2024-06-29T23:45:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Halcon español
 description: W:35 L:20 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740831120
+date: 2025-03-01T12:12:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔺  (250)|
-| ELO Competitive | 1332 🔺  (238)|
+| ELO Competitive | 1332 🔺  (239)|
 | Total Matches | 56 |
 | Wins | 35 |
 | Losses | 20 |

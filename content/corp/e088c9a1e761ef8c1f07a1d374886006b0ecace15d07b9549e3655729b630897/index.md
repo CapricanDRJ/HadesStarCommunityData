@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Germania
 description: W:22 L:41 D:4 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740668557
+date: 2025-02-27T15:02:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ ht so ernst nehmen.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1074 🔻  (1375)|
+| ELO Regular | 1074 🔻  (1374)|
 | ELO Competitive | 1141 🔻  (1334)|
 | Total Matches | 67 |
 | Wins | 22 |

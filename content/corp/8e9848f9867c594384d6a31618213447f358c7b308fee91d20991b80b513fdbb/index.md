@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Albedo
 description: W:34 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740994598
+date: 2025-03-03T09:36:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Vulnera Virtutem Vivificant
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔻  (265)|
+| ELO Regular | 1253 🔻  (264)|
 | ELO Competitive | 1354 🔻  (206)|
 | Total Matches | 51 |
 | Wins | 34 |

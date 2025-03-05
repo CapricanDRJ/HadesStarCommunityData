@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OKC THUNDER 
 description: W:2 L:5 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1723474731
+date: 2024-08-12T14:58:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

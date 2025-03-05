@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​环星集团
 description: W:5 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738286732
+date: 2025-01-31T01:25:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

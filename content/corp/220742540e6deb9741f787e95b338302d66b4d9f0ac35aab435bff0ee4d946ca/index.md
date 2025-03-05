@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​HerronCorp
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1718361537
+date: 2024-06-14T10:38:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

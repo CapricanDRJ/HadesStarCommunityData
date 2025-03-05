@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​НИФИГАСЕБЕ
 description: W:8 L:26 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1737646070
+date: 2025-01-23T15:27:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

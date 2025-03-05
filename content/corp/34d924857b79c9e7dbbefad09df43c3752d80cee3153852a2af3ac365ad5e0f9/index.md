@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​复生会
 description: W:2 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739463827
+date: 2025-02-13T16:23:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

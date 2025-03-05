@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Zeta Division 
 description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1733614630
+date: 2024-12-07T23:37:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

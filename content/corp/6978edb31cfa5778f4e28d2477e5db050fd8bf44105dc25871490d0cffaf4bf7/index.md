@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Int. Trading Co
 description: W:16 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1721018557
+date: 2024-07-15T04:42:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

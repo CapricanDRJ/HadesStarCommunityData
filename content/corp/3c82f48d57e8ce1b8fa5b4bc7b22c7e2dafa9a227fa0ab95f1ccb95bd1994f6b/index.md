@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中团一建
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1733576461
+date: 2024-12-07T13:01:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1733576461
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (413)|
+| ELO Regular | 1216 🔺  (414)|
 | ELO Competitive | 1217 🔺  (552)|
 | Total Matches | 1 |
 | Wins | 1 |

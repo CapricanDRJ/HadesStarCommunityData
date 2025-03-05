@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nexland Ind.
 description: W:5 L:4 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1719570374
+date: 2024-06-28T10:26:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Buka's secret hideout
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (436)|
-| ELO Competitive | 1245 🔻  (442)|
+| ELO Competitive | 1245 🔻  (443)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 4 |

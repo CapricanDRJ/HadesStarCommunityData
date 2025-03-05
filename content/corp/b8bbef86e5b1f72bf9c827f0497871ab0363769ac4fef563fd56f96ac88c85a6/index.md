@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Prometheus
 description: W:9 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1718761230
+date: 2024-06-19T01:40:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

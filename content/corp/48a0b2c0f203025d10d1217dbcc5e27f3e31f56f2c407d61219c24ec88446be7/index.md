@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RGW
 description: W:32 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741111488
+date: 2025-03-04T18:04:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

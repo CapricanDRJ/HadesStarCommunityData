@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​space eagles
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1707847218
+date: 2024-02-13T18:00:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​清霄阁（防御协会）
 description: W:8 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740715493
+date: 2025-02-28T04:04:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

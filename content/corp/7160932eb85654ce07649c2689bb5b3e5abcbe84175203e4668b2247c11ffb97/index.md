@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star Field
 description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1721414692
+date: 2024-07-19T18:44:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

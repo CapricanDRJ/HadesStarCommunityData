@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BSO Academy
 description: W:14 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1712594618
+date: 2024-04-08T16:43:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

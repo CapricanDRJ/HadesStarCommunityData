@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ANDROMEDA INC. 
 description: W:25 L:1 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1731149329
+date: 2024-11-09T10:48:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

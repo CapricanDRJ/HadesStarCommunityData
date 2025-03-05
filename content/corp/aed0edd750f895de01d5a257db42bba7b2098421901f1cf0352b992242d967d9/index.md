@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ws Polaris
 description: W:4 L:14 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1723212986
+date: 2024-08-09T14:16:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

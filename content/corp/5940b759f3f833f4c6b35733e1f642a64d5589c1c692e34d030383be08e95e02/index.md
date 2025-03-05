@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ark Summit
 description: W:17 L:0 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740733761
+date: 2025-02-28T09:09:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

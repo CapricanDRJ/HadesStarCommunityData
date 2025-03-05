@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​EarthFederation
 description: W:13 L:3 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740422724
+date: 2025-02-24T18:45:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​哈迪斯之星，启动！
 description: W:7 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1733397371
+date: 2024-12-05T11:16:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ date: 1733397371
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (367)|
-| ELO Competitive | 1239 🔻  (463)|
+| ELO Regular | 1224 🔻  (369)|
+| ELO Competitive | 1239 🔻  (464)|
 | Total Matches | 13 |
 | Wins | 7 |
 | Losses | 6 |

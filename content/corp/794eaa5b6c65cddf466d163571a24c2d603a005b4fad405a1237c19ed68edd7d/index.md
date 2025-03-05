@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Blackwater co.
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1718581733
+date: 2024-06-16T23:48:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

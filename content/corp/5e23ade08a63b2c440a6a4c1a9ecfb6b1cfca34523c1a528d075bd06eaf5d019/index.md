@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​QONQR 
 description: W:14 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1741095559
+date: 2025-03-04T13:39:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

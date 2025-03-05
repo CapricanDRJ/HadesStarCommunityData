@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ЭКЛИПТИКА
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725217707
+date: 2024-09-01T19:08:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1725217707
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (397)|
+| ELO Regular | 1217 🔺  (399)|
 | ELO Competitive | 1219 🔺  (532)|
 | Total Matches | 1 |
 | Wins | 1 |

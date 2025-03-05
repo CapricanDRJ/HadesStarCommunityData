@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sith Empire
 description: W:35 L:45 D:1 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740747585
+date: 2025-02-28T12:59:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

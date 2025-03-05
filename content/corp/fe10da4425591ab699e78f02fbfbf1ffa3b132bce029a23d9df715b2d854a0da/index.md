@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Yellow Dwarf 
 description: W:2 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740309727
+date: 2025-02-23T11:22:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

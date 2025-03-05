@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​●Black•Sails●
 description: W:21 L:29 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741074226
+date: 2025-03-04T07:43:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Together We Can Achieve More.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1115)|
+| ELO Regular | 1157 🔻  (1114)|
 | ELO Competitive | 1216 🔻  (564)|
 | Total Matches | 50 |
 | Wins | 21 |

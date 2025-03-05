@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​青鸾殿
 description: W:4 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1724823432
+date: 2024-08-28T05:37:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

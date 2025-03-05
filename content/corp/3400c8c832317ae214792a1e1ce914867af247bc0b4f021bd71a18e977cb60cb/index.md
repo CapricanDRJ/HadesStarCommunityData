@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​REY DE REYES
 description: W:1 L:13 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1739888728
+date: 2025-02-18T14:25:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

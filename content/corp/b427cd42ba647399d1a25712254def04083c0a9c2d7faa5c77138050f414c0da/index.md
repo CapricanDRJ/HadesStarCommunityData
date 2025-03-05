@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​墨痕白星分部
 description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1709307723
+date: 2024-03-01T15:42:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1709307723
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (453)|
-| ELO Competitive | 1281 🔻  (347)|
+| ELO Competitive | 1281 🔻  (346)|
 | Total Matches | 16 |
 | Wins | 9 |
 | Losses | 7 |

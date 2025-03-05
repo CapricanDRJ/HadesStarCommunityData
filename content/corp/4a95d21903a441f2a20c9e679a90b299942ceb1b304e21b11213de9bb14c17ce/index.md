@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第四天灾
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1716917436
+date: 2024-05-28T17:30:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

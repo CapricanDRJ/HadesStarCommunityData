@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​绛紫星云
 description: W:1 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1732179746
+date: 2024-11-21T09:02:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

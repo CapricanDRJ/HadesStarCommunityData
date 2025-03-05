@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​QSI
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740008025
+date: 2025-02-19T23:33:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

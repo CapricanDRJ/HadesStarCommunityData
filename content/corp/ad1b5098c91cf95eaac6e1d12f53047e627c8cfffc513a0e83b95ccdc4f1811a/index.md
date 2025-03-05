@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​gold warriors
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736741993
+date: 2025-01-13T04:19:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

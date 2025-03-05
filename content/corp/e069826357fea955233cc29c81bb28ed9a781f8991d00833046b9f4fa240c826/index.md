@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Polandia
 description: W:0 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1704889651
+date: 2024-01-10T12:27:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

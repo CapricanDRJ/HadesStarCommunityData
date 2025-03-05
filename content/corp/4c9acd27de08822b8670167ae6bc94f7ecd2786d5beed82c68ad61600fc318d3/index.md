@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​THE BENDERA
 description: W:15 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1715830706
+date: 2024-05-16T03:38:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ date: 1715830706
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (146)|
-| ELO Competitive | 1334 🔺  (236)|
+| ELO Competitive | 1334 🔺  (237)|
 | Total Matches | 21 |
 | Wins | 15 |
 | Losses | 6 |

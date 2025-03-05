@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​U.P.E
 description: W:1 L:5 D:1 Bonus ✅ 28%
 image: ./favicon.png
-date: 1740716383
+date: 2025-02-28T04:19:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

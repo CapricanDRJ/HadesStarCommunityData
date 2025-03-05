@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sektion 32
 description: W:4 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1732482656
+date: 2024-11-24T21:10:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

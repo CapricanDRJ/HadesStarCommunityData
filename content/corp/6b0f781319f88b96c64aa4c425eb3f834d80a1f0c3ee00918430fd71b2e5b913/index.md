@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​喵喵喵喵喵喵喵
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1713706688
+date: 2024-04-21T13:38:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

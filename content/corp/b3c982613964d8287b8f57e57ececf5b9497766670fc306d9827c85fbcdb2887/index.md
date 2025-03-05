@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CAEDRUS [<o>]
 description: W:2 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1733134410
+date: 2024-12-02T10:13:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

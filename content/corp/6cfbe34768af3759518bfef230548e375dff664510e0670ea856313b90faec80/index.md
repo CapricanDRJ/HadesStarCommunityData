@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Goa'uld
 description: W:0 L:1 D:2 Bonus ❌ 1%
 image: ./favicon.png
-date: 1715999227
+date: 2024-05-18T02:27:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ark
 description: W:62 L:22 D:1 Bonus ✅ 46%
 image: ./favicon.png
-date: 1741074826
+date: 2025-03-04T07:53:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

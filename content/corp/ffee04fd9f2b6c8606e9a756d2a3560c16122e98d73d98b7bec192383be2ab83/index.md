@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Shadow Lords
 description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1736184867
+date: 2025-01-06T17:34:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

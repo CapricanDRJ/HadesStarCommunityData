@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
 description: W:7 L:110 D:5 Bonus ❌ 9%
 image: ./favicon.png
-date: 1741085942
+date: 2025-03-04T10:59:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

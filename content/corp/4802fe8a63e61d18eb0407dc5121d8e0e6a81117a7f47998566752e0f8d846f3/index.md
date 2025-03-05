@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Polaris
 description: W:0 L:10 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1738468535
+date: 2025-02-02T03:55:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hades’ galaxy
 description: W:3 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740986185
+date: 2025-03-03T07:16:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1740986185
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (311)|
-| ELO Competitive | 1241 🔺  (455)|
+| ELO Regular | 1239 🔺  (310)|
+| ELO Competitive | 1241 🔺  (456)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

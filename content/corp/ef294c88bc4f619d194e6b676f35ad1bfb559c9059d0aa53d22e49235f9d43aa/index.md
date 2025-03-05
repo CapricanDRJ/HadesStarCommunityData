@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​You win
 description: W:0 L:5 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1730710906
+date: 2024-11-04T09:01:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

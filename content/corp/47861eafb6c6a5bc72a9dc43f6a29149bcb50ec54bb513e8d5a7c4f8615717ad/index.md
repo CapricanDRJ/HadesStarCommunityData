@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Star Banker
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1705138180
+date: 2024-01-13T09:29:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

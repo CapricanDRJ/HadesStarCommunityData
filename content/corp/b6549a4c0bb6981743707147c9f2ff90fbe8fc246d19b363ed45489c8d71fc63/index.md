@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​PSI Division
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1727192499
+date: 2024-09-24T15:41:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

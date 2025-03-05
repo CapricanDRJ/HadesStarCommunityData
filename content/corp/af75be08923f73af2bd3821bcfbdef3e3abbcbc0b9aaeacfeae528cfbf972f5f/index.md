@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中国家民
 description: W:2 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739724063
+date: 2025-02-16T16:41:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

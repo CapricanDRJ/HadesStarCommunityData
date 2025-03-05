@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​우주미아
 description: W:0 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1726474082
+date: 2024-09-16T08:08:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

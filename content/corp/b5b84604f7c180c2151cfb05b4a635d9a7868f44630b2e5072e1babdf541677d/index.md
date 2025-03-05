@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Trade Systems
 description: W:0 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1703021702
+date: 2023-12-19T21:35:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,7 +28,7 @@ od-family.com
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1120)|
+| ELO Regular | 1157 🔻  (1119)|
 | ELO Competitive | 1160 🔻  (1235)|
 | Total Matches | 3 |
 | Wins | 0 |

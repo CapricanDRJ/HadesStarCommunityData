@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​对，进就进人少的
 description: W:61 L:57 D:4 Bonus ✅ 40%
 image: ./favicon.png
-date: 1741079633
+date: 2025-03-04T09:13:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (285)|
+| ELO Regular | 1245 🔺  (284)|
 | ELO Competitive | 1481 🔺  (83)|
 | Total Matches | 122 |
 | Wins | 61 |

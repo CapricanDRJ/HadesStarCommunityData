@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​深空补给港
 description: W:2 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740091568
+date: 2025-02-20T22:46:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Looping
 description: W:33 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1738400320
+date: 2025-02-01T08:58:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

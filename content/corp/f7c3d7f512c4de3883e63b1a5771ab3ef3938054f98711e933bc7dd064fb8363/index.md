@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Wompwompway 
 description: W:39 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740566383
+date: 2025-02-26T10:39:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

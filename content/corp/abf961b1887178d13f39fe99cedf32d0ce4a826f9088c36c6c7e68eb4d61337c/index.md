@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​-=FCA=-
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1732741368
+date: 2024-11-27T21:02:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

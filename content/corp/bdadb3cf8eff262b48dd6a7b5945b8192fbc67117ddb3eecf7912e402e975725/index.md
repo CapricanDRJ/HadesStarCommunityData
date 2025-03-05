@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Eretria 
 description: W:34 L:40 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740789059
+date: 2025-03-01T00:30:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Deadspace
 description: W:30 L:42 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740933596
+date: 2025-03-02T16:39:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,7 +29,7 @@ Discord mandatory.  <b>EEpZuWf</b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (702)|
-| ELO Competitive | 1293 🔻  (314)|
+| ELO Competitive | 1293 🔻  (313)|
 | Total Matches | 72 |
 | Wins | 30 |
 | Losses | 42 |

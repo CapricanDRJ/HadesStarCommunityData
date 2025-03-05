@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​free ws exp
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1708459125
+date: 2024-02-20T19:58:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

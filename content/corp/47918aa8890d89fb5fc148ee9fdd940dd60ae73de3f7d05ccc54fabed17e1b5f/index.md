@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​j g f h me t y 
 description: W:5 L:10 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1726738849
+date: 2024-09-19T09:40:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

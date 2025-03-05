@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Vanu Centurions
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1702964295
+date: 2023-12-19T05:38:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

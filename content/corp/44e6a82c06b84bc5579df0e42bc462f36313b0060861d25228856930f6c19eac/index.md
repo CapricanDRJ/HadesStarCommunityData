@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Fairy tail 
 description: W:7 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737597385
+date: 2025-01-23T01:56:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

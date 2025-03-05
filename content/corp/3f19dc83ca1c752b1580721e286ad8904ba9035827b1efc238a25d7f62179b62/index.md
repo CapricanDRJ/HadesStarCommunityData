@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CORE INFLICTION
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1702351177
+date: 2023-12-12T03:19:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

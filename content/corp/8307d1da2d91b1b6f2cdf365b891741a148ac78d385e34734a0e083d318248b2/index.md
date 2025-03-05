@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​FėniX•
 description: W:3 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1715630616
+date: 2024-05-13T20:03:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

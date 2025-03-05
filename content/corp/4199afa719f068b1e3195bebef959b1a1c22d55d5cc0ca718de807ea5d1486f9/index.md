@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​蓝色星系
 description: W:0 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1741095559
+date: 2025-03-04T13:39:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

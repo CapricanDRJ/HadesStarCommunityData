@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Españoles
 description: W:28 L:67 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740933596
+date: 2025-03-02T16:39:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ Discord obligatorio: KAguMmM
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1222)|
-| ELO Competitive | 1242 🔺  (452)|
+| ELO Competitive | 1242 🔺  (453)|
 | Total Matches | 95 |
 | Wins | 28 |
 | Losses | 67 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Free Thinkers 2
 description: W:4 L:56 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740996701
+date: 2025-03-03T10:11:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

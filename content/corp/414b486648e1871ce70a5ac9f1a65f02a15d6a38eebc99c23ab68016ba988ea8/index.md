@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Warriors union
 description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1711636388
+date: 2024-03-28T14:33:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

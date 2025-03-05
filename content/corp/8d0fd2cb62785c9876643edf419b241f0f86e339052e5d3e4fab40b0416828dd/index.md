@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Splendid
 description: W:6 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737558616
+date: 2025-01-22T15:10:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ rporation.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔺  (328)|
-| ELO Competitive | 1242 🔺  (451)|
+| ELO Competitive | 1242 🔺  (452)|
 | Total Matches | 10 |
 | Wins | 6 |
 | Losses | 4 |

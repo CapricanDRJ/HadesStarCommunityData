@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Planet Express
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1734226111
+date: 2024-12-15T01:28:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

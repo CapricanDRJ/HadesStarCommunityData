@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Сибиряки
 description: W:0 L:4 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1728114704
+date: 2024-10-05T07:51:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1728114704
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1208)|
-| ELO Competitive | 1148 🔻  (1304)|
+| ELO Competitive | 1148 🔻  (1303)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

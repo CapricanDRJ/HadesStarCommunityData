@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BAB
 description: W:0 L:5 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1740576901
+date: 2025-02-26T13:35:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

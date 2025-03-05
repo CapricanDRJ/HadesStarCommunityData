@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​物竞天择，适者生存
 description: W:8 L:14 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740238812
+date: 2025-02-22T15:40:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

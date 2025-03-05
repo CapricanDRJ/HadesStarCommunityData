@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Prospectors
 description: W:4 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1712005979
+date: 2024-04-01T21:12:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ LP GUIDE @ https://userxinos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (401)|
+| ELO Regular | 1217 🔻  (403)|
 | ELO Competitive | 1223 🔻  (515)|
 | Total Matches | 8 |
 | Wins | 4 |

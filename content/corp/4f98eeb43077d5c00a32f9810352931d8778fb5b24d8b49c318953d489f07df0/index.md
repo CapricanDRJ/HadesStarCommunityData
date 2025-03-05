@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​AlyTec Sys.
 description: W:9 L:15 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740846450
+date: 2025-03-01T16:27:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1118)|
+| ELO Regular | 1157 🔻  (1117)|
 | ELO Competitive | 1191 🔺  (781)|
 | Total Matches | 25 |
 | Wins | 9 |

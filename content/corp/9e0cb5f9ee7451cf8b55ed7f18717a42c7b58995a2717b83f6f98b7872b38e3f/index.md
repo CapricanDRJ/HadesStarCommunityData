@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Farland Ind.
 description: W:7 L:19 D:1 Bonus ❌ 14%
 image: ./favicon.png
-date: 1721257201
+date: 2024-07-17T23:00:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

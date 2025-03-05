@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​New YuGiOh
 description: W:10 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1740675772
+date: 2025-02-27T17:02:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740675772
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔺  (155)|
-| ELO Competitive | 1332 🔺  (239)|
+| ELO Competitive | 1332 🔺  (240)|
 | Total Matches | 12 |
 | Wins | 10 |
 | Losses | 1 |

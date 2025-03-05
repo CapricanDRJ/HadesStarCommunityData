@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第四星际
 description: W:28 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
-date: 1728192239
+date: 2024-10-06T05:23:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

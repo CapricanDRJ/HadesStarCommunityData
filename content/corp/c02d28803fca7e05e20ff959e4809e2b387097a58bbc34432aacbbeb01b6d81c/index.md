@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Mandalorians
 description: W:1 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1721569474
+date: 2024-07-21T13:44:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

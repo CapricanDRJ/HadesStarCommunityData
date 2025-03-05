@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​游徒训练营
 description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1719768708
+date: 2024-06-30T17:31:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

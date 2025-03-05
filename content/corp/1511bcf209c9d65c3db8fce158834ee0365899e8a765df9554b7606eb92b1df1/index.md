@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​太阳系联邦
 description: W:0 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1729231178
+date: 2024-10-18T05:59:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sith order
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1713871347
+date: 2024-04-23T11:22:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

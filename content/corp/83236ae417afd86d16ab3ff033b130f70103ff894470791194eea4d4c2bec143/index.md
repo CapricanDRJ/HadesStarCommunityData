@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Belters
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1699696974
+date: 2023-11-11T10:02:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

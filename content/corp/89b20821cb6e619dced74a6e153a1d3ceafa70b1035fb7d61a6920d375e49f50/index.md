@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Winter Star llc
 description: W:12 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740596137
+date: 2025-02-26T18:55:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

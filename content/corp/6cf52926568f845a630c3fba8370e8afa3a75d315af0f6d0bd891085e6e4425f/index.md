@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Antioch
 description: W:10 L:26 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1736665431
+date: 2025-01-12T07:03:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ ctive pilots.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1074 🔻  (1374)|
+| ELO Regular | 1074 🔻  (1373)|
 | ELO Competitive | 1125 🔻  (1366)|
 | Total Matches | 36 |
 | Wins | 10 |

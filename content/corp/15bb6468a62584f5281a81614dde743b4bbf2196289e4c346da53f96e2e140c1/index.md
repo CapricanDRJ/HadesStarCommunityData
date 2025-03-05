@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Слава Украине!
 description: W:107 L:45 D:1 Bonus ✅ 46%
 image: ./favicon.png
-date: 1740948927
+date: 2025-03-02T20:55:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

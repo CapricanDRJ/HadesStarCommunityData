@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​63SALVADORES36
 description: W:22 L:25 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741060707
+date: 2025-03-04T03:58:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

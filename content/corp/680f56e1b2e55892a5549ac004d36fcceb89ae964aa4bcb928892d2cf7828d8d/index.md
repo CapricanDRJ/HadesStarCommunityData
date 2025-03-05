@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Discordia
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1711309787
+date: 2024-03-24T19:49:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

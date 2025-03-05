@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BLOK EKIPA
 description: W:0 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1711701595
+date: 2024-03-29T08:39:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​IMPERIAL ARMADA
 description: W:43 L:30 D:2 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740227691
+date: 2025-02-22T12:34:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

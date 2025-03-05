@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​W.O.A
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1707724502
+date: 2024-02-12T07:55:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

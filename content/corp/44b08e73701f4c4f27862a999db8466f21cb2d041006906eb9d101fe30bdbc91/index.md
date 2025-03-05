@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ua online
 description: W:0 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1727170260
+date: 2024-09-24T09:31:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

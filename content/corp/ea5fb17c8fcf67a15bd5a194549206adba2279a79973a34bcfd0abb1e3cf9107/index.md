@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Continuum
 description: W:102 L:51 D:2 Bonus ✅ 56%
 image: ./favicon.png
-date: 1740899379
+date: 2025-03-02T07:09:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

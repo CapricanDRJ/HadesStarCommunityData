@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Vertin's box
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1717941473
+date: 2024-06-09T13:57:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

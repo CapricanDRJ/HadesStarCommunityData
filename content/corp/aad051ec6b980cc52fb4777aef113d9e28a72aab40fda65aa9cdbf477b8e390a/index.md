@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​West Worlders
 description: W:7 L:25 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1736114561
+date: 2025-01-05T22:02:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​羽共和体
 description: W:18 L:26 D:8 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740741574
+date: 2025-02-28T11:19:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1740741574
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔺  (1094)|
-| ELO Competitive | 1235 🔺  (472)|
+| ELO Competitive | 1235 🔺  (473)|
 | Total Matches | 52 |
 | Wins | 18 |
 | Losses | 26 |

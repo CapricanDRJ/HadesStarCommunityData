@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Kiith Trollani
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1700223536
+date: 2023-11-17T12:18:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

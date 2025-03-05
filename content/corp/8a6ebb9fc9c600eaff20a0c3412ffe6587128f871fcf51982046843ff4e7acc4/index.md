@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​藏锋府
 description: W:10 L:8 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1739886624
+date: 2025-02-18T13:50:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,8 +28,8 @@ date: 1739886624
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (325)|
-| ELO Competitive | 1287 🔻  (329)|
+| ELO Regular | 1238 🔻  (324)|
+| ELO Competitive | 1287 🔻  (328)|
 | Total Matches | 19 |
 | Wins | 10 |
 | Losses | 8 |

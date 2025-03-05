@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Training
 description: W:23 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739901351
+date: 2025-02-18T17:55:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

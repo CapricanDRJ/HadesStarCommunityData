@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​无人之境
 description: W:1 L:17 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1741018941
+date: 2025-03-03T16:22:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ You are lucky to meet me in White Star! Congratulations!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1043 🔻  (1398)|
-| ELO Competitive | 1089 🔻  (1410)|
+| ELO Competitive | 1089 🔻  (1409)|
 | Total Matches | 18 |
 | Wins | 1 |
 | Losses | 17 |

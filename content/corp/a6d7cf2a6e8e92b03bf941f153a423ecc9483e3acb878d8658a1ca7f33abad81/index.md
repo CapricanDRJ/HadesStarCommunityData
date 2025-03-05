@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Oddity
 description: W:14 L:10 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1714825274
+date: 2024-05-04T12:21:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (307)|
-| ELO Competitive | 1282 🔻  (345)|
+| ELO Regular | 1240 🔻  (306)|
+| ELO Competitive | 1282 🔻  (344)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

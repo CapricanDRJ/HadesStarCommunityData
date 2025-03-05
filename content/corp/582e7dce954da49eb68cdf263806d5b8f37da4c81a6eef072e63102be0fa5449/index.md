@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Argentina 1.0
 description: W:35 L:18 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1739940110
+date: 2025-02-19T04:41:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

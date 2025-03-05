@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Мертвый Космос
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1727297067
+date: 2024-09-25T20:44:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

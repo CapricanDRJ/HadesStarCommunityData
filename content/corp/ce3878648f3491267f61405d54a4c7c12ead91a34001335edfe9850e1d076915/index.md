@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DESERT DEMONS
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1703188801
+date: 2023-12-21T20:00:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

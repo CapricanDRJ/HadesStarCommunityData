@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sentencia
 description: W:23 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739291034
+date: 2025-02-11T16:23:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

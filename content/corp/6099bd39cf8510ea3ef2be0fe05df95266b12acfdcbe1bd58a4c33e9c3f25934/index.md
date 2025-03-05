@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​无聊不过
 description: W:9 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1733198436
+date: 2024-12-03T04:00:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1733198436
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (310)|
+| ELO Regular | 1239 🔻  (309)|
 | ELO Competitive | 1270 🔻  (370)|
 | Total Matches | 15 |
 | Wins | 9 |

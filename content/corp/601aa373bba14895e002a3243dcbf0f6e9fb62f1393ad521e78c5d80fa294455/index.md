@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Gathering
 description: W:1 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1703316525
+date: 2023-12-23T07:28:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

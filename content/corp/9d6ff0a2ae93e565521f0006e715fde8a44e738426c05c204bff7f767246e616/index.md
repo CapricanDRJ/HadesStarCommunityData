@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Open Infinity
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1712320278
+date: 2024-04-05T12:31:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

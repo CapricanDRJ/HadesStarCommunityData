@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​USSR
 description: W:2 L:3 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1701973393
+date: 2023-12-07T18:23:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

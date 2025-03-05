@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​风云集团
 description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1728391474
+date: 2024-10-08T12:44:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

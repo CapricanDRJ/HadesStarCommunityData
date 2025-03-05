@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Зелёная корпа
 description: W:4 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1710012656
+date: 2024-03-09T19:30:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

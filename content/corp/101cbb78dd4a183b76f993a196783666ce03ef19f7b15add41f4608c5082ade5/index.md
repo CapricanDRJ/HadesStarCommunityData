@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spacey Bois
 description: W:2 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707272130
+date: 2024-02-07T02:15:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Schnuppenfarm
 description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1730959416
+date: 2024-11-07T06:03:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Phoenix corp
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1713206395
+date: 2024-04-15T18:39:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

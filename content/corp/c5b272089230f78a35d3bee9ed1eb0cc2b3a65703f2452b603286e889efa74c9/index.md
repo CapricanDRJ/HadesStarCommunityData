@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​tropa (BR)
 description: W:7 L:13 D:3 Bonus ❌ 6%
 image: ./favicon.png
-date: 1732190565
+date: 2024-11-21T12:02:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ seja {Brasileiro} e online!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1133 🔺  (1242)|
-| ELO Competitive | 1145 🔺  (1318)|
+| ELO Competitive | 1145 🔺  (1317)|
 | Total Matches | 23 |
 | Wins | 7 |
 | Losses | 13 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Order of Ares
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1701319101
+date: 2023-11-30T04:38:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

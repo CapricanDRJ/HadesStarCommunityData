@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​NERF TOY'S
 description: W:22 L:35 D:2 Bonus ❌ 12%
 image: ./favicon.png
-date: 1731223255
+date: 2024-11-10T07:20:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

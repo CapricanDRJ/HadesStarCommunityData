@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​孤星长城
 description: W:9 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737872952
+date: 2025-01-26T06:29:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Drużyna A
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1723586519
+date: 2024-08-13T22:01:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

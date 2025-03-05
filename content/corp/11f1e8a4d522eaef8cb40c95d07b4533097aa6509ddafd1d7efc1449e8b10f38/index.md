@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SternenStaub
 description: W:26 L:41 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740702516
+date: 2025-02-28T00:28:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ Wir haben Spaß zusammen.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1069 🔻  (1380)|
+| ELO Regular | 1069 🔻  (1379)|
 | ELO Competitive | 1156 🔻  (1269)|
 | Total Matches | 67 |
 | Wins | 26 |

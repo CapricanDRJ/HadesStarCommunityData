@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​WFOS
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1718489572
+date: 2024-06-15T22:12:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

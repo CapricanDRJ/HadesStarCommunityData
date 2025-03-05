@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Aggronauten
 description: W:0 L:4 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1730303722
+date: 2024-10-30T15:55:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ Kommunikation über <b>Discord</b>:
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1119)|
+| ELO Regular | 1157 🔻  (1118)|
 | ELO Competitive | 1162 🔻  (1225)|
 | Total Matches | 4 |
 | Wins | 0 |

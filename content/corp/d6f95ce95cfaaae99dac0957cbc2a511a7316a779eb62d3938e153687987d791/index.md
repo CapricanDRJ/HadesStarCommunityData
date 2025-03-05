@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cygnus X-1
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1705551985
+date: 2024-01-18T04:26:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

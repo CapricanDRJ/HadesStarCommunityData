@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​империя тьмы
 description: W:20 L:31 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1730203658
+date: 2024-10-29T12:07:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1730203658
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1315)|
-| ELO Competitive | 1251 🔻  (425)|
+| ELO Competitive | 1251 🔻  (426)|
 | Total Matches | 54 |
 | Wins | 20 |
 | Losses | 31 |

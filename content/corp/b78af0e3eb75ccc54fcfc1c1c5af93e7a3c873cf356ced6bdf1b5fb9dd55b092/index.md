@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​КАЧАМБА
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1728573306
+date: 2024-10-10T15:15:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OntarioDiligent
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707781355
+date: 2024-02-12T23:42:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

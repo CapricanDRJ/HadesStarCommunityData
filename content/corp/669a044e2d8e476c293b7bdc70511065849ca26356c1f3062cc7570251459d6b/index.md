@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rzeczypospolita
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1730511060
+date: 2024-11-02T01:31:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

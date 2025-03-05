@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Неизбежный Рок
 description: W:109 L:37 D:1 Bonus ✅ 50%
 image: ./favicon.png
-date: 1741084401
+date: 2025-03-04T10:33:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

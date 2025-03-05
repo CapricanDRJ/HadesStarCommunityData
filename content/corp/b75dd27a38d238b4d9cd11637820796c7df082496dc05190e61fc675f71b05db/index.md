@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Starships
 description: W:4 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740938104
+date: 2025-03-02T17:55:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740938104
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (303)|
+| ELO Regular | 1241 🔺  (302)|
 | ELO Competitive | 1262 🔺  (394)|
 | Total Matches | 5 |
 | Wins | 4 |

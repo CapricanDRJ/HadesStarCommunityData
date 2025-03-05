@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Omega Nation
 description: W:0 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1725116439
+date: 2024-08-31T15:00:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

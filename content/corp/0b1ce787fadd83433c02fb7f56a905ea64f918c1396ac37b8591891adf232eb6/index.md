@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Kelebra
-description: W:23 L:25 D:1 Bonus ❌ 7%
+description: W:24 L:25 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740408291
+date: 2025-03-04T22:55:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +16,18 @@ date: 1740408291
 хід на білу зірку ви отримаєте +26% до артефактів. В чаті спілкування
  українською мовою.
 ```
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (404)|
-| ELO Competitive | 1329 🔺  (243)|
-| Total Matches | 49 |
-| Wins | 23 |
+| ELO Regular | 1226 🔺  (361)|
+| ELO Competitive | 1337 🔺  (232)|
+| Total Matches | 50 |
+| Wins | 24 |
 | Losses | 25 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 3 |
 
 ---
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739976291,1739315503,1738660698,1738023918,1737401892,1736892213,1736362618,1735894090,1735445181,1734942506,1734498713,1733667907,1733222697,1732769140,1732309969,1732306362,1731873668,1731396174,1730894900,1730841744,1730401512,1729967592,1729533981,1729097624,1728663010,1728229659,1728226991,1727793594,1727358466,1726925764,1726491047,1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
+        let timestamps = [1740696919,1739976291,1739315503,1738660698,1738023918,1737401892,1736892213,1736362618,1735894090,1735445181,1734942506,1734498713,1733667907,1733222697,1732769140,1732309969,1732306362,1731873668,1731396174,1730894900,1730841744,1730401512,1729967592,1729533981,1729097624,1728663010,1728229659,1728226991,1727793594,1727358466,1726925764,1726491047,1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/04 | 12-4 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2025/02/24 | 14-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2025/02/16 | 15-3 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2025/02/09 | 10-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |

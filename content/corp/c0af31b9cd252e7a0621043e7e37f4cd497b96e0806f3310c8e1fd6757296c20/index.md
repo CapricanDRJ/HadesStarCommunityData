@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Wacky Wabbits
 description: W:2 L:5 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1738324293
+date: 2025-01-31T11:51:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

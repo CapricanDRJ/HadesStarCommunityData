@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Oficina Tuga
 description: W:9 L:27 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1731686641
+date: 2024-11-15T16:04:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

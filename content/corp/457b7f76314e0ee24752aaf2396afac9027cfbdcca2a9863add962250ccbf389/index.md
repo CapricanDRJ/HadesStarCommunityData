@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Лунный Феникс
 description: W:53 L:29 D:2 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740848254
+date: 2025-03-01T16:57:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

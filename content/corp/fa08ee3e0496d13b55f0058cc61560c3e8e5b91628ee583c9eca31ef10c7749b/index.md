@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​C'est pas faux!
 description: W:3 L:6 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740216874
+date: 2025-02-22T09:34:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

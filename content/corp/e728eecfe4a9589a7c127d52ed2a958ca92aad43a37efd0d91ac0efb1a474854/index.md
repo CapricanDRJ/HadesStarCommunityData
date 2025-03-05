@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hun Avengers
 description: W:12 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1709658385
+date: 2024-03-05T17:06:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (884)|
-| ELO Competitive | 1288 🔻  (328)|
+| ELO Competitive | 1288 🔻  (327)|
 | Total Matches | 25 |
 | Wins | 12 |
 | Losses | 13 |

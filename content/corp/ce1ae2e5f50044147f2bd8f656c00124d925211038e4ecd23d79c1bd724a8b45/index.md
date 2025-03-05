@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SNSS
 description: W:2 L:9 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1732728744
+date: 2024-11-27T17:32:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Prosperity
 description: W:2 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740072935
+date: 2025-02-20T17:35:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

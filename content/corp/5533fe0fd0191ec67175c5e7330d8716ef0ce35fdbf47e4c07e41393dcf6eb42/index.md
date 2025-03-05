@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​MiddleOfNowhere
 description: W:4 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1740738268
+date: 2025-02-28T10:24:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (314)|
+| ELO Regular | 1239 🔺  (313)|
 | ELO Competitive | 1266 🔺  (384)|
 | Total Matches | 5 |
 | Wins | 4 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nodens Provisio
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1724029522
+date: 2024-08-19T01:05:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

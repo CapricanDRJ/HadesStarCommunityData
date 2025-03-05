@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Round Table 
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1704086180
+date: 2024-01-01T05:16:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

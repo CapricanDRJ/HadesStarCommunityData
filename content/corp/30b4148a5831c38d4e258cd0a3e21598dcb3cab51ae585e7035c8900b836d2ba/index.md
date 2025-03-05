@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BrbroZ
 description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736304458
+date: 2025-01-08T02:47:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​NoweUkladyII
 description: W:13 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1723854877
+date: 2024-08-17T00:34:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

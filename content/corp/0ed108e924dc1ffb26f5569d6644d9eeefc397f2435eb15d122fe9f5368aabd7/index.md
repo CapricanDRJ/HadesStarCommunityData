@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ночные Львы
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1699435232
+date: 2023-11-08T09:20:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

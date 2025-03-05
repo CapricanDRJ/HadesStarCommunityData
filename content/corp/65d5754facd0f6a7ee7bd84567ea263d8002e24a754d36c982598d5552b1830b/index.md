@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星约组织：基地分团
 description: W:1 L:9 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1740128828
+date: 2025-02-21T09:07:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

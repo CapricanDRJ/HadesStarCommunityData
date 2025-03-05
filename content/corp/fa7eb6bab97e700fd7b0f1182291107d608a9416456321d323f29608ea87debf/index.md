@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Void Nebula
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1701972491
+date: 2023-12-07T18:08:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ Anyone is Welcome to the Void Nebula
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1126)|
+| ELO Regular | 1156 🔻  (1125)|
 | ELO Competitive | 1156 🔻  (1264)|
 | Total Matches | 3 |
 | Wins | 0 |

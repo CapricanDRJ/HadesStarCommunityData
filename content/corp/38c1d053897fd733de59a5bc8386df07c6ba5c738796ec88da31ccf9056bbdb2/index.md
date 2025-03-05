@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​knights abyss
 description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1712311014
+date: 2024-04-05T09:56:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

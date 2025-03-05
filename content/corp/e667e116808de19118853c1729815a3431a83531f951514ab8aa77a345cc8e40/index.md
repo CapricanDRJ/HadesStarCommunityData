@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Highlife
 description: W:24 L:41 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740750893
+date: 2025-02-28T13:54:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

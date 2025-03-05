@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bund von Lykon
 description: W:2 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739623395
+date: 2025-02-15T12:43:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

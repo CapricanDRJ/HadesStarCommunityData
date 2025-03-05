@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​༺༽ʚ天轮间ɞ༼༻
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1720002495
+date: 2024-07-03T10:28:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

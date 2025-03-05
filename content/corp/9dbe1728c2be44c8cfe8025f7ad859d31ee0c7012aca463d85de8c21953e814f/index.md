@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星域 
 description: W:6 L:9 D:0 Bonus ✅ 30%
 image: ./favicon.png
-date: 1741081802
+date: 2025-03-04T09:50:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

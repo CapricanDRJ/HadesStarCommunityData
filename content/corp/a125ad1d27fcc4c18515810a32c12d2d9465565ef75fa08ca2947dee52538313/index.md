@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rocket-by Baby
 description: W:0 L:6 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1706328517
+date: 2024-01-27T04:08:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

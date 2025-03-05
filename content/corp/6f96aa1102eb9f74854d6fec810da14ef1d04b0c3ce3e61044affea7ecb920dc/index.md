@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​северный шторм
 description: W:12 L:13 D:1 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740983782
+date: 2025-03-03T06:36:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ date: 1740983782
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (298)|
-| ELO Competitive | 1283 🔺  (341)|
+| ELO Regular | 1242 🔺  (297)|
+| ELO Competitive | 1283 🔺  (340)|
 | Total Matches | 26 |
 | Wins | 12 |
 | Losses | 13 |

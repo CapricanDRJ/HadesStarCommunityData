@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Die pösn Purchn
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1716150402
+date: 2024-05-19T20:26:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

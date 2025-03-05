@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Killer Shadow
 description: W:2 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1708469944
+date: 2024-02-20T22:59:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

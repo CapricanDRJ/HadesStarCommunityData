@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gastro
 description: W:4 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738748923
+date: 2025-02-05T09:48:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

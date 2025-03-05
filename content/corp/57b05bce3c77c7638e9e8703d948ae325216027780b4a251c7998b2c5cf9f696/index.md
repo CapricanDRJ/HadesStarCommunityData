@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Celtic Empire 2
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1715128283
+date: 2024-05-08T00:31:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

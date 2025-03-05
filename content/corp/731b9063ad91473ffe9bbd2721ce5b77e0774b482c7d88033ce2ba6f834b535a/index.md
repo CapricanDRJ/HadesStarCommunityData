@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​pérola negra 
 description: W:0 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1737115331
+date: 2025-01-17T12:02:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

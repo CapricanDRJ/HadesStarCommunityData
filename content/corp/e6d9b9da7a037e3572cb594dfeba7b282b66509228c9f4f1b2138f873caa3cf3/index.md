@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​萌新港(大佬港)
 description: W:21 L:34 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738066765
+date: 2025-01-28T12:19:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

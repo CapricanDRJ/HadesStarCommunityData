@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BrazilCorp.
 description: W:53 L:12 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740744279
+date: 2025-02-28T12:04:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

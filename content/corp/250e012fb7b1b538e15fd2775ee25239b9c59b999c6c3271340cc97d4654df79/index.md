@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​italian warrior
 description: W:33 L:43 D:3 Bonus ✅ 44%
 image: ./favicon.png
-date: 1740691098
+date: 2025-02-27T21:18:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

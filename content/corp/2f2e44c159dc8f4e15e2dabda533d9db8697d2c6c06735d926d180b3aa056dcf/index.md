@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Angel Dragon
 description: W:14 L:14 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738955672
+date: 2025-02-07T19:14:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ do a weekly White Star and we have a Active player base!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (383)|
+| ELO Regular | 1219 🔻  (385)|
 | ELO Competitive | 1265 🔻  (387)|
 | Total Matches | 30 |
 | Wins | 14 |

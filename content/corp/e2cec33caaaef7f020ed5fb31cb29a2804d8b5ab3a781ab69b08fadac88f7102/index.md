@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​避难所
 description: W:10 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1722404657
+date: 2024-07-31T05:44:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ date: 1722404657
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (302)|
-| ELO Competitive | 1291 🔺  (319)|
+| ELO Regular | 1241 🔺  (301)|
+| ELO Competitive | 1291 🔺  (317)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 8 |

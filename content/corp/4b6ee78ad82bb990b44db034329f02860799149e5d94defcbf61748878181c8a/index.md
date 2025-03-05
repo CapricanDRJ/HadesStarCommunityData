@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​wyvern
 description: W:3 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1735837820
+date: 2025-01-02T17:10:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

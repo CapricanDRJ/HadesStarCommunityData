@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TUSFO星舰第二联邦
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1722686194
+date: 2024-08-03T11:56:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

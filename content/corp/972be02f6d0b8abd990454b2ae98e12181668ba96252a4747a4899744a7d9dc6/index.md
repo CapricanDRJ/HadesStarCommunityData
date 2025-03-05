@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Новички
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740316940
+date: 2025-02-23T13:22:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

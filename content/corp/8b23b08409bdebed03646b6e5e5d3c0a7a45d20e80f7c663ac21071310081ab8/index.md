@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BR Gear
 description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1715217779
+date: 2024-05-09T01:22:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

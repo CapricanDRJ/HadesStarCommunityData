@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Pirate
 description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1732424959
+date: 2024-11-24T05:09:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

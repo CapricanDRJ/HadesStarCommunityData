@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Венерский Союз
 description: W:5 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716019102
+date: 2024-05-18T07:58:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

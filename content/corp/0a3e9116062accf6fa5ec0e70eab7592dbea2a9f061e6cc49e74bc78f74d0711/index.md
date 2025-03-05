@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Justice Vengers
 description: W:37 L:12 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740672165
+date: 2025-02-27T16:02:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

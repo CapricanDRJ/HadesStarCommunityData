@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Медведи
 description: W:36 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1716552700
+date: 2024-05-24T12:11:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

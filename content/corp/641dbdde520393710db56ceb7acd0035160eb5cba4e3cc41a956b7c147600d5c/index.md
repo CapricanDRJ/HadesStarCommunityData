@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​StarFun
 description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1738244961
+date: 2025-01-30T13:49:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

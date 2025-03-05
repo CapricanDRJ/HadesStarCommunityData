@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Axiom
 description: W:88 L:39 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1734901291
+date: 2024-12-22T21:01:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,8 +22,8 @@ https://discord.gg/CY4M2awSgS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (272)|
-| ELO Competitive | 1539 🔺  (49)|
+| ELO Regular | 1250 🔺  (271)|
+| ELO Competitive | 1539 🔺  (50)|
 | Total Matches | 127 |
 | Wins | 88 |
 | Losses | 39 |

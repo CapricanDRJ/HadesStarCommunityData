@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Red Dwarves
 description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1734051227
+date: 2024-12-13T00:53:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

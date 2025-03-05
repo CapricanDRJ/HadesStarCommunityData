@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Void
 description: W:13 L:20 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740530330
+date: 2025-02-26T00:38:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

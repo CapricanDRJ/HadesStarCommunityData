@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Гарри Поттер
 description: W:7 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1712226828
+date: 2024-04-04T10:33:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

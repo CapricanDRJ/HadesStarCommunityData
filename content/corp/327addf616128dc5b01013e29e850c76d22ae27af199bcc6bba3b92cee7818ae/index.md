@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​以太超星团
 description: W:3 L:27 D:6 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740711528
+date: 2025-02-28T02:58:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

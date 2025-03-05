@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Team Elite
 description: W:1 L:2 D:1 Bonus ❌ 14%
 image: ./favicon.png
-date: 1710273158
+date: 2024-03-12T19:52:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

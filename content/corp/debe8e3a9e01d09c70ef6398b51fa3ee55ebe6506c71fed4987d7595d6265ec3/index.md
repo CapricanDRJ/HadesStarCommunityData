@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CORP GHOST 
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725454801
+date: 2024-09-04T13:00:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ OR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (402)|
+| ELO Regular | 1217 🔺  (404)|
 | ELO Competitive | 1217 🔺  (550)|
 | Total Matches | 1 |
 | Wins | 1 |

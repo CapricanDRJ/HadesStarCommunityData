@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Castellón 
 description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725305154
+date: 2024-09-02T19:25:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

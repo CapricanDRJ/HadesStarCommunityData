@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Z. O. V. 
 description: W:41 L:16 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741079633
+date: 2025-03-04T09:13:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

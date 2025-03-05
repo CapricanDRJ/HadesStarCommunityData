@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Foundation
 description: W:14 L:4 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1741057703
+date: 2025-03-04T03:08:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ated to helping new players grow. Discord recommended for White Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (135)|
+| ELO Regular | 1325 🔻  (136)|
 | ELO Competitive | 1363 🔻  (192)|
 | Total Matches | 19 |
 | Wins | 14 |

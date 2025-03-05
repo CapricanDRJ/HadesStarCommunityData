@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​universe leader
 description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1710829328
+date: 2024-03-19T06:22:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ DISCORD PARA PARTICIPAR EN EB"
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1251)|
-| ELO Competitive | 1148 🔻  (1303)|
+| ELO Competitive | 1148 🔻  (1302)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

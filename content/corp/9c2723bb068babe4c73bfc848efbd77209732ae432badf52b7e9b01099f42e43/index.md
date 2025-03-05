@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Drones
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1732766810
+date: 2024-11-28T04:06:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

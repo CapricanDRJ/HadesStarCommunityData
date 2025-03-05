@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Russian Style
 description: W:3 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1735200294
+date: 2024-12-26T08:04:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1735200294
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1205)|
-| ELO Competitive | 1146 🔻  (1310)|
+| ELO Competitive | 1146 🔻  (1309)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 8 |

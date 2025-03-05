@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​C.C Legion
 description: W:5 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1706036411
+date: 2024-01-23T19:00:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

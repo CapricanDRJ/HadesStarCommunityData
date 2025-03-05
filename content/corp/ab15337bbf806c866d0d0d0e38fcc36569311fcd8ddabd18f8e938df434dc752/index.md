@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Mecha Armada
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1705425169
+date: 2024-01-16T17:12:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Requirement: Active and have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (407)|
+| ELO Regular | 1216 🔺  (408)|
 | ELO Competitive | 1216 🔺  (561)|
 | Total Matches | 3 |
 | Wins | 2 |

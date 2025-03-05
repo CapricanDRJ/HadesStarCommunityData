@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Rangers
 description: W:17 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1711927857
+date: 2024-03-31T23:30:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

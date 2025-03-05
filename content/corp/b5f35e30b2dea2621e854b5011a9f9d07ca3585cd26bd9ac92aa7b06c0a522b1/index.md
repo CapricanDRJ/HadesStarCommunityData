@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​德意志第三帝国奥米加分部
 description: W:12 L:12 D:3 Bonus ❌ 6%
 image: ./favicon.png
-date: 1730792639
+date: 2024-11-05T07:43:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ date: 1730792639
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (322)|
+| ELO Regular | 1238 🔺  (321)|
 | ELO Competitive | 1263 🔺  (392)|
 | Total Matches | 27 |
 | Wins | 12 |

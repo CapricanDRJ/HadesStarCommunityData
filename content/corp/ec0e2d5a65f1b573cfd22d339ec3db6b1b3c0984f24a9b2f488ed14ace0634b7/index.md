@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Imperio Nova
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1719990476
+date: 2024-07-03T07:07:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1719990476
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1144)|
+| ELO Regular | 1153 🔻  (1143)|
 | ELO Competitive | 1158 🔻  (1257)|
 | Total Matches | 3 |
 | Wins | 0 |

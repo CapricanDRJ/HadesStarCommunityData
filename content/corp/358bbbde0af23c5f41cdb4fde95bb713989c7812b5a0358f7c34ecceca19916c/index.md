@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cyber Star
 description: W:27 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1733084238
+date: 2024-12-01T20:17:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

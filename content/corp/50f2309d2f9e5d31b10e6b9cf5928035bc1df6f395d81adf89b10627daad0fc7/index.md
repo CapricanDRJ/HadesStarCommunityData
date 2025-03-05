@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Legión
 description: W:9 L:9 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740740672
+date: 2025-02-28T11:04:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (306)|
-| ELO Competitive | 1288 🔺  (327)|
+| ELO Regular | 1240 🔺  (305)|
+| ELO Competitive | 1288 🔺  (326)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 9 |

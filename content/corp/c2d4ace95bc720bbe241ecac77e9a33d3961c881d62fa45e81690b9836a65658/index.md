@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​青丘湖
 description: W:9 L:5 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740959746
+date: 2025-03-02T23:55:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,7 +29,7 @@ date: 1740959746
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (245)|
-| ELO Competitive | 1286 🔺  (336)|
+| ELO Competitive | 1286 🔺  (335)|
 | Total Matches | 14 |
 | Wins | 9 |
 | Losses | 5 |

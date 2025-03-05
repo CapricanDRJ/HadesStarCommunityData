@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Final
 description: W:4 L:14 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1737472366
+date: 2025-01-21T15:12:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

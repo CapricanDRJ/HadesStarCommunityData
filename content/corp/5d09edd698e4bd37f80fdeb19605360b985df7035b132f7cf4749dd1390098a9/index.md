@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lupus Regnum
 description: W:15 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740765620
+date: 2025-02-28T18:00:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

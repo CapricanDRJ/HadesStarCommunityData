@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​space port
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1699123369
+date: 2023-11-04T18:42:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

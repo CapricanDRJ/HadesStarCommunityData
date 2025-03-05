@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DarkMoon
 description: W:24 L:11 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740551059
+date: 2025-02-26T06:24:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

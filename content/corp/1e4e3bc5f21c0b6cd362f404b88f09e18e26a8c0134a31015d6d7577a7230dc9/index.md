@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​АНДРОМЕДА 
 description: W:40 L:77 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740793120
+date: 2025-03-01T01:38:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

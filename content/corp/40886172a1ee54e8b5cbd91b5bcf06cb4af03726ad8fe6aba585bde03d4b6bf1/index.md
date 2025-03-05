@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​M4-Valhalla
 description: W:0 L:9 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1736424074
+date: 2025-01-09T12:01:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

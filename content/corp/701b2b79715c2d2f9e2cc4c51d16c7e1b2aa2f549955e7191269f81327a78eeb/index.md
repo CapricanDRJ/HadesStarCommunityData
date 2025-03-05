@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星环-星际联盟
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1701407467
+date: 2023-12-01T05:11:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

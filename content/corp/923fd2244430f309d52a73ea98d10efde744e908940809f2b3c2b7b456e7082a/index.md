@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​27rus
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1704707842
+date: 2024-01-08T09:57:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

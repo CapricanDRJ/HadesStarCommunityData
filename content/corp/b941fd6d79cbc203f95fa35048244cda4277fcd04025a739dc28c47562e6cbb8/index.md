@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galactic Empire
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1715922666
+date: 2024-05-17T05:11:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

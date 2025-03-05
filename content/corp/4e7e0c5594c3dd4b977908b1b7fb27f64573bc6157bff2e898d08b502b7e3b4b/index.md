@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Interstellar
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1710365404
+date: 2024-03-13T21:30:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

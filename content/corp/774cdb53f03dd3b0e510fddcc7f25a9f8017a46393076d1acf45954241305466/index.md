@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Brodudes Inc.
 description: W:80 L:23 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740842243
+date: 2025-03-01T15:17:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

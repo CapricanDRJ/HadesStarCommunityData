@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​jatnniel 团队
 description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1726828977
+date: 2024-09-20T10:42:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1726828977
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (354)|
-| ELO Competitive | 1239 🔻  (459)|
+| ELO Regular | 1228 🔻  (355)|
+| ELO Competitive | 1239 🔻  (460)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

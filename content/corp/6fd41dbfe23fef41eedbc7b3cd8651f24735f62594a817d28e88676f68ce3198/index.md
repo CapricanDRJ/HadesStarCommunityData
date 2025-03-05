@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Toxic
 description: W:1 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1706031300
+date: 2024-01-23T17:35:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

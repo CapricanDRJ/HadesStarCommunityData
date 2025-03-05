@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Soylent Corp.
 description: W:26 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1727889033
+date: 2024-10-02T17:10:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

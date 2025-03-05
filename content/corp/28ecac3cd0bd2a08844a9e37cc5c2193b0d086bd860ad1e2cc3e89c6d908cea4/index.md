@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Империя
 description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1701183247
+date: 2023-11-28T14:54:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

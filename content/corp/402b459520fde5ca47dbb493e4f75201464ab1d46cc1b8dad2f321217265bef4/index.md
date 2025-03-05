@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bow Down
 description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1741062544
+date: 2025-03-04T04:29:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1741062544
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔻  (334)|
-| ELO Competitive | 1245 🔻  (440)|
+| ELO Competitive | 1245 🔻  (441)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

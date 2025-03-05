@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Unit
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1728825426
+date: 2024-10-13T13:17:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

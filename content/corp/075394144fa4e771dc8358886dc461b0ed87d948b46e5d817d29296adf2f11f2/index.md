@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СНГ — РОССИЯ
 description: W:6 L:9 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739936805
+date: 2025-02-19T03:46:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

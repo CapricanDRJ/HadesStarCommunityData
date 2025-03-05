@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ul'Adri
 description: W:10 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1713796231
+date: 2024-04-22T14:30:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

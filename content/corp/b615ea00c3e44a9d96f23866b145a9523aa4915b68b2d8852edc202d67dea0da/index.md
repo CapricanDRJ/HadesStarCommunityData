@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Southall 1
 description: W:2 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1732124154
+date: 2024-11-20T17:35:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

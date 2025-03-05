@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​kryptonium
 description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736783840
+date: 2025-01-13T15:57:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1736783840
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔺  (330)|
-| ELO Competitive | 1241 🔺  (456)|
+| ELO Competitive | 1241 🔺  (457)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

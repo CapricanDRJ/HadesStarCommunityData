@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ophelia VII
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1724504942
+date: 2024-08-24T13:09:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

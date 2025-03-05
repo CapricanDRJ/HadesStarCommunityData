@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Titan Inc.
 description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1702798749
+date: 2023-12-17T07:39:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lololol
 description: W:4 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1741053197
+date: 2025-03-04T01:53:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1741053197
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (403)|
+| ELO Regular | 1217 🔺  (405)|
 | ELO Competitive | 1229 🔺  (495)|
 | Total Matches | 7 |
 | Wins | 4 |

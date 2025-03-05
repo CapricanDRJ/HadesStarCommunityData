@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rogue Corp
 description: W:1 L:23 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740206959
+date: 2025-02-22T06:49:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

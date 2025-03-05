@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BlackDawn
 description: W:1 L:37 D:16 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740504892
+date: 2025-02-25T17:34:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

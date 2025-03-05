@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ascalon
 description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1702446143
+date: 2023-12-13T05:42:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

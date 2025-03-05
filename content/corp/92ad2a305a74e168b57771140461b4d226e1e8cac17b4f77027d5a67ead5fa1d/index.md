@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星光万丈
 description: W:25 L:30 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736166534
+date: 2025-01-06T12:28:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1736166534
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (312)|
+| ELO Regular | 1239 🔻  (311)|
 | ELO Competitive | 1373 🔻  (179)|
 | Total Matches | 56 |
 | Wins | 25 |

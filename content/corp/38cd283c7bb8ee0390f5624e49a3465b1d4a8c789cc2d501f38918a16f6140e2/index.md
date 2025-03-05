@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​[Blue＊Nation]
 description: W:56 L:9 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740812792
+date: 2025-03-01T07:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

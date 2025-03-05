@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中国人民联盟
 description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740930890
+date: 2025-03-02T15:54:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

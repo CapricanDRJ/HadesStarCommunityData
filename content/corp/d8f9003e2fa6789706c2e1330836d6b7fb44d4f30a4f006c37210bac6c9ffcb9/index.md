@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​русский клан 
 description: W:1 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1702538712
+date: 2023-12-14T07:25:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

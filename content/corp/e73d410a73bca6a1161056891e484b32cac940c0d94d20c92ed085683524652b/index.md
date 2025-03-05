@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Polish Pirates
 description: W:24 L:15 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1740806483
+date: 2025-03-01T05:21:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

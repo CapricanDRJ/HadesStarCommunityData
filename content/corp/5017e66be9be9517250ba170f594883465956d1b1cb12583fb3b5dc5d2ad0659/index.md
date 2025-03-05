@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Omega Aboration
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1705194382
+date: 2024-01-14T01:06:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SONS OF SUNS
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1730452430
+date: 2024-11-01T09:13:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ we are actively recruiting, if you dont play- you dont stay)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1192)|
-| ELO Competitive | 1144 🔻  (1321)|
+| ELO Competitive | 1144 🔻  (1320)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

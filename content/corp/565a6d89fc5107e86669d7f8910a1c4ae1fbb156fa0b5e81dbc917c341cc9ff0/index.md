@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​落雨观花
 description: W:18 L:15 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736436405
+date: 2025-01-09T15:26:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

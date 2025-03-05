@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​두빛나래
 description: W:11 L:19 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1723938121
+date: 2024-08-17T23:42:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

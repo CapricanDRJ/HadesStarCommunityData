@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Solysis
 description: W:3 L:7 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1718968140
+date: 2024-06-21T11:09:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ Find us on Discord: <b>EEpZuWf</b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1226)|
-| ELO Competitive | 1150 🔻  (1297)|
+| ELO Competitive | 1150 🔻  (1296)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

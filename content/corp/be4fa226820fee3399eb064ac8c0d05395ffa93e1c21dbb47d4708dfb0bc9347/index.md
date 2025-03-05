@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Рейнджеры
 description: W:7 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738483258
+date: 2025-02-02T08:00:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

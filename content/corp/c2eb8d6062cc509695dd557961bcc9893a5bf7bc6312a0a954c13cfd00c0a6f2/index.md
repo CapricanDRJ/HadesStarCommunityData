@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Orion France
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1708816660
+date: 2024-02-24T23:17:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

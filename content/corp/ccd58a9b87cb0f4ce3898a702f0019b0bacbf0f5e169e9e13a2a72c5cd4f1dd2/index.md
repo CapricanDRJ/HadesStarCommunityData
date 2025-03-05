@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SPACECOWBOYS
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1709290891
+date: 2024-03-01T11:01:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

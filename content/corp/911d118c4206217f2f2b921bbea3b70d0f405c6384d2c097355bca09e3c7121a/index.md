@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rogue One Squad
 description: W:0 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1736345327
+date: 2025-01-08T14:08:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

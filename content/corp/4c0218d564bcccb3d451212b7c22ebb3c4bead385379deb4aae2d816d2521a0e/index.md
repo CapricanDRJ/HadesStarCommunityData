@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ 星空漫游者-GR
 description: W:3 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1709177006
+date: 2024-02-29T03:23:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,7 +26,7 @@ QQ群:663677762
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1234 🔺  (336)|
-| ELO Competitive | 1236 🔺  (470)|
+| ELO Competitive | 1236 🔺  (471)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

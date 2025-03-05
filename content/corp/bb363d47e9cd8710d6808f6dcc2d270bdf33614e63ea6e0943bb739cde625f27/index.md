@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Br Stark Corps
 description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1703708620
+date: 2023-12-27T20:23:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

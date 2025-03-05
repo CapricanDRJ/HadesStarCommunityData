@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Stella☆Glow
 description: W:40 L:22 D:1 Bonus ✅ 42%
 image: ./favicon.png
-date: 1741018941
+date: 2025-03-03T16:22:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​遨游星空
 description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1727398932
+date: 2024-09-27T01:02:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

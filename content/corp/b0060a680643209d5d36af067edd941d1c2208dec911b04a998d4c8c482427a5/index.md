@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​神貓聯盟
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1702140793
+date: 2023-12-09T16:53:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

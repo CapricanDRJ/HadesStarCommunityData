@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​边缘世界
 description: W:3 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1706876347
+date: 2024-02-02T12:19:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

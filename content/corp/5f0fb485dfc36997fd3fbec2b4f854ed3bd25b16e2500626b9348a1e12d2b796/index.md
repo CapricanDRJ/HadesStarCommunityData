@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Quantum Web
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1717877900
+date: 2024-06-08T20:18:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

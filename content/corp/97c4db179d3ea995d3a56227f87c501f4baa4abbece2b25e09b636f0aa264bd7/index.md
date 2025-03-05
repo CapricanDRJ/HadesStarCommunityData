@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BoomTech
 description: W:23 L:9 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1726314222
+date: 2024-09-14T11:43:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

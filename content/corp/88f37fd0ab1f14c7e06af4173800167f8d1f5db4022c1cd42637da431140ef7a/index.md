@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TeddisaurusWrex
 description: W:48 L:18 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740524021
+date: 2025-02-25T22:53:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

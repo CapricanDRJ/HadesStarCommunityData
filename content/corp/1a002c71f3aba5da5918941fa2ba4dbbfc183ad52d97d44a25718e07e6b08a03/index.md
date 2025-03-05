@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OntarioDawn
 description: W:57 L:11 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740851259
+date: 2025-03-01T17:47:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

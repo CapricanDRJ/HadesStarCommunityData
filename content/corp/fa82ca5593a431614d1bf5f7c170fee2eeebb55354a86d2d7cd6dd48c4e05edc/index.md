@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Battlestar Fr
 description: W:4 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1716997651
+date: 2024-05-29T15:47:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

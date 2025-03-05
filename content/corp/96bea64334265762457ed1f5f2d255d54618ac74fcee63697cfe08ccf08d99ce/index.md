@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​FreeSpcAlliance
 description: W:3 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1702742189
+date: 2023-12-16T15:56:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

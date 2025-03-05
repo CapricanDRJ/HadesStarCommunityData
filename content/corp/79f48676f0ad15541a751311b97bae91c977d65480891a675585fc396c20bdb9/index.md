@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​初始之音
 description: W:11 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1725023276
+date: 2024-08-30T13:07:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

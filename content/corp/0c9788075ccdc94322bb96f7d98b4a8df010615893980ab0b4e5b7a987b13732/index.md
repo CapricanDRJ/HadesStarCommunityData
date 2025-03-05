@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Aegis Shield
 description: W:2 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1718589338
+date: 2024-06-17T01:55:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

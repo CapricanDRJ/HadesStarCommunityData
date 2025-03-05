@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Duchy Kalladan
 description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1721995289
+date: 2024-07-26T12:01:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

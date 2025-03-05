@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Killer Bees.
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1699354701
+date: 2023-11-07T10:58:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

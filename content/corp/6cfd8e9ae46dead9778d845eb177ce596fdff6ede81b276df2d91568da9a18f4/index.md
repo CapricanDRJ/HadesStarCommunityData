@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​North Star
 description: W:1 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1708707938
+date: 2024-02-23T17:05:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

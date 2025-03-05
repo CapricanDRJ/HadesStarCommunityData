@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Альянс
 description: W:26 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1724593548
+date: 2024-08-25T13:45:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

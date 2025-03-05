@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​LOST PIRATES
 description: W:0 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1702944764
+date: 2023-12-19T00:12:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

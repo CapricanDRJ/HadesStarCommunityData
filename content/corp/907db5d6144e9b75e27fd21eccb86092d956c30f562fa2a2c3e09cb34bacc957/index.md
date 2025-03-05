@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​loveboat
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709390352
+date: 2024-03-02T14:39:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

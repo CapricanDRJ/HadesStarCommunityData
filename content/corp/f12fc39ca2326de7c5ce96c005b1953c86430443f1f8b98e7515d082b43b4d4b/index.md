@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Providence
 description: W:38 L:22 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1740834126
+date: 2025-03-01T13:02:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

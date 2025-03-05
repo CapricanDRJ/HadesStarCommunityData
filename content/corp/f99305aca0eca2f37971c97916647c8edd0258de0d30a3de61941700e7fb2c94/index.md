@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Corvus Ind.
 description: W:30 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1737778897
+date: 2025-01-25T04:21:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

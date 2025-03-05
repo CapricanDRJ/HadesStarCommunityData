@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hades' 420
 description: W:2 L:10 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1736340548
+date: 2025-01-08T12:49:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

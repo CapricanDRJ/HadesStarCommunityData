@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​蓝色星系一号分盟
 description: W:1 L:7 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1726148945
+date: 2024-09-12T13:49:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

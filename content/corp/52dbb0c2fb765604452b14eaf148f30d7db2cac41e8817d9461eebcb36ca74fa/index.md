@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​QSO
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1727002679
+date: 2024-09-22T10:57:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

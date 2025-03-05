@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Любители Пива
 description: W:2 L:19 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1709926722
+date: 2024-03-08T19:38:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

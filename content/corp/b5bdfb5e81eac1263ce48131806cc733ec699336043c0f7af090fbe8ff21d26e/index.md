@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​White Star Inc.
 description: W:3 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1731940255
+date: 2024-11-18T14:30:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

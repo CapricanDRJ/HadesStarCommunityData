@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​NEW HOLLAND
 description: W:1 L:8 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1708785058
+date: 2024-02-24T14:30:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

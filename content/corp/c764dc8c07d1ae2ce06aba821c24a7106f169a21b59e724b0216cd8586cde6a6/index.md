@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​украина№1
 description: W:44 L:48 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1740919165
+date: 2025-03-02T12:39:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

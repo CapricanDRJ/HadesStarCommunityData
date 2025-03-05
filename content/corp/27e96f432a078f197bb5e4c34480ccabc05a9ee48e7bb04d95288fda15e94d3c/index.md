@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Últimafronteira
 description: W:20 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737324814
+date: 2025-01-19T22:13:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

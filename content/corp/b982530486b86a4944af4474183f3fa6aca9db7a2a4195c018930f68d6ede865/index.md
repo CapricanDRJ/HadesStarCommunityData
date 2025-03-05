@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ 边域
 description: W:8 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740365510
+date: 2025-02-24T02:51:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

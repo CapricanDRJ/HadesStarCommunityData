@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sistemaimperial
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1701146101
+date: 2023-11-28T04:35:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

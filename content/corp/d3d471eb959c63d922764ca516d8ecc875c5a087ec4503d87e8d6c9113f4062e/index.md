@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Chaos
 description: W:1 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1740930890
+date: 2025-03-02T15:54:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740930890
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (394)|
+| ELO Regular | 1218 🔺  (396)|
 | ELO Competitive | 1218 🔺  (543)|
 | Total Matches | 2 |
 | Wins | 1 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Sky
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1723759917
+date: 2024-08-15T22:11:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Tortuga Station
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1700952741
+date: 2023-11-25T22:52:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

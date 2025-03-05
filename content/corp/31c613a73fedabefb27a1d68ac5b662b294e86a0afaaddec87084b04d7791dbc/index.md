@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​大舰队がな
 description: W:0 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737979323
+date: 2025-01-27T12:02:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

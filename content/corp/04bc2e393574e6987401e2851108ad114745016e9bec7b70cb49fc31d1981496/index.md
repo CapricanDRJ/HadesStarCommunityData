@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Октябристы
 description: W:67 L:81 D:2 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740544449
+date: 2025-02-26T04:34:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

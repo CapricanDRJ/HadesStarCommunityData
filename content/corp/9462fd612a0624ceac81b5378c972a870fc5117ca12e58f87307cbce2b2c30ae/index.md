@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SkitleStarOrder
 description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1728148067
+date: 2024-10-05T17:07:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ nd do white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (290)|
-| ELO Competitive | 1245 🔺  (441)|
+| ELO Regular | 1244 🔺  (289)|
+| ELO Competitive | 1245 🔺  (442)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​柯伊伯带伊甸园
 description: W:15 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1732661442
+date: 2024-11-26T22:50:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

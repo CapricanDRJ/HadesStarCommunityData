@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​11th Engineers
 description: W:4 L:61 D:8 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740243322
+date: 2025-02-22T16:55:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

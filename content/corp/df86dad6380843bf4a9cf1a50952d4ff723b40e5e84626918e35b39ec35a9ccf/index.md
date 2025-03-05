@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​corporacion I.A
 description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1738990891
+date: 2025-02-08T05:01:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

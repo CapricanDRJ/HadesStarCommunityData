@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Пабеда
 description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707483687
+date: 2024-02-09T13:01:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

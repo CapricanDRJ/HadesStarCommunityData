@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SuperStarGamers
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1704392606
+date: 2024-01-04T18:23:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

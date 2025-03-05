@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lacuna Ind.
 description: W:10 L:33 D:2 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740723245
+date: 2025-02-28T06:14:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

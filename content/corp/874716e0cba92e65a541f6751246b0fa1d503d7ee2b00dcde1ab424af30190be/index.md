@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ༀᅗBAR ESTELARᅗༀ
 description: W:1 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1721628977
+date: 2024-07-22T06:16:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​超越声速
 description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1739615582
+date: 2025-02-15T10:33:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

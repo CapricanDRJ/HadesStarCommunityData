@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dumpster Fire
 description: W:24 L:50 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740601548
+date: 2025-02-26T20:25:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Тартария
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736137390
+date: 2025-01-06T04:23:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

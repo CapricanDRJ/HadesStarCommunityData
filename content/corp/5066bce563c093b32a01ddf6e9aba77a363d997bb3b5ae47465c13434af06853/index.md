@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Les Chevaliers
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1699212259
+date: 2023-11-05T19:24:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Aeternae
 description: W:0 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1714856234
+date: 2024-05-04T20:57:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

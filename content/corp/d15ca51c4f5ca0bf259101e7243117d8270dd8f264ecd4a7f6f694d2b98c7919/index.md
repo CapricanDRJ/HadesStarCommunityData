@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​WSC(no DISCORD)
 description: W:55 L:36 D:8 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740826766
+date: 2025-03-01T10:59:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

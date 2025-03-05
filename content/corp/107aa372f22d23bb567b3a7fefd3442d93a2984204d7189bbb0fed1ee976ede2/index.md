@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星を継ぐもの
 description: W:60 L:31 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740987387
+date: 2025-03-03T07:36:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

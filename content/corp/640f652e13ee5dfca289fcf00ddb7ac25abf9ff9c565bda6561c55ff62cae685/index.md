@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​云深不知处
 description: W:1 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1736982492
+date: 2025-01-15T23:08:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

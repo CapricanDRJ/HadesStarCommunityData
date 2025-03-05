@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sprite
 description: W:28 L:10 D:1 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740668557
+date: 2025-02-27T15:02:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

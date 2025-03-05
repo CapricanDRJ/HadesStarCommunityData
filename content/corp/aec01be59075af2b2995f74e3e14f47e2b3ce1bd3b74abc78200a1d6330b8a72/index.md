@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Corp. Estelar
 description: W:38 L:20 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740860275
+date: 2025-03-01T20:17:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

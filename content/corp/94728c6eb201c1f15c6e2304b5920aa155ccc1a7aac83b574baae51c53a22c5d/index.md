@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galaxians
 description: W:25 L:39 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741120806
+date: 2025-03-04T20:40:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

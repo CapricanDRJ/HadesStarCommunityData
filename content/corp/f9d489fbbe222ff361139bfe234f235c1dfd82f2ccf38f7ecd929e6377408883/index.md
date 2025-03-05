@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​LANCE
 description: W:3 L:8 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1705463338
+date: 2024-01-17T03:48:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

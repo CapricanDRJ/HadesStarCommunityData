@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Berlin
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1719908739
+date: 2024-07-02T08:25:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

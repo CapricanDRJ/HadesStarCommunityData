@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​普罗米修斯
 description: W:8 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738595642
+date: 2025-02-03T15:14:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

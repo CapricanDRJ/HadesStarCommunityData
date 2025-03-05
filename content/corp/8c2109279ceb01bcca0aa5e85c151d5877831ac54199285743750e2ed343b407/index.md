@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​绛紫星
 description: W:35 L:29 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738045131
+date: 2025-01-28T06:18:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

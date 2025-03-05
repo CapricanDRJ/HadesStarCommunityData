@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Феникс 
 description: W:1 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1700256910
+date: 2023-11-17T21:35:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

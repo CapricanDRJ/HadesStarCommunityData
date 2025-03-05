@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Phoenix Nest
 description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1735514726
+date: 2024-12-29T23:25:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Monster AG
 description: W:0 L:3 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1701280029
+date: 2023-11-29T17:47:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Willkommen bei der Monster AG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1113)|
+| ELO Regular | 1158 🔻  (1112)|
 | ELO Competitive | 1158 🔻  (1258)|
 | Total Matches | 3 |
 | Wins | 0 |

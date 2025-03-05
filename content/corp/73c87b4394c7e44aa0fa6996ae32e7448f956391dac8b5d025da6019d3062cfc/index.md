@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The New Light
 description: W:19 L:22 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738738675
+date: 2025-02-05T06:57:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​宇宙生協
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1700537357
+date: 2023-11-21T03:29:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ 墨痕 
 description: W:14 L:25 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1735800557
+date: 2025-01-02T06:49:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1735800557
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1270)|
-| ELO Competitive | 1248 🔺  (434)|
+| ELO Competitive | 1248 🔺  (435)|
 | Total Matches | 39 |
 | Wins | 14 |
 | Losses | 25 |

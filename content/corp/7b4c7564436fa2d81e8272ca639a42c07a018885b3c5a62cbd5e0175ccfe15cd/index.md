@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sekolygen ♤
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1700513339
+date: 2023-11-20T20:48:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

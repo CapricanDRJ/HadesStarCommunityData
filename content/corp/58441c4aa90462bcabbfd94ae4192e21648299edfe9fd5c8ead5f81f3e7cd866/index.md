@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Discovery
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1721694490
+date: 2024-07-23T00:28:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

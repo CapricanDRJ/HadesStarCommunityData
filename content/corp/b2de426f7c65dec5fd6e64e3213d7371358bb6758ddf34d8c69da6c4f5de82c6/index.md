@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hun Generals
 description: W:13 L:81 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740833224
+date: 2025-03-01T12:47:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

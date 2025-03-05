@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star Fleet
 description: W:12 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1726657374
+date: 2024-09-18T11:02:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ mp ws play. White dwarf will be stated every Friday.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (590)|
-| ELO Competitive | 1244 🔺  (445)|
+| ELO Competitive | 1244 🔺  (446)|
 | Total Matches | 31 |
 | Wins | 12 |
 | Losses | 19 |

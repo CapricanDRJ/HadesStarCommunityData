@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​battlesquadron
 description: W:1 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1722109494
+date: 2024-07-27T19:44:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

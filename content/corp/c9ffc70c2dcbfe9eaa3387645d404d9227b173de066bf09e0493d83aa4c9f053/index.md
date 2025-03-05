@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Лютые
 description: W:20 L:11 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1741057703
+date: 2025-03-04T03:08:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

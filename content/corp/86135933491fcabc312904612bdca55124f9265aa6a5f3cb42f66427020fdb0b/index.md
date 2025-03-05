@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Newbs
 description: W:42 L:26 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740987387
+date: 2025-03-03T07:36:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

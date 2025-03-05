@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Marvel
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1700928091
+date: 2023-11-25T16:01:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Tabula Rasa
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1703095931
+date: 2023-12-20T18:12:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

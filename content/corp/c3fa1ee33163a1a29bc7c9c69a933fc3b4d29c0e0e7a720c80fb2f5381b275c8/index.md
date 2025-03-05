@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​МАРСЮКИ
 description: W:46 L:4 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740801976
+date: 2025-03-01T04:06:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

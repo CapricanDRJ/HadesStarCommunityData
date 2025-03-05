@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Capibarius
 description: W:5 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1704570813
+date: 2024-01-06T19:53:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ZN•H2B
 description: W:4 L:9 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1720840648
+date: 2024-07-13T03:17:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1720840648
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1153)|
+| ELO Regular | 1152 🔻  (1152)|
 | ELO Competitive | 1167 🔻  (1187)|
 | Total Matches | 13 |
 | Wins | 4 |

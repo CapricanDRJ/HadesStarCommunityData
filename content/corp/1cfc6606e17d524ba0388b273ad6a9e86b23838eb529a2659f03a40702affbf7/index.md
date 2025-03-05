@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lofty Mountain
 description: W:16 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1736977984
+date: 2025-01-15T21:53:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (76)|
+| ELO Regular | 1380 🔺  (77)|
 | ELO Competitive | 1411 🔺  (147)|
 | Total Matches | 16 |
 | Wins | 16 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Mega Corp
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1726889394
+date: 2024-09-21T03:29:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

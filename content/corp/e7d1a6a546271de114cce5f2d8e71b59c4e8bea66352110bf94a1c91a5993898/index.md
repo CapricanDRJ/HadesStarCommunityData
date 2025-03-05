@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SALTARDIS
 description: W:2 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1706068866
+date: 2024-01-24T04:01:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ This corporation is no longer active.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1138)|
+| ELO Regular | 1154 🔻  (1137)|
 | ELO Competitive | 1169 🔻  (1171)|
 | Total Matches | 8 |
 | Wins | 2 |

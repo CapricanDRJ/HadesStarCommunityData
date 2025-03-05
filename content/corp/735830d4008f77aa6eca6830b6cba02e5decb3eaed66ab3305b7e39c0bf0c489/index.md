@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Slytherin
 description: W:0 L:5 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1732894327
+date: 2024-11-29T15:32:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

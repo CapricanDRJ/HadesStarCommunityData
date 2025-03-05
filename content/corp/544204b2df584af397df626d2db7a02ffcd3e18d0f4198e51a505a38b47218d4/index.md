@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RusCorp
 description: W:0 L:6 D:2 Bonus ❌ 
 image: ./favicon.png
-date: 1740991593
+date: 2025-03-03T08:46:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740991593
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1300)|
-| ELO Competitive | 1142 🔻  (1328)|
+| ELO Competitive | 1142 🔻  (1327)|
 | Total Matches | 8 |
 | Wins | 0 |
 | Losses | 6 |

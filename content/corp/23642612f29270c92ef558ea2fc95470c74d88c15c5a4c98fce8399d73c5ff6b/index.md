@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​GoS Academy
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1699812407
+date: 2023-11-12T18:06:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

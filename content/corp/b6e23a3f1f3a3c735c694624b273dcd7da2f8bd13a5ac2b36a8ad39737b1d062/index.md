@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Omega Alpha
 description: W:49 L:8 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740842243
+date: 2025-03-01T15:17:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

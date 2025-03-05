@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dauntless
 description: W:6 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1717539178
+date: 2024-06-04T22:12:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​붉은늑대
 description: W:44 L:78 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1736958145
+date: 2025-01-15T16:22:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1736958145
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1030 🔻  (1407)|
-| ELO Competitive | 1335 🔻  (235)|
+| ELO Competitive | 1335 🔻  (236)|
 | Total Matches | 123 |
 | Wins | 44 |
 | Losses | 78 |

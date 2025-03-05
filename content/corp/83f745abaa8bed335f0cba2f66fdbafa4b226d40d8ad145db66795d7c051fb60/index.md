@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​德意志第三帝国阿尔法分部
 description: W:3 L:26 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1713436849
+date: 2024-04-18T10:40:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

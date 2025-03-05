@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​一切终将消逝
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1727168157
+date: 2024-09-24T08:55:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

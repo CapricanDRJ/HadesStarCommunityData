@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​lonewolf
 description: W:33 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
-date: 1739831341
+date: 2025-02-17T22:29:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

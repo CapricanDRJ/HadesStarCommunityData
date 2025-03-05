@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Imperio Lie Yan
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1703552345
+date: 2023-12-26T00:59:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

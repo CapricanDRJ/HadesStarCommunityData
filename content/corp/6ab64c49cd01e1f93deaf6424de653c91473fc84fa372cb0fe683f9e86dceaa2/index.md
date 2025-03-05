@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​EMPIRE 
 description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1729536238
+date: 2024-10-21T18:43:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ WEEKLY WS & JOIN DISCORD
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (319)|
-| ELO Competitive | 1243 🔺  (446)|
+| ELO Regular | 1238 🔺  (318)|
+| ELO Competitive | 1243 🔺  (447)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

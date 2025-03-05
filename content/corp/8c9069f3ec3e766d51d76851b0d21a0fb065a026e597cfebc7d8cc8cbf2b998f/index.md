@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TheBasics
 description: W:45 L:80 D:2 Bonus ✅ 38%
 image: ./favicon.png
-date: 1741078431
+date: 2025-03-04T08:53:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

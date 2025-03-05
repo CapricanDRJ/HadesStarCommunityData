@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Empire of Hades
 description: W:12 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1740921269
+date: 2025-03-02T13:14:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

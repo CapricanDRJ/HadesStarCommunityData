@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Danish Oil
 description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1723461506
+date: 2024-08-12T11:18:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

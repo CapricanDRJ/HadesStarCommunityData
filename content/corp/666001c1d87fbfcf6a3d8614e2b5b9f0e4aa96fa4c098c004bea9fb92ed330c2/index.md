@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Equinox
 description: W:10 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1732297253
+date: 2024-11-22T17:40:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

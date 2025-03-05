@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第三舰队
 description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1729596634
+date: 2024-10-22T11:30:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

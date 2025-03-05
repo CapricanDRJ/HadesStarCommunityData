@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Saggitarius A
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1700417643
+date: 2023-11-19T18:14:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Terran empire 
 description: W:4 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740512596
+date: 2025-02-25T19:43:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1740512596
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (299)|
-| ELO Competitive | 1251 🔺  (423)|
+| ELO Regular | 1241 🔺  (298)|
+| ELO Competitive | 1251 🔺  (424)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

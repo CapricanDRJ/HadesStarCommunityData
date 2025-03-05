@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​koalition
 description: W:11 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739805193
+date: 2025-02-17T15:13:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ we are looking for new recruitements!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (410)|
+| ELO Regular | 1216 🔻  (411)|
 | ELO Competitive | 1233 🔻  (478)|
 | Total Matches | 21 |
 | Wins | 11 |

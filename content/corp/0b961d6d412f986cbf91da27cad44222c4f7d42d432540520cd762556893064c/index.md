@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Marine
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1699135307
+date: 2023-11-04T22:01:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​脉冲星际集团
 description: W:29 L:29 D:3 Bonus ❌ 8%
 image: ./favicon.png
-date: 1734483908
+date: 2024-12-18T01:05:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ date: 1734483908
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1137)|
-| ELO Competitive | 1292 🔻  (317)|
+| ELO Regular | 1154 🔻  (1136)|
+| ELO Competitive | 1292 🔻  (315)|
 | Total Matches | 61 |
 | Wins | 29 |
 | Losses | 29 |

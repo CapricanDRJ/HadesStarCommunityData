@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cominters
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1718909844
+date: 2024-06-20T18:57:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

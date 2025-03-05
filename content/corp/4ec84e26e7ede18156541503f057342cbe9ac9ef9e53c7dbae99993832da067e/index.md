@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Legion Prime
 description: W:13 L:16 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1739896542
+date: 2025-02-18T16:35:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

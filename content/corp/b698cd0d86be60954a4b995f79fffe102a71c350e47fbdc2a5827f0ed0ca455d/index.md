@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Stargate Corp
 description: W:72 L:33 D:0 Bonus ✅ 54%
 image: ./favicon.png
-date: 1741001208
+date: 2025-03-03T11:26:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

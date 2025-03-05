@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The X - Files
 description: W:4 L:66 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740772233
+date: 2025-02-28T19:50:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

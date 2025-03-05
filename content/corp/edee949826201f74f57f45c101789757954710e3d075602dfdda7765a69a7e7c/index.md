@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​P!RAT£ SHIP
 description: W:21 L:9 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736794618
+date: 2025-01-13T18:56:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

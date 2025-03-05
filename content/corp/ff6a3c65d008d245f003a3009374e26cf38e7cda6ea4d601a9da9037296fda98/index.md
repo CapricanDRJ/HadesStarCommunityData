@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​YETI Collective
 description: W:22 L:55 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1739964746
+date: 2025-02-19T11:32:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

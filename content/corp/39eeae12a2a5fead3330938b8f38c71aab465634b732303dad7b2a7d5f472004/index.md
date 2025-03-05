@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Север РусКорп
 description: W:37 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740619556
+date: 2025-02-27T01:25:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

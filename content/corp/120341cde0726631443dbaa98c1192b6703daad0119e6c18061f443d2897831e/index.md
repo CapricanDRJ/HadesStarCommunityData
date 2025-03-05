@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​共产主义舰队
 description: W:7 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1708830541
+date: 2024-02-25T03:09:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

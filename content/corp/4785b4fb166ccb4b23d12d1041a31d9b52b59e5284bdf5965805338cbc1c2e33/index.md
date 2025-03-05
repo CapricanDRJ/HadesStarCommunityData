@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BlankBoosters
 description: W:1 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1710067336
+date: 2024-03-10T10:42:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

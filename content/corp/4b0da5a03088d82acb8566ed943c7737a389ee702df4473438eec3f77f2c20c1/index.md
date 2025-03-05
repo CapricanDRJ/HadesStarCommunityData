@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​梨山养老院
 description: W:2 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
-date: 1726810042
+date: 2024-09-20T05:27:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

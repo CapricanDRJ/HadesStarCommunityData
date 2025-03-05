@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ITA 2.0
 description: W:5 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707654185
+date: 2024-02-11T12:23:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ one alle WS.                                  ~Discord OBBLIGATORIO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (308)|
-| ELO Competitive | 1242 🔻  (453)|
+| ELO Regular | 1240 🔻  (307)|
+| ELO Competitive | 1242 🔻  (454)|
 | Total Matches | 7 |
 | Wins | 5 |
 | Losses | 2 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​✨ℛedstar Order«
 description: W:9 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740765620
+date: 2025-02-28T18:00:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740765620
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔻  (218)|
-| ELO Competitive | 1296 🔺  (304)|
+| ELO Competitive | 1296 🔺  (303)|
 | Total Matches | 12 |
 | Wins | 9 |
 | Losses | 3 |

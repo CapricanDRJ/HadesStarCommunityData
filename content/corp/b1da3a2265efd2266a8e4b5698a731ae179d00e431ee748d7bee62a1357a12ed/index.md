@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​＊Alfa y Omega＊
 description: W:29 L:12 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740423926
+date: 2025-02-24T19:05:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

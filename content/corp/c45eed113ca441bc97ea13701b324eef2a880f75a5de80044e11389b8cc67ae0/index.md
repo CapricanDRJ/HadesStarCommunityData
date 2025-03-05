@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​HADE'S BR
 description: W:4 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1738549068
+date: 2025-02-03T02:17:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ a participe de RS e WS, mantenha as atividades e melhorias do sistema
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔺  (230)|
-| ELO Competitive | 1280 🔺  (348)|
+| ELO Competitive | 1280 🔺  (347)|
 | Total Matches | 4 |
 | Wins | 4 |
 | Losses | 0 |

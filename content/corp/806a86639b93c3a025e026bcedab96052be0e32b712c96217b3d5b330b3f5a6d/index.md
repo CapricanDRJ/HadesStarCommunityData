@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OntarioDestiny
 description: W:9 L:19 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1720286777
+date: 2024-07-06T17:26:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​＊ВОИТЕЛИ＊
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1723687188
+date: 2024-08-15T01:59:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

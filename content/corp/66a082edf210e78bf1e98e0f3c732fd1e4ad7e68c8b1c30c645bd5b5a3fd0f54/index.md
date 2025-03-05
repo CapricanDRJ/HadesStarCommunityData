@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lexx
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1703791867
+date: 2023-12-28T19:31:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

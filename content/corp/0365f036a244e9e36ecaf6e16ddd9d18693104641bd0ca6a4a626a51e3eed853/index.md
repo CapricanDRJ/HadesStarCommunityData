@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UsualSuspects
 description: W:0 L:4 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1701567965
+date: 2023-12-03T01:46:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

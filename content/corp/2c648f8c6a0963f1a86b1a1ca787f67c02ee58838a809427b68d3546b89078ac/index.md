@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​华夏联盟
 description: W:8 L:13 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738920498
+date: 2025-02-07T09:28:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

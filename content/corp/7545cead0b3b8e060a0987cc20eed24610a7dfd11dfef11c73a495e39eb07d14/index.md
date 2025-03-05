@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hand of Legion 
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1710084164
+date: 2024-03-10T15:22:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ date: 1710084164
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (291)|
-| ELO Competitive | 1247 🔻  (437)|
+| ELO Regular | 1244 🔻  (290)|
+| ELO Competitive | 1247 🔻  (438)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

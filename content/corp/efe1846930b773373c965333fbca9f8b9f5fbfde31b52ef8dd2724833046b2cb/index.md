@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Syndicated Fed
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1729806110
+date: 2024-10-24T21:41:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Exodus
 description: W:1 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1703087815
+date: 2023-12-20T15:56:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

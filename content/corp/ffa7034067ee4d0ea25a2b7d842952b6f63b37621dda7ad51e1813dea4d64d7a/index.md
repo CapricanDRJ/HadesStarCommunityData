@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dreckiger Rest
 description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1700297178
+date: 2023-11-18T08:46:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

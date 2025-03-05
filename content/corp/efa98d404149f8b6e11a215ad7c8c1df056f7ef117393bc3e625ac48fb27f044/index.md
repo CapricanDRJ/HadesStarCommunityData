@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​鱼的死水潭
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740322050
+date: 2025-02-23T14:47:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​StargateCommand
 description: W:1 L:18 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740891522
+date: 2025-03-02T04:58:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

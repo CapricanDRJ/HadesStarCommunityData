@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Quantum Pioneer
 description: W:4 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740513198
+date: 2025-02-25T19:53:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

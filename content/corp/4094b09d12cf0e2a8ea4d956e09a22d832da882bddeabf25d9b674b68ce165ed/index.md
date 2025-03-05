@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ALPHA SQUADRON
 description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740373737
+date: 2025-02-24T05:08:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1740373737
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (351)|
-| ELO Competitive | 1238 🔺  (464)|
+| ELO Regular | 1229 🔺  (352)|
+| ELO Competitive | 1238 🔺  (465)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

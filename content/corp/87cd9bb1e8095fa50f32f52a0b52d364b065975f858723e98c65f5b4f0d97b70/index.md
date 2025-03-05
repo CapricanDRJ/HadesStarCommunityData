@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TAKE IT DEEP
 description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739612878
+date: 2025-02-15T09:47:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

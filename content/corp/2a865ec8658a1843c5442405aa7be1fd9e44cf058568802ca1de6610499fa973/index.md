@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​神仙'
 description: W:8 L:11 D:3 Bonus ❌ 6%
 image: ./favicon.png
-date: 1710327537
+date: 2024-03-13T10:58:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1710327537
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1147)|
+| ELO Regular | 1153 🔻  (1146)|
 | ELO Competitive | 1198 🔻  (710)|
 | Total Matches | 22 |
 | Wins | 8 |

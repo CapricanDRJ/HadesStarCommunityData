@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Game of Stars
 description: W:13 L:26 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740485535
+date: 2025-02-25T12:12:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ r White Star runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1135)|
+| ELO Regular | 1154 🔻  (1134)|
 | ELO Competitive | 1206 🔻  (639)|
 | Total Matches | 39 |
 | Wins | 13 |

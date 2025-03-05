@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​使命白星
 description: W:15 L:13 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739849066
+date: 2025-02-18T03:24:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

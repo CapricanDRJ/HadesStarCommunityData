@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​蓝星集团
 description: W:14 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735169288
+date: 2024-12-25T23:28:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

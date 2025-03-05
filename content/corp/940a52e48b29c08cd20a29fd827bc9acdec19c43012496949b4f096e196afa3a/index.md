@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Power Rangers
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1719370177
+date: 2024-06-26T02:49:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

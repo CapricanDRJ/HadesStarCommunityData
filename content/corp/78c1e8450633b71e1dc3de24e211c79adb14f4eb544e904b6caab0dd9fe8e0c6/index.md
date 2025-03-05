@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​U.I.H
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1707314198
+date: 2024-02-07T13:56:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ra as forças <color=red>Cerberus</color>. Aceitamos todos.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1130)|
+| ELO Regular | 1155 🔻  (1129)|
 | ELO Competitive | 1155 🔻  (1273)|
 | Total Matches | 3 |
 | Wins | 0 |

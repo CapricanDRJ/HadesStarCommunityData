@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star Dust
 description: W:2 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1703246800
+date: 2023-12-22T12:06:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

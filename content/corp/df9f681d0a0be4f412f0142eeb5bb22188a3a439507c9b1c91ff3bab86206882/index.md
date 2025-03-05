@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​盾牌座UY分团
 description: W:0 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709204477
+date: 2024-02-29T11:01:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -33,7 +32,7 @@ date: 1709204477
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1124)|
+| ELO Regular | 1156 🔻  (1123)|
 | ELO Competitive | 1158 🔻  (1256)|
 | Total Matches | 3 |
 | Wins | 0 |

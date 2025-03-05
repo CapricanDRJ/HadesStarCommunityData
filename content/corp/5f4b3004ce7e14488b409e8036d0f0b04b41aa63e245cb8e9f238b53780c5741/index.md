@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Т Е Н Ь
 description: W:8 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1732950217
+date: 2024-11-30T07:03:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

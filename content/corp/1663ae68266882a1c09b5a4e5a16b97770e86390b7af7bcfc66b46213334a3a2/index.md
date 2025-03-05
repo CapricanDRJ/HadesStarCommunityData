@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hexacropians
 description: W:62 L:15 D:1 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740565782
+date: 2025-02-26T10:29:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ Ngā mihi nui, from NZ (and Aus!)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1438 🔺  (34)|
-| ELO Competitive | 1540 🔺  (47)|
+| ELO Competitive | 1540 🔺  (48)|
 | Total Matches | 78 |
 | Wins | 62 |
 | Losses | 15 |

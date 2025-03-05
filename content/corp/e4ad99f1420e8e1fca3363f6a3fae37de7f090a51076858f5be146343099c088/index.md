@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gemini↕     ☁
 description: W:3 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1720686776
+date: 2024-07-11T08:32:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Starlancer
 description: W:0 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1715051835
+date: 2024-05-07T03:17:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

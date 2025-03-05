@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​cyber_dream
 description: W:4 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1725900738
+date: 2024-09-09T16:52:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

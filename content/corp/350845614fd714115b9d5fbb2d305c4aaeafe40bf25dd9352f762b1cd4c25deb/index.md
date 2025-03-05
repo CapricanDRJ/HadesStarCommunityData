@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​минск
 description: W:0 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1736859626
+date: 2025-01-14T13:00:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

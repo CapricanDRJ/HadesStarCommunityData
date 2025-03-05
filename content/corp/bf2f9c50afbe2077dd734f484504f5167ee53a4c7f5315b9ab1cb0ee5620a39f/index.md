@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nebulae Traders
 description: W:10 L:57 D:4 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740909249
+date: 2025-03-02T09:54:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

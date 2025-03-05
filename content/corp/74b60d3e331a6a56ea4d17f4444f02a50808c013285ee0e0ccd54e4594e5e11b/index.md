@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​русь 
 description: W:86 L:44 D:0 Bonus ✅ 54%
 image: ./favicon.png
-date: 1740802488
+date: 2025-03-01T04:14:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

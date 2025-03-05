@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RedStar Raiding
 description: W:12 L:56 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740939006
+date: 2025-03-02T18:10:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

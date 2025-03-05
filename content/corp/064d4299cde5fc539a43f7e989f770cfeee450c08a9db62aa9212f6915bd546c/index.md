@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​레드썬
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1729169549
+date: 2024-10-17T12:52:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

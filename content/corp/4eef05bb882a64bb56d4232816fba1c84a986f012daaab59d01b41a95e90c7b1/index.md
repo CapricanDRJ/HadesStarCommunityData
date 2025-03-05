@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Shadow Council
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1717815379
+date: 2024-06-08T02:56:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ re.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1110)|
+| ELO Regular | 1158 🔻  (1109)|
 | ELO Competitive | 1167 🔻  (1179)|
 | Total Matches | 3 |
 | Wins | 0 |

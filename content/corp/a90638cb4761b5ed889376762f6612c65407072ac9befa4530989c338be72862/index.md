@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Corp. Luminá
 description: W:17 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
-date: 1740789059
+date: 2025-03-01T00:30:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

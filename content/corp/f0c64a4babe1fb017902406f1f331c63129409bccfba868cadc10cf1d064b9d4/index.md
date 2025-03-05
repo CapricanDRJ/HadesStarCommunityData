@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​AFronteiraFinal
 description: W:28 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739707231
+date: 2025-02-16T12:00:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

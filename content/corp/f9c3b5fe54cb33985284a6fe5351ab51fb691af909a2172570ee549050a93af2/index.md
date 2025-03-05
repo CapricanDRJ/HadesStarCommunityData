@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​STAR TERROR CZ
 description: W:12 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740774637
+date: 2025-02-28T20:30:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

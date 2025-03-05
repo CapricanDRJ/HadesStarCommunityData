@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​R-6 satalite
 description: W:41 L:22 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740941700
+date: 2025-03-02T18:55:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

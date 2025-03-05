@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Titans Pro
 description: W:1 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1716684601
+date: 2024-05-26T00:50:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ete a nuestra corp y se uno más de lo conquistadores estelares
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (392)|
+| ELO Regular | 1218 🔺  (394)|
 | ELO Competitive | 1223 🔺  (519)|
 | Total Matches | 1 |
 | Wins | 1 |

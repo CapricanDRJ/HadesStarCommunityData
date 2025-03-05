@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​First Squad
 description: W:5 L:18 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740346399
+date: 2025-02-23T21:33:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Elite
 description: W:1 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1701360580
+date: 2023-11-30T16:09:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

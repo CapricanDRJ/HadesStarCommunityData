@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galactic Otters
 description: W:1 L:0 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1699193919
+date: 2023-11-05T14:18:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

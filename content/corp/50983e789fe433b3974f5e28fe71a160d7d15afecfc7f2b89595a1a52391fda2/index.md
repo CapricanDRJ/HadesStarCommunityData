@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ITALIA
 description: W:22 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740912854
+date: 2025-03-02T10:54:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

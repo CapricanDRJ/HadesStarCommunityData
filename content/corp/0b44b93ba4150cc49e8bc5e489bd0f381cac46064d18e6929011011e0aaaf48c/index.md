@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RPFD-DNR-RWPB
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1720844854
+date: 2024-07-13T04:27:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

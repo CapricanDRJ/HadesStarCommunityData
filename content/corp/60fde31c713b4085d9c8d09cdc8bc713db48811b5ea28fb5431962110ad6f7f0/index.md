@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星约组织：禁卫之翼
 description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1734583064
+date: 2024-12-19T04:37:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

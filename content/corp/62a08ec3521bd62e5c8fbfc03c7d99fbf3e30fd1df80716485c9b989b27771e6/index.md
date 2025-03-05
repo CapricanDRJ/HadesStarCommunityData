@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Watchers
 description: W:14 L:16 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1737907810
+date: 2025-01-26T16:10:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ WS pilots in the game owe their pedigree to Watchers-I and now we are
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (572)|
-| ELO Competitive | 1287 🔻  (330)|
+| ELO Competitive | 1287 🔻  (329)|
 | Total Matches | 30 |
 | Wins | 14 |
 | Losses | 16 |

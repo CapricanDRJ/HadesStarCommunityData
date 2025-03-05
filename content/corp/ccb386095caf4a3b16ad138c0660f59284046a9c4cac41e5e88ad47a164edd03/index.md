@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dahoam in AT
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1704229726
+date: 2024-01-02T21:08:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

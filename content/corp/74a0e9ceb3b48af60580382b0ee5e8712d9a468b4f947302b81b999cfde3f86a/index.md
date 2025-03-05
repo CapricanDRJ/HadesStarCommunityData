@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СлАвЯнСкИй СоЮз
 description: W:7 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707222843
+date: 2024-02-06T12:34:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1707222843
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (357)|
+| ELO Regular | 1228 🔻  (358)|
 | ELO Competitive | 1231 🔻  (482)|
 | Total Matches | 11 |
 | Wins | 7 |

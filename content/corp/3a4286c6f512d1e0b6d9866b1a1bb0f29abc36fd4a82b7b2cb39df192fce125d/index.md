@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hinterm Mond
 description: W:76 L:52 D:0 Bonus ✅ 54%
 image: ./favicon.png
-date: 1740849155
+date: 2025-03-01T17:12:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

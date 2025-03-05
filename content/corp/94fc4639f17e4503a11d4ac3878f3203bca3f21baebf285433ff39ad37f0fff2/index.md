@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BRASIL STAR
 description: W:47 L:18 D:3 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740356313
+date: 2025-02-24T00:18:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

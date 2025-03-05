@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​美丽新世界
 description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1712643896
+date: 2024-04-09T06:24:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1712643896
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1145)|
+| ELO Regular | 1153 🔻  (1144)|
 | ELO Competitive | 1158 🔻  (1253)|
 | Total Matches | 3 |
 | Wins | 0 |

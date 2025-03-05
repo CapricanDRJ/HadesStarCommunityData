@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​德意志阿尔法帝国
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1722816017
+date: 2024-08-05T00:00:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

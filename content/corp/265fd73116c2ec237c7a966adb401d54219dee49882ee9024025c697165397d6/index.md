@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Utd. Human Fed.
 description: W:41 L:30 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736603525
+date: 2025-01-11T13:52:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

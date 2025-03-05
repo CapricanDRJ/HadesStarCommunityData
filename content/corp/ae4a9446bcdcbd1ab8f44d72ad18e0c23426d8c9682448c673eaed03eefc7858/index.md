@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​/tmp
 description: W:1 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1705511417
+date: 2024-01-17T17:10:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

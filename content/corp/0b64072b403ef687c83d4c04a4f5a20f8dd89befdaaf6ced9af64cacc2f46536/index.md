@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​VENTORMENTA
 description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1706143394
+date: 2024-01-25T00:43:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ s
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (359)|
+| ELO Regular | 1227 🔻  (360)|
 | ELO Competitive | 1227 🔻  (499)|
 | Total Matches | 5 |
 | Wins | 3 |

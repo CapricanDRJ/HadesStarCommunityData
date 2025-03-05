@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Grunthal Gang
 description: W:48 L:33 D:0 Bonus ✅ 54%
 image: ./favicon.png
-date: 1740763516
+date: 2025-02-28T17:25:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

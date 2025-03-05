@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red_Coat_Mafia
 description: W:27 L:34 D:1 Bonus ✅ 46%
 image: ./favicon.png
-date: 1741111488
+date: 2025-03-04T18:04:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ccount inGame to be a member. InGame space is prioritized for running
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (277)|
+| ELO Regular | 1247 🔺  (276)|
 | ELO Competitive | 1355 🔺  (204)|
 | Total Matches | 62 |
 | Wins | 27 |

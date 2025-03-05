@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SpaceCowboys
 description: W:13 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1709316439
+date: 2024-03-01T18:07:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ k below.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (193)|
-| ELO Competitive | 1297 🔻  (303)|
+| ELO Competitive | 1297 🔻  (302)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |

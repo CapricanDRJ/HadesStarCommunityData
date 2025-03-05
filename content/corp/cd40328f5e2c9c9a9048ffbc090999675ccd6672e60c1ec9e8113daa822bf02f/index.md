@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Intari
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1726772074
+date: 2024-09-19T18:54:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

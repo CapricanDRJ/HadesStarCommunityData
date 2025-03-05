@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ukraine
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1727557898
+date: 2024-09-28T21:11:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

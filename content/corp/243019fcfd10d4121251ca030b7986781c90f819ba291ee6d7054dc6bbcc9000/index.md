@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Españoles
 description: W:3 L:4 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1704366457
+date: 2024-01-04T11:07:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

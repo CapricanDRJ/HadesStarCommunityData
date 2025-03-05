@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Aquiles 
 description: W:0 L:5 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1739559694
+date: 2025-02-14T19:01:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

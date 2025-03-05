@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​银星S Stars‘
 description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1728186229
+date: 2024-10-06T03:43:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ date: 1728186229
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (340)|
-| ELO Competitive | 1236 🔻  (469)|
+| ELO Regular | 1231 🔻  (341)|
+| ELO Competitive | 1236 🔻  (470)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

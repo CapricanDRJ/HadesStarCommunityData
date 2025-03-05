@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ironbear Legion
 description: W:26 L:37 D:0 Bonus ✅ 46%
 image: ./favicon.png
-date: 1740769828
+date: 2025-02-28T19:10:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740769828
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (386)|
+| ELO Regular | 1219 🔺  (388)|
 | ELO Competitive | 1324 🔺  (252)|
 | Total Matches | 63 |
 | Wins | 26 |

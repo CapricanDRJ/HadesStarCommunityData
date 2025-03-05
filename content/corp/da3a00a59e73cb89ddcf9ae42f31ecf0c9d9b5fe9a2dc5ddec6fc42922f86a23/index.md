@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Midland Ind.
 description: W:10 L:11 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1722779350
+date: 2024-08-04T13:49:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

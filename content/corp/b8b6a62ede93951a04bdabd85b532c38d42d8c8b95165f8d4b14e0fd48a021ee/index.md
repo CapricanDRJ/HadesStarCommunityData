@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hermitage
 description: W:14 L:12 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739528732
+date: 2025-02-14T10:25:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ Lien: https://discord.gg/gaBKUb5t
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (276)|
+| ELO Regular | 1249 🔻  (275)|
 | ELO Competitive | 1301 🔻  (296)|
 | Total Matches | 27 |
 | Wins | 14 |

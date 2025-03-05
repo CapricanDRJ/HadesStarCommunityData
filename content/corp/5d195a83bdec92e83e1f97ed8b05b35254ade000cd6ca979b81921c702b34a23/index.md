@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​VoidRunners
 description: W:84 L:75 D:1 Bonus ✅ 44%
 image: ./favicon.png
-date: 1740812792
+date: 2025-03-01T07:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

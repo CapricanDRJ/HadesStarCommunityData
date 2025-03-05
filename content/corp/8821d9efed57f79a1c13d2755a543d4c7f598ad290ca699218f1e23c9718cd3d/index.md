@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​小红色太阳
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1723272781
+date: 2024-08-10T06:53:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

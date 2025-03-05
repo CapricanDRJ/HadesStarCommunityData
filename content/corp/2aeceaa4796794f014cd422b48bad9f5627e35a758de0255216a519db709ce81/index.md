@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Order of Hades
 description: W:79 L:33 D:1 Bonus ❌ 15%
 image: ./favicon.png
-date: 1740849155
+date: 2025-03-01T17:12:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

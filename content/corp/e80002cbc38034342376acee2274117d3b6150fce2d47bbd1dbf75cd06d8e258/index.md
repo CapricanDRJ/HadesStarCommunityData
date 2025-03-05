@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OPA
 description: W:53 L:20 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1741093455
+date: 2025-03-04T13:04:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

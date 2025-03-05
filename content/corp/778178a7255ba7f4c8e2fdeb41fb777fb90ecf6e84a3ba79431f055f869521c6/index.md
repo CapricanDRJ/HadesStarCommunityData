@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Crucible 
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707182127
+date: 2024-02-06T01:15:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

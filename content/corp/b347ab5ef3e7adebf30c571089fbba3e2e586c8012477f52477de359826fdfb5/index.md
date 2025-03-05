@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BlackOrca
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1707427495
+date: 2024-02-08T21:24:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

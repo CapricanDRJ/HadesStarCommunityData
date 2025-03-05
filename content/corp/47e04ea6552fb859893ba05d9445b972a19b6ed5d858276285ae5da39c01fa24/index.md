@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Order
 description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1732105819
+date: 2024-11-20T12:30:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

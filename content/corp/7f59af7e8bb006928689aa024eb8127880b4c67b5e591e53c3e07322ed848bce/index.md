@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Legionnaires
 description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1705332614
+date: 2024-01-15T15:30:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

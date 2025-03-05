@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​银星舰队SSF
 description: W:11 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1728369534
+date: 2024-10-08T06:38:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ date: 1728369534
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (320)|
-| ELO Competitive | 1252 🔻  (421)|
+| ELO Regular | 1238 🔻  (319)|
+| ELO Competitive | 1252 🔻  (422)|
 | Total Matches | 17 |
 | Wins | 11 |
 | Losses | 6 |

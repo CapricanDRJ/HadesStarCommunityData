@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ANZAC Warriors
 description: W:20 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
-date: 1738953567
+date: 2025-02-07T18:39:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

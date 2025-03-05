@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ZORG IND
 description: W:30 L:19 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740909249
+date: 2025-03-02T09:54:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ mended, & remember you are expendable, we love you
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (369)|
+| ELO Regular | 1223 🔺  (371)|
 | ELO Competitive | 1359 🔺  (200)|
 | Total Matches | 51 |
 | Wins | 30 |

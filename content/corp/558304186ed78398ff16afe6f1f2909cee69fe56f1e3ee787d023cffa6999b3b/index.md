@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​六大天神.轻歌之影
 description: W:22 L:27 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1725715639
+date: 2024-09-07T13:27:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ date: 1725715639
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1132)|
+| ELO Regular | 1155 🔻  (1131)|
 | ELO Competitive | 1230 🔻  (488)|
 | Total Matches | 49 |
 | Wins | 22 |

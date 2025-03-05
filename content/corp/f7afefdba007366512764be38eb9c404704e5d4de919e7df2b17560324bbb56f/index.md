@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Seperatists
 description: W:15 L:21 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1725597843
+date: 2024-09-06T04:44:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ions to FS1 welcomed. <b> Discord required </b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (1032)|
-| ELO Competitive | 1251 🔻  (422)|
+| ELO Competitive | 1251 🔻  (423)|
 | Total Matches | 36 |
 | Wins | 15 |
 | Losses | 21 |

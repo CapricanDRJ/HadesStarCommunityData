@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OntarioDistrict
 description: W:2 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1701009836
+date: 2023-11-26T14:43:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

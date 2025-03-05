@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​8 русский рейх
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1710967539
+date: 2024-03-20T20:45:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1710967539
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (374)|
+| ELO Regular | 1222 🔺  (376)|
 | ELO Competitive | 1222 🔺  (526)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​欢迎国人
 description: W:7 L:18 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1733633094
+date: 2024-12-08T04:44:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

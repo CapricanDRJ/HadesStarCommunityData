@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RUS
 description: W:23 L:22 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740745481
+date: 2025-02-28T12:24:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ https://t.me/RSeventHS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (270)|
+| ELO Regular | 1251 🔺  (269)|
 | ELO Competitive | 1361 🔺  (196)|
 | Total Matches | 45 |
 | Wins | 23 |

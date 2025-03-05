@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Majapahit
 description: W:6 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1724340507
+date: 2024-08-22T15:28:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

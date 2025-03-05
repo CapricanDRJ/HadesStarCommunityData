@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Riverside
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736519973
+date: 2025-01-10T14:39:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ninth Planet
 description: W:70 L:6 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1741009022
+date: 2025-03-03T13:37:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

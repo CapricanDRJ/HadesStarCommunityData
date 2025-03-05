@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星舰国际
 description: W:7 L:8 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1730956412
+date: 2024-11-07T05:13:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

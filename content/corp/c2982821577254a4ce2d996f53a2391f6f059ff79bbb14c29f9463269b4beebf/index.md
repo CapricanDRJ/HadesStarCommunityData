@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Curiosity + Cat
 description: W:11 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741088045
+date: 2025-03-04T11:34:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

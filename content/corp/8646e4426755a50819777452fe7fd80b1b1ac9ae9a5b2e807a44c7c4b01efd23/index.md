@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第一序列
 description: W:41 L:55 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1739006754
+date: 2025-02-08T09:25:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

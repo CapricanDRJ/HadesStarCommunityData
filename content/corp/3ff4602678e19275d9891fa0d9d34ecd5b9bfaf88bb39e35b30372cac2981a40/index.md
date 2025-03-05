@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​pirates spatial
 description: W:61 L:56 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740844046
+date: 2025-03-01T15:47:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ https://discord.gg/wZcGGNZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (341)|
+| ELO Regular | 1231 🔻  (342)|
 | ELO Competitive | 1492 🔺  (79)|
 | Total Matches | 117 |
 | Wins | 61 |

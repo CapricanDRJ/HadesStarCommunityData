@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sternenflotte
 description: W:3 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1720873100
+date: 2024-07-13T12:18:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ est du Hilfe
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1224)|
-| ELO Competitive | 1149 🔻  (1302)|
+| ELO Competitive | 1149 🔻  (1301)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |

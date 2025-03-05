@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Картофель 🇲🇬
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1722229384
+date: 2024-07-29T05:03:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

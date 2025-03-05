@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​超新星联盟
 description: W:7 L:15 D:4 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738286732
+date: 2025-01-31T01:25:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

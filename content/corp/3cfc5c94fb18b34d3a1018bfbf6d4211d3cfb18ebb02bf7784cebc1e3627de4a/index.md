@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​PDC
 description: W:14 L:7 D:3 Bonus ❌ 6%
 image: ./favicon.png
-date: 1728214134
+date: 2024-10-06T11:28:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1728214134
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (275)|
+| ELO Regular | 1249 🔻  (274)|
 | ELO Competitive | 1267 🔻  (381)|
 | Total Matches | 24 |
 | Wins | 14 |

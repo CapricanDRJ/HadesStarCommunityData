@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Orion
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1722149758
+date: 2024-07-28T06:55:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

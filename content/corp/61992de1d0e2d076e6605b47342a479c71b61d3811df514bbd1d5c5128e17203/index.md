@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​小宇宙研究会
 description: W:1 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1714870056
+date: 2024-05-05T00:47:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

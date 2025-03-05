@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Corp of Anarchy
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737339536
+date: 2025-01-20T02:18:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

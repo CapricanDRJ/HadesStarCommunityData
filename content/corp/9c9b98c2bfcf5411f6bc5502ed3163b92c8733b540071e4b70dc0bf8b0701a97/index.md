@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UFSG
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1726793281
+date: 2024-09-20T00:48:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

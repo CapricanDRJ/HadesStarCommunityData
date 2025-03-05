@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UniversalCaos
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1727526037
+date: 2024-09-28T12:20:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

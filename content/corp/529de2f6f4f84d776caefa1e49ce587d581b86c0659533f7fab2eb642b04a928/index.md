@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Quin Armarda 2
 description: W:0 L:4 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1732788242
+date: 2024-11-28T10:04:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

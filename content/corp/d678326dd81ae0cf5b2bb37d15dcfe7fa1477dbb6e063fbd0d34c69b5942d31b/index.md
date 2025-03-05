@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hungary First
 description: W:18 L:14 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1732090796
+date: 2024-11-20T08:19:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ nguages: Hungarian, English.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (389)|
+| ELO Regular | 1218 🔻  (391)|
 | ELO Competitive | 1261 🔻  (399)|
 | Total Matches | 33 |
 | Wins | 18 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Eastern Front
 description: W:63 L:66 D:3 Bonus ✅ 42%
 image: ./favicon.png
-date: 1741056880
+date: 2025-03-04T02:54:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ e strategies, and give out advice.        -  Tensible
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (352)|
+| ELO Regular | 1229 🔺  (353)|
 | ELO Competitive | 1529 🔺  (57)|
 | Total Matches | 132 |
 | Wins | 63 |

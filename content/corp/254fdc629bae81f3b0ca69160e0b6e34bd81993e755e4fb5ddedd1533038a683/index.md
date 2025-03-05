@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Veteran's Haven
 description: W:7 L:20 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740801075
+date: 2025-03-01T03:51:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

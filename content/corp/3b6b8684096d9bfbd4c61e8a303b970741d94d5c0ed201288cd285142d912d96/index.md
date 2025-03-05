@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Tau Alpha
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1706539713
+date: 2024-01-29T14:48:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

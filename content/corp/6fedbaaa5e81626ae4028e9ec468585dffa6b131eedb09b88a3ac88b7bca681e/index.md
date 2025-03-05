@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BattleCo
 description: W:21 L:14 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1718363340
+date: 2024-06-14T11:09:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ s required within 24 hours of joining.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔻  (329)|
-| ELO Competitive | 1285 🔻  (337)|
+| ELO Competitive | 1285 🔻  (336)|
 | Total Matches | 35 |
 | Wins | 21 |
 | Losses | 14 |

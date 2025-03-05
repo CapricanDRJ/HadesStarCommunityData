@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Vega Conflict
 description: W:13 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740438056
+date: 2025-02-24T23:00:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ ion. Team focused; total support. Growing fast!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (301)|
+| ELO Regular | 1241 🔻  (300)|
 | ELO Competitive | 1276 🔻  (359)|
 | Total Matches | 25 |
 | Wins | 13 |

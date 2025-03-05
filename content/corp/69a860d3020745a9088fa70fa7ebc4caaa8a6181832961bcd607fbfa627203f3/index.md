@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​对，进就进人少的（分团）
-description: W:19 L:15 D:1 Bonus ❌ 7%
+description: W:19 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740496659
+date: 2025-03-04T23:55:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +20,11 @@ o华浩 QQ767311697
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔻  (263)|
-| ELO Competitive | 1297 🔻  (302)|
-| Total Matches | 35 |
+| ELO Regular | 1236 🔻  (327)|
+| ELO Competitive | 1279 🔻  (352)|
+| Total Matches | 36 |
 | Wins | 19 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740064659,1739576626,1739127106,1737014217,1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1740700523,1740064659,1739576626,1739127106,1737014217,1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/04 | 3-6 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ❌ | 2025/02/25 | 1-10 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2025/02/19 | 3-11 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2025/02/14 | 4-0 | [VD Redux](https://ws.tsl.rocks/corp/4c01d685744a017bb7d4799959ee348598a769d8919e005542cc71d67e2e6cf7/) |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Peace Keepers
 description: W:18 L:43 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740801376
+date: 2025-03-01T03:56:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

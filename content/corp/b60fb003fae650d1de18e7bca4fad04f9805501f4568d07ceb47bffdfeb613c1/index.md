@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nox Imperium
 description: W:28 L:3 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740939006
+date: 2025-03-02T18:10:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

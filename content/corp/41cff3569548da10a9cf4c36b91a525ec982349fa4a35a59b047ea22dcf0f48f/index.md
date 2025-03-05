@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TRAPSTAR¹
 description: W:0 L:3 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1732704702
+date: 2024-11-27T10:51:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ TRAPSTAR½
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1121)|
+| ELO Regular | 1157 🔻  (1120)|
 | ELO Competitive | 1157 🔻  (1261)|
 | Total Matches | 4 |
 | Wins | 0 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​아베노노
 description: W:4 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1731028163
+date: 2024-11-08T01:09:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

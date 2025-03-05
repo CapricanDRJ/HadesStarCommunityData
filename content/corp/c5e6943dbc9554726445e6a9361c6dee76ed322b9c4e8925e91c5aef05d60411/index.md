@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​銀河星际集团
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1706235354
+date: 2024-01-26T02:15:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

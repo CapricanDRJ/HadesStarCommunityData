@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​viCIOus
 description: W:28 L:2 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740975068
+date: 2025-03-03T04:11:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

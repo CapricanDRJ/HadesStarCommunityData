@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Alterra Corp
 description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1740322350
+date: 2025-02-23T14:52:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​U.S.A
 description: W:22 L:48 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741089247
+date: 2025-03-04T11:54:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

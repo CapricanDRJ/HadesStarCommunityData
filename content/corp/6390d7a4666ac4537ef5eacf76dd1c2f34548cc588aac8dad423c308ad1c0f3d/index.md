@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​水晶星际集团
 description: W:10 L:30 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738616381
+date: 2025-02-03T20:59:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

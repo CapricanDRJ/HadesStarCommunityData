@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Jesus Followers
 description: W:1 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731752750
+date: 2024-11-16T10:25:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ e his prisoner, but share in suffering for the gospel by the power of
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1111)|
+| ELO Regular | 1158 🔻  (1110)|
 | ELO Competitive | 1167 🔻  (1184)|
 | Total Matches | 6 |
 | Wins | 1 |

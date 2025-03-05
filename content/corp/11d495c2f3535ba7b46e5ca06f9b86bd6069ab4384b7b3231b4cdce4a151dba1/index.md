@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​碧海听潮阁
 description: W:13 L:10 D:5 Bonus ✅ 
 image: ./favicon.png
-date: 1741049292
+date: 2025-03-04T00:48:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

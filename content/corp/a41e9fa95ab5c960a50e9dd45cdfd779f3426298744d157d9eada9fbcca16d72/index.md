@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Death knight
 description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1700164023
+date: 2023-11-16T19:47:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

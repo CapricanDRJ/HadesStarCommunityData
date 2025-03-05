@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Avalanche 2.0
 description: W:2 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1711139125
+date: 2024-03-22T20:25:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

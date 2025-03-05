@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Terranova
 description: W:11 L:54 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740823908
+date: 2025-03-01T10:11:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

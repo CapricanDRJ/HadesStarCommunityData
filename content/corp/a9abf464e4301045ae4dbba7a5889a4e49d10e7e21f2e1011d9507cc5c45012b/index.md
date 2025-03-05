@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Proteus Tech
 description: W:6 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1702541717
+date: 2023-12-14T08:15:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

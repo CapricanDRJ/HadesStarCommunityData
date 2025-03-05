@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​企鹅帝国
 description: W:2 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1738818310
+date: 2025-02-06T05:05:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

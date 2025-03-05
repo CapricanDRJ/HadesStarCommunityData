@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spaceballs
 description: W:27 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740514702
+date: 2025-02-25T20:18:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

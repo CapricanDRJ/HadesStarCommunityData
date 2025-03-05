@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DTC
 description: W:27 L:61 D:0 Bonus ✅ 52%
 image: ./favicon.png
-date: 1740787557
+date: 2025-03-01T00:05:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

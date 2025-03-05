@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​华夏舰队
 description: W:21 L:62 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740314235
+date: 2025-02-23T12:37:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

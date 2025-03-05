@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​three kitties
 description: W:53 L:34 D:4 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740869291
+date: 2025-03-01T22:48:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

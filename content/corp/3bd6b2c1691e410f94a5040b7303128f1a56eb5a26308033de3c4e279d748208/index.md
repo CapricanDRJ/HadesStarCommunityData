@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1708953767
+date: 2024-02-26T13:22:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

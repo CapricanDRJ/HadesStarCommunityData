@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Thunderbears
 description: W:3 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1716342684
+date: 2024-05-22T01:51:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

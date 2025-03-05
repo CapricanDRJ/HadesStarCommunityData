@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OrderofTheGeon
 description: W:45 L:51 D:6 Bonus ❌ 9%
 image: ./favicon.png
-date: 1741009022
+date: 2025-03-03T13:37:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

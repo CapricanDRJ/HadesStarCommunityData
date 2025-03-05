@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Time Lords
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1703805424
+date: 2023-12-28T23:17:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

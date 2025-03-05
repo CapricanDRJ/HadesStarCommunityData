@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Fr_Corp
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1711916138
+date: 2024-03-31T20:15:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

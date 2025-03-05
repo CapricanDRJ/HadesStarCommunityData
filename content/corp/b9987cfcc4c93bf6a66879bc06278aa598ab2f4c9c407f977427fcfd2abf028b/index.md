@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Variants
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1713545933
+date: 2024-04-19T16:58:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​korea
 description: W:23 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1718444485
+date: 2024-06-15T09:41:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

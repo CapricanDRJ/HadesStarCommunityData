@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Continuance
 description: W:0 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1704793788
+date: 2024-01-09T09:49:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

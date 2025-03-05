@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Rangers
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1715813584
+date: 2024-05-15T22:53:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

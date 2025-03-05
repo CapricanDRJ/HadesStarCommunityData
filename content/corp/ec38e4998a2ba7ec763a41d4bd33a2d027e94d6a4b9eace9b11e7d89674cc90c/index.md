@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​StarControl
 description: W:31 L:14 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1737992484
+date: 2025-01-27T15:41:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

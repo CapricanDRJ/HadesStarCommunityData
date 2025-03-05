@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Pixies
 description: W:14 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740211166
+date: 2025-02-22T07:59:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ white star active
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (286)|
+| ELO Regular | 1245 🔻  (285)|
 | ELO Competitive | 1319 🔻  (262)|
 | Total Matches | 21 |
 | Wins | 14 |

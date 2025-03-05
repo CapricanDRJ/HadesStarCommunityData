@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​解语者研究会
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1714980948
+date: 2024-05-06T07:35:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

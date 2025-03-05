@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​JPR. Pretorians
 description: W:6 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1710787868
+date: 2024-03-18T18:51:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ gateway
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1127)|
+| ELO Regular | 1155 🔻  (1126)|
 | ELO Competitive | 1218 🔻  (541)|
 | Total Matches | 15 |
 | Wins | 6 |

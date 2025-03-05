@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​(◉▼◉ ﾐ )Э
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1715412786
+date: 2024-05-11T07:33:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

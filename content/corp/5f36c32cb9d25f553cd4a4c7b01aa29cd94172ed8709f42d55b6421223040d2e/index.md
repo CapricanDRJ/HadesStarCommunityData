@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SafeSpace
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707596794
+date: 2024-02-10T20:26:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1707596794
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (405)|
+| ELO Regular | 1216 🔺  (406)|
 | ELO Competitive | 1216 🔺  (559)|
 | Total Matches | 1 |
 | Wins | 1 |

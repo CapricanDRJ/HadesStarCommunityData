@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​exirium
 description: W:6 L:7 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739488169
+date: 2025-02-13T23:09:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

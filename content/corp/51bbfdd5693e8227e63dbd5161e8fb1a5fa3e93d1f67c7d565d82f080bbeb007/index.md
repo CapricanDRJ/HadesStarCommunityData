@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Corporation
 description: W:16 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1723404717
+date: 2024-08-11T19:31:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

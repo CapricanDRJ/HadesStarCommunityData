@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​47підрозділССП
 description: W:10 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740869291
+date: 2025-03-01T22:48:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

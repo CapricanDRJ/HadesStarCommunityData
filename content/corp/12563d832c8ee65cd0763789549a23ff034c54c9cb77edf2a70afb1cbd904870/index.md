@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Aurora Burning
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709467281
+date: 2024-03-03T12:01:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

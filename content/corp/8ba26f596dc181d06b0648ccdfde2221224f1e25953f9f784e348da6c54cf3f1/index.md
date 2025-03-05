@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​(◉▼◉ ﾐﾐ )Э
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1713941389
+date: 2024-04-24T06:49:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

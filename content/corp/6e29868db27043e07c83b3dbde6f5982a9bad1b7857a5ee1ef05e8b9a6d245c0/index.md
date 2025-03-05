@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​方星集团
 description: W:6 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739626401
+date: 2025-02-15T13:33:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nueva Hyperion
 description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1707681836
+date: 2024-02-11T20:03:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Jalisco México
 description: W:11 L:29 D:5 Bonus ❌ 6%
 image: ./favicon.png
-date: 1723743387
+date: 2024-08-15T17:36:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

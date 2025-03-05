@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Poggy Rockers
 description: W:33 L:22 D:3 Bonus ❌ 8%
 image: ./favicon.png
-date: 1737348851
+date: 2025-01-20T04:54:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Poggy Rockers in the house tonight
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔻  (492)|
-| ELO Competitive | 1330 🔻  (242)|
+| ELO Competitive | 1330 🔻  (243)|
 | Total Matches | 58 |
 | Wins | 33 |
 | Losses | 22 |

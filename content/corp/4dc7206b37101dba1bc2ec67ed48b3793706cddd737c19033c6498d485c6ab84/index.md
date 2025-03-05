@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Team Rainbow
 description: W:5 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735061418
+date: 2024-12-24T17:30:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

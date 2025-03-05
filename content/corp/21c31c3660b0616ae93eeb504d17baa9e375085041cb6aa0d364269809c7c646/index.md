@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Relic Hunters
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1701385831
+date: 2023-11-30T23:10:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,7 +28,7 @@ https://discord.gg/sYAuq5vAD4
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (415)|
+| ELO Regular | 1216 🔺  (416)|
 | ELO Competitive | 1216 🔺  (572)|
 | Total Matches | 1 |
 | Wins | 1 |

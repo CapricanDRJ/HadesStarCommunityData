@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Orden Estelar 
 description: W:15 L:12 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740740672
+date: 2025-02-28T11:04:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

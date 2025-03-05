@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Marshalls
 description: W:36 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740831120
+date: 2025-03-01T12:12:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ len.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (377)|
+| ELO Regular | 1221 🔻  (379)|
 | ELO Competitive | 1383 🔻  (166)|
 | Total Matches | 62 |
 | Wins | 36 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716450547
+date: 2024-05-23T07:49:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

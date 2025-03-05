@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​N K B
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740161590
+date: 2025-02-21T18:13:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

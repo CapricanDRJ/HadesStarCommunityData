@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Covenant
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1703217349
+date: 2023-12-22T03:55:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

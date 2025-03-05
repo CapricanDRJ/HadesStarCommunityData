@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Trade Station
 description: W:8 L:52 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740478622
+date: 2025-02-25T10:17:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

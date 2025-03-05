@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​From the Fire
 description: W:2 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738239833
+date: 2025-01-30T12:23:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

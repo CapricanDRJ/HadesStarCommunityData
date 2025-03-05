@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sussy Coloner
 description: W:30 L:70 D:4 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740788759
+date: 2025-03-01T00:25:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

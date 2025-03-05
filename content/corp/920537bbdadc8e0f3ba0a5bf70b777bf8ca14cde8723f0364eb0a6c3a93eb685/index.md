@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UFO
 description: W:8 L:18 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740812792
+date: 2025-03-01T07:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

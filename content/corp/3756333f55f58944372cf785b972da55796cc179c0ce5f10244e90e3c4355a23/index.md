@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Destroyers
 description: W:16 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1729463812
+date: 2024-10-20T22:36:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rebellion!
 description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1712768023
+date: 2024-04-10T16:53:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

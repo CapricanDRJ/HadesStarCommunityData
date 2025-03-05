@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UNNP
 description: W:0 L:2 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1721021240
+date: 2024-07-15T05:27:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

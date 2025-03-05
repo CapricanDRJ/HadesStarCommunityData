@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hamburg AG 2
 description: W:15 L:23 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1740324755
+date: 2025-02-23T15:32:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ Vordergrund.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (516)|
-| ELO Competitive | 1284 🔻  (340)|
+| ELO Competitive | 1284 🔻  (339)|
 | Total Matches | 38 |
 | Wins | 15 |
 | Losses | 23 |

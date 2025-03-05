@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​佛矿寺
 description: W:15 L:63 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740732559
+date: 2025-02-28T08:49:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

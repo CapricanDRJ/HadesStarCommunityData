@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ЧВК "Котики"
 description: W:30 L:23 D:4 Bonus ❌ 8%
 image: ./favicon.png
-date: 1735156066
+date: 2024-12-25T19:47:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

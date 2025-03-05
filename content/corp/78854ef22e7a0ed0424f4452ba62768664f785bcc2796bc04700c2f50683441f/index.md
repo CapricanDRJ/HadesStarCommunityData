@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​华夏三体-阿拜多斯集团 
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1735293679
+date: 2024-12-27T10:01:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

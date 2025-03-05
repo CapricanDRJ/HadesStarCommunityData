@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​HighSociety
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1706828870
+date: 2024-02-01T23:07:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

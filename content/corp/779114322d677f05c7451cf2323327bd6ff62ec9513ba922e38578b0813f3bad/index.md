@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Star
 description: W:14 L:15 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740774637
+date: 2025-02-28T20:30:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740774637
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔺  (485)|
-| ELO Competitive | 1296 🔺  (306)|
+| ELO Competitive | 1296 🔺  (305)|
 | Total Matches | 30 |
 | Wins | 14 |
 | Losses | 15 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​情谊永存
 description: W:2 L:8 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1732270377
+date: 2024-11-22T10:12:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

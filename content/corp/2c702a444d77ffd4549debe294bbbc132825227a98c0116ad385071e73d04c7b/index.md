@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​仙剑3
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1711149196
+date: 2024-03-22T23:13:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1711149196
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (398)|
+| ELO Regular | 1217 🔺  (400)|
 | ELO Competitive | 1217 🔺  (551)|
 | Total Matches | 1 |
 | Wins | 1 |

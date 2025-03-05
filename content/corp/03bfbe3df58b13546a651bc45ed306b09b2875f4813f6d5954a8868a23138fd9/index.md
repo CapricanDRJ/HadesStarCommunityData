@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Urban Legends
 description: W:1 L:3 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1705760541
+date: 2024-01-20T14:22:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

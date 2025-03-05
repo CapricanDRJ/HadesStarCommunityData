@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sich.ua
 description: W:31 L:34 D:5 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740487940
+date: 2025-02-25T12:52:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1740487940
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1108 🔻  (1321)|
-| ELO Competitive | 1286 🔻  (335)|
+| ELO Competitive | 1286 🔻  (334)|
 | Total Matches | 70 |
 | Wins | 31 |
 | Losses | 34 |

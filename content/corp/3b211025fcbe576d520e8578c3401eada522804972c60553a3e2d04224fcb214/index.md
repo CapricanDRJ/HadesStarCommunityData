@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Force
 description: W:1 L:3 D:2 Bonus ❌ 3%
 image: ./favicon.png
-date: 1713993924
+date: 2024-04-24T21:25:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

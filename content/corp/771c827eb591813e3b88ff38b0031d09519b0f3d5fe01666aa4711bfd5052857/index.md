@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​<a>超越®</a>光速℡
 description: W:15 L:8 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740398973
+date: 2025-02-24T12:09:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

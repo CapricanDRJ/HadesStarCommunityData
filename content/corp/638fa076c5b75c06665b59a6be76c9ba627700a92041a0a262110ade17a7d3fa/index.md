@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CDS
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709942349
+date: 2024-03-08T23:59:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

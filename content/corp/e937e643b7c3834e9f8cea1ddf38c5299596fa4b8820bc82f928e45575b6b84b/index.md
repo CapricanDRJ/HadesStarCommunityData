@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​N.P.C
 description: W:5 L:3 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1722331865
+date: 2024-07-30T09:31:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

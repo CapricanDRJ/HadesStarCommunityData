@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​uDS
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1700027526
+date: 2023-11-15T05:52:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

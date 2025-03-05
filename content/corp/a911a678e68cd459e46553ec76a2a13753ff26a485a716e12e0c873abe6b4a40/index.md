@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SUSSY IMPOSTER
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1737220527
+date: 2025-01-18T17:15:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

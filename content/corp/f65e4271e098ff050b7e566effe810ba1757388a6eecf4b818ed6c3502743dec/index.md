@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​宇宙联盟（中国）
 description: W:30 L:42 D:6 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740568486
+date: 2025-02-26T11:14:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1740568486
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (287)|
+| ELO Regular | 1245 🔺  (286)|
 | ELO Competitive | 1318 🔺  (267)|
 | Total Matches | 78 |
 | Wins | 30 |

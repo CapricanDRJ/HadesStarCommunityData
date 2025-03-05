@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​苏维埃联邦
 description: W:0 L:18 D:3 Bonus ❌ 3%
 image: ./favicon.png
-date: 1739090895
+date: 2025-02-09T08:48:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

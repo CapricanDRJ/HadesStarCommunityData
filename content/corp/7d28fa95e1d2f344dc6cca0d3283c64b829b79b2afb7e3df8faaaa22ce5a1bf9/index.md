@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hand Of NOD! 
 description: W:59 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740908948
+date: 2025-03-02T09:49:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

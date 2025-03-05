@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bon Ariens
 description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737624376
+date: 2025-01-23T09:26:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ nt font les autres 😅
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1134 🔻  (1240)|
-| ELO Competitive | 1150 🔺  (1296)|
+| ELO Competitive | 1150 🔺  (1295)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 6 |

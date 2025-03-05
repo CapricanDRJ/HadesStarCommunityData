@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Atlas corp
 description: W:8 L:14 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1733251941
+date: 2024-12-03T18:52:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

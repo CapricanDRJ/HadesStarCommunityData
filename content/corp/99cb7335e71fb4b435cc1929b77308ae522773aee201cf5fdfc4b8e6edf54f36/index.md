@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TITANS
 description: W:3 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1710483791
+date: 2024-03-15T06:23:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ atividade e quando tiver 10 membros na disposição bora pra ws
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔻  (1253)|
-| ELO Competitive | 1143 🔻  (1327)|
+| ELO Competitive | 1143 🔻  (1326)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |

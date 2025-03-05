@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galaxy knights
 description: W:0 L:2 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1727735542
+date: 2024-09-30T22:32:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

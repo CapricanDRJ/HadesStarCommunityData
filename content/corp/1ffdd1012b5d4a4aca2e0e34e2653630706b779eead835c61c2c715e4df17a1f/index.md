@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Starsailors
 description: W:21 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1718995794
+date: 2024-06-21T18:49:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

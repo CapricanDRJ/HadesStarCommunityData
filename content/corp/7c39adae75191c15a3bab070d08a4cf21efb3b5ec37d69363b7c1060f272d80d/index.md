@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​challenger corp
 description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1712788428
+date: 2024-04-10T22:33:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ Afk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (381)|
-| ELO Competitive | 1243 🔻  (447)|
+| ELO Regular | 1220 🔻  (383)|
+| ELO Competitive | 1243 🔻  (448)|
 | Total Matches | 16 |
 | Wins | 9 |
 | Losses | 7 |

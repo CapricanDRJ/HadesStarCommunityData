@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Галактика Зла
 description: W:21 L:22 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1738391607
+date: 2025-02-01T06:33:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ iscord.com/invite/y2m2V3WYtr
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (267)|
+| ELO Regular | 1252 🔺  (266)|
 | ELO Competitive | 1307 🔺  (283)|
 | Total Matches | 43 |
 | Wins | 21 |

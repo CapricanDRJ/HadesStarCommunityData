@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CDG
 description: W:24 L:27 D:5 Bonus ❌ 14%
 image: ./favicon.png
-date: 1720925094
+date: 2024-07-14T02:44:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ size><size="50"> So Say We All</size></b></color>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1193)|
-| ELO Competitive | 1295 🔻  (308)|
+| ELO Competitive | 1295 🔻  (307)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |

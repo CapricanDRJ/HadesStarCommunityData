@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​麻雀集团
 description: W:2 L:7 D:3 Bonus ❌ 4%
 image: ./favicon.png
-date: 1739383592
+date: 2025-02-12T18:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1739383592
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔺  (1152)|
+| ELO Regular | 1152 🔺  (1151)|
 | ELO Competitive | 1167 🔺  (1180)|
 | Total Matches | 12 |
 | Wins | 2 |

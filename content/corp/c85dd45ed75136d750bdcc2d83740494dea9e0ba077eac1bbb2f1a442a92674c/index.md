@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gemini Ind.
 description: W:35 L:7 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1739564504
+date: 2025-02-14T20:21:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

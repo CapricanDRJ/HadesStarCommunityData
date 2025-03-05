@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Last Chance
 description: W:2 L:3 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1732395217
+date: 2024-11-23T20:53:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

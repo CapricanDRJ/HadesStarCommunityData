@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Тихий Омут
 description: W:58 L:77 D:3 Bonus ✅ 46%
 image: ./favicon.png
-date: 1741085118
+date: 2025-03-04T10:45:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

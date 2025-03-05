@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​V0RTEX
 description: W:10 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1712597022
+date: 2024-04-08T17:23:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ r zero communication.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (379)|
-| ELO Competitive | 1250 🔻  (429)|
+| ELO Regular | 1220 🔻  (381)|
+| ELO Competitive | 1250 🔻  (430)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 9 |

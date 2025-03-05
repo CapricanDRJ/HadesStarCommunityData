@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sterling Gamers
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1700841235
+date: 2023-11-24T15:53:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

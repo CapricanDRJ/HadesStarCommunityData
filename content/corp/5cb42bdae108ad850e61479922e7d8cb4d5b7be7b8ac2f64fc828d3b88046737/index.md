@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​共产星际
 description: W:31 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1723051911
+date: 2024-08-07T17:31:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

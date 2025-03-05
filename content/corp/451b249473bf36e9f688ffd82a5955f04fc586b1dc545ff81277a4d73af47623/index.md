@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lost Legion
 description: W:31 L:64 D:1 Bonus ✅ 48%
 image: ./favicon.png
-date: 1741050193
+date: 2025-03-04T01:03:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

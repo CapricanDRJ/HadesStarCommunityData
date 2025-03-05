@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​E.T.A
 description: W:12 L:40 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1740752996
+date: 2025-02-28T14:29:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

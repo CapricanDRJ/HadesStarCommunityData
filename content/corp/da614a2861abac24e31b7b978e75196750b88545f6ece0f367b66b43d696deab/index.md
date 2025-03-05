@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​联合宇宙
 description: W:4 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1725261363
+date: 2024-09-02T07:16:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1725261363
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1071 🔻  (1378)|
+| ELO Regular | 1071 🔻  (1377)|
 | ELO Competitive | 1117 🔻  (1385)|
 | Total Matches | 19 |
 | Wins | 4 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cronos World
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1710932080
+date: 2024-03-20T10:54:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

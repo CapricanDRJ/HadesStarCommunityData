@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​昙花一现
 description: W:3 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740427233
+date: 2025-02-24T20:00:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Anarchy G13
 description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707434106
+date: 2024-02-08T23:15:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ hitestar or kick
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1109)|
+| ELO Regular | 1158 🔻  (1108)|
 | ELO Competitive | 1158 🔻  (1254)|
 | Total Matches | 3 |
 | Wins | 0 |

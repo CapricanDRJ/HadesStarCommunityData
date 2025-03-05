@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Mini Elite
 description: W:0 L:4 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1714047703
+date: 2024-04-25T12:21:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ation.May the Low Red Stars of Hades unite into TEF
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (1183)|
-| ELO Competitive | 1146 🔻  (1314)|
+| ELO Competitive | 1146 🔻  (1313)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

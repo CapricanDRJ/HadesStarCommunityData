@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​太阳系集团
 description: W:22 L:8 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736448433
+date: 2025-01-09T18:47:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1736448433
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔺  (133)|
+| ELO Regular | 1326 🔺  (134)|
 | ELO Competitive | 1371 🔺  (183)|
 | Total Matches | 32 |
 | Wins | 22 |

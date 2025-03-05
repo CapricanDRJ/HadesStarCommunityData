@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Osmium Star llc
 description: W:36 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739944616
+date: 2025-02-19T05:56:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

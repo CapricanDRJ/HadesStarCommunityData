@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​NASA Air base
 description: W:0 L:8 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1707937906
+date: 2024-02-14T19:11:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

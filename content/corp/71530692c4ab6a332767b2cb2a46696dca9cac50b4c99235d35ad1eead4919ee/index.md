@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spy Corp
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1706193880
+date: 2024-01-25T14:44:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

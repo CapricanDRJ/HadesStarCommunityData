@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​★BLACK•TALON★
 description: W:0 L:3 D:2 Bonus ❌ 
 image: ./favicon.png
-date: 1740311827
+date: 2025-02-23T11:57:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

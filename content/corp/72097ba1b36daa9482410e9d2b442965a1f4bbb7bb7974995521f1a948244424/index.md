@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​八月政府
 description: W:7 L:30 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740392664
+date: 2025-02-24T10:24:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740392664
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1372)|
+| ELO Regular | 1076 🔻  (1371)|
 | ELO Competitive | 1139 🔻  (1340)|
 | Total Matches | 38 |
 | Wins | 7 |

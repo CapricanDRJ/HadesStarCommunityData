@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Warriors
 description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1707860684
+date: 2024-02-13T21:44:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ eryone<br>Get a deplomacy station to get help<br><color=#00a6ca><size
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (356)|
+| ELO Regular | 1228 🔺  (357)|
 | ELO Competitive | 1228 🔺  (498)|
 | Total Matches | 4 |
 | Wins | 3 |

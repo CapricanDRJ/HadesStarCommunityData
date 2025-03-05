@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Blood Brigade
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1731554996
+date: 2024-11-14T03:29:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

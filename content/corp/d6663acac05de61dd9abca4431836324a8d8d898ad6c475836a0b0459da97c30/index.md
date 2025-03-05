@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lolis Corp
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1706764255
+date: 2024-02-01T05:10:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

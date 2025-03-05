@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OntarioDynasty
 description: W:1 L:4 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1714167890
+date: 2024-04-26T21:44:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

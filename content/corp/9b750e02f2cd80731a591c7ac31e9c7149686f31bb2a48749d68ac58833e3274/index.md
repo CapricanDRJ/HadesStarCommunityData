@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DL Academy
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1737167633
+date: 2025-01-18T02:33:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ to rise and conquer!"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (380)|
+| ELO Regular | 1220 🔺  (382)|
 | ELO Competitive | 1223 🔺  (521)|
 | Total Matches | 2 |
 | Wins | 1 |

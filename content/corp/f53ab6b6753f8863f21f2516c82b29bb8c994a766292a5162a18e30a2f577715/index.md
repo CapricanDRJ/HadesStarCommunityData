@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​人人平等至上集团
 description: W:0 L:1 D:3 Bonus ❌ 
 image: ./favicon.png
-date: 1740890020
+date: 2025-03-02T04:33:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

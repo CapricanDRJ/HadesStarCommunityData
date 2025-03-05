@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​mexico unido
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1733575259
+date: 2024-12-07T12:40:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ para todos los patriotas
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1128)|
+| ELO Regular | 1155 🔻  (1127)|
 | ELO Competitive | 1164 🔻  (1211)|
 | Total Matches | 3 |
 | Wins | 0 |

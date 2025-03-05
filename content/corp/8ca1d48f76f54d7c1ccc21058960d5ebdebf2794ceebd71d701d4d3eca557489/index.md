@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第一基地·端点星
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1702827360
+date: 2023-12-17T15:36:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

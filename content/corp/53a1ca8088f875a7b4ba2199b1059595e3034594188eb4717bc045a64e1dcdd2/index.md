@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​imperio galacti
 description: W:19 L:8 D:1 Bonus ✅ 34%
 image: ./favicon.png
-date: 1741121707
+date: 2025-03-04T20:55:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

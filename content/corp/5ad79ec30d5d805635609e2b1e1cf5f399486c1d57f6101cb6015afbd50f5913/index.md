@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​9-Й СКОРПИОН
 description: W:33 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740005922
+date: 2025-02-19T22:58:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

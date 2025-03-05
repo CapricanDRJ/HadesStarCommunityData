@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Stargroup
 description: W:0 L:9 D:4 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740826766
+date: 2025-03-01T10:59:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

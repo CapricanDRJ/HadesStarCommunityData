@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Killers from Ua
 description: W:6 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1730115015
+date: 2024-10-28T11:30:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ https://discord.gg/thfx8WYSru
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (292)|
+| ELO Regular | 1244 🔻  (291)|
 | ELO Competitive | 1257 🔻  (409)|
 | Total Matches | 10 |
 | Wins | 6 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CSI
 description: W:1 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1706545194
+date: 2024-01-29T16:19:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1141)|
+| ELO Regular | 1154 🔻  (1140)|
 | ELO Competitive | 1154 🔻  (1278)|
 | Total Matches | 6 |
 | Wins | 1 |

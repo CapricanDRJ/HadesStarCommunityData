@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​小号营地
 description: W:0 L:7 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1732891650
+date: 2024-11-29T14:47:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1732891650
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1125 🔺  (1275)|
-| ELO Competitive | 1144 🔺  (1325)|
+| ELO Competitive | 1144 🔺  (1324)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 7 |

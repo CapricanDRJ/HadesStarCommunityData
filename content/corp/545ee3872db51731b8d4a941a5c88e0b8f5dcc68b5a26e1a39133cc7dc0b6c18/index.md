@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中国星际联盟·第一自治州
 description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725618874
+date: 2024-09-06T10:34:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

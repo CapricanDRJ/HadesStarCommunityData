@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cerulean Star
 description: W:36 L:19 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740721142
+date: 2025-02-28T05:39:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

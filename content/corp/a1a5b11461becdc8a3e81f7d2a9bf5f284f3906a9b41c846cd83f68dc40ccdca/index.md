@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cerberus
 description: W:4 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-date: 1740846450
+date: 2025-03-01T16:27:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

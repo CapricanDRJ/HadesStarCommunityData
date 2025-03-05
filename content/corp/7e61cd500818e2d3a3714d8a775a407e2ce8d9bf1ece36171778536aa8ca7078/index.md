@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​新星汇聚
 description: W:8 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739370064
+date: 2025-02-12T14:21:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1739370064
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (288)|
+| ELO Regular | 1245 🔻  (287)|
 | ELO Competitive | 1279 🔻  (353)|
 | Total Matches | 13 |
 | Wins | 8 |

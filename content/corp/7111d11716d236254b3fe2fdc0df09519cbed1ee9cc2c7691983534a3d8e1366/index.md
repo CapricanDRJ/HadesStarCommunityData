@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gummibärenbande
 description: W:6 L:33 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740744279
+date: 2025-02-28T12:04:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,7 +27,7 @@ Mitglied der Tartaros Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1070 🔻  (1379)|
+| ELO Regular | 1070 🔻  (1378)|
 | ELO Competitive | 1142 🔻  (1331)|
 | Total Matches | 39 |
 | Wins | 6 |

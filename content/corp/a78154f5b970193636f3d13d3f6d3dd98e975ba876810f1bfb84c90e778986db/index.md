@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Aconitum
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1699715904
+date: 2023-11-11T15:18:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

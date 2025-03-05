@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Global Elite
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1718903534
+date: 2024-06-20T17:12:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Frontier X
 description: W:9 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1708872607
+date: 2024-02-25T14:50:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

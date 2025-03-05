@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Richthofen
 description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1706552096
+date: 2024-01-29T18:14:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

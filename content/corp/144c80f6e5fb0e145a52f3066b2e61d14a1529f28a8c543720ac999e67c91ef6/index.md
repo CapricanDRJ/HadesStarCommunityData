@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Неудержимые
 description: W:0 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1724217287
+date: 2024-08-21T05:14:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ https://t.me/nhsuac
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1150)|
+| ELO Regular | 1153 🔻  (1149)|
 | ELO Competitive | 1166 🔻  (1195)|
 | Total Matches | 4 |
 | Wins | 0 |

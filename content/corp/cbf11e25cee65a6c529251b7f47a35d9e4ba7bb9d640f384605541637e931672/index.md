@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Держава Русь
 description: W:3 L:40 D:1 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740702516
+date: 2025-02-28T00:28:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

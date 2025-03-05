@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Widow Makers
 description: W:14 L:8 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1739905859
+date: 2025-02-18T19:10:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​G.D.C.
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1726532381
+date: 2024-09-17T00:19:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

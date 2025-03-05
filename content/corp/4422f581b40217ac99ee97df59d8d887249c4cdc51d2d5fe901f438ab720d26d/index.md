@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​" Возрождение "
 description: W:17 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740910150
+date: 2025-03-02T10:09:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ date: 1740910150
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (77)|
+| ELO Regular | 1380 🔺  (78)|
 | ELO Competitive | 1442 🔺  (118)|
 | Total Matches | 18 |
 | Wins | 17 |

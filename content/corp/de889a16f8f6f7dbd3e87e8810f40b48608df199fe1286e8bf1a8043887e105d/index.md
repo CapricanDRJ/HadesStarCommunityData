@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SEK-SPACE ORDER
 description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1704617086
+date: 2024-01-07T08:44:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1704617086
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1199)|
-| ELO Competitive | 1145 🔻  (1319)|
+| ELO Competitive | 1145 🔻  (1318)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

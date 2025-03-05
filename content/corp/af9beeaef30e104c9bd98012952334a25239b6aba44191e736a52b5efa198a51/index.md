@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Fracture
 description: W:0 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1710899937
+date: 2024-03-20T01:58:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

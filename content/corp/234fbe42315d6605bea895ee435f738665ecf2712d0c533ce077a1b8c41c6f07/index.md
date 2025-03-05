@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star-Jump CORPS
 description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1699184598
+date: 2023-11-05T11:43:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

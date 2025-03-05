@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Village of Evil
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1707496428
+date: 2024-02-09T16:33:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

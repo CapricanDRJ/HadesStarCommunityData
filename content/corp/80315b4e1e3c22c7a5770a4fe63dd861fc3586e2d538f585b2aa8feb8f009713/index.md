@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​宇氏集团
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1703139429
+date: 2023-12-21T06:17:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

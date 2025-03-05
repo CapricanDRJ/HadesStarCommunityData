@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​火洋分团
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1725092395
+date: 2024-08-31T08:19:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

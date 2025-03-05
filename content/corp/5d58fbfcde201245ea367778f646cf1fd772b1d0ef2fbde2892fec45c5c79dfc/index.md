@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Wispered Storm
 description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1702833557
+date: 2023-12-17T17:19:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СОЮЗ-2
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1704655853
+date: 2024-01-07T19:30:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

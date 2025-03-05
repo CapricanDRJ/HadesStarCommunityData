@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Suns
 description: W:15 L:19 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1734561434
+date: 2024-12-18T22:37:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

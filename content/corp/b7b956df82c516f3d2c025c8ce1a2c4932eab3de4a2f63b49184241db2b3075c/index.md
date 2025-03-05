@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Witness
 description: W:17 L:33 D:4 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740890020
+date: 2025-03-02T04:33:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ Note- Discord link is updated. Will expire in 7 DAYS
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1003 🔺  (1421)|
-| ELO Competitive | 1147 🔺  (1309)|
+| ELO Competitive | 1147 🔺  (1308)|
 | Total Matches | 54 |
 | Wins | 17 |
 | Losses | 33 |

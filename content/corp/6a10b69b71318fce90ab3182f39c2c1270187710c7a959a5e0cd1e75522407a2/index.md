@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Imperium of man
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1706527816
+date: 2024-01-29T11:30:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

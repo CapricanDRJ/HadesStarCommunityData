@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Летящий орел
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1727022215
+date: 2024-09-22T16:23:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

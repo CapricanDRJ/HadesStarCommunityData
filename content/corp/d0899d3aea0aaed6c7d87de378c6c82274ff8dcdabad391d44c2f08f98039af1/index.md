@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Croce del Sud
 description: W:16 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740442263
+date: 2025-02-25T00:11:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ date: 1740442263
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (318)|
-| ELO Competitive | 1286 🔻  (334)|
+| ELO Regular | 1238 🔻  (317)|
+| ELO Competitive | 1286 🔻  (333)|
 | Total Matches | 28 |
 | Wins | 16 |
 | Losses | 12 |

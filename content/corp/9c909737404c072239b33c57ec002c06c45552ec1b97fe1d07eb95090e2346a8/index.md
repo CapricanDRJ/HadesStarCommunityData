@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Minutemen
 description: W:10 L:19 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1737765334
+date: 2025-01-25T00:35:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

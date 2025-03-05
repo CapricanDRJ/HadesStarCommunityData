@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Assasins bees
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1714611048
+date: 2024-05-02T00:50:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

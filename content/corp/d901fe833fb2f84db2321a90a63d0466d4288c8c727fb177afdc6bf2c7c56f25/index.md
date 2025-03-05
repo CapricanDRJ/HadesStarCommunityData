@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Enigma
 description: W:5 L:12 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1712508383
+date: 2024-04-07T16:46:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​INFINITY STAR
 description: W:17 L:20 D:1 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740742776
+date: 2025-02-28T11:39:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Lost in Space...? Dann komm zu uns!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔺  (494)|
-| ELO Competitive | 1292 🔺  (316)|
+| ELO Competitive | 1292 🔺  (314)|
 | Total Matches | 38 |
 | Wins | 17 |
 | Losses | 20 |

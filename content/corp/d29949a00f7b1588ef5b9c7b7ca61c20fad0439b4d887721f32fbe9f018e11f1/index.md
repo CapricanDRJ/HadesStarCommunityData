@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Elysium
 description: W:51 L:15 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740801075
+date: 2025-03-01T03:51:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

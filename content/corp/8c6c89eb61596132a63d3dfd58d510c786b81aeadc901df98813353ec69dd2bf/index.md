@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星约组织：莫比乌斯分团
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1733142524
+date: 2024-12-02T12:28:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

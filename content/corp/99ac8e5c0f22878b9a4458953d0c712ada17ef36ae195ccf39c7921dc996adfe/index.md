@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ZION
 description: W:28 L:23 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1731559503
+date: 2024-11-14T04:45:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,7 +28,7 @@ date: 1731559503
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (506)|
-| ELO Competitive | 1290 🔻  (321)|
+| ELO Competitive | 1290 🔻  (320)|
 | Total Matches | 51 |
 | Wins | 28 |
 | Losses | 23 |

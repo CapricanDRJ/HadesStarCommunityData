@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sons of Liberty
 description: W:7 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1739599358
+date: 2025-02-15T06:02:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ Discord mandatory - join at the link below ↓
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔻  (163)|
-| ELO Competitive | 1334 🔻  (237)|
+| ELO Competitive | 1334 🔻  (238)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Peasants
 description: W:2 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1721863369
+date: 2024-07-24T23:22:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,7 +25,7 @@ HS Compendium required to join WS's
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (361)|
+| ELO Regular | 1226 🔺  (363)|
 | ELO Competitive | 1231 🔺  (481)|
 | Total Matches | 2 |
 | Wins | 2 |

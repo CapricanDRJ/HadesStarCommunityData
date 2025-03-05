@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Tuatha De Danan
 description: W:62 L:18 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740852762
+date: 2025-03-01T18:12:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

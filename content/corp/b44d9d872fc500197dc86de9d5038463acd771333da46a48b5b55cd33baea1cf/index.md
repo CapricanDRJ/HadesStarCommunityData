@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​阿尔特拉集团
 description: W:39 L:34 D:4 Bonus ❌ 9%
 image: ./favicon.png
-date: 1739587960
+date: 2025-02-15T02:52:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Anomaly
 description: W:0 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1702763834
+date: 2023-12-16T21:57:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

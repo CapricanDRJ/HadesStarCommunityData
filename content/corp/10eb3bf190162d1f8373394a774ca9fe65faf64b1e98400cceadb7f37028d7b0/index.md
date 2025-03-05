@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Survivors
 description: W:4 L:15 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740617774
+date: 2025-02-27T00:56:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​StalkerUA 
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1701667744
+date: 2023-12-04T05:29:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

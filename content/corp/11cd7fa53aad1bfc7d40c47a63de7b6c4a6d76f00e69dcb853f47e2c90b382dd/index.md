@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​МеГаКо
 description: W:18 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1728664664
+date: 2024-10-11T16:37:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1728664664
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (390)|
+| ELO Regular | 1218 🔻  (392)|
 | ELO Competitive | 1267 🔻  (378)|
 | Total Matches | 35 |
 | Wins | 18 |

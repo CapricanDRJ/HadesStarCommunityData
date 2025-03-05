@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​No Orbit©
 description: W:18 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740156480
+date: 2025-02-21T16:48:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1300 🔺  (176)|
-| ELO Competitive | 1335 🔺  (234)|
+| ELO Competitive | 1335 🔺  (235)|
 | Total Matches | 27 |
 | Wins | 18 |
 | Losses | 9 |

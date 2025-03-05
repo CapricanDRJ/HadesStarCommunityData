@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ RELAX CZ/SK
 description: W:87 L:48 D:0 Bonus ✅ 44%
 image: ./favicon.png
-date: 1740801075
+date: 2025-03-01T03:51:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

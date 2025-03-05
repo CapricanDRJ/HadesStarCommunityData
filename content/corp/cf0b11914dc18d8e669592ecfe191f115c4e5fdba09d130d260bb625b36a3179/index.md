@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​四季长春
 description: W:18 L:27 D:7 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739184549
+date: 2025-02-10T10:49:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1739184549
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1123)|
+| ELO Regular | 1156 🔻  (1122)|
 | ELO Competitive | 1309 🔻  (280)|
 | Total Matches | 52 |
 | Wins | 18 |

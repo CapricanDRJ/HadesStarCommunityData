@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ItaFederalFleet
 description: W:20 L:13 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740350905
+date: 2025-02-23T22:48:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

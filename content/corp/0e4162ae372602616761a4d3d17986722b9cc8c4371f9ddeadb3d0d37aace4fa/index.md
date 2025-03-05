@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Grater U
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1728124618
+date: 2024-10-05T10:36:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

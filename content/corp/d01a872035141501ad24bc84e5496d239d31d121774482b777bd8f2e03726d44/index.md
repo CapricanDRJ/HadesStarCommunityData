@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Crimson Dawn
 description: W:11 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736192080
+date: 2025-01-06T19:34:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

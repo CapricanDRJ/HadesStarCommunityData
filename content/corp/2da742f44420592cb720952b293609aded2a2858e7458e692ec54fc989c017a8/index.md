@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​萌新收留所（目标门集团）
 description: W:1 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1702529096
+date: 2023-12-14T04:44:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,7 +27,7 @@ date: 1702529096
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1116)|
+| ELO Regular | 1157 🔻  (1115)|
 | ELO Competitive | 1159 🔻  (1247)|
 | Total Matches | 5 |
 | Wins | 1 |

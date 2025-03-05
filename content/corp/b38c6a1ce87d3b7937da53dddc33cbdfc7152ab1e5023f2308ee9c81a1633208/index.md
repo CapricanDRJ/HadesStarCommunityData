@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dacia Chill
 description: W:21 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737732320
+date: 2025-01-24T15:25:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​the Rubber Duck
 description: W:6 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731687844
+date: 2024-11-15T16:24:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

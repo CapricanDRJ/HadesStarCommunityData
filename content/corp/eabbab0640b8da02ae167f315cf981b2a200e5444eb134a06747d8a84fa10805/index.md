@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SQPT
 description: W:49 L:71 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740941700
+date: 2025-03-02T18:55:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

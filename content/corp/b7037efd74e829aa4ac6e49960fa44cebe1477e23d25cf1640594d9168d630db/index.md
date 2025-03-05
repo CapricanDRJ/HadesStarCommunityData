@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rising star
 description: W:32 L:44 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1740829317
+date: 2025-03-01T11:41:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

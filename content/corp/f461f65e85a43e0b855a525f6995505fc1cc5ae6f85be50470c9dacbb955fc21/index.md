@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cowboys
 description: W:6 L:10 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739660362
+date: 2025-02-15T22:59:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1739660362
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1131)|
+| ELO Regular | 1155 🔻  (1130)|
 | ELO Competitive | 1159 🔻  (1244)|
 | Total Matches | 19 |
 | Wins | 6 |

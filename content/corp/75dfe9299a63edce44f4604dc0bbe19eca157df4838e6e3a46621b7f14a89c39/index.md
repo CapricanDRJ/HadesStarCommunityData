@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星光滨岸
 description: W:0 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737814354
+date: 2025-01-25T14:12:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

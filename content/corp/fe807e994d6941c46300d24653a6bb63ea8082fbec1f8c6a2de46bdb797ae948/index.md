@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​L.P.A.
 description: W:2 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1719335664
+date: 2024-06-25T17:14:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

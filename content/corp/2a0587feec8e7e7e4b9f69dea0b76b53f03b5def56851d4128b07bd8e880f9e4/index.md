@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hornet
 description: W:0 L:0 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1732270377
+date: 2024-11-22T10:12:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

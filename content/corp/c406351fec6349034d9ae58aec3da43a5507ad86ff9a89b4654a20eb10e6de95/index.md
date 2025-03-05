@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Альянс звезд
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1736067385
+date: 2025-01-05T08:56:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

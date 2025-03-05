@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​新兴帝国
 description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1711051078
+date: 2024-03-21T19:57:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

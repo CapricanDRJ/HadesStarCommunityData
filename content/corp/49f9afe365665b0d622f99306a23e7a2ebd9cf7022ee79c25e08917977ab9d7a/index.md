@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TECH CO
 description: W:9 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1715583143
+date: 2024-05-13T06:52:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

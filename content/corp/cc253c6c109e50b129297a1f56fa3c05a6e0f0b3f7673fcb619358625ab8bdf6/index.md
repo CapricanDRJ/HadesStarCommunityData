@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Стальная крыса
 description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1736612543
+date: 2025-01-11T16:22:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

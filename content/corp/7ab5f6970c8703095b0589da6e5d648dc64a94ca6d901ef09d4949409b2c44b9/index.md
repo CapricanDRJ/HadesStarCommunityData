@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​游徒之家
 description: W:15 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738655738
+date: 2025-02-04T07:55:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

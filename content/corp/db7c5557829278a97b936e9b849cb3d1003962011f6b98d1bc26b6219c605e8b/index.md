@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​лезвия тьмы 
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1700059097
+date: 2023-11-15T14:38:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

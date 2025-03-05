@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Caprica command
 description: W:4 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1712535128
+date: 2024-04-08T00:12:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

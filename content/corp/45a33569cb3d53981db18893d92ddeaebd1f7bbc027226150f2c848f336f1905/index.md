@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bloodtide
 description: W:41 L:50 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1737936659
+date: 2025-01-27T00:10:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

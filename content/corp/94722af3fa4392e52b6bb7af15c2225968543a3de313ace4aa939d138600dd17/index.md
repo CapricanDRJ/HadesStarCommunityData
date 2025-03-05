@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Madison Holding
 description: W:7 L:4 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1704925417
+date: 2024-01-10T22:23:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,8 +23,8 @@ date: 1704925417
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (309)|
-| ELO Competitive | 1243 🔻  (448)|
+| ELO Regular | 1239 🔻  (308)|
+| ELO Competitive | 1243 🔻  (449)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galactic Emp 2
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1725589130
+date: 2024-09-06T02:18:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

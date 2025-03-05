@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Kingdom Of Meow
 description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1740099681
+date: 2025-02-21T01:01:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

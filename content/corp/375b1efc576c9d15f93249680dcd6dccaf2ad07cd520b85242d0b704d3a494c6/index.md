@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​共产国际
 description: W:8 L:11 D:6 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739055580
+date: 2025-02-08T22:59:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ date: 1739055580
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔺  (1151)|
-| ELO Competitive | 1240 🔺  (457)|
+| ELO Regular | 1152 🔺  (1150)|
+| ELO Competitive | 1240 🔺  (458)|
 | Total Matches | 25 |
 | Wins | 8 |
 | Losses | 11 |

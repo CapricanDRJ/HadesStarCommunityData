@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​chrtrncmndr
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1700546696
+date: 2023-11-21T06:04:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

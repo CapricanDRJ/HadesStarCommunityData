@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ukr alliance 
 description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1708262593
+date: 2024-02-18T13:23:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

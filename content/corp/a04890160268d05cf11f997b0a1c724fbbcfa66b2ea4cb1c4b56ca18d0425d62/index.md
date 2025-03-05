@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​GDZ
 description: W:50 L:43 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740616572
+date: 2025-02-27T00:36:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

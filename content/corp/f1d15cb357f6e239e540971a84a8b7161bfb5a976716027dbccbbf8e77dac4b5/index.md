@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Новый ЭДЭМ
 description: W:2 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1703949335
+date: 2023-12-30T15:15:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

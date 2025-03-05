@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Goonies
 description: W:3 L:7 D:2 Bonus ❌ 8%
 image: ./favicon.png
-date: 1736259082
+date: 2025-01-07T14:11:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

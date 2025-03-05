@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​海澜之家
 description: W:2 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725749001
+date: 2024-09-07T22:43:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

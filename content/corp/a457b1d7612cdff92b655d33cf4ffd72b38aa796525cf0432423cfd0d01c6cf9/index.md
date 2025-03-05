@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​华夏三体舰队
 description: W:16 L:27 D:7 Bonus ❌ 7%
 image: ./favicon.png
-date: 1731053472
+date: 2024-11-08T08:11:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ℬlackStar Order
 description: W:16 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737820968
+date: 2025-01-25T16:02:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

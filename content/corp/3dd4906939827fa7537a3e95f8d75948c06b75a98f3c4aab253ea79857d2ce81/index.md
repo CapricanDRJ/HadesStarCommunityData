@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Death Star llc.
 description: W:63 L:18 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1741030361
+date: 2025-03-03T19:32:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

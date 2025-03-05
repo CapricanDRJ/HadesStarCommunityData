@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​LCP
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1716990439
+date: 2024-05-29T13:47:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

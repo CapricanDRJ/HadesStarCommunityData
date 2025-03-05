@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cydonia Order
 description: W:22 L:14 D:2 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740617774
+date: 2025-02-27T00:56:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

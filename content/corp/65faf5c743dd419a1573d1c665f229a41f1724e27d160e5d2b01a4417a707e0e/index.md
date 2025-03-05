@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​＊СССР＊
 description: W:44 L:38 D:1 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740778243
+date: 2025-02-28T21:30:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1740778243
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (326)|
+| ELO Regular | 1238 🔻  (325)|
 | ELO Competitive | 1494 🔻  (76)|
 | Total Matches | 83 |
 | Wins | 44 |

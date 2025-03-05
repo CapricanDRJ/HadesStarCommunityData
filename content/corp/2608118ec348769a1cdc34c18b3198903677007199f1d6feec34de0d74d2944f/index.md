@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sector7
 description: W:0 L:4 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1708953767
+date: 2024-02-26T13:22:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Req: English Speaking, Login Daily & Have Fun.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1187)|
-| ELO Competitive | 1144 🔻  (1320)|
+| ELO Competitive | 1144 🔻  (1319)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

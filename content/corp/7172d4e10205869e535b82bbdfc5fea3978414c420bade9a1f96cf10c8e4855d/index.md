@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​지고받자
 description: W:0 L:9 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1703129890
+date: 2023-12-21T03:38:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

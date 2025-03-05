@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Paramedic ICU
 description: W:9 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1711617455
+date: 2024-03-28T09:17:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

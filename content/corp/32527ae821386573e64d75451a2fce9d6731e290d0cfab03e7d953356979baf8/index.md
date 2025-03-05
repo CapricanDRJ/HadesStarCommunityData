@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hail Hydra
 description: W:6 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1723153186
+date: 2024-08-08T21:39:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

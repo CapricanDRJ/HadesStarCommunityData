@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ToC
 description: W:3 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1720624874
+date: 2024-07-10T15:21:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

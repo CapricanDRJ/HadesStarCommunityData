@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​猎户座星云
 description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1716034724
+date: 2024-05-18T12:18:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

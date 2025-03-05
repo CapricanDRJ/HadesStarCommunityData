@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SiriusStrawMoo
 description: W:17 L:9 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1735924963
+date: 2025-01-03T17:22:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ ess. White star participation required
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1260 🔻  (243)|
-| ELO Competitive | 1294 🔻  (312)|
+| ELO Competitive | 1294 🔻  (311)|
 | Total Matches | 28 |
 | Wins | 17 |
 | Losses | 9 |

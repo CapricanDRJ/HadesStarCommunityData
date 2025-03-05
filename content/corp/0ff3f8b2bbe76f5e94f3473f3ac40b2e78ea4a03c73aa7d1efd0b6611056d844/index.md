@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СвятыеНегодники
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1699198575
+date: 2023-11-05T15:36:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

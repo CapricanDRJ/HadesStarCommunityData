@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​U.Y.E.U.
 description: W:4 L:14 D:4 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740142952
+date: 2025-02-21T13:02:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

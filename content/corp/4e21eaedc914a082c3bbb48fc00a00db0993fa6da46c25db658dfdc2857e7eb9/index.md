@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​边际的文明
 description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1702847100
+date: 2023-12-17T21:05:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,7 +28,7 @@ date: 1702847100
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1198)|
-| ELO Competitive | 1145 🔻  (1317)|
+| ELO Competitive | 1145 🔻  (1316)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

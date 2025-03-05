@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CODEX IMPERIUS
 description: W:2 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1711739765
+date: 2024-03-29T19:16:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ do. Listo para sumarte a nuestras filas?
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1260)|
-| ELO Competitive | 1147 🔻  (1308)|
+| ELO Competitive | 1147 🔻  (1307)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 7 |

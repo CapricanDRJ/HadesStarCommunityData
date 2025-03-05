@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Neutro Corpo
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1713971404
+date: 2024-04-24T15:10:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

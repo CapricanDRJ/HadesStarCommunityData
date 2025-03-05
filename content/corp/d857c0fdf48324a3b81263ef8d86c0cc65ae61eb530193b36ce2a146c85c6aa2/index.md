@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nooooobs
 description: W:2 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1705181761
+date: 2024-01-13T21:36:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

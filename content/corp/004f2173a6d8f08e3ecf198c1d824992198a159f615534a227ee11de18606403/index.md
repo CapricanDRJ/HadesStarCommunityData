@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​红星超新星爆炸
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707881714
+date: 2024-02-14T03:35:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

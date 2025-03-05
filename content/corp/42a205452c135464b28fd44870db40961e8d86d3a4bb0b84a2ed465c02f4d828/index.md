@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​X-wing
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1709557424
+date: 2024-03-04T13:03:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Retarts
 description: W:25 L:37 D:2 Bonus ❌ 9%
 image: ./favicon.png
-date: 1736110656
+date: 2025-01-05T20:57:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​九州·华夏
 description: W:3 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740617173
+date: 2025-02-27T00:46:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

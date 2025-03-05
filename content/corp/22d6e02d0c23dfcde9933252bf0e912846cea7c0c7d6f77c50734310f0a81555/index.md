@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Atlas SLV-1
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1708399924
+date: 2024-02-20T03:32:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

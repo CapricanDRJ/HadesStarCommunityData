@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​斯比纳兰
 description: W:6 L:15 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1736681657
+date: 2025-01-12T11:34:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ date: 1736681657
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1318)|
-| ELO Competitive | 1149 🔻  (1301)|
+| ELO Competitive | 1149 🔻  (1300)|
 | Total Matches | 22 |
 | Wins | 6 |
 | Losses | 15 |

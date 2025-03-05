@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Тёмный Феникс
 description: W:0 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1725661259
+date: 2024-09-06T22:20:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

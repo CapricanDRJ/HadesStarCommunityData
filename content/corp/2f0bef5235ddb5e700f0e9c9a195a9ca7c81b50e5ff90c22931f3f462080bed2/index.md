@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​💮問鼎無垠💮
 description: W:7 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740891522
+date: 2025-03-02T04:58:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

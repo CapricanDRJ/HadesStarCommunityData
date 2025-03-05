@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SpaceX
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1735203235
+date: 2024-12-26T08:53:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

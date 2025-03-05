@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​BrinySeal
 description: W:70 L:31 D:3 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740785755
+date: 2025-02-28T23:35:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

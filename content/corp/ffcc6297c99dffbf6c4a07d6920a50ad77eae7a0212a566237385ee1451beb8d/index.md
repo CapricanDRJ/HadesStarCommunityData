@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gardiens détoil
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1712989452
+date: 2024-04-13T06:24:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

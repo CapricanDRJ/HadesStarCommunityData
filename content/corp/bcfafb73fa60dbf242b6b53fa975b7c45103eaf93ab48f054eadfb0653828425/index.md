@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hyperion Radius
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1700089470
+date: 2023-11-15T23:04:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

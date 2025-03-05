@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​雪月永恒
 description: W:7 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1730381858
+date: 2024-10-31T13:37:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

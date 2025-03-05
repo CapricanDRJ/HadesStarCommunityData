@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ISERLOHN
 description: W:7 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1727192760
+date: 2024-09-24T15:46:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

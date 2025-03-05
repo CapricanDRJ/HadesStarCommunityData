@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​WR104
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1732674359
+date: 2024-11-27T02:25:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ Eligius 
 description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1710590459
+date: 2024-03-16T12:00:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

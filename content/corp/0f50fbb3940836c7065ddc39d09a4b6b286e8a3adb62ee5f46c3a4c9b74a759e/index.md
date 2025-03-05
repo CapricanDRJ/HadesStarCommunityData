@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Black Mirror Co
 description: W:0 L:1 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1702214121
+date: 2023-12-10T13:15:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

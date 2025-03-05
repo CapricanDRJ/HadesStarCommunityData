@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​使命白星分团
 description: W:0 L:3 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1723378267
+date: 2024-08-11T12:11:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

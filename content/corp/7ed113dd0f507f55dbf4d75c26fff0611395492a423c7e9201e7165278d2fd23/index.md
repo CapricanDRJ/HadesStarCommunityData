@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Panda clan 
 description: W:5 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739478553
+date: 2025-02-13T20:29:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,8 +22,8 @@ OA's Discord: https://discord.gg/2wyNuxb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (321)|
-| ELO Competitive | 1247 🔺  (436)|
+| ELO Regular | 1238 🔺  (320)|
+| ELO Competitive | 1247 🔺  (437)|
 | Total Matches | 8 |
 | Wins | 5 |
 | Losses | 3 |

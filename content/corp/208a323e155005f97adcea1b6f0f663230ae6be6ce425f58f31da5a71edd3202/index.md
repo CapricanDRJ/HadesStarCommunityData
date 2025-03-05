@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​УпсПриехали
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1705149299
+date: 2024-01-13T12:34:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

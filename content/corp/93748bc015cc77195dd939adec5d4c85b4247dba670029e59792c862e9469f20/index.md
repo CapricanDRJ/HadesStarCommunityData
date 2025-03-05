@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Наша Вселенная
 description: W:0 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1701216316
+date: 2023-11-29T00:05:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

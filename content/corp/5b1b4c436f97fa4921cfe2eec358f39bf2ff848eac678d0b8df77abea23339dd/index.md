@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Planet Express
 description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1705985522
+date: 2024-01-23T04:52:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ dead corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1114)|
+| ELO Regular | 1158 🔻  (1113)|
 | ELO Competitive | 1158 🔻  (1250)|
 | Total Matches | 3 |
 | Wins | 0 |

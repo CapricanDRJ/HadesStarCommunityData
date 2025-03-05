@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​hades star萌新指引站
 description: W:13 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739280814
+date: 2025-02-11T13:33:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

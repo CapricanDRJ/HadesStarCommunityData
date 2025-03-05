@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rozen Family
 description: W:1 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1709148762
+date: 2024-02-28T19:32:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

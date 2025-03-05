@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ETER & CAOS
 description: W:3 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740812792
+date: 2025-03-01T07:06:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740812792
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (282)|
+| ELO Regular | 1246 🔺  (281)|
 | ELO Competitive | 1267 🔺  (380)|
 | Total Matches | 3 |
 | Wins | 3 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Fishy Business 
 description: W:1 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1731245191
+date: 2024-11-10T13:26:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

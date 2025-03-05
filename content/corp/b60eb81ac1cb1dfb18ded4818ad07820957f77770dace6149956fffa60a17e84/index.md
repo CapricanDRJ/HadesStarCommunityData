@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nebula alliance
 description: W:7 L:3 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737964601
+date: 2025-01-27T07:56:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

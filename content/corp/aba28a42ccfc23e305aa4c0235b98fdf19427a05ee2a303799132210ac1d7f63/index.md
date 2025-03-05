@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Die Mafia
 description: W:0 L:0 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1708916623
+date: 2024-02-26T03:03:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

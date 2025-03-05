@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Blood Hounds
 description: W:96 L:24 D:1 Bonus ✅ 44%
 image: ./favicon.png
-date: 1740623727
+date: 2025-02-27T02:35:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

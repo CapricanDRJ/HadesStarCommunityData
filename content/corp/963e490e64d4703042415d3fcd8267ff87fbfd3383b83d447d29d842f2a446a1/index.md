@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​KLM
 description: W:15 L:43 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1739926291
+date: 2025-02-19T00:51:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

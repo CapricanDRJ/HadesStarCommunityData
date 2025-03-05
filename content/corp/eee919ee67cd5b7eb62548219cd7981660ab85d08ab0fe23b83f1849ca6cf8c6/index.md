@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​On en a Gros ! 
 description: W:34 L:41 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740829317
+date: 2025-03-01T11:41:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

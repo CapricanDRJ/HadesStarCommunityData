@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Спутник
 description: W:36 L:12 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1735362489
+date: 2024-12-28T05:08:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

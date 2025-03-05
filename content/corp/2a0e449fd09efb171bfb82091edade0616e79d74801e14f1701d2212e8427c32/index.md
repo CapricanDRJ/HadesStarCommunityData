@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​R2D2
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1703244396
+date: 2023-12-22T11:26:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

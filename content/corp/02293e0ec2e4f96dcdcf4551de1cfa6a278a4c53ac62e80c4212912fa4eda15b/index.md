@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​White Dwarf
 description: W:52 L:22 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1740749689
+date: 2025-02-28T13:34:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

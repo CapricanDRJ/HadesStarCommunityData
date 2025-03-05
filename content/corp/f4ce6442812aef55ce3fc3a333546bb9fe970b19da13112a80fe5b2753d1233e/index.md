@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Latinos :)
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1740697109
+date: 2025-02-27T22:58:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ NSE
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1142)|
+| ELO Regular | 1154 🔻  (1141)|
 | ELO Competitive | 1161 🔻  (1229)|
 | Total Matches | 3 |
 | Wins | 0 |

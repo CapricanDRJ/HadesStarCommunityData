@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Interestelar
 description: W:20 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740831421
+date: 2025-03-01T12:17:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

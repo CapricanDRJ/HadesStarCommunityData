@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​✨ Love Room✨
 description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740716383
+date: 2025-02-28T04:19:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

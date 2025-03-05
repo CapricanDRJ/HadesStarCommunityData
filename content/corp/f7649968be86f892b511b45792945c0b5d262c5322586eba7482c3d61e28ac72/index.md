@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​STARBLAZER 
 description: W:2 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707871199
+date: 2024-02-14T00:39:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

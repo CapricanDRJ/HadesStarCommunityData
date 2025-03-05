@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Quantum Cats
 description: W:9 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739292837
+date: 2025-02-11T16:53:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ lease join us on Discord and don't be a stranger!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (606)|
-| ELO Competitive | 1246 🔻  (438)|
+| ELO Competitive | 1246 🔻  (439)|
 | Total Matches | 19 |
 | Wins | 9 |
 | Losses | 10 |

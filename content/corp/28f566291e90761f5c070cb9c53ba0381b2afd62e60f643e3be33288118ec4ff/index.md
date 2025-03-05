@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Astra Ultima
 description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1700916068
+date: 2023-11-25T12:41:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

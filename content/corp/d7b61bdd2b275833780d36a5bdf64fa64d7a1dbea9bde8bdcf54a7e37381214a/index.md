@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cydonia
 description: W:1 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
-date: 1725693704
+date: 2024-09-07T07:21:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Covenant
 description: W:0 L:2 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1700156206
+date: 2023-11-16T17:36:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

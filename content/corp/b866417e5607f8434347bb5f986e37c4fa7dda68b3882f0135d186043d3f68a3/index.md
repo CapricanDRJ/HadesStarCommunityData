@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​VoidCorp
 description: W:43 L:31 D:1 Bonus ❌ 14%
 image: ./favicon.png
-date: 1741029759
+date: 2025-03-03T19:22:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ e.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔻  (134)|
+| ELO Regular | 1326 🔻  (135)|
 | ELO Competitive | 1420 🔻  (130)|
 | Total Matches | 75 |
 | Wins | 43 |

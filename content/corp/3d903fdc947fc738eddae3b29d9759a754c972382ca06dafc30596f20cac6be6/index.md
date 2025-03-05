@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Fang Empire
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1734895563
+date: 2024-12-22T19:26:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1734895563
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1148)|
+| ELO Regular | 1153 🔻  (1147)|
 | ELO Competitive | 1159 🔻  (1241)|
 | Total Matches | 3 |
 | Wins | 0 |

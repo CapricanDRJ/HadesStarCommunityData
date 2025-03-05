@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​泰拉瑞亚
 description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709604001
+date: 2024-03-05T02:00:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

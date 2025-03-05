@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dying stars
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709592586
+date: 2024-03-04T22:49:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

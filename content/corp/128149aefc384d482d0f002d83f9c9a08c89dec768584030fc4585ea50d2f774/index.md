@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​リリース
 description: W:63 L:27 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740978974
+date: 2025-03-03T05:16:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

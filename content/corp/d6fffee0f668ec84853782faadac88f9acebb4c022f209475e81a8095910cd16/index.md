@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Welcome 欢迎
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1728573607
+date: 2024-10-10T15:20:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ nking members.                     首席First Officer：狂妄的神（会离�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1112)|
+| ELO Regular | 1158 🔻  (1111)|
 | ELO Competitive | 1172 🔻  (1133)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Корпорация Миф
 description: W:8 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1715551301
+date: 2024-05-12T22:01:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​АарнСарт 
 description: W:12 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1740823908
+date: 2025-03-01T10:11:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

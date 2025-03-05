@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RATAS
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1710112112
+date: 2024-03-10T23:08:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

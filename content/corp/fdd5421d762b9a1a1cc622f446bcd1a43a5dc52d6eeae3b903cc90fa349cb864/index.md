@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Anarchy
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1699241346
+date: 2023-11-06T03:29:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

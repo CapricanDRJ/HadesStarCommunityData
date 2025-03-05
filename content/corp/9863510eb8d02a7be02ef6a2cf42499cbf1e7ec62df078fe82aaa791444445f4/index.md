@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​КМБ
 description: W:6 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1725065653
+date: 2024-08-31T00:54:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

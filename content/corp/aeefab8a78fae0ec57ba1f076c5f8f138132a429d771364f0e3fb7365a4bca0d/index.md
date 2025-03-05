@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ukrain Alliance
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1706577340
+date: 2024-01-30T01:15:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

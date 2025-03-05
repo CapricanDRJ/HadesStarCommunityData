@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dirty Minds Inc
 description: W:5 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1733511264
+date: 2024-12-06T18:54:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

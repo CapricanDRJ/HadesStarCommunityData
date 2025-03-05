@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​КЕДР
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1709890357
+date: 2024-03-08T09:32:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

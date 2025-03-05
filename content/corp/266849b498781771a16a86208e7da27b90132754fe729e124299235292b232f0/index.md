@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​无名集团
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1705402631
+date: 2024-01-16T10:57:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​FURIA 2.0
 description: W:16 L:27 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740859073
+date: 2025-03-01T19:57:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

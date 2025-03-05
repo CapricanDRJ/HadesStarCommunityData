@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​HAL
 description: W:3 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1739504692
+date: 2025-02-14T03:44:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1739504692
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (364)|
+| ELO Regular | 1225 🔻  (366)|
 | ELO Competitive | 1225 🔻  (508)|
 | Total Matches | 5 |
 | Wins | 3 |

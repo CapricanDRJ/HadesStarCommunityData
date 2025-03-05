@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​夢幻之星＊分盟＊
 description: W:2 L:10 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1729423231
+date: 2024-10-20T11:20:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

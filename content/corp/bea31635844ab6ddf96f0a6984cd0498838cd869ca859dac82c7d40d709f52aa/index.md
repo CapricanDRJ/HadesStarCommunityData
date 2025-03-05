@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​群星璀璨
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1720614052
+date: 2024-07-10T12:20:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

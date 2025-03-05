@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Valhalla Rising
 description: W:22 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1728493664
+date: 2024-10-09T17:07:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

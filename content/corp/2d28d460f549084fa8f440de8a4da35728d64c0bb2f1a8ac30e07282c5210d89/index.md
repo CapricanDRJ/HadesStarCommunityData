@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Consortium
 description: W:2 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1733958063
+date: 2024-12-11T23:01:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

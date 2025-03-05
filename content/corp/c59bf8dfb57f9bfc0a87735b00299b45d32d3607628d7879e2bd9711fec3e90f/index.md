@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​empire
 description: W:1 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1732287246
+date: 2024-11-22T14:54:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ dont give in we help each other in start a White star ever 2 day
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (1133)|
+| ELO Regular | 1155 🔺  (1132)|
 | ELO Competitive | 1163 🔺  (1218)|
 | Total Matches | 6 |
 | Wins | 1 |

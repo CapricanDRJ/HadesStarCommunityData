@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​☆Sternenkrieger
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1733684034
+date: 2024-12-08T18:53:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

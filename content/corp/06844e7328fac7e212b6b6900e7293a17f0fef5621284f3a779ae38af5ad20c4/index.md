@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Liasteria
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1710800150
+date: 2024-03-18T22:15:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

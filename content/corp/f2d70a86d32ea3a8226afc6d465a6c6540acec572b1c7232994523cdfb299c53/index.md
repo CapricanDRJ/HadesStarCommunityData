@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​✡天启✡
 description: W:25 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1723740983
+date: 2024-08-15T16:56:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

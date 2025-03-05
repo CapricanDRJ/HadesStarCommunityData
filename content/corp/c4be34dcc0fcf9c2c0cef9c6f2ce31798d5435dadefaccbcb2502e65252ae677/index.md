@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​纸鸢台
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1726040459
+date: 2024-09-11T07:40:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,8 +28,8 @@ date: 1726040459
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (280)|
-| ELO Competitive | 1249 🔺  (432)|
+| ELO Regular | 1247 🔺  (279)|
+| ELO Competitive | 1249 🔺  (433)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

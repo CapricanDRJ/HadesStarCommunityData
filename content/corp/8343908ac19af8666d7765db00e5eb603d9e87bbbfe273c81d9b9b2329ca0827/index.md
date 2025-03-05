@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Inexorable
 description: W:18 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1713540223
+date: 2024-04-19T15:23:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ We are a paused corp, join or stay at your own risk, but check us out
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (353)|
-| ELO Competitive | 1286 🔻  (331)|
+| ELO Regular | 1229 🔻  (354)|
+| ELO Competitive | 1286 🔻  (330)|
 | Total Matches | 29 |
 | Wins | 18 |
 | Losses | 11 |

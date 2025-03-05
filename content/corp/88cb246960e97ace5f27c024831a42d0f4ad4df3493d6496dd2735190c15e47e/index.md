@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​北冥星云
 description: W:1 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1733580670
+date: 2024-12-07T14:11:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

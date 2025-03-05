@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Canada 55
 description: W:2 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1702928532
+date: 2023-12-18T19:42:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,7 +26,7 @@ Join Discord here: <b>EEpZuWf</b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔺  (333)|
-| ELO Competitive | 1234 🔺  (474)|
+| ELO Competitive | 1234 🔺  (475)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

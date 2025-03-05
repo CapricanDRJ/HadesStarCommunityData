@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​하데스 스타 코리아
 description: W:9 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1711680863
+date: 2024-03-29T02:54:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1711680863
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (315)|
+| ELO Regular | 1239 🔺  (314)|
 | ELO Competitive | 1307 🔺  (282)|
 | Total Matches | 16 |
 | Wins | 9 |

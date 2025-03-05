@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Grand Mechanism
 description: W:2 L:5 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1705013769
+date: 2024-01-11T22:56:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

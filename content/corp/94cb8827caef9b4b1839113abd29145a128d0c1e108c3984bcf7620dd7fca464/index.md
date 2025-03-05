@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Outland Ind.
 description: W:39 L:11 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1740211166
+date: 2025-02-22T07:59:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

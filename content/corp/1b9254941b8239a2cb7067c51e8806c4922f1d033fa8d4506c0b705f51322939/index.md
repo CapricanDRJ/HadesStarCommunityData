@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Slovensko-Activ
 description: W:0 L:16 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1732562884
+date: 2024-11-25T19:28:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Draconis
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1701076397
+date: 2023-11-27T09:13:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

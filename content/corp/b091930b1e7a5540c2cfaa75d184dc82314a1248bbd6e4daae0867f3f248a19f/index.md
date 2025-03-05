@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ещё один Миф
 description: W:12 L:19 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740883411
+date: 2025-03-02T02:43:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

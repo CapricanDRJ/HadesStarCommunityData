@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Бестрашный лиги
 description: W:3 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1722211667
+date: 2024-07-29T00:07:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

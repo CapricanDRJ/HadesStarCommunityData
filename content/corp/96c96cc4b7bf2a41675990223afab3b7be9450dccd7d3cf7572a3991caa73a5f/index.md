@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Austria 
 description: W:2 L:2 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1701466685
+date: 2023-12-01T21:38:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

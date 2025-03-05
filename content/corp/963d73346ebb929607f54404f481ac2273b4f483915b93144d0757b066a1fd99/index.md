@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Вселенские 40%
 description: W:30 L:37 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740656234
+date: 2025-02-27T11:37:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

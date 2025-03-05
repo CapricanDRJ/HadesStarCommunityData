@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​-=Содружество=-
 description: W:19 L:8 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1715160901
+date: 2024-05-08T09:35:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

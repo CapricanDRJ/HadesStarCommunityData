@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​白星成就团
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1732630187
+date: 2024-11-26T14:09:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

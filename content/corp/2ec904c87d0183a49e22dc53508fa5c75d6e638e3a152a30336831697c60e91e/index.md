@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Axioma
 description: W:11 L:28 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740698010
+date: 2025-02-27T23:13:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

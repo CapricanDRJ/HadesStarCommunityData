@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​逐光起航
 description: W:9 L:40 D:6 Bonus ❌ 6%
 image: ./favicon.png
-date: 1737094292
+date: 2025-01-17T06:11:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Omega corp
 description: W:8 L:5 D:3 Bonus ❌ 5%
 image: ./favicon.png
-date: 1733758394
+date: 2024-12-09T15:33:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ ars2-7. white stars every week
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (305)|
+| ELO Regular | 1240 🔺  (304)|
 | ELO Competitive | 1258 🔺  (406)|
 | Total Matches | 16 |
 | Wins | 8 |

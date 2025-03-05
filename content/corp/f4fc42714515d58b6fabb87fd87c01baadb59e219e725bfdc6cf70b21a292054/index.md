@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Orphans Of Kos
 description: W:5 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707429599
+date: 2024-02-08T21:59:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

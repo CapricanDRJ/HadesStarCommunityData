@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Eternal empire 
 description: W:7 L:15 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1714808450
+date: 2024-05-04T07:40:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

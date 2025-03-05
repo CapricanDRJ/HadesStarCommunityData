@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Nightmares 
 description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1716459858
+date: 2024-05-23T10:24:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

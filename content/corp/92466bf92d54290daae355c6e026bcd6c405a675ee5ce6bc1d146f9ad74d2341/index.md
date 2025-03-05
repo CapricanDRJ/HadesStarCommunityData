@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ТРУЛЯЛЯ
 description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1738687592
+date: 2025-02-04T16:46:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

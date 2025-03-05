@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dansk
 description: W:0 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1702701316
+date: 2023-12-16T04:35:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Her taler vi dansk (Danish only)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (1184)|
-| ELO Competitive | 1145 🔻  (1316)|
+| ELO Competitive | 1145 🔻  (1315)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

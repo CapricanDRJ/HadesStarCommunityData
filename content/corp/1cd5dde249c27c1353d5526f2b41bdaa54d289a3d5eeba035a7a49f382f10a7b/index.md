@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Belters
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1724334493
+date: 2024-08-22T13:48:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1724334493
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1139)|
+| ELO Regular | 1154 🔻  (1138)|
 | ELO Competitive | 1156 🔻  (1267)|
 | Total Matches | 3 |
 | Wins | 0 |

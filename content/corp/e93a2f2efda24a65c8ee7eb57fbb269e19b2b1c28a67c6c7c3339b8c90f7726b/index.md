@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Alpaca Haven
 description: W:18 L:27 D:1 Bonus ❌ 14%
 image: ./favicon.png
-date: 1738978212
+date: 2025-02-08T01:30:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

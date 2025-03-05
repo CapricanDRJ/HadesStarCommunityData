@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Celtic Imperium
 description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1705578729
+date: 2024-01-18T11:52:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

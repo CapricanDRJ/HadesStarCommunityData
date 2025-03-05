@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Darkest Hour
 description: W:1 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1725453598
+date: 2024-09-04T12:39:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​代代守护你的神明
 description: W:8 L:12 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1729602647
+date: 2024-10-22T13:10:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ q群：741078259
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1142 🔻  (1203)|
-| ELO Competitive | 1241 🔺  (454)|
+| ELO Competitive | 1241 🔺  (455)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 12 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bunker
 description: W:30 L:29 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1725445905
+date: 2024-09-04T10:31:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

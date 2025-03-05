@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​拆迁大队
 description: W:15 L:39 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739266990
+date: 2025-02-11T09:43:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

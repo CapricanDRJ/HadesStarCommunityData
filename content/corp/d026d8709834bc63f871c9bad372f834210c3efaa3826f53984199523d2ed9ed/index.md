@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​万星联盟
 description: W:49 L:10 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740749689
+date: 2025-02-28T13:34:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

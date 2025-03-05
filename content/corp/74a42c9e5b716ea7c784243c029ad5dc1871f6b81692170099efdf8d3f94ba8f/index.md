@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​遨游星空  kdy分盟
 description: W:13 L:18 D:1 Bonus ❌ 10%
 image: ./favicon.png
-date: 1721625973
+date: 2024-07-22T05:26:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

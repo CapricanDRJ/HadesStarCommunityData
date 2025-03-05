@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Blue Dwarf
 description: W:6 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1736908991
+date: 2025-01-15T02:43:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ weekly White Stars - enable scanner to opt-in! Discord advised
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (296)|
-| ELO Competitive | 1284 🔺  (339)|
+| ELO Regular | 1242 🔻  (295)|
+| ELO Competitive | 1284 🔺  (338)|
 | Total Matches | 9 |
 | Wins | 6 |
 | Losses | 3 |

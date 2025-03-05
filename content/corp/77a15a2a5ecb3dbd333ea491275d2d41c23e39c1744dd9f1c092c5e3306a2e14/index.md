@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Noobs
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1702178062
+date: 2023-12-10T03:14:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

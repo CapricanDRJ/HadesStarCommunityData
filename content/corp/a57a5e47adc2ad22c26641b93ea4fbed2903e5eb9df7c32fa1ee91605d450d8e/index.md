@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Doomsday
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1715246850
+date: 2024-05-09T09:27:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CTG
 description: W:39 L:39 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740771030
+date: 2025-02-28T19:30:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

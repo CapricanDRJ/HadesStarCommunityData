@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​mijael siuuuuuu
 description: W:0 L:13 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1722229384
+date: 2024-07-29T05:03:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

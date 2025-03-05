@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Venture
 description: W:8 L:22 D:4 Bonus ❌ 6%
 image: ./favicon.png
-date: 1720229381
+date: 2024-07-06T01:29:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

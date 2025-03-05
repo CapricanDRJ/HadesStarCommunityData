@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​New Orbit ©
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1706202597
+date: 2024-01-25T17:09:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

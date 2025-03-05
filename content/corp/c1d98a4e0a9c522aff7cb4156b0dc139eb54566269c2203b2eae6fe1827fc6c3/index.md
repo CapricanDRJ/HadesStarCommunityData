@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Brasil
 description: W:5 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1741105177
+date: 2025-03-04T16:19:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

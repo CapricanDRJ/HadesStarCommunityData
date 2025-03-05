@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星河绮梦
 description: W:38 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1738721549
+date: 2025-02-05T02:12:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

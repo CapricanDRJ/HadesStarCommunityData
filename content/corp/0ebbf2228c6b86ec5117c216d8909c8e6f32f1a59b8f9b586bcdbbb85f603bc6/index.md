@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Greek Warriors
 description: W:13 L:30 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740523420
+date: 2025-02-25T22:43:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

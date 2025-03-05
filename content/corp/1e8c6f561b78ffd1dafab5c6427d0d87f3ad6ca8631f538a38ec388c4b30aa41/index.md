@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Nerd Herd
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1712463334
+date: 2024-04-07T04:15:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

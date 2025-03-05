@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Торг. федерация
 description: W:12 L:15 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1732806878
+date: 2024-11-28T15:14:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,8 +23,8 @@ https://discord.gg/E67DY45fPC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (360)|
-| ELO Competitive | 1280 🔺  (350)|
+| ELO Regular | 1226 🔺  (362)|
+| ELO Competitive | 1280 🔺  (349)|
 | Total Matches | 27 |
 | Wins | 12 |
 | Losses | 15 |

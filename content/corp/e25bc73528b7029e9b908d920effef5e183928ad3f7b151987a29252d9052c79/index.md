@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​phoenix clan
 description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1708438086
+date: 2024-02-20T14:08:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ iscord required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (317)|
-| ELO Competitive | 1239 🔺  (461)|
+| ELO Regular | 1238 🔺  (316)|
+| ELO Competitive | 1239 🔺  (462)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

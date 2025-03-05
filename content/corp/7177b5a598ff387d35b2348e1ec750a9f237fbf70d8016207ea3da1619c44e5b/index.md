@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​death squadron 
 description: W:18 L:22 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1719396058
+date: 2024-06-26T10:00:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ quadron<br>weekly white stars<br>private red stars 3 to 8
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (1045)|
-| ELO Competitive | 1245 🔻  (443)|
+| ELO Competitive | 1245 🔻  (444)|
 | Total Matches | 40 |
 | Wins | 18 |
 | Losses | 22 |

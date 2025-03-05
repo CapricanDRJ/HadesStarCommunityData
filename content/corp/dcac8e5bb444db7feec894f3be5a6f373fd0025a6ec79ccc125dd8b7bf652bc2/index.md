@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​很多星球的社会主义团
 description: W:14 L:24 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740833825
+date: 2025-03-01T12:57:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

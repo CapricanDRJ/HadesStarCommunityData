@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Drużyna B
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1703105850
+date: 2023-12-20T20:57:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

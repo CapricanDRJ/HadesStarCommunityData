@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ComInterns
 description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1718905637
+date: 2024-06-20T17:47:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

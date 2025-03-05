@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​FirstAllegiance
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1707455738
+date: 2024-02-09T05:15:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

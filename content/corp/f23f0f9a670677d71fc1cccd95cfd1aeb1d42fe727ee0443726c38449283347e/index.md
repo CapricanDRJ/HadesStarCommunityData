@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​42 Nova Corps.
 description: W:2 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1706899492
+date: 2024-02-02T18:44:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

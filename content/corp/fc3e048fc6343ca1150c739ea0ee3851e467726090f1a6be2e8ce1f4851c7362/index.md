@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ГОРИЗОНТ
 description: W:31 L:86 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1740787557
+date: 2025-03-01T00:05:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

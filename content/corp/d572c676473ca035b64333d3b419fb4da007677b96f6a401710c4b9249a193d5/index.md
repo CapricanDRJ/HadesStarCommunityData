@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Укр інтроверти
 description: W:1 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738669958
+date: 2025-02-04T11:52:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

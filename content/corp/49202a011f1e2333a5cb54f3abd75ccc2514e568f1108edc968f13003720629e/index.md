@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Dwarf
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1711419771
+date: 2024-03-26T02:22:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

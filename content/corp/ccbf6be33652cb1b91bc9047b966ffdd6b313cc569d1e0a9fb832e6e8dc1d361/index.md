@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​数字星际集团
 description: W:8 L:11 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1730056727
+date: 2024-10-27T19:18:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

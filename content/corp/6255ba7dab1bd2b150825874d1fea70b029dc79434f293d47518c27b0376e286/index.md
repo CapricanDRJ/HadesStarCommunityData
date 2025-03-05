@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Penguins
 description: W:50 L:21 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740230997
+date: 2025-02-22T13:29:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

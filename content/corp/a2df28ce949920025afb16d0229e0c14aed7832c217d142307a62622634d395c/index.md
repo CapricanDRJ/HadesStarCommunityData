@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Elite
 description: W:12 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1724677169
+date: 2024-08-26T12:59:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

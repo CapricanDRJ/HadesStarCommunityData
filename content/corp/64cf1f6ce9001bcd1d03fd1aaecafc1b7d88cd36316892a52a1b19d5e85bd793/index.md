@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​lost souls
 description: W:28 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1725637514
+date: 2024-09-06T15:45:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Blue Space
 description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707514645
+date: 2024-02-09T21:37:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

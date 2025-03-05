@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Stardust
 description: W:3 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740487339
+date: 2025-02-25T12:42:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Black Star llc.
 description: W:39 L:23 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740544449
+date: 2025-02-26T04:34:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

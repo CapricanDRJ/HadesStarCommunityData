@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Uchiha
 description: W:3 L:12 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716917436
+date: 2024-05-28T17:30:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

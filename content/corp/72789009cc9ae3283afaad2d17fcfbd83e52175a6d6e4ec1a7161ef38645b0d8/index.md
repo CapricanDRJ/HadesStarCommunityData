@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Alliance
 description: W:22 L:30 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740953736
+date: 2025-03-02T22:15:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ English speaking – would you want to communicate
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1218)|
-| ELO Competitive | 1239 🔻  (462)|
+| ELO Competitive | 1239 🔻  (463)|
 | Total Matches | 54 |
 | Wins | 22 |
 | Losses | 30 |

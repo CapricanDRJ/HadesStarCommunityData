@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Serenity
 description: W:0 L:2 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1702422706
+date: 2023-12-12T23:11:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

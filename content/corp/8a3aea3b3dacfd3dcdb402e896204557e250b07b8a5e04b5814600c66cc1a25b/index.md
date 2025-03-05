@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Famous Assasins
 description: W:68 L:14 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1740945920
+date: 2025-03-02T20:05:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

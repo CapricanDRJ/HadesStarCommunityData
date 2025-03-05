@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Proxima
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1731754513
+date: 2024-11-16T10:55:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star Raiders
 description: W:0 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1708890039
+date: 2024-02-25T19:40:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

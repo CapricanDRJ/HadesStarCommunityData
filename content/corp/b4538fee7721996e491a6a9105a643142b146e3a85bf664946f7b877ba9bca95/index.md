@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ArcadianVoiders
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1705597966
+date: 2024-01-18T17:12:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

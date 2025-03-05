@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Galxey █
 description: W:5 L:29 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1713636340
+date: 2024-04-20T18:05:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

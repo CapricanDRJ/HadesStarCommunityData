@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​天琴座联邦
 description: W:6 L:9 D:2 Bonus ❌ 
 image: ./favicon.png
-date: 1740894827
+date: 2025-03-02T05:53:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

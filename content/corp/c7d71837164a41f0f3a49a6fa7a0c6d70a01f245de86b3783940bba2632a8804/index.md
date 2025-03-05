@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​新手联邦（新经济开发区）
 description: W:27 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1713013190
+date: 2024-04-13T12:59:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

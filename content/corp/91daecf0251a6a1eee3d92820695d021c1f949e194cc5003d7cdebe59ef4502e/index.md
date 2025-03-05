@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TROLL SQUAD
 description: W:11 L:5 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1705901181
+date: 2024-01-22T05:26:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

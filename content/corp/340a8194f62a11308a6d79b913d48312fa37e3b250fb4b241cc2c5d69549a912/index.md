@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​SYNDICATE
 description: W:5 L:0 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1701301973
+date: 2023-11-29T23:52:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

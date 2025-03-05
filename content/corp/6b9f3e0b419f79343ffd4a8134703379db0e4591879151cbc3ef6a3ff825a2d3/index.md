@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Winged Pheonix
 description: W:16 L:22 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740752996
+date: 2025-02-28T14:29:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ Discord: sqaDS62zfW
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1149 🔺  (1165)|
-| ELO Competitive | 1250 🔺  (430)|
+| ELO Competitive | 1250 🔺  (431)|
 | Total Matches | 38 |
 | Wins | 16 |
 | Losses | 22 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​KARI
 description: W:2 L:66 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1730868965
+date: 2024-11-06T04:56:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

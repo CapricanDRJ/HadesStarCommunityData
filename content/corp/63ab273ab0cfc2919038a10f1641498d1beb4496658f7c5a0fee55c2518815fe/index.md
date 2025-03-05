@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gulinga
 description: W:0 L:2 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1700612819
+date: 2023-11-22T00:26:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

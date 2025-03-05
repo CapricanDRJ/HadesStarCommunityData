@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​TERRA P
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1718659061
+date: 2024-06-17T21:17:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

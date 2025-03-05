@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Эдельвейс
 description: W:0 L:3 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1701058584
+date: 2023-11-27T04:16:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ date: 1701058584
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1125)|
+| ELO Regular | 1156 🔻  (1124)|
 | ELO Competitive | 1185 🔻  (957)|
 | Total Matches | 4 |
 | Wins | 0 |

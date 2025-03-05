@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Uniones
 description: W:0 L:5 D:2 Bonus ❌ 1%
 image: ./favicon.png
-date: 1733011558
+date: 2024-12-01T00:05:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Russia 
 description: W:2 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1711683867
+date: 2024-03-29T03:44:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

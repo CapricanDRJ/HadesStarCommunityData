@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​宇宙警察
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1701915990
+date: 2023-12-07T02:26:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

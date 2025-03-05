@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galaktika corp
 description: W:16 L:19 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735122707
+date: 2024-12-25T10:31:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

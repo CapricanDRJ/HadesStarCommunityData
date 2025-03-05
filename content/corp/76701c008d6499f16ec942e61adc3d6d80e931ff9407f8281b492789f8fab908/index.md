@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​New Star
 description: W:5 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1735685180
+date: 2024-12-31T22:46:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ ut other languages tolerated.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (316)|
+| ELO Regular | 1238 🔺  (315)|
 | ELO Competitive | 1272 🔺  (366)|
 | Total Matches | 11 |
 | Wins | 5 |

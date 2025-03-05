@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​萌新集团
 description: W:8 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1741088646
+date: 2025-03-04T11:44:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1741088646
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔻  (222)|
-| ELO Competitive | 1282 🔻  (343)|
+| ELO Competitive | 1282 🔻  (342)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 3 |

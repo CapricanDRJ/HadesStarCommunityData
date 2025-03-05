@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​brit boys
 description: W:1 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1700408082
+date: 2023-11-19T15:34:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

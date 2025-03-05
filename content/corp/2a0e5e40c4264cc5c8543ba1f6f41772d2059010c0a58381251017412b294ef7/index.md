@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​华夏三体-基沃托斯集团
 description: W:3 L:10 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1739017873
+date: 2025-02-08T12:31:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

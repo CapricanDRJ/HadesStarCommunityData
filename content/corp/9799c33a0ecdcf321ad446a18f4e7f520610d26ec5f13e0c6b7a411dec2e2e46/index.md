@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Weyland Yutani 
 description: W:12 L:25 D:3 Bonus ❌ 6%
 image: ./favicon.png
-date: 1724210928
+date: 2024-08-21T03:28:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

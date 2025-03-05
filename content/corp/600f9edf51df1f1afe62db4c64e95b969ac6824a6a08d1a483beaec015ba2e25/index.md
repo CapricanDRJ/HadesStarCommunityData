@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​地球联合
 description: W:12 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1723897846
+date: 2024-08-17T12:30:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

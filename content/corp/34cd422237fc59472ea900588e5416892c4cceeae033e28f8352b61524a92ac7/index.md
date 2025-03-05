@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​CCCP
 description: W:1 L:7 D:3 Bonus ❌ 3%
 image: ./favicon.png
-date: 1726918839
+date: 2024-09-21T11:40:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

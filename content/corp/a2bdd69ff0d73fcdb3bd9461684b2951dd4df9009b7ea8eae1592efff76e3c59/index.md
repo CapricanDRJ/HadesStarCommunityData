@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Curcubeu
 description: W:17 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1736175250
+date: 2025-01-06T14:54:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ a browser: https://dsc.gg/sah
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1377)|
+| ELO Regular | 1073 🔻  (1376)|
 | ELO Competitive | 1187 🔻  (866)|
 | Total Matches | 39 |
 | Wins | 17 |

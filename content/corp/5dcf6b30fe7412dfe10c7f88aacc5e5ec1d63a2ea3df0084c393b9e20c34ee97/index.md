@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Galaxian
 description: W:18 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1718353206
+date: 2024-06-14T08:20:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

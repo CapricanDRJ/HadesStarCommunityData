@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Os Guild
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739698265
+date: 2025-02-16T09:31:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

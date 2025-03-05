@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ReylZ
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1716618499
+date: 2024-05-25T06:28:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

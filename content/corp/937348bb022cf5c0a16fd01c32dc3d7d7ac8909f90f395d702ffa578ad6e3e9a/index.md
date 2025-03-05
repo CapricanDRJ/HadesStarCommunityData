@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​@ncient £ibrary
 description: W:0 L:1 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1699698176
+date: 2023-11-11T10:22:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

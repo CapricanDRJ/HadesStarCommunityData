@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​United Gardiens
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1736104047
+date: 2025-01-05T19:07:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

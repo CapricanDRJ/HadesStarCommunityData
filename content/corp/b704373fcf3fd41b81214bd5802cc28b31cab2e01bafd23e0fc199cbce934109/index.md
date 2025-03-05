@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​pegaso
 description: W:0 L:4 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1710487997
+date: 2024-03-15T07:33:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

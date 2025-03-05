@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​System Shocker 
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740251738
+date: 2025-02-22T19:15:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740251738
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (417)|
+| ELO Regular | 1215 🔺  (418)|
 | ELO Competitive | 1223 🔺  (518)|
 | Total Matches | 1 |
 | Wins | 1 |

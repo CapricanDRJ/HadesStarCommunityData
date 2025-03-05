@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Octoberpierynm
 description: W:0 L:1 D:0 Bonus ❌ 12%
 image: ./favicon.png
-date: 1699235103
+date: 2023-11-06T01:45:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

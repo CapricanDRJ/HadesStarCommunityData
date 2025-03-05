@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UAGC
 description: W:46 L:34 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740759308
+date: 2025-02-28T16:15:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

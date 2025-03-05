@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Vermilion
 description: W:1 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1709878939
+date: 2024-03-08T06:22:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ gg/i/27LVznwk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1155)|
+| ELO Regular | 1152 🔻  (1154)|
 | ELO Competitive | 1177 🔻  (1077)|
 | Total Matches | 7 |
 | Wins | 1 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Tormenta
 description: W:11 L:16 D:0 Bonus ✅ 42%
 image: ./favicon.png
-date: 1740925216
+date: 2025-03-02T14:20:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,7 +28,7 @@ JUNTOS SOMOS MAIS FORTES
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (591)|
-| ELO Competitive | 1247 🔺  (435)|
+| ELO Competitive | 1247 🔺  (436)|
 | Total Matches | 27 |
 | Wins | 11 |
 | Losses | 16 |

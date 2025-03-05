@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Redd Armada
 description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716212889
+date: 2024-05-20T13:48:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ r, John Redd. We do not serve under a flag but only through one ideal
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔻  (219)|
-| ELO Competitive | 1286 🔻  (332)|
+| ELO Competitive | 1286 🔻  (331)|
 | Total Matches | 10 |
 | Wins | 8 |
 | Losses | 2 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​StellarCorpIT
 description: W:8 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1728586532
+date: 2024-10-10T18:55:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

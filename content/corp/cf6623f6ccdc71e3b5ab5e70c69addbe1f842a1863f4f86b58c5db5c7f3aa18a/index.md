@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​G.O.D
 description: W:0 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1713871648
+date: 2024-04-23T11:27:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

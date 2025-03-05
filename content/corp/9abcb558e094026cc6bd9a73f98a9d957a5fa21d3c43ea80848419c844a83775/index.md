@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Alpha Galaxy
 description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-date: 1736495327
+date: 2025-01-10T07:48:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

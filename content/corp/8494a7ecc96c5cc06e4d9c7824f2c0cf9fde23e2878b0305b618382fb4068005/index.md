@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​黑色长城
 description: W:2 L:8 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1708606362
+date: 2024-02-22T12:52:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

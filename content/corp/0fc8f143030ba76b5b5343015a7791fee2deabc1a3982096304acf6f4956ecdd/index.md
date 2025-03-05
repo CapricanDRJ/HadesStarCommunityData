@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Karanth Corp.
 description: W:0 L:2 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1702033497
+date: 2023-12-08T11:04:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

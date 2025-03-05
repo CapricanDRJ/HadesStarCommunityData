@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​德意志联邦集团
 description: W:0 L:4 D:3 Bonus ❌ 3%
 image: ./favicon.png
-date: 1724560193
+date: 2024-08-25T04:29:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1724560193
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1211)|
-| ELO Competitive | 1145 🔻  (1315)|
+| ELO Competitive | 1145 🔻  (1314)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 4 |

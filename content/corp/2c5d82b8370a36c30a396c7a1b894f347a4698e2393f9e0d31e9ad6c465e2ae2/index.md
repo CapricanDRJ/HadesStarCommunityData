@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Quantum Jumpers
 description: W:4 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1719449551
+date: 2024-06-27T00:52:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

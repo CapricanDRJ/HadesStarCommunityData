@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Glashan
 description: W:12 L:47 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740652328
+date: 2025-02-27T10:32:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

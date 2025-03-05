@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​WhiteSTarfighte
 description: W:17 L:13 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740986185
+date: 2025-03-03T07:16:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Lets WiN all white Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (300)|
+| ELO Regular | 1241 🔻  (299)|
 | ELO Competitive | 1265 🔻  (388)|
 | Total Matches | 32 |
 | Wins | 17 |

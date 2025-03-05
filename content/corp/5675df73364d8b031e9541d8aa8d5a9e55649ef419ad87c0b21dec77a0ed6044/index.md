@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​nuevo mundo
 description: W:14 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740859674
+date: 2025-03-01T20:07:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sternenflotte
 description: W:25 L:28 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740910150
+date: 2025-03-02T10:09:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1216)|
-| ELO Competitive | 1239 🔻  (460)|
+| ELO Competitive | 1239 🔻  (461)|
 | Total Matches | 53 |
 | Wins | 25 |
 | Losses | 28 |

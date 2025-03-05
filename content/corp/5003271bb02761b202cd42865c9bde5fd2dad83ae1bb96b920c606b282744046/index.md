@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Avantgarde
 description: W:3 L:103 D:3 Bonus ❌ 9%
 image: ./favicon.png
-date: 1741086403
+date: 2025-03-04T11:06:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

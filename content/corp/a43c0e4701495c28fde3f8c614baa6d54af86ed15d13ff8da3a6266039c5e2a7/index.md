@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hades Seminary 
 description: W:2 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1707434406
+date: 2024-02-08T23:20:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ept our rules to get your member role!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (418)|
+| ELO Regular | 1215 🔺  (419)|
 | ELO Competitive | 1218 🔺  (546)|
 | Total Matches | 3 |
 | Wins | 2 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ДИВЕРСАНТЫ
 description: W:78 L:14 D:1 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740984383
+date: 2025-03-03T06:46:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Mass Effect
 description: W:35 L:28 D:1 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740875600
+date: 2025-03-02T00:33:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​六大天神
 description: W:118 L:65 D:2 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740967857
+date: 2025-03-03T02:10:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

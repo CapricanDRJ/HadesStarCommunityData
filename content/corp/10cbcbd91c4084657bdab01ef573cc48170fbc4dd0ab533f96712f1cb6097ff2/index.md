@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Дом Датэ
 description: W:41 L:30 D:0 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740772233
+date: 2025-02-28T19:50:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

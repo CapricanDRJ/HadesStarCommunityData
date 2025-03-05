@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​愿君仍常在
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1701425499
+date: 2023-12-01T10:11:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

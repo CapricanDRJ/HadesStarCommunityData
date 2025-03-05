@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Emergence
 description: W:47 L:3 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740916460
+date: 2025-03-02T11:54:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

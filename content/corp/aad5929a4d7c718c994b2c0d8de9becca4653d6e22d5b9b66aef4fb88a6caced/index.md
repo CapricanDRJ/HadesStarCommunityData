@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Invaders
 description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1734275933
+date: 2024-12-15T15:18:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

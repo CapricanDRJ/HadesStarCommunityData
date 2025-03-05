@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The 501st
 description: W:3 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1710338957
+date: 2024-03-13T14:09:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

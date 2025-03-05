@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Алый Феникс
 description: W:7 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731988934
+date: 2024-11-19T04:02:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

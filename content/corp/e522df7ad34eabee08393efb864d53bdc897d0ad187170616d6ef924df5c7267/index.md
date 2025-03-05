@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​银河护卫队
 description: W:14 L:18 D:3 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740697109
+date: 2025-02-27T22:58:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1740697109
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (841)|
-| ELO Competitive | 1291 🔺  (320)|
+| ELO Competitive | 1291 🔺  (319)|
 | Total Matches | 35 |
 | Wins | 14 |
 | Losses | 18 |

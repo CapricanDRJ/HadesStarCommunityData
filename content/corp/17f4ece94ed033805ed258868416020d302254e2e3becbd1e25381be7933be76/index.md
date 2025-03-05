@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Lacuna Holdings
 description: W:21 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1722539236
+date: 2024-08-01T19:07:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,8 +25,8 @@ RS 8-11 see Lacuna Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (313)|
-| ELO Competitive | 1285 🔻  (338)|
+| ELO Regular | 1239 🔻  (312)|
+| ELO Competitive | 1285 🔻  (337)|
 | Total Matches | 35 |
 | Wins | 21 |
 | Losses | 14 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Рагнарёк
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1703958954
+date: 2023-12-30T17:55:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

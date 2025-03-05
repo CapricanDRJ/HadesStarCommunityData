@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​O.E.B.
 description: W:0 L:2 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1705726588
+date: 2024-01-20T04:56:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

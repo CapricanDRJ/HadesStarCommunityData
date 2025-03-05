@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​海賊ギルド
 description: W:5 L:17 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1712643896
+date: 2024-04-09T06:24:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1712643896
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔺  (1371)|
+| ELO Regular | 1076 🔺  (1370)|
 | ELO Competitive | 1086 🔺  (1411)|
 | Total Matches | 22 |
 | Wins | 5 |

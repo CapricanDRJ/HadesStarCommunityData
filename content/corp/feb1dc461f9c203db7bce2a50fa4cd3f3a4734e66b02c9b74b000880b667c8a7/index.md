@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Poison Nebula
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1699229398
+date: 2023-11-06T00:09:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

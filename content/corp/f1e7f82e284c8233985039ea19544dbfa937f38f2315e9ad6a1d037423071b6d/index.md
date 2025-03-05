@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​RUFORS
 description: W:18 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
-date: 1740953736
+date: 2025-03-02T22:15:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

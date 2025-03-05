@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​銀河戰狼
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1712810060
+date: 2024-04-11T04:34:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

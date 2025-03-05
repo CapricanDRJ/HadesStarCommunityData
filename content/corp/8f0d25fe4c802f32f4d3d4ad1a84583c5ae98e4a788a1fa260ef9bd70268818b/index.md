@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第五星际
 description: W:3 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1711200115
+date: 2024-03-23T13:21:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ date: 1711200115
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (411)|
+| ELO Regular | 1216 🔺  (412)|
 | ELO Competitive | 1217 🔺  (553)|
 | Total Matches | 5 |
 | Wins | 3 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Séptimo Círculo
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1702414590
+date: 2023-12-12T20:56:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

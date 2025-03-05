@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​云浪山庄↕
 description: W:25 L:96 D:1 Bonus ❌ 11%
 image: ./favicon.png
-date: 1734853790
+date: 2024-12-22T07:49:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

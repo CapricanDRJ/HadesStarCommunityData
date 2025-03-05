@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​云浪度假村↕
 description: W:2 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1711163867
+date: 2024-03-23T03:17:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,7 +25,7 @@ date: 1711163867
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔺  (1214)|
-| ELO Competitive | 1146 🔺  (1312)|
+| ELO Competitive | 1146 🔺  (1311)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

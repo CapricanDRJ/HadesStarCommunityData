@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Odessa
 description: W:5 L:12 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1714120413
+date: 2024-04-26T08:33:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ https://t.me/+LzDMmSOsCmpjZDhi
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1237)|
-| ELO Competitive | 1147 🔻  (1305)|
+| ELO Competitive | 1147 🔻  (1304)|
 | Total Matches | 17 |
 | Wins | 5 |
 | Losses | 12 |

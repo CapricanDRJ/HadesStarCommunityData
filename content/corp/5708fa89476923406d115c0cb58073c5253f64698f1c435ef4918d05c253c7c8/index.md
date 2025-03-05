@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​          银钒   
 description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740330550
+date: 2025-02-23T17:09:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1740330550
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1136)|
+| ELO Regular | 1154 🔻  (1135)|
 | ELO Competitive | 1158 🔻  (1259)|
 | Total Matches | 4 |
 | Wins | 0 |

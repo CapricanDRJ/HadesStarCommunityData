@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星落苑
 description: W:19 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740656234
+date: 2025-02-27T11:37:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

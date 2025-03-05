@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Green Dwarf
 description: W:4 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1718536141
+date: 2024-06-16T11:09:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ rps in the Dwarf community.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (279)|
+| ELO Regular | 1247 🔺  (278)|
 | ELO Competitive | 1262 🔺  (395)|
 | Total Matches | 5 |
 | Wins | 4 |

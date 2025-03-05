@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Devourers
 description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1733621998
+date: 2024-12-08T01:39:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

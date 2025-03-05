@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Day Light
 description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1738415045
+date: 2025-02-01T13:04:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

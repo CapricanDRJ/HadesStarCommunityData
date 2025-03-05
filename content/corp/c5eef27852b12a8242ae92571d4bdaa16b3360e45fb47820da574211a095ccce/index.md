@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​한국우주연합
 description: W:8 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1740456685
+date: 2025-02-25T04:11:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ kor.cop 많이 들어와주세요
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔺  (1280)|
-| ELO Competitive | 1143 🔺  (1326)|
+| ELO Competitive | 1143 🔺  (1325)|
 | Total Matches | 23 |
 | Wins | 8 |
 | Losses | 15 |

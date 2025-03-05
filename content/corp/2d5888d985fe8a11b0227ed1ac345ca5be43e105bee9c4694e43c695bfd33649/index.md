@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ギャラクシー富士山
 description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1727370688
+date: 2024-09-26T17:11:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

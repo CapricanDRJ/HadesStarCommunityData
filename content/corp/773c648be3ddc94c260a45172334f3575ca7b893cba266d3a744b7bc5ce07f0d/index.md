@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​O.P.S
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1701248167
+date: 2023-11-29T08:56:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

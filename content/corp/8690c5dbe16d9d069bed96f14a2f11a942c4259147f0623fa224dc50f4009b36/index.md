@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Кулак
 description: W:25 L:88 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1740802488
+date: 2025-03-01T04:14:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1740802488
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1014 🔻  (1418)|
-| ELO Competitive | 1331 🔻  (240)|
+| ELO Competitive | 1331 🔻  (241)|
 | Total Matches | 113 |
 | Wins | 25 |
 | Losses | 88 |

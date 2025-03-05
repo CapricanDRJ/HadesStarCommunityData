@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​THE ECHAPES BEL
 description: W:0 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1702238474
+date: 2023-12-10T20:01:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

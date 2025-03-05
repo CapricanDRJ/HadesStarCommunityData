@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Peak Extraction
 description: W:1 L:13 D:1 Bonus ❌ 9%
 image: ./favicon.png
-date: 1715188047
+date: 2024-05-08T17:07:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ Discord - https://discord.gg/ZUeGK83 (optional, not required)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1376)|
+| ELO Regular | 1073 🔻  (1375)|
 | ELO Competitive | 1078 🔻  (1416)|
 | Total Matches | 15 |
 | Wins | 1 |

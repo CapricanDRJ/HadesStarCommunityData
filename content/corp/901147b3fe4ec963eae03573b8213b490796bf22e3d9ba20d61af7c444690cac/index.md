@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Türk Yıldızları
 description: W:16 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1717106731
+date: 2024-05-30T22:05:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

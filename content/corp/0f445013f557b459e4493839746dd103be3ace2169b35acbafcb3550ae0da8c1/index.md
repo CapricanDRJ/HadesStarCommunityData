@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Imperial Navy
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1701817115
+date: 2023-12-05T22:58:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

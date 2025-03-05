@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Бороская Имерия
 description: W:17 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740700113
+date: 2025-02-27T23:48:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

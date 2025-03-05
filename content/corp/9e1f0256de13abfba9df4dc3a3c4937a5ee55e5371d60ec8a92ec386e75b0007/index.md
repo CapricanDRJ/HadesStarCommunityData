@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Империя ситхов
 description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740169406
+date: 2025-02-21T20:23:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

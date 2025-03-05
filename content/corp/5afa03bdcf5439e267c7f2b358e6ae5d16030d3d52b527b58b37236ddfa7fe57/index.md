@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​行星联合军
 description: W:7 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1729688296
+date: 2024-10-23T12:58:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

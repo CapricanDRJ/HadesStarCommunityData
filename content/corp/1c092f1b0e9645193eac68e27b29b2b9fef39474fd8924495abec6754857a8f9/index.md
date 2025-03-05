@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​alienigenas
 description: W:12 L:5 D:0 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740755400
+date: 2025-02-28T15:10:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

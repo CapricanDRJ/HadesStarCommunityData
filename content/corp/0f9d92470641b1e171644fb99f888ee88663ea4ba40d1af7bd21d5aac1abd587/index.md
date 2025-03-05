@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​l'empire sylli
 description: W:0 L:6 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1719962692
+date: 2024-07-02T23:24:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

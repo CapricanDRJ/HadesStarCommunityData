@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UK Armada
 description: W:4 L:9 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738328801
+date: 2025-01-31T13:06:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

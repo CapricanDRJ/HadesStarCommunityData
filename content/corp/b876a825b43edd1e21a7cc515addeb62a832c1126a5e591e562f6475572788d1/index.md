@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​AlSounT
 description: W:20 L:14 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740981379
+date: 2025-03-03T05:56:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

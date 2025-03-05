@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Heavens
 description: W:0 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1703655723
+date: 2023-12-27T05:42:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Offshore Trash
 description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716108934
+date: 2024-05-19T08:55:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ard for safety.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (384)|
+| ELO Regular | 1219 🔻  (386)|
 | ELO Competitive | 1225 🔻  (509)|
 | Total Matches | 4 |
 | Wins | 2 |

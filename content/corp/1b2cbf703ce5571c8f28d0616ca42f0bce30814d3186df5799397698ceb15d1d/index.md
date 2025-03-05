@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DadCorp
 description: W:5 L:2 D:0 Bonus ❌ 16%
 image: ./favicon.png
-date: 1724390393
+date: 2024-08-23T05:19:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ Discord: z38XKuM
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (294)|
+| ELO Regular | 1243 🔺  (293)|
 | ELO Competitive | 1257 🔺  (410)|
 | Total Matches | 7 |
 | Wins | 5 |

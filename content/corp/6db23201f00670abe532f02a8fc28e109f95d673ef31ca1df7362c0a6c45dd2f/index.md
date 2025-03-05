@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​(_(_Vossk_)_)
 description: W:12 L:25 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740108995
+date: 2025-02-21T03:36:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ in us or prepare to meet your destiny.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1100 🔺  (1338)|
-| ELO Competitive | 1146 🔺  (1311)|
+| ELO Competitive | 1146 🔺  (1310)|
 | Total Matches | 37 |
 | Wins | 12 |
 | Losses | 25 |

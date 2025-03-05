@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Next Hyperion
 description: W:2 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1711536025
+date: 2024-03-27T10:40:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

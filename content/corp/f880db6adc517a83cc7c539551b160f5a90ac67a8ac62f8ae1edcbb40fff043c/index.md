@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​莫比乌斯-星环
 description: W:0 L:7 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1740647011
+date: 2025-02-27T09:03:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Phoenix Squad
 description: W:0 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1716685502
+date: 2024-05-26T01:05:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

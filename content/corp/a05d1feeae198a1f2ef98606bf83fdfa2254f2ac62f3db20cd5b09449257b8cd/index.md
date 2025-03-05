@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DarkSide
 description: W:48 L:68 D:2 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740355112
+date: 2025-02-23T23:58:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

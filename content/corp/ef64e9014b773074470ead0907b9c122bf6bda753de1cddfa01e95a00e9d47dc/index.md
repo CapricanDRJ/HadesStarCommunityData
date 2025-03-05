@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Crazy Elite
 description: W:41 L:56 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1741029759
+date: 2025-03-03T19:22:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

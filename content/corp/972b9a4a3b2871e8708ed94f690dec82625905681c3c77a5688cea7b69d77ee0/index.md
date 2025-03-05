@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​零号帝国
 description: W:3 L:0 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1707832132
+date: 2024-02-13T13:48:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,8 +22,8 @@ date: 1707832132
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (293)|
-| ELO Competitive | 1244 🔺  (444)|
+| ELO Regular | 1243 🔺  (292)|
+| ELO Competitive | 1244 🔺  (445)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

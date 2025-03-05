@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Resurrección EB
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1699726723
+date: 2023-11-11T18:18:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

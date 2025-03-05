@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Simply Uranus
 description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1720730961
+date: 2024-07-11T20:49:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

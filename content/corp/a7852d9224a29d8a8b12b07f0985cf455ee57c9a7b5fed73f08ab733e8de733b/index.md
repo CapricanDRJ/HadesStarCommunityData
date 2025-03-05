@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​КРЫЛЯ ФЕНИКСА
 description: W:6 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731180289
+date: 2024-11-09T19:24:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

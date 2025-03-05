@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​GermanSpaceUno.
 description: W:5 L:20 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1726496019
+date: 2024-09-16T14:13:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

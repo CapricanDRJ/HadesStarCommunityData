@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​VALLKIRIA
 description: W:3 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1709703756
+date: 2024-03-06T05:42:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,8 +18,8 @@ date: 1709703756
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (323)|
-| ELO Competitive | 1240 🔺  (458)|
+| ELO Regular | 1238 🔺  (322)|
+| ELO Competitive | 1240 🔺  (459)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

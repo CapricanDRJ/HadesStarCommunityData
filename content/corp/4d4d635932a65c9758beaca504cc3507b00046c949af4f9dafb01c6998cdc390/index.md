@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Wehrmacht
 description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1720703607
+date: 2024-07-11T13:13:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

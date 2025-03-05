@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​just because
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1700545194
+date: 2023-11-21T05:39:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

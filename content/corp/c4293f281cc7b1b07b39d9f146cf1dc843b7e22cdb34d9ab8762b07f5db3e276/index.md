@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​united unicorn
 description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1741009022
+date: 2025-03-03T13:37:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

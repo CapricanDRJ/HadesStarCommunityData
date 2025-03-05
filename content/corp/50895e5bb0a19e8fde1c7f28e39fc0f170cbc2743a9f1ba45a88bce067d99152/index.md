@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Donuts
 description: W:4 L:4 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1729304228
+date: 2024-10-19T02:17:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

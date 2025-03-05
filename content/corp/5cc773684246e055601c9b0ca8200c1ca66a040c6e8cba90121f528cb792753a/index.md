@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​中国星系舰队
 description: W:2 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1704183140
+date: 2024-01-02T08:12:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

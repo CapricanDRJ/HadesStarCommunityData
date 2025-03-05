@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Empire of Light
 description: W:15 L:33 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740303745
+date: 2025-02-23T09:42:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

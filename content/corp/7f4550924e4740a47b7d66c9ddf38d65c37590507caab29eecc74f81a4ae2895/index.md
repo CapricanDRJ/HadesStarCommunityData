@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​DeutschlandGmbH
 description: W:6 L:11 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1740755400
+date: 2025-02-28T15:10:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

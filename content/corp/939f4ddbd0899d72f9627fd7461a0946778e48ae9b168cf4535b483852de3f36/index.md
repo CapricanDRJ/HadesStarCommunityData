@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Thurn and Taxis
 description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1701425499
+date: 2023-12-01T10:11:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ litary strength.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (348)|
+| ELO Regular | 1230 🔺  (349)|
 | ELO Competitive | 1230 🔺  (486)|
 | Total Matches | 2 |
 | Wins | 2 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​UKRAINE STARS
 description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1736887624
+date: 2025-01-14T20:47:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

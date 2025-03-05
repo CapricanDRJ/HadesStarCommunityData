@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Space Scourge
 description: W:2 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1705147495
+date: 2024-01-13T12:04:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Everyone is welcome to our corporation. Be active and enjoy.😀
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (1179)|
-| ELO Competitive | 1149 🔻  (1300)|
+| ELO Competitive | 1149 🔻  (1299)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

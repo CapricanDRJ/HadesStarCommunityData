@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​HYDRA
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1733781377
+date: 2024-12-09T21:56:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

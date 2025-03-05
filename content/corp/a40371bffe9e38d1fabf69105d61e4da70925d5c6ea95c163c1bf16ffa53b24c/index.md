@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​MILIBARINOS
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1718644633
+date: 2024-06-17T17:17:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​湖心亭看雪
 description: W:2 L:19 D:2 Bonus ❌ 6%
 image: ./favicon.png
-date: 1719390049
+date: 2024-06-26T08:20:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

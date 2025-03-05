@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Alpha 
 description: W:8 L:43 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741120806
+date: 2025-03-04T20:40:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

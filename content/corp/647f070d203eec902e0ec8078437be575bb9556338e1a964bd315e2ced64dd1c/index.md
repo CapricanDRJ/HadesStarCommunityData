@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​特拉斯丁第二共和国
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1701962572
+date: 2023-12-07T15:22:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

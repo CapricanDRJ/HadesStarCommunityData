@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Призрачный Путь
 description: W:13 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1724436985
+date: 2024-08-23T18:16:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1724436985
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔻  (223)|
-| ELO Competitive | 1280 🔻  (352)|
+| ELO Competitive | 1280 🔻  (351)|
 | Total Matches | 19 |
 | Wins | 13 |
 | Losses | 6 |

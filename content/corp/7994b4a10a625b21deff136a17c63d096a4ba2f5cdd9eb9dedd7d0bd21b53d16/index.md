@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​РусКорп
 description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1708836120
+date: 2024-02-25T04:42:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1708836120
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (393)|
+| ELO Regular | 1218 🔻  (395)|
 | ELO Competitive | 1263 🔻  (391)|
 | Total Matches | 20 |
 | Wins | 11 |

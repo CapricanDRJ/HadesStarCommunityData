@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Повстанцы Хаоса
 description: W:52 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
-date: 1740254443
+date: 2025-02-22T20:00:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

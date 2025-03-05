@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Novana Gaming
 description: W:4 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1724582728
+date: 2024-08-25T10:45:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

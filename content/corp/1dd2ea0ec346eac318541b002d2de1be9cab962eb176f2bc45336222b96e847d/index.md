@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ten Forward
 description: W:1 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1707770237
+date: 2024-02-12T20:37:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

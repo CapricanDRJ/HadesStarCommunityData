@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Intertwine 
 description: W:3 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738629300
+date: 2025-02-04T00:35:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

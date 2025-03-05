@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​EDEMs
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1736086016
+date: 2025-01-05T14:06:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

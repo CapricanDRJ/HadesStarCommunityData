@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Quilliance
 description: W:29 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740207260
+date: 2025-02-22T06:54:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Revólver
 description: W:13 L:24 D:1 Bonus ❌ 9%
 image: ./favicon.png
-date: 1739402224
+date: 2025-02-12T23:17:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1739402224
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1129)|
+| ELO Regular | 1155 🔻  (1128)|
 | ELO Competitive | 1209 🔻  (634)|
 | Total Matches | 38 |
 | Wins | 13 |

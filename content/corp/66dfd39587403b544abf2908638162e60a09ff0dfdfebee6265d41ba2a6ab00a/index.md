@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Core Systems
 description: W:3 L:2 D:2 Bonus ❌ 4%
 image: ./favicon.png
-date: 1719192673
+date: 2024-06-24T01:31:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​揽月宫
 description: W:13 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1732597436
+date: 2024-11-26T05:03:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,7 +29,7 @@ date: 1732597436
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1298 🔺  (180)|
-| ELO Competitive | 1336 🔺  (232)|
+| ELO Competitive | 1336 🔺  (233)|
 | Total Matches | 20 |
 | Wins | 13 |
 | Losses | 7 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Base
 description: W:0 L:6 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1727601758
+date: 2024-09-29T09:22:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

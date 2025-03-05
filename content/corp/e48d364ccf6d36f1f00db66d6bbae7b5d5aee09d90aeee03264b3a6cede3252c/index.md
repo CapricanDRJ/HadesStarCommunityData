@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星光舰队
 description: W:3 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
-date: 1723022156
+date: 2024-08-07T09:15:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

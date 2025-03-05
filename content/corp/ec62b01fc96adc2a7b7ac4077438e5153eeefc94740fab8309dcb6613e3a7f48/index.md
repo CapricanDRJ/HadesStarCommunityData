@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Bacon Warriors
 description: W:26 L:21 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740547454
+date: 2025-02-26T05:24:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Imperium
 description: W:11 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1734960759
+date: 2024-12-23T13:32:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

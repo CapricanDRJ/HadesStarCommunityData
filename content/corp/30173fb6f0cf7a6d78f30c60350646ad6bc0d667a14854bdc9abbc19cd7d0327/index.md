@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Embers Rising
 description: W:30 L:12 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1738067667
+date: 2025-01-28T12:34:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

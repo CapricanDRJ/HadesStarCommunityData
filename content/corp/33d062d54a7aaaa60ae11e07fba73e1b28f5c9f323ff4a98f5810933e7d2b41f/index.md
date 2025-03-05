@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​oen
 description: W:6 L:1 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1734481505
+date: 2024-12-18T00:25:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ cord
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔺  (234)|
-| ELO Competitive | 1280 🔺  (349)|
+| ELO Competitive | 1280 🔺  (348)|
 | Total Matches | 8 |
 | Wins | 6 |
 | Losses | 1 |

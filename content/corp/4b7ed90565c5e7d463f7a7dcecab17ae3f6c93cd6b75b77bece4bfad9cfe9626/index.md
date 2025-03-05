@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ITA
 description: W:14 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1709372322
+date: 2024-03-02T09:38:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ Benvenuti in ITA! Main coorp RS7+
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (1072)|
-| ELO Competitive | 1283 🔻  (342)|
+| ELO Competitive | 1283 🔻  (341)|
 | Total Matches | 32 |
 | Wins | 14 |
 | Losses | 18 |

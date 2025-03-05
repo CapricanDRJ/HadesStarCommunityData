@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​La NoChE NeGrA
 description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1719009919
+date: 2024-06-21T22:45:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

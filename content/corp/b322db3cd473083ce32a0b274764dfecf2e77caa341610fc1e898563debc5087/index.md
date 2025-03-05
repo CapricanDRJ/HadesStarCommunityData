@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​第六星际
 description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1711636989
+date: 2024-03-28T14:43:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ date: 1711636989
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (385)|
+| ELO Regular | 1219 🔺  (387)|
 | ELO Competitive | 1219 🔺  (537)|
 | Total Matches | 1 |
 | Wins | 1 |

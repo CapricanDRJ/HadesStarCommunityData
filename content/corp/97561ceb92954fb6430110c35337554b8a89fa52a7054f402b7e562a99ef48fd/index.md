@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dark Skai
 description: W:1 L:11 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1705160720
+date: 2024-01-13T15:45:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Gwiezdna Horda
 description: W:4 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
-date: 1702798992
+date: 2023-12-17T07:43:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

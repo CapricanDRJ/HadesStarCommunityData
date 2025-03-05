@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​星际联盟（中国）
 description: W:13 L:17 D:2 Bonus ❌ 7%
 image: ./favicon.png
-date: 1736520273
+date: 2025-01-10T14:44:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,7 +29,7 @@ https://discord.gg/fAejNbTH
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (585)|
-| ELO Competitive | 1235 🔻  (471)|
+| ELO Competitive | 1235 🔻  (472)|
 | Total Matches | 32 |
 | Wins | 13 |
 | Losses | 17 |

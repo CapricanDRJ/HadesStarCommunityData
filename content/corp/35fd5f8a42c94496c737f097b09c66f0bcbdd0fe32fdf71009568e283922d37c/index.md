@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​New Horizons
 description: W:6 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740834727
+date: 2025-03-01T13:12:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

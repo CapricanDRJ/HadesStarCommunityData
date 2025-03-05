@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Red Star Corp.
 description: W:6 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738986323
+date: 2025-02-08T03:45:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

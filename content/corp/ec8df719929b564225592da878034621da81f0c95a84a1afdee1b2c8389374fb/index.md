@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Krasse Bros
 description: W:5 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1702976615
+date: 2023-12-19T09:03:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

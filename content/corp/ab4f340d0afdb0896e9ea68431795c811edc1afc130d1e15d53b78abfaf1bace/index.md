@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Страж Галактики
 description: W:1 L:0 D:1 Bonus ❌ 3%
 image: ./favicon.png
-date: 1710456150
+date: 2024-03-14T22:42:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Скричеры
 description: W:2 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1705243362
+date: 2024-01-14T14:42:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

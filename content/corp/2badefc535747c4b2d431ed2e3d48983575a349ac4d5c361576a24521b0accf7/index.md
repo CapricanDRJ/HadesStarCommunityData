@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Darknova
 description: W:0 L:1 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1699370027
+date: 2023-11-07T15:13:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

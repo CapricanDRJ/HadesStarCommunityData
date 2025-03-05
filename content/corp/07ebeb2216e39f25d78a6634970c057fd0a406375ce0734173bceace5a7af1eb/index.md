@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​OTRSᗜωO
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1722382956
+date: 2024-07-30T23:42:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

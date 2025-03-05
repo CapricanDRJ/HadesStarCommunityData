@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​荣耀之星
 description: W:20 L:19 D:5 Bonus ❌ 7%
 image: ./favicon.png
-date: 1738334513
+date: 2025-01-31T14:41:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,8 +19,8 @@ date: 1738334513
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (343)|
-| ELO Competitive | 1292 🔻  (318)|
+| ELO Regular | 1230 🔻  (344)|
+| ELO Competitive | 1292 🔻  (316)|
 | Total Matches | 44 |
 | Wins | 20 |
 | Losses | 19 |

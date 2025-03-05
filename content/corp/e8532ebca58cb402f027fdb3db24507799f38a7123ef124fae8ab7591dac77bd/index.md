@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​仙女座星雲
 description: W:89 L:61 D:4 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740750893
+date: 2025-02-28T13:54:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -34,7 +33,7 @@ B站d音搜：仙女座星雲土豆
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1378 🔺  (78)|
+| ELO Regular | 1378 🔺  (79)|
 | ELO Competitive | 1675 🔺  (13)|
 | Total Matches | 154 |
 | Wins | 89 |

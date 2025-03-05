@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​落魄山
 description: W:1 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1741080233
+date: 2025-03-04T09:23:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

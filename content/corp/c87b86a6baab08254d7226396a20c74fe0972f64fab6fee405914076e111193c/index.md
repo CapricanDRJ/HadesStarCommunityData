@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Titan Corp.
 description: W:22 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
-date: 1726935372
+date: 2024-09-21T16:16:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,7 +24,7 @@ Discord ist Pflicht: discord.gg/SUVSGGYGz2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (387)|
+| ELO Regular | 1219 🔻  (389)|
 | ELO Competitive | 1303 🔻  (291)|
 | Total Matches | 40 |
 | Wins | 22 |

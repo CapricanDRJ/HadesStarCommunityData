@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spectre
 description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1709412292
+date: 2024-03-02T20:44:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,7 +25,7 @@ date: 1709412292
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1122)|
+| ELO Regular | 1156 🔻  (1121)|
 | ELO Competitive | 1157 🔻  (1263)|
 | Total Matches | 3 |
 | Wins | 0 |

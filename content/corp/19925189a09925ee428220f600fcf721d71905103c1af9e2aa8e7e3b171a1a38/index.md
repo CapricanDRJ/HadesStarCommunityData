@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​First Legion
 description: W:44 L:60 D:1 Bonus ✅ 38%
 image: ./favicon.png
-date: 1741046288
+date: 2025-03-03T23:58:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ Sister corporations: TeddisaurusWrex, Armored Union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1075 🔺  (1373)|
+| ELO Regular | 1075 🔺  (1372)|
 | ELO Competitive | 1214 🔺  (594)|
 | Total Matches | 105 |
 | Wins | 44 |

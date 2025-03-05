@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​You Win
 description: W:1 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1738895569
+date: 2025-02-07T02:32:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

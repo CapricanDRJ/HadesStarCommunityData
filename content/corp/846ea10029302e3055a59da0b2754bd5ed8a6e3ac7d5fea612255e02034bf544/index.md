@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Омикрон Альфа
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1700125538
+date: 2023-11-16T09:05:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Peacekeepers
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1719634683
+date: 2024-06-29T04:18:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

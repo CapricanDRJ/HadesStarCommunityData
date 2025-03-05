@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​GermanIndustrie
 description: W:10 L:2 D:1 Bonus ❌ 15%
 image: ./favicon.png
-date: 1727516721
+date: 2024-09-28T09:45:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ onzern um gemeinsame rr/drr und/oder WZ zu fliegen? Dann bist du hier
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔺  (170)|
-| ELO Competitive | 1330 🔺  (241)|
+| ELO Competitive | 1330 🔺  (242)|
 | Total Matches | 13 |
 | Wins | 10 |
 | Losses | 2 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Kratos
 description: W:51 L:39 D:0 Bonus ✅ 38%
 image: ./favicon.png
-date: 1740926982
+date: 2025-03-02T14:49:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Dadsw/Daughterz
 description: W:1 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1714595126
+date: 2024-05-01T20:25:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

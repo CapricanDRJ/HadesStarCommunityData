@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Девчата
 description: W:3 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1724069137
+date: 2024-08-19T12:05:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,8 +23,8 @@ gals ❀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (297)|
-| ELO Competitive | 1250 🔺  (426)|
+| ELO Regular | 1242 🔺  (296)|
+| ELO Competitive | 1250 🔺  (427)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

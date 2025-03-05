@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Highland Ind. 
 description: W:11 L:10 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740798071
+date: 2025-03-01T03:01:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ date: 1740798071
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (560)|
-| ELO Competitive | 1250 🔺  (428)|
+| ELO Competitive | 1250 🔺  (429)|
 | Total Matches | 22 |
 | Wins | 11 |
 | Losses | 10 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​the heavy
 description: W:24 L:13 D:0 Bonus ❌ 11%
 image: ./favicon.png
-date: 1740734062
+date: 2025-02-28T09:14:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

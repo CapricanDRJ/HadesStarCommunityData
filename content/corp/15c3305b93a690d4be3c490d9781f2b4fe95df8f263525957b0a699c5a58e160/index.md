@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​N7 Elite Forces
 description: W:3 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1715248140
+date: 2024-05-09T09:49:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,8 +20,8 @@ date: 1715248140
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (271)|
-| ELO Competitive | 1252 🔺  (420)|
+| ELO Regular | 1250 🔺  (270)|
+| ELO Competitive | 1252 🔺  (421)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

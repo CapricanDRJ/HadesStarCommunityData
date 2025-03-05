@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Light Warriors
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1708401727
+date: 2024-02-20T04:02:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

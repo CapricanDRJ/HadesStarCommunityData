@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​碧霄殿
 description: W:9 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1728141152
+date: 2024-10-05T15:12:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

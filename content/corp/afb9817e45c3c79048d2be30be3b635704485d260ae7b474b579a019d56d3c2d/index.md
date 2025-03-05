@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​宇宙银河帝国
 description: W:23 L:13 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1723819115
+date: 2024-08-16T14:38:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Чистое Небо
 description: W:0 L:3 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1720780411
+date: 2024-07-12T10:33:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1720780411
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1134)|
+| ELO Regular | 1155 🔻  (1133)|
 | ELO Competitive | 1156 🔻  (1266)|
 | Total Matches | 3 |
 | Wins | 0 |

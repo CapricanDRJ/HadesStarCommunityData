@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Ender
 description: W:79 L:35 D:0 Bonus ✅ 52%
 image: ./favicon.png
-date: 1740895729
+date: 2025-03-02T06:08:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

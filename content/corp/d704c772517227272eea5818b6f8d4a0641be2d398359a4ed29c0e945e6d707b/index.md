@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​希灵帝国
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1718337194
+date: 2024-06-14T03:53:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

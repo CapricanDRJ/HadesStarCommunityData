@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Pyke Syndicate
 description: W:9 L:40 D:1 Bonus ❌ 7%
 image: ./favicon.png
-date: 1739358943
+date: 2025-02-12T11:15:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

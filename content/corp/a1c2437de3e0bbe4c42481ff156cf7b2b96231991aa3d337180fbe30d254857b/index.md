@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Rogue Hero's
 description: W:1 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1706926239
+date: 2024-02-03T02:10:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

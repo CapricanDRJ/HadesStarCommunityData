@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Back of the bus
 description: W:1 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1699895601
+date: 2023-11-13T17:13:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ send friend request to Lucky/ImLucky2 to contact us
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (414)|
+| ELO Regular | 1216 🔺  (415)|
 | ELO Competitive | 1216 🔺  (571)|
 | Total Matches | 1 |
 | Wins | 1 |

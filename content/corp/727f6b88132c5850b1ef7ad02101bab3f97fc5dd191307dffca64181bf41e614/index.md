@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​STRVS233～
 description: W:18 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1737959403
+date: 2025-01-27T06:30:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

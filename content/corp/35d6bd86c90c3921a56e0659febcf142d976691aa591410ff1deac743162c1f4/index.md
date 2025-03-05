@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​New Era
 description: W:0 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1702699513
+date: 2023-12-16T04:05:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

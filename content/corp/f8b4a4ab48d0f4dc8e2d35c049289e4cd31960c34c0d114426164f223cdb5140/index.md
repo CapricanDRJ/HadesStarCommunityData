@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The Star League
 description: W:8 L:16 D:0 Bonus ❌ 14%
 image: ./favicon.png
-date: 1740235506
+date: 2025-02-22T14:45:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

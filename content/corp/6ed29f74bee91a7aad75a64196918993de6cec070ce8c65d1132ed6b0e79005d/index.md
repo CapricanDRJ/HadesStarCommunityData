@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​sk cz nebula
 description: W:15 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1729793787
+date: 2024-10-24T18:16:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

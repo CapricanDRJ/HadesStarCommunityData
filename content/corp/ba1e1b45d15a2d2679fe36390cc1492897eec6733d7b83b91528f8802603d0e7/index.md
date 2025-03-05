@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СКОЛИИ
 description: W:0 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1740127699
+date: 2025-02-21T08:48:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

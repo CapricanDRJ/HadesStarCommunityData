@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Star tap
 description: W:3 L:1 D:0 Bonus ✅ 28%
 image: ./favicon.png
-date: 1740546552
+date: 2025-02-26T05:09:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ Newbie and veterans welcome! Just a chill guild looking to have fun :
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (373)|
+| ELO Regular | 1222 🔺  (375)|
 | ELO Competitive | 1226 🔺  (507)|
 | Total Matches | 4 |
 | Wins | 3 |

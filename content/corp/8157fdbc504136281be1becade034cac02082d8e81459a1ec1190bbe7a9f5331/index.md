@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Goblin Squad
 description: W:4 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1724334192
+date: 2024-08-22T13:43:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

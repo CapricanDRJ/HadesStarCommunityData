@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Death Flight 1.
 description: W:0 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1714979423
+date: 2024-05-06T07:10:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

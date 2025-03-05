@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Pirates
 description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
-date: 1726442538
+date: 2024-09-15T23:22:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​边界-萌新俱乐部
 description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1699861645
+date: 2023-11-13T07:47:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1699861645
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (349)|
+| ELO Regular | 1229 🔺  (350)|
 | ELO Competitive | 1229 🔺  (490)|
 | Total Matches | 2 |
 | Wins | 2 |

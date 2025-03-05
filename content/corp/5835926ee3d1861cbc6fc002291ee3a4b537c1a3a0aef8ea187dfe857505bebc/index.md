@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​꿀벌왕국
 description: W:7 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1709955566
+date: 2024-03-09T03:39:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,7 +27,7 @@ https://open.kakao.com/o/gBGFbATe
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1140)|
+| ELO Regular | 1154 🔻  (1139)|
 | ELO Competitive | 1163 🔻  (1216)|
 | Total Matches | 19 |
 | Wins | 7 |

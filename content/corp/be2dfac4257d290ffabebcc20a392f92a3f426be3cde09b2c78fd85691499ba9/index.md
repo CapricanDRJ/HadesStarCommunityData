@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​暮光之城
 description: W:1 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1719220262
+date: 2024-06-24T09:11:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

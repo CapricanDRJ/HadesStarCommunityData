@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Cerulean Nebula
 description: W:14 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1716738979
+date: 2024-05-26T15:56:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,8 +21,8 @@ ur organization is there, use the link below
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (278)|
-| ELO Competitive | 1294 🔺  (311)|
+| ELO Regular | 1247 🔺  (277)|
+| ELO Competitive | 1294 🔺  (310)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

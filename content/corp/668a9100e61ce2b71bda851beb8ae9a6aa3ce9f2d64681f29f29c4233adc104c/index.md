@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Sun light
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739463644
+date: 2025-02-13T16:20:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

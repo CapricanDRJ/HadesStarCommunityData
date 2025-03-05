@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​WHITE NOVA
 description: W:2 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1731379810
+date: 2024-11-12T02:50:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ ORPORACIÓN   • MÉXICO INFINITO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1143)|
+| ELO Regular | 1154 🔻  (1142)|
 | ELO Competitive | 1156 🔻  (1270)|
 | Total Matches | 7 |
 | Wins | 2 |

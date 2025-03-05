@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Three Rivers
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1701516567
+date: 2023-12-02T11:29:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

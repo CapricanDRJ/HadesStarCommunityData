@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​地球星际集团
 description: W:0 L:33 D:12 Bonus ❌ 4%
 image: ./favicon.png
-date: 1736859626
+date: 2025-01-14T13:00:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Battle Academy
 description: W:5 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1731859426
+date: 2024-11-17T16:03:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,7 +27,7 @@ color=#111100><b></b></color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (266)|
+| ELO Regular | 1253 🔺  (265)|
 | ELO Competitive | 1260 🔺  (402)|
 | Total Matches | 6 |
 | Wins | 5 |

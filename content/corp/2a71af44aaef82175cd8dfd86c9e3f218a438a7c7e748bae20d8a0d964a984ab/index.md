@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​神圣罗马帝国
 description: W:23 L:46 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1724525939
+date: 2024-08-24T18:58:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

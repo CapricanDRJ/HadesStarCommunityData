@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Persistence
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1712774606
+date: 2024-04-10T18:43:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

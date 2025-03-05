@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​α阿尔法
 description: W:0 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1708621391
+date: 2024-02-22T17:03:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

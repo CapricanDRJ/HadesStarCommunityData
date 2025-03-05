@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Россия
 description: W:0 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1737280025
+date: 2025-01-19T09:47:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

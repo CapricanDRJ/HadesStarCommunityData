@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​九州分团
 description: W:69 L:81 D:4 Bonus ✅ 42%
 image: ./favicon.png
-date: 1741089247
+date: 2025-03-04T11:54:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,7 +23,7 @@ date: 1741089247
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (327)|
+| ELO Regular | 1237 🔺  (326)|
 | ELO Competitive | 1510 🔺  (66)|
 | Total Matches | 154 |
 | Wins | 69 |

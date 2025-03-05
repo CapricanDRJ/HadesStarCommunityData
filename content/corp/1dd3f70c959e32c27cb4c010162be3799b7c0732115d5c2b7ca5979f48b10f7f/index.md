@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​萌新的收留所
 description: W:18 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1739017873
+date: 2025-02-08T12:31:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

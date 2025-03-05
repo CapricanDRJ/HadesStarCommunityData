@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​vosk empire 2
 description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
-date: 1713714237
+date: 2024-04-21T15:43:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

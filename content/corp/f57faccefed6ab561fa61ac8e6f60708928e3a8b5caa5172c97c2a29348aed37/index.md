@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​公共星际集团
 description: W:7 L:23 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1735805664
+date: 2025-01-02T08:14:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

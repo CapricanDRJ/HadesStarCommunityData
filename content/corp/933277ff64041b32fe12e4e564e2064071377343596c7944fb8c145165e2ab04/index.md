@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​自由星际联盟
 description: W:6 L:41 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738382293
+date: 2025-02-01T03:58:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Hades Academy
 description: W:5 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1721778627
+date: 2024-07-23T23:50:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

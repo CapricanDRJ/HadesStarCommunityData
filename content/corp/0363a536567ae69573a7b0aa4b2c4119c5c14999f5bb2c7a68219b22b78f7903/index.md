@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Forces of Light
 description: W:16 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738639514
+date: 2025-02-04T03:25:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Spica​
 description: W:39 L:9 D:1 Bonus ✅ 36%
 image: ./favicon.png
-date: 1740563078
+date: 2025-02-26T09:44:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

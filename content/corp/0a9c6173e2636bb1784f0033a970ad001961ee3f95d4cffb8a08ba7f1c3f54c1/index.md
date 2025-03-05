@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​STAR EMPIRE 16
 description: W:0 L:3 D:0 Bonus ❌ 2%
 image: ./favicon.png
-date: 1708721463
+date: 2024-02-23T20:51:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ Strong but charm
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1146)|
+| ELO Regular | 1153 🔻  (1145)|
 | ELO Competitive | 1153 🔻  (1280)|
 | Total Matches | 3 |
 | Wins | 0 |

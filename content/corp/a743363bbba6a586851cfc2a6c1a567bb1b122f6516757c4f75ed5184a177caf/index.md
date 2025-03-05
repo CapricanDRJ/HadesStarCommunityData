@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Noble
 description: W:0 L:2 D:2 Bonus ❌ 1%
 image: ./favicon.png
-date: 1706790433
+date: 2024-02-01T12:27:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

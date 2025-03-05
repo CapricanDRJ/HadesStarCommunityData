@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​启示空间
 description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-date: 1739303056
+date: 2025-02-11T19:44:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

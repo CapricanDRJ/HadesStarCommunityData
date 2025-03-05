@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Свободный флот
 description: W:53 L:60 D:1 Bonus ✅ 40%
 image: ./favicon.png
-date: 1740997748
+date: 2025-03-03T10:29:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​闲散人员
 description: W:18 L:15 D:3 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740587722
+date: 2025-02-26T16:35:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1740587722
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (704)|
-| ELO Competitive | 1286 🔻  (333)|
+| ELO Competitive | 1286 🔻  (332)|
 | Total Matches | 36 |
 | Wins | 18 |
 | Losses | 15 |

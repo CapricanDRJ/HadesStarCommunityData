@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​E.T.A 二营
 description: W:0 L:9 D:2 Bonus ❌ 5%
 image: ./favicon.png
-date: 1707695531
+date: 2024-02-11T23:52:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

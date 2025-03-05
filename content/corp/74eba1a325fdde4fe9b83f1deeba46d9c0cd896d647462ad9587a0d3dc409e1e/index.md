@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​ВЕЧНОСТЬ
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1717739929
+date: 2024-06-07T05:58:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

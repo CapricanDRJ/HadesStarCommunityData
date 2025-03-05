@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​MiniStarRaiders
 description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1700447756
+date: 2023-11-20T02:35:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

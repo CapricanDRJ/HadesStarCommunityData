@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Training Corp
 description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1701262893
+date: 2023-11-29T13:01:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

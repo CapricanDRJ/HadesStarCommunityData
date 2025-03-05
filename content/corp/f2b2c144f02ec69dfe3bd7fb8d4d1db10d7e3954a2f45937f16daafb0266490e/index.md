@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​한국인
 description: W:31 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
-date: 1718926373
+date: 2024-06-20T23:32:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

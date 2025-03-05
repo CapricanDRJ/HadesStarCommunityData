@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Starborne Corp
 description: W:1 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1703132249
+date: 2023-12-21T04:17:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

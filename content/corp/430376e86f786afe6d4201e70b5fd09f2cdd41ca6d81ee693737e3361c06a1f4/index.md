@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Likapa
 description: W:114 L:10 D:0 Bonus ✅ 50%
 image: ./favicon.png
-date: 1740967857
+date: 2025-03-03T02:10:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

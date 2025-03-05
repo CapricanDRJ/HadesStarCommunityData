@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​资助会
 description: W:10 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-date: 1738921100
+date: 2025-02-07T09:38:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,7 +20,7 @@ date: 1738921100
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (237)|
-| ELO Competitive | 1280 🔺  (351)|
+| ELO Competitive | 1280 🔺  (350)|
 | Total Matches | 14 |
 | Wins | 10 |
 | Losses | 4 |

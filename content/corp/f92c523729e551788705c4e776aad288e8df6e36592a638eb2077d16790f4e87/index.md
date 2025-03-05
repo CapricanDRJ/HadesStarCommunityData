@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Black Corsairs
 description: W:1 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
-date: 1740398072
+date: 2025-02-24T11:54:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​The trade pub
 description: W:25 L:29 D:0 Bonus ❌ 15%
 image: ./favicon.png
-date: 1738351646
+date: 2025-01-31T19:27:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,7 +29,7 @@ od-family.com
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (358)|
+| ELO Regular | 1227 🔻  (359)|
 | ELO Competitive | 1304 🔻  (288)|
 | Total Matches | 54 |
 | Wins | 25 |

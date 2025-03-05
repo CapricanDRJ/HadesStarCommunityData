@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​СОЮЗ
 description: W:16 L:12 D:0 Bonus ✅ 48%
 image: ./favicon.png
-date: 1740691098
+date: 2025-02-27T21:18:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1740691098
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔻  (269)|
+| ELO Regular | 1251 🔻  (268)|
 | ELO Competitive | 1350 🔺  (211)|
 | Total Matches | 28 |
 | Wins | 16 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​United Artists
 description: W:0 L:2 D:0 Bonus ❌ 0%
 image: ./favicon.png
-date: 1721723333
+date: 2024-07-23T08:28:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

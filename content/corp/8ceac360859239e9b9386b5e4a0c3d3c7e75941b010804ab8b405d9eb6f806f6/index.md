@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Fleet Corp Ares
 description: W:21 L:15 D:0 Bonus ❌ 8%
 image: ./favicon.png
-date: 1740745782
+date: 2025-02-28T12:29:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

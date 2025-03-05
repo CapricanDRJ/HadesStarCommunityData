@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Draco Ind.
 description: W:1 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1708191071
+date: 2024-02-17T17:31:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ hKUH</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (412)|
+| ELO Regular | 1216 🔺  (413)|
 | ELO Competitive | 1216 🔺  (569)|
 | Total Matches | 1 |
 | Wins | 1 |

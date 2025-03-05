@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​AwA
 description: W:4 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
-date: 1737988941
+date: 2025-01-27T14:42:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,7 +21,7 @@ date: 1737988941
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (396)|
+| ELO Regular | 1218 🔺  (398)|
 | ELO Competitive | 1223 🔺  (516)|
 | Total Matches | 8 |
 | Wins | 4 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​MÉXICO INFINITO
 description: W:19 L:30 D:0 Bonus ❌ 7%
 image: ./favicon.png
-date: 1740152572
+date: 2025-02-21T15:42:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

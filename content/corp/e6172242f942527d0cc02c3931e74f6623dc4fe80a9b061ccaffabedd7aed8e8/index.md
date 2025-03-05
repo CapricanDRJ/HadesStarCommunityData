@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​F.E.I.
 description: W:0 L:2 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1734157161
+date: 2024-12-14T06:19:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

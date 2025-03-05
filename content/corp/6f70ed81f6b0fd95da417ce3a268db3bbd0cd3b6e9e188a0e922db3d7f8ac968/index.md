@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​喵喵喵喵喵喵喵
 description: W:0 L:7 D:2 Bonus ❌ 2%
 image: ./favicon.png
-date: 1713636340
+date: 2024-04-20T18:05:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,7 +19,7 @@ date: 1713636340
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1342)|
-| ELO Competitive | 1144 🔻  (1324)|
+| ELO Competitive | 1144 🔻  (1323)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 7 |

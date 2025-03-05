@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​StellaMysterium
 description: W:30 L:53 D:2 Bonus ❌ 9%
 image: ./favicon.png
-date: 1740925216
+date: 2025-03-02T14:20:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

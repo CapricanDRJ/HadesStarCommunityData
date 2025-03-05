@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​КВАЗАР
 description: W:1 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-date: 1703858281
+date: 2023-12-29T13:58:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

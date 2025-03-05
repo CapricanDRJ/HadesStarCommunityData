@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​VAJRA 
 description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-date: 1713318167
+date: 2024-04-17T01:42:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">

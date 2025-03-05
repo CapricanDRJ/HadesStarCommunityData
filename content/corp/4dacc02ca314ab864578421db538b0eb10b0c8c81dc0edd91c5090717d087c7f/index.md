@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​Armored Union 
 description: W:30 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
-date: 1741053798
+date: 2025-03-04T02:03:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,7 +22,7 @@ an Armored Union of warriors! Share Artifacts and build strong allies
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (509)|
-| ELO Competitive | 1336 🔻  (233)|
+| ELO Competitive | 1336 🔻  (234)|
 | Total Matches | 59 |
 | Wins | 30 |
 | Losses | 28 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​毛绒团子
 description: W:9 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-date: 1741105177
+date: 2025-03-04T16:19:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,7 +18,7 @@ date: 1741105177
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔺  (136)|
+| ELO Regular | 1325 🔺  (137)|
 | ELO Competitive | 1342 🔺  (226)|
 | Total Matches | 10 |
 | Wins | 9 |

@@ -1,9 +1,8 @@
 ---
-layout: page
 title: ​PERSEUS INC.
 description: W:1 L:0 D:0 Bonus ❌ 5%
 image: ./favicon.png
-date: 1718516310
+date: 2024-06-16T05:38:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
