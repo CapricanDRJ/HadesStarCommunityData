@@ -638,7 +638,7 @@
       <guid>https://ws.tsl.rocks/resources/</guid>
       <description>&lt;div class=&#34;resource-links&#34; style=&#34;display: flex; flex-wrap: wrap; gap: 1rem;&#34;&gt;
   &lt;a class=&#34;resource-card&#34; href=&#34;https://www.hadesstar.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;&#34;&gt;
-    &lt;img src=&#34;assets/hs.png&#34; alt=&#34;Hades&#39; Star Official Website&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
+    &lt;img src=&#34;https://ws.tsl.rocks/assets/hs.png&#34; alt=&#34;Hades&#39; Star Official Website&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
     &lt;span style=&#34;color: #ddd;&#34;&gt;Hades&#39; Star Official Website&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&#34;resource-card&#34; href=&#34;https://discord.gg/hadesstar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;&#34;&gt;
@@ -662,19 +662,19 @@
     &lt;span style=&#34;color: #ddd;&#34;&gt;KestraAkadi&#39;s Youtube Channel&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&#34;resource-card&#34; href=&#34;https://discord.com/oauth2/authorize?client_id=1198035340955504670&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;&#34;&gt;
-    &lt;img src=&#34;assets/elo.png&#34; alt=&#34;Hades&#39; Star ELO&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
+    &lt;img src=&#34;https://ws.tsl.rocks/assets/elo.png&#34; alt=&#34;Hades&#39; Star ELO&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
     &lt;span style=&#34;color: #ddd;&#34;&gt;Hades&#39; Star ELO&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&#34;resource-card&#34; href=&#34;https://discord.com/oauth2/authorize?client_id=1055503950067007569&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;&#34;&gt;
-    &lt;img src=&#34;assets/rsq.png&#34; alt=&#34;Hades&#39; Star RS Q&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
+    &lt;img src=&#34;https://ws.tsl.rocks/assets/rsq.png&#34; alt=&#34;Hades&#39; Star RS Q&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
     &lt;span style=&#34;color: #ddd;&#34;&gt;Hades&#39; Star RS Q&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&#34;resource-card&#34; href=&#34;https://discord.com/oauth2/authorize?client_id=1313578638460846173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;&#34;&gt;
-    &lt;img src=&#34;assets/tech.png&#34; alt=&#34;Hades&#39; Star Tech&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
+    &lt;img src=&#34;https://ws.tsl.rocks/assets/tech.png&#34; alt=&#34;Hades&#39; Star Tech&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
     &lt;span style=&#34;color: #ddd;&#34;&gt;Hades&#39; Star Tech&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&#34;resource-card&#34; href=&#34;https://discord.com/oauth2/authorize?client_id=1279978547569491968&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;&#34;&gt;
-    &lt;img src=&#34;assets/trader.png&#34; alt=&#34;Hades&#39; Star Trader&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
+    &lt;img src=&#34;https://ws.tsl.rocks/assets/trader.png&#34; alt=&#34;Hades&#39; Star Trader&#34; style=&#34;width: 16px; height: 16px; margin-right: 0.5rem;&#34;&gt;
     &lt;span style=&#34;color: #ddd;&#34;&gt;Hades&#39; Star Trader&lt;/span&gt;
   &lt;/a&gt;
 &lt;/div&gt;</description>
