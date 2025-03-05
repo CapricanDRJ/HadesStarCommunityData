@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ws.tsl.rocks/corp/</loc>
+    <lastmod>2025-03-05T06:55:08+00:00</lastmod>
+  </url><url>
     <loc>https://ws.tsl.rocks/avgrelics/</loc>
     <lastmod>2025-03-05T06:55:07+00:00</lastmod>
   </url><url>
@@ -58,9 +61,6 @@
   </url><url>
     <loc>https://ws.tsl.rocks/streak/</loc>
     <lastmod>2025-03-05T06:55:07+00:00</lastmod>
-  </url><url>
-    <loc>https://ws.tsl.rocks/corp/</loc>
-    <lastmod>2025-03-05T06:54:42+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/</loc>
     <lastmod>2025-03-05T06:00:55+00:00</lastmod>
