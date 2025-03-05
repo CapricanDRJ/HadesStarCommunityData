@@ -1,0 +1,63 @@
+baseURL: "https://ws.tsl.rocks/"
+title: "Hades' Star Community Data"
+languageCode: "en-us"
+theme: "hugo-PaperMod"
+contentDir: "content"   # Use your existing folder with Markdown files
+publishDir: "docs" # Output directory (you can adjust as needed)
+
+params:
+  description: "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX)."
+  tagline: "Hades' Star Community Data"
+  # Enable dark mode if desired (PaperMod supports dark mode)
+  darkMode: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: corp
+      name: Corporations
+      url: /corp/  # This should point to your corp index page
+      weight: 2
+    - identifier: top100
+      name: Top 100
+      url: /top100/
+      weight: 3
+    - identifier: comp100
+      name: Comp 100
+      url: /comp100/
+      weight: 4
+    - identifier: scanning
+      name: Scanning
+      url: /scanning/
+      weight: 5
+    - identifier: bonus
+      name: Bonus
+      url: /bonus/
+      weight: 6
+    - identifier: relics100
+      name: Relics 100
+      url: /relics100/
+      weight: 7
+    - identifier: win100
+      name: Win 100
+      url: /win100/
+      weight: 8
+    - identifier: lose100
+      name: Lose 100
+      url: /lose100/
+      weight: 9
+    - identifier: trade
+      name: Trade
+      url: /trade/
+      weight: 10
+    - identifier: avgRelics
+      name: Avg Relics
+      url: /avgRelics/
+      weight: 11
+    - identifier: streak
+      name: Streak
+      url: /streak/
+      weight: 12
