@@ -15,6 +15,7 @@ params:
   tagline: "Hades' Star Community Data"
   # Enable dark mode if desired (PaperMod supports dark mode)
   darkMode: true
+  search: true
 
 menu:
   main:
