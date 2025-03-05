@@ -1,9 +1,9 @@
 ---
 title: ​Ahamkara
-description: W:0 L:1 D:0 Bonus ❌ 11%
+description: W:0 L:2 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 10 - 33 **Polish Pirates**
-date: 2023-11-27T07:45:46.000Z
+Summary: ❌ 14 - 23 **italian warrior**
+date: 2025-03-05T20:32:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ Discord Required - R8nzDPk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (833)|
-| ELO Competitive | 1184 🔻  (1007)|
-| Total Matches | 1 |
+| ELO Regular | 1170 🔻  (1021)|
+| ELO Competitive | 1177 🔻  (1082)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 10 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1700639146];
+        let timestamps = [1740774745,1700639146];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/05 | 14-23 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2023/11/27 | 10-33 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 
 ---
@@ -147,5 +148,5 @@ Corporation ID: 33ddc1c3cba50fc92a3d29f65101d92d6967303e9c9acf6ff07064801bbecab8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1701071146"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741206745"></span>
 </div>

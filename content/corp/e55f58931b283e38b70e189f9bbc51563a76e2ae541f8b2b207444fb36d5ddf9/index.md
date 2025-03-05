@@ -1,9 +1,9 @@
 ---
 title: ​Cydonia Order
-description: W:22 L:14 D:2 Bonus ✅ 36%
+description: W:22 L:14 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 3 **Survivors**
-date: 2025-02-27T00:56:14.000Z
+Summary: ↔️ 2 - 2 **Black Star llc\.**
+date: 2025-03-05T20:52:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ THE CYDONIAN EMPIRE™
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (141)|
-| ELO Competitive | 1361 🔺  (197)|
-| Total Matches | 38 |
+| ELO Regular | 1318 🔻  (145)|
+| ELO Competitive | 1362 🔺  (195)|
+| Total Matches | 39 |
 | Wins | 22 |
 | Losses | 14 |
-| Draws | 2 |
-| Streak | 11 |
+| Draws | 3 |
 | Streak Record | 11 |
 | Flagship | 6 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
+        let timestamps = [1740775947,1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/05 | 2-2 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2025/02/27 | 17-3 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 | ✅ | 2025/02/19 | 16-1 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ✅ | 2025/02/12 | 13-5 | [united unicorn](https://ws.tsl.rocks/corp/c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276/) |
@@ -184,5 +184,5 @@ Corporation ID: e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740617774"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741207947"></span>
 </div>

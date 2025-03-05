@@ -1,9 +1,9 @@
 ---
 title: ​Gold Star
-description: W:4 L:14 D:2 Bonus ✅ 30%
+description: W:4 L:15 D:2 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **Dumpster Fire**
-date: 2025-02-26T20:25:48.000Z
+Summary: ❌ 8 - 17 **DarkSide**
+date: 2025-03-05T20:52:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ Ruling the universe is our simple goal.
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔺  (1308)|
-| ELO Competitive | 1133 🔺  (1356)|
-| Total Matches | 20 |
+| ELO Regular | 1097 🔻  (1342)|
+| ELO Competitive | 1127 🔻  (1365)|
+| Total Matches | 21 |
 | Wins | 4 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
+        let timestamps = [1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/05 | 8-17 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2025/02/26 | 6-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2025/02/19 | 1-16 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/02/11 | 6-10 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
@@ -159,5 +160,5 @@ Corporation ID: 4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740601548"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741207947"></span>
 </div>

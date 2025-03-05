@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:16 L:14 D:0 Bonus ✅ 48%
+description: W:16 L:14 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 1 - 48 **Argentina 1\.0**
 date: 2025-03-05T03:55:44.000Z
@@ -16,7 +16,7 @@ date: 2025-03-05T03:55:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
