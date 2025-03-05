@@ -1,9 +1,12 @@
 baseURL: "https://ws.tsl.rocks/"
-title: "Hades' Star Community Data"
+title: "Hades' Star Corporations and Scoreboards"
 languageCode: "en-us"
 theme: "hugo-PaperMod"
 contentDir: "content"   # Use your existing folder with Markdown files
 publishDir: "docs" # Output directory (you can adjust as needed)
+paginate: 20
+enableEmoji: true
+mainsections: ["corp"]
 
 markup:
   goldmark:
@@ -11,6 +14,14 @@ markup:
       unsafe: true
 
 params:
+  hero:
+    title: "Hades Star Community Data"
+    subtitle: "All leaderboards, scoring, and community projects"
+  social:
+    - icon: "fa-github"
+      url: "https://github.com/CapricanDRJ"
+    - icon: "fa-discord"
+      url: "https://discord.com/invite/zYYDmwjFCX"
   description: "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX)."
   tagline: "Hades' Star Community Data"
   # Enable dark mode if desired (PaperMod supports dark mode)
