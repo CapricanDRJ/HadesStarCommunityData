@@ -4,9 +4,9 @@ languageCode: "en-us"
 theme: "hugo-PaperMod"
 contentDir: "content"   # Use your existing folder with Markdown files
 publishDir: "docs" # Output directory (you can adjust as needed)
-paginate: 20
 enableEmoji: true
 mainsections: ["corp"]
+env: "production"
 
 markup:
   goldmark:
@@ -14,7 +14,12 @@ markup:
       unsafe: true
 
 params:
+  # Enable dark mode if desired (PaperMod supports dark mode)
+  darkMode: true
+  search: true
+  ShowShareButtons: true
   hero:
+    enable: true
     title: "Hades Star Community Data"
     subtitle: "All leaderboards, scoring, and community projects"
   social:
@@ -24,12 +29,11 @@ params:
       url: "https://discord.com/invite/zYYDmwjFCX"
   description: "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX)."
   tagline: "Hades' Star Community Data"
-  # Enable dark mode if desired (PaperMod supports dark mode)
-  darkMode: true
-  search: true
 
 outputs:
-  home: [HTML, JSON]
+  home:
+    - HTML
+    - JSON
 
 menu:
   main:
