@@ -192,50 +192,60 @@
     </nav>
 </header>
 <main class="main"> 
-<div class="post-content"><div class="resource-links" style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <a class="resource-card" href="https://www.hadesstar.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+<div class="post-content"><script>
+document.addEventListener("DOMContentLoaded", function() {
+  var resourceLinks = document.querySelector(".resource-links");
+  var homeInfo = document.querySelector(".home-info"); // Change if the theme uses a different class
+  if (resourceLinks && homeInfo) {
+    // Move resourceLinks to immediately follow the home info section.
+    homeInfo.parentNode.insertBefore(resourceLinks, homeInfo.nextSibling);
+  }
+});
+</script>
+<div class="resource-links" style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <a class="resource-card" href="https://www.hadesstar.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=www.hadesstar.com" alt="Hades' Star Official Website" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star Official Website</span>
+    <span style="color: #ddd;">Hades' Star Official Website</span>
   </a>
-  <a class="resource-card" href="https://discord.gg/hadesstar" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://discord.gg/hadesstar" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=discord.gg" alt="Hades' Star Official Discord" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star Official Discord</span>
+    <span style="color: #ddd;">Hades' Star Official Discord</span>
   </a>
-  <a class="resource-card" href="https://www.reddit.com/r/HadesStar/" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://www.reddit.com/r/HadesStar/" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=www.reddit.com" alt="Hades' Star Reddit" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star Reddit</span>
+    <span style="color: #ddd;">Hades' Star Reddit</span>
   </a>
-  <a class="resource-card" href="https://userxinos.github.io/HadesSpace/" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://userxinos.github.io/HadesSpace/" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=userxinos.github.io" alt="Hades Space" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades Space</span>
+    <span style="color: #ddd;">Hades Space</span>
   </a>
-  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1055503950067007569" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1055503950067007569" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=discord.com" alt="Red Star Queue Bot" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Red Star Queue Bot</span>
+    <span style="color: #ddd;">Red Star Queue Bot</span>
   </a>
-  <a class="resource-card" href="https://dn-toolbox.streamlit.app/" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://dn-toolbox.streamlit.app/" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=dn-toolbox.streamlit.app" alt="DRS Mining Simulator" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">DRS Mining Simulator</span>
+    <span style="color: #ddd;">DRS Mining Simulator</span>
   </a>
-  <a class="resource-card" href="https://www.youtube.com/channel/UClCEI716iodpAUc7_F45MAw" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://www.youtube.com/channel/UClCEI716iodpAUc7_F45MAw" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=www.youtube.com" alt="KestraAkadi's Youtube Channel" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">KestraAkadi's Youtube Channel</span>
+    <span style="color: #ddd;">KestraAkadi's Youtube Channel</span>
   </a>
-  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1198035340955504670" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1198035340955504670" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=discord.com" alt="Hades' Star ELO" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star ELO</span>
+    <span style="color: #ddd;">Hades' Star ELO</span>
   </a>
-  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1055503950067007569" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1055503950067007569" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=discord.com" alt="Hades' Star RS Q" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star RS Q</span>
+    <span style="color: #ddd;">Hades' Star RS Q</span>
   </a>
-  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1279978547569491968" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1279978547569491968" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=discord.com" alt="Hades' Star Trader" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star Trader</span>
+    <span style="color: #ddd;">Hades' Star Trader</span>
   </a>
-  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1313578638460846173" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #fff; border: 1px solid #ddd; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
+  <a class="resource-card" href="https://discord.com/oauth2/authorize?client_id=1313578638460846173" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #1a1a1a; border: 1px solid #444; padding: 0.5rem 1rem; border-radius: 6px; transition: box-shadow 0.2s;">
     <img src="https://www.google.com/s2/favicons?domain=discord.com" alt="Hades' Star Tech" style="width: 16px; height: 16px; margin-right: 0.5rem;">
-    <span style="color: inherit;">Hades' Star Tech</span>
+    <span style="color: #ddd;">Hades' Star Tech</span>
   </a>
 </div>
 
