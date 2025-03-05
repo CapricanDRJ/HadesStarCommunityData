@@ -5,6 +5,11 @@ theme: "hugo-PaperMod"
 contentDir: "content"   # Use your existing folder with Markdown files
 publishDir: "docs" # Output directory (you can adjust as needed)
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   description: "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX)."
   tagline: "Hades' Star Community Data"

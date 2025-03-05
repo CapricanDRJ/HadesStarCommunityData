@@ -99,8 +99,8 @@
   "keywords": [
     
   ],
-  "articleBody": " Weekly White Star pvp. New White Star Warriors will be supported, but you must be committed. Join to find out more via the Corporation Dis cord link below (Space Pals Server, Discord mandatory). Discord Whitestar Bonus ❌ 13% Statistic Value ELO Regular 1287 🔻 (199) ELO Competitive 1355 🔻 (203) Total Matches 22 Wins 14 Losses 8 Draws 0 Streak Record 8 Flagship 6 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone\nMatch History Date Score Opponent ❌ 2025/02/18 20-38 Continuum ❌ 2025/02/01 5-19 Looping ❌ 2025/01/15 30-38 Blood Hounds ❌ 2025/01/01 28-31 Hellfire Club ❌ 2024/12/18 4-28 Red Dawn ✅ 2024/12/03 37-23 Highlife ✅ 2024/11/26 38-3 VoidRunners ✅ 2024/11/09 32-31 Duchy Arrakis ❌ 2024/10/22 4-22 柯伊伯带 ✅ 2024/10/08 31-7 OPA ✅ 2024/10/01 26-20 ProyectCorp ✅ 2024/09/24 27-6 Rogue One ✅ 2024/09/13 38-27 ГОРИЗОНТ ✅ 2024/08/31 38-3 CTG ✅ 2024/08/24 40-10 星を継ぐもの ✅ 2024/08/17 21-19 Октябристы ✅ 2024/08/04 23-4 GhostNakcoorp ❌ 2024/03/27 5-25 BrazilCorp. ❌ 2024/03/03 7-14 SQPT ✅ 2024/02/27 26-19 Soylent Corp. ✅ 2024/02/20 21-7 украина№1 ✅ 2024/02/13 18-3 붉은늑대 Corporation ID: ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd\nHades’ Star\n",
-  "wordCount" : "189",
+  "articleBody": " Weekly White Star pvp. New White Star Warriors will be supported, but you must be committed. Join to find out more via the Corporation Dis cord link below (Space Pals Server, Discord mandatory). Discord Whitestar Bonus ❌ 13% Statistic Value ELO Regular 1287 🔻 (199) ELO Competitive 1355 🔻 (203) Total Matches 22 Wins 14 Losses 8 Draws 0 Streak Record 8 Flagship 6 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone\nMatch History Date Score Opponent ❌ 2025/02/18 20-38 Continuum ❌ 2025/02/01 5-19 Looping ❌ 2025/01/15 30-38 Blood Hounds ❌ 2025/01/01 28-31 Hellfire Club ❌ 2024/12/18 4-28 Red Dawn ✅ 2024/12/03 37-23 Highlife ✅ 2024/11/26 38-3 VoidRunners ✅ 2024/11/09 32-31 Duchy Arrakis ❌ 2024/10/22 4-22 柯伊伯带 ✅ 2024/10/08 31-7 OPA ✅ 2024/10/01 26-20 ProyectCorp ✅ 2024/09/24 27-6 Rogue One ✅ 2024/09/13 38-27 ГОРИЗОНТ ✅ 2024/08/31 38-3 CTG ✅ 2024/08/24 40-10 星を継ぐもの ✅ 2024/08/17 21-19 Октябристы ✅ 2024/08/04 23-4 GhostNakcoorp ❌ 2024/03/27 5-25 BrazilCorp. ❌ 2024/03/03 7-14 SQPT ✅ 2024/02/27 26-19 Soylent Corp. ✅ 2024/02/20 21-7 украина№1 ✅ 2024/02/13 18-3 붉은늑대 Corporation ID: ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd\nHades’ Star\nLast updated: ",
+  "wordCount" : "191",
   "inLanguage": "en",
   "datePublished": "2025-02-18T19:10:59Z",
   "dateModified": "2025-02-18T19:10:59Z",
@@ -238,7 +238,10 @@
 
 </div>
   </header> 
-  <div class="post-content"><!-- raw HTML omitted -->
+  <div class="post-content"><head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 <pre tabindex="0"><code>Weekly White Star pvp. New White Star Warriors will be supported, but
  you must be committed. Join to find out more via the Corporation Dis
 cord link below (Space Pals Server, Discord mandatory). 
@@ -289,10 +292,95 @@ cord link below (Space Pals Server, Discord mandatory).
 <hr>
 <h3 id="whitestar-match-day">Whitestar Match Day<a hidden class="anchor" aria-hidden="true" href="#whitestar-match-day">#</a></h3>
 <p>This chart shows the frequency of days of the week when whitestars were matched in your local timezone</p>
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<!-- Create a canvas element where the chart will be rendered -->
+<p><canvas id="myChart" width="400" height="200"></canvas></p>
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1739473859,1737968320,1736533659,1735308160,1734118013,1732831060,1732211110,1730712822,1729199808,1727968795,1727343739,1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+            data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
 <hr>
 <hr>
 <h3 id="match-history">Match History<a hidden class="anchor" aria-hidden="true" href="#match-history">#</a></h3>
@@ -443,9 +531,10 @@ cord link below (Space Pals Server, Discord mandatory).
 <hr>
 <p>Corporation ID: ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd</p>
 <p><a href="https://www.hadesstar.com">Hades&rsquo; Star</a></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>
 
   </div>
 

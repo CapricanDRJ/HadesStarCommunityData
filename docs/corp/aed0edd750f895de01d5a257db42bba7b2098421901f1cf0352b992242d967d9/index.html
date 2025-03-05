@@ -99,8 +99,8 @@
   "keywords": [
     
   ],
-  "articleBody": " Langage, Français, English, Espagñol...Regular Ws. Discord in the des cription Discord Whitestar Bonus ❌ 5% Statistic Value ELO Regular 1110 🔺 (1314) ELO Competitive 1119 🔺 (1376) Total Matches 20 Wins 4 Losses 14 Draws 2 Flagship 4 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone\nMatch History Date Score Opponent ✅ 2024/08/09 6-2 Север РусКорп ❌ 2024/07/21 0-19 阿尔特拉集团 ❌ 2024/07/08 0-25 The Syndicate ❌ 2024/04/17 4-5 PDC ❌ 2024/03/09 0-4 Venture ✅ 2024/02/22 5-1 公共星际集团 ❌ 2024/02/16 4-15 VoidRunners ❌ 2024/01/31 4-11 challenger corp ❌ 2024/01/25 0-6 Kratos ❌ 2024/01/19 0-7 Utd. Human Fed. ↔️ 2024/01/08 2-2 universe leader ❌ 2024/01/02 3-12 Orphans Of Kos ✅ 2023/12/27 4-1 l’empire sylli ❌ 2023/12/20 3-6 Axioma ❌ 2023/12/13 2-8 СлАвЯнСкИй СоЮз ↔️ 2023/12/06 5-5 Galaktika corp ❌ 2023/11/30 3-6 Imperio Lie Yan ❌ 2023/11/23 1-26 Lacuna X ❌ 2023/11/15 2-13 CIS ✅ 2023/11/08 3-1 新纪元舰队 Corporation ID: aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9\nHades’ Star\n",
-  "wordCount" : "163",
+  "articleBody": " Langage, Français, English, Espagñol...Regular Ws. Discord in the des cription Discord Whitestar Bonus ❌ 5% Statistic Value ELO Regular 1110 🔺 (1314) ELO Competitive 1119 🔺 (1376) Total Matches 20 Wins 4 Losses 14 Draws 2 Flagship 4 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone\nMatch History Date Score Opponent ✅ 2024/08/09 6-2 Север РусКорп ❌ 2024/07/21 0-19 阿尔特拉集团 ❌ 2024/07/08 0-25 The Syndicate ❌ 2024/04/17 4-5 PDC ❌ 2024/03/09 0-4 Venture ✅ 2024/02/22 5-1 公共星际集团 ❌ 2024/02/16 4-15 VoidRunners ❌ 2024/01/31 4-11 challenger corp ❌ 2024/01/25 0-6 Kratos ❌ 2024/01/19 0-7 Utd. Human Fed. ↔️ 2024/01/08 2-2 universe leader ❌ 2024/01/02 3-12 Orphans Of Kos ✅ 2023/12/27 4-1 l’empire sylli ❌ 2023/12/20 3-6 Axioma ❌ 2023/12/13 2-8 СлАвЯнСкИй СоЮз ↔️ 2023/12/06 5-5 Galaktika corp ❌ 2023/11/30 3-6 Imperio Lie Yan ❌ 2023/11/23 1-26 Lacuna X ❌ 2023/11/15 2-13 CIS ✅ 2023/11/08 3-1 新纪元舰队 Corporation ID: aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9\nHades’ Star\nLast updated: ",
+  "wordCount" : "165",
   "inLanguage": "en",
   "datePublished": "2024-08-09T14:16:26Z",
   "dateModified": "2024-08-09T14:16:26Z",
@@ -238,7 +238,10 @@
 
 </div>
   </header> 
-  <div class="post-content"><!-- raw HTML omitted -->
+  <div class="post-content"><head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 <pre tabindex="0"><code>Langage, Français, English, Espagñol...Regular Ws. Discord in the des
 cription 
 </code></pre><h3 id="discord"><a href="https://discord.gg/https://discord.com/invite/SrTthfg3">Discord</a><a hidden class="anchor" aria-hidden="true" href="#discord">#</a></h3>
@@ -284,10 +287,95 @@ cription
 <hr>
 <h3 id="whitestar-match-day">Whitestar Match Day<a hidden class="anchor" aria-hidden="true" href="#whitestar-match-day">#</a></h3>
 <p>This chart shows the frequency of days of the week when whitestars were matched in your local timezone</p>
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<!-- Create a canvas element where the chart will be rendered -->
+<p><canvas id="myChart" width="400" height="200"></canvas></p>
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1722780986,1721142885,1720022767,1712957677,1709560520,1708173160,1707657502,1706294393,1705776909,1705238690,1704259617,1703777286,1703274215,1702657919,1702059829,1701443114,1700880490,1700285105,1699640631,1699045928];
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+            data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
 <hr>
 <hr>
 <h3 id="match-history">Match History<a hidden class="anchor" aria-hidden="true" href="#match-history">#</a></h3>
@@ -426,9 +514,10 @@ cription
 <hr>
 <p>Corporation ID: aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9</p>
 <p><a href="https://www.hadesstar.com">Hades&rsquo; Star</a></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>
 
   </div>
 

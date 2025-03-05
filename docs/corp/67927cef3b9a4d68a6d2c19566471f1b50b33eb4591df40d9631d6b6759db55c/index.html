@@ -100,7 +100,7 @@
     
   ],
   "articleBody": " ",
-  "wordCount" : "417",
+  "wordCount" : "419",
   "inLanguage": "en",
   "datePublished": "2025-02-18T20:01:04Z",
   "dateModified": "2025-02-18T20:01:04Z",
@@ -238,7 +238,10 @@
 
 </div>
   </header> 
-  <div class="post-content"><!-- raw HTML omitted -->
+  <div class="post-content"><head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 <pre tabindex="0"><code>&lt;color=yellow&gt;欢迎加入我集团&lt;br&gt;南极星联盟成员&lt;br&gt;首席、中国外交：瓜老板?世&lt;br&gt;白星指挥:鑫森淼焱垚、cyka&lt;
 br&gt;Diplomacy：Phanatikk&lt;br&gt;神圣罗马帝国分团&lt;br&gt;We welcome everyone&lt;br&gt;QQ群:6396
 97949 &lt;br&gt;&lt;br&gt;最高福利：r9
@@ -288,10 +291,95 @@ br&gt;Diplomacy：Phanatikk&lt;br&gt;神圣罗马帝国分团&lt;br&gt;We welcom
 <hr>
 <h3 id="whitestar-match-day">Whitestar Match Day<a hidden class="anchor" aria-hidden="true" href="#whitestar-match-day">#</a></h3>
 <p>This chart shows the frequency of days of the week when whitestars were matched in your local timezone</p>
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<!-- Create a canvas element where the chart will be rendered -->
+<p><canvas id="myChart" width="400" height="200"></canvas></p>
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1739476864,1739030935,1738752353,1738546813,1738051859,1738046450,1737457476,1737434642,1736994086,1736545984,1736088273,1735414536,1734931090,1734458216,1734448537,1734003525,1734000220,1733549498,1733542888,1733110512,1732932378,1732592440,1732438893,1732062674,1731621705,1731601406,1731142831,1730724843,1730706813,1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+            data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
 <hr>
 <h3 id="recurring-opponents">Recurring Opponents<a hidden class="anchor" aria-hidden="true" href="#recurring-opponents">#</a></h3>
 <table>
@@ -788,9 +876,10 @@ br&gt;Diplomacy：Phanatikk&lt;br&gt;神圣罗马帝国分团&lt;br&gt;We welcom
 <hr>
 <p>Corporation ID: 67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c</p>
 <p><a href="https://www.hadesstar.com">Hades&rsquo; Star</a></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>
 
   </div>
 
