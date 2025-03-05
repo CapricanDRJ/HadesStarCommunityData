@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.145.0"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Hades&#39; Star Community Data</title>
+
+<meta name="description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+<meta name="author" content="">
+<link rel="canonical" href="https://ws.tsl.rocks/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.45e028aa8ce0961349adf411b013ee39406be2c0bc80d4ea3fc04555f7f4611a.css" integrity="sha256-ReAoqozglhNJrfQRsBPuOUBr4sC8gNTqP8BFVff0YRo=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://ws.tsl.rocks/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ws.tsl.rocks/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ws.tsl.rocks/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://ws.tsl.rocks/apple-touch-icon.png">
+<link rel="mask-icon" href="https://ws.tsl.rocks/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://ws.tsl.rocks/index.xml">
+<link rel="alternate" hreflang="en" href="https://ws.tsl.rocks/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="https://ws.tsl.rocks/">
+  <meta property="og:site_name" content="Hades&#39; Star Community Data">
+  <meta property="og:title" content="Community Data">
+  <meta property="og:description" content="Welcome to the Hades’ Star Community Data repository. This project aims to provide a comprehensive collection of data and resources for the Hades’ Star video game. Here you can find the top corporations based on their Elo ratings, detailed match histories, and various resources for the Hades’ Star community.
+Table of Contents Introduction Scoreboards Corporations Resources Official Links Community Projects Contributing License Contact Introduction This project was created to help the Hades’ Star community by providing valuable insights and data analytics. Whether you are a new player or a seasoned veteran, we hope you find this repository useful.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Community Data">
+<meta name="twitter:description" content="Leaderboards for top Hades&#39; Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Hades' Star Community Data",
+  "url": "https://ws.tsl.rocks/",
+  "description": "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).",
+  "logo": "https://ws.tsl.rocks/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://ws.tsl.rocks/" accesskey="h" title="Hades&#39; Star Community Data (Alt + H)">Hades&#39; Star Community Data</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://ws.tsl.rocks/" title="Home">
+                    <span class="active">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/corp/" title="Corporations">
+                    <span>Corporations</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/top100/" title="Top 100">
+                    <span>Top 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/comp100/" title="Comp 100">
+                    <span>Comp 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/scanning/" title="Scanning">
+                    <span>Scanning</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/bonus/" title="Bonus">
+                    <span>Bonus</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/relics100/" title="Relics 100">
+                    <span>Relics 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/win100/" title="Win 100">
+                    <span>Win 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/lose100/" title="Lose 100">
+                    <span>Lose 100</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/trade/" title="Trade">
+                    <span>Trade</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/avgrelics/" title="Avg Relics">
+                    <span>Avg Relics</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://ws.tsl.rocks/streak/" title="Streak">
+                    <span>Streak</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<div class="post-content"><p>Welcome to the Hades&rsquo; Star Community Data repository. This project aims to provide a comprehensive collection of data and resources for the Hades&rsquo; Star video game. Here you can find the top corporations based on their Elo ratings, detailed match histories, and various resources for the Hades&rsquo; Star community.</p>
+<h2 id="table-of-contents">Table of Contents<a hidden class="anchor" aria-hidden="true" href="#table-of-contents">#</a></h2>
+<ol>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#scoreboards">Scoreboards</a></li>
+<li><a href="#corporations">Corporations</a></li>
+<li><a href="#resources">Resources</a></li>
+<li><a href="#official-links">Official Links</a></li>
+<li><a href="#community-projects">Community Projects</a></li>
+<li><a href="#contributing">Contributing</a></li>
+<li><a href="#license">License</a></li>
+<li><a href="#contact">Contact</a></li>
+</ol>
+<h2 id="introduction">Introduction<a hidden class="anchor" aria-hidden="true" href="#introduction">#</a></h2>
+<p>This project was created to help the Hades&rsquo; Star community by providing valuable insights and data analytics. Whether you are a new player or a seasoned veteran, we hope you find this repository useful.</p>
+<h2 id="scoreboards">Scoreboards<a hidden class="anchor" aria-hidden="true" href="#scoreboards">#</a></h2>
+<ul>
+<li><a href="top100.md">Top 100 Elo Ratings</a> - The top 100 corporations ranked based on their performance in all White Star matches.</li>
+<li><a href="comp100.md">Top 100 Competitive Elo Ratings</a> - The competitive ranking excludes whichever scanner slot produces the lower score per 4 day period.</li>
+<li><a href="relics100.md">Top 100 For Most Relics</a> - The leaderboard of corporations with the highest total of relics in any match.</li>
+<li><a href="totalws.md">Top 100 For Most WhiteStars</a> - The leaderboard of corporations with the highest total whitestars completed.</li>
+<li><a href="win100.md">Top 100 Winning Corporations</a> - The leaderboard of corporations with the highest total number of wins.</li>
+<li><a href="lose100.md">Top 100 Losing Corporations</a> - The leaderboard of corporations with the highest total number of Losses</li>
+</ul>
+<h2 id="corporations">Corporations<a hidden class="anchor" aria-hidden="true" href="#corporations">#</a></h2>
+<ul>
+<li><a href="corp/index.md">Corporation Directory</a> - Access detailed directories for each corporation, including match histories, scores, and other relevant data.</li>
+</ul>
+<h2 id="resources">Resources<a hidden class="anchor" aria-hidden="true" href="#resources">#</a></h2>
+<ul>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/whitestar_matches.csv">White Star Matches (CSV)</a> - CSV format of white star matches data.</li>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/whitestar_matches.json">White Star Matches (JSON)</a> - JSON format of white star matches data.</li>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/whitestar_matches.xlsx">White Star Matches (XLSX)</a> - Excel format of white star matches data.</li>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/whitestar_scoreboard.csv">White Star Scoreboard (CSV)</a> - CSV format of white star scoreboard.</li>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/whitestar_scoreboard.json">White Star Scoreboard (JSON)</a> - JSON format of white star scoreboard.</li>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/rsBotStats.csv">Red Star Bot Queue History (CSV)</a> - Queue history from the Hades&rsquo; Star RS Q bot.</li>
+<li><a href="https://github.com/CapricanDRJ/HadesStarCommunityData">Hades Star Community Data GitHub</a> - Link to the main GitHub repository.</li>
+</ul>
+<h2 id="official-links">Official Links<a hidden class="anchor" aria-hidden="true" href="#official-links">#</a></h2>
+<p>Stay connected with the official Hades&rsquo; Star community and resources:</p>
+<ul>
+<li><a href="https://www.hadesstar.com">Hades&rsquo; Star Official Website</a></li>
+<li><a href="https://discord.gg/hadesstar">Hades&rsquo; Star Official Discord</a></li>
+<li><a href="https://www.reddit.com/r/HadesStar/">Hades&rsquo; Star Reddit</a></li>
+</ul>
+<h2 id="community-projects">Community Projects<a hidden class="anchor" aria-hidden="true" href="#community-projects">#</a></h2>
+<ul>
+<li><a href="https://discord.gg/p588eHaFqh">WS Community LeaderBoard Discord</a> - Discord invite for the whitestar community leaderboard</li>
+<li><a href="https://userxinos.github.io/HadesSpace/">Hades Space</a> - A community resource site for Hades&rsquo; Star</li>
+<li><a href="https://discord.com/oauth2/authorize?client_id=1055503950067007569">Red Star Queue Bot</a> - Discord bot invite for the Hades&rsquo; Star Red Star Queue</li>
+<li><a href="https://dn-toolbox.streamlit.app/">DRS Mining Simulator</a> - CapSora&rsquo;s dark red star mining simulator</li>
+<li><a href="https://www.youtube.com/channel/UClCEI716iodpAUc7_F45MAw">KestraAkadi&rsquo;s Youtube Channel</a> - The Star League Hades&rsquo; Star corporation whitestar replay records.</li>
+<li><a href="https://discord.com/oauth2/authorize?client_id=1198035340955504670">Hades&rsquo; Star ELO</a>: Recalculates and updates ELO scores every 15 minutes.</li>
+<li><a href="https://discord.com/oauth2/authorize?client_id=1055503950067007569">Hades&rsquo; Star RS Q</a>: Manages Red Star queues with button interactions.</li>
+<li><a href="https://discord.com/oauth2/authorize?client_id=1279978547569491968">Hades&rsquo; Star Trader</a>: Manages trading lists and inventory for artifacts.</li>
+<li><a href="https://discord.com/oauth2/authorize?client_id=1313578638460846173">Hades&rsquo; Star Tech</a>: Streamlines tech sharing and alt management.</li>
+</ul>
+<h2 id="contributing">Contributing<a hidden class="anchor" aria-hidden="true" href="#contributing">#</a></h2>
+<p>We welcome contributions from the community. If you have data to add or suggestions to improve the repository, please feel free contact us.</p>
+<h2 id="license">License<a hidden class="anchor" aria-hidden="true" href="#license">#</a></h2>
+<p>This project is licensed under the MIT License. See the <a href="https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/LICENSE">LICENSE</a> file for details.</p>
+<h2 id="contact">Contact<a hidden class="anchor" aria-hidden="true" href="#contact">#</a></h2>
+<p>For questions or support, please open an issue on GitHub or reach out through the <a href="https://discord.gg/p588eHaFqh">WS Community LeaderBoard Discord</a></p>
+
+
+</div>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​★BLACK•TALON★
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Whitestar Bonus ❌ Statistic Value ELO Regular 1160 🔻 (1091) ELO Competitive 1183 🔻 (1037) Total Matches 5 Wins 0 Losses 3 Draws 2 Flagship 0 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+Match History Date Score Opponent ❌ 2025/02/23 0-3 Cool Casual ❌ 2025/02/23 0-12 星际公约组织 ↔️ 2025/02/11 0-0 BlackDawn ↔️ 2025/02/11 0-0 GermanSpaceDuo ❌ 2025/01/25 0-1 ℬlackStar Order Corporation ID: 3e7a8d9fa0eccda2bbaba515d9658797d143de56c55303f6587d9f817fa80be0
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-23 11:57:07 +0000 UTC'>February 23, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​★BLACK•TALON★" href="https://ws.tsl.rocks/corp/3e7a8d9fa0eccda2bbaba515d9658797d143de56c55303f6587d9f817fa80be0/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Yellow Dwarf
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> &lt;color=#FFD700&gt;Welcome to Yellow Dwarf!&lt;/color&gt; We are part of the Dw arf Crew family of corps-Red, White, Green &amp; Blue. We work as a team to help each other. Weekly White Stars in our dedicated corp. Discord Whitestar Bonus ❌ 9% Statistic Value ELO Regular 1200 🔺 (538) ELO Competitive 1215 🔺 (584) Total Matches 3 Wins 2 Losses 1 Draws 0 Flagship 5 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-23 11:22:07 +0000 UTC'>February 23, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Yellow Dwarf" href="https://ws.tsl.rocks/corp/fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Anarchy Nation
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Active members looking to expand together and conquer white stars Whitestar Bonus ❌ 6% Statistic Value ELO Regular 1210 🔻 (471) ELO Competitive 1237 🔻 (468) Total Matches 19 Wins 11 Losses 7 Draws 1 Streak Record 4 Flagship 3 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-23 09:42:25 +0000 UTC'>February 23, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Anarchy Nation" href="https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Empire of Light
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> The Empire of Light led by Lord Spirallis to be one of light rays in space of this game. WS every week. Join us into the Light! Discord Whitestar Bonus ❌ 8% Statistic Value ELO Regular 1086 🔺 (1356) ELO Competitive 1214 🔺 (592) Total Matches 49 Wins 15 Losses 33 Draws 1 Streak Record 3 Flagship 7 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-23 09:42:25 +0000 UTC'>February 23, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Empire of Light" href="https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Imperium
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Whitestar Bonus ❌ Statistic Value ELO Regular 1185 🔻 (761) ELO Competitive 1185 🔻 (947) Total Matches 1 Wins 0 Losses 1 Draws 0 Flagship 0 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+Match History Date Score Opponent ❌ 2025/02/23 0-11 Hades’ galaxy Corporation ID: 4d1bd313c919d981ca390e6f96e152d6f97602d72167108074a99770fc7e74ef
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-23 03:36:06 +0000 UTC'>February 23, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Imperium" href="https://ws.tsl.rocks/corp/4d1bd313c919d981ca390e6f96e152d6f97602d72167108074a99770fc7e74ef/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Повстанцы Хаоса
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Рим анархиста.▼ Посильная благотворительность ▼ Красные звёзды 2-9 ▼ Белые звёзды - без ограниченийTelegram обязателен для вступления: https://t.me/DogDogDog10 Discord Whitestar Bonus ❌ 10% Statistic Value ELO Regular 1526 🔺 (9) ELO Competitive 1629 🔺 (20) Total Matches 60 Wins 52 Losses 8 Draws 0 Streak 8 Streak Record 22 Flagship 8 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-22 20:00:43 +0000 UTC'>February 22, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Повстанцы Хаоса" href="https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​System Shocker
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Whitestar Bonus ❌ Statistic Value ELO Regular 1215 🔺 (418) ELO Competitive 1223 🔺 (518) Total Matches 1 Wins 1 Losses 0 Draws 0 Flagship 0 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+Match History Date Score Opponent ✅ 2025/02/22 38-20 ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ Corporation ID: ef611dc637eb934f6336d5c7ff8dbe60e251355c55569f1b26300aed1798757f
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-22 19:15:38 +0000 UTC'>February 22, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​System Shocker" href="https://ws.tsl.rocks/corp/ef611dc637eb934f6336d5c7ff8dbe60e251355c55569f1b26300aed1798757f/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​11th Engineers
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Whitestar Bonus ❌ 8% Statistic Value ELO Regular 816 🔻 (1443) ELO Competitive 1051 🔺 (1429) Total Matches 73 Wins 4 Losses 61 Draws 8 Streak Record 2 Flagship 6 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+Recurring Opponents Opponent Wins Losses Draws Total Matches Тихий Омут 1 13 0 14 КОРПОРАЦИЯ ЗЛА 1 0 4 5 Avantgarde 2 0 1 3 Axiom 0 9 0 9 脉冲星际集团 0 2 0 2 九州分团 0 2 0 2 Match History Date Score Opponent ❌ 2025/02/22 0-25 Blazing Stars ↔️ 2025/02/22 0-0 RusCorp ❌ 2025/02/17 0-3 Тихий Омут ❌ 2025/02/17 0-6 Тихий Омут ↔️ 2025/02/07 0-0 You Win ↔️ 2025/02/07 0-0 КОРПОРАЦИЯ ЗЛА ❌ 2025/02/02 0-7 Тихий Омут ❌ 2025/02/02 0-7 Тихий Омут ❌ 2025/01/22 0-21 Cydonia Order ↔️ 2025/01/17 0-0 КОРПОРАЦИЯ ЗЛА ❌ 2025/01/17 0-7 Тихий Омут ❌ 2025/01/07 0-19 The Syndicate ❌ 2025/01/07 0-18 星落苑 ❌ 2025/01/02 0-7 63SALVADORES36 ❌ 2025/01/02 0-3 СОЮЗ ❌ 2024/12/22 0-3 Red Star ↔️ 2024/12/22 0-0 Avantgarde ❌ 2024/12/17 0-3 Axiom ❌ 2024/12/17 0-11 OrderofTheGeon ❌ 2024/12/07 0-16 White Dwarf ❌ 2024/12/07 0-1 佛矿寺 ❌ 2024/12/02 0-11 万星联盟 ❌ 2024/12/02 0-13 Blue Dwarf ↔️ 2024/11/26 0-0 КОРПОРАЦИЯ ЗЛА ❌ 2024/11/26 0-3 Axiom ❌ 2024/11/21 0-9 Kratos ❌ 2024/11/21 0-10 CTG ❌ 2024/11/16 0-3 Axiom ❌ 2024/11/11 0-3 Тихий Омут ↔️ 2024/11/06 0-0 Sich.ua ❌ 2024/11/05 0-4 世外桃源 ❌ 2024/10/31 0-10 对，进就进人少的 ❌ 2024/10/31 0-8 普罗米修斯 ❌ 2024/10/26 0-3 Axiom ❌ 2024/10/21 0-5 Тихий Омут ❌ 2024/10/16 0-4 脉冲星际集团 ❌ 2024/10/16 0-3 Диванные Стражи ❌ 2024/10/10 0-11 Axiom ❌ 2024/10/06 0-10 AAAA ❌ 2024/10/05 0-2 九州分团 ❌ 2024/09/30 0-13 Тихий Омут ❌ 2024/09/25 0-2 脉冲星际集团 ❌ 2024/09/20 0-6 FURIA 2.0 ❌ 2024/09/20 0-3 Axiom ❌ 2024/09/15 0-2 Неизбежный Рок ❌ 2024/09/15 0-10 Тихий Омут ↔️ 2024/09/10 0-0 КОРПОРАЦИЯ ЗЛА ❌ 2024/09/05 1-4 数字星际集团 ❌ 2024/09/05 0-4 Тихий Омут ❌ 2024/08/31 0-19 游徒之家 ❌ 2024/08/31 0-7 SEC ❌ 2024/08/21 0-13 萌新的收留所 ❌ 2024/08/21 0-4 Тихий Омут ❌ 2024/08/15 0-5 资助会 ❌ 2024/08/15 0-3 Axiom ❌ 2024/08/10 0-9 Тихий Омут ❌ 2024/08/10 0-17 九州分团 ❌ 2024/07/31 0-2 Axiom ❌ 2024/07/26 0-21 SUN OF 3LANDS ❌ 2024/07/26 0-12 Pixies ❌ 2024/07/21 0-19 Eretria ❌ 2024/07/16 0-11 第四星际 ❌ 2024/07/11 2-6 使命白星 ❌ 2024/07/10 0-5 Тихий Омут ✅ 2024/07/05 1-0 Avantgarde ❌ 2024/06/30 2-16 Galaktika corp ❌ 2024/06/30 0-4 Gastro ✅ 2024/06/24 4-0 КОРПОРАЦИЯ ЗЛА ✅ 2024/06/19 4-0 Avantgarde ❌ 2024/06/14 0-3 Utd. Human Fed. ❌ 2024/06/14 1-31 Eastern Front ❌ 2024/06/09 0-3 Axiom ✅ 2024/06/04 1-0 Тихий Омут Corporation ID: 7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-22 16:55:22 +0000 UTC'>February 22, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​11th Engineers" href="https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​物竞天择，适者生存
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> 本星际集团是&lt;color=red&gt;&lt;size=50&gt;红日初升,其道大光&lt;/size&gt;&lt;/color&gt;第一分团。&lt;color=yellow&gt; 只有超过70级或r7才会被晋升为干事！&lt;/color&gt;盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）&lt;c olor=orange&gt;南极星联盟成员&lt;/color&gt; Whitestar Bonus ❌ 6% Statistic Value ELO Regular 1136 🔻 (1232) ELO Competitive 1199 🔻 (704) Total Matches 23 Wins 8 Losses 14 Draws 1 Streak Record 3 Flagship 3 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-22 15:40:12 +0000 UTC'>February 22, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​物竞天择，适者生存" href="https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​The Star League
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Welcome to &lt;color=yellow&gt;&lt;b&gt;The Star League&lt;/b&gt;&lt;/color&gt;: active &lt;colo r=red&gt;Red Star 9-12&lt;/color&gt; and competitive &lt;color=white&gt;White Star&lt;/ color&gt; focus. Discord Whitestar Bonus ❌ 14% Statistic Value ELO Regular 1161 🔻 (1089) ELO Competitive 1222 🔻 (523) Total Matches 24 Wins 8 Losses 16 Draws 0 Streak Record 3 Flagship 12 Whitestar Match Day This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-02-22 14:45:06 +0000 UTC'>February 22, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​The Star League" href="https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://ws.tsl.rocks/page/35/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="https://ws.tsl.rocks/page/37/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://ws.tsl.rocks/">Hades&#39; Star Community Data</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
