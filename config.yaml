@@ -27,8 +27,7 @@ params:
   ShowShareButtons: true
   homeInfoParams:
     Title: "Hades' Star Resources"
-    Content: >
-      Several community projects related to the Hades' Star video game.\nThis site could be better, if you are a web developer who would like to make that happen, please join us on discord
+    Content: "Several community projects related to the Hades' Star video game.\nThis site could be better, if you are a web developer who would like to make that happen, please join us on discord."
   socialIcons:
     - name: github
       title: View Source on GitHub
