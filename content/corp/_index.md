@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-03-06T09:55:08.430Z
+date: 2025-03-06T12:55:08.570Z
 summary: "Corporation directory"
 ---
 
@@ -289,7 +289,7 @@ summary: "Corporation directory"
 | [FirstAllegiance](https://ws.tsl.rocks/corp/4bdc1a5a316da054182d474333d14b9ded14438e1dcd17eefeff189a180edbbf/) | 1186 | 1186 | 1 |
 | [fishwax](https://ws.tsl.rocks/corp/da598952db4b9797b5cdc41e8347477fdf8c2a14f9d96bb975c363cfc9fafeac/) | 1183 | 1183 | 1 |
 | [Fishy Business ](https://ws.tsl.rocks/corp/5e8f1a51e0fbc07f06f14b1569aea75167fed51aae36416f70b2799f67906bbd/) | 1190 | 1193 | 3 |
-| [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 1298 | 1389 | 36 |
+| [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 1304 | 1394 | 37 |
 | [FlightCommand](https://ws.tsl.rocks/corp/cf6143eceb014e2d9eb9caf00cc78d78eeb2511999fa983c58d4b6fdefd76d16/) | 1185 | 1185 | 1 |
 | [Flying Dutchmen](https://ws.tsl.rocks/corp/e126d655a5f207a8e5158d2bb309cc9d201ad47a85fa874c02ea6bd28cf49c51/) | 1189 | 1190 | 1 |
 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) | 1282 | 1315 | 25 |
@@ -468,7 +468,7 @@ summary: "Corporation directory"
 | [La resistencia](https://ws.tsl.rocks/corp/dd30b679e61e7c9691899cf831cfeda480075c9551e01d33f23154a0749f8b23/) | 1200 | 1200 | 1 |
 | [Lacuna Academy](https://ws.tsl.rocks/corp/ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b/) | 1345 | 1353 | 17 |
 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) | 1239 | 1285 | 35 |
-| [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) | 1078 | 1134 | 45 |
+| [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) | 1072 | 1129 | 46 |
 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) | 1509 | 1593 | 67 |
 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) | 1146 | 1150 | 13 |
 | [Last Chance](https://ws.tsl.rocks/corp/b12e8f526e8e7365ba188207ac69c12954e4c85faffd6f5f0e189aa2693a90ba/) | 1194 | 1204 | 6 |

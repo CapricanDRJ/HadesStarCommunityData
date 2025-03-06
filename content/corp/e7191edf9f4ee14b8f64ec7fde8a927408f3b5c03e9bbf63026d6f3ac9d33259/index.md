@@ -20,7 +20,7 @@ Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1262)|
-| ELO Competitive | 1132 🔻  (1358)|
+| ELO Competitive | 1132 🔻  (1357)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |
