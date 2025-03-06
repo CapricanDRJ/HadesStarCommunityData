@@ -1,9 +1,9 @@
 ---
 title: ​ 边域
-description: W:8 L:11 D:1 Bonus ❌ 6%
+description: W:8 L:12 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **The Witness**
-date: 2025-02-24T02:51:50.000Z
+Summary: ❌ 0 - 5 **Cool Casual**
+date: 2025-03-06T07:53:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-02-24T02:51:50.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔺  (1088)|
-| ELO Competitive | 1181 🔺  (1052)|
-| Total Matches | 20 |
+| ELO Regular | 1150 🔻  (1164)|
+| ELO Competitive | 1169 🔻  (1175)|
+| Total Matches | 21 |
 | Wins | 8 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739933510,1738501124,1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1740815612,1739933510,1738501124,1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/06 | 0-5 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2025/02/24 | 1-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/02/07 | 1-3 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/02/02 | 3-5 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
@@ -161,5 +162,5 @@ Corporation ID: b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740365510"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741247612"></span>
 </div>

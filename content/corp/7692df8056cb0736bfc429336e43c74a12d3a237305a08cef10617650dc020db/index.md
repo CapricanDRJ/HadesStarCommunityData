@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:23 L:138 D:0 Bonus ✅ 46%
+description: W:23 L:138 D:0 Bonus ❌ 46%
 image: ./favicon.png
 Summary: ❌ 5 - 57 **Tacitus**
 date: 2025-03-05T07:26:03.000Z
@@ -18,7 +18,7 @@ date: 2025-03-05T07:26:03.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 46%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Cool Casual
-description: W:9 L:4 D:0 Bonus ❌ 
+description: W:10 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 11 **РARADISЕ**
-date: 2025-02-28T22:15:48.000Z
+Summary: ✅ 5 - 0 ** 边域**
+date: 2025-03-06T07:53:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-02-28T22:15:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (329)|
-| ELO Competitive | 1250 🔻  (428)|
-| Total Matches | 13 |
-| Wins | 9 |
+| ELO Regular | 1247 🔺  (280)|
+| ELO Competitive | 1262 🔺  (397)|
+| Total Matches | 14 |
+| Wins | 10 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/06 | 5-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2025/02/28 | 3-11 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/02/23 | 3-0 | [★BLACK•TALON★](https://ws.tsl.rocks/corp/3e7a8d9fa0eccda2bbaba515d9658797d143de56c55303f6587d9f817fa80be0/) |
 | ✅ | 2025/02/17 | 3-1 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
@@ -159,5 +160,5 @@ Corporation ID: 9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740780948"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741247612"></span>
 </div>

@@ -2,7 +2,7 @@
 layout: page
 title: Custom ELO Weighting
 description: Hades' Star top 100 trial ranks inclusive of all whitestar matches.
-date: 2025-03-06T06:55:08.080Z
+date: 2025-03-06T09:55:07.978Z
 permalink: /ctop100/
 searchHidden: true
 ---
@@ -130,12 +130,12 @@ searchHidden: true
 | 119 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed) | 1495|
 | 120 | [Corp. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72) | 1494|
 | 121 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9) | 1494|
-| 122 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c) | 1493|
-| 123 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d) | 1493|
-| 124 | [минск](https://ws.tsl.rocks/corp/350845614fd714115b9d5fbb2d305c4aaeafe40bf25dd9352f762b1cd4c25deb) | 1493|
-| 125 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2) | 1491|
-| 126 | [G.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124) | 1491|
-| 127 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0) | 1490|
+| 122 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0) | 1494|
+| 123 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c) | 1493|
+| 124 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d) | 1493|
+| 125 | [минск](https://ws.tsl.rocks/corp/350845614fd714115b9d5fbb2d305c4aaeafe40bf25dd9352f762b1cd4c25deb) | 1493|
+| 126 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2) | 1491|
+| 127 | [G.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124) | 1491|
 | 128 | [Russia](https://ws.tsl.rocks/corp/9934f669a279406be015265596669afd7dd1c4e30f2a7bba308feaff75b33932) | 1490|
 | 129 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47) | 1490|
 | 130 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d) | 1489|

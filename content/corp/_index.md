@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-03-06T06:55:08.592Z
+date: 2025-03-06T09:55:08.430Z
 summary: "Corporation directory"
 ---
 
@@ -149,7 +149,7 @@ summary: "Corporation directory"
 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) | 1185 | 1197 | 6 |
 | [Continuance](https://ws.tsl.rocks/corp/2c3f87013563292fdca83c5200da0bb1668b92a27af7ff4fa19968b5e4d54de0/) | 1172 | 1172 | 3 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1390 | 1698 | 155 |
-| [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 1235 | 1250 | 13 |
+| [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 1247 | 1262 | 14 |
 | [Copelius](https://ws.tsl.rocks/corp/5ccdfe71720f707dabd274b5bab6f84a443484f3e38ec1065ad5f5a20268649f/) | 1190 | 1192 | 1 |
 | [Core](https://ws.tsl.rocks/corp/064e57c0b410f85b0a74583e4e870f987bd016a905bb03f86f8e1eab4b48bd38/) | 1186 | 1186 | 1 |
 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62/) | 1187 | 1187 | 1 |
@@ -1041,7 +1041,7 @@ summary: "Corporation directory"
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1273 | 1596 | 135 |
 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1126 | 1248 | 39 |
 | [ 星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1234 | 1236 | 4 |
-| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1161 | 1181 | 20 |
+| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1150 | 1169 | 21 |
 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) | 1380 | 1442 | 18 |
 | ["ПОБЕДА"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) | 1185 | 1185 | 1 |
 | [$TAR$](https://ws.tsl.rocks/corp/05ef16a2f175c0cb548193f16571a9c8285e16d0f0fb2dcd138ab632b57aa53f/) | 1179 | 1193 | 2 |

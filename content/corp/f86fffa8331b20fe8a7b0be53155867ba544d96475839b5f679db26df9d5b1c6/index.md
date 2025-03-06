@@ -22,7 +22,7 @@ layers For White Star | All Red Star Levels Welcome Here | € -> FS1
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (952)|
-| ELO Competitive | 1180 🔻  (1061)|
+| ELO Competitive | 1180 🔻  (1060)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
