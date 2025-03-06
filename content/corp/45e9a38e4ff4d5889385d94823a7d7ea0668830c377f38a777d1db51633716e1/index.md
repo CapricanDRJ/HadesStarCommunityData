@@ -1,6 +1,6 @@
 ---
 title: ​星瀚协议
-description: W:1 L:4 D:0 Bonus ✅ 
+description: W:1 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 16 **EarthFederation**
 date: 2025-03-05T18:27:12.000Z
@@ -15,12 +15,12 @@ date: 2025-03-05T18:27:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (930)|
-| ELO Competitive | 1205 🔻  (650)|
+| ELO Competitive | 1205 🔻  (651)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

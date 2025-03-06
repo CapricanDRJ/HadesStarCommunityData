@@ -1,9 +1,9 @@
 ---
 title: ​Stone Legion
-description: W:32 L:13 D:1 Bonus ✅ 38%
+description: W:32 L:14 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 44 - 0 **Free Thinkers 2**
-date: 2025-03-03T10:11:41.000Z
+Summary: ❌ 0 - 24 **9\-Й СКОРПИОН**
+date: 2025-03-06T05:53:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2025-03-03T10:11:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (122)|
+| ELO Regular | 1322 🔻  (138)|
 | ELO Competitive | 1416 🔺  (138)|
-| Total Matches | 46 |
+| Total Matches | 47 |
 | Wins | 32 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 9 |
 | Flagship | 8 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740564701,1738882175,1738098742,1737079137,1736428770,1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1740808399,1740564701,1738882175,1738098742,1737079137,1736428770,1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/06 | 0-24 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2025/03/03 | 44-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2025/02/11 | 13-36 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2025/02/02 | 19-33 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
@@ -198,5 +199,5 @@ Corporation ID: 60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740996701"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741240399"></span>
 </div>
