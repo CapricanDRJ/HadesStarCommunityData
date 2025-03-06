@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-03-06T18:55:08.509Z
+date: 2025-03-06T21:55:08.840Z
 summary: "Corporation directory"
 ---
 
@@ -66,6 +66,7 @@ summary: "Corporation directory"
 | [AwA](https://ws.tsl.rocks/corp/9e1ba6b6db84b30e4d5cc2ff2933e0472d2e943670f25b712564f1cc01a63feb/) | 1218 | 1223 | 8 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 1250 | 1539 | 127 |
 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) | 1020 | 1066 | 41 |
+| [Azennor inc\.](https://ws.tsl.rocks/corp/b20eec58c56fcfae87efc51986817da9dca387c1c97cdf722432dfdf0e418050/) | 1186 | 1186 | 1 |
 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) | 1132 | 1136 | 6 |
 | [Back of the bus](https://ws.tsl.rocks/corp/d269bac96227b22639d016b35ca2d0ef85c03cdc5943bea3d21d2520b0159bf6/) | 1216 | 1216 | 1 |
 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) | 1284 | 1359 | 48 |
@@ -1126,7 +1127,7 @@ summary: "Corporation directory"
 | [Пабеда](https://ws.tsl.rocks/corp/5f29a5087f1cb6c175a54d845b2f3fd65828af71346fc945c5f69520410a6494/) | 1185 | 1186 | 4 |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 1534 | 1635 | 61 |
 | [Призрачный Путь](https://ws.tsl.rocks/corp/c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528/) | 1269 | 1280 | 19 |
-| [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) | 1218 | 1229 | 3 |
+| [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) | 1232 | 1243 | 4 |
 | [РОДНЫЕ\.](https://ws.tsl.rocks/corp/64c5cb7cd357c68809a13e9a1f99c7e8b29bdb1f448796c8262cec88b825aabb/) | 1199 | 1205 | 9 |
 | [Рагнарёк](https://ws.tsl.rocks/corp/0f4b5e62ba17dfb41f69c1bdff9aef2e903349e94362885dc4b144095e3492e5/) | 1175 | 1174 | 2 |
 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) | 1128 | 1159 | 23 |

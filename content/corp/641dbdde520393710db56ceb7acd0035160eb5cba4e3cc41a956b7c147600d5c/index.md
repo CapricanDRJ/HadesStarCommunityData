@@ -20,8 +20,8 @@ Hi !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (977)|
-| ELO Competitive | 1177 🔻  (1078)|
+| ELO Regular | 1172 🔻  (978)|
+| ELO Competitive | 1177 🔻  (1079)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |
