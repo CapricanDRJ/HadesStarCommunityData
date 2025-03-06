@@ -1,9 +1,9 @@
 ---
 title: ​BrazilCorp.
-description: W:53 L:12 D:0 Bonus ✅ 40%
+description: W:54 L:12 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 38 - 10 **Gummibärenbande**
-date: 2025-02-28T12:04:39.000Z
+Summary: ✅ 38 - 2 **Veteran's Haven**
+date: 2025-03-06T14:21:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,17 +21,17 @@ intensas nas Estrelas Brancas.
 <br>
 
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1439 🔺  (33)|
-| ELO Competitive | 1535 🔺  (51)|
-| Total Matches | 65 |
-| Wins | 53 |
+| ELO Regular | 1442 🔺  (31)|
+| ELO Competitive | 1538 🔺  (50)|
+| Total Matches | 66 |
+| Wins | 54 |
 | Losses | 12 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 10 |
 | Flagship | 8 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740312279,1740230546,1739720572,1739709450,1738587075,1738079806,1737551531,1736668602,1735480940,1734695214,1734103886,1733052815,1732368866,1731736027,1731122996,1730114837,1729283049,1726915846,1726313423,1725723558,1725103339,1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
+        let timestamps = [1740838865,1740312279,1740230546,1739720572,1739709450,1738587075,1738079806,1737551531,1736668602,1735480940,1734695214,1734103886,1733052815,1732368866,1731736027,1731122996,1730114837,1729283049,1726915846,1726313423,1725723558,1725103339,1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/06 | 38-2 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |
 | ✅ | 2025/02/28 | 38-10 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2025/02/27 | 40-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/02/21 | 34-20 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
@@ -224,5 +225,5 @@ Corporation ID: 623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740744279"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741270865"></span>
 </div>

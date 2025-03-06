@@ -1,9 +1,9 @@
 ---
 title: ​Veteran's Haven
-description: W:7 L:20 D:0 Bonus ❌ 6%
+description: W:7 L:21 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 25 **Elysium**
-date: 2025-03-01T03:51:15.000Z
+Summary: ❌ 2 - 38 **BrazilCorp\.**
+date: 2025-03-06T14:21:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ts!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1357)|
-| ELO Competitive | 1124 🔻  (1370)|
-| Total Matches | 27 |
+| ELO Regular | 1084 🔻  (1362)|
+| ELO Competitive | 1121 🔻  (1373)|
+| Total Matches | 28 |
 | Wins | 7 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740369075,1739933025,1739438697,1738897196,1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
+        let timestamps = [1740838865,1740369075,1739933025,1739438697,1738897196,1738373388,1737741742,1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/06 | 2-38 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/03/01 | 0-25 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2025/02/24 | 0-39 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ❌ | 2025/02/18 | 0-39 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
@@ -175,5 +176,5 @@ Corporation ID: 254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740801075"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741270865"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​百万繁星
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Star tap**
-date: 2025-02-26T05:09:12.000Z
+Summary: ❌ 0 - 16 **New YuGiOh**
+date: 2025-03-06T14:04:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-02-26T05:09:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (510)|
-| ELO Competitive | 1206 🔻  (645)|
-| Total Matches | 2 |
+| ELO Regular | 1192 🔻  (611)|
+| ELO Competitive | 1196 🔻  (726)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740114552,1739455526];
+        let timestamps = [1740837854,1740114552,1739455526];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/06 | 0-16 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/02/26 | 0-3 | [Star tap](https://ws.tsl.rocks/corp/419ece3690e60cc5181cc450eb68b26886aa17512dc12d80ca87a2664bf6d85c/) |
 | ✅ | 2025/02/18 | 3-2 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 
@@ -141,5 +142,5 @@ Corporation ID: 4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740546552"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741269854"></span>
 </div>

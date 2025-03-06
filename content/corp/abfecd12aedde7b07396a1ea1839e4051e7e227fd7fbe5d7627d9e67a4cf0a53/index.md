@@ -20,7 +20,7 @@ Celestial Combative Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (255)|
+| ELO Regular | 1256 🔺  (256)|
 | ELO Competitive | 1257 🔺  (413)|
 | Total Matches | 6 |
 | Wins | 5 |
