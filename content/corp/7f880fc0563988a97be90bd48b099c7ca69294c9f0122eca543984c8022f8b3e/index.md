@@ -20,7 +20,7 @@ Wir gehören zu Enigma.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (983)|
+| ELO Regular | 1171 🔻  (984)|
 | ELO Competitive | 1171 🔻  (1141)|
 | Total Matches | 2 |
 | Wins | 0 |

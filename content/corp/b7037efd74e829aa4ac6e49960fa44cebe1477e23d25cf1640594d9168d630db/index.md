@@ -27,7 +27,7 @@ If kicked for inactivity, please join back when ready.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1281)|
-| ELO Competitive | 1228 🔻  (497)|
+| ELO Competitive | 1228 🔻  (498)|
 | Total Matches | 76 |
 | Wins | 32 |
 | Losses | 44 |

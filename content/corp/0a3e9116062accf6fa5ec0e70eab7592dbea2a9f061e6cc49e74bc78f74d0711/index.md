@@ -1,9 +1,9 @@
 ---
 title: ​Justice Vengers
-description: W:37 L:12 D:2 Bonus ✅ 36%
+description: W:38 L:12 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 27 - 0 **星舰月球**
-date: 2025-02-27T16:02:45.000Z
+Summary: ✅ 30 - 11 **The Allegiant**
+date: 2025-03-06T03:43:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ date: 2025-02-27T16:02:45.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (91)|
-| ELO Competitive | 1521 🔺  (60)|
-| Total Matches | 51 |
-| Wins | 37 |
+| ELO Regular | 1370 🔺  (85)|
+| ELO Competitive | 1529 🔺  (58)|
+| Total Matches | 52 |
+| Wins | 38 |
 | Losses | 12 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740240165,1739670385,1739219949,1738785112,1738777297,1738152522,1738148616,1737518780,1737479417,1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1740800586,1740240165,1739670385,1739219949,1738785112,1738777297,1738152522,1738148616,1737518780,1737479417,1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/06 | 30-11 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2025/02/27 | 27-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2025/02/21 | 21-6 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2025/02/15 | 6-14 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
@@ -205,5 +206,5 @@ Corporation ID: 0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740672165"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741232586"></span>
 </div>

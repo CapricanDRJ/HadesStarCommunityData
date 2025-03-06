@@ -1,9 +1,9 @@
 ---
 title: ​Glashan
-description: W:12 L:47 D:0 Bonus ❌ 7%
+description: W:12 L:48 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 1 - 22 **九州分团**
-date: 2025-02-27T10:32:08.000Z
+Summary: ❌ 3 - 9 **⭐PRETORIANS\.X⭐**
+date: 2025-03-06T02:43:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ our main language in chat.
 <br>
 
 ### [Discord](https://discord.gg/Md9TAQJQTp)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1064 🔻  (1386)|
-| ELO Competitive | 1122 🔻  (1372)|
-| Total Matches | 59 |
+| ELO Regular | 1051 🔻  (1393)|
+| ELO Competitive | 1114 🔻  (1392)|
+| Total Matches | 60 |
 | Wins | 12 |
-| Losses | 47 |
+| Losses | 48 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740220328,1739667681,1739102442,1738616531,1737959607,1737465891,1736707384,1735540433,1734501717,1733924804,1733317832,1732810005,1732306362,1731697564,1731230592,1730773530,1730021379,1729470874,1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
+        let timestamps = [1740796980,1740220328,1739667681,1739102442,1738616531,1737959607,1737465891,1736707384,1735540433,1734501717,1733924804,1733317832,1732810005,1732306362,1731697564,1731230592,1730773530,1730021379,1729470874,1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/06 | 3-9 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/02/27 | 1-22 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/02/21 | 0-7 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) |
 | ❌ | 2025/02/14 | 0-22 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
@@ -211,5 +212,5 @@ Corporation ID: 48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740652328"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741228980"></span>
 </div>

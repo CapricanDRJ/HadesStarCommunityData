@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:31 L:21 D:1 Bonus ✅ 36%
+description: W:31 L:21 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 11 - 1 **Север РусКорп**
 date: 2025-02-27T01:25:56.000Z
@@ -18,7 +18,7 @@ date: 2025-02-27T01:25:56.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

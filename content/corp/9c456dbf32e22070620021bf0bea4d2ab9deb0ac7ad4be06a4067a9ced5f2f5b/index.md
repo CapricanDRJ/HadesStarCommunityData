@@ -1,9 +1,9 @@
 ---
 title: ​Anarchy Nation 
-description: W:11 L:7 D:1 Bonus ❌ 6%
+description: W:11 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 17 **Empire of Light**
-date: 2025-02-23T09:42:25.000Z
+Summary: ❌ 0 - 11 **Eretria **
+date: 2025-03-06T03:38:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Active members looking to expand together and conquer white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔻  (470)|
-| ELO Competitive | 1237 🔻  (470)|
-| Total Matches | 19 |
+| ELO Regular | 1193 🔻  (598)|
+| ELO Competitive | 1221 🔻  (529)|
+| Total Matches | 20 |
 | Wins | 11 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739871745,1734794376,1733316931,1731284101,1730019899,1727803513,1726724140,1725297767,1724502322,1723541277,1722384017,1718888936,1716160365,1715345830,1714314555,1713150592,1712200178,1711484138,1710954099];
+        let timestamps = [1740800285,1739871745,1734794376,1733316931,1731284101,1730019899,1727803513,1726724140,1725297767,1724502322,1723541277,1722384017,1718888936,1716160365,1715345830,1714314555,1713150592,1712200178,1711484138,1710954099];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/06 | 0-11 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2025/02/23 | 0-17 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/12/26 | 1-9 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/12/09 | 0-13 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
@@ -159,5 +160,5 @@ Corporation ID: 9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740303745"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741232285"></span>
 </div>

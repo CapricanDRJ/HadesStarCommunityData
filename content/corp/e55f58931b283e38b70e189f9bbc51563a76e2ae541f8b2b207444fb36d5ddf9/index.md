@@ -1,6 +1,6 @@
 ---
 title: ​Cydonia Order
-description: W:22 L:14 D:3 Bonus ✅ 36%
+description: W:22 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 2 - 2 **Black Star llc\.**
 date: 2025-03-05T20:52:27.000Z
@@ -15,12 +15,12 @@ THE CYDONIAN EMPIRE™
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔻  (145)|
-| ELO Competitive | 1362 🔺  (195)|
+| ELO Competitive | 1362 🔺  (194)|
 | Total Matches | 39 |
 | Wins | 22 |
 | Losses | 14 |
