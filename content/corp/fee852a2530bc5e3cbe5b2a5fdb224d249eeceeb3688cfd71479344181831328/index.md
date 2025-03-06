@@ -1,6 +1,6 @@
 ---
 title: ​Red Dawn
-description: W:47 L:29 D:2 Bonus ✅ 44%
+description: W:47 L:29 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 50 - 0 **King's Guard**
 date: 2025-02-26T23:46:08.000Z
@@ -19,7 +19,7 @@ date: 2025-02-26T23:46:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

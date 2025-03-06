@@ -1,6 +1,6 @@
 ---
 title: ​⭐PRETORIANS.X⭐
-description: W:17 L:33 D:4 Bonus ✅ 34%
+description: W:17 L:33 D:4 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 5 - 4 **SILVER TERRA**
 date: 2025-02-26T23:16:05.000Z
@@ -17,7 +17,7 @@ sporg). 3lt bpdp)(demin).(flech).
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
