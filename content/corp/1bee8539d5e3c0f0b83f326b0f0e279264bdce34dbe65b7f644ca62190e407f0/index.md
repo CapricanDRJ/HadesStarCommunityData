@@ -1,9 +1,9 @@
 ---
 title: ​Imperium 
-description: W:0 L:3 D:0 Bonus ❌ 
+description: W:0 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 2 **红日初升，其道大光**
-date: 2025-02-26T19:45:09.000Z
+Summary: ↔️ 0 - 0 **Stargroup**
+date: 2025-03-06T18:14:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-02-26T19:45:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (1040)|
-| ELO Competitive | 1174 🔻  (1103)|
-| Total Matches | 3 |
+| ELO Regular | 1165 🔻  (1060)|
+| ELO Competitive | 1173 🔻  (1123)|
+| Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740167109,1739675378,1738795789];
+        let timestamps = [1740852884,1740167109,1739675378,1738795789];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/06 | 0-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ❌ | 2025/02/26 | 0-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/02/21 | 0-7 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/02/10 | 0-21 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
@@ -142,5 +143,5 @@ Corporation ID: 1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740599109"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741284884"></span>
 </div>

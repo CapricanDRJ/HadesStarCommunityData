@@ -22,7 +22,7 @@ experiemced players.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (348)|
-| ELO Competitive | 1229 🔺  (491)|
+| ELO Competitive | 1229 🔺  (492)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

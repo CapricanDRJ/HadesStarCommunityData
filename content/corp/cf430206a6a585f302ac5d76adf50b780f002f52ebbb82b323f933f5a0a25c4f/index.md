@@ -1,9 +1,9 @@
 ---
 title: ​Stargroup
-description: W:0 L:9 D:4 Bonus ❌ 5%
+description: W:0 L:9 D:5 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **WSC\(no DISCORD\)**
-date: 2025-03-01T10:59:26.000Z
+Summary: ↔️ 0 - 0 **Imperium **
+date: 2025-03-06T18:14:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ We do all types of stars we help in red stars we prepare to battle in
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔺  (1320)|
-| ELO Competitive | 1131 🔺  (1359)|
-| Total Matches | 13 |
+| ELO Regular | 1111 🔺  (1314)|
+| ELO Competitive | 1133 🔺  (1356)|
+| Total Matches | 14 |
 | Wins | 0 |
 | Losses | 9 |
-| Draws | 4 |
+| Draws | 5 |
 | Flagship | 1 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
+        let timestamps = [1740852884,1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/06 | 0-0 | [Imperium ](https://ws.tsl.rocks/corp/1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0/) |
 | ↔️ | 2025/03/01 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/02/23 | 0-18 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/02/16 | 0-6 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
@@ -153,5 +154,5 @@ Corporation ID: cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740826766"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741284884"></span>
 </div>
