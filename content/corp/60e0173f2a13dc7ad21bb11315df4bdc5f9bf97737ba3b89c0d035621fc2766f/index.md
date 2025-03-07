@@ -1,9 +1,9 @@
 ---
 title: ​SILVER TERRA
-description: W:31 L:21 D:1 Bonus ❌ 8%
+description: W:31 L:22 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 11 - 1 **Север РусКорп**
-date: 2025-02-27T01:25:56.000Z
+Summary: ❌ 0 - 27 **lonewolf**
+date: 2025-03-07T08:41:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-02-27T01:25:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (157)|
-| ELO Competitive | 1465 🔺  (94)|
-| Total Matches | 53 |
+| ELO Regular | 1301 🔻  (173)|
+| ELO Competitive | 1453 🔻  (108)|
+| Total Matches | 54 |
 | Wins | 31 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740187556,1740179765,1739640935,1739609377,1739155572,1738989153,1738529685,1738397730,1737857436,1737757070,1737147055,1736554354,1735936473,1735330400,1734792272,1734124926,1733516748,1732949744,1732315078,1731707182,1731096253,1730506085,1729816135,1729286767,1728732135,1728098031,1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
+        let timestamps = [1740904873,1740187556,1740179765,1739640935,1739609377,1739155572,1738989153,1738529685,1738397730,1737857436,1737757070,1737147055,1736554354,1735936473,1735330400,1734792272,1734124926,1733516748,1732949744,1732315078,1731707182,1731096253,1730506085,1729816135,1729286767,1728732135,1728098031,1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/07 | 0-27 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2025/02/27 | 11-1 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2025/02/26 | 4-5 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/02/20 | 28-0 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
@@ -205,5 +206,5 @@ Corporation ID: 60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740619556"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741336873"></span>
 </div>

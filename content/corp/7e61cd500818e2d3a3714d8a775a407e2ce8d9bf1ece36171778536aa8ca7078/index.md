@@ -1,9 +1,9 @@
 ---
 title: ​新星汇聚
-description: W:8 L:6 D:0 Bonus ❌ 6%
+description: W:8 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 12 **Вселенские 40%**
-date: 2025-03-05T12:26:32.000Z
+Summary: ❌ 0 - 5 **蓝色星系二号分盟**
+date: 2025-03-07T08:06:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-03-05T12:26:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (358)|
-| ELO Competitive | 1266 🔻  (385)|
-| Total Matches | 14 |
+| ELO Regular | 1216 🔻  (410)|
+| ELO Competitive | 1269 🔻  (375)|
+| Total Matches | 15 |
 | Wins | 8 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740745592,1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
+        let timestamps = [1740902769,1740745592,1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/07 | 0-5 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/03/05 | 3-12 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2025/02/12 | 0-23 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ❌ | 2025/02/07 | 1-10 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
@@ -157,5 +158,5 @@ Corporation ID: 7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741177592"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741334769"></span>
 </div>

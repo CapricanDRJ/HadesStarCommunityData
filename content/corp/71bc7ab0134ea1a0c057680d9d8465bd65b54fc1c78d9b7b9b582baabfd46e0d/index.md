@@ -1,6 +1,6 @@
 ---
 title: ​Ender
-description: W:79 L:36 D:0 Bonus ✅ 52%
+description: W:79 L:36 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 35 - 55 **Grunthal Gang**
 date: 2025-03-06T00:22:46.000Z
@@ -28,7 +28,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

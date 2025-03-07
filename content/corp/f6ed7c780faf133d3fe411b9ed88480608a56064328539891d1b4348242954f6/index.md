@@ -1,6 +1,6 @@
 ---
 title: ​Dark Halo
-description: W:16 L:10 D:1 Bonus ✅ 32%
+description: W:16 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 12 - 3 **佛矿寺**
 date: 2025-02-28T08:49:19.000Z
@@ -15,7 +15,7 @@ date: 2025-02-28T08:49:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
