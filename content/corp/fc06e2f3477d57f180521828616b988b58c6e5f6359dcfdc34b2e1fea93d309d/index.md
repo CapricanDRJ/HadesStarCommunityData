@@ -1,6 +1,6 @@
 ---
 title: ​U.P.E
-description: W:1 L:5 D:1 Bonus ✅ 28%
+description: W:1 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **✨ Love Room✨**
 date: 2025-02-28T04:19:43.000Z
@@ -15,12 +15,12 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔺  (1087)|
-| ELO Competitive | 1165 🔺  (1205)|
+| ELO Regular | 1161 🔺  (1088)|
+| ELO Competitive | 1165 🔺  (1206)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 5 |

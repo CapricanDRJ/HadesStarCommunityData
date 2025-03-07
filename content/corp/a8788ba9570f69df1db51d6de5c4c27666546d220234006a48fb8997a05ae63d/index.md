@@ -1,9 +1,9 @@
 ---
 title: ​47підрозділССП
-description: W:10 L:4 D:0 Bonus ✅ 
+description: W:11 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 2 **three kitties**
-date: 2025-03-01T22:48:11.000Z
+Summary: ✅ 7 - 2 **Bacon Warriors**
+date: 2025-03-07T05:00:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-01T22:48:11.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺  (155)|
-| ELO Competitive | 1363 🔺  (193)|
-| Total Matches | 14 |
-| Wins | 10 |
+| ELO Regular | 1327 🔺  (130)|
+| ELO Competitive | 1377 🔺  (176)|
+| Total Matches | 15 |
+| Wins | 11 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/07 | 7-2 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2025/03/01 | 15-2 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2025/02/24 | 17-5 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2025/02/19 | 16-7 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
@@ -155,5 +161,5 @@ Corporation ID: a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740869291"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741323650"></span>
 </div>

@@ -19,8 +19,8 @@ DreamTeam training cob
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (855)|
-| ELO Competitive | 1184 🔻  (1022)|
+| ELO Regular | 1184 🔻  (856)|
+| ELO Competitive | 1184 🔻  (1023)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 title: ​Bacon Warriors
-description: W:26 L:21 D:1 Bonus ❌ 8%
+description: W:26 L:22 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 10 - 3 **WhiteSTarfighte**
-date: 2025-02-26T05:24:14.000Z
+Summary: ❌ 2 - 7 **47підрозділССП**
+date: 2025-03-07T05:00:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ e lose amd every two weeks if we win. No discord required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (200)|
-| ELO Competitive | 1359 🔺  (198)|
-| Total Matches | 48 |
+| ELO Regular | 1270 🔻  (219)|
+| ELO Competitive | 1344 🔻  (222)|
+| Total Matches | 49 |
 | Wins | 26 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 6 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740115454,1739161950,1738559130,1737950293,1737384759,1736946599,1736088875,1735563870,1734706935,1734108094,1732630898,1731082429,1730116640,1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
+        let timestamps = [1740891650,1740115454,1739161950,1738559130,1737950293,1737384759,1736946599,1736088875,1735563870,1734706935,1734108094,1732630898,1731082429,1730116640,1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 0 | 2 | 0 | 2 |
 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) | 0 | 2 | 0 | 2 |
 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 0 | 1 | 1 | 2 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1 | 1 | 0 | 2 |
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/07 | 2-7 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2025/02/26 | 10-3 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/02/15 | 16-9 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ✅ | 2025/02/08 | 12-5 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
@@ -200,5 +201,5 @@ Corporation ID: ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740547454"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741323650"></span>
 </div>

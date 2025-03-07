@@ -1,9 +1,9 @@
 ---
 title: ​Alpaca Nation
-description: W:11 L:1 D:0 Bonus ✅ 
+description: W:12 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 23 - 0 **天琴座联邦**
-date: 2025-03-02T05:53:47.000Z
+Summary: ✅ 27 - 0 **星际造梦**
+date: 2025-03-07T06:05:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-02T05:53:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔺  (150)|
-| ELO Competitive | 1346 🔺  (220)|
-| Total Matches | 12 |
-| Wins | 11 |
+| ELO Regular | 1326 🔺  (134)|
+| ELO Competitive | 1355 🔺  (202)|
+| Total Matches | 13 |
+| Wins | 12 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
+        let timestamps = [1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/07 | 27-0 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ✅ | 2025/03/02 | 23-0 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ✅ | 2025/02/25 | 24-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/02/19 | 8-4 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -153,5 +154,5 @@ Corporation ID: 183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740894827"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741327556"></span>
 </div>
