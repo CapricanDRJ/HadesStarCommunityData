@@ -1,6 +1,6 @@
 ---
 title: ​分子集团
-description: W:4 L:7 D:0 Bonus ✅ 30%
+description: W:4 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **以太超星团**
 date: 2025-02-28T02:58:48.000Z
@@ -17,7 +17,7 @@ date: 2025-02-28T02:58:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
