@@ -1,6 +1,6 @@
 ---
 title: ​USSR
-description: W:7 L:1 D:0 Bonus ✅ 36%
+description: W:7 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 13 - 1 **Бороская Имерия**
 date: 2025-02-27T23:48:33.000Z
@@ -20,7 +20,7 @@ date: 2025-02-27T23:48:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

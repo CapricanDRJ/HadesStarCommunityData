@@ -1,6 +1,6 @@
 ---
 title: ​Держава Русь
-description: W:3 L:41 D:1 Bonus ✅ 42%
+description: W:3 L:41 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 6 - 9 **Canada 55**
 date: 2025-03-05T14:21:45.000Z
@@ -15,7 +15,7 @@ date: 2025-03-05T14:21:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
