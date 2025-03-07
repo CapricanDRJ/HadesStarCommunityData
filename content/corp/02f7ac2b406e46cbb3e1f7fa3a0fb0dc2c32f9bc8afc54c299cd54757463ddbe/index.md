@@ -22,7 +22,7 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔻  (255)|
+| ELO Regular | 1257 🔻  (256)|
 | ELO Competitive | 1298 🔻  (302)|
 | Total Matches | 34 |
 | Wins | 20 |

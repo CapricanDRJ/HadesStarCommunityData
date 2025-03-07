@@ -1,6 +1,6 @@
 ---
 title: ​alienigenas
-description: W:12 L:5 D:0 Bonus ✅ 36%
+description: W:12 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 41 - 9 **DeutschlandGmbH**
 date: 2025-02-28T15:10:00.000Z
@@ -20,7 +20,7 @@ guna actividad con los demas compañeros
 <br>
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

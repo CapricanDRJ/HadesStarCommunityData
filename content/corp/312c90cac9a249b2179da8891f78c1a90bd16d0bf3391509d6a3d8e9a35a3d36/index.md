@@ -1,6 +1,6 @@
 ---
 title: ​United Stars 
-description: W:40 L:24 D:3 Bonus ✅ 40%
+description: W:40 L:24 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 33 - 10 **UAGC**
 date: 2025-02-28T13:29:48.000Z
@@ -20,7 +20,7 @@ Join the family! Active on discord!
 <br>
 
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

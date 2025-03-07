@@ -22,8 +22,8 @@ amos novos integrantes, peça para colocarem no grupo de WhatsApp aqui
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (173)|
-| ELO Competitive | 1341 🔺  (228)|
+| ELO Regular | 1300 🔺  (174)|
+| ELO Competitive | 1341 🔺  (229)|
 | Total Matches | 17 |
 | Wins | 11 |
 | Losses | 6 |

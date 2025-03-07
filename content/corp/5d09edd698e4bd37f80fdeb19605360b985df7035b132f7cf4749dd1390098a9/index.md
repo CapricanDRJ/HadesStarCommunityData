@@ -1,9 +1,9 @@
 ---
 title: ​Lupus Regnum
-description: W:16 L:3 D:0 Bonus ✅ 
+description: W:16 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 0 **AKLife**
-date: 2025-03-07T12:10:35.000Z
+Summary: ❌ 5 - 9 **Battle Academy**
+date: 2025-03-07T13:01:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-03-07T12:10:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1349 🔺  (106)|
+| ELO Regular | 1329 🔻  (128)|
 | ELO Competitive | 1353 🔺  (208)|
-| Total Matches | 19 |
+| Total Matches | 20 |
 | Wins | 16 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
+        let timestamps = [1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/07 | 5-9 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) |
 | ✅ | 2025/03/07 | 4-0 | [AKLife](https://ws.tsl.rocks/corp/390b9e24784a0c11450f170d5c42dfcb21f8f3a3289037afa7b93339d7f1a3cf/) |
 | ✅ | 2025/02/28 | 6-1 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/02/28 | 30-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
@@ -165,5 +165,5 @@ Corporation ID: 5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741349435"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741352501"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Winged Pheonix
-description: W:16 L:22 D:0 Bonus ✅ 38%
+description: W:16 L:22 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 52 - 0 **E\.T\.A**
 date: 2025-02-28T14:29:56.000Z
@@ -20,7 +20,7 @@ Discord: sqaDS62zfW
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
