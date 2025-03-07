@@ -1,6 +1,6 @@
 ---
 title: ​Legión
-description: W:9 L:9 D:0 Bonus ✅ 34%
+description: W:9 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 23 - 17 **Orden Estelar **
 date: 2025-02-28T11:04:32.000Z
@@ -18,12 +18,12 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 <br>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔺  (303)|
-| ELO Competitive | 1288 🔺  (325)|
+| ELO Competitive | 1288 🔺  (326)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 9 |

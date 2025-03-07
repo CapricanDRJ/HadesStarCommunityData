@@ -19,8 +19,8 @@ Hauptstreitmacht der Quin Armarda
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1261)|
-| ELO Competitive | 1147 🔻  (1308)|
+| ELO Regular | 1130 🔻  (1262)|
+| ELO Competitive | 1147 🔻  (1309)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

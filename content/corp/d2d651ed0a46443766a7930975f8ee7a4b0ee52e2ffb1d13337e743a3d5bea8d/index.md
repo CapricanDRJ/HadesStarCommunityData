@@ -1,6 +1,6 @@
 ---
 title: ​RUS
-description: W:23 L:22 D:0 Bonus ✅ 50%
+description: W:23 L:22 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 55 - 36 **ГОРИЗОНТ**
 date: 2025-02-28T12:24:41.000Z
@@ -18,11 +18,11 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (269)|
+| ELO Regular | 1251 🔺  (270)|
 | ELO Competitive | 1361 🔺  (196)|
 | Total Matches | 45 |
 | Wins | 23 |

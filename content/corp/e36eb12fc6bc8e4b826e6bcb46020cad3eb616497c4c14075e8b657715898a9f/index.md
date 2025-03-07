@@ -1,6 +1,6 @@
 ---
 title: ​INFINITY STAR
-description: W:17 L:20 D:1 Bonus ✅ 38%
+description: W:17 L:20 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 25 - 1 **Stellar Exports**
 date: 2025-02-28T11:39:36.000Z
@@ -16,12 +16,12 @@ Lost in Space...? Dann komm zu uns!
 <br>
 
 ### [Discord](https://discord.gg/qZFjFeg5wP)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔺  (493)|
-| ELO Competitive | 1292 🔺  (313)|
+| ELO Competitive | 1292 🔺  (314)|
 | Total Matches | 38 |
 | Wins | 17 |
 | Losses | 20 |

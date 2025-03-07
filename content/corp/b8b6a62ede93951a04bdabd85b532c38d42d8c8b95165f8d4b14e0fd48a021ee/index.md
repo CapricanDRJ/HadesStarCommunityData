@@ -1,9 +1,9 @@
 ---
 title: ​Hermitage
-description: W:14 L:12 D:1 Bonus ❌ 7%
+description: W:15 L:12 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 17 - 30 **ДИВЕРСАНТЫ**
-date: 2025-02-14T10:25:32.000Z
+Summary: ✅ 32 - 18 **Stellar Exports**
+date: 2025-03-07T10:56:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (276)|
-| ELO Competitive | 1301 🔻  (297)|
-| Total Matches | 27 |
-| Wins | 14 |
+| ELO Regular | 1265 🔺  (232)|
+| ELO Competitive | 1325 🔺  (251)|
+| Total Matches | 28 |
+| Wins | 15 |
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
+        let timestamps = [1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,7 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1 | 2 | 0 | 3 |
+| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 2 | 2 | 0 | 4 |
 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 1 | 1 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 2 | 0 | 2 |
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/07 | 32-18 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/02/14 | 17-30 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2025/02/05 | 3-20 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ↔️ | 2025/01/31 | 14-14 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
@@ -178,5 +179,5 @@ Corporation ID: b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739528732"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741344987"></span>
 </div>

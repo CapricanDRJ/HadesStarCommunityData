@@ -1,6 +1,6 @@
 ---
 title: ​羽共和体
-description: W:18 L:27 D:8 Bonus ✅ 34%
+description: W:18 L:27 D:8 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 1 - 12 **蓝色星系二号分盟**
 date: 2025-03-05T15:26:53.000Z
@@ -17,11 +17,11 @@ date: 2025-03-05T15:26:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1159)|
+| ELO Regular | 1150 🔻  (1161)|
 | ELO Competitive | 1226 🔻  (510)|
 | Total Matches | 53 |
 | Wins | 18 |
