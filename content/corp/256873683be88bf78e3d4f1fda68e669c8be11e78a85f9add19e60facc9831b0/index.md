@@ -1,6 +1,6 @@
 ---
 title: ​Ironbear Legion
-description: W:26 L:37 D:0 Bonus ✅ 46%
+description: W:26 L:37 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **АНДРОМЕДА **
 date: 2025-02-28T19:10:28.000Z
@@ -16,7 +16,7 @@ date: 2025-02-28T19:10:28.000Z
 <br>
 
 ### [Discord](https://discord.gg/EnduRy84t7)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

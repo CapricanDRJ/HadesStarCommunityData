@@ -1,6 +1,6 @@
 ---
 title: ​Дом Датэ
-description: W:41 L:30 D:0 Bonus ✅ 40%
+description: W:41 L:30 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 39 - 0 **The X \- Files**
 date: 2025-02-28T19:50:33.000Z
@@ -16,11 +16,11 @@ date: 2025-02-28T19:50:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (93)|
+| ELO Regular | 1358 🔺  (94)|
 | ELO Competitive | 1463 🔺  (95)|
 | Total Matches | 71 |
 | Wins | 41 |
