@@ -19,7 +19,7 @@ Join if you have a white star scanner and can help in white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (977)|
+| ELO Regular | 1172 🔻  (976)|
 | ELO Competitive | 1178 🔻  (1075)|
 | Total Matches | 2 |
 | Wins | 0 |

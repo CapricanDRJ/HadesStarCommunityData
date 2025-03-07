@@ -1,9 +1,9 @@
 ---
 title: ​The Witness
-description: W:17 L:34 D:4 Bonus ❌ 7%
+description: W:17 L:34 D:5 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **星际公约组织**
-date: 2025-03-07T05:50:55.000Z
+Summary: ↔️ 0 - 0 **U\.Y\.E\.U\.**
+date: 2025-03-07T15:58:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,16 @@ Note- Discord link is updated. Will expire in 7 DAYS
 <br>
 
 ### [Discord](https://discord.gg/CzUVew5w)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 999 🔻  (1426)|
-| ELO Competitive | 1140 🔻  (1340)|
-| Total Matches | 55 |
+| ELO Regular | 1003 🔺  (1424)|
+| ELO Competitive | 1146 🔻  (1314)|
+| Total Matches | 56 |
 | Wins | 17 |
 | Losses | 34 |
-| Draws | 4 |
+| Draws | 5 |
 | Streak Record | 12 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740894655,1740458020,1740427073,1739933510,1739927618,1739478861,1739476864,1738689550,1738684741,1738013101,1738010697,1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1740931099,1740894655,1740458020,1740427073,1739933510,1739927618,1739478861,1739476864,1738689550,1738684741,1738013101,1738010697,1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/07 | 0-0 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
 | ❌ | 2025/03/07 | 0-10 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ↔️ | 2025/03/02 | 0-0 | [人人平等至上集团](https://ws.tsl.rocks/corp/f53ab6b6753f8863f21f2516c82b29bb8c994a766292a5162a18e30a2f577715/) |
 | ❌ | 2025/03/01 | 1-9 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
@@ -208,5 +209,5 @@ Corporation ID: b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741326655"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741363099"></span>
 </div>

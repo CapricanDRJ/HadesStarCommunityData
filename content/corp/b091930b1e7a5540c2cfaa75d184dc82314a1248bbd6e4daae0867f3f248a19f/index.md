@@ -1,9 +1,9 @@
 ---
 title: ​Ещё один Миф
-description: W:12 L:20 D:0 Bonus ❌ 10%
+description: W:12 L:21 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 7 - 49 **BrazilCorp\.**
-date: 2025-03-07T14:21:51.000Z
+Summary: ❌ 0 - 8 **Red Star**
+date: 2025-03-07T15:57:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-03-07T14:21:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (887)|
+| ELO Regular | 1167 🔻  (1041)|
 | ELO Competitive | 1256 🔻  (414)|
-| Total Matches | 32 |
+| Total Matches | 33 |
 | Wins | 12 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/07 | 0-8 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/03/07 | 7-49 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/03/02 | 0-44 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2025/03/01 | 0-16 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
@@ -184,5 +185,5 @@ Corporation ID: b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741357311"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741363024"></span>
 </div>

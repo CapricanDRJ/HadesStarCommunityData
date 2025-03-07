@@ -1,9 +1,9 @@
 ---
 title: ​U.Y.E.U.
-description: W:4 L:14 D:4 Bonus ❌ 5%
+description: W:4 L:14 D:5 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **Lupus Regnum**
-date: 2025-02-21T13:02:32.000Z
+Summary: ↔️ 0 - 0 **The Witness**
+date: 2025-03-07T15:58:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,12 @@ United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔻  (1351)|
-| ELO Competitive | 1135 🔻  (1354)|
-| Total Matches | 22 |
+| ELO Regular | 1090 🔻  (1359)|
+| ELO Competitive | 1135 🔺  (1352)|
+| Total Matches | 23 |
 | Wins | 4 |
 | Losses | 14 |
-| Draws | 4 |
+| Draws | 5 |
 | Flagship | 1 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739710952,1738789873,1738320195,1737032550,1714869624,1714422731,1713978344,1713544812,1713102512,1712804439,1712618756,1712119050,1711610629,1711588400,1711077589,1710971290,1710524721,1710500080,1710024150,1710024150,1709458357,1708689932];
+        let timestamps = [1740931099,1739710952,1738789873,1738320195,1737032550,1714869624,1714422731,1713978344,1713544812,1713102512,1712804439,1712618756,1712119050,1711610629,1711588400,1711077589,1710971290,1710524721,1710500080,1710024150,1710024150,1709458357,1708689932];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/07 | 0-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/02/21 | 0-5 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/02/10 | 0-3 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2025/02/05 | 0-13 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -169,5 +170,5 @@ Corporation ID: 504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740142952"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741363099"></span>
 </div>

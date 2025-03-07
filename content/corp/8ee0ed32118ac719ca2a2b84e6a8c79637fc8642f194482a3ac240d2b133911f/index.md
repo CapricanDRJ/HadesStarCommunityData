@@ -1,6 +1,6 @@
 ---
 title: ​Interstellar
-description: W:43 L:55 D:3 Bonus ✅ 38%
+description: W:43 L:55 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 21 - 5 **\*СССР\***
 date: 2025-02-28T18:30:23.000Z
@@ -18,12 +18,12 @@ vents (when possible), Also make use of the timemachine capability if
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔺  (1176)|
-| ELO Competitive | 1309 🔺  (278)|
+| ELO Competitive | 1309 🔺  (279)|
 | Total Matches | 101 |
 | Wins | 43 |
 | Losses | 55 |

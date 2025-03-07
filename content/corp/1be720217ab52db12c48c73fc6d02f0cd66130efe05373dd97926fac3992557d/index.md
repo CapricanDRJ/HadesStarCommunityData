@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:46 L:34 D:0 Bonus ✅ 48%
+description: W:46 L:34 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 50 - 6 **=AMG=**
 date: 2025-02-28T16:15:08.000Z
@@ -17,7 +17,7 @@ date: 2025-02-28T16:15:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
