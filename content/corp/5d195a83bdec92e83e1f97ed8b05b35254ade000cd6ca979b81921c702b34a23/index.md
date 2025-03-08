@@ -1,6 +1,6 @@
 ---
 title: ​VoidRunners
-description: W:84 L:75 D:1 Bonus ✅ 44%
+description: W:84 L:75 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 2 - 29 **ETER & CAOS**
 date: 2025-03-01T07:06:32.000Z
@@ -23,7 +23,7 @@ date: 2025-03-01T07:06:32.000Z
 <br>
 
 ### [Discord](https://discord.gg/vmbXh7r7yt)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

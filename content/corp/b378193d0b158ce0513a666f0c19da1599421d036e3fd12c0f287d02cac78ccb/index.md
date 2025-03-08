@@ -1,9 +1,9 @@
 ---
 title: ​StargateCommand
-description: W:1 L:18 D:2 Bonus ❌ 5%
+description: W:1 L:19 D:2 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **💮問鼎無垠💮**
-date: 2025-03-02T04:58:42.000Z
+Summary: ❌ 0 - 5 **Sussy Coloner**
+date: 2025-03-08T03:02:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ FF WS scanner if unable to participate.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1407)|
-| ELO Competitive | 1055 🔻  (1431)|
-| Total Matches | 21 |
+| ELO Regular | 1023 🔻  (1414)|
+| ELO Competitive | 1049 🔻  (1436)|
+| Total Matches | 22 |
 | Wins | 1 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740459522,1740009962,1739405405,1738803715,1738284141,1737774796,1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
+        let timestamps = [1740970958,1740459522,1740009962,1739405405,1738803715,1738284141,1737774796,1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 0-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2025/03/02 | 0-14 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/02/25 | 1-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ❌ | 2025/02/18 | 0-11 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
@@ -162,5 +163,5 @@ Corporation ID: b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740891522"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741402958"></span>
 </div>

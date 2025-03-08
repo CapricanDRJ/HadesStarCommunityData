@@ -1,6 +1,6 @@
 ---
 title: ​Highland Ind. 
-description: W:11 L:10 D:1 Bonus ✅ 40%
+description: W:11 L:10 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 22 - 14 **Nine's Own Goal**
 date: 2025-03-01T03:01:11.000Z
@@ -18,7 +18,7 @@ date: 2025-03-01T03:01:11.000Z
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

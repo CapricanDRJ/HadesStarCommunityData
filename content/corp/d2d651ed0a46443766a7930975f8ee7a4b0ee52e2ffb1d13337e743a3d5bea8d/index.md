@@ -22,7 +22,7 @@ https://t.me/RSeventHS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (271)|
+| ELO Regular | 1251 🔺  (270)|
 | ELO Competitive | 1361 🔺  (197)|
 | Total Matches | 45 |
 | Wins | 23 |
