@@ -1,6 +1,6 @@
 ---
 title: ​Providence
-description: W:38 L:23 D:0 Bonus ✅ 46%
+description: W:38 L:23 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 5 - 42 **Polish Pirates**
 date: 2025-03-08T07:13:34.000Z
@@ -21,7 +21,7 @@ https://discord.gg/nUgqhbn
 <br>
 
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

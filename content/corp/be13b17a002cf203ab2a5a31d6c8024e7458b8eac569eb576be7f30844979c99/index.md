@@ -1,6 +1,6 @@
 ---
 title: ​Planet Express
-description: W:16 L:4 D:1 Bonus ✅ 34%
+description: W:16 L:4 D:1 Bonus ❌ 34%
 image: ./favicon.png
 Summary: ✅ 26 - 15 **pirates spatial**
 date: 2025-03-01T15:47:26.000Z
@@ -18,7 +18,7 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 34%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​AlyTec Sys.
-description: W:9 L:15 D:1 Bonus ✅ 32%
+description: W:9 L:15 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **Cerberus**
 date: 2025-03-01T16:27:30.000Z
@@ -18,7 +18,7 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
