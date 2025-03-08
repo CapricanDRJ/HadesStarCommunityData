@@ -1,9 +1,9 @@
 ---
 title: ​C'est pas faux!
-description: W:3 L:6 D:1 Bonus ❌ 7%
+description: W:4 L:6 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 23 - 11 **АарнСарт **
-date: 2025-02-22T09:34:34.000Z
+Summary: ✅ 7 - 0 **普罗米修斯**
+date: 2025-03-08T16:34:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,18 +21,18 @@ Discord : wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (574)|
-| ELO Competitive | 1230 🔺  (494)|
-| Total Matches | 10 |
-| Wins | 3 |
+| ELO Regular | 1207 🔺  (489)|
+| ELO Competitive | 1243 🔺  (457)|
+| Total Matches | 11 |
+| Wins | 4 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 5 |
 
 ---
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 7-0 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2025/02/22 | 23-11 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ✅ | 2025/02/15 | 14-8 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2025/01/28 | 7-21 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
@@ -157,5 +158,5 @@ Corporation ID: fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740216874"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741451669"></span>
 </div>

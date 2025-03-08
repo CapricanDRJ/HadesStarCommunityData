@@ -1,6 +1,6 @@
 ---
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:52 L:27 D:2 Bonus ✅ 38%
+description: W:52 L:27 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 11 - 14 **nuevo mundo**
 date: 2025-03-01T20:07:54.000Z
@@ -18,11 +18,11 @@ date: 2025-03-01T20:07:54.000Z
 <br>
 
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔻  (75)|
+| ELO Regular | 1381 🔻  (74)|
 | ELO Competitive | 1549 🔺  (42)|
 | Total Matches | 81 |
 | Wins | 52 |

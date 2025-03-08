@@ -1,9 +1,9 @@
 ---
 title: ​Nebulae Traders
-description: W:10 L:57 D:4 Bonus ❌ 8%
+description: W:10 L:58 D:4 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 21 **ZORG IND**
-date: 2025-03-02T09:54:09.000Z
+Summary: ❌ 4 - 18 **imperio estelar**
+date: 2025-03-08T17:09:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-03-02T09:54:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 934 🔻  (1440)|
-| ELO Competitive | 1118 🔻  (1387)|
-| Total Matches | 71 |
+| ELO Regular | 929 🔻  (1440)|
+| ELO Competitive | 1109 🔻  (1397)|
+| Total Matches | 72 |
 | Wins | 10 |
-| Losses | 57 |
+| Losses | 58 |
 | Draws | 4 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740477249,1739755433,1739223856,1739212134,1738623580,1738599097,1737898906,1737890487,1735593024,1735591221,1734999598,1734999297,1734141150,1734126429,1733530269,1733527265,1732819941,1732819941,1732371270,1732370068,1731317445,1731313239,1729585108,1729565528,1728822625,1728815109,1728314701,1728001255,1727764746,1727303782,1727283645,1726691394,1726227778,1726226876,1725401792,1725398730,1724906805,1724883973,1724451240,1724445530,1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
+        let timestamps = [1741021772,1740477249,1739755433,1739223856,1739212134,1738623580,1738599097,1737898906,1737890487,1735593024,1735591221,1734999598,1734999297,1734141150,1734126429,1733530269,1733527265,1732819941,1732819941,1732371270,1732370068,1731317445,1731313239,1729585108,1729565528,1728822625,1728815109,1728314701,1728001255,1727764746,1727303782,1727283645,1726691394,1726227778,1726226876,1725401792,1725398730,1724906805,1724883973,1724451240,1724445530,1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) | 0 | 1 | 1 | 2 |
 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1 | 1 | 0 | 2 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1 | 1 | 0 | 2 |
 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 0 | 2 | 0 | 2 |
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 4-18 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2025/03/02 | 3-21 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2025/02/22 | 0-39 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2025/02/15 | 1-37 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
@@ -224,5 +226,5 @@ Corporation ID: bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740909249"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741453772"></span>
 </div>

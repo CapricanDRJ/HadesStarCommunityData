@@ -1,9 +1,9 @@
 ---
 title: ​普罗米修斯
-description: W:8 L:19 D:1 Bonus ❌ 7%
+description: W:8 L:20 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 18 - 8 **Death Flight**
-date: 2025-02-03T15:14:02.000Z
+Summary: ❌ 0 - 7 **C'est pas faux\!**
+date: 2025-03-08T16:34:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Q：650722059
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔺  (1330)|
-| ELO Competitive | 1177 🔺  (1079)|
-| Total Matches | 28 |
+| ELO Regular | 1095 🔻  (1346)|
+| ELO Competitive | 1165 🔻  (1207)|
+| Total Matches | 29 |
 | Wins | 8 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
+        let timestamps = [1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 0-7 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ✅ | 2025/02/03 | 18-8 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/12/04 | 2-30 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2024/11/20 | 5-1 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
@@ -177,5 +178,5 @@ Corporation ID: f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738595642"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741451669"></span>
 </div>

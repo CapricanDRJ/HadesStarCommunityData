@@ -1,6 +1,6 @@
 ---
 title: ​Soul System
-description: W:5 L:17 D:0 Bonus ✅ 38%
+description: W:5 L:17 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 6 - 19 **Lacuna X**
 date: 2025-03-06T18:04:44.000Z
@@ -18,12 +18,12 @@ ust we are born our souls woven from light. RS and WS focused.
 <br>
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1238)|
-| ELO Competitive | 1178 🔻  (1070)|
+| ELO Competitive | 1178 🔻  (1069)|
 | Total Matches | 22 |
 | Wins | 5 |
 | Losses | 17 |
