@@ -1,9 +1,9 @@
 ---
 title: ​АарнСарт 
-description: W:12 L:4 D:0 Bonus ✅ 
+description: W:13 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 28 - 4 **Space Marshalls**
-date: 2025-03-01T10:11:48.000Z
+Summary: ✅ 29 - 3 **ZORG IND**
+date: 2025-03-08T10:23:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-03-01T10:11:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (166)|
-| ELO Competitive | 1349 🔺  (218)|
-| Total Matches | 16 |
-| Wins | 12 |
+| ELO Regular | 1316 🔺  (151)|
+| ELO Competitive | 1364 🔺  (194)|
+| Total Matches | 17 |
+| Wins | 13 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 29-3 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2025/03/01 | 28-4 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2025/02/22 | 11-23 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ✅ | 2025/02/15 | 31-0 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -161,5 +163,5 @@ Corporation ID: 22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740823908"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741429431"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Hades’ galaxy
-description: W:3 L:1 D:0 Bonus ✅ 
+description: W:4 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 9 **银河护卫队**
-date: 2025-03-05T13:43:50.000Z
+Summary: ✅ 14 - 2 **Air/Free\_ziyou**
+date: 2025-03-08T10:48:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-03-05T13:43:50.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (378)|
-| ELO Competitive | 1241 🔺  (460)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1239 🔺  (314)|
+| ELO Competitive | 1258 🔺  (408)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740750230,1740554185,1739849766,1739405405];
+        let timestamps = [1740998933,1740750230,1740554185,1739849766,1739405405];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 14-2 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ❌ | 2025/03/05 | 0-9 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2025/03/03 | 15-2 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/02/23 | 11-0 | [Imperium](https://ws.tsl.rocks/corp/4d1bd313c919d981ca390e6f96e152d6f97602d72167108074a99770fc7e74ef/) |
@@ -144,5 +145,5 @@ Corporation ID: a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741182230"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741430933"></span>
 </div>

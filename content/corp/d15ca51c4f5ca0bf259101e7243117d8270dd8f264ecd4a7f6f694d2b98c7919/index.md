@@ -1,6 +1,6 @@
 ---
 title: ​WSC(no DISCORD)
-description: W:55 L:37 D:8 Bonus ✅ 38%
+description: W:55 L:37 D:8 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 7 - 9 **Empire of Light**
 date: 2025-03-06T17:14:38.000Z
@@ -15,12 +15,12 @@ date: 2025-03-06T17:14:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔻  (222)|
-| ELO Competitive | 1448 🔻  (111)|
+| ELO Competitive | 1448 🔻  (110)|
 | Total Matches | 100 |
 | Wins | 55 |
 | Losses | 37 |

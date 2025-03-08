@@ -1,6 +1,6 @@
 ---
 title: ​Blazing Stars
-description: W:13 L:2 D:1 Bonus ✅ 32%
+description: W:13 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 11 - 3 **S\.U\.N**
 date: 2025-03-01T10:21:49.000Z
@@ -18,7 +18,7 @@ e Hades Galaxy. Join us and have fun
 <br>
 
 ### [Discord](https://discord.gg/aCU5VZGc)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

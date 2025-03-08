@@ -1,6 +1,6 @@
 ---
 title: ​Likapa
-description: W:114 L:10 D:0 Bonus ✅ 50%
+description: W:114 L:10 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 19 - 20 **六大天神**
 date: 2025-03-03T02:10:57.000Z
@@ -18,7 +18,7 @@ or></size></b>
 <br>
 
 ### [Discord](https://discord.gg/3CE2zAs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

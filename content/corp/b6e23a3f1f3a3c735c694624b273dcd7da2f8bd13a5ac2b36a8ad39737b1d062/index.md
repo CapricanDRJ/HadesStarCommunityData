@@ -1,9 +1,9 @@
 ---
 title: ​Omega Alpha
-description: W:49 L:8 D:0 Bonus ✅ 50%
+description: W:50 L:8 D:0 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 28 - 4 **Brodudes Inc\.**
-date: 2025-03-01T15:17:23.000Z
+Summary: ✅ 36 - 30 **Duchy Arrakis**
+date: 2025-03-08T11:03:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,13 @@ date: 2025-03-01T15:17:23.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1494 🔺  (11)|
-| ELO Competitive | 1596 🔺  (26)|
-| Total Matches | 57 |
-| Wins | 49 |
+| ELO Regular | 1507 🔺  (11)|
+| ELO Competitive | 1608 🔺  (25)|
+| Total Matches | 58 |
+| Wins | 50 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 16 |
 | Flagship | 8 |
 
@@ -50,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740410243,1739795691,1739191996,1739189892,1738587075,1738062375,1737377845,1736836607,1736181745,1734368915,1733819945,1733157688,1732577420,1731940073,1731340587,1730721837,1730120547,1729514740,1728926626,1727706447,1727225953,1726496157,1725891540,1725284841,1724083720,1723465846,1722861222,1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
+        let timestamps = [1740999835,1740410243,1739795691,1739191996,1739189892,1738587075,1738062375,1737377845,1736836607,1736181745,1734368915,1733819945,1733157688,1732577420,1731940073,1731340587,1730721837,1730120547,1729514740,1728926626,1727706447,1727225953,1726496157,1725891540,1725284841,1724083720,1723465846,1722861222,1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -150,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 36-30 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ✅ | 2025/03/01 | 28-4 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2025/02/22 | 22-27 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2025/02/15 | 15-30 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
@@ -214,5 +216,5 @@ Corporation ID: b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740842243"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741431835"></span>
 </div>

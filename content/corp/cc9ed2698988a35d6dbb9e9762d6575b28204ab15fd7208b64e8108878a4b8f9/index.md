@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:20 L:2 D:0 Bonus ✅ 34%
+description: W:20 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 34 - 1 **很多星球的社会主义团**
 date: 2025-03-01T12:17:01.000Z
@@ -17,12 +17,12 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1425 🔺  (41)|
-| ELO Competitive | 1460 🔺  (97)|
+| ELO Regular | 1425 🔺  (40)|
+| ELO Competitive | 1460 🔺  (96)|
 | Total Matches | 22 |
 | Wins | 20 |
 | Losses | 2 |

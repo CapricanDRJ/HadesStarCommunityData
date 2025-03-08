@@ -1,9 +1,9 @@
 ---
 title: ​Новички
-description: W:1 L:0 D:0 Bonus ❌ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 0 **✨ Love Room✨**
-date: 2025-02-23T13:22:20.000Z
+Summary: ✅ 5 - 0 **欢迎国人**
+date: 2025-03-08T12:29:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 2025-02-23T13:22:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (441)|
-| ELO Competitive | 1214 🔺  (598)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1223 🔺  (373)|
+| ELO Competitive | 1224 🔺  (518)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739884940];
+        let timestamps = [1741004942,1739884940];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 5-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ✅ | 2025/02/23 | 4-0 | [✨ Love Room✨](https://ws.tsl.rocks/corp/b450313304cec8103f820ba28f338518c4247a57d2035b582ac3c7b45becbe1b/) |
 
 ---
@@ -140,5 +143,5 @@ Corporation ID: 972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740316940"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741436942"></span>
 </div>

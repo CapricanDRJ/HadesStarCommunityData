@@ -1,6 +1,6 @@
 ---
 title: ​Halcon español
-description: W:35 L:20 D:1 Bonus ✅ 36%
+description: W:35 L:20 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 17 - 11 **Space Marshalls**
 date: 2025-03-01T12:12:00.000Z
@@ -18,12 +18,12 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔺  (254)|
-| ELO Competitive | 1332 🔺  (242)|
+| ELO Competitive | 1332 🔺  (241)|
 | Total Matches | 56 |
 | Wins | 35 |
 | Losses | 20 |
