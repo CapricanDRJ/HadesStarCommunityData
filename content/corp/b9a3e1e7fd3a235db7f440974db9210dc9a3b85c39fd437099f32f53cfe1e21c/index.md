@@ -1,6 +1,6 @@
 ---
 title: ​星舰月球
-description: W:40 L:27 D:0 Bonus ✅ 46%
+description: W:40 L:27 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 39 **pirates spatial**
 date: 2025-03-07T13:16:43.000Z
@@ -19,7 +19,7 @@ date: 2025-03-07T13:16:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

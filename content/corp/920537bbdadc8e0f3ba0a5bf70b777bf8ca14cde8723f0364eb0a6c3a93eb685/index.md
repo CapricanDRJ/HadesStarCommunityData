@@ -1,9 +1,9 @@
 ---
 title: ​UFO
-description: W:8 L:18 D:2 Bonus ❌ 6%
+description: W:9 L:18 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 3 - 25 **\[Blue\*Nation\]**
-date: 2025-03-01T07:06:32.000Z
+Summary: ✅ 31 - 10 **\*СССР\***
+date: 2025-03-08T04:38:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ https://discord.gg/NuvtUTUxQj
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1072)|
-| ELO Competitive | 1212 🔻  (616)|
-| Total Matches | 28 |
-| Wins | 8 |
+| ELO Regular | 1182 🔺  (882)|
+| ELO Competitive | 1237 🔺  (472)|
+| Total Matches | 29 |
+| Wins | 9 |
 | Losses | 18 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740380792,1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1740976702,1740380792,1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 31-10 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2025/03/01 | 3-25 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2025/02/22 | 25-15 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2025/02/15 | 9-16 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
@@ -176,5 +177,5 @@ Corporation ID: 920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740812792"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741408702"></span>
 </div>

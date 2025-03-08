@@ -1,6 +1,6 @@
 ---
 title: ​Polish Pirates
-description: W:24 L:15 D:0 Bonus ✅ 46%
+description: W:24 L:15 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 25 - 14 **IX Легион**
 date: 2025-03-01T05:21:23.000Z
@@ -22,7 +22,7 @@ vGfaYFN
 <br>
 
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

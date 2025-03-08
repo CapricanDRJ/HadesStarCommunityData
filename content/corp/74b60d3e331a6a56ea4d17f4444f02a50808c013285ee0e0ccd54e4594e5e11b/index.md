@@ -1,6 +1,6 @@
 ---
 title: ​русь 
-description: W:86 L:44 D:0 Bonus ✅ 54%
+description: W:86 L:44 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 47 - 15 **Кулак**
 date: 2025-03-01T04:14:48.000Z
@@ -17,12 +17,12 @@ date: 2025-03-01T04:14:48.000Z
 <br>
 
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1429 🔺  (39)|
-| ELO Competitive | 1689 🔺  (9)|
+| ELO Regular | 1429 🔺  (40)|
+| ELO Competitive | 1689 🔺  (10)|
 | Total Matches | 130 |
 | Wins | 86 |
 | Losses | 44 |

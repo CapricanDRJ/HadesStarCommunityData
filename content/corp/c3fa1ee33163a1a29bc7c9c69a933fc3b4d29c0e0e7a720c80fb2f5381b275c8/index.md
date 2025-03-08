@@ -1,6 +1,6 @@
 ---
 title: ​МАРСЮКИ
-description: W:46 L:4 D:0 Bonus ✅ 48%
+description: W:46 L:4 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 40 - 5 **Кулак**
 date: 2025-03-01T04:06:16.000Z
@@ -23,12 +23,12 @@ date: 2025-03-01T04:06:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/s7nmhGXugM)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1486 🔺  (13)|
-| ELO Competitive | 1569 🔺  (35)|
+| ELO Competitive | 1569 🔺  (34)|
 | Total Matches | 50 |
 | Wins | 46 |
 | Losses | 4 |

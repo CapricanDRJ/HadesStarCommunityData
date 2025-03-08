@@ -1,9 +1,9 @@
 ---
 title: ​Farland Ind.
-description: W:7 L:19 D:1 Bonus ❌ 14%
+description: W:7 L:20 D:1 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 17 - 32 **BlackStar Order**
-date: 2024-07-17T23:00:01.000Z
+Summary: ❌ 21 - 30 **Continuum**
+date: 2025-03-08T06:38:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ Join via Discord: N3uPEvsFY9</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1347)|
-| ELO Competitive | 1164 🔻  (1212)|
-| Total Matches | 27 |
+| ELO Regular | 1090 🔻  (1356)|
+| ELO Competitive | 1162 🔻  (1225)|
+| Total Matches | 28 |
 | Wins | 7 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Flagship | 12 |
 
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720825201,1713172222,1712564663,1711273201,1710792458,1710671960,1710092962,1710061707,1709410887,1708909679,1708879029,1707124709,1706510764,1705924460,1705314117,1704624138,1704016501,1703505614,1703434998,1702908869,1702805182,1701622539,1700992898,1700383085,1699799052,1699366541,1698824736];
+        let timestamps = [1740983912,1720825201,1713172222,1712564663,1711273201,1710792458,1710671960,1710092962,1710061707,1709410887,1708909679,1708879029,1707124709,1706510764,1705924460,1705314117,1704624138,1704016501,1703505614,1703434998,1702908869,1702805182,1701622539,1700992898,1700383085,1699799052,1699366541,1698824736];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,10 +136,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 3 | 0 | 3 |
 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 0 | 2 | 0 | 2 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 0 | 3 | 0 | 3 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 2 | 0 | 4 |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [Orion](https://ws.tsl.rocks/corp/3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 21-30 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/07/17 | 17-32 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/04/20 | 33-46 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ❌ | 2024/04/13 | 29-36 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
@@ -181,5 +182,5 @@ Corporation ID: 9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1721257201"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741415912"></span>
 </div>

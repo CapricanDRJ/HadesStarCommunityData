@@ -1,6 +1,6 @@
 ---
 title: ​Zvezdec
-description: W:44 L:24 D:0 Bonus ✅ 42%
+description: W:44 L:24 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 40 - 27 **Неизбежный Рок**
 date: 2025-03-01T04:41:19.000Z
@@ -18,7 +18,7 @@ date: 2025-03-01T04:41:19.000Z
 <br>
 
 ### [Discord](https://discord.gg/tbGjUb7xSQ)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
