@@ -1,9 +1,9 @@
 ---
 title: ​中国人民联盟
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 17 **Chaos**
-date: 2025-03-02T15:54:50.000Z
+Summary: ❌ 2 - 7 **ALPHA SQUADRON**
+date: 2025-03-07T23:32:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-02T15:54:50.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (537)|
-| ELO Competitive | 1200 🔻  (692)|
-| Total Matches | 2 |
+| ELO Regular | 1186 🔻  (728)|
+| ELO Competitive | 1186 🔻  (885)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740498890,1740044309];
+        let timestamps = [1740958379,1740498890,1740044309];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/07 | 2-7 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ❌ | 2025/03/02 | 2-17 | [Chaos](https://ws.tsl.rocks/corp/d3d471eb959c63d922764ca516d8ecc875c5a087ec4503d87e8d6c9113f4062e/) |
 | ✅ | 2025/02/25 | 1-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 
@@ -141,5 +142,5 @@ Corporation ID: 4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740930890"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741390379"></span>
 </div>

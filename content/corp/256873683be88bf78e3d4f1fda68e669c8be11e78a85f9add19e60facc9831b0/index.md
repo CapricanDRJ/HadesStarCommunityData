@@ -1,9 +1,9 @@
 ---
 title: ​Ironbear Legion
-description: W:26 L:37 D:0 Bonus ❌ 13%
+description: W:27 L:37 D:0 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **АНДРОМЕДА **
-date: 2025-02-28T19:10:28.000Z
+Summary: ✅ 22 - 0 **云浪山庄↕**
+date: 2025-03-08T00:38:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,17 @@ date: 2025-02-28T19:10:28.000Z
 <br>
 
 ### [Discord](https://discord.gg/EnduRy84t7)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (389)|
-| ELO Competitive | 1324 🔺  (255)|
-| Total Matches | 63 |
-| Wins | 26 |
+| ELO Regular | 1223 🔺  (369)|
+| ELO Competitive | 1332 🔺  (243)|
+| Total Matches | 64 |
+| Wins | 27 |
 | Losses | 37 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 8 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740337828,1739736504,1739248960,1738582266,1737328272,1736707385,1736112029,1735570483,1734312127,1733691654,1733109611,1732537147,1731879078,1730664753,1730045425,1729430902,1727627418,1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
+        let timestamps = [1740962284,1740337828,1739736504,1739248960,1738582266,1737328272,1736707385,1736112029,1735570483,1734312127,1733691654,1733109611,1732537147,1731879078,1730664753,1730045425,1729430902,1727627418,1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 22-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2025/02/28 | 15-0 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/02/21 | 22-0 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2025/02/16 | 9-14 | [USSR](https://ws.tsl.rocks/corp/d1f3713f3ff030b927f8726f1b332023410e7573481c1e7aabf8e4799047c31c/) |
@@ -218,5 +219,5 @@ Corporation ID: 256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740769828"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741394284"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​DTC
-description: W:27 L:62 D:0 Bonus ✅ 52%
+description: W:27 L:62 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 31 - 44 **No Orbit©**
 date: 2025-03-07T14:46:55.000Z
@@ -18,7 +18,7 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
 <br>
 
 ### [Discord](https://discord.gg/5FcqEU96nM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

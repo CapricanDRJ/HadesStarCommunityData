@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Luminá
-description: W:17 L:2 D:0 Bonus ✅ 32%
+description: W:17 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **Eretria **
 date: 2025-03-01T00:30:59.000Z
@@ -17,7 +17,7 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

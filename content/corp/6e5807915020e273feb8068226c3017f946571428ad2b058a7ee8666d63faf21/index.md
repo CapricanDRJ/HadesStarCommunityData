@@ -1,6 +1,6 @@
 ---
 title: ​Sussy Coloner
-description: W:30 L:70 D:4 Bonus ✅ 38%
+description: W:30 L:70 D:4 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **Argentina 2\.0**
 date: 2025-03-01T00:25:59.000Z
@@ -18,7 +18,7 @@ icer promote). Red is always SUS!
 <br>
 
 ### [Discord](https://discord.gg/btpSMwVJQD)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
