@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Estelar
-description: W:38 L:20 D:0 Bonus ✅ 42%
+description: W:38 L:20 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 25 - 10 **SQPT**
 date: 2025-03-01T20:17:55.000Z
@@ -16,12 +16,12 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1413 🔺  (53)|
-| ELO Competitive | 1551 🔺  (41)|
+| ELO Competitive | 1551 🔺  (42)|
 | Total Matches | 58 |
 | Wins | 38 |
 | Losses | 20 |

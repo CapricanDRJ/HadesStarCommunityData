@@ -1,6 +1,6 @@
 ---
 title: ​nuevo mundo
-description: W:14 L:11 D:0 Bonus ✅ 36%
+description: W:14 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 11 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2025-03-01T20:07:54.000Z
@@ -21,11 +21,11 @@ Esperamos su llegada!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (208)|
+| ELO Regular | 1277 🔺  (207)|
 | ELO Competitive | 1322 🔺  (262)|
 | Total Matches | 25 |
 | Wins | 14 |
