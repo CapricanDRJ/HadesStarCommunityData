@@ -1,9 +1,9 @@
 ---
 title: ​Space Marshalls
-description: W:36 L:26 D:0 Bonus ❌ 9%
+description: W:37 L:26 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 11 - 17 **Halcon español**
-date: 2025-03-01T12:12:00.000Z
+Summary: ✅ 26 - 0 **DTC**
+date: 2025-03-08T08:18:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ len.
 <br>
 
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (381)|
-| ELO Competitive | 1383 🔻  (167)|
-| Total Matches | 62 |
-| Wins | 36 |
+| ELO Regular | 1233 🔺  (336)|
+| ELO Competitive | 1395 🔺  (158)|
+| Total Matches | 63 |
+| Wins | 37 |
 | Losses | 26 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740399120,1740391908,1739791484,1739785175,1739189592,1739177874,1738577759,1737976132,1737363421,1737363120,1736776199,1736768684,1725080501,1724268532,1723200490,1722338936,1721545858,1719819013,1719227020,1718700820,1718700519,1718021801,1718015490,1717327170,1717327170,1716804248,1716791628,1716300368,1714894258,1714329884,1713682104,1713179132,1713074864,1712469705,1712469705,1711875057,1711872353,1711263584,1710681277,1710675266,1710055396,1710053593,1709451446,1708855886,1708247384,1707680346,1707083547,1706471701,1705864062,1705258530,1704654797,1704102743,1703447921,1702847265,1702840350,1702240167,1701631257,1701118234,1700424867,1699816492,1699213299,1698693381];
+        let timestamps = [1740989920,1740399120,1740391908,1739791484,1739785175,1739189592,1739177874,1738577759,1737976132,1737363421,1737363120,1736776199,1736768684,1725080501,1724268532,1723200490,1722338936,1721545858,1719819013,1719227020,1718700820,1718700519,1718021801,1718015490,1717327170,1717327170,1716804248,1716791628,1716300368,1714894258,1714329884,1713682104,1713179132,1713074864,1712469705,1712469705,1711875057,1711872353,1711263584,1710681277,1710675266,1710055396,1710053593,1709451446,1708855886,1708247384,1707680346,1707083547,1706471701,1705864062,1705258530,1704654797,1704102743,1703447921,1702847265,1702840350,1702240167,1701631257,1701118234,1700424867,1699816492,1699213299,1698693381];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,19 +133,20 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 3 | 0 | 0 | 3 |
 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) | 1 | 1 | 0 | 2 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 2 | 1 | 0 | 3 |
 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) | 2 | 0 | 0 | 2 |
 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) | 1 | 1 | 0 | 2 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 3 | 0 | 5 |
-| [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 26-0 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ❌ | 2025/03/01 | 11-17 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2025/03/01 | 4-28 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2025/02/22 | 5-21 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
@@ -215,5 +216,5 @@ Corporation ID: 6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740831120"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741421920"></span>
 </div>

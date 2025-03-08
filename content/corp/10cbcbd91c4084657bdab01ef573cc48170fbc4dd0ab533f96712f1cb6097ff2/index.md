@@ -1,9 +1,9 @@
 ---
 title: ​Дом Датэ
-description: W:41 L:30 D:0 Bonus ❌ 10%
+description: W:42 L:30 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 39 - 0 **The X \- Files**
-date: 2025-02-28T19:50:33.000Z
+Summary: ✅ 22 - 2 **IX Легион**
+date: 2025-03-08T06:48:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,17 @@ date: 2025-02-28T19:50:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (92)|
-| ELO Competitive | 1463 🔺  (94)|
-| Total Matches | 71 |
-| Wins | 41 |
+| ELO Regular | 1376 🔺  (79)|
+| ELO Competitive | 1487 🔺  (81)|
+| Total Matches | 72 |
+| Wins | 42 |
 | Losses | 30 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 9 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740340233,1739720872,1739124688,1738558229,1737904317,1737274469,1736670406,1735983957,1735468618,1734887526,1734007131,1733035386,1732452106,1731508255,1730717329,1730022582,1729446534,1728537686,1727428178,1725824836,1725300172,1725205514,1724697964,1724684439,1724066888,1724066888,1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
+        let timestamps = [1740984513,1740340233,1739720872,1739124688,1738558229,1737904317,1737274469,1736670406,1735983957,1735468618,1734887526,1734007131,1733035386,1732452106,1731508255,1730717329,1730022582,1729446534,1728537686,1727428178,1725824836,1725300172,1725205514,1724697964,1724684439,1724066888,1724066888,1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 2 | 0 | 0 | 2 |
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 2 | 0 | 0 | 2 |
 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) | 2 | 0 | 0 | 2 |
 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 1 | 1 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 22-2 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/02/28 | 39-0 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2025/02/21 | 38-3 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2025/02/14 | 33-2 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
@@ -227,5 +229,5 @@ Corporation ID: 10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740772233"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741416513"></span>
 </div>

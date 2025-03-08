@@ -1,9 +1,9 @@
 ---
 title: ​Kobol
-description: W:2 L:10 D:1 Bonus ❌ 
+description: W:3 L:11 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 10 **羽共和体**
-date: 2025-02-28T11:19:34.000Z
+Summary: ✅ 11 - 8 **仙女座星雲**
+date: 2025-03-08T09:18:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2025-02-28T11:19:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (1267)|
-| ELO Competitive | 1224 🔻  (518)|
-| Total Matches | 13 |
-| Wins | 2 |
-| Losses | 10 |
+| ELO Regular | 1143 🔺  (1205)|
+| ELO Competitive | 1252 🔺  (421)|
+| Total Matches | 15 |
+| Wins | 3 |
+| Losses | 11 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740309574,1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
+        let timestamps = [1740993525,1740990821,1740309574,1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/08 | 11-8 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
+| ❌ | 2025/03/08 | 0-16 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2025/02/28 | 0-10 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2025/02/28 | 10-44 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
 | ❌ | 2025/02/21 | 0-6 | [N K B](https://ws.tsl.rocks/corp/078cfa0c4e4e118bbd13aa38a810e83f754fe53d40d5ab16232e50a6cf414dec/) |
@@ -152,5 +154,5 @@ Corporation ID: cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740741574"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741425525"></span>
 </div>

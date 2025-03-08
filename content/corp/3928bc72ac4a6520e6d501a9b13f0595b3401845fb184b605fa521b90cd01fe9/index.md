@@ -1,9 +1,9 @@
 ---
 title: ​天琴座联邦
-description: W:6 L:9 D:2 Bonus ❌ 
+description: W:6 L:10 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 23 **Alpaca Nation**
-date: 2025-03-02T05:53:47.000Z
+Summary: ❌ 3 - 5 **WhiteSTarfighte**
+date: 2025-03-08T09:33:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-02T05:53:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (976)|
-| ELO Competitive | 1253 🔻  (420)|
-| Total Matches | 17 |
+| ELO Regular | 1160 🔻  (1097)|
+| ELO Competitive | 1238 🔻  (470)|
+| Total Matches | 18 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740462827,1739683605,1739667381,1739213637,1739206724,1738767981,1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
+        let timestamps = [1740994426,1740462827,1739683605,1739667381,1739213637,1739206724,1738767981,1738160636,1738026020,1737694564,1737562652,1737126616,1737116095,1736657184,1736577236,1736096093,1736090981,1735655519];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) | 0 | 2 | 0 | 2 |
 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 3-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/03/02 | 0-23 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ↔️ | 2025/02/21 | 1-1 | [人人平等至上集团](https://ws.tsl.rocks/corp/f53ab6b6753f8863f21f2516c82b29bb8c994a766292a5162a18e30a2f577715/) |
 | ❌ | 2025/02/21 | 2-14 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
@@ -162,5 +164,5 @@ Corporation ID: 3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740894827"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741426426"></span>
 </div>

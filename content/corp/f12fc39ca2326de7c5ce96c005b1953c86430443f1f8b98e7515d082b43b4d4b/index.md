@@ -1,9 +1,9 @@
 ---
 title: ​Providence
-description: W:38 L:22 D:0 Bonus ✅ 46%
+description: W:38 L:23 D:0 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ✅ 35 - 12 **Hellfire Club**
-date: 2025-03-01T13:02:06.000Z
+Summary: ❌ 5 - 42 **Polish Pirates**
+date: 2025-03-08T07:13:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,13 +25,12 @@ https://discord.gg/nUgqhbn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (151)|
-| ELO Competitive | 1415 🔺  (140)|
-| Total Matches | 60 |
+| ELO Regular | 1303 🔻  (168)|
+| ELO Competitive | 1400 🔻  (150)|
+| Total Matches | 61 |
 | Wins | 38 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 11 |
 | Flagship | 10 |
 
@@ -51,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740402126,1739798997,1738587074,1737504659,1736838109,1735641394,1733764363,1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
+        let timestamps = [1740986014,1740402126,1739798997,1738587074,1737504659,1736838109,1735641394,1733764363,1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -155,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 5-42 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ✅ | 2025/03/01 | 35-12 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2025/02/22 | 26-24 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ❌ | 2025/02/08 | 28-36 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
@@ -222,5 +222,5 @@ Corporation ID: f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740834126"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741418014"></span>
 </div>
