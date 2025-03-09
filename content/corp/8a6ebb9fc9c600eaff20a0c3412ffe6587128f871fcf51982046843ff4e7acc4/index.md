@@ -1,9 +1,9 @@
 ---
 title: ​藏锋府
-description: W:10 L:8 D:1 Bonus ❌ 
+description: W:10 L:9 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 37 **Mercury Sunset**
-date: 2025-02-18T13:50:24.000Z
+Summary: ❌ 0 - 21 **viCIOus**
+date: 2025-03-09T02:25:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 2025-02-18T13:50:24.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (324)|
-| ELO Competitive | 1287 🔻  (329)|
-| Total Matches | 19 |
+| ELO Regular | 1230 🔻  (346)|
+| ELO Competitive | 1280 🔻  (352)|
+| Total Matches | 20 |
 | Wins | 10 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739454624,1739021006,1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1741055126,1739454624,1739021006,1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/09 | 0-21 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2025/02/18 | 0-37 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2025/02/13 | 22-7 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/02/08 | 5-12 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
@@ -174,5 +175,5 @@ Corporation ID: 8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739886624"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741487126"></span>
 </div>
