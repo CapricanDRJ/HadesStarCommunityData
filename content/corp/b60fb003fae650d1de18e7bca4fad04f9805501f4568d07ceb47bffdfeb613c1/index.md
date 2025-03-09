@@ -1,6 +1,6 @@
 ---
 title: ​Nox Imperium
-description: W:28 L:3 D:0 Bonus ✅ 34%
+description: W:28 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 42 - 6 **RedStar Raiding**
 date: 2025-03-02T18:10:06.000Z
@@ -17,7 +17,7 @@ date: 2025-03-02T18:10:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

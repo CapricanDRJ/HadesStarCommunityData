@@ -1,6 +1,6 @@
 ---
 title: ​R-6 satalite
-description: W:41 L:22 D:1 Bonus ✅ 36%
+description: W:41 L:22 D:1 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ✅ 7 - 3 **SQPT**
 date: 2025-03-02T18:55:00.000Z
@@ -18,11 +18,11 @@ t. :-)
 <br>
 
 ### [Discord](https://discord.gg/srVXzBFEMH)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (331)|
+| ELO Regular | 1235 🔺  (330)|
 | ELO Competitive | 1321 🔺  (264)|
 | Total Matches | 64 |
 | Wins | 41 |
