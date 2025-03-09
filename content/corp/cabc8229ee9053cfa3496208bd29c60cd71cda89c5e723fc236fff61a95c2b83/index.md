@@ -1,9 +1,9 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:3 L:12 D:2 Bonus ❌ 5%
+description: W:3 L:13 D:2 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **WSC\(no DISCORD\)**
-date: 2025-03-01T10:16:49.000Z
+Summary: ❌ 5 - 16 **Слава Украине\!**
+date: 2025-03-08T23:55:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ adicionado aqui no chat!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1114 🔻  (1309)|
-| ELO Competitive | 1160 🔻  (1241)|
-| Total Matches | 17 |
+| ELO Regular | 1111 🔻  (1316)|
+| ELO Competitive | 1159 🔻  (1244)|
+| Total Matches | 18 |
 | Wins | 3 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/08 | 5-16 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/03/01 | 0-7 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/02/22 | 3-26 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/02/15 | 3-31 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
@@ -160,5 +161,5 @@ Corporation ID: cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740824209"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741478114"></span>
 </div>
