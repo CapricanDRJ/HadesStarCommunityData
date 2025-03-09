@@ -1,6 +1,6 @@
 ---
 title: ​Tormenta
-description: W:11 L:16 D:1 Bonus ✅ 42%
+description: W:11 L:16 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ↔️ 25 - 25 **Свободный флот**
 date: 2025-03-09T05:10:40.000Z
@@ -24,12 +24,12 @@ JUNTOS SOMOS MAIS FORTES
 <br>
 
 ### [Discord](https://discord.gg/fmyTs3k)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (590)|
-| ELO Competitive | 1255 🔺  (417)|
+| ELO Competitive | 1255 🔺  (416)|
 | Total Matches | 28 |
 | Wins | 11 |
 | Losses | 16 |

@@ -20,7 +20,7 @@ d, Replicators, and Wraith; let us explore the galaxy!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (451)|
+| ELO Regular | 1213 🔺  (450)|
 | ELO Competitive | 1214 🔺  (605)|
 | Total Matches | 1 |
 | Wins | 1 |

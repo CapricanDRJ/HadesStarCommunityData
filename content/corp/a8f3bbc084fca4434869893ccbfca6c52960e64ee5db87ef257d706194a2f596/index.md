@@ -1,6 +1,6 @@
 ---
 title: ​WinterComes
-description: W:4 L:14 D:0 Bonus ✅ 44%
+description: W:4 L:14 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 21 - 11 **Dumpster Fire 2**
 date: 2025-03-02T15:09:45.000Z
@@ -23,7 +23,7 @@ Winter Comes to Hades</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

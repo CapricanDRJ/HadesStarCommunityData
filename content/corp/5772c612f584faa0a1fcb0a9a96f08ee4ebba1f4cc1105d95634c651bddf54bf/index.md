@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Hades
-description: W:12 L:3 D:1 Bonus ✅ 
+description: W:12 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 15 - 0 **GermanSpaceDuo**
 date: 2025-03-02T13:14:29.000Z
@@ -15,12 +15,12 @@ date: 2025-03-02T13:14:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (156)|
-| ELO Competitive | 1343 🔺  (225)|
+| ELO Competitive | 1343 🔺  (224)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 3 |
