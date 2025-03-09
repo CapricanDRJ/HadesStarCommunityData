@@ -19,7 +19,7 @@ date: 2024-01-14T14:42:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔺  (563)|
+| ELO Regular | 1197 🔺  (562)|
 | ELO Competitive | 1200 🔺  (693)|
 | Total Matches | 4 |
 | Wins | 2 |

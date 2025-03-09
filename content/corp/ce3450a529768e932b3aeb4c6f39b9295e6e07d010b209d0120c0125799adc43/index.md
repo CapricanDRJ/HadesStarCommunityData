@@ -1,6 +1,6 @@
 ---
 title: ​R-6 satalite
-description: W:41 L:22 D:1 Bonus ❌ 36%
+description: W:41 L:22 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 7 - 3 **SQPT**
 date: 2025-03-02T18:55:00.000Z
@@ -18,7 +18,7 @@ t. :-)
 <br>
 
 ### [Discord](https://discord.gg/srVXzBFEMH)
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

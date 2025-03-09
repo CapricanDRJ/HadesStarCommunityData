@@ -23,7 +23,7 @@ Supportive community. Regular WS and RS. If u join us for WS, discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (561)|
+| ELO Regular | 1197 🔻  (560)|
 | ELO Competitive | 1199 🔻  (696)|
 | Total Matches | 6 |
 | Wins | 3 |
