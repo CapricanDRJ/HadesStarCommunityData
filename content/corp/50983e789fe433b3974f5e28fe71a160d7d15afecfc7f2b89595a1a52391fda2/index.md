@@ -1,6 +1,6 @@
 ---
 title: ​ITALIA
-description: W:22 L:2 D:0 Bonus ✅ 34%
+description: W:22 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **南天门**
 date: 2025-03-02T10:54:14.000Z
@@ -17,7 +17,7 @@ ui giàce NONNA DI CAPPUCCETTO.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/WWfeyVes)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

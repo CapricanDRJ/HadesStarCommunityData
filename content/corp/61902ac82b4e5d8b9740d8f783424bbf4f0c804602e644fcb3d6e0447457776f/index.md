@@ -1,6 +1,6 @@
 ---
 title: ​ZORG IND
-description: W:30 L:20 D:2 Bonus ❌ 36%
+description: W:30 L:20 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 29 **АарнСарт **
 date: 2025-03-08T10:23:51.000Z
@@ -16,7 +16,7 @@ mended, & remember you are expendable, we love you
 ```
 <br>
 
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

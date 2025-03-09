@@ -20,8 +20,8 @@ Just a group of friends enjoying the game
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (515)|
-| ELO Competitive | 1201 🔻  (673)|
+| ELO Regular | 1201 🔻  (516)|
+| ELO Competitive | 1201 🔻  (671)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

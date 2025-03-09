@@ -1,6 +1,6 @@
 ---
 title: ​" Возрождение "
-description: W:17 L:1 D:0 Bonus ✅ 36%
+description: W:17 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 35 - 2 **Sternenflotte**
 date: 2025-03-02T10:09:10.000Z
@@ -20,7 +20,7 @@ date: 2025-03-02T10:09:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

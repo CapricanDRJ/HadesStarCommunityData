@@ -1,9 +1,9 @@
 ---
 title: ​U.P.E
-description: W:1 L:5 D:1 Bonus ❌ 4%
+description: W:2 L:5 D:1 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **✨ Love Room✨**
-date: 2025-02-28T04:19:43.000Z
+Summary: ✅ 1 - 0 **落魄山**
+date: 2025-03-09T11:31:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔺  (1086)|
-| ELO Competitive | 1165 🔺  (1207)|
-| Total Matches | 7 |
-| Wins | 1 |
+| ELO Regular | 1177 🔺  (915)|
+| ELO Competitive | 1182 🔺  (1046)|
+| Total Matches | 8 |
+| Wins | 2 |
 | Losses | 5 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 1 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
+        let timestamps = [1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/09 | 1-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/02/28 | 3-0 | [✨ Love Room✨](https://ws.tsl.rocks/corp/b450313304cec8103f820ba28f338518c4247a57d2035b582ac3c7b45becbe1b/) |
 | ❌ | 2025/02/16 | 0-14 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/01/23 | 0-15 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
@@ -146,5 +149,5 @@ Corporation ID: fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740716383"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741519874"></span>
 </div>
