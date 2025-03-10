@@ -1,9 +1,9 @@
 ---
 title: ​MiddleOfNowhere
-description: W:4 L:1 D:0 Bonus ❌ 5%
+description: W:5 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 31 - 0 **墨痕空域**
-date: 2025-02-28T10:24:28.000Z
+Summary: ✅ 29 - 12 **リリース**
+date: 2025-03-09T22:07:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 <br>
 
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (312)|
-| ELO Competitive | 1266 🔺  (388)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1258 🔺  (255)|
+| ELO Competitive | 1291 🔺  (319)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 4 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740306268,1739690216,1739111761,1738523672,1724326221];
+        let timestamps = [1741126042,1740306268,1739690216,1739111761,1738523672,1724326221];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/09 | 29-12 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2025/02/28 | 31-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/02/21 | 10-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/02/14 | 28-10 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
@@ -149,5 +150,5 @@ Corporation ID: 5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740738268"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741558042"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​星域 
-description: W:7 L:9 D:0 Bonus ✅ 32%
+description: W:7 L:10 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **碧海听潮阁**
-date: 2025-03-09T15:36:54.000Z
+Summary: ❌ 0 - 39 **АНДРОМЕДА **
+date: 2025-03-09T23:47:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (651)|
-| ELO Competitive | 1291 🔺  (319)|
-| Total Matches | 16 |
+| ELO Regular | 1168 🔻  (1041)|
+| ELO Competitive | 1291 🔺  (320)|
+| Total Matches | 17 |
 | Wins | 7 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
+        let timestamps = [1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/09 | 0-39 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/03/09 | 15-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/03/04 | 1-24 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
 | ❌ | 2025/03/04 | 0-9 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
@@ -155,5 +156,5 @@ Corporation ID: 9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741534614"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741564051"></span>
 </div>

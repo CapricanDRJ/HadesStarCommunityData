@@ -22,8 +22,8 @@ Deutscher Konzern für Fortgeschrittene
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1065 🔻  (1390)|
-| ELO Competitive | 1084 🔻  (1417)|
+| ELO Regular | 1065 🔻  (1391)|
+| ELO Competitive | 1084 🔻  (1418)|
 | Total Matches | 23 |
 | Wins | 6 |
 | Losses | 17 |

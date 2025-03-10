@@ -1,9 +1,9 @@
 ---
 title: ​63SALVADORES36
-description: W:22 L:26 D:1 Bonus ✅ 36%
+description: W:22 L:27 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 2 - 5 **💮問鼎無垠💮**
-date: 2025-03-09T20:42:13.000Z
+Summary: ❌ 0 - 17 **OpiumNaroda**
+date: 2025-03-09T23:22:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ Discord: https://discord.gg/wnw8sSwy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (587)|
+| ELO Regular | 1179 🔻  (906)|
 | ELO Competitive | 1346 🔻  (221)|
-| Total Matches | 49 |
+| Total Matches | 50 |
 | Wins | 22 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741120933,1740628707,1740617292,1740081198,1740080596,1739619894,1739613884,1739171345,1739161649,1738447030,1738438983,1737785613,1737677139,1737288596,1737122708,1736729324,1736658987,1736150788,1736146582,1735373664,1735373664,1734685868,1734666073,1734170030,1734169090,1733549499,1733549498,1733093347,1733079865,1732620071,1732612267,1732098485,1732062674,1731391667,1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
+        let timestamps = [1741130549,1741120933,1740628707,1740617292,1740081198,1740080596,1739619894,1739613884,1739171345,1739161649,1738447030,1738438983,1737785613,1737677139,1737288596,1737122708,1736729324,1736658987,1736150788,1736146582,1735373664,1735373664,1734685868,1734666073,1734170030,1734169090,1733549499,1733549498,1733093347,1733079865,1732620071,1732612267,1732098485,1732062674,1731391667,1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/09 | 0-17 | [OpiumNaroda](https://ws.tsl.rocks/corp/b2d29103112e6e50786b22afa0fa1203d6a27a5fd6c76058b88d3211813a760a/) |
 | ❌ | 2025/03/09 | 2-5 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/03/04 | 7-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/03/04 | 5-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
@@ -207,5 +208,5 @@ Corporation ID: ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741552933"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741562549"></span>
 </div>
