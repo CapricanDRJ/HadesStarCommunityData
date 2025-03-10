@@ -1,9 +1,9 @@
 ---
 title: ​AlyTec Sys.
-description: W:9 L:15 D:1 Bonus ❌ 6%
+description: W:9 L:16 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **Cerberus**
-date: 2025-03-01T16:27:30.000Z
+Summary: ❌ 0 - 22 **Blazing Stars**
+date: 2025-03-10T18:44:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1120)|
-| ELO Competitive | 1191 🔺  (780)|
-| Total Matches | 25 |
+| ELO Regular | 1149 🔻  (1174)|
+| ELO Competitive | 1183 🔻  (1038)|
+| Total Matches | 26 |
 | Wins | 9 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/10 | 0-22 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2025/03/01 | 0-8 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/03/01 | 4-0 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
 | ✅ | 2025/02/23 | 10-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
@@ -168,5 +169,5 @@ Corporation ID: 4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740846450"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741632256"></span>
 </div>

@@ -25,7 +25,7 @@ Join for Senior M.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (855)|
-| ELO Competitive | 1184 🔻  (1019)|
+| ELO Competitive | 1184 🔻  (1018)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 title: ​Stella☆Glow
-description: W:40 L:22 D:1 Bonus ✅ 42%
+description: W:40 L:23 D:1 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ✅ 44 - 3 **无人之境**
-date: 2025-03-03T16:22:21.000Z
+Summary: ❌ 6 - 37 **Likapa**
+date: 2025-03-10T17:49:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,17 +29,16 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔺  (156)|
-| ELO Competitive | 1402 🔺  (150)|
-| Total Matches | 63 |
+| ELO Regular | 1312 🔻  (157)|
+| ELO Competitive | 1399 🔻  (153)|
+| Total Matches | 64 |
 | Wins | 40 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 9 |
 | Flagship | 5 |
 
@@ -59,7 +58,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740586941,1740036405,1739369887,1738778499,1738118270,1736963132,1736372582,1734534168,1733961768,1733358227,1732092115,1729684217,1729080488,1728165350,1727704343,1727226854,1726632675,1726069730,1725458518,1724843999,1724206024,1723608292,1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
+        let timestamps = [1741196950,1740586941,1740036405,1739369887,1738778499,1738118270,1736963132,1736372582,1734534168,1733961768,1733358227,1732092115,1729684217,1729080488,1728165350,1727704343,1727226854,1726632675,1726069730,1725458518,1724843999,1724206024,1723608292,1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,10 +145,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 3 | 0 | 3 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 1 | 1 | 0 | 2 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 3 | 0 | 0 | 3 |
-| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 0 | 3 | 0 | 3 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 0 | 3 | 0 | 3 |
 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 3 | 1 | 0 | 4 |
@@ -162,6 +161,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/10 | 6-37 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2025/03/03 | 44-3 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |
 | ✅ | 2025/02/25 | 24-17 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2025/02/17 | 26-0 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
@@ -232,5 +232,5 @@ Corporation ID: 86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741018941"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741628950"></span>
 </div>
