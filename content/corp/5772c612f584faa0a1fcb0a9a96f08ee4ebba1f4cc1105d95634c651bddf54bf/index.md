@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Hades
-description: W:12 L:3 D:1 Bonus ❌ 
+description: W:13 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 0 **GermanSpaceDuo**
-date: 2025-03-02T13:14:29.000Z
+Summary: ✅ 14 - 0 **✨ℛedstar Order«**
+date: 2025-03-10T11:43:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-03-02T13:14:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺  (156)|
-| ELO Competitive | 1343 🔺  (224)|
-| Total Matches | 16 |
-| Wins | 12 |
+| ELO Regular | 1326 🔺  (133)|
+| ELO Competitive | 1356 🔺  (205)|
+| Total Matches | 17 |
+| Wins | 13 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
+        let timestamps = [1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/10 | 14-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/03/02 | 15-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ✅ | 2025/02/23 | 18-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2025/02/16 | 14-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
@@ -157,5 +158,5 @@ Corporation ID: 5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740921269"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741607011"></span>
 </div>

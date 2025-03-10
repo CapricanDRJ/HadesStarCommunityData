@@ -1,6 +1,6 @@
 ---
 title: ​Свободный флот
-description: W:53 L:61 D:2 Bonus ✅ 40%
+description: W:53 L:61 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **新?的星际集团?**
 date: 2025-03-09T08:00:55.000Z
@@ -18,7 +18,7 @@ date: 2025-03-09T08:00:55.000Z
 <br>
 
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

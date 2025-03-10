@@ -1,6 +1,6 @@
 ---
 title: ​Stone Legion
-description: W:32 L:14 D:1 Bonus ✅ 38%
+description: W:32 L:14 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 24 **9\-Й СКОРПИОН**
 date: 2025-03-06T05:53:19.000Z
@@ -19,11 +19,11 @@ date: 2025-03-06T05:53:19.000Z
 <br>
 
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔻  (137)|
+| ELO Regular | 1322 🔻  (139)|
 | ELO Competitive | 1416 🔺  (138)|
 | Total Matches | 47 |
 | Wins | 32 |

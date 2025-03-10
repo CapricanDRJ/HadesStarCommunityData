@@ -1,9 +1,9 @@
 ---
 title: ​Internationals
-description: W:45 L:15 D:0 Bonus ❌ 17%
+description: W:46 L:15 D:0 Bonus ✅ 54%
 image: ./favicon.png
-Summary: ✅ 35 - 18 **Famous Assasins**
-date: 2025-03-02T20:05:20.000Z
+Summary: ✅ 39 - 17 **Zvezdec**
+date: 2025-03-10T11:48:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ❌ 17%
+### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1472 🔺  (19)|
-| ELO Competitive | 1563 🔺  (37)|
-| Total Matches | 60 |
-| Wins | 45 |
+| ELO Regular | 1482 🔺  (15)|
+| ELO Competitive | 1575 🔺  (33)|
+| Total Matches | 61 |
+| Wins | 46 |
 | Losses | 15 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 18 |
 | Flagship | 12 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740513920,1740046622,1739509912,1738807648,1738707885,1738140804,1738098742,1737574674,1737493843,1736893415,1736372582,1736279415,1735734233,1735132389,1734448236,1733902270,1733260450,1732703011,1732063575,1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
+        let timestamps = [1741175311,1740513920,1740046622,1739509912,1738807648,1738707885,1738140804,1738098742,1737574674,1737493843,1736893415,1736372582,1736279415,1735734233,1735132389,1734448236,1733902270,1733260450,1732703011,1732063575,1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/10 | 39-17 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2025/03/02 | 35-18 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ✅ | 2025/02/25 | 39-24 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ❌ | 2025/02/19 | 21-26 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
@@ -215,5 +216,5 @@ Corporation ID: 7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740945920"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741607311"></span>
 </div>
