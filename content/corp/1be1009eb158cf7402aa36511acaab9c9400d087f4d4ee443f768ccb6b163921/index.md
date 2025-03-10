@@ -1,9 +1,9 @@
 ---
 title: ​红日初升，其道大光
-description: W:34 L:17 D:0 Bonus ✅ 36%
+description: W:34 L:18 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 7 - 2 **северный шторм**
-date: 2025-03-10T06:53:06.000Z
+Summary: ❌ 1 - 3 **the kings**
+date: 2025-03-10T12:48:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (202)|
+| ELO Regular | 1263 🔻  (237)|
 | ELO Competitive | 1446 🔺  (115)|
-| Total Matches | 51 |
+| Total Matches | 52 |
 | Wins | 34 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741157586,1740652139,1740648233,1740167109,1740155722,1739234371,1738900502,1738752549,1738325905,1738240144,1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1741178918,1741157586,1740652139,1740648233,1740167109,1740155722,1739234371,1738900502,1738752549,1738325905,1738240144,1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/10 | 1-3 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ✅ | 2025/03/10 | 7-2 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2025/03/04 | 0-3 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2025/03/04 | 5-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
@@ -199,5 +200,5 @@ Corporation ID: 1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741589586"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741610918"></span>
 </div>

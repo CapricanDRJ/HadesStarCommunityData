@@ -20,8 +20,8 @@ La Nave WIALERKING
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1262)|
-| ELO Competitive | 1136 🔻  (1351)|
+| ELO Regular | 1130 🔻  (1263)|
+| ELO Competitive | 1136 🔻  (1352)|
 | Total Matches | 16 |
 | Wins | 5 |
 | Losses | 10 |

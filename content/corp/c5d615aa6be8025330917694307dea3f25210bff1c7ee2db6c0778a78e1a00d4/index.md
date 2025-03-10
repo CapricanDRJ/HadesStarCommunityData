@@ -23,8 +23,8 @@ https://tinyurl.com/redsky2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (838)|
-| ELO Competitive | 1184 🔻  (1007)|
+| ELO Regular | 1184 🔻  (839)|
+| ELO Competitive | 1184 🔻  (1008)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

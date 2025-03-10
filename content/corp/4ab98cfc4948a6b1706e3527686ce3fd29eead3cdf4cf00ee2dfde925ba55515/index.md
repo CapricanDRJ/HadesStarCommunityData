@@ -22,8 +22,8 @@ Discord: VjEnT6S
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1408)|
-| ELO Competitive | 1038 🔻  (1439)|
+| ELO Regular | 1035 🔻  (1409)|
+| ELO Competitive | 1038 🔻  (1440)|
 | Total Matches | 16 |
 | Wins | 0 |
 | Losses | 16 |

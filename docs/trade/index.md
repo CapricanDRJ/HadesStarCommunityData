@@ -304,7 +304,7 @@ searchHidden: true
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: Private</td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
         </tr>
     </table>
     <table>

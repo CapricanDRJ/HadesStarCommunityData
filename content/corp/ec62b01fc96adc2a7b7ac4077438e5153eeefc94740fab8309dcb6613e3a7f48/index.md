@@ -20,7 +20,7 @@ e lose amd every two weeks if we win. No discord required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔻  (219)|
+| ELO Regular | 1270 🔻  (218)|
 | ELO Competitive | 1344 🔻  (223)|
 | Total Matches | 49 |
 | Wins | 26 |
