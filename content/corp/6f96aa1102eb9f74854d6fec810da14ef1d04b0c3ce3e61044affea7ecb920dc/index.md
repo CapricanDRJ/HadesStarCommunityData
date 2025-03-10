@@ -1,6 +1,6 @@
 ---
 title: ​северный шторм
-description: W:12 L:13 D:1 Bonus ✅ 32%
+description: W:12 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 6 **Эдем**
 date: 2025-03-03T06:36:22.000Z
@@ -16,7 +16,7 @@ date: 2025-03-03T06:36:22.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
