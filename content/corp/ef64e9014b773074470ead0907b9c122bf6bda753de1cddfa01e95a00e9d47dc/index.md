@@ -1,6 +1,6 @@
 ---
 title: ​Crazy Elite
-description: W:41 L:57 D:0 Bonus ✅ 50%
+description: W:41 L:57 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 11 - 14 **Brodudes Inc\.**
 date: 2025-03-09T14:31:33.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
