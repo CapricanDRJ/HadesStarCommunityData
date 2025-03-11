@@ -1,9 +1,9 @@
 ---
 title: ​Winter Star llc
-description: W:12 L:6 D:1 Bonus ❌ 6%
+description: W:12 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 7 - 23 **Free Ag3nts**
-date: 2025-02-26T18:55:37.000Z
+Summary: ❌ 0 - 15 **毛绒团子**
+date: 2025-03-11T16:46:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ ons! //You must Join our Discord within 7 days
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (226)|
-| ELO Competitive | 1304 🔻  (291)|
-| Total Matches | 19 |
+| ELO Regular | 1256 🔻  (261)|
+| ELO Competitive | 1291 🔻  (322)|
+| Total Matches | 20 |
 | Wins | 12 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740164137,1738871056,1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
+        let timestamps = [1741279579,1740164137,1738871056,1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 0-15 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2025/02/26 | 7-23 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ✅ | 2025/02/11 | 12-3 | [启示空间](https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/) |
 | ✅ | 2025/02/06 | 12-5 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
@@ -167,5 +168,5 @@ Corporation ID: 89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740596137"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741711579"></span>
 </div>

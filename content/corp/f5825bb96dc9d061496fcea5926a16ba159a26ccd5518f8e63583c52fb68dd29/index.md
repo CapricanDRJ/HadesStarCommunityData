@@ -1,6 +1,6 @@
 ---
 title: ​Red_Coat_Mafia
-description: W:27 L:34 D:1 Bonus ✅ 46%
+description: W:27 L:34 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 11 - 6 **RGW**
 date: 2025-03-04T18:04:48.000Z
@@ -18,12 +18,12 @@ ccount inGame to be a member. InGame space is prioritized for running
 <br>
 
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (282)|
-| ELO Competitive | 1355 🔺  (212)|
+| ELO Competitive | 1355 🔺  (213)|
 | Total Matches | 62 |
 | Wins | 27 |
 | Losses | 34 |

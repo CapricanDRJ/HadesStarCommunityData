@@ -1,9 +1,9 @@
 ---
 title: ​imperio galacti
-description: W:19 L:8 D:1 Bonus ✅ 34%
+description: W:20 L:8 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 13 - 4 **阿尔特拉太空港**
-date: 2025-03-04T20:55:07.000Z
+Summary: ✅ 22 - 4 **Эдем**
+date: 2025-03-11T16:51:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ telar, Alfa Omega GuistonRA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (114)|
-| ELO Competitive | 1377 🔺  (177)|
-| Total Matches | 28 |
-| Wins | 19 |
+| ELO Regular | 1351 🔺  (103)|
+| ELO Competitive | 1391 🔺  (163)|
+| Total Matches | 29 |
+| Wins | 20 |
 | Losses | 8 |
 | Draws | 1 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 3 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1741279879,1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 22-4 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/03/04 | 13-4 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2025/03/04 | 2-0 | [амурочка](https://ws.tsl.rocks/corp/6cc927cc370ca2dc8f42d77e6d2dfc76b6949703648b704cc4c691a559756b0b/) |
 | ✅ | 2025/02/25 | 23-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
@@ -177,5 +178,5 @@ Corporation ID: 53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741121707"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741711879"></span>
 </div>
