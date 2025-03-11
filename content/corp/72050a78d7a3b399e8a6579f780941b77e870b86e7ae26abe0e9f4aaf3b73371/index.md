@@ -1,9 +1,9 @@
 ---
 title: ​Death Starz
-description: W:0 L:1 D:0 Bonus ❌ 5%
+description: W:1 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 4 - 9 **Вселенские 40%**
-date: 2023-12-15T20:29:27.000Z
+Summary: ✅ 12 - 0 **ГОРИЗОНТ**
+date: 2025-03-11T03:00:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (868)|
-| ELO Competitive | 1183 🔻  (1030)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1195 🔺  (578)|
+| ELO Competitive | 1206 🔺  (647)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702240167];
+        let timestamps = [1741230002,1702240167];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 12-0 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2023/12/15 | 4-9 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 
 ---
@@ -141,5 +142,5 @@ Corporation ID: 72050a78d7a3b399e8a6579f780941b77e870b86e7ae26abe0e9f4aaf3b73371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1702672167"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741662002"></span>
 </div>

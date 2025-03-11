@@ -1,6 +1,6 @@
 ---
 title: ​Eastern Front
-description: W:63 L:68 D:3 Bonus ✅ 42%
+description: W:63 L:68 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 11 **Red Alliance**
 date: 2025-03-10T16:18:03.000Z
@@ -17,7 +17,7 @@ e strategies, and give out advice.        -  Tensible
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

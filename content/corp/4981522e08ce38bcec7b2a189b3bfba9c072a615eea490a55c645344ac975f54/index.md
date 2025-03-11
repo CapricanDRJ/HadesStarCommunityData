@@ -22,7 +22,7 @@ r.                                         WhatsApp incluido.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (589)|
+| ELO Regular | 1193 🔻  (590)|
 | ELO Competitive | 1216 🔻  (576)|
 | Total Matches | 14 |
 | Wins | 6 |

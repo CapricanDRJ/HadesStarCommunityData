@@ -1,6 +1,6 @@
 ---
 title: ​Lololol
-description: W:4 L:3 D:0 Bonus ✅ 
+description: W:4 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 20 - 0 **DreamTeam**
 date: 2025-03-04T01:53:17.000Z
@@ -15,7 +15,7 @@ date: 2025-03-04T01:53:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
