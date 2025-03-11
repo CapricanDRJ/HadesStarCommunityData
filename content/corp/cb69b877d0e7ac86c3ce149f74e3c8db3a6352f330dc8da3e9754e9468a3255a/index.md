@@ -1,9 +1,9 @@
 ---
 title: ​⭐PRETORIANS.X⭐
-description: W:18 L:34 D:4 Bonus ✅ 34%
+description: W:18 L:35 D:4 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 13 **Lololol**
-date: 2025-03-11T09:45:36.000Z
+Summary: ❌ 0 - 18 **万星联盟**
+date: 2025-03-11T14:51:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ sporg). 3lt bpdp)(demin).(flech).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1326)|
-| ELO Competitive | 1284 🔻  (337)|
-| Total Matches | 56 |
+| ELO Regular | 1105 🔻  (1336)|
+| ELO Competitive | 1296 🔻  (307)|
+| Total Matches | 57 |
 | Wins | 18 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741254336,1740796980,1740179765,1740014168,1739690216,1739435382,1739063378,1738558315,1738496313,1738032930,1738016106,1737518780,1737510367,1737023231,1737008808,1736565216,1736550492,1736104511,1736102407,1735662131,1735650109,1735126379,1734569627,1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
+        let timestamps = [1741272666,1741254336,1740796980,1740179765,1740014168,1739690216,1739435382,1739063378,1738558315,1738496313,1738032930,1738016106,1737518780,1737510367,1737023231,1737008808,1736565216,1736550492,1736104511,1736102407,1735662131,1735650109,1735126379,1734569627,1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 0-18 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2025/03/11 | 0-13 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/03/06 | 9-3 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2025/02/26 | 5-4 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -209,5 +210,5 @@ Corporation ID: cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741686336"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741704666"></span>
 </div>

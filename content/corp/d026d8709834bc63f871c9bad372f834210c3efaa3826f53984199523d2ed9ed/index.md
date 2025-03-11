@@ -1,9 +1,9 @@
 ---
 title: ​万星联盟
-description: W:49 L:10 D:0 Bonus ❌ 9%
+description: W:50 L:10 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 6 - 5 **White Dwarf**
-date: 2025-02-28T13:34:49.000Z
+Summary: ✅ 18 - 0 **⭐PRETORIANS\.X⭐**
+date: 2025-03-11T14:51:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1440 🔺  (33)|
-| ELO Competitive | 1514 🔺  (63)|
-| Total Matches | 59 |
-| Wins | 49 |
+| ELO Regular | 1444 🔺  (33)|
+| ELO Competitive | 1520 🔺  (61)|
+| Total Matches | 60 |
+| Wins | 50 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 10 |
+| Streak | 11 |
 | Streak Record | 12 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740317689,1739895459,1739808015,1739382511,1739212134,1738657693,1738408250,1737903716,1737753164,1737234809,1736771389,1736309165,1735840005,1735837300,1735368557,1734926885,1734705733,1734454848,1733877639,1733812135,1733293197,1733284784,1732696703,1732676875,1732028414,1732013388,1731503746,1731497134,1731020634,1730991379,1730517201,1730508789,1730014767,1729839567,1729407159,1727789085,1727489487,1726882793,1726358212,1725792973,1725172154,1724682335,1724231864,1723789194,1723278627,1722843792,1722779182,1722357271,1721896560,1720956835,1719478542,1719126913,1718888936,1717458342,1716989374,1716542814,1715944631,1715479536,1714143292];
+        let timestamps = [1741272666,1740317689,1739895459,1739808015,1739382511,1739212134,1738657693,1738408250,1737903716,1737753164,1737234809,1736771389,1736309165,1735840005,1735837300,1735368557,1734926885,1734705733,1734454848,1733877639,1733812135,1733293197,1733284784,1732696703,1732676875,1732028414,1732013388,1731503746,1731497134,1731020634,1730991379,1730517201,1730508789,1730014767,1729839567,1729407159,1727789085,1727489487,1726882793,1726358212,1725792973,1725172154,1724682335,1724231864,1723789194,1723278627,1722843792,1722779182,1722357271,1721896560,1720956835,1719478542,1719126913,1718888936,1717458342,1716989374,1716542814,1715944631,1715479536,1714143292];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 18-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/02/28 | 6-5 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2025/02/23 | 33-0 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ✅ | 2025/02/22 | 26-3 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -208,5 +209,5 @@ Corporation ID: d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740749689"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741704666"></span>
 </div>

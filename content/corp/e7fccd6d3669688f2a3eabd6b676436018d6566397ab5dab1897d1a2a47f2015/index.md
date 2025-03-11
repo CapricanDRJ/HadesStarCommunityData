@@ -1,6 +1,6 @@
 ---
 title: ​UKR Spase
-description: W:41 L:24 D:0 Bonus ✅ 42%
+description: W:41 L:24 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 20 - 25 **111**
 date: 2025-03-10T09:03:16.000Z
@@ -19,7 +19,7 @@ date: 2025-03-10T09:03:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

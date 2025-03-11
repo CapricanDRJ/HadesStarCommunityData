@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Cats
-description: W:9 L:10 D:0 Bonus ❌ 7%
+description: W:9 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 2 - 34 **Newbs**
-date: 2025-02-11T16:53:57.000Z
+Summary: ❌ 5 - 9 **OPA**
+date: 2025-03-11T13:51:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ lease join us on Discord and don't be a stranger!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (607)|
-| ELO Competitive | 1246 🔻  (445)|
-| Total Matches | 19 |
+| ELO Regular | 1186 🔻  (728)|
+| ELO Competitive | 1241 🔻  (464)|
+| Total Matches | 20 |
 | Wins | 9 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738860837,1737613131,1736390609,1735280816,1734576236,1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
+        let timestamps = [1741269060,1738860837,1737613131,1736390609,1735280816,1734576236,1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 5-9 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2025/02/11 | 2-34 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2025/01/28 | 5-43 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2025/01/14 | 23-10 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
@@ -162,5 +163,5 @@ Corporation ID: 0b6309a414bde261db3ee5592ae72168ca48d02558f5bc597950f11e55f92ae6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739292837"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741701060"></span>
 </div>

@@ -20,7 +20,7 @@ Friend Group for beginners
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (1055)|
-| ELO Competitive | 1210 🔻  (634)|
+| ELO Competitive | 1210 🔻  (633)|
 | Total Matches | 10 |
 | Wins | 4 |
 | Losses | 6 |

@@ -1,6 +1,6 @@
 ---
 title: ​QONQR 
-description: W:14 L:10 D:0 Bonus ✅ 32%
+description: W:14 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 5 - 31 **仙女座星雲**
 date: 2025-03-11T08:35:30.000Z
@@ -18,7 +18,7 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
