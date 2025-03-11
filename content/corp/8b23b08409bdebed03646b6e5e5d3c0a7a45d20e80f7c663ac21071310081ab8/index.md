@@ -1,9 +1,9 @@
 ---
 title: ​BR Gear
-description: W:0 L:2 D:0 Bonus ❌ 9%
+description: W:0 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 0 - 25 **Dumpster Fire 2**
-date: 2024-05-09T01:22:59.000Z
+Summary: ❌ 2 - 23 **Dumpster Fire**
+date: 2025-03-10T23:49:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -32,11 +32,11 @@ ALIANÇA: LUSO (BR/PT) 🚀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (895)|
-| ELO Competitive | 1193 🔻  (755)|
-| Total Matches | 2 |
+| ELO Regular | 1162 🔻  (1080)|
+| ELO Competitive | 1178 🔻  (1071)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -56,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714785779,1714784893];
+        let timestamps = [1741218587,1714785779,1714784893];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/10 | 2-23 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2024/05/09 | 0-25 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/05/09 | 0-41 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 
@@ -154,5 +155,5 @@ Corporation ID: 8b23b08409bdebed03646b6e5e5d3c0a7a45d20e80f7c663ac21071310081ab8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1715217779"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741650587"></span>
 </div>

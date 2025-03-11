@@ -1,6 +1,6 @@
 ---
 title: ​First Legion
-description: W:44 L:60 D:1 Bonus ✅ 38%
+description: W:44 L:60 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 10 - 2 **Death Flight**
 date: 2025-03-03T23:58:08.000Z
@@ -17,7 +17,7 @@ Sister corporations: TeddisaurusWrex, Armored Union
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
