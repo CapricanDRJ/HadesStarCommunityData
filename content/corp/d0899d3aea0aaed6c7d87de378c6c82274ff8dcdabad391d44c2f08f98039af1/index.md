@@ -1,9 +1,9 @@
 ---
 title: ​Croce del Sud
-description: W:16 L:12 D:0 Bonus ❌ 8%
+description: W:16 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 30 - 70 **Continuum**
-date: 2025-02-25T00:11:03.000Z
+Summary: ❌ 14 - 34 **BlackStar Order**
+date: 2025-03-11T08:00:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-02-25T00:11:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (317)|
-| ELO Competitive | 1286 🔻  (335)|
-| Total Matches | 28 |
+| ELO Regular | 1229 🔻  (348)|
+| ELO Competitive | 1283 🔻  (339)|
+| Total Matches | 29 |
 | Wins | 16 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740010263,1738798335,1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1741248027,1740010263,1738798335,1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 14-34 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2025/02/25 | 30-70 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/02/10 | 33-5 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2025/01/20 | 24-16 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
@@ -178,5 +179,5 @@ Corporation ID: d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740442263"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741680027"></span>
 </div>

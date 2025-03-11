@@ -21,7 +21,7 @@ o华浩 QQ767311697
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (324)|
+| ELO Regular | 1236 🔻  (323)|
 | ELO Competitive | 1279 🔻  (353)|
 | Total Matches | 36 |
 | Wins | 19 |

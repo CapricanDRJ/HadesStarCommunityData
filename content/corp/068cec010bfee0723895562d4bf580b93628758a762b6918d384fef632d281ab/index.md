@@ -1,9 +1,9 @@
 ---
 title: ​СОЮЗ
-description: W:17 L:14 D:0 Bonus ✅ 48%
+description: W:18 L:14 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 7 - 5 **Death Star llc\.**
-date: 2025-03-11T04:00:07.000Z
+Summary: ✅ 15 - 8 **Greek Warriors**
+date: 2025-03-11T08:20:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,13 @@ date: 2025-03-11T04:00:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (265)|
+| ELO Regular | 1265 🔺  (235)|
 | ELO Competitive | 1361 🔺  (198)|
-| Total Matches | 31 |
-| Wins | 17 |
+| Total Matches | 32 |
+| Wins | 18 |
 | Losses | 14 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 9 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741233607,1740714944,1740708635,1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1741249229,1741233607,1740714944,1740708635,1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 15-8 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
 | ✅ | 2025/03/11 | 7-5 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2025/03/05 | 1-48 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2025/03/05 | 4-23 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
@@ -178,5 +180,5 @@ Corporation ID: 068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741665607"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741681229"></span>
 </div>

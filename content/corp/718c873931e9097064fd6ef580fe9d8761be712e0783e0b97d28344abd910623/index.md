@@ -1,6 +1,6 @@
 ---
 title: ​lesescargots
-description: W:65 L:22 D:0 Bonus ✅ 40%
+description: W:65 L:22 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 18 - 6 **●Black•Sails●**
 date: 2025-03-04T07:43:46.000Z
@@ -15,7 +15,7 @@ Closed the list
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

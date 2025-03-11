@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的
-description: W:61 L:58 D:4 Bonus ✅ 40%
+description: W:61 L:58 D:4 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 25 **Blood Hounds**
 date: 2025-03-05T04:35:48.000Z
@@ -18,7 +18,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 <br>
 
 ### [Discord](https://discord.gg/dqW4bytGPe)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

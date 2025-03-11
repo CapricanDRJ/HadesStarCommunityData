@@ -1,9 +1,9 @@
 ---
 title: ​●Black•Sails●
-description: W:21 L:29 D:0 Bonus ❌ 8%
+description: W:21 L:30 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 6 - 18 **lesescargots**
-date: 2025-03-04T07:43:46.000Z
+Summary: ❌ 0 - 20 **Armored Union **
+date: 2025-03-11T08:13:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Together We Can Achieve More.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1119)|
-| ELO Competitive | 1216 🔻  (573)|
-| Total Matches | 50 |
+| ELO Regular | 1144 🔻  (1197)|
+| ELO Competitive | 1206 🔻  (648)|
+| Total Matches | 51 |
 | Wins | 21 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740642226,1740071575,1739432165,1738874062,1738223738,1737655202,1737057502,1735840005,1734069330,1733426608,1732780256,1731570753,1730360639,1729751827,1729147206,1728546098,1727937534,1727334125,1726734785,1726125316,1725520417,1724928440,1724404590,1723708657,1723135586,1722512928,1721913387,1721293136,1720680625,1720082574,1719476739,1718894948,1718264017,1717679112,1717052179,1716446679,1715842181,1715237669,1714631853,1714033324,1713425528,1712822464,1711696869,1711031915,1708681900,1704916245,1704223858,1703719591,1702939230,1702327626];
+        let timestamps = [1741248821,1740642226,1740071575,1739432165,1738874062,1738223738,1737655202,1737057502,1735840005,1734069330,1733426608,1732780256,1731570753,1730360639,1729751827,1729147206,1728546098,1727937534,1727334125,1726734785,1726125316,1725520417,1724928440,1724404590,1723708657,1723135586,1722512928,1721913387,1721293136,1720680625,1720082574,1719476739,1718894948,1718264017,1717679112,1717052179,1716446679,1715842181,1715237669,1714631853,1714033324,1713425528,1712822464,1711696869,1711031915,1708681900,1704916245,1704223858,1703719591,1702939230,1702327626];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 0-20 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ❌ | 2025/03/04 | 6-18 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2025/02/25 | 3-16 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2025/02/18 | 3-33 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
@@ -202,5 +203,5 @@ Corporation ID: fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741074226"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741680821"></span>
 </div>

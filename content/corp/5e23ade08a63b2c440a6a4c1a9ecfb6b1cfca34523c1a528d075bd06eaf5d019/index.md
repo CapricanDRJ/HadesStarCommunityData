@@ -1,9 +1,9 @@
 ---
 title: ​QONQR 
-description: W:14 L:9 D:0 Bonus ✅ 32%
+description: W:14 L:10 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 17 - 1 **蓝色星系**
-date: 2025-03-04T13:39:19.000Z
+Summary: ❌ 5 - 31 **仙女座星雲**
+date: 2025-03-11T08:35:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ t mandatory, but it's much welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔺  (196)|
-| ELO Competitive | 1328 🔺  (247)|
-| Total Matches | 23 |
+| ELO Regular | 1272 🔻  (213)|
+| ELO Competitive | 1325 🔻  (253)|
+| Total Matches | 24 |
 | Wins | 14 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 4 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 5-31 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2025/03/04 | 17-1 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) |
 | ✅ | 2025/02/23 | 9-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/02/10 | 29-4 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
@@ -173,5 +173,5 @@ Corporation ID: 5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741095559"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741682130"></span>
 </div>

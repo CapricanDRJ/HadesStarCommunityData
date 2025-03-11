@@ -1,9 +1,9 @@
 ---
 title: ​Greek Warriors
-description: W:13 L:30 D:1 Bonus ❌ 7%
+description: W:13 L:31 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 18 - 28 **柯伊伯带**
-date: 2025-02-25T22:43:40.000Z
+Summary: ❌ 8 - 15 **СОЮЗ**
+date: 2025-03-11T08:20:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ https://discord.gg/DDhaupc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1184)|
-| ELO Competitive | 1233 🔻  (481)|
-| Total Matches | 44 |
+| ELO Regular | 1136 🔻  (1241)|
+| ELO Competitive | 1224 🔻  (519)|
+| Total Matches | 45 |
 | Wins | 13 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740091420,1738178971,1735874561,1735492041,1735247772,1734984276,1734499915,1734040191,1733485799,1732959962,1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
+        let timestamps = [1741249229,1740091420,1738178971,1735874561,1735492041,1735247772,1734984276,1734499915,1734040191,1733485799,1732959962,1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 8-15 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2025/02/25 | 18-28 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2025/02/03 | 14-32 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2025/01/08 | 10-17 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
@@ -194,5 +195,5 @@ Corporation ID: 0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740523420"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741681229"></span>
 </div>
