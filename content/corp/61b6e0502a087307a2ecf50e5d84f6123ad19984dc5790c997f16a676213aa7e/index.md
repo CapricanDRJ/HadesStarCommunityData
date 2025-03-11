@@ -1,9 +1,9 @@
 ---
 title: ​羽共和体
-description: W:18 L:27 D:8 Bonus ❌ 7%
+description: W:19 L:27 D:8 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 1 - 12 **蓝色星系二号分盟**
-date: 2025-03-05T15:26:53.000Z
+Summary: ✅ 7 - 0 **BR Gear**
+date: 2025-03-11T10:10:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 2025-03-05T15:26:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1164)|
-| ELO Competitive | 1226 🔻  (510)|
-| Total Matches | 53 |
-| Wins | 18 |
+| ELO Regular | 1166 🔺  (1050)|
+| ELO Competitive | 1239 🔺  (472)|
+| Total Matches | 54 |
+| Wins | 19 |
 | Losses | 27 |
 | Draws | 8 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740756413,1740309574,1738074429,1728303880,1727786981,1727272223,1726838319,1726835013,1726332665,1725883424,1725443811,1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
+        let timestamps = [1741255823,1740756413,1740309574,1738074429,1728303880,1727786981,1727272223,1726838319,1726835013,1726332665,1725883424,1725443811,1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 7-0 | [BR Gear](https://ws.tsl.rocks/corp/8b23b08409bdebed03646b6e5e5d3c0a7a45d20e80f7c663ac21071310081ab8/) |
 | ❌ | 2025/03/05 | 1-12 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/02/28 | 10-0 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | ❌ | 2025/02/02 | 0-12 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
@@ -200,5 +201,5 @@ Corporation ID: 61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741188413"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741687823"></span>
 </div>

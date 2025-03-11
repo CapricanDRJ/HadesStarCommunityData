@@ -1,6 +1,6 @@
 ---
 title: ​Черный Легион
-description: W:25 L:14 D:0 Bonus ❌ 36%
+description: W:25 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 24 - 1 **星域 **
 date: 2025-03-04T09:50:02.000Z
@@ -18,12 +18,12 @@ rcenaries available for hire on white stars |Черный Легион- межд
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/72dm5dqT)
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (162)|
-| ELO Competitive | 1385 🔺  (167)|
+| ELO Competitive | 1385 🔺  (168)|
 | Total Matches | 39 |
 | Wins | 25 |
 | Losses | 14 |

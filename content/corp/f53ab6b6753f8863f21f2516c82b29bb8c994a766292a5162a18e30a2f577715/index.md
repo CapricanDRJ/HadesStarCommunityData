@@ -1,9 +1,9 @@
 ---
 title: ​人人平等至上集团
-description: W:0 L:1 D:3 Bonus ❌ 
+description: W:0 L:2 D:3 Bonus ❌ 
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **The Witness**
-date: 2025-03-02T04:33:40.000Z
+Summary: ❌ 0 - 9 **星际公约组织**
+date: 2025-03-11T11:55:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-02T04:33:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (948)|
-| ELO Competitive | 1189 🔻  (818)|
-| Total Matches | 4 |
+| ELO Regular | 1166 🔻  (1052)|
+| ELO Competitive | 1182 🔻  (1044)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 3 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740458020,1739683605,1739171345,1738714495];
+        let timestamps = [1741262148,1740458020,1739683605,1739171345,1738714495];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 0-9 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ↔️ | 2025/03/02 | 0-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ↔️ | 2025/02/21 | 1-1 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
 | ❌ | 2025/02/15 | 3-13 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -143,5 +144,5 @@ Corporation ID: f53ab6b6753f8863f21f2516c82b29bb8c994a766292a5162a18e30a2f577715
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740890020"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741694148"></span>
 </div>

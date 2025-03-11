@@ -1,6 +1,6 @@
 ---
 title: ​G.02
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 4 - 0 **国际联盟**
 date: 2025-03-04T11:19:04.000Z
@@ -15,7 +15,7 @@ date: 2025-03-04T11:19:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

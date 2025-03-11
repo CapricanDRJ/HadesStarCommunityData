@@ -1,6 +1,6 @@
 ---
 title: ​OPA
-description: W:53 L:20 D:0 Bonus ✅ 40%
+description: W:53 L:20 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 5 - 22 **UKR Spase**
 date: 2025-03-04T13:04:15.000Z
@@ -19,7 +19,7 @@ Discord required : discord.gg/2RmfWZB777
 <br>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

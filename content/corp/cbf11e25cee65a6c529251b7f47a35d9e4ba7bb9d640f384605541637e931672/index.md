@@ -1,9 +1,9 @@
 ---
 title: ​Держава Русь
-description: W:3 L:41 D:1 Bonus ❌ 11%
+description: W:3 L:42 D:1 Bonus ❌ 12%
 image: ./favicon.png
-Summary: ❌ 6 - 9 **Canada 55**
-date: 2025-03-05T14:21:45.000Z
+Summary: ❌ 3 - 44 **2ND\-R8 Corp\.**
+date: 2025-03-11T12:10:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2025-03-05T14:21:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 963 🔻  (1440)|
-| ELO Competitive | 1035 🔻  (1443)|
-| Total Matches | 45 |
+| ELO Regular | 961 🔻  (1440)|
+| ELO Competitive | 1033 🔻  (1443)|
+| Total Matches | 46 |
 | Wins | 3 |
-| Losses | 41 |
+| Losses | 42 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740752505,1740270516,1739815830,1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1741263049,1740752505,1740270516,1739815830,1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 3-44 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2025/03/05 | 6-9 | [Canada 55](https://ws.tsl.rocks/corp/ce9e570030319de84612b35396eceb66e8354735920c430d9f42234066290c56/) |
 | ✅ | 2025/02/28 | 30-7 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2025/02/22 | 9-20 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
@@ -191,5 +192,5 @@ Corporation ID: cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741184505"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741695049"></span>
 </div>
