@@ -1,9 +1,9 @@
 ---
 title: ​九州·华夏
-description: W:3 L:3 D:0 Bonus ❌ 
+description: W:4 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 12 **宇宙联盟（中国）**
-date: 2025-03-05T09:21:14.000Z
+Summary: ✅ 8 - 2 **✨ℛedstar Order«**
+date: 2025-03-11T04:05:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-05T09:21:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (557)|
-| ELO Competitive | 1195 🔻  (735)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1214 🔺  (437)|
+| ELO Competitive | 1213 🔺  (610)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 8-2 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2025/03/05 | 0-12 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/02/27 | 2-3 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/02/19 | 0-7 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
@@ -146,5 +147,5 @@ Corporation ID: b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741166474"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741665907"></span>
 </div>

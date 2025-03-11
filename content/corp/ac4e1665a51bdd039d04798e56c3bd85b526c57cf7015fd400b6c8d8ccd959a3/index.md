@@ -1,6 +1,6 @@
 ---
 title: ​63SALVADORES36
-description: W:22 L:27 D:1 Bonus ✅ 36%
+description: W:22 L:27 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 17 **OpiumNaroda**
 date: 2025-03-09T23:22:29.000Z
@@ -25,12 +25,12 @@ Discord: https://discord.gg/wnw8sSwy
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔻  (907)|
-| ELO Competitive | 1346 🔻  (222)|
+| ELO Competitive | 1346 🔻  (223)|
 | Total Matches | 50 |
 | Wins | 22 |
 | Losses | 27 |
