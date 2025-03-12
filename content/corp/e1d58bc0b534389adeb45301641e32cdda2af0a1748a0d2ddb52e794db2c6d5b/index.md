@@ -1,6 +1,6 @@
 ---
 title: ​EarthFederation
-description: W:14 L:4 D:2 Bonus ✅ 32%
+description: W:14 L:4 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 9 - 11 **FoxTale**
 date: 2025-03-11T22:51:59.000Z
@@ -16,12 +16,12 @@ Looking for members. Come grow with us!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1294 🔻  (184)|
-| ELO Competitive | 1330 🔻  (244)|
+| ELO Competitive | 1330 🔻  (245)|
 | Total Matches | 20 |
 | Wins | 14 |
 | Losses | 4 |

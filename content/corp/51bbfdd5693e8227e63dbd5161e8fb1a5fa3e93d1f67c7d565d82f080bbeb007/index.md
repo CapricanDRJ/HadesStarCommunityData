@@ -21,8 +21,8 @@ Active, tight-knit, fun and friendly. <b>Part of the Space Pals group
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (137)|
-| ELO Competitive | 1354 🔺  (214)|
+| ELO Regular | 1323 🔺  (136)|
+| ELO Competitive | 1354 🔺  (213)|
 | Total Matches | 20 |
 | Wins | 16 |
 | Losses | 4 |

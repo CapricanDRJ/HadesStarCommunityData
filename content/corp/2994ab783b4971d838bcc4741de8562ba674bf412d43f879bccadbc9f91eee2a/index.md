@@ -1,9 +1,9 @@
 ---
 title: ​Alterra Corp
-description: W:1 L:2 D:1 Bonus ❌ 3%
+description: W:1 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 3 - 19 **新?的星际集团?**
-date: 2025-02-23T14:52:30.000Z
+Summary: ❌ 3 - 10 **DarkMoon**
+date: 2025-03-12T16:13:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ re.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (937)|
-| ELO Competitive | 1184 🔻  (1030)|
-| Total Matches | 4 |
+| ELO Regular | 1168 🔻  (1039)|
+| ELO Competitive | 1178 🔻  (1072)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739890350,1727464547,1724416673,1721507098];
+        let timestamps = [1741364020,1739890350,1727464547,1724416673,1721507098];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/12 | 3-10 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/02/23 | 3-19 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/10/02 | 0-19 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/08/28 | 9-0 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
@@ -144,5 +145,5 @@ Corporation ID: 2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740322350"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741796020"></span>
 </div>
