@@ -1,9 +1,9 @@
 ---
 title: ​星落苑
-description: W:20 L:11 D:0 Bonus ❌ 7%
+description: W:21 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 13 - 3 **Germania**
-date: 2025-03-05T09:16:14.000Z
+Summary: ✅ 18 - 6 **Glashan**
+date: 2025-03-12T11:58:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (217)|
-| ELO Competitive | 1380 🔺  (176)|
-| Total Matches | 31 |
-| Wins | 20 |
+| ELO Regular | 1277 🔺  (204)|
+| ELO Competitive | 1385 🔺  (168)|
+| Total Matches | 32 |
+| Wins | 21 |
 | Losses | 11 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
+        let timestamps = [1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 18-6 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2025/03/05 | 13-3 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2025/02/27 | 5-29 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2025/02/26 | 0-22 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
@@ -173,5 +175,5 @@ Corporation ID: 6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741166174"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741780688"></span>
 </div>

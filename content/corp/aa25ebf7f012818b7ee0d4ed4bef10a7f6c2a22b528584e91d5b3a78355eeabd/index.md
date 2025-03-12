@@ -1,9 +1,9 @@
 ---
 title: ​星际造梦
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 27 **Alpaca Nation**
-date: 2025-03-07T06:05:56.000Z
+Summary: ✅ 6 - 3 **宇宙联盟（中国）**
+date: 2025-03-12T11:03:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-07T06:05:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (635)|
-| ELO Competitive | 1191 🔻  (790)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1208 🔺  (488)|
+| ELO Competitive | 1212 🔺  (626)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740895556];
+        let timestamps = [1741345383,1740895556];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 6-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/03/07 | 0-27 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 
 ---
@@ -140,5 +141,5 @@ Corporation ID: aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741327556"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741777383"></span>
 </div>

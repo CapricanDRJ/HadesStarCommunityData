@@ -1,6 +1,6 @@
 ---
 title: ​Вселенские 40%
-description: W:31 L:38 D:0 Bonus ✅ 40%
+description: W:31 L:38 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 30 **Mercury Sunset**
 date: 2025-03-11T10:40:40.000Z
@@ -16,12 +16,12 @@ date: 2025-03-11T10:40:40.000Z
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔻  (476)|
-| ELO Competitive | 1320 🔻  (267)|
+| ELO Competitive | 1320 🔻  (266)|
 | Total Matches | 69 |
 | Wins | 31 |
 | Losses | 38 |

@@ -1,9 +1,9 @@
 ---
 title: ​方星集团
-description: W:6 L:6 D:1 Bonus ❌ 5%
+description: W:6 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **New YuGiOh**
-date: 2025-02-15T13:33:21.000Z
+Summary: ❌ 0 - 5 **Cool Casual**
+date: 2025-03-12T10:42:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-02-15T13:33:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (583)|
-| ELO Competitive | 1225 🔻  (515)|
-| Total Matches | 13 |
+| ELO Regular | 1182 🔻  (884)|
+| ELO Competitive | 1211 🔻  (632)|
+| Total Matches | 14 |
 | Wins | 6 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739194401,1738649882,1738150186,1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
+        let timestamps = [1741344127,1739194401,1738649882,1738150186,1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/12 | 0-5 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2025/02/15 | 0-10 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/02/09 | 0-13 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/02/03 | 1-0 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
@@ -154,5 +155,5 @@ Corporation ID: 6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739626401"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741776127"></span>
 </div>
