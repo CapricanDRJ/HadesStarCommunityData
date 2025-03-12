@@ -22,8 +22,8 @@ Fedaykin - Athena, Sun, Dune, Ancient
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (776)|
-| ELO Competitive | 1187 🔻  (882)|
+| ELO Regular | 1185 🔻  (775)|
+| ELO Competitive | 1187 🔻  (883)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

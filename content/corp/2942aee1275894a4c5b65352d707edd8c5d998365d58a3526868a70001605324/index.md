@@ -1,9 +1,9 @@
 ---
 title: ​毛绒团子
-description: W:10 L:1 D:0 Bonus ✅ 
+description: W:11 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 0 **Winter Star llc**
-date: 2025-03-11T16:46:19.000Z
+Summary: ✅ 20 - 0 **萌新集团**
+date: 2025-03-12T06:02:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-11T16:46:19.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (116)|
+| ELO Regular | 1350 🔺  (104)|
 | ELO Competitive | 1355 🔺  (208)|
-| Total Matches | 11 |
-| Wins | 10 |
+| Total Matches | 12 |
+| Wins | 11 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
+        let timestamps = [1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 20-0 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ✅ | 2025/03/11 | 15-0 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2025/03/04 | 27-0 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
 | ✅ | 2025/02/25 | 23-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
@@ -152,5 +153,5 @@ Corporation ID: 2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741711579"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741759355"></span>
 </div>

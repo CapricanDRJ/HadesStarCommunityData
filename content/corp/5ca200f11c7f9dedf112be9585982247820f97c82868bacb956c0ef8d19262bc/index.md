@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Light
-description: W:16 L:33 D:1 Bonus ✅ 36%
+description: W:17 L:33 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 9 - 7 **WSC\(no DISCORD\)**
-date: 2025-03-06T17:14:38.000Z
+Summary: ✅ 21 - 0 **101**
+date: 2025-03-12T03:48:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ space of this game. WS every week. Join us into the Light!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔺  (1328)|
-| ELO Competitive | 1239 🔺  (472)|
-| Total Matches | 50 |
-| Wins | 16 |
+| ELO Regular | 1126 🔺  (1281)|
+| ELO Competitive | 1262 🔺  (404)|
+| Total Matches | 51 |
+| Wins | 17 |
 | Losses | 33 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 7 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,14 +134,15 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 3 | 0 | 0 | 3 |
 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) | 0 | 2 | 0 | 2 |
-| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 21-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2025/03/06 | 9-7 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/02/23 | 17-0 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 | ❌ | 2025/02/17 | 4-9 | [united unicorn](https://ws.tsl.rocks/corp/c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276/) |
@@ -199,5 +200,5 @@ Corporation ID: 5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741281278"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741751321"></span>
 </div>

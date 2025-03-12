@@ -1,9 +1,9 @@
 ---
 title: ​Rogue Corp
-description: W:1 L:23 D:0 Bonus ❌ 9%
+description: W:1 L:24 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 3 - 35 **Scar**
-date: 2025-02-22T06:49:19.000Z
+Summary: ❌ 2 - 25 **Spica​**
+date: 2025-03-12T05:37:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ or weekly <color=white>WS</color> and private <color=red>RS</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1031 🔻  (1413)|
-| ELO Competitive | 1046 🔻  (1440)|
-| Total Matches | 24 |
+| ELO Regular | 1026 🔻  (1416)|
+| ELO Competitive | 1042 🔻  (1440)|
+| Total Matches | 25 |
 | Wins | 1 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Flagship | 7 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739774959,1738755958,1737394979,1735434667,1726144846,1725380396,1717442292,1716378478,1715540235,1714640565,1713865072,1712607639,1711145796,1709346277,1708070392,1707530846,1706926375,1706250815,1704838715,1703387213,1702617046,1702107614,1701284433,1700557399];
+        let timestamps = [1741325852,1739774959,1738755958,1737394979,1735434667,1726144846,1725380396,1717442292,1716378478,1715540235,1714640565,1713865072,1712607639,1711145796,1709346277,1708070392,1707530846,1706926375,1706250815,1704838715,1703387213,1702617046,1702107614,1701284433,1700557399];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/12 | 2-25 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 | ❌ | 2025/02/22 | 3-35 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2025/02/10 | 2-19 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ❌ | 2025/01/25 | 0-43 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
@@ -170,5 +171,5 @@ Corporation ID: 6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740206959"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741757852"></span>
 </div>

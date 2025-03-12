@@ -1,9 +1,9 @@
 ---
 title: ​萌新集团
-description: W:8 L:3 D:0 Bonus ❌ 
+description: W:8 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 12 **The Syndicate **
-date: 2025-03-04T11:44:06.000Z
+Summary: ❌ 0 - 20 **毛绒团子**
+date: 2025-03-12T06:02:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-04T11:44:06.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (221)|
-| ELO Competitive | 1282 🔻  (342)|
-| Total Matches | 11 |
+| ELO Regular | 1257 🔻  (257)|
+| ELO Competitive | 1271 🔻  (373)|
+| Total Matches | 12 |
 | Wins | 8 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740656646,1740145502,1739638230,1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
+        let timestamps = [1741327355,1740656646,1740145502,1739638230,1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/12 | 0-20 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2025/03/04 | 2-12 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2025/02/26 | 17-1 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ✅ | 2025/02/20 | 2-0 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -151,5 +152,5 @@ Corporation ID: cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741088646"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741759355"></span>
 </div>
