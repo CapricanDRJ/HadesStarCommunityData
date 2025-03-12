@@ -1,6 +1,6 @@
 ---
 title: ​Sentencia
-description: W:24 L:4 D:0 Bonus ✅ 34%
+description: W:24 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 50 - 0 **Crimson Dawn**
 date: 2025-03-05T02:25:36.000Z
@@ -17,7 +17,7 @@ r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
