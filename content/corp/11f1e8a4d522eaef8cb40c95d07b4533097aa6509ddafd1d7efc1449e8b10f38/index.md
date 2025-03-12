@@ -1,6 +1,6 @@
 ---
 title: ​SternenStaub
-description: W:27 L:41 D:0 Bonus ✅ 36%
+description: W:27 L:41 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 10 **Star Destroyers**
 date: 2025-03-05T14:36:47.000Z
@@ -15,7 +15,7 @@ Wir haben Spaß zusammen.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

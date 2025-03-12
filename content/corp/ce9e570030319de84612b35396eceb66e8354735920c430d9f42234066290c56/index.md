@@ -1,6 +1,6 @@
 ---
 title: ​Canada 55
-description: W:3 L:0 D:0 Bonus ✅ 32%
+description: W:3 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 9 - 6 **Держава Русь**
 date: 2025-03-05T14:21:45.000Z
@@ -22,7 +22,7 @@ Join Discord here: <b>EEpZuWf</b>
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
