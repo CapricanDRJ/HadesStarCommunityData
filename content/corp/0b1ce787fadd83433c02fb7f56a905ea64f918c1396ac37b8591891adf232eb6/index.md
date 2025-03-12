@@ -1,6 +1,6 @@
 ---
 title: ​Kelebra
-description: W:24 L:25 D:1 Bonus ✅ 34%
+description: W:24 L:25 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 12 - 4 **Star Blazers**
 date: 2025-03-04T22:55:19.000Z
@@ -17,7 +17,7 @@ date: 2025-03-04T22:55:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

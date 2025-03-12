@@ -1,9 +1,9 @@
 ---
 title: ​FoxTale
-description: W:7 L:5 D:1 Bonus ✅ 32%
+description: W:8 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 6 - 3 **对，进就进人少的（分团）**
-date: 2025-03-04T23:55:23.000Z
+Summary: ✅ 11 - 9 **EarthFederation**
+date: 2025-03-11T22:51:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,14 +23,14 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (334)|
-| ELO Competitive | 1252 🔺  (426)|
-| Total Matches | 13 |
-| Wins | 7 |
+| ELO Regular | 1250 🔺  (279)|
+| ELO Competitive | 1270 🔺  (377)|
+| Total Matches | 14 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 4 |
 
 ---
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740700523,1740215011,1739659568,1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
+        let timestamps = [1741301519,1740700523,1740215011,1739659568,1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/11 | 11-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ✅ | 2025/03/04 | 6-3 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/02/27 | 15-2 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ✅ | 2025/02/20 | 9-0 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) |
@@ -158,5 +159,5 @@ Corporation ID: 5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741132523"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741733519"></span>
 </div>

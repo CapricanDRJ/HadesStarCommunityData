@@ -1,9 +1,9 @@
 ---
 title: ​EarthFederation
-description: W:14 L:3 D:2 Bonus ✅ 32%
+description: W:14 L:4 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ↔️ 1 - 1 **Imperium **
-date: 2025-03-11T18:36:31.000Z
+Summary: ❌ 9 - 11 **FoxTale**
+date: 2025-03-11T22:51:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Looking for members. Come grow with us!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1312 🔻  (157)|
+| ELO Regular | 1294 🔻  (184)|
 | ELO Competitive | 1330 🔻  (245)|
-| Total Matches | 19 |
+| Total Matches | 20 |
 | Wins | 14 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741286191,1740767232,1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
+        let timestamps = [1741301519,1741286191,1740767232,1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/11 | 9-11 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ↔️ | 2025/03/11 | 1-1 | [Imperium ](https://ws.tsl.rocks/corp/1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0/) |
 | ✅ | 2025/03/05 | 16-0 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ✅ | 2025/02/24 | 16-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
@@ -165,5 +166,5 @@ Corporation ID: e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741718191"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741733519"></span>
 </div>
