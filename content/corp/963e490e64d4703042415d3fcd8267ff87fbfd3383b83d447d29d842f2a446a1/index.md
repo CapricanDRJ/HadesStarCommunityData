@@ -1,9 +1,9 @@
 ---
 title: ​KLM
-description: W:15 L:43 D:0 Bonus ❌ 14%
+description: W:16 L:43 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ❌ 19 - 46 **E\.T\.A**
-date: 2025-02-19T00:51:31.000Z
+Summary: ✅ 53 - 5 **世外桃源**
+date: 2025-03-12T07:02:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 <br>
 
 ### [Discord](https://discord.gg/cWymECU)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1092 🔻  (1355)|
-| ELO Competitive | 1180 🔻  (1064)|
-| Total Matches | 58 |
-| Wins | 15 |
+| ELO Regular | 1099 🔺  (1348)|
+| ELO Competitive | 1194 🔺  (754)|
+| Total Matches | 59 |
+| Wins | 16 |
 | Losses | 43 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739494291,1738798335,1738229447,1737586094,1737006705,1736386403,1735773603,1735192780,1734569627,1733968077,1733393250,1732745099,1732235751,1731633260,1731110676,1730328794,1729725091,1729116261,1728542793,1727902682,1727386119,1726796856,1726094073,1725599446,1724633653,1723784386,1723158426,1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
+        let timestamps = [1741330960,1739494291,1738798335,1738229447,1737586094,1737006705,1736386403,1735773603,1735192780,1734569627,1733968077,1733393250,1732745099,1732235751,1731633260,1731110676,1730328794,1729725091,1729116261,1728542793,1727902682,1727386119,1726796856,1726094073,1725599446,1724633653,1723784386,1723158426,1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 53-5 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2025/02/19 | 19-46 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2025/02/10 | 5-33 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ❌ | 2025/02/04 | 25-40 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
@@ -218,5 +219,5 @@ Corporation ID: 963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739926291"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741762960"></span>
 </div>

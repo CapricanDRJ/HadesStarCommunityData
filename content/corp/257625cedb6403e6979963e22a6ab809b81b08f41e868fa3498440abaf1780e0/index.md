@@ -1,6 +1,6 @@
 ---
 title: ​Tacitus
-description: W:5 L:0 D:0 Bonus ✅ 42%
+description: W:5 L:0 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 57 - 5 **世外桃源**
 date: 2025-03-05T07:26:03.000Z
@@ -16,7 +16,7 @@ Part of Oceania Alliance.     New players welcome
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

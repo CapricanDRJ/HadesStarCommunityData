@@ -1,9 +1,9 @@
 ---
 title: ​星际公约组织
-description: W:27 L:12 D:1 Bonus ✅ 36%
+description: W:28 L:12 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **人人平等至上集团**
-date: 2025-03-11T11:55:48.000Z
+Summary: ✅ 18 - 6 **Kelebra**
+date: 2025-03-12T08:07:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,13 +28,13 @@ Q群：993612413
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔺  (99)|
-| ELO Competitive | 1386 🔺  (166)|
-| Total Matches | 40 |
-| Wins | 27 |
+| ELO Regular | 1365 🔺  (88)|
+| ELO Competitive | 1391 🔺  (163)|
+| Total Matches | 41 |
+| Wins | 28 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 8 |
+| Streak | 9 |
 | Streak Record | 9 |
 | Flagship | 3 |
 
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741262148,1740894655,1740663860,1740401825,1740204100,1739876826,1739673073,1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1741334866,1741262148,1740894655,1740663860,1740401825,1740204100,1739876826,1739673073,1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 18-6 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2025/03/11 | 9-0 | [人人平等至上集团](https://ws.tsl.rocks/corp/f53ab6b6753f8863f21f2516c82b29bb8c994a766292a5162a18e30a2f577715/) |
 | ✅ | 2025/03/07 | 10-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/03/04 | 14-4 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
@@ -197,5 +198,5 @@ Corporation ID: 72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741694148"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741766866"></span>
 </div>

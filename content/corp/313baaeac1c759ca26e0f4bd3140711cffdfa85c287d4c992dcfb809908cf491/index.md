@@ -22,7 +22,7 @@ r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1401 🔻  (59)|
+| ELO Regular | 1401 🔻  (60)|
 | ELO Competitive | 1595 🔺  (29)|
 | Total Matches | 88 |
 | Wins | 48 |

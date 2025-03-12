@@ -1,6 +1,6 @@
 ---
 title: ​宇宙联盟（中国）
-description: W:31 L:42 D:6 Bonus ✅ 36%
+description: W:31 L:42 D:6 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **九州·华夏**
 date: 2025-03-05T09:21:14.000Z
@@ -17,12 +17,12 @@ date: 2025-03-05T09:21:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (250)|
-| ELO Competitive | 1328 🔺  (248)|
+| ELO Regular | 1258 🔺  (249)|
+| ELO Competitive | 1328 🔺  (247)|
 | Total Matches | 79 |
 | Wins | 31 |
 | Losses | 42 |
