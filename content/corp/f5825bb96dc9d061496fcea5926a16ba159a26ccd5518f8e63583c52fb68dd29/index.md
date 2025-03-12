@@ -1,9 +1,9 @@
 ---
 title: ​Red_Coat_Mafia
-description: W:27 L:34 D:1 Bonus ❌ 13%
+description: W:28 L:34 D:1 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ✅ 11 - 6 **RGW**
-date: 2025-03-04T18:04:48.000Z
+Summary: ✅ 14 - 3 **ItaFederalFleet**
+date: 2025-03-12T19:29:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ ccount inGame to be a member. InGame space is prioritized for running
 <br>
 
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (284)|
-| ELO Competitive | 1355 🔺  (212)|
-| Total Matches | 62 |
-| Wins | 27 |
+| ELO Regular | 1263 🔺  (239)|
+| ELO Competitive | 1367 🔺  (193)|
+| Total Matches | 63 |
+| Wins | 28 |
 | Losses | 34 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 7 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740679488,1740125068,1739986212,1739576626,1739124989,1737047582,1734736988,1733899567,1733279678,1733134845,1732482766,1731940073,1731530796,1730995287,1730668911,1729902376,1728931136,1728504032,1728098031,1727204922,1726206747,1726097678,1725422762,1724952184,1724453644,1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
+        let timestamps = [1741375743,1740679488,1740125068,1739986212,1739576626,1739124989,1737047582,1734736988,1733899567,1733279678,1733134845,1732482766,1731940073,1731530796,1730995287,1730668911,1729902376,1728931136,1728504032,1728098031,1727204922,1726206747,1726097678,1725422762,1724952184,1724453644,1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 14-3 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2025/03/04 | 11-6 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ✅ | 2025/02/26 | 12-2 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/02/24 | 19-18 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
@@ -215,5 +216,5 @@ Corporation ID: f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741111488"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741807743"></span>
 </div>

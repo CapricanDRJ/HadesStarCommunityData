@@ -1,6 +1,6 @@
 ---
 title: ​DarkSide
-description: W:49 L:69 D:2 Bonus ✅ 40%
+description: W:49 L:69 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 1 - 7 **Эдем**
 date: 2025-03-06T15:14:23.000Z
@@ -18,7 +18,7 @@ https://t.me/DS_DarkSide
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

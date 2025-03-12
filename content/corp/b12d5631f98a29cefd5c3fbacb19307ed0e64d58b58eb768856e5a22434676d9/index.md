@@ -1,9 +1,9 @@
 ---
 title: ​BlackDawn
-description: W:1 L:37 D:17 Bonus ❌ 5%
+description: W:1 L:38 D:17 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **V0RTEX**
-date: 2025-03-05T18:42:14.000Z
+Summary: ❌ 0 - 26 **РARADISЕ**
+date: 2025-03-12T21:19:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ KillFrist
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 967 🔺  (1438)|
-| ELO Competitive | 1004 🔺  (1451)|
-| Total Matches | 55 |
+| ELO Regular | 961 🔻  (1441)|
+| ELO Competitive | 998 🔻  (1451)|
+| Total Matches | 56 |
 | Wins | 1 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 17 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740768134,1740072892,1739478861,1738864551,1738271006,1737491138,1737044576,1736556803,1735888514,1735451573,1734863182,1734322329,1733875537,1733348489,1732855092,1732376486,1731811538,1730911546,1730411731,1729781785,1729317604,1728791063,1728322514,1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
+        let timestamps = [1741382356,1740768134,1740072892,1739478861,1738864551,1738271006,1737491138,1737044576,1736556803,1735888514,1735451573,1734863182,1734322329,1733875537,1733348489,1732855092,1732376486,1731811538,1730911546,1730411731,1729781785,1729317604,1728791063,1728322514,1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/12 | 0-26 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ↔️ | 2025/03/05 | 0-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ↔️ | 2025/02/25 | 0-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/02/18 | 0-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
@@ -207,5 +208,5 @@ Corporation ID: b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741200134"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741814356"></span>
 </div>

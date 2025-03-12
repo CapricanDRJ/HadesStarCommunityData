@@ -1,9 +1,9 @@
 ---
 title: ​ItaFederalFleet
-description: W:20 L:13 D:1 Bonus ❌ 7%
+description: W:20 L:14 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 7 - 17 **Ƭιтαηѕ Ф тєʀʀσƦ**
-date: 2025-02-23T22:48:25.000Z
+Summary: ❌ 3 - 14 **Red\_Coat\_Mafia**
+date: 2025-03-12T19:29:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔻  (256)|
-| ELO Competitive | 1298 🔻  (302)|
-| Total Matches | 34 |
+| ELO Regular | 1242 🔻  (300)|
+| ELO Competitive | 1285 🔻  (334)|
+| Total Matches | 35 |
 | Wins | 20 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739918905,1738678128,1736171525,1733337068,1732541956,1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
+        let timestamps = [1741375743,1739918905,1738678128,1736171525,1733337068,1732541956,1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/12 | 3-14 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ❌ | 2025/02/23 | 7-17 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2025/02/09 | 7-20 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2025/01/11 | 0-10 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
@@ -184,5 +185,5 @@ Corporation ID: 02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740350905"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741807743"></span>
 </div>

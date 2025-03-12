@@ -1,6 +1,6 @@
 ---
 title: ​italian warrior
-description: W:34 L:46 D:3 Bonus ✅ 44%
+description: W:34 L:46 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 16 - 35 **Слава Украине\!**
 date: 2025-03-12T07:51:49.000Z
@@ -22,7 +22,7 @@ Discord: https://discord.gg/A26JEJgPwh
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
