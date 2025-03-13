@@ -1,9 +1,9 @@
 ---
 title: ​ITALIA
-description: W:23 L:2 D:0 Bonus ✅ 34%
+description: W:24 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 31 - 0 **АНДРОМЕДА **
-date: 2025-03-09T23:47:31.000Z
+Summary: ✅ 19 - 0 **The Allegiant**
+date: 2025-03-12T22:24:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ ui giàce NONNA DI CAPPUCCETTO.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1417 🔺  (47)|
-| ELO Competitive | 1449 🔺  (110)|
-| Total Matches | 25 |
-| Wins | 23 |
+| ELO Regular | 1424 🔺  (42)|
+| ELO Competitive | 1450 🔺  (109)|
+| Total Matches | 26 |
+| Wins | 24 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 20 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741132051,1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1741386262,1741132051,1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/12 | 19-0 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2025/03/09 | 31-0 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/03/02 | 33-0 | [南天门](https://ws.tsl.rocks/corp/48cf51e563e11ea015bca0d09af215df1cb9c0e2cb380c8b2f1d19d306c6d6cc/) |
 | ✅ | 2025/02/24 | 27-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
@@ -174,5 +175,5 @@ Corporation ID: 50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741564051"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741818262"></span>
 </div>
