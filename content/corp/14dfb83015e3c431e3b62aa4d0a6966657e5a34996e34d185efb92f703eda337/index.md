@@ -1,9 +1,9 @@
 ---
 title: ​New YuGiOh
-description: W:11 L:1 D:1 Bonus ✅ 
+description: W:12 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 16 - 0 **百万繁星**
-date: 2025-03-06T14:04:14.000Z
+Summary: ✅ 17 - 2 **星际造梦**
+date: 2025-03-13T12:55:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-03-06T14:04:14.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (137)|
-| ELO Competitive | 1342 🔺  (226)|
-| Total Matches | 13 |
-| Wins | 11 |
+| ELO Regular | 1333 🔺  (123)|
+| ELO Competitive | 1352 🔺  (217)|
+| Total Matches | 14 |
+| Wins | 12 |
 | Losses | 1 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740837854,1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
+        let timestamps = [1741438548,1740837854,1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/13 | 17-2 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ✅ | 2025/03/06 | 16-0 | [百万繁星](https://ws.tsl.rocks/corp/4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8/) |
 | ✅ | 2025/02/27 | 15-0 | [RDR2](https://ws.tsl.rocks/corp/5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd/) |
 | ✅ | 2025/02/20 | 5-0 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
@@ -154,5 +155,5 @@ Corporation ID: 14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741269854"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741870548"></span>
 </div>

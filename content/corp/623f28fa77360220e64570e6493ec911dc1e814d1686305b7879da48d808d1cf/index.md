@@ -1,9 +1,9 @@
 ---
 title: ​BrazilCorp.
-description: W:55 L:12 D:0 Bonus ✅ 42%
+description: W:55 L:13 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 49 - 7 **Ещё один Миф**
-date: 2025-03-07T14:21:51.000Z
+Summary: ❌ 2 - 56 **Emergence**
+date: 2025-03-13T14:46:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,13 +25,12 @@ intensas nas Estrelas Brancas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1448 🔺  (32)|
-| ELO Competitive | 1540 🔺  (49)|
-| Total Matches | 67 |
+| ELO Regular | 1437 🔻  (34)|
+| ELO Competitive | 1529 🔻  (57)|
+| Total Matches | 68 |
 | Wins | 55 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 10 |
 | Flagship | 8 |
 
@@ -51,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740925311,1740838865,1740312279,1740230546,1739720572,1739709450,1738587075,1738079806,1737551531,1736668602,1735480940,1734695214,1734103886,1733052815,1732368866,1731736027,1731122996,1730114837,1729283049,1726915846,1726313423,1725723558,1725103339,1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
+        let timestamps = [1741445162,1740925311,1740838865,1740312279,1740230546,1739720572,1739709450,1738587075,1738079806,1737551531,1736668602,1735480940,1734695214,1734103886,1733052815,1732368866,1731736027,1731122996,1730114837,1729283049,1726915846,1726313423,1725723558,1725103339,1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 2 | 0 | 2 |
 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) | 1 | 2 | 0 | 3 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) | 2 | 0 | 0 | 2 |
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/13 | 2-56 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ✅ | 2025/03/07 | 49-7 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ✅ | 2025/03/06 | 38-2 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |
 | ✅ | 2025/02/28 | 38-10 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
@@ -226,5 +227,5 @@ Corporation ID: 623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741357311"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741877162"></span>
 </div>

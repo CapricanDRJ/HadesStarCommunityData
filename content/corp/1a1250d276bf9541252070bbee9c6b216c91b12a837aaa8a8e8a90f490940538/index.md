@@ -1,9 +1,9 @@
 ---
 title: ​Emergence
-description: W:47 L:3 D:0 Bonus ❌ 9%
+description: W:48 L:3 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 38 - 7 **украина№1**
-date: 2025-03-02T11:54:20.000Z
+Summary: ✅ 56 - 2 **BrazilCorp\.**
+date: 2025-03-13T14:46:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
 <br>
 
 ### [Discord](https://discord.gg/JygbSj6XMP)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1546 🔺  (7)|
-| ELO Competitive | 1623 🔺  (23)|
-| Total Matches | 50 |
-| Wins | 47 |
+| ELO Regular | 1557 🔺  (5)|
+| ELO Competitive | 1635 🔺  (21)|
+| Total Matches | 51 |
+| Wins | 48 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 20 |
-| Streak Record | 20 |
+| Streak | 21 |
+| Streak Record | 21 |
 | Flagship | 8 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740484460,1739790583,1739185385,1738499621,1736686638,1736081958,1734282379,1733667607,1733061531,1731859241,1731247125,1730637399,1730034904,1729430902,1728906183,1728141306,1727534562,1726915846,1726314024,1725708227,1725189885,1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
+        let timestamps = [1741445162,1740484460,1739790583,1739185385,1738499621,1736686638,1736081958,1734282379,1733667607,1733061531,1731859241,1731247125,1730637399,1730034904,1729430902,1728906183,1728141306,1727534562,1726915846,1726314024,1725708227,1725189885,1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 2 | 0 | 0 | 2 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 2 | 0 | 0 | 2 |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 3 | 0 | 0 | 3 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 3 | 0 | 0 | 3 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/13 | 56-2 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ✅ | 2025/03/02 | 38-7 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2025/02/22 | 32-13 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ✅ | 2025/02/15 | 45-16 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
@@ -206,5 +208,5 @@ Corporation ID: 1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740916460"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741877162"></span>
 </div>
