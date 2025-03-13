@@ -1,9 +1,9 @@
 ---
 title: ​Space Scourge
-description: W:2 L:6 D:0 Bonus ❌ 4%
+description: W:2 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **Kratos**
-date: 2024-01-13T12:04:55.000Z
+Summary: ❌ 0 - 9 **Quantum Pioneer**
+date: 2025-03-13T09:55:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Everyone is welcome to our corporation. Be active and enjoy.😀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1191)|
-| ELO Competitive | 1149 🔻  (1308)|
-| Total Matches | 8 |
+| ELO Regular | 1134 🔻  (1250)|
+| ELO Competitive | 1137 🔻  (1350)|
+| Total Matches | 9 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704715495,1704018217,1702892939,1702401557,1701864173,1701029274,1700424867,1699964420];
+        let timestamps = [1741427730,1704715495,1704018217,1702892939,1702401557,1701864173,1701029274,1700424867,1699964420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/13 | 0-9 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ❌ | 2024/01/13 | 0-5 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2024/01/05 | 1-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ❌ | 2023/12/23 | 1-4 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
@@ -154,5 +155,5 @@ Corporation ID: 04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1705147495"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741859730"></span>
 </div>

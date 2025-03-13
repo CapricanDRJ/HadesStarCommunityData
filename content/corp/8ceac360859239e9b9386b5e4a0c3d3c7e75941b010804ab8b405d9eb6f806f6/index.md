@@ -1,6 +1,6 @@
 ---
 title: ​Fleet Corp Ares
-description: W:22 L:15 D:0 Bonus ✅ 38%
+description: W:22 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 37 - 12 **Lacuna Ind\.**
 date: 2025-03-06T11:59:00.000Z
@@ -15,7 +15,7 @@ We don't care. You should try it.
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
