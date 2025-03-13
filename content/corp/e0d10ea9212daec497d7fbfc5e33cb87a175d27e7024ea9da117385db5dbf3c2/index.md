@@ -1,9 +1,9 @@
 ---
 title: ​OKC THUNDER 
-description: W:2 L:5 D:0 Bonus ❌ 9%
+description: W:2 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 2 - 31 **OntarioDawn**
-date: 2024-08-12T14:58:51.000Z
+Summary: ❌ 3 - 17 **Sprite**
+date: 2025-03-13T18:26:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ome also:)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (682)|
-| ELO Competitive | 1196 🔻  (739)|
-| Total Matches | 7 |
+| ELO Regular | 1179 🔻  (901)|
+| ELO Competitive | 1189 🔻  (822)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 7 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
+        let timestamps = [1741458387,1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/13 | 3-17 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2024/08/12 | 2-31 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2024/08/07 | 9-37 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/08/01 | 4-33 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
@@ -152,5 +153,5 @@ Corporation ID: e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1723474731"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741890387"></span>
 </div>

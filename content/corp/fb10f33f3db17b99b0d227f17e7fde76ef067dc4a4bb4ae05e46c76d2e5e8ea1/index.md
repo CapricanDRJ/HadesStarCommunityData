@@ -1,6 +1,6 @@
 ---
 title: ​Lacuna X
-description: W:59 L:8 D:1 Bonus ✅ 40%
+description: W:59 L:8 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 19 - 6 **Soul System**
 date: 2025-03-06T18:04:44.000Z
@@ -24,7 +24,7 @@ White Star focused.
 <br>
 
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
