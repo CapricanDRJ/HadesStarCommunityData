@@ -1,9 +1,9 @@
 ---
 title: ​ALPHA
-description: W:32 L:10 D:0 Bonus ❌ 8%
+description: W:32 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 9 **Kratos**
-date: 2025-03-08T04:23:21.000Z
+Summary: ❌ 2 - 16 **Bacon Warriors**
+date: 2025-03-13T04:29:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Crecer principal objetivo        Leko:Join us we need active member
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1386 🔻  (72)|
-| ELO Competitive | 1442 🔻  (121)|
-| Total Matches | 42 |
+| ELO Regular | 1366 🔻  (87)|
+| ELO Competitive | 1423 🔻  (129)|
+| Total Matches | 43 |
 | Wins | 32 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 13 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740975801,1740543068,1740105239,1739667381,1739234371,1738792025,1738349649,1737898906,1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1741408196,1740975801,1740543068,1740105239,1739667381,1739234371,1738792025,1738349649,1737898906,1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/13 | 2-16 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2025/03/08 | 3-9 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2025/03/03 | 0-9 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2025/02/26 | 14-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
@@ -189,5 +190,5 @@ Corporation ID: e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741407801"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741840196"></span>
 </div>

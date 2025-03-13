@@ -19,8 +19,8 @@ Silence is a virtue.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (702)|
-| ELO Competitive | 1187 🔻  (872)|
+| ELO Regular | 1187 🔻  (703)|
+| ELO Competitive | 1187 🔻  (873)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

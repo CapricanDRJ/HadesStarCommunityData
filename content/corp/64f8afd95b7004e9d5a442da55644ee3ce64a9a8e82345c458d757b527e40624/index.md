@@ -1,6 +1,6 @@
 ---
 title: ​佛矿寺
-description: W:16 L:64 D:1 Bonus ✅ 34%
+description: W:16 L:64 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **The Syndicate **
 date: 2025-03-11T11:50:47.000Z
@@ -21,7 +21,7 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:34 L:10 D:0 Bonus ✅ 36%
+description: W:34 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 24 - 0 **Stone Legion**
 date: 2025-03-06T05:53:19.000Z
@@ -17,11 +17,11 @@ date: 2025-03-06T05:53:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (55)|
+| ELO Regular | 1405 🔺  (56)|
 | ELO Competitive | 1460 🔺  (96)|
 | Total Matches | 44 |
 | Wins | 34 |
