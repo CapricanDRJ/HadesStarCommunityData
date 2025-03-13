@@ -23,7 +23,7 @@ po no chat da corporação :D
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1438 🔺  (33)|
-| ELO Competitive | 1532 🔺  (52)|
+| ELO Competitive | 1532 🔺  (53)|
 | Total Matches | 68 |
 | Wins | 47 |
 | Losses | 18 |
