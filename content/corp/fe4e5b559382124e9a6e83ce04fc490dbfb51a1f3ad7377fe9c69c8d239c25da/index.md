@@ -1,6 +1,6 @@
 ---
 title: ​Quantum Pioneer
-description: W:5 L:4 D:0 Bonus ✅ 
+description: W:5 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 8 - 2 **✨ℛedstar Order«**
 date: 2025-03-06T03:38:05.000Z
@@ -15,7 +15,7 @@ date: 2025-03-06T03:38:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

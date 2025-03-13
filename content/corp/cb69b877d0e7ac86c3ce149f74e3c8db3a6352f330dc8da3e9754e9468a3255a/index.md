@@ -1,6 +1,6 @@
 ---
 title: ​⭐PRETORIANS.X⭐
-description: W:18 L:35 D:4 Bonus ✅ 34%
+description: W:18 L:35 D:4 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **万星联盟**
 date: 2025-03-11T14:51:06.000Z
@@ -17,12 +17,12 @@ sporg). 3lt bpdp)(demin).(flech).
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1105 🔻  (1337)|
-| ELO Competitive | 1296 🔻  (305)|
+| ELO Competitive | 1296 🔻  (306)|
 | Total Matches | 57 |
 | Wins | 18 |
 | Losses | 35 |

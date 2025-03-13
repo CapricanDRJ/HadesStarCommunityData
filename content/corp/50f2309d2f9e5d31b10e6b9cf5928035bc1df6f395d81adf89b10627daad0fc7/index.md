@@ -1,9 +1,9 @@
 ---
 title: ​Legión
-description: W:9 L:9 D:0 Bonus ❌ 7%
+description: W:10 L:9 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 23 - 17 **Orden Estelar **
-date: 2025-02-28T11:04:32.000Z
+Summary: ✅ 24 - 2 **TeddisaurusWrex**
+date: 2025-03-13T03:24:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 <br>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (306)|
-| ELO Competitive | 1288 🔺  (327)|
-| Total Matches | 18 |
-| Wins | 9 |
+| ELO Regular | 1258 🔺  (254)|
+| ELO Competitive | 1308 🔺  (283)|
+| Total Matches | 19 |
+| Wins | 10 |
 | Losses | 9 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 5 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740308672,1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1741404290,1740308672,1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/13 | 24-2 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ✅ | 2025/02/28 | 23-17 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2025/02/21 | 3-28 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ✅ | 2025/02/20 | 13-7 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
@@ -161,5 +163,5 @@ Corporation ID: 50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740740672"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741836290"></span>
 </div>

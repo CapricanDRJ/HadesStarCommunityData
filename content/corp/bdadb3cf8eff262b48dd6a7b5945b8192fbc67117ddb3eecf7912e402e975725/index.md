@@ -1,6 +1,6 @@
 ---
 title: ​Eretria 
-description: W:35 L:41 D:1 Bonus ✅ 36%
+description: W:35 L:41 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 32 **DarkMoon**
 date: 2025-03-12T13:58:23.000Z
@@ -18,7 +18,7 @@ uld be an Honor that you would join us! >=)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

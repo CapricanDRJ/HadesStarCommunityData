@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:38 L:12 D:2 Bonus ✅ 36%
+description: W:38 L:12 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 30 - 11 **The Allegiant**
 date: 2025-03-06T03:43:06.000Z
@@ -18,7 +18,7 @@ date: 2025-03-06T03:43:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
