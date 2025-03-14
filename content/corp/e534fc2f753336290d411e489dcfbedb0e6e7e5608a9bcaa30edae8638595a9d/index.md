@@ -1,9 +1,9 @@
 ---
 title: ​阿尔特拉太空港
-description: W:23 L:19 D:2 Bonus ❌ 7%
+description: W:24 L:19 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 0 - 11 **对，进就进人少的**
-date: 2025-03-11T13:15:56.000Z
+Summary: ✅ 2 - 1 **Crastorios**
+date: 2025-03-14T09:41:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (473)|
-| ELO Competitive | 1294 🔻  (312)|
-| Total Matches | 44 |
-| Wins | 23 |
+| ELO Regular | 1225 🔺  (363)|
+| ELO Competitive | 1312 🔺  (280)|
+| Total Matches | 45 |
+| Wins | 24 |
 | Losses | 19 |
 | Draws | 2 |
 | Streak Record | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741266956,1740689707,1740055339,1738576557,1738511347,1737556941,1737550028,1736832401,1735654016,1735411530,1735213511,1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1741513306,1741266956,1740689707,1740055339,1738576557,1738511347,1737556941,1737550028,1736832401,1735654016,1735411530,1735213511,1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/14 | 2-1 | [Crastorios](https://ws.tsl.rocks/corp/cf8e92451d31be30383d7359e1e2095ccb8e0c4afe78451b4fd39cb4dab1f3e0/) |
 | ❌ | 2025/03/11 | 0-11 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/03/04 | 4-13 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ↔️ | 2025/02/25 | 4-4 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) |
@@ -199,5 +200,5 @@ Corporation ID: e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741698956"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741945306"></span>
 </div>

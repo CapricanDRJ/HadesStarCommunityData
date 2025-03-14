@@ -1,9 +1,9 @@
 ---
 title: ​Lacuna Ind.
-description: W:10 L:34 D:2 Bonus ❌ 13%
+description: W:11 L:34 D:2 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ❌ 12 - 37 **Fleet Corp Ares**
-date: 2025-03-06T11:59:00.000Z
+Summary: ✅ 43 - 0 **云浪山庄↕**
+date: 2025-03-14T07:52:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ RS 7+ see Lacuna Holdings
 <br>
 
 ### [Discord](https://discord.gg/discord.gg/BFfSkvu)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1072 🔻  (1382)|
-| ELO Competitive | 1129 🔻  (1371)|
-| Total Matches | 46 |
-| Wins | 10 |
+| ELO Regular | 1080 🔺  (1373)|
+| ELO Competitive | 1145 🔺  (1324)|
+| Total Matches | 47 |
+| Wins | 11 |
 | Losses | 34 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740830340,1740291245,1739654160,1739096130,1737903716,1737199340,1736662893,1735985160,1735468618,1734410377,1733594585,1730544844,1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
+        let timestamps = [1741506764,1740830340,1740291245,1739654160,1739096130,1737903716,1737199340,1736662893,1735985160,1735468618,1734410377,1733594585,1730544844,1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/14 | 43-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2025/03/06 | 12-37 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ❌ | 2025/02/28 | 0-16 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2025/02/20 | 8-61 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
@@ -201,5 +202,5 @@ Corporation ID: 09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741262340"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741938764"></span>
 </div>
