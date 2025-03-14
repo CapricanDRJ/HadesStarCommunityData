@@ -1,9 +1,9 @@
 ---
 title: ​Gummibärenbande
-description: W:6 L:33 D:0 Bonus ❌ 13%
+description: W:6 L:34 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 10 - 38 **BrazilCorp\.**
-date: 2025-02-28T12:04:39.000Z
+Summary: ❌ 16 - 20 **Sith Empire**
+date: 2025-03-14T15:48:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,11 +28,11 @@ Mitglied der Tartaros Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1070 🔻  (1386)|
-| ELO Competitive | 1142 🔻  (1341)|
-| Total Matches | 39 |
+| ELO Regular | 1064 🔻  (1392)|
+| ELO Competitive | 1138 🔻  (1350)|
+| Total Matches | 40 |
 | Wins | 6 |
-| Losses | 33 |
+| Losses | 34 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 12 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740312279,1740302663,1739727786,1739696527,1739132805,1737872457,1736709788,1733749035,1733133343,1732447899,1731839102,1730717329,1730055645,1729412869,1728229959,1727078412,1726408100,1725794776,1724423888,1722802027,1721661863,1720982090,1719768233,1718541551,1717842381,1715594612,1714903573,1714311849,1713699529,1712477217,1711921941,1711290934,1710088453,1708860093,1707728719,1707092861,1706477713,1703915825,1700210567];
+        let timestamps = [1741535315,1740312279,1740302663,1739727786,1739696527,1739132805,1737872457,1736709788,1733749035,1733133343,1732447899,1731839102,1730717329,1730055645,1729412869,1728229959,1727078412,1726408100,1725794776,1724423888,1722802027,1721661863,1720982090,1719768233,1718541551,1717842381,1715594612,1714903573,1714311849,1713699529,1712477217,1711921941,1711290934,1710088453,1708860093,1707728719,1707092861,1706477713,1703915825,1700210567];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 0 | 2 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 2 | 0 | 2 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 2 | 0 | 2 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 4 | 0 | 4 |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 16-20 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ❌ | 2025/02/28 | 10-38 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/02/28 | 10-45 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2025/02/21 | 35-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
@@ -197,5 +199,5 @@ Corporation ID: 7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740744279"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741967315"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Vega Conflict
-description: W:14 L:12 D:0 Bonus ✅ 34%
+description: W:14 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 33 - 5 **INFINITY STAR**
 date: 2025-03-07T16:12:06.000Z
@@ -16,7 +16,7 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
