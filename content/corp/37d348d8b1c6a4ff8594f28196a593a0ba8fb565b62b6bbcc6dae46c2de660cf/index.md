@@ -1,9 +1,9 @@
 ---
 title: ​物竞天择，适者生存
-description: W:9 L:14 D:1 Bonus ❌ 6%
+description: W:9 L:15 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 2 - 0 **以太超星团**
-date: 2025-03-05T08:11:07.000Z
+Summary: ❌ 0 - 2 **Air/Free\_ziyou**
+date: 2025-03-14T01:22:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ olor=orange>南极星联盟成员</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔺  (1191)|
-| ELO Competitive | 1210 🔺  (636)|
-| Total Matches | 24 |
+| ELO Regular | 1135 🔻  (1245)|
+| ELO Competitive | 1198 🔻  (722)|
+| Total Matches | 25 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740730267,1739806812,1739797495,1739362974,1739360871,1738926342,1738900502,1737812961,1737179546,1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
+        let timestamps = [1741483327,1740730267,1739806812,1739797495,1739362974,1739360871,1738926342,1738900502,1737812961,1737179546,1736513819,1735369157,1733834367,1732889755,1731941877,1731505850,1731052425,1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 0-2 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
 | ✅ | 2025/03/05 | 2-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2025/02/22 | 0-15 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2025/02/22 | 1-7 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
@@ -171,5 +172,5 @@ Corporation ID: 37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741162267"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741915327"></span>
 </div>
