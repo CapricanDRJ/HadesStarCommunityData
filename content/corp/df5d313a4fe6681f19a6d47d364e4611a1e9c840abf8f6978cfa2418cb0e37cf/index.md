@@ -1,9 +1,9 @@
 ---
 title: ​From the Fire
-description: W:2 L:6 D:0 Bonus ❌ 6%
+description: W:2 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 13 **Germania**
-date: 2025-01-30T12:23:53.000Z
+Summary: ❌ 0 - 10 **Gold Star**
+date: 2025-03-14T18:53:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ ew member is joined.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1207)|
-| ELO Competitive | 1155 🔻  (1286)|
-| Total Matches | 8 |
+| ELO Regular | 1126 🔻  (1284)|
+| ELO Competitive | 1138 🔻  (1350)|
+| Total Matches | 9 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737807833,1735275227,1705273257,1704049262,1702840350,1702215515,1701618631,1701019352];
+        let timestamps = [1741546437,1737807833,1735275227,1705273257,1704049262,1702840350,1702215515,1701618631,1701019352];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 0-10 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ❌ | 2025/01/30 | 3-13 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2025/01/01 | 0-5 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/01/19 | 0-22 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
@@ -149,5 +150,5 @@ Corporation ID: df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738239833"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741978437"></span>
 </div>

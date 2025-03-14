@@ -1,9 +1,9 @@
 ---
 title: ​lonewolf
-description: W:34 L:11 D:1 Bonus ❌ 9%
+description: W:35 L:11 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 27 - 0 **SILVER TERRA**
-date: 2025-03-07T08:41:13.000Z
+Summary: ✅ 27 - 0 **CTG**
+date: 2025-03-14T20:04:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ nks
 <br>
 
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1479 🔺  (16)|
-| ELO Competitive | 1555 🔺  (41)|
-| Total Matches | 46 |
-| Wins | 34 |
+| ELO Regular | 1486 🔺  (14)|
+| ELO Competitive | 1565 🔺  (38)|
+| Total Matches | 47 |
+| Wins | 35 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 25 |
-| Streak Record | 25 |
+| Streak | 26 |
+| Streak Record | 26 |
 | Flagship | 7 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740904873,1739399341,1738617433,1737916640,1737214070,1736509911,1735873360,1734537475,1733867726,1733215674,1732477657,1731765779,1731008557,1730317975,1729642155,1729020391,1728321012,1727721780,1727196807,1726634778,1726042082,1725385805,1724741230,1723962600,1723233553,1722404748,1721574411,1720841726,1719736374,1718492570,1717841780,1717278480,1716305777,1715670927,1714924606,1714282403,1713595572,1712988323,1712416222,1711251867,1710655734,1709991995,1709373620,1708763035,1708076101,1707547971];
+        let timestamps = [1741550645,1740904873,1739399341,1738617433,1737916640,1737214070,1736509911,1735873360,1734537475,1733867726,1733215674,1732477657,1731765779,1731008557,1730317975,1729642155,1729020391,1728321012,1727721780,1727196807,1726634778,1726042082,1725385805,1724741230,1723962600,1723233553,1722404748,1721574411,1720841726,1719736374,1718492570,1717841780,1717278480,1716305777,1715670927,1714924606,1714282403,1713595572,1712988323,1712416222,1711251867,1710655734,1709991995,1709373620,1708763035,1708076101,1707547971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/14 | 27-0 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2025/03/07 | 27-0 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2025/02/17 | 37-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2025/02/08 | 28-8 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
@@ -197,5 +198,5 @@ Corporation ID: 216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741336873"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741982645"></span>
 </div>

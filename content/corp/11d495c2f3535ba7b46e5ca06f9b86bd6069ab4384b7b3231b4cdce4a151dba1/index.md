@@ -1,9 +1,9 @@
 ---
 title: ​碧海听潮阁
-description: W:14 L:12 D:5 Bonus ✅ 
+description: W:14 L:13 D:5 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 6 **V0RTEX**
-date: 2025-03-14T17:28:47.000Z
+Summary: ❌ 0 - 13 **\*Alfa y Omega\***
+date: 2025-03-14T20:04:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-14T17:28:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (620)|
-| ELO Competitive | 1319 🔻  (271)|
-| Total Matches | 31 |
+| ELO Regular | 1181 🔻  (891)|
+| ELO Competitive | 1326 🔻  (252)|
+| Total Matches | 32 |
 | Wins | 14 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 5 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 0-13 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ❌ | 2025/03/14 | 0-6 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/03/09 | 0-15 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ✅ | 2025/03/09 | 6-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
@@ -178,5 +179,5 @@ Corporation ID: 11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741973327"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741982645"></span>
 </div>
