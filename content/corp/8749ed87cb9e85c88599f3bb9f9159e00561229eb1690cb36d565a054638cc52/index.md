@@ -1,9 +1,9 @@
 ---
 title: ​Seila
-description: W:4 L:6 D:1 Bonus ❌ 6%
+description: W:4 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 14 **九州分团**
-date: 2024-07-26T06:45:55.000Z
+Summary: ❌ 4 - 18 **Created**
+date: 2025-03-14T05:52:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ tbkMiJhAQpMNoJET
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (969)|
-| ELO Competitive | 1180 🔻  (1066)|
-| Total Matches | 11 |
+| ELO Regular | 1157 🔻  (1121)|
+| ELO Competitive | 1168 🔻  (1180)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721544355,1713639744,1710429776,1708183680,1706714215,1702889033,1701979284,1701138068,1700644397,1700017259,1699197371];
+        let timestamps = [1741499551,1721544355,1713639744,1710429776,1708183680,1706714215,1702889033,1701979284,1701138068,1700644397,1700017259,1699197371];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 4-18 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2024/07/26 | 3-14 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/04/25 | 6-33 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ✅ | 2024/03/19 | 9-3 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
@@ -152,5 +158,5 @@ Corporation ID: 8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1721976355"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741931551"></span>
 </div>

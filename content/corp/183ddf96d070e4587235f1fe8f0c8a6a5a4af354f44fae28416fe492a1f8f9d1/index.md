@@ -1,6 +1,6 @@
 ---
 title: ​Alpaca Nation
-description: W:12 L:2 D:0 Bonus ✅ 
+description: W:12 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 2 - 13 **Terran empire **
 date: 2025-03-12T17:58:52.000Z
@@ -15,7 +15,7 @@ date: 2025-03-12T17:58:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
