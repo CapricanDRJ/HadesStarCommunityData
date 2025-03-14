@@ -1,6 +1,6 @@
 ---
 title: ​FURIA 2.0
-description: W:17 L:28 D:0 Bonus ✅ 36%
+description: W:17 L:28 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 5 - 13 **Бороская Имерия**
 date: 2025-03-12T17:03:46.000Z
@@ -16,11 +16,11 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1156)|
+| ELO Regular | 1152 🔻  (1157)|
 | ELO Competitive | 1283 🔻  (341)|
 | Total Matches | 45 |
 | Wins | 17 |

@@ -1,9 +1,9 @@
 ---
 title: ​한국우주연합
-description: W:8 L:15 D:0 Bonus ❌ 6%
+description: W:9 L:15 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 8 - 2 **The Foundation**
-date: 2025-02-25T04:11:25.000Z
+Summary: ✅ 10 - 6 **Lupus Regnum**
+date: 2025-03-14T12:28:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ kor.cop 많이 들어와주세요
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔺  (1292)|
-| ELO Competitive | 1143 🔺  (1334)|
-| Total Matches | 23 |
-| Wins | 8 |
+| ELO Regular | 1147 🔺  (1182)|
+| ELO Competitive | 1167 🔺  (1193)|
+| Total Matches | 24 |
+| Wins | 9 |
 | Losses | 15 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740024685,1738889686,1732841274,1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
+        let timestamps = [1741523292,1740024685,1738889686,1732841274,1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/14 | 10-6 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/02/25 | 8-2 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ❌ | 2025/02/12 | 15-17 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2024/12/04 | 0-14 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
@@ -163,5 +165,5 @@ Corporation ID: c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740456685"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741955292"></span>
 </div>

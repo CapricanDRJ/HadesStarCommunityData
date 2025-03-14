@@ -1,9 +1,9 @@
 ---
 title: ​无人之境
-description: W:1 L:18 D:0 Bonus ❌ 5%
+description: W:1 L:19 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 3 - 61 **OntarioDawn**
-date: 2025-03-08T16:24:28.000Z
+Summary: ❌ 3 - 25 **Stellar Exports**
+date: 2025-03-14T09:57:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ You are lucky to meet me in White Star! Congratulations!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1041 🔻  (1410)|
-| ELO Competitive | 1087 🔻  (1418)|
-| Total Matches | 19 |
+| ELO Regular | 1035 🔻  (1412)|
+| ELO Competitive | 1085 🔻  (1420)|
+| Total Matches | 20 |
 | Wins | 1 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
+        let timestamps = [1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 3-25 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/03/08 | 3-61 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2025/03/03 | 3-44 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/02/26 | 1-29 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
@@ -163,5 +164,5 @@ Corporation ID: 8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741451068"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741946277"></span>
 </div>

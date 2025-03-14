@@ -20,7 +20,7 @@ dead corp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (1117)|
-| ELO Competitive | 1158 🔻  (1257)|
+| ELO Competitive | 1158 🔻  (1258)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

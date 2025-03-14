@@ -1,9 +1,9 @@
 ---
 title: ​青丘湖
-description: W:9 L:6 D:0 Bonus ❌ 6%
+description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 15 - 31 **AlSounT**
-date: 2025-03-09T04:25:36.000Z
+Summary: ❌ 4 - 34 **Hinterm Mars**
+date: 2025-03-14T11:13:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 2025-03-09T04:25:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (289)|
-| ELO Competitive | 1275 🔻  (370)|
-| Total Matches | 15 |
+| ELO Regular | 1235 🔻  (328)|
+| ELO Competitive | 1270 🔻  (376)|
+| Total Matches | 16 |
 | Wins | 9 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
+        let timestamps = [1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 4-34 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2025/03/09 | 15-31 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2025/03/02 | 19-2 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2025/02/25 | 0-21 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
@@ -165,5 +166,5 @@ Corporation ID: c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741494336"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741950784"></span>
 </div>

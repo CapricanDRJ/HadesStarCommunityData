@@ -1,9 +1,9 @@
 ---
 title: ​ITA
-description: W:14 L:19 D:0 Bonus ❌ 13%
+description: W:14 L:20 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 7 - 30 **Lost Legion**
-date: 2025-03-09T01:15:20.000Z
+Summary: ❌ 0 - 45 **Stellar Exports**
+date: 2025-03-14T11:48:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Benvenuti in ITA! Main coorp RS7+
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1202)|
-| ELO Competitive | 1264 🔻  (397)|
-| Total Matches | 33 |
+| ELO Regular | 1134 🔻  (1249)|
+| ELO Competitive | 1259 🔻  (414)|
+| Total Matches | 34 |
 | Wins | 14 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741050920,1708940322,1708331826,1707725714,1707140035,1707131019,1706515572,1706514069,1706015216,1705999590,1705503438,1705308409,1705006698,1704704978,1704494920,1704109357,1703984049,1703543485,1703501407,1703111031,1702724036,1702657619,1702286144,1702206197,1701769198,1701670924,1701292850,1701165713,1700659882,1700210567,1699692335,1699258364,1698819027];
+        let timestamps = [1741520888,1741050920,1708940322,1708331826,1707725714,1707140035,1707131019,1706515572,1706514069,1706015216,1705999590,1705503438,1705308409,1705006698,1704704978,1704494920,1704109357,1703984049,1703543485,1703501407,1703111031,1702724036,1702657619,1702286144,1702206197,1701769198,1701670924,1701292850,1701165713,1700659882,1700210567,1699692335,1699258364,1698819027];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 0-45 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/03/09 | 7-30 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2024/03/02 | 0-38 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ❌ | 2024/02/24 | 8-25 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) |
@@ -184,5 +185,5 @@ Corporation ID: 4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741482920"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741952888"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​INFINITY STAR
-description: W:17 L:21 D:1 Bonus ❌ 9%
+description: W:17 L:22 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 5 - 33 **Vega Conflict**
-date: 2025-03-07T16:12:06.000Z
+Summary: ❌ 8 - 23 **Duchy Arrakis**
+date: 2025-03-14T10:53:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Lost in Space...? Dann komm zu uns!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (610)|
-| ELO Competitive | 1276 🔻  (365)|
-| Total Matches | 39 |
+| ELO Regular | 1186 🔻  (710)|
+| ELO Competitive | 1271 🔻  (374)|
+| Total Matches | 40 |
 | Wins | 17 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740931926,1740310776,1739709450,1739101841,1738548615,1737903716,1737296111,1736690847,1734876105,1734251422,1733660392,1733121026,1732452106,1731853830,1731250132,1730638000,1730033701,1729433306,1728991231,1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
+        let timestamps = [1741517582,1740931926,1740310776,1739709450,1739101841,1738548615,1737903716,1737296111,1736690847,1734876105,1734251422,1733660392,1733121026,1732452106,1731853830,1731250132,1730638000,1730033701,1729433306,1728991231,1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 8-23 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2025/03/07 | 5-33 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ✅ | 2025/02/28 | 25-1 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2025/02/21 | 28-12 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
@@ -188,5 +189,5 @@ Corporation ID: e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741363926"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741949582"></span>
 </div>

@@ -24,7 +24,7 @@ White star every 2 weeks
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (1134)|
-| ELO Competitive | 1156 🔻  (1279)|
+| ELO Competitive | 1156 🔻  (1280)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |
