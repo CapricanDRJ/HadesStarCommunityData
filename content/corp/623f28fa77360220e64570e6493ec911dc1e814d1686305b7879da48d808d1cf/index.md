@@ -1,6 +1,6 @@
 ---
 title: ​BrazilCorp.
-description: W:55 L:13 D:0 Bonus ✅ 42%
+description: W:55 L:13 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 2 - 56 **Emergence**
 date: 2025-03-13T14:46:02.000Z
@@ -21,7 +21,7 @@ intensas nas Estrelas Brancas.
 <br>
 
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

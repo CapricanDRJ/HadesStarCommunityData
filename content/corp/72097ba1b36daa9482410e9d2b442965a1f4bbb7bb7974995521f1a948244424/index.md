@@ -1,9 +1,9 @@
 ---
 title: ​八月政府
-description: W:7 L:30 D:1 Bonus ❌ 6%
+description: W:7 L:31 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 12 - 14 **Серебряная орда**
-date: 2025-02-24T10:24:24.000Z
+Summary: ❌ 9 - 34 **AlSounT**
+date: 2025-03-14T14:08:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-02-24T10:24:24.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1379)|
-| ELO Competitive | 1139 🔻  (1349)|
-| Total Matches | 38 |
+| ELO Regular | 1070 🔻  (1385)|
+| ELO Competitive | 1134 🔻  (1365)|
+| Total Matches | 39 |
 | Wins | 7 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739960664,1739004176,1737634765,1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1741529304,1739960664,1739004176,1737634765,1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/14 | 9-34 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2025/02/24 | 12-14 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2025/02/13 | 19-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/01/28 | 14-2 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
@@ -184,5 +185,5 @@ Corporation ID: 72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740392664"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741961304"></span>
 </div>

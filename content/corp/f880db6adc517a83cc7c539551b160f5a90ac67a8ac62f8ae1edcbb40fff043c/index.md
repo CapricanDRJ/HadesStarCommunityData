@@ -1,9 +1,9 @@
 ---
 title: ​莫比乌斯-星环
-description: W:0 L:7 D:0 Bonus ❌ 
+description: W:1 L:7 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 2 - 15 **FoxTale**
-date: 2025-02-27T09:03:31.000Z
+Summary: ✅ 19 - 16 **alienigenas**
+date: 2025-03-14T14:38:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-02-27T09:03:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1324)|
-| ELO Competitive | 1128 🔻  (1372)|
-| Total Matches | 7 |
-| Wins | 0 |
+| ELO Regular | 1134 🔺  (1251)|
+| ELO Competitive | 1151 🔺  (1304)|
+| Total Matches | 8 |
+| Wins | 1 |
 | Losses | 7 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/14 | 19-16 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ❌ | 2025/02/27 | 2-15 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ❌ | 2025/02/21 | 0-32 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ❌ | 2025/02/15 | 0-7 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -146,5 +147,5 @@ Corporation ID: f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740647011"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741963107"></span>
 </div>

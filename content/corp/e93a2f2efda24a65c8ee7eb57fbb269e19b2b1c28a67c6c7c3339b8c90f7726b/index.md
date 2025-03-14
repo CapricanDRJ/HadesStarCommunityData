@@ -21,7 +21,7 @@ Alpacas unite! Have fun and prosper. We do relaxed WS.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1078 🔻  (1377)|
-| ELO Competitive | 1129 🔻  (1371)|
+| ELO Competitive | 1129 🔻  (1372)|
 | Total Matches | 46 |
 | Wins | 18 |
 | Losses | 27 |

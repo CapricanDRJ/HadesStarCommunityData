@@ -19,8 +19,8 @@ Laid back corp for people with day jobs. Resistence is futile.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1259)|
-| ELO Competitive | 1133 🔻  (1365)|
+| ELO Regular | 1132 🔻  (1260)|
+| ELO Competitive | 1133 🔻  (1366)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |
