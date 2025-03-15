@@ -1,9 +1,9 @@
 ---
 title: ​Terranova
-description: W:12 L:55 D:0 Bonus ✅ 48%
+description: W:13 L:55 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 37 - 8 **=AMG=**
-date: 2025-03-08T18:14:39.000Z
+Summary: ✅ 39 - 36 ** RELAX CZ/SK**
+date: 2025-03-15T00:29:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,13 @@ date: 2025-03-08T18:14:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔺  (1388)|
-| ELO Competitive | 1209 🔺  (639)|
-| Total Matches | 67 |
-| Wins | 12 |
+| ELO Regular | 1088 🔺  (1365)|
+| ELO Competitive | 1236 🔺  (482)|
+| Total Matches | 68 |
+| Wins | 13 |
 | Losses | 55 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 14 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741025679,1741007647,1740391908,1739747923,1739191996,1738564239,1738026621,1737361919,1736758768,1736133965,1734952721,1734330751,1733724699,1733133944,1732527531,1731892599,1731307831,1730710719,1730077882,1729459157,1728878837,1728872228,1728276836,1728253103,1727645452,1727074206,1727068198,1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
+        let timestamps = [1741566572,1741025679,1741007647,1740391908,1739747923,1739191996,1738564239,1738026621,1737361919,1736758768,1736133965,1734952721,1734330751,1733724699,1733133944,1732527531,1731892599,1731307831,1730710719,1730077882,1729459157,1728878837,1728872228,1728276836,1728253103,1727645452,1727074206,1727068198,1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 1 | 0 | 3 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 0 | 4 | 0 | 4 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 2 | 0 | 2 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 1 | 2 | 0 | 3 |
@@ -143,7 +145,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 0 | 3 | 0 | 3 |
 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 0 | 3 | 0 | 3 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 0 | 7 | 0 | 7 |
-| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 1 | 0 | 2 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 2 | 0 | 2 |
 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 1 | 1 | 0 | 2 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 0 | 2 | 0 | 2 |
@@ -157,6 +158,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/15 | 39-36 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2025/03/08 | 37-8 | [=AMG=](https://ws.tsl.rocks/corp/8712be6618d311f06db669b0e47ad049784d184f8ee3d6f13910ba85c12d3fca/) |
 | ❌ | 2025/03/08 | 23-40 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2025/03/01 | 0-49 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
@@ -231,5 +233,5 @@ Corporation ID: 4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741457679"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741998572"></span>
 </div>

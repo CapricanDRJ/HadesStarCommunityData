@@ -22,8 +22,8 @@ embers Star Nations that are apart of it against the chaos outside of
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1374)|
-| ELO Competitive | 1211 🔻  (634)|
+| ELO Regular | 1080 🔻  (1375)|
+| ELO Competitive | 1211 🔻  (635)|
 | Total Matches | 72 |
 | Wins | 22 |
 | Losses | 49 |

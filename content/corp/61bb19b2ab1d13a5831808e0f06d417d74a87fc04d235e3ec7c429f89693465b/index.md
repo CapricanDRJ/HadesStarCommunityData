@@ -23,7 +23,7 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (615)|
-| ELO Competitive | 1197 🔻  (730)|
+| ELO Competitive | 1197 🔻  (729)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

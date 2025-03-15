@@ -1,9 +1,9 @@
 ---
 title: ​Эдельвейс
-description: W:0 L:3 D:1 Bonus ❌ 1%
+description: W:0 L:4 D:1 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 1 **Страж Галактики**
-date: 2023-11-27T04:16:24.000Z
+Summary: ❌ 0 - 7 **💮問鼎無垠💮**
+date: 2025-03-15T00:19:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,15 +19,15 @@ date: 2023-11-27T04:16:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1128)|
-| ELO Competitive | 1185 🔻  (963)|
-| Total Matches | 4 |
+| ELO Regular | 1146 🔻  (1191)|
+| ELO Competitive | 1174 🔻  (1112)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1700626584,1700414325,1699867883,1699867883];
+        let timestamps = [1741565971,1700626584,1700414325,1699867883,1699867883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/15 | 0-7 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2023/11/27 | 0-1 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ❌ | 2023/11/24 | 0-10 | [CAEDRUS \[<o\>\]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
 | ❌ | 2023/11/18 | 0-4 | [Krasse Bros](https://ws.tsl.rocks/corp/ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb/) |
@@ -147,5 +148,5 @@ Corporation ID: 457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1701058584"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1741997971"></span>
 </div>

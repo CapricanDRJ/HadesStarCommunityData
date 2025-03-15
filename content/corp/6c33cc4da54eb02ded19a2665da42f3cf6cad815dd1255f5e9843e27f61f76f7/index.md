@@ -22,8 +22,8 @@ ete a nuestra corp y se uno más de lo conquistadores estelares
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (396)|
-| ELO Competitive | 1223 🔺  (527)|
+| ELO Regular | 1218 🔺  (395)|
+| ELO Competitive | 1223 🔺  (528)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

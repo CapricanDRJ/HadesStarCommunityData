@@ -1,6 +1,6 @@
 ---
 title: ​ALPHA SQUADRON
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:4 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 7 - 2 **中国人民联盟**
 date: 2025-03-07T23:32:59.000Z
@@ -15,7 +15,7 @@ date: 2025-03-07T23:32:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
