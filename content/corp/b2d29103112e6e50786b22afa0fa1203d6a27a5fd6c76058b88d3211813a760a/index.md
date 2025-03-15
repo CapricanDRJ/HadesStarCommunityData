@@ -1,9 +1,9 @@
 ---
 title: ​OpiumNaroda
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 17 - 0 **63SALVADORES36**
-date: 2025-03-09T23:22:29.000Z
+Summary: ✅ 25 - 0 **U\.S\.A**
+date: 2025-03-15T18:16:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-03-09T23:22:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (430)|
-| ELO Competitive | 1221 🔺  (540)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1225 🔺  (364)|
+| ELO Competitive | 1236 🔺  (481)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741130549];
+        let timestamps = [1741630573,1741130549];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/15 | 25-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2025/03/09 | 17-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 
 ---
@@ -140,5 +143,5 @@ Corporation ID: b2d29103112e6e50786b22afa0fa1203d6a27a5fd6c76058b88d3211813a760a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741562549"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742062573"></span>
 </div>

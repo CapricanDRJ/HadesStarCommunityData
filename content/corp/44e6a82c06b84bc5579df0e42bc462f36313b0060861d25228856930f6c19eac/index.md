@@ -1,9 +1,9 @@
 ---
 title: ​Fairy tail 
-description: W:7 L:6 D:0 Bonus ❌ 5%
+description: W:7 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 1 - 5 **星际公约组织**
-date: 2025-01-23T01:56:25.000Z
+Summary: ❌ 0 - 16 **Cerberus**
+date: 2025-03-15T16:16:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Todoas las personas que puedan hablar español esta permitido aqui nos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (571)|
-| ELO Competitive | 1206 🔻  (650)|
-| Total Matches | 13 |
+| ELO Regular | 1184 🔻  (866)|
+| ELO Competitive | 1193 🔻  (758)|
+| Total Matches | 14 |
 | Wins | 7 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737165385,1733776685,1732682281,1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
+        let timestamps = [1741623360,1737165385,1733776685,1732682281,1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/15 | 0-16 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ❌ | 2025/01/23 | 1-5 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/14 | 2-12 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/12/02 | 1-3 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
@@ -154,5 +155,5 @@ Corporation ID: 44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1737597385"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742055360"></span>
 </div>

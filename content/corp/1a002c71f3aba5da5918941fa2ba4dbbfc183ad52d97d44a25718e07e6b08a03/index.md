@@ -1,6 +1,6 @@
 ---
 title: ​OntarioDawn
-description: W:58 L:11 D:0 Bonus ✅ 38%
+description: W:58 L:11 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 61 - 3 **无人之境**
 date: 2025-03-08T16:24:28.000Z
@@ -21,7 +21,7 @@ RS1+
 <br>
 
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

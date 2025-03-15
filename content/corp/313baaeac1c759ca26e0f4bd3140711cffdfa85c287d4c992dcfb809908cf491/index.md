@@ -1,6 +1,6 @@
 ---
 title: ​Legion
-description: W:48 L:40 D:0 Bonus ✅ 52%
+description: W:48 L:40 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 35 **Auscorp **
 date: 2025-03-10T12:18:35.000Z
@@ -18,7 +18,7 @@ r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 <br>
 
 ### [Discord](https://discord.gg/mA6tbqzS55)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

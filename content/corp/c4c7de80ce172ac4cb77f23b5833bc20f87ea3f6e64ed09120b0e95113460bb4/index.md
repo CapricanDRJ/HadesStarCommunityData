@@ -1,6 +1,6 @@
 ---
 title: ​imperio estelar
-description: W:11 L:17 D:3 Bonus ✅ 36%
+description: W:11 L:17 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **Red Star**
 date: 2025-03-15T01:19:35.000Z
@@ -17,12 +17,12 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (552)|
-| ELO Competitive | 1270 🔻  (378)|
+| ELO Competitive | 1270 🔻  (379)|
 | Total Matches | 31 |
 | Wins | 11 |
 | Losses | 17 |
