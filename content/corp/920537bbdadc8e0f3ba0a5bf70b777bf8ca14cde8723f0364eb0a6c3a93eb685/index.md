@@ -1,6 +1,6 @@
 ---
 title: ​UFO
-description: W:9 L:18 D:2 Bonus ✅ 32%
+description: W:9 L:18 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 31 - 10 **\*СССР\***
 date: 2025-03-08T04:38:22.000Z
@@ -16,7 +16,7 @@ https://discord.gg/NuvtUTUxQj
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

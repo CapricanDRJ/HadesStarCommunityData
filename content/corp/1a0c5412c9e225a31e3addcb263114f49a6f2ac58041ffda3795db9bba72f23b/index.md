@@ -1,6 +1,6 @@
 ---
 title: ​Kratos
-description: W:52 L:40 D:0 Bonus ✅ 38%
+description: W:52 L:40 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 8 **C'est pas faux\!**
 date: 2025-03-13T16:46:16.000Z
@@ -16,7 +16,7 @@ Bienvenidos 😁
 <br>
 
 ### [Discord](https://discord.gg/RgusRrPMKT)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

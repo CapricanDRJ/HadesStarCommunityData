@@ -1,9 +1,9 @@
 ---
 title: ​Gemini Ind.
-description: W:35 L:7 D:0 Bonus ❌ 9%
+description: W:36 L:7 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 24 - 0 **STAR TERROR CZ**
-date: 2025-02-14T20:21:44.000Z
+Summary: ✅ 30 - 4 **Свободный флот**
+date: 2025-03-15T06:10:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,17 +24,17 @@ We have awesome queue for rs runs!
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1417 🔺  (48)|
-| ELO Competitive | 1451 🔺  (108)|
-| Total Matches | 42 |
-| Wins | 35 |
+| ELO Regular | 1423 🔺  (47)|
+| ELO Competitive | 1466 🔺  (93)|
+| Total Matches | 43 |
+| Wins | 36 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 16 |
 | Flagship | 5 |
 
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739132504,1731315642,1728902576,1725830846,1720983418,1720368378,1719797381,1719152494,1718560187,1717942164,1717342504,1716742950,1716185297,1715537531,1714316960,1713699229,1713119043,1712489838,1711894891,1711279812,1710684583,1710100475,1709501034,1708882635,1708281949,1707677941,1707080842,1706471701,1705863761,1705277463,1704652092,1704384329,1704049863,1703462946,1702837044,1702232050,1701634264,1701041598,1700420658,1699813184,1699213299,1698687065];
+        let timestamps = [1741587000,1739132504,1731315642,1728902576,1725830846,1720983418,1720368378,1719797381,1719152494,1718560187,1717942164,1717342504,1716742950,1716185297,1715537531,1714316960,1713699229,1713119043,1712489838,1711894891,1711279812,1710684583,1710100475,1709501034,1708882635,1708281949,1707677941,1707080842,1706471701,1705863761,1705277463,1704652092,1704384329,1704049863,1703462946,1702837044,1702232050,1701634264,1701041598,1700420658,1699813184,1699213299,1698687065];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/15 | 30-4 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2025/02/14 | 24-0 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2024/11/16 | 34-5 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024/10/19 | 20-36 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
@@ -202,5 +203,5 @@ Corporation ID: c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739564504"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742019000"></span>
 </div>

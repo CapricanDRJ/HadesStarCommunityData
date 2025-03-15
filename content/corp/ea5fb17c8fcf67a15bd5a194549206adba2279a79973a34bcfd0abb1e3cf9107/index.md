@@ -1,6 +1,6 @@
 ---
 title: ​Continuum
-description: W:103 L:54 D:2 Bonus ✅ 56%
+description: W:103 L:54 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 10 - 44 **Grunthal Gang**
 date: 2025-03-13T21:26:46.000Z
@@ -19,7 +19,7 @@ S. 18+, English. Discord - apply + RS queue.
 <br>
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
