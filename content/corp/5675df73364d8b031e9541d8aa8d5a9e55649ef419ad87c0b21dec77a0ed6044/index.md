@@ -1,9 +1,9 @@
 ---
 title: ​nuevo mundo
-description: W:14 L:11 D:0 Bonus ❌ 8%
+description: W:15 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 14 - 11 **Ƭιтαηѕ Ф тєʀʀσƦ**
-date: 2025-03-01T20:07:54.000Z
+Summary: ✅ 21 - 8 **Halcon español**
+date: 2025-03-15T12:30:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,17 +21,17 @@ Esperamos su llegada!
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (211)|
-| ELO Competitive | 1322 🔺  (265)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1292 🔺  (188)|
+| ELO Competitive | 1338 🔺  (233)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740427674,1738755958,1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
+        let timestamps = [1741609835,1740427674,1738755958,1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/15 | 21-8 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ✅ | 2025/03/01 | 14-11 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2025/02/10 | 19-2 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/) |
 | ✅ | 2025/01/29 | 28-0 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
@@ -172,5 +173,5 @@ Corporation ID: 5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740859674"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742041835"></span>
 </div>

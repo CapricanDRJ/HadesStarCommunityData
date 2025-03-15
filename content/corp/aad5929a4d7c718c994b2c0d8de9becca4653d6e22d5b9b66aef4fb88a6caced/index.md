@@ -25,7 +25,7 @@ de artefatos ∆
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (751)|
-| ELO Competitive | 1186 🔻  (903)|
+| ELO Competitive | 1186 🔻  (904)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

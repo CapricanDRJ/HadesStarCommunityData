@@ -1,6 +1,6 @@
 ---
 title: ​АарнСарт 
-description: W:13 L:4 D:0 Bonus ✅ 
+description: W:13 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 29 - 3 **ZORG IND**
 date: 2025-03-08T10:23:51.000Z
@@ -15,7 +15,7 @@ date: 2025-03-08T10:23:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

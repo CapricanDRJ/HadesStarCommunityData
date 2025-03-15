@@ -1,9 +1,9 @@
 ---
 title: ​Halcon español
-description: W:36 L:20 D:1 Bonus ✅ 36%
+description: W:36 L:21 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 30 - 4 **Октябристы**
-date: 2025-03-08T13:59:12.000Z
+Summary: ❌ 8 - 21 **nuevo mundo**
+date: 2025-03-15T12:30:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (224)|
-| ELO Competitive | 1355 🔺  (209)|
-| Total Matches | 57 |
+| ELO Regular | 1255 🔻  (262)|
+| ELO Competitive | 1339 🔻  (230)|
+| Total Matches | 58 |
 | Wins | 36 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741010352,1740399120,1739813426,1739191395,1738577759,1737976733,1737383256,1736763876,1736182948,1735563870,1734356893,1733746631,1733137249,1732562995,1731922942,1729511211,1728923620,1728315903,1727700435,1727096441,1726489845,1725890338,1725283639,1724055170,1723460737,1722845294,1722259603,1721650140,1721071356,1720442602,1719835239,1719219508,1718638015,1718031723,1717409823,1716815068,1716217447,1715609034,1714997310,1714391172,1713777343,1713170419,1712573376,1711875959,1711370256,1710925254,1710271739,1709743806,1709131735,1708525947,1707892499,1707311731,1706533903,1705835507,1704894002,1704201315,1703231537];
+        let timestamps = [1741609835,1741010352,1740399120,1739813426,1739191395,1738577759,1737976733,1737383256,1736763876,1736182948,1735563870,1734356893,1733746631,1733137249,1732562995,1731922942,1729511211,1728923620,1728315903,1727700435,1727096441,1726489845,1725890338,1725283639,1724055170,1723460737,1722845294,1722259603,1721650140,1721071356,1720442602,1719835239,1719219508,1718638015,1718031723,1717409823,1716815068,1716217447,1715609034,1714997310,1714391172,1713777343,1713170419,1712573376,1711875959,1711370256,1710925254,1710271739,1709743806,1709131735,1708525947,1707892499,1707311731,1706533903,1705835507,1704894002,1704201315,1703231537];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/15 | 8-21 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2025/03/08 | 30-4 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/03/01 | 17-11 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2025/02/22 | 15-25 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
@@ -213,5 +213,5 @@ Corporation ID: ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741442352"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742041835"></span>
 </div>

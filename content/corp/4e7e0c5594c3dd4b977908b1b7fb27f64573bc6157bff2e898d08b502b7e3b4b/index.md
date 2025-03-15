@@ -20,7 +20,7 @@ Nova Aliança PT
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (701)|
-| ELO Competitive | 1187 🔻  (886)|
+| ELO Competitive | 1187 🔻  (887)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

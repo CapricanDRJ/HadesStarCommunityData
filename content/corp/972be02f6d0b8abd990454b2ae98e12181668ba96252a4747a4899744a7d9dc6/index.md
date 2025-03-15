@@ -1,6 +1,6 @@
 ---
 title: ​Новички
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 5 - 0 **欢迎国人**
 date: 2025-03-08T12:29:02.000Z
@@ -15,11 +15,11 @@ date: 2025-03-08T12:29:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (370)|
+| ELO Regular | 1223 🔺  (368)|
 | ELO Competitive | 1224 🔺  (518)|
 | Total Matches | 2 |
 | Wins | 2 |
