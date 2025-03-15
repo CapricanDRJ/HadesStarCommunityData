@@ -1,6 +1,6 @@
 ---
 title: ​Halcon español
-description: W:36 L:21 D:1 Bonus ✅ 36%
+description: W:36 L:21 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 8 - 21 **nuevo mundo**
 date: 2025-03-15T12:30:35.000Z
@@ -18,7 +18,7 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

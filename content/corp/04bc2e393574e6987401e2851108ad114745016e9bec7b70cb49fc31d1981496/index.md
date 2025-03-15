@@ -1,6 +1,6 @@
 ---
 title: ​Октябристы
-description: W:68 L:84 D:2 Bonus ✅ 42%
+description: W:68 L:84 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 19 **Interstellar**
 date: 2025-03-13T22:06:50.000Z
@@ -17,7 +17,7 @@ date: 2025-03-13T22:06:50.000Z
 <br>
 
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

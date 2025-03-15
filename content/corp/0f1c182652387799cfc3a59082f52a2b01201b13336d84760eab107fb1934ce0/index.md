@@ -19,7 +19,7 @@ There is only one clock that matters.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔻  (130)|
+| ELO Regular | 1327 🔻  (131)|
 | ELO Competitive | 1339 🔻  (232)|
 | Total Matches | 15 |
 | Wins | 13 |

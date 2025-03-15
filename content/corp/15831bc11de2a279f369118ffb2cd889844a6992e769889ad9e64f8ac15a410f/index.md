@@ -1,9 +1,9 @@
 ---
 title: ​No Orbit©
-description: W:19 L:9 D:0 Bonus ❌ 10%
+description: W:19 L:10 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ✅ 44 - 31 **DTC**
-date: 2025-03-07T14:46:55.000Z
+Summary: ❌ 32 - 38 **Hellfire Club**
+date: 2025-03-15T13:10:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1310 🔺  (158)|
-| ELO Competitive | 1350 🔺  (215)|
-| Total Matches | 28 |
+| ELO Regular | 1297 🔻  (178)|
+| ELO Competitive | 1342 🔻  (225)|
+| Total Matches | 29 |
 | Wins | 19 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
+        let timestamps = [1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/15 | 32-38 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2025/03/07 | 44-31 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ✅ | 2025/02/21 | 55-35 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ❌ | 2025/02/07 | 34-38 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |
@@ -180,5 +180,5 @@ Corporation ID: 15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741358815"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742044239"></span>
 </div>
