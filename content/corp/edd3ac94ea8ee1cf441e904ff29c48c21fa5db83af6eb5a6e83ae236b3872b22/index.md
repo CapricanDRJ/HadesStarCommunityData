@@ -23,7 +23,7 @@ act officers or senior members, Discord invite code:zQGwx3ZtDp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1465 🔺  (21)|
-| ELO Competitive | 1520 🔺  (62)|
+| ELO Competitive | 1520 🔺  (63)|
 | Total Matches | 41 |
 | Wins | 37 |
 | Losses | 4 |

@@ -1,6 +1,6 @@
 ---
 title: ​Kobol
-description: W:3 L:11 D:1 Bonus ✅ 
+description: W:3 L:11 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 11 - 8 **仙女座星雲**
 date: 2025-03-08T09:18:45.000Z
@@ -15,7 +15,7 @@ date: 2025-03-08T09:18:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

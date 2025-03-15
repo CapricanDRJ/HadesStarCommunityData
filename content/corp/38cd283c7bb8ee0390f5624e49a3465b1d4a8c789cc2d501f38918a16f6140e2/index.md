@@ -1,6 +1,6 @@
 ---
 title: ​[Blue＊Nation]
-description: W:57 L:9 D:0 Bonus ✅ 40%
+description: W:57 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 38 - 0 **$TAR$**
 date: 2025-03-08T08:33:41.000Z
@@ -20,7 +20,7 @@ ders and a focus on WS!
 <br>
 
 ### [Discord](https://discord.gg/wgHSEFgGBu)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

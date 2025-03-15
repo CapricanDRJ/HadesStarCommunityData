@@ -1,6 +1,6 @@
 ---
 title: ​Дом Датэ
-description: W:42 L:30 D:0 Bonus ❌ 40%
+description: W:42 L:30 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 22 - 2 **IX Легион**
 date: 2025-03-08T06:48:33.000Z
@@ -16,7 +16,7 @@ date: 2025-03-08T06:48:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

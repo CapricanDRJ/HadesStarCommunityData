@@ -1,6 +1,6 @@
 ---
 title: ​Space Marshalls
-description: W:37 L:26 D:0 Bonus ✅ 38%
+description: W:37 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **DTC**
 date: 2025-03-08T08:18:40.000Z
@@ -17,7 +17,7 @@ len.
 <br>
 
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

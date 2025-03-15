@@ -1,6 +1,6 @@
 ---
 title: ​CTG
-description: W:40 L:42 D:0 Bonus ✅ 40%
+description: W:40 L:42 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 27 **lonewolf**
 date: 2025-03-14T20:04:05.000Z
@@ -18,7 +18,7 @@ y newbie and big guy to join us! If you're interested, say hi!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
