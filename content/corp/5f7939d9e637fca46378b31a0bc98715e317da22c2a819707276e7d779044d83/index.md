@@ -22,7 +22,7 @@ eryone<br>Get a deplomacy station to get help<br><color=#00a6ca><size
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔺  (354)|
-| ELO Competitive | 1228 🔺  (504)|
+| ELO Competitive | 1228 🔺  (505)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

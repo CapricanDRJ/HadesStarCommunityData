@@ -1,6 +1,6 @@
 ---
 title: ​Bl@ck/Galaxy 
-description: W:35 L:24 D:2 Bonus ✅ 36%
+description: W:35 L:24 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 44 - 3 **ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ**
 date: 2025-03-08T19:44:49.000Z
@@ -17,11 +17,11 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (121)|
+| ELO Regular | 1334 🔺  (120)|
 | ELO Competitive | 1415 🔺  (143)|
 | Total Matches | 61 |
 | Wins | 35 |
