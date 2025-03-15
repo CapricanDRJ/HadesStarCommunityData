@@ -1,6 +1,6 @@
 ---
 title: ​Sussy Coloner
-description: W:31 L:71 D:4 Bonus ✅ 38%
+description: W:31 L:71 D:4 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **StargateCommand**
 date: 2025-03-08T03:02:38.000Z
@@ -18,11 +18,11 @@ icer promote). Red is always SUS!
 <br>
 
 ### [Discord](https://discord.gg/btpSMwVJQD)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔺  (1279)|
+| ELO Regular | 1127 🔺  (1280)|
 | ELO Competitive | 1305 🔺  (291)|
 | Total Matches | 106 |
 | Wins | 31 |
