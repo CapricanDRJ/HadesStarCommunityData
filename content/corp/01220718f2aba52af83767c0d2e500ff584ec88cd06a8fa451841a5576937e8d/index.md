@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:9 L:7 D:0 Bonus ❌ 
+description: W:9 L:7 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 8 **九州·华夏**
-date: 2025-03-11T04:05:07.000Z
+Summary: ↔️ 3 - 3 **Sussy Coloner**
+date: 2025-03-16T08:32:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-03-11T04:05:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔻  (428)|
-| ELO Competitive | 1275 🔻  (367)|
-| Total Matches | 16 |
+| ELO Regular | 1212 🔻  (459)|
+| ELO Competitive | 1277 🔺  (363)|
+| Total Matches | 17 |
 | Wins | 9 |
 | Losses | 7 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/16 | 3-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2025/03/11 | 2-8 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2025/03/10 | 0-14 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/03/06 | 2-8 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
@@ -156,5 +157,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741665907"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742113951"></span>
 </div>
