@@ -1,6 +1,6 @@
 ---
 title: ​Brodudes Inc.
-description: W:81 L:24 D:1 Bonus ✅ 44%
+description: W:81 L:24 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 9 - 20 **Ark**
 date: 2025-03-16T10:12:39.000Z
@@ -18,7 +18,7 @@ unication. <B>Discord required!</B> Newbies welcome!
 <br>
 
 ### [Discord](https://discord.gg/xhXh3DkNBW)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

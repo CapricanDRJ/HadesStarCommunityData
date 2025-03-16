@@ -1,6 +1,6 @@
 ---
 title: ​Free Ag3nts
-description: W:18 L:0 D:0 Bonus ✅ 36%
+description: W:18 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 38 - 5 **💮問鼎無垠💮**
 date: 2025-03-09T14:41:34.000Z
@@ -15,11 +15,11 @@ date: 2025-03-09T14:41:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (69)|
+| ELO Regular | 1393 🔺  (68)|
 | ELO Competitive | 1409 🔺  (147)|
 | Total Matches | 18 |
 | Wins | 18 |

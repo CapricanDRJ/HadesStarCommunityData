@@ -1,6 +1,6 @@
 ---
 title: ​碧海听潮阁
-description: W:14 L:13 D:5 Bonus ✅ 
+description: W:14 L:13 D:5 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 13 **\*Alfa y Omega\***
 date: 2025-03-14T20:04:05.000Z
@@ -15,7 +15,7 @@ date: 2025-03-14T20:04:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
