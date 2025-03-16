@@ -1,6 +1,6 @@
 ---
 title: ​U.P.E
-description: W:2 L:5 D:1 Bonus ✅ 28%
+description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 1 - 0 **落魄山**
 date: 2025-03-09T11:31:14.000Z
@@ -15,11 +15,11 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (918)|
+| ELO Regular | 1177 🔺  (917)|
 | ELO Competitive | 1182 🔺  (1051)|
 | Total Matches | 8 |
 | Wins | 2 |

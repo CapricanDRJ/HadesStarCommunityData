@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:46 L:52 D:3 Bonus ✅ 38%
+description: W:46 L:52 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 11 - 0 **Серебряная орда**
 date: 2025-03-09T10:21:07.000Z
@@ -27,7 +27,7 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

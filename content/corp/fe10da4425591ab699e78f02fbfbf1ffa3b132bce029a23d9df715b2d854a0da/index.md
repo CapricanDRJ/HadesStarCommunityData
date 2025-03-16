@@ -1,6 +1,6 @@
 ---
 title: ​Yellow Dwarf 
-description: W:3 L:1 D:0 Bonus ✅ 38%
+description: W:3 L:1 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2025-03-09T12:21:18.000Z
@@ -18,12 +18,12 @@ to help each other. Weekly White Stars in our dedicated corp.
 <br>
 
 ### [Discord](https://discord.gg/mbBssbBRQ8)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (513)|
-| ELO Competitive | 1222 🔺  (533)|
+| ELO Regular | 1202 🔺  (514)|
+| ELO Competitive | 1222 🔺  (534)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

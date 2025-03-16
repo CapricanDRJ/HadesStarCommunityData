@@ -22,7 +22,7 @@ OR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔺  (403)|
-| ELO Competitive | 1217 🔺  (561)|
+| ELO Competitive | 1217 🔺  (562)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

@@ -1,6 +1,6 @@
 ---
 title: ​Quilliance
-description: W:30 L:3 D:0 Bonus ✅ 36%
+description: W:30 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 34 - 4 **VoidRunners**
 date: 2025-03-09T10:56:10.000Z
@@ -18,7 +18,7 @@ Discord Active • Coop DRS7-10
 <br>
 
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

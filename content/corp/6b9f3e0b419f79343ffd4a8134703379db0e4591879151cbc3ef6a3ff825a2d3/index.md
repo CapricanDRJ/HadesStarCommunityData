@@ -1,9 +1,9 @@
 ---
 title: ​Winged Pheonix
-description: W:16 L:22 D:1 Bonus ❌ 9%
+description: W:16 L:23 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ↔️ 23 - 23 **Hexacropians**
-date: 2025-03-10T14:58:52.000Z
+Summary: ❌ 7 - 21 **UKR Spase**
+date: 2025-03-16T11:24:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Discord: sqaDS62zfW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔺  (1101)|
-| ELO Competitive | 1260 🔺  (413)|
-| Total Matches | 39 |
+| ELO Regular | 1151 🔻  (1162)|
+| ELO Competitive | 1254 🔻  (425)|
+| Total Matches | 40 |
 | Wins | 16 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 8 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741186732,1740320996,1739724480,1739176371,1738656492,1737547323,1736774695,1736230727,1733121326,1732479160,1731915431,1731245622,1730619068,1729861804,1729249383,1728629347,1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
+        let timestamps = [1741692284,1741186732,1740320996,1739724480,1739176371,1738656492,1737547323,1736774695,1736230727,1733121326,1732479160,1731915431,1731245622,1730619068,1729861804,1729249383,1728629347,1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/16 | 7-21 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ↔️ | 2025/03/10 | 23-23 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ✅ | 2025/02/28 | 52-0 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2025/02/21 | 35-55 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
@@ -195,5 +196,5 @@ Corporation ID: 6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741618732"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742124284"></span>
 </div>

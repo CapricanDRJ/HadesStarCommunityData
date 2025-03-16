@@ -1,6 +1,6 @@
 ---
 title: ​Trade Station
-description: W:9 L:52 D:0 Bonus ✅ 48%
+description: W:9 L:52 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 21 - 4 **Death Flight**
 date: 2025-03-09T10:11:06.000Z
@@ -23,7 +23,7 @@ Find us on Discord: YTaYrhy
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

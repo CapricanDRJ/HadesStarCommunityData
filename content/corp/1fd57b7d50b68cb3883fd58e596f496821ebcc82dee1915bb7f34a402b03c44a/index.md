@@ -22,7 +22,7 @@ r involvement. Link is 👇
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1336 🔻  (119)|
+| ELO Regular | 1336 🔻  (120)|
 | ELO Competitive | 1434 🔻  (126)|
 | Total Matches | 76 |
 | Wins | 47 |

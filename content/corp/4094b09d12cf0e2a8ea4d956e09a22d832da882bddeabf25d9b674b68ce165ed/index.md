@@ -1,9 +1,9 @@
 ---
 title: ​ALPHA SQUADRON
-description: W:4 L:1 D:0 Bonus ❌ 
+description: W:4 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 7 - 2 **中国人民联盟**
-date: 2025-03-07T23:32:59.000Z
+Summary: ❌ 0 - 11 **九州·华夏**
+date: 2025-03-16T12:12:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-03-07T23:32:59.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (296)|
-| ELO Competitive | 1251 🔺  (433)|
-| Total Matches | 5 |
+| ELO Regular | 1226 🔻  (358)|
+| ELO Competitive | 1235 🔻  (485)|
+| Total Matches | 6 |
 | Wins | 4 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740958379,1739941737,1738848814,1737284185,1736282422];
+        let timestamps = [1741695171,1740958379,1739941737,1738848814,1737284185,1736282422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/16 | 0-11 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/03/07 | 7-2 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ✅ | 2025/02/24 | 10-2 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2025/02/11 | 4-0 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
@@ -146,5 +146,5 @@ Corporation ID: 4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741390379"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742127171"></span>
 </div>
