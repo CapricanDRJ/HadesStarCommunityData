@@ -23,7 +23,7 @@ b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1267 🔺  (229)|
-| ELO Competitive | 1375 🔺  (182)|
+| ELO Competitive | 1375 🔺  (183)|
 | Total Matches | 41 |
 | Wins | 23 |
 | Losses | 18 |

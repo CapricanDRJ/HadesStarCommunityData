@@ -1,6 +1,6 @@
 ---
 title: ​viCIOus
-description: W:29 L:3 D:1 Bonus ✅ 34%
+description: W:29 L:3 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 4 - 12 **新?的星际集团?**
 date: 2025-03-14T16:18:39.000Z
@@ -15,7 +15,7 @@ New!!! Join to expand!
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

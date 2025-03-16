@@ -1,9 +1,9 @@
 ---
 title: ​united unicorn
-description: W:2 L:3 D:0 Bonus ❌ 4%
+description: W:2 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 8 - 32 **Ninth Planet**
-date: 2025-03-03T13:37:02.000Z
+Summary: ❌ 0 - 30 **Eastern Front**
+date: 2025-03-16T02:52:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ur opponent we just want to play a little
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (573)|
-| ELO Competitive | 1212 🔻  (625)|
-| Total Matches | 5 |
+| ELO Regular | 1181 🔻  (893)|
+| ELO Competitive | 1207 🔻  (645)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740577022,1739392129,1738959406,1738496313,1719740881];
+        let timestamps = [1741661522,1740577022,1739392129,1738959406,1738496313,1719740881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/16 | 0-30 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/03/03 | 8-32 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2025/02/17 | 9-4 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2025/02/12 | 5-13 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
@@ -145,5 +146,5 @@ Corporation ID: c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741009022"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742093522"></span>
 </div>
