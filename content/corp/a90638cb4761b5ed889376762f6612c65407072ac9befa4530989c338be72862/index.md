@@ -1,9 +1,9 @@
 ---
 title: ​Corp. Luminá
-description: W:17 L:2 D:0 Bonus ❌ 6%
+description: W:17 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 23 - 0 **Eretria **
-date: 2025-03-01T00:30:59.000Z
+Summary: ❌ 6 - 19 **Legión**
+date: 2025-03-15T23:51:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1362 🔺  (90)|
-| ELO Competitive | 1374 🔺  (183)|
-| Total Matches | 19 |
+| ELO Regular | 1342 🔻  (111)|
+| ELO Competitive | 1356 🔻  (205)|
+| Total Matches | 20 |
 | Wins | 17 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 11 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
+        let timestamps = [1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/15 | 6-19 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/03/01 | 23-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2025/02/20 | 0-5 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/02/14 | 12-6 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
@@ -161,5 +162,5 @@ Corporation ID: a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740789059"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742082708"></span>
 </div>

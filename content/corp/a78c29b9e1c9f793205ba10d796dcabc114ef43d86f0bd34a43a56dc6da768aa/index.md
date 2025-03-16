@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:40 L:19 D:0 Bonus ✅ 36%
+description: W:40 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 11 - 18 **RUFORS**
 date: 2025-03-09T16:36:46.000Z
@@ -18,12 +18,12 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔻  (65)|
-| ELO Competitive | 1541 🔺  (49)|
+| ELO Regular | 1395 🔻  (64)|
+| ELO Competitive | 1541 🔺  (48)|
 | Total Matches | 59 |
 | Wins | 40 |
 | Losses | 19 |

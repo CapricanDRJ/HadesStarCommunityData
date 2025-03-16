@@ -24,7 +24,7 @@ WDL 88/2/4
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1391 🔻  (69)|
-| ELO Competitive | 1421 🔻  (133)|
+| ELO Competitive | 1421 🔻  (134)|
 | Total Matches | 25 |
 | Wins | 21 |
 | Losses | 4 |
