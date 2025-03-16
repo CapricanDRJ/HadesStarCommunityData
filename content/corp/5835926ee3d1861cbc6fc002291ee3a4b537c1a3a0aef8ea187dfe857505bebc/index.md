@@ -28,8 +28,8 @@ https://open.kakao.com/o/gBGFbATe
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1141)|
-| ELO Competitive | 1163 🔻  (1225)|
+| ELO Regular | 1154 🔻  (1140)|
+| ELO Competitive | 1163 🔻  (1224)|
 | Total Matches | 19 |
 | Wins | 7 |
 | Losses | 12 |

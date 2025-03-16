@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:19 L:10 D:0 Bonus ✅ 34%
+description: W:19 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 18 - 11 **Warriorlords**
 date: 2025-03-09T16:36:46.000Z
@@ -16,7 +16,7 @@ date: 2025-03-09T16:36:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​AFronteiraFinal
-description: W:29 L:7 D:1 Bonus ✅ 36%
+description: W:29 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 43 - 0 **九州分团**
 date: 2025-03-09T16:21:44.000Z
@@ -18,7 +18,7 @@ a em dia. Temos grupo de Discord.
 <br>
 
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

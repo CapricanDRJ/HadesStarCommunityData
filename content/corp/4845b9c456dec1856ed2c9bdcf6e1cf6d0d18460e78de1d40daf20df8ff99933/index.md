@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:0 L:3 D:1 Bonus ❌ 
+description: W:0 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 15 **Empire of Hades**
-date: 2025-03-02T13:14:29.000Z
+Summary: ❌ 0 - 8 **💮問鼎無垠💮**
+date: 2025-03-16T17:28:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-02T13:14:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1089)|
-| ELO Competitive | 1164 🔻  (1217)|
-| Total Matches | 4 |
+| ELO Regular | 1151 🔻  (1161)|
+| ELO Competitive | 1154 🔻  (1287)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1741714104,1740489269,1740009962,1739331125,1738858733];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/16 | 0-8 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/03/02 | 0-15 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/02/25 | 0-1 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ❌ | 2025/02/17 | 0-34 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
@@ -143,5 +144,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740921269"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742146104"></span>
 </div>
