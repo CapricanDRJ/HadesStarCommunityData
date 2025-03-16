@@ -1,6 +1,6 @@
 ---
 title: ​S.U.N
-description: W:7 L:5 D:1 Bonus ✅ 30%
+description: W:7 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 10 - 4 **RedStar Raiding**
 date: 2025-03-09T20:22:11.000Z
@@ -15,7 +15,7 @@ date: 2025-03-09T20:22:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

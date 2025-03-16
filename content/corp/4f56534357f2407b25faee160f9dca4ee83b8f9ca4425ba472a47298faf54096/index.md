@@ -1,6 +1,6 @@
 ---
 title: ​Z. O. V. 
-description: W:42 L:16 D:2 Bonus ✅ 36%
+description: W:42 L:16 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 35 - 4 **SQPT**
 date: 2025-03-09T19:42:06.000Z
@@ -15,7 +15,7 @@ date: 2025-03-09T19:42:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

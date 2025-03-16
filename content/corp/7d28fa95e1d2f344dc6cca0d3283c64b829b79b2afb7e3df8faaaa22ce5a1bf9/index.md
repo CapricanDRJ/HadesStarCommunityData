@@ -1,6 +1,6 @@
 ---
 title: ​Hand Of NOD! 
-description: W:60 L:9 D:0 Bonus ✅ 40%
+description: W:60 L:9 D:0 Bonus ❌ 40%
 image: ./favicon.png
 Summary: ❌ 1 - 19 **Auscorp **
 date: 2025-03-16T05:12:14.000Z
@@ -16,7 +16,7 @@ PEACE THROUGH POWER!
 <br>
 
 ### [Discord](https://discord.gg/HfGM4PkP8d)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |
