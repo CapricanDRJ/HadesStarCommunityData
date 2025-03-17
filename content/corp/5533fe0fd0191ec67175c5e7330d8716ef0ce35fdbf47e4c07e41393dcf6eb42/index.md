@@ -1,9 +1,9 @@
 ---
 title: ​MiddleOfNowhere
-description: W:5 L:1 D:0 Bonus ❌ 5%
+description: W:6 L:1 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 29 - 12 **リリース**
-date: 2025-03-09T22:07:22.000Z
+Summary: ✅ 31 - 0 **Kingdom Of Meow**
+date: 2025-03-17T17:15:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 <br>
 
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (253)|
-| ELO Competitive | 1291 🔺  (323)|
-| Total Matches | 6 |
-| Wins | 5 |
+| ELO Regular | 1268 🔺  (229)|
+| ELO Competitive | 1301 🔺  (304)|
+| Total Matches | 7 |
+| Wins | 6 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 4 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741126042,1740306268,1739690216,1739111761,1738523672,1724326221];
+        let timestamps = [1741799743,1741126042,1740306268,1739690216,1739111761,1738523672,1724326221];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/17 | 31-0 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) |
 | ✅ | 2025/03/09 | 29-12 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2025/02/28 | 31-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/02/21 | 10-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
@@ -150,5 +151,5 @@ Corporation ID: 5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741558042"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742231743"></span>
 </div>

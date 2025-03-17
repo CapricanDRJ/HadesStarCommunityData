@@ -1,9 +1,9 @@
 ---
 title: ​Alpaca Nation
-description: W:12 L:2 D:0 Bonus ❌ 
+description: W:13 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 2 - 13 **Terran empire **
-date: 2025-03-12T17:58:52.000Z
+Summary: ✅ 24 - 0 **Lofty Mountain**
+date: 2025-03-17T18:15:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-12T17:58:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔻  (161)|
-| ELO Competitive | 1336 🔻  (234)|
-| Total Matches | 14 |
-| Wins | 12 |
+| ELO Regular | 1326 🔺  (135)|
+| ELO Competitive | 1354 🔺  (210)|
+| Total Matches | 15 |
+| Wins | 13 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741370332,1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
+        let timestamps = [1741803350,1741370332,1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/17 | 24-0 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ❌ | 2025/03/12 | 2-13 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/03/07 | 27-0 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ✅ | 2025/03/02 | 23-0 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
@@ -159,5 +160,5 @@ Corporation ID: 183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741802332"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742235350"></span>
 </div>

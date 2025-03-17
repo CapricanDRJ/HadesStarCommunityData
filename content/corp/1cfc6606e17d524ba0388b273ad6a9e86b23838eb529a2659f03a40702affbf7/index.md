@@ -1,9 +1,9 @@
 ---
 title: ​Lofty Mountain
-description: W:16 L:0 D:0 Bonus ❌ 6%
+description: W:16 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 16 - 4 **星际集团**
-date: 2025-01-15T21:53:04.000Z
+Summary: ❌ 0 - 24 **Alpaca Nation**
+date: 2025-03-17T18:15:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (76)|
-| ELO Competitive | 1411 🔺  (147)|
-| Total Matches | 16 |
+| ELO Regular | 1362 🔻  (90)|
+| ELO Competitive | 1392 🔻  (162)|
+| Total Matches | 17 |
 | Wins | 16 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 16 |
 | Streak Record | 16 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736545984,1735974080,1734386344,1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1741803350,1736545984,1735974080,1734386344,1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 0-24 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/01/15 | 16-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2025/01/09 | 30-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
 | ✅ | 2024/12/21 | 23-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
@@ -159,5 +159,5 @@ Corporation ID: 1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1736977984"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742235350"></span>
 </div>

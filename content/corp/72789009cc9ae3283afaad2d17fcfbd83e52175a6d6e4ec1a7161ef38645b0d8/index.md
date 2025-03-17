@@ -1,6 +1,6 @@
 ---
 title: ​Red Alliance
-description: W:23 L:30 D:2 Bonus ✅ 36%
+description: W:23 L:30 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 11 - 0 **Eastern Front**
 date: 2025-03-10T16:18:03.000Z
@@ -15,7 +15,7 @@ English speaking – would you want to communicate
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

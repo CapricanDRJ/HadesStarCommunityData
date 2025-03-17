@@ -21,8 +21,8 @@ e strategies, and give out advice.        -  Tensible
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (458)|
-| ELO Competitive | 1524 🔺  (63)|
+| ELO Regular | 1213 🔺  (459)|
+| ELO Competitive | 1524 🔺  (62)|
 | Total Matches | 136 |
 | Wins | 64 |
 | Losses | 69 |

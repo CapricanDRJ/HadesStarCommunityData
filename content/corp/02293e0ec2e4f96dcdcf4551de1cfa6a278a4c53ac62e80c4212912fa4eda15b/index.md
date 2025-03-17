@@ -1,6 +1,6 @@
 ---
 title: ​White Dwarf
-description: W:54 L:22 D:0 Bonus ✅ 46%
+description: W:54 L:22 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 24 - 3 **新星汇聚**
 date: 2025-03-10T18:29:14.000Z
@@ -17,11 +17,11 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 <br>
 
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1364 🔺  (89)|
+| ELO Regular | 1364 🔺  (88)|
 | ELO Competitive | 1495 🔺  (79)|
 | Total Matches | 76 |
 | Wins | 54 |

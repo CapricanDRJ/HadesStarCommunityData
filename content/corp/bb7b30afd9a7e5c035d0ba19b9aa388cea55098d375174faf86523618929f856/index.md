@@ -1,9 +1,9 @@
 ---
 title: ​Kingdom Of Meow
-description: W:1 L:6 D:0 Bonus ❌ 4%
+description: W:1 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **Glashan**
-date: 2025-02-21T01:01:21.000Z
+Summary: ❌ 0 - 31 **MiddleOfNowhere**
+date: 2025-03-17T17:15:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Discord: https://discord.gg/Fyag9U7KFh
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔺  (1246)|
-| ELO Competitive | 1155 🔺  (1289)|
-| Total Matches | 7 |
+| ELO Regular | 1126 🔻  (1291)|
+| ELO Competitive | 1145 🔻  (1328)|
+| Total Matches | 8 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739667681,1733895061,1731556934,1729297016,1727925815,1725857583,1724202419];
+        let timestamps = [1741799743,1739667681,1733895061,1731556934,1729297016,1727925815,1725857583,1724202419];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 0-31 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ✅ | 2025/02/21 | 7-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ❌ | 2024/12/16 | 0-5 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/11/19 | 2-14 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
@@ -147,5 +148,5 @@ Corporation ID: bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740099681"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742231743"></span>
 </div>
