@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:12 L:14 D:1 Bonus ✅ 36%
+description: W:12 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 18 - 14 **Mass Effect**
 date: 2025-03-10T04:52:55.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
