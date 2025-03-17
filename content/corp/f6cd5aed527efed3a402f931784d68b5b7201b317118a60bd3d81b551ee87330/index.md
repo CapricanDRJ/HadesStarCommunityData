@@ -1,9 +1,9 @@
 ---
 title: ​Black Star llc.
-description: W:39 L:23 D:1 Bonus ❌ 8%
+description: W:39 L:24 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ↔️ 2 - 2 **Cydonia Order**
-date: 2025-03-05T20:52:27.000Z
+Summary: ❌ 1 - 3 **северный шторм**
+date: 2025-03-17T06:49:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ lc, Osmium star llc. Contribute to corp flag ship for WS.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (167)|
-| ELO Competitive | 1399 🔻  (154)|
-| Total Matches | 63 |
+| ELO Regular | 1285 🔻  (201)|
+| ELO Competitive | 1379 🔻  (181)|
+| Total Matches | 64 |
 | Wins | 39 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740775947,1740112449,1739418869,1738845808,1737903716,1737285590,1736613908,1736106316,1735330400,1734725268,1734030874,1733379131,1730969141,1729658077,1723486588,1722996035,1721362850,1720924279,1719980088,1719368261,1718699318,1717760257,1716817774,1716815068,1716083143,1716078338,1715620754,1715429053,1715183291,1714696283,1714079300,1713591065,1713140379,1712625064,1712101025,1711591404,1711516886,1710870875,1710866968,1710368150,1710365184,1709891331,1709885021,1709194833,1709193932,1708741701,1708734190,1708063932,1708061979,1707437096,1707425979,1706765000,1706765000,1706143237,1706138130,1705433723,1704995277,1704520157,1704057375,1703584048,1703066244,1702614642,1702175543];
+        let timestamps = [1741762180,1740775947,1740112449,1739418869,1738845808,1737903716,1737285590,1736613908,1736106316,1735330400,1734725268,1734030874,1733379131,1730969141,1729658077,1723486588,1722996035,1721362850,1720924279,1719980088,1719368261,1718699318,1717760257,1716817774,1716815068,1716083143,1716078338,1715620754,1715429053,1715183291,1714696283,1714079300,1713591065,1713140379,1712625064,1712101025,1711591404,1711516886,1710870875,1710866968,1710368150,1710365184,1709891331,1709885021,1709194833,1709193932,1708741701,1708734190,1708063932,1708061979,1707437096,1707425979,1706765000,1706765000,1706143237,1706138130,1705433723,1704995277,1704520157,1704057375,1703584048,1703066244,1702614642,1702175543];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 1-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ↔️ | 2025/03/05 | 2-2 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2025/02/26 | 12-1 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2025/02/18 | 2-9 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
@@ -215,5 +216,5 @@ Corporation ID: f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741207947"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742194180"></span>
 </div>

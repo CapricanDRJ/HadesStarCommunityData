@@ -21,7 +21,7 @@ cription
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔺  (1328)|
+| ELO Regular | 1110 🔺  (1327)|
 | ELO Competitive | 1119 🔺  (1386)|
 | Total Matches | 20 |
 | Wins | 4 |

@@ -1,9 +1,9 @@
 ---
 title: ​AlyTec Sys.
-description: W:9 L:16 D:1 Bonus ❌ 6%
+description: W:10 L:16 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 22 **Blazing Stars**
-date: 2025-03-10T18:44:16.000Z
+Summary: ✅ 9 - 0 **RusCorp**
+date: 2025-03-17T08:44:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1172)|
-| ELO Competitive | 1183 🔻  (1041)|
-| Total Matches | 26 |
-| Wins | 9 |
+| ELO Regular | 1163 🔺  (1078)|
+| ELO Competitive | 1196 🔺  (737)|
+| Total Matches | 27 |
+| Wins | 10 |
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1741769072,1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/17 | 9-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
 | ❌ | 2025/03/10 | 0-22 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2025/03/01 | 0-8 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/03/01 | 4-0 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
@@ -169,5 +170,5 @@ Corporation ID: 4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741632256"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742201072"></span>
 </div>

@@ -20,7 +20,7 @@ who dealt it if you haven't smelt it?
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (699)|
-| ELO Competitive | 1187 🔻  (870)|
+| ELO Competitive | 1187 🔻  (871)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
