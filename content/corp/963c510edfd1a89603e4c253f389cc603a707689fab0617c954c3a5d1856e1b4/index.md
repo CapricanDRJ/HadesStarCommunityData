@@ -1,9 +1,9 @@
 ---
 title: ​Черное солнце
-description: W:0 L:4 D:1 Bonus ❌ 3%
+description: W:0 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **STAR TERROR CZ**
-date: 2025-01-25T11:02:13.000Z
+Summary: ❌ 0 - 18 **hades star萌新指引站**
+date: 2025-03-17T10:19:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ https://t.me/klrlo
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1216)|
-| ELO Competitive | 1167 🔻  (1197)|
-| Total Matches | 5 |
+| ELO Regular | 1130 🔻  (1273)|
+| ELO Competitive | 1155 🔻  (1281)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737370933,1734169090,1723126871,1707478802,1707466240];
+        let timestamps = [1741774797,1737370933,1734169090,1723126871,1707478802,1707466240];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 0-18 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2025/01/25 | 0-10 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2024/12/19 | 2-8 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2024/08/13 | 0-14 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
@@ -146,5 +147,5 @@ Corporation ID: 963c510edfd1a89603e4c253f389cc603a707689fab0617c954c3a5d1856e1b4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1737802933"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742206797"></span>
 </div>

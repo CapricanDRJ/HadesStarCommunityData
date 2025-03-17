@@ -1,9 +1,9 @@
 ---
 title: ​Imperium 
-description: W:0 L:3 D:2 Bonus ❌ 
+description: W:0 L:4 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ↔️ 1 - 1 **EarthFederation**
-date: 2025-03-11T18:36:31.000Z
+Summary: ❌ 2 - 14 **星际公约组织**
+date: 2025-03-17T12:05:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-11T18:36:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (998)|
-| ELO Competitive | 1179 🔺  (1068)|
-| Total Matches | 5 |
+| ELO Regular | 1164 🔻  (1073)|
+| ELO Competitive | 1172 🔻  (1136)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741286191,1740852884,1740167109,1739675378,1738795789];
+        let timestamps = [1741781128,1741286191,1740852884,1740167109,1739675378,1738795789];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 2-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ↔️ | 2025/03/11 | 1-1 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ↔️ | 2025/03/06 | 0-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ❌ | 2025/02/26 | 0-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -144,5 +145,5 @@ Corporation ID: 1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741718191"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742213128"></span>
 </div>

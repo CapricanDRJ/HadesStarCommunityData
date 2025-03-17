@@ -22,7 +22,7 @@ gateway
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (1127)|
-| ELO Competitive | 1218 🔻  (553)|
+| ELO Competitive | 1218 🔻  (554)|
 | Total Matches | 15 |
 | Wins | 6 |
 | Losses | 9 |

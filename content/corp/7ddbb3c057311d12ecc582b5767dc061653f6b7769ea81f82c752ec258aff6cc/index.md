@@ -1,6 +1,6 @@
 ---
 title: ​Internationals
-description: W:46 L:16 D:0 Bonus ✅ 54%
+description: W:46 L:16 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 22 - 60 **Legion**
 date: 2025-03-16T22:03:56.000Z
@@ -18,7 +18,7 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

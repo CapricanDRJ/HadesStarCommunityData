@@ -1,9 +1,9 @@
 ---
 title: ​the kings
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 1 - 12 **Bow Down**
-date: 2025-03-15T19:41:23.000Z
+Summary: ↔️ 0 - 0 **⭐PRETORIANS\.X⭐**
+date: 2025-03-17T10:04:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2025-03-15T19:41:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (511)|
-| ELO Competitive | 1209 🔻  (636)|
-| Total Matches | 2 |
+| ELO Regular | 1199 🔻  (551)|
+| ELO Competitive | 1227 🔺  (509)|
+| Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741635683,1741178918];
+        let timestamps = [1741773896,1741635683,1741178918];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/17 | 0-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/03/15 | 1-12 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/03/10 | 3-1 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 
@@ -141,5 +142,5 @@ Corporation ID: e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742067683"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742205896"></span>
 </div>
