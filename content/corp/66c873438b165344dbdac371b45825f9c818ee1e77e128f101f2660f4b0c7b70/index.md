@@ -1,9 +1,9 @@
 ---
 title: ​Free Ag3nts
-description: W:18 L:0 D:0 Bonus ❌ 8%
+description: W:19 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 38 - 5 **💮問鼎無垠💮**
-date: 2025-03-09T14:41:34.000Z
+Summary: ✅ 39 - 1 **Prodexus Domino**
+date: 2025-03-16T22:49:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-03-09T14:41:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (68)|
-| ELO Competitive | 1409 🔺  (147)|
-| Total Matches | 18 |
-| Wins | 18 |
+| ELO Regular | 1400 🔺  (61)|
+| ELO Competitive | 1415 🔺  (142)|
+| Total Matches | 19 |
+| Wins | 19 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 18 |
-| Streak Record | 18 |
+| Streak | 19 |
+| Streak Record | 19 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/16 | 39-1 | [Prodexus Domino](https://ws.tsl.rocks/corp/85917429bb52fbc2dac3f7310ca739f27cae6f39ad628c7d42e2985267005e77/) |
 | ✅ | 2025/03/09 | 38-5 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/03/04 | 34-3 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/02/26 | 23-7 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
@@ -159,5 +160,5 @@ Corporation ID: 66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741531294"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742165340"></span>
 </div>
