@@ -19,8 +19,8 @@ Burn responsibly
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (445)|
-| ELO Competitive | 1214 🔺  (604)|
+| ELO Regular | 1214 🔺  (446)|
+| ELO Competitive | 1214 🔺  (605)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

@@ -21,8 +21,8 @@ or weekly <color=white>WS</color> and private <color=red>RS</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1026 🔻  (1419)|
-| ELO Competitive | 1042 🔻  (1446)|
+| ELO Regular | 1026 🔻  (1421)|
+| ELO Competitive | 1042 🔻  (1448)|
 | Total Matches | 25 |
 | Wins | 1 |
 | Losses | 24 |

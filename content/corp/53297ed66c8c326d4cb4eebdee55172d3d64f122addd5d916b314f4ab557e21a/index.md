@@ -1,6 +1,6 @@
 ---
 title: ​Ninth Planet
-description: W:71 L:6 D:1 Bonus ✅ 40%
+description: W:71 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 29 - 14 **Eastern Front**
 date: 2025-03-10T14:53:52.000Z
@@ -17,7 +17,7 @@ itty
 <br>
 
 ### [Discord](https://discord.gg/ )
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

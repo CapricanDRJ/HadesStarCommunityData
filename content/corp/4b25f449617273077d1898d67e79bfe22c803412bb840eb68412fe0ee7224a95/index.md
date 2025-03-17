@@ -1,9 +1,9 @@
 ---
 title: ​国际联盟
-description: W:18 L:13 D:0 Bonus ❌ 7%
+description: W:18 L:14 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 3 - 6 **碧海听潮阁**
-date: 2025-03-09T14:21:32.000Z
+Summary: ❌ 1 - 6 **分子联合集团乄原态之势**
+date: 2025-03-17T14:40:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-03-09T14:21:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (491)|
-| ELO Competitive | 1336 🔻  (235)|
-| Total Matches | 31 |
+| ELO Regular | 1192 🔻  (615)|
+| ELO Competitive | 1315 🔻  (277)|
+| Total Matches | 32 |
 | Wins | 18 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741098092,1740655144,1740559593,1740067365,1739990724,1739557692,1739455526,1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1741790425,1741098092,1740655144,1740559593,1740067365,1739990724,1739557692,1739455526,1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 1-6 | [分子联合集团乄原态之势](https://ws.tsl.rocks/corp/55e56b06503ea1978636e827e0b6164a07059e0924e61d39e197fd50766a984f/) |
 | ❌ | 2025/03/09 | 3-6 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/03/04 | 0-4 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ✅ | 2025/03/03 | 4-0 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) |
@@ -177,5 +178,5 @@ Corporation ID: 4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741530092"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742222425"></span>
 </div>

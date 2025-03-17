@@ -22,8 +22,8 @@ a participe de RS e WS, mantenha as atividades e melhorias do sistema
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔺  (233)|
-| ELO Competitive | 1280 🔺  (355)|
+| ELO Regular | 1266 🔺  (234)|
+| ELO Competitive | 1280 🔺  (356)|
 | Total Matches | 4 |
 | Wins | 4 |
 | Losses | 0 |

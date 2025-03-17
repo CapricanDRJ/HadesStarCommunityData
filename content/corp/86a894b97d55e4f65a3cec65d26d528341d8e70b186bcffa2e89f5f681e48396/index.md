@@ -34,7 +34,7 @@ Discord required for WS.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔻  (156)|
-| ELO Competitive | 1399 🔻  (155)|
+| ELO Competitive | 1399 🔻  (156)|
 | Total Matches | 64 |
 | Wins | 40 |
 | Losses | 23 |

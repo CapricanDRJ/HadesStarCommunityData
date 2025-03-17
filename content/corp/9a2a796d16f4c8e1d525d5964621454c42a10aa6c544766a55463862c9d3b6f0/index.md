@@ -1,9 +1,9 @@
 ---
 title: ​Cool Casual
-description: W:11 L:4 D:0 Bonus ✅ 
+description: W:12 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 5 - 0 **方星集团**
-date: 2025-03-12T10:42:07.000Z
+Summary: ✅ 4 - 2 **KEPLER\-442  b**
+date: 2025-03-17T14:36:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-03-12T10:42:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (249)|
-| ELO Competitive | 1276 🔺  (367)|
-| Total Matches | 15 |
-| Wins | 11 |
+| ELO Regular | 1272 🔺  (223)|
+| ELO Competitive | 1287 🔺  (336)|
+| Total Matches | 16 |
+| Wins | 12 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/17 | 4-2 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ✅ | 2025/03/12 | 5-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ✅ | 2025/03/06 | 5-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2025/02/28 | 3-11 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
@@ -162,5 +163,5 @@ Corporation ID: 9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741776127"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742222208"></span>
 </div>

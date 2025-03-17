@@ -1,9 +1,9 @@
 ---
 title: ​RedStar Raiding
-description: W:13 L:57 D:1 Bonus ✅ 36%
+description: W:13 L:58 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 10 - 1 **Outcasts**
-date: 2025-03-16T20:58:48.000Z
+Summary: ❌ 0 - 18 **Empire of Hades**
+date: 2025-03-17T12:55:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ l.  PG-13 chat. Must be able to communicate in English.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1001 🔺  (1432)|
-| ELO Competitive | 1063 🔺  (1438)|
-| Total Matches | 71 |
+| ELO Regular | 997 🔻  (1436)|
+| ELO Competitive | 1063 🔺  (1440)|
+| Total Matches | 72 |
 | Wins | 13 |
-| Losses | 57 |
+| Losses | 58 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741726728,1741119731,1740507006,1739927618,1739315503,1738702776,1738100244,1737498650,1736994086,1736463639,1735964121,1735369157,1734875203,1734465667,1733858710,1733261652,1732652117,1732047951,1731453272,1730838698,1730221819,1729637649,1729048336,1728407858,1727832661,1727220246,1726633276,1726014143,1725393019,1724794423,1724198213,1723579448,1723021093,1722385518,1721771256,1721165128,1720563159,1719956061,1719368261,1718776852,1718179873,1717572119,1716943402,1716344833,1715740933,1715070621,1714566653,1713936580,1713394286,1712741941,1712079689,1711486242,1710925254,1710357370,1709708050,1709147363,1708572507,1707898809,1707393821,1706745771,1706140533,1705531091,1704912638,1704423812,1703189166,1702615844,1702014744,1701510433,1700856146,1700209666,1699604245];
+        let timestamps = [1741784113,1741726728,1741119731,1740507006,1739927618,1739315503,1738702776,1738100244,1737498650,1736994086,1736463639,1735964121,1735369157,1734875203,1734465667,1733858710,1733261652,1732652117,1732047951,1731453272,1730838698,1730221819,1729637649,1729048336,1728407858,1727832661,1727220246,1726633276,1726014143,1725393019,1724794423,1724198213,1723579448,1723021093,1722385518,1721771256,1721165128,1720563159,1719956061,1719368261,1718776852,1718179873,1717572119,1716943402,1716344833,1715740933,1715070621,1714566653,1713936580,1713394286,1712741941,1712079689,1711486242,1710925254,1710357370,1709708050,1709147363,1708572507,1707898809,1707393821,1706745771,1706140533,1705531091,1704912638,1704423812,1703189166,1702615844,1702014744,1701510433,1700856146,1700209666,1699604245];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 0 | 2 | 0 | 2 |
 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 0 | 5 | 0 | 5 |
 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 0 | 2 | 0 | 2 |
 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/17 | 0-18 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/03/16 | 10-1 | [Outcasts](https://ws.tsl.rocks/corp/a5d77400f5f6762d9c869428160b2f0bf115c23cba5a694f6c8e7b9cd71c2bf0/) |
 | ❌ | 2025/03/09 | 4-10 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ❌ | 2025/03/02 | 6-42 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
@@ -222,5 +224,5 @@ Corporation ID: 83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742158728"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742216113"></span>
 </div>
