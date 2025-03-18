@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:21 L:11 D:1 Bonus ✅ 36%
+description: W:21 L:11 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 39 - 0 **Germania**
 date: 2025-03-11T04:02:42.000Z
@@ -16,7 +16,7 @@ date: 2025-03-11T04:02:42.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
