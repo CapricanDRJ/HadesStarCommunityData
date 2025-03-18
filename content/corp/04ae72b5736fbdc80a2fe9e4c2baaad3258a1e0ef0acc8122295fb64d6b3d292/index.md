@@ -1,6 +1,6 @@
 ---
 title: ​three kitties
-description: W:54 L:35 D:4 Bonus ✅ 38%
+description: W:54 L:35 D:4 Bonus ❌ 38%
 image: ./favicon.png
 Summary: ❌ 1 - 13 **对，进就进人少的（分团）**
 date: 2025-03-12T00:07:06.000Z
@@ -17,12 +17,12 @@ e Infos on Discord or at: hadestitans.com
 <br>
 
 ### [Discord](https://discord.gg/YPC7XenfdY)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 38%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1286 🔻  (200)|
-| ELO Competitive | 1510 🔺  (68)|
+| ELO Competitive | 1510 🔺  (67)|
 | Total Matches | 93 |
 | Wins | 54 |
 | Losses | 35 |
