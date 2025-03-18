@@ -1,6 +1,6 @@
 ---
 title: ​Highlife
-description: W:25 L:43 D:1 Bonus ✅ 36%
+description: W:25 L:43 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 16 - 41 **Fleet Corp Ares**
 date: 2025-03-16T03:12:04.000Z
@@ -18,7 +18,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 <br>
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

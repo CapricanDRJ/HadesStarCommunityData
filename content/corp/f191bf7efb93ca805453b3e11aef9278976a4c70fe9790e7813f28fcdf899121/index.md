@@ -1,6 +1,6 @@
 ---
 title: ​Dumpster Fire
-description: W:25 L:52 D:0 Bonus ✅ 42%
+description: W:25 L:52 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 8 - 28 **Bl@ck/Galaxy **
 date: 2025-03-16T02:22:00.000Z
@@ -22,7 +22,7 @@ Discord-Free White Star
 <br>
 
 ### [Discord](https://discord.gg/FCWdtswtP5)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

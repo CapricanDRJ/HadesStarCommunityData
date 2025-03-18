@@ -1,6 +1,6 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:21 L:6 D:0 Bonus ✅ 34%
+description: W:21 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 18 - 1 **Nebulae Traders**
 date: 2025-03-10T23:34:46.000Z
@@ -16,12 +16,12 @@ date: 2025-03-10T23:34:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1324 🔺  (139)|
-| ELO Competitive | 1395 🔺  (161)|
+| ELO Competitive | 1395 🔺  (162)|
 | Total Matches | 27 |
 | Wins | 21 |
 | Losses | 6 |

@@ -1,6 +1,6 @@
 ---
 title: ​Cydonia Order
-description: W:23 L:14 D:3 Bonus ✅ 36%
+description: W:23 L:14 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 19 - 16 **IMPERIAL ARMADA**
 date: 2025-03-10T23:49:47.000Z
@@ -15,7 +15,7 @@ THE CYDONIAN EMPIRE™
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

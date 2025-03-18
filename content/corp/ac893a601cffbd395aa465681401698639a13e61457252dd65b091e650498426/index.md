@@ -20,7 +20,7 @@ ou can.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (933)|
+| ELO Regular | 1176 🔻  (934)|
 | ELO Competitive | 1176 🔻  (1099)|
 | Total Matches | 2 |
 | Wins | 0 |

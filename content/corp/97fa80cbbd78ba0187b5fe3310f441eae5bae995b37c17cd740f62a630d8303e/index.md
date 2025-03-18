@@ -19,7 +19,7 @@ Bacon goes great with......EVERYTHING!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (916)|
+| ELO Regular | 1177 🔻  (917)|
 | ELO Competitive | 1184 🔻  (1013)|
 | Total Matches | 10 |
 | Wins | 4 |
