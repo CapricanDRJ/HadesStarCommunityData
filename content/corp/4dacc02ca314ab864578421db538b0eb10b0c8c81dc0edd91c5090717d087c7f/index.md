@@ -1,6 +1,6 @@
 ---
 title: ​Armored Union 
-description: W:31 L:28 D:1 Bonus ✅ 36%
+description: W:31 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 20 - 0 **●Black•Sails●**
 date: 2025-03-11T08:13:41.000Z
@@ -18,7 +18,7 @@ an Armored Union of warriors! Share Artifacts and build strong allies
 <br>
 
 ### [Discord](https://discord.gg/v454nxdC)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

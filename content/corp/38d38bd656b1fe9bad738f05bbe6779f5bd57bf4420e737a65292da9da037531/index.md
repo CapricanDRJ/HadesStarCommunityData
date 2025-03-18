@@ -1,6 +1,6 @@
 ---
 title: ​Lololol
-description: W:5 L:3 D:0 Bonus ✅ 
+description: W:5 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 13 - 0 **⭐PRETORIANS\.X⭐**
 date: 2025-03-11T09:45:36.000Z
@@ -15,7 +15,7 @@ date: 2025-03-11T09:45:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

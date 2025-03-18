@@ -1,9 +1,9 @@
 ---
 title: ​G.02
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 4 - 0 **国际联盟**
-date: 2025-03-04T11:19:04.000Z
+Summary: ❌ 1 - 9 **中国人民联盟**
+date: 2025-03-18T09:37:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-04T11:19:04.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (528)|
-| ELO Competitive | 1206 🔺  (652)|
-| Total Matches | 2 |
+| ELO Regular | 1185 🔻  (773)|
+| ELO Competitive | 1190 🔻  (807)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740655144,1739436894];
+        let timestamps = [1741858632,1740655144,1739436894];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/18 | 1-9 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ✅ | 2025/03/04 | 4-0 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2025/02/18 | 4-6 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 
@@ -141,5 +142,5 @@ Corporation ID: 3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741087144"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742290632"></span>
 </div>
