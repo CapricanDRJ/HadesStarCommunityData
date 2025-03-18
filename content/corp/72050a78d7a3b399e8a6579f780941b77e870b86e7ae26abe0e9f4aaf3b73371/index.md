@@ -1,6 +1,6 @@
 ---
 title: ​Death Starz
-description: W:1 L:1 D:0 Bonus ✅ 30%
+description: W:1 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **ГОРИЗОНТ**
 date: 2025-03-11T03:00:02.000Z
@@ -16,7 +16,7 @@ s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

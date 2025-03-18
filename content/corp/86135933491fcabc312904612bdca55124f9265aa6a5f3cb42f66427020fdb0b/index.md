@@ -1,6 +1,6 @@
 ---
 title: ​Newbs
-description: W:43 L:26 D:1 Bonus ✅ 44%
+description: W:43 L:26 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 25 - 23 **BrinySeal**
 date: 2025-03-11T02:19:59.000Z
@@ -18,7 +18,7 @@ rience and have some fun!
 <br>
 
 ### [Discord](https://discord.gg/WKKwkbPsya)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

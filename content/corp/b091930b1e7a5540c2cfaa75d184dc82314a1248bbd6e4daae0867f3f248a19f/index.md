@@ -1,9 +1,9 @@
 ---
 title: ​Ещё один Миф
-description: W:13 L:21 D:0 Bonus ✅ 40%
+description: W:13 L:22 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 37 - 0 **Free Thinkers 2**
-date: 2025-03-12T23:09:27.000Z
+Summary: ❌ 2 - 27 **中国星际联盟**
+date: 2025-03-18T02:36:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-03-12T23:09:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (966)|
-| ELO Competitive | 1260 🔺  (412)|
-| Total Matches | 34 |
+| ELO Regular | 1157 🔻  (1123)|
+| ELO Competitive | 1249 🔻  (437)|
+| Total Matches | 35 |
 | Wins | 13 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/18 | 2-27 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2025/03/12 | 37-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2025/03/07 | 0-8 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/03/07 | 7-49 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
@@ -186,5 +187,5 @@ Corporation ID: b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741820967"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742265397"></span>
 </div>

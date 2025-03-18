@@ -21,7 +21,7 @@ telar, Alfa Omega GuistonRA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (136)|
+| ELO Regular | 1325 🔻  (137)|
 | ELO Competitive | 1406 🔺  (147)|
 | Total Matches | 32 |
 | Wins | 21 |
