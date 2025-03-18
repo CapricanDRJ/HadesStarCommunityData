@@ -1,9 +1,9 @@
 ---
 title: ​Justice Vengers
-description: W:38 L:12 D:2 Bonus ❌ 8%
+description: W:39 L:12 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 30 - 11 **The Allegiant**
-date: 2025-03-06T03:43:06.000Z
+Summary: ✅ 13 - 9 **Spaceballs**
+date: 2025-03-18T19:13:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ date: 2025-03-06T03:43:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1370 🔺  (83)|
-| ELO Competitive | 1529 🔺  (58)|
-| Total Matches | 52 |
-| Wins | 38 |
+| ELO Regular | 1386 🔺  (71)|
+| ELO Competitive | 1542 🔺  (48)|
+| Total Matches | 53 |
+| Wins | 39 |
 | Losses | 12 |
 | Draws | 2 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 9 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740800586,1740240165,1739670385,1739219949,1738785112,1738777297,1738152522,1738148616,1737518780,1737479417,1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1741893192,1740800586,1740240165,1739670385,1739219949,1738785112,1738777297,1738152522,1738148616,1737518780,1737479417,1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/18 | 13-9 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ✅ | 2025/03/06 | 30-11 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2025/02/27 | 27-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2025/02/21 | 21-6 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
@@ -206,5 +207,5 @@ Corporation ID: 0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741232586"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742325192"></span>
 </div>

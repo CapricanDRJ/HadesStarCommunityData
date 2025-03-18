@@ -1,6 +1,6 @@
 ---
 title: ​Galaxians
-description: W:26 L:40 D:0 Bonus ✅ 36%
+description: W:26 L:40 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 10 - 34 **Atlas Star llc\.**
 date: 2025-03-18T16:17:53.000Z
@@ -17,7 +17,7 @@ tive players wanting to grow.White Star⚪ on Thursdays.
 <br>
 
 ### [Discord](https://discord.gg/Hc9hVMCcMT)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

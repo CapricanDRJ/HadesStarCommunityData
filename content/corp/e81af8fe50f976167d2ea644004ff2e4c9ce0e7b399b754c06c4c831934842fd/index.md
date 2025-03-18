@@ -1,6 +1,6 @@
 ---
 title: ​SPACING GUILD
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 1 **imperio galacti**
 date: 2025-03-11T19:41:40.000Z
@@ -15,7 +15,7 @@ date: 2025-03-11T19:41:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
