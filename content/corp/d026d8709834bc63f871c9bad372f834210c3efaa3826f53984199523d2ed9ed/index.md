@@ -1,6 +1,6 @@
 ---
 title: ​万星联盟
-description: W:50 L:10 D:0 Bonus ✅ 38%
+description: W:50 L:10 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **⭐PRETORIANS\.X⭐**
 date: 2025-03-11T14:51:06.000Z
@@ -17,7 +17,7 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

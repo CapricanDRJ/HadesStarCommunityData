@@ -1,6 +1,6 @@
 ---
 title: ​Dumpster Fire 2
-description: W:44 L:60 D:3 Bonus ✅ 42%
+description: W:44 L:60 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 17 - 1 **First Legion**
 date: 2025-03-11T13:05:55.000Z
@@ -20,12 +20,12 @@ date: 2025-03-11T13:05:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔺  (1303)|
-| ELO Competitive | 1248 🔺  (439)|
+| ELO Competitive | 1248 🔺  (438)|
 | Total Matches | 107 |
 | Wins | 44 |
 | Losses | 60 |
