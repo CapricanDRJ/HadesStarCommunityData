@@ -1,9 +1,9 @@
 ---
 title: ​The Syndicate 
-description: W:32 L:6 D:0 Bonus ✅ 36%
+description: W:32 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **佛矿寺**
-date: 2025-03-11T11:50:47.000Z
+Summary: ❌ 0 - 19 **毛绒团子**
+date: 2025-03-18T11:32:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,16 @@ ons.
 <br>
 
 ### [Discord](https://discord.gg/B3N5by8zUb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1416 🔺  (50)|
-| ELO Competitive | 1457 🔺  (106)|
-| Total Matches | 38 |
+| ELO Regular | 1399 🔻  (60)|
+| ELO Competitive | 1438 🔻  (121)|
+| Total Matches | 39 |
 | Wins | 32 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 20 |
 | Flagship | 3 |
 
@@ -50,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741261847,1740656646,1739450660,1738840699,1738240144,1737644684,1736437487,1735815061,1734600870,1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
+        let timestamps = [1741865543,1741261847,1740656646,1739450660,1738840699,1738240144,1737644684,1736437487,1735815061,1734600870,1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/18 | 0-19 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/03/11 | 21-0 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2025/03/04 | 12-2 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ✅ | 2025/02/18 | 21-3 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
@@ -190,5 +190,5 @@ Corporation ID: a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741693847"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742297543"></span>
 </div>

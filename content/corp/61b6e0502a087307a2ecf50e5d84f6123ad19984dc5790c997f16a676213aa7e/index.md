@@ -1,6 +1,6 @@
 ---
 title: ​羽共和体
-description: W:19 L:28 D:8 Bonus ✅ 34%
+description: W:19 L:28 D:8 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 7 **✨ℛedstar Order«**
 date: 2025-03-16T12:19:45.000Z
@@ -17,7 +17,7 @@ date: 2025-03-16T12:19:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
