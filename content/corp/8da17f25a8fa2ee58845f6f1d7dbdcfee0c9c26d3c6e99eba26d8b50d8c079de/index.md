@@ -1,9 +1,9 @@
 ---
 title: ​无人之境
-description: W:1 L:19 D:0 Bonus ❌ 5%
+description: W:2 L:19 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 3 - 25 **Stellar Exports**
-date: 2025-03-14T09:57:57.000Z
+Summary: ✅ 4 - 0 **Avantgarde**
+date: 2025-03-19T16:50:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ You are lucky to meet me in White Star! Congratulations!
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1417)|
-| ELO Competitive | 1085 🔻  (1425)|
-| Total Matches | 20 |
-| Wins | 1 |
+| ELO Regular | 1039 🔺  (1415)|
+| ELO Competitive | 1097 🔺  (1420)|
+| Total Matches | 21 |
+| Wins | 2 |
 | Losses | 19 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
+        let timestamps = [1741971010,1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/19 | 4-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2025/03/14 | 3-25 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/03/08 | 3-61 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2025/03/03 | 3-44 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
@@ -164,5 +165,5 @@ Corporation ID: 8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741946277"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742403010"></span>
 </div>

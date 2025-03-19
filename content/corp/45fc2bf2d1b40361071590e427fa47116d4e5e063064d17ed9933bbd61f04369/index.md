@@ -1,9 +1,9 @@
 ---
 title: ​Deadspace
-description: W:31 L:42 D:0 Bonus ❌ 14%
+description: W:31 L:43 D:0 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ✅ 59 - 0 **柯伊伯带**
-date: 2025-03-11T19:56:42.000Z
+Summary: ❌ 33 - 68 **Continuum**
+date: 2025-03-19T17:00:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ Discord mandatory.  <b>EEpZuWf</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (495)|
-| ELO Competitive | 1318 🔺  (274)|
-| Total Matches | 73 |
+| ELO Regular | 1197 🔻  (567)|
+| ELO Competitive | 1314 🔻  (280)|
+| Total Matches | 74 |
 | Wins | 31 |
-| Losses | 42 |
+| Losses | 43 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 11 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741291002,1740501596,1739882235,1739256003,1738652886,1737879067,1737359215,1736866961,1736346128,1735819869,1734480690,1733894793,1733236107,1732691896,1732091514,1731580067,1730788551,1730287019,1729686922,1729158022,1728678642,1728136196,1727531256,1727076610,1726560163,1726126217,1725642721,1725171252,1724660996,1724159744,1723563819,1723086604,1722579940,1721933826,1721404321,1720798748,1720322095,1719764025,1719292231,1718719453,1718202713,1717735916,1717118293,1716637460,1716135124,1715653804,1714954952,1714394476,1713882198,1713378958,1712819460,1712324875,1711722111,1711130168,1710484759,1709739298,1709263644,1708806611,1708266920,1707814066,1707235341,1706762597,1706328950,1705896517,1705350183,1704276142,1702631770,1702134365,1700867568,1700198246,1699732324,1699168823,1698686464];
+        let timestamps = [1741971611,1741291002,1740501596,1739882235,1739256003,1738652886,1737879067,1737359215,1736866961,1736346128,1735819869,1734480690,1733894793,1733236107,1732691896,1732091514,1731580067,1730788551,1730287019,1729686922,1729158022,1728678642,1728136196,1727531256,1727076610,1726560163,1726126217,1725642721,1725171252,1724660996,1724159744,1723563819,1723086604,1722579940,1721933826,1721404321,1720798748,1720322095,1719764025,1719292231,1718719453,1718202713,1717735916,1717118293,1716637460,1716135124,1715653804,1714954952,1714394476,1713882198,1713378958,1712819460,1712324875,1711722111,1711130168,1710484759,1709739298,1709263644,1708806611,1708266920,1707814066,1707235341,1706762597,1706328950,1705896517,1705350183,1704276142,1702631770,1702134365,1700867568,1700198246,1699732324,1699168823,1698686464];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 3 | 0 | 3 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 0 | 2 | 0 | 2 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 | 1 | 0 | 2 |
@@ -162,6 +163,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/19 | 33-68 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/03/11 | 59-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2025/03/02 | 9-29 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2025/02/23 | 60-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
@@ -242,5 +244,5 @@ Corporation ID: 45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741723002"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742403611"></span>
 </div>

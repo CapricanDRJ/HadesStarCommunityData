@@ -1,9 +1,9 @@
 ---
 title: ​Эдем
-description: W:17 L:14 D:0 Bonus ❌ 7%
+description: W:17 L:15 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 4 - 22 **imperio galacti**
-date: 2025-03-11T16:51:19.000Z
+Summary: ❌ 4 - 5 **九州分团**
+date: 2025-03-19T16:20:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-03-11T16:51:19.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (277)|
-| ELO Competitive | 1335 🔻  (237)|
-| Total Matches | 31 |
+| ELO Regular | 1235 🔻  (328)|
+| ELO Competitive | 1328 🔻  (250)|
+| Total Matches | 32 |
 | Wins | 17 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741279879,1740842063,1740551782,1740325505,1740104037,1739624102,1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
+        let timestamps = [1741969206,1741279879,1740842063,1740551782,1740325505,1740104037,1739624102,1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/19 | 4-5 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/03/11 | 4-22 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2025/03/06 | 7-1 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/03/03 | 6-13 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
@@ -173,5 +174,5 @@ Corporation ID: a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741711879"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742401206"></span>
 </div>
