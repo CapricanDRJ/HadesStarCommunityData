@@ -1,9 +1,9 @@
 ---
 title: ​Star Blazers
-description: W:16 L:43 D:1 Bonus ❌ 8%
+description: W:16 L:44 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 4 - 12 **Kelebra**
-date: 2025-03-04T22:55:19.000Z
+Summary: ❌ 1 - 3 **Seila**
+date: 2025-03-19T07:09:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔻  (1392)|
-| ELO Competitive | 1142 🔻  (1343)|
-| Total Matches | 60 |
+| ELO Regular | 1057 🔻  (1404)|
+| ELO Competitive | 1128 🔻  (1378)|
+| Total Matches | 61 |
 | Wins | 16 |
-| Losses | 43 |
+| Losses | 44 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740696919,1740108844,1739567310,1738729517,1738270620,1737704178,1736879887,1736411640,1735365552,1734915171,1733698564,1733243620,1732743595,1732255878,1731120593,1730520806,1729381019,1728486293,1728015678,1726681776,1726194429,1725661354,1724982534,1724221949,1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
+        let timestamps = [1741936153,1740696919,1740108844,1739567310,1738729517,1738270620,1737704178,1736879887,1736411640,1735365552,1734915171,1733698564,1733243620,1732743595,1732255878,1731120593,1730520806,1729381019,1728486293,1728015678,1726681776,1726194429,1725661354,1724982534,1724221949,1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/19 | 1-3 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 | ❌ | 2025/03/04 | 4-12 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2025/02/26 | 4-24 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2025/02/19 | 3-30 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
@@ -217,5 +218,5 @@ Corporation ID: f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741128919"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742368153"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Слава Украине!
-description: W:110 L:47 D:1 Bonus ✅ 46%
+description: W:110 L:47 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 10 - 26 **Hamburg AG 2**
 date: 2025-03-17T09:29:53.000Z
@@ -18,7 +18,7 @@ date: 2025-03-17T09:29:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
