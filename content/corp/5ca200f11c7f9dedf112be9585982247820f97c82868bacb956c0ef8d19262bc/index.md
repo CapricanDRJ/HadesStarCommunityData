@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Light
-description: W:17 L:34 D:1 Bonus ✅ 36%
+description: W:17 L:34 D:1 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ❌ 7 - 8 **Nebulae Traders**
 date: 2025-03-18T01:11:31.000Z
@@ -17,7 +17,7 @@ space of this game. WS every week. Join us into the Light!
 <br>
 
 ### [Discord](https://discord.gg/pfsfZwqh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |

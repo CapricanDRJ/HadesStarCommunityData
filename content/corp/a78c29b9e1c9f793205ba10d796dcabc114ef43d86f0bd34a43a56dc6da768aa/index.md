@@ -1,9 +1,9 @@
 ---
 title: ​Warriorlords
-description: W:41 L:19 D:0 Bonus ✅ 36%
+description: W:42 L:19 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 16 - 4 **Interstellar**
-date: 2025-03-18T23:48:38.000Z
+Summary: ✅ 31 - 0 **Blood Hounds**
+date: 2025-03-19T02:33:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ ith the Titans of Terror.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1401 🔺  (57)|
-| ELO Competitive | 1549 🔺  (44)|
-| Total Matches | 60 |
-| Wins | 41 |
+| ELO Regular | 1419 🔺  (51)|
+| ELO Competitive | 1563 🔺  (40)|
+| Total Matches | 61 |
+| Wins | 42 |
 | Losses | 19 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741909718,1741106206,1741048217,1739478668,1739469351,1738447030,1738245673,1737047582,1737039765,1736044989,1735862845,1734129434,1733949449,1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
+        let timestamps = [1741919631,1741909718,1741106206,1741048217,1739478668,1739469351,1738447030,1738245673,1737047582,1737039765,1736044989,1735862845,1734129434,1733949449,1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/19 | 31-0 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2025/03/18 | 16-4 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2025/03/09 | 11-18 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ✅ | 2025/03/09 | 17-15 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
@@ -215,5 +217,5 @@ Corporation ID: a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742341718"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742351631"></span>
 </div>
