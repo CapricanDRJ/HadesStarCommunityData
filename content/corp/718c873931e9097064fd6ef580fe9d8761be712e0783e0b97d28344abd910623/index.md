@@ -1,6 +1,6 @@
 ---
 title: ​lesescargots
-description: W:66 L:22 D:1 Bonus ✅ 40%
+description: W:66 L:22 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ↔️ 18 - 18 **The Foundation**
 date: 2025-03-18T02:36:37.000Z
@@ -15,7 +15,7 @@ Closed the list
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​titan tv
-description: W:9 L:22 D:1 Bonus ❌ 6%
+description: W:9 L:22 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **Uniones**
-date: 2024-06-21T15:34:31.000Z
+Summary: ↔️ 3 - 3 **ALPHA**
+date: 2025-03-18T23:03:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ guarida del titan tv
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1091 🔺  (1363)|
-| ELO Competitive | 1189 🔺  (845)|
-| Total Matches | 32 |
+| ELO Regular | 1101 🔺  (1351)|
+| ELO Competitive | 1198 🔺  (723)|
+| Total Matches | 33 |
 | Wins | 9 |
 | Losses | 22 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718552071,1714948658,1713465492,1713463088,1713029793,1712522301,1712022601,1711564060,1711556848,1711119951,1711119951,1710659134,1710649725,1710195122,1710180998,1709703243,1709703243,1709153823,1709151871,1708716762,1708680097,1708229356,1707797041,1707795437,1707362273,1707225490,1706929981,1706724734,1706469897,1706284173,1706037759,1705595994];
+        let timestamps = [1741907015,1718552071,1714948658,1713465492,1713463088,1713029793,1712522301,1712022601,1711564060,1711556848,1711119951,1711119951,1710659134,1710649725,1710195122,1710180998,1709703243,1709703243,1709153823,1709151871,1708716762,1708680097,1708229356,1707797041,1707795437,1707362273,1707225490,1706929981,1706724734,1706469897,1706284173,1706037759,1705595994];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/18 | 3-3 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/06/21 | 4-0 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) |
 | ❌ | 2024/05/10 | 0-40 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2024/04/23 | 0-10 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
@@ -178,5 +179,5 @@ Corporation ID: 30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1718984071"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742339015"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Azennor inc.
-description: W:1 L:2 D:0 Bonus ✅ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 6 **蓝色星系二号分盟**
 date: 2025-03-18T11:42:24.000Z
@@ -15,7 +15,7 @@ date: 2025-03-18T11:42:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
