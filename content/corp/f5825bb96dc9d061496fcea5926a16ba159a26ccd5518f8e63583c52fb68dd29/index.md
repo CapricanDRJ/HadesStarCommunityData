@@ -1,6 +1,6 @@
 ---
 title: ​Red_Coat_Mafia
-description: W:28 L:34 D:1 Bonus ✅ 46%
+description: W:28 L:34 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 14 - 3 **ItaFederalFleet**
 date: 2025-03-12T19:29:03.000Z
@@ -18,7 +18,7 @@ ccount inGame to be a member. InGame space is prioritized for running
 <br>
 
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Pioneer
-description: W:6 L:4 D:0 Bonus ✅ 
+description: W:8 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 0 **Space Scourge**
-date: 2025-03-13T09:55:30.000Z
+Summary: ✅ 2 - 0 **Crastorios**
+date: 2025-03-19T20:15:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-13T09:55:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (347)|
-| ELO Competitive | 1245 🔺  (451)|
-| Total Matches | 10 |
-| Wins | 6 |
+| ELO Regular | 1258 🔺  (258)|
+| ELO Competitive | 1261 🔺  (407)|
+| Total Matches | 12 |
+| Wins | 8 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
+        let timestamps = [1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/19 | 2-0 | [Crastorios](https://ws.tsl.rocks/corp/cf8e92451d31be30383d7359e1e2095ccb8e0c4afe78451b4fd39cb4dab1f3e0/) |
+| ✅ | 2025/03/19 | 10-3 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/03/13 | 9-0 | [Space Scourge](https://ws.tsl.rocks/corp/04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1/) |
 | ✅ | 2025/03/06 | 8-2 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2025/02/25 | 2-21 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -151,5 +153,5 @@ Corporation ID: fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741859730"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742415335"></span>
 </div>

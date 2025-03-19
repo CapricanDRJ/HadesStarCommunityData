@@ -1,9 +1,9 @@
 ---
 title: ​РARADISЕ
-description: W:6 L:2 D:0 Bonus ✅ 
+description: W:6 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 14 - 0 **分子集团**
-date: 2025-03-18T22:33:32.000Z
+Summary: ❌ 3 - 10 **Quantum Pioneer**
+date: 2025-03-19T20:15:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-03-18T22:33:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (289)|
+| ELO Regular | 1229 🔻  (350)|
 | ELO Competitive | 1267 🔺  (388)|
-| Total Matches | 8 |
+| Total Matches | 9 |
 | Wins | 6 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
+        let timestamps = [1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/19 | 3-10 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/03/18 | 14-0 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ✅ | 2025/03/14 | 1-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2025/03/12 | 26-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
@@ -149,5 +149,5 @@ Corporation ID: 03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742337212"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742415335"></span>
 </div>
