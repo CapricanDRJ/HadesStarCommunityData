@@ -1,9 +1,9 @@
 ---
 title: ​Glashan
-description: W:12 L:49 D:0 Bonus ❌ 8%
+description: W:12 L:50 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 6 - 18 **星落苑**
-date: 2025-03-12T11:58:08.000Z
+Summary: ❌ 2 - 25 **Wompwompway **
+date: 2025-03-19T15:30:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ our main language in chat.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1044 🔻  (1413)|
-| ELO Competitive | 1109 🔻  (1406)|
-| Total Matches | 61 |
+| ELO Regular | 1039 🔻  (1414)|
+| ELO Competitive | 1104 🔻  (1409)|
+| Total Matches | 62 |
 | Wins | 12 |
-| Losses | 49 |
+| Losses | 50 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741348688,1740796980,1740220328,1739667681,1739102442,1738616531,1737959607,1737465891,1736707384,1735540433,1734501717,1733924804,1733317832,1732810005,1732306362,1731697564,1731230592,1730773530,1730021379,1729470874,1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
+        let timestamps = [1741966200,1741348688,1740796980,1740220328,1739667681,1739102442,1738616531,1737959607,1737465891,1736707384,1735540433,1734501717,1733924804,1733317832,1732810005,1732306362,1731697564,1731230592,1730773530,1730021379,1729470874,1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) | 0 | 2 | 0 | 2 |
 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) | 0 | 2 | 0 | 2 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1 | 1 | 0 | 2 |
 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 0 | 2 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/19 | 2-25 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ❌ | 2025/03/12 | 6-18 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2025/03/06 | 3-9 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/02/27 | 1-22 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
@@ -213,5 +215,5 @@ Corporation ID: 48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741780688"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742398200"></span>
 </div>
