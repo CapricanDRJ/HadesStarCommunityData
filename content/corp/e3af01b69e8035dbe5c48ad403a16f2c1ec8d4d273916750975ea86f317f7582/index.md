@@ -27,7 +27,7 @@ ALT=NO PROMOTION
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (344)|
-| ELO Competitive | 1230 🔺  (494)|
+| ELO Competitive | 1230 🔺  (493)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

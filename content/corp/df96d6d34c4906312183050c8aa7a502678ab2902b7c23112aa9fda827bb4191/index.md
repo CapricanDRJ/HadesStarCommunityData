@@ -1,6 +1,6 @@
 ---
 title: ​Spica​
-description: W:40 L:9 D:1 Bonus ✅ 36%
+description: W:40 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 25 - 2 **Rogue Corp**
 date: 2025-03-12T05:37:32.000Z
@@ -18,7 +18,7 @@ date: 2025-03-12T05:37:32.000Z
 <br>
 
 ### [Discord](https://discord.gg/XQ47nAEXuY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

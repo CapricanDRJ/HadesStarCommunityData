@@ -1,6 +1,6 @@
 ---
 title: ​E.T.A
-description: W:13 L:42 D:0 Bonus ✅ 52%
+description: W:13 L:42 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 25 **\-=FCA=\-**
 date: 2025-03-16T14:58:09.000Z
@@ -16,7 +16,7 @@ date: 2025-03-16T14:58:09.000Z
 <br>
 
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

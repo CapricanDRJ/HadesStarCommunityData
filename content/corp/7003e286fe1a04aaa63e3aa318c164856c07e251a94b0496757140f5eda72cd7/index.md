@@ -1,9 +1,9 @@
 ---
 title: ​Trade Station
-description: W:9 L:52 D:0 Bonus ❌ 14%
+description: W:10 L:52 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 21 - 4 **Death Flight**
-date: 2025-03-09T10:11:06.000Z
+Summary: ✅ 42 - 33 **Lost Legion**
+date: 2025-03-19T05:54:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,16 +23,17 @@ Find us on Discord: YTaYrhy
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 992 🔺  (1438)|
-| ELO Competitive | 1071 🔺  (1435)|
-| Total Matches | 61 |
-| Wins | 9 |
+| ELO Regular | 1012 🔺  (1433)|
+| ELO Competitive | 1092 🔺  (1422)|
+| Total Matches | 62 |
+| Wins | 10 |
 | Losses | 52 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 13 |
 
@@ -52,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741083066,1740046622,1739312198,1738752953,1738090927,1737608925,1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
+        let timestamps = [1741931647,1741083066,1740046622,1739312198,1738752953,1738090927,1737608925,1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 1 | 0 | 3 |
 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 1 | 1 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 0 | 2 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 3 | 0 | 4 |
@@ -148,7 +150,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) | 0 | 2 | 0 | 2 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 0 | 3 | 0 | 3 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 0 | 2 | 0 | 2 |
-| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 1 | 1 | 0 | 2 |
 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 0 | 2 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 0 | 3 | 0 | 3 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 2 | 0 | 2 |
@@ -159,6 +160,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/19 | 42-33 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2025/03/09 | 21-4 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2025/02/25 | 24-39 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2025/02/16 | 14-50 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
@@ -227,5 +229,5 @@ Corporation ID: 7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741515066"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742363647"></span>
 </div>
