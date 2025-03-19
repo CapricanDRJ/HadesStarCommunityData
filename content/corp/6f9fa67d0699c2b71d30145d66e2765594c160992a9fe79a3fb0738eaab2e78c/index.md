@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:21 L:11 D:0 Bonus ✅ 34%
+description: W:21 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 18 - 6 **Glashan**
 date: 2025-03-12T11:58:08.000Z
@@ -17,7 +17,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
