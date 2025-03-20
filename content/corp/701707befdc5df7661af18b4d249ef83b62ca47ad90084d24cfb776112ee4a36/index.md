@@ -1,6 +1,6 @@
 ---
 title: ​星系联盟
-description: W:6 L:5 D:0 Bonus ✅ 30%
+description: W:6 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 10 - 3 **WhiteSTarfighte**
 date: 2025-03-13T11:20:38.000Z
@@ -16,7 +16,7 @@ date: 2025-03-13T11:20:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
