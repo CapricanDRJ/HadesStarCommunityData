@@ -1,6 +1,6 @@
 ---
 title: ​The Witness
-description: W:18 L:37 D:5 Bonus ✅ 36%
+description: W:18 L:37 D:5 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 24 **Battle Academy**
 date: 2025-03-19T20:00:33.000Z
@@ -18,7 +18,7 @@ Note- Discord link is updated. Will expire in 7 DAYS
 <br>
 
 ### [Discord](https://discord.gg/CzUVew5w)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

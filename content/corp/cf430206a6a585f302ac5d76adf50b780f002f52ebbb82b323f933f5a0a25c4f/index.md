@@ -1,9 +1,9 @@
 ---
 title: ​Stargroup
-description: W:0 L:10 D:5 Bonus ❌ 5%
+description: W:0 L:11 D:5 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 19 **Hades’ galaxy**
-date: 2025-03-14T07:52:26.000Z
+Summary: ❌ 0 - 4 **星约组织：基地分团**
+date: 2025-03-20T09:40:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ We do all types of stars we help in red stars we prepare to battle in
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1101 🔻  (1351)|
-| ELO Competitive | 1123 🔻  (1385)|
-| Total Matches | 15 |
+| ELO Regular | 1086 🔻  (1371)|
+| ELO Competitive | 1108 🔻  (1408)|
+| Total Matches | 16 |
 | Wins | 0 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 5 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741506746,1740852884,1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
+        let timestamps = [1742031625,1741506746,1740852884,1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/20 | 0-4 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ❌ | 2025/03/14 | 0-19 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ↔️ | 2025/03/06 | 0-0 | [Imperium ](https://ws.tsl.rocks/corp/1bee8539d5e3c0f0b83f326b0f0e279264bdce34dbe65b7f644ca62190e407f0/) |
 | ↔️ | 2025/03/01 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
@@ -155,5 +156,5 @@ Corporation ID: cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741938746"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742463625"></span>
 </div>
