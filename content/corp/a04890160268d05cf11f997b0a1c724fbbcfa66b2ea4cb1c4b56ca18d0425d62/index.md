@@ -1,6 +1,6 @@
 ---
 title: ​GDZ
-description: W:51 L:43 D:0 Bonus ✅ 46%
+description: W:51 L:43 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 15 - 7 **UAGC**
 date: 2025-03-13T19:16:32.000Z
@@ -16,7 +16,7 @@ date: 2025-03-13T19:16:32.000Z
 <br>
 
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
