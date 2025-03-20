@@ -1,9 +1,9 @@
 ---
 title: ​星域 
-description: W:8 L:12 D:0 Bonus ✅ 32%
+description: W:9 L:12 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 31 **Soul System**
-date: 2025-03-20T11:32:08.000Z
+Summary: ✅ 12 - 0 **落魄山**
+date: 2025-03-20T13:19:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1130)|
-| ELO Competitive | 1283 🔻  (350)|
-| Total Matches | 20 |
-| Wins | 8 |
+| ELO Regular | 1170 🔺  (1027)|
+| ELO Competitive | 1312 🔺  (283)|
+| Total Matches | 21 |
+| Wins | 9 |
 | Losses | 12 |
 | Draws | 0 |
 | Flagship | 2 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
+        let timestamps = [1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/20 | 12-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/03/20 | 0-31 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) |
 | ❌ | 2025/03/15 | 0-17 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ✅ | 2025/03/15 | 10-0 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
@@ -159,5 +160,5 @@ Corporation ID: 9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742470328"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742476787"></span>
 </div>

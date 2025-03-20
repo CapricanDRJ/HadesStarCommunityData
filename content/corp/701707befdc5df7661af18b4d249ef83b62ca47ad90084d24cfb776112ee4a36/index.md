@@ -1,9 +1,9 @@
 ---
 title: ​星系联盟
-description: W:6 L:5 D:0 Bonus ❌ 5%
+description: W:7 L:5 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 10 - 3 **WhiteSTarfighte**
-date: 2025-03-13T11:20:38.000Z
+Summary: ✅ 8 - 1 **DarkSide**
+date: 2025-03-20T13:32:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 2025-03-13T11:20:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (386)|
-| ELO Competitive | 1230 🔺  (498)|
-| Total Matches | 11 |
-| Wins | 6 |
+| ELO Regular | 1233 🔺  (332)|
+| ELO Competitive | 1243 🔺  (461)|
+| Total Matches | 12 |
+| Wins | 7 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 1 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
+        let timestamps = [1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/20 | 8-1 | [DarkSide](https://ws.tsl.rocks/corp/557178dd3a3d43ff1751021bfc2d8c1d4261336a45f90d392f3dd275d8a0a941/) |
 | ✅ | 2025/03/13 | 10-3 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/03/06 | 2-0 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ❌ | 2025/02/26 | 1-17 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
@@ -153,5 +154,5 @@ Corporation ID: 701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741864838"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742477543"></span>
 </div>

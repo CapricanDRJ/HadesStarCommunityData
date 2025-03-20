@@ -22,7 +22,7 @@ ce is futile. No politics and no racism.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (763)|
-| ELO Competitive | 1186 🔻  (955)|
+| ELO Competitive | 1186 🔻  (954)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
