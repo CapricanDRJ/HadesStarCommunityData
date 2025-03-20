@@ -1,6 +1,6 @@
 ---
 title: ​Ark Summit
-description: W:18 L:0 D:0 Bonus ✅ 42%
+description: W:18 L:0 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 45 - 9 **Октябристы**
 date: 2025-03-13T16:21:13.000Z
@@ -18,7 +18,7 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
