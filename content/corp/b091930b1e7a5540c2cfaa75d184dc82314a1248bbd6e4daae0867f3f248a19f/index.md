@@ -1,6 +1,6 @@
 ---
 title: ​Ещё один Миф
-description: W:13 L:22 D:0 Bonus ✅ 40%
+description: W:13 L:22 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 2 - 27 **中国星际联盟**
 date: 2025-03-18T02:36:37.000Z
@@ -21,11 +21,11 @@ date: 2025-03-18T02:36:37.000Z
 <br>
 
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1123)|
+| ELO Regular | 1157 🔻  (1124)|
 | ELO Competitive | 1249 🔻  (438)|
 | Total Matches | 35 |
 | Wins | 13 |
