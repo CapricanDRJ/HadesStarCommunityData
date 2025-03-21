@@ -28,7 +28,7 @@ Alliance:
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔺  (107)|
+| ELO Regular | 1344 🔺  (108)|
 | ELO Competitive | 1418 🔺  (138)|
 | Total Matches | 39 |
 | Wins | 24 |

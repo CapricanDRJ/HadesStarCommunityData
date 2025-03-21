@@ -1,6 +1,6 @@
 ---
 title: ​Interstellar
-description: W:45 L:56 D:3 Bonus ✅ 38%
+description: W:45 L:56 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 4 - 16 **Warriorlords**
 date: 2025-03-18T23:48:38.000Z
@@ -18,7 +18,7 @@ vents (when possible), Also make use of the timemachine capability if
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
