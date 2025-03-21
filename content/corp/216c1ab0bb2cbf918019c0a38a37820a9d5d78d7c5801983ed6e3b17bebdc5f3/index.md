@@ -1,6 +1,6 @@
 ---
 title: ​lonewolf
-description: W:35 L:11 D:1 Bonus ✅ 38%
+description: W:35 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 27 - 0 **CTG**
 date: 2025-03-14T20:04:05.000Z
@@ -18,7 +18,7 @@ nks
 <br>
 
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

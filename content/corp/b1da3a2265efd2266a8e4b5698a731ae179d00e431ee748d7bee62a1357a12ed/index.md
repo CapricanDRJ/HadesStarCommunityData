@@ -1,6 +1,6 @@
 ---
 title: ​＊Alfa y Omega＊
-description: W:30 L:13 D:2 Bonus ✅ 36%
+description: W:30 L:13 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 13 - 0 **碧海听潮阁**
 date: 2025-03-14T20:04:05.000Z
@@ -18,7 +18,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

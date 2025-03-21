@@ -1,6 +1,6 @@
 ---
 title: ​ANZAC Warriors
-description: W:21 L:6 D:1 Bonus ✅ 40%
+description: W:21 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 34 - 23 **Ender**
 date: 2025-03-14T21:24:15.000Z
@@ -17,7 +17,7 @@ ttps://discord.com/invite/rmzHUdXef7
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
