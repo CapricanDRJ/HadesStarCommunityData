@@ -1,9 +1,9 @@
 ---
 title: ​Proxima
-description: W:0 L:1 D:0 Bonus ❌ 1%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 25 **Lacuna X**
-date: 2024-11-16T10:55:13.000Z
+Summary: ❌ 1 - 22 **星落苑**
+date: 2025-03-21T07:29:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2024-11-16T10:55:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (581)|
-| ELO Competitive | 1196 🔻  (736)|
-| Total Matches | 1 |
+| ELO Regular | 1184 🔻  (858)|
+| ELO Competitive | 1189 🔻  (846)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731322513];
+        let timestamps = [1742110149,1731322513];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 1-22 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/11/16 | 0-25 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 
 ---
@@ -140,5 +141,5 @@ Corporation ID: e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1731754513"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742542149"></span>
 </div>

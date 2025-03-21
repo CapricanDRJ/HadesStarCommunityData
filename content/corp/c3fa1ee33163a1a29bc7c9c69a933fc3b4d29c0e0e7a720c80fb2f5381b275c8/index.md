@@ -1,9 +1,9 @@
 ---
 title: ​МАРСЮКИ
-description: W:46 L:4 D:0 Bonus ❌ 14%
+description: W:46 L:5 D:0 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ✅ 40 - 5 **Кулак**
-date: 2025-03-01T04:06:16.000Z
+Summary: ❌ 17 - 35 **Polish Pirates**
+date: 2025-03-21T08:14:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,13 +27,12 @@ date: 2025-03-01T04:06:16.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1486 🔺  (13)|
-| ELO Competitive | 1569 🔺  (37)|
-| Total Matches | 50 |
+| ELO Regular | 1466 🔻  (16)|
+| ELO Competitive | 1548 🔻  (45)|
+| Total Matches | 51 |
 | Wins | 46 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 31 |
 | Flagship | 10 |
 
@@ -53,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740369976,1739696527,1738478881,1737261550,1736660189,1735819869,1732509505,1731904916,1730693895,1729779773,1728275935,1727669184,1727063691,1726461600,1725855479,1724995756,1724051563,1722829970,1721533838,1720410751,1719201782,1718602253,1718071390,1717639144,1717118293,1716029060,1715248485,1714119254,1713518369,1712804439,1712200478,1711607324,1710496776,1709782265,1708656360,1707541060,1707016226,1706251115,1705648585,1705130502,1704406872,1703347844,1702859887,1702252791,1701712401,1700860354,1700417051,1700117701,1699343403,1698764926];
+        let timestamps = [1742112854,1740369976,1739696527,1738478881,1737261550,1736660189,1735819869,1732509505,1731904916,1730693895,1729779773,1728275935,1727669184,1727063691,1726461600,1725855479,1724995756,1724051563,1722829970,1721533838,1720410751,1719201782,1718602253,1718071390,1717639144,1717118293,1716029060,1715248485,1714119254,1713518369,1712804439,1712200478,1711607324,1710496776,1709782265,1708656360,1707541060,1707016226,1706251115,1705648585,1705130502,1704406872,1703347844,1702859887,1702252791,1701712401,1700860354,1700417051,1700117701,1699343403,1698764926];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -153,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 17-35 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ✅ | 2025/03/01 | 40-5 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2025/02/21 | 33-21 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2025/02/07 | 28-3 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
@@ -210,5 +210,5 @@ Corporation ID: c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740801976"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742544854"></span>
 </div>

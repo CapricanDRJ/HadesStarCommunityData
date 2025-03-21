@@ -1,6 +1,6 @@
 ---
 title: ​阿尔特拉太空港
-description: W:24 L:20 D:2 Bonus ✅ 36%
+description: W:24 L:20 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 6 - 10 **新?的星际集团?**
 date: 2025-03-19T16:50:10.000Z
@@ -21,7 +21,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

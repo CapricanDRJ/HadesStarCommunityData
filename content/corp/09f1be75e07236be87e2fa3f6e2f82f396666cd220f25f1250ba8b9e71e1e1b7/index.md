@@ -1,6 +1,6 @@
 ---
 title: ​Lacuna Ind.
-description: W:11 L:34 D:2 Bonus ✅ 46%
+description: W:11 L:34 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 43 - 0 **云浪山庄↕**
 date: 2025-03-14T07:52:44.000Z
@@ -20,7 +20,7 @@ RS 7+ see Lacuna Holdings
 <br>
 
 ### [Discord](https://discord.gg/discord.gg/BFfSkvu)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

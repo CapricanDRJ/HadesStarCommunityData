@@ -1,6 +1,6 @@
 ---
 title: ​Hades’ galaxy
-description: W:5 L:2 D:0 Bonus ✅ 
+description: W:5 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 4 - 7 **Lololol**
 date: 2025-03-19T07:59:17.000Z
@@ -15,7 +15,7 @@ date: 2025-03-19T07:59:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
