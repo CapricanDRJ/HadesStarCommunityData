@@ -1,6 +1,6 @@
 ---
 title: ​Lacuna X
-description: W:60 L:8 D:1 Bonus ✅ 40%
+description: W:60 L:8 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 36 - 9 **九州分团**
 date: 2025-03-14T17:31:11.000Z
@@ -24,7 +24,7 @@ White Star focused.
 <br>
 
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

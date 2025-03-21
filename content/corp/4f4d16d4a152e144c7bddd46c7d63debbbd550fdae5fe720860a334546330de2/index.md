@@ -1,6 +1,6 @@
 ---
 title: ​Gold Star
-description: W:5 L:15 D:2 Bonus ✅ 30%
+description: W:5 L:15 D:2 Bonus ❌ 30%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **From the Fire**
 date: 2025-03-14T18:53:57.000Z
@@ -15,7 +15,7 @@ Ruling the universe is our simple goal.
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 30%
 
 | Statistic | Value |
 | --- | --- |
