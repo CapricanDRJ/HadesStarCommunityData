@@ -1,9 +1,9 @@
 ---
 title: ​Hermitage
-description: W:15 L:13 D:1 Bonus ❌ 7%
+description: W:16 L:13 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 6 - 23 **DTC**
-date: 2025-03-14T11:43:07.000Z
+Summary: ✅ 40 - 0 **星舰月球**
+date: 2025-03-21T06:24:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (288)|
-| ELO Competitive | 1309 🔻  (289)|
-| Total Matches | 29 |
-| Wins | 15 |
+| ELO Regular | 1262 🔺  (246)|
+| ELO Competitive | 1333 🔺  (244)|
+| Total Matches | 30 |
+| Wins | 16 |
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741520587,1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
+        let timestamps = [1742106243,1741520587,1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/21 | 40-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ❌ | 2025/03/14 | 6-23 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ✅ | 2025/03/07 | 32-18 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/02/14 | 17-30 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
@@ -180,5 +181,5 @@ Corporation ID: b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741952587"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742538243"></span>
 </div>

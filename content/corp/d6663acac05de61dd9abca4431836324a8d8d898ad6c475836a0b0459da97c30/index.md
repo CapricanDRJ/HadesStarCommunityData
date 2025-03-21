@@ -22,7 +22,7 @@ mastery wins</color></size></b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (990)|
+| ELO Regular | 1172 🔻  (989)|
 | ELO Competitive | 1172 🔻  (1155)|
 | Total Matches | 2 |
 | Wins | 0 |

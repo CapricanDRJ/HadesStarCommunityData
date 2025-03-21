@@ -21,7 +21,7 @@ Lets WiN all white Stars
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔻  (374)|
-| ELO Competitive | 1247 🔻  (446)|
+| ELO Competitive | 1247 🔻  (447)|
 | Total Matches | 35 |
 | Wins | 18 |
 | Losses | 15 |

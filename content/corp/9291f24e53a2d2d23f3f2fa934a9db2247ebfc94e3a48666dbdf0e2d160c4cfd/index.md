@@ -1,6 +1,6 @@
 ---
 title: ​СССР
-description: W:62 L:42 D:2 Bonus ✅ 50%
+description: W:62 L:42 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **Кулак**
 date: 2025-03-14T05:42:30.000Z
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 <br>
 
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

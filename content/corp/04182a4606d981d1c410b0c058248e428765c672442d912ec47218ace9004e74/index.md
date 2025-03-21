@@ -1,6 +1,6 @@
 ---
 title: ​Created
-description: W:20 L:36 D:1 Bonus ✅ 36%
+description: W:20 L:36 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 18 - 4 **Seila**
 date: 2025-03-14T05:52:31.000Z
@@ -15,11 +15,11 @@ What a year….
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (876)|
+| ELO Regular | 1183 🔺  (874)|
 | ELO Competitive | 1279 🔺  (362)|
 | Total Matches | 57 |
 | Wins | 20 |

@@ -24,8 +24,8 @@ discord.gg/PyVCs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (837)|
-| ELO Competitive | 1184 🔻  (1015)|
+| ELO Regular | 1184 🔻  (835)|
+| ELO Competitive | 1184 🔻  (1014)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

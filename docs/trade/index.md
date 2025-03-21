@@ -118,6 +118,32 @@ searchHidden: true
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">B9 Soumindas47</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>5</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS7</td>
+                    <td>0%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/1310786262705373215">Shadow Dominion Alliance</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">Caprican 😈</th>
         </tr>
         <tr>

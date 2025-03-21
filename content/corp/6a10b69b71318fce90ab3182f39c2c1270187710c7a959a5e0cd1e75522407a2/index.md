@@ -1,9 +1,9 @@
 ---
 title: ​Imperium of man
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 1 **СНГ — РОССИЯ**
-date: 2024-01-29T11:30:16.000Z
+Summary: ❌ 0 - 16 **three kitties**
+date: 2025-03-21T04:53:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,11 +28,11 @@ od-family.com
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (786)|
-| ELO Competitive | 1185 🔻  (967)|
-| Total Matches | 1 |
+| ELO Regular | 1175 🔻  (946)|
+| ELO Competitive | 1181 🔻  (1061)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1706095816];
+        let timestamps = [1742100830,1706095816];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 0-16 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/01/29 | 0-1 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 
 ---
@@ -149,5 +150,5 @@ Corporation ID: 6a10b69b71318fce90ab3182f39c2c1270187710c7a959a5e0cd1e75522407a2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1706527816"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742532830"></span>
 </div>
