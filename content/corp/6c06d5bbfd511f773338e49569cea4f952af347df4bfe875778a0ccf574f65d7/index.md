@@ -20,7 +20,7 @@ Her taler vi dansk (Danish only)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (1200)|
-| ELO Competitive | 1145 🔻  (1332)|
+| ELO Competitive | 1145 🔻  (1333)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

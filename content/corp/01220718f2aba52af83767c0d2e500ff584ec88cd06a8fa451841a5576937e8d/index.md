@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:10 L:7 D:1 Bonus ✅ 
+description: W:10 L:8 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 0 **羽共和体**
-date: 2025-03-16T12:19:45.000Z
+Summary: ❌ 0 - 13 **九州·华夏**
+date: 2025-03-21T14:59:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-16T12:19:45.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (367)|
-| ELO Competitive | 1288 🔺  (335)|
-| Total Matches | 18 |
+| ELO Regular | 1210 🔻  (474)|
+| ELO Competitive | 1271 🔻  (374)|
+| Total Matches | 19 |
 | Wins | 10 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) | 0 | 2 | 0 | 2 |
 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 0-13 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/03/16 | 7-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ↔️ | 2025/03/16 | 3-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2025/03/11 | 2-8 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
@@ -163,5 +165,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742127585"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742569199"></span>
 </div>

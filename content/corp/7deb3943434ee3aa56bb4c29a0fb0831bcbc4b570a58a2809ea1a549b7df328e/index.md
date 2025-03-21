@@ -1,6 +1,6 @@
 ---
 title: ​Sith Empire
-description: W:37 L:45 D:1 Bonus ✅ 50%
+description: W:37 L:45 D:1 Bonus ❌ 50%
 image: ./favicon.png
 Summary: ✅ 20 - 16 **Gummibärenbande**
 date: 2025-03-14T15:48:35.000Z
@@ -22,12 +22,12 @@ Public Queue 14%-48%
 <br>
 
 ### [Discord](https://discord.gg/R6sJCw2)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 50%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1315 🔺  (156)|
-| ELO Competitive | 1503 🔺  (72)|
+| ELO Competitive | 1503 🔺  (71)|
 | Total Matches | 83 |
 | Wins | 37 |
 | Losses | 45 |

@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:22 L:15 D:0 Bonus ✅ 38%
+description: W:22 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 19 - 27 **Hinterm Mars**
 date: 2025-03-21T11:04:31.000Z
@@ -17,12 +17,12 @@ date: 2025-03-21T11:04:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1310 🔻  (160)|
-| ELO Competitive | 1390 🔻  (167)|
+| ELO Competitive | 1390 🔻  (168)|
 | Total Matches | 37 |
 | Wins | 22 |
 | Losses | 15 |
