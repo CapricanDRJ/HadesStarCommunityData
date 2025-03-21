@@ -1,6 +1,6 @@
 ---
 title: ​Got Nothing
-description: W:16 L:13 D:0 Bonus ✅ 36%
+description: W:16 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 22 - 13 **DTC**
 date: 2025-03-14T12:33:13.000Z
@@ -18,7 +18,7 @@ rd for easier coordination and fun!
 <br>
 
 ### [Discord](https://discord.gg/3CBQRhpWmV)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

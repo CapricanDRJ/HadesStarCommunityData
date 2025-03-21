@@ -1,9 +1,9 @@
 ---
 title: ​Yellow Dwarf 
-description: W:3 L:1 D:0 Bonus ❌ 9%
+description: W:3 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **КОРПОРАЦИЯ ЗЛА**
-date: 2025-03-09T12:21:18.000Z
+Summary: ❌ 3 - 24 **Лунный Феникс**
+date: 2025-03-21T10:29:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ to help each other. Weekly White Stars in our dedicated corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (513)|
-| ELO Competitive | 1222 🔺  (533)|
-| Total Matches | 4 |
+| ELO Regular | 1192 🔻  (611)|
+| ELO Competitive | 1218 🔻  (562)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741090878,1739877727,1739051361,1698982502];
+        let timestamps = [1742120968,1741090878,1739877727,1739051361,1698982502];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 3-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/03/09 | 15-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2025/02/23 | 23-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ❌ | 2025/02/13 | 18-21 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
@@ -148,5 +148,5 @@ Corporation ID: fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741522878"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742552968"></span>
 </div>

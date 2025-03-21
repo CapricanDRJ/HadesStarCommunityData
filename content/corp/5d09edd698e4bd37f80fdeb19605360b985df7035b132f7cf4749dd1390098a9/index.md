@@ -1,9 +1,9 @@
 ---
 title: ​Lupus Regnum
-description: W:17 L:5 D:0 Bonus ✅ 
+description: W:18 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 6 - 10 **한국우주연합**
-date: 2025-03-14T12:28:12.000Z
+Summary: ✅ 6 - 2 **银河护卫队**
+date: 2025-03-21T12:29:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-03-14T12:28:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔻  (153)|
-| ELO Competitive | 1372 🔺  (190)|
-| Total Matches | 22 |
-| Wins | 17 |
+| ELO Regular | 1329 🔺  (134)|
+| ELO Competitive | 1384 🔺  (175)|
+| Total Matches | 23 |
+| Wins | 18 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741523292,1741518808,1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
+        let timestamps = [1742128180,1741523292,1741518808,1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/21 | 6-2 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2025/03/14 | 6-10 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ✅ | 2025/03/14 | 19-3 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2025/03/07 | 5-9 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) |
@@ -167,5 +168,5 @@ Corporation ID: 5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741955292"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742560180"></span>
 </div>

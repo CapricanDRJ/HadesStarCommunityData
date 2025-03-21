@@ -19,8 +19,8 @@ There is a snake in every paradise.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (644)|
-| ELO Competitive | 1191 🔻  (804)|
+| ELO Regular | 1190 🔻  (645)|
+| ELO Competitive | 1191 🔻  (805)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

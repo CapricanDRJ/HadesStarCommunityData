@@ -1,9 +1,9 @@
 ---
 title: ​银河护卫队
-description: W:17 L:19 D:3 Bonus ✅ 34%
+description: W:17 L:20 D:3 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **Bow Down**
-date: 2025-03-21T06:38:28.000Z
+Summary: ❌ 2 - 6 **Lupus Regnum**
+date: 2025-03-21T12:29:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-03-21T06:38:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (482)|
-| ELO Competitive | 1301 🔻  (305)|
-| Total Matches | 39 |
+| ELO Regular | 1198 🔻  (557)|
+| ELO Competitive | 1307 🔻  (295)|
+| Total Matches | 40 |
 | Wins | 17 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 3 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742107108,1741674740,1741220389,1740750230,1740265109,1739863906,1739797495,1739206724,1739161649,1738438983,1738422380,1737685524,1737632061,1736982970,1736515622,1736510813,1735721850,1735231544,1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1742128180,1742107108,1741674740,1741220389,1740750230,1740265109,1739863906,1739797495,1739206724,1739161649,1738438983,1738422380,1737685524,1737632061,1736982970,1736515622,1736510813,1735721850,1735231544,1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 2-6 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/03/21 | 0-8 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/03/16 | 12-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2025/03/11 | 6-5 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
@@ -188,5 +189,5 @@ Corporation ID: e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742539108"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742560180"></span>
 </div>

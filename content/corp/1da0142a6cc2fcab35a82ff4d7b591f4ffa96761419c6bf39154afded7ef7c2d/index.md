@@ -1,9 +1,9 @@
 ---
 title: ​Orden Estelar 
-description: W:16 L:12 D:2 Bonus ✅ 34%
+description: W:17 L:12 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 12 - 3 **DarkSide**
-date: 2025-03-14T15:18:32.000Z
+Summary: ✅ 22 - 5 **U\.S\.A**
+date: 2025-03-21T12:34:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ Ni retirada ni rendicion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (216)|
-| ELO Competitive | 1335 🔺  (239)|
-| Total Matches | 30 |
-| Wins | 16 |
+| ELO Regular | 1284 🔺  (206)|
+| ELO Competitive | 1345 🔺  (222)|
+| Total Matches | 31 |
+| Wins | 17 |
 | Losses | 12 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741533512,1740308672,1739724780,1739184784,1737748055,1737116395,1736610601,1735992074,1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
+        let timestamps = [1742128481,1741533512,1740308672,1739724780,1739184784,1737748055,1737116395,1736610601,1735992074,1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/21 | 22-5 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2025/03/14 | 12-3 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/02/28 | 17-23 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/02/21 | 24-5 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -177,5 +179,5 @@ Corporation ID: 1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741965512"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742560481"></span>
 </div>

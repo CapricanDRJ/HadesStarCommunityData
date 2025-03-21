@@ -1,6 +1,6 @@
 ---
 title: ​한국우주연합
-description: W:9 L:15 D:0 Bonus ✅ 32%
+description: W:9 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 10 - 6 **Lupus Regnum**
 date: 2025-03-14T12:28:12.000Z
@@ -15,12 +15,12 @@ kor.cop 많이 들어와주세요
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔺  (1184)|
-| ELO Competitive | 1167 🔺  (1202)|
+| ELO Competitive | 1167 🔺  (1203)|
 | Total Matches | 24 |
 | Wins | 9 |
 | Losses | 15 |

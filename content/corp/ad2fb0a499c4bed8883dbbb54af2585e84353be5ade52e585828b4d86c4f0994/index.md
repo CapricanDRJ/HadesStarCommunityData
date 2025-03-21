@@ -1,9 +1,9 @@
 ---
 title: ​DINASTÍA SOLAR
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 5 - 6 **银河护卫队**
-date: 2025-03-11T00:19:49.000Z
+Summary: ✅ 13 - 5 **神圣群星帝国**
+date: 2025-03-21T11:19:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-11T00:19:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (778)|
-| ELO Competitive | 1189 🔻  (832)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1201 🔺  (523)|
+| ELO Competitive | 1205 🔺  (657)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741220389];
+        let timestamps = [1742123973,1741220389];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/21 | 13-5 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
 | ❌ | 2025/03/11 | 5-6 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 
 ---
@@ -140,5 +141,5 @@ Corporation ID: ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741652389"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742555973"></span>
 </div>

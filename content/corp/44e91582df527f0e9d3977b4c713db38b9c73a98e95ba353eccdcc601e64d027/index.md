@@ -1,6 +1,6 @@
 ---
 title: ​Stellar Exports
-description: W:72 L:53 D:0 Bonus ✅ 46%
+description: W:72 L:53 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 23 **СССР**
 date: 2025-03-21T09:19:21.000Z
@@ -25,7 +25,7 @@ Discord preferred nBrqgsV
 <br>
 
 ### [Discord](https://discord.gg/nBrqgsV)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
