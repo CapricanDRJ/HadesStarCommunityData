@@ -1,9 +1,9 @@
 ---
 title: ​共产国际
-description: W:8 L:11 D:6 Bonus ❌ 6%
+description: W:8 L:12 D:6 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 14 - 3 **Nebulae Traders**
-date: 2025-02-08T22:59:40.000Z
+Summary: ❌ 0 - 7 **星河绮梦**
+date: 2025-03-21T02:06:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-02-08T22:59:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔺  (1160)|
-| ELO Competitive | 1240 🔺  (471)|
-| Total Matches | 25 |
+| ELO Regular | 1148 🔻  (1181)|
+| ELO Competitive | 1236 🔻  (482)|
+| Total Matches | 26 |
 | Wins | 8 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 6 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738623580,1738122777,1737566859,1737267258,1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1742090806,1738623580,1738122777,1737566859,1737267258,1737095662,1736070535,1736068732,1735632380,1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/21 | 0-7 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2025/02/08 | 14-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ↔️ | 2025/02/03 | 3-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2025/01/27 | 2-21 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
@@ -173,5 +174,5 @@ Corporation ID: 375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739055580"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742522806"></span>
 </div>
