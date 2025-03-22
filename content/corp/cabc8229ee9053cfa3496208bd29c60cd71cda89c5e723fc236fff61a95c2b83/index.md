@@ -1,9 +1,9 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:3 L:14 D:2 Bonus ❌ 5%
+description: W:4 L:14 D:2 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 7 - 11 **U\.S\.A**
-date: 2025-03-15T12:35:36.000Z
+Summary: ✅ 11 - 6 **Eastern Front**
+date: 2025-03-22T15:42:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1363)|
-| ELO Competitive | 1147 🔻  (1325)|
-| Total Matches | 19 |
-| Wins | 3 |
+| ELO Regular | 1115 🔺  (1324)|
+| ELO Competitive | 1174 🔺  (1126)|
+| Total Matches | 20 |
+| Wins | 4 |
 | Losses | 14 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741610136,1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1742226149,1741610136,1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/22 | 11-6 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/03/15 | 7-11 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2025/03/08 | 5-16 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/03/01 | 0-7 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
@@ -162,5 +163,5 @@ Corporation ID: cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742042136"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742658149"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Hellfire Club
-description: W:55 L:42 D:0 Bonus ✅ 48%
+description: W:55 L:42 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 28 - 41 **pirates spatial**
 date: 2025-03-22T11:52:02.000Z
@@ -18,12 +18,12 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1361 🔻  (93)|
-| ELO Competitive | 1517 🔻  (63)|
+| ELO Competitive | 1517 🔻  (62)|
 | Total Matches | 97 |
 | Wins | 55 |
 | Losses | 42 |

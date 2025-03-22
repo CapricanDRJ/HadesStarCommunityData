@@ -21,7 +21,7 @@ n we have enough participants DISCORD MANDATORY!!!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1098)|
+| ELO Regular | 1161 🔻  (1099)|
 | ELO Competitive | 1180 🔻  (1068)|
 | Total Matches | 26 |
 | Wins | 12 |

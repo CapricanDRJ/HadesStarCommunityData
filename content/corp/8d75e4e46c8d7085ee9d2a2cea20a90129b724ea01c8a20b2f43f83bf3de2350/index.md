@@ -1,6 +1,6 @@
 ---
 title: ​111
-description: W:72 L:23 D:0 Bonus ✅ 50%
+description: W:72 L:23 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 34 - 27 **украина№1**
 date: 2025-03-15T12:55:38.000Z
@@ -17,7 +17,7 @@ date: 2025-03-15T12:55:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
