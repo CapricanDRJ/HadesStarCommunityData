@@ -1,9 +1,9 @@
 ---
 title: ​Повстанцы Хаоса
-description: W:53 L:8 D:0 Bonus ❌ 10%
+description: W:54 L:8 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 9 - 6 **Dark Training**
-date: 2025-03-05T15:51:56.000Z
+Summary: ✅ 27 - 0 **✨ℛedstar Order«**
+date: 2025-03-22T02:11:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 <br>
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1534 🔺  (8)|
-| ELO Competitive | 1635 🔺  (22)|
-| Total Matches | 61 |
-| Wins | 53 |
+| ELO Regular | 1538 🔺  (7)|
+| ELO Competitive | 1639 🔺  (21)|
+| Total Matches | 62 |
+| Wins | 54 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 9 |
+| Streak | 10 |
 | Streak Record | 22 |
 | Flagship | 8 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740757916,1739822443,1739732897,1737611629,1736399322,1735219522,1734600870,1733909179,1733300106,1733048909,1732616773,1732350232,1731917835,1731834294,1731388663,1730867881,1730784044,1729844074,1729328724,1728894463,1728377799,1728362477,1727760239,1727760239,1727186587,1726397578,1725816420,1725782155,1725174858,1724573845,1723985143,1723378096,1723353153,1722757241,1722242475,1721794991,1721196977,1720596172,1719978586,1719378387,1718698055,1718082808,1717467533,1716906731,1714985893,1714186259,1713506050,1712908998,1712904492,1711948379,1711339312,1710474545,1709885021,1709358595,1708745006,1708163544,1707636465,1707023738,1706415799,1705824087,1705332749];
+        let timestamps = [1742177504,1740757916,1739822443,1739732897,1737611629,1736399322,1735219522,1734600870,1733909179,1733300106,1733048909,1732616773,1732350232,1731917835,1731834294,1731388663,1730867881,1730784044,1729844074,1729328724,1728894463,1728377799,1728362477,1727760239,1727760239,1727186587,1726397578,1725816420,1725782155,1725174858,1724573845,1723985143,1723378096,1723353153,1722757241,1722242475,1721794991,1721196977,1720596172,1719978586,1719378387,1718698055,1718082808,1717467533,1716906731,1714985893,1714186259,1713506050,1712908998,1712904492,1711948379,1711339312,1710474545,1709885021,1709358595,1708745006,1708163544,1707636465,1707023738,1706415799,1705824087,1705332749];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/22 | 27-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/03/05 | 9-6 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2025/02/22 | 19-0 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2025/02/21 | 28-3 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
@@ -217,5 +218,5 @@ Corporation ID: 1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741189916"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742609504"></span>
 </div>

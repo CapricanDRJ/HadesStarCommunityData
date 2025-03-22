@@ -1,6 +1,6 @@
 ---
 title: ​Red Star
-description: W:18 L:16 D:2 Bonus ✅ 34%
+description: W:18 L:16 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ↔️ 6 - 6 **Hinterm Mars**
 date: 2025-03-21T11:24:32.000Z
@@ -15,7 +15,7 @@ date: 2025-03-21T11:24:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​русь 
-description: W:89 L:45 D:0 Bonus ✅ 54%
+description: W:89 L:45 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 32 - 23 **Nova Time**
 date: 2025-03-15T03:24:46.000Z
@@ -17,7 +17,7 @@ date: 2025-03-15T03:24:46.000Z
 <br>
 
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
