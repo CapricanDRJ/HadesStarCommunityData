@@ -1,6 +1,6 @@
 ---
 title: ​Dark Halo
-description: W:17 L:11 D:1 Bonus ✅ 34%
+description: W:17 L:11 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **Bow Down**
 date: 2025-03-15T18:25:40.000Z
@@ -15,7 +15,7 @@ date: 2025-03-15T18:25:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

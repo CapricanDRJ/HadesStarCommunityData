@@ -1,9 +1,9 @@
 ---
 title: ​SPACING GUILD
-description: W:1 L:0 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 6 - 1 **imperio galacti**
-date: 2025-03-11T19:41:40.000Z
+Summary: ❌ 3 - 15 **Cerberus**
+date: 2025-03-22T15:52:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-11T19:41:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (381)|
-| ELO Competitive | 1222 🔺  (530)|
-| Total Matches | 1 |
+| ELO Regular | 1208 🔻  (482)|
+| ELO Competitive | 1210 🔻  (636)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741290100];
+        let timestamps = [1742226751,1741290100];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/22 | 3-15 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/03/11 | 6-1 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 
 ---
@@ -140,5 +141,5 @@ Corporation ID: e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741722100"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742658751"></span>
 </div>

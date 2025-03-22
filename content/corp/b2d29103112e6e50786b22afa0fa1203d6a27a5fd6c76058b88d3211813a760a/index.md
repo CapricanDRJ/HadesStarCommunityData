@@ -1,6 +1,6 @@
 ---
 title: ​OpiumNaroda
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 25 - 0 **U\.S\.A**
 date: 2025-03-15T18:16:13.000Z
@@ -15,7 +15,7 @@ date: 2025-03-15T18:16:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
