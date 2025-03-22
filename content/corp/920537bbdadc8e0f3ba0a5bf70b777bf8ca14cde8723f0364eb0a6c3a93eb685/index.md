@@ -1,6 +1,6 @@
 ---
 title: ​UFO
-description: W:10 L:19 D:2 Bonus ✅ 34%
+description: W:10 L:19 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 4 - 27 **仙女座星雲**
 date: 2025-03-22T02:41:12.000Z
@@ -16,11 +16,11 @@ https://discord.gg/NuvtUTUxQj
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (899)|
+| ELO Regular | 1181 🔻  (901)|
 | ELO Competitive | 1242 🔻  (463)|
 | Total Matches | 31 |
 | Wins | 10 |

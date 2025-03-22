@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:45 L:30 D:2 Bonus ✅ 46%
+description: W:45 L:30 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 50 - 2 **Peace Keepers**
 date: 2025-03-15T08:15:10.000Z
@@ -22,11 +22,11 @@ https://discord.gg/bAAYCqG2cE
 <br>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (120)|
+| ELO Regular | 1339 🔺  (122)|
 | ELO Competitive | 1454 🔺  (109)|
 | Total Matches | 77 |
 | Wins | 45 |

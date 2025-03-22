@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:51 L:8 D:0 Bonus ✅ 50%
+description: W:51 L:8 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 53 - 3 **АНДРОМЕДА **
 date: 2025-03-15T09:25:16.000Z
@@ -21,7 +21,7 @@ date: 2025-03-15T09:25:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

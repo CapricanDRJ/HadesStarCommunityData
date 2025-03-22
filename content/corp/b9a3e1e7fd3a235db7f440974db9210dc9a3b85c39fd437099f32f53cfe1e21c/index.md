@@ -1,6 +1,6 @@
 ---
 title: ​星舰月球
-description: W:42 L:29 D:0 Bonus ✅ 46%
+description: W:42 L:29 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 40 **Hermitage**
 date: 2025-03-21T06:24:03.000Z
@@ -19,12 +19,12 @@ date: 2025-03-21T06:24:03.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔻  (202)|
-| ELO Competitive | 1508 🔻  (69)|
+| ELO Regular | 1286 🔻  (201)|
+| ELO Competitive | 1508 🔻  (70)|
 | Total Matches | 71 |
 | Wins | 42 |
 | Losses | 29 |

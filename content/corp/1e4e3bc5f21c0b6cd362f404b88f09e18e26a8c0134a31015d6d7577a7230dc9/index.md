@@ -1,6 +1,6 @@
 ---
 title: ​АНДРОМЕДА 
-description: W:42 L:81 D:1 Bonus ✅ 44%
+description: W:42 L:81 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 71 **Emergence**
 date: 2025-03-20T12:02:11.000Z
@@ -16,12 +16,12 @@ date: 2025-03-20T12:02:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1414)|
-| ELO Competitive | 1323 🔻  (264)|
+| ELO Regular | 1048 🔻  (1416)|
+| ELO Competitive | 1323 🔻  (265)|
 | Total Matches | 124 |
 | Wins | 42 |
 | Losses | 81 |

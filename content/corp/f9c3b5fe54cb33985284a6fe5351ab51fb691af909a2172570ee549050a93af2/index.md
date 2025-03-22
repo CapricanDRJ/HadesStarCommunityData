@@ -1,9 +1,9 @@
 ---
 title: ​STAR TERROR CZ
-description: W:14 L:13 D:0 Bonus ❌ 9%
+description: W:14 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 36 - 9 **Лунный Феникс**
-date: 2025-03-14T19:54:04.000Z
+Summary: ❌ 6 - 24 **\[Blue\*Nation\]**
+date: 2025-03-22T09:16:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (199)|
-| ELO Competitive | 1391 🔺  (165)|
-| Total Matches | 27 |
+| ELO Regular | 1281 🔻  (211)|
+| ELO Competitive | 1384 🔻  (173)|
+| Total Matches | 28 |
 | Wins | 14 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/22 | 6-24 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2025/03/14 | 36-9 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/03/07 | 0-23 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ✅ | 2025/03/07 | 36-0 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
@@ -174,5 +175,5 @@ Corporation ID: f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741982044"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742635007"></span>
 </div>

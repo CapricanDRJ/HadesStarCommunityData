@@ -19,8 +19,8 @@ kor.cop 많이 들어와주세요
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔺  (1182)|
-| ELO Competitive | 1167 🔺  (1203)|
+| ELO Regular | 1147 🔺  (1184)|
+| ELO Competitive | 1167 🔺  (1205)|
 | Total Matches | 24 |
 | Wins | 9 |
 | Losses | 15 |

@@ -1,9 +1,9 @@
 ---
 title: ​UKR Spase
-description: W:42 L:24 D:0 Bonus ✅ 42%
+description: W:43 L:24 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 21 - 7 **Winged Pheonix**
-date: 2025-03-16T11:24:44.000Z
+Summary: ✅ 31 - 18 **pirates spatial**
+date: 2025-03-22T08:51:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,12 +23,13 @@ date: 2025-03-16T11:24:44.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (121)|
-| ELO Competitive | 1507 🔺  (70)|
-| Total Matches | 66 |
-| Wins | 42 |
+| ELO Regular | 1349 🔺  (105)|
+| ELO Competitive | 1522 🔺  (61)|
+| Total Matches | 67 |
+| Wins | 43 |
 | Losses | 24 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 10 |
 
@@ -48,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741692284,1741165396,1740661455,1740133782,1739652958,1739207325,1738140804,1737623647,1737116996,1737105277,1736605189,1736587754,1736046098,1735985160,1735465012,1734944609,1734944609,1734431706,1734429603,1733915789,1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
+        let timestamps = [1742201504,1741692284,1741165396,1740661455,1740133782,1739652958,1739207325,1738140804,1737623647,1737116996,1737105277,1736605189,1736587754,1736046098,1735985160,1735465012,1734944609,1734944609,1734431706,1734429603,1733915789,1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 2 | 0 | 0 | 2 |
 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 1 | 1 | 0 | 2 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 1 | 0 | 3 |
@@ -152,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/22 | 31-18 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2025/03/16 | 21-7 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ❌ | 2025/03/10 | 20-25 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2025/03/04 | 22-5 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
@@ -225,5 +228,5 @@ Corporation ID: e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742124284"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742633504"></span>
 </div>

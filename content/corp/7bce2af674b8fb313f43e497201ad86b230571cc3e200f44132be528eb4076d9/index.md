@@ -1,9 +1,9 @@
 ---
 title: ​Zvezdec
-description: W:44 L:25 D:0 Bonus ❌ 11%
+description: W:44 L:26 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 17 - 39 **Internationals**
-date: 2025-03-10T11:48:31.000Z
+Summary: ❌ 18 - 38 **Nearland Ind**
+date: 2025-03-22T08:31:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-03-10T11:48:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1354 🔻  (103)|
-| ELO Competitive | 1470 🔻  (96)|
-| Total Matches | 69 |
+| ELO Regular | 1343 🔻  (115)|
+| ELO Competitive | 1464 🔻  (102)|
+| Total Matches | 70 |
 | Wins | 44 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 9 |
 | Flagship | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741175311,1740372079,1739779166,1739165556,1738652886,1738069286,1737967118,1737440050,1736929770,1733817842,1733133043,1732691896,1731997165,1731400680,1730783143,1729498814,1728972602,1727080515,1726564670,1725957346,1725251788,1724661897,1724059375,1723521144,1723015384,1721641425,1720506316,1719906159,1719297940,1718705929,1718102037,1717474444,1716980658,1716885992,1716274831,1716185597,1715668824,1715581695,1714981987,1714370742,1713932073,1713770133,1713182438,1712563762,1711895793,1711446574,1710923151,1710230271,1710134125,1709536184,1709098985,1709019052,1708581838,1708489889,1707808959,1707211367,1706518276,1705635964,1705130502,1704615122,1703962710,1703330710,1702796467,1702272621,1701779416,1701159403,1700637944,1700046707,1699331085];
+        let timestamps = [1742200303,1741175311,1740372079,1739779166,1739165556,1738652886,1738069286,1737967118,1737440050,1736929770,1733817842,1733133043,1732691896,1731997165,1731400680,1730783143,1729498814,1728972602,1727080515,1726564670,1725957346,1725251788,1724661897,1724059375,1723521144,1723015384,1721641425,1720506316,1719906159,1719297940,1718705929,1718102037,1717474444,1716980658,1716885992,1716274831,1716185597,1715668824,1715581695,1714981987,1714370742,1713932073,1713770133,1713182438,1712563762,1711895793,1711446574,1710923151,1710230271,1710134125,1709536184,1709098985,1709019052,1708581838,1708489889,1707808959,1707211367,1706518276,1705635964,1705130502,1704615122,1703962710,1703330710,1702796467,1702272621,1701779416,1701159403,1700637944,1700046707,1699331085];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 2 | 2 | 0 | 4 |
 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) | 1 | 1 | 0 | 2 |
 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 2 | 0 | 0 | 2 |
@@ -153,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/22 | 18-38 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2025/03/10 | 17-39 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2025/03/01 | 40-27 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2025/02/22 | 10-25 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
@@ -229,5 +231,5 @@ Corporation ID: 7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741607311"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742632303"></span>
 </div>

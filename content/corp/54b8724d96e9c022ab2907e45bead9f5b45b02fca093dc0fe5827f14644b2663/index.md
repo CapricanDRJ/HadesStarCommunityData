@@ -1,9 +1,9 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:28 L:5 D:0 Bonus ❌ 8%
+description: W:29 L:5 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 16 - 19 **Cydonia Order**
-date: 2025-03-10T23:49:47.000Z
+Summary: ✅ 31 - 0 **六大天神**
+date: 2025-03-22T07:16:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,14 +27,14 @@ English only.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1386 🔻  (71)|
-| ELO Competitive | 1417 🔻  (140)|
-| Total Matches | 33 |
-| Wins | 28 |
+| ELO Regular | 1402 🔺  (59)|
+| ELO Competitive | 1444 🔺  (118)|
+| Total Matches | 34 |
+| Wins | 29 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 21 |
@@ -56,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741218587,1740289142,1737474006,1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
+        let timestamps = [1742195796,1741218587,1740289142,1737474006,1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/22 | 31-0 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/03/10 | 16-19 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/02/28 | 16-35 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2025/01/26 | 13-38 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
@@ -185,5 +186,5 @@ Corporation ID: 54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741650587"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742627796"></span>
 </div>
