@@ -1,6 +1,6 @@
 ---
 title: ​White Star Inc.
-description: W:4 L:6 D:0 Bonus ✅ 40%
+description: W:4 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 4 **Space Marshalls**
 date: 2025-03-15T11:05:26.000Z
@@ -18,7 +18,7 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

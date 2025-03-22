@@ -1,6 +1,6 @@
 ---
 title: ​ETER & CAOS
-description: W:5 L:0 D:0 Bonus ✅ 
+description: W:5 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 47 - 1 **украина№1**
 date: 2025-03-15T12:25:35.000Z
@@ -15,11 +15,11 @@ date: 2025-03-15T12:25:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (217)|
+| ELO Regular | 1276 🔺  (216)|
 | ELO Competitive | 1312 🔺  (283)|
 | Total Matches | 5 |
 | Wins | 5 |

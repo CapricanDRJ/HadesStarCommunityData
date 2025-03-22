@@ -1,6 +1,6 @@
 ---
 title: ​АарнСарт 
-description: W:14 L:4 D:0 Bonus ✅ 
+description: W:14 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 30 - 5 **Серебряная орда**
 date: 2025-03-15T12:45:37.000Z
@@ -15,11 +15,11 @@ date: 2025-03-15T12:45:37.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (139)|
+| ELO Regular | 1324 🔺  (140)|
 | ELO Competitive | 1378 🔺  (182)|
 | Total Matches | 18 |
 | Wins | 14 |

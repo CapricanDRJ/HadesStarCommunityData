@@ -22,7 +22,7 @@ onzern um gemeinsame rr/drr und/oder WZ zu fliegen? Dann bist du hier
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (173)|
+| ELO Regular | 1302 🔺  (172)|
 | ELO Competitive | 1330 🔺  (248)|
 | Total Matches | 13 |
 | Wins | 10 |

@@ -1,6 +1,6 @@
 ---
 title: ​U.S.A
-description: W:23 L:52 D:1 Bonus ✅ 36%
+description: W:23 L:52 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 5 - 22 **Orden Estelar **
 date: 2025-03-21T12:34:41.000Z
@@ -18,7 +18,7 @@ embers Star Nations that are apart of it against the chaos outside of
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
