@@ -24,7 +24,7 @@ RS 7+ see Lacuna Holdings
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔺  (1381)|
+| ELO Regular | 1080 🔺  (1382)|
 | ELO Competitive | 1145 🔺  (1336)|
 | Total Matches | 47 |
 | Wins | 11 |

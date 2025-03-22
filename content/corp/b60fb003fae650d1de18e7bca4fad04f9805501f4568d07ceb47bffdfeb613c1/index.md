@@ -1,6 +1,6 @@
 ---
 title: ​Nox Imperium
-description: W:29 L:3 D:0 Bonus ❌ 36%
+description: W:29 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 32 - 1 **ZORG IND**
 date: 2025-03-15T18:46:16.000Z
@@ -17,7 +17,7 @@ date: 2025-03-15T18:46:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -21,7 +21,7 @@ Discord Recruiting Channel: https://discord.gg/zBsPybt
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (786)|
+| ELO Regular | 1185 🔻  (785)|
 | ELO Competitive | 1185 🔻  (971)|
 | Total Matches | 1 |
 | Wins | 0 |

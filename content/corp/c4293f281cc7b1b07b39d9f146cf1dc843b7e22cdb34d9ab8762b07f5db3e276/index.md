@@ -20,8 +20,8 @@ ur opponent we just want to play a little
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (899)|
-| ELO Competitive | 1207 🔻  (648)|
+| ELO Regular | 1181 🔻  (898)|
+| ELO Competitive | 1207 🔻  (647)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

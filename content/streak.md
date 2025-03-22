@@ -2,7 +2,7 @@
 layout: page
 title: Win Streak
 description: Hades' Star corporations longest win streak leaderboard
-date: 2025-03-22T18:55:08.219Z
+date: 2025-03-22T21:55:08.327Z
 permalink: /streak/
 searchHidden: true
 ---
