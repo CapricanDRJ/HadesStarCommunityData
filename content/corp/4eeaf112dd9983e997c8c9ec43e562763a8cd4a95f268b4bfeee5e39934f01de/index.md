@@ -1,9 +1,9 @@
 ---
 title: ​Terranova
-description: W:13 L:57 D:0 Bonus ❌ 14%
+description: W:13 L:58 D:0 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 17 - 21 **Auscorp **
-date: 2025-03-22T01:56:09.000Z
+Summary: ❌ 0 - 53 **русь **
+date: 2025-03-22T06:26:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-03-22T01:56:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (1384)|
+| ELO Regular | 1073 🔻  (1389)|
 | ELO Competitive | 1235 🔻  (482)|
-| Total Matches | 70 |
+| Total Matches | 71 |
 | Wins | 13 |
-| Losses | 57 |
+| Losses | 58 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 14 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742176569,1741584480,1741566572,1741025679,1741007647,1740391908,1739747923,1739191996,1738564239,1738026621,1737361919,1736758768,1736133965,1734952721,1734330751,1733724699,1733133944,1732527531,1731892599,1731307831,1730710719,1730077882,1729459157,1728878837,1728872228,1728276836,1728253103,1727645452,1727074206,1727068198,1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
+        let timestamps = [1742192792,1742176569,1741584480,1741566572,1741025679,1741007647,1740391908,1739747923,1739191996,1738564239,1738026621,1737361919,1736758768,1736133965,1734952721,1734330751,1733724699,1733133944,1732527531,1731892599,1731307831,1730710719,1730077882,1729459157,1728878837,1728872228,1728276836,1728253103,1727645452,1727074206,1727068198,1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,10 +132,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 0 | 5 | 0 | 5 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 4 | 0 | 4 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 0 | 4 | 0 | 4 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 1 | 0 | 3 |
-| [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 0 | 4 | 0 | 4 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 2 | 0 | 2 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 1 | 2 | 0 | 3 |
 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 0 | 2 | 0 | 2 |
@@ -157,6 +157,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/22 | 0-53 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2025/03/22 | 17-21 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ❌ | 2025/03/15 | 10-36 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
 | ✅ | 2025/03/15 | 39-36 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
@@ -234,5 +235,5 @@ Corporation ID: 4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742608569"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742624792"></span>
 </div>

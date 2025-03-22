@@ -1,6 +1,6 @@
 ---
 title: ​Sussy Coloner
-description: W:32 L:71 D:5 Bonus ✅ 38%
+description: W:32 L:71 D:5 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ↔️ 3 - 3 **✨ℛedstar Order«**
 date: 2025-03-16T08:32:31.000Z
@@ -18,7 +18,7 @@ icer promote). Red is always SUS!
 <br>
 
 ### [Discord](https://discord.gg/btpSMwVJQD)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

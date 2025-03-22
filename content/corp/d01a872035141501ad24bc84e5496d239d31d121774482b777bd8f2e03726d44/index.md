@@ -22,7 +22,7 @@ ord.gg/j5GeqTEx6E
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1343)|
+| ELO Regular | 1105 🔻  (1342)|
 | ELO Competitive | 1156 🔻  (1284)|
 | Total Matches | 30 |
 | Wins | 11 |

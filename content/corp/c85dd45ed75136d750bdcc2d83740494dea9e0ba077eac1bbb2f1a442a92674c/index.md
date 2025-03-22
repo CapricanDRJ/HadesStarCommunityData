@@ -1,6 +1,6 @@
 ---
 title: ​Gemini Ind.
-description: W:36 L:7 D:0 Bonus ✅ 38%
+description: W:36 L:7 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 30 - 4 **Свободный флот**
 date: 2025-03-15T06:10:00.000Z
@@ -24,12 +24,12 @@ We have awesome queue for rs runs!
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1423 🔺  (50)|
-| ELO Competitive | 1466 🔺  (100)|
+| ELO Regular | 1423 🔺  (48)|
+| ELO Competitive | 1466 🔺  (99)|
 | Total Matches | 43 |
 | Wins | 36 |
 | Losses | 7 |
