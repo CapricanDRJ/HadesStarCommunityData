@@ -22,8 +22,8 @@ QQ : 763870092
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (831)|
-| ELO Competitive | 1186 🔻  (925)|
+| ELO Regular | 1185 🔻  (830)|
+| ELO Competitive | 1186 🔻  (924)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 title: ​Cool Casual
-description: W:12 L:4 D:0 Bonus ✅ 
+description: W:13 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 2 **KEPLER\-442  b**
-date: 2025-03-17T14:36:48.000Z
+Summary: ✅ 3 - 1 **Prodexus Domino**
+date: 2025-03-23T00:03:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-03-17T14:36:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (222)|
-| ELO Competitive | 1287 🔺  (337)|
-| Total Matches | 16 |
-| Wins | 12 |
+| ELO Regular | 1284 🔺  (206)|
+| ELO Competitive | 1298 🔺  (313)|
+| Total Matches | 17 |
+| Wins | 13 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/23 | 3-1 | [Prodexus Domino](https://ws.tsl.rocks/corp/85917429bb52fbc2dac3f7310ca739f27cae6f39ad628c7d42e2985267005e77/) |
 | ✅ | 2025/03/17 | 4-2 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ✅ | 2025/03/12 | 5-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ✅ | 2025/03/06 | 5-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
@@ -163,5 +164,5 @@ Corporation ID: 9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742222208"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742688206"></span>
 </div>
