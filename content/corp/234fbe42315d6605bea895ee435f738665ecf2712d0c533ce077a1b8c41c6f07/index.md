@@ -30,8 +30,8 @@ HVgvAaF
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (747)|
-| ELO Competitive | 1186 🔻  (950)|
+| ELO Regular | 1186 🔻  (748)|
+| ELO Competitive | 1186 🔻  (951)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -21,8 +21,8 @@ nking members.                     首席First Officer：狂妄的神（会离�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1122)|
-| ELO Competitive | 1172 🔻  (1152)|
+| ELO Regular | 1158 🔻  (1123)|
+| ELO Competitive | 1172 🔻  (1153)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |
