@@ -1,6 +1,6 @@
 ---
 title: ​-=FCA=-
-description: W:1 L:4 D:0 Bonus ✅ 26%
+description: W:1 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 12 - 24 **ГОРИЗОНТ**
 date: 2025-03-23T06:23:58.000Z
@@ -15,11 +15,11 @@ date: 2025-03-23T06:23:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1124)|
+| ELO Regular | 1157 🔻  (1125)|
 | ELO Competitive | 1199 🔻  (702)|
 | Total Matches | 5 |
 | Wins | 1 |
