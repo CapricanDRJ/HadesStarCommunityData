@@ -1,9 +1,9 @@
 ---
 title: ​GhostNakcoorp
-description: W:27 L:32 D:0 Bonus ❌ 8%
+description: W:28 L:32 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 4 - 28 **Ark Summit**
-date: 2025-01-31T02:55:40.000Z
+Summary: ✅ 19 - 0 **柯伊伯带**
+date: 2025-03-23T19:03:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ gg☆</color></b>   Recruiting "StarMasters" for WS
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1343)|
-| ELO Competitive | 1194 🔻  (755)|
-| Total Matches | 59 |
-| Wins | 27 |
+| ELO Regular | 1129 🔺  (1283)|
+| ELO Competitive | 1220 🔺  (544)|
+| Total Matches | 60 |
+| Wins | 28 |
 | Losses | 32 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737860140,1736680024,1735690974,1734494508,1734486397,1733457255,1732851186,1732157325,1731545819,1728229959,1727712761,1726979551,1726097678,1725267412,1724715993,1724172971,1723894646,1723614302,1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
+        let timestamps = [1742324613,1737860140,1736680024,1735690974,1734494508,1734486397,1733457255,1732851186,1732157325,1731545819,1728229959,1727712761,1726979551,1726097678,1725267412,1724715993,1724172971,1723894646,1723614302,1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/23 | 19-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2025/01/31 | 4-28 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
 | ❌ | 2025/01/17 | 4-26 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2025/01/06 | 6-22 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
@@ -210,5 +211,5 @@ Corporation ID: 0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738292140"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742756613"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​United Stars 
-description: W:41 L:26 D:3 Bonus ✅ 40%
+description: W:41 L:26 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 15 - 50 **Hexacropians**
 date: 2025-03-23T11:39:27.000Z
@@ -20,7 +20,7 @@ Join the family! Active on discord!
 <br>
 
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

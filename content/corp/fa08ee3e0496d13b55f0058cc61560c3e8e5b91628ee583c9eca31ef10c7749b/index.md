@@ -1,9 +1,9 @@
 ---
 title: ​C'est pas faux!
-description: W:6 L:6 D:1 Bonus ✅ 36%
+description: W:7 L:6 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 14 - 10 **Osmium Star llc**
-date: 2025-03-18T16:52:57.000Z
+Summary: ✅ 28 - 0 **RedStar Raiding**
+date: 2025-03-23T19:35:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ Discord : wZcGGNZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (288)|
-| ELO Competitive | 1287 🔺  (338)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1252 🔺  (271)|
+| ELO Competitive | 1294 🔺  (326)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 5 |
 
 ---
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/23 | 28-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2025/03/18 | 14-10 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/03/13 | 8-3 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2025/03/08 | 7-0 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
@@ -160,5 +161,5 @@ Corporation ID: fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742316777"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742758523"></span>
 </div>
