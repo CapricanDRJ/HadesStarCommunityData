@@ -1,6 +1,6 @@
 ---
 title: ​Bl@ck/Galaxy 
-description: W:36 L:25 D:2 Bonus ✅ 36%
+description: W:36 L:25 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 8 - 31 **Sentencia**
 date: 2025-03-22T22:03:15.000Z
@@ -17,7 +17,7 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
