@@ -1,6 +1,6 @@
 ---
 title: ​Держава Русь
-description: W:4 L:43 D:1 Bonus ✅ 44%
+description: W:4 L:43 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 13 - 43 **Highlife**
 date: 2025-03-21T13:29:48.000Z
@@ -15,7 +15,7 @@ date: 2025-03-21T13:29:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

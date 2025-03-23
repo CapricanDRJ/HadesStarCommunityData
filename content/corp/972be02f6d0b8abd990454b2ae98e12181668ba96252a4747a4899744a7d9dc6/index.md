@@ -1,6 +1,6 @@
 ---
 title: ​Новички
-description: W:3 L:0 D:0 Bonus ✅ 
+description: W:3 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **63SALVADORES36**
 date: 2025-03-16T11:07:44.000Z
@@ -15,7 +15,7 @@ date: 2025-03-16T11:07:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Ark
-description: W:63 L:22 D:1 Bonus ✅ 46%
+description: W:63 L:22 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 20 - 9 **Brodudes Inc\.**
 date: 2025-03-16T10:12:39.000Z
@@ -21,7 +21,7 @@ Discord ist erwünscht, aber keine Pflicht.
 <br>
 
 ### [Discord](https://discord.gg/kPuseCu4RE)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:10 L:9 D:1 Bonus ✅ 
+description: W:10 L:9 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 27 **Повстанцы Хаоса**
 date: 2025-03-22T02:11:44.000Z
@@ -15,11 +15,11 @@ date: 2025-03-22T02:11:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (495)|
+| ELO Regular | 1206 🔻  (496)|
 | ELO Competitive | 1284 🔻  (350)|
 | Total Matches | 20 |
 | Wins | 10 |

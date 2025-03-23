@@ -1,9 +1,9 @@
 ---
 title: ​Созидание 2.0
-description: W:11 L:16 D:0 Bonus ❌ 7%
+description: W:11 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 8 - 6 **Слава Украине\!**
-date: 2024-10-15T18:52:57.000Z
+Summary: ❌ 1 - 58 **六大天神**
+date: 2025-03-23T11:29:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,16 @@ eratists<br><br><color=red>ДС обязателен
 <br>
 
 ### [Discord](https://discord.gg/eukzrdT88y)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (915)|
-| ELO Competitive | 1195 🔺  (742)|
-| Total Matches | 27 |
+| ELO Regular | 1171 🔻  (1001)|
+| ELO Competitive | 1194 🔻  (753)|
+| Total Matches | 28 |
 | Wins | 11 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 6 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728586377,1727954063,1715880038,1713462186,1712858825,1712248557,1711651193,1711039428,1710350458,1709224281,1708622104,1708011496,1707411552,1706805269,1706199429,1705607116,1704995277,1704403266,1703787807,1703179848,1702577076,1701982590,1701368281,1700765078,1700157074,1699548035,1698944639];
+        let timestamps = [1742297366,1728586377,1727954063,1715880038,1713462186,1712858825,1712248557,1711651193,1711039428,1710350458,1709224281,1708622104,1708011496,1707411552,1706805269,1706199429,1705607116,1704995277,1704403266,1703787807,1703179848,1702577076,1701982590,1701368281,1700765078,1700157074,1699548035,1698944639];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 0 | 2 | 0 | 2 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/23 | 1-58 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/10/15 | 8-6 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/10/08 | 30-9 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ✅ | 2024/05/21 | 9-7 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
@@ -176,5 +177,5 @@ Corporation ID: ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1729018377"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742729366"></span>
 </div>
