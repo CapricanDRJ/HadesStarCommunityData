@@ -1,6 +1,6 @@
 ---
 title: ​银河护卫队
-description: W:17 L:20 D:3 Bonus ✅ 34%
+description: W:17 L:20 D:3 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 2 - 6 **Lupus Regnum**
 date: 2025-03-21T12:29:40.000Z
@@ -17,7 +17,7 @@ date: 2025-03-21T12:29:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
