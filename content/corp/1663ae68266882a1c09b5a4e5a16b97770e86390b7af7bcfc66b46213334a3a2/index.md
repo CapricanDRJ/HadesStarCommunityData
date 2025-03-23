@@ -1,6 +1,6 @@
 ---
 title: ​Hexacropians
-description: W:63 L:16 D:2 Bonus ✅ 44%
+description: W:63 L:16 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 40 - 18 **Stone Legion**
 date: 2025-03-16T08:12:29.000Z
@@ -18,7 +18,7 @@ Ngā mihi nui, from NZ (and Aus!)
 <br>
 
 ### [Discord](https://discord.gg/Y7EZe2eQk9)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
