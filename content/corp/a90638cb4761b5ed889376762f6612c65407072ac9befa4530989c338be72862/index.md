@@ -1,9 +1,9 @@
 ---
 title: ​Corp. Luminá
-description: W:17 L:3 D:0 Bonus ❌ 6%
+description: W:18 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 6 - 19 **Legión**
-date: 2025-03-15T23:51:48.000Z
+Summary: ✅ 25 - 6 **Kelebra**
+date: 2025-03-24T13:52:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (119)|
-| ELO Competitive | 1356 🔻  (208)|
-| Total Matches | 20 |
-| Wins | 17 |
+| ELO Regular | 1352 🔺  (103)|
+| ELO Competitive | 1371 🔺  (195)|
+| Total Matches | 21 |
+| Wins | 18 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
+        let timestamps = [1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/24 | 25-6 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2025/03/15 | 6-19 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/03/01 | 23-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2025/02/20 | 0-5 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -162,5 +163,5 @@ Corporation ID: a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742082708"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742824333"></span>
 </div>

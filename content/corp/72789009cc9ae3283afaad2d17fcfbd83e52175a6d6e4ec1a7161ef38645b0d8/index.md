@@ -1,9 +1,9 @@
 ---
 title: ​Red Alliance
-description: W:23 L:30 D:2 Bonus ❌ 8%
+description: W:24 L:30 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 11 - 0 **Eastern Front**
-date: 2025-03-10T16:18:03.000Z
+Summary: ✅ 9 - 4 **泰拉瑞亚**
+date: 2025-03-24T13:02:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ English speaking – would you want to communicate
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔺  (1130)|
-| ELO Competitive | 1264 🔺  (398)|
-| Total Matches | 55 |
-| Wins | 23 |
+| ELO Regular | 1174 🔺  (952)|
+| ELO Competitive | 1276 🔺  (369)|
+| Total Matches | 56 |
+| Wins | 24 |
 | Losses | 30 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741191483,1740521736,1740003953,1739502585,1738781806,1738759907,1738334558,1737174098,1736698064,1736249657,1735789824,1735237855,1734794376,1734378231,1734341867,1733845787,1733541986,1733395654,1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
+        let timestamps = [1742389327,1741191483,1740521736,1740003953,1739502585,1738781806,1738759907,1738334558,1737174098,1736698064,1736249657,1735789824,1735237855,1734794376,1734378231,1734341867,1733845787,1733541986,1733395654,1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/24 | 9-4 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ✅ | 2025/03/10 | 11-0 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/03/02 | 0-28 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2025/02/24 | 4-6 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
@@ -205,5 +207,5 @@ Corporation ID: 72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741623483"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742821327"></span>
 </div>

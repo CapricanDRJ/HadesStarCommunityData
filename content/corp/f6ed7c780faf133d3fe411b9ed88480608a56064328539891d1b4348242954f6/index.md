@@ -1,9 +1,9 @@
 ---
 title: ​Dark Halo
-description: W:17 L:11 D:1 Bonus ❌ 7%
+description: W:17 L:12 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **Bow Down**
-date: 2025-03-15T18:25:40.000Z
+Summary: ❌ 0 - 8 **AlyTec Sys\.**
+date: 2025-03-24T13:52:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-15T18:25:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (298)|
-| ELO Competitive | 1310 🔺  (290)|
-| Total Matches | 29 |
+| ELO Regular | 1225 🔻  (372)|
+| ELO Competitive | 1290 🔻  (330)|
+| Total Matches | 30 |
 | Wins | 17 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741631140,1741027783,1740300559,1739246768,1738731320,1735780512,1735776908,1734933381,1734933193,1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1742392333,1741631140,1741027783,1740300559,1739246768,1738731320,1735780512,1735776908,1734933381,1734933193,1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 0-8 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2025/03/15 | 6-0 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ❌ | 2025/03/08 | 0-3 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2025/02/28 | 12-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
@@ -174,5 +175,5 @@ Corporation ID: f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742063140"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742824333"></span>
 </div>

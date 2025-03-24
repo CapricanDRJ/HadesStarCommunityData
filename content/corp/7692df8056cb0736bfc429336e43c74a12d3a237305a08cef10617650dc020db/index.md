@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:25 L:142 D:0 Bonus ✅ 46%
+description: W:25 L:142 D:0 Bonus ❌ 46%
 image: ./favicon.png
 Summary: ❌ 3 - 45 **lonewolf**
 date: 2025-03-23T18:40:16.000Z
@@ -18,7 +18,7 @@ date: 2025-03-23T18:40:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 46%
 
 | Statistic | Value |
 | --- | --- |

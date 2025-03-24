@@ -19,7 +19,7 @@ Unir, conquistar, lutar e vencer.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1090)|
+| ELO Regular | 1163 🔻  (1092)|
 | ELO Competitive | 1165 🔻  (1224)|
 | Total Matches | 9 |
 | Wins | 3 |

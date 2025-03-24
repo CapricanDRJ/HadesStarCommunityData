@@ -1,9 +1,9 @@
 ---
 title: ​泰拉瑞亚
-description: W:1 L:1 D:0 Bonus ❌ 4%
+description: W:1 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **Cowboys**
-date: 2024-03-05T02:00:01.000Z
+Summary: ❌ 4 - 9 **Red Alliance**
+date: 2025-03-24T13:02:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2024-03-05T02:00:01.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (559)|
-| ELO Competitive | 1198 🔻  (715)|
-| Total Matches | 2 |
+| ELO Regular | 1181 🔻  (896)|
+| ELO Competitive | 1186 🔻  (925)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709172001,1699838615];
+        let timestamps = [1742389327,1709172001,1699838615];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 4-9 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/03/05 | 0-2 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 | ✅ | 2023/11/18 | 20-0 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
 
@@ -142,5 +143,5 @@ Corporation ID: a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1709604001"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742821327"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Kelebra
-description: W:25 L:26 D:1 Bonus ❌ 8%
+description: W:25 L:27 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 17 - 2 **⭐PRETORIANS\.X⭐**
-date: 2025-03-17T10:50:00.000Z
+Summary: ❌ 6 - 25 **Corp\. Luminá**
+date: 2025-03-24T13:52:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-03-17T10:50:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (364)|
-| ELO Competitive | 1338 🔺  (236)|
-| Total Matches | 52 |
+| ELO Regular | 1216 🔻  (403)|
+| ELO Competitive | 1324 🔻  (261)|
+| Total Matches | 53 |
 | Wins | 25 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741776600,1741334866,1740696919,1739976291,1739315503,1738660698,1738023918,1737401892,1736892213,1736362618,1735894090,1735445181,1734942506,1734498713,1733667907,1733222697,1732769140,1732309969,1732306362,1731873668,1731396174,1730894900,1730841744,1730401512,1729967592,1729533981,1729097624,1728663010,1728229659,1728226991,1727793594,1727358466,1726925764,1726491047,1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
+        let timestamps = [1742392333,1741776600,1741334866,1740696919,1739976291,1739315503,1738660698,1738023918,1737401892,1736892213,1736362618,1735894090,1735445181,1734942506,1734498713,1733667907,1733222697,1732769140,1732309969,1732306362,1731873668,1731396174,1730894900,1730841744,1730401512,1729967592,1729533981,1729097624,1728663010,1728229659,1728226991,1727793594,1727358466,1726925764,1726491047,1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 6-25 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2025/03/17 | 17-2 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/03/12 | 6-18 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/03/04 | 12-4 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
@@ -203,5 +204,5 @@ Corporation ID: 0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742208600"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742824333"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​分子联合集团乄原态之势
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 1 **国际联盟**
 date: 2025-03-17T14:40:25.000Z
@@ -15,12 +15,12 @@ date: 2025-03-17T14:40:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (418)|
-| ELO Competitive | 1221 🔺  (540)|
+| ELO Competitive | 1221 🔺  (541)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
