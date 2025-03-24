@@ -19,8 +19,8 @@ Heads full of SMEG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (1162)|
-| ELO Competitive | 1158 🔺  (1273)|
+| ELO Regular | 1153 🔺  (1163)|
+| ELO Competitive | 1158 🔺  (1274)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

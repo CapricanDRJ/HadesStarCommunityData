@@ -20,8 +20,8 @@ Your typical corp - retired leader (Francus) (Discord - franhug): new
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1170)|
-| ELO Competitive | 1152 🔻  (1306)|
+| ELO Regular | 1151 🔻  (1171)|
+| ELO Competitive | 1152 🔻  (1307)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

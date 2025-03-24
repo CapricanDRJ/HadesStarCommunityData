@@ -1,6 +1,6 @@
 ---
 title: ​Z. O. V. 
-description: W:43 L:16 D:2 Bonus ✅ 36%
+description: W:43 L:16 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 17 - 9 **СОЮЗ**
 date: 2025-03-17T01:44:15.000Z
@@ -15,7 +15,7 @@ date: 2025-03-17T01:44:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

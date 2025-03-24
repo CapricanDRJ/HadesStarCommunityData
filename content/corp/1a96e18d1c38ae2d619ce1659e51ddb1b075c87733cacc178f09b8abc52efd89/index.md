@@ -20,8 +20,8 @@ gg/i/27LVznwk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1168)|
-| ELO Competitive | 1177 🔻  (1091)|
+| ELO Regular | 1152 🔻  (1169)|
+| ELO Competitive | 1177 🔻  (1092)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 5 |
