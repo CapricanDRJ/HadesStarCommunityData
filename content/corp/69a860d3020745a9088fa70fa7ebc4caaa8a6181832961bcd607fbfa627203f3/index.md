@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的（分团）
-description: W:21 L:16 D:1 Bonus ✅ 34%
+description: W:21 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **Nebulae Traders**
 date: 2025-03-17T20:36:05.000Z
@@ -17,11 +17,11 @@ o华浩 QQ767311697
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (252)|
+| ELO Regular | 1258 🔺  (253)|
 | ELO Competitive | 1311 🔺  (287)|
 | Total Matches | 38 |
 | Wins | 21 |

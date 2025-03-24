@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Pioneer
-description: W:8 L:4 D:0 Bonus ✅ 
+description: W:10 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 2 - 0 **Crastorios**
-date: 2025-03-19T20:15:35.000Z
+Summary: ✅ 3 - 0 **EarthFederation**
+date: 2025-03-24T20:53:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-19T20:15:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (255)|
-| ELO Competitive | 1261 🔺  (411)|
-| Total Matches | 12 |
-| Wins | 8 |
+| ELO Regular | 1278 🔺  (217)|
+| ELO Competitive | 1279 🔺  (365)|
+| Total Matches | 14 |
+| Wins | 10 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
+        let timestamps = [1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/24 | 3-0 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
+| ✅ | 2025/03/24 | 4-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2025/03/19 | 2-0 | [Crastorios](https://ws.tsl.rocks/corp/cf8e92451d31be30383d7359e1e2095ccb8e0c4afe78451b4fd39cb4dab1f3e0/) |
 | ✅ | 2025/03/19 | 10-3 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/03/13 | 9-0 | [Space Scourge](https://ws.tsl.rocks/corp/04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1/) |
@@ -153,5 +155,5 @@ Corporation ID: fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742415335"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742849585"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​WSC(no DISCORD)
-description: W:56 L:39 D:8 Bonus ✅ 38%
+description: W:56 L:39 D:8 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 13 **Sussy Coloner**
 date: 2025-03-23T14:04:43.000Z
@@ -15,7 +15,7 @@ date: 2025-03-23T14:04:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
