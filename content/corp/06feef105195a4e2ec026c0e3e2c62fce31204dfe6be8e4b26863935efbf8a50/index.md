@@ -1,6 +1,6 @@
 ---
 title: ​hades star萌新指引站
-description: W:14 L:11 D:1 Bonus ✅ 32%
+description: W:14 L:11 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **Черное солнце**
 date: 2025-03-17T10:19:57.000Z
@@ -15,7 +15,7 @@ date: 2025-03-17T10:19:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

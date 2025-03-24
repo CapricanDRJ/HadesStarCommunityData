@@ -1,9 +1,9 @@
 ---
 title: ​Gold Star
-description: W:5 L:15 D:2 Bonus ❌ 5%
+description: W:5 L:16 D:2 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 10 - 0 **From the Fire**
-date: 2025-03-14T18:53:57.000Z
+Summary: ❌ 2 - 27 **星际公约组织**
+date: 2025-03-24T12:17:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Ruling the universe is our simple goal.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1114 🔺  (1332)|
-| ELO Competitive | 1143 🔺  (1351)|
-| Total Matches | 22 |
+| ELO Regular | 1108 🔻  (1346)|
+| ELO Competitive | 1138 🔻  (1363)|
+| Total Matches | 23 |
 | Wins | 5 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741546437,1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
+        let timestamps = [1742386621,1741546437,1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 2-27 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/03/14 | 10-0 | [From the Fire](https://ws.tsl.rocks/corp/df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf/) |
 | ❌ | 2025/03/05 | 8-17 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2025/02/26 | 6-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
@@ -161,5 +162,5 @@ Corporation ID: 4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741978437"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742818621"></span>
 </div>

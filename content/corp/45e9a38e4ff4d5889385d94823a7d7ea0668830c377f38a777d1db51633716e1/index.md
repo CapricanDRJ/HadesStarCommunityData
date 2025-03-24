@@ -1,9 +1,9 @@
 ---
 title: ​星瀚协议
-description: W:1 L:4 D:0 Bonus ❌ 
+description: W:1 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 16 **EarthFederation**
-date: 2025-03-05T18:27:12.000Z
+Summary: ❌ 0 - 7 **星际公约组织**
+date: 2025-03-24T10:52:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-05T18:27:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (945)|
-| ELO Competitive | 1205 🔻  (660)|
-| Total Matches | 5 |
+| ELO Regular | 1167 🔻  (1056)|
+| ELO Competitive | 1197 🔻  (729)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740767232,1740762298,1740199309,1738479482,1738173152];
+        let timestamps = [1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 0-7 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/03/05 | 0-16 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ❌ | 2025/03/05 | 0-17 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/02/27 | 3-0 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
@@ -144,5 +145,5 @@ Corporation ID: 45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741199232"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742813570"></span>
 </div>

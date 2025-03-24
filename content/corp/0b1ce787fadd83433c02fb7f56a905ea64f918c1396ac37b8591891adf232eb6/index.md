@@ -1,6 +1,6 @@
 ---
 title: ​Kelebra
-description: W:25 L:26 D:1 Bonus ✅ 36%
+description: W:25 L:26 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 17 - 2 **⭐PRETORIANS\.X⭐**
 date: 2025-03-17T10:50:00.000Z
@@ -17,7 +17,7 @@ date: 2025-03-17T10:50:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
