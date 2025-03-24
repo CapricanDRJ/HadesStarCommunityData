@@ -21,8 +21,8 @@ po,todos los nuevos seran acendidos inmediatamente
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1130)|
-| ELO Competitive | 1162 🔺  (1244)|
+| ELO Regular | 1157 🔻  (1131)|
+| ELO Competitive | 1162 🔺  (1245)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 3 |

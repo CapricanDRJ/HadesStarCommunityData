@@ -21,8 +21,8 @@ chen Yu 副首席：我是神、神域联邦、唐家三少
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1105)|
-| ELO Competitive | 1162 🔻  (1245)|
+| ELO Regular | 1160 🔻  (1106)|
+| ELO Competitive | 1162 🔻  (1246)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

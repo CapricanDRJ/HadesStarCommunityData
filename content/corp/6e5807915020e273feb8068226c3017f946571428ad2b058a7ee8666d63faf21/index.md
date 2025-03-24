@@ -22,7 +22,7 @@ icer promote). Red is always SUS!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔺  (1060)|
+| ELO Regular | 1166 🔺  (1061)|
 | ELO Competitive | 1345 🔺  (222)|
 | Total Matches | 109 |
 | Wins | 33 |

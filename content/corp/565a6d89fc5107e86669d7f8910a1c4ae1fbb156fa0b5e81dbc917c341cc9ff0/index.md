@@ -1,9 +1,9 @@
 ---
 title: ​落雨观花
-description: W:18 L:15 D:1 Bonus ❌ 7%
+description: W:18 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **Eastern Front**
-date: 2025-01-09T15:26:45.000Z
+Summary: ❌ 0 - 12 **северный шторм**
+date: 2025-03-24T05:51:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-01-09T15:26:45.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (530)|
-| ELO Competitive | 1301 🔻  (307)|
-| Total Matches | 34 |
+| ELO Regular | 1186 🔻  (708)|
+| ELO Competitive | 1287 🔻  (339)|
+| Total Matches | 35 |
 | Wins | 18 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736004405,1735365552,1734771235,1733845787,1732346369,1731736929,1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
+        let timestamps = [1742363483,1736004405,1735365552,1734771235,1733845787,1732346369,1731736929,1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 0-12 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2025/01/09 | 0-10 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/01/02 | 2-6 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/12/26 | 11-2 | [SpaceX](https://ws.tsl.rocks/corp/3bc1ec1dbc6834fa95adc6d175ab134844b8f2ec4ee1082bc799f5de3c72e301/) |
@@ -176,5 +177,5 @@ Corporation ID: 565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1736436405"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742795483"></span>
 </div>

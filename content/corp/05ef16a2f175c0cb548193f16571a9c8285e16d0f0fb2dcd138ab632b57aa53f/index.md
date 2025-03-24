@@ -20,7 +20,7 @@ $TAR$ - Twinkkonzern
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (938)|
+| ELO Regular | 1175 🔻  (939)|
 | ELO Competitive | 1191 🔻  (799)|
 | Total Matches | 3 |
 | Wins | 0 |

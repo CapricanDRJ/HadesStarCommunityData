@@ -1,9 +1,9 @@
 ---
 title: ​Newbs
-description: W:43 L:26 D:1 Bonus ❌ 12%
+description: W:43 L:26 D:2 Bonus ❌ 12%
 image: ./favicon.png
-Summary: ✅ 25 - 23 **BrinySeal**
-date: 2025-03-11T02:19:59.000Z
+Summary: ↔️ 34 - 34 **IMPERIAL ARMADA**
+date: 2025-03-24T06:41:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,12 @@ rience and have some fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (143)|
-| ELO Competitive | 1419 🔺  (141)|
-| Total Matches | 70 |
+| ELO Regular | 1322 🔺  (142)|
+| ELO Competitive | 1420 🔺  (138)|
+| Total Matches | 71 |
 | Wins | 43 |
 | Losses | 26 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 12 |
 | Flagship | 8 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741227599,1740555387,1739924313,1739368968,1738860837,1738265210,1737574674,1737040367,1736355747,1735827082,1734523048,1733909780,1733244521,1732651336,1732126676,1731616434,1730929483,1730334202,1729809827,1729104839,1728482685,1727840172,1727266211,1726649498,1726026759,1725458518,1724911613,1724275144,1723658778,1722981433,1722451629,1721890550,1720616908,1720596172,1720018859,1719358948,1718812012,1718136004,1717527346,1716919059,1716915753,1716296160,1715775480,1715167666,1714560343,1713992769,1713370543,1712768085,1712157809,1711566164,1710960710,1710345649,1709731185,1709163289,1708530455,1707923449,1707318043,1706748175,1706113194,1705509750,1704973636,1704483499,1703787807,1702611337,1701890927,1701292850,1700707072,1700061136,1699472016,1698862004];
+        let timestamps = [1742366487,1741227599,1740555387,1739924313,1739368968,1738860837,1738265210,1737574674,1737040367,1736355747,1735827082,1734523048,1733909780,1733244521,1732651336,1732126676,1731616434,1730929483,1730334202,1729809827,1729104839,1728482685,1727840172,1727266211,1726649498,1726026759,1725458518,1724911613,1724275144,1723658778,1722981433,1722451629,1721890550,1720616908,1720596172,1720018859,1719358948,1718812012,1718136004,1717527346,1716919059,1716915753,1716296160,1715775480,1715167666,1714560343,1713992769,1713370543,1712768085,1712157809,1711566164,1710960710,1710345649,1709731185,1709163289,1708530455,1707923449,1707318043,1706748175,1706113194,1705509750,1704973636,1704483499,1703787807,1702611337,1701890927,1701292850,1700707072,1700061136,1699472016,1698862004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,7 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) | 1 | 2 | 0 | 3 |
+| [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) | 1 | 2 | 1 | 4 |
 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 1 | 1 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 2 | 0 | 0 | 2 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 2 | 0 | 0 | 2 |
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/24 | 34-34 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2025/03/11 | 25-23 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/03/03 | 8-13 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2025/02/24 | 3-8 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
@@ -229,5 +230,5 @@ Corporation ID: 86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741659599"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742798487"></span>
 </div>
