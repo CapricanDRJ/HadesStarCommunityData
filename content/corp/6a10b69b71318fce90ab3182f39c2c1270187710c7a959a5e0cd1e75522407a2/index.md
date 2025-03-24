@@ -29,7 +29,7 @@ od-family.com
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (950)|
-| ELO Competitive | 1181 🔻  (1067)|
+| ELO Competitive | 1181 🔻  (1066)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -1,9 +1,9 @@
 ---
 title: ​Seila
-description: W:5 L:7 D:1 Bonus ✅ 34%
+description: W:5 L:8 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 3 - 1 **Star Blazers**
-date: 2025-03-19T07:09:13.000Z
+Summary: ❌ 0 - 37 **青丘湖**
+date: 2025-03-24T15:47:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ tbkMiJhAQpMNoJET
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (1052)|
-| ELO Competitive | 1182 🔺  (1056)|
-| Total Matches | 13 |
+| ELO Regular | 1155 🔻  (1144)|
+| ELO Competitive | 1170 🔻  (1187)|
+| Total Matches | 14 |
 | Wins | 5 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741936153,1741499551,1721544355,1713639744,1710429776,1708183680,1706714215,1702889033,1701979284,1701138068,1700644397,1700017259,1699197371];
+        let timestamps = [1742399248,1741936153,1741499551,1721544355,1713639744,1710429776,1708183680,1706714215,1702889033,1701979284,1701138068,1700644397,1700017259,1699197371];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/24 | 0-37 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ✅ | 2025/03/19 | 3-1 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2025/03/14 | 4-18 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2024/07/26 | 3-14 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
@@ -159,5 +160,5 @@ Corporation ID: 8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742368153"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742831248"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:25 L:142 D:0 Bonus ❌ 46%
+description: W:25 L:142 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 45 **lonewolf**
 date: 2025-03-23T18:40:16.000Z
@@ -18,11 +18,11 @@ date: 2025-03-23T18:40:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ❌ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 903 🔻  (1460)|
+| ELO Regular | 903 🔻  (1461)|
 | ELO Competitive | 1178 🔻  (1085)|
 | Total Matches | 167 |
 | Wins | 25 |

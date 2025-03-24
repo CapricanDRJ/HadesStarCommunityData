@@ -1,6 +1,6 @@
 ---
 title: ​Stella☆Glow
-description: W:41 L:23 D:1 Bonus ✅ 42%
+description: W:41 L:23 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 40 - 0 **Veteran's Haven**
 date: 2025-03-17T18:10:49.000Z
@@ -29,7 +29,7 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

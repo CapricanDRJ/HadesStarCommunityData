@@ -1,6 +1,6 @@
 ---
 title: ​国际联盟
-description: W:19 L:14 D:0 Bonus ✅ 34%
+description: W:19 L:14 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **imperio galacti**
 date: 2025-03-17T16:55:41.000Z
@@ -16,7 +16,7 @@ date: 2025-03-17T16:55:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

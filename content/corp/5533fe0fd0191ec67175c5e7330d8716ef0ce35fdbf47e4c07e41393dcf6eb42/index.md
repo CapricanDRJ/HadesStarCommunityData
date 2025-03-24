@@ -1,6 +1,6 @@
 ---
 title: ​MiddleOfNowhere
-description: W:6 L:1 D:0 Bonus ✅ 32%
+description: W:6 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 31 - 0 **Kingdom Of Meow**
 date: 2025-03-17T17:15:43.000Z
@@ -18,11 +18,11 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 <br>
 
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (232)|
+| ELO Regular | 1268 🔺  (233)|
 | ELO Competitive | 1301 🔺  (309)|
 | Total Matches | 7 |
 | Wins | 6 |
