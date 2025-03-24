@@ -1,6 +1,6 @@
 ---
 title: ​Mass Effect
-description: W:36 L:29 D:1 Bonus ✅ 38%
+description: W:36 L:29 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 23 - 17 **северный шторм**
 date: 2025-03-17T07:59:45.000Z
@@ -18,7 +18,7 @@ Just come and play to the rules!
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

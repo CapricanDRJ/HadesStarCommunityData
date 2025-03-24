@@ -1,9 +1,9 @@
 ---
 title: ​Hades’ galaxy
-description: W:5 L:2 D:0 Bonus ❌ 
+description: W:6 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 4 - 7 **Lololol**
-date: 2025-03-19T07:59:17.000Z
+Summary: ✅ 4 - 3 **63SALVADORES36**
+date: 2025-03-24T08:46:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-19T07:59:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (343)|
-| ELO Competitive | 1252 🔻  (428)|
-| Total Matches | 7 |
-| Wins | 5 |
+| ELO Regular | 1244 🔺  (293)|
+| ELO Competitive | 1270 🔺  (375)|
+| Total Matches | 8 |
+| Wins | 6 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
+        let timestamps = [1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/24 | 4-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/03/19 | 4-7 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/03/14 | 19-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2025/03/08 | 14-2 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) |
@@ -147,5 +148,5 @@ Corporation ID: a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742371157"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742805999"></span>
 </div>

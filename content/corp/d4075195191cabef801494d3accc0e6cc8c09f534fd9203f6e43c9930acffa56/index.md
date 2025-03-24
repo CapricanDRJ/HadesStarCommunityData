@@ -1,6 +1,6 @@
 ---
 title: ​Hamburg AG 2
-description: W:16 L:25 D:0 Bonus ✅ 44%
+description: W:16 L:25 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 35 **italian warrior**
 date: 2025-03-17T22:51:19.000Z
@@ -17,7 +17,7 @@ Vordergrund.
 <br>
 
 ### [Discord](https://discord.gg/UXNc44dxk6)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

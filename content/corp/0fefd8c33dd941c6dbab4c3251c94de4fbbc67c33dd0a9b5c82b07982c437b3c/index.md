@@ -20,8 +20,8 @@ Lesbians and Gaytelmen, Welcome to the FAILURES!!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1080)|
-| ELO Competitive | 1183 🔻  (1049)|
+| ELO Regular | 1165 🔻  (1081)|
+| ELO Competitive | 1183 🔻  (1050)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

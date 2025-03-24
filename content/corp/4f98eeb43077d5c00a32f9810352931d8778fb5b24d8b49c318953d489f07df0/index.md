@@ -1,6 +1,6 @@
 ---
 title: ​AlyTec Sys.
-description: W:10 L:16 D:1 Bonus ✅ 32%
+description: W:10 L:16 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **RusCorp**
 date: 2025-03-17T08:44:32.000Z
@@ -18,12 +18,12 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔺  (1090)|
-| ELO Competitive | 1196 🔺  (736)|
+| ELO Regular | 1163 🔺  (1091)|
+| ELO Competitive | 1196 🔺  (737)|
 | Total Matches | 27 |
 | Wins | 10 |
 | Losses | 16 |
