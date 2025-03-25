@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:39 L:12 D:2 Bonus ✅ 38%
+description: W:39 L:12 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 13 - 9 **Spaceballs**
 date: 2025-03-18T19:13:12.000Z
@@ -18,7 +18,7 @@ date: 2025-03-18T19:13:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

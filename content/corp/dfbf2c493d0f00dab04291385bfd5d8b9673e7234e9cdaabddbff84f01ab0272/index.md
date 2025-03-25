@@ -1,9 +1,9 @@
 ---
 title: ​V0RTEX
-description: W:6 L:4 D:1 Bonus ✅ 
+description: W:8 L:4 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 17 - 0 **The Witness**
-date: 2025-03-19T19:50:32.000Z
+Summary: ✅ 13 - 0 **РARADISЕ**
+date: 2025-03-25T20:05:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-19T19:50:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (379)|
-| ELO Competitive | 1248 🔺  (444)|
-| Total Matches | 11 |
-| Wins | 6 |
+| ELO Regular | 1250 🔺  (280)|
+| ELO Competitive | 1264 🔺  (394)|
+| Total Matches | 13 |
+| Wins | 8 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
+        let timestamps = [1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,12 +128,19 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 13-0 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
+| ✅ | 2025/03/25 | 11-0 | [Draconis](https://ws.tsl.rocks/corp/90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d/) |
 | ✅ | 2025/03/19 | 17-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/03/14 | 6-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/03/13 | 13-0 | [pérola negra ](https://ws.tsl.rocks/corp/731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a/) |
@@ -152,5 +159,5 @@ Corporation ID: dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742413832"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742933127"></span>
 </div>

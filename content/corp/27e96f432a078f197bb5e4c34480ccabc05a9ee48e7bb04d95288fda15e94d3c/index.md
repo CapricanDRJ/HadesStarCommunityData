@@ -1,6 +1,6 @@
 ---
 title: ​Últimafronteira
-description: W:21 L:1 D:0 Bonus ✅ 34%
+description: W:21 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **OPA**
 date: 2025-03-18T19:18:12.000Z
@@ -17,7 +17,7 @@ tes são bem vindos! Virtus Unita Fortior.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/bv5q7qHTDb)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

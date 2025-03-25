@@ -1,9 +1,9 @@
 ---
 title: ​毛绒团子
-description: W:13 L:1 D:0 Bonus ❌ 
+description: W:14 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 19 - 0 **The Syndicate **
-date: 2025-03-18T11:32:23.000Z
+Summary: ✅ 23 - 3 **Black Star llc\.**
+date: 2025-03-25T19:20:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-03-18T11:32:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1374 🔺  (82)|
-| ELO Competitive | 1375 🔺  (188)|
-| Total Matches | 14 |
-| Wins | 13 |
+| ELO Regular | 1386 🔺  (73)|
+| ELO Competitive | 1390 🔺  (169)|
+| Total Matches | 15 |
+| Wins | 14 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak | 14 |
+| Streak Record | 14 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741865543,1741863740,1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
+        let timestamps = [1742498421,1741865543,1741863740,1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 23-3 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2025/03/18 | 19-0 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2025/03/18 | 19-0 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ✅ | 2025/03/12 | 20-0 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
@@ -155,5 +156,5 @@ Corporation ID: 2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742297543"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742930421"></span>
 </div>
