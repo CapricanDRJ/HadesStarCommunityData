@@ -1,9 +1,9 @@
 ---
 title: ​火洋之心
-description: W:9 L:5 D:2 Bonus ❌ 6%
+description: W:9 L:6 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **\(\_\(\_Vossk\_\)\_\)**
-date: 2025-02-21T03:36:35.000Z
+Summary: ❌ 0 - 18 **Лютые**
+date: 2025-03-25T07:29:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-02-21T03:36:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (289)|
-| ELO Competitive | 1267 🔻  (389)|
-| Total Matches | 16 |
+| ELO Regular | 1235 🔻  (335)|
+| ELO Competitive | 1259 🔻  (414)|
+| Total Matches | 17 |
 | Wins | 9 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739676995,1739012290,1738334558,1737646787,1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
+        let timestamps = [1742455743,1739676995,1739012290,1738334558,1737646787,1737175600,1736035673,1735568980,1722406251,1721972657,1719478542,1707914734,1707478558,1703825671,1703325601,1702592107,1702026163];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/25 | 0-18 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
 | ❌ | 2025/02/21 | 0-2 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ✅ | 2025/02/13 | 19-5 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/02/05 | 24-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
@@ -156,5 +157,5 @@ Corporation ID: 99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740108995"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742887743"></span>
 </div>

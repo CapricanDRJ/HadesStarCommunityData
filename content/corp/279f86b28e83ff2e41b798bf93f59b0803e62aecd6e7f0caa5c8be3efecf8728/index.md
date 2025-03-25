@@ -1,9 +1,9 @@
 ---
 title: ​The Foundation
-description: W:14 L:4 D:2 Bonus ❌ 7%
+description: W:14 L:5 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ↔️ 18 - 18 **lesescargots**
-date: 2025-03-18T02:36:37.000Z
+Summary: ❌ 11 - 35 **Mercury Sunset**
+date: 2025-03-25T08:08:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ated to helping new players grow. Discord recommended for White Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 🔺  (133)|
-| ELO Competitive | 1370 🔺  (197)|
-| Total Matches | 20 |
+| ELO Regular | 1325 🔻  (138)|
+| ELO Competitive | 1365 🔻  (201)|
+| Total Matches | 21 |
 | Wins | 14 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 2 |
 | Streak Record | 11 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741833397,1740625703,1740024685,1740015971,1739433290,1738774893,1738207514,1738201205,1737596308,1736994086,1735868253,1734569928,1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
+        let timestamps = [1742458118,1741833397,1740625703,1740024685,1740015971,1739433290,1738774893,1738207514,1738201205,1737596308,1736994086,1735868253,1734569928,1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/25 | 11-35 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ↔️ | 2025/03/18 | 18-18 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2025/03/04 | 10-20 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
 | ❌ | 2025/02/25 | 2-8 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
@@ -168,5 +169,5 @@ Corporation ID: 279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742265397"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742890118"></span>
 </div>
