@@ -1,9 +1,9 @@
 ---
 title: ​Soul System
-description: W:7 L:17 D:0 Bonus ✅ 38%
+description: W:8 L:17 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 31 - 0 **星域 **
-date: 2025-03-20T11:32:08.000Z
+Summary: ✅ 10 - 5 **Polaris Corpo**
+date: 2025-03-25T11:59:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ ust we are born our souls woven from light. RS and WS focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (964)|
-| ELO Competitive | 1222 🔺  (532)|
-| Total Matches | 24 |
-| Wins | 7 |
+| ELO Regular | 1190 🔺  (633)|
+| ELO Competitive | 1240 🔺  (471)|
+| Total Matches | 25 |
+| Wins | 8 |
 | Losses | 17 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 7 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742038328,1741430434,1740852284,1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1742471969,1742038328,1741430434,1740852284,1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 10-5 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 | ✅ | 2025/03/20 | 31-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ✅ | 2025/03/13 | 12-3 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2025/03/06 | 6-19 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
@@ -168,5 +169,5 @@ Corporation ID: 1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742470328"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742903969"></span>
 </div>

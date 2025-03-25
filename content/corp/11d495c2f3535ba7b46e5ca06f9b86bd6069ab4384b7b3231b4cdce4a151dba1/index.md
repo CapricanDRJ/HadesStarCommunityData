@@ -1,9 +1,9 @@
 ---
 title: ​碧海听潮阁
-description: W:15 L:13 D:6 Bonus ✅ 
+description: W:16 L:14 D:6 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 0 **墨痕空域**
-date: 2025-03-20T08:16:47.000Z
+Summary: ✅ 6 - 0 **Stargroup**
+date: 2025-03-25T10:55:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-20T08:16:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (637)|
-| ELO Competitive | 1339 🔺  (230)|
-| Total Matches | 34 |
-| Wins | 15 |
-| Losses | 13 |
+| ELO Regular | 1184 🔺  (855)|
+| ELO Competitive | 1345 🔺  (222)|
+| Total Matches | 36 |
+| Wins | 16 |
+| Losses | 14 |
 | Draws | 6 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742026607,1741996258,1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1742468144,1742467661,1742026607,1741996258,1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) | 2 | 0 | 0 | 2 |
+| [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 0 | 2 | 0 | 2 |
 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 1 | 0 | 1 | 2 |
 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 0 | 2 | 0 | 2 |
 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) | 0 | 2 | 0 | 2 |
@@ -140,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 6-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
+| ❌ | 2025/03/25 | 0-5 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/03/20 | 9-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ↔️ | 2025/03/19 | 0-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ❌ | 2025/03/14 | 0-13 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
@@ -181,5 +185,5 @@ Corporation ID: 11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742458607"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742900144"></span>
 </div>

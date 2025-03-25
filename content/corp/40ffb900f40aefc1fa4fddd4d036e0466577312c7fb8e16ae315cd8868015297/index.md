@@ -1,6 +1,6 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:22 L:7 D:0 Bonus ✅ 34%
+description: W:22 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 6 - 3 **Azennor inc\.**
 date: 2025-03-18T11:42:24.000Z
@@ -16,7 +16,7 @@ date: 2025-03-18T11:42:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

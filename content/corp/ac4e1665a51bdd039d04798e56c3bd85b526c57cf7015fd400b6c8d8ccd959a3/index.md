@@ -1,9 +1,9 @@
 ---
 title: ​63SALVADORES36
-description: W:22 L:30 D:1 Bonus ❌ 8%
+description: W:23 L:30 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 4 **Hades’ galaxy**
-date: 2025-03-24T08:46:39.000Z
+Summary: ✅ 5 - 0 **碧海听潮阁**
+date: 2025-03-25T10:47:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ Discord: https://discord.gg/wnw8sSwy
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1222)|
-| ELO Competitive | 1310 🔻  (291)|
-| Total Matches | 53 |
-| Wins | 22 |
+| ELO Regular | 1160 🔺  (1111)|
+| ELO Competitive | 1344 🔺  (226)|
+| Total Matches | 54 |
+| Wins | 23 |
 | Losses | 30 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742373999,1741712602,1741691264,1741130549,1741120933,1740628707,1740617292,1740081198,1740080596,1739619894,1739613884,1739171345,1739161649,1738447030,1738438983,1737785613,1737677139,1737288596,1737122708,1736729324,1736658987,1736150788,1736146582,1735373664,1735373664,1734685868,1734666073,1734170030,1734169090,1733549499,1733549498,1733093347,1733079865,1732620071,1732612267,1732098485,1732062674,1731391667,1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
+        let timestamps = [1742467661,1742373999,1741712602,1741691264,1741130549,1741120933,1740628707,1740617292,1740081198,1740080596,1739619894,1739613884,1739171345,1739161649,1738447030,1738438983,1737785613,1737677139,1737288596,1737122708,1736729324,1736658987,1736150788,1736146582,1735373664,1735373664,1734685868,1734666073,1734170030,1734169090,1733549499,1733549498,1733093347,1733079865,1732620071,1732612267,1732098485,1732062674,1731391667,1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) | 2 | 0 | 0 | 2 |
 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) | 0 | 2 | 0 | 2 |
 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) | 0 | 2 | 0 | 2 |
 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1 | 1 | 0 | 2 |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 5-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/03/24 | 3-4 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ❌ | 2025/03/16 | 3-6 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/03/16 | 0-3 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
@@ -211,5 +213,5 @@ Corporation ID: ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742805999"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742899661"></span>
 </div>

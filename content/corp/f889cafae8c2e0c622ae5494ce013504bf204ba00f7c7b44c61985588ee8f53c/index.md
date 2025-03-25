@@ -1,6 +1,6 @@
 ---
 title: ​Dark Training
-description: W:24 L:14 D:1 Bonus ✅ 36%
+description: W:24 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 9 - 1 **2ND\-R8 Corp\.**
 date: 2025-03-18T11:22:22.000Z
@@ -24,12 +24,12 @@ Alliance:
 <br>
 
 ### [Discord](https://discord.gg/gJVbNTWUYM)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1344 🔺  (113)|
-| ELO Competitive | 1418 🔺  (142)|
+| ELO Competitive | 1418 🔺  (143)|
 | Total Matches | 39 |
 | Wins | 24 |
 | Losses | 14 |

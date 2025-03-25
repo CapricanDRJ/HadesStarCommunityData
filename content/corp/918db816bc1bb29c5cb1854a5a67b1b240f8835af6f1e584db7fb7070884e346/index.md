@@ -1,9 +1,9 @@
 ---
 title: ​Polaris Corpo
-description: W:12 L:11 D:0 Bonus ❌ 8%
+description: W:12 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 30 - 0 **星域 **
-date: 2025-02-26T13:09:58.000Z
+Summary: ❌ 5 - 10 **Soul System**
+date: 2025-03-25T11:59:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-02-26T13:09:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (487)|
-| ELO Competitive | 1278 🔺  (366)|
-| Total Matches | 23 |
+| ELO Regular | 1191 🔻  (617)|
+| ELO Competitive | 1261 🔻  (410)|
+| Total Matches | 24 |
 | Wins | 12 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740143398,1739101841,1738417569,1738415164,1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
+        let timestamps = [1742471969,1740143398,1739101841,1738417569,1738415164,1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/25 | 5-10 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) |
 | ✅ | 2025/02/26 | 30-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/02/14 | 13-34 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2025/02/06 | 0-18 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
@@ -174,5 +175,5 @@ Corporation ID: 918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740575398"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742903969"></span>
 </div>

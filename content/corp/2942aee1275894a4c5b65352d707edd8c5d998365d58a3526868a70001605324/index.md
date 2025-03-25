@@ -1,6 +1,6 @@
 ---
 title: ​毛绒团子
-description: W:13 L:1 D:0 Bonus ✅ 
+description: W:13 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 19 - 0 **The Syndicate **
 date: 2025-03-18T11:32:23.000Z
@@ -15,7 +15,7 @@ date: 2025-03-18T11:32:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

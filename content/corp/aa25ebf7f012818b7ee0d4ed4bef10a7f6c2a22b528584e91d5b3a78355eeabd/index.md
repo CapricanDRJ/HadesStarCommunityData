@@ -1,9 +1,9 @@
 ---
 title: ​星际造梦
-description: W:2 L:2 D:0 Bonus ✅ 
+description: W:3 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 16 - 3 **GN星际联合**
-date: 2025-03-18T13:12:33.000Z
+Summary: ✅ 7 - 4 **Terran empire **
+date: 2025-03-25T12:29:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-03-18T13:12:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (441)|
-| ELO Competitive | 1228 🔺  (510)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1232 🔺  (342)|
+| ELO Competitive | 1246 🔺  (450)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741871553,1741438548,1741345383,1740895556];
+        let timestamps = [1742473773,1741871553,1741438548,1741345383,1740895556];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 7-4 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/03/18 | 16-3 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ❌ | 2025/03/13 | 2-17 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/03/12 | 6-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
@@ -143,5 +146,5 @@ Corporation ID: aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742303553"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742905773"></span>
 </div>
