@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:20 L:10 D:0 Bonus ✅ 34%
+description: W:20 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 16 - 1 **FURIA 2\.0**
 date: 2025-03-18T18:23:06.000Z
@@ -16,7 +16,7 @@ date: 2025-03-18T18:23:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

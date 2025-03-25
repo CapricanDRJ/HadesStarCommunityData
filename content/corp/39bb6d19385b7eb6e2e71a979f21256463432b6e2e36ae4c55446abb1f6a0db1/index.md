@@ -22,7 +22,7 @@ tivity and participation very welcome
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1058 🔻  (1409)|
-| ELO Competitive | 1140 🔻  (1359)|
+| ELO Competitive | 1140 🔻  (1360)|
 | Total Matches | 24 |
 | Wins | 5 |
 | Losses | 18 |

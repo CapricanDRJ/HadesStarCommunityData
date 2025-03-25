@@ -1,6 +1,6 @@
 ---
 title: ​Atlas Star llc.
-description: W:54 L:13 D:0 Bonus ✅ 38%
+description: W:54 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 34 - 10 **Galaxians**
 date: 2025-03-18T16:17:53.000Z
@@ -17,12 +17,12 @@ ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 <br>
 
 ### [Discord](https://discord.gg/gdwqCqc2VN)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1462 🔺  (19)|
-| ELO Competitive | 1562 🔺  (39)|
+| ELO Competitive | 1562 🔺  (40)|
 | Total Matches | 67 |
 | Wins | 54 |
 | Losses | 13 |
