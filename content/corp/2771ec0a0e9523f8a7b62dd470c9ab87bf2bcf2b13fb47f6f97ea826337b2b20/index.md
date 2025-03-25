@@ -1,6 +1,6 @@
 ---
 title: ​Mercury Sunset
-description: W:53 L:0 D:0 Bonus ✅ 38%
+description: W:53 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 30 - 6 **Cydonia Order**
 date: 2025-03-18T05:16:50.000Z
@@ -16,7 +16,7 @@ The sunset of the dying star was covered in drops of mercury.
 <br>
 
 ### [Discord](https://discord.gg/hnywHXhtg5)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
