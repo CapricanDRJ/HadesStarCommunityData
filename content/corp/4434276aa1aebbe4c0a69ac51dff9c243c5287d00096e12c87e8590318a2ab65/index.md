@@ -20,8 +20,8 @@ Korea Aerospace Research Institute
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 815 🔻  (1466)|
-| ELO Competitive | 994 🔻  (1466)|
+| ELO Regular | 815 🔻  (1467)|
+| ELO Competitive | 994 🔻  (1467)|
 | Total Matches | 68 |
 | Wins | 2 |
 | Losses | 66 |

@@ -1,9 +1,9 @@
 ---
 title: ​清霄阁（防御协会）
-description: W:8 L:13 D:1 Bonus ❌ 6%
+description: W:9 L:13 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 19 **毛绒团子**
-date: 2025-03-18T11:02:20.000Z
+Summary: ✅ 8 - 0 **Valholl**
+date: 2025-03-25T12:59:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 2025-03-18T11:02:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1217)|
-| ELO Competitive | 1192 🔻  (785)|
-| Total Matches | 22 |
-| Wins | 8 |
+| ELO Regular | 1161 🔺  (1105)|
+| ELO Competitive | 1207 🔺  (649)|
+| Total Matches | 23 |
+| Wins | 9 |
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741863740,1741425384,1740283493,1739745820,1739202216,1738731320,1738201205,1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1742475576,1741863740,1741425384,1740283493,1739745820,1739202216,1738731320,1738201205,1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 8-0 | [Valholl](https://ws.tsl.rocks/corp/c50b6c9e3d2e2b9da27a3d0d7365012560d1dcd340e89518225559ea80edbee4/) |
 | ❌ | 2025/03/18 | 0-19 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2025/03/13 | 2-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/02/28 | 0-6 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
@@ -169,5 +170,5 @@ Corporation ID: a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742295740"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742907576"></span>
 </div>

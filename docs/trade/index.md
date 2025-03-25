@@ -312,25 +312,29 @@ searchHidden: true
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>4</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>248%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
                 <tr>
                     <td>4</td>
                     <td><img src="trade.png" alt="trade"></td>
-                    <td>RS5</td>
-                    <td>210%</td>
-                </tr>
-            
-                <tr>
-                    <td>4</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS5</td>
-                    <td>210%</td>
+                    <td>RS6</td>
+                    <td>240%</td>
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+            <td colspan="4">Guild: Private</td>
         </tr>
     </table>
     <table>

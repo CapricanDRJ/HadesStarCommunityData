@@ -1,6 +1,6 @@
 ---
 title: ​Terran empire 
-description: W:7 L:2 D:0 Bonus ✅ 
+description: W:7 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 4 - 7 **星际造梦**
 date: 2025-03-25T12:29:33.000Z
@@ -15,7 +15,7 @@ date: 2025-03-25T12:29:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
