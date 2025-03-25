@@ -1,9 +1,9 @@
 ---
 title: ​Crux Cadre
-description: W:37 L:39 D:2 Bonus ❌ 14%
+description: W:38 L:39 D:2 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ❌ 19 - 22 **italian warrior**
-date: 2025-03-17T22:46:19.000Z
+Summary: ✅ 34 - 0 **Game of Stars**
+date: 2025-03-24T23:08:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ e run with us! Say hi on Discord!
 <br>
 
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1209)|
-| ELO Competitive | 1285 🔻  (345)|
-| Total Matches | 78 |
-| Wins | 37 |
+| ELO Regular | 1159 🔺  (1114)|
+| ELO Competitive | 1297 🔺  (318)|
+| Total Matches | 79 |
+| Wins | 38 |
 | Losses | 39 |
 | Draws | 2 |
 | Streak Record | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741819579,1741209273,1740694214,1740095026,1739599459,1738923638,1737706281,1737084245,1736403228,1735284421,1734075338,1733094892,1732338213,1731797639,1731099258,1730397004,1729725091,1729046834,1727968494,1727966991,1727333825,1727311292,1726714526,1726693197,1725932710,1725245479,1724635455,1724178981,1723601381,1723038824,1722462449,1721883939,1721210197,1721205990,1720621115,1720616307,1720105419,1719559979,1719096598,1718656954,1718048256,1718047053,1717599772,1717036256,1716600802,1716095762,1715636982,1714890052,1714405900,1713967825,1713384069,1712792723,1712243748,1711572175,1710960710,1709874506,1709243516,1708674389,1708094432,1707466540,1706852148,1706226479,1705577060,1704976641,1704356980,1703738820,1703091793,1702551827,1702541009,1701894234,1701890927,1701201785,1701179840,1700626827,1700592566,1700028978,1699519188,1698952453];
+        let timestamps = [1742425699,1741819579,1741209273,1740694214,1740095026,1739599459,1738923638,1737706281,1737084245,1736403228,1735284421,1734075338,1733094892,1732338213,1731797639,1731099258,1730397004,1729725091,1729046834,1727968494,1727966991,1727333825,1727311292,1726714526,1726693197,1725932710,1725245479,1724635455,1724178981,1723601381,1723038824,1722462449,1721883939,1721210197,1721205990,1720621115,1720616307,1720105419,1719559979,1719096598,1718656954,1718048256,1718047053,1717599772,1717036256,1716600802,1716095762,1715636982,1714890052,1714405900,1713967825,1713384069,1712792723,1712243748,1711572175,1710960710,1709874506,1709243516,1708674389,1708094432,1707466540,1706852148,1706226479,1705577060,1704976641,1704356980,1703738820,1703091793,1702551827,1702541009,1701894234,1701890927,1701201785,1701179840,1700626827,1700592566,1700028978,1699519188,1698952453];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 2 | 2 | 0 | 4 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 0 | 1 | 1 | 2 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 0 | 3 | 0 | 3 |
 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) | 1 | 1 | 0 | 2 |
@@ -142,7 +143,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1 | 1 | 0 | 2 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 0 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 3 | 0 | 0 | 3 |
-| [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1 | 2 | 0 | 3 |
 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) | 2 | 0 | 0 | 2 |
 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 2 | 0 | 0 | 2 |
 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 1 | 1 | 0 | 2 |
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/24 | 34-0 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ❌ | 2025/03/17 | 19-22 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ↔️ | 2025/03/10 | 15-15 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2025/03/04 | 27-61 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
@@ -237,5 +238,5 @@ Corporation ID: 41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742251579"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742857699"></span>
 </div>

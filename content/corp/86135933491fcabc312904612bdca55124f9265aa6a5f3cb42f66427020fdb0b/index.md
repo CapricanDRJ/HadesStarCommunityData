@@ -22,8 +22,8 @@ rience and have some fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔺  (142)|
-| ELO Competitive | 1420 🔺  (138)|
+| ELO Regular | 1322 🔺  (141)|
+| ELO Competitive | 1420 🔺  (137)|
 | Total Matches | 71 |
 | Wins | 43 |
 | Losses | 26 |

@@ -1,9 +1,9 @@
 ---
 title: ​Created
-description: W:20 L:36 D:1 Bonus ❌ 8%
+description: W:21 L:36 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 18 - 4 **Seila**
-date: 2025-03-14T05:52:31.000Z
+Summary: ✅ 16 - 0 **拆迁大队**
+date: 2025-03-25T00:13:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ What a year….
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (875)|
-| ELO Competitive | 1279 🔺  (364)|
-| Total Matches | 57 |
-| Wins | 20 |
+| ELO Regular | 1192 🔺  (607)|
+| ELO Competitive | 1287 🔺  (338)|
+| Total Matches | 58 |
+| Wins | 21 |
 | Losses | 36 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 6 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741499551,1740527746,1739818235,1738802841,1737996872,1737092357,1737067338,1736227723,1736216907,1734664871,1734664271,1734148360,1733457855,1732795879,1732208405,1731653388,1731185216,1730491359,1729346757,1728692464,1728159340,1727455530,1726597222,1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
+        let timestamps = [1742429604,1741499551,1740527746,1739818235,1738802841,1737996872,1737092357,1737067338,1736227723,1736216907,1734664871,1734664271,1734148360,1733457855,1732795879,1732208405,1731653388,1731185216,1730491359,1729346757,1728692464,1728159340,1727455530,1726597222,1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 16-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ✅ | 2025/03/14 | 18-4 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 | ❌ | 2025/03/02 | 2-19 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ✅ | 2025/02/22 | 20-7 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
@@ -206,5 +208,5 @@ Corporation ID: 04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741931551"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742861604"></span>
 </div>
