@@ -1,9 +1,9 @@
 ---
 title: ​新?的星际集团?
-description: W:33 L:22 D:2 Bonus ✅ 36%
+description: W:34 L:22 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 10 - 6 **阿尔特拉太空港**
-date: 2025-03-19T16:50:10.000Z
+Summary: ✅ 15 - 1 **First Legion**
+date: 2025-03-25T01:38:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,14 +27,14 @@ date: 2025-03-19T16:50:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (172)|
-| ELO Competitive | 1402 🔺  (156)|
-| Total Matches | 57 |
-| Wins | 33 |
+| ELO Regular | 1308 🔺  (159)|
+| ELO Competitive | 1409 🔺  (149)|
+| Total Matches | 58 |
+| Wins | 34 |
 | Losses | 22 |
 | Draws | 2 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 4 |
 
 ---
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741971010,1741970710,1741537119,1741103802,1741075255,1740577022,1739903876,1739890350,1739456728,1739452821,1737465891,1737296111,1736788527,1736695659,1736273103,1735711999,1735692774,1735050671,1735049769,1733909780,1732333105,1731733924,1729951060,1729949858,1729493105,1729484993,1729015883,1728293662,1728129282,1727706447,1727649357,1727263807,1727216220,1726460796,1725945629,1725942623,1725483411,1725461825,1725010052,1724982534,1724507734,1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
+        let timestamps = [1742434713,1741971010,1741970710,1741537119,1741103802,1741075255,1740577022,1739903876,1739890350,1739456728,1739452821,1737465891,1737296111,1736788527,1736695659,1736273103,1735711999,1735692774,1735050671,1735049769,1733909780,1732333105,1731733924,1729951060,1729949858,1729493105,1729484993,1729015883,1728293662,1728129282,1727706447,1727649357,1727263807,1727216220,1726460796,1725945629,1725942623,1725483411,1725461825,1725010052,1724982534,1724507734,1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 15-1 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2025/03/19 | 10-6 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2025/03/19 | 17-14 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2025/03/14 | 12-4 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
@@ -215,5 +216,5 @@ Corporation ID: 22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742403010"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742866713"></span>
 </div>

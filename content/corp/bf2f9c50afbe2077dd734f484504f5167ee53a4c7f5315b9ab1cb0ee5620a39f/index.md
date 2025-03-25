@@ -1,6 +1,6 @@
 ---
 title: ​Nebulae Traders
-description: W:11 L:60 D:4 Bonus ✅ 38%
+description: W:11 L:60 D:4 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 8 - 7 **Empire of Light**
 date: 2025-03-18T01:11:31.000Z
@@ -16,7 +16,7 @@ date: 2025-03-18T01:11:31.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

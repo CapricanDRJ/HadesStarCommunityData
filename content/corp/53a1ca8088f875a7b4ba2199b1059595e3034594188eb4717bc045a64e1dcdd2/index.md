@@ -1,9 +1,9 @@
 ---
 title: ​imperio galacti
-description: W:21 L:11 D:1 Bonus ❌ 7%
+description: W:22 L:11 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 21 **Starships**
-date: 2025-03-23T20:00:26.000Z
+Summary: ✅ 21 - 2 **普罗米修斯**
+date: 2025-03-25T01:18:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻  (159)|
-| ELO Competitive | 1386 🔻  (172)|
-| Total Matches | 33 |
-| Wins | 21 |
+| ELO Regular | 1315 🔺  (152)|
+| ELO Competitive | 1414 🔺  (146)|
+| Total Matches | 34 |
+| Wins | 22 |
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742328026,1741798541,1741781708,1741290100,1741279879,1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1742433511,1742328026,1741798541,1741781708,1741290100,1741279879,1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 21-2 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2025/03/23 | 0-21 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/03/17 | 2-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2025/03/17 | 16-12 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
@@ -181,5 +182,5 @@ Corporation ID: 53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742760026"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742865511"></span>
 </div>
