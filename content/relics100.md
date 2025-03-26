@@ -2,7 +2,7 @@
 layout: page
 title: Relics
 description: Hades' Star top corporations by relics collected since Dark Nebula's release
-date: 2025-03-26T20:18:10.283Z
+date: 2025-03-26T20:26:08.996Z
 permalink: /relics100/
 searchHidden: true
 ---
