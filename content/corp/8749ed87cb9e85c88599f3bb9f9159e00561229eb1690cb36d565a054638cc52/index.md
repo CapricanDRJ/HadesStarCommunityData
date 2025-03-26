@@ -1,6 +1,6 @@
 ---
 title: ​Seila
-description: W:5 L:9 D:1 Bonus ✅ 34%
+description: W:5 L:9 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 19 **Lololol**
 date: 2025-03-24T23:53:23.000Z
@@ -16,7 +16,7 @@ tbkMiJhAQpMNoJET
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
