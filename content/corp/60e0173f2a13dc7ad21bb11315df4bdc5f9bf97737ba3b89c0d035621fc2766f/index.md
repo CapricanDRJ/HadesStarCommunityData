@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:33 L:25 D:1 Bonus ✅ 36%
+description: W:33 L:25 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 23 **Млечный путь**
 date: 2025-03-19T23:40:57.000Z
@@ -18,7 +18,7 @@ date: 2025-03-19T23:40:57.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

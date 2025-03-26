@@ -21,7 +21,7 @@ ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (1010)|
+| ELO Regular | 1171 🔻  (1011)|
 | ELO Competitive | 1172 🔻  (1151)|
 | Total Matches | 2 |
 | Wins | 0 |

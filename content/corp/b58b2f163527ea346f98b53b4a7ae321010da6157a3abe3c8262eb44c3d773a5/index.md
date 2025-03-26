@@ -1,9 +1,9 @@
 ---
 title: ​Sons of Liberty
-description: W:7 L:1 D:0 Bonus ❌ 8%
+description: W:8 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 11 - 16 **IX Легион**
-date: 2025-02-15T06:02:38.000Z
+Summary: ✅ 25 - 5 **U\.S\.A**
+date: 2025-03-26T21:23:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Discord mandatory - join at the link below ↓
 <br>
 
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔻  (164)|
-| ELO Competitive | 1334 🔻  (244)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1311 🔺  (156)|
+| ELO Competitive | 1344 🔺  (226)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739167358,1736135767,1734297106,1733142959,1731878779,1729881040,1729319107,1728643771];
+        let timestamps = [1742592189,1739167358,1736135767,1734297106,1733142959,1731878779,1729881040,1729319107,1728643771];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 25-5 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2025/02/15 | 11-16 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/01/11 | 19-17 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2024/12/20 | 29-0 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -151,5 +152,5 @@ Corporation ID: b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739599358"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743024189"></span>
 </div>
