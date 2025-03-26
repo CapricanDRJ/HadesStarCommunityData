@@ -1,9 +1,9 @@
 ---
 title: ​很多星球的社会主义团
-description: W:14 L:24 D:2 Bonus ❌ 7%
+description: W:15 L:24 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 3 - 15 **星际公约组织**
-date: 2025-03-01T12:57:05.000Z
+Summary: ✅ 5 - 4 **Слава Украине\!**
+date: 2025-03-26T12:57:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 2025-03-01T12:57:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1348)|
-| ELO Competitive | 1226 🔻  (520)|
-| Total Matches | 40 |
-| Wins | 14 |
+| ELO Regular | 1133 🔺  (1268)|
+| ELO Competitive | 1255 🔺  (427)|
+| Total Matches | 41 |
+| Wins | 15 |
 | Losses | 24 |
 | Draws | 2 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740401825,1740399421,1739966072,1739962466,1739523132,1739521629,1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1742561827,1740401825,1740399421,1739966072,1739962466,1739523132,1739521629,1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 5-4 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/03/01 | 3-15 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/03/01 | 1-34 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ❌ | 2025/02/24 | 3-4 | [Black Corsairs](https://ws.tsl.rocks/corp/f92c523729e551788705c4e776aad288e8df6e36592a638eb2077d16790f4e87/) |
@@ -190,5 +191,5 @@ Corporation ID: dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740833825"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742993827"></span>
 </div>

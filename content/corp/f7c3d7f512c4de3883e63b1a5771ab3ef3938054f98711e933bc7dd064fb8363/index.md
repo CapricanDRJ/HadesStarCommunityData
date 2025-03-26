@@ -1,6 +1,6 @@
 ---
 title: ​Wompwompway 
-description: W:40 L:14 D:0 Bonus ✅ 36%
+description: W:40 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 25 - 2 **Glashan**
 date: 2025-03-19T15:30:00.000Z
@@ -17,7 +17,7 @@ p anyone who desires the aid.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

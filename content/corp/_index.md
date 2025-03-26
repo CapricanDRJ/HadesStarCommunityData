@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-03-26T12:55:08.776Z
+date: 2025-03-26T15:55:09.212Z
 summary: "Corporation directory"
 ---
 
@@ -29,7 +29,7 @@ summary: "Corporation directory"
 | [Alpha Galaxy](https://ws.tsl.rocks/corp/9abcb558e094026cc6bd9a73f98a9d957a5fa21d3c43ea80848419c844a83775/) | 1186 | 1187 | 2 |
 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) | 1226 | 1235 | 6 |
 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) | 1165 | 1183 | 15 |
-| [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) | 1310 | 1390 | 37 |
+| [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) | 1307 | 1411 | 39 |
 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) | 1168 | 1178 | 5 |
 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) | 1181 | 1216 | 28 |
 | [Anarchy](https://ws.tsl.rocks/corp/fdd5421d762b9a1a1cc622f446bcd1a43a5dc52d6eeae3b903cc90fa349cb864/) | 1185 | 1185 | 1 |
@@ -442,7 +442,7 @@ summary: "Corporation directory"
 | [Jesus Followers](https://ws.tsl.rocks/corp/a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41/) | 1158 | 1167 | 6 |
 | [JPR\. Pretorians](https://ws.tsl.rocks/corp/7144c7cdb9f369d9e56199379429b01172d00a5142f6ceda71031de9bf6e0d25/) | 1155 | 1218 | 15 |
 | [just because](https://ws.tsl.rocks/corp/4abb148f2ae182265e533fa2474f56ee9f62eab5fe7f6e3fed92a519fce31781/) | 1184 | 1186 | 1 |
-| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 1386 | 1542 | 53 |
+| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 1367 | 1520 | 54 |
 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) | 1130 | 1136 | 16 |
 | [Karanth Corp\.](https://ws.tsl.rocks/corp/0fc8f143030ba76b5b5343015a7791fee2deabc1a3982096304acf6f4956ecdd/) | 1173 | 1174 | 2 |
 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) | 815 | 994 | 68 |
@@ -825,7 +825,7 @@ summary: "Corporation directory"
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 1057 | 1241 | 87 |
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1268 | 1560 | 125 |
 | [StellarCorpIT](https://ws.tsl.rocks/corp/7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f/) | 1283 | 1302 | 10 |
-| [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) | 1142 | 1172 | 17 |
+| [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) | 1164 | 1195 | 18 |
 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1318 | 1403 | 65 |
 | [Sterling Gamers](https://ws.tsl.rocks/corp/1c9d0a5b4f5803e2e51f7ce4af435c7caa7e7da9e39c7f1ed26f7be70e4d6638/) | 1201 | 1201 | 2 |
 | [Sternenbund](https://ws.tsl.rocks/corp/bc271b888ea386af54e2fc911a98d01951a0c2bb776a079d2ae005c477072587/) | 1185 | 1185 | 1 |
@@ -1164,7 +1164,7 @@ summary: "Corporation directory"
 | [Система Редарфа](https://ws.tsl.rocks/corp/7955df4f6e3d4e40b31e17dd1ae410181ccce8d2f8460b49f6a92ef187042dca/) | 1221 | 1225 | 1 |
 | [Скричеры](https://ws.tsl.rocks/corp/4e6e4f14ef6899f0d26f90dea584fecdc2d230059402af1d309ce71d87762b5c/) | 1197 | 1200 | 4 |
 | [СлАвЯнСкИй СоЮз](https://ws.tsl.rocks/corp/74a0e9ceb3b48af60580382b0ee5e8712d9a468b4f947302b81b999cfde3f86a/) | 1228 | 1231 | 11 |
-| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1438 | 1779 | 160 |
+| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1412 | 1750 | 161 |
 | [Созидание 2\.0](https://ws.tsl.rocks/corp/ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a/) | 1171 | 1194 | 28 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 1332 | 1398 | 48 |
 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) | 1166 | 1167 | 3 |
@@ -1297,7 +1297,7 @@ summary: "Corporation directory"
 | [小宇宙研究会](https://ws.tsl.rocks/corp/61992de1d0e2d076e6605b47342a479c71b61d3811df514bbd1d5c5128e17203/) | 1180 | 1183 | 3 |
 | [小红色太阳](https://ws.tsl.rocks/corp/8821d9efed57f79a1c13d2755a543d4c7f598ad290ca699218f1e23c9718cd3d/) | 1164 | 1165 | 2 |
 | [希灵帝国](https://ws.tsl.rocks/corp/d704c772517227272eea5818b6f8d4a0641be2d398359a4ed29c0e945e6d707b/) | 1193 | 1193 | 1 |
-| [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) | 1107 | 1226 | 40 |
+| [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) | 1133 | 1255 | 41 |
 | [德尔塔星舰联盟](https://ws.tsl.rocks/corp/1b2cf7bd23515b61b88cb477e9e99bf6d7def430c3ef239a5a0c9c81315a63bc/) | 1185 | 1186 | 1 |
 | [德意志第三帝国BATA分部](https://ws.tsl.rocks/corp/3bd6b2c1691e410f94a5040b7303128f1a56eb5a26308033de3c4e279d748208/) | 1213 | 1213 | 1 |
 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) | 1238 | 1263 | 27 |
