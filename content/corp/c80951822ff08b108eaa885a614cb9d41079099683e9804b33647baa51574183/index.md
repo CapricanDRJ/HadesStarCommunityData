@@ -1,9 +1,9 @@
 ---
 title: ​超越声速
-description: W:1 L:2 D:1 Bonus ❌ 3%
+description: W:1 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ↔️ 3 - 3 **碧海听潮阁**
-date: 2025-02-15T10:33:02.000Z
+Summary: ❌ 0 - 14 **Eretria **
+date: 2025-03-26T01:51:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 2025-02-15T10:33:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔺  (592)|
-| ELO Competitive | 1202 🔺  (676)|
-| Total Matches | 4 |
+| ELO Regular | 1177 🔻  (927)|
+| ELO Competitive | 1187 🔻  (877)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739183582,1732281417,1731659325,1730904538];
+        let timestamps = [1742521861,1739183582,1732281417,1731659325,1730904538];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/26 | 0-14 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ↔️ | 2025/02/15 | 3-3 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/11/27 | 4-13 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2024/11/20 | 2-33 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
@@ -144,5 +145,5 @@ Corporation ID: c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739615582"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742953861"></span>
 </div>

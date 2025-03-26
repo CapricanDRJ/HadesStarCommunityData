@@ -19,7 +19,7 @@ English speaking – would you want to communicate
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (953)|
+| ELO Regular | 1174 🔺  (954)|
 | ELO Competitive | 1276 🔺  (370)|
 | Total Matches | 56 |
 | Wins | 24 |

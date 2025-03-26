@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:42 L:19 D:0 Bonus ✅ 36%
+description: W:42 L:19 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 31 - 0 **Blood Hounds**
 date: 2025-03-19T02:33:51.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

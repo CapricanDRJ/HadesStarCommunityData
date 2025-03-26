@@ -1,9 +1,9 @@
 ---
 title: ​Alpha to Omega
-description: W:4 L:8 D:2 Bonus ❌ 5%
+description: W:5 L:8 D:2 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 4 - 14 **星际公约组织**
-date: 2025-03-04T13:44:20.000Z
+Summary: ✅ 2 - 0 **FoxTale**
+date: 2025-03-26T01:51:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ Start here. Figure things out. Have fun.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1200)|
-| ELO Competitive | 1164 🔻  (1231)|
-| Total Matches | 14 |
-| Wins | 4 |
+| ELO Regular | 1165 🔺  (1081)|
+| ELO Competitive | 1183 🔺  (1051)|
+| Total Matches | 15 |
+| Wins | 5 |
 | Losses | 8 |
 | Draws | 2 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740663860,1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
+        let timestamps = [1742521861,1740663860,1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 2-0 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ❌ | 2025/03/04 | 4-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/02/19 | 7-0 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ❌ | 2025/01/29 | 0-4 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -154,5 +155,5 @@ Corporation ID: 2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741095860"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742953861"></span>
 </div>
