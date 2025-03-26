@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:35 L:10 D:0 Bonus ✅ 36%
+description: W:35 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 16 - 5 **Бороская Имерия**
 date: 2025-03-19T19:15:28.000Z
@@ -17,7 +17,7 @@ date: 2025-03-19T19:15:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

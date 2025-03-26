@@ -168,6 +168,47 @@
 <article class="first-entry home-info">
     <header class="entry-header">
         <h1>Hades&rsquo; Star Resources</h1>
+        
+<canvas id="matchChart" width="800" height="400" style="max-width: 100%; height: auto;"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<script>
+    const ctx = document.getElementById('matchChart').getContext('2d');
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ["2023-10","2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02"],
+            datasets: [{
+                label: 'Whitestars',
+                data: [69,952,1065,1164,1058,1053,999,965,916,989,967,941,935,928,902,942,882],
+                borderColor: 'rgba(0, 191, 255, 1)',
+                backgroundColor: 'rgba(0, 191, 255, 0.2)',
+                tension: 0.3,
+                fill: true
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    ticks: { color: '#fff' },
+                    grid: { color: 'rgba(255,255,255,0.1)' }
+                },
+                y: {
+                    beginAtZero: true,
+                    ticks: { color: '#fff' },
+                    grid: { color: 'rgba(255,255,255,0.1)' }
+                }
+            },
+            plugins: {
+                legend: {
+                    labels: { color: '#fff' }
+                }
+            }
+        }
+    });
+</script>
+
     </header>
     <div class="entry-content">
         Several community projects related to the Hades&rsquo; Star video game.<br>This site could be better, if you are a web developer who would like to make that happen, please join us on discord.
@@ -194,6 +235,54 @@
 </div>
 
     </footer>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​MiddleOfNowhere
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3>✅ 26 - 2 Prosperity</h3>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-26 19:42:57 +0000 UTC'>March 26, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​MiddleOfNowhere" href="https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Prosperity
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3>❌ 2 - 26 MiddleOfNowhere</h3>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-26 19:42:57 +0000 UTC'>March 26, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Prosperity" href="https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Proxima
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3>❌ 1 - 3 Red Star</h3>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-26 19:37:56 +0000 UTC'>March 26, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Proxima" href="https://ws.tsl.rocks/corp/e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">​Red Star
+    </h2>
+  </header>
+  <div class="entry-content">
+    <h3>✅ 3 - 1 Proxima</h3>
+  </div>
+  <footer class="entry-footer"><span title='2025-03-26 19:37:56 +0000 UTC'>March 26, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to ​Red Star" href="https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -626,54 +715,6 @@
   </div>
   <footer class="entry-footer"><span title='2025-03-26 01:51:01 +0000 UTC'>March 26, 2025</span></footer>
   <a class="entry-link" aria-label="post link to ​Eretria" href="https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">​FoxTale
-    </h2>
-  </header>
-  <div class="entry-content">
-    <h3>❌ 0 - 2 Alpha to Omega</h3>
-  </div>
-  <footer class="entry-footer"><span title='2025-03-26 01:51:01 +0000 UTC'>March 26, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to ​FoxTale" href="https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">​超越声速
-    </h2>
-  </header>
-  <div class="entry-content">
-    <h3>❌ 0 - 14 **Eretria **</h3>
-  </div>
-  <footer class="entry-footer"><span title='2025-03-26 01:51:01 +0000 UTC'>March 26, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to ​超越声速" href="https://ws.tsl.rocks/corp/c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">​💮問鼎無垠💮
-    </h2>
-  </header>
-  <div class="entry-content">
-    <h3>✅ 9 - 0 Crastorios</h3>
-  </div>
-  <footer class="entry-footer"><span title='2025-03-26 01:36:00 +0000 UTC'>March 26, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to ​💮問鼎無垠💮" href="https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">​Crastorios
-    </h2>
-  </header>
-  <div class="entry-content">
-    <h3>❌ 0 - 9 💮問鼎無垠💮</h3>
-  </div>
-  <footer class="entry-footer"><span title='2025-03-26 01:36:00 +0000 UTC'>March 26, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to ​Crastorios" href="https://ws.tsl.rocks/corp/cf8e92451d31be30383d7359e1e2095ccb8e0c4afe78451b4fd39cb4dab1f3e0/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
