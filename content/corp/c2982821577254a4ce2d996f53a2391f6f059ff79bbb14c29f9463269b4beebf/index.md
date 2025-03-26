@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:13 L:14 D:1 Bonus ❌ 36%
+description: W:13 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 36 - 3 **Октябристы**
 date: 2025-03-19T09:54:26.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

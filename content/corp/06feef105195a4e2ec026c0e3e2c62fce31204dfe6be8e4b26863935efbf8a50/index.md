@@ -1,9 +1,9 @@
 ---
 title: ​hades star萌新指引站
-description: W:14 L:11 D:1 Bonus ❌ 6%
+description: W:14 L:12 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 18 - 0 **Черное солнце**
-date: 2025-03-17T10:19:57.000Z
+Summary: ❌ 0 - 29 **DarkMoon**
+date: 2025-03-26T10:56:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-17T10:19:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (388)|
-| ELO Competitive | 1266 🔺  (391)|
-| Total Matches | 26 |
+| ELO Regular | 1211 🔻  (463)|
+| ELO Competitive | 1259 🔻  (412)|
+| Total Matches | 27 |
 | Wins | 14 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741774797,1738848814,1738814859,1738382103,1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1742554613,1741774797,1738848814,1738814859,1738382103,1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/26 | 0-29 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2025/03/17 | 18-0 | [Черное солнце](https://ws.tsl.rocks/corp/963c510edfd1a89603e4c253f389cc603a707689fab0617c954c3a5d1856e1b4/) |
 | ❌ | 2025/02/11 | 0-4 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ❌ | 2025/02/11 | 5-8 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
@@ -171,5 +172,5 @@ Corporation ID: 06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742206797"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742986613"></span>
 </div>

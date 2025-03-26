@@ -1,9 +1,9 @@
 ---
 title: ​Stardust
-description: W:3 L:18 D:1 Bonus ❌ 6%
+description: W:4 L:18 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ↔️ 4 - 4 **阿尔特拉太空港**
-date: 2025-02-25T12:42:19.000Z
+Summary: ✅ 13 - 8 **Glashan**
+date: 2025-03-26T10:06:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ me.
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔺  (1361)|
-| ELO Competitive | 1152 🔺  (1316)|
-| Total Matches | 22 |
-| Wins | 3 |
+| ELO Regular | 1114 🔺  (1331)|
+| ELO Competitive | 1165 🔺  (1230)|
+| Total Matches | 23 |
+| Wins | 4 |
 | Losses | 18 |
 | Draws | 1 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740055339,1734603273,1730737168,1728362477,1720665900,1720497902,1719766129,1719758915,1718424046,1715898970,1714926409,1714474707,1712389778,1712310373,1711879865,1710757897,1710244993,1709778060,1709220374,1707050785,1706524586,1700722697];
+        let timestamps = [1742551608,1740055339,1734603273,1730737168,1728362477,1720665900,1720497902,1719766129,1719758915,1718424046,1715898970,1714926409,1714474707,1712389778,1712310373,1711879865,1710757897,1710244993,1709778060,1709220374,1707050785,1706524586,1700722697];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 13-8 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ↔️ | 2025/02/25 | 4-4 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024/12/24 | 13-6 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/11/09 | 5-18 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
@@ -169,5 +170,5 @@ Corporation ID: 304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740487339"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742983608"></span>
 </div>
