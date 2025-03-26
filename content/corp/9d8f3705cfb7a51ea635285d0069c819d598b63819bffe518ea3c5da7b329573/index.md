@@ -1,9 +1,9 @@
 ---
 title: ​落魄山
-description: W:1 L:7 D:0 Bonus ❌ 
+description: W:2 L:8 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 15 **Слава Украине\!**
-date: 2025-03-20T19:08:01.000Z
+Summary: ✅ 18 - 0 **骊珠洞天**
+date: 2025-03-26T06:26:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2025-03-20T19:08:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1303)|
-| ELO Competitive | 1173 🔻  (1134)|
-| Total Matches | 8 |
-| Wins | 1 |
-| Losses | 7 |
+| ELO Regular | 1136 🔺  (1255)|
+| ELO Competitive | 1191 🔺  (800)|
+| Total Matches | 10 |
+| Wins | 2 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
+        let timestamps = [1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,12 +126,19 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 18-0 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
+| ❌ | 2025/03/26 | 0-10 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2025/03/20 | 0-15 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/03/20 | 0-12 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/03/15 | 0-9 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
@@ -147,5 +154,5 @@ Corporation ID: 9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742497681"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742970403"></span>
 </div>

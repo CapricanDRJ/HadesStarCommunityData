@@ -1,6 +1,6 @@
 ---
 title: ​Trade Station
-description: W:10 L:53 D:0 Bonus ✅ 48%
+description: W:10 L:53 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 14 - 37 **Continuum**
 date: 2025-03-25T16:04:58.000Z
@@ -23,7 +23,7 @@ Find us on Discord: YTaYrhy
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

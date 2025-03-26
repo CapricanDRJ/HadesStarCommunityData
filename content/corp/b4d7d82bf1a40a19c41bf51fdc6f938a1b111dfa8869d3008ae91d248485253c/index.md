@@ -1,9 +1,9 @@
 ---
 title: ​骊珠洞天
-description: W:2 L:2 D:0 Bonus ✅ 
+description: W:3 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 9 **💮問鼎無垠💮**
-date: 2025-03-21T01:33:38.000Z
+Summary: ✅ 14 - 0 **Space Force**
+date: 2025-03-26T06:39:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-21T01:33:38.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (522)|
-| ELO Competitive | 1230 🔺  (507)|
-| Total Matches | 4 |
-| Wins | 2 |
-| Losses | 2 |
+| ELO Regular | 1197 🔺  (566)|
+| ELO Competitive | 1243 🔺  (462)|
+| Total Matches | 6 |
+| Wins | 3 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742088818,1742051255,1741582447,1741573887];
+        let timestamps = [1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,12 +127,19 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 14-0 | [Space Force](https://ws.tsl.rocks/corp/3b211025fcbe576d520e8578c3401eada522804972c60553a3e2d04224fcb214/) |
+| ❌ | 2025/03/26 | 0-18 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/03/21 | 0-9 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/03/20 | 13-3 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ✅ | 2025/03/15 | 9-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
@@ -144,5 +151,5 @@ Corporation ID: b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742520818"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742971172"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​DarkMoon
-description: W:30 L:11 D:1 Bonus ✅ 42%
+description: W:30 L:11 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **101**
 date: 2025-03-19T06:14:08.000Z
@@ -17,7 +17,7 @@ date: 2025-03-19T06:14:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/Vaf5WV2QQs)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

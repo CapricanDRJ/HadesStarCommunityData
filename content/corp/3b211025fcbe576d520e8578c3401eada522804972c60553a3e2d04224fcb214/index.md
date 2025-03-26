@@ -1,9 +1,9 @@
 ---
 title: ​Space Force
-description: W:1 L:3 D:2 Bonus ❌ 3%
+description: W:1 L:4 D:2 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **Weyland Yutani **
-date: 2024-04-24T21:25:24.000Z
+Summary: ❌ 0 - 14 **骊珠洞天**
+date: 2025-03-26T06:39:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2024-04-24T21:25:24.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (1028)|
-| ELO Competitive | 1189 🔻  (844)|
-| Total Matches | 6 |
+| ELO Regular | 1156 🔻  (1145)|
+| ELO Competitive | 1175 🔻  (1115)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713561924,1712931533,1712827571,1712357930,1712291223,1711911121];
+        let timestamps = [1742539172,1713561924,1712931533,1712827571,1712357930,1712291223,1711911121];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/26 | 0-14 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 | ❌ | 2024/04/24 | 0-2 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ❌ | 2024/04/17 | 3-4 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 | ❌ | 2024/04/16 | 0-102 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
@@ -145,5 +146,5 @@ Corporation ID: 3b211025fcbe576d520e8578c3401eada522804972c60553a3e2d04224fcb214
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1713993924"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742971172"></span>
 </div>

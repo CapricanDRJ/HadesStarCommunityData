@@ -1,9 +1,9 @@
 ---
 title: ​Croce del Sud
-description: W:16 L:13 D:0 Bonus ❌ 8%
+description: W:17 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 14 - 34 **BlackStar Order**
-date: 2025-03-11T08:00:27.000Z
+Summary: ✅ 30 - 7 **Stone Legion**
+date: 2025-03-26T06:36:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 2025-03-11T08:00:27.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (358)|
-| ELO Competitive | 1283 🔻  (353)|
-| Total Matches | 29 |
-| Wins | 16 |
+| ELO Regular | 1247 🔺  (289)|
+| ELO Competitive | 1304 🔺  (306)|
+| Total Matches | 30 |
+| Wins | 17 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741248027,1740010263,1738798335,1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1742538988,1741248027,1740010263,1738798335,1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/26 | 30-7 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ❌ | 2025/03/11 | 14-34 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2025/02/25 | 30-70 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/02/10 | 33-5 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
@@ -179,5 +180,5 @@ Corporation ID: d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741680027"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742970988"></span>
 </div>
