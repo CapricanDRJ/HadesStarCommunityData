@@ -21,7 +21,7 @@ est du Hilfe
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1247)|
+| ELO Regular | 1137 🔻  (1246)|
 | ELO Competitive | 1149 🔻  (1326)|
 | Total Matches | 12 |
 | Wins | 3 |

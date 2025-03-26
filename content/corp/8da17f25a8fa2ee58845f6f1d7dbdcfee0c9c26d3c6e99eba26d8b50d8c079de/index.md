@@ -1,6 +1,6 @@
 ---
 title: ​无人之境
-description: W:2 L:20 D:0 Bonus ✅ 30%
+description: W:2 L:20 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 2 - 15 **Free Thinkers 2**
 date: 2025-03-24T17:42:41.000Z
@@ -15,7 +15,7 @@ You are lucky to meet me in White Star! Congratulations!
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​普罗米修斯
-description: W:11 L:24 D:1 Bonus ✅ 34%
+description: W:11 L:24 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **●Black•Sails●**
 date: 2025-03-25T07:44:04.000Z
@@ -19,7 +19,7 @@ Q：650722059
 <br>
 
 ### [Discord](https://discord.gg/akTfXJGv)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
