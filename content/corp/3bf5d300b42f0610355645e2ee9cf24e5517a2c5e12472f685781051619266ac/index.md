@@ -1,6 +1,6 @@
 ---
 title: ​Sprite
-description: W:31 L:10 D:1 Bonus ✅ 38%
+description: W:31 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **对，进就进人少的**
 date: 2025-03-19T00:43:42.000Z
@@ -18,12 +18,12 @@ a. Nuestra filosofía: unidos somos invencibles.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1378 🔺  (80)|
-| ELO Competitive | 1455 🔺  (109)|
+| ELO Regular | 1378 🔺  (79)|
+| ELO Competitive | 1455 🔺  (108)|
 | Total Matches | 42 |
 | Wins | 31 |
 | Losses | 10 |

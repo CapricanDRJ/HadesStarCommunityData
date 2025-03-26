@@ -1,9 +1,9 @@
 ---
 title: ​Nox Imperium
-description: W:29 L:3 D:0 Bonus ❌ 8%
+description: W:30 L:3 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 32 - 1 **ZORG IND**
-date: 2025-03-15T18:46:16.000Z
+Summary: ✅ 38 - 3 **Osmium Star llc**
+date: 2025-03-25T23:00:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 2025-03-15T18:46:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1431 🔺  (44)|
-| ELO Competitive | 1466 🔺  (99)|
-| Total Matches | 32 |
-| Wins | 29 |
+| ELO Regular | 1446 🔺  (29)|
+| ELO Competitive | 1482 🔺  (88)|
+| Total Matches | 33 |
+| Wins | 30 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 21 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741632376,1740507006,1739636126,1738938064,1738009795,1737414815,1736721812,1736102407,1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
+        let timestamps = [1742511646,1741632376,1740507006,1739636126,1738938064,1738009795,1737414815,1736721812,1736102407,1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/25 | 38-3 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/03/15 | 32-1 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2025/03/02 | 42-6 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2025/02/20 | 24-0 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
@@ -180,5 +181,5 @@ Corporation ID: b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742064376"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742943646"></span>
 </div>

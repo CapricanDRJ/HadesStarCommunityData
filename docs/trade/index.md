@@ -316,7 +316,7 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>4</td>
+                    <td>2</td>
                     <td><img src="weapon.png" alt="weapon"></td>
                     <td>RS9</td>
                     <td>248%</td>
@@ -327,7 +327,7 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>4</td>
+                    <td>2</td>
                     <td><img src="trade.png" alt="trade"></td>
                     <td>RS6</td>
                     <td>240%</td>

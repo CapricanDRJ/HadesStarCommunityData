@@ -1,9 +1,9 @@
 ---
 title: ​Winter Star llc
-description: W:13 L:7 D:1 Bonus ✅ 32%
+description: W:13 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **FoxTale**
-date: 2025-03-19T00:03:39.000Z
+Summary: ❌ 1 - 3 **РARADISЕ**
+date: 2025-03-25T22:05:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ ons! //You must Join our Discord within 7 days
 <br>
 
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (226)|
-| ELO Competitive | 1305 🔺  (303)|
-| Total Matches | 21 |
+| ELO Regular | 1253 🔻  (271)|
+| ELO Competitive | 1288 🔻  (336)|
+| Total Matches | 22 |
 | Wins | 13 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741910619,1741279579,1740164137,1738871056,1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
+        let timestamps = [1742508340,1741910619,1741279579,1740164137,1738871056,1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/25 | 1-3 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/03/19 | 4-0 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ❌ | 2025/03/11 | 0-15 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2025/02/26 | 7-23 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
@@ -169,5 +170,5 @@ Corporation ID: 89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742342619"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1742940340"></span>
 </div>
