@@ -1,6 +1,6 @@
 ---
 title: ​S.U.N
-description: W:8 L:5 D:1 Bonus ✅ 32%
+description: W:8 L:5 D:1 Bonus ❌ 32%
 image: ./favicon.png
 Summary: ✅ 15 - 1 **Red Star**
 date: 2025-03-20T18:53:00.000Z
@@ -15,7 +15,7 @@ date: 2025-03-20T18:53:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 32%
 
 | Statistic | Value |
 | --- | --- |
