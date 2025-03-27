@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 3 - 0 **红日初升，其道大光**
-date: 2025-03-27T01:53:36.000Z
+Summary: ❌ 1 - 10 **星河绮梦**
+date: 2025-03-27T05:38:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-27T01:53:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (513)|
-| ELO Competitive | 1209 🔺  (646)|
-| Total Matches | 2 |
+| ELO Regular | 1197 🔻  (569)|
+| ELO Competitive | 1209 🔺  (647)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742608416,1742123973];
+        let timestamps = [1742621938,1742608416,1742123973];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/27 | 1-10 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2025/03/27 | 3-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/03/21 | 5-13 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 
@@ -141,5 +142,5 @@ Corporation ID: 055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743040416"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743053938"></span>
 </div>

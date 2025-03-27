@@ -1,6 +1,6 @@
 ---
 title: ​Ninth Planet
-description: W:72 L:6 D:1 Bonus ✅ 40%
+description: W:72 L:6 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **Death Flight**
 date: 2025-03-20T04:16:23.000Z
@@ -17,7 +17,7 @@ itty
 <br>
 
 ### [Discord](https://discord.gg/ )
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

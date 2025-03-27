@@ -1,9 +1,9 @@
 ---
 title: ​Curiosity + Cat
-description: W:13 L:14 D:1 Bonus ❌ 8%
+description: W:13 L:15 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 36 - 3 **Октябристы**
-date: 2025-03-19T09:54:26.000Z
+Summary: ❌ 16 - 26 **星を継ぐもの**
+date: 2025-03-27T05:43:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,13 +25,12 @@ No Discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (336)|
-| ELO Competitive | 1306 🔺  (302)|
-| Total Matches | 28 |
+| ELO Regular | 1224 🔻  (379)|
+| ELO Competitive | 1302 🔻  (309)|
+| Total Matches | 29 |
 | Wins | 13 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -51,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741946066,1741150375,1740656045,1739941737,1739288756,1738757461,1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1742622238,1741946066,1741150375,1740656045,1739941737,1739288756,1738757461,1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/27 | 16-26 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2025/03/19 | 36-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/03/10 | 18-14 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2025/03/04 | 14-42 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
@@ -175,5 +175,5 @@ Corporation ID: c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742378066"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743054238"></span>
 </div>

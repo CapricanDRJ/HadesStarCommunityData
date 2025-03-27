@@ -26,7 +26,7 @@ intensas nas Estrelas Brancas.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1437 🔺  (37)|
-| ELO Competitive | 1559 🔺  (42)|
+| ELO Competitive | 1559 🔺  (41)|
 | Total Matches | 71 |
 | Wins | 57 |
 | Losses | 14 |

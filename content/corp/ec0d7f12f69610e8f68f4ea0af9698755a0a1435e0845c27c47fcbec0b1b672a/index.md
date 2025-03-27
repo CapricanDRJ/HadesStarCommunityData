@@ -1,9 +1,9 @@
 ---
 title: ​星河绮梦
-description: W:39 L:6 D:0 Bonus ✅ 36%
+description: W:40 L:7 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **共产国际**
-date: 2025-03-21T02:06:46.000Z
+Summary: ❌ 1 - 8 **DINASTÍA SOLAR**
+date: 2025-03-27T06:12:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,13 +30,12 @@ QQ群：131920392
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1460 🔺  (20)|
-| ELO Competitive | 1547 🔺  (47)|
-| Total Matches | 45 |
-| Wins | 39 |
-| Losses | 6 |
+| ELO Regular | 1441 🔻  (31)|
+| ELO Competitive | 1551 🔺  (42)|
+| Total Matches | 47 |
+| Wins | 40 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 18 |
 | Flagship | 4 |
 
@@ -56,7 +55,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742090806,1738289549,1737773895,1737211665,1736771088,1736207894,1735602640,1735056081,1734477386,1733924804,1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1742623942,1742621938,1742090806,1738289549,1737773895,1737211665,1736771088,1736207894,1735602640,1735056081,1734477386,1733924804,1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -151,6 +150,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/27 | 1-8 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
+| ✅ | 2025/03/27 | 10-1 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
 | ✅ | 2025/03/21 | 7-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ✅ | 2025/02/05 | 25-0 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ❌ | 2025/01/30 | 13-23 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
@@ -203,5 +204,5 @@ Corporation ID: ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742522806"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743055942"></span>
 </div>

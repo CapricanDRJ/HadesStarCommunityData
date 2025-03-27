@@ -23,7 +23,7 @@ titans.com
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1364 🔻  (92)|
-| ELO Competitive | 1451 🔻  (112)|
+| ELO Competitive | 1451 🔻  (113)|
 | Total Matches | 47 |
 | Wins | 28 |
 | Losses | 19 |
