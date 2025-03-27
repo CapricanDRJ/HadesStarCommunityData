@@ -20,7 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
   function createCharts() {
     const { axisColor, gridColor, titleColor } = getThemeColors();
 
-    // Destroy existing charts if they exist
     if (window.matchChart) window.matchChart.destroy();
     if (window.dayChart) window.dayChart.destroy();
 
@@ -30,6 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
       data: {
         labels: ["2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02"],
         datasets: [{
+          label: 'Whitestars', // Required but legend hidden
           data: [952,1065,1164,1058,1053,999,965,916,989,967,941,935,928,902,942,882],
           borderColor: 'rgba(0, 191, 255, 1)',
           backgroundColor: 'rgba(0, 191, 255, 0.2)',
@@ -52,9 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         },
         plugins: {
-          legend: {
-            labels: { color: axisColor }
-          },
+          legend: { display: false },
           title: {
             display: true,
             text: 'Whitestars by Year/Month',
@@ -74,7 +72,8 @@ document.addEventListener('DOMContentLoaded', () => {
       data: {
         labels: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
         datasets: [{
-          data: [36,42,22,32,32,31,17],
+          label: 'Match Frequency',
+          data: [36,42,22,32,32,32,17],
           backgroundColor: [
             'rgba(0, 191, 255, 0.2)',
             'rgba(135, 206, 250, 0.2)',
@@ -127,11 +126,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Observe theme toggle via <html class="">
   const observer = new MutationObserver(() => createCharts());
   observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
-
-  // Initial render
   createCharts();
 });
 </script>
