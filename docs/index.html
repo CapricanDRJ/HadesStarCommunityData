@@ -177,113 +177,133 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
 <script>
-  const isDark = document.documentElement.classList.contains("theme-dark");
-  const axisColor = isDark ? 'rgba(255, 255, 255, 0.8)' : 'rgba(0, 0, 0, 0.7)';
-  const gridColor = isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)';
+document.addEventListener('DOMContentLoaded', () => {
+  function getThemeColors() {
+    const isDark = document.documentElement.classList.contains("theme-dark");
+    return {
+      axisColor: isDark ? 'rgba(255, 255, 255, 0.8)' : 'rgba(0, 0, 0, 0.7)',
+      gridColor: isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)',
+      titleColor: isDark ? 'rgba(255, 255, 255, 0.9)' : 'rgba(0, 0, 0, 0.8)'
+    };
+  }
 
-  // Monthly line chart
-  new Chart(document.getElementById('matchChart').getContext('2d'), {
-    type: 'line',
-    data: {
-      labels: ["2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02"],
-      datasets: [{
-        label: 'Whitestars',
-        data: [952,1065,1164,1058,1053,999,965,916,989,967,941,935,928,902,942,882],
-        borderColor: 'rgba(0, 191, 255, 1)',
-        backgroundColor: 'rgba(0, 191, 255, 0.2)',
-        tension: 0.3,
-        fill: true
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      scales: {
-        x: {
-          ticks: { color: axisColor },
-          grid: { color: gridColor }
-        },
-        y: {
-          beginAtZero: true,
-          ticks: { color: axisColor },
-          grid: { color: gridColor }
-        }
-      },
-      plugins: {
-        legend: {
-          labels: { color: axisColor }
-        },
-        title: {
-          display: true,
-          text: 'Whitestars by year/month',
-          color: axisColor,
-          font: {
-            size: 16,
-            weight: 'bold'
-         }
-       }
-     },
-    }
-  });
+  function createCharts() {
+    const { axisColor, gridColor, titleColor } = getThemeColors();
 
-  // Daily bar chart
-  new Chart(document.getElementById('dayChart').getContext('2d'), {
-    type: 'bar',
-    data: {
-      labels: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-      datasets: [{
-        label: 'Match Frequency',
-        data: [42,22,32,32,32,17,36],
-        backgroundColor: [
-          'rgba(0, 191, 255, 0.2)',   // Sunday
-          'rgba(135, 206, 250, 0.2)', // Monday
-          'rgba(173, 216, 230, 0.2)', // Tuesday
-          'rgba(255, 255, 255, 0.2)', // Wednesday
-          'rgba(173, 216, 230, 0.2)', // Thursday
-          'rgba(135, 206, 250, 0.2)', // Friday
-          'rgba(0, 191, 255, 0.2)'    // Saturday
-        ],
-        borderColor: [
-          'rgba(0, 191, 255, 1)',
-          'rgba(135, 206, 250, 1)',
-          'rgba(173, 216, 230, 1)',
-          'rgba(255, 255, 255, 1)',
-          'rgba(173, 216, 230, 1)',
-          'rgba(135, 206, 250, 1)',
-          'rgba(0, 191, 255, 1)'
-        ],
-        borderWidth: 1,
-        minBarLength: 5
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      scales: {
-        x: {
-          ticks: { color: axisColor },
-          grid: { display: false }
-        },
-        y: {
-          beginAtZero: true,
-          ticks: { color: axisColor },
-          grid: { color: gridColor }
-        }
+    // Destroy existing charts if they exist
+    if (window.matchChart) window.matchChart.destroy();
+    if (window.dayChart) window.dayChart.destroy();
+
+    const matchCtx = document.getElementById('matchChart').getContext('2d');
+    window.matchChart = new Chart(matchCtx, {
+      type: 'line',
+      data: {
+        labels: ["2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02"],
+        datasets: [{
+          data: [952,1065,1164,1058,1053,999,965,916,989,967,941,935,928,902,942,882],
+          borderColor: 'rgba(0, 191, 255, 1)',
+          backgroundColor: 'rgba(0, 191, 255, 0.2)',
+          tension: 0.3,
+          fill: true
+        }]
       },
-      plugins: {
-        legend: { display: false },
-         title: {
-           display: true,
-           text: 'Match Frequency by Day of Week',
-           color: axisColor,
-           font: {
-             size: 16,
-             weight: 'bold'
-           }
-         }
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            ticks: { color: axisColor },
+            grid: { color: gridColor }
+          },
+          y: {
+            beginAtZero: true,
+            ticks: { color: axisColor },
+            grid: { color: gridColor }
+          }
+        },
+        plugins: {
+          legend: {
+            labels: { color: axisColor }
+          },
+          title: {
+            display: true,
+            text: 'Whitestars by Year/Month',
+            color: titleColor,
+            font: {
+              size: 16,
+              weight: 'bold'
+            }
+          }
+        }
       }
-    }
-  });
+    });
+
+    const dayCtx = document.getElementById('dayChart').getContext('2d');
+    window.dayChart = new Chart(dayCtx, {
+      type: 'bar',
+      data: {
+        labels: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        datasets: [{
+          data: [36,42,22,32,32,31,17],
+          backgroundColor: [
+            'rgba(0, 191, 255, 0.2)',
+            'rgba(135, 206, 250, 0.2)',
+            'rgba(173, 216, 230, 0.2)',
+            'rgba(214, 236, 243, 0.2)',
+            'rgba(173, 216, 230, 0.2)',
+            'rgba(135, 206, 250, 0.2)',
+            'rgba(0, 191, 255, 0.2)'
+          ],
+          borderColor: [
+            'rgba(0, 191, 255, 1)',
+            'rgba(135, 206, 250, 1)',
+            'rgba(173, 216, 230, 1)',
+            'rgba(255, 255, 255, 1)',
+            'rgba(173, 216, 230, 1)',
+            'rgba(135, 206, 250, 1)',
+            'rgba(0, 191, 255, 1)'
+          ],
+          borderWidth: 1,
+          minBarLength: 5
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            ticks: { color: axisColor },
+            grid: { display: false }
+          },
+          y: {
+            beginAtZero: true,
+            ticks: { color: axisColor },
+            grid: { color: gridColor }
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          title: {
+            display: true,
+            text: 'Whitestars Match Times Last Week',
+            color: titleColor,
+            font: {
+              size: 16,
+              weight: 'bold'
+            }
+          }
+        }
+      }
+    });
+  }
+
+  // Observe theme toggle via <html class="">
+  const observer = new MutationObserver(() => createCharts());
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+
+  // Initial render
+  createCharts();
+});
 </script>
 
     </header>
