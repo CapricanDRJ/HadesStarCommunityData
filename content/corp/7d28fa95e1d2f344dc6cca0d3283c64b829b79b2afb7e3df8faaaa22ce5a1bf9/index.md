@@ -21,7 +21,7 @@ PEACE THROUGH POWER!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1539 🔺  (7)|
-| ELO Competitive | 1640 🔺  (21)|
+| ELO Competitive | 1640 🔺  (22)|
 | Total Matches | 70 |
 | Wins | 61 |
 | Losses | 9 |

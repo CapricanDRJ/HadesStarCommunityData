@@ -24,8 +24,8 @@ Join Discord kita dulu: https://discord.gg/MCDb2Mt
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1097)|
-| ELO Competitive | 1163 🔻  (1245)|
+| ELO Regular | 1162 🔻  (1099)|
+| ELO Competitive | 1163 🔻  (1247)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

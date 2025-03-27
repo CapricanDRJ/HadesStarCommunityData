@@ -1,6 +1,6 @@
 ---
 title: ​New YuGiOh
-description: W:13 L:1 D:1 Bonus ✅ 
+description: W:13 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 20 - 2 **中央山脈礦工勞動部**
 date: 2025-03-20T12:42:16.000Z
@@ -15,7 +15,7 @@ date: 2025-03-20T12:42:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​ДИВЕРСАНТЫ
-description: W:81 L:16 D:1 Bonus ✅ 50%
+description: W:81 L:16 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 11 - 34 **Red Dawn**
 date: 2025-03-26T10:46:52.000Z
@@ -20,7 +20,7 @@ date: 2025-03-26T10:46:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

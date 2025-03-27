@@ -1,9 +1,9 @@
 ---
 title: ​Fleet Corp Ares
-description: W:24 L:15 D:0 Bonus ✅ 38%
+description: W:24 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 63 - 0 **星舰月球**
-date: 2025-03-22T11:33:43.000Z
+Summary: ❌ 3 - 62 **Emergence**
+date: 2025-03-27T11:39:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ We don't care. You should try it.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (140)|
-| ELO Competitive | 1419 🔺  (141)|
-| Total Matches | 39 |
+| ELO Regular | 1318 🔻  (150)|
+| ELO Competitive | 1413 🔻  (147)|
+| Total Matches | 40 |
 | Wins | 24 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 8 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742211223,1741662724,1740830340,1740313782,1739879230,1739298374,1738864745,1738431700,1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
+        let timestamps = [1742643576,1742211223,1741662724,1740830340,1740313782,1739879230,1739298374,1738864745,1738431700,1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/27 | 3-62 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ✅ | 2025/03/22 | 63-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2025/03/16 | 41-16 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2025/03/06 | 37-12 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
@@ -189,5 +189,5 @@ Corporation ID: 8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742643223"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743075576"></span>
 </div>
