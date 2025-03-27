@@ -289,6 +289,8 @@ od-family.com
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1737919646,1734844553,1733236107,1732013087,1730927981,1730205287,1729593168,1728999949,1728466753,1727706447,1727122292,1726576089,1725984694,1725379193,1724677525,1724133601,1723475766,1722915618,1722364184,1721834356,1721229131,1720366274,1719240846,1718470933,1717769578,1717243906,1716135124,1715160756,1714548817,1713789361,1713209187,1712599523,1711957692,1711207093,1710628995,1710001912,1709373019,1708797595,1708019010,1707250738,1706620753,1706026638,1705475190,1704976641,1704444129,1703795622,1703215611,1702541009,1702027966,1701595486,1700994100,1700460929,1699682716,1699060653];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -307,24 +309,24 @@ od-family.com
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -340,7 +342,7 @@ od-family.com
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -348,7 +350,7 @@ od-family.com
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

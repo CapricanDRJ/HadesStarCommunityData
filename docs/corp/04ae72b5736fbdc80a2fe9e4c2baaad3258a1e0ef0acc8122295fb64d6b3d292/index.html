@@ -284,6 +284,8 @@ e Infos on Discord or at: hadestitans.com
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742100830,1742100234,1741306026,1741286792,1740437291,1740433084,1739903876,1739903876,1739279739,1739268622,1738703077,1738702776,1737483625,1736263785,1735540433,1735530820,1734997795,1734989684,1734330451,1734307020,1733648671,1733609913,1733157687,1732563596,1732563596,1732002873,1732000169,1731350806,1731344194,1730491359,1730473927,1729296571,1729294168,1728861722,1728749279,1728425292,1728265119,1727635533,1727633730,1727152634,1727149029,1726554154,1726510586,1725930607,1725894246,1725317001,1725289350,1724718397,1724679630,1724055170,1723434894,1722957108,1722465154,1721842473,1721384185,1720908452,1720431784,1719927194,1719383885,1718874812,1718402714,1717959298,1717266455,1716834007,1716387793,1715923902,1715487947,1715030366,1714596404,1714127666,1713681803,1713229318,1712751856,1712281008,1711667420,1711123557,1710496776,1709975166,1709328251,1708854684,1708353058,1707794235,1707249836,1706806172,1706302508,1706180194,1705657599,1704909933,1704092227,1704088021,1703487883,1702629066,1702584291,1702049007,1701566038];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -302,24 +304,24 @@ e Infos on Discord or at: hadestitans.com
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -335,7 +337,7 @@ e Infos on Discord or at: hadestitans.com
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -343,7 +345,7 @@ e Infos on Discord or at: hadestitans.com
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

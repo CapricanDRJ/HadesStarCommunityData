@@ -51,6 +51,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742494213,1742020596,1741469206,1740998933,1740501596,1740022713,1739536351,1739046553,1738588878,1738090927,1737623647,1737147657,1736668602,1736187456,1735666038,1735206900,1734728273,1734103886,1733606307,1733150774,1732435276,1731926247,1731446060,1730976051,1730498272,1730034904,1729531877,1729060655,1728550004,1728076096,1727613289,1727122291,1726652201,1726198335,1725710631,1725213931,1724770380,1724318108,1723841787,1723226941,1722735306,1722258402,1721700630,1721689815,1721229131,1720791231,1720329606,1719281416,1718643727,1718174465,1717706470,1717250521,1716151352,1715586501,1714998812,1714508065,1713832629,1713276492,1712870846,1712610644,1712097119,1711798435,1711312574,1710837521,1710375099,1710206538,1709899143,1709410887,1709306913,1708892553,1707260054,1707010841,1706796854,1706307016,1705942193,1705825289,1705350183,1705071302,1704705879,1704629248,1704189293,1704026118,1703728305,1703157004,1702836743,1702672948,1702395544,1702210706,1701762888,1701349346,1701279623,1700801442,1700473850,1700348526,1699962556,1699826714,1699487944,1699394494,1698736667];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -69,24 +71,24 @@ This chart shows the frequency of days of the week when whitestars were matched 
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -102,7 +104,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -110,7 +112,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

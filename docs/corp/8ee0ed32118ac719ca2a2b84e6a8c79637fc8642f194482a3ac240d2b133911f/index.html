@@ -281,6 +281,8 @@ vents (when possible), Also make use of the timemachine capability if
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1741909718,1741471610,1740964988,1740335423,1739850687,1739399341,1738926342,1738463211,1737948791,1737497448,1736962831,1736452217,1735497771,1735026847,1734561517,1734124926,1733685341,1733177522,1732743595,1732273303,1731814764,1731367935,1730889511,1730417439,1729967592,1729470874,1729031812,1728592690,1728152728,1727682403,1727220246,1726780935,1726776729,1726298695,1726290883,1725821228,1725558143,1725345238,1725073590,1724553411,1724540794,1723997469,1723993862,1723517301,1723506121,1722986540,1722978728,1722505115,1722505115,1722052524,1722027283,1721567798,1721564491,1721089989,1721086985,1720645466,1720643362,1720149900,1720148998,1719622484,1719616476,1719163618,1719158808,1718657555,1718653347,1718205276,1718198204,1717729906,1717720893,1717209945,1717209344,1716698167,1716677136,1716243572,1716242388,1715793511,1715792564,1715326601,1715308877,1714869624,1714849194,1714397350,1714396881,1713953102,1713921259,1713480817,1713465492,1713004849,1712976604,1712543932,1712095617,1712008182,1711591404,1711134076,1710465534,1710017539,1709516657,1709078857,1708629918,1708063782,1707505906,1707503803,1707021334,1706523985];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -299,24 +301,24 @@ vents (when possible), Also make use of the timemachine capability if
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -332,7 +334,7 @@ vents (when possible), Also make use of the timemachine capability if
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -340,7 +342,7 @@ vents (when possible), Also make use of the timemachine capability if
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

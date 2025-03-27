@@ -279,6 +279,8 @@ idat. WS-ezés feltétele a discord.
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742193092,1741596914,1741596613,1740990821,1740984513,1740401224,1740388003,1739776462,1739776161,1739194401,1739176371,1738579261,1738570848,1737976733,1737959408,1737406894,1737377845,1736748854,1736146582,1736146282,1735566876,1735562969,1734331953,1733739719,1733129738,1732630898,1732518818,1731922942,1731915431,1731315642,1731315342,1730702006,1730699303,1730094405,1729503320,1729492204,1728890857,1728888152,1728359172,1728290658,1727675493,1727672188,1727070301,1727063691,1726464905,1726460398,1725857341,1725852175,1725260201,1725257498,1724667006,1724644385,1724062380,1724060878,1723461037,1723460737,1722857315,1722847998,1722408654,1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -297,24 +299,24 @@ idat. WS-ezés feltétele a discord.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -330,7 +332,7 @@ idat. WS-ezés feltétele a discord.
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -338,7 +340,7 @@ idat. WS-ezés feltétele a discord.
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

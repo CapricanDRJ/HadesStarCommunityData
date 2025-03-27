@@ -286,6 +286,8 @@ All FS Donations welcome.
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742669128,1742177170,1742176569,1741692766,1741669934,1741177115,1741161191,1740665663,1740184572,1739652958,1739428783,1739132805,1738996364,1738574754,1738564239,1738036535,1738004085,1737560484,1737107981,1736646368,1736513819,1735942785,1735396803,1735313871,1734693712,1734664271,1734230391,1734198243,1733749035,1733724699,1733034485,1733020364,1732587633,1732075591,1731633260,1731136820,1730537332,1730039713,1729588662,1729146605,1728646776,1728199903,1727662274,1727579034,1727124095,1726646494,1726196232,1725747300,1725731372,1725243377,1725152924,1724611116,1724034137,1724033836,1723444210,1723337831,1722785796,1722234663,1721886043,1721752019,1721310564,1721275408,1720807467,1720310979,1719718344,1719220709,1718754320,1718178972,1717831563,1717744931,1717333182,1717170580,1716624539,1716072030,1715610237,1715128613,1714583482,1713971432,1713520079,1712937844,1712407807,1711971815,1711525898,1711083296,1710546056,1710071322,1709476088,1709041592,1708569820,1708024119,1707453620,1706996998,1706412642,1705929869,1705497728,1704964321,1704523162,1703970225,1703459040,1702881520,1702270217,1701826911,1701359565,1700927077,1700449811,1700016357,1699398400,1698814220];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -304,24 +306,24 @@ All FS Donations welcome.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -337,7 +339,7 @@ All FS Donations welcome.
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -345,7 +347,7 @@ All FS Donations welcome.
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

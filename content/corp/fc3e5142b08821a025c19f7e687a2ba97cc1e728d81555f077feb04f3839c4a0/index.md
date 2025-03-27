@@ -49,6 +49,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742512848,1742324613,1741916927,1741794633,1741308128,1741291002,1740757916,1740699021,1740209509,1740091420,1739727786,1739485279,1738886381,1738284293,1738277532,1737773895,1737757070,1737319256,1737068923,1736691148,1736469648,1736187456,1735861043,1735513309,1735050070,1734646848,1734616495,1734183816,1734049505,1733714185,1733438930,1733065438,1732833464,1732515514,1732060872,1731562401,1731099258,1730652730,1730394900,1730133172,1729697442,1729683015,1729260805,1729199808,1728685554,1728229659,1727578743,1726953187,1725412849,1725343714,1724837088,1724729212,1724134202,1724053366,1723549691,1723335127,1722969110,1722349456,1722329621,1721798296,1721512808,1721287126,1720858554,1720835416,1720367477,1720234342,1719882723,1719630296,1719023261,1718405719,1717814063,1717193120,1716591788,1715990905,1715395101,1714611424,1714601211,1714081704,1714079300,1713483907,1713389779,1712876855,1712872949,1712264486,1712011787,1711756114,1711490749,1711149101,1710972129,1710536441,1710457723,1709953834,1709828837,1709303006,1709215566,1708698728,1708611585,1708049360,1707401935,1706885805,1706806772,1706277861,1706209870,1705676833,1705598399,1705068296,1704981450,1704470876,1703956098,1703862634,1703341531,1703251672,1702655815,1702039086,1701439807,1700829691,1700230704,1699627397,1699023366];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -67,24 +69,24 @@ This chart shows the frequency of days of the week when whitestars were matched 
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -100,7 +102,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -108,7 +110,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

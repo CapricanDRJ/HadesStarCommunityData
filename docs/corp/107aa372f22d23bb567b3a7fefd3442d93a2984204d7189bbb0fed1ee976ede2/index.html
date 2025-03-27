@@ -284,6 +284,8 @@
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742622238,1742116761,1741750163,1741169903,1741165697,1740555387,1740549379,1739953154,1739948947,1739341040,1739333529,1738736128,1738729517,1738119172,1738118270,1737534403,1737506762,1737015419,1736848025,1736478360,1736233431,1735777208,1735381477,1735099341,1734754711,1734320838,1734148660,1733714486,1733558814,1733049640,1733047106,1732309969,1732309368,1731730018,1731730018,1731125701,1731120593,1730551155,1730537031,1729988927,1729921307,1729319107,1729296571,1728804889,1728761909,1728263187,1728093223,1727672489,1727484079,1726892107,1726883394,1726271956,1725674573,1724980431,1724477080,1724029029,1723428585,1722817952,1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -302,24 +304,24 @@
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -335,7 +337,7 @@
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -343,7 +345,7 @@
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

@@ -282,6 +282,8 @@ Discord required | Part of Astral Alliance
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742423295,1741812367,1741233607,1740944853,1740598361,1740013267,1739444105,1738801640,1738206012,1737603818,1737039765,1736432076,1735832191,1735205106,1734614391,1734004426,1733403467,1732819941,1732145609,1731554831,1730936995,1730362742,1729726893,1729122569,1728537686,1727924313,1727358466,1727334125,1726738938,1726115702,1725495782,1724919125,1724299179,1723700243,1723089308,1722472664,1721867714,1721287126,1720823398,1720064542,1719451802,1718843566,1718293167,1717679112,1717024840,1716466506,1715786299,1715241875,1714619835,1713944691,1713936580,1713446259,1713408704,1712774395,1712242546,1711620843,1711604921,1710996162,1710936971,1710375713,1709820122,1709787072,1709193932,1708597161,1708590551,1707996168,1707980844,1707379098,1707375793,1706765000,1706765000,1706164269,1706156757,1705561737,1704978144,1704374410,1703501707,1703014557,1702579782,1702140377,1701702781,1701230937,1700722998,1700242728,1699802360,1699255360];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -300,24 +302,24 @@ Discord required | Part of Astral Alliance
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -333,7 +335,7 @@ Discord required | Part of Astral Alliance
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -341,7 +343,7 @@ Discord required | Part of Astral Alliance
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

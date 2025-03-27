@@ -291,6 +291,8 @@ Discord mandatory. &lt;b&gt;EEpZuWf&lt;/b&gt;
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742669128,1742162147,1742151627,1741699078,1741555455,1741233907,1741040707,1740788566,1740463729,1740302663,1739747923,1739652958,1739237074,1738770986,1738262505,1737706281,1737566258,1737128119,1736660189,1735942785,1735497771,1735006807,1734430504,1734386345,1733968077,1733493609,1733026072,1732889645,1732338213,1732332204,1731869160,1731866153,1731395573,1731391066,1730961029,1730958024,1730510892,1730436965,1729976007,1729972100,1729543298,1729477482,1729046834,1728984020,1728595395,1728478175,1728064070,1728015377,1727572125,1727496397,1727122292,1727030042,1726688088,1726584204,1726126217,1726094073,1725609060,1725591335,1725139405,1725128586,1724674820,1724507734,1724110577,1723839984,1723335427,1722818668,1722272831,1721834657,1721330701,1720798748,1720310979,1719757712,1719253470,1718754320,1718226159,1717769578,1717306427,1716797337,1716179889,1715676934,1715185996,1714737614,1714280601,1713699529,1713181236,1712588403,1712112140,1711661411,1711051149,1710595034,1710105585,1709548802,1709071947,1708569820,1708092628,1707599509,1707119000,1706686567,1706232187,1705703883,1705267247,1704814968,1704382826,1703947681,1703804339,1703512226,1703251672,1703019667,1702586996,1702382018,1702009035,1701937506,1701459646,1701359565,1701010333,1700702264,1700570322,1700118001,1700016357,1699668290,1699222315,1698786272];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -309,24 +311,24 @@ Discord mandatory. &lt;b&gt;EEpZuWf&lt;/b&gt;
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -342,7 +344,7 @@ Discord mandatory. &lt;b&gt;EEpZuWf&lt;/b&gt;
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -350,7 +352,7 @@ Discord mandatory. &lt;b&gt;EEpZuWf&lt;/b&gt;
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

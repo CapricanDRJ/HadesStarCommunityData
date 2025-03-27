@@ -285,6 +285,8 @@ quired. We can help speed your progress :)
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742544095,1742111051,1741665428,1741227599,1740787665,1740353755,1739890050,1739884940,1739452821,1739438697,1739006580,1738886381,1738572050,1738432302,1737994467,1737553635,1737107981,1736661691,1736225319,1735791026,1735355338,1734919976,1734472579,1734032677,1733596388,1733154982,1732722848,1732286526,1731851725,1731414202,1730970342,1730537933,1730104019,1729663786,1729229551,1728791063,1728314701,1727876832,1727426075,1726987063,1726513325,1726080550,1726063718,1725648432,1725622882,1725181470,1725174858,1724741230,1724717496,1724281754,1724276045,1723843590,1723401841,1722969110,1722536972,1722103929,1721669979,1721233640,1720794238,1720362066,1719929899,1719487557,1719055117,1718622986,1718183479,1717751242,1717319053,1716872472,1716436766,1715988202,1715552858,1715107581,1714666107,1714234033,1713789060,1713347702,1712904492,1712471808,1712039123,1711604921,1711127163,1710693900,1710261521,1709829137,1709391952,1708946331,1708512123,1708076101,1707643978,1707211668,1706779424,1706337663,1705898919,1705465876,1705027131,1704575759,1704141217,1703708771,1703271811,1702836142,1702402759,1701970567,1701510433,1701076153,1700633437,1700198847,1699760877,1699305845,1698804305];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -303,24 +305,24 @@ quired. We can help speed your progress :)
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -336,7 +338,7 @@ quired. We can help speed your progress :)
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -344,7 +346,7 @@ quired. We can help speed your progress :)
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

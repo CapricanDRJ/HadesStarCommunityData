@@ -280,6 +280,8 @@ size&gt;&lt;size=&#34;50&#34;&gt; So Say We All&lt;/size&gt;&lt;/b&gt;&lt;/color
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1720493094,1719885428,1718655751,1718064181,1718048557,1717628930,1717474444,1717178694,1716869167,1716662109,1716252601,1716227062,1715653504,1715616848,1715019247,1715012335,1714474707,1714410407,1713808894,1713799878,1713235026,1713203176,1712620859,1712029810,1711989246,1711522293,1711381075,1711041532,1710583013,1710520814,1710019643,1709916273,1709504640,1708505813,1708448120,1707973633,1707931865,1707470446,1707411552,1706948611,1706893920,1706394166,1706378839,1705960530,1705943997,1705425006,1704910835,1704389138,1703264297,1702592107,1702252791,1701639074,1701025666,1700433285,1699823106,1699262871];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -298,24 +300,24 @@ size&gt;&lt;size=&#34;50&#34;&gt; So Say We All&lt;/size&gt;&lt;/b&gt;&lt;/color
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -331,7 +333,7 @@ size&gt;&lt;size=&#34;50&#34;&gt; So Say We All&lt;/size&gt;&lt;/b&gt;&lt;/color
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -339,7 +341,7 @@ size&gt;&lt;size=&#34;50&#34;&gt; So Say We All&lt;/size&gt;&lt;/b&gt;&lt;/color
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

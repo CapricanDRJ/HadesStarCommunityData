@@ -288,6 +288,8 @@ Discord ist erwünscht, aber keine Pflicht.
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742375501,1741687959,1740642826,1740153317,1739536351,1738835591,1738229447,1737710487,1736424862,1735734233,1735117064,1734425397,1733829859,1733230096,1732610164,1732013087,1731400680,1730821306,1730798766,1730190863,1729584456,1728967795,1728899570,1728380503,1728283447,1727686309,1727080515,1726554755,1726477825,1725949234,1725867498,1725380396,1725270717,1724755952,1724178981,1723549691,1723450220,1722935449,1722933045,1722322109,1721737290,1721113729,1721113729,1720513227,1720512626,1719910966,1719340615,1718705929,1718121274,1717501490,1716885992,1716285345,1715584098,1714995507,1714048347,1713599778,1713103714,1712571573,1712078788,1711618740,1711096815,1710589925,1710152149,1709641345,1709111604,1708603471,1708088421,1707587487,1707034556,1706541117,1706094248,1705579764,1705067996,1704547203,1704025517,1703505915,1702814800,1702331834,1701882810,1701418468,1700943009,1700503306,1700067149,1699629502,1699191360,1698701803,1698699697];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -306,24 +308,24 @@ Discord ist erwünscht, aber keine Pflicht.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -339,7 +341,7 @@ Discord ist erwünscht, aber keine Pflicht.
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -347,7 +349,7 @@ Discord ist erwünscht, aber keine Pflicht.
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 

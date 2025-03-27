@@ -279,6 +279,8 @@ b&gt;&lt;b&gt;&lt;br&gt;Únanse al grupo de Whatsapp +569 8804 5954&lt;/b&gt;
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1742134493,1741649206,1740428275,1739860601,1737996872,1737994467,1737429535,1736821884,1736804758,1736367771,1736170322,1735477934,1734966847,1734405570,1734375527,1733852700,1733160692,1732563897,1732032623,1731353511,1731343292,1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
 
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
             return new Date(timestamp * 1000).getDay();
@@ -297,24 +299,24 @@ b&gt;&lt;b&gt;&lt;br&gt;Únanse al grupo de Whatsapp +569 8804 5954&lt;/b&gt;
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-            data: dayCounts,
+                data: dayCounts,
                 backgroundColor: [
                     'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
                     'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
                     'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
                     'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
                 ],
                 borderWidth: 1,
                 minBarLength: 5
@@ -330,7 +332,7 @@ b&gt;&lt;b&gt;&lt;br&gt;Únanse al grupo de Whatsapp +569 8804 5954&lt;/b&gt;
                         beginAtZero: true,
                         ticks: {
                             stepSize: 1,
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             color: 'rgba(255, 255, 255, 0.2)'
@@ -338,7 +340,7 @@ b&gt;&lt;b&gt;&lt;br&gt;Únanse al grupo de Whatsapp +569 8804 5954&lt;/b&gt;
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
+                            color: fontColor
                         },
                         grid: {
                             display: false 
