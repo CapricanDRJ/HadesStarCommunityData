@@ -172,13 +172,17 @@
 <div style="width: 100%; max-width: 800px; height: 400px;">
   <canvas id="matchChart"></canvas>
 </div>
-<div style="width: 100%; max-width: 800px; height: 300px;">
+<div style="width: 100%; max-width: 800px; height: 200px;">
   <canvas id="dayChart"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
 <script>
-  const matchCtx = document.getElementById('matchChart').getContext('2d');
-  new Chart(matchCtx, {
+  const isDark = document.documentElement.classList.contains("theme-dark");
+  const axisColor = isDark ? 'rgba(255, 255, 255, 0.8)' : 'rgba(0, 0, 0, 0.7)';
+  const gridColor = isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)';
+
+  // Monthly line chart
+  new Chart(document.getElementById('matchChart').getContext('2d'), {
     type: 'line',
     data: {
       labels: ["2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02"],
@@ -196,25 +200,25 @@
       maintainAspectRatio: false,
       scales: {
         x: {
-          ticks: { color: '#fff' },
-          grid: { color: 'rgba(255,255,255,0.1)' }
+          ticks: { color: axisColor },
+          grid: { color: gridColor }
         },
         y: {
           beginAtZero: true,
-          ticks: { color: '#fff' },
-          grid: { color: 'rgba(255,255,255,0.1)' }
+          ticks: { color: axisColor },
+          grid: { color: gridColor }
         }
       },
       plugins: {
         legend: {
-          labels: { color: '#fff' }
+          labels: { color: axisColor }
         }
       }
     }
   });
 
-  const dayCtx = document.getElementById('dayChart').getContext('2d');
-  new Chart(dayCtx, {
+  // Daily bar chart
+  new Chart(document.getElementById('dayChart').getContext('2d'), {
     type: 'bar',
     data: {
       labels: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
@@ -222,13 +226,13 @@
         label: 'Match Frequency',
         data: [42,22,32,32,31,17,36],
         backgroundColor: [
-          'rgba(0, 191, 255, 0.2)',
-          'rgba(135, 206, 250, 0.2)',
-          'rgba(173, 216, 230, 0.2)',
-          'rgba(255, 255, 255, 0.2)',
-          'rgba(173, 216, 230, 0.2)',
-          'rgba(135, 206, 250, 0.2)',
-          'rgba(0, 191, 255, 0.2)'
+          'rgba(0, 191, 255, 0.2)',   // Sunday
+          'rgba(135, 206, 250, 0.2)', // Monday
+          'rgba(173, 216, 230, 0.2)', // Tuesday
+          'rgba(255, 255, 255, 0.2)', // Wednesday
+          'rgba(173, 216, 230, 0.2)', // Thursday
+          'rgba(135, 206, 250, 0.2)', // Friday
+          'rgba(0, 191, 255, 0.2)'    // Saturday
         ],
         borderColor: [
           'rgba(0, 191, 255, 1)',
@@ -248,13 +252,13 @@
       maintainAspectRatio: false,
       scales: {
         x: {
-          ticks: { color: '#fff' },
+          ticks: { color: axisColor },
           grid: { display: false }
         },
         y: {
           beginAtZero: true,
-          ticks: { color: '#fff' },
-          grid: { color: 'rgba(255,255,255,0.1)' }
+          ticks: { color: axisColor },
+          grid: { color: gridColor }
         }
       },
       plugins: {
