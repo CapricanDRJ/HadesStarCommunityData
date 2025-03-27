@@ -1,9 +1,9 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:22 L:7 D:0 Bonus ❌ 7%
+description: W:22 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 6 - 3 **Azennor inc\.**
-date: 2025-03-18T11:42:24.000Z
+Summary: ❌ 0 - 33 **Red Star**
+date: 2025-03-27T13:04:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-03-18T11:42:24.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔺  (142)|
-| ELO Competitive | 1403 🔺  (156)|
-| Total Matches | 29 |
+| ELO Regular | 1304 🔻  (164)|
+| ELO Competitive | 1385 🔻  (173)|
+| Total Matches | 30 |
 | Wins | 22 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741866144,1741849619,1741217686,1740902769,1740756413,1740185173,1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1742648687,1741866144,1741849619,1741217686,1740902769,1740756413,1740185173,1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/27 | 0-33 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/03/18 | 6-3 | [Azennor inc\.](https://ws.tsl.rocks/corp/b20eec58c56fcfae87efc51986817da9dca387c1c97cdf722432dfdf0e418050/) |
 | ❌ | 2025/03/18 | 4-81 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ✅ | 2025/03/10 | 18-1 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
@@ -170,5 +171,5 @@ Corporation ID: 40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742298144"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743080687"></span>
 </div>

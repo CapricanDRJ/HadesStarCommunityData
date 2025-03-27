@@ -20,8 +20,8 @@ Welcome to hang out. Very little going on around here.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1320)|
-| ELO Competitive | 1149 🔻  (1327)|
+| ELO Regular | 1119 🔻  (1321)|
+| ELO Competitive | 1149 🔻  (1328)|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 13 |
