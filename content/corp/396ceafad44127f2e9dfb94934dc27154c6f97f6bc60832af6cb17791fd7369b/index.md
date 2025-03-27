@@ -1,6 +1,6 @@
 ---
 title: ​Vega Conflict
-description: W:15 L:12 D:0 Bonus ✅ 34%
+description: W:15 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **Red\_Coat\_Mafia**
 date: 2025-03-20T18:42:59.000Z
@@ -16,7 +16,7 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -213,7 +213,16 @@
         legend: {
           labels: { color: axisColor }
         }
-      }
+      },
+      title: {
+        display: true,
+        text: 'Whitestars by year/month',
+        color: axisColor,
+        font: {
+          size: 16,
+          weight: 'bold'
+       }
+     }
     }
   });
 
@@ -224,7 +233,7 @@
       labels: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
       datasets: [{
         label: 'Match Frequency',
-        data: [42,22,32,32,31,17,36],
+        data: [42,22,32,32,32,17,36],
         backgroundColor: [
           'rgba(0, 191, 255, 0.2)',   // Sunday
           'rgba(135, 206, 250, 0.2)', // Monday
@@ -262,7 +271,16 @@
         }
       },
       plugins: {
-        legend: { display: false }
+        legend: { display: false },
+         title: {
+           display: true,
+           text: 'Match Frequency by Day of Week',
+           color: axisColor,
+           font: {
+             size: 16,
+             weight: 'bold'
+           }
+         }
       }
     }
   });
