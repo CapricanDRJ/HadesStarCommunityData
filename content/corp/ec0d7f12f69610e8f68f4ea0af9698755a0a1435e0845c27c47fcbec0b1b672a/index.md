@@ -30,7 +30,7 @@ QQ群：131920392
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1441 🔻  (31)|
+| ELO Regular | 1441 🔻  (32)|
 | ELO Competitive | 1551 🔺  (41)|
 | Total Matches | 47 |
 | Wins | 40 |
