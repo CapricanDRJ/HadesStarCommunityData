@@ -1,9 +1,9 @@
 ---
 title: ​StargateCommand
-description: W:1 L:20 D:2 Bonus ❌ 5%
+description: W:2 L:20 D:2 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 12 **银河护卫队**
-date: 2025-03-16T06:32:20.000Z
+Summary: ✅ 3 - 0 **Gamma Nation**
+date: 2025-03-27T02:48:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ FF WS scanner if unable to participate.
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1439)|
-| ELO Competitive | 1044 🔻  (1457)|
-| Total Matches | 23 |
-| Wins | 1 |
+| ELO Regular | 1038 🔺  (1424)|
+| ELO Competitive | 1065 🔺  (1450)|
+| Total Matches | 24 |
+| Wins | 2 |
 | Losses | 20 |
 | Draws | 2 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741674740,1740970958,1740459522,1740009962,1739405405,1738803715,1738284141,1737774796,1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
+        let timestamps = [1742611687,1741674740,1740970958,1740459522,1740009962,1739405405,1738803715,1738284141,1737774796,1737235411,1735357742,1734749904,1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/27 | 3-0 | [Gamma Nation](https://ws.tsl.rocks/corp/2a6651e2ace9a04a0f5dbd88b6b8be0fa29c2aca2bfb732e3169951fb5f99d23/) |
 | ❌ | 2025/03/16 | 0-12 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2025/03/08 | 0-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2025/03/02 | 0-14 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
@@ -164,5 +165,5 @@ Corporation ID: b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742106740"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743043687"></span>
 </div>

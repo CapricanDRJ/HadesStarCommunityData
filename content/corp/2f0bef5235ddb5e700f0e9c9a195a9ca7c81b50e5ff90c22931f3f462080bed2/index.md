@@ -1,9 +1,9 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:13 L:4 D:0 Bonus ✅ 
+description: W:14 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 0 **Crastorios**
-date: 2025-03-26T01:36:00.000Z
+Summary: ✅ 8 - 0 **The Witness**
+date: 2025-03-27T01:28:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-03-26T01:36:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔺  (154)|
+| ELO Regular | 1319 🔺  (149)|
 | ELO Competitive | 1311 🔺  (291)|
-| Total Matches | 17 |
-| Wins | 13 |
+| Total Matches | 18 |
+| Wins | 14 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742520960,1742168866,1742088818,1741714104,1741565971,1741120933,1741099294,1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
+        let timestamps = [1742606888,1742520960,1742168866,1742088818,1741714104,1741565971,1741120933,1741099294,1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/27 | 8-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/03/26 | 9-0 | [Crastorios](https://ws.tsl.rocks/corp/cf8e92451d31be30383d7359e1e2095ccb8e0c4afe78451b4fd39cb4dab1f3e0/) |
 | ✅ | 2025/03/21 | 10-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2025/03/21 | 9-0 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
@@ -158,5 +159,5 @@ Corporation ID: 2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742952960"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743038888"></span>
 </div>

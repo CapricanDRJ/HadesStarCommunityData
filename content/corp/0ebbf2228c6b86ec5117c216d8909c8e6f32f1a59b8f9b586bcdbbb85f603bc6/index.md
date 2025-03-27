@@ -1,9 +1,9 @@
 ---
 title: ​Greek Warriors
-description: W:13 L:32 D:1 Bonus ❌ 7%
+description: W:14 L:32 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 6 - 34 **Blood Hounds**
-date: 2025-03-20T04:06:22.000Z
+Summary: ✅ 17 - 0 **King's Guard**
+date: 2025-03-27T03:38:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ https://discord.gg/DDhaupc
 <br>
 
 ### [Discord](https://discord.gg/DDhaupc)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1274)|
-| ELO Competitive | 1222 🔻  (537)|
-| Total Matches | 46 |
-| Wins | 13 |
+| ELO Regular | 1139 🔺  (1240)|
+| ELO Competitive | 1231 🔺  (503)|
+| Total Matches | 47 |
+| Wins | 14 |
 | Losses | 32 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742011582,1741249229,1740091420,1738178971,1735874561,1735492041,1735247772,1734984276,1734499915,1734040191,1733485799,1732959962,1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
+        let timestamps = [1742614726,1742011582,1741249229,1740091420,1738178971,1735874561,1735492041,1735247772,1734984276,1734499915,1734040191,1733485799,1732959962,1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/27 | 17-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2025/03/20 | 6-34 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2025/03/11 | 8-15 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2025/02/25 | 18-28 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
@@ -196,5 +197,5 @@ Corporation ID: 0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742443582"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743046726"></span>
 </div>

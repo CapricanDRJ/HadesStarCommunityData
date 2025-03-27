@@ -27,8 +27,8 @@ Find us on Discord: YTaYrhy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1008 🔻  (1442)|
-| ELO Competitive | 1091 🔻  (1432)|
+| ELO Regular | 1008 🔻  (1443)|
+| ELO Competitive | 1091 🔻  (1433)|
 | Total Matches | 63 |
 | Wins | 10 |
 | Losses | 53 |

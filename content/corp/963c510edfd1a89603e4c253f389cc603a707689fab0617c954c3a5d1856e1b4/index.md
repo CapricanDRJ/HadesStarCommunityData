@@ -21,8 +21,8 @@ https://t.me/klrlo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1284)|
-| ELO Competitive | 1155 🔻  (1295)|
+| ELO Regular | 1130 🔻  (1285)|
+| ELO Competitive | 1155 🔻  (1296)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 5 |
