@@ -1,9 +1,9 @@
 ---
 title: ​Север РусКорп
-description: W:38 L:20 D:0 Bonus ✅ 36%
+description: W:38 L:21 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 27 - 6 **Atlas Star llc\.**
-date: 2025-03-27T06:29:03.000Z
+Summary: ❌ 2 - 3 **星约组织：基地分团**
+date: 2025-03-27T07:54:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-03-27T06:29:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1341 🔺  (121)|
+| ELO Regular | 1318 🔻  (152)|
 | ELO Competitive | 1462 🔺  (103)|
-| Total Matches | 58 |
+| Total Matches | 59 |
 | Wins | 38 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 10 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742624943,1741286792,1740187556,1739017700,1738195197,1737570466,1737060809,1736456726,1735846316,1735123374,1734556709,1734069330,1733465665,1732856894,1732356242,1730813191,1730153610,1729506926,1729499414,1728880039,1728298470,1727686309,1727096441,1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
+        let timestamps = [1742630052,1742624943,1741286792,1740187556,1739017700,1738195197,1737570466,1737060809,1736456726,1735846316,1735123374,1734556709,1734069330,1733465665,1732856894,1732356242,1730813191,1730153610,1729506926,1729499414,1728880039,1728298470,1727686309,1727096441,1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/27 | 2-3 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ✅ | 2025/03/27 | 27-6 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2025/03/11 | 3-18 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2025/02/27 | 1-11 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -209,5 +210,5 @@ Corporation ID: 39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743056943"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743062052"></span>
 </div>

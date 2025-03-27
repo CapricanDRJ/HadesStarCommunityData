@@ -20,8 +20,8 @@ ot both (white stars on Saturday USA time)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (1021)|
-| ELO Competitive | 1171 🔻  (1181)|
+| ELO Regular | 1171 🔻  (1022)|
+| ELO Competitive | 1171 🔻  (1182)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
