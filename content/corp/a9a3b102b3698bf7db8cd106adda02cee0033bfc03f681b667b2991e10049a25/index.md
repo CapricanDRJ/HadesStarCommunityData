@@ -1,6 +1,6 @@
 ---
 title: ​Млечный путь
-description: W:22 L:24 D:0 Bonus ✅ 36%
+description: W:22 L:24 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **SILVER TERRA**
 date: 2025-03-19T23:40:57.000Z
@@ -18,12 +18,12 @@ date: 2025-03-19T23:40:57.000Z
 <br>
 
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (341)|
-| ELO Competitive | 1349 🔺  (217)|
+| ELO Regular | 1232 🔺  (340)|
+| ELO Competitive | 1349 🔺  (218)|
 | Total Matches | 46 |
 | Wins | 22 |
 | Losses | 24 |
