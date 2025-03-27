@@ -27,12 +27,24 @@
         maintainAspectRatio: false,
         scales: {
           x: {
-            ticks: { color: '#fff' },
+            ticks: {
+              color: '#fff',
+              font: {
+                strokeStyle: '#000',
+                lineWidth: 1
+              }
+            },
             grid: { color: 'rgba(255, 255, 255, 0.1)' }
           },
           y: {
             beginAtZero: true,
-            ticks: { color: '#fff' },
+            ticks: {
+              color: '#fff',
+              font: {
+                strokeStyle: '#000',
+                lineWidth: 1
+              }
+            },
             grid: { color: 'rgba(255, 255, 255, 0.1)' }
           }
         },
@@ -42,7 +54,12 @@
             display: true,
             text: 'Whitestars by Year/Month',
             color: '#fff',
-            font: { size: 16, weight: 'bold' }
+            font: {
+              size: 16,
+              weight: 'bold',
+              strokeStyle: '#000',
+              lineWidth: 1
+            }
           }
         }
       }
@@ -55,7 +72,7 @@
         labels: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
         datasets: [{
           label: 'Match Frequency',
-          data: [36,42,22,32,32,29,17],
+          data: [36,42,22,32,32,30,17],
           backgroundColor: [
             'rgba(0, 191, 255, 0.2)',
             'rgba(135, 206, 250, 0.2)',
@@ -83,12 +100,24 @@
         maintainAspectRatio: false,
         scales: {
           x: {
-            ticks: { color: '#fff' },
+            ticks: {
+              color: '#fff',
+              font: {
+                strokeStyle: '#000',
+                lineWidth: 1
+              }
+            },
             grid: { display: false }
           },
           y: {
             beginAtZero: true,
-            ticks: { color: '#fff' },
+            ticks: {
+              color: '#fff',
+              font: {
+                strokeStyle: '#000',
+                lineWidth: 1
+              }
+            },
             grid: { color: 'rgba(255, 255, 255, 0.1)' }
           }
         },
@@ -98,7 +127,12 @@
             display: true,
             text: 'Whitestars Match Times Last Week',
             color: '#fff',
-            font: { size: 16, weight: 'bold' }
+            font: {
+              size: 16,
+              weight: 'bold',
+              strokeStyle: '#000',
+              lineWidth: 1
+            }
           }
         }
       }
