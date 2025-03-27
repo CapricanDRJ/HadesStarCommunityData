@@ -169,15 +169,17 @@
     <header class="entry-header">
         <h1>Hades&rsquo; Star Resources</h1>
         
-<div style="width: 100%; max-width: 800px; height: 400px;">
+<div style="width: 100%; max-width: 800px; height: 150px;">
   <canvas id="matchChart"></canvas>
 </div>
-<div style="width: 100%; max-width: 800px; height: 200px;">
+<div style="width: 100%; max-width: 800px; height: 150px;">
   <canvas id="dayChart"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    const fontColor = 'rgba(64, 128, 160, 1)';
+
     const matchCtx = document.getElementById('matchChart').getContext('2d');
     new Chart(matchCtx, {
       type: 'line',
@@ -197,24 +199,12 @@
         maintainAspectRatio: false,
         scales: {
           x: {
-            ticks: {
-              color: '#fff',
-              font: {
-                strokeStyle: '#000',
-                lineWidth: 1
-              }
-            },
+            ticks: { color: fontColor },
             grid: { color: 'rgba(255, 255, 255, 0.1)' }
           },
           y: {
             beginAtZero: true,
-            ticks: {
-              color: '#fff',
-              font: {
-                strokeStyle: '#000',
-                lineWidth: 1
-              }
-            },
+            ticks: { color: fontColor },
             grid: { color: 'rgba(255, 255, 255, 0.1)' }
           }
         },
@@ -223,13 +213,8 @@
           title: {
             display: true,
             text: 'Whitestars by Year/Month',
-            color: '#fff',
-            font: {
-              size: 16,
-              weight: 'bold',
-              strokeStyle: '#000',
-              lineWidth: 1
-            }
+            color: fontColor,
+            font: { size: 16, weight: 'bold' }
           }
         }
       }
@@ -270,24 +255,12 @@
         maintainAspectRatio: false,
         scales: {
           x: {
-            ticks: {
-              color: '#fff',
-              font: {
-                strokeStyle: '#000',
-                lineWidth: 1
-              }
-            },
+            ticks: { color: fontColor },
             grid: { display: false }
           },
           y: {
             beginAtZero: true,
-            ticks: {
-              color: '#fff',
-              font: {
-                strokeStyle: '#000',
-                lineWidth: 1
-              }
-            },
+            ticks: { color: fontColor },
             grid: { color: 'rgba(255, 255, 255, 0.1)' }
           }
         },
@@ -296,13 +269,8 @@
           title: {
             display: true,
             text: 'Whitestars Match Times Last Week',
-            color: '#fff',
-            font: {
-              size: 16,
-              weight: 'bold',
-              strokeStyle: '#000',
-              lineWidth: 1
-            }
+            color: fontColor,
+            font: { size: 16, weight: 'bold' }
           }
         }
       }
