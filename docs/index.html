@@ -177,23 +177,9 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
 <script>
-  function getThemeColors() {
-    const isDark = document.documentElement.classList.contains("theme-dark");
-    return {
-      axisColor: isDark ? 'rgba(255, 255, 255, 0.8)' : 'rgba(0, 0, 0, 0.7)',
-      gridColor: isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)',
-      titleColor: isDark ? 'rgba(255, 255, 255, 0.9)' : 'rgba(0, 0, 0, 0.8)'
-    };
-  }
-
-  function createCharts() {
-    const { axisColor, gridColor, titleColor } = getThemeColors();
-
-    if (window.matchChart) window.matchChart.destroy();
-    if (window.dayChart) window.dayChart.destroy();
-
+  document.addEventListener('DOMContentLoaded', function () {
     const matchCtx = document.getElementById('matchChart').getContext('2d');
-    window.matchChart = new Chart(matchCtx, {
+    new Chart(matchCtx, {
       type: 'line',
       data: {
         labels: ["2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02"],
@@ -211,13 +197,13 @@
         maintainAspectRatio: false,
         scales: {
           x: {
-            ticks: { color: axisColor },
-            grid: { color: gridColor }
+            ticks: { color: '#fff' },
+            grid: { color: 'rgba(255, 255, 255, 0.1)' }
           },
           y: {
             beginAtZero: true,
-            ticks: { color: axisColor },
-            grid: { color: gridColor }
+            ticks: { color: '#fff' },
+            grid: { color: 'rgba(255, 255, 255, 0.1)' }
           }
         },
         plugins: {
@@ -225,7 +211,7 @@
           title: {
             display: true,
             text: 'Whitestars by Year/Month',
-            color: titleColor,
+            color: '#fff',
             font: { size: 16, weight: 'bold' }
           }
         }
@@ -233,7 +219,7 @@
     });
 
     const dayCtx = document.getElementById('dayChart').getContext('2d');
-    window.dayChart = new Chart(dayCtx, {
+    new Chart(dayCtx, {
       type: 'bar',
       data: {
         labels: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
@@ -267,13 +253,13 @@
         maintainAspectRatio: false,
         scales: {
           x: {
-            ticks: { color: axisColor },
+            ticks: { color: '#fff' },
             grid: { display: false }
           },
           y: {
             beginAtZero: true,
-            ticks: { color: axisColor },
-            grid: { color: gridColor }
+            ticks: { color: '#fff' },
+            grid: { color: 'rgba(255, 255, 255, 0.1)' }
           }
         },
         plugins: {
@@ -281,18 +267,12 @@
           title: {
             display: true,
             text: 'Whitestars Match Times Last Week',
-            color: titleColor,
+            color: '#fff',
             font: { size: 16, weight: 'bold' }
           }
         }
       }
     });
-  }
-
-  document.addEventListener('DOMContentLoaded', () => {
-    createCharts();
-    const observer = new MutationObserver(() => createCharts());
-    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
   });
 </script>
 
