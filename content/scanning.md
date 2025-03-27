@@ -2,7 +2,7 @@
 layout: page
 title: Scanning ±12h
 description: Probability a Hades' Star corporation is scanning ±12h
-date: 2025-03-27T17:41:18.542Z
+date: 2025-03-27T17:50:35.574Z
 permalink: /scanning/
 searchHidden: true
 ---

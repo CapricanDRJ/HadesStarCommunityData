@@ -212,6 +212,47 @@
 </script>
 
         
+<div style="width: 100%; max-width: 800px; height: 400px;">
+  <canvas id="frequencyChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<script>
+    const ctx = document.getElementById('frequencyChart').getContext('2d');
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+            datasets: [{
+                label: 'Matches per Day',
+                data: [42,22,32,32,31,17,36],
+                backgroundColor: 'rgba(0, 191, 255, 0.6)',
+                borderColor: 'rgba(0, 191, 255, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    ticks: { color: '#fff' },
+                    grid: { color: 'rgba(255,255,255,0.1)' }
+                },
+                y: {
+                    beginAtZero: true,
+                    ticks: { color: '#fff' },
+                    grid: { color: 'rgba(255,255,255,0.1)' }
+                }
+            },
+            plugins: {
+                legend: {
+                    labels: { color: '#fff' }
+                }
+            }
+        }
+    });
+</script>
+
     </header>
     <div class="entry-content">
         Several community projects related to the Hades&rsquo; Star video game.<br>This site could be better, if you are a web developer who would like to make that happen, please join us on discord.
