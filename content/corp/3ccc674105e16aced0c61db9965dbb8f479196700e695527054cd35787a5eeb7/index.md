@@ -20,8 +20,8 @@ do. Listo para sumarte a nuestras filas?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1293)|
-| ELO Competitive | 1147 🔻  (1336)|
+| ELO Regular | 1129 🔻  (1294)|
+| ELO Competitive | 1147 🔻  (1337)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 7 |

@@ -24,7 +24,7 @@ will be kicked! Founder: Emperor
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (652)|
-| ELO Competitive | 1289 🔻  (336)|
+| ELO Competitive | 1289 🔻  (337)|
 | Total Matches | 42 |
 | Wins | 22 |
 | Losses | 20 |

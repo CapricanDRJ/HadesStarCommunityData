@@ -1,6 +1,6 @@
 ---
 title: ​three kitties
-description: W:56 L:35 D:4 Bonus ✅ 38%
+description: W:56 L:35 D:4 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **Imperium of man**
 date: 2025-03-21T04:53:50.000Z
@@ -17,7 +17,7 @@ e Infos on Discord or at: hadestitans.com
 <br>
 
 ### [Discord](https://discord.gg/YPC7XenfdY)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

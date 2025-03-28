@@ -1,9 +1,9 @@
 ---
 title: ​Cerulean Star
-description: W:37 L:19 D:0 Bonus ❌ 9%
+description: W:38 L:19 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 28 - 0 **云浪山庄↕**
-date: 2025-03-14T06:17:33.000Z
+Summary: ✅ 26 - 19 **Legión**
+date: 2025-03-28T04:26:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1399 🔺  (63)|
-| ELO Competitive | 1482 🔺  (91)|
-| Total Matches | 56 |
-| Wins | 37 |
+| ELO Regular | 1409 🔺  (56)|
+| ELO Competitive | 1491 🔺  (85)|
+| Total Matches | 57 |
+| Wins | 38 |
 | Losses | 19 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 5 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741501053,1740289142,1739573922,1738564839,1737872458,1737183714,1735548244,1734887526,1733656485,1733032081,1732315078,1731595094,1730551155,1729863907,1729271026,1728740556,1728273231,1727534562,1726018949,1717983037,1716812964,1715658310,1715148138,1714349113,1713515664,1712644011,1712030712,1711336008,1710827307,1710174086,1709571640,1708946031,1708433695,1707886490,1707153372,1706539313,1706086436,1705988773,1705332749,1704738640,1704690256,1704078708,1703361670,1702785349,1702163523,1702148794,1701707290,1701076153,1700995603,1700564011,1700395708,1699976082,1699946629,1699377061,1699347911,1698832850];
+        let timestamps = [1742703988,1741501053,1740289142,1739573922,1738564839,1737872458,1737183714,1735548244,1734887526,1733656485,1733032081,1732315078,1731595094,1730551155,1729863907,1729271026,1728740556,1728273231,1727534562,1726018949,1717983037,1716812964,1715658310,1715148138,1714349113,1713515664,1712644011,1712030712,1711336008,1710827307,1710174086,1709571640,1708946031,1708433695,1707886490,1707153372,1706539313,1706086436,1705988773,1705332749,1704738640,1704690256,1704078708,1703361670,1702785349,1702163523,1702148794,1701707290,1701076153,1700995603,1700564011,1700395708,1699976082,1699946629,1699377061,1699347911,1698832850];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 26-19 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/03/14 | 28-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2025/02/28 | 35-16 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ✅ | 2025/02/19 | 19-9 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
@@ -215,5 +216,5 @@ Corporation ID: 63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741933053"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743135988"></span>
 </div>

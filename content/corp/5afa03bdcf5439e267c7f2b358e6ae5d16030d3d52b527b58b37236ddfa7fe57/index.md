@@ -20,8 +20,8 @@ en。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1179)|
-| ELO Competitive | 1173 🔻  (1138)|
+| ELO Regular | 1151 🔻  (1180)|
+| ELO Competitive | 1173 🔻  (1139)|
 | Total Matches | 17 |
 | Wins | 7 |
 | Losses | 10 |

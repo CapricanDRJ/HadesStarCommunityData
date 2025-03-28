@@ -22,7 +22,7 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (902)|
+| ELO Regular | 1181 🔺  (903)|
 | ELO Competitive | 1216 🔺  (581)|
 | Total Matches | 28 |
 | Wins | 11 |
