@@ -1,9 +1,9 @@
 ---
 title: ​Alpaca Nation
-description: W:14 L:2 D:0 Bonus ✅ 
+description: W:15 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 32 - 0 **СПБ**
-date: 2025-03-23T17:45:09.000Z
+Summary: ✅ 12 - 1 **WhiteSTarfighte**
+date: 2025-03-28T18:33:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-03-23T17:45:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔺  (128)|
-| ELO Competitive | 1363 🔺  (207)|
-| Total Matches | 16 |
-| Wins | 14 |
+| ELO Regular | 1346 🔺  (110)|
+| ELO Competitive | 1374 🔺  (192)|
+| Total Matches | 17 |
+| Wins | 15 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 11 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742319909,1741803350,1741370332,1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
+        let timestamps = [1742754785,1742319909,1741803350,1741370332,1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 12-1 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/03/23 | 32-0 | [СПБ](https://ws.tsl.rocks/corp/4e3bfdb11cb1ba6fb115cfa57ba60f1178e43eaa27bdcfa8bcda277bdc6d1a83/) |
 | ✅ | 2025/03/17 | 24-0 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ❌ | 2025/03/12 | 2-13 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -164,5 +165,5 @@ Corporation ID: 183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742751909"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743186785"></span>
 </div>

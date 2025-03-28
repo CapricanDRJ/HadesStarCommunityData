@@ -1,6 +1,6 @@
 ---
 title: ​Дом Датэ
-description: W:43 L:30 D:0 Bonus ❌ 40%
+description: W:43 L:30 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 26 - 9 **INFINITY STAR**
 date: 2025-03-21T15:55:06.000Z
@@ -16,11 +16,11 @@ date: 2025-03-21T15:55:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔺  (75)|
+| ELO Regular | 1384 🔺  (76)|
 | ELO Competitive | 1494 🔺  (80)|
 | Total Matches | 73 |
 | Wins | 43 |

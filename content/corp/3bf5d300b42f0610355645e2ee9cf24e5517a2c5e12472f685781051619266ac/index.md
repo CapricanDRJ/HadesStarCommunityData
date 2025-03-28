@@ -22,7 +22,7 @@ a. Nuestra filosofía: unidos somos invencibles.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔺  (73)|
+| ELO Regular | 1384 🔺  (74)|
 | ELO Competitive | 1462 🔺  (103)|
 | Total Matches | 43 |
 | Wins | 32 |

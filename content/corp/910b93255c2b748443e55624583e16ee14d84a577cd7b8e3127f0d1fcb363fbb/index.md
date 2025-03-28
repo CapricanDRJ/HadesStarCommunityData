@@ -1,9 +1,9 @@
 ---
 title: ​viCIOus
-description: W:29 L:4 D:1 Bonus ❌ 8%
+description: W:30 L:4 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 11 **Interestelar**
-date: 2025-03-21T15:15:01.000Z
+Summary: ✅ 17 - 10 **Lupus Regnum**
+date: 2025-03-28T16:12:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ New!!! Join to expand!
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1397 🔻  (65)|
-| ELO Competitive | 1445 🔻  (118)|
-| Total Matches | 34 |
-| Wins | 29 |
+| ELO Regular | 1409 🔺  (56)|
+| ELO Competitive | 1457 🔺  (108)|
+| Total Matches | 35 |
+| Wins | 30 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 19 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742138101,1741537119,1741055126,1740543068,1740064659,1739581433,1739102442,1738558315,1738102949,1737588498,1737095662,1736641260,1736180543,1735742349,1735231544,1734378231,1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1742746369,1742138101,1741537119,1741055126,1740543068,1740064659,1739581433,1739102442,1738558315,1738102949,1737588498,1737095662,1736641260,1736180543,1735742349,1735231544,1734378231,1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 17-10 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/03/21 | 3-11 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ❌ | 2025/03/14 | 4-12 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2025/03/09 | 21-0 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
@@ -183,5 +184,5 @@ Corporation ID: 910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742570101"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743178369"></span>
 </div>
