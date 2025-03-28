@@ -1,6 +1,6 @@
 ---
 title: ​＊СССР＊
-description: W:48 L:40 D:1 Bonus ✅ 48%
+description: W:48 L:40 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 40 - 14 **Nine's Own Goal**
 date: 2025-03-21T20:05:35.000Z
@@ -18,12 +18,12 @@ date: 2025-03-21T20:05:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔺  (264)|
-| ELO Competitive | 1515 🔺  (64)|
+| ELO Competitive | 1515 🔺  (63)|
 | Total Matches | 89 |
 | Wins | 48 |
 | Losses | 40 |

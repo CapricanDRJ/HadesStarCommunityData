@@ -21,7 +21,7 @@ No camping. Discord mandatory for ws
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1460 🔺  (19)|
-| ELO Competitive | 1710 🔺  (10)|
+| ELO Competitive | 1710 🔺  (11)|
 | Total Matches | 129 |
 | Wins | 102 |
 | Losses | 26 |

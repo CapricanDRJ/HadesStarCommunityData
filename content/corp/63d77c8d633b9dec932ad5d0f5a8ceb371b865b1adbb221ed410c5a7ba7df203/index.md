@@ -23,7 +23,7 @@ riendly community. <b>Must Join Discord</b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1409 🔺  (57)|
-| ELO Competitive | 1491 🔺  (85)|
+| ELO Competitive | 1491 🔺  (86)|
 | Total Matches | 57 |
 | Wins | 38 |
 | Losses | 19 |

@@ -27,8 +27,8 @@ QQ群号：742063070
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔻  (168)|
-| ELO Competitive | 1324 🔻  (260)|
+| ELO Regular | 1303 🔻  (169)|
+| ELO Competitive | 1324 🔻  (261)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

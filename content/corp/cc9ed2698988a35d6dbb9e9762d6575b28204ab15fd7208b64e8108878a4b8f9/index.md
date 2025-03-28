@@ -1,9 +1,9 @@
 ---
 title: ​Interestelar
-description: W:21 L:2 D:0 Bonus ❌ 7%
+description: W:22 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 11 - 3 **viCIOus**
-date: 2025-03-21T15:15:01.000Z
+Summary: ✅ 57 - 3 **Лунный Феникс**
+date: 2025-03-28T20:53:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1440 🔺  (34)|
-| ELO Competitive | 1475 🔺  (96)|
-| Total Matches | 23 |
-| Wins | 21 |
+| ELO Regular | 1450 🔺  (24)|
+| ELO Competitive | 1494 🔺  (81)|
+| Total Matches | 24 |
+| Wins | 22 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742138101,1740399421,1739798396,1739331125,1738152522,1733066040,1731851725,1730636197,1730059252,1728218235,1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
+        let timestamps = [1742763202,1742138101,1740399421,1739798396,1739331125,1738152522,1733066040,1731851725,1730636197,1730059252,1728218235,1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 2 | 0 | 0 | 2 |
 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 57-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/03/21 | 11-3 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2025/03/01 | 34-1 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ✅ | 2025/02/22 | 32-9 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
@@ -173,5 +175,5 @@ Corporation ID: cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742570101"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743195202"></span>
 </div>
