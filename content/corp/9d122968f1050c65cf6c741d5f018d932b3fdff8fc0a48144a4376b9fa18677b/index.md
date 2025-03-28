@@ -22,7 +22,7 @@ if ye not be appreciatin' gallow humorr of any kind.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1460 🔺  (20)|
-| ELO Competitive | 1484 🔺  (88)|
+| ELO Competitive | 1484 🔺  (89)|
 | Total Matches | 27 |
 | Wins | 25 |
 | Losses | 1 |
