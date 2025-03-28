@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:21 L:2 D:0 Bonus ✅ 34%
+description: W:21 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 11 - 3 **viCIOus**
 date: 2025-03-21T15:15:01.000Z
@@ -17,7 +17,7 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

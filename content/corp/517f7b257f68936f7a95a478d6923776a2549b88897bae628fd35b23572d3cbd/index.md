@@ -1,6 +1,6 @@
 ---
 title: ​Spacefleet
-description: W:51 L:53 D:0 Bonus ✅ 52%
+description: W:51 L:53 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 29 - 14 **Gummibärenbande**
 date: 2025-03-21T14:34:56.000Z
@@ -23,11 +23,11 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (305)|
+| ELO Regular | 1241 🔺  (304)|
 | ELO Competitive | 1512 🔺  (70)|
 | Total Matches | 104 |
 | Wins | 51 |

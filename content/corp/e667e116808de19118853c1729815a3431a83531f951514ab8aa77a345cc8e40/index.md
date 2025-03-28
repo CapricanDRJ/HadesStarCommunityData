@@ -1,6 +1,6 @@
 ---
 title: ​Highlife
-description: W:26 L:44 D:1 Bonus ✅ 36%
+description: W:26 L:44 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 26 - 29 **Blood Hounds**
 date: 2025-03-27T09:34:23.000Z
@@ -18,7 +18,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 <br>
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
