@@ -1,6 +1,6 @@
 ---
 title: ​Orden Estelar 
-description: W:17 L:12 D:2 Bonus ✅ 34%
+description: W:17 L:12 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 22 - 5 **U\.S\.A**
 date: 2025-03-21T12:34:41.000Z
@@ -17,7 +17,7 @@ Ni retirada ni rendicion
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

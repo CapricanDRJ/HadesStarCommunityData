@@ -1,6 +1,6 @@
 ---
 title: ​Лунный Феникс
-description: W:56 L:32 D:2 Bonus ✅ 40%
+description: W:56 L:32 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 3 **Yellow Dwarf **
 date: 2025-03-21T10:29:28.000Z
@@ -16,7 +16,7 @@ date: 2025-03-21T10:29:28.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

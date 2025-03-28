@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mars
-description: W:57 L:49 D:1 Bonus ✅ 40%
+description: W:57 L:49 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ↔️ 6 - 6 **Red Star**
 date: 2025-03-21T11:24:32.000Z
@@ -18,11 +18,11 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1345 🔻  (111)|
+| ELO Regular | 1345 🔻  (110)|
 | ELO Competitive | 1608 🔺  (29)|
 | Total Matches | 107 |
 | Wins | 57 |

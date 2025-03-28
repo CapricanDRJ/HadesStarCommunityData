@@ -1,6 +1,6 @@
 ---
 title: ​Ark Summit
-description: W:19 L:0 D:0 Bonus ✅ 42%
+description: W:19 L:0 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 28 - 10 **DTC**
 date: 2025-03-21T11:49:36.000Z
@@ -18,12 +18,12 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1404 🔺  (59)|
-| ELO Competitive | 1443 🔺  (122)|
+| ELO Competitive | 1443 🔺  (121)|
 | Total Matches | 19 |
 | Wins | 19 |
 | Losses | 0 |
