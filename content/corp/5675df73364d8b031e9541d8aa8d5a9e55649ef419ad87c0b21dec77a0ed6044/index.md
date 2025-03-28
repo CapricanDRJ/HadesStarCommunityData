@@ -1,9 +1,9 @@
 ---
 title: ​nuevo mundo
-description: W:16 L:11 D:0 Bonus ✅ 36%
+description: W:17 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 27 - 0 **\*Alfa y Omega\***
-date: 2025-03-22T00:16:01.000Z
+Summary: ✅ 24 - 22 **Свободный флот**
+date: 2025-03-28T08:16:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,13 +25,13 @@ Esperamos su llegada!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (160)|
-| ELO Competitive | 1356 🔺  (212)|
-| Total Matches | 27 |
-| Wins | 16 |
+| ELO Regular | 1317 🔺  (152)|
+| ELO Competitive | 1375 🔺  (189)|
+| Total Matches | 28 |
+| Wins | 17 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742170561,1741609835,1740427674,1738755958,1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
+        let timestamps = [1742717812,1742170561,1741609835,1740427674,1738755958,1737748055,1736287532,1734536874,1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,12 +136,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 24-22 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2025/03/22 | 27-0 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2025/03/15 | 21-8 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ✅ | 2025/03/01 | 14-11 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
@@ -176,5 +182,5 @@ Corporation ID: 5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742602561"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743149812"></span>
 </div>

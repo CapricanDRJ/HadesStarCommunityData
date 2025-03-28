@@ -1,9 +1,9 @@
 ---
 title: ​中央山脈礦工勞動部
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 2 - 20 **New YuGiOh**
-date: 2025-03-20T12:42:16.000Z
+Summary: ✅ 3 - 0 **银河护卫队**
+date: 2025-03-28T08:02:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-20T12:42:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (627)|
-| ELO Competitive | 1191 🔻  (795)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1205 🔺  (495)|
+| ELO Competitive | 1210 🔺  (639)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742042536];
+        let timestamps = [1742716923,1742042536];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 3-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2025/03/20 | 2-20 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: c76c16c18a4d8c5a2d28b213f59db208dec670f2f230700e69fd411c8f962ea2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742474536"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743148923"></span>
 </div>

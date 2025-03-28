@@ -1,9 +1,9 @@
 ---
 title: ​imperio estelar
-description: W:12 L:17 D:3 Bonus ✅ 36%
+description: W:12 L:18 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **VoidRunners**
-date: 2025-03-22T04:41:22.000Z
+Summary: ❌ 4 - 13 **Эдем**
+date: 2025-03-28T08:32:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (475)|
-| ELO Competitive | 1293 🔺  (328)|
-| Total Matches | 32 |
+| ELO Regular | 1196 🔻  (571)|
+| ELO Competitive | 1280 🔻  (365)|
+| Total Matches | 33 |
 | Wins | 12 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 3 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742186482,1741569575,1741021772,1740516927,1739991926,1739251195,1737996872,1737293406,1736679724,1736006811,1735382679,1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1742718720,1742186482,1741569575,1741021772,1740516927,1739991926,1739251195,1737996872,1737293406,1736679724,1736006811,1735382679,1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/28 | 4-13 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/03/22 | 8-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/03/15 | 0-8 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/03/08 | 18-4 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
@@ -185,5 +186,5 @@ Corporation ID: c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742618482"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743150720"></span>
 </div>
