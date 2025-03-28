@@ -1,9 +1,9 @@
 ---
 title: ​VoidCorp
-description: W:45 L:31 D:2 Bonus ✅ 50%
+description: W:46 L:31 D:2 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 28 - 14 **Auscorp **
-date: 2025-03-22T02:06:10.000Z
+Summary: ✅ 51 - 14 **Nine's Own Goal**
+date: 2025-03-28T00:41:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ e.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (91)|
-| ELO Competitive | 1463 🔺  (101)|
-| Total Matches | 78 |
-| Wins | 45 |
+| ELO Regular | 1371 🔺  (82)|
+| ELO Competitive | 1469 🔺  (98)|
+| Total Matches | 79 |
+| Wins | 46 |
 | Losses | 31 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 | Flagship | 11 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742177170,1741649206,1741209273,1740597759,1739986212,1739509912,1739029422,1738579261,1738047051,1737586094,1737099868,1736518328,1735866459,1735234549,1734685600,1734251422,1733810633,1732917897,1732307865,1731797639,1731345096,1730612759,1730153009,1729524059,1728899871,1728339045,1727769853,1727197108,1726762903,1726274659,1725723558,1724998761,1724537188,1724073800,1723341135,1722735306,1722265015,1721770053,1721330701,1720838421,1720380403,1719938317,1719443089,1718941223,1718327127,1717616607,1717101168,1716565651,1716131218,1715620154,1715160756,1714664003,1714142089,1713539404,1712963385,1712456186,1712010885,1711250365,1710596537,1710001912,1709389548,1708783469,1708195101,1707599509,1706926375,1706282670,1705667816,1705157850,1704549908,1703865640,1703347844,1702672948,1702154206,1701608410,1700953831,1700311251,1699793039,1699283904];
+        let timestamps = [1742690466,1742177170,1741649206,1741209273,1740597759,1739986212,1739509912,1739029422,1738579261,1738047051,1737586094,1737099868,1736518328,1735866459,1735234549,1734685600,1734251422,1733810633,1732917897,1732307865,1731797639,1731345096,1730612759,1730153009,1729524059,1728899871,1728339045,1727769853,1727197108,1726762903,1726274659,1725723558,1724998761,1724537188,1724073800,1723341135,1722735306,1722265015,1721770053,1721330701,1720838421,1720380403,1719938317,1719443089,1718941223,1718327127,1717616607,1717101168,1716565651,1716131218,1715620154,1715160756,1714664003,1714142089,1713539404,1712963385,1712456186,1712010885,1711250365,1710596537,1710001912,1709389548,1708783469,1708195101,1707599509,1706926375,1706282670,1705667816,1705157850,1704549908,1703865640,1703347844,1702672948,1702154206,1701608410,1700953831,1700311251,1699793039,1699283904];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 2 | 1 | 0 | 3 |
 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 1 | 0 | 1 | 2 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1 | 1 | 0 | 2 |
 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 2 | 0 | 2 |
@@ -149,7 +150,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 2 | 0 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 2 | 0 | 2 |
-| [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 1 | 1 | 0 | 2 |
 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 1 | 1 | 0 | 2 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 0 | 2 | 0 | 2 |
 
@@ -158,6 +158,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/28 | 51-14 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ✅ | 2025/03/22 | 28-14 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2025/03/15 | 31-18 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ↔️ | 2025/03/10 | 15-15 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
@@ -243,5 +244,5 @@ Corporation ID: b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742609170"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743122466"></span>
 </div>

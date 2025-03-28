@@ -1,6 +1,6 @@
 ---
 title: ​Scar
-description: W:48 L:28 D:1 Bonus ✅ 40%
+description: W:48 L:28 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 16 - 6 **BrazilCorp\.**
 date: 2025-03-20T23:33:28.000Z
@@ -18,7 +18,7 @@ r involvement. Link is 👇
 <br>
 
 ### [Discord](https://discord.gg/J5kNRjVJM4)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
