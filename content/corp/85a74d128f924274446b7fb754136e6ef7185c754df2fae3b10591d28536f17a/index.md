@@ -1,6 +1,6 @@
 ---
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: W:33 L:54 D:0 Bonus ✅ 48%
+description: W:33 L:54 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 55 - 11 ** RELAX CZ/SK**
 date: 2025-03-21T22:20:50.000Z
@@ -22,11 +22,11 @@ Zum Server->95WWyXqrhQ</color>
 <br>
 
 ### [Discord](https://discord.gg/95WWyXqrhQ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (472)|
+| ELO Regular | 1211 🔺  (474)|
 | ELO Competitive | 1440 🔺  (123)|
 | Total Matches | 87 |
 | Wins | 33 |

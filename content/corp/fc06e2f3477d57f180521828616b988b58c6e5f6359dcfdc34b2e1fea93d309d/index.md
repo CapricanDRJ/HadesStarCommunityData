@@ -1,9 +1,9 @@
 ---
 title: ​U.P.E
-description: W:3 L:5 D:1 Bonus ❌ 5%
+description: W:3 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **BlackDawn**
-date: 2025-03-19T03:18:54.000Z
+Summary: ❌ 3 - 16 **Милый дом**
+date: 2025-03-28T23:38:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ United People of Earth.  For the betterment of all people of earth!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (872)|
-| ELO Competitive | 1189 🔺  (836)|
-| Total Matches | 9 |
+| ELO Regular | 1169 🔻  (1045)|
+| ELO Competitive | 1175 🔻  (1123)|
+| Total Matches | 10 |
 | Wins | 3 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 1 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741922334,1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
+        let timestamps = [1742773119,1741922334,1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/28 | 3-16 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) |
 | ✅ | 2025/03/19 | 3-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2025/03/09 | 1-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/02/28 | 3-0 | [✨ Love Room✨](https://ws.tsl.rocks/corp/b450313304cec8103f820ba28f338518c4247a57d2035b582ac3c7b45becbe1b/) |
@@ -152,5 +152,5 @@ Corporation ID: fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742354334"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743205119"></span>
 </div>

@@ -22,8 +22,8 @@ nts, Dark RS focussed corp, with optional WS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1360)|
-| ELO Competitive | 1191 🔺  (791)|
+| ELO Regular | 1105 🔻  (1361)|
+| ELO Competitive | 1191 🔺  (792)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 9 |

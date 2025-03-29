@@ -19,8 +19,8 @@ just relax, bro.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1020 🔻  (1441)|
-| ELO Competitive | 1066 🔻  (1454)|
+| ELO Regular | 1020 🔻  (1442)|
+| ELO Competitive | 1066 🔻  (1455)|
 | Total Matches | 41 |
 | Wins | 11 |
 | Losses | 28 |
