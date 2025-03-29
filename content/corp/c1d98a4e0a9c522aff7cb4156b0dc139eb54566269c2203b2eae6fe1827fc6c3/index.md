@@ -21,7 +21,7 @@ s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (589)|
+| ELO Regular | 1194 🔻  (588)|
 | ELO Competitive | 1211 🔻  (636)|
 | Total Matches | 13 |
 | Wins | 5 |

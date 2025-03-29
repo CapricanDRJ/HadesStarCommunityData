@@ -1,6 +1,6 @@
 ---
 title: ​Lacuna X
-description: W:61 L:8 D:1 Bonus ✅ 40%
+description: W:61 L:8 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 32 - 4 **Halcon español**
 date: 2025-03-22T12:32:06.000Z
@@ -24,7 +24,7 @@ White Star focused.
 <br>
 
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

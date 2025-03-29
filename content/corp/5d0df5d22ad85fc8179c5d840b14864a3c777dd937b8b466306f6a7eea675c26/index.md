@@ -19,8 +19,8 @@ All for one and one for all
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (602)|
-| ELO Competitive | 1193 🔻  (762)|
+| ELO Regular | 1193 🔻  (601)|
+| ELO Competitive | 1193 🔻  (761)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
