@@ -1,9 +1,9 @@
 ---
 title: ​⭐PRETORIANS.X⭐
-description: W:18 L:37 D:6 Bonus ❌ 8%
+description: W:18 L:38 D:6 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **The Gladiators**
-date: 2025-03-23T23:26:12.000Z
+Summary: ❌ 0 - 2 **ALPHA**
+date: 2025-03-29T06:12:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ sporg). 3lt bpdp)(demin).(flech).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔺  (1375)|
-| ELO Competitive | 1286 🔻  (346)|
-| Total Matches | 61 |
+| ELO Regular | 1090 🔻  (1381)|
+| ELO Competitive | 1277 🔻  (369)|
+| Total Matches | 62 |
 | Wins | 18 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 6 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742340372,1742340048,1741776600,1741773896,1741272666,1741254336,1740796980,1740179765,1740014168,1739690216,1739435382,1739063378,1738558315,1738496313,1738032930,1738016106,1737518780,1737510367,1737023231,1737008808,1736565216,1736550492,1736104511,1736102407,1735662131,1735650109,1735126379,1734569627,1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
+        let timestamps = [1742796758,1742340372,1742340048,1741776600,1741773896,1741272666,1741254336,1740796980,1740179765,1740014168,1739690216,1739435382,1739063378,1738558315,1738496313,1738032930,1738016106,1737518780,1737510367,1737023231,1737008808,1736565216,1736550492,1736104511,1736102407,1735662131,1735650109,1735126379,1734569627,1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 0 | 2 | 0 | 2 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 0 | 2 | 0 | 2 |
 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) | 0 | 2 | 0 | 2 |
 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) | 0 | 2 | 0 | 2 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/29 | 0-2 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ↔️ | 2025/03/23 | 0-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
 | ❌ | 2025/03/23 | 3-22 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/03/17 | 2-17 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
@@ -216,5 +218,5 @@ Corporation ID: cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742772372"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743228758"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​ALPHA
-description: W:33 L:11 D:1 Bonus ✅ 36%
+description: W:34 L:11 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 6 - 2 **Cereal Grapest**
-date: 2025-03-24T02:41:06.000Z
+Summary: ✅ 2 - 0 **⭐PRETORIANS\.X⭐**
+date: 2025-03-29T06:12:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,13 @@ Crecer principal objetivo        Leko:Join us we need active member
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (92)|
-| ELO Competitive | 1421 🔺  (139)|
-| Total Matches | 45 |
-| Wins | 33 |
+| ELO Regular | 1370 🔺  (84)|
+| ELO Competitive | 1430 🔺  (129)|
+| Total Matches | 46 |
+| Wins | 34 |
 | Losses | 11 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 13 |
 | Flagship | 4 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742352066,1741907015,1741408196,1740975801,1740543068,1740105239,1739667381,1739234371,1738792025,1738349649,1737898906,1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1742796758,1742352066,1741907015,1741408196,1740975801,1740543068,1740105239,1739667381,1739234371,1738792025,1738349649,1737898906,1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 2 | 0 | 0 | 2 |
 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) | 2 | 0 | 0 | 2 |
 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 1 | 1 | 0 | 2 |
 
@@ -142,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/29 | 2-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/03/24 | 6-2 | [Cereal Grapest](https://ws.tsl.rocks/corp/f661ce364406ed8915f920351e6567e15b1925ac07127273b42dca69998ef888/) |
 | ↔️ | 2025/03/18 | 3-3 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2025/03/13 | 2-16 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
@@ -194,5 +197,5 @@ Corporation ID: e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742784066"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743228758"></span>
 </div>

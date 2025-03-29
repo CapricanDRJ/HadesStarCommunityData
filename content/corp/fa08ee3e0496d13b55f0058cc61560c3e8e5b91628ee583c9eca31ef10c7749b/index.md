@@ -1,9 +1,9 @@
 ---
 title: ​C'est pas faux!
-description: W:7 L:6 D:1 Bonus ✅ 36%
+description: W:8 L:6 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 28 - 0 **RedStar Raiding**
-date: 2025-03-23T19:35:23.000Z
+Summary: ✅ 31 - 0 **Hun Generals**
+date: 2025-03-29T05:24:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ Discord : wZcGGNZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (270)|
-| ELO Competitive | 1294 🔺  (326)|
-| Total Matches | 14 |
-| Wins | 7 |
+| ELO Regular | 1256 🔺  (262)|
+| ELO Competitive | 1302 🔺  (310)|
+| Total Matches | 15 |
+| Wins | 8 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 5 |
 
 ---
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1742793849,1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/29 | 31-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2025/03/23 | 28-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2025/03/18 | 14-10 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/03/13 | 8-3 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
@@ -163,5 +164,5 @@ Corporation ID: fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742758523"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743225849"></span>
 </div>
