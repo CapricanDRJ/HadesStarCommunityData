@@ -22,8 +22,8 @@ lc, Osmium star llc. Contribute to corp flag ship for WS.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔻  (223)|
-| ELO Competitive | 1364 🔻  (207)|
+| ELO Regular | 1274 🔻  (224)|
+| ELO Competitive | 1364 🔻  (206)|
 | Total Matches | 65 |
 | Wins | 39 |
 | Losses | 25 |

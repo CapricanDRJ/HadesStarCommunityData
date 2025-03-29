@@ -1,6 +1,6 @@
 ---
 title: ​Cerberus
-description: W:6 L:0 D:1 Bonus ✅ 
+description: W:6 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 15 - 3 **SPACING GUILD**
 date: 2025-03-22T15:52:31.000Z
@@ -15,7 +15,7 @@ date: 2025-03-22T15:52:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

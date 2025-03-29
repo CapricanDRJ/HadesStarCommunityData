@@ -1,6 +1,6 @@
 ---
 title: ​Eastern Front
-description: W:65 L:72 D:3 Bonus ✅ 42%
+description: W:65 L:72 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 2 - 7 **Лунный Феникс**
 date: 2025-03-28T23:18:37.000Z
@@ -17,11 +17,11 @@ e strategies, and give out advice.        -  Tensible
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (920)|
+| ELO Regular | 1178 🔻  (919)|
 | ELO Competitive | 1518 🔻  (65)|
 | Total Matches | 140 |
 | Wins | 65 |

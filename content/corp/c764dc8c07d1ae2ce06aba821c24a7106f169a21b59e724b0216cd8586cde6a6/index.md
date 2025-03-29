@@ -1,6 +1,6 @@
 ---
 title: ​украина№1
-description: W:48 L:50 D:0 Bonus ✅ 46%
+description: W:48 L:50 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 37 - 34 **Tuatha De Danan**
 date: 2025-03-22T13:17:12.000Z
@@ -18,12 +18,12 @@ date: 2025-03-22T13:17:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔺  (994)|
-| ELO Competitive | 1407 🔺  (154)|
+| ELO Competitive | 1407 🔺  (155)|
 | Total Matches | 98 |
 | Wins | 48 |
 | Losses | 50 |

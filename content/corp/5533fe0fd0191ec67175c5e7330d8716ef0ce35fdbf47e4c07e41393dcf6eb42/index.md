@@ -22,7 +22,7 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (215)|
+| ELO Regular | 1278 🔺  (216)|
 | ELO Competitive | 1311 🔺  (290)|
 | Total Matches | 8 |
 | Wins | 7 |

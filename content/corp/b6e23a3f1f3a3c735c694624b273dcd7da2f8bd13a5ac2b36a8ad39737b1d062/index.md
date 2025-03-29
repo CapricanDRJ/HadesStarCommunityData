@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:52 L:8 D:0 Bonus ✅ 50%
+description: W:52 L:8 D:0 Bonus ❌ 50%
 image: ./favicon.png
 Summary: ✅ 43 - 25 **On en a Gros \! **
 date: 2025-03-22T15:47:30.000Z
@@ -21,7 +21,7 @@ date: 2025-03-22T15:47:30.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 50%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:4 L:14 D:2 Bonus ✅ 30%
+description: W:4 L:14 D:2 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 11 - 6 **Eastern Front**
 date: 2025-03-22T15:42:29.000Z
@@ -18,7 +18,7 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
