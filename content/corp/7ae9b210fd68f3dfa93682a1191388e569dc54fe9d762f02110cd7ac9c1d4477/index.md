@@ -1,6 +1,6 @@
 ---
 title: ​Rogue One
-description: W:51 L:35 D:1 Bonus ✅ 40%
+description: W:51 L:35 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 32 - 12 **Duchy Arrakis**
 date: 2025-03-22T09:41:49.000Z
@@ -18,7 +18,7 @@ us and Righteous Fury! ws every week,
 <br>
 
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

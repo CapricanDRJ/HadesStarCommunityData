@@ -1,9 +1,9 @@
 ---
 title: ​Zvezdec
-description: W:44 L:26 D:0 Bonus ❌ 11%
+description: W:44 L:27 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 18 - 38 **Nearland Ind**
-date: 2025-03-22T08:31:43.000Z
+Summary: ❌ 16 - 45 **Duchy Arrakis**
+date: 2025-03-29T09:29:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-03-22T08:31:43.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔻  (116)|
-| ELO Competitive | 1464 🔻  (101)|
-| Total Matches | 70 |
+| ELO Regular | 1332 🔻  (132)|
+| ELO Competitive | 1451 🔻  (114)|
+| Total Matches | 71 |
 | Wins | 44 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 9 |
 | Flagship | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742200303,1741175311,1740372079,1739779166,1739165556,1738652886,1738069286,1737967118,1737440050,1736929770,1733817842,1733133043,1732691896,1731997165,1731400680,1730783143,1729498814,1728972602,1727080515,1726564670,1725957346,1725251788,1724661897,1724059375,1723521144,1723015384,1721641425,1720506316,1719906159,1719297940,1718705929,1718102037,1717474444,1716980658,1716885992,1716274831,1716185597,1715668824,1715581695,1714981987,1714370742,1713932073,1713770133,1713182438,1712563762,1711895793,1711446574,1710923151,1710230271,1710134125,1709536184,1709098985,1709019052,1708581838,1708489889,1707808959,1707211367,1706518276,1705635964,1705130502,1704615122,1703962710,1703330710,1702796467,1702272621,1701779416,1701159403,1700637944,1700046707,1699331085];
+        let timestamps = [1742808571,1742200303,1741175311,1740372079,1739779166,1739165556,1738652886,1738069286,1737967118,1737440050,1736929770,1733817842,1733133043,1732691896,1731997165,1731400680,1730783143,1729498814,1728972602,1727080515,1726564670,1725957346,1725251788,1724661897,1724059375,1723521144,1723015384,1721641425,1720506316,1719906159,1719297940,1718705929,1718102037,1717474444,1716980658,1716885992,1716274831,1716185597,1715668824,1715581695,1714981987,1714370742,1713932073,1713770133,1713182438,1712563762,1711895793,1711446574,1710923151,1710230271,1710134125,1709536184,1709098985,1709019052,1708581838,1708489889,1707808959,1707211367,1706518276,1705635964,1705130502,1704615122,1703962710,1703330710,1702796467,1702272621,1701779416,1701159403,1700637944,1700046707,1699331085];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) | 1 | 2 | 0 | 3 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 2 | 2 | 0 | 4 |
 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) | 1 | 1 | 0 | 2 |
@@ -146,7 +147,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 1 | 3 | 0 | 4 |
 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) | 2 | 0 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 3 | 0 | 0 | 3 |
-| [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) | 1 | 1 | 0 | 2 |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 2 | 1 | 0 | 3 |
 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 2 | 0 | 0 | 2 |
 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
@@ -156,6 +156,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/29 | 16-45 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2025/03/22 | 18-38 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2025/03/10 | 17-39 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2025/03/01 | 40-27 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
@@ -233,5 +234,5 @@ Corporation ID: 7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742632303"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743240571"></span>
 </div>

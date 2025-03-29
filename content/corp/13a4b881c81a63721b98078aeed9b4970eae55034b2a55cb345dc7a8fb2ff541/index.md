@@ -1,9 +1,9 @@
 ---
 title: ​Бороская Имерия
-description: W:18 L:10 D:0 Bonus ❌ 8%
+description: W:18 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 5 - 16 **9\-Й СКОРПИОН**
-date: 2025-03-19T19:15:28.000Z
+Summary: ❌ 3 - 27 **Повстанцы Хаоса**
+date: 2025-03-29T09:04:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-03-19T19:15:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔻  (212)|
-| ELO Competitive | 1323 🔻  (267)|
-| Total Matches | 28 |
+| ELO Regular | 1275 🔻  (221)|
+| ELO Competitive | 1319 🔻  (275)|
+| Total Matches | 29 |
 | Wins | 18 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741979728,1741367026,1740268113,1739798396,1739311297,1738703077,1737307835,1736685435,1736679724,1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1742807069,1741979728,1741367026,1740268113,1739798396,1739311297,1738703077,1737307835,1736685435,1736679724,1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/29 | 3-27 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2025/03/19 | 5-16 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2025/03/12 | 13-5 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2025/02/27 | 1-13 | [USSR](https://ws.tsl.rocks/corp/d1f3713f3ff030b927f8726f1b332023410e7573481c1e7aabf8e4799047c31c/) |
@@ -172,5 +173,5 @@ Corporation ID: 13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742411728"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743239069"></span>
 </div>

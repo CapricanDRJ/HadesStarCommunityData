@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:29 L:5 D:0 Bonus ✅ 36%
+description: W:29 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 31 - 0 **六大天神**
 date: 2025-03-22T07:16:36.000Z
@@ -27,7 +27,7 @@ English only.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

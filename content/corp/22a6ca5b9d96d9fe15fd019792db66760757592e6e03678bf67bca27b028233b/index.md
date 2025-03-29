@@ -1,9 +1,9 @@
 ---
 title: ​АарнСарт 
-description: W:15 L:4 D:0 Bonus ✅ 
+description: W:16 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 26 - 0 **Dumpster Fire 2**
-date: 2025-03-22T14:22:20.000Z
+Summary: ✅ 9 - 5 **\[Blue\*Nation\]**
+date: 2025-03-29T08:59:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-03-22T14:22:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1331 🔺  (132)|
-| ELO Competitive | 1388 🔺  (172)|
-| Total Matches | 19 |
-| Wins | 15 |
+| ELO Regular | 1355 🔺  (102)|
+| ELO Competitive | 1412 🔺  (149)|
+| Total Matches | 20 |
+| Wins | 16 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/29 | 9-5 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2025/03/22 | 26-0 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2025/03/15 | 30-5 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2025/03/08 | 29-3 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
@@ -167,5 +168,5 @@ Corporation ID: 22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742653340"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743238768"></span>
 </div>
