@@ -1,9 +1,9 @@
 ---
 title: ​藏锋府
-description: W:10 L:9 D:1 Bonus ❌ 
+description: W:10 L:10 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 21 **viCIOus**
-date: 2025-03-09T02:25:26.000Z
+Summary: ❌ 0 - 12 **three kitties**
+date: 2025-03-29T16:15:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 2025-03-09T02:25:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (350)|
-| ELO Competitive | 1280 🔻  (364)|
-| Total Matches | 20 |
+| ELO Regular | 1218 🔻  (402)|
+| ELO Competitive | 1273 🔻  (373)|
+| Total Matches | 21 |
 | Wins | 10 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741055126,1739454624,1739021006,1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1742832918,1741055126,1739454624,1739021006,1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/29 | 0-12 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2025/03/09 | 0-21 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2025/02/18 | 0-37 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2025/02/13 | 22-7 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
@@ -177,5 +178,5 @@ Corporation ID: 8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741487126"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743264918"></span>
 </div>
