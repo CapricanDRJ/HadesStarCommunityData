@@ -1,6 +1,6 @@
 ---
 title: ​Повстанцы Хаоса
-description: W:54 L:8 D:0 Bonus ✅ 40%
+description: W:54 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 27 - 0 **✨ℛedstar Order«**
 date: 2025-03-22T02:11:44.000Z
@@ -20,7 +20,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 <br>
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

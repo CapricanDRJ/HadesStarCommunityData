@@ -1,6 +1,6 @@
 ---
 title: ​Rising star
-description: W:33 L:46 D:0 Bonus ✅ 50%
+description: W:33 L:46 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 37 - 10 **Tormenta**
 date: 2025-03-22T02:31:12.000Z
@@ -22,7 +22,7 @@ If kicked for inactivity, please join back when ready.
 <br>
 
 ### [Discord](https://discord.gg/fYBf2GNU7y)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

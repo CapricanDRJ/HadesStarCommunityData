@@ -19,7 +19,7 @@ BlackOrca Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (792)|
+| ELO Regular | 1185 🔻  (793)|
 | ELO Competitive | 1185 🔻  (977)|
 | Total Matches | 1 |
 | Wins | 0 |

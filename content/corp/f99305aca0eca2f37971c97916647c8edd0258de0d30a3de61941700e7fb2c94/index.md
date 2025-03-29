@@ -1,6 +1,6 @@
 ---
 title: ​Corvus Ind.
-description: W:31 L:9 D:0 Bonus ✅ 40%
+description: W:31 L:9 D:0 Bonus ❌ 40%
 image: ./favicon.png
 Summary: ✅ 23 - 5 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2025-03-22T03:51:17.000Z
@@ -21,7 +21,7 @@ https://discord.gg/ysGrswJTUp
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |
