@@ -1,9 +1,9 @@
 ---
 title: ​Nova Time
-description: W:13 L:2 D:0 Bonus ❌ 7%
+description: W:14 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 23 - 32 **русь **
-date: 2025-03-15T03:24:46.000Z
+Summary: ✅ 19 - 0 **Тихий Омут**
+date: 2025-03-29T19:05:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ There is only one clock that matters.
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔻  (136)|
-| ELO Competitive | 1339 🔻  (239)|
-| Total Matches | 15 |
-| Wins | 13 |
+| ELO Regular | 1334 🔺  (129)|
+| ELO Competitive | 1357 🔺  (214)|
+| Total Matches | 16 |
+| Wins | 14 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741577086,1712067667,1706602529,1706075920,1704238886,1703737619,1703187637,1702742973,1702260602,1701754475,1701285635,1700816167,1700354536,1699902345,1699277894];
+        let timestamps = [1742843138,1741577086,1712067667,1706602529,1706075920,1704238886,1703737619,1703187637,1702742973,1702260602,1701754475,1701285635,1700816167,1700354536,1699902345,1699277894];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/29 | 19-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2025/03/15 | 23-32 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ✅ | 2024/04/07 | 38-2 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2024/02/04 | 35-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
@@ -157,5 +158,5 @@ Corporation ID: 0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742009086"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743275138"></span>
 </div>

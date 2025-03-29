@@ -2,7 +2,7 @@
 layout: page
 title: Scanning Sunday
 description: Probability a Hades' Star corporation is scanning Sunday
-date: 2025-03-29T18:55:09.208Z
+date: 2025-03-29T21:55:09.478Z
 permalink: /sun/
 searchHidden: true
 ---
