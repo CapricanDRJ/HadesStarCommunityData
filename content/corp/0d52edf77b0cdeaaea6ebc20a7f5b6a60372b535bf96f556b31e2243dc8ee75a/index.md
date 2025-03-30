@@ -1,6 +1,6 @@
 ---
 title: ​Imperium XIII
-description: W:48 L:31 D:0 Bonus ✅ 48%
+description: W:48 L:31 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 11 - 39 **\*СССР\***
 date: 2025-03-29T06:54:17.000Z
@@ -21,7 +21,7 @@ Discord is required.
 <br>
 
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
