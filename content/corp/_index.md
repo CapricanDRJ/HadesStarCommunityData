@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-03-30T09:55:10.443Z
+date: 2025-03-30T12:55:09.632Z
 summary: "Corporation directory"
 ---
 
@@ -264,7 +264,7 @@ summary: "Corporation directory"
 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) | 1155 | 1163 | 6 |
 | [EMPIRE ](https://ws.tsl.rocks/corp/6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2/) | 1238 | 1243 | 3 |
 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1344 | 1379 | 19 |
-| [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) | 1116 | 1251 | 53 |
+| [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) | 1130 | 1264 | 54 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1347 | 1705 | 123 |
 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) | 1124 | 1152 | 17 |
 | [Enigma](https://ws.tsl.rocks/corp/b090292814af4e2f0c44d130ddd9ef8f56c0f42990900a3bb4f8ae48970c907d/) | 1201 | 1201 | 2 |
@@ -1359,7 +1359,7 @@ summary: "Corporation directory"
 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1158 | 1313 | 69 |
 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) | 1183 | 1185 | 1 |
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
-| [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1099 | 1212 | 36 |
+| [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1084 | 1199 | 37 |
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1177 | 1183 | 4 |
 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80/) | 1186 | 1189 | 1 |
 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1249 | 1529 | 120 |

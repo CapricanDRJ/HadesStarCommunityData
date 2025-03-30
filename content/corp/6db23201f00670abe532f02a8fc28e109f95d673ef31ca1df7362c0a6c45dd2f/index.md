@@ -22,7 +22,7 @@ in us or prepare to meet your destiny.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1374)|
+| ELO Regular | 1095 🔻  (1373)|
 | ELO Competitive | 1146 🔻  (1344)|
 | Total Matches | 38 |
 | Wins | 12 |

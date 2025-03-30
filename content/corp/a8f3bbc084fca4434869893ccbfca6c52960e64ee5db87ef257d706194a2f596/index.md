@@ -1,6 +1,6 @@
 ---
 title: ​WinterComes
-description: W:6 L:15 D:0 Bonus ✅ 44%
+description: W:6 L:15 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 16 - 28 **Warriorlords**
 date: 2025-03-29T16:15:18.000Z
@@ -23,7 +23,7 @@ Winter Comes to Hades</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
