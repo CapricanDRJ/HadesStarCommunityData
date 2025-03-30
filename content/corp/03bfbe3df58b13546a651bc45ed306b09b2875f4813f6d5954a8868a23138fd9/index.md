@@ -30,7 +30,7 @@ discord.gg/qz8kpgtj
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (974)|
+| ELO Regular | 1173 🔻  (975)|
 | ELO Competitive | 1178 🔻  (1091)|
 | Total Matches | 4 |
 | Wins | 1 |
