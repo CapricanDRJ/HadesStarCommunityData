@@ -1,6 +1,6 @@
 ---
 title: ​lonewolf
-description: W:36 L:11 D:1 Bonus ✅ 38%
+description: W:36 L:11 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 45 - 3 **世外桃源**
 date: 2025-03-23T18:40:16.000Z
@@ -18,7 +18,7 @@ nks
 <br>
 
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​WhiteSTarfighte
-description: W:19 L:16 D:2 Bonus ✅ 34%
+description: W:19 L:16 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 1 - 12 **Alpaca Nation**
 date: 2025-03-28T18:33:05.000Z
@@ -16,12 +16,12 @@ Lets WiN all white Stars
 <br>
 
 ### [Discord](https://discord.gg/Nope)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔻  (356)|
-| ELO Competitive | 1253 🔻  (430)|
+| ELO Competitive | 1253 🔻  (431)|
 | Total Matches | 37 |
 | Wins | 19 |
 | Losses | 16 |
