@@ -1,6 +1,6 @@
 ---
 title: ​GhostNakcoorp
-description: W:28 L:32 D:0 Bonus ✅ 36%
+description: W:28 L:32 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **柯伊伯带**
 date: 2025-03-23T19:03:33.000Z
@@ -18,7 +18,7 @@ gg☆</color></b>   Recruiting "StarMasters" for WS
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

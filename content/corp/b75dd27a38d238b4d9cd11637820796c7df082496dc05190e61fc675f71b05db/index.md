@@ -1,9 +1,9 @@
 ---
 title: ​Starships
-description: W:8 L:2 D:0 Bonus ✅ 
+description: W:9 L:2 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 21 - 0 **imperio galacti**
-date: 2025-03-23T20:00:26.000Z
+Summary: ✅ 19 - 2 **碧海听潮阁**
+date: 2025-03-30T19:23:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-03-23T20:00:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (220)|
-| ELO Competitive | 1313 🔺  (285)|
-| Total Matches | 10 |
-| Wins | 8 |
+| ELO Regular | 1287 🔺  (198)|
+| ELO Competitive | 1329 🔺  (256)|
+| Total Matches | 12 |
+| Wins | 9 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742328026,1742318406,1741738447,1741712602,1741108911,1740506104,1739737406,1738684741,1738684741,1737790420];
+        let timestamps = [1742930589,1742929086,1742328026,1742318406,1741738447,1741712602,1741108911,1740506104,1739737406,1738684741,1738684741,1737790420];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -129,12 +129,20 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) | 1 | 1 | 0 | 2 |
+| [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 1 | 0 | 1 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/30 | 19-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
+| ↔️ | 2025/03/30 | 3-3 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/03/23 | 21-0 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2025/03/23 | 1-10 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/03/17 | 19-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
@@ -152,5 +160,5 @@ Corporation ID: b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742760026"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743362589"></span>
 </div>
