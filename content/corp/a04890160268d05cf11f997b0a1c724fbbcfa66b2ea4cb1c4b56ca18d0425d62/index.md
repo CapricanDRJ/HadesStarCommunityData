@@ -1,6 +1,6 @@
 ---
 title: ​GDZ
-description: W:52 L:44 D:0 Bonus ✅ 46%
+description: W:52 L:44 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 9 - 33 **pirates spatial**
 date: 2025-03-29T13:24:57.000Z
@@ -16,11 +16,11 @@ date: 2025-03-29T13:24:57.000Z
 <br>
 
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (204)|
+| ELO Regular | 1284 🔻  (205)|
 | ELO Competitive | 1437 🔻  (125)|
 | Total Matches | 96 |
 | Wins | 52 |

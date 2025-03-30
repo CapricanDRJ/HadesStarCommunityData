@@ -1,6 +1,6 @@
 ---
 title: ​Blazing Stars
-description: W:16 L:3 D:1 Bonus ✅ 32%
+description: W:16 L:3 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **佛矿寺**
 date: 2025-03-23T00:13:55.000Z
@@ -18,12 +18,12 @@ e Hades Galaxy. Join us and have fun
 <br>
 
 ### [Discord](https://discord.gg/aCU5VZGc)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1340 🔺  (120)|
-| ELO Competitive | 1389 🔺  (172)|
+| ELO Competitive | 1389 🔺  (171)|
 | Total Matches | 20 |
 | Wins | 16 |
 | Losses | 3 |

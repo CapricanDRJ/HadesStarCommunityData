@@ -1,9 +1,9 @@
 ---
 title: ​星环建设集团
-description: W:9 L:7 D:2 Bonus ❌ 6%
+description: W:10 L:7 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 23 **ItaFederalFleet**
-date: 2024-10-05T11:52:08.000Z
+Summary: ✅ 7 - 0 **11th Engineers**
+date: 2025-03-29T22:35:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 2024-10-05T11:52:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (396)|
-| ELO Competitive | 1234 🔻  (487)|
-| Total Matches | 18 |
-| Wins | 9 |
+| ELO Regular | 1221 🔺  (388)|
+| ELO Competitive | 1242 🔺  (467)|
+| Total Matches | 19 |
+| Wins | 10 |
 | Losses | 7 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727697128,1726765909,1725727838,1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
+        let timestamps = [1742855701,1727697128,1726765909,1725727838,1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/29 | 7-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ❌ | 2024/10/05 | 0-23 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024/09/24 | 5-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ✅ | 2024/09/12 | 7-1 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
@@ -167,5 +168,5 @@ Corporation ID: 85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1728129128"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743287701"></span>
 </div>
