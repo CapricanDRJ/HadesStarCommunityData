@@ -1,6 +1,6 @@
 ---
 title: ​Red Alliance
-description: W:24 L:30 D:2 Bonus ✅ 36%
+description: W:24 L:30 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 9 - 4 **泰拉瑞亚**
 date: 2025-03-24T13:02:07.000Z
@@ -15,11 +15,11 @@ English speaking – would you want to communicate
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (955)|
+| ELO Regular | 1174 🔺  (956)|
 | ELO Competitive | 1276 🔺  (370)|
 | Total Matches | 56 |
 | Wins | 24 |

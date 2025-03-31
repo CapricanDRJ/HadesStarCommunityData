@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:8 L:2 D:0 Bonus ✅ 
+description: W:9 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 0 **SpaceTruckers**
-date: 2025-03-28T05:21:32.000Z
+Summary: ✅ 18 - 0 **神圣群星帝国**
+date: 2025-03-31T14:05:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-03-28T05:21:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (216)|
-| ELO Competitive | 1308 🔺  (296)|
-| Total Matches | 10 |
-| Wins | 8 |
+| ELO Regular | 1292 🔺  (192)|
+| ELO Competitive | 1319 🔺  (276)|
+| Total Matches | 11 |
+| Wins | 9 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/31 | 18-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ✅ | 2025/03/28 | 15-0 | [SpaceTruckers](https://ws.tsl.rocks/corp/9197812744bb73a0e58aedeab5dc0be075f4e5584660a69db39da11b0c9e2c5f/) |
 | ❌ | 2025/03/25 | 4-7 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ✅ | 2025/03/18 | 13-2 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
@@ -157,5 +159,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743139292"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743429901"></span>
 </div>

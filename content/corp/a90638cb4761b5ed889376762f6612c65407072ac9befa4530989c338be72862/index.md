@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Luminá
-description: W:18 L:4 D:0 Bonus ✅ 32%
+description: W:18 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 14 - 19 **STAR TERROR CZ**
 date: 2025-03-29T14:30:05.000Z
@@ -17,7 +17,7 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

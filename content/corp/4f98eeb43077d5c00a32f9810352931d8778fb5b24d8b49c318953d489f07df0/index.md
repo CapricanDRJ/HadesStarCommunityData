@@ -1,6 +1,6 @@
 ---
 title: ​AlyTec Sys.
-description: W:11 L:16 D:1 Bonus ✅ 32%
+description: W:11 L:16 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **Dark Halo**
 date: 2025-03-24T13:52:13.000Z
@@ -18,11 +18,11 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (900)|
+| ELO Regular | 1181 🔺  (901)|
 | ELO Competitive | 1216 🔺  (583)|
 | Total Matches | 28 |
 | Wins | 11 |
