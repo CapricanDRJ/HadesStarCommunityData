@@ -1,6 +1,6 @@
 ---
 title: ​Z. O. V. 
-description: W:44 L:17 D:2 Bonus ✅ 38%
+description: W:44 L:17 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 28 - 7 **八月政府**
 date: 2025-03-24T07:11:30.000Z
@@ -15,7 +15,7 @@ date: 2025-03-24T07:11:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
