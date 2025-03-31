@@ -22,8 +22,8 @@ a em dia. Temos grupo de Discord.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1434 🔺  (40)|
-| ELO Competitive | 1486 🔺  (89)|
+| ELO Regular | 1434 🔺  (41)|
+| ELO Competitive | 1486 🔺  (90)|
 | Total Matches | 37 |
 | Wins | 29 |
 | Losses | 7 |

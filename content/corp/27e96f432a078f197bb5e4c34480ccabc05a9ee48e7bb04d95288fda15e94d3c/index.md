@@ -1,9 +1,9 @@
 ---
 title: ​Últimafronteira
-description: W:21 L:1 D:0 Bonus ❌ 7%
+description: W:22 L:1 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 33 - 0 **OPA**
-date: 2025-03-18T19:18:12.000Z
+Summary: ✅ 17 - 3 **северный шторм**
+date: 2025-03-31T06:14:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ tes são bem vindos! Virtus Unita Fortior.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/bv5q7qHTDb)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1433 🔺  (42)|
-| ELO Competitive | 1478 🔺  (96)|
-| Total Matches | 22 |
-| Wins | 21 |
+| ELO Regular | 1440 🔺  (35)|
+| ELO Competitive | 1486 🔺  (89)|
+| Total Matches | 23 |
+| Wins | 22 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 17 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741893492,1736892814,1734454848,1733861716,1733392950,1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1742969651,1741893492,1736892814,1734454848,1733861716,1733392950,1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/31 | 17-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2025/03/18 | 33-0 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2025/01/19 | 38-0 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2024/12/22 | 29-3 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -167,5 +168,5 @@ Corporation ID: 27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742325492"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743401651"></span>
 </div>

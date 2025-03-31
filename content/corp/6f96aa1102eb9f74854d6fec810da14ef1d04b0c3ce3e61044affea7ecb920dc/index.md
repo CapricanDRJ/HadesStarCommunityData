@@ -1,9 +1,9 @@
 ---
 title: ​северный шторм
-description: W:15 L:16 D:1 Bonus ✅ 34%
+description: W:15 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 12 - 0 **落雨观花**
-date: 2025-03-24T05:51:23.000Z
+Summary: ❌ 3 - 17 **Últimafronteira**
+date: 2025-03-31T06:14:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,16 @@ date: 2025-03-24T05:51:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (301)|
-| ELO Competitive | 1310 🔺  (294)|
-| Total Matches | 32 |
+| ELO Regular | 1234 🔻  (332)|
+| ELO Competitive | 1302 🔻  (310)|
+| Total Matches | 33 |
 | Wins | 15 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742363483,1742359765,1741766385,1741762180,1741162092,1741157586,1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1742969651,1742363483,1742359765,1741766385,1741762180,1741162092,1741157586,1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/31 | 3-17 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2025/03/24 | 12-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2025/03/24 | 39-0 | [哈迪斯作战训练营](https://ws.tsl.rocks/corp/2f80c09af57b017135706d9de40b3de45ec2bbd0225ff12e32cad52b32442a58/) |
 | ❌ | 2025/03/17 | 17-23 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
@@ -182,5 +182,5 @@ Corporation ID: 6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742795483"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743401651"></span>
 </div>

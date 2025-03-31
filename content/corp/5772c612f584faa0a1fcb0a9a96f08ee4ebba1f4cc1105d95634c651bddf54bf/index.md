@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Hades
-description: W:15 L:3 D:1 Bonus ✅ 
+description: W:15 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 29 - 0 **Z\. O\. V\. **
 date: 2025-03-24T06:21:25.000Z
@@ -15,7 +15,7 @@ date: 2025-03-24T06:21:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
