@@ -1,9 +1,9 @@
 ---
 title: ​Snack Empire
-description: W:0 L:5 D:0 Bonus ❌ 3%
+description: W:0 L:6 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 19 **imperio galacti**
-date: 2025-02-01T01:58:03.000Z
+Summary: ❌ 0 - 9 **V0RTEX**
+date: 2025-03-31T02:23:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Welcome to the land of the delicious! Please be active and grow :)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1255)|
-| ELO Competitive | 1159 🔻  (1275)|
-| Total Matches | 5 |
+| ELO Regular | 1127 🔻  (1301)|
+| ELO Competitive | 1148 🔻  (1332)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737943083,1734448537,1730940035,1730912953,1700022968];
+        let timestamps = [1742955831,1737943083,1734448537,1730940035,1730912953,1700022968];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/31 | 0-9 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/02/01 | 0-19 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/12/22 | 0-16 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/11/12 | 0-15 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
@@ -146,5 +147,5 @@ Corporation ID: e7b912cdbd535c7bae1a2176819caef605c402607aa368b529db6b36d746036b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738375083"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743387831"></span>
 </div>

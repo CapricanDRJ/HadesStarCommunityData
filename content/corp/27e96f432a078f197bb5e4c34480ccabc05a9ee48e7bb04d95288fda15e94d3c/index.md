@@ -22,7 +22,7 @@ tes são bem vindos! Virtus Unita Fortior.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1433 🔺  (42)|
-| ELO Competitive | 1478 🔺  (95)|
+| ELO Competitive | 1478 🔺  (96)|
 | Total Matches | 22 |
 | Wins | 21 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 title: ​Internationals
-description: W:46 L:18 D:0 Bonus ❌ 17%
+description: W:47 L:18 D:0 Bonus ✅ 54%
 image: ./favicon.png
-Summary: ❌ 25 - 29 **Lost Legion**
-date: 2025-03-24T14:52:20.000Z
+Summary: ✅ 58 - 8 **BRhue**
+date: 2025-03-31T01:03:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ❌ 17%
+### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1411 🔻  (55)|
-| ELO Competitive | 1534 🔻  (53)|
-| Total Matches | 64 |
-| Wins | 46 |
+| ELO Regular | 1418 🔺  (53)|
+| ELO Competitive | 1539 🔺  (51)|
+| Total Matches | 65 |
+| Wins | 47 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 18 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742395940,1741921433,1741730636,1741175311,1740513920,1740046622,1739509912,1738807648,1738707885,1738140804,1738098742,1737574674,1737493843,1736893415,1736372582,1736279415,1735734233,1735132389,1734448236,1733902270,1733260450,1732703011,1732063575,1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
+        let timestamps = [1742951024,1742395940,1741921433,1741730636,1741175311,1740513920,1740046622,1739509912,1738807648,1738707885,1738140804,1738098742,1737574674,1737493843,1736893415,1736372582,1736279415,1735734233,1735132389,1734448236,1733902270,1733260450,1732703011,1732063575,1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) | 2 | 0 | 0 | 2 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1 | 1 | 0 | 2 |
 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 1 | 1 | 0 | 2 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/31 | 58-8 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2025/03/24 | 25-29 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2025/03/19 | 27-31 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2025/03/16 | 22-60 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
@@ -220,5 +222,5 @@ Corporation ID: 7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742827940"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743383024"></span>
 </div>
