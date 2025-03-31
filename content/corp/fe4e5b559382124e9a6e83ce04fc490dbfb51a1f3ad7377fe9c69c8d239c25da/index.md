@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Pioneer
-description: W:11 L:4 D:0 Bonus ✅ 
+description: W:11 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 10 - 2 **imperio galacti**
-date: 2025-03-30T21:43:25.000Z
+Summary: ❌ 0 - 6 **QVX**
+date: 2025-03-30T23:20:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-03-30T21:43:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (191)|
+| ELO Regular | 1276 🔻  (222)|
 | ELO Competitive | 1299 🔺  (315)|
-| Total Matches | 15 |
+| Total Matches | 16 |
 | Wins | 11 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742939005,1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
+        let timestamps = [1742944849,1742939005,1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/30 | 0-6 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/03/30 | 10-2 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2025/03/24 | 3-0 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ✅ | 2025/03/24 | 4-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
@@ -158,5 +158,5 @@ Corporation ID: fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743371005"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743376849"></span>
 </div>

@@ -19,8 +19,8 @@ Because you can't solo White Stars. https://discord.gg/GWA38Gx
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (891)|
-| ELO Competitive | 1187 🔻  (882)|
+| ELO Regular | 1182 🔻  (893)|
+| ELO Competitive | 1187 🔻  (884)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

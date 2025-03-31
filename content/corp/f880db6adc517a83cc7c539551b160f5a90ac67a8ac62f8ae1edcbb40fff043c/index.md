@@ -1,9 +1,9 @@
 ---
 title: ​莫比乌斯-星环
-description: W:4 L:7 D:0 Bonus ✅ 
+description: W:5 L:7 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 21 - 0 **КОРПОРАЦИЯ ЗЛА**
-date: 2025-03-24T18:40:44.000Z
+Summary: ✅ 14 - 2 **リリース**
+date: 2025-03-30T22:43:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-24T18:40:44.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (983)|
-| ELO Competitive | 1180 🔺  (1080)|
-| Total Matches | 11 |
-| Wins | 4 |
+| ELO Regular | 1193 🔺  (604)|
+| ELO Competitive | 1206 🔺  (658)|
+| Total Matches | 12 |
+| Wins | 5 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/30 | 14-2 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2025/03/24 | 21-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2025/03/21 | 18-0 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
 | ✅ | 2025/03/19 | 30-12 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
@@ -154,5 +155,5 @@ Corporation ID: f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742841644"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743374611"></span>
 </div>
