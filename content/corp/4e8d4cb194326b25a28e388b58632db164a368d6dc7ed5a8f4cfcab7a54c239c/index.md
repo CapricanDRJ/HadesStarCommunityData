@@ -1,6 +1,6 @@
 ---
 title: ​Тихий Омут
-description: W:64 L:81 D:3 Bonus ✅ 46%
+description: W:64 L:81 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 4 **DarkSide**
 date: 2025-03-29T19:15:40.000Z
@@ -15,7 +15,7 @@ Only for Russian speakers 🇷🇺
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

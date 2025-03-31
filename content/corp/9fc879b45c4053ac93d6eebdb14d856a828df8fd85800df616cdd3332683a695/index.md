@@ -1,6 +1,6 @@
 ---
 title: ​Free Thinkers 2
-description: W:5 L:59 D:1 Bonus ✅ 36%
+description: W:5 L:59 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 32 **украина№1**
 date: 2025-03-30T08:41:56.000Z
@@ -16,7 +16,7 @@ ive. Lets GO!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
