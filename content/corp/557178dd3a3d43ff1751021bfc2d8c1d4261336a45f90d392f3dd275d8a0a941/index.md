@@ -1,9 +1,9 @@
 ---
 title: ​DarkSide
-description: W:0 L:3 D:0 Bonus ❌ 
+description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 1 - 8 **星系联盟**
-date: 2025-03-20T13:32:23.000Z
+Summary: ❌ 1 - 19 **Blazing Stars**
+date: 2025-03-31T19:25:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-20T13:32:23.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1146)|
-| ELO Competitive | 1177 🔻  (1110)|
-| Total Matches | 3 |
+| ELO Regular | 1149 🔻  (1196)|
+| ELO Competitive | 1170 🔻  (1191)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742045543,1741532009,1738290912];
+        let timestamps = [1743017140,1742045543,1741532009,1738290912];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/31 | 1-19 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2025/03/20 | 1-8 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ❌ | 2025/03/14 | 1-13 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/02/05 | 0-5 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
@@ -144,5 +145,5 @@ Corporation ID: 557178dd3a3d43ff1751021bfc2d8c1d4261336a45f90d392f3dd275d8a0a941
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742477543"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743449140"></span>
 </div>

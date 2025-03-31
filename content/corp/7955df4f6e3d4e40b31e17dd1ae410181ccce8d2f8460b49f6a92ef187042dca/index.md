@@ -1,9 +1,9 @@
 ---
 title: ​Система Редарфа
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **WSC\(no DISCORD\)**
-date: 2024-10-20T12:40:40.000Z
+Summary: ❌ 0 - 6 **✨ℛedstar Order«**
+date: 2025-03-31T19:47:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2024-10-20T12:40:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (386)|
-| ELO Competitive | 1225 🔺  (527)|
-| Total Matches | 1 |
+| ELO Regular | 1207 🔻  (488)|
+| ELO Competitive | 1213 🔻  (619)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728996040];
+        let timestamps = [1743018429,1728996040];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/31 | 0-6 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2024/10/20 | 6-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 
 ---
@@ -143,5 +144,5 @@ Corporation ID: 7955df4f6e3d4e40b31e17dd1ae410181ccce8d2f8460b49f6a92ef187042dca
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1729428040"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743450429"></span>
 </div>

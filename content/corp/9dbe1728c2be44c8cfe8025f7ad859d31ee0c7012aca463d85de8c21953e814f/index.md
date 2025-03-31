@@ -1,9 +1,9 @@
 ---
 title: ​星域 
-description: W:10 L:13 D:0 Bonus ✅ 32%
+description: W:10 L:14 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **The Witness**
-date: 2025-03-26T20:34:00.000Z
+Summary: ❌ 0 - 33 **U\.S\.A**
+date: 2025-03-31T21:40:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (967)|
-| ELO Competitive | 1321 🔺  (271)|
-| Total Matches | 23 |
+| ELO Regular | 1154 🔻  (1162)|
+| ELO Competitive | 1301 🔻  (313)|
+| Total Matches | 24 |
 | Wins | 10 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742589240,1742523664,1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
+        let timestamps = [1743025257,1742589240,1742523664,1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/03/31 | 0-33 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2025/03/26 | 13-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/03/26 | 0-35 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2025/03/20 | 12-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
@@ -164,5 +165,5 @@ Corporation ID: 9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743021240"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743457257"></span>
 </div>
