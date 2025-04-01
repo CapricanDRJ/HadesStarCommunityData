@@ -23,7 +23,7 @@ o nosso grupo no Wpp pelo chat!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔺  (946)|
-| ELO Competitive | 1202 🔺  (675)|
+| ELO Competitive | 1202 🔺  (676)|
 | Total Matches | 20 |
 | Wins | 9 |
 | Losses | 11 |

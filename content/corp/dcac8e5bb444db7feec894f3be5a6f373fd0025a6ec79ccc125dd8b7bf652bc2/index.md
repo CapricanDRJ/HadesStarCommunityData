@@ -1,9 +1,9 @@
 ---
 title: ​很多星球的社会主义团
-description: W:15 L:24 D:2 Bonus ✅ 34%
+description: W:16 L:24 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 5 - 4 **Слава Украине\!**
-date: 2025-03-26T12:57:07.000Z
+Summary: ✅ 15 - 1 **северный шторм**
+date: 2025-04-01T01:17:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ date: 2025-03-26T12:57:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (1276)|
-| ELO Competitive | 1255 🔺  (427)|
-| Total Matches | 41 |
-| Wins | 15 |
+| ELO Regular | 1153 🔺  (1179)|
+| ELO Competitive | 1272 🔺  (377)|
+| Total Matches | 42 |
+| Wins | 16 |
 | Losses | 24 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742561827,1740401825,1740399421,1739966072,1739962466,1739523132,1739521629,1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1743038267,1742561827,1740401825,1740399421,1739966072,1739962466,1739523132,1739521629,1739063378,1739063378,1738545311,1738541106,1738062074,1737627252,1736832401,1736385201,1735343622,1727483178,1726835013,1726364521,1725648401,1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/01 | 15-1 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2025/03/26 | 5-4 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/03/01 | 3-15 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/03/01 | 1-34 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
@@ -193,5 +195,5 @@ Corporation ID: dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742993827"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743470267"></span>
 </div>

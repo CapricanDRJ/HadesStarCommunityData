@@ -1,6 +1,6 @@
 ---
 title: ​新?的星际集团?
-description: W:34 L:22 D:2 Bonus ✅ 36%
+description: W:34 L:22 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 15 - 1 **First Legion**
 date: 2025-03-25T01:38:33.000Z
@@ -23,12 +23,12 @@ date: 2025-03-25T01:38:33.000Z
 <br>
 
 ### [Discord](https://discord.gg/新星团总部)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1308 🔺  (162)|
-| ELO Competitive | 1409 🔺  (152)|
+| ELO Competitive | 1409 🔺  (151)|
 | Total Matches | 58 |
 | Wins | 34 |
 | Losses | 22 |
