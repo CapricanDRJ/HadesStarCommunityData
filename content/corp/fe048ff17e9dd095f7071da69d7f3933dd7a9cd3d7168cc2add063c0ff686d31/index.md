@@ -1,6 +1,6 @@
 ---
 title: ​●Black•Sails●
-description: W:22 L:31 D:0 Bonus ✅ 36%
+description: W:22 L:31 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **普罗米修斯**
 date: 2025-03-25T07:44:04.000Z
@@ -16,11 +16,11 @@ Together We Can Achieve More.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔺  (1199)|
+| ELO Regular | 1148 🔺  (1201)|
 | ELO Competitive | 1215 🔺  (591)|
 | Total Matches | 53 |
 | Wins | 22 |

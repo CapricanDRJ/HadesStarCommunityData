@@ -1,9 +1,9 @@
 ---
 title: ​Держава Русь
-description: W:4 L:44 D:1 Bonus ❌ 12%
+description: W:5 L:44 D:1 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 10 - 54 **Continuum**
-date: 2025-03-27T00:33:28.000Z
+Summary: ✅ 41 - 0 **Curcubeu**
+date: 2025-04-01T06:51:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-27T00:33:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 973 🔻  (1461)|
-| ELO Competitive | 1050 🔻  (1465)|
-| Total Matches | 49 |
-| Wins | 4 |
+| ELO Regular | 992 🔺  (1457)|
+| ELO Competitive | 1071 🔺  (1456)|
+| Total Matches | 50 |
+| Wins | 5 |
 | Losses | 44 |
 | Draws | 1 |
 | Flagship | 10 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742603608,1742131788,1741695171,1741263049,1740752505,1740270516,1739815830,1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1743058309,1742603608,1742131788,1741695171,1741263049,1740752505,1740270516,1739815830,1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/01 | 41-0 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | ❌ | 2025/03/27 | 10-54 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2025/03/21 | 13-43 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2025/03/16 | 21-16 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -197,5 +198,5 @@ Corporation ID: cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743035608"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743490309"></span>
 </div>

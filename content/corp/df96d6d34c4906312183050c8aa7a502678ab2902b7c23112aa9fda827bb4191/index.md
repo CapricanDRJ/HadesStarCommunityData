@@ -1,6 +1,6 @@
 ---
 title: ​Spica​
-description: W:41 L:9 D:1 Bonus ✅ 36%
+description: W:41 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 25 - 10 **对，进就进人少的**
 date: 2025-03-25T07:54:05.000Z
@@ -18,11 +18,11 @@ date: 2025-03-25T07:54:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/XQ47nAEXuY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (92)|
+| ELO Regular | 1365 🔺  (93)|
 | ELO Competitive | 1433 🔺  (127)|
 | Total Matches | 51 |
 | Wins | 41 |
