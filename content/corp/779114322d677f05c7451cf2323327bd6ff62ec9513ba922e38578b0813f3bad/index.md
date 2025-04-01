@@ -1,9 +1,9 @@
 ---
 title: ​Red Star
-description: W:20 L:16 D:2 Bonus ✅ 34%
+description: W:20 L:17 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 33 - 0 **蓝色星系二号分盟**
-date: 2025-03-27T13:04:47.000Z
+Summary: ❌ 0 - 17 **RGW**
+date: 2025-04-01T21:28:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-03-27T13:04:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔺  (204)|
-| ELO Competitive | 1361 🔺  (210)|
-| Total Matches | 38 |
+| ELO Regular | 1272 🔻  (229)|
+| ELO Competitive | 1348 🔻  (223)|
+| Total Matches | 39 |
 | Wins | 20 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/01 | 0-17 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ✅ | 2025/03/27 | 33-0 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2025/03/26 | 3-1 | [Proxima](https://ws.tsl.rocks/corp/e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6/) |
 | ↔️ | 2025/03/21 | 6-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -189,5 +189,5 @@ Corporation ID: 779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743080687"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743542907"></span>
 </div>

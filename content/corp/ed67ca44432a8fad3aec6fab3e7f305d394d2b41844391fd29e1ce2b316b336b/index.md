@@ -25,8 +25,8 @@ RS 8-11 see Lacuna Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1345 🔺  (112)|
-| ELO Competitive | 1353 🔺  (219)|
+| ELO Regular | 1345 🔺  (113)|
+| ELO Competitive | 1353 🔺  (218)|
 | Total Matches | 17 |
 | Wins | 15 |
 | Losses | 2 |
