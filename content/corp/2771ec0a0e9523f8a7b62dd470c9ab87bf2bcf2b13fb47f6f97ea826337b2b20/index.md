@@ -1,9 +1,9 @@
 ---
 title: ​Mercury Sunset
-description: W:54 L:0 D:0 Bonus ❌ 9%
+description: W:55 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 35 - 11 **The Foundation**
-date: 2025-03-25T08:08:38.000Z
+Summary: ✅ 28 - 0 **Prosperity**
+date: 2025-04-01T11:09:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ The sunset of the dying star was covered in drops of mercury.
 <br>
 
 ### [Discord](https://discord.gg/hnywHXhtg5)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1602 🔺  (3)|
-| ELO Competitive | 1671 🔺  (18)|
-| Total Matches | 54 |
-| Wins | 54 |
+| ELO Regular | 1604 🔺  (3)|
+| ELO Competitive | 1673 🔺  (17)|
+| Total Matches | 55 |
+| Wins | 55 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 54 |
-| Streak Record | 54 |
+| Streak | 55 |
+| Streak Record | 55 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742458118,1741843010,1741257640,1740654403,1740039431,1739454624,1738835661,1738223738,1737627252,1737008808,1736411640,1734445831,1733812135,1733222697,1732603855,1732002873,1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
+        let timestamps = [1743073742,1742458118,1741843010,1741257640,1740654403,1740039431,1739454624,1738835661,1738223738,1737627252,1737008808,1736411640,1734445831,1733812135,1733222697,1732603855,1732002873,1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/01 | 28-0 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
 | ✅ | 2025/03/25 | 35-11 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ✅ | 2025/03/18 | 30-6 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2025/03/11 | 30-3 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
@@ -204,5 +205,5 @@ Corporation ID: 2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742890118"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743505742"></span>
 </div>

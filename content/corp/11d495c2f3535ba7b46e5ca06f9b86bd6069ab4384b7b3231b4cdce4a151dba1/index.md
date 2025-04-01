@@ -1,6 +1,6 @@
 ---
 title: ​碧海听潮阁
-description: W:16 L:16 D:6 Bonus ✅ 
+description: W:16 L:16 D:6 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 2 - 19 **Starships**
 date: 2025-03-30T19:23:09.000Z
@@ -15,11 +15,11 @@ date: 2025-03-30T19:23:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1073)|
+| ELO Regular | 1166 🔻  (1072)|
 | ELO Competitive | 1334 🔻  (245)|
 | Total Matches | 38 |
 | Wins | 16 |

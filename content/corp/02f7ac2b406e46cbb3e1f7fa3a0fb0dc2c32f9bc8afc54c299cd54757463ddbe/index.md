@@ -1,6 +1,6 @@
 ---
 title: ​ItaFederalFleet
-description: W:21 L:14 D:1 Bonus ✅ 34%
+description: W:21 L:14 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 15 - 3 **Death Flight**
 date: 2025-03-25T10:49:22.000Z
@@ -18,7 +18,7 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

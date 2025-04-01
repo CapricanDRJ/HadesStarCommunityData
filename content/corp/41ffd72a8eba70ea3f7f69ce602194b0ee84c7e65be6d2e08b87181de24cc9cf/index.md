@@ -21,8 +21,8 @@ n the discord. Trading and co-op RS also available.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1260)|
-| ELO Competitive | 1218 🔻  (566)|
+| ELO Regular | 1137 🔻  (1261)|
+| ELO Competitive | 1218 🔻  (567)|
 | Total Matches | 19 |
 | Wins | 6 |
 | Losses | 11 |

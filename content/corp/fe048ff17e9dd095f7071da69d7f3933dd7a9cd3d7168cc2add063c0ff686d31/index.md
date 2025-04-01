@@ -1,9 +1,9 @@
 ---
 title: ​●Black•Sails●
-description: W:22 L:31 D:0 Bonus ❌ 8%
+description: W:22 L:32 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **普罗米修斯**
-date: 2025-03-25T07:44:04.000Z
+Summary: ❌ 0 - 14 **新?的星际集团?**
+date: 2025-04-01T11:57:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Together We Can Achieve More.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔺  (1201)|
-| ELO Competitive | 1215 🔺  (591)|
-| Total Matches | 53 |
+| ELO Regular | 1140 🔻  (1247)|
+| ELO Competitive | 1208 🔻  (649)|
+| Total Matches | 54 |
 | Wins | 22 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742456644,1741813869,1741248821,1740642226,1740071575,1739432165,1738874062,1738223738,1737655202,1737057502,1735840005,1734069330,1733426608,1732780256,1731570753,1730360639,1729751827,1729147206,1728546098,1727937534,1727334125,1726734785,1726125316,1725520417,1724928440,1724404590,1723708657,1723135586,1722512928,1721913387,1721293136,1720680625,1720082574,1719476739,1718894948,1718264017,1717679112,1717052179,1716446679,1715842181,1715237669,1714631853,1714033324,1713425528,1712822464,1711696869,1711031915,1708681900,1704916245,1704223858,1703719591,1702939230,1702327626];
+        let timestamps = [1743076639,1742456644,1741813869,1741248821,1740642226,1740071575,1739432165,1738874062,1738223738,1737655202,1737057502,1735840005,1734069330,1733426608,1732780256,1731570753,1730360639,1729751827,1729147206,1728546098,1727937534,1727334125,1726734785,1726125316,1725520417,1724928440,1724404590,1723708657,1723135586,1722512928,1721913387,1721293136,1720680625,1720082574,1719476739,1718894948,1718264017,1717679112,1717052179,1716446679,1715842181,1715237669,1714631853,1714033324,1713425528,1712822464,1711696869,1711031915,1708681900,1704916245,1704223858,1703719591,1702939230,1702327626];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/01 | 0-14 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2025/03/25 | 9-0 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2025/03/17 | 0-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/03/11 | 0-20 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
@@ -207,5 +208,5 @@ Corporation ID: fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742888644"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743508639"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Prosperity
-description: W:2 L:7 D:0 Bonus ❌ 13%
+description: W:2 L:8 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 2 - 26 **MiddleOfNowhere**
-date: 2025-03-26T19:42:57.000Z
+Summary: ❌ 0 - 28 **Mercury Sunset**
+date: 2025-04-01T11:09:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ ens
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1197)|
-| ELO Competitive | 1187 🔻  (884)|
-| Total Matches | 9 |
+| ELO Regular | 1147 🔻  (1206)|
+| ELO Competitive | 1186 🔻  (965)|
+| Total Matches | 10 |
 | Wins | 2 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742586177,1742153732,1739640935,1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
+        let timestamps = [1743073742,1742586177,1742153732,1739640935,1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/01 | 0-28 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2025/03/26 | 2-26 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ❌ | 2025/03/21 | 4-14 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2025/02/20 | 0-28 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -157,5 +158,5 @@ Corporation ID: a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743018177"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743505742"></span>
 </div>

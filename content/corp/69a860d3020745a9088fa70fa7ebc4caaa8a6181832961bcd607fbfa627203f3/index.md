@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的（分团）
-description: W:22 L:16 D:1 Bonus ✅ 34%
+description: W:22 L:16 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 12 - 3 **红日初升，其道大光**
 date: 2025-03-25T11:34:26.000Z
@@ -17,7 +17,7 @@ o华浩 QQ767311697
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
