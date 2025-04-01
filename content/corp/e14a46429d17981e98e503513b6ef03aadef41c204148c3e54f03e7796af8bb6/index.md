@@ -1,9 +1,9 @@
 ---
 title: ​Proxima
-description: W:0 L:3 D:0 Bonus ❌ 2%
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 1 - 3 **Red Star**
-date: 2025-03-26T19:37:56.000Z
+Summary: ❌ 0 - 45 **Osmium Star llc**
+date: 2025-04-01T18:03:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2025-03-26T19:37:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (984)|
-| ELO Competitive | 1180 🔻  (1079)|
-| Total Matches | 3 |
+| ELO Regular | 1166 🔻  (1068)|
+| ELO Competitive | 1175 🔻  (1116)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742585876,1742110149,1731322513];
+        let timestamps = [1743098582,1742585876,1742110149,1731322513];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/01 | 0-45 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ❌ | 2025/03/26 | 1-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/03/21 | 1-22 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/11/16 | 0-25 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
@@ -144,5 +145,5 @@ Corporation ID: e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743017876"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743530582"></span>
 </div>
