@@ -1,6 +1,6 @@
 ---
 title: ​清霄阁（防御协会）
-description: W:9 L:13 D:1 Bonus ✅ 32%
+description: W:9 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **Valholl**
 date: 2025-03-25T12:59:36.000Z
@@ -17,7 +17,7 @@ date: 2025-03-25T12:59:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

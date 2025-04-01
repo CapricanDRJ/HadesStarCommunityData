@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:2 L:2 D:0 Bonus ✅ 
+description: W:2 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 6 - 0 **羽共和体**
-date: 2025-04-01T11:37:17.000Z
+Summary: ❌ 3 - 15 **对，进就进人少的（分团）**
+date: 2025-04-01T14:02:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-01T11:37:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (483)|
+| ELO Regular | 1197 🔻  (566)|
 | ELO Competitive | 1223 🔺  (529)|
-| Total Matches | 4 |
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743075437,1742621938,1742608416,1742123973];
+        let timestamps = [1743084154,1743075437,1742621938,1742608416,1742123973];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/01 | 3-15 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/04/01 | 6-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2025/03/27 | 1-10 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2025/03/27 | 3-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -145,5 +146,5 @@ Corporation ID: 055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743507437"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743516154"></span>
 </div>

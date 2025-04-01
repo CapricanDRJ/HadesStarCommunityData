@@ -21,8 +21,8 @@ ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1441 🔻  (36)|
-| ELO Competitive | 1542 🔻  (49)|
+| ELO Regular | 1441 🔻  (35)|
+| ELO Competitive | 1542 🔻  (48)|
 | Total Matches | 68 |
 | Wins | 54 |
 | Losses | 14 |
