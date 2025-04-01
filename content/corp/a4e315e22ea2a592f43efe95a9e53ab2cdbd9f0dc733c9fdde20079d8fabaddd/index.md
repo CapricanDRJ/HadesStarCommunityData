@@ -1,6 +1,6 @@
 ---
 title: ​Battle Academy
-description: W:9 L:1 D:0 Bonus ✅ 34%
+description: W:9 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 34 - 0 **Октябристы**
 date: 2025-03-25T04:53:49.000Z
@@ -24,12 +24,12 @@ color=#111100><b></b></color>
 <br>
 
 ### [Discord](https://discord.gg/3A9WHQV)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1297 🔺  (183)|
-| ELO Competitive | 1324 🔺  (265)|
+| ELO Competitive | 1324 🔺  (266)|
 | Total Matches | 10 |
 | Wins | 9 |
 | Losses | 1 |

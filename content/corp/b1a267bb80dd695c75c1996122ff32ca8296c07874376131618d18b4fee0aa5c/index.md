@@ -1,9 +1,9 @@
 ---
 title: ​Bund von Lykon
-description: W:2 L:15 D:0 Bonus ❌ 6%
+description: W:2 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 31 **Halcon español**
-date: 2025-02-15T12:43:15.000Z
+Summary: ❌ 16 - 39 **AlSounT**
+date: 2025-04-01T04:16:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ wei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1065 🔻  (1411)|
-| ELO Competitive | 1119 🔻  (1408)|
-| Total Matches | 17 |
+| ELO Regular | 1058 🔻  (1418)|
+| ELO Competitive | 1113 🔻  (1421)|
+| Total Matches | 18 |
 | Wins | 2 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739191395,1734224984,1732012787,1731074313,1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
+        let timestamps = [1743048994,1739191395,1734224984,1732012787,1731074313,1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/01 | 16-39 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2025/02/15 | 0-31 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024/12/20 | 7-28 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/11/24 | 4-32 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
@@ -166,5 +167,5 @@ Corporation ID: b1a267bb80dd695c75c1996122ff32ca8296c07874376131618d18b4fee0aa5c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739623395"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743480994"></span>
 </div>
