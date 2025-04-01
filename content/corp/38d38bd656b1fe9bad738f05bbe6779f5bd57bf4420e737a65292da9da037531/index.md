@@ -1,6 +1,6 @@
 ---
 title: ​Lololol
-description: W:7 L:4 D:0 Bonus ✅ 
+description: W:7 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 6 **九州分团**
 date: 2025-03-30T03:51:30.000Z
@@ -15,12 +15,12 @@ date: 2025-03-30T03:51:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (304)|
-| ELO Competitive | 1268 🔻  (387)|
+| ELO Regular | 1241 🔻  (303)|
+| ELO Competitive | 1268 🔻  (388)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

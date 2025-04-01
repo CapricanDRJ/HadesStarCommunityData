@@ -1,6 +1,6 @@
 ---
 title: ​Created
-description: W:21 L:36 D:1 Bonus ✅ 38%
+description: W:21 L:36 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **拆迁大队**
 date: 2025-03-25T00:13:24.000Z
@@ -15,7 +15,7 @@ What a year….
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

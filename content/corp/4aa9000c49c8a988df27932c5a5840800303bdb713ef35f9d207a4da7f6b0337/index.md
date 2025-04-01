@@ -1,9 +1,9 @@
 ---
 title: ​The Gladiators
-description: W:1 L:5 D:1 Bonus ❌ 4%
+description: W:1 L:5 D:2 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **⭐PRETORIANS\.X⭐**
-date: 2025-03-23T23:26:12.000Z
+Summary: ↔️ 0 - 0 **РARADISЕ**
+date: 2025-03-31T23:11:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,12 +23,12 @@ White star every 2 weeks
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1233)|
-| ELO Competitive | 1152 🔺  (1322)|
-| Total Matches | 7 |
+| ELO Regular | 1147 🔺  (1209)|
+| ELO Competitive | 1158 🔺  (1288)|
+| Total Matches | 8 |
 | Wins | 1 |
 | Losses | 5 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 1 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742340372,1741738447,1741301394,1730506986,1709826432,1707569106,1707064428];
+        let timestamps = [1743030666,1742340372,1741738447,1741301394,1730506986,1709826432,1707569106,1707064428];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/03/31 | 0-0 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ↔️ | 2025/03/23 | 0-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/03/17 | 0-19 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/03/11 | 0-3 | [Azennor inc\.](https://ws.tsl.rocks/corp/b20eec58c56fcfae87efc51986817da9dca387c1c97cdf722432dfdf0e418050/) |
@@ -152,5 +153,5 @@ Corporation ID: 4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742772372"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743462666"></span>
 </div>

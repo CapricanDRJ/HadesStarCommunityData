@@ -1,6 +1,6 @@
 ---
 title: ​Crux Cadre
-description: W:38 L:39 D:2 Bonus ✅ 48%
+description: W:38 L:39 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 34 - 0 **Game of Stars**
 date: 2025-03-24T23:08:19.000Z
@@ -18,7 +18,7 @@ e run with us! Say hi on Discord!
 <br>
 
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

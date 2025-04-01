@@ -1,9 +1,9 @@
 ---
 title: ​新星汇聚
-description: W:8 L:8 D:0 Bonus ❌ 6%
+description: W:9 L:8 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 3 - 24 **White Dwarf**
-date: 2025-03-10T18:29:14.000Z
+Summary: ✅ 15 - 6 **First Legion**
+date: 2025-03-31T23:31:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 2025-03-10T18:29:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (491)|
-| ELO Competitive | 1262 🔻  (406)|
-| Total Matches | 16 |
-| Wins | 8 |
+| ELO Regular | 1215 🔺  (426)|
+| ELO Competitive | 1274 🔺  (373)|
+| Total Matches | 17 |
+| Wins | 9 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741199354,1740902769,1740745592,1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
+        let timestamps = [1743031868,1741199354,1740902769,1740745592,1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/03/31 | 15-6 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2025/03/10 | 3-24 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2025/03/07 | 0-5 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/03/05 | 3-12 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
@@ -161,5 +162,5 @@ Corporation ID: 7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741631354"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743463868"></span>
 </div>
