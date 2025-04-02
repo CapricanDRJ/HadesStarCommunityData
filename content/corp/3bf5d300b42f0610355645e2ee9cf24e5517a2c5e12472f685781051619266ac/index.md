@@ -1,6 +1,6 @@
 ---
 title: ​Sprite
-description: W:32 L:10 D:1 Bonus ✅ 38%
+description: W:32 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 35 - 1 **Galaxians**
 date: 2025-03-26T16:12:32.000Z
@@ -18,7 +18,7 @@ a. Nuestra filosofía: unidos somos invencibles.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

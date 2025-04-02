@@ -1,9 +1,9 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:23 L:8 D:0 Bonus ✅ 34%
+description: W:24 L:8 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 14 - 10 **星落苑**
-date: 2025-04-02T11:44:46.000Z
+Summary: ✅ 6 - 0 **阿尔特拉太空港**
+date: 2025-04-02T17:15:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,13 @@ date: 2025-04-02T11:44:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (146)|
+| ELO Regular | 1330 🔺  (134)|
 | ELO Competitive | 1401 🔺  (161)|
-| Total Matches | 31 |
-| Wins | 23 |
+| Total Matches | 32 |
+| Wins | 24 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 2 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743162286,1742648687,1741866144,1741849619,1741217686,1740902769,1740756413,1740185173,1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1743182126,1743162286,1742648687,1741866144,1741849619,1741217686,1740902769,1740756413,1740185173,1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/02 | 6-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2025/04/02 | 14-10 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2025/03/27 | 0-33 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/03/18 | 6-3 | [Azennor inc\.](https://ws.tsl.rocks/corp/b20eec58c56fcfae87efc51986817da9dca387c1c97cdf722432dfdf0e418050/) |
@@ -174,5 +176,5 @@ Corporation ID: 40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743594286"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743614126"></span>
 </div>
