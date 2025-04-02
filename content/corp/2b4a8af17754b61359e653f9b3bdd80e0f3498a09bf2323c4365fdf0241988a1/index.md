@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的
-description: W:65 L:62 D:4 Bonus ✅ 42%
+description: W:65 L:62 D:4 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 39 **DarkMoon**
 date: 2025-04-02T04:49:05.000Z
@@ -18,7 +18,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 <br>
 
 ### [Discord](https://discord.gg/dqW4bytGPe)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​德意志阿尔法帝国
-description: W:1 L:2 D:0 Bonus ❌ 3%
+description: W:1 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **Anarchy Nation **
-date: 2024-08-05T00:00:17.000Z
+Summary: ↔️ 0 - 0 **宇宙联盟（中国）**
+date: 2025-04-02T09:00:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2024-08-05T00:00:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (654)|
-| ELO Competitive | 1190 🔻  (819)|
-| Total Matches | 3 |
+| ELO Regular | 1191 🔺  (626)|
+| ELO Competitive | 1195 🔺  (746)|
+| Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 2 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722384017,1718816520,1718149733];
+        let timestamps = [1743152426,1722384017,1718816520,1718149733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/02 | 0-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2024/08/05 | 0-10 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 | ❌ | 2024/06/24 | 0-11 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024/06/16 | 18-0 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) |
@@ -144,5 +145,5 @@ Corporation ID: b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1722816017"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743584426"></span>
 </div>
