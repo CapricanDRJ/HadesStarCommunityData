@@ -1,6 +1,6 @@
 ---
 title: ​Croce del Sud
-description: W:17 L:13 D:0 Bonus ✅ 36%
+description: W:17 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 30 - 7 **Stone Legion**
 date: 2025-03-26T06:36:28.000Z
@@ -18,11 +18,11 @@ date: 2025-03-26T06:36:28.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (285)|
+| ELO Regular | 1247 🔺  (284)|
 | ELO Competitive | 1304 🔺  (307)|
 | Total Matches | 30 |
 | Wins | 17 |

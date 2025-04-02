@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-04-02T03:55:09.196Z
+date: 2025-04-02T06:55:08.903Z
 summary: "Corporation directory"
 ---
 
@@ -96,7 +96,7 @@ summary: "Corporation directory"
 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 1356 | 1410 | 22 |
 | [BLOK EKIPA](https://ws.tsl.rocks/corp/b52b3a9c372aec6edf23c2fe617847cf4772d46976f5828c415089f5ae0bbcdd/) | 1147 | 1153 | 3 |
 | [Blood Brigade](https://ws.tsl.rocks/corp/ce89aabee19fb85413de6412017d664476f90eef8c162ac415b289797bc770b6/) | 1195 | 1196 | 1 |
-| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1460 | 1710 | 129 |
+| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1481 | 1723 | 130 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1116 | 1306 | 91 |
 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) | 1242 | 1284 | 9 |
 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) | 1194 | 1213 | 9 |
@@ -201,7 +201,7 @@ summary: "Corporation directory"
 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) | 1344 | 1418 | 39 |
 | [Dark Unit](https://ws.tsl.rocks/corp/9f0f70994182aca13b85f14553c52c7d2bedd5633ec743ba711e5ef83d775f91/) | 1214 | 1216 | 1 |
 | [Darkest Hour](https://ws.tsl.rocks/corp/0e253fa2fd0fda884dc5576e478434ebac89a568cb59a79a3ce94fa4b067dfc9/) | 1185 | 1198 | 3 |
-| [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) | 1418 | 1485 | 44 |
+| [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) | 1405 | 1500 | 46 |
 | [Darknova](https://ws.tsl.rocks/corp/2badefc535747c4b2d431ed2e3d48983575a349ac4d5c361576a24521b0accf7/) | 1185 | 1185 | 1 |
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1092 | 1361 | 125 |
 | [DarkSide](https://ws.tsl.rocks/corp/557178dd3a3d43ff1751021bfc2d8c1d4261336a45f90d392f3dd275d8a0a941/) | 1149 | 1170 | 4 |
@@ -299,7 +299,7 @@ summary: "Corporation directory"
 | [Flying Dutchmen](https://ws.tsl.rocks/corp/e126d655a5f207a8e5158d2bb309cc9d201ad47a85fa874c02ea6bd28cf49c51/) | 1189 | 1190 | 1 |
 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) | 1282 | 1315 | 25 |
 | [Foreshadowing](https://ws.tsl.rocks/corp/109b8b1b0a582211a19360109ebb1dcba3cff07d735912db43ef6e8a7177d6e9/) | 1176 | 1176 | 2 |
-| [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) | 1217 | 1237 | 16 |
+| [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) | 1240 | 1261 | 17 |
 | [Fr\_Corp](https://ws.tsl.rocks/corp/15cb64e65ca36cfe0587e97943f7949ab81e724a438ff9d31bd466d55199f8da/) | 1186 | 1186 | 1 |
 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) | 1410 | 1425 | 21 |
 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) | 1141 | 1186 | 14 |
@@ -558,7 +558,7 @@ summary: "Corporation directory"
 | [Next Hyperion](https://ws.tsl.rocks/corp/a18302feedfddd2a6e918dd649a70ac1c2bd249622dbfc3a3c04c06ca8adaa22/) | 1168 | 1172 | 8 |
 | [Nightmares ](https://ws.tsl.rocks/corp/3f3ee2092ce10bb26d48aebec84860645a59d9e7f80c3ca4908edf6eed5c0d0d/) | 1171 | 1172 | 2 |
 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 1135 | 1227 | 74 |
-| [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) | 1591 | 1679 | 79 |
+| [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) | 1571 | 1665 | 80 |
 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) | 1286 | 1331 | 30 |
 | [Noble](https://ws.tsl.rocks/corp/a743363bbba6a586851cfc2a6c1a567bb1b122f6516757c4f75ed5184a177caf/) | 1171 | 1171 | 4 |
 | [Nodens Provisio](https://ws.tsl.rocks/corp/fddc11923365fd1df7f756374f94f8fc2aa3fbcfaaaa82b00f5544e4b55a6c5e/) | 1182 | 1187 | 1 |
@@ -1298,7 +1298,7 @@ summary: "Corporation directory"
 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) | 1215 | 1215 | 1 |
 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) | 1300 | 1371 | 39 |
 | [宇氏集团](https://ws.tsl.rocks/corp/80315b4e1e3c22c7a5770a4fe63dd861fc3586e2d538f585b2aa8feb8f009713/) | 1174 | 1174 | 2 |
-| [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 1253 | 1496 | 130 |
+| [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 1244 | 1497 | 131 |
 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) | 1286 | 1342 | 40 |
 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) | 1125 | 1144 | 9 |
 | [小宇宙研究会](https://ws.tsl.rocks/corp/61992de1d0e2d076e6605b47342a479c71b61d3811df514bbd1d5c5128e17203/) | 1180 | 1183 | 3 |

@@ -1,9 +1,9 @@
 ---
 title: ​FoxTale
-description: W:8 L:7 D:1 Bonus ❌ 6%
+description: W:9 L:7 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **Alpha to Omega**
-date: 2025-03-26T01:51:01.000Z
+Summary: ✅ 7 - 6 **DarkMoon**
+date: 2025-04-02T04:49:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (412)|
-| ELO Competitive | 1237 🔻  (482)|
-| Total Matches | 16 |
-| Wins | 8 |
+| ELO Regular | 1240 🔺  (312)|
+| ELO Competitive | 1261 🔺  (409)|
+| Total Matches | 17 |
+| Wins | 9 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742521861,1741910619,1741301519,1740700523,1740215011,1739659568,1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
+        let timestamps = [1743137345,1742521861,1741910619,1741301519,1740700523,1740215011,1739659568,1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/02 | 7-6 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/03/26 | 0-2 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2025/03/19 | 0-4 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2025/03/11 | 11-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
@@ -162,5 +163,5 @@ Corporation ID: 5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742953861"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743569345"></span>
 </div>
