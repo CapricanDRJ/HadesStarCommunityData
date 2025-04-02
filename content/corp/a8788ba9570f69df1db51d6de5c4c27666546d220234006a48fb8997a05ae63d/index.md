@@ -1,9 +1,9 @@
 ---
 title: ​47підрозділССП
-description: W:15 L:4 D:0 Bonus ✅ 
+description: W:16 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 45 - 34 **9\-Й СКОРПИОН**
-date: 2025-03-27T19:45:35.000Z
+Summary: ✅ 18 - 4 **Star Destroyers**
+date: 2025-04-02T00:03:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-27T19:45:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1369 🔺  (89)|
-| ELO Competitive | 1428 🔺  (133)|
-| Total Matches | 19 |
-| Wins | 15 |
+| ELO Regular | 1377 🔺  (84)|
+| ELO Competitive | 1437 🔺  (126)|
+| Total Matches | 20 |
+| Wins | 16 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742672735,1742221640,1741789524,1741327956,1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1743120222,1742672735,1742221640,1741789524,1741327956,1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/02 | 18-4 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2025/03/27 | 45-34 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2025/03/22 | 16-3 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2025/03/17 | 23-5 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
@@ -167,5 +168,5 @@ Corporation ID: a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743104735"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743552222"></span>
 </div>

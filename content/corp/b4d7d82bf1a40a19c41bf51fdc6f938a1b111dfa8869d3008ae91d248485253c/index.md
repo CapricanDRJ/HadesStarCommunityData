@@ -1,9 +1,9 @@
 ---
 title: ​骊珠洞天
-description: W:3 L:4 D:0 Bonus ✅ 
+description: W:4 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 10 **星域 **
-date: 2025-04-01T05:49:19.000Z
+Summary: ✅ 16 - 4 **Untitled**
+date: 2025-04-01T23:58:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-01T05:49:19.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (903)|
-| ELO Competitive | 1230 🔻  (502)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1196 🔺  (573)|
+| ELO Competitive | 1256 🔺  (426)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743054559,1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
+        let timestamps = [1743119921,1743054559,1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/01 | 16-4 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 | ❌ | 2025/04/01 | 0-10 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ✅ | 2025/03/26 | 14-0 | [Space Force](https://ws.tsl.rocks/corp/3b211025fcbe576d520e8578c3401eada522804972c60553a3e2d04224fcb214/) |
 | ❌ | 2025/03/26 | 0-18 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
@@ -155,5 +156,5 @@ Corporation ID: b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743486559"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743551921"></span>
 </div>
