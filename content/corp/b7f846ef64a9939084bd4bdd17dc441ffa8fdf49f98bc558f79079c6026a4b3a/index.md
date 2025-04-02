@@ -24,8 +24,8 @@ discord code:  5xKBwEFxeD
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (794)|
-| ELO Competitive | 1185 🔻  (980)|
+| ELO Regular | 1185 🔻  (795)|
+| ELO Competitive | 1185 🔻  (981)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

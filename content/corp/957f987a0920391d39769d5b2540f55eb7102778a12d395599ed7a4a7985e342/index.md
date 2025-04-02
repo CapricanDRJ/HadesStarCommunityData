@@ -1,6 +1,6 @@
 ---
 title: ​Stellaris
-description: W:5 L:12 D:1 Bonus ✅ 38%
+description: W:5 L:12 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 11 - 6 **AlSounT**
 date: 2025-03-26T15:17:24.000Z
@@ -15,12 +15,12 @@ N'hésitez pas à venir discuter ou poser vos questions
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔺  (1092)|
-| ELO Competitive | 1195 🔺  (747)|
+| ELO Competitive | 1195 🔺  (748)|
 | Total Matches | 18 |
 | Wins | 5 |
 | Losses | 12 |
