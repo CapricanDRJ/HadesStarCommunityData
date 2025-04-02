@@ -1,6 +1,6 @@
 ---
 title: ​Sons of Liberty
-description: W:8 L:1 D:0 Bonus ✅ 36%
+description: W:8 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 25 - 5 **U\.S\.A**
 date: 2025-03-26T21:23:09.000Z
@@ -18,7 +18,7 @@ Discord mandatory - join at the link below ↓
 <br>
 
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
