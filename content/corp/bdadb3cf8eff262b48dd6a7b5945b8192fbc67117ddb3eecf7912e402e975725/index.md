@@ -1,6 +1,6 @@
 ---
 title: ​Eretria 
-description: W:36 L:42 D:1 Bonus ✅ 38%
+description: W:36 L:42 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **超越声速**
 date: 2025-03-26T01:51:01.000Z
@@ -18,7 +18,7 @@ uld be an Honor that you would join us! >=)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

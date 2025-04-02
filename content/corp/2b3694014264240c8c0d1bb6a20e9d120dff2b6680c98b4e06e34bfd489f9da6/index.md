@@ -1,6 +1,6 @@
 ---
 title: ​Alpha to Omega
-description: W:5 L:8 D:2 Bonus ✅ 30%
+description: W:5 L:8 D:2 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **FoxTale**
 date: 2025-03-26T01:51:01.000Z
@@ -16,7 +16,7 @@ Start here. Figure things out. Have fun.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
