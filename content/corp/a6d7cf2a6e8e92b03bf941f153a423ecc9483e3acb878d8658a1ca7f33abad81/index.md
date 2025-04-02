@@ -22,7 +22,7 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (309)|
+| ELO Regular | 1240 🔻  (311)|
 | ELO Competitive | 1282 🔻  (356)|
 | Total Matches | 24 |
 | Wins | 14 |

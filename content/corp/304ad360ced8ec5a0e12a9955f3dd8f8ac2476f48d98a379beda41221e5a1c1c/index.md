@@ -1,6 +1,6 @@
 ---
 title: ​Stardust
-description: W:4 L:18 D:1 Bonus ✅ 32%
+description: W:4 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 8 **Glashan**
 date: 2025-03-26T10:06:48.000Z
@@ -17,12 +17,12 @@ me.
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1114 🔺  (1341)|
-| ELO Competitive | 1165 🔺  (1240)|
+| ELO Competitive | 1165 🔺  (1239)|
 | Total Matches | 23 |
 | Wins | 4 |
 | Losses | 18 |

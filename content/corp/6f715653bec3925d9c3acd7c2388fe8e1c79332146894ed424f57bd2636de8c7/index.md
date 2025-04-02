@@ -1,9 +1,9 @@
 ---
 title: ​Mass Effect
-description: W:36 L:30 D:1 Bonus ❌ 9%
+description: W:36 L:31 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 9 - 17 **中国星际联盟**
-date: 2025-03-25T04:33:47.000Z
+Summary: ❌ 15 - 18 **Curiosity \+ Cat**
+date: 2025-04-02T11:24:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Just come and play to the rules!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (234)|
-| ELO Competitive | 1361 🔻  (207)|
-| Total Matches | 67 |
+| ELO Regular | 1252 🔻  (270)|
+| ELO Competitive | 1344 🔻  (229)|
+| Total Matches | 68 |
 | Wins | 36 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742445227,1741766385,1741150375,1740443600,1739884940,1739135811,1738558229,1737799736,1737362219,1736640058,1735933166,1734745999,1734162780,1733573239,1732779354,1732012787,1731477906,1730772028,1730133172,1729580850,1728802183,1728182775,1727680901,1727051976,1726471215,1725486168,1724843999,1723717372,1723008773,1722183275,1721233640,1720720905,1720139986,1719662750,1719101106,1718589033,1718112857,1717345853,1716784417,1716210835,1715653504,1715116296,1714520383,1713835932,1713240434,1712620859,1711937563,1711326396,1710632600,1709970959,1709507044,1708933412,1708388026,1707871467,1707346952,1706563661,1706055490,1705454759,1704930971,1704459755,1703856322,1703199386,1702510059,1701887921,1700262267,1699663481,1698935023];
+        let timestamps = [1743161084,1742445227,1741766385,1741150375,1740443600,1739884940,1739135811,1738558229,1737799736,1737362219,1736640058,1735933166,1734745999,1734162780,1733573239,1732779354,1732012787,1731477906,1730772028,1730133172,1729580850,1728802183,1728182775,1727680901,1727051976,1726471215,1725486168,1724843999,1723717372,1723008773,1722183275,1721233640,1720720905,1720139986,1719662750,1719101106,1718589033,1718112857,1717345853,1716784417,1716210835,1715653504,1715116296,1714520383,1713835932,1713240434,1712620859,1711937563,1711326396,1710632600,1709970959,1709507044,1708933412,1708388026,1707871467,1707346952,1706563661,1706055490,1705454759,1704930971,1704459755,1703856322,1703199386,1702510059,1701887921,1700262267,1699663481,1698935023];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 0 | 2 | 0 | 2 |
 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 1 | 1 | 0 | 2 |
 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 2 | 0 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/02 | 15-18 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ❌ | 2025/03/25 | 9-17 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2025/03/17 | 23-17 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2025/03/10 | 14-18 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
@@ -223,5 +225,5 @@ Corporation ID: 6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742877227"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743593084"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Crastorios
-description: W:0 L:3 D:0 Bonus ❌ 
+description: W:0 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 9 **💮問鼎無垠💮**
-date: 2025-03-26T01:36:00.000Z
+Summary: ❌ 4 - 5 **星瀚协议**
+date: 2025-04-02T10:29:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-26T01:36:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1096)|
-| ELO Competitive | 1167 🔻  (1218)|
-| Total Matches | 3 |
+| ELO Regular | 1149 🔻  (1199)|
+| ELO Competitive | 1153 🔻  (1314)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742520960,1741983335,1741513306];
+        let timestamps = [1743157778,1742520960,1741983335,1741513306];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/02 | 4-5 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ❌ | 2025/03/26 | 0-9 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/03/19 | 0-2 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ❌ | 2025/03/14 | 1-2 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
@@ -144,5 +145,5 @@ Corporation ID: cf8e92451d31be30383d7359e1e2095ccb8e0c4afe78451b4fd39cb4dab1f3e0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742952960"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743589778"></span>
 </div>

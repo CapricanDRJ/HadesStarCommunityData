@@ -1,6 +1,6 @@
 ---
 title: ​Red Dawn
-description: W:50 L:29 D:2 Bonus ✅ 44%
+description: W:50 L:29 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 34 - 11 **ДИВЕРСАНТЫ**
 date: 2025-03-26T10:46:52.000Z
@@ -19,7 +19,7 @@ date: 2025-03-26T10:46:52.000Z
 <br>
 
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
