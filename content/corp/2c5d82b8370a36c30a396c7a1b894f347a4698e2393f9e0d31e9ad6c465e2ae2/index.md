@@ -20,7 +20,7 @@ Anyone who wants can join.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (690)|
+| ELO Regular | 1187 🔺  (691)|
 | ELO Competitive | 1197 🔺  (735)|
 | Total Matches | 10 |
 | Wins | 4 |

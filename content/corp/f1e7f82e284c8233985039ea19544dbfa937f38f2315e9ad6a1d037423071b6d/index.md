@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:21 L:10 D:0 Bonus ✅ 34%
+description: W:21 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 18 - 3 **푸르미르**
 date: 2025-03-27T12:24:42.000Z
@@ -16,7 +16,7 @@ date: 2025-03-27T12:24:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
