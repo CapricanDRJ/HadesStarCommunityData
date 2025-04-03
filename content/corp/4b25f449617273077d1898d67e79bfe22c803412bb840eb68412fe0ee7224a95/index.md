@@ -1,6 +1,6 @@
 ---
 title: ​国际联盟
-description: W:20 L:14 D:0 Bonus ✅ 34%
+description: W:20 L:14 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **斯比纳兰**
 date: 2025-03-27T03:43:47.000Z
@@ -16,11 +16,11 @@ date: 2025-03-27T03:43:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (379)|
+| ELO Regular | 1224 🔺  (378)|
 | ELO Competitive | 1361 🔺  (207)|
 | Total Matches | 34 |
 | Wins | 20 |

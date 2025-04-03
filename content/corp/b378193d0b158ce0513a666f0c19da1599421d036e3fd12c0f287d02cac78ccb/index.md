@@ -1,6 +1,6 @@
 ---
 title: ​StargateCommand
-description: W:2 L:20 D:2 Bonus ✅ 30%
+description: W:2 L:20 D:2 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **Gamma Nation**
 date: 2025-03-27T02:48:07.000Z
@@ -17,7 +17,7 @@ FF WS scanner if unable to participate.
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

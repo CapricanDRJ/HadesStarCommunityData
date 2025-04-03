@@ -1,6 +1,6 @@
 ---
 title: ​Greek Warriors
-description: W:14 L:32 D:1 Bonus ✅ 34%
+description: W:14 L:32 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 17 - 0 **King's Guard**
 date: 2025-03-27T03:38:46.000Z
@@ -18,7 +18,7 @@ https://discord.gg/DDhaupc
 <br>
 
 ### [Discord](https://discord.gg/DDhaupc)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
