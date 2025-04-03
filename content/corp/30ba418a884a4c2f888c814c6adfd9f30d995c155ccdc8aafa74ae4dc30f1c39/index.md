@@ -1,9 +1,9 @@
 ---
 title: ​titan tv
-description: W:9 L:23 D:2 Bonus ❌ 6%
+description: W:9 L:24 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **\*Alfa y Omega\***
-date: 2025-03-28T02:21:16.000Z
+Summary: ❌ 3 - 11 **泰拉瑞亚**
+date: 2025-04-03T16:33:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ guarida del titan tv
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔻  (1379)|
-| ELO Competitive | 1190 🔻  (826)|
-| Total Matches | 34 |
+| ELO Regular | 1082 🔻  (1395)|
+| ELO Competitive | 1174 🔻  (1133)|
+| Total Matches | 35 |
 | Wins | 9 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742696476,1741907015,1718552071,1714948658,1713465492,1713463088,1713029793,1712522301,1712022601,1711564060,1711556848,1711119951,1711119951,1710659134,1710649725,1710195122,1710180998,1709703243,1709703243,1709153823,1709151871,1708716762,1708680097,1708229356,1707797041,1707795437,1707362273,1707225490,1706929981,1706724734,1706469897,1706284173,1706037759,1705595994];
+        let timestamps = [1743266019,1742696476,1741907015,1718552071,1714948658,1713465492,1713463088,1713029793,1712522301,1712022601,1711564060,1711556848,1711119951,1711119951,1710659134,1710649725,1710195122,1710180998,1709703243,1709703243,1709153823,1709151871,1708716762,1708680097,1708229356,1707797041,1707795437,1707362273,1707225490,1706929981,1706724734,1706469897,1706284173,1706037759,1705595994];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/03 | 3-11 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ❌ | 2025/03/28 | 0-5 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ↔️ | 2025/03/18 | 3-3 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/06/21 | 4-0 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) |
@@ -182,5 +183,5 @@ Corporation ID: 30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743128476"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743698019"></span>
 </div>

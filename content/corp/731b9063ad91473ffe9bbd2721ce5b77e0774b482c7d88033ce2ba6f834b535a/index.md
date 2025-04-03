@@ -1,9 +1,9 @@
 ---
 title: ​pérola negra 
-description: W:0 L:3 D:1 Bonus ❌ 
+description: W:0 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 13 **V0RTEX**
-date: 2025-03-13T17:41:22.000Z
+Summary: ❌ 1 - 10 **U\.P\.E**
+date: 2025-04-03T16:13:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-13T17:41:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1068)|
-| ELO Competitive | 1172 🔻  (1170)|
-| Total Matches | 4 |
+| ELO Regular | 1152 🔻  (1186)|
+| ELO Competitive | 1157 🔻  (1298)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741455682,1736683331,1736210051,1735742349];
+        let timestamps = [1743264786,1741455682,1736683331,1736210051,1735742349];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/03 | 1-10 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ❌ | 2025/03/13 | 0-13 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ↔️ | 2025/01/17 | 0-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ❌ | 2025/01/12 | 0-20 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
@@ -145,5 +146,5 @@ Corporation ID: 731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741887682"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743696786"></span>
 </div>

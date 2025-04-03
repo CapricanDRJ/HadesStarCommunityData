@@ -1,6 +1,6 @@
 ---
 title: ​仙女座星雲
-description: W:94 L:65 D:4 Bonus ✅ 50%
+description: W:94 L:65 D:4 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 1 - 51 **IX Легион**
 date: 2025-03-29T06:19:14.000Z
@@ -30,7 +30,7 @@ B站d音搜：仙女座星雲土豆
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​" Возрождение "
-description: W:17 L:2 D:0 Bonus ❌ 8%
+description: W:18 L:2 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 9 - 37 **BrinySeal**
-date: 2025-03-21T07:44:11.000Z
+Summary: ✅ 39 - 1 **Lacuna X**
+date: 2025-04-03T17:33:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ date: 2025-03-21T07:44:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔻  (94)|
-| ELO Competitive | 1432 🔻  (130)|
-| Total Matches | 19 |
-| Wins | 17 |
+| ELO Regular | 1387 🔺  (76)|
+| ELO Competitive | 1454 🔺  (110)|
+| Total Matches | 20 |
+| Wins | 18 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 10 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742111051,1740478150,1739850687,1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
+        let timestamps = [1743269597,1742111051,1740478150,1739850687,1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/03 | 39-1 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2025/03/21 | 9-37 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2025/03/02 | 35-2 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ✅ | 2025/02/23 | 37-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
@@ -166,5 +167,5 @@ Corporation ID: 4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742543051"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743701597"></span>
 </div>

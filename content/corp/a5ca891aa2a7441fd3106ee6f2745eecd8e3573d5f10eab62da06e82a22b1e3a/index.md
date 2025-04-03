@@ -1,9 +1,9 @@
 ---
 title: ​泰拉瑞亚
-description: W:1 L:3 D:0 Bonus ❌ 4%
+description: W:2 L:3 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 2 - 12 **Hades’ galaxy**
-date: 2025-03-29T13:09:55.000Z
+Summary: ✅ 11 - 3 **titan tv**
+date: 2025-04-03T16:33:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 2025-03-29T13:09:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (1042)|
-| ELO Competitive | 1175 🔻  (1129)|
-| Total Matches | 4 |
-| Wins | 1 |
+| ELO Regular | 1181 🔺  (903)|
+| ELO Competitive | 1190 🔺  (819)|
+| Total Matches | 5 |
+| Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742821795,1742389327,1709172001,1699838615];
+        let timestamps = [1743266019,1742821795,1742389327,1709172001,1699838615];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/03 | 11-3 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2025/03/29 | 2-12 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ❌ | 2025/03/24 | 4-9 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/03/05 | 0-2 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
@@ -146,5 +147,5 @@ Corporation ID: a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743253795"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743698019"></span>
 </div>
