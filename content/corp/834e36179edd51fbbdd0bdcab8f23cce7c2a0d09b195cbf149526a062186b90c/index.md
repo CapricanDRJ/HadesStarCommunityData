@@ -23,7 +23,7 @@ i udostępnić lepsze artefakty.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (903)|
-| ELO Competitive | 1186 🔻  (969)|
+| ELO Competitive | 1186 🔻  (970)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

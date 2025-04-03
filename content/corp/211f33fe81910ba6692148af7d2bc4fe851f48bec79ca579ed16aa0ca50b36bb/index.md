@@ -22,7 +22,7 @@ Interested in our alliance RSR?  Discord   Link below
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (351)|
+| ELO Regular | 1230 🔻  (349)|
 | ELO Competitive | 1256 🔻  (427)|
 | Total Matches | 22 |
 | Wins | 13 |

@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-04-03T06:55:09.517Z
+date: 2025-04-03T09:55:08.830Z
 summary: "Corporation directory"
 ---
 
@@ -1224,7 +1224,7 @@ summary: "Corporation directory"
 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1447 | 1525 | 63 |
 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) | 1148 | 1161 | 20 |
 | [专业间谍团队](https://ws.tsl.rocks/corp/2e93c453822c84d64bf8ae81e68d3dee1ed7832ee77b50dd8762a572432896ad/) | 1193 | 1194 | 1 |
-| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 898 | 1176 | 169 |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 924 | 1203 | 170 |
 | [中华人民共和国](https://ws.tsl.rocks/corp/ab0082c93c1e794e28a2fa7200079d42ee3bbc96a1aa1cc322cf1ad12404867c/) | 1160 | 1162 | 3 |
 | [中团一建](https://ws.tsl.rocks/corp/3c82f48d57e8ce1b8fa5b4bc7b22c7e2dafa9a227fa0ab95f1ccb95bd1994f6b/) | 1216 | 1217 | 1 |
 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) | 1242 | 1252 | 9 |
@@ -1335,7 +1335,7 @@ summary: "Corporation directory"
 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) | 1124 | 1165 | 15 |
 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) | 1162 | 1178 | 8 |
 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) | 1386 | 1639 | 99 |
-| [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) | 1239 | 1373 | 56 |
+| [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) | 1222 | 1351 | 57 |
 | [星光滨岸](https://ws.tsl.rocks/corp/75dfe9299a63edce44f4604dc0bbe19eca157df4838e6e3a46621b7f14a89c39/) | 1159 | 1161 | 3 |
 | [星光禁卫](https://ws.tsl.rocks/corp/8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25/) | 1137 | 1142 | 11 |
 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) | 1204 | 1212 | 6 |
@@ -1344,7 +1344,7 @@ summary: "Corporation directory"
 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) | 1418 | 1525 | 48 |
 | [星海共同体](https://ws.tsl.rocks/corp/8716d843d76ec96cdd36cd0de81fbfca825b2ca4195be28dd27973962e1a0e7e/) | 1185 | 1185 | 1 |
 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) | 1267 | 1375 | 41 |
-| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 1182 | 1211 | 7 |
+| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 1199 | 1219 | 8 |
 | [星环\-星际联盟](https://ws.tsl.rocks/corp/701b2b79715c2d2f9e2cc4c51d16c7e1b2aa2f549955e7191269f81327a78eeb/) | 1186 | 1187 | 1 |
 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) | 1221 | 1242 | 19 |
 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) | 1252 | 1273 | 14 |
@@ -1366,7 +1366,7 @@ summary: "Corporation directory"
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1073 | 1199 | 38 |
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1177 | 1183 | 4 |
 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80/) | 1186 | 1189 | 1 |
-| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1249 | 1529 | 120 |
+| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1222 | 1502 | 121 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1321 | 1384 | 18 |
 | [柯伊伯带试炼塔](https://ws.tsl.rocks/corp/dde335e4db20006ce28e1c1cf1cf3bbe510a97c5915b67cb2e31400e98291ca1/) | 1118 | 1135 | 4 |
 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) | 1180 | 1190 | 6 |

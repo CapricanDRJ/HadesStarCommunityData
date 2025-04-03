@@ -2,7 +2,7 @@
 layout: page
 title: Average Relics
 description: Hades' Star top corporations by average relics per match (only corporations with >5 matches)
-date: 2025-04-03T06:55:09.066Z
+date: 2025-04-03T09:55:08.393Z
 permalink: /avgrelics/
 searchHidden: true
 ---
@@ -173,8 +173,8 @@ searchHidden: true
 | 162 | [CommCody & LPA](https://ws.tsl.rocks/corp/211f33fe81910ba6692148af7d2bc4fe851f48bec79ca579ed16aa0ca50b36bb) | 19.18|
 | 163 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77) | 19.18|
 | 164 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e) | 19.07|
-| 165 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0) | 19.07|
-| 166 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396) | 19.05|
+| 165 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396) | 19.05|
+| 166 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0) | 18.91|
 | 167 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97) | 18.88|
 | 168 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477) | 18.83|
 | 169 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908) | 18.82|

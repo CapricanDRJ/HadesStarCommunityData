@@ -23,8 +23,8 @@ https://discord.gg/pUXrxxt
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (883)|
-| ELO Competitive | 1183 🔻  (1053)|
+| ELO Regular | 1183 🔻  (884)|
+| ELO Competitive | 1183 🔻  (1054)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
