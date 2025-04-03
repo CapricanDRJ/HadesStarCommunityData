@@ -1,9 +1,9 @@
 ---
 title: ​最后的希望
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 15 **阿尔特拉太空港**
-date: 2025-03-27T14:44:59.000Z
+Summary: ✅ 3 - 0 **水晶星际集团**
+date: 2025-04-03T13:18:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-27T14:44:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (773)|
-| ELO Competitive | 1189 🔻  (843)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1196 🔺  (571)|
+| ELO Competitive | 1203 🔺  (677)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742654699];
+        let timestamps = [1743254330,1742654699];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/03 | 3-0 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2025/03/27 | 0-15 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743086699"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743686330"></span>
 </div>

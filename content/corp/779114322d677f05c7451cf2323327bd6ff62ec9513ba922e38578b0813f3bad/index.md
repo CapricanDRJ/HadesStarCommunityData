@@ -1,6 +1,6 @@
 ---
 title: ​Red Star
-description: W:20 L:18 D:2 Bonus ✅ 34%
+description: W:20 L:18 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 2 - 16 **2ND\-R8 Corp\.**
 date: 2025-04-02T22:00:59.000Z
@@ -15,7 +15,7 @@ date: 2025-04-02T22:00:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
