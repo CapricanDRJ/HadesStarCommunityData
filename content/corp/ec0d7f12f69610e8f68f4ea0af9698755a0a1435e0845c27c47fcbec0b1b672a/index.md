@@ -1,6 +1,6 @@
 ---
 title: ​星河绮梦
-description: W:40 L:8 D:0 Bonus ✅ 36%
+description: W:40 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 3 **hades star萌新指引站**
 date: 2025-04-01T13:22:29.000Z
@@ -26,7 +26,7 @@ QQ群：131920392
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

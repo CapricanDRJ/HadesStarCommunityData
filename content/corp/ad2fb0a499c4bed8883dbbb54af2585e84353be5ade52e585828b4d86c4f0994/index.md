@@ -1,6 +1,6 @@
 ---
 title: ​DINASTÍA SOLAR
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 8 - 1 **星河绮梦**
 date: 2025-03-27T06:12:22.000Z
@@ -15,7 +15,7 @@ date: 2025-03-27T06:12:22.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

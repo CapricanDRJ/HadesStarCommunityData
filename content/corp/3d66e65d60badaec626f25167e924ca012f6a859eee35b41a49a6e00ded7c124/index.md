@@ -1,6 +1,6 @@
 ---
 title: ​G.02
-description: W:2 L:2 D:0 Bonus ✅ 
+description: W:2 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 0 **BAB**
 date: 2025-03-27T05:23:09.000Z
@@ -15,7 +15,7 @@ date: 2025-03-27T05:23:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

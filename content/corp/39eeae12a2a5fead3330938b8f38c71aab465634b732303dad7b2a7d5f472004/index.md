@@ -1,6 +1,6 @@
 ---
 title: ​Север РусКорп
-description: W:38 L:21 D:0 Bonus ✅ 36%
+description: W:38 L:21 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 2 - 3 **星约组织：基地分团**
 date: 2025-03-27T07:54:12.000Z
@@ -17,7 +17,7 @@ date: 2025-03-27T07:54:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
