@@ -1,9 +1,9 @@
 ---
 title: ​WhiteSTarfighte
-description: W:19 L:16 D:2 Bonus ❌ 7%
+description: W:20 L:16 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 1 - 12 **Alpaca Nation**
-date: 2025-03-28T18:33:05.000Z
+Summary: ✅ 8 - 2 **阿尔特拉太空港**
+date: 2025-04-02T23:31:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ Lets WiN all white Stars
 <br>
 
 ### [Discord](https://discord.gg/Nope)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (359)|
-| ELO Competitive | 1253 🔻  (431)|
-| Total Matches | 37 |
-| Wins | 19 |
+| ELO Regular | 1243 🔺  (301)|
+| ELO Competitive | 1270 🔺  (381)|
+| Total Matches | 38 |
+| Wins | 20 |
 | Losses | 16 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742754785,1742318406,1741880570,1741432838,1740994426,1740554185,1740115454,1739675378,1739213637,1738770986,1738333119,1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
+        let timestamps = [1743204668,1742754785,1742318406,1741880570,1741432838,1740994426,1740554185,1740115454,1739675378,1739213637,1738770986,1738333119,1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/02 | 8-2 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2025/03/28 | 1-12 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/03/23 | 10-1 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/03/18 | 2-13 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -185,5 +186,5 @@ Corporation ID: 5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743186785"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743636668"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​SILVER TERRA
-description: W:33 L:27 D:1 Bonus ❌ 8%
+description: W:34 L:27 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 6 **Kratos**
-date: 2025-03-26T23:43:24.000Z
+Summary: ✅ 11 - 9 **Eastern Front**
+date: 2025-04-02T23:21:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 2025-03-26T23:43:24.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (347)|
-| ELO Competitive | 1454 🔻  (110)|
-| Total Matches | 61 |
-| Wins | 33 |
+| ELO Regular | 1244 🔺  (296)|
+| ELO Competitive | 1472 🔺  (98)|
+| Total Matches | 62 |
+| Wins | 34 |
 | Losses | 27 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742600604,1742599101,1741995657,1741986341,1741430434,1741418413,1740913588,1740904873,1740187556,1740179765,1739640935,1739609377,1739155572,1738989153,1738529685,1738397730,1737857436,1737757070,1737147055,1736554354,1735936473,1735330400,1734792272,1734124926,1733516748,1732949744,1732315078,1731707182,1731096253,1730506085,1729816135,1729286767,1728732135,1728098031,1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
+        let timestamps = [1743204066,1742600604,1742599101,1741995657,1741986341,1741430434,1741418413,1740913588,1740904873,1740187556,1740179765,1739640935,1739609377,1739155572,1738989153,1738529685,1738397730,1737857436,1737757070,1737147055,1736554354,1735936473,1735330400,1734792272,1734124926,1733516748,1732949744,1732315078,1731707182,1731096253,1730506085,1729816135,1729286767,1728732135,1728098031,1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 2 | 0 | 0 | 2 |
 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) | 3 | 1 | 0 | 4 |
 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) | 1 | 1 | 0 | 2 |
 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) | 2 | 1 | 0 | 3 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/02 | 11-9 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/03/26 | 3-6 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2025/03/26 | 2-32 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2025/03/19 | 0-23 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
@@ -215,5 +217,5 @@ Corporation ID: 60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743032604"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743636066"></span>
 </div>

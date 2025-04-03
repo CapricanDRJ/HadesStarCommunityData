@@ -1,9 +1,9 @@
 ---
 title: ​Cool Casual
-description: W:14 L:4 D:0 Bonus ✅ 
+description: W:15 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 1 **the kings**
-date: 2025-03-28T15:01:09.000Z
+Summary: ✅ 4 - 0 **Hades’ galaxy**
+date: 2025-04-02T22:43:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-03-28T15:01:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (188)|
-| ELO Competitive | 1310 🔺  (294)|
-| Total Matches | 18 |
-| Wins | 14 |
+| ELO Regular | 1309 🔺  (161)|
+| ELO Competitive | 1324 🔺  (265)|
+| Total Matches | 19 |
+| Wins | 15 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742742069,1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1743201837,1742742069,1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/02 | 4-0 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ✅ | 2025/03/28 | 7-1 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ✅ | 2025/03/23 | 3-1 | [Prodexus Domino](https://ws.tsl.rocks/corp/85917429bb52fbc2dac3f7310ca739f27cae6f39ad628c7d42e2985267005e77/) |
 | ✅ | 2025/03/17 | 4-2 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
@@ -167,5 +168,5 @@ Corporation ID: 9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743174069"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743633837"></span>
 </div>
