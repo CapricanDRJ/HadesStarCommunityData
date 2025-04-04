@@ -1,6 +1,6 @@
 ---
 title: ​RUS
-description: W:24 L:22 D:0 Bonus ✅ 50%
+description: W:24 L:22 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 60 - 41 **Кулак**
 date: 2025-03-28T05:01:31.000Z
@@ -18,11 +18,11 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (258)|
+| ELO Regular | 1257 🔺  (259)|
 | ELO Competitive | 1374 🔺  (192)|
 | Total Matches | 46 |
 | Wins | 24 |

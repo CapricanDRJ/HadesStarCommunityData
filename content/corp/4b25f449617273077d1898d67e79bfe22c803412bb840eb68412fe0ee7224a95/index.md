@@ -1,9 +1,9 @@
 ---
 title: ​国际联盟
-description: W:20 L:14 D:0 Bonus ❌ 7%
+description: W:20 L:15 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 5 - 0 **斯比纳兰**
-date: 2025-03-27T03:43:47.000Z
+Summary: ❌ 0 - 14 **Hades’ galaxy**
+date: 2025-04-04T05:44:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 2025-03-27T03:43:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (377)|
-| ELO Competitive | 1361 🔺  (205)|
-| Total Matches | 34 |
+| ELO Regular | 1210 🔻  (476)|
+| ELO Competitive | 1342 🔻  (228)|
+| Total Matches | 35 |
 | Wins | 20 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 2 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742615027,1741798541,1741790425,1741098092,1740655144,1740559593,1740067365,1739990724,1739557692,1739455526,1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1743313477,1742615027,1741798541,1741790425,1741098092,1740655144,1740559593,1740067365,1739990724,1739557692,1739455526,1739082306,1738919431,1738558891,1738479482,1737685524,1737434642,1737174399,1736739840,1736242745,1736232230,1735655519,1735643197,1735207501,1734687102,1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/04 | 0-14 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ✅ | 2025/03/27 | 5-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ✅ | 2025/03/17 | 3-2 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2025/03/17 | 1-6 | [分子联合集团乄原态之势](https://ws.tsl.rocks/corp/55e56b06503ea1978636e827e0b6164a07059e0924e61d39e197fd50766a984f/) |
@@ -183,5 +183,5 @@ Corporation ID: 4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743047027"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743745477"></span>
 </div>
