@@ -1,6 +1,6 @@
 ---
 title: ​VoidCorp
-description: W:46 L:31 D:2 Bonus ✅ 50%
+description: W:46 L:31 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 51 - 14 **Nine's Own Goal**
 date: 2025-03-28T00:41:06.000Z
@@ -17,7 +17,7 @@ e.
 <br>
 
 ### [Discord](https://discord.gg/9vG4zU3)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
