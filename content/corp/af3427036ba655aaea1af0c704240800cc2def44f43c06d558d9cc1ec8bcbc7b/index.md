@@ -23,7 +23,7 @@ rcenaries available for hire on white stars |Черный Легион- межд
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (163)|
-| ELO Competitive | 1385 🔺  (179)|
+| ELO Competitive | 1385 🔺  (180)|
 | Total Matches | 39 |
 | Wins | 25 |
 | Losses | 14 |

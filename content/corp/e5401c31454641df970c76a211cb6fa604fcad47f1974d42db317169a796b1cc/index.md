@@ -1,6 +1,6 @@
 ---
 title: ​the kings
-description: W:2 L:3 D:1 Bonus ✅ 
+description: W:2 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 1 - 7 **Cool Casual**
 date: 2025-03-28T15:01:09.000Z
@@ -15,7 +15,7 @@ date: 2025-03-28T15:01:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

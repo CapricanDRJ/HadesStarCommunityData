@@ -1,9 +1,9 @@
 ---
 title: ​清霄阁（防御协会）
-description: W:9 L:14 D:1 Bonus ❌ 6%
+description: W:9 L:15 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **three kitties**
-date: 2025-04-04T12:00:22.000Z
+Summary: ❌ 0 - 7 **九州分团**
+date: 2025-04-04T12:54:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-04-04T12:00:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1183)|
-| ELO Competitive | 1203 🔻  (674)|
-| Total Matches | 24 |
+| ELO Regular | 1144 🔻  (1226)|
+| ELO Competitive | 1203 🔻  (672)|
+| Total Matches | 25 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743336022,1742475576,1741863740,1741425384,1740283493,1739745820,1739202216,1738731320,1738201205,1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1743339251,1743336022,1742475576,1741863740,1741425384,1740283493,1739745820,1739202216,1738731320,1738201205,1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/04 | 0-7 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/04/04 | 0-3 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2025/03/25 | 8-0 | [Valholl](https://ws.tsl.rocks/corp/c50b6c9e3d2e2b9da27a3d0d7365012560d1dcd340e89518225559ea80edbee4/) |
 | ❌ | 2025/03/18 | 0-19 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
@@ -173,5 +174,5 @@ Corporation ID: a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743768022"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743771251"></span>
 </div>

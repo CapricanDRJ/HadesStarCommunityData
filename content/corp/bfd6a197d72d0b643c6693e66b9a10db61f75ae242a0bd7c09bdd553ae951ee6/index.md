@@ -1,9 +1,9 @@
 ---
 title: ​the Rubber Duck
-description: W:6 L:10 D:0 Bonus ❌ 6%
+description: W:6 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **舰队联邦\[FF\]**
-date: 2024-11-15T16:24:04.000Z
+Summary: ❌ 1 - 21 **Lupus Regnum**
+date: 2025-04-04T14:20:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ mmunication.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔺  (1221)|
-| ELO Competitive | 1159 🔺  (1277)|
-| Total Matches | 16 |
+| ELO Regular | 1137 🔻  (1263)|
+| ELO Competitive | 1152 🔻  (1318)|
+| Total Matches | 17 |
 | Wins | 6 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731255844,1713006652,1711711893,1709916273,1708090524,1706786335,1705927766,1704115668,1702917587,1702298467,1701694665,1701101099,1700487074,1699889225,1699298931,1698762520];
+        let timestamps = [1743344440,1731255844,1713006652,1711711893,1709916273,1708090524,1706786335,1705927766,1704115668,1702917587,1702298467,1701694665,1701101099,1700487074,1699889225,1699298931,1698762520];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/04 | 1-21 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2024/11/15 | 3-0 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ❌ | 2024/04/18 | 0-14 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/04/03 | 1-28 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
@@ -160,5 +161,5 @@ Corporation ID: bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1731687844"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743776440"></span>
 </div>

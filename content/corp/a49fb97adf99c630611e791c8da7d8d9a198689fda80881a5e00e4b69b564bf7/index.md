@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mars
-description: W:58 L:50 D:1 Bonus ✅ 40%
+description: W:58 L:50 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 9 **The Allegiant**
 date: 2025-03-28T14:37:36.000Z
@@ -18,11 +18,11 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔺  (122)|
+| ELO Regular | 1337 🔺  (123)|
 | ELO Competitive | 1614 🔺  (27)|
 | Total Matches | 109 |
 | Wins | 58 |
