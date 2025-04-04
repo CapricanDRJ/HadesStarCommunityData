@@ -1,6 +1,6 @@
 ---
 title: ​Orden Estelar 
-description: W:19 L:12 D:2 Bonus ✅ 34%
+description: W:19 L:12 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 21 - 4 **Sussy Coloner**
 date: 2025-03-28T20:33:19.000Z
@@ -17,11 +17,11 @@ Ni retirada ni rendicion
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (158)|
+| ELO Regular | 1311 🔺  (159)|
 | ELO Competitive | 1370 🔺  (199)|
 | Total Matches | 33 |
 | Wins | 19 |

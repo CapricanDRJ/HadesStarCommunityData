@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:22 L:2 D:0 Bonus ✅ 34%
+description: W:22 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 57 - 3 **Лунный Феникс**
 date: 2025-03-28T20:53:22.000Z
@@ -17,7 +17,7 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
