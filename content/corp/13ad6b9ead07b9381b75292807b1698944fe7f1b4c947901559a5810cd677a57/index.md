@@ -19,7 +19,7 @@ Red Star Farmers           Currently in Chapter 11 reorganization.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (1019)|
+| ELO Regular | 1171 🔻  (1017)|
 | ELO Competitive | 1171 🔻  (1184)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,6 +1,6 @@
 ---
 title: ​DTC
-description: W:29 L:66 D:0 Bonus ✅ 52%
+description: W:29 L:66 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 18 - 15 **Stellar Exports**
 date: 2025-03-28T10:02:03.000Z
@@ -18,7 +18,7 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
 <br>
 
 ### [Discord](https://discord.gg/5FcqEU96nM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

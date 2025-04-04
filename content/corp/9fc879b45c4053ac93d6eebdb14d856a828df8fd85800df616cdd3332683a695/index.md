@@ -1,9 +1,9 @@
 ---
 title: ​Free Thinkers 2
-description: W:5 L:59 D:1 Bonus ❌ 8%
+description: W:5 L:60 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 32 **украина№1**
-date: 2025-03-30T08:41:56.000Z
+Summary: ❌ 4 - 46 **BrazilCorp\.**
+date: 2025-04-04T12:20:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ive. Lets GO!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 909 🔻  (1473)|
-| ELO Competitive | 954 🔻  (1481)|
-| Total Matches | 65 |
+| ELO Regular | 908 🔻  (1473)|
+| ELO Competitive | 953 🔻  (1481)|
+| Total Matches | 66 |
 | Wins | 5 |
-| Losses | 59 |
+| Losses | 60 |
 | Draws | 1 |
 | Flagship | 7 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742892116,1742406161,1741841508,1741388967,1740564701,1740118458,1739274931,1738350852,1734672682,1734182613,1731080024,1730239552,1727708852,1727022051,1726223571,1725535741,1723614302,1722848900,1721113729,1719169931,1718735687,1718209327,1717743428,1717308832,1716863758,1716429256,1715963262,1715517093,1715079934,1714619235,1714154110,1713709746,1713267776,1712810748,1712374454,1711900302,1711437261,1710916242,1710482356,1709991995,1709558417,1709125424,1708690614,1708238670,1707805052,1707315338,1706876487,1706421207,1705970445,1705532894,1705092340,1704636161,1704172167,1703738820,1703283532,1702803078,1702345957,1701911065,1701475779,1701027470,1700556498,1700117701,1699682716,1699235233,1698797393];
+        let timestamps = [1743337224,1742892116,1742406161,1741841508,1741388967,1740564701,1740118458,1739274931,1738350852,1734672682,1734182613,1731080024,1730239552,1727708852,1727022051,1726223571,1725535741,1723614302,1722848900,1721113729,1719169931,1718735687,1718209327,1717743428,1717308832,1716863758,1716429256,1715963262,1715517093,1715079934,1714619235,1714154110,1713709746,1713267776,1712810748,1712374454,1711900302,1711437261,1710916242,1710482356,1709991995,1709558417,1709125424,1708690614,1708238670,1707805052,1707315338,1706876487,1706421207,1705970445,1705532894,1705092340,1704636161,1704172167,1703738820,1703283532,1702803078,1702345957,1701911065,1701475779,1701027470,1700556498,1700117701,1699682716,1699235233,1698797393];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 0 | 2 | 0 | 2 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 0 | 2 | 0 | 2 |
 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 0 | 2 | 0 | 2 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 0 | 2 | 0 | 2 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/04 | 4-46 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/03/30 | 0-32 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2025/03/24 | 15-2 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |
 | ❌ | 2025/03/18 | 0-56 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
@@ -220,5 +222,5 @@ Corporation ID: 9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743324116"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743769224"></span>
 </div>
