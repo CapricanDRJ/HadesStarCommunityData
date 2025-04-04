@@ -1,6 +1,6 @@
 ---
 title: ​Alpaca Nation
-description: W:15 L:3 D:0 Bonus ✅ 
+description: W:15 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 15 **Милый дом**
 date: 2025-04-03T22:08:53.000Z
@@ -15,7 +15,7 @@ date: 2025-04-03T22:08:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

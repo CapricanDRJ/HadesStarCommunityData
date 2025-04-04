@@ -1,6 +1,6 @@
 ---
 title: ​New YuGiOh
-description: W:14 L:1 D:1 Bonus ✅ 
+description: W:14 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 15 - 4 **Lupus Regnum**
 date: 2025-03-28T16:12:49.000Z
@@ -15,7 +15,7 @@ date: 2025-03-28T16:12:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

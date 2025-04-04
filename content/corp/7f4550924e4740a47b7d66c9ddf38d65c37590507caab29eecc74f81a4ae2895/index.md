@@ -1,9 +1,9 @@
 ---
 title: ​DeutschlandGmbH
-description: W:6 L:11 D:0 Bonus ❌ 5%
+description: W:6 L:12 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 9 - 41 **alienigenas**
-date: 2025-02-28T15:10:00.000Z
+Summary: ❌ 1 - 5 **VoidRunners**
+date: 2025-04-04T15:50:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ der
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1317)|
-| ELO Competitive | 1155 🔻  (1307)|
-| Total Matches | 17 |
+| ELO Regular | 1109 🔻  (1351)|
+| ELO Competitive | 1151 🔻  (1325)|
+| Total Matches | 18 |
 | Wins | 6 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740323400,1739184784,1738515856,1731427426,1730221819,1727920584,1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
+        let timestamps = [1743349852,1740323400,1739184784,1738515856,1731427426,1730221819,1727920584,1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -131,12 +131,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/04 | 1-5 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/02/28 | 9-41 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ❌ | 2025/02/15 | 7-17 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2025/02/07 | 0-1 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
@@ -161,5 +167,5 @@ Corporation ID: 7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740755400"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743781852"></span>
 </div>
