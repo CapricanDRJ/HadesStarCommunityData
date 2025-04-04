@@ -1,6 +1,6 @@
 ---
 title: ​＊Alfa y Omega＊
-description: W:31 L:14 D:2 Bonus ✅ 36%
+description: W:31 L:14 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **titan tv**
 date: 2025-03-28T02:21:16.000Z
@@ -18,11 +18,11 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (155)|
+| ELO Regular | 1311 🔺  (156)|
 | ELO Competitive | 1390 🔺  (173)|
 | Total Matches | 47 |
 | Wins | 31 |
