@@ -1,6 +1,6 @@
 ---
 title: ​Эдем
-description: W:18 L:15 D:0 Bonus ✅ 34%
+description: W:18 L:15 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 13 - 4 **imperio estelar**
 date: 2025-03-28T08:32:00.000Z
@@ -17,7 +17,7 @@ date: 2025-03-28T08:32:00.000Z
 <br>
 
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

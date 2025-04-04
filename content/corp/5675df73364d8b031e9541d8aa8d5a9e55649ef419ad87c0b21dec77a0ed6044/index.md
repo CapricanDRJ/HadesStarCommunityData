@@ -1,6 +1,6 @@
 ---
 title: ​nuevo mundo
-description: W:17 L:11 D:0 Bonus ✅ 36%
+description: W:17 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 24 - 22 **Свободный флот**
 date: 2025-03-28T08:16:52.000Z
@@ -21,7 +21,7 @@ Esperamos su llegada!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

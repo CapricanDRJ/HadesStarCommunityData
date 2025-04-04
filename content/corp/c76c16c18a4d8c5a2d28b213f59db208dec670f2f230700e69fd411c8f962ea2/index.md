@@ -1,6 +1,6 @@
 ---
 title: ​中央山脈礦工勞動部
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **银河护卫队**
 date: 2025-03-28T08:02:03.000Z
@@ -15,7 +15,7 @@ date: 2025-03-28T08:02:03.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
