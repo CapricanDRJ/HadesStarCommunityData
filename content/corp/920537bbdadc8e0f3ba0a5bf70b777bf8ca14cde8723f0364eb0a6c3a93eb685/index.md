@@ -1,9 +1,9 @@
 ---
 title: ​UFO
-description: W:11 L:19 D:2 Bonus ✅ 34%
+description: W:11 L:20 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 34 - 0 **\-=FCA=\-**
-date: 2025-03-29T02:28:54.000Z
+Summary: ❌ 3 - 23 **Elysium**
+date: 2025-04-05T01:01:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ https://discord.gg/NuvtUTUxQj
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (589)|
-| ELO Competitive | 1255 🔺  (429)|
-| Total Matches | 32 |
+| ELO Regular | 1190 🔻  (643)|
+| ELO Competitive | 1251 🔻  (440)|
+| Total Matches | 33 |
 | Wins | 11 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742783334,1742179272,1741597514,1740976702,1740380792,1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1743382918,1742783334,1742179272,1741597514,1740976702,1740380792,1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 0 | 2 | 0 | 2 |
 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) | 0 | 3 | 0 | 3 |
 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) | 0 | 2 | 0 | 2 |
 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) | 1 | 1 | 0 | 2 |
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 3-23 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2025/03/29 | 34-0 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) |
 | ❌ | 2025/03/22 | 4-27 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2025/03/15 | 32-3 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
@@ -182,5 +184,5 @@ Corporation ID: 920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743215334"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743814918"></span>
 </div>

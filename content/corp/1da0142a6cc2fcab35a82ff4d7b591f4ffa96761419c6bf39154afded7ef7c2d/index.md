@@ -1,9 +1,9 @@
 ---
 title: ​Orden Estelar 
-description: W:19 L:12 D:2 Bonus ❌ 7%
+description: W:20 L:12 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 21 - 4 **Sussy Coloner**
-date: 2025-03-28T20:33:19.000Z
+Summary: ✅ 28 - 0 **АНДРОМЕДА **
+date: 2025-04-05T02:22:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ Ni retirada ni rendicion
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (159)|
-| ELO Competitive | 1370 🔺  (199)|
-| Total Matches | 33 |
-| Wins | 19 |
+| ELO Regular | 1316 🔺  (155)|
+| ELO Competitive | 1382 🔺  (185)|
+| Total Matches | 34 |
+| Wins | 20 |
 | Losses | 12 |
 | Draws | 2 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742761999,1742735545,1742128481,1741533512,1740308672,1739724780,1739184784,1737748055,1737116395,1736610601,1735992074,1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
+        let timestamps = [1743387725,1742761999,1742735545,1742128481,1741533512,1740308672,1739724780,1739184784,1737748055,1737116395,1736610601,1735992074,1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 0 | 0 | 2 |
 | [Новый ЭДЭМ](https://ws.tsl.rocks/corp/f1d15cb357f6e239e540971a84a8b7161bfb5a976716027dbccbbf8e77dac4b5/) | 2 | 0 | 0 | 2 |
 
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/05 | 28-0 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/03/28 | 21-4 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2025/03/28 | 7-3 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2025/03/21 | 22-5 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
@@ -184,5 +186,5 @@ Corporation ID: 1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743193999"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743819725"></span>
 </div>

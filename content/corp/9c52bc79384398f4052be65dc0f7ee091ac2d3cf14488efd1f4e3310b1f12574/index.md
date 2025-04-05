@@ -1,9 +1,9 @@
 ---
 title: ​FURIA 2.0
-description: W:22 L:29 D:0 Bonus ✅ 36%
+description: W:23 L:29 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 33 - 10 **The X \- Files**
-date: 2025-04-04T20:36:32.000Z
+Summary: ✅ 15 - 7 **CTG**
+date: 2025-04-05T00:56:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (381)|
-| ELO Competitive | 1344 🔺  (227)|
-| Total Matches | 51 |
-| Wins | 22 |
+| ELO Regular | 1237 🔺  (329)|
+| ELO Competitive | 1360 🔺  (209)|
+| Total Matches | 52 |
+| Wins | 23 |
 | Losses | 29 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 6 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743366992,1742771916,1742765607,1742333437,1741890186,1741890186,1741367026,1740913588,1740427073,1740412647,1739860601,1739822443,1739334914,1738875865,1738350251,1737209861,1736686638,1735477934,1735475229,1734358396,1734336159,1733877639,1733858410,1733403467,1733400161,1732932875,1732920902,1732486372,1732050656,1731618238,1731185216,1730721236,1730280478,1729834160,1729381019,1728937148,1728501627,1727986231,1727464547,1727011406,1726421931,1725738886,1720634643,1719588828,1717133014,1716446679,1715715397,1714870526,1714070887,1699847539,1698835855];
+        let timestamps = [1743382619,1743366992,1742771916,1742765607,1742333437,1741890186,1741890186,1741367026,1740913588,1740427073,1740412647,1739860601,1739822443,1739334914,1738875865,1738350251,1737209861,1736686638,1735477934,1735475229,1734358396,1734336159,1733877639,1733858410,1733403467,1733400161,1732932875,1732920902,1732486372,1732050656,1731618238,1731185216,1730721236,1730280478,1729834160,1729381019,1728937148,1728501627,1727986231,1727464547,1727011406,1726421931,1725738886,1720634643,1719588828,1717133014,1716446679,1715715397,1714870526,1714070887,1699847539,1698835855];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) | 1 | 1 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 1 | 1 | 0 | 2 |
 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) | 0 | 2 | 0 | 2 |
 
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/05 | 15-7 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2025/04/04 | 33-10 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2025/03/28 | 10-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2025/03/28 | 38-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
@@ -201,5 +203,5 @@ Corporation ID: 9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743798992"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743814619"></span>
 </div>

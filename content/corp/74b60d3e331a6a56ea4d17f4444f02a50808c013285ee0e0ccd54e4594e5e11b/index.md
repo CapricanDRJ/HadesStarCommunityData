@@ -1,6 +1,6 @@
 ---
 title: ​русь 
-description: W:92 L:46 D:0 Bonus ✅ 54%
+description: W:92 L:46 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 38 - 10 **\-=FCA=\-**
 date: 2025-03-29T02:43:55.000Z
@@ -17,7 +17,7 @@ date: 2025-03-29T02:43:55.000Z
 <br>
 
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

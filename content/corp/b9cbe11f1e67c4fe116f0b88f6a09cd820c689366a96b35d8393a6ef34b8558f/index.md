@@ -1,9 +1,9 @@
 ---
 title: ​九州·华夏
-description: W:9 L:6 D:0 Bonus ✅ 
+description: W:9 L:7 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 10 - 1 **💮問鼎無垠💮**
-date: 2025-04-01T03:46:32.000Z
+Summary: ❌ 0 - 37 **Млечный путь**
+date: 2025-04-05T02:57:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-01T03:46:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (307)|
+| ELO Regular | 1225 🔻  (372)|
 | ELO Competitive | 1285 🔺  (352)|
-| Total Matches | 15 |
+| Total Matches | 16 |
 | Wins | 9 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 0-37 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ✅ | 2025/04/01 | 10-1 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/03/30 | 0-51 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/03/26 | 8-2 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
@@ -162,5 +163,5 @@ Corporation ID: b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743479192"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743821828"></span>
 </div>
