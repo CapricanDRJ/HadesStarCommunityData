@@ -1,9 +1,9 @@
 ---
 title: ​-=FCA=-
-description: W:1 L:6 D:0 Bonus ❌ 4%
+description: W:1 L:8 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 10 - 38 **русь **
-date: 2025-03-29T02:43:55.000Z
+Summary: ❌ 0 - 38 **Highlife**
+date: 2025-04-05T00:21:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-29T02:43:55.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1252)|
-| ELO Competitive | 1198 🔻  (725)|
-| Total Matches | 7 |
+| ELO Regular | 1110 🔻  (1349)|
+| ELO Competitive | 1195 🔻  (748)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742784235,1742783334,1742279038,1742247191,1741705089,1741120632,1732309368];
+        let timestamps = [1743380516,1743374507,1742784235,1742783334,1742279038,1742247191,1741705089,1741120632,1732309368];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 0-38 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
+| ❌ | 2025/04/04 | 4-40 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2025/03/29 | 10-38 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2025/03/29 | 0-34 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ❌ | 2025/03/23 | 12-24 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
@@ -148,5 +150,5 @@ Corporation ID: abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743216235"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743812516"></span>
 </div>

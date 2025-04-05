@@ -1,6 +1,6 @@
 ---
 title: ​Лунный Феникс
-description: W:57 L:33 D:2 Bonus ✅ 40%
+description: W:57 L:33 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 7 - 2 **Eastern Front**
 date: 2025-03-28T23:18:37.000Z
@@ -16,7 +16,7 @@ date: 2025-03-28T23:18:37.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

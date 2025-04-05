@@ -1,6 +1,6 @@
 ---
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:54 L:33 D:2 Bonus ✅ 38%
+description: W:54 L:33 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 63 - 0 **柯伊伯带**
 date: 2025-03-29T00:13:42.000Z
@@ -18,12 +18,12 @@ date: 2025-03-29T00:13:42.000Z
 <br>
 
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1297 🔺  (184)|
-| ELO Competitive | 1537 🔺  (53)|
+| ELO Competitive | 1537 🔺  (54)|
 | Total Matches | 89 |
 | Wins | 54 |
 | Losses | 33 |
