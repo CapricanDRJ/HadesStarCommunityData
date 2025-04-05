@@ -1,6 +1,6 @@
 ---
 title: ​АарнСарт 
-description: W:16 L:4 D:0 Bonus ✅ 
+description: W:16 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 9 - 5 **\[Blue\*Nation\]**
 date: 2025-03-29T08:59:28.000Z
@@ -15,7 +15,7 @@ date: 2025-03-29T08:59:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

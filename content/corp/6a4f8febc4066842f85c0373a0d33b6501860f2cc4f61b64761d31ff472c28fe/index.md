@@ -1,9 +1,9 @@
 ---
 title: ​Quilliance
-description: W:30 L:4 D:0 Bonus ❌ 8%
+description: W:31 L:4 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 13 - 29 **IX Легион**
-date: 2025-03-22T06:06:30.000Z
+Summary: ✅ 25 - 0 **无人之境**
+date: 2025-04-05T08:57:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Discord Active • Coop DRS7-10
 <br>
 
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔻  (51)|
-| ELO Competitive | 1502 🔻  (74)|
-| Total Matches | 34 |
-| Wins | 30 |
+| ELO Regular | 1421 🔺  (50)|
+| ELO Competitive | 1505 🔺  (73)|
+| Total Matches | 35 |
+| Wins | 31 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 17 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742191590,1741085770,1739775260,1738582266,1737349902,1736148986,1734926584,1733993911,1732767939,1731582896,1730384080,1729771357,1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
+        let timestamps = [1743411461,1742191590,1741085770,1739775260,1738582266,1737349902,1736148986,1734926584,1733993911,1732767939,1731582896,1730384080,1729771357,1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/05 | 25-0 | [无人之境](https://ws.tsl.rocks/corp/8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de/) |
 | ❌ | 2025/03/22 | 13-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/03/09 | 34-4 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2025/02/22 | 31-4 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
@@ -188,5 +189,5 @@ Corporation ID: 6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742623590"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743843461"></span>
 </div>

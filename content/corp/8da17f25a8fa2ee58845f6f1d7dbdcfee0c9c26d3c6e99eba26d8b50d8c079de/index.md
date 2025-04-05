@@ -1,9 +1,9 @@
 ---
 title: ​无人之境
-description: W:2 L:21 D:0 Bonus ❌ 5%
+description: W:2 L:22 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 3 - 39 **OntarioDawn**
-date: 2025-03-29T17:45:29.000Z
+Summary: ❌ 0 - 25 **Quilliance**
+date: 2025-04-05T08:57:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ You are lucky to meet me in White Star! Congratulations!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1451)|
-| ELO Competitive | 1073 🔻  (1457)|
-| Total Matches | 23 |
+| ELO Regular | 1013 🔻  (1454)|
+| ELO Competitive | 1071 🔻  (1458)|
+| Total Matches | 24 |
 | Wins | 2 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742838329,1742406161,1741971010,1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
+        let timestamps = [1743411461,1742838329,1742406161,1741971010,1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 0-25 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ❌ | 2025/03/29 | 3-39 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2025/03/24 | 2-15 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ✅ | 2025/03/19 | 4-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
@@ -170,5 +171,5 @@ Corporation ID: 8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743270329"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743843461"></span>
 </div>
