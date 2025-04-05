@@ -1,9 +1,9 @@
 ---
 title: ​White Star Inc.
-description: W:4 L:8 D:0 Bonus ❌ 10%
+description: W:4 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 7 - 21 **Дом Датэ**
-date: 2025-03-29T12:34:51.000Z
+Summary: ❌ 13 - 31 **BrinySeal**
+date: 2025-04-05T14:03:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1125)|
-| ELO Competitive | 1189 🔻  (846)|
-| Total Matches | 12 |
+| ELO Regular | 1154 🔻  (1160)|
+| ELO Competitive | 1187 🔻  (904)|
+| Total Matches | 13 |
 | Wins | 4 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742819691,1742223143,1741604726,1731508255,1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
+        let timestamps = [1743429794,1742819691,1742223143,1741604726,1731508255,1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 0 | 2 | 0 | 2 |
 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 13-31 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/03/29 | 7-21 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2025/03/22 | 8-33 | [ETER & CAOS](https://ws.tsl.rocks/corp/16629295d7509be3ecbe986b169113da8270c2b192841cf463fb8bd1f1fc72b7/) |
 | ✅ | 2025/03/15 | 24-4 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
@@ -162,5 +164,5 @@ Corporation ID: b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743251691"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743861794"></span>
 </div>

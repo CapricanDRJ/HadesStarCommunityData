@@ -1,6 +1,6 @@
 ---
 title: ​Stargate Corp
-description: W:75 L:37 D:0 Bonus ✅ 54%
+description: W:75 L:37 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 10 - 53 **Hand Of NOD\! **
 date: 2025-03-30T15:47:43.000Z
@@ -18,12 +18,12 @@ ter guesting RS runs<br><br>Discord mandatory to join!
 <br>
 
 ### [Discord](https://discord.gg/sXxSq4KUmm)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1448 🔻  (28)|
-| ELO Competitive | 1726 🔺  (7)|
+| ELO Competitive | 1726 🔺  (8)|
 | Total Matches | 112 |
 | Wins | 75 |
 | Losses | 37 |

@@ -1,6 +1,6 @@
 ---
 title: ​星约组织：基地分团
-description: W:4 L:9 D:0 Bonus ✅ 30%
+description: W:4 L:9 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 1 - 0 **WSC\(no DISCORD\)**
 date: 2025-03-29T14:52:56.000Z
@@ -17,11 +17,11 @@ date: 2025-03-29T14:52:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔺  (1151)|
+| ELO Regular | 1156 🔺  (1149)|
 | ELO Competitive | 1147 🔺  (1341)|
 | Total Matches | 13 |
 | Wins | 4 |

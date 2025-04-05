@@ -1,9 +1,9 @@
 ---
 title: ​Draconis
-description: W:0 L:2 D:0 Bonus ❌ 6%
+description: W:0 L:2 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 11 **V0RTEX**
-date: 2025-03-25T18:45:17.000Z
+Summary: ↔️ 0 - 0 **63SALVADORES36**
+date: 2025-04-05T12:46:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ ust play relatively regularly and have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (997)|
-| ELO Competitive | 1173 🔻  (1153)|
-| Total Matches | 2 |
+| ELO Regular | 1171 🔻  (1008)|
+| ELO Competitive | 1179 🔺  (1089)|
+| Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 4 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742496317,1700644397];
+        let timestamps = [1743425194,1742496317,1700644397];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/05 | 0-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/03/25 | 0-11 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2023/11/27 | 0-4 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 
@@ -144,5 +145,5 @@ Corporation ID: 90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742928317"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743857194"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​碧海听潮阁
-description: W:16 L:16 D:6 Bonus ❌ 
+description: W:16 L:17 D:6 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 19 **Starships**
-date: 2025-03-30T19:23:09.000Z
+Summary: ❌ 2 - 15 **神圣群星帝国**
+date: 2025-04-05T14:18:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-30T19:23:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1071)|
-| ELO Competitive | 1334 🔻  (246)|
-| Total Matches | 38 |
+| ELO Regular | 1152 🔻  (1186)|
+| ELO Competitive | 1313 🔻  (292)|
+| Total Matches | 39 |
 | Wins | 16 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 6 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742930589,1742916494,1742468144,1742467661,1742026607,1741996258,1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1743430695,1742930589,1742916494,1742468144,1742467661,1742026607,1741996258,1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 2-15 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ❌ | 2025/03/30 | 2-19 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ❌ | 2025/03/30 | 0-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/03/25 | 6-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
@@ -190,5 +191,5 @@ Corporation ID: 11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743362589"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743862695"></span>
 </div>
