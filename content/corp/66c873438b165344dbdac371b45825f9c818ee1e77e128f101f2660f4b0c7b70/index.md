@@ -1,6 +1,6 @@
 ---
 title: ​Free Ag3nts
-description: W:21 L:0 D:0 Bonus ✅ 36%
+description: W:21 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 32 - 3 **佛矿寺**
 date: 2025-03-29T04:27:04.000Z
@@ -15,11 +15,11 @@ date: 2025-03-29T04:27:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (56)|
+| ELO Regular | 1410 🔺  (57)|
 | ELO Competitive | 1425 🔺  (133)|
 | Total Matches | 21 |
 | Wins | 21 |

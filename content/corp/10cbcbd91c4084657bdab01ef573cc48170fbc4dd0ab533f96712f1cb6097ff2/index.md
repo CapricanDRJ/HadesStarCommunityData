@@ -1,9 +1,9 @@
 ---
 title: ​Дом Датэ
-description: W:44 L:30 D:0 Bonus ✅ 40%
+description: W:44 L:31 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 21 - 7 **White Star Inc\.**
-date: 2025-03-29T12:34:51.000Z
+Summary: ❌ 12 - 24 **IX Легион**
+date: 2025-04-05T04:52:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 2025-03-29T12:34:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (71)|
-| ELO Competitive | 1499 🔺  (80)|
-| Total Matches | 74 |
+| ELO Regular | 1379 🔻  (83)|
+| ELO Competitive | 1493 🔻  (86)|
+| Total Matches | 75 |
 | Wins | 44 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 7 |
 | Flagship | 9 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742819691,1742140506,1740984513,1740340233,1739720872,1739124688,1738558229,1737904317,1737274469,1736670406,1735983957,1735468618,1734887526,1734007131,1733035386,1732452106,1731508255,1730717329,1730022582,1729446534,1728537686,1727428178,1725824836,1725300172,1725205514,1724697964,1724684439,1724066888,1724066888,1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
+        let timestamps = [1743396739,1742819691,1742140506,1740984513,1740340233,1739720872,1739124688,1738558229,1737904317,1737274469,1736670406,1735983957,1735468618,1734887526,1734007131,1733035386,1732452106,1731508255,1730717329,1730022582,1729446534,1728537686,1727428178,1725824836,1725300172,1725205514,1724697964,1724684439,1724066888,1724066888,1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,9 +134,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 2 | 1 | 0 | 3 |
 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) | 2 | 0 | 0 | 2 |
 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 2 | 0 | 0 | 2 |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 2 | 0 | 0 | 2 |
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 2 | 0 | 0 | 2 |
 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) | 2 | 0 | 0 | 2 |
 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 1 | 1 | 0 | 2 |
@@ -154,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 12-24 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/03/29 | 21-7 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
 | ✅ | 2025/03/21 | 26-9 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ✅ | 2025/03/08 | 22-2 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
@@ -235,5 +235,5 @@ Corporation ID: 10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743251691"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743828739"></span>
 </div>

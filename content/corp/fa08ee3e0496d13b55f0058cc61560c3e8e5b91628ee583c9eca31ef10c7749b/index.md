@@ -1,6 +1,6 @@
 ---
 title: ​C'est pas faux!
-description: W:8 L:6 D:1 Bonus ✅ 36%
+description: W:8 L:6 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 31 - 0 **Hun Generals**
 date: 2025-03-29T05:24:09.000Z
@@ -21,11 +21,11 @@ Discord : wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (263)|
+| ELO Regular | 1256 🔺  (264)|
 | ELO Competitive | 1302 🔺  (308)|
 | Total Matches | 15 |
 | Wins | 8 |

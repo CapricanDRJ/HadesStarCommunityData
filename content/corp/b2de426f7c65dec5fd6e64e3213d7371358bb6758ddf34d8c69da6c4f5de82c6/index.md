@@ -1,6 +1,6 @@
 ---
 title: ​Hun Generals
-description: W:14 L:87 D:0 Bonus ✅ 42%
+description: W:14 L:87 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 31 **C'est pas faux\!**
 date: 2025-03-29T05:24:09.000Z
@@ -16,7 +16,7 @@ idat. WS-ezés feltétele a discord.
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

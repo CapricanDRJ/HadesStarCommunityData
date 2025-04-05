@@ -1,9 +1,9 @@
 ---
 title: ​BAB
-description: W:0 L:6 D:1 Bonus ❌ 3%
+description: W:0 L:7 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **G\.02**
-date: 2025-03-27T05:23:09.000Z
+Summary: ❌ 0 - 3 **Lupus Regnum**
+date: 2025-04-05T03:55:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-03-27T05:23:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1326)|
-| ELO Competitive | 1123 🔻  (1406)|
-| Total Matches | 7 |
+| ELO Regular | 1112 🔻  (1348)|
+| ELO Competitive | 1118 🔻  (1414)|
+| Total Matches | 8 |
 | Wins | 0 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742620989,1740144901,1739673073,1735093033,1733075981,1732459650,1730821005];
+        let timestamps = [1743393300,1742620989,1740144901,1739673073,1735093033,1733075981,1732459650,1730821005];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 0-3 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/03/27 | 0-6 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ❌ | 2025/02/26 | 0-6 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/02/21 | 0-8 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
@@ -149,5 +150,5 @@ Corporation ID: d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743052989"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743825300"></span>
 </div>

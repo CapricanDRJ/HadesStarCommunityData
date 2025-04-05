@@ -1,6 +1,6 @@
 ---
 title: ​ALPHA
-description: W:34 L:12 D:1 Bonus ✅ 36%
+description: W:34 L:12 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 6 **九州分团**
 date: 2025-04-04T03:29:24.000Z
@@ -16,7 +16,7 @@ Crecer principal objetivo        Leko:Join us we need active member
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
