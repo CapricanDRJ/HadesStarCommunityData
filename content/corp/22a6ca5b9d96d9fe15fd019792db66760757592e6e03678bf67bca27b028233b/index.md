@@ -1,9 +1,9 @@
 ---
 title: ​АарнСарт 
-description: W:16 L:4 D:0 Bonus ❌ 
+description: W:17 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 5 **\[Blue\*Nation\]**
-date: 2025-03-29T08:59:28.000Z
+Summary: ✅ 21 - 6 **Hinterm Mars**
+date: 2025-04-05T11:47:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,16 @@ date: 2025-03-29T08:59:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔺  (104)|
-| ELO Competitive | 1412 🔺  (153)|
-| Total Matches | 20 |
-| Wins | 16 |
-| Losses | 4 |
+| ELO Regular | 1350 🔺  (109)|
+| ELO Competitive | 1435 🔺  (128)|
+| Total Matches | 22 |
+| Wins | 17 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1743421678,1743417771,1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/05 | 21-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
+| ❌ | 2025/04/05 | 6-19 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2025/03/29 | 9-5 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2025/03/22 | 26-0 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2025/03/15 | 30-5 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
@@ -168,5 +169,5 @@ Corporation ID: 22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743238768"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743853678"></span>
 </div>

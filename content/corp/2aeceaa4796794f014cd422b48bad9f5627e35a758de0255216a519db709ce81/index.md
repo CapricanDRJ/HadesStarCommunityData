@@ -1,6 +1,6 @@
 ---
 title: ​Order of Hades
-description: W:80 L:33 D:1 Bonus ✅ 50%
+description: W:80 L:33 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 28 - 7 **Hellfire Club**
 date: 2025-03-29T10:49:43.000Z
@@ -17,11 +17,11 @@ iscord is mandatory for membership.
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1371 🔺  (89)|
+| ELO Regular | 1371 🔺  (90)|
 | ELO Competitive | 1582 🔺  (35)|
 | Total Matches | 114 |
 | Wins | 80 |

@@ -1,9 +1,9 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:5 L:14 D:2 Bonus ✅ 32%
+description: W:5 L:15 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 16 - 9 **Germania**
-date: 2025-03-30T00:21:12.000Z
+Summary: ❌ 9 - 19 **Cerulean Star**
+date: 2025-04-05T12:43:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ adicionado aqui no chat!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔺  (1307)|
-| ELO Competitive | 1186 🔺  (936)|
-| Total Matches | 21 |
+| ELO Regular | 1122 🔻  (1323)|
+| ELO Competitive | 1182 🔻  (1072)|
+| Total Matches | 22 |
 | Wins | 5 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 3 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742862072,1742226149,1741610136,1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1743424984,1742862072,1742226149,1741610136,1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 9-19 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2025/03/30 | 16-9 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ✅ | 2025/03/22 | 11-6 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/03/15 | 7-11 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
@@ -167,5 +167,5 @@ Corporation ID: cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743294072"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743856984"></span>
 </div>

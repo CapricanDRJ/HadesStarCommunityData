@@ -1,6 +1,6 @@
 ---
 title: ​Дом Датэ
-description: W:44 L:31 D:0 Bonus ✅ 40%
+description: W:44 L:31 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 12 - 24 **IX Легион**
 date: 2025-04-05T04:52:19.000Z
@@ -16,12 +16,12 @@ date: 2025-04-05T04:52:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1379 🔻  (83)|
-| ELO Competitive | 1493 🔻  (86)|
+| ELO Competitive | 1493 🔻  (87)|
 | Total Matches | 75 |
 | Wins | 44 |
 | Losses | 31 |

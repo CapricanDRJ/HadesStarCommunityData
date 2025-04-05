@@ -1,6 +1,6 @@
 ---
 title: ​ETER & CAOS
-description: W:7 L:0 D:0 Bonus ✅ 
+description: W:7 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 21 - 13 **Brodudes Inc\.**
 date: 2025-03-29T11:44:45.000Z
@@ -15,12 +15,12 @@ date: 2025-03-29T11:44:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1308 🔺  (165)|
-| ELO Competitive | 1347 🔺  (224)|
+| ELO Competitive | 1347 🔺  (225)|
 | Total Matches | 7 |
 | Wins | 7 |
 | Losses | 0 |

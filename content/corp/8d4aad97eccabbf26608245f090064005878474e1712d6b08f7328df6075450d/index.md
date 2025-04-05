@@ -1,6 +1,6 @@
 ---
 title: ​Серебряная орда
-description: W:61 L:59 D:2 Bonus ✅ 40%
+description: W:61 L:59 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 18 - 1 **ZORG IND**
 date: 2025-03-29T10:34:38.000Z
@@ -18,7 +18,7 @@ r="green">Русский, English
 <br>
 
 ### [Discord](https://discord.gg/p6rrFevJbJ)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
