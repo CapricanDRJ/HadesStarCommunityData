@@ -1,6 +1,6 @@
 ---
 title: ​Bl@ck/Galaxy 
-description: W:37 L:25 D:2 Bonus ✅ 36%
+description: W:37 L:25 D:2 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ✅ 39 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2025-03-29T18:50:37.000Z
@@ -17,7 +17,7 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |
