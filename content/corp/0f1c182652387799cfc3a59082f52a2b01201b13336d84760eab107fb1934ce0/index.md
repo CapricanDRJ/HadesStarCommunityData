@@ -1,6 +1,6 @@
 ---
 title: ​Nova Time
-description: W:14 L:2 D:0 Bonus ✅ 34%
+description: W:14 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **Тихий Омут**
 date: 2025-03-29T19:05:38.000Z
@@ -15,11 +15,11 @@ There is only one clock that matters.
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (128)|
+| ELO Regular | 1334 🔺  (127)|
 | ELO Competitive | 1357 🔺  (213)|
 | Total Matches | 16 |
 | Wins | 14 |

@@ -1,9 +1,9 @@
 ---
 title: ​СОЮЗ
-description: W:18 L:17 D:0 Bonus ❌ 14%
+description: W:18 L:18 D:0 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 5 - 63 **BlackStar Order**
-date: 2025-03-25T00:03:24.000Z
+Summary: ❌ 11 - 27 **White Dwarf**
+date: 2025-04-05T20:29:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-03-25T00:03:24.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (349)|
-| ELO Competitive | 1347 🔻  (227)|
-| Total Matches | 35 |
+| ELO Regular | 1222 🔻  (385)|
+| ELO Competitive | 1338 🔻  (237)|
+| Total Matches | 36 |
 | Wins | 18 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 9 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742429004,1741743855,1741727029,1741249229,1741233607,1740714944,1740708635,1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1743452941,1742429004,1741743855,1741727029,1741249229,1741233607,1740714944,1740708635,1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 11-27 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2025/03/25 | 5-63 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2025/03/17 | 9-17 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2025/03/16 | 0-37 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
@@ -185,5 +186,5 @@ Corporation ID: 068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742861004"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743884941"></span>
 </div>

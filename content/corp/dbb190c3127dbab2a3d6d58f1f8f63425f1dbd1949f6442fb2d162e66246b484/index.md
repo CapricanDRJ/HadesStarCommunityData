@@ -1,9 +1,9 @@
 ---
 title: ​ANZAC Warriors
-description: W:21 L:6 D:1 Bonus ❌ 10%
+description: W:21 L:7 D:1 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ✅ 34 - 23 **Ender**
-date: 2025-03-14T21:24:15.000Z
+Summary: ❌ 5 - 33 **русь **
+date: 2025-04-05T19:23:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ ttps://discord.com/invite/rmzHUdXef7
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (127)|
-| ELO Competitive | 1376 🔺  (190)|
-| Total Matches | 28 |
+| ELO Regular | 1324 🔻  (144)|
+| ELO Competitive | 1373 🔻  (195)|
+| Total Matches | 29 |
 | Wins | 21 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 10 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741555455,1738521567,1736122248,1734287187,1732388403,1730599239,1716152253,1714340402,1710709229,1710105585,1709507945,1708892553,1708311396,1707685455,1707079640,1706477713,1705870375,1705276261,1704664116,1703978039,1703456335,1702845762,1702263006,1701022359,1700460929,1699811982,1699174233,1698695487];
+        let timestamps = [1743449033,1741555455,1738521567,1736122248,1734287187,1732388403,1730599239,1716152253,1714340402,1710709229,1710105585,1709507945,1708892553,1708311396,1707685455,1707079640,1706477713,1705870375,1705276261,1704664116,1703978039,1703456335,1702845762,1702263006,1701022359,1700460929,1699811982,1699174233,1698695487];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1 | 1 | 0 | 2 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 2 | 0 | 0 | 2 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3 | 0 | 0 | 3 |
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 5-33 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ✅ | 2025/03/14 | 34-23 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2025/02/07 | 38-34 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ❌ | 2025/01/11 | 3-28 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
@@ -181,5 +182,5 @@ Corporation ID: dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741987455"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743881033"></span>
 </div>

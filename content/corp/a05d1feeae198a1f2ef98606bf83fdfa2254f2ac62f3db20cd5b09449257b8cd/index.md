@@ -1,6 +1,6 @@
 ---
 title: ​DarkSide
-description: W:51 L:72 D:2 Bonus ✅ 40%
+description: W:51 L:72 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 4 - 3 **Тихий Омут**
 date: 2025-03-29T19:15:40.000Z
@@ -18,7 +18,7 @@ https://t.me/DS_DarkSide
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

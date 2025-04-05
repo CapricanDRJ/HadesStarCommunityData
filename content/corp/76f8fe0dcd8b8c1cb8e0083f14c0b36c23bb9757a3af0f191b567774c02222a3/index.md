@@ -1,6 +1,6 @@
 ---
 title: ​Bl@ck/Galaxy 
-description: W:37 L:25 D:2 Bonus ❌ 36%
+description: W:37 L:25 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 39 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2025-03-29T18:50:37.000Z
@@ -17,11 +17,11 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 ```
 <br>
 
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 🔺  (136)|
+| ELO Regular | 1330 🔺  (135)|
 | ELO Competitive | 1412 🔺  (152)|
 | Total Matches | 64 |
 | Wins | 37 |
