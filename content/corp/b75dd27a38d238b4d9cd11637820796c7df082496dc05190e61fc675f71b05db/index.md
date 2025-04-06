@@ -1,9 +1,9 @@
 ---
 title: ​Starships
-description: W:10 L:2 D:1 Bonus ✅ 
+description: W:11 L:2 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 17 - 0 **神圣群星帝国**
-date: 2025-04-06T18:11:10.000Z
+Summary: ✅ 5 - 3 **KEPLER\-442  b**
+date: 2025-04-06T19:51:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-06T18:11:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (182)|
-| ELO Competitive | 1339 🔺  (239)|
-| Total Matches | 13 |
-| Wins | 10 |
+| ELO Regular | 1309 🔺  (162)|
+| ELO Competitive | 1339 🔺  (240)|
+| Total Matches | 14 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743531070,1742930589,1742929086,1742328026,1742318406,1741738447,1741712602,1741108911,1740506104,1739737406,1738684741,1738684741,1737790420];
+        let timestamps = [1743537083,1743531070,1742930589,1742929086,1742328026,1742318406,1741738447,1741712602,1741108911,1740506104,1739737406,1738684741,1738684741,1737790420];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/06 | 5-3 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ✅ | 2025/04/06 | 17-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
 | ✅ | 2025/03/30 | 19-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ↔️ | 2025/03/30 | 3-3 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
@@ -162,5 +163,5 @@ Corporation ID: b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743963070"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743969083"></span>
 </div>

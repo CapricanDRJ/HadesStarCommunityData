@@ -1,6 +1,6 @@
 ---
 title: ​Stella☆Glow
-description: W:42 L:23 D:1 Bonus ✅ 42%
+description: W:42 L:23 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **Ещё один Миф**
 date: 2025-03-30T20:23:16.000Z
@@ -29,7 +29,7 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
