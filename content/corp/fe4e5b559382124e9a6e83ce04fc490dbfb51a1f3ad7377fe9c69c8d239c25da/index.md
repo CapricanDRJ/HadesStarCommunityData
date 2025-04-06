@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Pioneer
-description: W:12 L:5 D:0 Bonus ✅ 
+description: W:12 L:6 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 5 **63SALVADORES36**
-date: 2025-04-05T08:37:39.000Z
+Summary: ❌ 0 - 16 **New YuGiOh**
+date: 2025-04-05T23:19:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-05T08:37:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (202)|
+| ELO Regular | 1274 🔻  (220)|
 | ELO Competitive | 1317 🔺  (284)|
-| Total Matches | 17 |
+| Total Matches | 18 |
 | Wins | 12 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743410259,1742944849,1742939005,1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
+        let timestamps = [1743463158,1743410259,1742944849,1742939005,1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/05 | 0-16 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/04/05 | 7-5 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/03/30 | 0-6 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/03/30 | 10-2 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
@@ -164,5 +165,5 @@ Corporation ID: fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743842259"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743895158"></span>
 </div>

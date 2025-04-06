@@ -1,9 +1,9 @@
 ---
 title: ​New YuGiOh
-description: W:14 L:1 D:1 Bonus ❌ 
+description: W:15 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 4 **Lupus Regnum**
-date: 2025-03-28T16:12:49.000Z
+Summary: ✅ 16 - 0 **Quantum Pioneer**
+date: 2025-04-05T23:19:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-03-28T16:12:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (100)|
-| ELO Competitive | 1377 🔺  (189)|
-| Total Matches | 16 |
-| Wins | 14 |
+| ELO Regular | 1370 🔺  (91)|
+| ELO Competitive | 1389 🔺  (175)|
+| Total Matches | 17 |
+| Wins | 15 |
 | Losses | 1 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742746369,1742042536,1741438548,1740837854,1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
+        let timestamps = [1743463158,1742746369,1742042536,1741438548,1740837854,1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/05 | 16-0 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/03/28 | 15-4 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/03/20 | 20-2 | [中央山脈礦工勞動部](https://ws.tsl.rocks/corp/c76c16c18a4d8c5a2d28b213f59db208dec670f2f230700e69fd411c8f962ea2/) |
 | ✅ | 2025/03/13 | 17-2 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
@@ -159,5 +160,5 @@ Corporation ID: 14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743178369"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743895158"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​星舰月球
-description: W:43 L:30 D:0 Bonus ✅ 46%
+description: W:43 L:30 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 22 - 5 **italian warrior**
 date: 2025-03-29T22:51:04.000Z
@@ -19,11 +19,11 @@ date: 2025-03-29T22:51:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (208)|
+| ELO Regular | 1284 🔺  (206)|
 | ELO Competitive | 1521 🔺  (66)|
 | Total Matches | 73 |
 | Wins | 43 |

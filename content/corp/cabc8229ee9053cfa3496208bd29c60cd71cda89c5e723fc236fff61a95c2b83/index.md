@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:5 L:15 D:2 Bonus ✅ 32%
+description: W:5 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 9 - 19 **Cerulean Star**
 date: 2025-04-05T12:43:04.000Z
@@ -18,7 +18,7 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

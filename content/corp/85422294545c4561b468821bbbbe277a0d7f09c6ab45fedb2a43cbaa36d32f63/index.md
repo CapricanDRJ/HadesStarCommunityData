@@ -1,6 +1,6 @@
 ---
 title: ​星环建设集团
-description: W:10 L:7 D:2 Bonus ✅ 32%
+description: W:10 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **11th Engineers**
 date: 2025-03-29T22:35:01.000Z
@@ -17,11 +17,11 @@ date: 2025-03-29T22:35:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (387)|
+| ELO Regular | 1221 🔺  (388)|
 | ELO Competitive | 1242 🔺  (469)|
 | Total Matches | 19 |
 | Wins | 10 |
