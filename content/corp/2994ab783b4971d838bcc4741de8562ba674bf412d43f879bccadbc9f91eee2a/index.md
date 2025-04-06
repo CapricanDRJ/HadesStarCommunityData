@@ -1,6 +1,6 @@
 ---
 title: ​Alterra Corp
-description: W:2 L:3 D:1 Bonus ✅ 28%
+description: W:2 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **普罗米修斯**
 date: 2025-03-30T13:22:25.000Z
@@ -16,7 +16,7 @@ re.
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

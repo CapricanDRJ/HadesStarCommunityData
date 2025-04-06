@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 2 **碧海听潮阁**
-date: 2025-04-05T14:18:15.000Z
+Summary: ↔️ 3 - 3 **九州·华夏**
+date: 2025-04-06T14:05:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-04-05T14:18:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (512)|
+| ELO Regular | 1203 🔺  (504)|
 | ELO Competitive | 1210 🔺  (640)|
-| Total Matches | 2 |
+| Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743430695,1742997901];
+        let timestamps = [1743516340,1743430695,1742997901];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/06 | 3-3 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/04/05 | 15-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/03/31 | 0-18 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743862695"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743948340"></span>
 </div>

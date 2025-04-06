@@ -1,6 +1,6 @@
 ---
 title: ​Октябристы
-description: W:71 L:87 D:2 Bonus ✅ 42%
+description: W:71 L:87 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 25 **Blazing Stars**
 date: 2025-03-30T15:07:38.000Z
@@ -17,7 +17,7 @@ date: 2025-03-30T15:07:38.000Z
 <br>
 
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
