@@ -20,7 +20,7 @@ imply put don't be a dick >.>(rs3+ required)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (529)|
+| ELO Regular | 1200 ▫️  (530)|
 | ELO Competitive | 1200 ▫️  (702)|
 | Total Matches | 1 |
 | Wins | 0 |

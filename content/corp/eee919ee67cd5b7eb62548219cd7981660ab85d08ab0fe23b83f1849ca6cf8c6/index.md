@@ -25,8 +25,8 @@ Corpo des alts : On en a petit !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (559)|
-| ELO Competitive | 1335 🔻  (246)|
+| ELO Regular | 1198 🔻  (560)|
+| ELO Competitive | 1335 🔻  (248)|
 | Total Matches | 79 |
 | Wins | 35 |
 | Losses | 44 |
