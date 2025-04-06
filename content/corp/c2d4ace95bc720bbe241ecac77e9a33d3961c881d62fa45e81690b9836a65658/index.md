@@ -1,6 +1,6 @@
 ---
 title: ​青丘湖
-description: W:11 L:9 D:0 Bonus ✅ 32%
+description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 10 - 21 **Justice Vengers**
 date: 2025-04-05T11:22:55.000Z
@@ -25,12 +25,12 @@ date: 2025-04-05T11:22:55.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (330)|
-| ELO Competitive | 1276 🔻  (370)|
+| ELO Regular | 1237 🔻  (331)|
+| ELO Competitive | 1276 🔻  (371)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 9 |

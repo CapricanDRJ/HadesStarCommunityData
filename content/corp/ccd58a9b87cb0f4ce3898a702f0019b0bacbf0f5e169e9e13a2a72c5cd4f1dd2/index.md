@@ -20,7 +20,7 @@ no discord chat | active players | frequent white star scans
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (790)|
-| ELO Competitive | 1185 🔻  (982)|
+| ELO Competitive | 1185 🔻  (983)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

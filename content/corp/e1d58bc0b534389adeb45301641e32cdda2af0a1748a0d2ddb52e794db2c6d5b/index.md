@@ -1,9 +1,9 @@
 ---
 title: ​EarthFederation
-description: W:14 L:6 D:2 Bonus ❌ 6%
+description: W:14 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Quantum Pioneer**
-date: 2025-03-24T20:53:05.000Z
+Summary: ❌ 2 - 11 **Лунный Феникс**
+date: 2025-04-06T05:29:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Looking for members. Come grow with us!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (245)|
-| ELO Competitive | 1322 🔻  (271)|
-| Total Matches | 22 |
+| ELO Regular | 1251 🔻  (276)|
+| ELO Competitive | 1317 🔻  (283)|
+| Total Matches | 23 |
 | Wins | 14 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742417585,1742407664,1741301519,1741286191,1740767232,1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
+        let timestamps = [1743485390,1742417585,1742407664,1741301519,1741286191,1740767232,1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/06 | 2-11 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/03/24 | 0-3 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ❌ | 2025/03/24 | 0-5 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/03/11 | 9-11 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
@@ -170,5 +171,5 @@ Corporation ID: e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742849585"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743917390"></span>
 </div>

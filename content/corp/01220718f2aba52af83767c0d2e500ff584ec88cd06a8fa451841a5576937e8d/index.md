@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:13 L:10 D:1 Bonus ✅ 
+description: W:14 L:10 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 6 - 9 **Best UA West**
-date: 2025-04-01T08:31:58.000Z
+Summary: ✅ 6 - 0 **love do you 👻**
+date: 2025-04-06T04:29:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-01T08:31:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (338)|
-| ELO Competitive | 1314 🔺  (290)|
-| Total Matches | 24 |
-| Wins | 13 |
+| ELO Regular | 1248 🔺  (284)|
+| ELO Competitive | 1324 🔺  (265)|
+| Total Matches | 25 |
+| Wins | 14 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/06 | 6-0 | [love do you 👻](https://ws.tsl.rocks/corp/8bf1cff7b7ecfba046b45aaaf239229375c2d75a021cfd13eae13ce99fbf83bc/) |
 | ❌ | 2025/04/01 | 6-9 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
 | ✅ | 2025/03/31 | 6-0 | [Система Редарфа](https://ws.tsl.rocks/corp/7955df4f6e3d4e40b31e17dd1ae410181ccce8d2f8460b49f6a92ef187042dca/) |
 | ✅ | 2025/03/27 | 3-0 | [✨🔰🔫💓🔰✨😝](https://ws.tsl.rocks/corp/05bb6e34dd52a8ccb3835f8f87ccede7ffb56741414ac7b3dd10e88a542c6c07/) |
@@ -172,5 +173,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743496318"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743913784"></span>
 </div>

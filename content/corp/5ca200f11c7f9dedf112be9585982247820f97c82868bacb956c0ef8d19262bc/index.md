@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Light
-description: W:19 L:34 D:1 Bonus ✅ 36%
+description: W:20 L:34 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 1 **普罗米修斯**
-date: 2025-03-30T10:37:07.000Z
+Summary: ✅ 22 - 5 **DarkSide**
+date: 2025-04-06T04:39:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ space of this game. WS every week. Join us into the Light!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔺  (1295)|
-| ELO Competitive | 1264 🔺  (406)|
-| Total Matches | 54 |
-| Wins | 19 |
+| ELO Regular | 1143 🔺  (1232)|
+| ELO Competitive | 1283 🔺  (356)|
+| Total Matches | 55 |
+| Wins | 20 |
 | Losses | 34 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 7 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742899027,1742372196,1741828291,1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1743482385,1742899027,1742372196,1741828291,1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/06 | 22-5 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2025/03/30 | 17-1 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2025/03/24 | 19-5 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2025/03/18 | 7-8 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
@@ -205,5 +206,5 @@ Corporation ID: 5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743331027"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743914385"></span>
 </div>

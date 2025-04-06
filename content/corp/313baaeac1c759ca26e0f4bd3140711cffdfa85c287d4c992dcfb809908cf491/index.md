@@ -1,6 +1,6 @@
 ---
 title: ​Legion
-description: W:52 L:43 D:0 Bonus ✅ 52%
+description: W:52 L:43 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 26 - 59 **Hinterm Mond**
 date: 2025-04-05T15:33:24.000Z
@@ -18,7 +18,7 @@ r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 <br>
 
 ### [Discord](https://discord.gg/mA6tbqzS55)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
