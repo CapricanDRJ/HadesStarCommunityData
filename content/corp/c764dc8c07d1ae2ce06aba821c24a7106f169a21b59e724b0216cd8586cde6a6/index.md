@@ -1,6 +1,6 @@
 ---
 title: ​украина№1
-description: W:49 L:53 D:0 Bonus ✅ 46%
+description: W:49 L:53 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 29 **Corp\. Luminá**
 date: 2025-04-04T14:15:40.000Z
@@ -18,12 +18,12 @@ date: 2025-04-04T14:15:40.000Z
 <br>
 
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (1170)|
-| ELO Competitive | 1400 🔻  (163)|
+| ELO Competitive | 1400 🔻  (162)|
 | Total Matches | 102 |
 | Wins | 49 |
 | Losses | 53 |
