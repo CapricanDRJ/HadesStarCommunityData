@@ -1,9 +1,9 @@
 ---
 title: ​Pixies
-description: W:14 L:7 D:0 Bonus ❌ 6%
+description: W:14 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 5 - 34 **仙女座星雲**
-date: 2025-02-22T07:59:26.000Z
+Summary: ❌ 9 - 25 **Серебряная орда**
+date: 2025-04-06T11:20:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ white star active
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (290)|
-| ELO Competitive | 1319 🔻  (278)|
-| Total Matches | 21 |
+| ELO Regular | 1226 🔻  (365)|
+| ELO Competitive | 1305 🔻  (302)|
+| Total Matches | 22 |
 | Wins | 14 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739779166,1738599097,1736696260,1735302750,1733516748,1732708420,1731857738,1730929483,1729794501,1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
+        let timestamps = [1743506421,1739779166,1738599097,1736696260,1735302750,1733516748,1732708420,1731857738,1730929483,1729794501,1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/06 | 9-25 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2025/02/22 | 5-34 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2025/02/08 | 25-4 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2025/01/17 | 1-23 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
@@ -171,5 +172,5 @@ Corporation ID: fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740211166"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743938421"></span>
 </div>

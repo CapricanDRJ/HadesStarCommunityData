@@ -1,9 +1,9 @@
 ---
 title: ​Ещё один Миф
-description: W:13 L:23 D:0 Bonus ❌ 10%
+description: W:13 L:24 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 0 - 33 **Stella☆Glow**
-date: 2025-03-30T20:23:16.000Z
+Summary: ❌ 0 - 42 **绛紫星**
+date: 2025-04-06T12:15:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-03-30T20:23:16.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1204)|
-| ELO Competitive | 1240 🔻  (476)|
-| Total Matches | 36 |
+| ELO Regular | 1138 🔻  (1258)|
+| ELO Competitive | 1232 🔻  (493)|
+| Total Matches | 37 |
 | Wins | 13 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742934196,1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1743509703,1742934196,1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/06 | 0-42 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2025/03/30 | 0-33 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/03/18 | 2-27 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2025/03/12 | 37-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
@@ -190,5 +191,5 @@ Corporation ID: b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743366196"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743941703"></span>
 </div>

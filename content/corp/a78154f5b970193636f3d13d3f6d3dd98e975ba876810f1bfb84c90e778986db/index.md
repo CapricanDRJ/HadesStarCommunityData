@@ -20,7 +20,7 @@ inaktiv <3
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (455)|
-| ELO Competitive | 1214 🔺  (613)|
+| ELO Competitive | 1214 🔺  (612)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:2 L:3 D:0 Bonus ✅ 
+description: W:2 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 15 **对，进就进人少的（分团）**
-date: 2025-04-01T14:02:34.000Z
+Summary: ❌ 0 - 7 **💮問鼎無垠💮**
+date: 2025-04-06T11:50:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-01T14:02:34.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (569)|
-| ELO Competitive | 1223 🔺  (529)|
-| Total Matches | 5 |
+| ELO Regular | 1187 🔻  (706)|
+| ELO Competitive | 1213 🔻  (617)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743084154,1743075437,1742621938,1742608416,1742123973];
+        let timestamps = [1743508224,1743084154,1743075437,1742621938,1742608416,1742123973];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/06 | 0-7 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/04/01 | 3-15 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/04/01 | 6-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2025/03/27 | 1-10 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
@@ -146,5 +147,5 @@ Corporation ID: 055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743516154"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743940224"></span>
 </div>
