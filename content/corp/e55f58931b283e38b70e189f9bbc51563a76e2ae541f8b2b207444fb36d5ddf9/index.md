@@ -1,6 +1,6 @@
 ---
 title: ​Cydonia Order
-description: W:25 L:15 D:3 Bonus ✅ 36%
+description: W:25 L:15 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **Seila**
 date: 2025-03-31T00:03:39.000Z
@@ -15,7 +15,7 @@ THE CYDONIAN EMPIRE™
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

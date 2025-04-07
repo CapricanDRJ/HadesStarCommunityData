@@ -1,6 +1,6 @@
 ---
 title: ​莫比乌斯-星环
-description: W:5 L:7 D:0 Bonus ✅ 
+description: W:5 L:7 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 14 - 2 **リリース**
 date: 2025-03-30T22:43:31.000Z
@@ -15,7 +15,7 @@ date: 2025-03-30T22:43:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
