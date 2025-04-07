@@ -1,9 +1,9 @@
 ---
 title: ​普罗米修斯
-description: W:11 L:26 D:1 Bonus ❌ 7%
+description: W:11 L:27 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 3 - 9 **Alterra Corp**
-date: 2025-03-30T13:22:25.000Z
+Summary: ❌ 0 - 28 **MiddleOfNowhere**
+date: 2025-04-07T04:32:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Q：650722059
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1410)|
-| ELO Competitive | 1199 🔻  (722)|
-| Total Matches | 38 |
+| ELO Regular | 1066 🔻  (1413)|
+| ELO Competitive | 1189 🔻  (863)|
+| Total Matches | 39 |
 | Wins | 11 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742908945,1742899027,1742456644,1742433511,1741972213,1741970710,1741512774,1741483928,1741027783,1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
+        let timestamps = [1743568331,1742908945,1742899027,1742456644,1742433511,1741972213,1741970710,1741512774,1741483928,1741027783,1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/07 | 0-28 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ❌ | 2025/03/30 | 3-9 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
 | ❌ | 2025/03/30 | 1-17 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2025/03/25 | 0-9 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
@@ -189,5 +190,5 @@ Corporation ID: f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743340945"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744000331"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​MiddleOfNowhere
-description: W:7 L:1 D:0 Bonus ❌ 6%
+description: W:8 L:1 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 26 - 2 **Prosperity**
-date: 2025-03-26T19:42:57.000Z
+Summary: ✅ 28 - 0 **普罗米修斯**
+date: 2025-04-07T04:32:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 <br>
 
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (215)|
-| ELO Competitive | 1311 🔺  (293)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1285 🔺  (204)|
+| ELO Competitive | 1322 🔺  (275)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 4 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742586177,1741799743,1741126042,1740306268,1739690216,1739111761,1738523672,1724326221];
+        let timestamps = [1743568331,1742586177,1741799743,1741126042,1740306268,1739690216,1739111761,1738523672,1724326221];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 28-0 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2025/03/26 | 26-2 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
 | ✅ | 2025/03/17 | 31-0 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) |
 | ✅ | 2025/03/09 | 29-12 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
@@ -154,5 +155,5 @@ Corporation ID: 5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743018177"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744000331"></span>
 </div>
