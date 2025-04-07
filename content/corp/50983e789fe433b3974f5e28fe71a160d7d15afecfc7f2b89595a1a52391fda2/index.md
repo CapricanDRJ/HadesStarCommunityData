@@ -1,9 +1,9 @@
 ---
 title: ​ITALIA
-description: W:28 L:2 D:0 Bonus ✅ 34%
+description: W:29 L:2 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 17 - 0 **Stargroup**
-date: 2025-04-01T12:12:21.000Z
+Summary: ✅ 30 - 0 **Stone Legion**
+date: 2025-04-07T21:03:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ ui giàce NONNA DI CAPPUCCETTO.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1445 🔺  (31)|
-| ELO Competitive | 1477 🔺  (96)|
-| Total Matches | 30 |
-| Wins | 28 |
+| ELO Regular | 1454 🔺  (26)|
+| ELO Competitive | 1488 🔺  (90)|
+| Total Matches | 31 |
+| Wins | 29 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 8 |
+| Streak | 9 |
 | Streak Record | 20 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743077541,1743029464,1742336743,1741733040,1741386262,1741132051,1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1743627838,1743077541,1743029464,1742336743,1741733040,1741386262,1741132051,1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 30-0 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ✅ | 2025/04/01 | 17-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2025/03/31 | 31-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/03/23 | 30-0 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
@@ -181,5 +182,5 @@ Corporation ID: 50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743509541"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744059838"></span>
 </div>

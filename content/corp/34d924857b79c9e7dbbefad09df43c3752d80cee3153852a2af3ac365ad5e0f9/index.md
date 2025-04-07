@@ -1,9 +1,9 @@
 ---
 title: ​复生会
-description: W:2 L:5 D:0 Bonus ❌ 
+description: W:3 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 1 - 5 **Terran empire **
-date: 2025-02-13T16:23:47.000Z
+Summary: ✅ 8 - 0 **The Witness**
+date: 2025-04-07T19:03:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-02-13T16:23:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (1036)|
-| ELO Competitive | 1202 🔺  (685)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1178 🔺  (921)|
+| ELO Competitive | 1215 🔺  (591)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739031827,1739027919,1738126683,1737597810,1737588498,1737125414,1736685435];
+        let timestamps = [1743620623,1739031827,1739027919,1738126683,1737597810,1737588498,1737125414,1736685435];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 8-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/02/13 | 1-5 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/02/13 | 6-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2025/02/03 | 0-11 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
@@ -148,5 +149,5 @@ Corporation ID: 34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739463827"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744052623"></span>
 </div>
