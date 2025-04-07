@@ -1,9 +1,9 @@
 ---
 title: ​Bow Down
-description: W:5 L:3 D:0 Bonus ❌ 
+description: W:5 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 8 - 0 **银河护卫队**
-date: 2025-03-21T06:38:28.000Z
+Summary: ❌ 1 - 2 **分子联合集团乄原态之势**
+date: 2025-04-07T18:33:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-03-21T06:38:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (335)|
-| ELO Competitive | 1264 🔺  (407)|
-| Total Matches | 8 |
+| ELO Regular | 1221 🔻  (390)|
+| ELO Competitive | 1248 🔻  (449)|
+| Total Matches | 9 |
 | Wins | 5 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742107108,1741635683,1741631140,1741108911,1740630544,1740058045,1739613884,1739072692];
+        let timestamps = [1743618830,1742107108,1741635683,1741631140,1741108911,1740630544,1740058045,1739613884,1739072692];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/07 | 1-2 | [分子联合集团乄原态之势](https://ws.tsl.rocks/corp/55e56b06503ea1978636e827e0b6164a07059e0924e61d39e197fd50766a984f/) |
 | ✅ | 2025/03/21 | 8-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2025/03/15 | 12-1 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ❌ | 2025/03/15 | 0-6 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
@@ -151,5 +151,5 @@ Corporation ID: 402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742539108"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744050830"></span>
 </div>

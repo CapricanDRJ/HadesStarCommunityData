@@ -1,9 +1,9 @@
 ---
 title: ​分子联合集团乄原态之势
-description: W:2 L:0 D:0 Bonus ❌ 
+description: W:3 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 8 - 0 **宇宙联盟（中国）**
-date: 2025-03-26T11:41:58.000Z
+Summary: ✅ 2 - 1 **Bow Down**
+date: 2025-04-07T18:33:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-03-26T11:41:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (347)|
-| ELO Competitive | 1239 🔺  (478)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1247 🔺  (288)|
+| ELO Competitive | 1256 🔺  (429)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742557318,1741790425];
+        let timestamps = [1743618830,1742557318,1741790425];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 2-1 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/03/26 | 8-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/03/17 | 6-1 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 
@@ -145,5 +146,5 @@ Corporation ID: 55e56b06503ea1978636e827e0b6164a07059e0924e61d39e197fd50766a984f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742989318"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744050830"></span>
 </div>
