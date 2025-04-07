@@ -1,6 +1,6 @@
 ---
 title: ​Internationals
-description: W:47 L:19 D:0 Bonus ✅ 54%
+description: W:47 L:19 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 33 - 37 **Españoles**
 date: 2025-04-06T16:00:54.000Z
@@ -18,12 +18,12 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1395 🔻  (66)|
-| ELO Competitive | 1516 🔻  (68)|
+| ELO Competitive | 1516 🔻  (67)|
 | Total Matches | 66 |
 | Wins | 47 |
 | Losses | 19 |

@@ -1,6 +1,6 @@
 ---
 title: ​United Stars 
-description: W:42 L:26 D:3 Bonus ✅ 40%
+description: W:42 L:26 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 34 - 3 **Death Flight**
 date: 2025-03-31T01:38:47.000Z
@@ -20,11 +20,11 @@ Join the family! Active on discord!
 <br>
 
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔺  (102)|
+| ELO Regular | 1356 🔺  (104)|
 | ELO Competitive | 1463 🔺  (106)|
 | Total Matches | 71 |
 | Wins | 42 |

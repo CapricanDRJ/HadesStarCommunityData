@@ -1,9 +1,9 @@
 ---
 title: ​星河绮梦
-description: W:40 L:8 D:0 Bonus ❌ 8%
+description: W:40 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **hades star萌新指引站**
-date: 2025-04-01T13:22:29.000Z
+Summary: ❌ 2 - 5 **РARADISЕ**
+date: 2025-04-07T00:56:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,11 +30,11 @@ QQ群：131920392
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔻  (51)|
-| ELO Competitive | 1525 🔻  (63)|
-| Total Matches | 48 |
+| ELO Regular | 1396 🔻  (65)|
+| ELO Competitive | 1502 🔻  (78)|
+| Total Matches | 49 |
 | Wins | 40 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 18 |
 | Flagship | 4 |
@@ -55,7 +55,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743081749,1742623942,1742621938,1742090806,1738289549,1737773895,1737211665,1736771088,1736207894,1735602640,1735056081,1734477386,1733924804,1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1743555412,1743081749,1742623942,1742621938,1742090806,1738289549,1737773895,1737211665,1736771088,1736207894,1735602640,1735056081,1734477386,1733924804,1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/07 | 2-5 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ❌ | 2025/04/01 | 0-3 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2025/03/27 | 1-8 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 | ✅ | 2025/03/27 | 10-1 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
@@ -207,5 +208,5 @@ Corporation ID: ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743513749"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1743987412"></span>
 </div>
