@@ -1,6 +1,6 @@
 ---
 title: ​Sentencia
-description: W:26 L:4 D:0 Bonus ✅ 36%
+description: W:26 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 24 - 8 **Industrial W\.O**
 date: 2025-03-31T15:45:12.000Z
@@ -17,7 +17,7 @@ r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
