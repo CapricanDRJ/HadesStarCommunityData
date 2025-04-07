@@ -1,9 +1,9 @@
 ---
 title: ​Blazing Stars
-description: W:19 L:3 D:1 Bonus ✅ 34%
+description: W:20 L:3 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 31 - 0 **✨ℛedstar Order«**
-date: 2025-04-07T02:52:02.000Z
+Summary: ✅ 15 - 3 **星河绮梦**
+date: 2025-04-07T10:04:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ e Hades Galaxy. Join us and have fun
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔺  (91)|
-| ELO Competitive | 1422 🔺  (140)|
-| Total Matches | 23 |
-| Wins | 19 |
+| ELO Regular | 1383 🔺  (81)|
+| ELO Competitive | 1429 🔺  (132)|
+| Total Matches | 24 |
+| Wins | 20 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 11 |
 | Flagship | 1 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743562322,1743017140,1742915258,1742256835,1741789524,1741659119,1741200256,1740392509,1739811322,1739362974,1738673620,1738597294,1737981541,1737074631,1736210051,1734861679,1734427199,1734397460,1733875537,1733834367,1733039129,1732682281,1732592440];
+        let timestamps = [1743588253,1743562322,1743017140,1742915258,1742256835,1741789524,1741659119,1741200256,1740392509,1739811322,1739362974,1738673620,1738597294,1737981541,1737074631,1736210051,1734861679,1734427199,1734397460,1733875537,1733834367,1733039129,1732682281,1732592440];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 15-3 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2025/04/07 | 31-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/03/31 | 19-1 | [DarkSide](https://ws.tsl.rocks/corp/557178dd3a3d43ff1751021bfc2d8c1d4261336a45f90d392f3dd275d8a0a941/) |
 | ✅ | 2025/03/30 | 25-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
@@ -174,5 +175,5 @@ Corporation ID: f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743994322"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744020253"></span>
 </div>

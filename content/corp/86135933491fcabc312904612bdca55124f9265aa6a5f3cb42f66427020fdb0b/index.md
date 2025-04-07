@@ -1,6 +1,6 @@
 ---
 title: ​Newbs
-description: W:44 L:26 D:2 Bonus ✅ 44%
+description: W:44 L:26 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 37 - 15 **Polaris Corpo**
 date: 2025-03-31T11:34:42.000Z
@@ -18,12 +18,12 @@ rience and have some fun!
 <br>
 
 ### [Discord](https://discord.gg/WKKwkbPsya)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔺  (134)|
-| ELO Competitive | 1429 🔺  (132)|
+| ELO Regular | 1332 🔺  (135)|
+| ELO Competitive | 1429 🔺  (133)|
 | Total Matches | 72 |
 | Wins | 44 |
 | Losses | 26 |

@@ -1,9 +1,9 @@
 ---
 title: ​GN星际联合
-description: W:4 L:3 D:0 Bonus ❌ 
+description: W:5 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 16 **星际造梦**
-date: 2025-03-18T13:12:33.000Z
+Summary: ✅ 12 - 7 **северный шторм**
+date: 2025-04-07T11:37:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-18T13:12:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (492)|
-| ELO Competitive | 1221 🔻  (541)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1222 🔺  (385)|
+| ELO Competitive | 1240 🔺  (477)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
+        let timestamps = [1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 12-7 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2025/03/18 | 3-16 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ❌ | 2025/02/18 | 0-14 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/02/11 | 8-4 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
@@ -149,5 +150,5 @@ Corporation ID: 5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742303553"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744025870"></span>
 </div>
