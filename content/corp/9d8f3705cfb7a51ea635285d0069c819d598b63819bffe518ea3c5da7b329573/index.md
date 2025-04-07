@@ -1,9 +1,9 @@
 ---
 title: ​落魄山
-description: W:3 L:10 D:0 Bonus ✅ 
+description: W:3 L:10 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 31 **47підрозділССП**
-date: 2025-04-07T02:33:58.000Z
+Summary: ↔️ 0 - 0 **骊珠洞天**
+date: 2025-04-07T07:02:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-04-07T02:33:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1235)|
-| ELO Competitive | 1199 🔻  (719)|
-| Total Matches | 13 |
+| ELO Regular | 1144 🔺  (1221)|
+| ELO Competitive | 1207 🔺  (653)|
+| Total Matches | 14 |
 | Wins | 3 |
 | Losses | 10 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743561238,1743073333,1743029464,1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
+        let timestamps = [1743577344,1743561238,1743073333,1743029464,1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,13 +132,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 1 | 1 | 0 | 2 |
+| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 1 | 1 | 1 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/07 | 0-0 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 | ❌ | 2025/04/07 | 0-31 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2025/04/01 | 10-1 | [Prodexus Domino](https://ws.tsl.rocks/corp/85917429bb52fbc2dac3f7310ca739f27cae6f39ad628c7d42e2985267005e77/) |
 | ❌ | 2025/03/31 | 0-31 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
@@ -159,5 +160,5 @@ Corporation ID: 9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743993238"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744009344"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​северный шторм
-description: W:15 L:18 D:1 Bonus ❌ 7%
+description: W:16 L:18 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 1 - 15 **很多星球的社会主义团**
-date: 2025-04-01T01:17:47.000Z
+Summary: ✅ 26 - 3 **King's Guard**
+date: 2025-04-07T09:07:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 2025-04-01T01:17:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔻  (428)|
-| ELO Competitive | 1302 🔻  (310)|
-| Total Matches | 34 |
-| Wins | 15 |
+| ELO Regular | 1220 🔺  (393)|
+| ELO Competitive | 1308 🔺  (298)|
+| Total Matches | 35 |
+| Wins | 16 |
 | Losses | 18 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743038267,1742969651,1742363483,1742359765,1741766385,1741762180,1741162092,1741157586,1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1743584855,1743038267,1742969651,1742363483,1742359765,1741766385,1741762180,1741162092,1741157586,1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 26-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2025/04/01 | 1-15 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ❌ | 2025/03/31 | 3-17 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2025/03/24 | 12-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
@@ -183,5 +184,5 @@ Corporation ID: 6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743470267"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744016855"></span>
 </div>

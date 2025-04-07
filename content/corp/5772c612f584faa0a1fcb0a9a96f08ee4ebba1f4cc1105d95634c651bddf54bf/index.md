@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Hades
-description: W:16 L:4 D:1 Bonus ✅ 
+description: W:16 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 9 **中国人民联盟**
 date: 2025-03-31T10:44:35.000Z
@@ -15,7 +15,7 @@ date: 2025-03-31T10:44:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

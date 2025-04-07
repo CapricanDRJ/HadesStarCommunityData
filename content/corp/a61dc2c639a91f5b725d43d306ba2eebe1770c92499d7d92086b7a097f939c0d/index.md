@@ -1,9 +1,9 @@
 ---
 title: ​Эдем
-description: W:18 L:15 D:0 Bonus ❌ 7%
+description: W:19 L:15 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 13 - 4 **imperio estelar**
-date: 2025-03-28T08:32:00.000Z
+Summary: ✅ 29 - 0 **●Black•Sails●**
+date: 2025-04-07T09:27:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ date: 2025-03-28T08:32:00.000Z
 <br>
 
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (283)|
-| ELO Competitive | 1341 🔺  (234)|
-| Total Matches | 33 |
-| Wins | 18 |
+| ELO Regular | 1259 🔺  (252)|
+| ELO Competitive | 1351 🔺  (225)|
+| Total Matches | 34 |
+| Wins | 19 |
 | Losses | 15 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742718720,1741969206,1741279879,1740842063,1740551782,1740325505,1740104037,1739624102,1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
+        let timestamps = [1743586057,1742718720,1741969206,1741279879,1740842063,1740551782,1740325505,1740104037,1739624102,1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -131,12 +132,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/07 | 29-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2025/03/28 | 13-4 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2025/03/19 | 4-5 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/03/11 | 4-22 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
@@ -177,5 +184,5 @@ Corporation ID: a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743150720"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744018057"></span>
 </div>

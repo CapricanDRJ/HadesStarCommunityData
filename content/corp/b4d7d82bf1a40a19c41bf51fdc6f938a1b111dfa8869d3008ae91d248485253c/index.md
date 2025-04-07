@@ -1,9 +1,9 @@
 ---
 title: ​骊珠洞天
-description: W:4 L:5 D:0 Bonus ✅ 
+description: W:4 L:5 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 19 **リリース**
-date: 2025-04-07T02:21:59.000Z
+Summary: ↔️ 0 - 0 **落魄山**
+date: 2025-04-07T07:02:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-04-07T02:21:59.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (781)|
-| ELO Competitive | 1250 🔻  (442)|
-| Total Matches | 9 |
+| ELO Regular | 1183 🔻  (884)|
+| ELO Competitive | 1254 🔻  (431)|
+| Total Matches | 10 |
 | Wins | 4 |
 | Losses | 5 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743560519,1743119921,1743054559,1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
+        let timestamps = [1743577344,1743560519,1743119921,1743054559,1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,14 +133,15 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 1 | 1 | 1 | 3 |
 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) | 0 | 2 | 0 | 2 |
-| [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/07 | 0-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/04/07 | 0-19 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2025/04/01 | 16-4 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 | ❌ | 2025/04/01 | 0-10 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
@@ -157,5 +158,5 @@ Corporation ID: b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743992519"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744009344"></span>
 </div>

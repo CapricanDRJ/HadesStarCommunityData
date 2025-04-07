@@ -21,7 +21,7 @@ open via discord to visitors. We are a tight-knit and supportive crew
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (583)|
+| ELO Regular | 1195 🔻  (584)|
 | ELO Competitive | 1196 🔻  (746)|
 | Total Matches | 1 |
 | Wins | 0 |
