@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的（分团）
-description: W:23 L:17 D:1 Bonus ✅ 34%
+description: W:23 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 2 - 10 **Black Pearl FR**
 date: 2025-04-08T06:44:49.000Z
@@ -17,7 +17,7 @@ o华浩 QQ767311697
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

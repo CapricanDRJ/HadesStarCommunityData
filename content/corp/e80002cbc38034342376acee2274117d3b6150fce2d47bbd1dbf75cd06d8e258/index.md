@@ -1,6 +1,6 @@
 ---
 title: ​OPA
-description: W:58 L:22 D:0 Bonus ✅ 42%
+description: W:58 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 23 **Бороская Имерия**
 date: 2025-04-08T11:50:18.000Z
@@ -19,7 +19,7 @@ Discord required : discord.gg/2RmfWZB777
 <br>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​The Syndicate 
-description: W:33 L:7 D:0 Bonus ✅ 36%
+description: W:33 L:7 D:0 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ✅ 9 - 1 **Winter Star llc**
 date: 2025-04-01T15:55:05.000Z
@@ -20,7 +20,7 @@ ons.
 <br>
 
 ### [Discord](https://discord.gg/B3N5by8zUb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |

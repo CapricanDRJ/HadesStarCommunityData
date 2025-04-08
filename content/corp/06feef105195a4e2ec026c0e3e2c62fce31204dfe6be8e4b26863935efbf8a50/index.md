@@ -1,6 +1,6 @@
 ---
 title: ​hades star萌新指引站
-description: W:15 L:12 D:1 Bonus ✅ 32%
+description: W:15 L:12 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **星河绮梦**
 date: 2025-04-01T13:22:29.000Z
@@ -15,11 +15,11 @@ date: 2025-04-01T13:22:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (336)|
+| ELO Regular | 1235 🔺  (337)|
 | ELO Competitive | 1284 🔺  (354)|
 | Total Matches | 28 |
 | Wins | 15 |
