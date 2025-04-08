@@ -1,6 +1,6 @@
 ---
 title: ​Best UA West
-description: W:1 L:4 D:0 Bonus ✅ 32%
+description: W:1 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 9 - 6 **✨ℛedstar Order«**
 date: 2025-04-01T08:31:58.000Z
@@ -15,7 +15,7 @@ Discord https://discord.gg/mXaAX7Caga
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

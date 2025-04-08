@@ -1,6 +1,6 @@
 ---
 title: ​S.U.N
-description: W:9 L:5 D:1 Bonus ✅ 32%
+description: W:9 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **Glashan**
 date: 2025-04-01T08:31:58.000Z
@@ -15,7 +15,7 @@ date: 2025-04-01T08:31:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

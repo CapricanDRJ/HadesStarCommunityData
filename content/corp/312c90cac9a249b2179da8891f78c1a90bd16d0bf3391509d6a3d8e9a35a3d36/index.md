@@ -1,9 +1,9 @@
 ---
 title: ​United Stars 
-description: W:42 L:26 D:3 Bonus ❌ 10%
+description: W:43 L:26 D:3 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 34 - 3 **Death Flight**
-date: 2025-03-31T01:38:47.000Z
+Summary: ✅ 33 - 13 **Свободный флот**
+date: 2025-04-08T09:35:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,16 +20,17 @@ Join the family! Active on discord!
 <br>
 
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔺  (104)|
-| ELO Competitive | 1463 🔺  (108)|
-| Total Matches | 71 |
-| Wins | 42 |
+| ELO Regular | 1363 🔺  (97)|
+| ELO Competitive | 1478 🔺  (97)|
+| Total Matches | 72 |
+| Wins | 43 |
 | Losses | 26 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 13 |
 | Flagship | 8 |
 
@@ -49,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742953127,1742297967,1741727029,1740971596,1740317388,1739686310,1739066984,1738477979,1737214972,1736640058,1735874561,1735434667,1734975562,1734523048,1733968377,1733355399,1732880159,1732398320,1731809957,1731293712,1730426451,1729260805,1728517555,1727454328,1726747274,1725219041,1724453644,1723708657,1723208006,1722561010,1722553500,1721879732,1721324090,1720650575,1719101106,1717823149,1717729906,1717129108,1716385389,1715838275,1715278834,1714789099,1713992769,1713368439,1712900587,1712280708,1711538216,1710891909,1710333027,1709731785,1709141352,1708690614,1708202314,1707491180,1706911953,1706394166,1706368619,1705895614,1705463472,1704991670,1704503934,1704060680,1703619516,1703105320,1702527487,1701903251,1701383011,1700719392,1699969769,1699426340,1698888451];
+        let timestamps = [1743672904,1742953127,1742297967,1741727029,1740971596,1740317388,1739686310,1739066984,1738477979,1737214972,1736640058,1735874561,1735434667,1734975562,1734523048,1733968377,1733355399,1732880159,1732398320,1731809957,1731293712,1730426451,1729260805,1728517555,1727454328,1726747274,1725219041,1724453644,1723708657,1723208006,1722561010,1722553500,1721879732,1721324090,1720650575,1719101106,1717823149,1717729906,1717129108,1716385389,1715838275,1715278834,1714789099,1713992769,1713368439,1712900587,1712280708,1711538216,1710891909,1710333027,1709731785,1709141352,1708690614,1708202314,1707491180,1706911953,1706394166,1706368619,1705895614,1705463472,1704991670,1704503934,1704060680,1703619516,1703105320,1702527487,1701903251,1701383011,1700719392,1699969769,1699426340,1698888451];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 1 | 1 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 4 | 0 | 0 | 4 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) | 0 | 2 | 0 | 2 |
@@ -151,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/08 | 33-13 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2025/03/31 | 34-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2025/03/23 | 15-50 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ✅ | 2025/03/16 | 37-0 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
@@ -229,5 +232,5 @@ Corporation ID: 312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743385127"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744104904"></span>
 </div>
