@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:24 L:19 D:0 Bonus ✅ 38%
+description: W:24 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 21 - 39 **Держава Русь**
 date: 2025-04-06T08:50:07.000Z
@@ -17,12 +17,12 @@ date: 2025-04-06T08:50:07.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔻  (280)|
-| ELO Competitive | 1397 🔻  (167)|
+| ELO Competitive | 1397 🔻  (168)|
 | Total Matches | 43 |
 | Wins | 24 |
 | Losses | 19 |

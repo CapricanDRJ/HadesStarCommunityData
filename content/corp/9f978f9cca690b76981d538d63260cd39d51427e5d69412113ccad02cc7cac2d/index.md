@@ -23,7 +23,7 @@ ether to excel!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1261 🔺  (247)|
-| ELO Competitive | 1322 🔺  (274)|
+| ELO Competitive | 1322 🔺  (272)|
 | Total Matches | 41 |
 | Wins | 26 |
 | Losses | 15 |

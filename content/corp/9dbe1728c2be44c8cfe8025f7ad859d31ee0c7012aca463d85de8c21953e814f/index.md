@@ -1,6 +1,6 @@
 ---
 title: ​星域 
-description: W:11 L:14 D:0 Bonus ✅ 32%
+description: W:11 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **骊珠洞天**
 date: 2025-04-01T05:49:19.000Z
@@ -15,12 +15,12 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔺  (1017)|
-| ELO Competitive | 1332 🔺  (251)|
+| ELO Competitive | 1332 🔺  (250)|
 | Total Matches | 25 |
 | Wins | 11 |
 | Losses | 14 |

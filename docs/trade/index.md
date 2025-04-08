@@ -312,12 +312,23 @@ searchHidden: true
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>8</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS7</td>
+                    <td>248%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
                 <tr>
-                    <td>2</td>
-                    <td><img src="trade.png" alt="trade"></td>
+                    <td>8</td>
+                    <td><img src="mining.png" alt="mining"></td>
                     <td>RS6</td>
                     <td>240%</td>
                 </tr>
