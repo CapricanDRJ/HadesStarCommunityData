@@ -1,6 +1,6 @@
 ---
 title: ​神圣群星帝国
-description: W:2 L:5 D:0 Bonus ✅ 
+description: W:2 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 17 **Starships**
 date: 2025-04-06T18:11:10.000Z
@@ -15,11 +15,11 @@ date: 2025-04-06T18:11:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (942)|
+| ELO Regular | 1176 🔻  (943)|
 | ELO Competitive | 1213 🔻  (621)|
 | Total Matches | 7 |
 | Wins | 2 |

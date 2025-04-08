@@ -22,8 +22,8 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1293 🔺  (192)|
-| ELO Competitive | 1340 🔺  (234)|
+| ELO Regular | 1293 🔺  (193)|
+| ELO Competitive | 1340 🔺  (237)|
 | Total Matches | 23 |
 | Wins | 13 |
 | Losses | 10 |

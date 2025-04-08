@@ -1,6 +1,6 @@
 ---
 title: ​Mercury Sunset
-description: W:55 L:0 D:0 Bonus ✅ 38%
+description: W:55 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 28 - 0 **Prosperity**
 date: 2025-04-01T11:09:02.000Z
@@ -16,7 +16,7 @@ The sunset of the dying star was covered in drops of mercury.
 <br>
 
 ### [Discord](https://discord.gg/hnywHXhtg5)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
