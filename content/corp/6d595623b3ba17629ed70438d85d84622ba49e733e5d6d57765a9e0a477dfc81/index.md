@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:51 L:53 D:3 Bonus ✅ 38%
+description: W:51 L:53 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **六大天神**
 date: 2025-04-01T14:47:39.000Z
@@ -27,11 +27,11 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (399)|
+| ELO Regular | 1219 🔻  (398)|
 | ELO Competitive | 1404 🔺  (160)|
 | Total Matches | 107 |
 | Wins | 51 |
