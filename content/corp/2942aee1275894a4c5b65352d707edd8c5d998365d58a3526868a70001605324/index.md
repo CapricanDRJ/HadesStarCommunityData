@@ -1,9 +1,9 @@
 ---
 title: ​毛绒团子
-description: W:15 L:1 D:0 Bonus ❌ 
+description: W:16 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 19 - 3 **羽共和体**
-date: 2025-04-01T11:42:17.000Z
+Summary: ✅ 12 - 1 **Red Alliance**
+date: 2025-04-08T17:15:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-04-01T11:42:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔺  (69)|
-| ELO Competitive | 1397 🔺  (167)|
-| Total Matches | 16 |
-| Wins | 15 |
+| ELO Regular | 1397 🔺  (65)|
+| ELO Competitive | 1407 🔺  (160)|
+| Total Matches | 17 |
+| Wins | 16 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 15 |
-| Streak Record | 15 |
+| Streak | 16 |
+| Streak Record | 16 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743075737,1742498421,1741865543,1741863740,1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
+        let timestamps = [1743700558,1743075737,1742498421,1741865543,1741863740,1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/08 | 12-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/04/01 | 19-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2025/03/25 | 23-3 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2025/03/18 | 19-0 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
@@ -159,5 +160,5 @@ Corporation ID: 2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743507737"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744132558"></span>
 </div>
