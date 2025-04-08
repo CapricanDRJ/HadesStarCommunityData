@@ -1,6 +1,6 @@
 ---
 title: ​九州·华夏
-description: W:9 L:7 D:1 Bonus ✅ 
+description: W:9 L:7 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ↔️ 3 - 3 **神圣群星帝国**
 date: 2025-04-06T14:05:40.000Z
@@ -15,12 +15,12 @@ date: 2025-04-06T14:05:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1224 🔻  (377)|
-| ELO Competitive | 1281 🔻  (359)|
+| ELO Competitive | 1281 🔻  (360)|
 | Total Matches | 17 |
 | Wins | 9 |
 | Losses | 7 |
