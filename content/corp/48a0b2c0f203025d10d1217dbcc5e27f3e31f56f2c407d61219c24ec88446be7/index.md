@@ -1,6 +1,6 @@
 ---
 title: ​RGW
-description: W:34 L:14 D:0 Bonus ✅ 36%
+description: W:34 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 9 - 13 **9\-Й СКОРПИОН**
 date: 2025-04-08T18:01:03.000Z
@@ -15,7 +15,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

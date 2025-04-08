@@ -1,6 +1,6 @@
 ---
 title: ​The Witness
-description: W:19 L:40 D:5 Bonus ✅ 36%
+description: W:19 L:40 D:5 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **复生会**
 date: 2025-04-07T19:03:43.000Z
@@ -18,7 +18,7 @@ Note- Discord link is updated. Will expire in 7 DAYS
 <br>
 
 ### [Discord](https://discord.gg/CzUVew5w)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Spaceballs
-description: W:29 L:19 D:0 Bonus ✅ 38%
+description: W:29 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **对，进就进人少的**
 date: 2025-04-01T19:13:11.000Z
@@ -18,7 +18,7 @@ titans.com
 <br>
 
 ### [Discord](https://discord.gg/QhMTEDb8zt)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
