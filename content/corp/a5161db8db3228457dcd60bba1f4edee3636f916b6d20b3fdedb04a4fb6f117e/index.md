@@ -1,9 +1,9 @@
 ---
 title: ​Hades’ galaxy
-description: W:9 L:3 D:0 Bonus ✅ 
+description: W:10 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 14 - 0 **国际联盟**
-date: 2025-04-04T05:44:37.000Z
+Summary: ✅ 12 - 0 **Alterra Corp**
+date: 2025-04-09T09:17:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-04T05:44:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (228)|
-| ELO Competitive | 1300 🔺  (315)|
-| Total Matches | 12 |
-| Wins | 9 |
+| ELO Regular | 1280 🔺  (215)|
+| ELO Competitive | 1311 🔺  (296)|
+| Total Matches | 13 |
+| Wins | 10 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
+        let timestamps = [1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/09 | 12-0 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
 | ✅ | 2025/04/04 | 14-0 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2025/04/02 | 0-4 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2025/03/29 | 12-2 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
@@ -154,5 +156,5 @@ Corporation ID: a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743745477"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744190253"></span>
 </div>
