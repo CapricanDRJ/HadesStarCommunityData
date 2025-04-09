@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:24 L:12 D:0 Bonus ✅ 34%
+description: W:24 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **Czech Legion**
 date: 2025-04-02T15:40:14.000Z
@@ -17,7 +17,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

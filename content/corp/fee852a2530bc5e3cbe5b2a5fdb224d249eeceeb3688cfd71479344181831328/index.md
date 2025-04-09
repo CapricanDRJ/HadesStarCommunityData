@@ -1,6 +1,6 @@
 ---
 title: ​Red Dawn
-description: W:51 L:29 D:2 Bonus ✅ 44%
+description: W:51 L:29 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 19 - 9 **9\-Й СКОРПИОН**
 date: 2025-04-02T14:25:05.000Z
@@ -19,7 +19,7 @@ date: 2025-04-02T14:25:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
