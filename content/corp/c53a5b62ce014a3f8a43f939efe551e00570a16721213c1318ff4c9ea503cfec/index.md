@@ -22,7 +22,7 @@ o Discord No Entry
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔺  (927)|
-| ELO Competitive | 1187 🔺  (902)|
+| ELO Competitive | 1187 🔺  (901)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

@@ -23,7 +23,7 @@ to have you on board!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (449)|
-| ELO Competitive | 1226 🔺  (524)|
+| ELO Competitive | 1226 🔺  (525)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |
