@@ -1,6 +1,6 @@
 ---
 title: ​Kratos
-description: W:54 L:40 D:0 Bonus ✅ 38%
+description: W:54 L:40 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 13 - 1 **Red Alliance**
 date: 2025-04-02T20:55:51.000Z
@@ -16,11 +16,11 @@ Bienvenidos 😁
 <br>
 
 ### [Discord](https://discord.gg/RgusRrPMKT)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (311)|
+| ELO Regular | 1240 🔺  (310)|
 | ELO Competitive | 1379 🔺  (190)|
 | Total Matches | 94 |
 | Wins | 54 |
