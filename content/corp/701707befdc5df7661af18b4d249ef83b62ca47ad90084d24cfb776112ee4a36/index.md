@@ -1,6 +1,6 @@
 ---
 title: ​星系联盟
-description: W:9 L:5 D:0 Bonus ✅ 32%
+description: W:9 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 20 - 0 **墨痕空域**
 date: 2025-04-02T11:59:48.000Z
@@ -16,7 +16,7 @@ date: 2025-04-02T11:59:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

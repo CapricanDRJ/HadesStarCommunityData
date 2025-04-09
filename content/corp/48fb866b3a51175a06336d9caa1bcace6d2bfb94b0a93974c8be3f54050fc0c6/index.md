@@ -1,6 +1,6 @@
 ---
 title: ​Свободный флот
-description: W:55 L:67 D:2 Bonus ✅ 40%
+description: W:55 L:67 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **Dark Training**
 date: 2025-04-08T11:10:14.000Z
@@ -18,7 +18,7 @@ date: 2025-04-08T11:10:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

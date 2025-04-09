@@ -1,9 +1,9 @@
 ---
 title: ​ALPHA SQUADRON
-description: W:4 L:2 D:0 Bonus ❌ 
+description: W:4 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 11 **九州·华夏**
-date: 2025-03-16T12:12:51.000Z
+Summary: ❌ 0 - 3 **ITALIA**
+date: 2025-04-09T12:27:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-16T12:12:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (370)|
-| ELO Competitive | 1235 🔻  (494)|
-| Total Matches | 6 |
+| ELO Regular | 1220 🔻  (394)|
+| ELO Competitive | 1229 🔻  (513)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741695171,1740958379,1739941737,1738848814,1737284185,1736282422];
+        let timestamps = [1743769672,1741695171,1740958379,1739941737,1738848814,1737284185,1736282422];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/09 | 0-3 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ❌ | 2025/03/16 | 0-11 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/03/07 | 7-2 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ✅ | 2025/02/24 | 10-2 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
@@ -148,5 +149,5 @@ Corporation ID: 4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742127171"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744201672"></span>
 </div>
