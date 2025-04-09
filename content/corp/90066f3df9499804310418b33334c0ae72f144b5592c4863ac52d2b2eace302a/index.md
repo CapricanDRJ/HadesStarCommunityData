@@ -1,9 +1,9 @@
 ---
 title: ​DarkMoon
-description: W:33 L:12 D:1 Bonus ✅ 42%
+description: W:35 L:12 D:1 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 39 - 0 **对，进就进人少的**
-date: 2025-04-02T04:49:05.000Z
+Summary: ✅ 13 - 0 **U\.P\.E**
+date: 2025-04-09T04:42:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ date: 2025-04-02T04:49:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (60)|
-| ELO Competitive | 1500 🔺  (80)|
-| Total Matches | 46 |
-| Wins | 33 |
+| ELO Regular | 1418 🔺  (49)|
+| ELO Competitive | 1505 🔺  (74)|
+| Total Matches | 48 |
+| Wins | 35 |
 | Losses | 12 |
 | Draws | 1 |
+| Streak | 3 |
 | Streak Record | 9 |
 | Flagship | 7 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743137345,1743137345,1742554613,1742540490,1741932848,1741924737,1741364020,1741355903,1740726361,1740716746,1740119059,1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
+        let timestamps = [1743741727,1743741426,1743137345,1743137345,1742554613,1742540490,1741932848,1741924737,1741364020,1741355903,1740726361,1740716746,1740119059,1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +144,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/09 | 13-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
+| ✅ | 2025/04/09 | 39-0 | [Yellow Dwarf ](https://ws.tsl.rocks/corp/fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da/) |
 | ✅ | 2025/04/02 | 39-0 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/04/02 | 6-7 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2025/03/26 | 29-0 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
@@ -196,5 +199,5 @@ Corporation ID: 90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743569345"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744173727"></span>
 </div>

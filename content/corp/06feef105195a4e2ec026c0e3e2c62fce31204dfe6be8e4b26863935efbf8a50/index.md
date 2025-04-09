@@ -1,9 +1,9 @@
 ---
 title: ​hades star萌新指引站
-description: W:15 L:12 D:1 Bonus ❌ 6%
+description: W:16 L:12 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **星河绮梦**
-date: 2025-04-01T13:22:29.000Z
+Summary: ✅ 5 - 4 **红日初升，其道大光**
+date: 2025-04-09T05:32:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2025-04-01T13:22:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (338)|
-| ELO Competitive | 1284 🔺  (354)|
-| Total Matches | 28 |
-| Wins | 15 |
+| ELO Regular | 1250 🔺  (282)|
+| ELO Competitive | 1306 🔺  (305)|
+| Total Matches | 29 |
+| Wins | 16 |
 | Losses | 12 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743081749,1742554613,1741774797,1738848814,1738814859,1738382103,1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1743744731,1743081749,1742554613,1741774797,1738848814,1738814859,1738382103,1737870655,1737382354,1736869366,1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/09 | 5-4 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2025/04/01 | 3-0 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2025/03/26 | 0-29 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2025/03/17 | 18-0 | [Черное солнце](https://ws.tsl.rocks/corp/963c510edfd1a89603e4c253f389cc603a707689fab0617c954c3a5d1856e1b4/) |
@@ -175,5 +177,5 @@ Corporation ID: 06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743513749"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744176731"></span>
 </div>

@@ -20,8 +20,8 @@ ive. Lets GO!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 908 🔻  (1477)|
-| ELO Competitive | 953 🔻  (1484)|
+| ELO Regular | 908 🔻  (1478)|
+| ELO Competitive | 953 🔻  (1485)|
 | Total Matches | 66 |
 | Wins | 5 |
 | Losses | 60 |

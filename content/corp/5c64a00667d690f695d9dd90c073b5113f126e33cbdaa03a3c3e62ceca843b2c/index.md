@@ -1,6 +1,6 @@
 ---
 title: ​FoxTale
-description: W:9 L:7 D:1 Bonus ✅ 32%
+description: W:9 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 7 - 6 **DarkMoon**
 date: 2025-04-02T04:49:05.000Z
@@ -19,11 +19,11 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (315)|
+| ELO Regular | 1240 🔺  (316)|
 | ELO Competitive | 1261 🔺  (412)|
 | Total Matches | 17 |
 | Wins | 9 |

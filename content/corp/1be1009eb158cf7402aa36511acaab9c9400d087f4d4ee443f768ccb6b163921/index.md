@@ -1,9 +1,9 @@
 ---
 title: ​红日初升，其道大光
-description: W:35 L:21 D:0 Bonus ✅ 36%
+description: W:35 L:22 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **101**
-date: 2025-04-02T10:39:39.000Z
+Summary: ❌ 4 - 5 **hades star萌新指引站**
+date: 2025-04-09T05:32:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (371)|
-| ELO Competitive | 1440 🔺  (126)|
-| Total Matches | 56 |
+| ELO Regular | 1211 🔻  (469)|
+| ELO Competitive | 1419 🔻  (144)|
+| Total Matches | 57 |
 | Wins | 35 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743158379,1743157177,1742608416,1742470466,1741178918,1741157586,1740652139,1740648233,1740167109,1740155722,1739234371,1738900502,1738752549,1738325905,1738240144,1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1743744731,1743158379,1743157177,1742608416,1742470466,1741178918,1741157586,1740652139,1740648233,1740167109,1740155722,1739234371,1738900502,1738752549,1738325905,1738240144,1737795228,1737790420,1737348099,1737342090,1736857942,1736854937,1733750237,1733326394,1733310921,1729881040,1728979213,1727946249,1727880740,1727349149,1727343739,1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/09 | 4-5 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2025/04/02 | 9-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2025/04/02 | 2-4 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/03/27 | 0-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
@@ -206,5 +207,5 @@ Corporation ID: 1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743590379"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744176731"></span>
 </div>

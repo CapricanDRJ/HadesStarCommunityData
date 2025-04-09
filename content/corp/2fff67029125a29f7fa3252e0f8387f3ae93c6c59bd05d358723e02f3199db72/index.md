@@ -19,8 +19,8 @@ Chat Português
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1053 🔻  (1430)|
-| ELO Competitive | 1103 🔻  (1431)|
+| ELO Regular | 1053 🔻  (1431)|
+| ELO Competitive | 1103 🔻  (1432)|
 | Total Matches | 36 |
 | Wins | 9 |
 | Losses | 27 |

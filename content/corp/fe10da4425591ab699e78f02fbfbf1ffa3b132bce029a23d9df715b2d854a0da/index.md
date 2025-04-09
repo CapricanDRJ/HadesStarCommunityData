@@ -1,9 +1,9 @@
 ---
 title: ​Yellow Dwarf 
-description: W:3 L:2 D:0 Bonus ❌ 9%
+description: W:3 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 3 - 24 **Лунный Феникс**
-date: 2025-03-21T10:29:28.000Z
+Summary: ❌ 0 - 39 **DarkMoon**
+date: 2025-04-09T04:37:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ to help each other. Weekly White Stars in our dedicated corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (611)|
-| ELO Competitive | 1218 🔻  (562)|
-| Total Matches | 5 |
+| ELO Regular | 1185 🔻  (793)|
+| ELO Competitive | 1213 🔻  (622)|
+| Total Matches | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742120968,1741090878,1739877727,1739051361,1698982502];
+        let timestamps = [1743741426,1742120968,1741090878,1739877727,1739051361,1698982502];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/09 | 0-39 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/03/21 | 3-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/03/09 | 15-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2025/02/23 | 23-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
@@ -150,5 +151,5 @@ Corporation ID: fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742552968"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744173426"></span>
 </div>
