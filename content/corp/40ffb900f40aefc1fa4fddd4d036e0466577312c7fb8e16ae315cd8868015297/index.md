@@ -1,6 +1,6 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:24 L:9 D:0 Bonus ✅ 34%
+description: W:24 L:9 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 8 - 13 **Lololol**
 date: 2025-04-08T02:09:24.000Z
@@ -16,12 +16,12 @@ date: 2025-04-08T02:09:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1312 🔻  (158)|
-| ELO Competitive | 1381 🔻  (187)|
+| ELO Regular | 1312 🔻  (159)|
+| ELO Competitive | 1381 🔻  (186)|
 | Total Matches | 33 |
 | Wins | 24 |
 | Losses | 9 |
