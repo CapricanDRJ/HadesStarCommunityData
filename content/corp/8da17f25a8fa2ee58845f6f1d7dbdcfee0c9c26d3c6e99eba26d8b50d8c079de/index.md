@@ -1,9 +1,9 @@
 ---
 title: ​无人之境
-description: W:2 L:22 D:0 Bonus ❌ 5%
+description: W:2 L:23 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 25 **Quilliance**
-date: 2025-04-05T08:57:41.000Z
+Summary: ❌ 0 - 44 **BrinySeal**
+date: 2025-04-10T14:45:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ You are lucky to meet me in White Star! Congratulations!
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1013 🔻  (1456)|
-| ELO Competitive | 1071 🔻  (1462)|
-| Total Matches | 24 |
+| ELO Regular | 1011 🔻  (1458)|
+| ELO Competitive | 1070 🔻  (1463)|
+| Total Matches | 25 |
 | Wins | 2 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743411461,1742838329,1742406161,1741971010,1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
+        let timestamps = [1743864345,1743411461,1742838329,1742406161,1741971010,1741514277,1741019068,1740586941,1740131078,1739691718,1739259608,1737960809,1737526591,1737093860,1736661691,1736227723,1735795532,1735362248,1734785659,1734350882,1733918794,1733485799,1732596345,1732163334,1730718832];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 0 | 2 | 0 | 2 |
 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 0 | 2 | 0 | 2 |
 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) | 0 | 2 | 0 | 2 |
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 0-44 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/04/05 | 0-25 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ❌ | 2025/03/29 | 3-39 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2025/03/24 | 2-15 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
@@ -171,5 +173,5 @@ Corporation ID: 8da17f25a8fa2ee58845f6f1d7dbdcfee0c9c26d3c6e99eba26d8b50d8c079de
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743843461"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744296345"></span>
 </div>

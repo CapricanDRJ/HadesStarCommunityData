@@ -22,8 +22,8 @@ to help each other. Weekly White Stars in our dedicated corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (788)|
-| ELO Competitive | 1213 🔻  (622)|
+| ELO Regular | 1185 🔻  (789)|
+| ELO Competitive | 1213 🔻  (623)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

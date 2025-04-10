@@ -27,8 +27,8 @@ Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1063 🔺  (1418)|
-| ELO Competitive | 1141 🔺  (1372)|
+| ELO Regular | 1063 🔺  (1419)|
+| ELO Competitive | 1141 🔺  (1373)|
 | Total Matches | 63 |
 | Wins | 17 |
 | Losses | 45 |

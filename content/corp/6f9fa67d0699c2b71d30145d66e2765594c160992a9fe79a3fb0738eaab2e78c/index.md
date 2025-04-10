@@ -1,9 +1,9 @@
 ---
 title: ​星落苑
-description: W:25 L:12 D:0 Bonus ✅ 34%
+description: W:26 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 25 - 3 **WSC\(no DISCORD\)**
-date: 2025-04-09T18:08:33.000Z
+Summary: ✅ 12 - 3 **神圣群星帝国**
+date: 2025-04-10T15:30:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺  (157)|
+| ELO Regular | 1324 🔺  (145)|
 | ELO Competitive | 1429 🔺  (135)|
-| Total Matches | 37 |
-| Wins | 25 |
+| Total Matches | 38 |
+| Wins | 26 |
 | Losses | 12 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743790113,1743176414,1743162286,1742699180,1742110149,1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
+        let timestamps = [1743867051,1743790113,1743176414,1743162286,1742699180,1742110149,1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/10 | 12-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ✅ | 2025/04/09 | 25-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/04/02 | 19-0 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2025/04/02 | 10-14 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
@@ -182,5 +183,5 @@ Corporation ID: 6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744222113"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744299051"></span>
 </div>

@@ -20,8 +20,8 @@ vill hjälpa till att vinna white stars!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1230)|
-| ELO Competitive | 1144 🔻  (1362)|
+| ELO Regular | 1143 🔻  (1231)|
+| ELO Competitive | 1144 🔻  (1363)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

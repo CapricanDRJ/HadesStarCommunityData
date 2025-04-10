@@ -1,6 +1,6 @@
 ---
 title: ​最后的希望
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **水晶星际集团**
 date: 2025-04-03T13:18:50.000Z
@@ -15,12 +15,12 @@ date: 2025-04-03T13:18:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔺  (573)|
-| ELO Competitive | 1203 🔺  (678)|
+| ELO Competitive | 1203 🔺  (679)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |
