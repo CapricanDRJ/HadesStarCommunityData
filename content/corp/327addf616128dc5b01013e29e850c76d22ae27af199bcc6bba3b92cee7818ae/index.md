@@ -1,9 +1,9 @@
 ---
 title: ​以太超星团
-description: W:3 L:28 D:6 Bonus ❌ 5%
+description: W:3 L:28 D:7 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **物竞天择，适者生存**
-date: 2025-03-05T08:11:07.000Z
+Summary: ↔️ 0 - 0 **阿尔特拉太空港**
+date: 2025-04-10T06:59:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 2025-03-05T08:11:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1001 🔻  (1461)|
-| ELO Competitive | 1099 🔻  (1439)|
-| Total Matches | 37 |
+| ELO Regular | 1008 🔺  (1458)|
+| ELO Competitive | 1107 🔺  (1431)|
+| Total Matches | 38 |
 | Wins | 3 |
 | Losses | 28 |
-| Draws | 6 |
+| Draws | 7 |
 | Flagship | 3 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740730267,1740279528,1730622674,1728040018,1726898116,1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
+        let timestamps = [1743836387,1740730267,1740279528,1730622674,1728040018,1726898116,1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/10 | 0-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2025/03/05 | 0-2 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ❌ | 2025/02/28 | 0-3 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ↔️ | 2024/11/08 | 0-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
@@ -186,5 +187,5 @@ Corporation ID: 327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741162267"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744268387"></span>
 </div>

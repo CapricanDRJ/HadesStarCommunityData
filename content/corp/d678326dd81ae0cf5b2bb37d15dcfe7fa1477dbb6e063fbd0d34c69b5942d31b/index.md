@@ -1,9 +1,9 @@
 ---
 title: ​Hungary First
-description: W:18 L:14 D:1 Bonus ❌ 7%
+description: W:18 L:15 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 3 - 17 **Eastern Front**
-date: 2024-11-20T08:19:56.000Z
+Summary: ❌ 0 - 14 **three kitties**
+date: 2025-04-10T08:40:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ nguages: Hungarian, English.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (400)|
-| ELO Competitive | 1261 🔻  (413)|
-| Total Matches | 33 |
+| ELO Regular | 1209 🔻  (481)|
+| ELO Competitive | 1256 🔻  (428)|
+| Total Matches | 34 |
 | Wins | 18 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731658796,1730461324,1729246979,1728021388,1726834112,1726224172,1725604854,1725027912,1724407357,1723186368,1721985809,1720768088,1719571384,1718345154,1717140526,1715932313,1714980185,1711696869,1710658438,1709800591,1708950538,1707338537,1706623157,1706001092,1705309310,1704811362,1704111760,1703102013,1702455653,1701955538,1701369183,1700848930,1699867883];
+        let timestamps = [1743842403,1731658796,1730461324,1729246979,1728021388,1726834112,1726224172,1725604854,1725027912,1724407357,1723186368,1721985809,1720768088,1719571384,1718345154,1717140526,1715932313,1714980185,1711696869,1710658438,1709800591,1708950538,1707338537,1706623157,1706001092,1705309310,1704811362,1704111760,1703102013,1702455653,1701955538,1701369183,1700848930,1699867883];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 0-14 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/11/20 | 3-17 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/11/06 | 5-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/10/23 | 0-5 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
@@ -183,5 +184,5 @@ Corporation ID: d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1732090796"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744274403"></span>
 </div>

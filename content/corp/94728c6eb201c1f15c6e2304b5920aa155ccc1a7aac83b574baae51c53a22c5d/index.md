@@ -22,7 +22,7 @@ tive players wanting to grow.White Star⚪ on Thursdays.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1323)|
-| ELO Competitive | 1237 🔻  (486)|
+| ELO Competitive | 1237 🔻  (487)|
 | Total Matches | 69 |
 | Wins | 26 |
 | Losses | 43 |

@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:26 L:146 D:0 Bonus ✅ 46%
+description: W:26 L:146 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 8 - 35 **СССР**
 date: 2025-04-09T23:24:09.000Z
@@ -18,7 +18,7 @@ date: 2025-04-09T23:24:09.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
