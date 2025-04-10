@@ -1,6 +1,6 @@
 ---
 title: ​U.P.E
-description: W:4 L:7 D:1 Bonus ✅ 30%
+description: W:4 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 13 **DarkMoon**
 date: 2025-04-09T04:42:07.000Z
@@ -15,12 +15,12 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔻  (924)|
-| ELO Competitive | 1185 🔻  (976)|
+| ELO Competitive | 1185 🔻  (975)|
 | Total Matches | 12 |
 | Wins | 4 |
 | Losses | 7 |

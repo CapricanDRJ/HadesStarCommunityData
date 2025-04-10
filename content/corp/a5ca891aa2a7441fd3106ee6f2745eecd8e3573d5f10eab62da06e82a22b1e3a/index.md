@@ -1,6 +1,6 @@
 ---
 title: ​泰拉瑞亚
-description: W:2 L:4 D:0 Bonus ✅ 30%
+description: W:2 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 2 - 7 **九州分团**
 date: 2025-04-09T04:17:05.000Z
@@ -16,12 +16,12 @@ date: 2025-04-09T04:17:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (982)|
-| ELO Competitive | 1187 🔻  (897)|
+| ELO Competitive | 1187 🔻  (896)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

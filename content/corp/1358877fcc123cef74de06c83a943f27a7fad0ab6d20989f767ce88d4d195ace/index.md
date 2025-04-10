@@ -1,6 +1,6 @@
 ---
 title: ​Повстанцы Хаоса
-description: W:56 L:9 D:0 Bonus ✅ 40%
+description: W:56 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 14 - 23 **Spica​**
 date: 2025-04-09T19:33:44.000Z
@@ -20,7 +20,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 <br>
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

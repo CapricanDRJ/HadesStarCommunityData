@@ -1,6 +1,6 @@
 ---
 title: ​" Возрождение "
-description: W:18 L:2 D:0 Bonus ✅ 36%
+description: W:18 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 39 - 1 **Lacuna X**
 date: 2025-04-03T17:33:17.000Z
@@ -20,7 +20,7 @@ date: 2025-04-03T17:33:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Proxima
-description: W:0 L:4 D:0 Bonus ❌ 3%
+description: W:0 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 45 **Osmium Star llc**
-date: 2025-04-01T18:03:02.000Z
+Summary: ❌ 0 - 17 **阿尔特拉集团**
+date: 2025-04-10T16:20:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-01T18:03:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1067)|
-| ELO Competitive | 1175 🔻  (1124)|
-| Total Matches | 4 |
+| ELO Regular | 1155 🔻  (1154)|
+| ELO Competitive | 1170 🔻  (1198)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743098582,1742585876,1742110149,1731322513];
+        let timestamps = [1743870057,1743098582,1742585876,1742110149,1731322513];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 0-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2025/04/01 | 0-45 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ❌ | 2025/03/26 | 1-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/03/21 | 1-22 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
@@ -145,5 +146,5 @@ Corporation ID: e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743530582"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744302057"></span>
 </div>
