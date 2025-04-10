@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:0 L:5 D:1 Bonus ❌ 
+description: W:0 L:6 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 2 **The Witness**
-date: 2025-04-01T19:13:11.000Z
+Summary: ❌ 0 - 3 **Z\. O\. V\. **
+date: 2025-04-10T20:56:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-01T19:13:11.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1297)|
-| ELO Competitive | 1139 🔻  (1381)|
-| Total Matches | 6 |
+| ELO Regular | 1120 🔻  (1327)|
+| ELO Competitive | 1134 🔻  (1394)|
+| Total Matches | 7 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 0-3 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2025/04/01 | 0-2 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/03/16 | 0-8 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/03/02 | 0-15 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
@@ -147,5 +148,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743534791"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744318589"></span>
 </div>
