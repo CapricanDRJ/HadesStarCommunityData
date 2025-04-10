@@ -1,9 +1,9 @@
 ---
 title: ​Team Elite
-description: W:1 L:2 D:1 Bonus ❌ 14%
+description: W:1 L:3 D:1 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 21 - 29 **BattleCo**
-date: 2024-03-12T19:52:38.000Z
+Summary: ❌ 6 - 47 **Ender**
+date: 2025-04-10T10:10:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (617)|
-| ELO Competitive | 1197 🔻  (739)|
-| Total Matches | 4 |
+| ELO Regular | 1182 🔻  (894)|
+| ELO Competitive | 1195 🔻  (749)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709841158,1709326748,1706164570,1705599601];
+        let timestamps = [1743847812,1709841158,1709326748,1706164570,1705599601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 6-47 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/03/12 | 21-29 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) |
 | ✅ | 2024/03/06 | 41-10 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/01/30 | 9-46 | [GermanIndustrie](https://ws.tsl.rocks/corp/5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986/) |
@@ -148,5 +149,5 @@ Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1710273158"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744279812"></span>
 </div>

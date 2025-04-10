@@ -1,6 +1,6 @@
 ---
 title: ​UKR Spase
-description: W:45 L:24 D:0 Bonus ✅ 42%
+description: W:45 L:24 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 29 - 3 **Blood Hounds**
 date: 2025-04-03T10:27:18.000Z
@@ -19,7 +19,7 @@ date: 2025-04-03T10:27:18.000Z
 <br>
 
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

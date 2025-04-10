@@ -20,7 +20,7 @@ Bye Bye - ryan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔺  (1462)|
+| ELO Regular | 1000 🔺  (1461)|
 | ELO Competitive | 1078 🔺  (1457)|
 | Total Matches | 36 |
 | Wins | 5 |

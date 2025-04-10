@@ -1,9 +1,9 @@
 ---
 title: ​Free Ag3nts
-description: W:21 L:0 D:0 Bonus ❌ 8%
+description: W:22 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 32 - 3 **佛矿寺**
-date: 2025-03-29T04:27:04.000Z
+Summary: ✅ 40 - 0 **⭐PRETORIANS\.X⭐**
+date: 2025-04-10T10:46:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-03-29T04:27:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (57)|
-| ELO Competitive | 1425 🔺  (140)|
-| Total Matches | 21 |
-| Wins | 21 |
+| ELO Regular | 1413 🔺  (54)|
+| ELO Competitive | 1433 🔺  (132)|
+| Total Matches | 22 |
+| Wins | 22 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 21 |
-| Streak Record | 21 |
+| Streak | 22 |
+| Streak Record | 22 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742790424,1742199643,1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1743850015,1742790424,1742199643,1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/10 | 40-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/03/29 | 32-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2025/03/22 | 34-0 | [New Legion](https://ws.tsl.rocks/corp/9cdc9d8489a3090982b1084bdd4a76cfa8664b765e95a34db8b12cadbb0840d9/) |
 | ✅ | 2025/03/16 | 39-1 | [Prodexus Domino](https://ws.tsl.rocks/corp/85917429bb52fbc2dac3f7310ca739f27cae6f39ad628c7d42e2985267005e77/) |
@@ -164,5 +165,5 @@ Corporation ID: 66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743222424"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744282015"></span>
 </div>
