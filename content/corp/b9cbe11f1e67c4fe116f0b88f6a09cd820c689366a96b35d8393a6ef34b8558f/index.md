@@ -1,9 +1,9 @@
 ---
 title: ​九州·华夏
-description: W:9 L:7 D:1 Bonus ❌ 
+description: W:9 L:8 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ↔️ 3 - 3 **神圣群星帝国**
-date: 2025-04-06T14:05:40.000Z
+Summary: ❌ 0 - 41 **Blood Hounds**
+date: 2025-04-10T03:04:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-06T14:05:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (377)|
-| ELO Competitive | 1281 🔻  (360)|
-| Total Matches | 17 |
+| ELO Regular | 1219 🔻  (398)|
+| ELO Competitive | 1282 🔻  (358)|
+| Total Matches | 18 |
 | Wins | 9 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 0-41 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ↔️ | 2025/04/06 | 3-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ❌ | 2025/04/05 | 0-37 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ✅ | 2025/04/01 | 10-1 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
@@ -164,5 +165,5 @@ Corporation ID: b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743948340"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744254268"></span>
 </div>

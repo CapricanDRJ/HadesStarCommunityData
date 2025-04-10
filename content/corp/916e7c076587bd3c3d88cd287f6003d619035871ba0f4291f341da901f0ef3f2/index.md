@@ -1,9 +1,9 @@
 ---
 title: ​S.U.N
-description: W:9 L:5 D:1 Bonus ❌ 6%
+description: W:10 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 19 - 0 **Glashan**
-date: 2025-04-01T08:31:58.000Z
+Summary: ✅ 13 - 3 **星系联盟**
+date: 2025-04-10T03:04:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2025-04-01T08:31:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (300)|
-| ELO Competitive | 1272 🔺  (382)|
-| Total Matches | 15 |
-| Wins | 9 |
+| ELO Regular | 1259 🔺  (257)|
+| ELO Competitive | 1287 🔺  (346)|
+| Total Matches | 16 |
+| Wins | 10 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743064318,1742064780,1741119731,1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
+        let timestamps = [1743822268,1743064318,1742064780,1741119731,1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/10 | 13-3 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ✅ | 2025/04/01 | 19-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2025/03/20 | 15-1 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/03/09 | 10-4 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
@@ -158,5 +159,5 @@ Corporation ID: 916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743496318"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744254268"></span>
 </div>
