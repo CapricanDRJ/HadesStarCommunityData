@@ -1,6 +1,6 @@
 ---
 title: ​Cool Casual
-description: W:15 L:5 D:0 Bonus ✅ 
+description: W:15 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 7 **Empire of Hades**
 date: 2025-04-08T05:00:11.000Z
@@ -15,7 +15,7 @@ date: 2025-04-08T05:00:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

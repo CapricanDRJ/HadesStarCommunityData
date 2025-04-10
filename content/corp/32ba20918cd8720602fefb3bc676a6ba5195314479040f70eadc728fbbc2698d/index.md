@@ -1,9 +1,9 @@
 ---
 title: ​Star Destroyers
-description: W:38 L:34 D:2 Bonus ❌ 11%
+description: W:38 L:35 D:2 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 4 - 18 **47підрозділССП**
-date: 2025-04-02T00:03:42.000Z
+Summary: ❌ 3 - 15 **Industrial W\.O**
+date: 2025-04-09T22:09:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ dicate you will participate and dont you will be kicked.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1060)|
-| ELO Competitive | 1260 🔻  (416)|
-| Total Matches | 74 |
+| ELO Regular | 1158 🔻  (1129)|
+| ELO Competitive | 1251 🔻  (442)|
+| Total Matches | 75 |
 | Wins | 38 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 2 |
 | Streak Record | 10 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743120222,1742333437,1741272366,1740753407,1740060751,1739338336,1738648680,1738131790,1737549427,1736897922,1736378291,1735760080,1735203595,1734589454,1734034180,1733404969,1732801589,1732266392,1731752554,1731191827,1730628683,1730023483,1729363890,1728815109,1728238977,1727625615,1727070301,1726547624,1725750906,1725075693,1724477080,1723879348,1723401841,1722958591,1722404748,1721964776,1721315073,1720766585,1720129770,1719546458,1718912081,1718822231,1718208425,1717595562,1717496982,1716884189,1716883288,1716444276,1715880940,1715320893,1714662500,1714041435,1713506050,1712960982,1712398792,1711724215,1711230535,1710690895,1710142836,1709440029,1708713456,1708141009,1707487874,1706737659,1706214759,1705632659,1705094144,1704486204,1703895393,1703117641,1703113435,1702226338,1701005524,1698948246];
+        let timestamps = [1743804542,1743120222,1742333437,1741272366,1740753407,1740060751,1739338336,1738648680,1738131790,1737549427,1736897922,1736378291,1735760080,1735203595,1734589454,1734034180,1733404969,1732801589,1732266392,1731752554,1731191827,1730628683,1730023483,1729363890,1728815109,1728238977,1727625615,1727070301,1726547624,1725750906,1725075693,1724477080,1723879348,1723401841,1722958591,1722404748,1721964776,1721315073,1720766585,1720129770,1719546458,1718912081,1718822231,1718208425,1717595562,1717496982,1716884189,1716883288,1716444276,1715880940,1715320893,1714662500,1714041435,1713506050,1712960982,1712398792,1711724215,1711230535,1710690895,1710142836,1709440029,1708713456,1708141009,1707487874,1706737659,1706214759,1705632659,1705094144,1704486204,1703895393,1703117641,1703113435,1702226338,1701005524,1698948246];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,11 +136,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 1 | 1 | 1 | 3 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 0 | 2 | 0 | 2 |
 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) | 0 | 2 | 0 | 2 |
 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) | 0 | 2 | 0 | 2 |
 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) | 1 | 1 | 0 | 2 |
-| [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 1 | 0 | 1 | 2 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 3 | 0 | 0 | 3 |
 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) | 1 | 1 | 0 | 2 |
 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 1 | 1 | 0 | 2 |
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/09 | 3-15 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2025/04/02 | 4-18 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ❌ | 2025/03/23 | 6-26 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2025/03/11 | 6-41 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
@@ -231,5 +232,5 @@ Corporation ID: 32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743552222"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744236542"></span>
 </div>

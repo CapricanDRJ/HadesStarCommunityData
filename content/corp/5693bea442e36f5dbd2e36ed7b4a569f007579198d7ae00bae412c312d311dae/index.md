@@ -1,6 +1,6 @@
 ---
 title: ​WhiteSTarfighte
-description: W:20 L:17 D:2 Bonus ✅ 34%
+description: W:20 L:17 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 5 - 13 **新?的星际集团?**
 date: 2025-04-08T07:40:24.000Z
@@ -16,7 +16,7 @@ Lets WiN all white Stars
 <br>
 
 ### [Discord](https://discord.gg/Nope)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
