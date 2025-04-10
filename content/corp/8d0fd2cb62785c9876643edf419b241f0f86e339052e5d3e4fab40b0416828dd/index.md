@@ -1,6 +1,6 @@
 ---
 title: ​Splendid
-description: W:7 L:4 D:0 Bonus ✅ 30%
+description: W:7 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **佛矿寺**
 date: 2025-04-03T05:41:45.000Z
@@ -16,7 +16,7 @@ rporation.
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

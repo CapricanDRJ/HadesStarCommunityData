@@ -1,9 +1,9 @@
 ---
 title: ​The Allegiant
-description: W:34 L:29 D:1 Bonus ❌ 9%
+description: W:34 L:30 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 9 - 24 **Hinterm Mars**
-date: 2025-03-28T14:37:36.000Z
+Summary: ❌ 9 - 29 **Mass Effect**
+date: 2025-04-10T04:34:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Red_Coat_Mafia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (673)|
-| ELO Competitive | 1331 🔻  (254)|
-| Total Matches | 64 |
+| ELO Regular | 1176 🔻  (944)|
+| ELO Competitive | 1317 🔻  (284)|
+| Total Matches | 65 |
 | Wins | 34 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 6 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742740656,1741916927,1741386262,1741373338,1740800586,1740092021,1739522831,1738950089,1738434706,1737790120,1737171695,1736695659,1736625932,1736111728,1736015832,1735280816,1734214470,1734184717,1733739119,1733573239,1732863504,1732424159,1731745643,1731261255,1730512695,1729971199,1729313998,1728761909,1728164449,1727526747,1726925764,1726189924,1725627391,1725075693,1724453043,1723833372,1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
+        let timestamps = [1743827677,1742740656,1741916927,1741386262,1741373338,1740800586,1740092021,1739522831,1738950089,1738434706,1737790120,1737171695,1736695659,1736625932,1736111728,1736015832,1735280816,1734214470,1734184717,1733739119,1733573239,1732863504,1732424159,1731745643,1731261255,1730512695,1729971199,1729313998,1728761909,1728164449,1727526747,1726925764,1726189924,1725627391,1725075693,1724453043,1723833372,1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) | 0 | 2 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 2 | 0 | 0 | 2 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 2 | 0 | 0 | 2 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1 | 2 | 0 | 3 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/10 | 9-29 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2025/03/28 | 9-24 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2025/03/19 | 2-21 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2025/03/12 | 0-19 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
@@ -218,5 +220,5 @@ Corporation ID: 1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743172656"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744259677"></span>
 </div>
