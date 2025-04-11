@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:11 L:2 D:0 Bonus ✅ 
+description: W:12 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 10 - 0 **The Gladiators**
-date: 2025-04-06T21:41:36.000Z
+Summary: ✅ 15 - 4 **QVX**
+date: 2025-04-11T08:15:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-06T21:41:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔺  (168)|
-| ELO Competitive | 1330 🔺  (258)|
-| Total Matches | 13 |
-| Wins | 11 |
+| ELO Regular | 1318 🔺  (155)|
+| ELO Competitive | 1340 🔺  (240)|
+| Total Matches | 14 |
+| Wins | 12 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/11 | 15-4 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/04/06 | 10-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
 | ✅ | 2025/04/04 | 9-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/03/31 | 18-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
@@ -161,5 +162,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743975696"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744359340"></span>
 </div>

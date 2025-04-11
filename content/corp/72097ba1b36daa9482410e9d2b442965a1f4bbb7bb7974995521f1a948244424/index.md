@@ -1,9 +1,9 @@
 ---
 title: ​八月政府
-description: W:7 L:32 D:1 Bonus ❌ 6%
+description: W:7 L:33 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 7 - 28 **Z\. O\. V\. **
-date: 2025-03-24T07:11:30.000Z
+Summary: ❌ 3 - 30 **Kelebra**
+date: 2025-04-11T09:07:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-24T07:11:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1064 🔻  (1420)|
-| ELO Competitive | 1129 🔻  (1408)|
-| Total Matches | 40 |
+| ELO Regular | 1055 🔻  (1430)|
+| ELO Competitive | 1122 🔻  (1413)|
+| Total Matches | 41 |
 | Wins | 7 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742368290,1741529304,1739960664,1739004176,1737634765,1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1743930459,1742368290,1741529304,1739960664,1739004176,1737634765,1736390609,1735050671,1733499320,1731554831,1730938798,1730418941,1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 3-30 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2025/03/24 | 7-28 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2025/03/14 | 9-34 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2025/02/24 | 12-14 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
@@ -188,5 +189,5 @@ Corporation ID: 72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742800290"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744362459"></span>
 </div>

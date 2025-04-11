@@ -21,7 +21,7 @@ mars JHX大帅哥，或者首席小号九尘，干事萨卡班甲鱼。没有任
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (692)|
+| ELO Regular | 1187 🔻  (693)|
 | ELO Competitive | 1187 🔻  (885)|
 | Total Matches | 1 |
 | Wins | 0 |
