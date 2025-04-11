@@ -1,9 +1,9 @@
 ---
 title: ​QONQR 
-description: W:15 L:10 D:0 Bonus ❌ 6%
+description: W:15 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 14 - 11 **Nebulae Traders**
-date: 2025-03-25T17:35:09.000Z
+Summary: ❌ 7 - 14 **星际公约组织**
+date: 2025-04-11T13:08:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ t mandatory, but it's much welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (219)|
-| ELO Competitive | 1333 🔺  (257)|
-| Total Matches | 25 |
+| ELO Regular | 1265 🔻  (242)|
+| ELO Competitive | 1321 🔻  (274)|
+| Total Matches | 26 |
 | Wins | 15 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742492109,1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1743944887,1742492109,1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 7-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/03/25 | 14-11 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2025/03/11 | 5-31 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2025/03/04 | 17-1 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) |
@@ -176,5 +177,5 @@ Corporation ID: 5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742924109"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744376887"></span>
 </div>

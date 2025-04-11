@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Luminá
-description: W:19 L:4 D:0 Bonus ✅ 34%
+description: W:19 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 29 - 3 **украина№1**
 date: 2025-04-04T14:15:40.000Z
@@ -17,11 +17,11 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (126)|
+| ELO Regular | 1343 🔺  (127)|
 | ELO Competitive | 1373 🔺  (194)|
 | Total Matches | 23 |
 | Wins | 19 |

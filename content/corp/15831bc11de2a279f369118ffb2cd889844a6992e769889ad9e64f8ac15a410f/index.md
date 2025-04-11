@@ -1,9 +1,9 @@
 ---
 title: ​No Orbit©
-description: W:19 L:11 D:0 Bonus ❌ 10%
+description: W:20 L:11 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ❌ 9 - 45 **Polish Pirates**
-date: 2025-03-28T16:57:54.000Z
+Summary: ✅ 29 - 24 **DTC**
+date: 2025-04-11T14:33:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔻  (203)|
-| ELO Competitive | 1331 🔻  (258)|
-| Total Matches | 30 |
-| Wins | 19 |
+| ELO Regular | 1295 🔺  (187)|
+| ELO Competitive | 1347 🔺  (230)|
+| Total Matches | 31 |
+| Wins | 20 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742749074,1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
+        let timestamps = [1743949999,1742749074,1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,8 +136,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 1 | 0 | 3 |
 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 1 | 1 | 0 | 2 |
-| [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 1 | 1 | 0 | 2 |
 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 2 | 0 | 0 | 2 |
 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) | 2 | 0 | 0 | 2 |
 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 2 | 0 | 0 | 2 |
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/11 | 29-24 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ❌ | 2025/03/28 | 9-45 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ❌ | 2025/03/15 | 32-38 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2025/03/07 | 44-31 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
@@ -184,5 +185,5 @@ Corporation ID: 15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743181074"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744381999"></span>
 </div>

@@ -21,8 +21,8 @@ Enthält Spuren von Starhalla.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (940)|
-| ELO Competitive | 1180 🔻  (1087)|
+| ELO Regular | 1176 🔻  (941)|
+| ELO Competitive | 1180 🔻  (1088)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
