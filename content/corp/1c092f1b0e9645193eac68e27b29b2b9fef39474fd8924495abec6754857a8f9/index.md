@@ -1,9 +1,9 @@
 ---
 title: ​alienigenas
-description: W:12 L:6 D:0 Bonus ❌ 8%
+description: W:12 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 16 - 19 **莫比乌斯\-星环**
-date: 2025-03-14T14:38:27.000Z
+Summary: ❌ 15 - 23 **仙女座星雲**
+date: 2025-04-11T15:48:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ guna actividad con los demas compañeros
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔻  (189)|
-| ELO Competitive | 1337 🔻  (248)|
-| Total Matches | 18 |
+| ELO Regular | 1283 🔻  (205)|
+| ELO Competitive | 1333 🔻  (256)|
+| Total Matches | 19 |
 | Wins | 12 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 6 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741531107,1740323400,1739111460,1737904317,1737288596,1736701071,1729431503,1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
+        let timestamps = [1743954509,1741531107,1740323400,1739111460,1737904317,1737288596,1736701071,1729431503,1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 15-23 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2025/03/14 | 16-19 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ✅ | 2025/02/28 | 41-9 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ✅ | 2025/02/14 | 40-15 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -170,5 +171,5 @@ Corporation ID: 1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741963107"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744386509"></span>
 </div>

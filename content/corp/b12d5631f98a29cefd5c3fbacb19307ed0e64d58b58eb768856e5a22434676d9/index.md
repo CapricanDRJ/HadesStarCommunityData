@@ -1,9 +1,9 @@
 ---
 title: ​BlackDawn
-description: W:1 L:42 D:17 Bonus ❌ 6%
+description: W:1 L:43 D:17 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **G\.02**
-date: 2025-04-05T19:48:56.000Z
+Summary: ❌ 0 - 9 **V0RTEX**
+date: 2025-04-11T16:33:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ KillFrist
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 938 🔻  (1478)|
-| ELO Competitive | 972 🔻  (1488)|
-| Total Matches | 60 |
+| ELO Regular | 934 🔻  (1478)|
+| ELO Competitive | 968 🔻  (1488)|
+| Total Matches | 61 |
 | Wins | 1 |
-| Losses | 42 |
+| Losses | 43 |
 | Draws | 17 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743450536,1742929086,1742417284,1741922334,1741382356,1740768134,1740072892,1739478861,1738864551,1738271006,1737491138,1737044576,1736556803,1735888514,1735451573,1734863182,1734322329,1733875537,1733348489,1732855092,1732376486,1731811538,1730911546,1730411731,1729781785,1729317604,1728791063,1728322514,1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
+        let timestamps = [1743957214,1743450536,1742929086,1742417284,1741922334,1741382356,1740768134,1740072892,1739478861,1738864551,1738271006,1737491138,1737044576,1736556803,1735888514,1735451573,1734863182,1734322329,1733875537,1733348489,1732855092,1732376486,1731811538,1730911546,1730411731,1729781785,1729317604,1728791063,1728322514,1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 0 | 1 | 1 | 2 |
 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) | 0 | 1 | 1 | 2 |
 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 0 | 1 | 1 | 2 |
 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 0 | 1 | 1 | 2 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 0-9 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/04/05 | 0-7 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ❌ | 2025/03/30 | 0-4 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ❌ | 2025/03/24 | 0-4 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
@@ -214,5 +216,5 @@ Corporation ID: b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743882536"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744389214"></span>
 </div>
