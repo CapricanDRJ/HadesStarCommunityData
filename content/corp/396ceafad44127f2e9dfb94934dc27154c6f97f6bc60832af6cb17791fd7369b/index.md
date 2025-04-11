@@ -1,6 +1,6 @@
 ---
 title: ​Vega Conflict
-description: W:16 L:12 D:0 Bonus ✅ 34%
+description: W:16 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 15 - 5 **Bacon Warriors**
 date: 2025-04-04T04:19:29.000Z
@@ -16,12 +16,12 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1285 🔺  (205)|
-| ELO Competitive | 1327 🔺  (262)|
+| ELO Competitive | 1327 🔺  (263)|
 | Total Matches | 28 |
 | Wins | 16 |
 | Losses | 12 |

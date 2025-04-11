@@ -22,8 +22,8 @@ ella blanca=EB EB cuando se nos salga de los huevos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1326)|
-| ELO Competitive | 1201 🔻  (687)|
+| ELO Regular | 1121 🔻  (1328)|
+| ELO Competitive | 1201 🔻  (688)|
 | Total Matches | 50 |
 | Wins | 19 |
 | Losses | 31 |

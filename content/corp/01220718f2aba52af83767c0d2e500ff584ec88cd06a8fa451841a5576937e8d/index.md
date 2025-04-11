@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:14 L:11 D:1 Bonus ✅ 
+description: W:15 L:11 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 31 **Blazing Stars**
-date: 2025-04-07T02:52:02.000Z
+Summary: ✅ 5 - 0 **dosti room🚚**
+date: 2025-04-11T04:42:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-07T02:52:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (328)|
-| ELO Competitive | 1324 🔺  (265)|
-| Total Matches | 26 |
-| Wins | 14 |
+| ELO Regular | 1251 🔺  (280)|
+| ELO Competitive | 1334 🔺  (253)|
+| Total Matches | 27 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/11 | 5-0 | [dosti room🚚](https://ws.tsl.rocks/corp/e3b3acde7243499e951303924c2ab589f8b898b204b4d785bdb137a76e140395/) |
 | ❌ | 2025/04/07 | 0-31 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2025/04/06 | 6-0 | [love do you 👻](https://ws.tsl.rocks/corp/8bf1cff7b7ecfba046b45aaaf239229375c2d75a021cfd13eae13ce99fbf83bc/) |
 | ❌ | 2025/04/01 | 6-9 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
@@ -174,5 +175,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743994322"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744346549"></span>
 </div>

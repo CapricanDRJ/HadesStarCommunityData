@@ -1,6 +1,6 @@
 ---
 title: ​Hermitage
-description: W:18 L:13 D:1 Bonus ✅ 36%
+description: W:18 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 28 - 18 **СССР**
 date: 2025-04-04T06:29:42.000Z
@@ -18,7 +18,7 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

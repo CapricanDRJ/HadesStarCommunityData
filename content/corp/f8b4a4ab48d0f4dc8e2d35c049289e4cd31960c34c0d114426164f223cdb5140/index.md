@@ -22,8 +22,8 @@ color> focus.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (955)|
-| ELO Competitive | 1246 🔻  (459)|
+| ELO Regular | 1175 🔻  (957)|
+| ELO Competitive | 1246 🔻  (458)|
 | Total Matches | 26 |
 | Wins | 9 |
 | Losses | 17 |
