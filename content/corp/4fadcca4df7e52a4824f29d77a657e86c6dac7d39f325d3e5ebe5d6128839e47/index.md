@@ -1,9 +1,9 @@
 ---
 title: ​中国人民联盟
-description: W:7 L:3 D:1 Bonus ✅ 
+description: W:8 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ↔️ 4 - 4 **New YuGiOh**
-date: 2025-04-07T12:27:56.000Z
+Summary: ✅ 7 - 2 **Lupus Regnum**
+date: 2025-04-11T11:52:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-07T12:27:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (246)|
-| ELO Competitive | 1268 🔺  (395)|
-| Total Matches | 11 |
-| Wins | 7 |
+| ELO Regular | 1281 🔺  (212)|
+| ELO Competitive | 1288 🔺  (343)|
+| Total Matches | 12 |
+| Wins | 8 |
 | Losses | 3 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743596876,1743440917,1742985875,1742552509,1742297066,1742051255,1741858632,1741411501,1740958379,1740498890,1740044309];
+        let timestamps = [1743940378,1743596876,1743440917,1742985875,1742552509,1742297066,1742051255,1741858632,1741411501,1740958379,1740498890,1740044309];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/11 | 7-2 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ↔️ | 2025/04/07 | 4-4 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/04/05 | 3-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/03/31 | 9-3 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
@@ -158,5 +159,5 @@ Corporation ID: 4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744028876"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744372378"></span>
 </div>

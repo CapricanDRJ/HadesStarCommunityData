@@ -1,6 +1,6 @@
 ---
 title: ​italian warrior
-description: W:37 L:53 D:3 Bonus ✅ 44%
+description: W:37 L:53 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 26 **2ND\-R8 Corp\.**
 date: 2025-04-10T00:19:14.000Z
@@ -22,12 +22,12 @@ Discord: https://discord.gg/A26JEJgPwh
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (1209)|
-| ELO Competitive | 1387 🔻  (176)|
+| ELO Competitive | 1387 🔻  (177)|
 | Total Matches | 93 |
 | Wins | 37 |
 | Losses | 53 |

@@ -1,6 +1,6 @@
 ---
 title: ​TheBasics
-description: W:50 L:81 D:2 Bonus ✅ 40%
+description: W:50 L:81 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 17 - 19 **青丘湖**
 date: 2025-04-10T11:25:20.000Z
@@ -16,12 +16,12 @@ Just log in and play once per day.
 <br>
 
 ### [Discord](https://discord.gg/pTS382n7ZR)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1141)|
-| ELO Competitive | 1392 🔻  (172)|
+| ELO Regular | 1157 🔻  (1140)|
+| ELO Competitive | 1392 🔻  (173)|
 | Total Matches | 133 |
 | Wins | 50 |
 | Losses | 81 |

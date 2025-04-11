@@ -1,9 +1,9 @@
 ---
 title: ​Stellaris
-description: W:5 L:12 D:1 Bonus ❌ 9%
+description: W:5 L:13 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 11 - 6 **AlSounT**
-date: 2025-03-26T15:17:24.000Z
+Summary: ❌ 8 - 23 **Lupus Regnum**
+date: 2025-04-11T10:52:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ N'hésitez pas à venir discuter ou poser vos questions
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔺  (1090)|
-| ELO Competitive | 1195 🔺  (755)|
-| Total Matches | 18 |
+| ELO Regular | 1156 🔻  (1148)|
+| ELO Competitive | 1188 🔻  (880)|
+| Total Matches | 19 |
 | Wins | 5 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 5 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742570244,1732035328,1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
+        let timestamps = [1743936771,1742570244,1732035328,1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 8-23 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/03/26 | 11-6 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2024/11/24 | 15-3 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2024/11/04 | 3-29 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
@@ -161,5 +161,5 @@ Corporation ID: 957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743002244"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744368771"></span>
 </div>

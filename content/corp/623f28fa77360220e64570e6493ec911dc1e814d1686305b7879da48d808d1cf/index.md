@@ -1,6 +1,6 @@
 ---
 title: ​BrazilCorp.
-description: W:59 L:16 D:0 Bonus ✅ 42%
+description: W:59 L:16 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 7 - 8 **Лунный Феникс**
 date: 2025-04-05T18:18:45.000Z
@@ -21,7 +21,7 @@ intensas nas Estrelas Brancas.
 <br>
 
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
