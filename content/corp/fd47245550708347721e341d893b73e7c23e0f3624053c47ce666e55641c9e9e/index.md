@@ -1,9 +1,9 @@
 ---
 title: ​Nine's Own Goal
-description: W:36 L:37 D:2 Bonus ❌ 11%
+description: W:36 L:38 D:2 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 15 - 54 **Emergence**
-date: 2025-04-03T22:18:54.000Z
+Summary: ❌ 10 - 33 **СССР**
+date: 2025-04-11T00:41:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ on events. No alts.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1283)|
-| ELO Competitive | 1225 🔻  (529)|
-| Total Matches | 75 |
+| ELO Regular | 1126 🔻  (1307)|
+| ELO Competitive | 1222 🔻  (537)|
+| Total Matches | 76 |
 | Wins | 36 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743286734,1742690466,1742155535,1741427429,1740366071,1739733799,1739041143,1737710487,1736526145,1735628474,1735132389,1734538677,1733850296,1733001826,1732187367,1731421114,1730332099,1729446834,1728913698,1728325520,1727755131,1727106360,1726586308,1725984694,1725466634,1725420659,1724984637,1724458150,1723813233,1722972717,1722302278,1721707240,1721173241,1720306473,1719724053,1719096598,1718316913,1717616607,1716875477,1716378478,1715838275,1715268618,1714797811,1714355421,1713699228,1713022580,1712456186,1711740441,1711261180,1710797567,1710293372,1709782265,1709330955,1708895859,1708401245,1707921346,1707445508,1706989785,1706541117,1706081028,1705603509,1705112774,1704668023,1704231673,1703610799,1703156103,1702697890,1702237160,1701759583,1701321097,1700887101,1700438694,1700004038,1699419731,1698720440];
+        let timestamps = [1743900109,1743286734,1742690466,1742155535,1741427429,1740366071,1739733799,1739041143,1737710487,1736526145,1735628474,1735132389,1734538677,1733850296,1733001826,1732187367,1731421114,1730332099,1729446834,1728913698,1728325520,1727755131,1727106360,1726586308,1725984694,1725466634,1725420659,1724984637,1724458150,1723813233,1722972717,1722302278,1721707240,1721173241,1720306473,1719724053,1719096598,1718316913,1717616607,1716875477,1716378478,1715838275,1715268618,1714797811,1714355421,1713699228,1713022580,1712456186,1711740441,1711261180,1710797567,1710293372,1709782265,1709330955,1708895859,1708401245,1707921346,1707445508,1706989785,1706541117,1706081028,1705603509,1705112774,1704668023,1704231673,1703610799,1703156103,1702697890,1702237160,1701759583,1701321097,1700887101,1700438694,1700004038,1699419731,1698720440];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 2 | 1 | 3 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 2 | 0 | 2 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1 | 2 | 0 | 3 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1 | 2 | 0 | 3 |
@@ -144,7 +145,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 2 | 0 | 2 |
 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) | 3 | 0 | 0 | 3 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 1 | 1 | 2 |
 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 1 | 1 | 0 | 2 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 2 | 0 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 2 | 0 | 0 | 2 |
@@ -154,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 10-33 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2025/04/03 | 15-54 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ❌ | 2025/03/28 | 14-51 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2025/03/21 | 14-40 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
@@ -236,5 +237,5 @@ Corporation ID: fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743718734"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744332109"></span>
 </div>

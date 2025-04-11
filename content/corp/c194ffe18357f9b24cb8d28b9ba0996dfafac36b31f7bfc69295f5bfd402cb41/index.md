@@ -20,8 +20,8 @@ hall be struck down with utter destruction.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1046)|
-| ELO Competitive | 1170 🔻  (1200)|
+| ELO Regular | 1169 🔻  (1047)|
+| ELO Competitive | 1170 🔻  (1201)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

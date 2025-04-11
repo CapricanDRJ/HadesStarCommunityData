@@ -1,6 +1,6 @@
 ---
 title: ​Nox Imperium
-description: W:31 L:3 D:0 Bonus ✅ 36%
+description: W:31 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 35 - 1 **MÉXICO INFINITO**
 date: 2025-04-03T22:08:53.000Z
@@ -17,7 +17,7 @@ date: 2025-04-03T22:08:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
