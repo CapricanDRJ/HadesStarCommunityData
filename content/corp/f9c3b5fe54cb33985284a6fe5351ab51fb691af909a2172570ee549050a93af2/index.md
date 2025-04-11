@@ -1,6 +1,6 @@
 ---
 title: ​STAR TERROR CZ
-description: W:16 L:14 D:0 Bonus ✅ 38%
+description: W:16 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 47 - 0 **ItaFederalFleet**
 date: 2025-04-04T21:11:37.000Z
@@ -17,7 +17,7 @@ nos.github.io/HadesSpace/
 <br>
 
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

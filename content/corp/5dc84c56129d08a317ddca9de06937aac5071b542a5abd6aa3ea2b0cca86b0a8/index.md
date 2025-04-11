@@ -20,7 +20,7 @@ welcome VALHALLA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (800)|
+| ELO Regular | 1185 🔻  (801)|
 | ELO Competitive | 1185 🔻  (989)|
 | Total Matches | 1 |
 | Wins | 0 |

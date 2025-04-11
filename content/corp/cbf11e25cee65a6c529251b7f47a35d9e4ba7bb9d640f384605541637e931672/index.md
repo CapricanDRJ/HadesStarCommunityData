@@ -1,9 +1,9 @@
 ---
 title: ​Держава Русь
-description: W:6 L:44 D:1 Bonus ✅ 44%
+description: W:6 L:45 D:1 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ✅ 39 - 21 **AlSounT**
-date: 2025-04-06T08:50:07.000Z
+Summary: ❌ 1 - 26 **Gummibärenbande**
+date: 2025-04-11T19:23:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-06T08:50:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1018 🔺  (1456)|
-| ELO Competitive | 1097 🔺  (1447)|
-| Total Matches | 51 |
+| ELO Regular | 1004 🔻  (1463)|
+| ELO Competitive | 1083 🔻  (1457)|
+| Total Matches | 52 |
 | Wins | 6 |
-| Losses | 44 |
+| Losses | 45 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 10 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743497407,1743058309,1742603608,1742131788,1741695171,1741263049,1740752505,1740270516,1739815830,1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1743967435,1743497407,1743058309,1742603608,1742131788,1741695171,1741263049,1740752505,1740270516,1739815830,1739369887,1738930550,1738490603,1738046750,1737585493,1737147657,1736707385,1736255368,1735798837,1735305455,1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 1-26 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2025/04/06 | 39-21 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2025/04/01 | 41-0 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | ❌ | 2025/03/27 | 10-54 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
@@ -201,5 +201,5 @@ Corporation ID: cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743929407"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744399435"></span>
 </div>
