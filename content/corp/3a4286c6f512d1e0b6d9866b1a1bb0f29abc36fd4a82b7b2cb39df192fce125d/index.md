@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mond
-description: W:83 L:56 D:0 Bonus ✅ 54%
+description: W:83 L:56 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 0 - 44 **Stargate Corp**
 date: 2025-04-11T21:49:13.000Z
@@ -18,7 +18,7 @@ s please register exclusively via our Discord bot 🙂
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

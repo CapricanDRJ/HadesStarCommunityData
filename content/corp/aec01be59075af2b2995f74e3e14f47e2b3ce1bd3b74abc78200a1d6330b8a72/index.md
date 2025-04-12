@@ -1,9 +1,9 @@
 ---
 title: ​Corp. Estelar
-description: W:38 L:22 D:0 Bonus ❌ 11%
+description: W:39 L:22 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ❌ 19 - 33 **BrazilCorp\.**
-date: 2025-03-21T14:14:53.000Z
+Summary: ✅ 18 - 15 **Brodudes Inc\.**
+date: 2025-04-12T14:20:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 <br>
 
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔻  (81)|
-| ELO Competitive | 1515 🔻  (67)|
-| Total Matches | 60 |
-| Wins | 38 |
+| ELO Regular | 1398 🔺  (65)|
+| ELO Competitive | 1532 🔺  (61)|
+| Total Matches | 61 |
+| Wins | 39 |
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 13 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742134493,1741649206,1740428275,1739860601,1737996872,1737994467,1737429535,1736821884,1736804758,1736367771,1736170322,1735477934,1734966847,1734405570,1734375527,1733852700,1733160692,1732563897,1732032623,1731353511,1731343292,1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
+        let timestamps = [1744035648,1742134493,1741649206,1740428275,1739860601,1737996872,1737994467,1737429535,1736821884,1736804758,1736367771,1736170322,1735477934,1734966847,1734405570,1734375527,1733852700,1733160692,1732563897,1732032623,1731353511,1731343292,1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 3 | 0 | 0 | 3 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 4 | 1 | 0 | 5 |
 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) | 2 | 0 | 0 | 2 |
 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) | 1 | 1 | 0 | 2 |
@@ -141,7 +142,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 2 | 0 | 0 | 2 |
 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 2 | 0 | 0 | 2 |
 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) | 2 | 0 | 0 | 2 |
-| [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 2 | 0 | 0 | 2 |
 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 0 | 2 | 0 | 2 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 0 | 2 | 0 | 2 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 2 | 0 | 2 |
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/12 | 18-15 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2025/03/21 | 19-33 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/03/15 | 18-31 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ✅ | 2025/03/01 | 25-10 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
@@ -220,5 +221,5 @@ Corporation ID: aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742566493"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744467648"></span>
 </div>

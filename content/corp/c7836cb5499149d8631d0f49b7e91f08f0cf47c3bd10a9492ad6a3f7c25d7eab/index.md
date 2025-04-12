@@ -1,6 +1,6 @@
 ---
 title: ​Hellfire Club
-description: W:56 L:44 D:0 Bonus ✅ 48%
+description: W:56 L:44 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 16 - 26 **Tuatha De Danan**
 date: 2025-04-12T12:35:35.000Z
@@ -18,7 +18,7 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
