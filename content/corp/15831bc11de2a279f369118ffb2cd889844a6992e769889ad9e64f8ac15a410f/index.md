@@ -22,7 +22,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (187)|
+| ELO Regular | 1295 🔺  (188)|
 | ELO Competitive | 1347 🔺  (230)|
 | Total Matches | 31 |
 | Wins | 20 |

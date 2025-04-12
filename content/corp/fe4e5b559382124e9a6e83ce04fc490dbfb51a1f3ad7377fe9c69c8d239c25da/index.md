@@ -1,6 +1,6 @@
 ---
 title: ​Quantum Pioneer
-description: W:12 L:7 D:0 Bonus ✅ 
+description: W:12 L:7 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 14 **V0RTEX**
 date: 2025-04-11T16:33:34.000Z
@@ -15,7 +15,7 @@ date: 2025-04-11T16:33:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

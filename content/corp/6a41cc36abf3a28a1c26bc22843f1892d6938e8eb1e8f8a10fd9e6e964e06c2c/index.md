@@ -1,6 +1,6 @@
 ---
 title: ​Space Marshalls
-description: W:38 L:30 D:0 Bonus ✅ 38%
+description: W:38 L:30 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 22 - 3 **Space Pirates**
 date: 2025-04-05T08:27:38.000Z
@@ -17,7 +17,7 @@ len.
 <br>
 
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

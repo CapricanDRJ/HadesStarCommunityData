@@ -1,6 +1,6 @@
 ---
 title: ​Death Flight
-description: W:29 L:115 D:1 Bonus ✅ 48%
+description: W:29 L:115 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **Team Rainbow**
 date: 2025-04-10T17:21:03.000Z
@@ -24,7 +24,7 @@ Trust * Loyalty
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

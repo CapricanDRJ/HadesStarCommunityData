@@ -1,6 +1,6 @@
 ---
 title: ​C'est pas faux!
-description: W:9 L:6 D:1 Bonus ✅ 36%
+description: W:9 L:6 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 32 - 0 **Germania**
 date: 2025-04-05T08:17:37.000Z
@@ -21,7 +21,7 @@ Discord : wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
