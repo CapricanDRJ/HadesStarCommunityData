@@ -21,8 +21,8 @@ ach out if you need assistance. Malice not tolerated.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1206)|
-| ELO Competitive | 1152 🔻  (1332)|
+| ELO Regular | 1148 🔻  (1207)|
+| ELO Competitive | 1152 🔻  (1333)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

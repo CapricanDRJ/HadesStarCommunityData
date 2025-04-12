@@ -1,9 +1,9 @@
 ---
 title: ​龙族之家
-description: W:0 L:3 D:0 Bonus ❌ 
+description: W:1 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 8 **Chaos**
-date: 2025-04-07T11:07:47.000Z
+Summary: ✅ 1 - 0 **love room**
+date: 2025-04-12T11:50:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-07T11:07:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1090)|
-| ELO Competitive | 1168 🔻  (1216)|
-| Total Matches | 3 |
-| Wins | 0 |
+| ELO Regular | 1181 🔺  (915)|
+| ELO Competitive | 1185 🔺  (1033)|
+| Total Matches | 4 |
+| Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743592067,1743094073,1742646582];
+        let timestamps = [1744026630,1743592067,1743094073,1742646582];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/12 | 1-0 | [love room](https://ws.tsl.rocks/corp/e0d14fd70b77e006878f273de53342f8938248f1761b4860a9a806756250db84/) |
 | ❌ | 2025/04/07 | 0-8 | [Chaos](https://ws.tsl.rocks/corp/d3d471eb959c63d922764ca516d8ecc875c5a087ec4503d87e8d6c9113f4062e/) |
 | ❌ | 2025/04/01 | 0-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2025/03/27 | 0-5 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
@@ -144,5 +145,5 @@ Corporation ID: 4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744024067"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744458630"></span>
 </div>

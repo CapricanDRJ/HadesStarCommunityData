@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:23 L:2 D:0 Bonus ✅ 34%
+description: W:23 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 44 - 8 **Halcon español**
 date: 2025-04-05T12:38:03.000Z
@@ -17,7 +17,7 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

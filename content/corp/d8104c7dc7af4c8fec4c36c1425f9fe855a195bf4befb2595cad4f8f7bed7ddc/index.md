@@ -1,6 +1,6 @@
 ---
 title: ​Nearland Ind
-description: W:87 L:33 D:0 Bonus ✅ 54%
+description: W:87 L:33 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 3 - 21 **pirates spatial**
 date: 2025-04-12T07:25:03.000Z
@@ -22,7 +22,7 @@ FS2 - Closed
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

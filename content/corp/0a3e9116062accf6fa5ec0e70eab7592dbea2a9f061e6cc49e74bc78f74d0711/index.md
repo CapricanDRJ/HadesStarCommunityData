@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:40 L:13 D:2 Bonus ✅ 38%
+description: W:40 L:13 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 21 - 10 **青丘湖**
 date: 2025-04-05T11:22:55.000Z
@@ -18,7 +18,7 @@ date: 2025-04-05T11:22:55.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Brodudes Inc.
-description: W:82 L:25 D:1 Bonus ✅ 44%
+description: W:82 L:25 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 22 - 3 **Rogue One**
 date: 2025-04-05T10:17:48.000Z
@@ -18,11 +18,11 @@ unication. <B>Discord required!</B> Newbies welcome!
 <br>
 
 ### [Discord](https://discord.gg/xhXh3DkNBW)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1434 🔺  (41)|
+| ELO Regular | 1434 🔺  (42)|
 | ELO Competitive | 1562 🔺  (40)|
 | Total Matches | 108 |
 | Wins | 82 |
