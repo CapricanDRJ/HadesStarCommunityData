@@ -1,6 +1,6 @@
 ---
 title: ​Ark Summit
-description: W:20 L:0 D:0 Bonus ✅ 42%
+description: W:20 L:0 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 42 - 19 **VoidCorp**
 date: 2025-04-05T05:32:22.000Z
@@ -18,11 +18,11 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔺  (51)|
+| ELO Regular | 1418 🔺  (52)|
 | ELO Competitive | 1459 🔺  (113)|
 | Total Matches | 20 |
 | Wins | 20 |

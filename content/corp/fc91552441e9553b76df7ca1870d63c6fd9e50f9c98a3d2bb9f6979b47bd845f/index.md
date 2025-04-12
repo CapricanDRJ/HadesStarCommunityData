@@ -1,9 +1,9 @@
 ---
 title: ​the heavy
-description: W:24 L:14 D:0 Bonus ❌ 11%
+description: W:25 L:14 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ❌ 6 - 36 **pirates spatial**
-date: 2025-03-08T08:33:41.000Z
+Summary: ✅ 35 - 34 **\*СССР\***
+date: 2025-04-12T05:24:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 <br>
 
 ### [Discord](https://discord.gg/6vgrePN)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔻  (150)|
-| ELO Competitive | 1403 🔻  (160)|
-| Total Matches | 38 |
-| Wins | 24 |
+| ELO Regular | 1332 🔺  (134)|
+| ELO Competitive | 1422 🔺  (142)|
+| Total Matches | 39 |
+| Wins | 25 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740990821,1740302062,1739135209,1737885379,1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
+        let timestamps = [1744003493,1740990821,1740302062,1739135209,1737885379,1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/12 | 35-34 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2025/03/08 | 6-36 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2025/02/28 | 32-41 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ✅ | 2025/02/14 | 37-14 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
@@ -197,5 +198,5 @@ Corporation ID: fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741422821"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744435493"></span>
 </div>

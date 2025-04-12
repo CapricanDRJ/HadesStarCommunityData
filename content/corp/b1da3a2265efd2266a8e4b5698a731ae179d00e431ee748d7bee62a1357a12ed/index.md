@@ -1,6 +1,6 @@
 ---
 title: ​＊Alfa y Omega＊
-description: W:32 L:14 D:2 Bonus ✅ 36%
+description: W:32 L:14 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 17 - 0 **\*СССР\***
 date: 2025-04-05T06:02:25.000Z
@@ -18,12 +18,12 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔺  (144)|
-| ELO Competitive | 1411 🔺  (153)|
+| ELO Regular | 1325 🔺  (145)|
+| ELO Competitive | 1411 🔺  (154)|
 | Total Matches | 48 |
 | Wins | 32 |
 | Losses | 14 |

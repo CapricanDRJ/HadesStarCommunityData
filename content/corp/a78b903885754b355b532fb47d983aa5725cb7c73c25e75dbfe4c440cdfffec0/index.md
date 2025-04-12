@@ -1,9 +1,9 @@
 ---
 title: ​Prosperity
-description: W:2 L:9 D:0 Bonus ❌ 13%
+description: W:2 L:10 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 0 - 19 **新?的星际集团?**
-date: 2025-04-06T16:56:01.000Z
+Summary: ❌ 9 - 17 **Cerulean Star**
+date: 2025-04-12T04:24:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ ens
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1254)|
-| ELO Competitive | 1179 🔻  (1096)|
-| Total Matches | 11 |
+| ELO Regular | 1134 🔻  (1278)|
+| ELO Competitive | 1175 🔻  (1131)|
+| Total Matches | 12 |
 | Wins | 2 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743526561,1743073742,1742586177,1742153732,1739640935,1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
+        let timestamps = [1743999887,1743526561,1743073742,1742586177,1742153732,1739640935,1738515856,1737983045,1737383857,1737379724,1736641260,1728561425];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/12 | 9-17 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2025/04/06 | 0-19 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2025/04/01 | 0-28 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2025/03/26 | 2-26 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
@@ -159,5 +160,5 @@ Corporation ID: a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743958561"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744431887"></span>
 </div>
