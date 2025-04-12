@@ -1,9 +1,9 @@
 ---
 title: ​STAR TERROR CZ
-description: W:16 L:14 D:0 Bonus ❌ 9%
+description: W:16 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 47 - 0 **ItaFederalFleet**
-date: 2025-04-04T21:11:37.000Z
+Summary: ❌ 3 - 23 **АарнСарт **
+date: 2025-04-11T22:54:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1312 🔺  (159)|
-| ELO Competitive | 1410 🔺  (156)|
-| Total Matches | 30 |
+| ELO Regular | 1299 🔻  (182)|
+| ELO Competitive | 1397 🔻  (169)|
+| Total Matches | 31 |
 | Wins | 16 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 8 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743369097,1742826605,1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1743980058,1743369097,1742826605,1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/11 | 3-23 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ✅ | 2025/04/04 | 47-0 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2025/03/29 | 19-14 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2025/03/22 | 6-24 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
@@ -180,5 +180,5 @@ Corporation ID: f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743801097"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744412058"></span>
 </div>

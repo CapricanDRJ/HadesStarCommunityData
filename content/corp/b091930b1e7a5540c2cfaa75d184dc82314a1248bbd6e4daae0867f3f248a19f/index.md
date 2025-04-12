@@ -1,9 +1,9 @@
 ---
 title: ​Ещё один Миф
-description: W:13 L:24 D:0 Bonus ❌ 10%
+description: W:14 L:24 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ❌ 0 - 42 **绛紫星**
-date: 2025-04-06T12:15:03.000Z
+Summary: ✅ 23 - 3 **The X \- Files**
+date: 2025-04-11T23:59:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ date: 2025-04-06T12:15:03.000Z
 <br>
 
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (1259)|
-| ELO Competitive | 1232 🔻  (497)|
-| Total Matches | 37 |
-| Wins | 13 |
+| ELO Regular | 1143 🔺  (1232)|
+| ELO Competitive | 1237 🔺  (486)|
+| Total Matches | 38 |
+| Wins | 14 |
 | Losses | 24 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743509703,1742934196,1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1743983962,1743509703,1742934196,1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/11 | 23-3 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2025/04/06 | 0-42 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2025/03/30 | 0-33 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/03/18 | 2-27 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
@@ -191,5 +192,5 @@ Corporation ID: b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743941703"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744415962"></span>
 </div>

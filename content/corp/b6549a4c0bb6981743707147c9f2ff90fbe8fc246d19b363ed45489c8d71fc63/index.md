@@ -22,7 +22,7 @@ https://discord.gg/EdNWKeN
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔺  (781)|
-| ELO Competitive | 1187 🔺  (896)|
+| ELO Competitive | 1187 🔺  (897)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,6 +1,6 @@
 ---
 title: ​ RELAX CZ/SK
-description: W:91 L:55 D:0 Bonus ✅ 46%
+description: W:91 L:55 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 14 - 45 **Spacefleet**
 date: 2025-04-11T20:49:07.000Z
@@ -17,7 +17,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 <br>
 
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

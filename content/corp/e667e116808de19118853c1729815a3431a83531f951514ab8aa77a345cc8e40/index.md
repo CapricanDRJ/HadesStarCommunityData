@@ -1,6 +1,6 @@
 ---
 title: ​Highlife
-description: W:27 L:44 D:1 Bonus ✅ 36%
+description: W:27 L:44 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 38 - 0 **\-=FCA=\-**
 date: 2025-04-05T00:21:56.000Z
@@ -18,12 +18,12 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 <br>
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1081 🔺  (1403)|
-| ELO Competitive | 1162 🔺  (1264)|
+| ELO Regular | 1081 🔺  (1404)|
+| ELO Competitive | 1162 🔺  (1265)|
 | Total Matches | 72 |
 | Wins | 27 |
 | Losses | 44 |
