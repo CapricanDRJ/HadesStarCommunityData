@@ -1,6 +1,6 @@
 ---
 title: ​Imperium XIII
-description: W:49 L:32 D:0 Bonus ✅ 48%
+description: W:49 L:32 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 12 - 29 **Omega Alpha**
 date: 2025-04-12T11:50:30.000Z
@@ -21,11 +21,11 @@ Discord is required.
 <br>
 
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔻  (114)|
+| ELO Regular | 1352 🔻  (115)|
 | ELO Competitive | 1464 🔻  (109)|
 | Total Matches | 81 |
 | Wins | 49 |

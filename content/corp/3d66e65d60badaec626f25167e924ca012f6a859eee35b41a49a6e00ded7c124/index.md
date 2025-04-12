@@ -1,6 +1,6 @@
 ---
 title: ​G.02
-description: W:3 L:2 D:0 Bonus ✅ 
+description: W:3 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 7 - 0 **BlackDawn**
 date: 2025-04-05T19:48:56.000Z
@@ -15,7 +15,7 @@ date: 2025-04-05T19:48:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​РARADISЕ
-description: W:9 L:5 D:1 Bonus ✅ 
+description: W:10 L:6 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 1 - 7 **imperio galacti**
-date: 2025-04-07T02:57:02.000Z
+Summary: ❌ 0 - 9 **Cerberus**
+date: 2025-04-12T20:19:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-07T02:57:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔻  (288)|
-| ELO Competitive | 1320 🔺  (276)|
-| Total Matches | 15 |
-| Wins | 9 |
-| Losses | 5 |
+| ELO Regular | 1244 🔻  (299)|
+| ELO Competitive | 1330 🔺  (260)|
+| Total Matches | 17 |
+| Wins | 10 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
+        let timestamps = [1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/12 | 0-9 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
+| ✅ | 2025/04/12 | 35-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ❌ | 2025/04/07 | 1-7 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2025/04/07 | 5-2 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ↔️ | 2025/03/31 | 0-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
@@ -162,5 +164,5 @@ Corporation ID: 03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743994622"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744489141"></span>
 </div>
