@@ -1,6 +1,6 @@
 ---
 title: ​Млечный путь
-description: W:23 L:25 D:0 Bonus ✅ 36%
+description: W:23 L:25 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 37 - 0 **九州·华夏**
 date: 2025-04-05T02:57:08.000Z
@@ -18,11 +18,11 @@ date: 2025-04-05T02:57:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (338)|
+| ELO Regular | 1234 🔺  (339)|
 | ELO Competitive | 1353 🔺  (219)|
 | Total Matches | 48 |
 | Wins | 23 |

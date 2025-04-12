@@ -1,6 +1,6 @@
 ---
 title: ​FURIA 2.0
-description: W:23 L:29 D:0 Bonus ✅ 36%
+description: W:23 L:29 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 15 - 7 **CTG**
 date: 2025-04-05T00:56:59.000Z
@@ -16,7 +16,7 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

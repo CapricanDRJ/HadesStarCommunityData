@@ -1,6 +1,6 @@
 ---
 title: ​Auscorp 
-description: W:101 L:10 D:0 Bonus ✅ 52%
+description: W:101 L:10 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 23 - 42 **OntarioDynasty**
 date: 2025-04-10T23:06:41.000Z
@@ -23,7 +23,7 @@ All FS Donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

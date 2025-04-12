@@ -1,6 +1,6 @@
 ---
 title: ​lesescargots
-description: W:69 L:22 D:1 Bonus ✅ 40%
+description: W:69 L:22 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 17 - 0 **The Black Sun**
 date: 2025-04-05T02:48:58.000Z
@@ -15,12 +15,12 @@ Closed the list
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1456 🔺  (27)|
-| ELO Competitive | 1537 🔺  (56)|
+| ELO Competitive | 1537 🔺  (55)|
 | Total Matches | 92 |
 | Wins | 69 |
 | Losses | 22 |

@@ -1,9 +1,9 @@
 ---
 title: ​-=FCA=-
-description: W:1 L:8 D:0 Bonus ❌ 4%
+description: W:1 L:9 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 38 **Highlife**
-date: 2025-04-05T00:21:56.000Z
+Summary: ❌ 13 - 27 **Неизбежный Рок**
+date: 2025-04-12T01:34:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-05T00:21:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1359)|
-| ELO Competitive | 1195 🔻  (752)|
-| Total Matches | 9 |
+| ELO Regular | 1107 🔻  (1367)|
+| ELO Competitive | 1194 🔻  (768)|
+| Total Matches | 10 |
 | Wins | 1 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743380516,1743374507,1742784235,1742783334,1742279038,1742247191,1741705089,1741120632,1732309368];
+        let timestamps = [1743989671,1743380516,1743374507,1742784235,1742783334,1742279038,1742247191,1741705089,1741120632,1732309368];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/12 | 13-27 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2025/04/05 | 0-38 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2025/04/04 | 4-40 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2025/03/29 | 10-38 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
@@ -150,5 +151,5 @@ Corporation ID: abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743812516"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744421671"></span>
 </div>
