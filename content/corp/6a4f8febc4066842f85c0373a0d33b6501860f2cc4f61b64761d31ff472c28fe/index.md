@@ -22,7 +22,7 @@ Discord Active • Coop DRS7-10
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1421 🔺  (46)|
+| ELO Regular | 1421 🔺  (47)|
 | ELO Competitive | 1505 🔺  (76)|
 | Total Matches | 35 |
 | Wins | 31 |

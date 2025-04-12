@@ -1,6 +1,6 @@
 ---
 title: ​Sprite
-description: W:33 L:10 D:1 Bonus ✅ 38%
+description: W:33 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 31 - 0 **Sussy Coloner**
 date: 2025-04-05T16:23:31.000Z
@@ -18,7 +18,7 @@ a. Nuestra filosofía: unidos somos invencibles.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
