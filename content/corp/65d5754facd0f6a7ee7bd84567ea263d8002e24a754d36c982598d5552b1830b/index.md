@@ -1,9 +1,9 @@
 ---
 title: ​星约组织：基地分团
-description: W:4 L:9 D:0 Bonus ❌ 5%
+description: W:4 L:10 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **WSC\(no DISCORD\)**
-date: 2025-03-29T14:52:56.000Z
+Summary: ❌ 1 - 6 **Eretria **
+date: 2025-04-13T10:33:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 2025-03-29T14:52:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔺  (1148)|
-| ELO Competitive | 1147 🔺  (1348)|
-| Total Matches | 13 |
+| ELO Regular | 1141 🔻  (1244)|
+| ELO Competitive | 1135 🔻  (1395)|
+| Total Matches | 14 |
 | Wins | 4 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742827976,1742630052,1742031625,1739696828,1737706581,1736657184,1735822273,1735386885,1734602072,1733231899,1732711125,1732273904,1731662100];
+        let timestamps = [1744108384,1742827976,1742630052,1742031625,1739696828,1737706581,1736657184,1735822273,1735386885,1734602072,1733231899,1732711125,1732273904,1731662100];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/13 | 1-6 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2025/03/29 | 1-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/03/27 | 3-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ✅ | 2025/03/20 | 4-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
@@ -163,5 +163,5 @@ Corporation ID: 65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743259976"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744540384"></span>
 </div>

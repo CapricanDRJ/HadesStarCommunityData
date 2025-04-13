@@ -1,6 +1,6 @@
 ---
 title: ​绛紫星
-description: W:36 L:30 D:2 Bonus ✅ 36%
+description: W:36 L:30 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 4 - 22 **Октябристы**
 date: 2025-04-12T03:59:44.000Z
@@ -23,7 +23,7 @@ date: 2025-04-12T03:59:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

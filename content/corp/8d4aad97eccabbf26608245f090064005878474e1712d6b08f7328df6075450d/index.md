@@ -1,6 +1,6 @@
 ---
 title: ​Серебряная орда
-description: W:62 L:59 D:2 Bonus ✅ 40%
+description: W:62 L:59 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 25 - 9 **Pixies**
 date: 2025-04-06T11:20:21.000Z
@@ -18,12 +18,12 @@ r="green">Русский, English
 <br>
 
 ### [Discord](https://discord.gg/p6rrFevJbJ)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔺  (1006)|
-| ELO Competitive | 1343 🔺  (238)|
+| ELO Competitive | 1343 🔺  (237)|
 | Total Matches | 123 |
 | Wins | 62 |
 | Losses | 59 |
