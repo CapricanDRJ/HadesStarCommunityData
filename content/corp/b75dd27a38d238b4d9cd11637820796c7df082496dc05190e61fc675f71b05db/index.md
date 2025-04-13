@@ -1,6 +1,6 @@
 ---
 title: ​Starships
-description: W:11 L:3 D:1 Bonus ✅ 
+description: W:11 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 4 - 18 **Terran empire **
 date: 2025-04-13T17:33:52.000Z
@@ -15,7 +15,7 @@ date: 2025-04-13T17:33:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

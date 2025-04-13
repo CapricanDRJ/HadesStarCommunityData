@@ -1,6 +1,6 @@
 ---
 title: ​Hexwood
-description: W:12 L:9 D:0 Bonus ✅ 36%
+description: W:12 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 26 - 4 **GhostNakcoorp**
 date: 2025-04-06T18:56:16.000Z
@@ -20,7 +20,7 @@ A social, easygoing Corp with allies to join together with for Red or
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
