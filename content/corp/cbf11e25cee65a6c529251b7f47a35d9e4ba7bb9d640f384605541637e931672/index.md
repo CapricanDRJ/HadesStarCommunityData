@@ -1,6 +1,6 @@
 ---
 title: ​Держава Русь
-description: W:6 L:45 D:1 Bonus ✅ 44%
+description: W:6 L:45 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 1 - 26 **Gummibärenbande**
 date: 2025-04-11T19:23:55.000Z
@@ -15,7 +15,7 @@ date: 2025-04-11T19:23:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

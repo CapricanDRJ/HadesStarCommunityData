@@ -1,6 +1,6 @@
 ---
 title: ​Ark
-description: W:66 L:22 D:1 Bonus ✅ 46%
+description: W:66 L:22 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 53 - 7 **Hamburg AG 2**
 date: 2025-04-06T07:09:59.000Z
@@ -21,7 +21,7 @@ Discord ist erwünscht, aber keine Pflicht.
 <br>
 
 ### [Discord](https://discord.gg/kPuseCu4RE)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
