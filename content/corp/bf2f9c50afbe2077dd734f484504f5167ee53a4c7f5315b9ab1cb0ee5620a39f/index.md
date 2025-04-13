@@ -1,6 +1,6 @@
 ---
 title: ​Nebulae Traders
-description: W:13 L:62 D:5 Bonus ✅ 38%
+description: W:13 L:62 D:5 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 10 **C'est pas faux\!**
 date: 2025-04-12T20:56:54.000Z
@@ -16,7 +16,7 @@ date: 2025-04-12T20:56:54.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

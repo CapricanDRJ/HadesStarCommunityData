@@ -1,6 +1,6 @@
 ---
 title: ​U.S.A
-description: W:25 L:54 D:1 Bonus ✅ 36%
+description: W:25 L:54 D:1 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **Red\_Coat\_Mafia**
 date: 2025-04-11T04:32:10.000Z
@@ -18,7 +18,7 @@ embers Star Nations that are apart of it against the chaos outside of
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |
