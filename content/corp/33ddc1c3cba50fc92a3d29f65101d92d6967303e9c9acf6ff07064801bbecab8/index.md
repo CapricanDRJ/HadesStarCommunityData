@@ -26,7 +26,7 @@ Discord Required - R8nzDPk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (1048)|
+| ELO Regular | 1170 🔻  (1049)|
 | ELO Competitive | 1177 🔻  (1117)|
 | Total Matches | 2 |
 | Wins | 0 |

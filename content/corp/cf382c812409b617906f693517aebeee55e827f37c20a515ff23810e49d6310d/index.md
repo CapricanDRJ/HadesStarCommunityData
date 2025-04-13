@@ -1,9 +1,9 @@
 ---
 title: ​BRhue
-description: W:12 L:17 D:0 Bonus ❌ 13%
+description: W:12 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 10 - 28 **SQPT**
-date: 2025-04-05T15:43:26.000Z
+Summary: ❌ 7 - 13 **WinterComes**
+date: 2025-04-13T14:08:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Juntos somos mais fortes.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1063)|
-| ELO Competitive | 1241 🔻  (476)|
-| Total Matches | 29 |
+| ELO Regular | 1152 🔻  (1180)|
+| ELO Competitive | 1226 🔻  (529)|
+| Total Matches | 30 |
 | Wins | 12 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
+        let timestamps = [1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/13 | 7-13 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ❌ | 2025/04/05 | 10-28 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2025/03/31 | 8-58 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2025/03/25 | 10-50 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
@@ -183,5 +184,5 @@ Corporation ID: cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743867806"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744553308"></span>
 </div>

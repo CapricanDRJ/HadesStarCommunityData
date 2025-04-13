@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:22 L:10 D:0 Bonus ✅ 34%
+description: W:22 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 12 - 4 **imperio estelar**
 date: 2025-04-06T13:40:36.000Z
@@ -16,7 +16,7 @@ date: 2025-04-06T13:40:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

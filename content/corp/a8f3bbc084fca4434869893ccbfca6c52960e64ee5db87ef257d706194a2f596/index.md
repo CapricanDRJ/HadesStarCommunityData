@@ -1,9 +1,9 @@
 ---
 title: ​WinterComes
-description: W:6 L:16 D:0 Bonus ❌ 12%
+description: W:7 L:16 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 5 - 28 **Октябристы**
-date: 2025-04-06T16:40:59.000Z
+Summary: ✅ 13 - 7 **BRhue**
+date: 2025-04-13T14:08:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,14 +23,14 @@ Winter Comes to Hades</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1178)|
-| ELO Competitive | 1227 🔻  (519)|
-| Total Matches | 22 |
-| Wins | 6 |
+| ELO Regular | 1168 🔺  (1063)|
+| ELO Competitive | 1243 🔺  (470)|
+| Total Matches | 23 |
+| Wins | 7 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743525659,1742832918,1742300672,1741622759,1740496185,1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1744121308,1743525659,1742832918,1742300672,1741622759,1740496185,1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/13 | 13-7 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2025/04/06 | 5-28 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2025/03/29 | 16-28 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ✅ | 2025/03/23 | 37-0 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -178,5 +179,5 @@ Corporation ID: a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743957659"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744553308"></span>
 </div>

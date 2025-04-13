@@ -1,6 +1,6 @@
 ---
 title: ​UGSS
-description: W:1 L:2 D:0 Bonus ✅ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 1 **Stargroup**
 date: 2025-04-06T13:35:36.000Z
@@ -15,11 +15,11 @@ date: 2025-04-06T13:35:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (1003)|
+| ELO Regular | 1172 🔺  (1005)|
 | ELO Competitive | 1180 🔺  (1092)|
 | Total Matches | 3 |
 | Wins | 1 |
