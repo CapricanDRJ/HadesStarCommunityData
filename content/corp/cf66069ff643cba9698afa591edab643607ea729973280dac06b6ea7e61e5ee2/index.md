@@ -1,6 +1,6 @@
 ---
 title: ​Españoles
-description: W:34 L:67 D:0 Bonus ✅ 48%
+description: W:34 L:67 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 37 - 33 **Internationals**
 date: 2025-04-06T16:00:54.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

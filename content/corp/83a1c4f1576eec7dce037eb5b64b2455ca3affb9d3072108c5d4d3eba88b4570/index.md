@@ -1,6 +1,6 @@
 ---
 title: ​RedStar Raiding
-description: W:15 L:59 D:1 Bonus ✅ 36%
+description: W:15 L:59 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 13 - 0 **Final Space**
 date: 2025-04-06T18:16:11.000Z
@@ -16,7 +16,7 @@ l.  PG-13 chat. Must be able to communicate in English.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
