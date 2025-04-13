@@ -1,9 +1,9 @@
 ---
 title: ​Crimson Dawn
-description: W:11 L:19 D:0 Bonus ❌ 7%
+description: W:11 L:20 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 50 **Sentencia**
-date: 2025-03-05T02:25:36.000Z
+Summary: ❌ 2 - 47 **六大天神**
+date: 2025-04-12T22:37:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ord.gg/j5GeqTEx6E
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1369)|
-| ELO Competitive | 1156 🔻  (1313)|
-| Total Matches | 30 |
+| ELO Regular | 1101 🔻  (1378)|
+| ELO Competitive | 1155 🔻  (1318)|
+| Total Matches | 31 |
 | Wins | 11 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740709536,1735760080,1733415489,1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
+        let timestamps = [1744065424,1740709536,1735760080,1733415489,1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/12 | 2-47 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/03/05 | 0-50 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ❌ | 2025/01/06 | 11-14 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/12/10 | 14-25 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
@@ -181,5 +182,5 @@ Corporation ID: d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741141536"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744497424"></span>
 </div>

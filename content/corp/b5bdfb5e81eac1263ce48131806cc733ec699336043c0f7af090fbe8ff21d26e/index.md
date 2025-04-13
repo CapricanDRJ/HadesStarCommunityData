@@ -1,9 +1,9 @@
 ---
 title: ​White Star Inc.
-description: W:4 L:9 D:0 Bonus ❌ 10%
+description: W:4 L:10 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 13 - 31 **BrinySeal**
-date: 2025-04-05T14:03:14.000Z
+Summary: ❌ 5 - 19 **47підрозділССП**
+date: 2025-04-12T22:12:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1161)|
-| ELO Competitive | 1187 🔻  (908)|
-| Total Matches | 13 |
+| ELO Regular | 1148 🔻  (1208)|
+| ELO Competitive | 1181 🔻  (1083)|
+| Total Matches | 14 |
 | Wins | 4 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743429794,1742819691,1742223143,1741604726,1731508255,1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
+        let timestamps = [1744063922,1743429794,1742819691,1742223143,1741604726,1731508255,1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/12 | 5-19 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ❌ | 2025/04/05 | 13-31 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/03/29 | 7-21 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2025/03/22 | 8-33 | [ETER & CAOS](https://ws.tsl.rocks/corp/16629295d7509be3ecbe986b169113da8270c2b192841cf463fb8bd1f1fc72b7/) |
@@ -164,5 +165,5 @@ Corporation ID: b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743861794"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744495922"></span>
 </div>
