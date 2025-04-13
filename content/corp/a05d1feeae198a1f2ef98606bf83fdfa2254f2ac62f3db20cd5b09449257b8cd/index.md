@@ -1,6 +1,6 @@
 ---
 title: ​DarkSide
-description: W:52 L:73 D:2 Bonus ✅ 40%
+description: W:52 L:73 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 33 - 2 **Север РусКорп**
 date: 2025-04-06T06:29:55.000Z
@@ -18,7 +18,7 @@ https://t.me/DS_DarkSide
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

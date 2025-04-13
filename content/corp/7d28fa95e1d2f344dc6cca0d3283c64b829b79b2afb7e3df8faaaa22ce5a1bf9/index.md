@@ -1,9 +1,9 @@
 ---
 title: ​Hand Of NOD! 
-description: W:63 L:9 D:0 Bonus ✅ 40%
+description: W:64 L:9 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 15 - 12 **Nearland Ind**
-date: 2025-04-06T05:34:50.000Z
+Summary: ✅ 46 - 26 **Deadspace**
+date: 2025-04-13T06:07:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ PEACE THROUGH POWER!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1561 🔺  (6)|
-| ELO Competitive | 1676 🔺  (17)|
-| Total Matches | 72 |
-| Wins | 63 |
+| ELO Regular | 1564 🔺  (6)|
+| ELO Competitive | 1680 🔺  (17)|
+| Total Matches | 73 |
+| Wins | 64 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 19 |
 | Flagship | 9 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743485690,1742917663,1742392934,1741669934,1741120632,1740476948,1739861502,1739256003,1738651685,1738047051,1737447260,1736838109,1736230727,1735654317,1735027533,1734425397,1733817842,1733221983,1732601752,1731997165,1731396474,1730788551,1730179747,1729593168,1728984020,1728364579,1727775862,1727185385,1726550610,1725952839,1725366570,1724735570,1724133601,1723528657,1722935749,1722325114,1721770053,1721126050,1720512025,1720040505,1719292231,1718689403,1718085813,1717534862,1716875477,1716274831,1715675133,1715058905,1714461188,1713862669,1713255457,1712656609,1712034617,1711431253,1710838723,1710225163,1709635937,1709015746,1708428285,1707820976,1707211367,1706606628,1706005600,1705390146,1704782513,1704092226,1703580141,1702966872,1702363386,1701767395,1701150088,1700557099];
+        let timestamps = [1744092461,1743485690,1742917663,1742392934,1741669934,1741120632,1740476948,1739861502,1739256003,1738651685,1738047051,1737447260,1736838109,1736230727,1735654317,1735027533,1734425397,1733817842,1733221983,1732601752,1731997165,1731396474,1730788551,1730179747,1729593168,1728984020,1728364579,1727775862,1727185385,1726550610,1725952839,1725366570,1724735570,1724133601,1723528657,1722935749,1722325114,1721770053,1721126050,1720512025,1720040505,1719292231,1718689403,1718085813,1717534862,1716875477,1716274831,1715675133,1715058905,1714461188,1713862669,1713255457,1712656609,1712034617,1711431253,1710838723,1710225163,1709635937,1709015746,1708428285,1707820976,1707211367,1706606628,1706005600,1705390146,1704782513,1704092226,1703580141,1702966872,1702363386,1701767395,1701150088,1700557099];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,9 +135,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 4 | 0 | 0 | 4 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 1 | 1 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1 | 1 | 0 | 2 |
-| [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 3 | 0 | 0 | 3 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 2 | 0 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 3 | 0 | 0 | 3 |
@@ -157,6 +157,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/13 | 46-26 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2025/04/06 | 15-12 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ✅ | 2025/03/30 | 53-10 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2025/03/24 | 38-31 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
@@ -236,5 +237,5 @@ Corporation ID: 7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743917690"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744524461"></span>
 </div>

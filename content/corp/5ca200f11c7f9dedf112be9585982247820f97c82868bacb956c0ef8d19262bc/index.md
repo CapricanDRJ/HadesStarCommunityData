@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Light
-description: W:20 L:36 D:1 Bonus ✅ 36%
+description: W:20 L:36 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **New YuGiOh**
 date: 2025-04-11T07:32:29.000Z
@@ -17,7 +17,7 @@ space of this game. WS every week. Join us into the Light!
 <br>
 
 ### [Discord](https://discord.gg/pfsfZwqh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
