@@ -328,6 +328,43 @@ searchHidden: true
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Triskal</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>5</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>358%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>5</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>310%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">whywhy</th>
         </tr>
         <tr>

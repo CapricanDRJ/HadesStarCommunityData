@@ -1,6 +1,6 @@
 ---
 title: ​Cydonia Order
-description: W:26 L:16 D:3 Bonus ✅ 36%
+description: W:26 L:16 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 4 - 13 **DarkSide**
 date: 2025-04-13T20:44:14.000Z
@@ -15,7 +15,7 @@ THE CYDONIAN EMPIRE™
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

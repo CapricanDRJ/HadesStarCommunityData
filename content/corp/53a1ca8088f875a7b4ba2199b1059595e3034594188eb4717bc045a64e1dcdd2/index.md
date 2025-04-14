@@ -1,6 +1,6 @@
 ---
 title: ​imperio galacti
-description: W:24 L:13 D:1 Bonus ✅ 34%
+description: W:24 L:13 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 7 - 1 **РARADISЕ**
 date: 2025-04-07T02:57:02.000Z
@@ -17,12 +17,12 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (164)|
-| ELO Competitive | 1440 🔺  (128)|
+| ELO Competitive | 1440 🔺  (129)|
 | Total Matches | 38 |
 | Wins | 24 |
 | Losses | 13 |
