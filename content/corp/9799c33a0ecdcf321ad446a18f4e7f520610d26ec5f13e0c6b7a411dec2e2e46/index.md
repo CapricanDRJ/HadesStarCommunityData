@@ -1,9 +1,9 @@
 ---
 title: ​Weyland Yutani 
-description: W:12 L:25 D:3 Bonus ❌ 6%
+description: W:12 L:26 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **永恒之梦**
-date: 2024-08-21T03:28:48.000Z
+Summary: ❌ 0 - 16 **普罗米修斯**
+date: 2025-04-14T03:59:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ enter if you have ws scanner
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1371)|
-| ELO Competitive | 1221 🔻  (549)|
-| Total Matches | 40 |
+| ELO Regular | 1089 🔻  (1397)|
+| ELO Competitive | 1205 🔻  (664)|
+| Total Matches | 41 |
 | Wins | 12 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723778928,1723765758,1721431369,1720981188,1720494296,1719975356,1719970454,1719539489,1719027767,1719017551,1718577919,1718329230,1717845687,1717383379,1717067504,1716805150,1716544316,1716361957,1716104487,1715910684,1715468420,1715255161,1714812234,1714596404,1714173341,1713906540,1713561924,1712518995,1711871752,1711853725,1710889506,1710379305,1709951731,1709946624,1709485405,1709043996,1708387125,1707908123,1707414558,1706953720];
+        let timestamps = [1744171191,1723778928,1723765758,1721431369,1720981188,1720494296,1719975356,1719970454,1719539489,1719027767,1719017551,1718577919,1718329230,1717845687,1717383379,1717067504,1716805150,1716544316,1716361957,1716104487,1715910684,1715468420,1715255161,1714812234,1714596404,1714173341,1713906540,1713561924,1712518995,1711871752,1711853725,1710889506,1710379305,1709951731,1709946624,1709485405,1709043996,1708387125,1707908123,1707414558,1706953720];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/14 | 0-16 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/08/21 | 0-3 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
 | ❌ | 2024/08/20 | 0-15 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/07/24 | 0-21 | [Peasants](https://ws.tsl.rocks/corp/d32015145d0844998979f2537e2c306c1aac0bac5010cff1118876ea73b10891/) |
@@ -190,5 +191,5 @@ Corporation ID: 9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1724210928"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744603191"></span>
 </div>

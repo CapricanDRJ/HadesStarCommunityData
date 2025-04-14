@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Hades
-description: W:18 L:4 D:1 Bonus ✅ 
+description: W:19 L:4 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 1 **Alpha to Omega**
-date: 2025-04-08T06:24:47.000Z
+Summary: ✅ 3 - 2 **RedStar Raiding**
+date: 2025-04-14T05:14:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-08T06:24:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1353 🔺  (112)|
-| ELO Competitive | 1399 🔺  (163)|
-| Total Matches | 23 |
-| Wins | 18 |
+| ELO Regular | 1357 🔺  (104)|
+| ELO Competitive | 1403 🔺  (162)|
+| Total Matches | 24 |
+| Wins | 19 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 12 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743661487,1743656411,1742985875,1742976862,1742365285,1741784113,1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
+        let timestamps = [1744175698,1743661487,1743656411,1742985875,1742976862,1742365285,1741784113,1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,13 +134,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) | 2 | 0 | 0 | 2 |
+| [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) | 3 | 0 | 0 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/14 | 3-2 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2025/04/08 | 4-1 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ✅ | 2025/04/08 | 7-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2025/03/31 | 3-9 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
@@ -171,5 +172,5 @@ Corporation ID: 5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744093487"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744607698"></span>
 </div>
