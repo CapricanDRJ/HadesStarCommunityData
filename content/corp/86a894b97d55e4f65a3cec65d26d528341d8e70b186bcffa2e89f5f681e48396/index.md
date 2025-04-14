@@ -1,6 +1,6 @@
 ---
 title: ​Stella☆Glow
-description: W:43 L:23 D:1 Bonus ✅ 42%
+description: W:43 L:23 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 49 - 2 **Galaxians**
 date: 2025-04-07T11:42:51.000Z
@@ -29,7 +29,7 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

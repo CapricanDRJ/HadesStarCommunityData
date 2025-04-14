@@ -1,6 +1,6 @@
 ---
 title: ​GN星际联合
-description: W:5 L:3 D:0 Bonus ✅ 
+description: W:5 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 12 - 7 **северный шторм**
 date: 2025-04-07T11:37:50.000Z
@@ -15,11 +15,11 @@ date: 2025-04-07T11:37:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (382)|
+| ELO Regular | 1222 🔺  (381)|
 | ELO Competitive | 1240 🔺  (480)|
 | Total Matches | 8 |
 | Wins | 5 |

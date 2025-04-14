@@ -1,6 +1,6 @@
 ---
 title: ​很多星球的社会主义团
-description: W:17 L:25 D:2 Bonus ✅ 34%
+description: W:17 L:25 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 20 **Created**
 date: 2025-04-12T11:45:29.000Z
@@ -18,7 +18,7 @@ date: 2025-04-12T11:45:29.000Z
 <br>
 
 ### [Discord](https://discord.gg/社会主义丶共产主义万岁！资本主义丶帝国主义必死！)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

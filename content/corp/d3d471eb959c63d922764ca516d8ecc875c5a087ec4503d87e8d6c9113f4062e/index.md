@@ -1,6 +1,6 @@
 ---
 title: ​Chaos
-description: W:2 L:0 D:1 Bonus ✅ 
+description: W:2 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 8 - 0 **龙族之家**
 date: 2025-04-07T11:07:47.000Z
@@ -15,11 +15,11 @@ date: 2025-04-07T11:07:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (349)|
+| ELO Regular | 1231 🔺  (348)|
 | ELO Competitive | 1232 🔺  (501)|
 | Total Matches | 3 |
 | Wins | 2 |

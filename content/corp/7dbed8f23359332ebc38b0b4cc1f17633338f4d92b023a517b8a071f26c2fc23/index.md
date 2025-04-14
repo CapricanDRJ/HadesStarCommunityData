@@ -21,8 +21,8 @@ yP4WnNqW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (612)|
-| ELO Competitive | 1193 🔻  (780)|
+| ELO Regular | 1192 🔻  (613)|
+| ELO Competitive | 1193 🔻  (781)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

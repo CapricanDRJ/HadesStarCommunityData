@@ -1,9 +1,9 @@
 ---
 title: ​Untitled
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 4 - 16 **骊珠洞天**
-date: 2025-04-01T23:58:41.000Z
+Summary: ✅ 10 - 0 **宇宙联盟（中国）**
+date: 2025-04-14T12:20:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-01T23:58:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (865)|
-| ELO Competitive | 1186 🔻  (920)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1201 🔺  (526)|
+| ELO Competitive | 1207 🔺  (659)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743119921];
+        let timestamps = [1744201237,1743119921];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/14 | 10-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/04/01 | 4-16 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743551921"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744633237"></span>
 </div>
