@@ -1,9 +1,9 @@
 ---
 title: ​泰拉瑞亚
-description: W:2 L:4 D:0 Bonus ❌ 5%
+description: W:2 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 2 - 7 **九州分团**
-date: 2025-04-09T04:17:05.000Z
+Summary: ❌ 3 - 6 **Empire of Hades**
+date: 2025-04-14T07:40:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-04-09T04:17:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (991)|
-| ELO Competitive | 1187 🔻  (901)|
-| Total Matches | 6 |
+| ELO Regular | 1165 🔻  (1087)|
+| ELO Competitive | 1180 🔻  (1088)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743740225,1743266019,1742821795,1742389327,1709172001,1699838615];
+        let timestamps = [1744184411,1743740225,1743266019,1742821795,1742389327,1709172001,1699838615];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/14 | 3-6 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/04/09 | 2-7 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2025/04/03 | 11-3 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2025/03/29 | 2-12 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
@@ -148,5 +149,5 @@ Corporation ID: a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744172225"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744616411"></span>
 </div>

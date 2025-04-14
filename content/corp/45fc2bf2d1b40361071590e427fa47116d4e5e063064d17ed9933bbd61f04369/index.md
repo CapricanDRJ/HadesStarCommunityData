@@ -1,6 +1,6 @@
 ---
 title: ​Deadspace
-description: W:32 L:45 D:0 Bonus ✅ 48%
+description: W:32 L:45 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 26 - 46 **Hand Of NOD\! **
 date: 2025-04-13T06:07:41.000Z
@@ -25,12 +25,12 @@ Discord mandatory.  <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (583)|
-| ELO Competitive | 1311 🔻  (291)|
+| ELO Competitive | 1311 🔻  (292)|
 | Total Matches | 77 |
 | Wins | 32 |
 | Losses | 45 |
