@@ -21,7 +21,7 @@ dly. We may run a casual White Star if we feel like it.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (476)|
+| ELO Regular | 1210 🔺  (475)|
 | ELO Competitive | 1212 🔺  (635)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -22,7 +22,7 @@ type of stars veterans and beginners. International.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔻  (173)|
+| ELO Regular | 1303 🔻  (174)|
 | ELO Competitive | 1316 🔻  (286)|
 | Total Matches | 13 |
 | Wins | 11 |

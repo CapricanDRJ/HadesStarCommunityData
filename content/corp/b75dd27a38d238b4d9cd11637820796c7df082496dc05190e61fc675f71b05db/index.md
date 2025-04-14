@@ -1,9 +1,9 @@
 ---
 title: ​Starships
-description: W:11 L:3 D:1 Bonus ❌ 
+description: W:12 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 4 - 18 **Terran empire **
-date: 2025-04-13T17:33:52.000Z
+Summary: ✅ 18 - 0 **九州·华夏**
+date: 2025-04-13T23:54:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-13T17:33:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔻  (189)|
-| ELO Competitive | 1324 🔻  (266)|
-| Total Matches | 15 |
-| Wins | 11 |
+| ELO Regular | 1306 🔺  (172)|
+| ELO Competitive | 1352 🔺  (225)|
+| Total Matches | 16 |
+| Wins | 12 |
 | Losses | 3 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744133632,1743537083,1743531070,1742930589,1742929086,1742328026,1742318406,1741738447,1741712602,1741108911,1740506104,1739737406,1738684741,1738684741,1737790420];
+        let timestamps = [1744156470,1744133632,1743537083,1743531070,1742930589,1742929086,1742328026,1742318406,1741738447,1741712602,1741108911,1740506104,1739737406,1738684741,1738684741,1737790420];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/13 | 18-0 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2025/04/13 | 4-18 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/04/06 | 5-3 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ✅ | 2025/04/06 | 17-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
@@ -163,5 +164,5 @@ Corporation ID: b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744565632"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744588470"></span>
 </div>
