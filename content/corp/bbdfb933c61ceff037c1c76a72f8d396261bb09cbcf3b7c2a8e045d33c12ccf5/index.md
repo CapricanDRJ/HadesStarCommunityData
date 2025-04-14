@@ -1,6 +1,6 @@
 ---
 title: ​一切奇迹的起点
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 19 - 9 **Greek Warriors**
 date: 2025-04-07T18:38:40.000Z
@@ -15,12 +15,12 @@ date: 2025-04-07T18:38:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔺  (458)|
-| ELO Competitive | 1216 🔺  (578)|
+| ELO Competitive | 1216 🔺  (579)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
