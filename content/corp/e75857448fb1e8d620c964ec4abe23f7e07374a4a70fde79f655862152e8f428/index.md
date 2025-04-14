@@ -1,6 +1,6 @@
 ---
 title: ​BlackStar Order
-description: W:91 L:63 D:0 Bonus ✅ 58%
+description: W:91 L:63 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 56 - 62 **Legion**
 date: 2025-04-13T12:43:18.000Z
@@ -22,7 +22,7 @@ Discord: (YTaYrhy)
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

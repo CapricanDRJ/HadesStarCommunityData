@@ -1,6 +1,6 @@
 ---
 title: ​新星汇聚
-description: W:10 L:8 D:0 Bonus ✅ 32%
+description: W:10 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **Эдем**
 date: 2025-04-07T20:32:46.000Z
@@ -18,7 +18,7 @@ date: 2025-04-07T20:32:46.000Z
 <br>
 
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

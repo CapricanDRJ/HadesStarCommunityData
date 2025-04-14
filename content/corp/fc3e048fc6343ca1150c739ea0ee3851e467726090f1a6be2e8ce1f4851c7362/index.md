@@ -1,6 +1,6 @@
 ---
 title: ​ГОРИЗОНТ
-description: W:35 L:96 D:0 Bonus ✅ 50%
+description: W:35 L:96 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 6 - 33 **Nearland Ind**
 date: 2025-04-14T03:39:49.000Z
@@ -17,12 +17,12 @@ date: 2025-04-14T03:39:49.000Z
 <br>
 
 ### [Discord](https://discord.gg/hn2S7qy58g)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1242)|
-| ELO Competitive | 1419 🔻  (148)|
+| ELO Competitive | 1419 🔻  (147)|
 | Total Matches | 131 |
 | Wins | 35 |
 | Losses | 96 |

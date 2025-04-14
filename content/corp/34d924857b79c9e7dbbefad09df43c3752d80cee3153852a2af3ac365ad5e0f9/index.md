@@ -1,6 +1,6 @@
 ---
 title: ​复生会
-description: W:3 L:5 D:0 Bonus ✅ 
+description: W:3 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 8 - 0 **The Witness**
 date: 2025-04-07T19:03:43.000Z
@@ -15,7 +15,7 @@ date: 2025-04-07T19:03:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

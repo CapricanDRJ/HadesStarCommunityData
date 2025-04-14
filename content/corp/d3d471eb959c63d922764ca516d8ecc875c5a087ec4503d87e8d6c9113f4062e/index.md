@@ -1,9 +1,9 @@
 ---
 title: ​Chaos
-description: W:2 L:0 D:1 Bonus ❌ 
+description: W:3 L:0 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 8 - 0 **龙族之家**
-date: 2025-04-07T11:07:47.000Z
+Summary: ✅ 13 - 3 **Red Alliance**
+date: 2025-04-14T20:01:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-04-07T11:07:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (348)|
-| ELO Competitive | 1232 🔺  (501)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1243 🔺  (304)|
+| ELO Competitive | 1249 🔺  (451)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743592067,1740498890,1737532601];
+        let timestamps = [1744228891,1743592067,1740498890,1737532601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/14 | 13-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/04/07 | 8-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
 | ✅ | 2025/03/02 | 17-2 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ↔️ | 2025/01/27 | 4-4 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
@@ -146,5 +147,5 @@ Corporation ID: d3d471eb959c63d922764ca516d8ecc875c5a087ec4503d87e8d6c9113f4062e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744024067"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744660891"></span>
 </div>
