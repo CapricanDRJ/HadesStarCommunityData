@@ -1,6 +1,6 @@
 ---
 title: ​Battle Academy
-description: W:10 L:1 D:0 Bonus ✅ 34%
+description: W:10 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 15 - 14 **Osmium Star llc**
 date: 2025-04-08T17:05:56.000Z
@@ -24,7 +24,7 @@ color=#111100><b></b></color>
 <br>
 
 ### [Discord](https://discord.gg/3A9WHQV)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

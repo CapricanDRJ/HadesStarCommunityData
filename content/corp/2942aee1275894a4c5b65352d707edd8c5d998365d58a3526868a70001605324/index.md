@@ -1,6 +1,6 @@
 ---
 title: ​毛绒团子
-description: W:16 L:1 D:0 Bonus ✅ 
+description: W:16 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 12 - 1 **Red Alliance**
 date: 2025-04-08T17:15:58.000Z
@@ -15,12 +15,12 @@ date: 2025-04-08T17:15:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1397 🔺  (67)|
-| ELO Competitive | 1407 🔺  (160)|
+| ELO Competitive | 1407 🔺  (159)|
 | Total Matches | 17 |
 | Wins | 16 |
 | Losses | 1 |
