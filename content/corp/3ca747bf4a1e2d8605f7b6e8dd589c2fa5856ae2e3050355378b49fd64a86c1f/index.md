@@ -1,9 +1,9 @@
 ---
 title: ​风云集团
-description: W:1 L:4 D:0 Bonus ❌ 3%
+description: W:1 L:5 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 11 **The Witness**
-date: 2024-10-08T12:44:34.000Z
+Summary: ❌ 0 - 6 **WhiteSTarfighte**
+date: 2025-04-15T11:52:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Union短期目标：没有   新手和不经常上线的想加入本团的前往
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (1094)|
-| ELO Competitive | 1163 🔻  (1255)|
-| Total Matches | 5 |
+| ELO Regular | 1152 🔻  (1184)|
+| ELO Competitive | 1152 🔻  (1326)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727959474,1718877216,1706870778,1706252919,1705366369];
+        let timestamps = [1744285977,1727959474,1718877216,1706870778,1706252919,1705366369];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/15 | 0-6 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/10/08 | 0-11 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/06/25 | 0-21 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/02/07 | 3-2 | [Ukr alliance ](https://ws.tsl.rocks/corp/0eb13755b8906344c0af35f3d63b7cc0ecebf80877f327f78b1e40aded41ca7c/) |
@@ -147,5 +148,5 @@ Corporation ID: 3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1728391474"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744717977"></span>
 </div>

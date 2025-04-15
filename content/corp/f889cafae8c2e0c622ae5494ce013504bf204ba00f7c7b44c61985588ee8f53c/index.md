@@ -1,6 +1,6 @@
 ---
 title: ​Dark Training
-description: W:25 L:14 D:1 Bonus ✅ 36%
+description: W:25 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 28 - 0 **Свободный флот**
 date: 2025-04-08T11:10:14.000Z
@@ -24,7 +24,7 @@ Alliance:
 <br>
 
 ### [Discord](https://discord.gg/gJVbNTWUYM)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

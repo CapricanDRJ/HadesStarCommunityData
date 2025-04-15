@@ -20,7 +20,7 @@ Part of the Confederation H
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (575)|
+| ELO Regular | 1196 🔻  (574)|
 | ELO Competitive | 1197 🔻  (735)|
 | Total Matches | 1 |
 | Wins | 0 |

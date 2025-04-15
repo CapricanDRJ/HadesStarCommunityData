@@ -1,6 +1,6 @@
 ---
 title: ​Order of Hades
-description: W:81 L:33 D:1 Bonus ✅ 50%
+description: W:81 L:33 D:1 Bonus ❌ 50%
 image: ./favicon.png
 Summary: ✅ 33 - 5 **ГОРИЗОНТ**
 date: 2025-04-08T12:45:24.000Z
@@ -17,7 +17,7 @@ iscord is mandatory for membership.
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 50%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​宇宙联盟（中国）
-description: W:34 L:48 D:7 Bonus ✅ 36%
+description: W:34 L:48 D:7 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 10 **Untitled**
 date: 2025-04-14T12:20:37.000Z
@@ -17,7 +17,7 @@ date: 2025-04-14T12:20:37.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

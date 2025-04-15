@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:19 L:11 D:0 Bonus ✅ 36%
+description: W:19 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **OPA**
 date: 2025-04-08T11:50:18.000Z
@@ -17,7 +17,7 @@ date: 2025-04-08T11:50:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

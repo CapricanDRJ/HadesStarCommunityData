@@ -24,7 +24,7 @@ gals ❀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (310)|
+| ELO Regular | 1242 🔺  (311)|
 | ELO Competitive | 1250 🔺  (445)|
 | Total Matches | 3 |
 | Wins | 3 |

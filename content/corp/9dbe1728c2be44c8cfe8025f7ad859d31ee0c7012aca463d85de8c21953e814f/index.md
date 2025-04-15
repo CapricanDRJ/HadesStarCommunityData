@@ -1,6 +1,6 @@
 ---
 title: ​星域 
-description: W:12 L:15 D:0 Bonus ✅ 32%
+description: W:12 L:15 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 0 **宇宙联盟（中国）**
 date: 2025-04-08T11:30:19.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
