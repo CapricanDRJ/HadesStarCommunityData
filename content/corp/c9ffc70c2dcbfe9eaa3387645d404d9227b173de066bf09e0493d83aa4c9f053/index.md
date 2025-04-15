@@ -1,9 +1,9 @@
 ---
 title: ​Лютые
-description: W:24 L:12 D:1 Bonus ❌ 8%
+description: W:25 L:12 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 10 - 7 **对，进就进人少的**
-date: 2025-04-08T03:34:31.000Z
+Summary: ✅ 29 - 0 **Свободный флот**
+date: 2025-04-15T05:27:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,17 @@ date: 2025-04-08T03:34:31.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1374 🔺  (91)|
-| ELO Competitive | 1467 🔺  (104)|
-| Total Matches | 37 |
-| Wins | 24 |
+| ELO Regular | 1380 🔺  (82)|
+| ELO Competitive | 1481 🔺  (96)|
+| Total Matches | 38 |
+| Wins | 25 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743651271,1743043586,1742455743,1741858632,1741233762,1740625703,1739417667,1737083043,1734589454,1733369217,1732769140,1731551527,1730972446,1727924937,1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
+        let timestamps = [1744262841,1743651271,1743043586,1742455743,1741858632,1741233762,1740625703,1739417667,1737083043,1734589454,1733369217,1732769140,1731551527,1730972446,1727924937,1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/15 | 29-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2025/04/08 | 10-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/04/01 | 17-3 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ✅ | 2025/03/25 | 18-0 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
@@ -190,5 +191,5 @@ Corporation ID: c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744083271"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744694841"></span>
 </div>

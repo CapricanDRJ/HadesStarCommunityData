@@ -20,7 +20,7 @@ De chill aprendiendo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (903)|
+| ELO Regular | 1181 🔻  (902)|
 | ELO Competitive | 1182 🔻  (1076)|
 | Total Matches | 3 |
 | Wins | 0 |
