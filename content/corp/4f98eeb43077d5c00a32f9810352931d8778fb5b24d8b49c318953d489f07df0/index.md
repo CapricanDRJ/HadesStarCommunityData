@@ -1,6 +1,6 @@
 ---
 title: ​AlyTec Sys.
-description: W:12 L:17 D:1 Bonus ✅ 32%
+description: W:12 L:17 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **Bow Down**
 date: 2025-04-07T23:16:19.000Z
@@ -18,7 +18,7 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

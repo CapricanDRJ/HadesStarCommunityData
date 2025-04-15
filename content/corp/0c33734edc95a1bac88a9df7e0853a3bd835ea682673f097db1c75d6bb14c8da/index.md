@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:46 L:30 D:3 Bonus ✅ 46%
+description: W:46 L:30 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 43 - 10 **Stone Legion**
 date: 2025-04-07T23:49:13.000Z
@@ -22,7 +22,7 @@ https://discord.gg/bAAYCqG2cE
 <br>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

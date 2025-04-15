@@ -1,6 +1,6 @@
 ---
 title: ​Croce del Sud
-description: W:18 L:13 D:0 Bonus ✅ 36%
+description: W:18 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **Crux Cadre**
 date: 2025-04-07T23:39:12.000Z
@@ -18,11 +18,11 @@ date: 2025-04-07T23:39:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (260)|
+| ELO Regular | 1258 🔺  (259)|
 | ELO Competitive | 1318 🔺  (281)|
 | Total Matches | 31 |
 | Wins | 18 |
