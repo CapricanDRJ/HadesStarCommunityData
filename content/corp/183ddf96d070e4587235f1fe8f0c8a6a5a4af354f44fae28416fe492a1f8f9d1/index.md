@@ -1,9 +1,9 @@
 ---
 title: ​Alpaca Nation
-description: W:16 L:3 D:0 Bonus ✅ 
+description: W:17 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 19 - 2 **King's Guard**
-date: 2025-04-09T18:13:33.000Z
+Summary: ✅ 18 - 0 **The Gladiators**
+date: 2025-04-15T07:12:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-09T18:13:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔺  (139)|
-| ELO Competitive | 1357 🔺  (217)|
-| Total Matches | 19 |
-| Wins | 16 |
+| ELO Regular | 1336 🔺  (128)|
+| ELO Competitive | 1364 🔺  (209)|
+| Total Matches | 20 |
+| Wins | 17 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 11 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743790413,1743286133,1742754785,1742319909,1741803350,1741370332,1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
+        let timestamps = [1744269151,1743790413,1743286133,1742754785,1742319909,1741803350,1741370332,1740895556,1740462827,1740014168,1739572420,1739116270,1738649882,1737788918,1737328572,1736808364,1736312170,1735872458,1735836098,1735386885];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/15 | 18-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
 | ✅ | 2025/04/09 | 19-2 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2025/04/03 | 3-15 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) |
 | ✅ | 2025/03/28 | 12-1 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
@@ -166,5 +168,5 @@ Corporation ID: 183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744222413"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744701151"></span>
 </div>
