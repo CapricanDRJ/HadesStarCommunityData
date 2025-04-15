@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:36 L:28 D:1 Bonus ✅ 36%
+description: W:36 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **对，进就进人少的**
 date: 2025-04-08T21:11:27.000Z
@@ -18,12 +18,12 @@ date: 2025-04-08T21:11:27.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (298)|
-| ELO Competitive | 1487 🔺  (92)|
+| ELO Competitive | 1487 🔺  (93)|
 | Total Matches | 65 |
 | Wins | 36 |
 | Losses | 28 |
