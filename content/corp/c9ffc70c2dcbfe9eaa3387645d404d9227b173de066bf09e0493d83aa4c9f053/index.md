@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:24 L:12 D:1 Bonus ✅ 36%
+description: W:24 L:12 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 10 - 7 **对，进就进人少的**
 date: 2025-04-08T03:34:31.000Z
@@ -16,7 +16,7 @@ date: 2025-04-08T03:34:31.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

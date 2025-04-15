@@ -1,9 +1,9 @@
 ---
 title: ​Frontier X
-description: W:9 L:4 D:0 Bonus ❌ 6%
+description: W:9 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 8 - 20 **Alpaca Haven**
-date: 2024-02-25T14:50:07.000Z
+Summary: ❌ 0 - 19 **ITALIA**
+date: 2025-04-15T02:07:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ o7233
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (249)|
-| ELO Competitive | 1263 🔻  (406)|
-| Total Matches | 13 |
+| ELO Regular | 1254 🔻  (273)|
+| ELO Competitive | 1257 🔻  (429)|
+| Total Matches | 14 |
 | Wins | 9 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1708440607,1707770797,1707178917,1706661628,1706126108,1705454759,1704735032,1703696447,1702944038,1701702179,1701104706,1700510220,1699833927];
+        let timestamps = [1744250871,1708440607,1707770797,1707178917,1706661628,1706126108,1705454759,1704735032,1703696447,1702944038,1701702179,1701104706,1700510220,1699833927];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/15 | 0-19 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ❌ | 2024/02/25 | 8-20 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ✅ | 2024/02/17 | 28-3 | [Gallaecia](https://ws.tsl.rocks/corp/4ab98cfc4948a6b1706e3527686ce3fd29eead3cdf4cf00ee2dfde925ba55515/) |
 | ✅ | 2024/02/11 | 26-2 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
@@ -156,5 +157,5 @@ Corporation ID: ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1708872607"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744682871"></span>
 </div>

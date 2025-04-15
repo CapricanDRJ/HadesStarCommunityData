@@ -1,6 +1,6 @@
 ---
 title: ​Lololol
-description: W:8 L:4 D:0 Bonus ✅ 
+description: W:8 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 13 - 8 **蓝色星系二号分盟**
 date: 2025-04-08T02:09:24.000Z
@@ -15,11 +15,11 @@ date: 2025-04-08T02:09:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (254)|
+| ELO Regular | 1260 🔺  (253)|
 | ELO Competitive | 1289 🔺  (344)|
 | Total Matches | 12 |
 | Wins | 8 |
