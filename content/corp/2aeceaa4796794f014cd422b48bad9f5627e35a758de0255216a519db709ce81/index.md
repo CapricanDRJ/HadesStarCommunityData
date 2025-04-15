@@ -1,6 +1,6 @@
 ---
 title: ​Order of Hades
-description: W:81 L:33 D:1 Bonus ❌ 50%
+description: W:81 L:33 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 33 - 5 **ГОРИЗОНТ**
 date: 2025-04-08T12:45:24.000Z
@@ -17,12 +17,12 @@ iscord is mandatory for membership.
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1377 🔺  (88)|
-| ELO Competitive | 1590 🔺  (34)|
+| ELO Competitive | 1590 🔺  (33)|
 | Total Matches | 115 |
 | Wins | 81 |
 | Losses | 33 |

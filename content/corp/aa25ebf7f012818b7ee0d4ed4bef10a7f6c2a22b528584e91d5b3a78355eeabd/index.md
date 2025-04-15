@@ -1,6 +1,6 @@
 ---
 title: ​星际造梦
-description: W:4 L:2 D:0 Bonus ✅ 
+description: W:4 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 8 - 0 **雪月永恒**
 date: 2025-04-08T14:40:39.000Z
@@ -15,7 +15,7 @@ date: 2025-04-08T14:40:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

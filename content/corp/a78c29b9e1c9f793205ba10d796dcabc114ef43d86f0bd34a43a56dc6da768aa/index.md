@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:45 L:20 D:0 Bonus ✅ 38%
+description: W:45 L:20 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 18 - 21 **Soul System**
 date: 2025-04-10T17:26:04.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
