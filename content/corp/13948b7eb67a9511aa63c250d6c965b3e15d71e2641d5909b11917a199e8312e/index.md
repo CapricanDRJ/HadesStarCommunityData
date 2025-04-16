@@ -26,7 +26,7 @@ AXOLOTLS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (645)|
+| ELO Regular | 1190 🔻  (644)|
 | ELO Competitive | 1190 🔻  (828)|
 | Total Matches | 3 |
 | Wins | 1 |
