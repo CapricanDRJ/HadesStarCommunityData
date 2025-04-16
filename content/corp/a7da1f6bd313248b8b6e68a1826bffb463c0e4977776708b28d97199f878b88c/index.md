@@ -1,6 +1,6 @@
 ---
 title: ​The Syndicate 
-description: W:34 L:7 D:0 Bonus ✅ 36%
+description: W:34 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **titan tv**
 date: 2025-04-08T22:43:35.000Z
@@ -20,7 +20,7 @@ ons.
 <br>
 
 ### [Discord](https://discord.gg/B3N5by8zUb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

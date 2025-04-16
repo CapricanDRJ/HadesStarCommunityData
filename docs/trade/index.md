@@ -269,24 +269,10 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>2</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
                     <td>1</td>
                     <td><img src="mining.png" alt="mining"></td>
                     <td>RS9</td>
                     <td>314%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS8</td>
-                    <td>318%</td>
                 </tr>
             
         <tr>
