@@ -1,6 +1,6 @@
 ---
 title: ​VoidRunners
-description: W:89 L:79 D:1 Bonus ✅ 44%
+description: W:89 L:79 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 19 - 7 **101**
 date: 2025-04-09T04:47:07.000Z
@@ -23,11 +23,11 @@ date: 2025-04-09T04:47:07.000Z
 <br>
 
 ### [Discord](https://discord.gg/vmbXh7r7yt)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (1188)|
+| ELO Regular | 1151 🔺  (1189)|
 | ELO Competitive | 1488 🔺  (91)|
 | Total Matches | 169 |
 | Wins | 89 |

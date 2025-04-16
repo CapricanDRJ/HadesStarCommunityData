@@ -22,7 +22,7 @@ rd:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (222)|
+| ELO Regular | 1274 🔺  (223)|
 | ELO Competitive | 1319 🔺  (277)|
 | Total Matches | 29 |
 | Wins | 18 |

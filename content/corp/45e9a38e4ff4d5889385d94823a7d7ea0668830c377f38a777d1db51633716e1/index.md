@@ -1,6 +1,6 @@
 ---
 title: ​星瀚协议
-description: W:5 L:5 D:0 Bonus ✅ 
+description: W:5 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **星瀚协议：守望之城**
 date: 2025-04-09T06:14:34.000Z
@@ -15,7 +15,7 @@ date: 2025-04-09T06:14:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

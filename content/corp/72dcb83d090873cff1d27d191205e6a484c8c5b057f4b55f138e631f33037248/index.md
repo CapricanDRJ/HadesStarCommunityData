@@ -23,8 +23,8 @@ Discord: fYBf2GNU7y
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1275)|
-| ELO Competitive | 1153 🔻  (1325)|
+| ELO Regular | 1135 🔻  (1276)|
+| ELO Competitive | 1153 🔻  (1326)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

@@ -1,9 +1,9 @@
 ---
 title: ​DarkMoon
-description: W:35 L:12 D:1 Bonus ✅ 42%
+description: W:36 L:12 D:1 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **U\.P\.E**
-date: 2025-04-09T04:42:07.000Z
+Summary: ✅ 50 - 0 **101**
+date: 2025-04-16T05:14:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ date: 2025-04-09T04:42:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔺  (52)|
-| ELO Competitive | 1505 🔺  (74)|
-| Total Matches | 48 |
-| Wins | 35 |
+| ELO Regular | 1422 🔺  (49)|
+| ELO Competitive | 1517 🔺  (67)|
+| Total Matches | 49 |
+| Wins | 36 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 9 |
 | Flagship | 7 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743741727,1743741426,1743137345,1743137345,1742554613,1742540490,1741932848,1741924737,1741364020,1741355903,1740726361,1740716746,1740119059,1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
+        let timestamps = [1744348481,1743741727,1743741426,1743137345,1743137345,1742554613,1742540490,1741932848,1741924737,1741364020,1741355903,1740726361,1740716746,1740119059,1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,7 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 3 | 0 | 0 | 3 |
+| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 4 | 0 | 0 | 4 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/16 | 50-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2025/04/09 | 13-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ✅ | 2025/04/09 | 39-0 | [Yellow Dwarf ](https://ws.tsl.rocks/corp/fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da/) |
 | ✅ | 2025/04/02 | 39-0 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
@@ -199,5 +200,5 @@ Corporation ID: 90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744173727"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744780481"></span>
 </div>

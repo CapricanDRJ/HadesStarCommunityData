@@ -1,6 +1,6 @@
 ---
 title: ​hades star萌新指引站
-description: W:16 L:12 D:1 Bonus ✅ 32%
+description: W:16 L:12 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 5 - 4 **红日初升，其道大光**
 date: 2025-04-09T05:32:11.000Z
@@ -15,7 +15,7 @@ date: 2025-04-09T05:32:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

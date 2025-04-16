@@ -21,8 +21,8 @@ Corpo FR active et vivante ! Recherche nouveaux membres actifs et int
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (1007)|
-| ELO Competitive | 1171 🔻  (1183)|
+| ELO Regular | 1171 🔻  (1008)|
+| ELO Competitive | 1171 🔻  (1184)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
