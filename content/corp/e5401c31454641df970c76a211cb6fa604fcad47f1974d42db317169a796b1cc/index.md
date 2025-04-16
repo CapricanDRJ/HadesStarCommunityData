@@ -1,6 +1,6 @@
 ---
 title: ​the kings
-description: W:3 L:4 D:1 Bonus ✅ 
+description: W:3 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 9 **U\.P\.E**
 date: 2025-04-16T02:34:28.000Z
@@ -15,7 +15,7 @@ date: 2025-04-16T02:34:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

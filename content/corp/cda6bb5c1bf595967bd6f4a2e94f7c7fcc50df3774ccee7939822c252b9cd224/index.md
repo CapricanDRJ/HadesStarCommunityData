@@ -1,6 +1,6 @@
 ---
 title: ​萌新集团
-description: W:9 L:5 D:0 Bonus ✅ 
+description: W:9 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 1 **红日初升，其道大光**
 date: 2025-04-09T09:31:16.000Z
@@ -15,7 +15,7 @@ date: 2025-04-09T09:31:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
