@@ -21,8 +21,8 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1370 🔻  (93)|
-| ELO Competitive | 1503 🔺  (77)|
+| ELO Regular | 1370 🔻  (94)|
+| ELO Competitive | 1503 🔺  (78)|
 | Total Matches | 63 |
 | Wins | 40 |
 | Losses | 22 |

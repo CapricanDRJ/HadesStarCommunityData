@@ -26,7 +26,7 @@ CONTACTO:
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (685)|
+| ELO Regular | 1188 🔻  (684)|
 | ELO Competitive | 1188 🔻  (887)|
 | Total Matches | 1 |
 | Wins | 0 |

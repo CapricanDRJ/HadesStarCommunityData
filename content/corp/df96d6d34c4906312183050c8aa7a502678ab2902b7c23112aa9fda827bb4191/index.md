@@ -1,6 +1,6 @@
 ---
 title: ​Spica​
-description: W:42 L:9 D:1 Bonus ✅ 36%
+description: W:42 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 23 - 14 **Повстанцы Хаоса**
 date: 2025-04-09T19:33:44.000Z
@@ -18,7 +18,7 @@ date: 2025-04-09T19:33:44.000Z
 <br>
 
 ### [Discord](https://discord.gg/XQ47nAEXuY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Soul System
-description: W:11 L:17 D:0 Bonus ✅ 38%
+description: W:11 L:18 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 21 - 18 **Warriorlords**
-date: 2025-04-10T17:26:04.000Z
+Summary: ❌ 0 - 34 **仙女座星雲**
+date: 2025-04-16T19:41:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ ust we are born our souls woven from light. RS and WS focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (340)|
-| ELO Competitive | 1297 🔺  (323)|
-| Total Matches | 28 |
+| ELO Regular | 1223 🔻  (381)|
+| ELO Competitive | 1295 🔻  (328)|
+| Total Matches | 29 |
 | Wins | 11 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743873964,1743414165,1742923675,1742471969,1742038328,1741430434,1740852284,1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1744400471,1743873964,1743414165,1742923675,1742471969,1742038328,1741430434,1740852284,1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/16 | 0-34 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2025/04/10 | 21-18 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ✅ | 2025/04/05 | 13-3 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2025/03/30 | 14-4 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
@@ -174,5 +174,5 @@ Corporation ID: 1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744305964"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744832471"></span>
 </div>
