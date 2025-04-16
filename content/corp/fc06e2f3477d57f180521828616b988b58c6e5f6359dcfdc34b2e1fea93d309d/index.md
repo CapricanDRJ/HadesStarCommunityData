@@ -1,9 +1,9 @@
 ---
 title: ​U.P.E
-description: W:4 L:7 D:1 Bonus ❌ 5%
+description: W:5 L:7 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 13 **DarkMoon**
-date: 2025-04-09T04:42:07.000Z
+Summary: ✅ 9 - 0 **the kings**
+date: 2025-04-16T02:34:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (928)|
-| ELO Competitive | 1185 🔻  (978)|
-| Total Matches | 12 |
-| Wins | 4 |
+| ELO Regular | 1194 🔺  (596)|
+| ELO Competitive | 1203 🔺  (681)|
+| Total Matches | 13 |
+| Wins | 5 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743741727,1743264786,1742773119,1741922334,1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
+        let timestamps = [1744338868,1743741727,1743264786,1742773119,1741922334,1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/16 | 9-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ❌ | 2025/04/09 | 0-13 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2025/04/03 | 10-1 | [pérola negra ](https://ws.tsl.rocks/corp/731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a/) |
 | ❌ | 2025/03/28 | 3-16 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) |
@@ -154,5 +155,5 @@ Corporation ID: fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744173727"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744770868"></span>
 </div>

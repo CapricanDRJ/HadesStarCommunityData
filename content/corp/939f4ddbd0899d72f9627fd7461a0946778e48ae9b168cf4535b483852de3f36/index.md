@@ -22,8 +22,8 @@ litary strength.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (355)|
-| ELO Competitive | 1230 🔺  (511)|
+| ELO Regular | 1230 🔺  (356)|
+| ELO Competitive | 1230 🔺  (510)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

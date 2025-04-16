@@ -21,8 +21,8 @@ Traut euch... bewirb dich noch heute 🖖🏻
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (940)|
-| ELO Competitive | 1176 🔻  (1130)|
+| ELO Regular | 1176 🔻  (941)|
+| ELO Competitive | 1176 🔻  (1131)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

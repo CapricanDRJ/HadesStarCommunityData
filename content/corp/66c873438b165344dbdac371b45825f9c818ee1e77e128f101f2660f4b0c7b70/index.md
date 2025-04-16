@@ -1,9 +1,9 @@
 ---
 title: ​Free Ag3nts
-description: W:22 L:0 D:0 Bonus ✅ 36%
+description: W:23 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 40 - 0 **⭐PRETORIANS\.X⭐**
-date: 2025-04-10T10:46:55.000Z
+Summary: ✅ 16 - 10 **对，进就进人少的（分团）**
+date: 2025-04-16T01:44:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-10T10:46:55.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1413 🔺  (55)|
-| ELO Competitive | 1433 🔺  (134)|
-| Total Matches | 22 |
-| Wins | 22 |
+| ELO Regular | 1422 🔺  (46)|
+| ELO Competitive | 1444 🔺  (127)|
+| Total Matches | 23 |
+| Wins | 23 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 22 |
-| Streak Record | 22 |
+| Streak | 23 |
+| Streak Record | 23 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743850015,1742790424,1742199643,1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1744335863,1743850015,1742790424,1742199643,1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/16 | 16-10 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/04/10 | 40-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/03/29 | 32-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2025/03/22 | 34-0 | [New Legion](https://ws.tsl.rocks/corp/9cdc9d8489a3090982b1084bdd4a76cfa8664b765e95a34db8b12cadbb0840d9/) |
@@ -165,5 +166,5 @@ Corporation ID: 66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744282015"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744767863"></span>
 </div>
