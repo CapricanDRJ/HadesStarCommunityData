@@ -1,6 +1,6 @@
 ---
 title: ​ALPHA
-description: W:35 L:13 D:1 Bonus ✅ 36%
+description: W:35 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **Red Alliance**
 date: 2025-04-14T18:16:18.000Z
@@ -16,12 +16,12 @@ Crecer principal objetivo        Leko:Join us we need active member
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1336 🔻  (129)|
-| ELO Competitive | 1409 🔻  (156)|
+| ELO Competitive | 1409 🔻  (157)|
 | Total Matches | 49 |
 | Wins | 35 |
 | Losses | 13 |

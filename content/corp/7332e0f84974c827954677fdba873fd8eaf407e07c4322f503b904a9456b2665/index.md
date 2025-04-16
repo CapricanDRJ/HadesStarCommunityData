@@ -1,9 +1,9 @@
 ---
 title: ​QVX
-description: W:1 L:2 D:0 Bonus ❌ 
+description: W:1 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 4 - 15 **Terran empire **
-date: 2025-04-11T08:15:40.000Z
+Summary: ❌ 0 - 2 **红日初升，其道大光**
+date: 2025-04-16T17:20:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-11T08:15:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (589)|
-| ELO Competitive | 1196 🔻  (747)|
-| Total Matches | 3 |
+| ELO Regular | 1179 🔻  (924)|
+| ELO Competitive | 1189 🔻  (863)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743927340,1743442420,1742944849];
+        let timestamps = [1744392058,1743927340,1743442420,1742944849];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/16 | 0-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/04/11 | 4-15 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ❌ | 2025/04/05 | 0-15 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/03/30 | 6-0 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
@@ -144,5 +145,5 @@ Corporation ID: 7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744359340"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744824058"></span>
 </div>
