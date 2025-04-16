@@ -1,9 +1,9 @@
 ---
 title: ​Alterra Corp
-description: W:2 L:4 D:1 Bonus ❌ 4%
+description: W:3 L:4 D:1 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ❌ 0 - 12 **Hades’ galaxy**
-date: 2025-04-09T09:17:33.000Z
+Summary: ✅ 10 - 0 **AlyTec Sys\.**
+date: 2025-04-16T13:25:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ re.
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1063)|
-| ELO Competitive | 1184 🔻  (1055)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1184 🔺  (870)|
+| ELO Competitive | 1200 🔺  (703)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 1 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743758253,1742908945,1741364020,1739890350,1727464547,1724416673,1721507098];
+        let timestamps = [1744377929,1743758253,1742908945,1741364020,1739890350,1727464547,1724416673,1721507098];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/16 | 10-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2025/04/09 | 0-12 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ✅ | 2025/03/30 | 9-3 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2025/03/12 | 3-10 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
@@ -149,5 +150,5 @@ Corporation ID: 2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744190253"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744809929"></span>
 </div>

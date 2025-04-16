@@ -1,9 +1,9 @@
 ---
 title: ​AlyTec Sys.
-description: W:12 L:17 D:1 Bonus ❌ 6%
+description: W:12 L:18 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **Bow Down**
-date: 2025-04-07T23:16:19.000Z
+Summary: ❌ 0 - 10 **Alterra Corp**
+date: 2025-04-16T13:25:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (766)|
-| ELO Competitive | 1221 🔺  (549)|
-| Total Matches | 30 |
+| ELO Regular | 1170 🔻  (1047)|
+| ELO Competitive | 1204 🔻  (671)|
+| Total Matches | 31 |
 | Wins | 12 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743635779,1743019545,1742392333,1741769072,1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1744377929,1743635779,1743019545,1742392333,1741769072,1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/16 | 0-10 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
 | ✅ | 2025/04/07 | 4-0 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ❌ | 2025/03/31 | 0-26 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/03/24 | 8-0 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
@@ -175,5 +176,5 @@ Corporation ID: 4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744067779"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744809929"></span>
 </div>
