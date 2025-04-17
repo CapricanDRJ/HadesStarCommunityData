@@ -1,9 +1,9 @@
 ---
 title: ​星光舰队
-description: W:3 L:2 D:1 Bonus ❌ 4%
+description: W:3 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ↔️ 6 - 6 **华夏三体舰队**
-date: 2024-08-07T09:15:56.000Z
+Summary: ❌ 0 - 11 **SPACING GUILD**
+date: 2025-04-17T16:19:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2024-08-07T09:15:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (505)|
-| ELO Competitive | 1212 🔻  (635)|
-| Total Matches | 6 |
+| ELO Regular | 1189 🔻  (658)|
+| ELO Competitive | 1197 🔻  (743)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722590156,1721436476,1720946916,1720235844,1719666356,1717772584];
+        let timestamps = [1744474754,1722590156,1721436476,1720946916,1720235844,1719666356,1717772584];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 0-11 | [SPACING GUILD](https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/) |
 | ↔️ | 2024/08/07 | 6-6 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ❌ | 2024/07/25 | 0-24 | [uzumaki](https://ws.tsl.rocks/corp/9d66f913d35d1e894b812e575d3b1157198eb79d55ed3cbc9ab107dae072b60e/) |
 | ✅ | 2024/07/19 | 5-0 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
@@ -148,5 +149,5 @@ Corporation ID: e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1723022156"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744906754"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​SPACING GUILD
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 15 **Cerberus**
-date: 2025-03-22T15:52:31.000Z
+Summary: ✅ 11 - 0 **星光舰队**
+date: 2025-04-17T16:19:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-03-22T15:52:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (489)|
-| ELO Competitive | 1210 🔻  (647)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1223 🔺  (382)|
+| ELO Competitive | 1225 🔺  (533)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742226751,1741290100];
+        let timestamps = [1744474754,1742226751,1741290100];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/17 | 11-0 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |
 | ❌ | 2025/03/22 | 3-15 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/03/11 | 6-1 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 
@@ -143,5 +144,5 @@ Corporation ID: e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742658751"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744906754"></span>
 </div>

@@ -21,8 +21,8 @@ or=green>合格的</color><color=red><i>警</i></color><a><i>察</I></a>吧！
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (429)|
-| ELO Competitive | 1215 🔺  (594)|
+| ELO Regular | 1215 🔺  (430)|
+| ELO Competitive | 1215 🔺  (595)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

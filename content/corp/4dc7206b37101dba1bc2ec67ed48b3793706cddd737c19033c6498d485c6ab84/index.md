@@ -1,6 +1,6 @@
 ---
 title: ​Team Rainbow
-description: W:6 L:3 D:0 Bonus ✅ 32%
+description: W:6 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **Death Flight**
 date: 2025-04-10T17:21:03.000Z
@@ -18,7 +18,7 @@ ap fyah, so get cooked.**
 <br>
 
 ### [Discord](https://discord.gg/eghZesnPZn)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
