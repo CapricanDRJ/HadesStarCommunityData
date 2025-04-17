@@ -1,6 +1,6 @@
 ---
 title: ​2ND-R8 Corp.
-description: W:49 L:20 D:2 Bonus ✅ 38%
+description: W:49 L:20 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 26 - 3 **italian warrior**
 date: 2025-04-10T00:19:14.000Z
@@ -17,7 +17,7 @@ Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in
 <br>
 
 ### [Discord](https://discord.gg/pVhwrfFjx3)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

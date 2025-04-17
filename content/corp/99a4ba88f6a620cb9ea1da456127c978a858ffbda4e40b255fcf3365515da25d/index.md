@@ -1,6 +1,6 @@
 ---
 title: ​Industrial W.O
-description: W:44 L:38 D:3 Bonus ✅ 40%
+description: W:44 L:38 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 7 - 10 **Death Star llc\.**
 date: 2025-04-15T01:01:59.000Z
@@ -18,7 +18,7 @@ emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 <br>
 
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

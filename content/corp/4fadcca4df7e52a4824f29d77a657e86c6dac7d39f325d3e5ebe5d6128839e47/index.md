@@ -1,9 +1,9 @@
 ---
 title: ​中国人民联盟
-description: W:8 L:3 D:1 Bonus ✅ 
+description: W:8 L:4 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 2 **Lupus Regnum**
-date: 2025-04-11T11:52:58.000Z
+Summary: ❌ 2 - 12 **V0RTEX**
+date: 2025-04-16T22:56:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-11T11:52:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (214)|
-| ELO Competitive | 1288 🔺  (346)|
-| Total Matches | 12 |
+| ELO Regular | 1266 🔻  (237)|
+| ELO Competitive | 1274 🔻  (378)|
+| Total Matches | 13 |
 | Wins | 8 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743940378,1743596876,1743440917,1742985875,1742552509,1742297066,1742051255,1741858632,1741411501,1740958379,1740498890,1740044309];
+        let timestamps = [1744412190,1743940378,1743596876,1743440917,1742985875,1742552509,1742297066,1742051255,1741858632,1741411501,1740958379,1740498890,1740044309];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,13 +133,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 2 | 0 | 0 | 2 |
+| [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 2 | 1 | 0 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/16 | 2-12 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/04/11 | 7-2 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ↔️ | 2025/04/07 | 4-4 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/04/05 | 3-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
@@ -159,5 +160,5 @@ Corporation ID: 4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744372378"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744844190"></span>
 </div>
