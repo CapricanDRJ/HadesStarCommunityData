@@ -1,6 +1,6 @@
 ---
 title: ​S.U.N
-description: W:10 L:5 D:1 Bonus ✅ 32%
+description: W:10 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **星系联盟**
 date: 2025-04-10T03:04:28.000Z
@@ -15,7 +15,7 @@ date: 2025-04-10T03:04:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

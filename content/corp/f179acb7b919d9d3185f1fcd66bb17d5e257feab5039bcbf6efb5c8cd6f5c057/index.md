@@ -1,6 +1,6 @@
 ---
 title: ​Star Blazers
-description: W:17 L:46 D:1 Bonus ✅ 36%
+description: W:17 L:46 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 2 - 12 **星落苑**
 date: 2025-04-15T18:13:41.000Z
@@ -23,7 +23,7 @@ Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 <br>
 
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

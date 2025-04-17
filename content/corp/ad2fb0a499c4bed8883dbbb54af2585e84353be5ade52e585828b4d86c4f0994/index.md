@@ -1,6 +1,6 @@
 ---
 title: ​DINASTÍA SOLAR
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:4 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **碧海听潮阁**
 date: 2025-04-10T02:09:23.000Z
@@ -15,11 +15,11 @@ date: 2025-04-10T02:09:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (290)|
+| ELO Regular | 1248 🔺  (289)|
 | ELO Competitive | 1261 🔺  (412)|
 | Total Matches | 5 |
 | Wins | 4 |

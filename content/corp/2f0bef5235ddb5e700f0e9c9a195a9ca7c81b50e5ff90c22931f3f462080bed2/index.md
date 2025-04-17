@@ -1,9 +1,9 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:19 L:5 D:0 Bonus ✅ 
+description: W:20 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 2 **Destroyer**
-date: 2025-04-11T22:24:16.000Z
+Summary: ✅ 6 - 0 **以太超星团**
+date: 2025-04-17T02:46:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-11T22:24:16.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1353 🔺  (111)|
-| ELO Competitive | 1350 🔺  (230)|
-| Total Matches | 24 |
-| Wins | 19 |
+| ELO Regular | 1357 🔺  (106)|
+| ELO Competitive | 1355 🔺  (220)|
+| Total Matches | 25 |
+| Wins | 20 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743978256,1743951517,1743508224,1743496206,1743068525,1743047192,1742606888,1742520960,1742168866,1742088818,1741714104,1741565971,1741120933,1741099294,1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
+        let timestamps = [1744426010,1743978256,1743951517,1743508224,1743496206,1743068525,1743047192,1742606888,1742520960,1742168866,1742088818,1741714104,1741565971,1741120933,1741099294,1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/17 | 6-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ✅ | 2025/04/11 | 4-2 | [Destroyer](https://ws.tsl.rocks/corp/a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613/) |
 | ✅ | 2025/04/11 | 3-0 | [Галич](https://ws.tsl.rocks/corp/d99996d55c3aa636a5720952de21749e8d62f71949925d4d89100fb14946d68c/) |
 | ✅ | 2025/04/06 | 7-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
@@ -167,5 +168,5 @@ Corporation ID: 2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744410256"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744858010"></span>
 </div>

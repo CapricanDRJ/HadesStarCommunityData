@@ -1,9 +1,9 @@
 ---
 title: ​彩虹神圣太空队
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 5 - 1 **佛矿寺**
-date: 2025-04-11T04:42:11.000Z
+Summary: ❌ 0 - 14 **Quantum Pioneer**
+date: 2025-04-17T01:56:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-11T04:42:11.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (495)|
-| ELO Competitive | 1208 🔺  (654)|
-| Total Matches | 1 |
+| ELO Regular | 1194 🔻  (594)|
+| ELO Competitive | 1197 🔻  (736)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743914531];
+        let timestamps = [1744423006,1743914531];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 0-14 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/04/11 | 5-1 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744346531"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744855006"></span>
 </div>
