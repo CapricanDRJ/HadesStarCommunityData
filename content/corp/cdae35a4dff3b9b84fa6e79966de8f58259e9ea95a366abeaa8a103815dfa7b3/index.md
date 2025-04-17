@@ -24,7 +24,7 @@ Discord:DUbkgw9uMT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1067)|
+| ELO Regular | 1168 🔻  (1068)|
 | ELO Competitive | 1172 🔻  (1182)|
 | Total Matches | 8 |
 | Wins | 2 |

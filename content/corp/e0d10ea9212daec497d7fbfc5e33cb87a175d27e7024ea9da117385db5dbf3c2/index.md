@@ -1,9 +1,9 @@
 ---
 title: ​OKC THUNDER 
-description: W:4 L:7 D:0 Bonus ✅ 38%
+description: W:4 L:8 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **Empire of Light**
-date: 2025-04-11T07:27:29.000Z
+Summary: ❌ 2 - 11 **Eastern Front**
+date: 2025-04-17T11:02:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ ome also:)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (552)|
-| ELO Competitive | 1221 🔺  (548)|
-| Total Matches | 11 |
+| ELO Regular | 1184 🔻  (859)|
+| ELO Competitive | 1217 🔻  (571)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 7 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743924449,1743367594,1742699180,1741458387,1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
+        let timestamps = [1744455761,1743924449,1743367594,1742699180,1741458387,1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 2-11 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2025/04/11 | 13-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2025/04/04 | 13-0 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ❌ | 2025/03/28 | 7-17 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
@@ -160,5 +160,5 @@ Corporation ID: e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744356449"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744887761"></span>
 </div>

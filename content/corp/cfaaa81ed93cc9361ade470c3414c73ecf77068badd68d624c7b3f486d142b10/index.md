@@ -1,6 +1,6 @@
 ---
 title: ​StellaMysterium
-description: W:31 L:56 D:2 Bonus ✅ 38%
+description: W:31 L:56 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 32 - 3 **Free Thinkers 2**
 date: 2025-04-10T10:10:12.000Z
@@ -18,7 +18,7 @@ rp. Come and join a fun loving and chill family like team! Welcome to
 <br>
 
 ### [Discord](https://discord.gg/K45fhFgcXv)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

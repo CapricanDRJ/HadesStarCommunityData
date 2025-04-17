@@ -1,6 +1,6 @@
 ---
 title: ​青丘湖
-description: W:12 L:11 D:0 Bonus ✅ 34%
+description: W:12 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 6 - 17 **OPA**
 date: 2025-04-15T14:08:12.000Z
@@ -25,12 +25,12 @@ date: 2025-04-15T14:08:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (378)|
-| ELO Competitive | 1292 🔻  (335)|
+| ELO Competitive | 1292 🔻  (334)|
 | Total Matches | 23 |
 | Wins | 12 |
 | Losses | 11 |

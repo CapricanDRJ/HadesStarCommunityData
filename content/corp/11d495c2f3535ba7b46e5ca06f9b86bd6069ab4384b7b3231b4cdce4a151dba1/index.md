@@ -1,9 +1,9 @@
 ---
 title: ​碧海听潮阁
-description: W:16 L:18 D:6 Bonus ❌ 
+description: W:16 L:19 D:6 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 3 **DINASTÍA SOLAR**
-date: 2025-04-10T02:09:23.000Z
+Summary: ❌ 0 - 10 **New YuGiOh**
+date: 2025-04-17T12:42:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-10T02:09:23.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1252)|
-| ELO Competitive | 1295 🔻  (326)|
-| Total Matches | 40 |
+| ELO Regular | 1134 🔻  (1276)|
+| ELO Competitive | 1284 🔻  (358)|
+| Total Matches | 41 |
 | Wins | 16 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 6 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743818963,1743430695,1742930589,1742916494,1742468144,1742467661,1742026607,1741996258,1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1744461772,1743818963,1743430695,1742930589,1742916494,1742468144,1742467661,1742026607,1741996258,1741550645,1741541327,1741102614,1741098092,1740617292,1740507006,1740072892,1740058045,1739625605,1739399190,1739183582,1738759907,1738684741,1738233953,1738198201,1737788918,1737717097,1737348099,1737032550,1736907536,1736556803,1736473854,1736002299,1735815962,1735555456,1735345425,1735093033,1734828933,1734573833,1734364407,1734141451,1733703372];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 0-10 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/04/10 | 0-3 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 | ❌ | 2025/04/05 | 2-15 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ❌ | 2025/03/30 | 2-19 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
@@ -192,5 +193,5 @@ Corporation ID: 11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744250963"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744893772"></span>
 </div>
