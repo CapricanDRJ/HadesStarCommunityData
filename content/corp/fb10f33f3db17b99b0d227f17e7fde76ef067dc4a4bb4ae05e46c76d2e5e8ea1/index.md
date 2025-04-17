@@ -1,6 +1,6 @@
 ---
 title: ​Lacuna X
-description: W:62 L:9 D:1 Bonus ✅ 42%
+description: W:62 L:9 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **Interstellar**
 date: 2025-04-10T19:26:18.000Z
@@ -24,7 +24,7 @@ White Star focused.
 <br>
 
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
