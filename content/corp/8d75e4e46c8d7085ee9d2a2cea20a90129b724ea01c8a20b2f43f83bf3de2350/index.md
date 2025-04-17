@@ -1,6 +1,6 @@
 ---
 title: ​111
-description: W:74 L:24 D:0 Bonus ✅ 50%
+description: W:74 L:24 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 28 - 55 **Space Penguins**
 date: 2025-04-15T15:03:19.000Z
@@ -17,7 +17,7 @@ date: 2025-04-15T15:03:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

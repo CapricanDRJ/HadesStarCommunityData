@@ -1,6 +1,6 @@
 ---
 title: ​Милый дом
-description: W:3 L:0 D:0 Bonus ✅ 
+description: W:3 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 25 - 4 **CTG**
 date: 2025-04-10T07:54:58.000Z
@@ -15,11 +15,11 @@ date: 2025-04-10T07:54:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (290)|
+| ELO Regular | 1248 🔺  (291)|
 | ELO Competitive | 1258 🔺  (422)|
 | Total Matches | 3 |
 | Wins | 3 |

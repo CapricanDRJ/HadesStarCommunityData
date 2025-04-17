@@ -19,8 +19,8 @@ Clan de hablá Hispana(Castellano/Español)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (776)|
-| ELO Competitive | 1188 🔻  (882)|
+| ELO Regular | 1185 🔻  (775)|
+| ELO Competitive | 1188 🔻  (883)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

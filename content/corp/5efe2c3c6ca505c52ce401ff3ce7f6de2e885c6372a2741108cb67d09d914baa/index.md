@@ -1,9 +1,9 @@
 ---
 title: ​Avabel Online 2
-description: W:0 L:1 D:0 Bonus ❌ 3%
+description: W:0 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 17 **Cyber Star**
-date: 2024-04-04T21:29:57.000Z
+Summary: ❌ 0 - 9 **EarthFederation**
+date: 2025-04-17T08:02:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ Silence is a virtue.
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (713)|
-| ELO Competitive | 1187 🔻  (903)|
-| Total Matches | 1 |
+| ELO Regular | 1174 🔻  (967)|
+| ELO Competitive | 1177 🔻  (1115)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1711834197];
+        let timestamps = [1744444942,1711834197];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 0-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ❌ | 2024/04/04 | 0-17 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 5efe2c3c6ca505c52ce401ff3ce7f6de2e885c6372a2741108cb67d09d914baa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1712266197"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744876942"></span>
 </div>

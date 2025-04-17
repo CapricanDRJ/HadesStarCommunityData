@@ -1,9 +1,9 @@
 ---
 title: ​RusCorp
-description: W:0 L:7 D:2 Bonus ❌ 
+description: W:0 L:8 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 9 **AlyTec Sys\.**
-date: 2025-03-17T08:44:32.000Z
+Summary: ❌ 0 - 3 **UGSS**
+date: 2025-04-17T07:22:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-17T08:44:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (1378)|
-| ELO Competitive | 1129 🔻  (1412)|
-| Total Matches | 9 |
+| ELO Regular | 1090 🔻  (1394)|
+| ELO Competitive | 1116 🔻  (1428)|
+| Total Matches | 10 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741769072,1740559593,1739782170,1738567844,1737539811,1736407336,1735974080,1735316276,1734613526];
+        let timestamps = [1744442538,1741769072,1740559593,1739782170,1738567844,1737539811,1736407336,1735974080,1735316276,1734613526];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 0-3 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ❌ | 2025/03/17 | 0-9 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2025/03/03 | 0-4 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ↔️ | 2025/02/22 | 0-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
@@ -150,5 +151,5 @@ Corporation ID: 544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742201072"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744874538"></span>
 </div>
