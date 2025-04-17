@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:17 L:11 D:1 Bonus ✅ 
+description: W:18 L:11 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 3 - 0 **love room entry**
-date: 2025-04-16T05:11:01.000Z
+Summary: ✅ 10 - 3 **TheBasics**
+date: 2025-04-17T13:32:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-16T05:11:01.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (216)|
-| ELO Competitive | 1347 🔺  (234)|
-| Total Matches | 29 |
-| Wins | 17 |
+| ELO Regular | 1290 🔺  (195)|
+| ELO Competitive | 1355 🔺  (221)|
+| Total Matches | 30 |
+| Wins | 18 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/17 | 10-3 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2025/04/16 | 3-0 | [love room entry](https://ws.tsl.rocks/corp/dddc6493bdfcb5d9d40421547b247b3fb4c53c896893579b8ea2811a72824153/) |
 | ✅ | 2025/04/12 | 14-3 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/04/11 | 5-0 | [dosti room🚚](https://ws.tsl.rocks/corp/e3b3acde7243499e951303924c2ab589f8b898b204b4d785bdb137a76e140395/) |
@@ -178,5 +179,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744780261"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744896778"></span>
 </div>

@@ -20,8 +20,8 @@ Eating bananas, tossing feces, and howling at passers-by. Like normal
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (1283)|
-| ELO Competitive | 1165 🔺  (1246)|
+| ELO Regular | 1133 🔺  (1284)|
+| ELO Competitive | 1165 🔺  (1247)|
 | Total Matches | 26 |
 | Wins | 8 |
 | Losses | 17 |
