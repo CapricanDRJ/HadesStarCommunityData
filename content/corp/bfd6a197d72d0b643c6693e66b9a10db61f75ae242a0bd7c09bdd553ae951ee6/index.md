@@ -1,9 +1,9 @@
 ---
 title: ​the Rubber Duck
-description: W:6 L:13 D:0 Bonus ❌ 6%
+description: W:6 L:14 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 1 - 16 **Interestelar**
-date: 2025-04-18T12:30:18.000Z
+Summary: ❌ 0 - 48 **Лунный Феникс**
+date: 2025-04-18T18:17:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ mmunication.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (1304)|
-| ELO Competitive | 1148 🔻  (1349)|
-| Total Matches | 19 |
+| ELO Regular | 1121 🔻  (1329)|
+| ELO Competitive | 1149 🔻  (1343)|
+| Total Matches | 20 |
 | Wins | 6 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744547418,1744033543,1743344440,1731255844,1713006652,1711711893,1709916273,1708090524,1706786335,1705927766,1704115668,1702917587,1702298467,1701694665,1701101099,1700487074,1699889225,1699298931,1698762520];
+        let timestamps = [1744568277,1744547418,1744033543,1743344440,1731255844,1713006652,1711711893,1709916273,1708090524,1706786335,1705927766,1704115668,1702917587,1702298467,1701694665,1701101099,1700487074,1699889225,1699298931,1698762520];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/18 | 0-48 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/04/18 | 1-16 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ❌ | 2025/04/12 | 0-12 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/04/04 | 1-21 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
@@ -163,5 +164,5 @@ Corporation ID: bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744979418"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745000277"></span>
 </div>

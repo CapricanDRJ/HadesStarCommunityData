@@ -1,6 +1,6 @@
 ---
 title: ​万星联盟
-description: W:54 L:12 D:0 Bonus ✅ 38%
+description: W:54 L:12 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 34 - 30 **Legión**
 date: 2025-04-11T16:03:31.000Z
@@ -17,7 +17,7 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

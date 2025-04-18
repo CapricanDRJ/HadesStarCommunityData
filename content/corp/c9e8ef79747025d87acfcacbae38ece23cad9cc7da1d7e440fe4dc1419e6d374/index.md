@@ -1,9 +1,9 @@
 ---
 title: ​KEPLER-442  b
-description: W:4 L:2 D:0 Bonus ✅ 
+description: W:4 L:2 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 8 - 0 **the kings**
-date: 2025-04-18T10:11:13.000Z
+Summary: ↔️ 0 - 0 **星系联盟**
+date: 2025-04-18T16:10:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-18T10:11:13.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (383)|
+| ELO Regular | 1222 🔻  (385)|
 | ELO Competitive | 1228 🔺  (521)|
-| Total Matches | 6 |
+| Total Matches | 7 |
 | Wins | 4 |
 | Losses | 2 |
-| Draws | 0 |
-| Streak | 2 |
+| Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744539073,1744027832,1743537083,1742929086,1742375802,1741790208];
+        let timestamps = [1744560602,1744539073,1744027832,1743537083,1742929086,1742375802,1741790208];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/18 | 0-0 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9/) |
 | ✅ | 2025/04/18 | 8-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ✅ | 2025/04/12 | 7-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ❌ | 2025/04/06 | 3-5 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
@@ -149,5 +149,5 @@ Corporation ID: c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744971073"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744992602"></span>
 </div>
