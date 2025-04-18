@@ -1,6 +1,6 @@
 ---
 title: ​VoidCorp
-description: W:47 L:32 D:2 Bonus ✅ 50%
+description: W:47 L:32 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 34 - 11 **Кулак**
 date: 2025-04-11T01:51:55.000Z
@@ -17,7 +17,7 @@ e.
 <br>
 
 ### [Discord](https://discord.gg/9vG4zU3)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
