@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:22 L:8 D:0 Bonus ✅ 
+description: W:22 L:8 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 2 - 7 **中国人民联盟**
 date: 2025-04-11T11:52:58.000Z
@@ -15,7 +15,7 @@ date: 2025-04-11T11:52:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

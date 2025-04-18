@@ -20,7 +20,7 @@ trại trú ẩn đồng hương thất lạc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1331)|
+| ELO Regular | 1119 🔻  (1332)|
 | ELO Competitive | 1306 🔻  (306)|
 | Total Matches | 68 |
 | Wins | 25 |

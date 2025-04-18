@@ -271,6 +271,34 @@ searchHidden: true
                 <tr>
                     <td>2</td>
                     <td><img src="mining.png" alt="mining"></td>
+                    <td>RS10</td>
+                    <td>314%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS10</td>
+                    <td>314%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS10</td>
+                    <td>314%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
                     <td>RS9</td>
                     <td>314%</td>
                 </tr>
@@ -279,21 +307,7 @@ searchHidden: true
                     <td>1</td>
                     <td><img src="mining.png" alt="mining"></td>
                     <td>RS9</td>
-                    <td>310%</td>
-                </tr>
-            
-                <tr>
-                    <td>4</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>279%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS8</td>
-                    <td>318%</td>
+                    <td>314%</td>
                 </tr>
             
         <tr>
@@ -301,7 +315,7 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>11</td>
+                    <td>10</td>
                     <td><img src="combat.png" alt="combat"></td>
                     <td>RS9</td>
                     <td>270%</td>

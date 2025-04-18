@@ -1,6 +1,6 @@
 ---
 title: ​中国人民联盟
-description: W:8 L:4 D:1 Bonus ✅ 
+description: W:8 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 2 - 12 **V0RTEX**
 date: 2025-04-16T22:56:30.000Z
@@ -15,7 +15,7 @@ date: 2025-04-16T22:56:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

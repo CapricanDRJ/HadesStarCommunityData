@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mars
-description: W:60 L:52 D:1 Bonus ✅ 40%
+description: W:60 L:52 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 16 - 9 **Red Star**
 date: 2025-04-11T10:27:48.000Z
@@ -18,7 +18,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

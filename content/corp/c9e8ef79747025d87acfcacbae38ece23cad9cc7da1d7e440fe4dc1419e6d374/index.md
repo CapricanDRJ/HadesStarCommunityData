@@ -1,9 +1,9 @@
 ---
 title: ​KEPLER-442  b
-description: W:3 L:2 D:0 Bonus ✅ 
+description: W:4 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 0 **BAB**
-date: 2025-04-12T12:10:32.000Z
+Summary: ✅ 8 - 0 **the kings**
+date: 2025-04-18T10:11:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-12T12:10:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (484)|
-| ELO Competitive | 1212 🔺  (631)|
-| Total Matches | 5 |
-| Wins | 3 |
+| ELO Regular | 1223 🔺  (383)|
+| ELO Competitive | 1228 🔺  (521)|
+| Total Matches | 6 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744027832,1743537083,1742929086,1742375802,1741790208];
+        let timestamps = [1744539073,1744027832,1743537083,1742929086,1742375802,1741790208];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/18 | 8-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ✅ | 2025/04/12 | 7-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ❌ | 2025/04/06 | 3-5 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ✅ | 2025/03/30 | 4-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
@@ -147,5 +149,5 @@ Corporation ID: c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744459832"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744971073"></span>
 </div>
