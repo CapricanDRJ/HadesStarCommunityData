@@ -1,9 +1,9 @@
 ---
 title: ​星落苑
-description: W:27 L:12 D:0 Bonus ✅ 36%
+description: W:27 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 12 - 2 **Star Blazers**
-date: 2025-04-15T18:13:41.000Z
+Summary: ❌ 2 - 8 **Эдем**
+date: 2025-04-18T13:20:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔺  (141)|
+| ELO Regular | 1311 🔻  (163)|
 | ELO Competitive | 1434 🔺  (133)|
-| Total Matches | 39 |
+| Total Matches | 40 |
 | Wins | 27 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744308821,1743867051,1743790113,1743176414,1743162286,1742699180,1742110149,1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
+        let timestamps = [1744550424,1744308821,1743867051,1743790113,1743176414,1743162286,1742699180,1742110149,1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/18 | 2-8 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/04/15 | 12-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2025/04/10 | 12-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ✅ | 2025/04/09 | 25-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
@@ -184,5 +184,5 @@ Corporation ID: 6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744740821"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744982424"></span>
 </div>

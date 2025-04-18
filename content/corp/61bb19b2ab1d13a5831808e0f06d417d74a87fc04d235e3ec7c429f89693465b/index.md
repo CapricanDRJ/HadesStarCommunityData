@@ -1,9 +1,9 @@
 ---
 title: ​Team Elite
-description: W:1 L:3 D:1 Bonus ❌ 14%
+description: W:1 L:4 D:1 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 6 - 47 **Ender**
-date: 2025-04-10T10:10:12.000Z
+Summary: ❌ 16 - 27 **Gummibärenbande**
+date: 2025-04-18T12:50:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (899)|
-| ELO Competitive | 1195 🔻  (755)|
-| Total Matches | 5 |
+| ELO Regular | 1162 🔻  (1106)|
+| ELO Competitive | 1178 🔻  (1108)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743847812,1709841158,1709326748,1706164570,1705599601];
+        let timestamps = [1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/18 | 16-27 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2025/04/10 | 6-47 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/03/12 | 21-29 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) |
 | ✅ | 2024/03/06 | 41-10 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
@@ -149,5 +150,5 @@ Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744279812"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744980621"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​No Orbit©
-description: W:20 L:11 D:0 Bonus ✅ 40%
+description: W:20 L:11 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 29 - 24 **DTC**
 date: 2025-04-11T14:33:19.000Z
@@ -18,7 +18,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

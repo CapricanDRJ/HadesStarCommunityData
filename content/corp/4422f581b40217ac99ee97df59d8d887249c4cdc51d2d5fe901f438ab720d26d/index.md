@@ -1,6 +1,6 @@
 ---
 title: ​" Возрождение "
-description: W:19 L:2 D:0 Bonus ✅ 36%
+description: W:19 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 43 - 3 **DTC**
 date: 2025-04-11T13:58:14.000Z
@@ -20,7 +20,7 @@ date: 2025-04-11T13:58:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
