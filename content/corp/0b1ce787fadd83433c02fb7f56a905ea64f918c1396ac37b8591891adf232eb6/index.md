@@ -1,6 +1,6 @@
 ---
 title: ​Kelebra
-description: W:27 L:28 D:1 Bonus ✅ 36%
+description: W:27 L:28 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 30 - 3 **八月政府**
 date: 2025-04-11T09:07:39.000Z
@@ -17,7 +17,7 @@ date: 2025-04-11T09:07:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

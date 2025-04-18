@@ -1,6 +1,6 @@
 ---
 title: ​Scar
-description: W:50 L:30 D:1 Bonus ✅ 40%
+description: W:50 L:30 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 11 - 35 **六大天神**
 date: 2025-04-17T22:49:20.000Z
@@ -18,7 +18,7 @@ r involvement. Link is 👇
 <br>
 
 ### [Discord](https://discord.gg/J5kNRjVJM4)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
