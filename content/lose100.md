@@ -2,7 +2,7 @@
 layout: page
 title: Top Lose
 description: Hades' Star corporations ranked by historic total losses
-date: 2025-04-17T21:55:09.150Z
+date: 2025-04-18T00:55:08.555Z
 permalink: /lose100/
 searchHidden: true
 ---

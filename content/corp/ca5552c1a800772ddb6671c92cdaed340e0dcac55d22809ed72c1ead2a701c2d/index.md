@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:13 L:2 D:0 Bonus ✅ 
+description: W:14 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 18 - 4 **Starships**
-date: 2025-04-13T17:33:52.000Z
+Summary: ✅ 17 - 8 **DINASTÍA SOLAR**
+date: 2025-04-18T00:44:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-13T17:33:52.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔺  (133)|
-| ELO Competitive | 1345 🔺  (236)|
-| Total Matches | 15 |
-| Wins | 13 |
+| ELO Regular | 1344 🔺  (120)|
+| ELO Competitive | 1357 🔺  (221)|
+| Total Matches | 16 |
+| Wins | 14 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/18 | 17-8 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 | ✅ | 2025/04/13 | 18-4 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
 | ✅ | 2025/04/11 | 15-4 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/04/06 | 10-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
@@ -163,5 +164,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744565632"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744937048"></span>
 </div>

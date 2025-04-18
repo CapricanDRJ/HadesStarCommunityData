@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Light
-description: W:20 L:36 D:1 Bonus ❌ 8%
+description: W:20 L:37 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **New YuGiOh**
-date: 2025-04-11T07:32:29.000Z
+Summary: ❌ 4 - 6 **Czech Legion**
+date: 2025-04-17T23:59:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ space of this game. WS every week. Join us into the Light!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1323)|
-| ELO Competitive | 1273 🔻  (380)|
-| Total Matches | 57 |
+| ELO Regular | 1117 🔻  (1344)|
+| ELO Competitive | 1262 🔻  (408)|
+| Total Matches | 58 |
 | Wins | 20 |
-| Losses | 36 |
+| Losses | 37 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743924749,1743924449,1743482385,1742899027,1742372196,1741828291,1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1744502344,1743924749,1743924449,1743482385,1742899027,1742372196,1741828291,1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/17 | 4-6 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2025/04/11 | 0-9 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/04/11 | 0-13 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 | ✅ | 2025/04/06 | 22-5 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
@@ -207,5 +208,5 @@ Corporation ID: 5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744356749"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744934344"></span>
 </div>

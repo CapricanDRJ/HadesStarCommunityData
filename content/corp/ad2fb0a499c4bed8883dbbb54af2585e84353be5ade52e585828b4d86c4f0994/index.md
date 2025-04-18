@@ -1,9 +1,9 @@
 ---
 title: ​DINASTÍA SOLAR
-description: W:4 L:1 D:0 Bonus ❌ 
+description: W:4 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 3 - 0 **碧海听潮阁**
-date: 2025-04-10T02:09:23.000Z
+Summary: ❌ 8 - 17 **Terran empire **
+date: 2025-04-18T00:44:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-10T02:09:23.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (289)|
-| ELO Competitive | 1261 🔺  (412)|
-| Total Matches | 5 |
+| ELO Regular | 1237 🔻  (331)|
+| ELO Competitive | 1250 🔻  (447)|
+| Total Matches | 6 |
 | Wins | 4 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743818963,1743252456,1742623942,1742123973,1741220389];
+        let timestamps = [1744505048,1743818963,1743252456,1742623942,1742123973,1741220389];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/18 | 8-17 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/04/10 | 3-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/04/03 | 9-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2025/03/27 | 8-1 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
@@ -148,5 +148,5 @@ Corporation ID: ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744250963"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744937048"></span>
 </div>

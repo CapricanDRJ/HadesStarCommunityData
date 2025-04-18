@@ -23,7 +23,7 @@ lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1371)|
-| ELO Competitive | 1352 🔻  (227)|
+| ELO Competitive | 1352 🔻  (228)|
 | Total Matches | 132 |
 | Wins | 55 |
 | Losses | 77 |

@@ -1,9 +1,9 @@
 ---
 title: ​Czech Legion
-description: W:19 L:7 D:0 Bonus ❌ 7%
+description: W:20 L:7 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 19 **星落苑**
-date: 2025-04-02T15:40:14.000Z
+Summary: ✅ 6 - 4 **Empire of Light**
+date: 2025-04-17T23:59:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ ce/
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (147)|
-| ELO Competitive | 1384 🔻  (181)|
-| Total Matches | 26 |
-| Wins | 19 |
+| ELO Regular | 1333 🔺  (134)|
+| ELO Competitive | 1395 🔺  (173)|
+| Total Matches | 27 |
+| Wins | 20 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743176414,1737483625,1736274306,1734793475,1733252034,1732472547,1731489923,1730118200,1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
+        let timestamps = [1744502344,1743176414,1737483625,1736274306,1734793475,1733252034,1732472547,1731489923,1730118200,1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/17 | 6-4 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2025/04/02 | 0-19 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2025/01/26 | 4-17 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2025/01/12 | 1-6 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
@@ -175,5 +176,5 @@ Corporation ID: b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743608414"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1744934344"></span>
 </div>

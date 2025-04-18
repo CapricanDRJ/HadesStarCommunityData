@@ -1,6 +1,6 @@
 ---
 title: ​OntarioDynasty
-description: W:2 L:4 D:0 Bonus ✅ 48%
+description: W:2 L:4 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 42 - 23 **Auscorp **
 date: 2025-04-10T23:06:41.000Z
@@ -24,7 +24,7 @@ https://discord.gg/gBFFE5x
 <br>
 
 ### [Discord](https://discord.gg/xbJA3n56)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
