@@ -21,7 +21,7 @@ Immer schön freundlich sein ^^
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1132)|
+| ELO Regular | 1158 🔻  (1131)|
 | ELO Competitive | 1168 🔻  (1223)|
 | Total Matches | 13 |
 | Wins | 4 |

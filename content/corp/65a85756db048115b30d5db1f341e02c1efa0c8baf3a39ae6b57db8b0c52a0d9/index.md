@@ -1,6 +1,6 @@
 ---
 title: ​彩虹神圣太空队
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 14 **Quantum Pioneer**
 date: 2025-04-17T01:56:46.000Z
@@ -15,12 +15,12 @@ date: 2025-04-17T01:56:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (594)|
-| ELO Competitive | 1197 🔻  (737)|
+| ELO Regular | 1194 🔻  (595)|
+| ELO Competitive | 1197 🔻  (738)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |
