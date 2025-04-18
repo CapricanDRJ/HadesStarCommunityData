@@ -21,8 +21,8 @@ er case). Thank you :)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (774)|
-| ELO Competitive | 1186 🔻  (945)|
+| ELO Regular | 1186 🔻  (776)|
+| ELO Competitive | 1186 🔻  (946)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

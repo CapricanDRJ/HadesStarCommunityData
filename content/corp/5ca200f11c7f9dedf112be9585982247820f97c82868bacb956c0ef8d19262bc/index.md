@@ -21,7 +21,7 @@ space of this game. WS every week. Join us into the Light!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1345)|
+| ELO Regular | 1117 🔻  (1346)|
 | ELO Competitive | 1262 🔻  (408)|
 | Total Matches | 58 |
 | Wins | 20 |

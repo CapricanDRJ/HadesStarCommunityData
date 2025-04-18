@@ -1,9 +1,9 @@
 ---
 title: ​欢迎国人
-description: W:7 L:19 D:3 Bonus ❌ 5%
+description: W:7 L:20 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **Новички**
-date: 2025-03-08T12:29:02.000Z
+Summary: ❌ 0 - 11 **TheDuckeanFlow**
+date: 2025-04-18T19:21:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ date: 2025-03-08T12:29:02.000Z
 <br>
 
 ### [Discord](https://discord.gg/1538)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1074 🔻  (1422)|
-| ELO Competitive | 1090 🔻  (1457)|
-| Total Matches | 29 |
+| ELO Regular | 1064 🔻  (1430)|
+| ELO Competitive | 1080 🔻  (1465)|
+| Total Matches | 30 |
 | Wins | 7 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741004942,1733201094,1732006778,1730790354,1727924013,1726378042,1725200403,1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
+        let timestamps = [1744572067,1741004942,1733201094,1732006778,1730790354,1727924013,1726378042,1725200403,1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/18 | 0-11 | [TheDuckeanFlow](https://ws.tsl.rocks/corp/bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1/) |
 | ❌ | 2025/03/08 | 0-5 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
 | ❌ | 2024/12/08 | 0-4 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/11/24 | 0-15 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
@@ -178,5 +179,5 @@ Corporation ID: f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741436942"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745004067"></span>
 </div>

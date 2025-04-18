@@ -1,6 +1,6 @@
 ---
 title: ​Spacefleet
-description: W:54 L:53 D:0 Bonus ✅ 52%
+description: W:54 L:53 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 45 - 14 ** RELAX CZ/SK**
 date: 2025-04-11T20:49:07.000Z
@@ -23,7 +23,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

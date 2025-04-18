@@ -24,7 +24,7 @@ Discord: z38XKuM
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (305)|
+| ELO Regular | 1243 🔺  (304)|
 | ELO Competitive | 1257 🔺  (424)|
 | Total Matches | 7 |
 | Wins | 5 |

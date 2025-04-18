@@ -1,6 +1,6 @@
 ---
 title: ​Germania
-description: W:23 L:48 D:4 Bonus ✅ 36%
+description: W:23 L:48 D:4 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 9 - 15 **Nebulae Traders**
 date: 2025-04-18T09:14:58.000Z
@@ -19,12 +19,12 @@ ht so ernst nehmen.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1012 🔻  (1464)|
-| ELO Competitive | 1098 🔻  (1449)|
+| ELO Regular | 1012 🔻  (1465)|
+| ELO Competitive | 1098 🔻  (1450)|
 | Total Matches | 75 |
 | Wins | 23 |
 | Losses | 48 |

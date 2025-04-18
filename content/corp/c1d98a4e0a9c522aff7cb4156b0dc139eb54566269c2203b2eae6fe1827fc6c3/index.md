@@ -1,9 +1,9 @@
 ---
 title: ​Brasil
-description: W:6 L:7 D:1 Bonus ✅ 30%
+description: W:6 L:8 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 9 - 3 **神圣群星帝国**
-date: 2025-04-12T13:25:41.000Z
+Summary: ❌ 6 - 25 **РARADISЕ**
+date: 2025-04-18T20:16:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (484)|
-| ELO Competitive | 1226 🔺  (529)|
-| Total Matches | 14 |
+| ELO Regular | 1196 🔻  (582)|
+| ELO Competitive | 1215 🔻  (594)|
+| Total Matches | 15 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744032341,1740673177,1737134731,1734521846,1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
+        let timestamps = [1744575373,1744032341,1740673177,1737134731,1734521846,1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/18 | 6-25 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/04/12 | 9-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ❌ | 2025/03/04 | 0-27 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2025/01/22 | 0-21 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
@@ -158,5 +159,5 @@ Corporation ID: c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744464341"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745007373"></span>
 </div>
