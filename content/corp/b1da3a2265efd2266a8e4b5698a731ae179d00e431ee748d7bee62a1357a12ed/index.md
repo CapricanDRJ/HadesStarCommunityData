@@ -1,9 +1,9 @@
 ---
 title: ​＊Alfa y Omega＊
-description: W:32 L:14 D:2 Bonus ❌ 8%
+description: W:33 L:14 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 0 **\*СССР\***
-date: 2025-04-05T06:02:25.000Z
+Summary: ✅ 10 - 8 **SQPT**
+date: 2025-04-19T16:03:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔺  (147)|
-| ELO Competitive | 1411 🔺  (155)|
-| Total Matches | 48 |
-| Wins | 32 |
+| ELO Regular | 1332 🔺  (139)|
+| ELO Competitive | 1424 🔺  (141)|
+| Total Matches | 49 |
+| Wins | 33 |
 | Losses | 14 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743400945,1742696476,1742170561,1741550645,1740934331,1739991926,1739144825,1737988756,1737313245,1736808364,1736274306,1735701786,1735160337,1734465667,1733032081,1732468339,1731800643,1731233898,1730737168,1730062558,1729392135,1728864718,1728310793,1727738608,1727237968,1726766210,1726207949,1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
+        let timestamps = [1744646586,1743400945,1742696476,1742170561,1741550645,1740934331,1739991926,1739144825,1737988756,1737313245,1736808364,1736274306,1735701786,1735160337,1734465667,1733032081,1732468339,1731800643,1731233898,1730737168,1730062558,1729392135,1728864718,1728310793,1727738608,1727237968,1726766210,1726207949,1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/19 | 10-8 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2025/04/05 | 17-0 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ✅ | 2025/03/28 | 5-0 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2025/03/22 | 0-27 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
@@ -201,5 +202,5 @@ Corporation ID: b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743832945"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745078586"></span>
 </div>
