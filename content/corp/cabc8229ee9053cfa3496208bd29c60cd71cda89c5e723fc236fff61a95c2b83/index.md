@@ -1,9 +1,9 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:5 L:17 D:2 Bonus ❌ 6%
+description: W:6 L:17 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 1 - 22 **Terran empire **
-date: 2025-04-19T12:42:43.000Z
+Summary: ✅ 3 - 0 **titan tv**
+date: 2025-04-19T13:06:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1366)|
-| ELO Competitive | 1168 🔻  (1227)|
-| Total Matches | 24 |
-| Wins | 5 |
+| ELO Regular | 1123 🔺  (1327)|
+| ELO Competitive | 1190 🔺  (834)|
+| Total Matches | 25 |
+| Wins | 6 |
 | Losses | 17 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744634563,1744077740,1743424984,1742862072,1742226149,1741610136,1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1744636018,1744634563,1744077740,1743424984,1742862072,1742226149,1741610136,1741046114,1740392209,1739808015,1739202517,1738610519,1737988756,1737401892,1736804457,1735914830,1735266698,1725291455,1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/19 | 3-0 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2025/04/19 | 1-22 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ❌ | 2025/04/13 | 5-7 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/04/05 | 9-19 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
@@ -169,5 +170,5 @@ Corporation ID: cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745066563"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745068018"></span>
 </div>

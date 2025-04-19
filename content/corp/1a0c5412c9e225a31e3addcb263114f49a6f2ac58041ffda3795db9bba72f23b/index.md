@@ -20,7 +20,7 @@ Bienvenidos 😁
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (281)|
+| ELO Regular | 1251 🔺  (282)|
 | ELO Competitive | 1386 🔺  (179)|
 | Total Matches | 95 |
 | Wins | 55 |

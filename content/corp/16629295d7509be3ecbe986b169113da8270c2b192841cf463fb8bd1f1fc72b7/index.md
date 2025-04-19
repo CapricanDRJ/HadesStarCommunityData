@@ -1,6 +1,6 @@
 ---
 title: ​ETER & CAOS
-description: W:8 L:1 D:0 Bonus ✅ 
+description: W:8 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 13 - 20 **BrazilCorp\.**
 date: 2025-04-19T12:44:02.000Z
@@ -15,12 +15,12 @@ date: 2025-04-19T12:44:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔻  (178)|
-| ELO Competitive | 1345 🔻  (239)|
+| ELO Competitive | 1345 🔻  (240)|
 | Total Matches | 9 |
 | Wins | 8 |
 | Losses | 1 |

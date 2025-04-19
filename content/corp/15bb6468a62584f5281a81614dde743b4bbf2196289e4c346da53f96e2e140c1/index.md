@@ -1,6 +1,6 @@
 ---
 title: ​Слава Украине!
-description: W:116 L:48 D:1 Bonus ✅ 48%
+description: W:116 L:48 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **the Rubber Duck**
 date: 2025-04-12T13:45:43.000Z
@@ -18,7 +18,7 @@ date: 2025-04-12T13:45:43.000Z
 <br>
 
 ### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

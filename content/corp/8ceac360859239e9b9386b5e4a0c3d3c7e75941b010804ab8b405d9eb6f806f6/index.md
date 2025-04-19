@@ -1,6 +1,6 @@
 ---
 title: ​Fleet Corp Ares
-description: W:25 L:16 D:0 Bonus ✅ 38%
+description: W:25 L:16 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **Rising star**
 date: 2025-04-12T13:45:43.000Z
@@ -15,7 +15,7 @@ We don't care. You should try it.
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

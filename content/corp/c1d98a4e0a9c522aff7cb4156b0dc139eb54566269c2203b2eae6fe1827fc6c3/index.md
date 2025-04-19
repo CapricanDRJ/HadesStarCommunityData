@@ -1,6 +1,6 @@
 ---
 title: ​Brasil
-description: W:6 L:8 D:1 Bonus ✅ 30%
+description: W:6 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 6 - 25 **РARADISЕ**
 date: 2025-04-18T20:16:13.000Z
@@ -17,7 +17,7 @@ s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

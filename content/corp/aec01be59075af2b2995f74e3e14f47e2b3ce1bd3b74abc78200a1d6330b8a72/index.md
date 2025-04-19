@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Estelar
-description: W:39 L:22 D:0 Bonus ✅ 42%
+description: W:39 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 18 - 15 **Brodudes Inc\.**
 date: 2025-04-12T14:20:48.000Z
@@ -16,7 +16,7 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
