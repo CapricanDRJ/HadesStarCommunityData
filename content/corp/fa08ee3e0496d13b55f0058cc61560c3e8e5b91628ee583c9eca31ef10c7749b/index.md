@@ -1,6 +1,6 @@
 ---
 title: ​C'est pas faux!
-description: W:10 L:6 D:1 Bonus ✅ 36%
+description: W:10 L:6 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **Nebulae Traders**
 date: 2025-04-12T20:56:54.000Z
@@ -21,7 +21,7 @@ Discord : wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Cerberus
-description: W:7 L:1 D:1 Bonus ✅ 
+description: W:7 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 9 - 0 **РARADISЕ**
 date: 2025-04-12T20:19:01.000Z
@@ -15,7 +15,7 @@ date: 2025-04-12T20:19:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
