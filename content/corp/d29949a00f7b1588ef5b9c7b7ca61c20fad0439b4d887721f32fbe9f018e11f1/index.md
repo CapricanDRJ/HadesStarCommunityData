@@ -1,6 +1,6 @@
 ---
 title: ​Elysium
-description: W:57 L:15 D:0 Bonus ✅ 38%
+description: W:57 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 33 - 3 **Октябристы**
 date: 2025-04-12T03:04:39.000Z
@@ -18,7 +18,7 @@ in and play. Join today!
 <br>
 
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

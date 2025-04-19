@@ -1,6 +1,6 @@
 ---
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: W:35 L:55 D:0 Bonus ✅ 48%
+description: W:35 L:55 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 41 - 12 ** RELAX CZ/SK**
 date: 2025-04-12T01:14:29.000Z
@@ -22,7 +22,7 @@ Zum Server->95WWyXqrhQ</color>
 <br>
 
 ### [Discord](https://discord.gg/95WWyXqrhQ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

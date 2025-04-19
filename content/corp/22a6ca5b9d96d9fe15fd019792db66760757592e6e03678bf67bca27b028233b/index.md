@@ -1,9 +1,9 @@
 ---
 title: ​АарнСарт 
-description: W:19 L:5 D:0 Bonus ❌ 
+description: W:20 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 23 - 3 **STAR TERROR CZ**
-date: 2025-04-11T22:54:18.000Z
+Summary: ✅ 15 - 2 **The Witness**
+date: 2025-04-19T01:51:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2025-04-11T22:54:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1378 🔺  (87)|
-| ELO Competitive | 1456 🔺  (115)|
-| Total Matches | 24 |
-| Wins | 19 |
+| ELO Regular | 1381 🔺  (84)|
+| ELO Competitive | 1460 🔺  (113)|
+| Total Matches | 25 |
+| Wins | 20 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743980058,1743978256,1743421678,1743417771,1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1744595503,1743980058,1743978256,1743421678,1743417771,1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 2 | 0 | 0 | 2 |
 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/19 | 15-2 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2025/04/11 | 23-3 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2025/04/11 | 7-6 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/04/05 | 21-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -172,5 +174,5 @@ Corporation ID: 22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744412058"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745027503"></span>
 </div>

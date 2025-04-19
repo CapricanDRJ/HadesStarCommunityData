@@ -1,9 +1,9 @@
 ---
 title: ​百万繁星
-description: W:1 L:2 D:0 Bonus ❌ 
+description: W:1 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 16 **New YuGiOh**
-date: 2025-03-06T14:04:14.000Z
+Summary: ↔️ 0 - 0 **63SALVADORES36**
+date: 2025-04-19T03:06:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-03-06T14:04:14.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (618)|
-| ELO Competitive | 1196 🔻  (751)|
-| Total Matches | 3 |
+| ELO Regular | 1192 🔺  (616)|
+| ELO Competitive | 1203 🔺  (680)|
+| Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740837854,1740114552,1739455526];
+        let timestamps = [1744599963,1740837854,1740114552,1739455526];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/19 | 0-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/03/06 | 0-16 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/02/26 | 0-3 | [Star tap](https://ws.tsl.rocks/corp/419ece3690e60cc5181cc450eb68b26886aa17512dc12d80ca87a2664bf6d85c/) |
 | ✅ | 2025/02/18 | 3-2 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
@@ -144,5 +145,5 @@ Corporation ID: 4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741269854"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745031963"></span>
 </div>
