@@ -1,6 +1,6 @@
 ---
 title: ​Z. O. V. 
-description: W:46 L:19 D:3 Bonus ✅ 38%
+description: W:46 L:19 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 20 - 3 **Halcon español**
 date: 2025-04-12T12:30:34.000Z
@@ -15,7 +15,7 @@ date: 2025-04-12T12:30:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

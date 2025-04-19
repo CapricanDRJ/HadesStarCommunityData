@@ -1,6 +1,6 @@
 ---
 title: ​GDZ
-description: W:53 L:45 D:0 Bonus ✅ 46%
+description: W:53 L:45 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 27 - 9 **Highlife**
 date: 2025-04-12T11:05:25.000Z
@@ -16,7 +16,7 @@ date: 2025-04-12T11:05:25.000Z
 <br>
 
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

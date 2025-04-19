@@ -1,9 +1,9 @@
 ---
 title: ​[Blue＊Nation]
-description: W:61 L:10 D:0 Bonus ❌ 11%
+description: W:62 L:10 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 30 - 0 **骊珠洞天**
-date: 2025-04-12T07:45:05.000Z
+Summary: ✅ 24 - 15 **Space Marshalls**
+date: 2025-04-19T09:57:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ ders and a focus on WS!
 <br>
 
 ### [Discord](https://discord.gg/wgHSEFgGBu)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1538 🔺  (8)|
-| ELO Competitive | 1613 🔺  (27)|
-| Total Matches | 71 |
-| Wins | 61 |
+| ELO Regular | 1542 🔺  (8)|
+| ELO Competitive | 1619 🔺  (27)|
+| Total Matches | 72 |
+| Wins | 62 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 29 |
 | Flagship | 5 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744011905,1743405752,1742806768,1742203007,1741601121,1740990821,1740380792,1739765346,1739173968,1738566942,1737955401,1737360717,1736759970,1736135767,1735531121,1734330451,1733733110,1733117722,1732503796,1731917835,1731302724,1730702006,1730106723,1729478984,1728895965,1727665278,1727075408,1726491047,1725265609,1724639661,1724048559,1723449018,1722839885,1722230757,1721621292,1720419164,1719803990,1719201482,1718594441,1717992953,1717391492,1716778108,1716174782,1715571782,1714964864,1714363532,1713751809,1713152328,1712549640,1711937563,1711336008,1710734466,1710127216,1709523566,1708919592,1708338736,1707750354,1707117798,1706498746,1705898919,1705299996,1704690857,1704078708,1703476766,1702938027,1702264208,1701702179,1701057823,1700460929,1699849852,1699244245];
+        let timestamps = [1744624646,1744011905,1743405752,1742806768,1742203007,1741601121,1740990821,1740380792,1739765346,1739173968,1738566942,1737955401,1737360717,1736759970,1736135767,1735531121,1734330451,1733733110,1733117722,1732503796,1731917835,1731302724,1730702006,1730106723,1729478984,1728895965,1727665278,1727075408,1726491047,1725265609,1724639661,1724048559,1723449018,1722839885,1722230757,1721621292,1720419164,1719803990,1719201482,1718594441,1717992953,1717391492,1716778108,1716174782,1715571782,1714964864,1714363532,1713751809,1713152328,1712549640,1711937563,1711336008,1710734466,1710127216,1709523566,1708919592,1708338736,1707750354,1707117798,1706498746,1705898919,1705299996,1704690857,1704078708,1703476766,1702938027,1702264208,1701702179,1701057823,1700460929,1699849852,1699244245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 2 | 0 | 0 | 2 |
 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 6 | 1 | 0 | 7 |
 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) | 2 | 0 | 0 | 2 |
 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 2 | 0 | 0 | 2 |
@@ -153,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/19 | 24-15 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2025/04/12 | 30-0 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 | ✅ | 2025/04/05 | 21-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2025/03/29 | 5-9 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
@@ -231,5 +233,5 @@ Corporation ID: 38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744443905"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745056646"></span>
 </div>

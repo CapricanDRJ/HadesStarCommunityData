@@ -20,7 +20,7 @@ Corp made for storage of players who don't come back
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (1018)|
-| ELO Competitive | 1173 🔻  (1165)|
+| ELO Competitive | 1173 🔻  (1164)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

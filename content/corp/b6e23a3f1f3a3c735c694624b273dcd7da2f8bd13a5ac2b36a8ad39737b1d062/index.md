@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:55 L:8 D:0 Bonus ✅ 50%
+description: W:55 L:8 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 29 - 12 **Imperium XIII**
 date: 2025-04-12T11:50:30.000Z
@@ -21,7 +21,7 @@ date: 2025-04-12T11:50:30.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

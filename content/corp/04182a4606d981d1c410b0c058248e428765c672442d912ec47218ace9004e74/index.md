@@ -1,6 +1,6 @@
 ---
 title: ​Created
-description: W:23 L:36 D:1 Bonus ✅ 38%
+description: W:23 L:36 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 20 - 0 **很多星球的社会主义团**
 date: 2025-04-12T11:45:29.000Z
@@ -15,7 +15,7 @@ What a year….
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

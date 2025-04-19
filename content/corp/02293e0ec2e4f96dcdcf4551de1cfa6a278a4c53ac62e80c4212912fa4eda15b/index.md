@@ -1,6 +1,6 @@
 ---
 title: ​White Dwarf
-description: W:57 L:23 D:0 Bonus ✅ 46%
+description: W:57 L:23 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 46 - 12 **АНДРОМЕДА **
 date: 2025-04-12T12:20:33.000Z
@@ -17,7 +17,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 <br>
 
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
