@@ -1,6 +1,6 @@
 ---
 title: ​АарнСарт 
-description: W:19 L:5 D:0 Bonus ✅ 
+description: W:19 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 23 - 3 **STAR TERROR CZ**
 date: 2025-04-11T22:54:18.000Z
@@ -15,7 +15,7 @@ date: 2025-04-11T22:54:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

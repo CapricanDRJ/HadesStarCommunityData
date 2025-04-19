@@ -1,6 +1,6 @@
 ---
 title: ​Ещё один Миф
-description: W:14 L:24 D:0 Bonus ✅ 40%
+description: W:14 L:24 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 23 - 3 **The X \- Files**
 date: 2025-04-11T23:59:22.000Z
@@ -21,7 +21,7 @@ date: 2025-04-11T23:59:22.000Z
 <br>
 
 ### [Discord](https://discord.gg/YVP3QdjE3d)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
