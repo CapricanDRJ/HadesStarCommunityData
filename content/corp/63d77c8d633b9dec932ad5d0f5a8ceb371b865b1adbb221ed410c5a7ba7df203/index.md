@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Star
-description: W:40 L:19 D:0 Bonus ✅ 38%
+description: W:40 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 17 - 9 **Prosperity**
 date: 2025-04-12T04:24:47.000Z
@@ -18,7 +18,7 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

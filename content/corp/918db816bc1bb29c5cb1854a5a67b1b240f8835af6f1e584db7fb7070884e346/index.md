@@ -1,6 +1,6 @@
 ---
 title: ​Polaris Corpo
-description: W:14 L:13 D:0 Bonus ✅ 36%
+description: W:14 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 36 - 0 **仙女座星雲**
 date: 2025-04-12T05:59:56.000Z
@@ -21,7 +21,7 @@ date: 2025-04-12T05:59:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

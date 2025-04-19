@@ -1,6 +1,6 @@
 ---
 title: ​Октябристы
-description: W:74 L:88 D:2 Bonus ✅ 42%
+description: W:74 L:88 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 22 - 4 **绛紫星**
 date: 2025-04-12T03:59:44.000Z
@@ -17,11 +17,11 @@ date: 2025-04-12T03:59:44.000Z
 <br>
 
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (357)|
+| ELO Regular | 1229 🔺  (356)|
 | ELO Competitive | 1558 🔺  (43)|
 | Total Matches | 164 |
 | Wins | 74 |

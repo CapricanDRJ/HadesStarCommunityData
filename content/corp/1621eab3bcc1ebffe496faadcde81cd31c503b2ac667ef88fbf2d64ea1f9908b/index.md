@@ -1,6 +1,6 @@
 ---
 title: ​IX Легион
-description: W:101 L:47 D:0 Bonus ✅ 54%
+description: W:101 L:47 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 10 - 28 **pirates spatial**
 date: 2025-04-12T08:10:08.000Z
@@ -20,7 +20,7 @@ gy
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

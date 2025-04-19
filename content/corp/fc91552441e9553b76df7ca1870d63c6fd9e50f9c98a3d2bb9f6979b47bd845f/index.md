@@ -1,6 +1,6 @@
 ---
 title: ​the heavy
-description: W:25 L:14 D:0 Bonus ✅ 42%
+description: W:25 L:14 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 35 - 34 **\*СССР\***
 date: 2025-04-12T05:24:53.000Z
@@ -19,7 +19,7 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 <br>
 
 ### [Discord](https://discord.gg/6vgrePN)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
