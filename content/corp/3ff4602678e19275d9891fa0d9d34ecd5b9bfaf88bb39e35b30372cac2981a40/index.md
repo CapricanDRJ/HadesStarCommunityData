@@ -1,6 +1,6 @@
 ---
 title: ​pirates spatial
-description: W:70 L:59 D:0 Bonus ✅ 50%
+description: W:70 L:59 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 28 - 10 **IX Легион**
 date: 2025-04-12T08:10:08.000Z
@@ -21,7 +21,7 @@ https://discord.gg/wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

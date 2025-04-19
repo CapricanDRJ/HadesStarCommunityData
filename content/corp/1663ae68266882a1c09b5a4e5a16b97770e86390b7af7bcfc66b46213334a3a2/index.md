@@ -1,6 +1,6 @@
 ---
 title: ​Hexacropians
-description: W:66 L:17 D:2 Bonus ✅ 44%
+description: W:66 L:17 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 35 - 23 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2025-04-12T07:45:05.000Z
@@ -18,7 +18,7 @@ Ngā mihi nui, from NZ (and Aus!)
 <br>
 
 ### [Discord](https://discord.gg/Y7EZe2eQk9)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

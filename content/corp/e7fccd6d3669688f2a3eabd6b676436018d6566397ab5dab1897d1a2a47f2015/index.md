@@ -1,6 +1,6 @@
 ---
 title: ​UKR Spase
-description: W:46 L:24 D:0 Bonus ✅ 42%
+description: W:46 L:24 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 28 - 19 **Rogue One**
 date: 2025-04-12T08:10:08.000Z
@@ -19,7 +19,7 @@ date: 2025-04-12T08:10:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​[Blue＊Nation]
-description: W:61 L:10 D:0 Bonus ✅ 42%
+description: W:61 L:10 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 30 - 0 **骊珠洞天**
 date: 2025-04-12T07:45:05.000Z
@@ -20,7 +20,7 @@ ders and a focus on WS!
 <br>
 
 ### [Discord](https://discord.gg/wgHSEFgGBu)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
