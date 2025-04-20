@@ -1,9 +1,9 @@
 ---
 title: ​Planet Express
-description: W:17 L:4 D:1 Bonus ❌ 7%
+description: W:17 L:5 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 40 - 0 **九州·华夏**
-date: 2025-03-25T11:04:23.000Z
+Summary: ❌ 20 - 27 **AlSounT**
+date: 2025-04-20T15:40:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔺  (92)|
-| ELO Competitive | 1422 🔺  (146)|
-| Total Matches | 22 |
+| ELO Regular | 1348 🔻  (116)|
+| ELO Competitive | 1406 🔻  (164)|
+| Total Matches | 23 |
 | Wins | 17 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
-| Streak | 10 |
 | Streak Record | 10 |
 | Flagship | 6 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742468663,1740412046,1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
+        let timestamps = [1744731625,1742468663,1740412046,1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 20-27 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2025/03/25 | 40-0 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/03/01 | 26-15 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2025/02/24 | 31-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
@@ -168,5 +168,5 @@ Corporation ID: be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742900663"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745163625"></span>
 </div>

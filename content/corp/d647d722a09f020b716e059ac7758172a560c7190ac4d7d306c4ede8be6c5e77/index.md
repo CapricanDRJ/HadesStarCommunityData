@@ -1,9 +1,9 @@
 ---
 title: ​Void
-description: W:13 L:20 D:0 Bonus ❌ 10%
+description: W:13 L:21 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 7 - 31 **六大天神**
-date: 2025-02-26T00:38:50.000Z
+Summary: ❌ 13 - 14 **WinterComes**
+date: 2025-04-20T14:10:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Primarily English
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1290)|
-| ELO Competitive | 1198 🔻  (732)|
-| Total Matches | 33 |
+| ELO Regular | 1119 🔻  (1336)|
+| ELO Competitive | 1185 🔻  (990)|
+| Total Matches | 34 |
 | Wins | 13 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 8 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740098330,1738862640,1738261904,1737731523,1736124652,1732202996,1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
+        let timestamps = [1744726215,1740098330,1738862640,1738261904,1737731523,1736124652,1732202996,1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 13-14 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ❌ | 2025/02/26 | 7-31 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/02/11 | 22-33 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ✅ | 2025/02/04 | 42-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
@@ -188,5 +189,5 @@ Corporation ID: d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740530330"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745158215"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​ItBurnsWhenIEMP
-description: W:24 L:8 D:0 Bonus ❌ 14%
+description: W:24 L:9 D:0 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ✅ 50 - 14 **Trade Station**
-date: 2025-02-16T22:16:38.000Z
+Summary: ❌ 6 - 32 **No Orbit©**
+date: 2025-04-20T14:05:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 2025-02-16T22:16:38.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (154)|
-| ELO Competitive | 1349 🔺  (231)|
-| Total Matches | 32 |
+| ELO Regular | 1302 🔻  (179)|
+| ELO Competitive | 1333 🔻  (255)|
+| Total Matches | 33 |
 | Wins | 24 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 10 |
 | Flagship | 8 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739312198,1728323717,1716842726,1716211436,1715611439,1715023755,1714405900,1713797474,1713202274,1712585097,1711982935,1711375966,1710787950,1710166272,1709562924,1708964363,1708358273,1707750655,1707148150,1706539614,1705941892,1705350183,1704703776,1704126188,1703520642,1702912476,1702309588,1701541393,1701006425,1700496693,1699900046,1699281500];
+        let timestamps = [1744725914,1739312198,1728323717,1716842726,1716211436,1715611439,1715023755,1714405900,1713797474,1713202274,1712585097,1711982935,1711375966,1710787950,1710166272,1709562924,1708964363,1708358273,1707750655,1707148150,1706539614,1705941892,1705350183,1704703776,1704126188,1703520642,1702912476,1702309588,1701541393,1701006425,1700496693,1699900046,1699281500];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 6-32 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ✅ | 2025/02/16 | 50-14 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/10/12 | 36-25 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 | ✅ | 2024/06/01 | 7-4 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
@@ -185,5 +185,5 @@ Corporation ID: 1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739744198"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745157914"></span>
 </div>

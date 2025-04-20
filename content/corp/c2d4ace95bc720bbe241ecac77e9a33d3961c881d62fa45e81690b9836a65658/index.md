@@ -1,9 +1,9 @@
 ---
 title: ​青丘湖
-description: W:12 L:11 D:0 Bonus ❌ 7%
+description: W:13 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 6 - 17 **OPA**
-date: 2025-04-15T14:08:12.000Z
+Summary: ✅ 29 - 1 **DarkSide**
+date: 2025-04-20T15:05:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ date: 2025-04-15T14:08:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (377)|
-| ELO Competitive | 1292 🔻  (335)|
-| Total Matches | 23 |
-| Wins | 12 |
+| ELO Regular | 1235 🔺  (339)|
+| ELO Competitive | 1311 🔺  (296)|
+| Total Matches | 24 |
+| Wins | 13 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
+        let timestamps = [1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 29-1 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/04/15 | 6-17 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2025/04/10 | 0-1 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) |
 | ✅ | 2025/04/10 | 19-17 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
@@ -175,5 +176,5 @@ Corporation ID: c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744726092"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745161521"></span>
 </div>
