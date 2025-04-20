@@ -1,6 +1,6 @@
 ---
 title: ​Highlife
-description: W:28 L:47 D:1 Bonus ✅ 36%
+description: W:28 L:47 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 18 - 40 **\*СССР\***
 date: 2025-04-19T04:36:57.000Z
@@ -18,7 +18,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 <br>
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

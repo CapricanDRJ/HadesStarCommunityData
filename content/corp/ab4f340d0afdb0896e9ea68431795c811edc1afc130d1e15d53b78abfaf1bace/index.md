@@ -1,9 +1,9 @@
 ---
 title: ​Страж Галактики
-description: W:1 L:0 D:1 Bonus ❌ 3%
+description: W:1 L:1 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **U\.Y\.E\.U\.**
-date: 2024-03-14T22:42:30.000Z
+Summary: ❌ 0 - 1 **empire**
+date: 2025-04-20T17:20:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2024-03-14T22:42:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (450)|
-| ELO Competitive | 1214 🔻  (616)|
-| Total Matches | 2 |
+| ELO Regular | 1196 🔻  (579)|
+| ELO Competitive | 1197 🔻  (744)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1710024150,1700626584];
+        let timestamps = [1744737637,1710024150,1700626584];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-1 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ↔️ | 2024/03/14 | 0-0 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
 | ✅ | 2023/11/27 | 1-0 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7/) |
 
@@ -144,5 +145,5 @@ Corporation ID: ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1710456150"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745169637"></span>
 </div>
