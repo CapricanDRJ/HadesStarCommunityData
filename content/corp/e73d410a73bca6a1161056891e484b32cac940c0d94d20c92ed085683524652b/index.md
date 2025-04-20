@@ -1,9 +1,9 @@
 ---
 title: ​Polish Pirates
-description: W:28 L:15 D:0 Bonus ❌ 14%
+description: W:29 L:15 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 54 - 0 **Кулак**
-date: 2025-04-11T06:37:23.000Z
+Summary: ✅ 37 - 11 **Imperium XIII**
+date: 2025-04-20T07:09:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,17 +22,17 @@ vGfaYFN
 <br>
 
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (77)|
-| ELO Competitive | 1471 🔺  (107)|
-| Total Matches | 43 |
-| Wins | 28 |
+| ELO Regular | 1404 🔺  (64)|
+| ELO Competitive | 1486 🔺  (96)|
+| Total Matches | 44 |
+| Wins | 29 |
 | Losses | 15 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 11 |
 
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743921443,1742749074,1742112854,1740986014,1740374483,1739093425,1737300320,1736075345,1733648971,1732443391,1730633492,1729437215,1728216431,1727002088,1725805899,1725176361,1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
+        let timestamps = [1744700974,1743921443,1742749074,1742112854,1740986014,1740374483,1739093425,1737300320,1736075345,1733648971,1732443391,1730633492,1729437215,1728216431,1727002088,1725805899,1725176361,1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 37-11 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ✅ | 2025/04/11 | 54-0 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2025/03/28 | 45-9 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ✅ | 2025/03/21 | 35-17 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) |
@@ -203,5 +204,5 @@ Corporation ID: e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744353443"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745132974"></span>
 </div>

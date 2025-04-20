@@ -1,9 +1,9 @@
 ---
 title: ​毛绒团子
-description: W:17 L:1 D:0 Bonus ✅ 
+description: W:18 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 14 - 3 **九州分团**
-date: 2025-04-20T06:39:31.000Z
+Summary: ✅ 13 - 0 **Blazing Stars**
+date: 2025-04-20T07:24:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-20T06:39:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (61)|
+| ELO Regular | 1425 🔺  (48)|
 | ELO Competitive | 1428 🔺  (141)|
-| Total Matches | 18 |
-| Wins | 17 |
+| Total Matches | 19 |
+| Wins | 18 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 17 |
-| Streak Record | 17 |
+| Streak | 18 |
+| Streak Record | 18 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744699171,1743700558,1743075737,1742498421,1741865543,1741863740,1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
+        let timestamps = [1744701875,1744699171,1743700558,1743075737,1742498421,1741865543,1741863740,1741327355,1741279579,1740673177,1740055940,1739591528,1738909515,1738306675,1737804845,1736832401,1736384279,1734613526,1734076540];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 13-0 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2025/04/20 | 14-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2025/04/08 | 12-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/04/01 | 19-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
@@ -161,5 +162,5 @@ Corporation ID: 2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745131171"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745133875"></span>
 </div>

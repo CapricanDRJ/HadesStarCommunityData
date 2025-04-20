@@ -1,9 +1,9 @@
 ---
 title: ​Polaris Corpo
-description: W:14 L:14 D:0 Bonus ❌ 8%
+description: W:14 L:15 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 38 **IX Легион**
-date: 2025-04-20T06:09:29.000Z
+Summary: ❌ 0 - 16 **Слава Украине\!**
+date: 2025-04-20T08:09:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-04-20T06:09:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (436)|
-| ELO Competitive | 1299 🔻  (317)|
-| Total Matches | 28 |
+| ELO Regular | 1208 🔻  (487)|
+| ELO Competitive | 1300 🔻  (317)|
+| Total Matches | 29 |
 | Wins | 14 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744697369,1744005596,1743434603,1742988882,1742471969,1740143398,1739101841,1738417569,1738415164,1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
+        let timestamps = [1744704579,1744697369,1744005596,1743434603,1742988882,1742471969,1740143398,1739101841,1738417569,1738415164,1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-16 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/04/20 | 3-38 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/04/12 | 36-0 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2025/04/05 | 25-0 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
@@ -181,5 +182,5 @@ Corporation ID: 918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745129369"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745136579"></span>
 </div>

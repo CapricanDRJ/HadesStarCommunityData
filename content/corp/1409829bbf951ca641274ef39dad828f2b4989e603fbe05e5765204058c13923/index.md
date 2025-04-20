@@ -1,9 +1,9 @@
 ---
 title: ​龙门训练营
-description: W:9 L:19 D:0 Bonus ❌ 13%
+description: W:9 L:20 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 4 - 27 **RUS**
-date: 2025-04-20T05:39:26.000Z
+Summary: ❌ 0 - 60 **Stellar Exports**
+date: 2025-04-20T07:04:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-04-20T05:39:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (1303)|
-| ELO Competitive | 1255 🔻  (432)|
-| Total Matches | 28 |
+| ELO Regular | 1118 🔻  (1341)|
+| ELO Competitive | 1261 🔻  (415)|
+| Total Matches | 29 |
 | Wins | 9 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744695566,1706258027,1706232187,1705769695,1705736633,1705290382,1705275360,1704814968,1704787922,1704343160,1704323478,1703831070,1703742126,1703251672,1703248065,1702803078,1702793763,1702356127,1702257598,1701883111,1701781520,1701431390,1701231237,1700801442,1700659581,1700231004,1699496055,1698738171];
+        let timestamps = [1744700673,1744695566,1706258027,1706232187,1705769695,1705736633,1705290382,1705275360,1704814968,1704787922,1704343160,1704323478,1703831070,1703742126,1703251672,1703248065,1702803078,1702793763,1702356127,1702257598,1701883111,1701781520,1701431390,1701231237,1700801442,1700659581,1700231004,1699496055,1698738171];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-60 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/04/20 | 4-27 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ✅ | 2024/01/31 | 12-4 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | ❌ | 2024/01/31 | 0-72 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
@@ -183,5 +184,5 @@ Corporation ID: 1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745127566"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745132673"></span>
 </div>

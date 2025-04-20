@@ -22,8 +22,8 @@ prevention; it's very real, serious topic. have a week off 🤗
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1042 🔻  (1448)|
-| ELO Competitive | 1067 🔻  (1477)|
+| ELO Regular | 1042 🔻  (1449)|
+| ELO Competitive | 1067 🔻  (1478)|
 | Total Matches | 16 |
 | Wins | 0 |
 | Losses | 16 |

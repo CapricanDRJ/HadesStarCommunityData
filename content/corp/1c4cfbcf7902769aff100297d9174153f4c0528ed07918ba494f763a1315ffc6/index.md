@@ -24,7 +24,7 @@ Red_Coat_Mafia
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (1052)|
-| ELO Competitive | 1310 🔻  (295)|
+| ELO Competitive | 1310 🔻  (297)|
 | Total Matches | 66 |
 | Wins | 34 |
 | Losses | 31 |
