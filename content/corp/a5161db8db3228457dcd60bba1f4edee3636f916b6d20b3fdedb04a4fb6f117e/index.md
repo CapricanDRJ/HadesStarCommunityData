@@ -1,9 +1,9 @@
 ---
 title: ​Hades’ galaxy
-description: W:11 L:3 D:0 Bonus ✅ 
+description: W:12 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 13 - 1 **FoxTale**
-date: 2025-04-14T20:21:33.000Z
+Summary: ✅ 19 - 0 **11th Engineers**
+date: 2025-04-20T03:04:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-14T20:21:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1293 🔺  (192)|
-| ELO Competitive | 1324 🔺  (271)|
-| Total Matches | 14 |
-| Wins | 11 |
+| ELO Regular | 1295 🔺  (192)|
+| ELO Competitive | 1328 🔺  (264)|
+| Total Matches | 15 |
+| Wins | 12 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744230093,1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
+        let timestamps = [1744686252,1744230093,1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 19-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2025/04/14 | 13-1 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2025/04/09 | 12-0 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
 | ✅ | 2025/04/04 | 14-0 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
@@ -157,5 +158,5 @@ Corporation ID: a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744662093"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745118252"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Got Nothing
-description: W:16 L:13 D:0 Bonus ❌ 8%
+description: W:17 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 22 - 13 **DTC**
-date: 2025-03-14T12:33:13.000Z
+Summary: ✅ 45 - 14 **White Star Inc\.**
+date: 2025-04-20T01:29:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ rd for easier coordination and fun!
 <br>
 
 ### [Discord](https://discord.gg/3CBQRhpWmV)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (342)|
-| ELO Competitive | 1269 🔺  (391)|
-| Total Matches | 29 |
-| Wins | 16 |
+| ELO Regular | 1244 🔺  (304)|
+| ELO Competitive | 1280 🔺  (363)|
+| Total Matches | 30 |
+| Wins | 17 |
 | Losses | 13 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 7 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741523593,1731328563,1728333036,1726505476,1724706981,1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
+        let timestamps = [1744680544,1741523593,1731328563,1728333036,1726505476,1724706981,1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 45-14 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
 | ✅ | 2025/03/14 | 22-13 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ❌ | 2024/11/16 | 5-37 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2024/10/12 | 3-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
@@ -180,5 +182,5 @@ Corporation ID: ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741955593"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745112544"></span>
 </div>

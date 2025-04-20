@@ -1,9 +1,9 @@
 ---
 title: ​ Eligius 
-description: W:1 L:2 D:0 Bonus ❌ 5%
+description: W:1 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 28 - 32 **Hellfire Club**
-date: 2024-03-16T12:00:59.000Z
+Summary: ❌ 11 - 31 **KINETIC**
+date: 2025-04-20T03:04:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ AXOLOTLS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (646)|
-| ELO Competitive | 1190 🔻  (828)|
-| Total Matches | 3 |
+| ELO Regular | 1183 🔻  (896)|
+| ELO Competitive | 1184 🔻  (1051)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1710158459,1708305687,1699906059];
+        let timestamps = [1744686252,1710158459,1708305687,1699906059];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 11-31 | [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/) |
 | ❌ | 2024/03/16 | 28-32 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/02/24 | 1-20 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 | ✅ | 2023/11/18 | 27-0 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
@@ -151,5 +152,5 @@ Corporation ID: 13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1710590459"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745118252"></span>
 </div>

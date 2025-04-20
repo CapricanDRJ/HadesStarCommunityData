@@ -1,9 +1,9 @@
 ---
 title: ​KINETIC
-description: W:13 L:0 D:0 Bonus ❌ 8%
+description: W:14 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 31 - 5 **IMPERIAL ARMADA**
-date: 2025-02-14T18:56:34.000Z
+Summary: ❌ 13 - 35 **Октябристы**
+date: 2025-04-20T03:29:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,17 @@ Welcome to KINETIC! A corporation almost as old as the Hades universe
 <br>
 
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (73)|
-| ELO Competitive | 1419 🔺  (149)|
-| Total Matches | 13 |
-| Wins | 13 |
-| Losses | 0 |
+| ELO Regular | 1378 🔻  (86)|
+| ELO Competitive | 1425 🔺  (143)|
+| Total Matches | 15 |
+| Wins | 14 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak Record | 14 |
 | Flagship | 8 |
 
 ---
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739127394,1737579183,1732577420,1731351708,1725297467,1711346222,1708797595,1708277742,1707677641,1707079640,1706486728,1703444916,1699235233];
+        let timestamps = [1744687755,1744686252,1739127394,1737579183,1732577420,1731351708,1725297467,1711346222,1708797595,1708277742,1707677641,1707079640,1706486728,1703444916,1699235233];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +138,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 13-35 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
+| ✅ | 2025/04/20 | 31-11 | [ Eligius ](https://ws.tsl.rocks/corp/13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/) |
 | ✅ | 2025/02/14 | 31-5 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2025/01/27 | 33-19 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
 | ✅ | 2024/11/30 | 44-17 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
@@ -159,5 +160,5 @@ Corporation ID: 8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739559394"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745119755"></span>
 </div>

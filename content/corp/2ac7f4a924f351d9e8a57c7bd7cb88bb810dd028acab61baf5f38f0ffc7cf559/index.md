@@ -1,9 +1,9 @@
 ---
 title: ​Regulus
-description: W:8 L:15 D:0 Bonus ❌ 12%
+description: W:9 L:15 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 1 - 28 **White Dwarf**
-date: 2024-09-11T11:36:22.000Z
+Summary: ✅ 45 - 0 **IMPERIAL ARMADA**
+date: 2025-04-20T03:04:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1308)|
-| ELO Competitive | 1213 🔻  (631)|
-| Total Matches | 23 |
-| Wins | 8 |
+| ELO Regular | 1151 🔺  (1196)|
+| ELO Competitive | 1237 🔺  (488)|
+| Total Matches | 24 |
+| Wins | 9 |
 | Losses | 15 |
 | Draws | 0 |
 | Flagship | 11 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725622582,1725600347,1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
+        let timestamps = [1744686252,1725622582,1725600347,1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 45-0 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2024/09/11 | 1-28 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/09/11 | 4-23 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2024/09/02 | 41-3 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
@@ -172,5 +173,5 @@ Corporation ID: 2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1726054582"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745118252"></span>
 </div>

@@ -21,7 +21,7 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1445 🔺  (34)|
+| ELO Regular | 1445 🔺  (33)|
 | ELO Competitive | 1543 🔺  (52)|
 | Total Matches | 66 |
 | Wins | 54 |

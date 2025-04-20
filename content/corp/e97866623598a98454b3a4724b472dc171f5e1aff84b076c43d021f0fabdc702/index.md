@@ -22,7 +22,7 @@ Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1417 🔺  (55)|
-| ELO Competitive | 1532 🔺  (63)|
+| ELO Competitive | 1532 🔺  (61)|
 | Total Matches | 72 |
 | Wins | 50 |
 | Losses | 20 |

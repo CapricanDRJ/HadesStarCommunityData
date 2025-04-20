@@ -28,7 +28,7 @@ Discord: asheRjW
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1352 🔺  (109)|
-| ELO Competitive | 1468 🔺  (106)|
+| ELO Competitive | 1468 🔺  (108)|
 | Total Matches | 72 |
 | Wins | 51 |
 | Losses | 21 |

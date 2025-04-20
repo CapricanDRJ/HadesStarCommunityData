@@ -1,6 +1,6 @@
 ---
 title: ​星际公约组织
-description: W:35 L:15 D:1 Bonus ✅ 36%
+description: W:35 L:15 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 7 - 5 **BRASIL ACADEMY**
 date: 2025-04-13T02:02:20.000Z
@@ -24,12 +24,12 @@ Q群：993612413
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (92)|
-| ELO Competitive | 1422 🔺  (146)|
+| ELO Regular | 1373 🔺  (91)|
+| ELO Competitive | 1422 🔺  (148)|
 | Total Matches | 51 |
 | Wins | 35 |
 | Losses | 15 |

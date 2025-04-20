@@ -1,9 +1,9 @@
 ---
 title: ​Dacia Chill
-description: W:21 L:4 D:0 Bonus ❌ 7%
+description: W:22 L:4 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 10 - 26 **Polish Pirates**
-date: 2025-01-24T15:25:20.000Z
+Summary: ✅ 52 - 3 **Кулак**
+date: 2025-04-20T01:44:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ WDL 88/2/4
 <br>
 
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔻  (75)|
-| ELO Competitive | 1421 🔻  (147)|
-| Total Matches | 25 |
-| Wins | 21 |
+| ELO Regular | 1393 🔺  (74)|
+| ELO Competitive | 1432 🔺  (137)|
+| Total Matches | 26 |
+| Wins | 22 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737300320,1734616495,1732616773,1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
+        let timestamps = [1744681446,1737300320,1734616495,1732616773,1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 52-3 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ❌ | 2025/01/24 | 10-26 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ✅ | 2024/12/24 | 42-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/12/01 | 30-16 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
@@ -171,5 +172,5 @@ Corporation ID: b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1737732320"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745113446"></span>
 </div>

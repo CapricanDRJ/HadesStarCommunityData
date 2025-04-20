@@ -1,9 +1,9 @@
 ---
 title: ​47підрозділССП
-description: W:18 L:4 D:0 Bonus ❌ 
+description: W:19 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 19 - 5 **White Star Inc\.**
-date: 2025-04-12T22:12:02.000Z
+Summary: ✅ 21 - 1 **Тихий Омут**
+date: 2025-04-20T02:34:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-04-12T22:12:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1389 🔺  (77)|
-| ELO Competitive | 1449 🔺  (124)|
-| Total Matches | 22 |
-| Wins | 18 |
+| ELO Regular | 1395 🔺  (72)|
+| ELO Competitive | 1462 🔺  (111)|
+| Total Matches | 23 |
+| Wins | 19 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744063922,1743561238,1743120222,1742672735,1742221640,1741789524,1741327956,1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1744684450,1744063922,1743561238,1743120222,1742672735,1742221640,1741789524,1741327956,1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 21-1 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2025/04/12 | 19-5 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
 | ✅ | 2025/04/07 | 31-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/04/02 | 18-4 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
@@ -170,5 +171,5 @@ Corporation ID: a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744495922"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745116450"></span>
 </div>

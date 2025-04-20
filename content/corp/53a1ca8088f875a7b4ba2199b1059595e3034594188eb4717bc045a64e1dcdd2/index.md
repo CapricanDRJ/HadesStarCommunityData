@@ -1,9 +1,9 @@
 ---
 title: ​imperio galacti
-description: W:24 L:15 D:1 Bonus ❌ 7%
+description: W:25 L:15 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 7 - 14 **MiddleOfNowhere**
-date: 2025-04-14T04:39:54.000Z
+Summary: ✅ 39 - 3 **lesescargots**
+date: 2025-04-20T00:49:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (206)|
-| ELO Competitive | 1425 🔻  (141)|
-| Total Matches | 40 |
-| Wins | 24 |
+| ELO Regular | 1306 🔺  (171)|
+| ELO Competitive | 1445 🔺  (126)|
+| Total Matches | 41 |
+| Wins | 25 |
 | Losses | 15 |
 | Draws | 1 |
 | Streak Record | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744173594,1744171491,1743562622,1743557815,1742939616,1742939005,1742433511,1742328026,1741798541,1741781708,1741290100,1741279879,1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1744678141,1744173594,1744171491,1743562622,1743557815,1742939616,1742939005,1742433511,1742328026,1741798541,1741781708,1741290100,1741279879,1740689707,1740686708,1740071876,1739594952,1739056169,1738549817,1737943083,1737426831,1736891010,1736452217,1736002901,1735158233,1734671480,1734209662,1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 39-3 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2025/04/14 | 7-14 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ❌ | 2025/04/14 | 1-7 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2025/04/07 | 7-1 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
@@ -191,5 +192,5 @@ Corporation ID: 53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744605594"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745110141"></span>
 </div>

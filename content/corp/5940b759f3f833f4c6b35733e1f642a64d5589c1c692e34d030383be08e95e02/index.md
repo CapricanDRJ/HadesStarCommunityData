@@ -23,7 +23,7 @@ duct yourself appropriately, for we are a highly experienced WS Group
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1418 🔺  (54)|
-| ELO Competitive | 1459 🔺  (113)|
+| ELO Competitive | 1459 🔺  (114)|
 | Total Matches | 20 |
 | Wins | 20 |
 | Losses | 0 |

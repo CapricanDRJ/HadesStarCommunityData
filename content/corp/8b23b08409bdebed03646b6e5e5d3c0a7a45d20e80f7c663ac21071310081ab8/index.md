@@ -32,8 +32,8 @@ ALIANÇA: LUSO (BR/PT) 🚀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1220)|
-| ELO Competitive | 1180 🔻  (1101)|
+| ELO Regular | 1147 🔻  (1219)|
+| ELO Competitive | 1180 🔻  (1100)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

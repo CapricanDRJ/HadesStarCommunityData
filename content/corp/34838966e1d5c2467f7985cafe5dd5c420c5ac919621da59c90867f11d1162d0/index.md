@@ -1,9 +1,9 @@
 ---
 title: ​NERF TOY'S
-description: W:22 L:35 D:2 Bonus ❌ 12%
+description: W:23 L:36 D:2 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 16 - 18 **日月星辰**
-date: 2024-11-10T07:20:55.000Z
+Summary: ❌ 0 - 20 **IMPERIAL ARMADA**
+date: 2025-04-20T02:27:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ lor=yellow>weekly WS's and daily Corp runs
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (719)|
-| ELO Competitive | 1270 🔻  (389)|
-| Total Matches | 59 |
-| Wins | 22 |
-| Losses | 35 |
+| ELO Regular | 1181 🔻  (910)|
+| ELO Competitive | 1275 🔺  (377)|
+| Total Matches | 61 |
+| Wins | 23 |
+| Losses | 36 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 9 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730791255,1727851290,1727354859,1726736157,1725594639,1724868946,1724435911,1723996568,1723353153,1722569123,1721220114,1720704068,1720608192,1720139986,1719661548,1719227020,1719222813,1718576417,1718519911,1718101437,1718064181,1717623221,1717437180,1717178694,1716816270,1716741146,1716350241,1716274531,1715795315,1715789304,1715354844,1715278834,1714915892,1714778584,1714449471,1714051051,1714000580,1713499441,1713438446,1712792723,1712292726,1711662914,1711071581,1710333027,1709753423,1709641345,1709069242,1709007032,1708586044,1708572507,1708130494,1707518228,1706862966,1705959929,1705350784,1704406872,1702021054,1701102602,1699145389];
+        let timestamps = [1744684031,1744683248,1730791255,1727851290,1727354859,1726736157,1725594639,1724868946,1724435911,1723996568,1723353153,1722569123,1721220114,1720704068,1720608192,1720139986,1719661548,1719227020,1719222813,1718576417,1718519911,1718101437,1718064181,1717623221,1717437180,1717178694,1716816270,1716741146,1716350241,1716274531,1715795315,1715789304,1715354844,1715278834,1714915892,1714778584,1714449471,1714051051,1714000580,1713499441,1713438446,1712792723,1712292726,1711662914,1711071581,1710333027,1709753423,1709641345,1709069242,1709007032,1708586044,1708572507,1708130494,1707518228,1706862966,1705959929,1705350784,1704406872,1702021054,1701102602,1699145389];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-20 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
+| ✅ | 2025/04/20 | 14-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2024/11/10 | 16-18 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 | ✅ | 2024/10/07 | 30-12 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/10/01 | 8-28 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
@@ -214,5 +216,5 @@ Corporation ID: 34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1731223255"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745116031"></span>
 </div>
