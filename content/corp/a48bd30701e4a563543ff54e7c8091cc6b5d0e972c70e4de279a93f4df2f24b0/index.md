@@ -19,8 +19,8 @@ wt'star players
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1407)|
-| ELO Competitive | 1136 🔻  (1396)|
+| ELO Regular | 1087 🔻  (1408)|
+| ELO Competitive | 1136 🔻  (1397)|
 | Total Matches | 34 |
 | Wins | 8 |
 | Losses | 22 |

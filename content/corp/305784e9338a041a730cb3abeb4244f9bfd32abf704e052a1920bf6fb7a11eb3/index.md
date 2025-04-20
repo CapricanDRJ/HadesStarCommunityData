@@ -1,9 +1,9 @@
 ---
 title: ​Untitled
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 10 - 0 **宇宙联盟（中国）**
-date: 2025-04-14T12:20:37.000Z
+Summary: ✅ 6 - 0 **星域 **
+date: 2025-04-20T21:21:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-04-14T12:20:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (523)|
-| ELO Competitive | 1207 🔺  (658)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1215 🔺  (427)|
+| ELO Competitive | 1228 🔺  (521)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744201237,1743119921];
+        let timestamps = [1744752064,1744201237,1743119921];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 6-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ✅ | 2025/04/14 | 10-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/04/01 | 4-16 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 
@@ -143,5 +146,5 @@ Corporation ID: 305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744633237"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745184064"></span>
 </div>

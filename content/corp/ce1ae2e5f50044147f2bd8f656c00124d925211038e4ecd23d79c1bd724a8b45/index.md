@@ -1,9 +1,9 @@
 ---
 title: ​SNSS
-description: W:2 L:10 D:1 Bonus ❌ 11%
+description: W:2 L:11 D:1 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 19 - 49 **Providence**
-date: 2025-04-20T15:45:26.000Z
+Summary: ❌ 10 - 69 **Ender**
+date: 2025-04-20T20:30:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ nts, Dark RS focussed corp, with optional WS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1098 🔻  (1390)|
-| ELO Competitive | 1185 🔻  (985)|
-| Total Matches | 13 |
+| ELO Regular | 1093 🔻  (1395)|
+| ELO Competitive | 1190 🔻  (826)|
+| Total Matches | 14 |
 | Wins | 2 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744731926,1732296744,1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
+        let timestamps = [1744749059,1744731926,1732296744,1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 10-69 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2025/04/20 | 19-49 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2024/11/27 | 3-24 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ↔️ | 2024/11/27 | 23-23 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
@@ -164,5 +165,5 @@ Corporation ID: ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745163926"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745181059"></span>
 </div>

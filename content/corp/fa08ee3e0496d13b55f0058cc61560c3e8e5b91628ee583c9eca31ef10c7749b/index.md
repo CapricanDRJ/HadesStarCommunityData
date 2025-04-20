@@ -1,9 +1,9 @@
 ---
 title: ​C'est pas faux!
-description: W:10 L:6 D:1 Bonus ❌ 8%
+description: W:11 L:7 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 10 - 0 **Nebulae Traders**
-date: 2025-04-12T20:56:54.000Z
+Summary: ❌ 3 - 19 **1st/Ave/Junkie2**
+date: 2025-04-20T21:34:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,18 +21,17 @@ Discord : wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (239)|
-| ELO Competitive | 1319 🔺  (281)|
-| Total Matches | 17 |
-| Wins | 10 |
-| Losses | 6 |
+| ELO Regular | 1258 🔻  (263)|
+| ELO Competitive | 1328 🔺  (265)|
+| Total Matches | 19 |
+| Wins | 11 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak Record | 10 |
 | Flagship | 5 |
 
 ---
@@ -51,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744059414,1743409057,1742793849,1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1744752887,1744748457,1744059414,1743409057,1742793849,1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 3-19 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
+| ✅ | 2025/04/20 | 42-8 | [Schnuppenfarm](https://ws.tsl.rocks/corp/d744c5acdddfd2b097e4bdad7d855af86571ef171b176ae601d44d74628de5f9/) |
 | ✅ | 2025/04/12 | 10-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2025/04/05 | 32-0 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ✅ | 2025/03/29 | 31-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
@@ -166,5 +167,5 @@ Corporation ID: fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744491414"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745184887"></span>
 </div>

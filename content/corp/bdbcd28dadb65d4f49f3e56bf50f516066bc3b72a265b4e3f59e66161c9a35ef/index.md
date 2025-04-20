@@ -21,8 +21,8 @@ atory but greatly appreciated!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (487)|
-| ELO Competitive | 1220 🔺  (553)|
+| ELO Regular | 1208 🔺  (488)|
+| ELO Competitive | 1220 🔺  (555)|
 | Total Matches | 5 |
 | Wins | 3 |
 | Losses | 2 |

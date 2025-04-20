@@ -21,7 +21,7 @@ la", while trying to stay alive.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (1011)|
+| ELO Regular | 1172 🔻  (1013)|
 | ELO Competitive | 1175 🔻  (1152)|
 | Total Matches | 4 |
 | Wins | 1 |

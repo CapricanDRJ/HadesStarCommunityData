@@ -1,9 +1,9 @@
 ---
 title: ​KhaOSs
-description: W:1 L:7 D:0 Bonus ❌ 4%
+description: W:1 L:8 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 5 - 9 **九州分团**
-date: 2025-03-30T01:11:16.000Z
+Summary: ❌ 3 - 5 **Alpaca Nation**
+date: 2025-04-20T21:36:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ EUR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (1278)|
-| ELO Competitive | 1158 🔻  (1303)|
-| Total Matches | 8 |
+| ELO Regular | 1127 🔻  (1304)|
+| ELO Competitive | 1151 🔻  (1342)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742865076,1740507006,1737739337,1736242745,1734933381,1734933193,1712523503,1710954099];
+        let timestamps = [1744752965,1742865076,1740507006,1737739337,1736242745,1734933381,1734933193,1712523503,1710954099];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 3-5 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ❌ | 2025/03/30 | 5-9 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/03/02 | 3-8 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2025/01/29 | 0-13 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
@@ -159,5 +160,5 @@ Corporation ID: 95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743297076"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745184965"></span>
 </div>

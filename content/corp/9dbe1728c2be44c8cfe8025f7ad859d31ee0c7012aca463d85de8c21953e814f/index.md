@@ -1,9 +1,9 @@
 ---
 title: ​星域 
-description: W:13 L:15 D:0 Bonus ✅ 32%
+description: W:13 L:16 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **落魄山**
-date: 2025-04-20T14:40:01.000Z
+Summary: ❌ 0 - 6 **Untitled**
+date: 2025-04-20T21:21:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (634)|
+| ELO Regular | 1176 🔻  (953)|
 | ELO Competitive | 1356 🔺  (224)|
-| Total Matches | 28 |
+| Total Matches | 29 |
 | Wins | 13 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 2 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744728001,1743679819,1743678013,1743054559,1743025257,1742589240,1742523664,1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
+        let timestamps = [1744752064,1744728001,1743679819,1743678013,1743054559,1743025257,1742589240,1742523664,1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-6 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 | ✅ | 2025/04/20 | 8-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ✅ | 2025/04/08 | 13-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2025/04/08 | 0-13 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
@@ -178,5 +178,5 @@ Corporation ID: 9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745160001"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745184064"></span>
 </div>

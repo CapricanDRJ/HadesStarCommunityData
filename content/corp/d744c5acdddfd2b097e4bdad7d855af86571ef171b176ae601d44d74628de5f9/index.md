@@ -1,9 +1,9 @@
 ---
 title: ​Schnuppenfarm
-description: W:1 L:3 D:0 Bonus ❌ 6%
+description: W:1 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 14 - 29 **붉은늑대**
-date: 2024-11-07T06:03:36.000Z
+Summary: ❌ 8 - 42 **C'est pas faux\!**
+date: 2025-04-20T20:20:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2024-11-07T06:03:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (1096)|
-| ELO Competitive | 1182 🔻  (1083)|
-| Total Matches | 4 |
+| ELO Regular | 1154 🔻  (1167)|
+| ELO Competitive | 1172 🔻  (1179)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730527416,1710188811,1705679237,1702441229];
+        let timestamps = [1744748457,1730527416,1710188811,1705679237,1702441229];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 8-42 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ❌ | 2024/11/07 | 14-29 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/03/16 | 22-46 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/01/24 | 37-0 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
@@ -147,5 +148,5 @@ Corporation ID: d744c5acdddfd2b097e4bdad7d855af86571ef171b176ae601d44d74628de5f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1730959416"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745180457"></span>
 </div>
