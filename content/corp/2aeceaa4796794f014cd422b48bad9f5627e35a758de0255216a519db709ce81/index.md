@@ -21,7 +21,7 @@ iscord is mandatory for membership.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1351 🔻  (110)|
+| ELO Regular | 1351 🔻  (111)|
 | ELO Competitive | 1564 🔻  (43)|
 | Total Matches | 116 |
 | Wins | 81 |

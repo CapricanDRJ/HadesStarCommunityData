@@ -1,6 +1,6 @@
 ---
 title: ​Eretria 
-description: W:37 L:44 D:1 Bonus ✅ 38%
+description: W:37 L:44 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 8 - 9 **Эдем**
 date: 2025-04-13T12:43:18.000Z
@@ -18,12 +18,12 @@ uld be an Honor that you would join us! >=)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1147)|
-| ELO Competitive | 1226 🔺  (528)|
+| ELO Regular | 1157 🔻  (1149)|
+| ELO Competitive | 1226 🔺  (529)|
 | Total Matches | 82 |
 | Wins | 37 |
 | Losses | 44 |

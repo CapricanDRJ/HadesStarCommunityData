@@ -23,7 +23,7 @@ Inactive players will be kicked out
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (417)|
+| ELO Regular | 1216 🔺  (419)|
 | ELO Competitive | 1216 🔺  (585)|
 | Total Matches | 1 |
 | Wins | 1 |

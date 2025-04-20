@@ -1,6 +1,6 @@
 ---
 title: ​Legion
-description: W:53 L:47 D:0 Bonus ✅ 52%
+description: W:53 L:47 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 5 - 66 **Auscorp **
 date: 2025-04-20T02:04:07.000Z
@@ -18,11 +18,11 @@ r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 <br>
 
 ### [Discord](https://discord.gg/mA6tbqzS55)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔻  (91)|
+| ELO Regular | 1373 🔻  (89)|
 | ELO Competitive | 1637 🔻  (24)|
 | Total Matches | 100 |
 | Wins | 53 |

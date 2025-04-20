@@ -1,9 +1,9 @@
 ---
 title: ​星际造梦
-description: W:4 L:2 D:0 Bonus ❌ 
+description: W:4 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 8 - 0 **雪月永恒**
-date: 2025-04-08T14:40:39.000Z
+Summary: ❌ 4 - 5 **九州·华夏**
+date: 2025-04-20T10:49:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-08T14:40:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (297)|
-| ELO Competitive | 1260 🔺  (419)|
-| Total Matches | 6 |
+| ELO Regular | 1228 🔻  (359)|
+| ELO Competitive | 1245 🔻  (468)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743691239,1742473773,1741871553,1741438548,1741345383,1740895556];
+        let timestamps = [1744714194,1743691239,1742473773,1741871553,1741438548,1741345383,1740895556];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 4-5 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/04/08 | 8-0 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) |
 | ✅ | 2025/03/25 | 7-4 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/03/18 | 16-3 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
@@ -149,5 +149,5 @@ Corporation ID: aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744123239"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745146194"></span>
 </div>

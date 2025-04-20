@@ -1,9 +1,9 @@
 ---
 title: ​Wompwompway 
-description: W:40 L:15 D:0 Bonus ❌ 8%
+description: W:40 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 1 - 21 **Bl@ck/Galaxy **
-date: 2025-04-05T23:39:19.000Z
+Summary: ❌ 0 - 1 **Sentencia**
+date: 2025-04-20T11:29:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ p anyone who desires the aid.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔻  (150)|
-| ELO Competitive | 1408 🔻  (162)|
-| Total Matches | 55 |
+| ELO Regular | 1313 🔻  (161)|
+| ELO Competitive | 1397 🔻  (170)|
+| Total Matches | 56 |
 | Wins | 40 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743464359,1741966200,1740134383,1738852722,1737794327,1736864556,1735554854,1735072606,1734626853,1734126429,1732399823,1731342090,1729508729,1728906183,1728302377,1727360270,1726672937,1726065822,1725461224,1724207880,1723440604,1722477171,1721836160,1720644564,1719752301,1719120334,1718291363,1717720893,1717082232,1716544316,1715941326,1715107581,1714488832,1713199269,1712337496,1711563459,1711027707,1710059603,1709501034,1708963461,1708458039,1707359870,1706683863,1706214759,1705636866,1705056576,1704459755,1703904107,1703254977,1702484808,1701753273,1700415248,1699838434,1699323574,1698838860];
+        let timestamps = [1744716598,1743464359,1741966200,1740134383,1738852722,1737794327,1736864556,1735554854,1735072606,1734626853,1734126429,1732399823,1731342090,1729508729,1728906183,1728302377,1727360270,1726672937,1726065822,1725461224,1724207880,1723440604,1722477171,1721836160,1720644564,1719752301,1719120334,1718291363,1717720893,1717082232,1716544316,1715941326,1715107581,1714488832,1713199269,1712337496,1711563459,1711027707,1710059603,1709501034,1708963461,1708458039,1707359870,1706683863,1706214759,1705636866,1705056576,1704459755,1703904107,1703254977,1702484808,1701753273,1700415248,1699838434,1699323574,1698838860];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-1 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ❌ | 2025/04/05 | 1-21 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2025/03/19 | 25-2 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ❌ | 2025/02/26 | 8-25 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
@@ -206,5 +207,5 @@ Corporation ID: f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743896359"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745148598"></span>
 </div>

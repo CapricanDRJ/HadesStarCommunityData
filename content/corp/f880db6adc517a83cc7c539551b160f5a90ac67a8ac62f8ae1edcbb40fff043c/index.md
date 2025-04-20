@@ -1,9 +1,9 @@
 ---
 title: ​莫比乌斯-星环
-description: W:7 L:8 D:0 Bonus ✅ 
+description: W:8 L:8 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 17 - 25 **Tuatha De Danan**
-date: 2025-04-20T01:39:05.000Z
+Summary: ✅ 10 - 0 **TeddisaurusWrex**
+date: 2025-04-20T10:14:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-20T01:39:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (497)|
-| ELO Competitive | 1227 🔻  (523)|
-| Total Matches | 15 |
-| Wins | 7 |
+| ELO Regular | 1222 🔺  (382)|
+| ELO Competitive | 1251 🔺  (441)|
+| Total Matches | 16 |
+| Wins | 8 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 10-0 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2025/04/20 | 17-25 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2025/04/13 | 9-6 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2025/04/08 | 9-2 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
@@ -157,5 +158,5 @@ Corporation ID: f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745113145"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745144090"></span>
 </div>

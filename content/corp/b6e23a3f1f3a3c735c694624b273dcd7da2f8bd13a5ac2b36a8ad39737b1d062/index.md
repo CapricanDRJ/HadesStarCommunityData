@@ -1,9 +1,9 @@
 ---
 title: ​Omega Alpha
-description: W:55 L:8 D:0 Bonus ❌ 15%
+description: W:56 L:8 D:0 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 29 - 12 **Imperium XIII**
-date: 2025-04-12T11:50:30.000Z
+Summary: ✅ 36 - 35 **Hellfire Club**
+date: 2025-04-20T10:59:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,17 +21,17 @@ date: 2025-04-12T11:50:30.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1533 🔺  (9)|
-| ELO Competitive | 1647 🔺  (23)|
-| Total Matches | 63 |
-| Wins | 55 |
+| ELO Regular | 1540 🔺  (9)|
+| ELO Competitive | 1655 🔺  (22)|
+| Total Matches | 64 |
+| Wins | 56 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 7 |
+| Streak | 8 |
 | Streak Record | 16 |
 | Flagship | 8 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744026630,1743424683,1742832316,1742226450,1741598716,1740999835,1740410243,1739795691,1739191996,1739189892,1738587075,1738062375,1737377845,1736836607,1736181745,1734368915,1733819945,1733157688,1732577420,1731940073,1731340587,1730721837,1730120547,1729514740,1728926626,1727706447,1727225953,1726496157,1725891540,1725284841,1724083720,1723465846,1722861222,1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
+        let timestamps = [1744714795,1744026630,1743424683,1742832316,1742226450,1741598716,1740999835,1740410243,1739795691,1739191996,1739189892,1738587075,1738062375,1737377845,1736836607,1736181745,1734368915,1733819945,1733157688,1732577420,1731940073,1731340587,1730721837,1730120547,1729514740,1728926626,1727706447,1727225953,1726496157,1725891540,1725284841,1724083720,1723465846,1722861222,1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 4 | 0 | 0 | 4 |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 0 | 0 | 2 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
@@ -147,7 +148,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 3 | 0 | 0 | 3 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 2 | 0 | 0 | 2 |
-| [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 3 | 0 | 0 | 3 |
 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -155,6 +155,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 36-35 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2025/04/12 | 29-12 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ✅ | 2025/04/05 | 27-13 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2025/03/29 | 36-8 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
@@ -225,5 +226,5 @@ Corporation ID: b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744458630"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745146795"></span>
 </div>

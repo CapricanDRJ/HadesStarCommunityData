@@ -1,9 +1,9 @@
 ---
 title: ​星际公约组织
-description: W:35 L:15 D:1 Bonus ❌ 8%
+description: W:35 L:16 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 7 - 5 **BRASIL ACADEMY**
-date: 2025-04-13T02:02:20.000Z
+Summary: ❌ 3 - 10 **孤星长城**
+date: 2025-04-20T12:15:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,13 +28,12 @@ Q群：993612413
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (90)|
-| ELO Competitive | 1422 🔺  (149)|
-| Total Matches | 51 |
+| ELO Regular | 1357 🔻  (105)|
+| ELO Competitive | 1403 🔻  (162)|
+| Total Matches | 52 |
 | Wins | 35 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 3 |
 
@@ -54,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744077740,1743944887,1743510929,1743428291,1742916494,1742821495,1742386621,1742381570,1741781708,1741781128,1741334866,1741262148,1740894655,1740663860,1740401825,1740204100,1739876826,1739673073,1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1744719302,1744077740,1743944887,1743510929,1743428291,1742916494,1742821495,1742386621,1742381570,1741781708,1741781128,1741334866,1741262148,1740894655,1740663860,1740401825,1740204100,1739876826,1739673073,1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -152,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 3-10 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2025/04/13 | 7-5 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ✅ | 2025/04/11 | 14-7 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ❌ | 2025/04/06 | 2-16 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
@@ -210,5 +210,5 @@ Corporation ID: 72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744509740"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745151302"></span>
 </div>

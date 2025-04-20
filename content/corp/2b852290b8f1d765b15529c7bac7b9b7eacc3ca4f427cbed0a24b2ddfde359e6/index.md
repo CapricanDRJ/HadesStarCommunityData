@@ -1,9 +1,9 @@
 ---
 title: ​Black Pearl FR
-description: W:3 L:1 D:0 Bonus ✅ 
+description: W:4 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 20 **Милый дом**
-date: 2025-04-20T09:24:46.000Z
+Summary: ✅ 4 - 0 **⭐PRETORIANS\.X⭐**
+date: 2025-04-20T10:29:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-20T09:24:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (345)|
-| ELO Competitive | 1249 🔻  (453)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1239 🔺  (319)|
+| ELO Competitive | 1278 🔺  (371)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744709086,1744198832,1743662689,1743166193];
+        let timestamps = [1744712992,1744709086,1744198832,1743662689,1743166193];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 4-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/04/20 | 0-20 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) |
 | ✅ | 2025/04/14 | 13-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/04/08 | 10-2 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
@@ -146,5 +147,5 @@ Corporation ID: 2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745141086"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745144992"></span>
 </div>

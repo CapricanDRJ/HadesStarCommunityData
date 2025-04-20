@@ -1,9 +1,9 @@
 ---
 title: ​Hamburg AG 2
-description: W:16 L:26 D:0 Bonus ❌ 12%
+description: W:16 L:27 D:0 Bonus ❌ 12%
 image: ./favicon.png
-Summary: ❌ 7 - 53 **Ark**
-date: 2025-04-06T07:09:59.000Z
+Summary: ❌ 1 - 34 **ДИВЕРСАНТЫ**
+date: 2025-04-20T11:55:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Vordergrund.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (600)|
-| ELO Competitive | 1300 🔻  (316)|
-| Total Matches | 42 |
+| ELO Regular | 1190 🔻  (640)|
+| ELO Competitive | 1297 🔻  (324)|
+| Total Matches | 43 |
 | Wins | 16 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 10 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743491399,1741819879,1741771793,1741035297,1739892755,1739276133,1738672117,1737451767,1736755764,1735654317,1735050070,1734480690,1733850296,1733230096,1732629095,1731990556,1731313538,1729499414,1728897467,1728305682,1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
+        let timestamps = [1744718100,1743491399,1741819879,1741771793,1741035297,1739892755,1739276133,1738672117,1737451767,1736755764,1735654317,1735050070,1734480690,1733850296,1733230096,1732629095,1731990556,1731313538,1729499414,1728897467,1728305682,1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 1-34 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2025/04/06 | 7-53 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2025/03/17 | 0-35 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2025/03/17 | 26-10 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
@@ -198,5 +199,5 @@ Corporation ID: d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743923399"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745150100"></span>
 </div>

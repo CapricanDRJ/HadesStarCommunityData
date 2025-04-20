@@ -1,9 +1,9 @@
 ---
 title: ​Curiosity + Cat
-description: W:14 L:16 D:1 Bonus ❌ 8%
+description: W:15 L:16 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 19 - 29 **Scar**
-date: 2025-04-11T08:07:33.000Z
+Summary: ✅ 30 - 19 **No Orbit©**
+date: 2025-04-20T12:45:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (352)|
-| ELO Competitive | 1310 🔻  (299)|
-| Total Matches | 31 |
-| Wins | 14 |
+| ELO Regular | 1248 🔺  (292)|
+| ELO Competitive | 1326 🔺  (269)|
+| Total Matches | 32 |
+| Wins | 15 |
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743926853,1743161084,1742622238,1741946066,1741150375,1740656045,1739941737,1739288756,1738757461,1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1744721105,1743926853,1743161084,1742622238,1741946066,1741150375,1740656045,1739941737,1739288756,1738757461,1738322600,1737830093,1737312944,1736686638,1736087672,1735270002,1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 30-19 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ❌ | 2025/04/11 | 19-29 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ✅ | 2025/04/02 | 18-15 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2025/03/27 | 16-26 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
@@ -184,5 +185,5 @@ Corporation ID: c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744358853"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745153105"></span>
 </div>
