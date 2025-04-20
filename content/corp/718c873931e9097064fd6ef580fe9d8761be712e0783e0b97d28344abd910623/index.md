@@ -1,6 +1,6 @@
 ---
 title: ​lesescargots
-description: W:70 L:22 D:1 Bonus ✅ 40%
+description: W:70 L:22 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 19 - 1 **The Witness**
 date: 2025-04-12T23:57:11.000Z
@@ -15,7 +15,7 @@ Closed the list
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Stone Legion
-description: W:32 L:19 D:1 Bonus ❌ 9%
+description: W:33 L:19 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 10 - 43 **IMPERIAL ARMADA**
-date: 2025-04-07T23:49:13.000Z
+Summary: ✅ 36 - 0 **Free Thinkers 2**
+date: 2025-04-20T00:03:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-07T23:49:13.000Z
 <br>
 
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (249)|
-| ELO Competitive | 1384 🔻  (183)|
-| Total Matches | 52 |
-| Wins | 32 |
+| ELO Regular | 1266 🔺  (244)|
+| ELO Competitive | 1386 🔺  (180)|
+| Total Matches | 53 |
+| Wins | 33 |
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743637753,1743627838,1742679648,1742538988,1741680749,1740808399,1740564701,1738882175,1738098742,1737079137,1736428770,1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1744675438,1743637753,1743627838,1742679648,1742538988,1741680749,1740808399,1740564701,1738882175,1738098742,1737079137,1736428770,1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) | 2 | 0 | 0 | 2 |
 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) | 1 | 1 | 0 | 2 |
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 0 | 2 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 3 | 0 | 0 | 3 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 36-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2025/04/07 | 10-43 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2025/04/07 | 0-30 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ❌ | 2025/03/27 | 0-19 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -207,5 +209,5 @@ Corporation ID: 60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744069753"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745107438"></span>
 </div>

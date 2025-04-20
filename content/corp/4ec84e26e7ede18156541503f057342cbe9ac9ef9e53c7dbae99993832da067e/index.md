@@ -1,9 +1,9 @@
 ---
 title: ​Legion Prime
-description: W:14 L:16 D:0 Bonus ❌ 9%
+description: W:14 L:17 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 32 - 2 **The X \- Files**
-date: 2025-03-22T00:26:02.000Z
+Summary: ❌ 18 - 38 **IMPERIAL ARMADA**
+date: 2025-04-20T00:39:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ S!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (724)|
-| ELO Competitive | 1232 🔺  (499)|
-| Total Matches | 30 |
+| ELO Regular | 1178 🔻  (931)|
+| ELO Competitive | 1226 🔻  (526)|
+| Total Matches | 31 |
 | Wins | 14 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 9 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742171162,1739464542,1734685600,1732398320,1731154325,1729856394,1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
+        let timestamps = [1744677541,1742171162,1739464542,1734685600,1732398320,1731154325,1729856394,1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 18-38 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2025/03/22 | 32-2 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2025/02/18 | 22-4 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/12/25 | 11-38 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
@@ -180,5 +180,5 @@ Corporation ID: 4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742603162"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745109541"></span>
 </div>

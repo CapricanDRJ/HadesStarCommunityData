@@ -21,8 +21,8 @@ g/n4kzEbKs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (444)|
-| ELO Competitive | 1214 🔺  (612)|
+| ELO Regular | 1214 🔺  (442)|
+| ELO Competitive | 1214 🔺  (613)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

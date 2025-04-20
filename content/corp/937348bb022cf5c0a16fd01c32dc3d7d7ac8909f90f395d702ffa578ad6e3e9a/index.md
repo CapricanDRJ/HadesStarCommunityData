@@ -26,8 +26,8 @@ For WS+ join Discord- 8dJDbbm
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (796)|
-| ELO Competitive | 1186 🔻  (958)|
+| ELO Regular | 1185 🔻  (795)|
+| ELO Competitive | 1186 🔻  (957)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

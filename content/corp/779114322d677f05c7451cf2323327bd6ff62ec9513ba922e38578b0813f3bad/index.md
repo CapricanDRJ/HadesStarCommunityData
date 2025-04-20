@@ -1,9 +1,9 @@
 ---
 title: ​Red Star
-description: W:21 L:21 D:2 Bonus ✅ 36%
+description: W:21 L:22 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 31 - 3 **Star Destroyers**
-date: 2025-04-16T13:20:28.000Z
+Summary: ❌ 0 - 16 **QONQR **
+date: 2025-04-19T22:13:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-16T13:20:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (394)|
-| ELO Competitive | 1357 🔺  (221)|
-| Total Matches | 44 |
+| ELO Regular | 1207 🔻  (490)|
+| ELO Competitive | 1340 🔻  (246)|
+| Total Matches | 45 |
 | Wins | 21 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744377628,1744165783,1743935268,1743601245,1743199259,1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1744668828,1744377628,1744165783,1743935268,1743601245,1743199259,1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) | 0 | 2 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 0 | 1 | 1 | 2 |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 2 | 0 | 0 | 2 |
 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) | 2 | 0 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/19 | 0-16 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2025/04/16 | 31-3 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2025/04/14 | 7-12 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2025/04/11 | 9-16 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -195,5 +197,5 @@ Corporation ID: 779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744809628"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745100828"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Continuum
-description: W:111 L:56 D:2 Bonus ✅ 56%
+description: W:111 L:56 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 41 - 36 **Legion**
 date: 2025-04-13T00:37:14.000Z
@@ -19,11 +19,11 @@ S. 18+, English. Discord - apply + RS queue.
 <br>
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 🔺  (91)|
+| ELO Regular | 1375 🔺  (90)|
 | ELO Competitive | 1714 🔺  (13)|
 | Total Matches | 169 |
 | Wins | 111 |

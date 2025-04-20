@@ -1,9 +1,9 @@
 ---
 title: ​Grunthal Gang
-description: W:51 L:35 D:0 Bonus ❌ 17%
+description: W:52 L:35 D:0 Bonus ✅ 54%
 image: ./favicon.png
-Summary: ❌ 0 - 30 **Auscorp **
-date: 2025-04-05T01:37:02.000Z
+Summary: ✅ 41 - 17 **Hinterm Mond**
+date: 2025-04-20T00:08:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ r of our corp. https://discord.gg/jUQReQtRJN
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
-### Whitestar Bonus ❌ 17%
+### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1383 🔻  (83)|
-| ELO Competitive | 1558 🔻  (44)|
-| Total Matches | 86 |
-| Wins | 51 |
+| ELO Regular | 1399 🔺  (64)|
+| ELO Competitive | 1580 🔺  (36)|
+| Total Matches | 87 |
+| Wins | 52 |
 | Losses | 35 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743385022,1742758693,1742232161,1741469206,1740788566,1740331516,1739654160,1738770986,1737579183,1736714599,1736133965,1735526915,1734664271,1734048303,1733451547,1732332204,1731862848,1731245923,1730746485,1730219114,1729686922,1729023697,1728293963,1727684506,1726950409,1724771883,1724192805,1723581551,1722206421,1721502891,1721013944,1720445909,1719846060,1719260684,1718557482,1717831563,1717065701,1716472514,1715760760,1715210934,1714583482,1713916453,1713449564,1712937844,1712378360,1711802041,1711209197,1710595034,1710546056,1709893898,1709352286,1708757024,1708749513,1708136502,1708092628,1707538056,1707008715,1706996998,1706552239,1706542019,1706101761,1706065405,1705469181,1705426509,1704964321,1704892198,1704410178,1704408676,1703960005,1703915825,1703410652,1703352653,1702818407,1702805182,1702270217,1702257598,1701740654,1701717812,1701193969,1701193668,1700659581,1700165791,1699668290,1699663481,1699175434,1699108426];
+        let timestamps = [1744675738,1743385022,1742758693,1742232161,1741469206,1740788566,1740331516,1739654160,1738770986,1737579183,1736714599,1736133965,1735526915,1734664271,1734048303,1733451547,1732332204,1731862848,1731245923,1730746485,1730219114,1729686922,1729023697,1728293963,1727684506,1726950409,1724771883,1724192805,1723581551,1722206421,1721502891,1721013944,1720445909,1719846060,1719260684,1718557482,1717831563,1717065701,1716472514,1715760760,1715210934,1714583482,1713916453,1713449564,1712937844,1712378360,1711802041,1711209197,1710595034,1710546056,1709893898,1709352286,1708757024,1708749513,1708136502,1708092628,1707538056,1707008715,1706996998,1706552239,1706542019,1706101761,1706065405,1705469181,1705426509,1704964321,1704892198,1704410178,1704408676,1703960005,1703915825,1703410652,1703352653,1702818407,1702805182,1702270217,1702257598,1701740654,1701717812,1701193969,1701193668,1700659581,1700165791,1699668290,1699663481,1699175434,1699108426];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 3 | 2 | 0 | 5 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 2 | 7 | 0 | 9 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 1 | 1 | 0 | 2 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 0 | 5 | 0 | 5 |
@@ -148,7 +149,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 3 | 1 | 0 | 4 |
 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) | 1 | 2 | 0 | 3 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 3 | 0 | 0 | 3 |
-| [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 2 | 2 | 0 | 4 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 1 | 1 | 0 | 2 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 3 | 0 | 0 | 3 |
@@ -160,6 +160,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 41-17 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ❌ | 2025/04/05 | 0-30 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2025/03/28 | 43-28 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ❌ | 2025/03/22 | 34-60 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
@@ -253,5 +254,5 @@ Corporation ID: 0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743817022"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745107738"></span>
 </div>

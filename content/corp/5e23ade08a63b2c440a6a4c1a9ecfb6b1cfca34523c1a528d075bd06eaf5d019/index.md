@@ -1,9 +1,9 @@
 ---
 title: ​QONQR 
-description: W:15 L:11 D:0 Bonus ❌ 6%
+description: W:16 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 7 - 14 **星际公约组织**
-date: 2025-04-11T13:08:07.000Z
+Summary: ✅ 16 - 0 **Red Star**
+date: 2025-04-19T22:13:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻  (245)|
-| ELO Competitive | 1321 🔻  (275)|
-| Total Matches | 26 |
-| Wins | 15 |
+| ELO Regular | 1278 🔺  (220)|
+| ELO Competitive | 1338 🔺  (251)|
+| Total Matches | 27 |
+| Wins | 16 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743944887,1742492109,1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1744668828,1743944887,1742492109,1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 2 | 0 | 0 | 2 |
 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) | 1 | 1 | 0 | 2 |
 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) | 0 | 2 | 0 | 2 |
 
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/19 | 16-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/04/11 | 7-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/03/25 | 14-11 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2025/03/11 | 5-31 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -177,5 +179,5 @@ Corporation ID: 5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744376887"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745100828"></span>
 </div>

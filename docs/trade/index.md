@@ -365,6 +365,78 @@ searchHidden: true
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Queen Maybelline Sneaky Crash</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS9</td>
+                    <td>270%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>270%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS8</td>
+                    <td>270%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS9</td>
+                    <td>270%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS8</td>
+                    <td>270%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>3</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>270%</td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>270%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">SoloMona18</th>
         </tr>
         <tr>

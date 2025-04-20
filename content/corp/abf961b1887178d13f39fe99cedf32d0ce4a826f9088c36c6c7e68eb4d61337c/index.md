@@ -1,9 +1,9 @@
 ---
 title: ​-=FCA=-
-description: W:1 L:9 D:0 Bonus ❌ 4%
+description: W:1 L:10 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 13 - 27 **Неизбежный Рок**
-date: 2025-04-12T01:34:31.000Z
+Summary: ❌ 18 - 24 **SQPT**
+date: 2025-04-20T00:03:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-12T01:34:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1375)|
-| ELO Competitive | 1194 🔻  (772)|
-| Total Matches | 10 |
+| ELO Regular | 1091 🔻  (1394)|
+| ELO Competitive | 1185 🔻  (1032)|
+| Total Matches | 11 |
 | Wins | 1 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743989671,1743380516,1743374507,1742784235,1742783334,1742279038,1742247191,1741705089,1741120632,1732309368];
+        let timestamps = [1744675438,1743989671,1743380516,1743374507,1742784235,1742783334,1742279038,1742247191,1741705089,1741120632,1732309368];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 18-24 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2025/04/12 | 13-27 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2025/04/05 | 0-38 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2025/04/04 | 4-40 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
@@ -151,5 +157,5 @@ Corporation ID: abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744421671"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745107438"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​47підрозділССП
-description: W:18 L:4 D:0 Bonus ✅ 
+description: W:18 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 19 - 5 **White Star Inc\.**
 date: 2025-04-12T22:12:02.000Z
@@ -15,7 +15,7 @@ date: 2025-04-12T22:12:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
