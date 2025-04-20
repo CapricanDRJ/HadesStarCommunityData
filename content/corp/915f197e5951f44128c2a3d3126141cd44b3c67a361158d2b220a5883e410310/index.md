@@ -1,9 +1,9 @@
 ---
 title: ​Торг. федерация
-description: W:12 L:15 D:0 Bonus ❌ 13%
+description: W:12 L:16 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ✅ 24 - 5 **Crazy Elite**
-date: 2024-11-28T15:14:38.000Z
+Summary: ❌ 0 - 16 **Deadspace**
+date: 2025-04-20T05:14:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,13 +24,12 @@ https://discord.gg/E67DY45fPC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (371)|
-| ELO Competitive | 1280 🔺  (366)|
-| Total Matches | 27 |
+| ELO Regular | 1209 🔻  (481)|
+| ELO Competitive | 1266 🔻  (400)|
+| Total Matches | 28 |
 | Wins | 12 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 10 |
 
@@ -50,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732374878,1731787121,1731342090,1729972100,1729519550,1727387921,1726951612,1726062817,1724110577,1723662385,1723226941,1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
+        let timestamps = [1744694064,1732374878,1731787121,1731342090,1729972100,1729519550,1727387921,1726951612,1726062817,1724110577,1723662385,1723226941,1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-16 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2024/11/28 | 24-5 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2024/11/21 | 27-6 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ✅ | 2024/11/16 | 34-22 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
@@ -182,5 +182,5 @@ Corporation ID: 915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1732806878"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745126064"></span>
 </div>

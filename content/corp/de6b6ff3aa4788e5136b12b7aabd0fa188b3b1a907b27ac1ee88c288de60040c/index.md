@@ -22,7 +22,7 @@ hose who do not comply with these rules will be kicked
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (992)|
+| ELO Regular | 1172 🔻  (991)|
 | ELO Competitive | 1181 🔻  (1092)|
 | Total Matches | 2 |
 | Wins | 0 |

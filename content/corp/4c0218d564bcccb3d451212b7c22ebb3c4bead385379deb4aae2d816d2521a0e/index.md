@@ -1,9 +1,9 @@
 ---
 title: ​ 星空漫游者-GR
-description: W:4 L:1 D:0 Bonus ✅ 36%
+description: W:5 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 13 - 4 **imperio estelar**
-date: 2025-04-15T04:01:47.000Z
+Summary: ✅ 20 - 3 **Октябристы**
+date: 2025-04-20T04:04:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,14 +26,14 @@ QQ群:663677762
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (294)|
-| ELO Competitive | 1253 🔺  (436)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1262 🔺  (250)|
+| ELO Competitive | 1278 🔺  (369)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 4 |
 
 ---
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744257707,1708745006,1707919843,1699976082,1699363536];
+        let timestamps = [1744689858,1744257707,1708745006,1707919843,1699976082,1699363536];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 20-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2025/04/15 | 13-4 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ✅ | 2024/02/29 | 19-5 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/02/19 | 3-18 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
@@ -155,5 +156,5 @@ Corporation ID: 4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744689707"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745121858"></span>
 </div>

@@ -21,8 +21,8 @@ quadron<br>weekly white stars<br>private red stars 3 to 8
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (1077)|
-| ELO Competitive | 1245 🔻  (466)|
+| ELO Regular | 1166 🔻  (1078)|
+| ELO Competitive | 1245 🔻  (467)|
 | Total Matches | 40 |
 | Wins | 18 |
 | Losses | 22 |

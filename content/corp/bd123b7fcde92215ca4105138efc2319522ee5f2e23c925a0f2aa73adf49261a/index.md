@@ -1,9 +1,9 @@
 ---
 title: ​Best
-description: W:0 L:1 D:0 Bonus ❌ 15%
+description: W:0 L:3 D:0 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 4 - 34 **Ender**
-date: 2023-12-30T13:50:26.000Z
+Summary: ❌ 11 - 49 **Continuum**
+date: 2025-04-20T05:59:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2023-12-30T13:50:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (892)|
-| ELO Competitive | 1186 🔻  (919)|
-| Total Matches | 1 |
+| ELO Regular | 1169 🔻  (1063)|
+| ELO Competitive | 1185 🔻  (985)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1703512226];
+        let timestamps = [1744696768,1744694665,1703512226];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,12 +132,19 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 11-49 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
+| ❌ | 2025/04/20 | 4-48 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2023/12/30 | 4-34 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 
 ---
@@ -146,5 +153,5 @@ Corporation ID: bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1703944226"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745128768"></span>
 </div>

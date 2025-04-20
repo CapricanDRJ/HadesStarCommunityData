@@ -1,9 +1,9 @@
 ---
 title: ​ITALIA
-description: W:31 L:2 D:0 Bonus ✅ 36%
+description: W:32 L:2 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 19 - 0 **Frontier X**
-date: 2025-04-15T02:07:51.000Z
+Summary: ✅ 30 - 2 **Hinterm Mars**
+date: 2025-04-20T05:46:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ ui giàce NONNA DI CAPPUCCETTO.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1467 🔺  (21)|
-| ELO Competitive | 1495 🔺  (88)|
-| Total Matches | 33 |
-| Wins | 31 |
+| ELO Regular | 1477 🔺  (18)|
+| ELO Competitive | 1515 🔺  (71)|
+| Total Matches | 34 |
+| Wins | 32 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 11 |
+| Streak | 12 |
 | Streak Record | 20 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744250871,1743769672,1743627838,1743077541,1743029464,1742336743,1741733040,1741386262,1741132051,1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1744695964,1744250871,1743769672,1743627838,1743077541,1743029464,1742336743,1741733040,1741386262,1741132051,1740480854,1739933427,1739382511,1738774893,1738146212,1737640082,1737611929,1737101070,1737095662,1736662292,1735999893,1735980206,1735403115,1735394399,1734942506,1734494508,1733897464,1733285385,1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 30-2 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2025/04/15 | 19-0 | [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e/) |
 | ✅ | 2025/04/09 | 3-0 | [ALPHA SQUADRON](https://ws.tsl.rocks/corp/4094b09d12cf0e2a8ea4d956e09a22d832da882bddeabf25d9b674b68ce165ed/) |
 | ✅ | 2025/04/07 | 30-0 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
@@ -184,5 +185,5 @@ Corporation ID: 50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744682871"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745127964"></span>
 </div>

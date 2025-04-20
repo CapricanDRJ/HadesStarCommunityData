@@ -1,9 +1,9 @@
 ---
 title: ​Cerberus
-description: W:7 L:1 D:1 Bonus ❌ 
+description: W:7 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 9 - 0 **РARADISЕ**
-date: 2025-04-12T20:19:01.000Z
+Summary: ❌ 0 - 14 **Splendid**
+date: 2025-04-20T04:24:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-12T20:19:01.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔺  (219)|
-| ELO Competitive | 1304 🔺  (309)|
-| Total Matches | 9 |
+| ELO Regular | 1262 🔻  (251)|
+| ELO Competitive | 1287 🔻  (347)|
+| Total Matches | 10 |
 | Wins | 7 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744057141,1744029034,1742226751,1741623360,1740414450,1739821542,1739202216,1735049769,1733703372];
+        let timestamps = [1744691059,1744057141,1744029034,1742226751,1741623360,1740414450,1739821542,1739202216,1735049769,1733703372];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-14 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ✅ | 2025/04/12 | 9-0 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ❌ | 2025/04/12 | 3-14 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/03/22 | 15-3 | [SPACING GUILD](https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/) |
@@ -151,5 +152,5 @@ Corporation ID: a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744489141"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745123059"></span>
 </div>

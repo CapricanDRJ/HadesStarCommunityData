@@ -1,9 +1,9 @@
 ---
 title: ​Млечный путь
-description: W:23 L:25 D:0 Bonus ❌ 8%
+description: W:24 L:26 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 37 - 0 **九州·华夏**
-date: 2025-04-05T02:57:08.000Z
+Summary: ❌ 1 - 24 **Lupus Regnum**
+date: 2025-04-20T06:23:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,15 +18,15 @@ date: 2025-04-05T02:57:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (339)|
-| ELO Competitive | 1353 🔺  (226)|
-| Total Matches | 48 |
-| Wins | 23 |
-| Losses | 25 |
+| ELO Regular | 1243 🔻  (308)|
+| ELO Competitive | 1375 🔺  (197)|
+| Total Matches | 50 |
+| Wins | 24 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743389828,1742791445,1741995657,1740378990,1739772856,1739624102,1739160447,1738557328,1737976132,1736744346,1735796434,1735793429,1735281417,1735245067,1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
+        let timestamps = [1744698199,1744693764,1743389828,1742791445,1741995657,1740378990,1739772856,1739624102,1739160447,1738557328,1737976132,1736744346,1735796434,1735793429,1735281417,1735245067,1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 1-24 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
+| ✅ | 2025/04/20 | 28-15 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2025/04/05 | 37-0 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2025/03/29 | 20-27 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2025/03/19 | 23-0 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -203,5 +205,5 @@ Corporation ID: a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743821828"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745130199"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Sternenflotte
-description: W:25 L:29 D:0 Bonus ❌ 8%
+description: W:25 L:30 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 15 - 22 **Rogue One**
-date: 2025-03-15T13:30:42.000Z
+Summary: ❌ 0 - 28 **Nearland Ind**
+date: 2025-04-20T04:34:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1291)|
-| ELO Competitive | 1233 🔻  (499)|
-| Total Matches | 54 |
+| ELO Regular | 1127 🔻  (1307)|
+| ELO Competitive | 1231 🔻  (502)|
+| Total Matches | 55 |
 | Wins | 25 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741613442,1740478150,1739164053,1738560933,1737959307,1737367628,1736831500,1736312771,1734325344,1733722596,1733206361,1732602053,1732000469,1731474000,1730787950,1725422762,1724054869,1724045554,1722833275,1721108620,1720530357,1720522241,1719810601,1719290428,1718598347,1718015490,1717387586,1716272729,1715660713,1714985893,1714363532,1713762924,1713153897,1712549039,1712037321,1711450780,1710739272,1710134425,1709269652,1708749513,1708274736,1707718503,1707109539,1706524586,1705904328,1704690857,1704176072,1702880619,1702288548,1701667920,1701063091,1700460929,1699854961,1699090095];
+        let timestamps = [1744691660,1741613442,1740478150,1739164053,1738560933,1737959307,1737367628,1736831500,1736312771,1734325344,1733722596,1733206361,1732602053,1732000469,1731474000,1730787950,1725422762,1724054869,1724045554,1722833275,1721108620,1720530357,1720522241,1719810601,1719290428,1718598347,1718015490,1717387586,1716272729,1715660713,1714985893,1714363532,1713762924,1713153897,1712549039,1712037321,1711450780,1710739272,1710134425,1709269652,1708749513,1708274736,1707718503,1707109539,1706524586,1705904328,1704690857,1704176072,1702880619,1702288548,1701667920,1701063091,1700460929,1699854961,1699090095];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 0-28 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2025/03/15 | 15-22 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2025/03/02 | 2-35 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
 | ❌ | 2025/02/15 | 12-28 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
@@ -208,5 +209,5 @@ Corporation ID: 6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742045442"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745123660"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Lupus Regnum
-description: W:22 L:8 D:0 Bonus ❌ 
+description: W:23 L:8 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 2 - 7 **中国人民联盟**
-date: 2025-04-11T11:52:58.000Z
+Summary: ✅ 24 - 1 **Млечный путь**
+date: 2025-04-20T06:23:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-11T11:52:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔻  (148)|
-| ELO Competitive | 1394 🔺  (176)|
-| Total Matches | 30 |
-| Wins | 22 |
+| ELO Regular | 1337 🔺  (129)|
+| ELO Competitive | 1408 🔺  (161)|
+| Total Matches | 31 |
+| Wins | 23 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743940378,1743936771,1743393300,1743344440,1742746369,1742746369,1742130886,1742128180,1741523292,1741518808,1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
+        let timestamps = [1744698199,1743940378,1743936771,1743393300,1743344440,1742746369,1742746369,1742130886,1742128180,1741523292,1741518808,1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/20 | 24-1 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ❌ | 2025/04/11 | 2-7 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
 | ✅ | 2025/04/11 | 23-8 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ✅ | 2025/04/05 | 3-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
@@ -177,5 +178,5 @@ Corporation ID: 5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744372378"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745130199"></span>
 </div>
