@@ -1,9 +1,9 @@
 ---
 title: ​СОЮЗ
-description: W:20 L:19 D:0 Bonus ✅ 48%
+description: W:20 L:20 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 25 - 0 **Unimatrix Zero**
-date: 2025-04-20T21:06:02.000Z
+Summary: ❌ 11 - 14 **リリース**
+date: 2025-04-20T23:41:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 2025-04-20T21:06:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (316)|
+| ELO Regular | 1228 🔻  (363)|
 | ELO Competitive | 1367 🔺  (212)|
-| Total Matches | 39 |
+| Total Matches | 40 |
 | Wins | 20 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 9 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744751162,1744233700,1743539488,1743452941,1742429004,1741743855,1741727029,1741249229,1741233607,1740714944,1740708635,1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1744760476,1744751162,1744233700,1743539488,1743452941,1742429004,1741743855,1741727029,1741249229,1741233607,1740714944,1740708635,1740259098,1740170149,1739656263,1739155339,1738638985,1738183479,1737670529,1737168089,1736713396,1736169421,1735805146,1735378171,1735372162,1734867689,1734296805,1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/20 | 11-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2025/04/20 | 25-0 | [Unimatrix Zero](https://ws.tsl.rocks/corp/ca14a2c6786b3bb6c276ba8c45a3420c7572cfb94fb940f773898ba2b8d9bded/) |
 | ✅ | 2025/04/14 | 22-17 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/04/06 | 8-17 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
@@ -191,5 +191,5 @@ Corporation ID: 068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745183162"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745192476"></span>
 </div>

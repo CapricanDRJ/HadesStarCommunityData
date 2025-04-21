@@ -1,6 +1,6 @@
 ---
 title: ​星を継ぐもの
-description: W:70 L:31 D:1 Bonus ✅ 40%
+description: W:70 L:31 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **King's Guard**
 date: 2025-04-13T22:54:26.000Z
@@ -17,7 +17,7 @@ date: 2025-04-13T22:54:26.000Z
 <br>
 
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

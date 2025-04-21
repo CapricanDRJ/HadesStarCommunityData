@@ -1,6 +1,6 @@
 ---
 title: ​Starships
-description: W:12 L:3 D:1 Bonus ✅ 
+description: W:12 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 18 - 0 **九州·华夏**
 date: 2025-04-13T23:54:30.000Z
@@ -15,11 +15,11 @@ date: 2025-04-13T23:54:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔺  (170)|
+| ELO Regular | 1306 🔺  (171)|
 | ELO Competitive | 1352 🔺  (230)|
 | Total Matches | 16 |
 | Wins | 12 |
