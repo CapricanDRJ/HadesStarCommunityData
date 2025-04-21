@@ -1,9 +1,9 @@
 ---
 title: ​BRhue
-description: W:13 L:18 D:0 Bonus ✅ 46%
+description: W:13 L:19 D:0 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ✅ 19 - 0 **White Dwarf**
-date: 2025-04-20T10:04:49.000Z
+Summary: ❌ 8 - 27 **EZCO**
+date: 2025-04-21T13:57:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Juntos somos mais fortes.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (965)|
+| ELO Regular | 1158 🔻  (1142)|
 | ELO Competitive | 1250 🔺  (447)|
-| Total Matches | 31 |
+| Total Matches | 32 |
 | Wins | 13 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
+        let timestamps = [1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/21 | 8-27 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ✅ | 2025/04/20 | 19-0 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2025/04/13 | 7-13 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ❌ | 2025/04/05 | 10-28 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
@@ -185,5 +186,5 @@ Corporation ID: cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745143489"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745243855"></span>
 </div>

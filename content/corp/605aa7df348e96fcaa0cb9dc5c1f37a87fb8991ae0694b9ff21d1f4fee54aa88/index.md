@@ -1,9 +1,9 @@
 ---
 title: ​Корпорация Миф
-description: W:8 L:0 D:0 Bonus ❌ 9%
+description: W:9 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 26 - 8 **Internationals**
-date: 2024-05-12T22:01:41.000Z
+Summary: ✅ 15 - 3 **世外桃源**
+date: 2025-04-21T14:47:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ date: 2024-05-12T22:01:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (176)|
-| ELO Competitive | 1305 🔺  (308)|
-| Total Matches | 8 |
-| Wins | 8 |
+| ELO Regular | 1306 🔺  (169)|
+| ELO Competitive | 1317 🔺  (286)|
+| Total Matches | 9 |
+| Wins | 9 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 7 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1715119301,1703447921,1702842154,1702237160,1701642146,1701037691,1700404726,1699319578];
+        let timestamps = [1744814861,1715119301,1703447921,1702842154,1702237160,1701642146,1701037691,1700404726,1699319578];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,12 +133,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/21 | 15-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2024/05/12 | 26-8 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2023/12/29 | 18-5 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2023/12/22 | 15-0 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) |
@@ -154,5 +160,5 @@ Corporation ID: 605aa7df348e96fcaa0cb9dc5c1f37a87fb8991ae0694b9ff21d1f4fee54aa88
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1715551301"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745246861"></span>
 </div>

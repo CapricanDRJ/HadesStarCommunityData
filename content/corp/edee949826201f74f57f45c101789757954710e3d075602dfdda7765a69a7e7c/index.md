@@ -1,9 +1,9 @@
 ---
 title: ​P!RAT£ SHIP
-description: W:21 L:9 D:1 Bonus ❌ 7%
+description: W:21 L:10 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 9 - 14 **Kelebra**
-date: 2025-01-13T18:56:58.000Z
+Summary: ❌ 3 - 26 **Battle Academy**
+date: 2025-04-21T15:42:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ also come aboard🙏. Thank you as you join us😘
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔻  (151)|
-| ELO Competitive | 1364 🔻  (214)|
-| Total Matches | 31 |
+| ELO Regular | 1304 🔻  (173)|
+| ELO Competitive | 1348 🔻  (234)|
+| Total Matches | 32 |
 | Wins | 21 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Streak Record | 10 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736362618,1731525387,1731011818,1730473997,1729905080,1729361186,1728828039,1728303880,1727719828,1727217543,1725737684,1725235867,1724684439,1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
+        let timestamps = [1744818167,1736362618,1731525387,1731011818,1730473997,1729905080,1729361186,1728828039,1728303880,1727719828,1727217543,1725737684,1725235867,1724684439,1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/21 | 3-26 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) |
 | ❌ | 2025/01/13 | 9-14 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2024/11/18 | 5-10 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/11/12 | 18-2 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
@@ -181,5 +182,5 @@ Corporation ID: edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1736794618"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745250167"></span>
 </div>
