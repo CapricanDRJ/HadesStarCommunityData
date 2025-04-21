@@ -22,8 +22,8 @@ Benvenuti in ITA! Main coorp RS7+
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (1283)|
-| ELO Competitive | 1259 🔻  (419)|
+| ELO Regular | 1134 🔻  (1282)|
+| ELO Competitive | 1259 🔻  (420)|
 | Total Matches | 34 |
 | Wins | 14 |
 | Losses | 20 |

@@ -1,6 +1,6 @@
 ---
 title: ​Chaos
-description: W:3 L:0 D:1 Bonus ✅ 
+description: W:3 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 13 - 3 **Red Alliance**
 date: 2025-04-14T20:01:31.000Z
@@ -15,12 +15,12 @@ date: 2025-04-14T20:01:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (302)|
-| ELO Competitive | 1249 🔺  (453)|
+| ELO Competitive | 1249 🔺  (454)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 0 |

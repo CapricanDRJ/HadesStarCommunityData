@@ -1,9 +1,9 @@
 ---
 title: ​EZCO
-description: W:16 L:25 D:1 Bonus ✅ 38%
+description: W:16 L:26 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 27 - 8 **BRhue**
-date: 2025-04-21T13:57:35.000Z
+Summary: ❌ 29 - 60 **Crazy Elite**
+date: 2025-04-21T19:58:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ bis 11 genauso. ganz entspannt. WZ wöchentlich 😀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔺  (1255)|
+| ELO Regular | 1128 🔻  (1304)|
 | ELO Competitive | 1234 🔺  (497)|
-| Total Matches | 42 |
+| Total Matches | 43 |
 | Wins | 16 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 9 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744811855,1743068525,1735788022,1730119044,1727851290,1727074206,1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
+        let timestamps = [1744833497,1744811855,1743068525,1735788022,1730119044,1727851290,1727074206,1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/21 | 29-60 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2025/04/21 | 27-8 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2025/04/01 | 32-58 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/01/07 | 40-13 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
@@ -197,5 +198,5 @@ Corporation ID: cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745243855"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745265497"></span>
 </div>
