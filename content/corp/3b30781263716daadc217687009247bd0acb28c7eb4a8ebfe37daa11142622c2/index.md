@@ -1,6 +1,6 @@
 ---
 title: ​雪月永恒
-description: W:8 L:6 D:0 Bonus ✅ 30%
+description: W:8 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 1 - 0 **SpaceX**
 date: 2025-04-14T18:37:06.000Z
@@ -15,12 +15,12 @@ date: 2025-04-14T18:37:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1204 🔺  (504)|
-| ELO Competitive | 1220 🔺  (554)|
+| ELO Competitive | 1220 🔺  (553)|
 | Total Matches | 14 |
 | Wins | 8 |
 | Losses | 6 |

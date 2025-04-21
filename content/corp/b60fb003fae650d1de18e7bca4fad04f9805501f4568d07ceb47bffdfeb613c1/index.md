@@ -1,9 +1,9 @@
 ---
 title: ​Nox Imperium
-description: W:31 L:3 D:0 Bonus ❌ 8%
+description: W:32 L:3 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 35 - 1 **MÉXICO INFINITO**
-date: 2025-04-03T22:08:53.000Z
+Summary: ✅ 36 - 4 **六大天神**
+date: 2025-04-21T17:43:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 2025-04-03T22:08:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1451 🔺  (30)|
-| ELO Competitive | 1488 🔺  (95)|
-| Total Matches | 34 |
-| Wins | 31 |
+| ELO Regular | 1464 🔺  (24)|
+| ELO Competitive | 1514 🔺  (74)|
+| Total Matches | 35 |
+| Wins | 32 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 21 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743286133,1742511646,1741632376,1740507006,1739636126,1738938064,1738009795,1737414815,1736721812,1736102407,1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
+        let timestamps = [1744825381,1743286133,1742511646,1741632376,1740507006,1739636126,1738938064,1738009795,1737414815,1736721812,1736102407,1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/21 | 36-4 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2025/04/03 | 35-1 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ✅ | 2025/03/25 | 38-3 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/03/15 | 32-1 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
@@ -184,5 +185,5 @@ Corporation ID: b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743718133"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745257381"></span>
 </div>

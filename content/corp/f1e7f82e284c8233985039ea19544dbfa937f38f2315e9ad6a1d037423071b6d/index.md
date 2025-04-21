@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:23 L:10 D:0 Bonus ✅ 34%
+description: W:23 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 14 - 3 **Sussy Coloner**
 date: 2025-04-14T16:31:06.000Z
@@ -16,7 +16,7 @@ date: 2025-04-14T16:31:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
