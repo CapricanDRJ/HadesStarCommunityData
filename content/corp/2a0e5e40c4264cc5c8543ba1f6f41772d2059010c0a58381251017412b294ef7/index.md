@@ -21,7 +21,7 @@ Resident gift artifact
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1249)|
+| ELO Regular | 1142 🔻  (1250)|
 | ELO Competitive | 1178 🔻  (1116)|
 | Total Matches | 15 |
 | Wins | 3 |

@@ -1,6 +1,6 @@
 ---
 title: ​Blazing Stars
-description: W:22 L:5 D:1 Bonus ✅ 34%
+description: W:22 L:5 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 14 - 16 **Sentencia**
 date: 2025-04-21T01:51:26.000Z
@@ -18,7 +18,7 @@ e Hades Galaxy. Join us and have fun
 <br>
 
 ### [Discord](https://discord.gg/aCU5VZGc)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

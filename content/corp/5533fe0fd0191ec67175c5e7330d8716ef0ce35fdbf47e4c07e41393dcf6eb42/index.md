@@ -1,6 +1,6 @@
 ---
 title: ​MiddleOfNowhere
-description: W:9 L:2 D:0 Bonus ✅ 32%
+description: W:9 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 5 - 14 **AlSounT**
 date: 2025-04-14T06:15:03.000Z
@@ -18,7 +18,7 @@ o the Alliance is gained though our red star "tunnel" .. ask about it
 <br>
 
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Trade Station
-description: W:10 L:56 D:0 Bonus ❌ 14%
+description: W:11 L:56 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ❌ 10 - 37 **United Stars **
-date: 2025-04-15T05:37:22.000Z
+Summary: ✅ 35 - 4 **UAGC**
+date: 2025-04-21T04:36:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,14 +23,14 @@ Find us on Discord: YTaYrhy
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 994 🔻  (1478)|
-| ELO Competitive | 1079 🔻  (1469)|
-| Total Matches | 66 |
-| Wins | 10 |
+| ELO Regular | 1019 🔺  (1465)|
+| ELO Competitive | 1108 🔺  (1445)|
+| Total Matches | 67 |
+| Wins | 11 |
 | Losses | 56 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744263442,1743586057,1742976562,1742486698,1741931647,1741083066,1740046622,1739312198,1738752953,1738090927,1737608925,1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
+        let timestamps = [1744778200,1744263442,1743586057,1742976562,1742486698,1741931647,1741083066,1740046622,1739312198,1738752953,1738090927,1737608925,1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,9 +141,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 2 | 1 | 0 | 3 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 | 4 | 0 | 5 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 1 | 0 | 3 |
-| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 1 | 1 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 0 | 2 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 3 | 0 | 4 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 0 | 2 | 0 | 2 |
@@ -161,6 +161,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/21 | 35-4 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2025/04/15 | 10-37 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ❌ | 2025/04/07 | 18-30 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2025/03/31 | 17-37 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
@@ -234,5 +235,5 @@ Corporation ID: 7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744695442"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745210200"></span>
 </div>
