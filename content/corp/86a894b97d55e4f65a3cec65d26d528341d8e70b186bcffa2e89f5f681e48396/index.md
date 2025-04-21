@@ -1,9 +1,9 @@
 ---
 title: ​Stella☆Glow
-description: W:43 L:24 D:1 Bonus ❌ 11%
+description: W:43 L:25 D:1 Bonus ❌ 12%
 image: ./favicon.png
-Summary: ❌ 17 - 22 **СОЮЗ**
-date: 2025-04-14T21:21:40.000Z
+Summary: ❌ 12 - 34 **星を継ぐもの**
+date: 2025-04-21T01:36:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,15 +29,15 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔻  (159)|
-| ELO Competitive | 1402 🔻  (166)|
-| Total Matches | 68 |
+| ELO Regular | 1303 🔻  (177)|
+| ELO Competitive | 1396 🔻  (173)|
+| Total Matches | 69 |
 | Wins | 43 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 1 |
 | Streak Record | 9 |
 | Flagship | 5 |
@@ -58,7 +58,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744233700,1743594171,1742934196,1741803049,1741196950,1740586941,1740036405,1739369887,1738778499,1738118270,1736963132,1736372582,1734534168,1733961768,1733358227,1732092115,1729684217,1729080488,1728165350,1727704343,1727226854,1726632675,1726069730,1725458518,1724843999,1724206024,1723608292,1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
+        let timestamps = [1744767385,1744233700,1743594171,1742934196,1741803049,1741196950,1740586941,1740036405,1739369887,1738778499,1738118270,1736963132,1736372582,1734534168,1733961768,1733358227,1732092115,1729684217,1729080488,1728165350,1727704343,1727226854,1726632675,1726069730,1725458518,1724843999,1724206024,1723608292,1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) | 0 | 2 | 0 | 2 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 3 | 0 | 3 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 1 | 1 | 0 | 2 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
@@ -163,6 +164,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/21 | 12-34 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2025/04/14 | 17-22 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ✅ | 2025/04/07 | 49-2 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2025/03/30 | 33-0 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
@@ -238,5 +240,5 @@ Corporation ID: 86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744665700"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745199385"></span>
 </div>
