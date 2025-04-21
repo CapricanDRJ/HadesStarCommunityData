@@ -27,7 +27,7 @@ vGfaYFN
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1404 🔺  (64)|
-| ELO Competitive | 1486 🔺  (98)|
+| ELO Competitive | 1486 🔺  (99)|
 | Total Matches | 44 |
 | Wins | 29 |
 | Losses | 15 |
