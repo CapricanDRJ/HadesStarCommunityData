@@ -1,9 +1,9 @@
 ---
 title: ​对，进就进人少的（分团）
-description: W:23 L:18 D:1 Bonus ❌ 7%
+description: W:24 L:18 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 10 - 16 **Free Ag3nts**
-date: 2025-04-16T01:44:23.000Z
+Summary: ✅ 17 - 3 **OKC THUNDER **
+date: 2025-04-22T12:19:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ o华浩 QQ767311697
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔻  (260)|
-| ELO Competitive | 1311 🔻  (296)|
-| Total Matches | 42 |
-| Wins | 23 |
+| ELO Regular | 1270 🔺  (236)|
+| ELO Competitive | 1322 🔺  (281)|
+| Total Matches | 43 |
+| Wins | 24 |
 | Losses | 18 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744335863,1743662689,1743084154,1742470466,1741811765,1741306026,1740700523,1740064659,1739576626,1739127106,1737014217,1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1744892386,1744335863,1743662689,1743084154,1742470466,1741811765,1741306026,1740700523,1740064659,1739576626,1739127106,1737014217,1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 17-3 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 | ❌ | 2025/04/16 | 10-16 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ❌ | 2025/04/08 | 2-10 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ✅ | 2025/04/01 | 15-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
@@ -186,5 +187,5 @@ Corporation ID: 69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744767863"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745324386"></span>
 </div>

@@ -19,8 +19,8 @@ New begginging?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (651)|
-| ELO Competitive | 1192 🔻  (790)|
+| ELO Regular | 1189 🔻  (653)|
+| ELO Competitive | 1192 🔻  (791)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

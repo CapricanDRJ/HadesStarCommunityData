@@ -20,8 +20,8 @@ s to rs artifacts
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1226)|
-| ELO Competitive | 1158 🔻  (1302)|
+| ELO Regular | 1145 🔻  (1228)|
+| ELO Competitive | 1158 🔻  (1304)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

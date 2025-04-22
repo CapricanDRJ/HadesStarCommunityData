@@ -1,9 +1,9 @@
 ---
 title: ​星瀚协议：守望之城
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 3 **星瀚协议**
-date: 2025-04-09T06:14:34.000Z
+Summary: ❌ 0 - 6 **GN星际联合**
+date: 2025-04-22T12:14:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-09T06:14:34.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (771)|
-| ELO Competitive | 1187 🔻  (917)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (1003)|
+| ELO Competitive | 1174 🔻  (1158)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743747274];
+        let timestamps = [1744892085,1743747274];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/22 | 0-6 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ❌ | 2025/04/09 | 0-3 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 8cc8aca54d2881fb3ac64cadf68e0ba57110a758b0f3976e30e19f70dd73cff2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744179274"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745324085"></span>
 </div>
