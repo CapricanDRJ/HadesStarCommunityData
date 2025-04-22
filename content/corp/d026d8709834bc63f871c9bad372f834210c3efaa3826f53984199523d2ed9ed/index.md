@@ -1,9 +1,9 @@
 ---
 title: ​万星联盟
-description: W:54 L:12 D:0 Bonus ❌ 9%
+description: W:56 L:12 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 34 - 30 **Legión**
-date: 2025-04-11T16:03:31.000Z
+Summary: ✅ 30 - 0 **中国星际联盟**
+date: 2025-04-22T14:30:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1445 🔺  (33)|
-| ELO Competitive | 1543 🔺  (54)|
-| Total Matches | 66 |
-| Wins | 54 |
+| ELO Regular | 1458 🔺  (28)|
+| ELO Competitive | 1556 🔺  (48)|
+| Total Matches | 68 |
+| Wins | 56 |
 | Losses | 12 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 4 |
 | Streak Record | 12 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743955411,1743428291,1743251554,1742679648,1742648386,1742130886,1741272666,1740317689,1739895459,1739808015,1739382511,1739212134,1738657693,1738408250,1737903716,1737753164,1737234809,1736771389,1736309165,1735840005,1735837300,1735368557,1734926885,1734705733,1734454848,1733877639,1733812135,1733293197,1733284784,1732696703,1732676875,1732028414,1732013388,1731503746,1731497134,1731020634,1730991379,1730517201,1730508789,1730014767,1729839567,1729407159,1727789085,1727489487,1726882793,1726358212,1725792973,1725172154,1724682335,1724231864,1723789194,1723278627,1722843792,1722779182,1722357271,1721896560,1720956835,1719478542,1719126913,1718888936,1717458342,1716989374,1716542814,1715944631,1715479536,1714143292];
+        let timestamps = [1744900201,1744900201,1743955411,1743428291,1743251554,1742679648,1742648386,1742130886,1741272666,1740317689,1739895459,1739808015,1739382511,1739212134,1738657693,1738408250,1737903716,1737753164,1737234809,1736771389,1736309165,1735840005,1735837300,1735368557,1734926885,1734705733,1734454848,1733877639,1733812135,1733293197,1733284784,1732696703,1732676875,1732028414,1732013388,1731503746,1731497134,1731020634,1730991379,1730517201,1730508789,1730014767,1729839567,1729407159,1727789085,1727489487,1726882793,1726358212,1725792973,1725172154,1724682335,1724231864,1723789194,1723278627,1722843792,1722779182,1722357271,1721896560,1720956835,1719478542,1719126913,1718888936,1717458342,1716989374,1716542814,1715944631,1715479536,1714143292];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) | 2 | 0 | 0 | 2 |
+| [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 2 | 0 | 0 | 2 |
 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) | 0 | 2 | 0 | 2 |
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 2 | 0 | 0 | 2 |
 
@@ -144,6 +146,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 30-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
+| ✅ | 2025/04/22 | 10-6 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/04/11 | 34-30 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/04/05 | 27-4 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/04/03 | 3-12 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
@@ -217,5 +221,5 @@ Corporation ID: d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744387411"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745332201"></span>
 </div>

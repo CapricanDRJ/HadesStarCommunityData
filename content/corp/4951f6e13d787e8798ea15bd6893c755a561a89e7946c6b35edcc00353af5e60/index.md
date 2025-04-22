@@ -1,9 +1,9 @@
 ---
 title: ​龙族之家
-description: W:2 L:3 D:0 Bonus ✅ 
+description: W:2 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 1 - 0 **chhota room**
-date: 2025-04-17T14:34:21.000Z
+Summary: ❌ 0 - 14 **Quantum Pioneer**
+date: 2025-04-22T14:40:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-17T14:34:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔺  (570)|
-| ELO Competitive | 1200 🔺  (707)|
-| Total Matches | 5 |
+| ELO Regular | 1185 🔻  (842)|
+| ELO Competitive | 1190 🔻  (834)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744468461,1744026630,1743592067,1743094073,1742646582];
+        let timestamps = [1744900802,1744468461,1744026630,1743592067,1743094073,1742646582];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/22 | 0-14 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/04/17 | 1-0 | [chhota room](https://ws.tsl.rocks/corp/4d7b5625ade8539392cb86cf71b078b944ce1506bb0b121a1c04165cc24905ab/) |
 | ✅ | 2025/04/12 | 1-0 | [love room](https://ws.tsl.rocks/corp/e0d14fd70b77e006878f273de53342f8938248f1761b4860a9a806756250db84/) |
 | ❌ | 2025/04/07 | 0-8 | [Chaos](https://ws.tsl.rocks/corp/d3d471eb959c63d922764ca516d8ecc875c5a087ec4503d87e8d6c9113f4062e/) |
@@ -148,5 +148,5 @@ Corporation ID: 4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744900461"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745332802"></span>
 </div>

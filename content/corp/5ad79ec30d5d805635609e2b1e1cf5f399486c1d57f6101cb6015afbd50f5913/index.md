@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:37 L:12 D:0 Bonus ✅ 36%
+description: W:37 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **АНДРОМЕДА **
 date: 2025-04-15T13:48:09.000Z
@@ -17,7 +17,7 @@ date: 2025-04-15T13:48:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

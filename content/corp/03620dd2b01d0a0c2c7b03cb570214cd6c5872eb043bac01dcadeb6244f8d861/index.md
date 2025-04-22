@@ -1,9 +1,9 @@
 ---
 title: ​ℬlackStar Order
-description: W:16 L:4 D:0 Bonus ❌ 6%
+description: W:16 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **✨ℛedstar Order«**
-date: 2025-03-26T18:37:49.000Z
+Summary: ❌ 0 - 6 **UGSS**
+date: 2025-04-22T14:09:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-26T18:37:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔻  (144)|
-| ELO Competitive | 1329 🔻  (265)|
-| Total Matches | 20 |
+| ELO Regular | 1307 🔻  (166)|
+| ELO Competitive | 1308 🔻  (302)|
+| Total Matches | 21 |
 | Wins | 16 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 11 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742582269,1737388968,1737210763,1736949906,1736771389,1736510813,1736309993,1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
+        let timestamps = [1744898998,1742582269,1737388968,1737210763,1736949906,1736771389,1736510813,1736309993,1736070535,1735868665,1735635385,1735391965,1735185871,1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/22 | 0-6 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ❌ | 2025/03/26 | 0-7 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/01/25 | 1-0 | [★BLACK•TALON★](https://ws.tsl.rocks/corp/3e7a8d9fa0eccda2bbaba515d9658797d143de56c55303f6587d9f817fa80be0/) |
 | ✅ | 2025/01/23 | 15-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
@@ -167,5 +168,5 @@ Corporation ID: 03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743014269"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745330998"></span>
 </div>

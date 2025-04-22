@@ -1,9 +1,9 @@
 ---
 title: ​Dark Training
-description: W:25 L:15 D:1 Bonus ❌ 8%
+description: W:25 L:16 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 17 **墨痕空域**
-date: 2025-04-21T13:02:28.000Z
+Summary: ❌ 3 - 30 **✨ℛedstar Order«**
+date: 2025-04-22T14:40:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,11 +28,11 @@ Alliance:
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (147)|
-| ELO Competitive | 1413 🔻  (159)|
-| Total Matches | 41 |
+| ELO Regular | 1309 🔻  (163)|
+| ELO Competitive | 1417 🔻  (154)|
+| Total Matches | 42 |
 | Wins | 25 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 9 |
 | Flagship | 5 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744808548,1743678614,1741864942,1740757916,1739469351,1737682246,1735343322,1732782659,1731627252,1730455893,1729202812,1727983225,1726756892,1725551071,1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
+        let timestamps = [1744900802,1744808548,1743678614,1741864942,1740757916,1739469351,1737682246,1735343322,1732782659,1731627252,1730455893,1729202812,1727983225,1726756892,1725551071,1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/22 | 3-30 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2025/04/21 | 3-17 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/04/08 | 28-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2025/03/18 | 9-1 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
@@ -201,5 +202,5 @@ Corporation ID: f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745240548"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745332802"></span>
 </div>

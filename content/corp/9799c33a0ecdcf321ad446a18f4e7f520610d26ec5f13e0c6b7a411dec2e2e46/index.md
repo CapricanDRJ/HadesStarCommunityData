@@ -20,7 +20,7 @@ enter if you have ws scanner
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔻  (1408)|
-| ELO Competitive | 1205 🔻  (667)|
+| ELO Competitive | 1205 🔻  (668)|
 | Total Matches | 41 |
 | Wins | 12 |
 | Losses | 26 |
