@@ -1,9 +1,9 @@
 ---
 title: ​ZORG IND
-description: W:30 L:23 D:2 Bonus ❌ 8%
+description: W:30 L:24 D:2 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 24 **U\.S\.A**
-date: 2025-04-06T03:54:41.000Z
+Summary: ❌ 0 - 23 **RGW**
+date: 2025-04-22T18:55:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ mended, & remember you are expendable, we love you
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (1079)|
-| ELO Competitive | 1299 🔻  (322)|
-| Total Matches | 55 |
+| ELO Regular | 1159 🔻  (1134)|
+| ELO Competitive | 1288 🔻  (347)|
+| Total Matches | 56 |
 | Wins | 30 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743479681,1742812478,1741632376,1740997431,1740477249,1739791484,1739194401,1738581365,1737830093,1737386863,1736771088,1735879668,1735417842,1735405820,1734962037,1734957830,1734521846,1734498713,1733861716,1733379131,1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1744916132,1743479681,1742812478,1741632376,1740997431,1740477249,1739791484,1739194401,1738581365,1737830093,1737386863,1736771088,1735879668,1735417842,1735405820,1734962037,1734957830,1734521846,1734498713,1733861716,1733379131,1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) | 0 | 2 | 0 | 2 |
 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 0 | 1 | 1 | 2 |
 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 0 | 2 | 0 | 2 |
 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/22 | 0-23 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2025/04/06 | 0-24 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2025/03/29 | 1-18 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2025/03/15 | 1-32 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
@@ -206,5 +208,5 @@ Corporation ID: 61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743911681"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745348132"></span>
 </div>

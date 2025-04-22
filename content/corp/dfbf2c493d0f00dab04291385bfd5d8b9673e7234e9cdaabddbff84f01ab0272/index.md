@@ -1,9 +1,9 @@
 ---
 title: ​V0RTEX
-description: W:15 L:5 D:2 Bonus ✅ 
+description: W:16 L:5 D:2 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 17 - 0 **QVX**
-date: 2025-04-22T01:48:48.000Z
+Summary: ✅ 15 - 0 **BAB**
+date: 2025-04-22T19:35:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-22T01:48:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (154)|
+| ELO Regular | 1324 🔺  (145)|
 | ELO Competitive | 1328 🔺  (269)|
-| Total Matches | 22 |
-| Wins | 15 |
+| Total Matches | 23 |
+| Wins | 16 |
 | Losses | 5 |
 | Draws | 2 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
+        let timestamps = [1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 15-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ✅ | 2025/04/22 | 17-0 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/04/17 | 10-5 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ✅ | 2025/04/16 | 12-2 | [中国人民联盟](https://ws.tsl.rocks/corp/4fadcca4df7e52a4824f29d77a657e86c6dac7d39f325d3e5ebe5d6128839e47/) |
@@ -175,5 +176,5 @@ Corporation ID: dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745286528"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745350537"></span>
 </div>

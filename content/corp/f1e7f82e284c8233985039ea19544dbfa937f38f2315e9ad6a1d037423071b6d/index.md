@@ -1,9 +1,9 @@
 ---
 title: ​RUFORS
-description: W:23 L:10 D:0 Bonus ❌ 7%
+description: W:24 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 14 - 3 **Sussy Coloner**
-date: 2025-04-14T16:31:06.000Z
+Summary: ✅ 16 - 15 **MiddleOfNowhere**
+date: 2025-04-22T20:50:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 2025-04-14T16:31:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1353 🔺  (108)|
-| ELO Competitive | 1409 🔺  (160)|
-| Total Matches | 33 |
-| Wins | 23 |
+| ELO Regular | 1365 🔺  (93)|
+| ELO Competitive | 1421 🔺  (149)|
+| Total Matches | 34 |
+| Wins | 24 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 5 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744216266,1743514836,1742646282,1741890186,1741106206,1740521736,1739546871,1738752052,1737795228,1737331877,1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
+        let timestamps = [1744923045,1744216266,1743514836,1742646282,1741890186,1741106206,1740521736,1739546871,1738752052,1737795228,1737331877,1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 16-15 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ✅ | 2025/04/14 | 14-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2025/04/06 | 12-4 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ✅ | 2025/03/27 | 18-3 | [푸르미르](https://ws.tsl.rocks/corp/1c9b5babd17b2882c769078b72c789e9b69e9aa52ae8d3948d6728e378b42b91/) |
@@ -183,5 +184,5 @@ Corporation ID: f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744648266"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745355045"></span>
 </div>
