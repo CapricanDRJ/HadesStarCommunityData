@@ -1,9 +1,9 @@
 ---
 title: ​沐星楼
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 10 **星河绮梦**
-date: 2025-04-15T14:33:15.000Z
+Summary: ↔️ 10 - 10 **阿尔特拉集团**
+date: 2025-04-21T22:14:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-04-15T14:33:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (485)|
-| ELO Competitive | 1214 🔻  (614)|
-| Total Matches | 2 |
+| ELO Regular | 1210 🔺  (474)|
+| ELO Competitive | 1222 🔺  (546)|
+| Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744295595,1743862240];
+        let timestamps = [1744841681,1744295595,1743862240];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/21 | 10-10 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2025/04/15 | 0-10 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2025/04/10 | 1-0 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744727595"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745273681"></span>
 </div>
