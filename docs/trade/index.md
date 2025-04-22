@@ -203,6 +203,50 @@ searchHidden: true
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Hanu</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>2</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS9</td>
+                    <td>248%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS9</td>
+                    <td>248%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>2</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS9</td>
+                    <td>248%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">LDiMiTri</th>
         </tr>
         <tr>

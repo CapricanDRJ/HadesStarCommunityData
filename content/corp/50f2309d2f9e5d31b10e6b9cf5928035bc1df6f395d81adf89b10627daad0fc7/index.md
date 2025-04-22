@@ -1,9 +1,9 @@
 ---
 title: ​Legión
-description: W:13 L:12 D:0 Bonus ❌ 7%
+description: W:14 L:12 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 4 - 42 **AFronteiraFinal**
-date: 2025-04-21T10:12:10.000Z
+Summary: ✅ 5 - 4 **Warriorlords**
+date: 2025-04-22T18:20:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 <br>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔻  (224)|
-| ELO Competitive | 1325 🔻  (274)|
-| Total Matches | 25 |
-| Wins | 13 |
+| ELO Regular | 1296 🔺  (188)|
+| ELO Competitive | 1357 🔺  (223)|
+| Total Matches | 26 |
+| Wins | 14 |
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744798330,1743955411,1743518444,1742703988,1742119165,1741650708,1741404290,1740308672,1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1744914028,1744798330,1743955411,1743518444,1742703988,1742119165,1741650708,1741404290,1740308672,1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 5-4 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2025/04/21 | 4-42 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ❌ | 2025/04/11 | 30-34 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2025/04/06 | 20-4 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
@@ -175,5 +176,5 @@ Corporation ID: 50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745230330"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745346028"></span>
 </div>

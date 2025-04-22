@@ -1,9 +1,9 @@
 ---
 title: ​Sons of Liberty
-description: W:8 L:1 D:0 Bonus ❌ 8%
+description: W:9 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 25 - 5 **U\.S\.A**
-date: 2025-03-26T21:23:09.000Z
+Summary: ✅ 24 - 4 **TheBasics**
+date: 2025-04-22T15:50:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ Discord mandatory - join at the link below ↓
 <br>
 
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (160)|
-| ELO Competitive | 1344 🔺  (241)|
-| Total Matches | 9 |
-| Wins | 8 |
+| ELO Regular | 1319 🔺  (150)|
+| ELO Competitive | 1361 🔺  (217)|
+| Total Matches | 10 |
+| Wins | 9 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742592189,1739167358,1736135767,1734297106,1733142959,1731878779,1729881040,1729319107,1728643771];
+        let timestamps = [1744905010,1742592189,1739167358,1736135767,1734297106,1733142959,1731878779,1729881040,1729319107,1728643771];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 24-4 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2025/03/26 | 25-5 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2025/02/15 | 11-16 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/01/11 | 19-17 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
@@ -154,5 +156,5 @@ Corporation ID: b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743024189"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745337010"></span>
 </div>
