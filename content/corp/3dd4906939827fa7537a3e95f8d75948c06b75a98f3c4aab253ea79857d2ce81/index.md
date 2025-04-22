@@ -1,6 +1,6 @@
 ---
 title: ​Death Star llc.
-description: W:66 L:22 D:1 Bonus ✅ 40%
+description: W:66 L:22 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 10 - 7 **Industrial W\.O**
 date: 2025-04-15T01:01:59.000Z
@@ -19,7 +19,7 @@ Discord required | Part of Astral Alliance
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
