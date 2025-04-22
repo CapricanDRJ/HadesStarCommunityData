@@ -22,8 +22,8 @@ s required within 24 hours of joining.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (335)|
-| ELO Competitive | 1285 🔻  (357)|
+| ELO Regular | 1236 🔻  (338)|
+| ELO Competitive | 1285 🔻  (358)|
 | Total Matches | 35 |
 | Wins | 21 |
 | Losses | 14 |
