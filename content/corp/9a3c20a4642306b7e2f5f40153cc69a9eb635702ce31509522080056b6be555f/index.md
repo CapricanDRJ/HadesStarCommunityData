@@ -23,7 +23,7 @@ Que el mundo sepa que somos peligrosos. Somos leones, y los leones no
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (1002)|
+| ELO Regular | 1172 🔻  (1003)|
 | ELO Competitive | 1187 🔻  (915)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,6 +1,6 @@
 ---
 title: ​Red Star
-description: W:21 L:22 D:2 Bonus ✅ 36%
+description: W:21 L:22 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 16 **QONQR **
 date: 2025-04-19T22:13:48.000Z
@@ -15,7 +15,7 @@ date: 2025-04-19T22:13:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Alterra Corp
-description: W:3 L:4 D:1 Bonus ✅ 28%
+description: W:3 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **AlyTec Sys\.**
 date: 2025-04-16T13:25:29.000Z
@@ -16,7 +16,7 @@ re.
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
