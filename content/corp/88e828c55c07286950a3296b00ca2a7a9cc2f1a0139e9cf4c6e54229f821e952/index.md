@@ -1,9 +1,9 @@
 ---
 title: ​使命白星
-description: W:15 L:13 D:2 Bonus ❌ 6%
+description: W:15 L:14 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 26 **星际公约组织**
-date: 2025-02-18T03:24:26.000Z
+Summary: ❌ 0 - 3 **星瀚协议**
+date: 2025-04-23T11:42:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 2025-02-18T03:24:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (562)|
-| ELO Competitive | 1258 🔻  (425)|
-| Total Matches | 30 |
+| ELO Regular | 1185 🔻  (794)|
+| ELO Competitive | 1242 🔻  (479)|
+| Total Matches | 31 |
 | Wins | 15 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739417066,1738933255,1738062074,1737603818,1737125414,1736597973,1736145381,1727216220,1726669030,1726147251,1725697540,1725207619,1724758657,1724279050,1723929849,1723819847,1723469754,1723384109,1723024999,1722951377,1722509622,1722041705,1721543454,1721096900,1720741343,1720660792,1720226530,1719706027,1718839661,1718404217];
+        let timestamps = [1744976526,1739417066,1738933255,1738062074,1737603818,1737125414,1736597973,1736145381,1727216220,1726669030,1726147251,1725697540,1725207619,1724758657,1724279050,1723929849,1723819847,1723469754,1723384109,1723024999,1722951377,1722509622,1722041705,1721543454,1721096900,1720741343,1720660792,1720226530,1719706027,1718839661,1718404217];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 0-3 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ❌ | 2025/02/18 | 0-26 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2025/02/12 | 0-21 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/02/02 | 2-3 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
@@ -179,5 +180,5 @@ Corporation ID: 88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739849066"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745408526"></span>
 </div>

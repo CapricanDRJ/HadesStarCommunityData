@@ -1,9 +1,9 @@
 ---
 title: ​Türk Yıldızları
-description: W:16 L:11 D:0 Bonus ❌ 8%
+description: W:16 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 1 - 27 **Famous Assasins**
-date: 2024-05-30T22:05:31.000Z
+Summary: ❌ 3 - 27 **Sprite**
+date: 2025-04-23T10:47:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ r.Rs7 - Rs10Discord zorunludur.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (229)|
-| ELO Competitive | 1305 🔻  (311)|
-| Total Matches | 27 |
+| ELO Regular | 1263 🔻  (247)|
+| ELO Competitive | 1296 🔻  (328)|
+| Total Matches | 28 |
 | Wins | 16 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716674731,1716107480,1714813436,1713686309,1711783110,1711196573,1710747082,1710237782,1709723973,1709034980,1708428285,1706963336,1706442544,1706003797,1705514559,1705000087,1704378618,1703856022,1703854218,1703403739,1702926905,1702819008,1702463334,1702306883,1701793845,1701345739,1700163387];
+        let timestamps = [1744973220,1716674731,1716107480,1714813436,1713686309,1711783110,1711196573,1710747082,1710237782,1709723973,1709034980,1708428285,1706963336,1706442544,1706003797,1705514559,1705000087,1704378618,1703856022,1703854218,1703403739,1702926905,1702819008,1702463334,1702306883,1701793845,1701345739,1700163387];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 3-27 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2024/05/30 | 1-27 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ✅ | 2024/05/24 | 32-7 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/05/09 | 11-26 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
@@ -172,5 +173,5 @@ Corporation ID: 901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1717106731"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745405220"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Sprite
-description: W:34 L:10 D:1 Bonus ✅ 38%
+description: W:35 L:10 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 14 - 4 **U\.S\.A**
-date: 2025-04-16T11:40:18.000Z
+Summary: ✅ 27 - 3 **Türk Yıldızları**
+date: 2025-04-23T10:47:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ a. Nuestra filosofía: unidos somos invencibles.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔺  (71)|
-| ELO Competitive | 1478 🔺  (106)|
-| Total Matches | 45 |
-| Wins | 34 |
+| ELO Regular | 1405 🔺  (63)|
+| ELO Competitive | 1486 🔺  (98)|
+| Total Matches | 46 |
+| Wins | 35 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 8 |
+| Streak | 9 |
 | Streak Record | 20 |
 | Flagship | 5 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744371618,1743438211,1742573552,1741913022,1741458387,1740945154,1740236557,1739706653,1739200412,1738605109,1737116395,1736511714,1735131487,1734664271,1734088257,1732885437,1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
+        let timestamps = [1744973220,1744371618,1743438211,1742573552,1741913022,1741458387,1740945154,1740236557,1739706653,1739200412,1738605109,1737116395,1736511714,1735131487,1734664271,1734088257,1732885437,1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/23 | 27-3 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) |
 | ✅ | 2025/04/16 | 14-4 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2025/04/05 | 31-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2025/03/26 | 35-1 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
@@ -198,5 +199,5 @@ Corporation ID: 3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744803618"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745405220"></span>
 </div>

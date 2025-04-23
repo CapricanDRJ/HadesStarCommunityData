@@ -1,9 +1,9 @@
 ---
 title: ​Team Rainbow
-description: W:6 L:3 D:0 Bonus ❌ 6%
+description: W:7 L:3 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **Death Flight**
-date: 2025-04-10T17:21:03.000Z
+Summary: ✅ 34 - 0 **柯伊伯带**
+date: 2025-04-23T12:22:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ ap fyah, so get cooked.**
 <br>
 
 ### [Discord](https://discord.gg/eghZesnPZn)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (338)|
-| ELO Competitive | 1276 🔺  (379)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1252 🔺  (282)|
+| ELO Competitive | 1300 🔺  (317)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743873663,1734629418,1731702974,1731102564,1730421345,1722524650,1720730825,1710579407,1709226385];
+        let timestamps = [1744978930,1743873663,1734629418,1731702974,1731102564,1730421345,1722524650,1720730825,1710579407,1709226385];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/23 | 34-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2025/04/10 | 21-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2024/12/24 | 28-21 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ✅ | 2024/11/20 | 23-19 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
@@ -160,5 +161,5 @@ Corporation ID: 4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744305663"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745410930"></span>
 </div>
