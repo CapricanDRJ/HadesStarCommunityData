@@ -1,9 +1,9 @@
 ---
 title: ​Stone Legion
-description: W:33 L:19 D:1 Bonus ✅ 38%
+description: W:34 L:19 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 36 - 0 **Free Thinkers 2**
-date: 2025-04-20T00:03:58.000Z
+Summary: ✅ 9 - 3 **绛紫星**
+date: 2025-04-22T23:30:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,12 +23,13 @@ date: 2025-04-20T00:03:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔺  (245)|
-| ELO Competitive | 1386 🔺  (181)|
-| Total Matches | 53 |
-| Wins | 33 |
+| ELO Regular | 1281 🔺  (217)|
+| ELO Competitive | 1400 🔺  (167)|
+| Total Matches | 54 |
+| Wins | 34 |
 | Losses | 19 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 8 |
 
@@ -48,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744675438,1743637753,1743627838,1742679648,1742538988,1741680749,1740808399,1740564701,1738882175,1738098742,1737079137,1736428770,1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1744932659,1744675438,1743637753,1743627838,1742679648,1742538988,1741680749,1740808399,1740564701,1738882175,1738098742,1737079137,1736428770,1735305455,1734663580,1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 9-3 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2025/04/20 | 36-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2025/04/07 | 10-43 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2025/04/07 | 0-30 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
@@ -209,5 +211,5 @@ Corporation ID: 60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745107438"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745364659"></span>
 </div>

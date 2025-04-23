@@ -1,9 +1,9 @@
 ---
 title: ​New YuGiOh
-description: W:19 L:1 D:2 Bonus ✅ 
+description: W:20 L:1 D:2 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 3 - 2 **G\.02**
-date: 2025-04-19T10:57:32.000Z
+Summary: ✅ 14 - 0 **Space explorers**
+date: 2025-04-22T22:30:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-19T10:57:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1392 🔺  (74)|
-| ELO Competitive | 1413 🔺  (159)|
-| Total Matches | 22 |
-| Wins | 19 |
+| ELO Regular | 1400 🔺  (65)|
+| ELO Competitive | 1420 🔺  (152)|
+| Total Matches | 23 |
+| Wins | 20 |
 | Losses | 1 |
 | Draws | 2 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744628252,1744461772,1744110187,1743924749,1743596876,1743463158,1742746369,1742042536,1741438548,1740837854,1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
+        let timestamps = [1744929054,1744628252,1744461772,1744110187,1743924749,1743596876,1743463158,1742746369,1742042536,1741438548,1740837854,1740243772,1739644542,1739638230,1739194401,1739192898,1738758363,1738752353,1738320195,1737737534,1737294308,1736788827,1734971054];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/22 | 14-0 | [Space explorers](https://ws.tsl.rocks/corp/8a387e84dad1e95c4c6181396a9e8c08c485f35eba5ca1e35f89a5530ca5b8a5/) |
 | ✅ | 2025/04/19 | 3-2 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ✅ | 2025/04/17 | 10-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/04/13 | 3-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -165,5 +166,5 @@ Corporation ID: 14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745060252"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745361054"></span>
 </div>

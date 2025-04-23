@@ -24,8 +24,8 @@ Hop in Discord - 9aD8bFDvY4
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (1044)|
-| ELO Competitive | 1173 🔻  (1164)|
+| ELO Regular | 1171 🔻  (1046)|
+| ELO Competitive | 1173 🔻  (1166)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -22,7 +22,7 @@ e run with us! Say hi on Discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1304)|
+| ELO Regular | 1129 🔻  (1306)|
 | ELO Competitive | 1276 🔻  (380)|
 | Total Matches | 82 |
 | Wins | 38 |
