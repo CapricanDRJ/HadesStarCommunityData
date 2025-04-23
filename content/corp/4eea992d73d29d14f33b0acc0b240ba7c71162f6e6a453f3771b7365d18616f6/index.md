@@ -1,9 +1,9 @@
 ---
 title: ​柯伊伯带伊甸园
-description: W:15 L:3 D:0 Bonus ❌ 6%
+description: W:15 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **Тихий Омут**
-date: 2024-11-26T22:50:42.000Z
+Summary: ❌ 3 - 47 **DarkMoon**
+date: 2025-04-23T06:01:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 2024-11-26T22:50:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (147)|
-| ELO Competitive | 1384 🔺  (186)|
-| Total Matches | 18 |
+| ELO Regular | 1311 🔻  (159)|
+| ELO Competitive | 1375 🔻  (197)|
+| Total Matches | 19 |
 | Wins | 15 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 3 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732229442,1731702673,1731697564,1731029244,1730417439,1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
+        let timestamps = [1744956092,1732229442,1731702673,1731697564,1731029244,1730417439,1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 3-47 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2024/11/26 | 21-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2024/11/20 | 19-1 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ❌ | 2024/11/20 | 0-9 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
@@ -170,5 +170,5 @@ Corporation ID: 4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1732661442"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745388092"></span>
 </div>
