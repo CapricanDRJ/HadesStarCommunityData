@@ -1,9 +1,9 @@
 ---
 title: ​the heavy
-description: W:25 L:15 D:0 Bonus ❌ 11%
+description: W:25 L:16 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 7 - 42 **Crazy Elite**
-date: 2025-04-22T16:20:13.000Z
+Summary: ❌ 0 - 31 **柯伊伯带**
+date: 2025-04-23T01:10:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔻  (159)|
-| ELO Competitive | 1404 🔻  (166)|
-| Total Matches | 40 |
+| ELO Regular | 1293 🔻  (194)|
+| ELO Competitive | 1411 🔻  (159)|
+| Total Matches | 41 |
 | Wins | 25 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 10 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744906813,1744003493,1740990821,1740302062,1739135209,1737885379,1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
+        let timestamps = [1744938628,1744906813,1744003493,1740990821,1740302062,1739135209,1737885379,1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -152,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 0-31 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2025/04/22 | 7-42 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2025/04/12 | 35-34 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2025/03/08 | 6-36 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
@@ -199,5 +200,5 @@ Corporation ID: fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745338813"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745370628"></span>
 </div>

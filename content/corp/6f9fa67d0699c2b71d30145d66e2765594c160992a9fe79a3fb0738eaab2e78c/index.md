@@ -1,9 +1,9 @@
 ---
 title: ​星落苑
-description: W:27 L:13 D:0 Bonus ❌ 8%
+description: W:28 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 2 - 8 **Эдем**
-date: 2025-04-18T13:20:24.000Z
+Summary: ✅ 36 - 0 **101**
+date: 2025-04-23T02:11:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔻  (160)|
-| ELO Competitive | 1434 🔺  (136)|
-| Total Matches | 40 |
-| Wins | 27 |
+| ELO Regular | 1317 🔺  (155)|
+| ELO Competitive | 1448 🔺  (124)|
+| Total Matches | 41 |
+| Wins | 28 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744550424,1744308821,1743867051,1743790113,1743176414,1743162286,1742699180,1742110149,1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
+        let timestamps = [1744942272,1744550424,1744308821,1743867051,1743790113,1743176414,1743162286,1742699180,1742110149,1741348688,1740734174,1740224234,1740119059,1739636126,1739030935,1739030925,1738597294,1738564839,1738119172,1738117068,1737646787,1737644684,1737036157,1736490079,1736481365,1735815962,1735809653,1735082726,1735056081,1734529660,1734528759,1733951253,1733925706,1733354197,1733322942,1732769741,1732766436,1732205099,1732198186,1731677125,1731061390];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -131,12 +131,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/23 | 36-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2025/04/18 | 2-8 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/04/15 | 12-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2025/04/10 | 12-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
@@ -184,5 +190,5 @@ Corporation ID: 6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744982424"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745374272"></span>
 </div>

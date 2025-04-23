@@ -1,6 +1,6 @@
 ---
 title: ​U.P.E
-description: W:5 L:7 D:1 Bonus ✅ 30%
+description: W:5 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **the kings**
 date: 2025-04-16T02:34:28.000Z
@@ -15,7 +15,7 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
