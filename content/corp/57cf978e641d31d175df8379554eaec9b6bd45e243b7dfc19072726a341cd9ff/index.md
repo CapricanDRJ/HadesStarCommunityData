@@ -19,8 +19,8 @@ Recruiting X-304 pilots to defeat the Goa'uld!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (535)|
-| ELO Competitive | 1200 ▫️  (708)|
+| ELO Regular | 1200 ▫️  (534)|
+| ELO Competitive | 1200 ▫️  (707)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

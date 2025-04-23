@@ -1,9 +1,9 @@
 ---
 title: ​Space Oddity
-description: W:14 L:10 D:0 Bonus ❌ 11%
+description: W:15 L:10 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ❌ 4 - 17 **GhostNakcoorp**
-date: 2024-05-04T12:21:14.000Z
+Summary: ✅ 26 - 4 **Germania**
+date: 2025-04-23T21:38:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 <br>
 
 ### [Discord](https://discord.gg/B5y6qXw)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (316)|
-| ELO Competitive | 1282 🔻  (367)|
-| Total Matches | 24 |
-| Wins | 14 |
+| ELO Regular | 1247 🔺  (300)|
+| ELO Competitive | 1290 🔺  (344)|
+| Total Matches | 25 |
+| Wins | 15 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
+        let timestamps = [1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/23 | 26-4 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2024/05/04 | 4-17 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ✅ | 2024/04/27 | 23-3 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
 | ❌ | 2024/04/13 | 13-27 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
@@ -174,5 +175,5 @@ Corporation ID: a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1714825274"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745444293"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:25 L:9 D:0 Bonus ✅ 34%
+description: W:25 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 20 - 0 **Nebulae Traders**
-date: 2025-04-23T11:37:05.000Z
+Summary: ❌ 1 - 8 **Hungary First**
+date: 2025-04-23T19:32:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-04-23T11:37:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1316 🔺  (155)|
+| ELO Regular | 1297 🔻  (185)|
 | ELO Competitive | 1388 🔺  (183)|
-| Total Matches | 34 |
+| Total Matches | 35 |
 | Wins | 25 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744976225,1743646164,1743182126,1743162286,1742648687,1741866144,1741849619,1741217686,1740902769,1740756413,1740185173,1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
+        let timestamps = [1745004779,1744976225,1743646164,1743182126,1743162286,1742648687,1741866144,1741849619,1741217686,1740902769,1740756413,1740185173,1740182169,1739594952,1739591528,1738933255,1738473471,1737982143,1737981541,1737540713,1737539811,1737104676,1737101671,1736490379,1736476991,1735890485,1735888514,1735287426,1735281718,1734695515,1734693411,1734150913,1733476780,1731672016,1729342849];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 1-8 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2025/04/23 | 20-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2025/04/08 | 8-13 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/04/02 | 6-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
@@ -182,5 +183,5 @@ Corporation ID: 40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745408225"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745436779"></span>
 </div>

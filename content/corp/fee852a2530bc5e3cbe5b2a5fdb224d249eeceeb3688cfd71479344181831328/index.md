@@ -1,6 +1,6 @@
 ---
 title: ​Red Dawn
-description: W:52 L:30 D:2 Bonus ✅ 44%
+description: W:52 L:30 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 4 - 25 **六大天神**
 date: 2025-04-23T10:52:00.000Z
@@ -19,7 +19,7 @@ date: 2025-04-23T10:52:00.000Z
 <br>
 
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

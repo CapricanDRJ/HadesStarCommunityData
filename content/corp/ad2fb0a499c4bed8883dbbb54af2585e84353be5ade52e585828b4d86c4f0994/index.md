@@ -1,9 +1,9 @@
 ---
 title: ​DINASTÍA SOLAR
-description: W:4 L:2 D:0 Bonus ❌ 
+description: W:5 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 8 - 17 **Terran empire **
-date: 2025-04-18T00:44:08.000Z
+Summary: ✅ 5 - 3 **TheDuckeanFlow**
+date: 2025-04-23T21:08:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-18T00:44:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (336)|
-| ELO Competitive | 1250 🔻  (452)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1250 🔺  (285)|
+| ELO Competitive | 1263 🔺  (414)|
+| Total Matches | 7 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744505048,1743818963,1743252456,1742623942,1742123973,1741220389];
+        let timestamps = [1745010490,1744505048,1743818963,1743252456,1742623942,1742123973,1741220389];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/23 | 5-3 | [TheDuckeanFlow](https://ws.tsl.rocks/corp/bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1/) |
 | ❌ | 2025/04/18 | 8-17 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/04/10 | 3-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2025/04/03 | 9-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
@@ -148,5 +149,5 @@ Corporation ID: ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744937048"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745442490"></span>
 </div>
