@@ -22,8 +22,8 @@ DISC: EEpZuWf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (994)|
-| ELO Competitive | 1181 🔺  (1091)|
+| ELO Regular | 1173 🔺  (995)|
+| ELO Competitive | 1181 🔺  (1092)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

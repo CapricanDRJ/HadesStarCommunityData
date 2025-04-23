@@ -21,7 +21,7 @@ WS参加者募集中
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔺  (166)|
+| ELO Regular | 1307 🔺  (165)|
 | ELO Competitive | 1321 🔺  (283)|
 | Total Matches | 7 |
 | Wins | 7 |

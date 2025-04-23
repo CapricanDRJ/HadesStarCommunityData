@@ -1,6 +1,6 @@
 ---
 title: ​Argentina 1.0
-description: W:40 L:24 D:1 Bonus ✅ 44%
+description: W:40 L:24 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 48 **仙女座星雲**
 date: 2025-04-21T20:33:21.000Z
@@ -17,7 +17,7 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/JapURyAWBw)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

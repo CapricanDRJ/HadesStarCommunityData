@@ -1,9 +1,9 @@
 ---
 title: ​한국우주연합
-description: W:9 L:16 D:0 Bonus ❌ 6%
+description: W:10 L:16 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 2 - 13 **Empire of Hades**
-date: 2025-03-31T08:14:22.000Z
+Summary: ✅ 8 - 4 **DarkMoon**
+date: 2025-04-23T08:41:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ kor.cop 많이 들어와주세요
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1260)|
-| ELO Competitive | 1160 🔻  (1295)|
-| Total Matches | 25 |
-| Wins | 9 |
+| ELO Regular | 1165 🔺  (1091)|
+| ELO Competitive | 1187 🔺  (918)|
+| Total Matches | 26 |
+| Wins | 10 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742976862,1741523292,1740024685,1738889686,1732841274,1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
+        let timestamps = [1744965708,1742976862,1741523292,1740024685,1738889686,1732841274,1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/23 | 8-4 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/03/31 | 2-13 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/03/14 | 10-6 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/02/25 | 8-2 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
@@ -167,5 +168,5 @@ Corporation ID: c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743408862"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745397708"></span>
 </div>
