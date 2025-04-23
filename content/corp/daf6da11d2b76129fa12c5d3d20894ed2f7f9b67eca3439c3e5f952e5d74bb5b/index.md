@@ -1,9 +1,9 @@
 ---
 title: ​Omega Nation
-description: W:0 L:2 D:0 Bonus ❌ 7%
+description: W:0 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **Дом Датэ**
-date: 2024-08-31T15:00:39.000Z
+Summary: ❌ 7 - 17 **Лунный Феникс**
+date: 2025-04-23T18:37:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ ze></b></color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (964)|
-| ELO Competitive | 1180 🔻  (1105)|
-| Total Matches | 2 |
+| ELO Regular | 1167 🔻  (1082)|
+| ELO Competitive | 1177 🔻  (1130)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724684439,1723929849];
+        let timestamps = [1745001473,1724684439,1723929849];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 7-17 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2024/08/31 | 0-8 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/08/22 | 6-22 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 
@@ -145,5 +146,5 @@ Corporation ID: daf6da11d2b76129fa12c5d3d20894ed2f7f9b67eca3439c3e5f952e5d74bb5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1725116439"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745433473"></span>
 </div>

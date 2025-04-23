@@ -23,7 +23,7 @@ Discord required | Part of Astral Alliance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔻  (92)|
+| ELO Regular | 1368 🔻  (93)|
 | ELO Competitive | 1474 🔻  (108)|
 | Total Matches | 90 |
 | Wins | 66 |
