@@ -1,9 +1,9 @@
 ---
 title: ​viCIOus
-description: W:33 L:4 D:1 Bonus ✅ 36%
+description: W:34 L:4 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 16 - 3 **Hungary First**
-date: 2025-04-17T17:53:28.000Z
+Summary: ✅ 8 - 0 **SILVER TERRA**
+date: 2025-04-24T00:48:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ New!!! Join to expand!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1429 🔺  (44)|
-| ELO Competitive | 1481 🔺  (104)|
-| Total Matches | 38 |
-| Wins | 33 |
+| ELO Regular | 1437 🔺  (39)|
+| ELO Competitive | 1496 🔺  (89)|
+| Total Matches | 39 |
+| Wins | 34 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 19 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744480408,1743900710,1743348650,1742746369,1742138101,1741537119,1741055126,1740543068,1740064659,1739581433,1739102442,1738558315,1738102949,1737588498,1737095662,1736641260,1736180543,1735742349,1735231544,1734378231,1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1745023730,1744480408,1743900710,1743348650,1742746369,1742138101,1741537119,1741055126,1740543068,1740064659,1739581433,1739102442,1738558315,1738102949,1737588498,1737095662,1736641260,1736180543,1735742349,1735231544,1734378231,1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/24 | 8-0 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2025/04/17 | 16-3 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2025/04/11 | 19-0 | [DarkSide](https://ws.tsl.rocks/corp/557178dd3a3d43ff1751021bfc2d8c1d4261336a45f90d392f3dd275d8a0a941/) |
 | ✅ | 2025/04/04 | 30-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
@@ -188,5 +189,5 @@ Corporation ID: 910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744912408"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745455730"></span>
 </div>
