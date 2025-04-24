@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:27 L:150 D:0 Bonus ✅ 46%
+description: W:27 L:150 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 6 - 42 **Lacuna Ind\.**
 date: 2025-04-22T12:59:51.000Z
@@ -18,12 +18,12 @@ date: 2025-04-22T12:59:51.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 928 🔻  (1494)|
-| ELO Competitive | 1217 🔻  (575)|
+| ELO Regular | 928 🔻  (1495)|
+| ELO Competitive | 1217 🔻  (576)|
 | Total Matches | 177 |
 | Wins | 27 |
 | Losses | 150 |

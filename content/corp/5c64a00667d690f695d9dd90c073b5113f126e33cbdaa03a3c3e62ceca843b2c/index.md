@@ -23,8 +23,8 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (371)|
-| ELO Competitive | 1248 🔻  (458)|
+| ELO Regular | 1226 🔻  (370)|
+| ELO Competitive | 1248 🔻  (457)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 8 |

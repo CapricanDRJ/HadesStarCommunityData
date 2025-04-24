@@ -19,8 +19,8 @@ The reemergence of Space Gamers with Super Stars!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (443)|
-| ELO Competitive | 1214 🔺  (614)|
+| ELO Regular | 1214 🔺  (444)|
+| ELO Competitive | 1214 🔺  (615)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

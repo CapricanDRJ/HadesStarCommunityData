@@ -19,8 +19,8 @@ Enjoy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1210)|
-| ELO Competitive | 1167 🔻  (1242)|
+| ELO Regular | 1150 🔻  (1211)|
+| ELO Competitive | 1167 🔻  (1243)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

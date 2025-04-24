@@ -28,8 +28,8 @@ Mitglied der Tartaros Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔺  (1416)|
-| ELO Competitive | 1160 🔺  (1290)|
+| ELO Regular | 1087 🔺  (1417)|
+| ELO Competitive | 1160 🔺  (1291)|
 | Total Matches | 45 |
 | Wins | 9 |
 | Losses | 36 |
