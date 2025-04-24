@@ -2,7 +2,7 @@
 layout: page
 title: Comp ELO
 description: Hades' Star top competitive Elo ranks
-date: 2025-04-24T09:55:10.464Z
+date: 2025-04-24T12:55:08.568Z
 permalink: /comp100/
 searchHidden: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: ​Eastern Front
-description: W:69 L:74 D:3 Bonus ✅ 42%
+description: W:69 L:74 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 11 - 2 **OKC THUNDER **
 date: 2025-04-17T11:02:41.000Z
@@ -17,7 +17,7 @@ e strategies, and give out advice.        -  Tensible
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
