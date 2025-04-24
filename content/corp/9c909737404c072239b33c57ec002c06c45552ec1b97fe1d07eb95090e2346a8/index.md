@@ -1,9 +1,9 @@
 ---
 title: ​Minutemen
-description: W:10 L:19 D:1 Bonus ❌ 8%
+description: W:10 L:20 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 1 - 30 **Industrial W\.O**
-date: 2025-01-25T00:35:34.000Z
+Summary: ❌ 0 - 11 **Out landers**
+date: 2025-04-24T19:45:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Relaxed corp. White star with us for fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (1082)|
-| ELO Competitive | 1218 🔻  (566)|
-| Total Matches | 30 |
+| ELO Regular | 1155 🔻  (1174)|
+| ELO Competitive | 1206 🔻  (666)|
+| Total Matches | 31 |
 | Wins | 10 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737333334,1736870569,1736370175,1735602640,1735134192,1734422773,1727059786,1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
+        let timestamps = [1745091929,1737333334,1736870569,1736370175,1735602640,1735134192,1734422773,1727059786,1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/24 | 0-11 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2025/01/25 | 1-30 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2025/01/19 | 1-14 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2025/01/13 | 10-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
@@ -179,5 +180,5 @@ Corporation ID: 9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1737765334"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745523929"></span>
 </div>

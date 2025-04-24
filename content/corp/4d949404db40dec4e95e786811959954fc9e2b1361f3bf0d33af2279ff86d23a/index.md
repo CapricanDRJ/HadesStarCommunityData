@@ -1,9 +1,9 @@
 ---
 title: ​Out landers
-description: W:12 L:10 D:1 Bonus ❌ 6%
+description: W:13 L:10 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 9 - 7 **First Legion**
-date: 2025-01-27T23:18:17.000Z
+Summary: ✅ 11 - 0 **Minutemen**
+date: 2025-04-24T19:45:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ latively active. Discord not required but recommended.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (356)|
-| ELO Competitive | 1267 🔺  (404)|
-| Total Matches | 23 |
-| Wins | 12 |
+| ELO Regular | 1242 🔺  (312)|
+| ELO Competitive | 1279 🔺  (375)|
+| Total Matches | 24 |
+| Wins | 13 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737587897,1734401365,1729419481,1725061572,1723992659,1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
+        let timestamps = [1745091929,1737587897,1734401365,1729419481,1725061572,1723992659,1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/24 | 11-0 | [Minutemen](https://ws.tsl.rocks/corp/9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8/) |
 | ✅ | 2025/01/27 | 9-7 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/12/22 | 23-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/10/25 | 3-26 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
@@ -174,5 +175,5 @@ Corporation ID: 4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738019897"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745523929"></span>
 </div>

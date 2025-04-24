@@ -2,7 +2,7 @@
 layout: page
 title: Average Relics
 description: Hades' Star top corporations by average relics per match (only corporations with >5 matches)
-date: 2025-04-24T18:55:08.740Z
+date: 2025-04-24T21:55:08.272Z
 permalink: /avgrelics/
 searchHidden: true
 ---
