@@ -1,9 +1,9 @@
 ---
 title: ​Forces of Light
-description: W:16 L:8 D:1 Bonus ❌ 6%
+description: W:16 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 33 **The Foundation**
-date: 2025-02-04T03:25:14.000Z
+Summary: ❌ 3 - 28 **CIS**
+date: 2025-04-23T23:28:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ upo si deseas unirte solo consulta al primer oficial.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔻  (212)|
-| ELO Competitive | 1315 🔻  (293)|
-| Total Matches | 25 |
+| ELO Regular | 1270 🔻  (237)|
+| ELO Competitive | 1305 🔻  (309)|
+| Total Matches | 26 |
 | Wins | 16 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738207514,1737752863,1737234809,1736764263,1736237722,1735200290,1734673283,1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
+        let timestamps = [1745018902,1738207514,1737752863,1737234809,1736764263,1736237722,1735200290,1734673283,1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/23 | 3-28 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ❌ | 2025/02/04 | 0-33 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ✅ | 2025/01/29 | 20-4 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/01/23 | 4-17 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -170,5 +171,5 @@ Corporation ID: 0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738639514"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745450902"></span>
 </div>
