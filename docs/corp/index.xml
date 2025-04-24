@@ -6,8 +6,50 @@
     <description>Recent content in Corporations on Hades&#39; Star Resources</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Apr 2025 13:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 18:05:18 +0000</lastBuildDate>
     <atom:link href="https://ws.tsl.rocks/corp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>​Eastern Front</title>
+      <link>https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/</link>
+      <pubDate>Thu, 24 Apr 2025 18:05:18 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/</guid>
+      <description>W:71 L:74 D:3 Bonus ✅ 42%</description>
+    </item>
+    <item>
+      <title>​Retarts</title>
+      <link>https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/</link>
+      <pubDate>Thu, 24 Apr 2025 18:05:18 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/</guid>
+      <description>W:25 L:43 D:2 Bonus ❌ 9%</description>
+    </item>
+    <item>
+      <title>​lonewolf</title>
+      <link>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</link>
+      <pubDate>Thu, 24 Apr 2025 18:00:17 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</guid>
+      <description>W:39 L:12 D:1 Bonus ✅ 38%</description>
+    </item>
+    <item>
+      <title>​Terran empire</title>
+      <link>https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/</link>
+      <pubDate>Thu, 24 Apr 2025 18:00:17 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/</guid>
+      <description>W:16 L:2 D:0 Bonus ✅</description>
+    </item>
+    <item>
+      <title>​Новички</title>
+      <link>https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/</link>
+      <pubDate>Thu, 24 Apr 2025 18:00:17 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/</guid>
+      <description>W:3 L:1 D:0 Bonus ❌</description>
+    </item>
+    <item>
+      <title>​Romania</title>
+      <link>https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/</link>
+      <pubDate>Thu, 24 Apr 2025 17:25:13 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/</guid>
+      <description>W:0 L:2 D:1 Bonus ❌</description>
+    </item>
     <item>
       <title>​方星集团</title>
       <link>https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/</link>
@@ -2354,13 +2396,6 @@
       <description>W:8 L:1 D:0 Bonus ❌</description>
     </item>
     <item>
-      <title>​Terran empire</title>
-      <link>https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/</link>
-      <pubDate>Sat, 19 Apr 2025 12:42:43 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/</guid>
-      <description>W:15 L:2 D:0 Bonus ✅</description>
-    </item>
-    <item>
       <title>​G.02</title>
       <link>https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/</link>
       <pubDate>Sat, 19 Apr 2025 10:57:32 +0000</pubDate>
@@ -2603,7 +2638,7 @@
       <link>https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/</link>
       <pubDate>Thu, 17 Apr 2025 16:19:14 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/</guid>
-      <description>W:2 L:1 D:0 Bonus ✅</description>
+      <description>W:2 L:1 D:0 Bonus ❌</description>
     </item>
     <item>
       <title>​星光舰队</title>
@@ -2625,13 +2660,6 @@
       <pubDate>Thu, 17 Apr 2025 12:42:52 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/</guid>
       <description>W:16 L:19 D:6 Bonus ❌</description>
-    </item>
-    <item>
-      <title>​Eastern Front</title>
-      <link>https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/</link>
-      <pubDate>Thu, 17 Apr 2025 11:02:41 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/</guid>
-      <description>W:69 L:74 D:3 Bonus ❌ 11%</description>
     </item>
     <item>
       <title>​Север РусКорп</title>
@@ -2676,13 +2704,6 @@
       <description>W:8 L:14 D:2 Bonus ❌ 6%</description>
     </item>
     <item>
-      <title>​Retarts</title>
-      <link>https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/</link>
-      <pubDate>Thu, 17 Apr 2025 06:02:10 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/</guid>
-      <description>W:25 L:41 D:2 Bonus ❌ 9%</description>
-    </item>
-    <item>
       <title>​以太超星团</title>
       <link>https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/</link>
       <pubDate>Thu, 17 Apr 2025 02:46:50 +0000</pubDate>
@@ -2695,13 +2716,6 @@
       <pubDate>Thu, 17 Apr 2025 02:31:49 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/</guid>
       <description>W:8 L:46 D:1 Bonus ❌ 8%</description>
-    </item>
-    <item>
-      <title>​lonewolf</title>
-      <link>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</link>
-      <pubDate>Thu, 17 Apr 2025 02:31:49 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</guid>
-      <description>W:38 L:12 D:1 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​The Allegiant</title>
@@ -3600,13 +3614,6 @@
       <description>W:0 L:1 D:0 Bonus ❌</description>
     </item>
     <item>
-      <title>​Новички</title>
-      <link>https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/</link>
-      <pubDate>Sun, 16 Mar 2025 11:07:44 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/</guid>
-      <description>W:3 L:0 D:0 Bonus ❌</description>
-    </item>
-    <item>
       <title>​united unicorn</title>
       <link>https://ws.tsl.rocks/corp/c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276/</link>
       <pubDate>Sun, 16 Mar 2025 02:52:02 +0000</pubDate>
@@ -4207,13 +4214,6 @@
       <pubDate>Tue, 11 Feb 2025 19:44:16 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/</guid>
       <description>W:0 L:2 D:0 Bonus ❌</description>
-    </item>
-    <item>
-      <title>​Romania</title>
-      <link>https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/</link>
-      <pubDate>Tue, 11 Feb 2025 09:54:21 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/</guid>
-      <description>W:0 L:1 D:1 Bonus ❌</description>
     </item>
     <item>
       <title>​IMPERIAL ARMADA</title>

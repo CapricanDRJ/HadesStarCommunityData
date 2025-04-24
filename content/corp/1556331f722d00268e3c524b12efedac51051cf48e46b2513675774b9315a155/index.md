@@ -1,9 +1,9 @@
 ---
 title: ​Retarts
-description: W:25 L:41 D:2 Bonus ❌ 9%
+description: W:25 L:43 D:2 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 5 - 42 **Blood Hounds**
-date: 2025-04-17T06:02:10.000Z
+Summary: ❌ 0 - 9 **Eastern Front**
+date: 2025-04-24T18:05:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ trại trú ẩn đồng hương thất lạc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1340)|
-| ELO Competitive | 1306 🔻  (308)|
-| Total Matches | 68 |
+| ELO Regular | 1106 🔻  (1383)|
+| ELO Competitive | 1300 🔻  (317)|
+| Total Matches | 70 |
 | Wins | 25 |
-| Losses | 41 |
+| Losses | 43 |
 | Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744437730,1744437730,1743792163,1743786205,1735678656,1735666038,1734360800,1733821147,1733819945,1733314526,1733300106,1732468339,1732446997,1731809656,1731767583,1731306930,1730787950,1730784044,1729500616,1729492805,1728540991,1727924313,1727876832,1727196807,1726653403,1726570679,1725350946,1725347942,1724319010,1724311798,1723566524,1723535267,1722929140,1722929139,1722325114,1722322710,1721631209,1721629105,1721124848,1721115532,1720524346,1720513227,1720017055,1719989104,1719487557,1718956547,1718436367,1717917816,1717350621,1717340399,1715908882,1715908281,1714724394,1714156815,1713691717,1713259062,1712806542,1712325175,1711771692,1711189662,1710739272,1710130220,1709567998,1708924099,1708919592,1708319507,1708318306,1698718336];
+        let timestamps = [1745085918,1745085617,1744437730,1744437730,1743792163,1743786205,1735678656,1735666038,1734360800,1733821147,1733819945,1733314526,1733300106,1732468339,1732446997,1731809656,1731767583,1731306930,1730787950,1730784044,1729500616,1729492805,1728540991,1727924313,1727876832,1727196807,1726653403,1726570679,1725350946,1725347942,1724319010,1724311798,1723566524,1723535267,1722929140,1722929139,1722325114,1722322710,1721631209,1721629105,1721124848,1721115532,1720524346,1720513227,1720017055,1719989104,1719487557,1718956547,1718436367,1717917816,1717350621,1717340399,1715908882,1715908281,1714724394,1714156815,1713691717,1713259062,1712806542,1712325175,1711771692,1711189662,1710739272,1710130220,1709567998,1708924099,1708919592,1708319507,1708318306,1698718336];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) | 0 | 2 | 0 | 2 |
 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 0 | 2 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 1 | 0 | 2 |
 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 0 | 2 | 0 | 2 |
@@ -150,6 +151,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/24 | 0-9 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
+| ❌ | 2025/04/24 | 0-40 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2025/04/17 | 5-42 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2025/04/17 | 0-4 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/04/09 | 0-58 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
@@ -225,5 +228,5 @@ Corporation ID: 1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744869730"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745517918"></span>
 </div>

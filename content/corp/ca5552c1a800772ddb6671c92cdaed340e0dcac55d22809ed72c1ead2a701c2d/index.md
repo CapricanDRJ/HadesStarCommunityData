@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:15 L:2 D:0 Bonus ✅ 
+description: W:16 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 22 - 1 **BRASIL ACADEMY**
-date: 2025-04-19T12:42:43.000Z
+Summary: ✅ 22 - 2 **Новички**
+date: 2025-04-24T18:00:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-19T12:42:43.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (109)|
-| ELO Competitive | 1357 🔺  (224)|
-| Total Matches | 17 |
-| Wins | 15 |
+| ELO Regular | 1360 🔺  (101)|
+| ELO Competitive | 1367 🔺  (212)|
+| Total Matches | 18 |
+| Wins | 16 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/24 | 22-2 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
 | ✅ | 2025/04/19 | 22-1 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ✅ | 2025/04/18 | 17-8 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 | ✅ | 2025/04/13 | 18-4 | [Starships](https://ws.tsl.rocks/corp/b75dd27a38d238b4d9cd11637820796c7df082496dc05190e61fc675f71b05db/) |
@@ -165,5 +166,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745066563"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745517617"></span>
 </div>

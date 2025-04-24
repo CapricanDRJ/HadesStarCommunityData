@@ -1,9 +1,9 @@
 ---
 title: ​Romania
-description: W:0 L:1 D:1 Bonus ❌ 
+description: W:0 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 46 **Mercury Sunset**
-date: 2025-02-11T09:54:21.000Z
+Summary: ❌ 0 - 10 **Eastern Front**
+date: 2025-04-24T17:25:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-02-11T09:54:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (578)|
-| ELO Competitive | 1197 🔻  (742)|
-| Total Matches | 2 |
+| ELO Regular | 1182 🔻  (909)|
+| ELO Competitive | 1194 🔻  (772)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738835661,1736068130];
+        let timestamps = [1745083513,1738835661,1736068130];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/24 | 0-10 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/02/11 | 0-46 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ↔️ | 2025/01/10 | 0-0 | [Spaceforce](https://ws.tsl.rocks/corp/24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739267661"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745515513"></span>
 </div>

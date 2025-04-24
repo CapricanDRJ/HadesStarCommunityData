@@ -1,6 +1,6 @@
 ---
 title: ​SPACING GUILD
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 11 - 0 **星光舰队**
 date: 2025-04-17T16:19:14.000Z
@@ -15,11 +15,11 @@ date: 2025-04-17T16:19:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (382)|
+| ELO Regular | 1223 🔺  (383)|
 | ELO Competitive | 1225 🔺  (537)|
 | Total Matches | 3 |
 | Wins | 2 |
