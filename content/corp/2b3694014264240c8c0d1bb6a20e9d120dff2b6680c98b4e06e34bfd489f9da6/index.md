@@ -1,9 +1,9 @@
 ---
 title: ​Alpha to Omega
-description: W:5 L:9 D:2 Bonus ❌ 5%
+description: W:6 L:9 D:2 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 1 - 4 **Empire of Hades**
-date: 2025-04-08T06:24:47.000Z
+Summary: ✅ 6 - 0 **💮問鼎無垠💮**
+date: 2025-04-24T04:13:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ Start here. Figure things out. Have fun.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1159)|
-| ELO Competitive | 1176 🔻  (1139)|
-| Total Matches | 16 |
-| Wins | 5 |
+| ELO Regular | 1180 🔺  (928)|
+| ELO Competitive | 1199 🔺  (728)|
+| Total Matches | 17 |
+| Wins | 6 |
 | Losses | 9 |
 | Draws | 2 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743661487,1742521861,1740663860,1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
+        let timestamps = [1745036028,1743661487,1742521861,1740663860,1739529441,1737677139,1736528850,1734741794,1732243561,1731683437,1731038256,1729903578,1726271655,1725127083,1723372086,1721479747,1720723310];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/24 | 6-0 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/04/08 | 1-4 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/03/26 | 2-0 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ❌ | 2025/03/04 | 4-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
@@ -158,5 +159,5 @@ Corporation ID: 2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744093487"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745468028"></span>
 </div>

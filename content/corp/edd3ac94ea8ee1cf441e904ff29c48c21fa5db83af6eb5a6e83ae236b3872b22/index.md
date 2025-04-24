@@ -1,9 +1,9 @@
 ---
 title: ​Osmium Star llc
-description: W:39 L:7 D:0 Bonus ❌ 8%
+description: W:40 L:7 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 16 **六大天神**
-date: 2025-04-16T17:20:56.000Z
+Summary: ✅ 37 - 0 **Эдем**
+date: 2025-04-24T06:44:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ act officers or senior members, Discord invite code:zQGwx3ZtDp
 <br>
 
 ### [Discord](https://discord.gg/zQGwx3ZtDp)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1426 🔺  (47)|
-| ELO Competitive | 1489 🔺  (95)|
-| Total Matches | 46 |
-| Wins | 39 |
+| ELO Regular | 1435 🔺  (41)|
+| ELO Competitive | 1500 🔺  (86)|
+| Total Matches | 47 |
+| Wins | 40 |
 | Losses | 7 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 18 |
 | Flagship | 5 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744392056,1743699956,1743098582,1742511646,1741884777,1741283786,1739512616,1738909515,1738261303,1737676838,1737014217,1736407134,1735888081,1735200290,1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1745045043,1744392056,1743699956,1743098582,1742511646,1741884777,1741283786,1739512616,1738909515,1738261303,1737676838,1737014217,1736407134,1735888081,1735200290,1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/24 | 37-0 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2025/04/16 | 17-16 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/04/08 | 14-15 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) |
 | ✅ | 2025/04/01 | 45-0 | [Proxima](https://ws.tsl.rocks/corp/e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6/) |
@@ -200,5 +202,5 @@ Corporation ID: edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744824056"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745477043"></span>
 </div>
