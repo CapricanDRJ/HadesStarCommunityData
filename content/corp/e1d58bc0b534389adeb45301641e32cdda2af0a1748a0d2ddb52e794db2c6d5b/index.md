@@ -1,9 +1,9 @@
 ---
 title: ​EarthFederation
-description: W:15 L:7 D:2 Bonus ❌ 6%
+description: W:16 L:7 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **Avabel Online 2**
-date: 2025-04-17T08:02:22.000Z
+Summary: ✅ 11 - 0 **N K B**
+date: 2025-04-25T14:12:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ Looking for members. Come grow with us!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (249)|
-| ELO Competitive | 1327 🔺  (271)|
-| Total Matches | 24 |
-| Wins | 15 |
+| ELO Regular | 1275 🔺  (225)|
+| ELO Competitive | 1337 🔺  (257)|
+| Total Matches | 25 |
+| Wins | 16 |
 | Losses | 7 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744444942,1743485390,1742417585,1742407664,1741301519,1741286191,1740767232,1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
+        let timestamps = [1745158338,1744444942,1743485390,1742417585,1742407664,1741301519,1741286191,1740767232,1739990724,1739063378,1738349649,1737420222,1736216907,1735747458,1734682895,1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 11-0 | [N K B](https://ws.tsl.rocks/corp/078cfa0c4e4e118bbd13aa38a810e83f754fe53d40d5ab16232e50a6cf414dec/) |
 | ✅ | 2025/04/17 | 9-0 | [Avabel Online 2](https://ws.tsl.rocks/corp/5efe2c3c6ca505c52ce401ff3ce7f6de2e885c6372a2741108cb67d09d914baa/) |
 | ❌ | 2025/04/06 | 2-11 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/03/24 | 0-3 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
@@ -172,5 +174,5 @@ Corporation ID: e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744876942"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745590338"></span>
 </div>

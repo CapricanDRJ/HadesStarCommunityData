@@ -1,9 +1,9 @@
 ---
 title: ​Cydonia Order
-description: W:27 L:16 D:3 Bonus ✅ 36%
+description: W:28 L:16 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 24 - 4 **Highlife**
-date: 2025-04-18T21:46:22.000Z
+Summary: ✅ 23 - 8 **Gold Star**
+date: 2025-04-25T14:32:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ THE CYDONIAN EMPIRE™
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (129)|
-| ELO Competitive | 1400 🔺  (169)|
-| Total Matches | 46 |
-| Wins | 27 |
+| ELO Regular | 1346 🔺  (115)|
+| ELO Competitive | 1405 🔺  (167)|
+| Total Matches | 47 |
+| Wins | 28 |
 | Losses | 16 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 11 |
 | Flagship | 6 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744580782,1744145054,1743557815,1742947419,1742340048,1741843010,1741218587,1740775947,1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
+        let timestamps = [1745159541,1744580782,1744145054,1743557815,1742947419,1742340048,1741843010,1741218587,1740775947,1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) | 2 | 0 | 0 | 2 |
 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 3 | 0 | 0 | 3 |
 
 ---
@@ -140,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 23-8 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ✅ | 2025/04/18 | 24-4 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2025/04/13 | 4-13 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2025/04/07 | 29-0 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
@@ -193,5 +196,5 @@ Corporation ID: e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745012782"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745591541"></span>
 </div>

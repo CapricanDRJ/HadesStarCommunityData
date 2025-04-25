@@ -1,9 +1,9 @@
 ---
 title: ​Gold Star
-description: W:5 L:17 D:2 Bonus ❌ 5%
+description: W:5 L:18 D:2 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 10 - 22 **Повстанцы Хаоса**
-date: 2025-04-03T16:43:10.000Z
+Summary: ❌ 8 - 23 **Cydonia Order**
+date: 2025-04-25T14:32:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Ruling the universe is our simple goal.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (1380)|
-| ELO Competitive | 1136 🔻  (1406)|
-| Total Matches | 24 |
+| ELO Regular | 1100 🔻  (1392)|
+| ELO Competitive | 1131 🔻  (1420)|
+| Total Matches | 25 |
 | Wins | 5 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 2 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743266590,1742386621,1741546437,1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
+        let timestamps = [1745159541,1743266590,1742386621,1741546437,1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/25 | 8-23 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/04/03 | 10-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2025/03/24 | 2-27 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/03/14 | 10-0 | [From the Fire](https://ws.tsl.rocks/corp/df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf/) |
@@ -165,5 +171,5 @@ Corporation ID: 4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743698590"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745591541"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​九州·华夏
-description: W:11 L:10 D:1 Bonus ✅ 
+description: W:12 L:10 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 3 **IA5**
-date: 2025-04-20T11:14:56.000Z
+Summary: ✅ 7 - 1 **Terran empire **
+date: 2025-04-25T15:37:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-20T11:14:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (396)|
-| ELO Competitive | 1288 🔺  (348)|
-| Total Matches | 22 |
-| Wins | 11 |
+| ELO Regular | 1242 🔺  (316)|
+| ELO Competitive | 1306 🔺  (307)|
+| Total Matches | 23 |
+| Wins | 12 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744715696,1744714194,1744264644,1744156470,1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1745163449,1744715696,1744714194,1744264644,1744156470,1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 7-1 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/04/20 | 9-3 | [IA5](https://ws.tsl.rocks/corp/a86622f7625d40a3455992647e02c761e639c1b172e6f5c87ae6d31f6dda7223/) |
 | ✅ | 2025/04/20 | 5-4 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ❌ | 2025/04/15 | 0-22 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
@@ -170,5 +171,5 @@ Corporation ID: b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745147696"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745595449"></span>
 </div>

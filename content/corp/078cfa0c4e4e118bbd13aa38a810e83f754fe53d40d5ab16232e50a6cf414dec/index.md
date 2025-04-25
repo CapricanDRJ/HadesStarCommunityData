@@ -1,9 +1,9 @@
 ---
 title: ​N K B
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:1 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 1 - 13 **Red Star**
-date: 2025-03-14T13:43:20.000Z
+Summary: ❌ 0 - 11 **EarthFederation**
+date: 2025-04-25T14:12:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-14T13:43:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (542)|
-| ELO Competitive | 1206 🔻  (665)|
-| Total Matches | 2 |
+| ELO Regular | 1187 🔻  (696)|
+| ELO Competitive | 1196 🔻  (753)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741527800,1739729590];
+        let timestamps = [1745158338,1741527800,1739729590];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/25 | 0-11 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ❌ | 2025/03/14 | 1-13 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2025/02/21 | 6-0 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 078cfa0c4e4e118bbd13aa38a810e83f754fe53d40d5ab16232e50a6cf414dec
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741959800"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745590338"></span>
 </div>
