@@ -1,6 +1,6 @@
 ---
 title: ​Czech Legion
-description: W:20 L:7 D:0 Bonus ✅ 34%
+description: W:20 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 6 - 4 **Empire of Light**
 date: 2025-04-17T23:59:04.000Z
@@ -17,7 +17,7 @@ ce/
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

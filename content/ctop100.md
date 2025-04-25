@@ -2,7 +2,7 @@
 layout: page
 title: Custom ELO Weighting
 description: Hades' Star top 100 trial ranks inclusive of all whitestar matches.
-date: 2025-04-24T21:55:08.272Z
+date: 2025-04-25T00:55:09.353Z
 permalink: /ctop100/
 searchHidden: true
 ---
