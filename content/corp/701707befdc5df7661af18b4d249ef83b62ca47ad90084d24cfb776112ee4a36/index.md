@@ -1,9 +1,9 @@
 ---
 title: ​星系联盟
-description: W:9 L:7 D:0 Bonus ❌ 6%
+description: W:10 L:7 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **对，进就进人少的**
-date: 2025-04-16T13:40:30.000Z
+Summary: ✅ 12 - 0 **游徒之家**
+date: 2025-04-25T09:46:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 2025-04-16T13:40:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (396)|
-| ELO Competitive | 1252 🔻  (440)|
-| Total Matches | 16 |
-| Wins | 9 |
+| ELO Regular | 1234 🔺  (348)|
+| ELO Competitive | 1267 🔺  (404)|
+| Total Matches | 17 |
+| Wins | 10 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744378830,1743822268,1743163188,1742559723,1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
+        let timestamps = [1745142385,1744378830,1743822268,1743163188,1742559723,1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 12-0 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2025/04/16 | 0-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/04/10 | 3-13 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ✅ | 2025/04/02 | 20-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
@@ -159,5 +160,5 @@ Corporation ID: 701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744810830"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745574385"></span>
 </div>

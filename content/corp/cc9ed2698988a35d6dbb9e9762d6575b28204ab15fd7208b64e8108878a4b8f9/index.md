@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:25 L:2 D:0 Bonus ✅ 34%
+description: W:25 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 16 - 1 **the Rubber Duck**
 date: 2025-04-18T12:30:18.000Z
@@ -17,7 +17,7 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

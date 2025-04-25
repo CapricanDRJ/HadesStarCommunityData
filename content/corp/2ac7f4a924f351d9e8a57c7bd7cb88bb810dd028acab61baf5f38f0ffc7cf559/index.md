@@ -22,7 +22,7 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (1208)|
+| ELO Regular | 1151 🔺  (1207)|
 | ELO Competitive | 1237 🔺  (490)|
 | Total Matches | 24 |
 | Wins | 9 |

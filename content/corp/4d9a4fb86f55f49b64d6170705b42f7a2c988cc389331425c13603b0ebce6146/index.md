@@ -1,6 +1,6 @@
 ---
 title: ​Best UA West
-description: W:2 L:4 D:0 Bonus ✅ 32%
+description: W:2 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 17 - 1 **纳塔Natlan**
 date: 2025-04-18T10:30:06.000Z
@@ -15,7 +15,7 @@ Discord https://discord.gg/mXaAX7Caga
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

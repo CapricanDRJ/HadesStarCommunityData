@@ -1,6 +1,6 @@
 ---
 title: ​KEPLER-442  b
-description: W:4 L:3 D:1 Bonus ✅ 
+description: W:4 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 2 - 5 **New YuGiOh**
 date: 2025-04-25T09:16:46.000Z
@@ -15,7 +15,7 @@ date: 2025-04-25T09:16:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

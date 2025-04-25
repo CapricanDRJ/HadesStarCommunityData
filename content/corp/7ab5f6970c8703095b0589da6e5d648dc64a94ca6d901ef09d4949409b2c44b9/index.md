@@ -1,9 +1,9 @@
 ---
 title: ​游徒之家
-description: W:15 L:17 D:0 Bonus ❌ 7%
+description: W:15 L:18 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 3 - 11 **47підрозділССП**
-date: 2025-02-04T07:55:38.000Z
+Summary: ❌ 0 - 12 **星系联盟**
+date: 2025-04-25T09:46:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-02-04T07:55:38.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1072)|
-| ELO Competitive | 1259 🔻  (425)|
-| Total Matches | 32 |
+| ELO Regular | 1156 🔻  (1168)|
+| ELO Competitive | 1243 🔻  (471)|
+| Total Matches | 33 |
 | Wins | 15 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738223738,1737785613,1737771342,1737036157,1736490379,1736486473,1729405957,1728837963,1728831347,1728124774,1728112154,1727675493,1726310717,1725718448,1725701215,1725010179,1724653784,1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
+        let timestamps = [1745142385,1738223738,1737785613,1737771342,1737036157,1736490379,1736486473,1729405957,1728837963,1728831347,1728124774,1728112154,1727675493,1726310717,1725718448,1725701215,1725010179,1724653784,1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/25 | 0-12 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ❌ | 2025/02/04 | 3-11 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2025/01/30 | 5-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/01/30 | 25-0 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
@@ -182,5 +183,5 @@ Corporation ID: 7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738655738"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745574385"></span>
 </div>

@@ -19,8 +19,8 @@ Willkommen bei  Ẁhıťɛ Ṣօᴌᴧᴙɨṣ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (1254)|
-| ELO Competitive | 1160 🔻  (1297)|
+| ELO Regular | 1142 🔻  (1253)|
+| ELO Competitive | 1160 🔻  (1298)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |
