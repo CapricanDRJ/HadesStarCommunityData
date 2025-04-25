@@ -1,6 +1,6 @@
 ---
 title: ​63SALVADORES36
-description: W:26 L:32 D:3 Bonus ✅ 36%
+description: W:26 L:32 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **百万繁星**
 date: 2025-04-19T03:06:03.000Z
@@ -25,12 +25,12 @@ Discord: https://discord.gg/wnw8sSwy
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (593)|
-| ELO Competitive | 1376 🔺  (195)|
+| ELO Competitive | 1376 🔺  (196)|
 | Total Matches | 61 |
 | Wins | 26 |
 | Losses | 32 |

@@ -19,7 +19,7 @@ sworn to protect the innocent and destroy the evil we are nova Corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1080)|
+| ELO Regular | 1168 🔻  (1081)|
 | ELO Competitive | 1178 🔻  (1117)|
 | Total Matches | 3 |
 | Wins | 0 |

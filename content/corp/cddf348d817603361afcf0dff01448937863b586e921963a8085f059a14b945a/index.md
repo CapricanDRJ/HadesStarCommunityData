@@ -1,9 +1,9 @@
 ---
 title: ​Kobol
-description: W:3 L:12 D:1 Bonus ❌ 
+description: W:3 L:13 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 10 - 35 **Newbs**
-date: 2025-04-20T18:00:41.000Z
+Summary: ❌ 10 - 16 **FURIA 2\.0**
+date: 2025-04-25T20:23:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-20T18:00:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1278)|
-| ELO Competitive | 1244 🔻  (469)|
-| Total Matches | 16 |
+| ELO Regular | 1124 🔻  (1326)|
+| ELO Competitive | 1234 🔻  (495)|
+| Total Matches | 17 |
 | Wins | 3 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744740041,1740993525,1740990821,1740309574,1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
+        let timestamps = [1745180582,1744740041,1740993525,1740990821,1740309574,1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/25 | 10-16 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2025/04/20 | 10-35 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2025/03/08 | 11-8 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2025/03/08 | 0-16 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
@@ -157,5 +158,5 @@ Corporation ID: cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745172041"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745612582"></span>
 </div>

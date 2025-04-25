@@ -1,6 +1,6 @@
 ---
 title: ​TheDuckeanFlow
-description: W:1 L:1 D:0 Bonus ✅ 
+description: W:1 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 3 - 5 **DINASTÍA SOLAR**
 date: 2025-04-23T21:08:10.000Z
@@ -15,12 +15,12 @@ date: 2025-04-23T21:08:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (574)|
-| ELO Competitive | 1197 🔻  (739)|
+| ELO Competitive | 1197 🔻  (740)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

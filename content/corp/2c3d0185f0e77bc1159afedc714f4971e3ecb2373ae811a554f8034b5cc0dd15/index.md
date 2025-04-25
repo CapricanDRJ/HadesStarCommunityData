@@ -21,7 +21,7 @@ udo
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (941)|
-| ELO Competitive | 1185 🔻  (992)|
+| ELO Competitive | 1185 🔻  (993)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |
