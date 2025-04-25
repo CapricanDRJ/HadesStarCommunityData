@@ -128,14 +128,46 @@ searchHidden: true
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>20</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>210%</td>
+                </tr>
+            
+                <tr>
+                    <td>20</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS9</td>
+                    <td>210%</td>
+                </tr>
+            
+                <tr>
+                    <td>20</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>210%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
                 <tr>
-                    <td>5</td>
+                    <td>21</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS8</td>
+                    <td>210%</td>
+                </tr>
+            
+                <tr>
+                    <td>25</td>
                     <td><img src="mining.png" alt="mining"></td>
-                    <td>RS7</td>
-                    <td>0%</td>
+                    <td>RS8</td>
+                    <td>210%</td>
                 </tr>
             
         <tr>

@@ -1,9 +1,9 @@
 ---
 title: ​РARADISЕ
-description: W:11 L:7 D:1 Bonus ✅ 
+description: W:12 L:7 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 11 **63SALVADORES36**
-date: 2025-04-18T20:25:37.000Z
+Summary: ✅ 20 - 0 **КОРПОРАЦИЯ ЗЛА**
+date: 2025-04-25T04:56:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-04-18T20:25:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (328)|
-| ELO Competitive | 1340 🔺  (249)|
-| Total Matches | 19 |
-| Wins | 11 |
+| ELO Regular | 1240 🔺  (319)|
+| ELO Competitive | 1344 🔺  (244)|
+| Total Matches | 20 |
+| Wins | 12 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744575937,1744575373,1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
+        let timestamps = [1745124978,1744575937,1744575373,1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 20-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2025/04/18 | 0-11 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/04/18 | 25-6 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
 | ❌ | 2025/04/12 | 0-9 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
@@ -166,5 +167,5 @@ Corporation ID: 03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745007937"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745556978"></span>
 </div>
