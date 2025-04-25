@@ -1,6 +1,6 @@
 ---
 title: ​Bacon Warriors
-description: W:29 L:25 D:1 Bonus ✅ 36%
+description: W:29 L:25 D:1 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ❌ 4 - 29 **Blood Hounds**
 date: 2025-04-23T04:46:25.000Z
@@ -16,12 +16,12 @@ e lose amd every two weeks if we win. No discord required.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1281 🔻  (213)|
-| ELO Competitive | 1357 🔻  (224)|
+| ELO Competitive | 1357 🔻  (225)|
 | Total Matches | 55 |
 | Wins | 29 |
 | Losses | 25 |

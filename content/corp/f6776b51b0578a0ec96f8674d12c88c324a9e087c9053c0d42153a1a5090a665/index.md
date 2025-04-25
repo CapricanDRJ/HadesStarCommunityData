@@ -1,9 +1,9 @@
 ---
 title: ​Гарри Поттер
-description: W:7 L:2 D:1 Bonus ❌ 6%
+description: W:7 L:3 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 10 - 3 **\(\_\(\_Vossk\_\)\_\)**
-date: 2024-04-04T10:33:48.000Z
+Summary: ❌ 3 - 36 **VoidRunners**
+date: 2025-04-25T01:12:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ date: 2024-04-04T10:33:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (264)|
-| ELO Competitive | 1278 🔺  (380)|
-| Total Matches | 10 |
+| ELO Regular | 1238 🔻  (332)|
+| ELO Competitive | 1271 🔻  (390)|
+| Total Matches | 11 |
 | Wins | 7 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1711794828,1710019643,1707465877,1706020025,1705643777,1704638565,1704486204,1703623724,1702677757,1700322258];
+        let timestamps = [1745111526,1711794828,1710019643,1707465877,1706020025,1705643777,1704638565,1704486204,1703623724,1702677757,1700322258];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/25 | 3-36 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/04/04 | 10-3 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ↔️ | 2024/03/14 | 4-4 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 | ✅ | 2024/02/14 | 29-0 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
@@ -157,5 +158,5 @@ Corporation ID: f6776b51b0578a0ec96f8674d12c88c324a9e087c9053c0d42153a1a5090a665
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1712226828"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745543526"></span>
 </div>
