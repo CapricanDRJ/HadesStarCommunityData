@@ -1,9 +1,9 @@
 ---
 title: ​Эдем
-description: W:22 L:17 D:1 Bonus ✅ 34%
+description: W:23 L:17 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 37 **Osmium Star llc**
-date: 2025-04-24T06:44:03.000Z
+Summary: ✅ 17 - 5 **WSC\(no DISCORD\)**
+date: 2025-04-25T18:02:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,10 +21,10 @@ date: 2025-04-24T06:44:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔻  (221)|
-| ELO Competitive | 1368 🔻  (210)|
-| Total Matches | 40 |
-| Wins | 22 |
+| ELO Regular | 1288 🔺  (197)|
+| ELO Competitive | 1393 🔺  (178)|
+| Total Matches | 41 |
+| Wins | 23 |
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745045043,1744739740,1744550424,1744117400,1744116198,1743625966,1743586057,1742718720,1741969206,1741279879,1740842063,1740551782,1740325505,1740104037,1739624102,1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
+        let timestamps = [1745172165,1745045043,1744739740,1744550424,1744117400,1744116198,1743625966,1743586057,1742718720,1741969206,1741279879,1740842063,1740551782,1740325505,1740104037,1739624102,1739155960,1739155339,1738386310,1737885379,1737655202,1736957335,1735879668,1733728904,1732828356,1731888093,1729289361,1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 17-5 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/04/24 | 0-37 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/04/20 | 30-6 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2025/04/18 | 8-2 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
@@ -189,5 +190,5 @@ Corporation ID: a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745477043"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745604165"></span>
 </div>

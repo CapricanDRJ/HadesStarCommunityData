@@ -1,6 +1,6 @@
 ---
 title: ​Vega Conflict
-description: W:17 L:12 D:0 Bonus ✅ 34%
+description: W:17 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 28 - 4 **Лунный Феникс**
 date: 2025-04-18T16:40:49.000Z
@@ -16,12 +16,12 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (174)|
-| ELO Competitive | 1351 🔺  (234)|
+| ELO Competitive | 1351 🔺  (233)|
 | Total Matches | 29 |
 | Wins | 17 |
 | Losses | 12 |

@@ -23,7 +23,7 @@ ter guesting RS runs<br><br>Discord mandatory to join!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1518 🔺  (11)|
-| ELO Competitive | 1770 🔺  (5)|
+| ELO Competitive | 1770 🔺  (4)|
 | Total Matches | 118 |
 | Wins | 81 |
 | Losses | 37 |

@@ -1,9 +1,9 @@
 ---
 title: ​青丘湖
-description: W:14 L:11 D:0 Bonus ✅ 34%
+description: W:15 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 4 - 1 **северный шторм**
-date: 2025-04-21T09:47:08.000Z
+Summary: ✅ 25 - 3 **АНДРОМЕДА **
+date: 2025-04-25T16:57:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,13 @@ date: 2025-04-21T09:47:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (294)|
-| ELO Competitive | 1311 🔺  (298)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1254 🔺  (276)|
+| ELO Competitive | 1326 🔺  (274)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -55,7 +55,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744796828,1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
+        let timestamps = [1745168258,1744796828,1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/25 | 25-3 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/04/21 | 4-1 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2025/04/20 | 29-1 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/04/15 | 6-17 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
@@ -178,5 +179,5 @@ Corporation ID: c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745228828"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745600258"></span>
 </div>
