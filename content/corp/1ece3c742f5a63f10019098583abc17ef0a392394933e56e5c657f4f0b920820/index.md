@@ -1,9 +1,9 @@
 ---
 title: ​九州·白星
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 3 - 40 **Hexwood**
-date: 2025-04-20T08:39:42.000Z
+Summary: ❌ 0 - 29 **Stellar Exports**
+date: 2025-04-25T08:56:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-20T08:39:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (681)|
-| ELO Competitive | 1189 🔻  (853)|
-| Total Matches | 1 |
+| ELO Regular | 1176 🔻  (954)|
+| ELO Competitive | 1186 🔻  (929)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744706382];
+        let timestamps = [1745139404,1744706382];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/25 | 0-29 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/04/20 | 3-40 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745138382"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745571404"></span>
 </div>
