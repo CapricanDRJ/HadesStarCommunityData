@@ -21,7 +21,7 @@ seja {Brasileiro} e online!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (1292)|
+| ELO Regular | 1133 🔺  (1293)|
 | ELO Competitive | 1145 🔺  (1377)|
 | Total Matches | 23 |
 | Wins | 7 |

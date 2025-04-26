@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:6 L:17 D:2 Bonus ✅ 32%
+description: W:6 L:17 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **titan tv**
 date: 2025-04-19T13:06:58.000Z
@@ -18,11 +18,11 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔺  (1333)|
+| ELO Regular | 1123 🔺  (1334)|
 | ELO Competitive | 1190 🔺  (839)|
 | Total Matches | 25 |
 | Wins | 6 |

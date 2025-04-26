@@ -1,9 +1,9 @@
 ---
 title: ​普罗米修斯
-description: W:14 L:29 D:1 Bonus ✅ 36%
+description: W:14 L:31 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 16 - 0 **落魄山**
-date: 2025-04-20T06:44:32.000Z
+Summary: ❌ 4 - 20 **DarkSide**
+date: 2025-04-26T14:09:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Q：650722059
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔺  (1382)|
-| ELO Competitive | 1249 🔺  (452)|
-| Total Matches | 44 |
+| ELO Regular | 1079 🔻  (1428)|
+| ELO Competitive | 1240 🔻  (483)|
+| Total Matches | 46 |
 | Wins | 14 |
-| Losses | 29 |
+| Losses | 31 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744699472,1744695867,1744171191,1744168608,1743601245,1743568331,1742908945,1742899027,1742456644,1742433511,1741972213,1741970710,1741512774,1741483928,1741027783,1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
+        let timestamps = [1745244584,1745244584,1744699472,1744695867,1744171191,1744168608,1743601245,1743568331,1742908945,1742899027,1742456644,1742433511,1741972213,1741970710,1741512774,1741483928,1741027783,1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/26 | 4-20 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
+| ❌ | 2025/04/26 | 6-34 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
 | ✅ | 2025/04/20 | 16-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/04/20 | 5-15 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/04/14 | 16-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
@@ -195,5 +197,5 @@ Corporation ID: f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745131472"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745676584"></span>
 </div>
