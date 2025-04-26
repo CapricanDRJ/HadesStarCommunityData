@@ -20,7 +20,7 @@ o7233
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (269)|
+| ELO Regular | 1255 🔺  (270)|
 | ELO Competitive | 1262 🔺  (417)|
 | Total Matches | 15 |
 | Wins | 10 |

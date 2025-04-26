@@ -1,9 +1,9 @@
 ---
 title: ​落魄山
-description: W:3 L:14 D:1 Bonus ❌ 
+description: W:4 L:14 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 19 **NERF TOY'S**
-date: 2025-04-26T04:03:42.000Z
+Summary: ✅ 3 - 1 **Страж Галактики**
+date: 2025-04-26T10:17:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-26T04:03:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1091 🔻  (1405)|
-| ELO Competitive | 1178 🔻  (1116)|
-| Total Matches | 18 |
-| Wins | 3 |
+| ELO Regular | 1110 🔺  (1369)|
+| ELO Competitive | 1205 🔺  (668)|
+| Total Matches | 19 |
+| Wins | 4 |
 | Losses | 14 |
 | Draws | 1 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745208222,1744728001,1744699472,1744022422,1743577344,1743561238,1743073333,1743029464,1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
+        let timestamps = [1745230649,1745208222,1744728001,1744699472,1744022422,1743577344,1743561238,1743073333,1743029464,1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/26 | 3-1 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ❌ | 2025/04/26 | 0-19 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2025/04/20 | 0-8 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/04/20 | 0-16 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
@@ -165,5 +166,5 @@ Corporation ID: 9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745640222"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745662649"></span>
 </div>

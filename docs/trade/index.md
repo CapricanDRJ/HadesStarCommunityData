@@ -313,32 +313,6 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Mr ExcelsiGor🚀</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>7</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS9</td>
-                    <td>270%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">Muad'Dib</th>
         </tr>
         <tr>
