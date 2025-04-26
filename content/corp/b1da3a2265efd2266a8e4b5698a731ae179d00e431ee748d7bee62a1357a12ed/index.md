@@ -1,6 +1,6 @@
 ---
 title: ​＊Alfa y Omega＊
-description: W:33 L:14 D:2 Bonus ✅ 36%
+description: W:33 L:14 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 10 - 8 **SQPT**
 date: 2025-04-19T16:03:06.000Z
@@ -18,7 +18,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

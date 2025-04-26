@@ -22,7 +22,7 @@ or=white>白星群：229395278想要加入集团先加集团QQ群
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔻  (935)|
-| ELO Competitive | 1192 🔻  (802)|
+| ELO Competitive | 1192 🔻  (803)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
