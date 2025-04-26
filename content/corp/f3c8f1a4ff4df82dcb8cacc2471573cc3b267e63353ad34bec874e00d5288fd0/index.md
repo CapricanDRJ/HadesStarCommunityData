@@ -21,7 +21,7 @@ go online! ! !
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1264)|
-| ELO Competitive | 1159 🔻  (1299)|
+| ELO Competitive | 1159 🔻  (1298)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

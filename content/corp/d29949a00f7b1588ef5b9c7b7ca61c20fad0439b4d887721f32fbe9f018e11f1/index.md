@@ -1,6 +1,6 @@
 ---
 title: ​Elysium
-description: W:58 L:15 D:0 Bonus ✅ 40%
+description: W:58 L:15 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 3 **Kelebra**
 date: 2025-04-19T05:57:04.000Z
@@ -18,11 +18,11 @@ in and play. Join today!
 <br>
 
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1499 🔺  (13)|
+| ELO Regular | 1499 🔺  (14)|
 | ELO Competitive | 1601 🔺  (31)|
 | Total Matches | 73 |
 | Wins | 58 |

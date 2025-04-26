@@ -1,9 +1,9 @@
 ---
 title: ​AlSounT
-description: W:26 L:20 D:0 Bonus ✅ 40%
+description: W:26 L:21 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 27 - 20 **Planet Express**
-date: 2025-04-20T15:40:25.000Z
+Summary: ❌ 1 - 33 **IX Легион**
+date: 2025-04-26T06:18:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-04-20T15:40:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (225)|
-| ELO Competitive | 1425 🔺  (147)|
-| Total Matches | 46 |
+| ELO Regular | 1269 🔻  (240)|
+| ELO Competitive | 1421 🔻  (151)|
+| Total Matches | 47 |
 | Wins | 26 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744731625,1744730723,1744179303,1743497407,1743496206,1743048994,1743044488,1742570244,1742570244,1742123071,1741529304,1741062336,1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1745216334,1744731625,1744730723,1744179303,1743497407,1743496206,1743048994,1743044488,1742570244,1742570244,1742123071,1741529304,1741062336,1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/26 | 1-33 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2025/04/20 | 27-20 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ❌ | 2025/04/20 | 0-13 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2025/04/14 | 14-5 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
@@ -197,5 +198,5 @@ Corporation ID: b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745163625"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745648334"></span>
 </div>
