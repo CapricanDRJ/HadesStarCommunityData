@@ -27,8 +27,8 @@ Winter Comes to Hades</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔺  (910)|
-| ELO Competitive | 1256 🔺  (431)|
+| ELO Regular | 1182 🔺  (909)|
+| ELO Competitive | 1256 🔺  (430)|
 | Total Matches | 24 |
 | Wins | 8 |
 | Losses | 16 |

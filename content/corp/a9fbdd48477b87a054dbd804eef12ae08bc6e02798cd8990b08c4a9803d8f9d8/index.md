@@ -1,9 +1,9 @@
 ---
 title: ​MÉXICO INFINITO
-description: W:19 L:31 D:0 Bonus ❌ 7%
+description: W:19 L:32 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 1 - 35 **Nox Imperium**
-date: 2025-04-03T22:08:53.000Z
+Summary: ❌ 1 - 22 **АарнСарт **
+date: 2025-04-26T03:28:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ella blanca=EB EB cuando se nos salga de los huevos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1336)|
-| ELO Competitive | 1201 🔻  (692)|
-| Total Matches | 50 |
+| ELO Regular | 1116 🔻  (1357)|
+| ELO Competitive | 1196 🔻  (750)|
+| Total Matches | 51 |
 | Wins | 19 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743286133,1739720572,1737823782,1734858975,1733354197,1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
+        let timestamps = [1745206119,1743286133,1739720572,1737823782,1734858975,1733354197,1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/26 | 1-22 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2025/04/03 | 1-35 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ❌ | 2025/02/21 | 20-34 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/01/30 | 1-10 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
@@ -201,5 +202,5 @@ Corporation ID: a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743718133"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745638119"></span>
 </div>

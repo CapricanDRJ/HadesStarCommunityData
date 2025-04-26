@@ -1,9 +1,9 @@
 ---
 title: ​Млечный путь
-description: W:24 L:26 D:0 Bonus ✅ 36%
+description: W:24 L:27 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 1 - 24 **Lupus Regnum**
-date: 2025-04-20T06:23:19.000Z
+Summary: ❌ 12 - 37 **111**
+date: 2025-04-26T03:33:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2025-04-20T06:23:19.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔻  (314)|
-| ELO Competitive | 1375 🔺  (198)|
-| Total Matches | 50 |
+| ELO Regular | 1237 🔻  (341)|
+| ELO Competitive | 1369 🔻  (207)|
+| Total Matches | 51 |
 | Wins | 24 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744698199,1744693764,1743389828,1742791445,1741995657,1740378990,1739772856,1739624102,1739160447,1738557328,1737976132,1736744346,1735796434,1735793429,1735281417,1735245067,1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
+        let timestamps = [1745206419,1744698199,1744693764,1743389828,1742791445,1741995657,1740378990,1739772856,1739624102,1739160447,1738557328,1737976132,1736744346,1735796434,1735793429,1735281417,1735245067,1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 0 | 2 | 0 | 2 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 3 | 0 | 3 |
 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 1 | 1 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 1 | 1 | 0 | 2 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/26 | 12-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ❌ | 2025/04/20 | 1-24 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/04/20 | 28-15 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2025/04/05 | 37-0 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
@@ -205,5 +207,5 @@ Corporation ID: a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745130199"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745638419"></span>
 </div>

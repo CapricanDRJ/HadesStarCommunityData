@@ -1,6 +1,6 @@
 ---
 title: ​StellaMysterium
-description: W:33 L:56 D:2 Bonus ✅ 38%
+description: W:33 L:56 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 19 - 5 **UFO**
 date: 2025-04-19T01:01:38.000Z
@@ -18,12 +18,12 @@ rp. Come and join a fun loving and chill family like team! Welcome to
 <br>
 
 ### [Discord](https://discord.gg/K45fhFgcXv)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔺  (1415)|
-| ELO Competitive | 1260 🔺  (422)|
+| ELO Competitive | 1260 🔺  (421)|
 | Total Matches | 91 |
 | Wins | 33 |
 | Losses | 56 |

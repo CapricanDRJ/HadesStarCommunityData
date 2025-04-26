@@ -1,9 +1,9 @@
 ---
 title: ​The Witness
-description: W:19 L:42 D:5 Bonus ❌ 8%
+description: W:19 L:43 D:5 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 2 - 15 **АарнСарт **
-date: 2025-04-19T01:51:43.000Z
+Summary: ❌ 0 - 3 **Cool Casual**
+date: 2025-04-26T01:48:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Note- Discord link is updated. Will expire in 7 DAYS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔻  (1484)|
-| ELO Competitive | 1141 🔻  (1391)|
-| Total Matches | 66 |
+| ELO Regular | 995 🔻  (1486)|
+| ELO Competitive | 1132 🔻  (1416)|
+| Total Matches | 67 |
 | Wins | 19 |
-| Losses | 42 |
+| Losses | 43 |
 | Draws | 5 |
 | Streak Record | 12 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744595503,1744070231,1743620623,1743102791,1742606888,1742589240,1741982433,1741981832,1741425384,1741411501,1740931099,1740894655,1740458020,1740427073,1739933510,1739927618,1739478861,1739476864,1738689550,1738684741,1738013101,1738010697,1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1745200111,1744595503,1744070231,1743620623,1743102791,1742606888,1742589240,1741982433,1741981832,1741425384,1741411501,1740931099,1740894655,1740458020,1740427073,1739933510,1739927618,1739478861,1739476864,1738689550,1738684741,1738013101,1738010697,1737280781,1737267258,1736808364,1736808364,1736282422,1736280317,1735672047,1735670545,1734945810,1734945810,1734322329,1734209662,1733741773,1733725161,1733271867,1733251433,1732786565,1732734570,1732227339,1732221773,1731708684,1731182810,1730668660,1729989527,1729985622,1729481988,1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,12 +136,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 0 | 3 | 0 | 3 |
 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) | 0 | 2 | 0 | 2 |
 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) | 1 | 1 | 0 | 2 |
 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 0 | 2 | 0 | 2 |
 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 1 | 0 | 1 | 2 |
 | [RED STAR CORP](https://ws.tsl.rocks/corp/cac02bd33337307b124bc868304cfc75cf4f0148d825518b2f24f1236431cf75/) | 0 | 2 | 0 | 2 |
-| [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 0 | 2 | 0 | 2 |
 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) | 0 | 2 | 0 | 2 |
 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) | 3 | 0 | 0 | 3 |
 
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/26 | 0-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2025/04/19 | 2-15 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2025/04/12 | 1-19 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2025/04/07 | 0-8 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
@@ -223,5 +224,5 @@ Corporation ID: b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745027503"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745632111"></span>
 </div>
