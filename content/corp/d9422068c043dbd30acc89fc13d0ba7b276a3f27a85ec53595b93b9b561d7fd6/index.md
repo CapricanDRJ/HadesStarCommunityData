@@ -1,6 +1,6 @@
 ---
 title: ​Killers from Ua
-description: W:7 L:4 D:0 Bonus ✅ 32%
+description: W:7 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 21 - 4 **Space Pirates**
 date: 2025-04-19T07:37:14.000Z
@@ -19,11 +19,11 @@ https://discord.gg/thfx8WYSru
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (295)|
+| ELO Regular | 1248 🔺  (294)|
 | ELO Competitive | 1263 🔺  (412)|
 | Total Matches | 11 |
 | Wins | 7 |
