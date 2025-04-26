@@ -1,6 +1,6 @@
 ---
 title: ​Bl@ck/Galaxy 
-description: W:40 L:26 D:2 Bonus ✅ 38%
+description: W:40 L:26 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 17 - 27 **Corp\. Estelar**
 date: 2025-04-26T18:15:14.000Z
@@ -17,7 +17,7 @@ s blancas semanales. Indispensable participar y aportar. Si no es así
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
