@@ -24,8 +24,8 @@ Discord required for WS: pQVwk7J
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (1048)|
-| ELO Competitive | 1171 🔻  (1219)|
+| ELO Regular | 1171 🔻  (1047)|
+| ELO Competitive | 1171 🔻  (1218)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
