@@ -1,6 +1,6 @@
 ---
 title: ​Providence
-description: W:40 L:25 D:0 Bonus ❌ 48%
+description: W:40 L:25 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 6 - 30 **Эдем**
 date: 2025-04-20T17:55:40.000Z
@@ -21,7 +21,7 @@ https://discord.gg/nUgqhbn
 <br>
 
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ❌ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

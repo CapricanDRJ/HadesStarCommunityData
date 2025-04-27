@@ -1,6 +1,6 @@
 ---
 title: ​Newbs
-description: W:45 L:27 D:2 Bonus ✅ 44%
+description: W:45 L:27 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 35 - 10 **Kobol**
 date: 2025-04-20T18:00:41.000Z
@@ -18,11 +18,11 @@ rience and have some fun!
 <br>
 
 ### [Discord](https://discord.gg/WKKwkbPsya)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1336 🔺  (133)|
+| ELO Regular | 1336 🔺  (134)|
 | ELO Competitive | 1434 🔺  (137)|
 | Total Matches | 74 |
 | Wins | 45 |

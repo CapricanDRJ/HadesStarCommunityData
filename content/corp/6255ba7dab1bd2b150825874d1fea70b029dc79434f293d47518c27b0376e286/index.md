@@ -1,6 +1,6 @@
 ---
 title: ​Space Penguins
-description: W:52 L:21 D:0 Bonus ✅ 48%
+description: W:52 L:21 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 32 - 22 **Internationals**
 date: 2025-04-20T18:25:44.000Z
@@ -23,7 +23,7 @@ Discord: asheRjW
 <br>
 
 ### [Discord](https://discord.gg/asheRjW)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

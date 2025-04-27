@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:21 L:11 D:1 Bonus ✅ 
+description: W:22 L:11 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 3 - 0 **dosti room**
-date: 2025-04-26T06:48:57.000Z
+Summary: ✅ 25 - 4 **UGSS**
+date: 2025-04-27T16:57:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-26T06:48:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (144)|
+| ELO Regular | 1337 🔺  (132)|
 | ELO Competitive | 1381 🔺  (195)|
-| Total Matches | 33 |
-| Wins | 21 |
+| Total Matches | 34 |
+| Wins | 22 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745218137,1744900802,1744780918,1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1745341048,1745218137,1744900802,1744780918,1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/27 | 25-4 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ✅ | 2025/04/26 | 3-0 | [dosti room](https://ws.tsl.rocks/corp/679d1a84f4938856ed291bb8b55f4fc0c50ffa2d7f1d1f316e6867b82a58910b/) |
 | ✅ | 2025/04/22 | 30-3 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2025/04/21 | 2-0 | [best room entry](https://ws.tsl.rocks/corp/6a3c77591d0df0cec141d0148a8b712d534702b3f936ca8a0c66ce2a5944ad6f/) |
@@ -182,5 +183,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745650137"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745773048"></span>
 </div>

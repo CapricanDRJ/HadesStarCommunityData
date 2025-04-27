@@ -20,7 +20,7 @@ vity leads to being kicked out.We play without discord.Have fun!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (1078)|
+| ELO Regular | 1168 🔻  (1077)|
 | ELO Competitive | 1183 🔻  (1076)|
 | Total Matches | 5 |
 | Wins | 1 |

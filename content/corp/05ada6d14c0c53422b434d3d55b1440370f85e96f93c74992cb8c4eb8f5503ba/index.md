@@ -1,6 +1,6 @@
 ---
 title: ​BrinySeal
-description: W:79 L:34 D:3 Bonus ✅ 42%
+description: W:79 L:34 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 4 - 24 **Corvus Ind\.**
 date: 2025-04-25T19:47:58.000Z
@@ -18,7 +18,7 @@ quired. We can help speed your progress :)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​empire
-description: W:2 L:5 D:1 Bonus ✅ 28%
+description: W:2 L:5 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 0 - 7 **WhiteSTarfighte**
 date: 2025-04-25T22:03:12.000Z
@@ -15,7 +15,7 @@ dont give in we help each other in start a White star ever 2 day
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
