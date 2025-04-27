@@ -20,7 +20,7 @@ WechatID Librianets
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (703)|
+| ELO Regular | 1187 🔻  (704)|
 | ELO Competitive | 1190 🔻  (838)|
 | Total Matches | 1 |
 | Wins | 0 |

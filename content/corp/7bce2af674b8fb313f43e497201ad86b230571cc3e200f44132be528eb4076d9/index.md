@@ -1,6 +1,6 @@
 ---
 title: ​Zvezdec
-description: W:45 L:28 D:0 Bonus ✅ 42%
+description: W:45 L:28 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 30 - 25 **Hellfire Club**
 date: 2025-04-20T06:59:33.000Z
@@ -18,7 +18,7 @@ date: 2025-04-20T06:59:33.000Z
 <br>
 
 ### [Discord](https://discord.gg/tbGjUb7xSQ)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

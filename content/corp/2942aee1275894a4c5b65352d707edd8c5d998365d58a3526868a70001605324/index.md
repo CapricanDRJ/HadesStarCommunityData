@@ -1,6 +1,6 @@
 ---
 title: ​毛绒团子
-description: W:18 L:1 D:0 Bonus ✅ 
+description: W:18 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 13 - 0 **Blazing Stars**
 date: 2025-04-20T07:24:35.000Z
@@ -15,7 +15,7 @@ date: 2025-04-20T07:24:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

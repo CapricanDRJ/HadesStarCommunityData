@@ -22,7 +22,7 @@ quired. We can help speed your progress :)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔻  (55)|
+| ELO Regular | 1415 🔻  (56)|
 | ELO Competitive | 1598 🔻  (34)|
 | Total Matches | 116 |
 | Wins | 79 |

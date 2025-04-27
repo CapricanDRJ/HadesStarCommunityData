@@ -1,6 +1,6 @@
 ---
 title: ​Hexwood
-description: W:13 L:9 D:0 Bonus ✅ 36%
+description: W:13 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 40 - 3 **九州·白星**
 date: 2025-04-20T08:39:42.000Z
@@ -20,11 +20,11 @@ A social, easygoing Corp with allies to join together with for Red or
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (232)|
+| ELO Regular | 1273 🔺  (231)|
 | ELO Competitive | 1318 🔺  (290)|
 | Total Matches | 22 |
 | Wins | 13 |

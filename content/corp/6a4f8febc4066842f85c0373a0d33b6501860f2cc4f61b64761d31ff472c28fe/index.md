@@ -1,6 +1,6 @@
 ---
 title: ​Quilliance
-description: W:32 L:4 D:0 Bonus ✅ 36%
+description: W:32 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 39 - 4 **On en a Gros \! **
 date: 2025-04-20T07:24:35.000Z
@@ -18,12 +18,12 @@ Discord Active • Coop DRS7-10
 <br>
 
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1427 🔺  (46)|
-| ELO Competitive | 1513 🔺  (74)|
+| ELO Competitive | 1513 🔺  (73)|
 | Total Matches | 36 |
 | Wins | 32 |
 | Losses | 4 |

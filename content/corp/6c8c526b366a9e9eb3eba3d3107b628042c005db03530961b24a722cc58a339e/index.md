@@ -1,6 +1,6 @@
 ---
 title: ​Duchy Arrakis
-description: W:43 L:17 D:2 Bonus ✅ 40%
+description: W:43 L:17 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 18 - 41 **Emergence**
 date: 2025-04-20T10:04:49.000Z
@@ -17,7 +17,7 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

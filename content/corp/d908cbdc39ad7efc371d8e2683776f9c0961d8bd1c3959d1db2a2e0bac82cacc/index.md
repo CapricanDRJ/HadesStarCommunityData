@@ -1,6 +1,6 @@
 ---
 title: ​Милый дом
-description: W:4 L:0 D:0 Bonus ✅ 
+description: W:4 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 20 - 0 **Black Pearl FR**
 date: 2025-04-20T09:24:46.000Z
@@ -15,11 +15,11 @@ date: 2025-04-20T09:24:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (252)|
+| ELO Regular | 1263 🔺  (251)|
 | ELO Competitive | 1273 🔺  (385)|
 | Total Matches | 4 |
 | Wins | 4 |
