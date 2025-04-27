@@ -1,6 +1,6 @@
 ---
 title: ​Splendid
-description: W:8 L:4 D:0 Bonus ✅ 30%
+description: W:8 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **Cerberus**
 date: 2025-04-20T04:24:19.000Z
@@ -16,11 +16,11 @@ rporation.
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (262)|
+| ELO Regular | 1259 🔺  (261)|
 | ELO Competitive | 1267 🔺  (403)|
 | Total Matches | 12 |
 | Wins | 8 |

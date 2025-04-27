@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:23 L:11 D:0 Bonus ✅ 
+description: W:23 L:11 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 1 - 7 **九州·华夏**
 date: 2025-04-25T17:56:13.000Z
@@ -15,7 +15,7 @@ date: 2025-04-25T17:56:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​USSR
-description: W:2 L:3 D:0 Bonus ❌ 11%
+description: W:3 L:3 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ❌ 17 - 34 **ItBurnsWhenIEMP**
-date: 2023-12-07T18:23:13.000Z
+Summary: ✅ 33 - 22 **Ƭιтαηѕ Ф тєʀʀσƦ**
+date: 2025-04-27T04:01:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 2023-12-07T18:23:13.000Z
 <br>
 
 ### [Discord](https://discord.gg/tFTT3b8H)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (675)|
-| ELO Competitive | 1189 🔻  (876)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1206 🔺  (501)|
+| ELO Competitive | 1215 🔺  (611)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
 | Flagship | 8 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1701541393,1701042800,1699830922,1699250854,1698685261];
+        let timestamps = [1745294469,1701541393,1701042800,1699830922,1699250854,1698685261];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/27 | 33-22 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2023/12/07 | 17-34 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ✅ | 2023/12/01 | 15-8 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 | ❌ | 2023/11/17 | 7-30 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
@@ -149,5 +150,5 @@ Corporation ID: 775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1701973393"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745726469"></span>
 </div>

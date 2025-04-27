@@ -1,6 +1,6 @@
 ---
 title: ​ 星空漫游者-GR
-description: W:5 L:1 D:0 Bonus ✅ 36%
+description: W:5 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 20 - 3 **Октябристы**
 date: 2025-04-20T04:04:18.000Z
@@ -22,12 +22,12 @@ QQ群:663677762
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (254)|
-| ELO Competitive | 1278 🔺  (376)|
+| ELO Competitive | 1278 🔺  (377)|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |

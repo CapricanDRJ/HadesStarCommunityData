@@ -1,6 +1,6 @@
 ---
 title: ​Deadspace
-description: W:33 L:46 D:0 Bonus ✅ 48%
+description: W:33 L:46 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **Торг\. федерация**
 date: 2025-04-20T05:14:24.000Z
@@ -25,7 +25,7 @@ Discord mandatory.  <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

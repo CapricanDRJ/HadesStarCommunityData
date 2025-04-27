@@ -1,6 +1,6 @@
 ---
 title: ​Млечный путь
-description: W:24 L:28 D:0 Bonus ✅ 36%
+description: W:24 L:28 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 7 **63SALVADORES36**
 date: 2025-04-26T13:29:38.000Z
@@ -18,7 +18,7 @@ date: 2025-04-26T13:29:38.000Z
 <br>
 
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

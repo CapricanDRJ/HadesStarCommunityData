@@ -20,8 +20,8 @@ Relaxed corp. White star with us for fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1176)|
-| ELO Competitive | 1206 🔻  (666)|
+| ELO Regular | 1155 🔻  (1175)|
+| ELO Competitive | 1206 🔻  (667)|
 | Total Matches | 31 |
 | Wins | 10 |
 | Losses | 20 |

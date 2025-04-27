@@ -1,6 +1,6 @@
 ---
 title: ​普罗米修斯
-description: W:14 L:31 D:1 Bonus ✅ 36%
+description: W:14 L:31 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 4 - 20 **DarkSide**
 date: 2025-04-26T14:09:44.000Z
@@ -19,7 +19,7 @@ Q：650722059
 <br>
 
 ### [Discord](https://discord.gg/akTfXJGv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

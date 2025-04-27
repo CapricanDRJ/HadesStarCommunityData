@@ -1,6 +1,6 @@
 ---
 title: ​Nearland Ind
-description: W:89 L:36 D:0 Bonus ✅ 54%
+description: W:89 L:36 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 27 - 42 **Hinterm Mond**
 date: 2025-04-26T17:00:05.000Z
@@ -22,7 +22,7 @@ FS2 - Closed
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

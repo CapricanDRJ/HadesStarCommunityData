@@ -1,6 +1,6 @@
 ---
 title: ​Cerberus
-description: W:8 L:2 D:1 Bonus ✅ 
+description: W:8 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 12 - 6 **Lupus Regnum**
 date: 2025-04-20T06:54:33.000Z
@@ -15,7 +15,7 @@ date: 2025-04-20T06:54:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: W:36 L:56 D:0 Bonus ✅ 48%
+description: W:36 L:56 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 11 - 36 **DTC**
 date: 2025-04-20T05:44:19.000Z
@@ -22,11 +22,11 @@ Zum Server->95WWyXqrhQ</color>
 <br>
 
 ### [Discord](https://discord.gg/95WWyXqrhQ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (318)|
+| ELO Regular | 1241 🔻  (319)|
 | ELO Competitive | 1498 🔺  (89)|
 | Total Matches | 92 |
 | Wins | 36 |
