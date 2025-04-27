@@ -1,6 +1,6 @@
 ---
 title: ​Emergence
-description: W:53 L:3 D:0 Bonus ✅ 40%
+description: W:53 L:3 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 41 - 18 **Duchy Arrakis**
 date: 2025-04-20T10:04:49.000Z
@@ -17,7 +17,7 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
 <br>
 
 ### [Discord](https://discord.gg/JygbSj6XMP)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

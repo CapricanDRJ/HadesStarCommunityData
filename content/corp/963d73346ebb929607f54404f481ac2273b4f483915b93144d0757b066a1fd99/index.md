@@ -1,6 +1,6 @@
 ---
 title: ​Вселенские 40%
-description: W:37 L:39 D:0 Bonus ✅ 40%
+description: W:37 L:39 D:0 Bonus ❌ 40%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **宇宙联盟（中国）**
 date: 2025-04-20T12:55:07.000Z
@@ -16,7 +16,7 @@ date: 2025-04-20T12:55:07.000Z
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |

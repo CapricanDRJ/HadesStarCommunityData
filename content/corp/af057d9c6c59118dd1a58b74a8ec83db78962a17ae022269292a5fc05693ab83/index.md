@@ -1,6 +1,6 @@
 ---
 title: ​孤星长城
-description: W:11 L:1 D:0 Bonus ✅ 
+description: W:11 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 10 - 3 **星际公约组织**
 date: 2025-04-20T12:15:02.000Z
@@ -15,7 +15,7 @@ date: 2025-04-20T12:15:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

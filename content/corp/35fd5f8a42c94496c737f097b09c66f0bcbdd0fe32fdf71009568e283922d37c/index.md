@@ -1,9 +1,9 @@
 ---
 title: ​New Horizons
-description: W:6 L:10 D:0 Bonus ❌ 8%
+description: W:7 L:10 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 25 - 30 **Неизбежный Рок**
-date: 2025-03-29T07:29:20.000Z
+Summary: ✅ 41 - 39 **Hellfire Club**
+date: 2025-04-27T11:56:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
 <br>
 
 ### [Discord](https://discord.gg/DYXwRY8AhC)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (936)|
-| ELO Competitive | 1221 🔻  (554)|
-| Total Matches | 16 |
-| Wins | 6 |
+| ELO Regular | 1199 🔺  (554)|
+| ELO Competitive | 1246 🔺  (461)|
+| Total Matches | 17 |
+| Wins | 7 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742801360,1740402727,1737379047,1726219365,1719222512,1716227363,1713183940,1713179132,1712575780,1711384080,1710176490,1707742240,1704716097,1701808278,1701097492,1699292019];
+        let timestamps = [1745323014,1742801360,1740402727,1737379047,1726219365,1719222512,1716227363,1713183940,1713179132,1712575780,1711384080,1710176490,1707742240,1704716097,1701808278,1701097492,1699292019];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,13 +136,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 0 | 2 | 0 | 2 |
+| [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 1 | 2 | 0 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/27 | 41-39 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2025/03/29 | 25-30 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2025/03/01 | 13-34 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2025/01/25 | 43-48 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
@@ -166,5 +167,5 @@ Corporation ID: 35fd5f8a42c94496c737f097b09c66f0bcbdd0fe32fdf71009568e283922d37c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1743233360"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745755014"></span>
 </div>

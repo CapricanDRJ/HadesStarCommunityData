@@ -1,6 +1,6 @@
 ---
 title: ​莫比乌斯-星环
-description: W:8 L:8 D:0 Bonus ✅ 
+description: W:8 L:8 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 10 - 0 **TeddisaurusWrex**
 date: 2025-04-20T10:14:50.000Z
@@ -15,7 +15,7 @@ date: 2025-04-20T10:14:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

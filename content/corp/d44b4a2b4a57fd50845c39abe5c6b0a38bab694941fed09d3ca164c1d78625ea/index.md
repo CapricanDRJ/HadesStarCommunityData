@@ -23,7 +23,7 @@ cja odbywa się poprzez nasz kanał Discord.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (467)|
-| ELO Competitive | 1249 🔻  (449)|
+| ELO Competitive | 1249 🔻  (448)|
 | Total Matches | 14 |
 | Wins | 7 |
 | Losses | 7 |

@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:46 L:21 D:0 Bonus ✅ 38%
+description: W:46 L:21 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 4 - 5 **Legión**
 date: 2025-04-22T18:20:28.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
