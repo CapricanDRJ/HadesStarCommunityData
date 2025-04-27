@@ -1,9 +1,9 @@
 ---
 title: ​Сварожичи
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 4 **OPA**
-date: 2025-04-22T12:29:47.000Z
+Summary: ✅ 21 - 0 **墨痕空域**
+date: 2025-04-27T14:32:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-04-22T12:29:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (382)|
-| ELO Competitive | 1227 🔺  (526)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1230 🔺  (357)|
+| ELO Competitive | 1244 🔺  (469)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744892987];
+        let timestamps = [1745332331,1744892987];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/27 | 21-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/04/22 | 9-4 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 756e76b1fa697e8ab2f40b1c5c5c93f69beeee26898a3ca128da2a7b69589093
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745324987"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745764331"></span>
 </div>

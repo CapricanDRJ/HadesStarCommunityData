@@ -1,6 +1,6 @@
 ---
 title: ​星际公约组织
-description: W:36 L:16 D:1 Bonus ✅ 36%
+description: W:36 L:16 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 6 - 2 **星约组织：基地分团**
 date: 2025-04-20T14:00:14.000Z
@@ -24,7 +24,7 @@ Q群：993612413
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

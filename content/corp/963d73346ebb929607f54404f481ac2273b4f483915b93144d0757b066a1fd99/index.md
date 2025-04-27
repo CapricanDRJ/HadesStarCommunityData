@@ -1,6 +1,6 @@
 ---
 title: ​Вселенские 40%
-description: W:37 L:39 D:0 Bonus ❌ 40%
+description: W:37 L:39 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **宇宙联盟（中国）**
 date: 2025-04-20T12:55:07.000Z
@@ -16,12 +16,12 @@ date: 2025-04-20T12:55:07.000Z
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔺  (194)|
-| ELO Competitive | 1410 🔺  (162)|
+| ELO Regular | 1292 🔺  (195)|
+| ELO Competitive | 1410 🔺  (163)|
 | Total Matches | 76 |
 | Wins | 37 |
 | Losses | 39 |

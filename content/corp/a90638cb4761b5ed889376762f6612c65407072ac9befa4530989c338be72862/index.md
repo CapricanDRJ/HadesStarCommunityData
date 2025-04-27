@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Luminá
-description: W:20 L:4 D:0 Bonus ✅ 34%
+description: W:20 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 21 - 1 **WSC\(no DISCORD\)**
 date: 2025-04-20T14:40:18.000Z
@@ -17,7 +17,7 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

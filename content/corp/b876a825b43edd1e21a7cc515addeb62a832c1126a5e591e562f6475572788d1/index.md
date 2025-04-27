@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:26 L:22 D:0 Bonus ✅ 40%
+description: W:26 L:22 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 11 **Star Blazers**
 date: 2025-04-26T07:03:58.000Z
@@ -17,12 +17,12 @@ date: 2025-04-26T07:03:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1246 🔻  (301)|
-| ELO Competitive | 1421 🔻  (153)|
+| ELO Competitive | 1421 🔻  (154)|
 | Total Matches | 48 |
 | Wins | 26 |
 | Losses | 22 |

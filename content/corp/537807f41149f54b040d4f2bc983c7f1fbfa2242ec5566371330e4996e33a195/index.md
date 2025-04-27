@@ -1,9 +1,9 @@
 ---
 title: ​Tormenta
-description: W:11 L:19 D:1 Bonus ❌ 12%
+description: W:11 L:20 D:1 Bonus ❌ 12%
 image: ./favicon.png
-Summary: ❌ 7 - 41 **СССР**
-date: 2025-04-22T01:18:46.000Z
+Summary: ❌ 5 - 32 **GDZ**
+date: 2025-04-27T14:12:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,11 +28,11 @@ JUNTOS SOMOS MAIS FORTES
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1127)|
-| ELO Competitive | 1231 🔻  (504)|
-| Total Matches | 31 |
+| ELO Regular | 1151 🔻  (1202)|
+| ELO Competitive | 1224 🔻  (539)|
+| Total Matches | 32 |
 | Wins | 11 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 11 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744852726,1742178672,1741541327,1741065040,1740493216,1740036405,1739422174,1738792025,1738235756,1737585493,1737013315,1736382798,1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
+        let timestamps = [1745331129,1744852726,1742178672,1741541327,1741065040,1740493216,1740036405,1739422174,1738792025,1738235756,1737585493,1737013315,1736382798,1735820470,1735142606,1734486397,1733295600,1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/27 | 5-32 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2025/04/22 | 7-41 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2025/03/22 | 10-37 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ❌ | 2025/03/14 | 3-24 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
@@ -182,5 +183,5 @@ Corporation ID: 537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745284726"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745763129"></span>
 </div>

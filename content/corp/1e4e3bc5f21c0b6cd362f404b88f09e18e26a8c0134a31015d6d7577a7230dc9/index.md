@@ -1,6 +1,6 @@
 ---
 title: ​АНДРОМЕДА 
-description: W:43 L:92 D:1 Bonus ✅ 44%
+description: W:43 L:92 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 33 **White Dwarf**
 date: 2025-04-25T16:57:38.000Z
@@ -16,7 +16,7 @@ date: 2025-04-25T16:57:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

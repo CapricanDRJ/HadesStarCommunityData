@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:20 L:11 D:0 Bonus ✅ 36%
+description: W:20 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 24 - 2 **Proxima**
 date: 2025-04-20T14:48:44.000Z
@@ -17,11 +17,11 @@ date: 2025-04-20T14:48:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔺  (170)|
+| ELO Regular | 1306 🔺  (171)|
 | ELO Competitive | 1351 🔺  (238)|
 | Total Matches | 31 |
 | Wins | 20 |

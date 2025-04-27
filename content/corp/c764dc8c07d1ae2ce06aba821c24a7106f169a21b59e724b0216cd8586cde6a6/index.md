@@ -1,6 +1,6 @@
 ---
 title: ​украина№1
-description: W:51 L:55 D:0 Bonus ✅ 46%
+description: W:51 L:55 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 28 - 12 **INFINITY STAR**
 date: 2025-04-20T13:15:09.000Z
@@ -18,12 +18,12 @@ date: 2025-04-20T13:15:09.000Z
 <br>
 
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔺  (994)|
-| ELO Competitive | 1407 🔺  (166)|
+| ELO Competitive | 1407 🔺  (167)|
 | Total Matches | 106 |
 | Wins | 51 |
 | Losses | 55 |

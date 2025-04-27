@@ -1,6 +1,6 @@
 ---
 title: ​No Orbit©
-description: W:21 L:13 D:0 Bonus ✅ 42%
+description: W:21 L:13 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 40 - 52 **Sith Empire**
 date: 2025-04-26T14:34:47.000Z
@@ -18,11 +18,11 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔻  (219)|
+| ELO Regular | 1280 🔻  (220)|
 | ELO Competitive | 1353 🔻  (233)|
 | Total Matches | 34 |
 | Wins | 21 |
