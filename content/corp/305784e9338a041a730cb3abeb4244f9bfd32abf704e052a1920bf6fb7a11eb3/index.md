@@ -1,6 +1,6 @@
 ---
 title: ​Untitled
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 0 **星域 **
 date: 2025-04-20T21:21:04.000Z
@@ -15,7 +15,7 @@ date: 2025-04-20T21:21:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​1st/Ave/Junkie2
-description: W:22 L:30 D:1 Bonus ✅ 36%
+description: W:22 L:30 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **three kitties**
 date: 2025-04-26T14:24:45.000Z
@@ -18,7 +18,7 @@ active! We are actively looking for White Star Players
 <br>
 
 ### [Discord](https://discord.gg/m9xzuMbpqS)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Alpaca Nation
-description: W:18 L:3 D:0 Bonus ✅ 
+description: W:18 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 5 - 3 **KhaOSs**
 date: 2025-04-20T21:36:05.000Z
@@ -15,11 +15,11 @@ date: 2025-04-20T21:36:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (126)|
+| ELO Regular | 1343 🔺  (127)|
 | ELO Competitive | 1371 🔺  (206)|
 | Total Matches | 21 |
 | Wins | 18 |

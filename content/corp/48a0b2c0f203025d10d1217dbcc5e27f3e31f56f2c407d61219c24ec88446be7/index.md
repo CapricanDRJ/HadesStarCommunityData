@@ -19,7 +19,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (131)|
+| ELO Regular | 1338 🔺  (132)|
 | ELO Competitive | 1410 🔺  (164)|
 | Total Matches | 50 |
 | Wins | 35 |
