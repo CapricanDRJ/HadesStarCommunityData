@@ -1,6 +1,6 @@
 ---
 title: ​Orden Estelar 
-description: W:24 L:13 D:3 Bonus ✅ 36%
+description: W:24 L:13 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 18 - 18 **Hinterm Mars**
 date: 2025-04-26T13:04:35.000Z
@@ -17,7 +17,7 @@ Ni retirada ni rendicion
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

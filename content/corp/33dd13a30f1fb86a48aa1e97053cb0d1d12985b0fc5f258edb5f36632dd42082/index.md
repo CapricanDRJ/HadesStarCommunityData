@@ -1,6 +1,6 @@
 ---
 title: ​E.T.A
-description: W:14 L:44 D:0 Bonus ✅ 52%
+description: W:14 L:44 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 10 - 21 **第一序列**
 date: 2025-04-20T00:49:01.000Z
@@ -16,12 +16,12 @@ date: 2025-04-20T00:49:01.000Z
 <br>
 
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1024 🔻  (1468)|
-| ELO Competitive | 1218 🔺  (569)|
+| ELO Competitive | 1218 🔺  (570)|
 | Total Matches | 58 |
 | Wins | 14 |
 | Losses | 44 |

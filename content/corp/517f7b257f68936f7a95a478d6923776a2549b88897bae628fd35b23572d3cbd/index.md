@@ -1,6 +1,6 @@
 ---
 title: ​Spacefleet
-description: W:55 L:55 D:0 Bonus ✅ 52%
+description: W:55 L:55 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 44 - 48 **Continuum**
 date: 2025-04-26T07:34:01.000Z
@@ -23,11 +23,11 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (272)|
+| ELO Regular | 1255 🔻  (271)|
 | ELO Competitive | 1542 🔻  (55)|
 | Total Matches | 110 |
 | Wins | 55 |

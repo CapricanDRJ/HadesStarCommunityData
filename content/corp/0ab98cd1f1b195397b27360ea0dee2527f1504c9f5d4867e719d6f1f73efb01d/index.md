@@ -1,6 +1,6 @@
 ---
 title: ​Grunthal Gang
-description: W:52 L:36 D:0 Bonus ✅ 54%
+description: W:52 L:36 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 31 - 43 **Ender**
 date: 2025-04-26T11:39:25.000Z
@@ -18,7 +18,7 @@ r of our corp. https://discord.gg/jUQReQtRJN
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

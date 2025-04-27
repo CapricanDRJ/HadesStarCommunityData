@@ -1,9 +1,9 @@
 ---
 title: ​S.U.N
-description: W:10 L:5 D:1 Bonus ❌ 6%
+description: W:10 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 13 - 3 **星系联盟**
-date: 2025-04-10T03:04:28.000Z
+Summary: ❌ 2 - 11 **Lololol**
+date: 2025-04-27T00:10:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-10T03:04:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (262)|
-| ELO Competitive | 1287 🔺  (351)|
-| Total Matches | 16 |
+| ELO Regular | 1244 🔻  (308)|
+| ELO Competitive | 1273 🔻  (386)|
+| Total Matches | 17 |
 | Wins | 10 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743822268,1743064318,1742064780,1741119731,1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
+        let timestamps = [1745280651,1743822268,1743064318,1742064780,1741119731,1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/27 | 2-11 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/04/10 | 13-3 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ✅ | 2025/04/01 | 19-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2025/03/20 | 15-1 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
@@ -159,5 +159,5 @@ Corporation ID: 916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744254268"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745712651"></span>
 </div>
