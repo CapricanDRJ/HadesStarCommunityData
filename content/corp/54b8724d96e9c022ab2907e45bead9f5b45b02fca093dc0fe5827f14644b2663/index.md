@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:30 L:7 D:0 Bonus ✅ 36%
+description: W:30 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 22 **Cerulean Star**
 date: 2025-04-21T08:57:03.000Z
@@ -27,7 +27,7 @@ English only.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

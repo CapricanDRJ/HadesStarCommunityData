@@ -22,7 +22,7 @@ S2 donations welcome.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1370 🔺  (88)|
+| ELO Regular | 1370 🔺  (89)|
 | ELO Competitive | 1511 🔺  (76)|
 | Total Matches | 69 |
 | Wins | 48 |

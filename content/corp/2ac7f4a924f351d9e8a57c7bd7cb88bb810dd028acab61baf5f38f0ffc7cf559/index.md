@@ -1,6 +1,6 @@
 ---
 title: ​Regulus
-description: W:9 L:15 D:0 Bonus ✅ 44%
+description: W:9 L:15 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 45 - 0 **IMPERIAL ARMADA**
 date: 2025-04-20T03:04:12.000Z
@@ -18,11 +18,11 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (1206)|
+| ELO Regular | 1151 🔺  (1205)|
 | ELO Competitive | 1237 🔺  (490)|
 | Total Matches | 24 |
 | Wins | 9 |

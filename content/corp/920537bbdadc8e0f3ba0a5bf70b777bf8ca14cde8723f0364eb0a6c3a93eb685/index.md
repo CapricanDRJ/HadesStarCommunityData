@@ -1,9 +1,9 @@
 ---
 title: ​UFO
-description: W:11 L:22 D:2 Bonus ❌ 7%
+description: W:11 L:23 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 5 - 19 **StellaMysterium**
-date: 2025-04-19T01:01:38.000Z
+Summary: ❌ 3 - 19 **Interstellar**
+date: 2025-04-27T01:05:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ https://discord.gg/NuvtUTUxQj
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1126)|
-| ELO Competitive | 1233 🔻  (499)|
-| Total Matches | 35 |
+| ELO Regular | 1147 🔻  (1228)|
+| ELO Competitive | 1222 🔻  (548)|
+| Total Matches | 36 |
 | Wins | 11 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744592498,1743984264,1743382918,1742783334,1742179272,1741597514,1740976702,1740380792,1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1745283955,1744592498,1743984264,1743382918,1742783334,1742179272,1741597514,1740976702,1740380792,1739813426,1739161950,1738564238,1738051258,1737333378,1735731529,1735131487,1734524852,1733675723,1733067543,1732448199,1731908821,1731240511,1730636197,1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/27 | 3-19 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2025/04/19 | 5-19 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2025/04/12 | 4-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/04/05 | 3-23 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
@@ -186,5 +187,5 @@ Corporation ID: 920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745024498"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745715955"></span>
 </div>

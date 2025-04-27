@@ -1,6 +1,6 @@
 ---
 title: ​Famous Assasins
-description: W:69 L:14 D:0 Bonus ✅ 50%
+description: W:69 L:14 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 32 - 27 **Кулак**
 date: 2025-04-20T02:14:08.000Z
@@ -20,7 +20,7 @@ RTA...</b>
 <br>
 
 ### [Discord](https://discord.gg/YHtMuQK)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

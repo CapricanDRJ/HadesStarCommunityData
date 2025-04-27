@@ -1,6 +1,6 @@
 ---
 title: ​Октябристы
-description: W:75 L:90 D:2 Bonus ✅ 42%
+description: W:75 L:90 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 16 - 20 **Pixies**
 date: 2025-04-26T18:00:12.000Z
@@ -17,7 +17,7 @@ date: 2025-04-26T18:00:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

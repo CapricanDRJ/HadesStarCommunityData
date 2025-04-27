@@ -1,6 +1,6 @@
 ---
 title: ​Got Nothing
-description: W:17 L:14 D:0 Bonus ✅ 36%
+description: W:17 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 31 **Rogue One**
 date: 2025-04-23T17:32:46.000Z
@@ -18,7 +18,7 @@ rd for easier coordination and fun!
 <br>
 
 ### [Discord](https://discord.gg/3CBQRhpWmV)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

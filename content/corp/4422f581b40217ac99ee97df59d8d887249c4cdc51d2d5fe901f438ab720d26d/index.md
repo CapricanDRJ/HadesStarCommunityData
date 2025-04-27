@@ -1,6 +1,6 @@
 ---
 title: ​" Возрождение "
-description: W:20 L:2 D:0 Bonus ✅ 36%
+description: W:20 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 49 - 3 **Atlas Star llc\.**
 date: 2025-04-20T02:59:12.000Z
@@ -20,7 +20,7 @@ date: 2025-04-20T02:59:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

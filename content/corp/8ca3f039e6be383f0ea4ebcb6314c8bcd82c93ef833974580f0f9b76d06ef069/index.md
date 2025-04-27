@@ -1,6 +1,6 @@
 ---
 title: ​KINETIC
-description: W:14 L:1 D:0 Bonus ✅ 36%
+description: W:14 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 13 - 35 **Октябристы**
 date: 2025-04-20T03:29:15.000Z
@@ -18,7 +18,7 @@ Welcome to KINETIC! A corporation almost as old as the Hades universe
 <br>
 
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

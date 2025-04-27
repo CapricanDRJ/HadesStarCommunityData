@@ -1,6 +1,6 @@
 ---
 title: ​Frontier X
-description: W:10 L:5 D:0 Bonus ✅ 32%
+description: W:10 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 0 **Avantgarde**
 date: 2025-04-20T02:59:12.000Z
@@ -16,7 +16,7 @@ o7233
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

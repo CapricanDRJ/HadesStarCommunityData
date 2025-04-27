@@ -1,6 +1,6 @@
 ---
 title: ​Dacia Chill
-description: W:22 L:5 D:0 Bonus ✅ 36%
+description: W:22 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 11 - 15 **Blood Hounds**
 date: 2025-04-24T04:03:47.000Z
@@ -19,7 +19,7 @@ WDL 88/2/4
 <br>
 
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

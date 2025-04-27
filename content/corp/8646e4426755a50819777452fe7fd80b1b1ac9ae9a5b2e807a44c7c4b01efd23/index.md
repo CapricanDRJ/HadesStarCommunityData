@@ -1,6 +1,6 @@
 ---
 title: ​第一序列
-description: W:42 L:57 D:0 Bonus ❌ 48%
+description: W:42 L:57 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 41 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2025-04-20T00:54:02.000Z
@@ -18,7 +18,7 @@ date: 2025-04-20T00:54:02.000Z
 <br>
 
 ### [Discord](https://discord.gg/U7S2BaueGU)
-### Whitestar Bonus ❌ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
