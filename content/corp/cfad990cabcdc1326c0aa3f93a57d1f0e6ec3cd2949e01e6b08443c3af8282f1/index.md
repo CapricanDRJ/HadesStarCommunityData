@@ -1,6 +1,6 @@
 ---
 title: ​EZCO
-description: W:16 L:26 D:1 Bonus ✅ 38%
+description: W:16 L:26 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 29 - 60 **Crazy Elite**
 date: 2025-04-21T19:58:17.000Z
@@ -17,7 +17,7 @@ bis 11 genauso. ganz entspannt. WZ wöchentlich 😀
 <br>
 
 ### [Discord](https://discord.gg/FPjtJsvScr)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

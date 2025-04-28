@@ -26,8 +26,8 @@ https://discord.gg/WKdC8XW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (631)|
-| ELO Competitive | 1190 🔻  (847)|
+| ELO Regular | 1191 🔻  (632)|
+| ELO Competitive | 1190 🔻  (846)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

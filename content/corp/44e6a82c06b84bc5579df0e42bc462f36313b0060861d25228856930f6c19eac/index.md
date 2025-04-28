@@ -1,9 +1,9 @@
 ---
 title: ​Fairy tail 
-description: W:7 L:7 D:0 Bonus ❌ 5%
+description: W:8 L:7 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 16 **Cerberus**
-date: 2025-03-15T16:16:00.000Z
+Summary: ✅ 4 - 0 **龙族之家**
+date: 2025-04-28T15:39:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ Todoas las personas que puedan hablar español esta permitido aqui nos
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (890)|
-| ELO Competitive | 1193 🔻  (778)|
-| Total Matches | 14 |
-| Wins | 7 |
+| ELO Regular | 1199 🔺  (555)|
+| ELO Competitive | 1208 🔺  (656)|
+| Total Matches | 15 |
+| Wins | 8 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741623360,1737165385,1733776685,1732682281,1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
+        let timestamps = [1745422781,1741623360,1737165385,1733776685,1732682281,1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 4-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
 | ❌ | 2025/03/15 | 0-16 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ❌ | 2025/01/23 | 1-5 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/14 | 2-12 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
@@ -157,5 +158,5 @@ Corporation ID: 44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742055360"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745854781"></span>
 </div>

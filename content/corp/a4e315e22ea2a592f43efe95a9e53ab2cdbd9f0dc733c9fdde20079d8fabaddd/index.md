@@ -1,6 +1,6 @@
 ---
 title: ​Battle Academy
-description: W:11 L:1 D:0 Bonus ✅ 34%
+description: W:11 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 26 - 3 **P\!RAT£ SHIP**
 date: 2025-04-21T15:42:47.000Z
@@ -24,7 +24,7 @@ color=#111100><b></b></color>
 <br>
 
 ### [Discord](https://discord.gg/3A9WHQV)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

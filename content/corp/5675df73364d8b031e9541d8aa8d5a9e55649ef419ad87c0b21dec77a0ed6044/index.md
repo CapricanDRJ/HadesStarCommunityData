@@ -1,6 +1,6 @@
 ---
 title: ​nuevo mundo
-description: W:18 L:12 D:0 Bonus ✅ 36%
+description: W:18 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 20 - 5 **Rogue Corp**
 date: 2025-04-21T14:07:36.000Z
@@ -21,7 +21,7 @@ Esperamos su llegada!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

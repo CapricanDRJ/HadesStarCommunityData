@@ -1,6 +1,6 @@
 ---
 title: ​Корпорация Миф
-description: W:9 L:0 D:0 Bonus ✅ 38%
+description: W:9 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 15 - 3 **世外桃源**
 date: 2025-04-21T14:47:41.000Z
@@ -18,7 +18,7 @@ date: 2025-04-21T14:47:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

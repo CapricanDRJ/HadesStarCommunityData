@@ -404,9 +404,48 @@ searchHidden: true
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>4</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS11</td>
+                    <td>350%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>350%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>350%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
+                <tr>
+                    <td>99</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS11</td>
+                    <td>310%</td>
+                </tr>
+            
+                <tr>
+                    <td>99</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS10</td>
+                    <td>310%</td>
+                </tr>
+            
                 <tr>
                     <td>99</td>
                     <td><img src="combat.png" alt="combat"></td>
