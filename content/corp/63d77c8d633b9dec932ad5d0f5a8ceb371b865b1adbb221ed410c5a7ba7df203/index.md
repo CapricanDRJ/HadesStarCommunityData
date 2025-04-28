@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Star
-description: W:42 L:19 D:0 Bonus ✅ 38%
+description: W:42 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 22 - 0 **IMPERIAL ARMADA**
 date: 2025-04-21T08:57:03.000Z
@@ -18,7 +18,7 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Повстанцы Хаоса
-description: W:58 L:9 D:0 Bonus ✅ 40%
+description: W:58 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 31 - 7 **северный шторм**
 date: 2025-04-21T07:16:55.000Z
@@ -20,7 +20,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 <br>
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

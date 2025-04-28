@@ -1,9 +1,9 @@
 ---
 title: ​彩虹神圣太空队
-description: W:1 L:2 D:0 Bonus ❌ 
+description: W:1 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 23 **Winter Star llc**
-date: 2025-04-22T09:24:28.000Z
+Summary: ❌ 0 - 20 **Empire of Hades**
+date: 2025-04-28T06:58:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-22T09:24:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (922)|
-| ELO Competitive | 1186 🔻  (980)|
-| Total Matches | 3 |
+| ELO Regular | 1173 🔻  (1001)|
+| ELO Competitive | 1179 🔻  (1113)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744881868,1744423006,1743914531];
+        let timestamps = [1745391528,1744881868,1744423006,1743914531];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/28 | 0-20 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/04/22 | 0-23 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2025/04/17 | 0-14 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/04/11 | 5-1 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
@@ -144,5 +145,5 @@ Corporation ID: 65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745313868"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745823528"></span>
 </div>
