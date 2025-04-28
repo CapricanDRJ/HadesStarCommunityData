@@ -1,9 +1,9 @@
 ---
 title: ​Battle Academy
-description: W:11 L:1 D:0 Bonus ❌ 7%
+description: W:12 L:1 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 26 - 3 **P\!RAT£ SHIP**
-date: 2025-04-21T15:42:47.000Z
+Summary: ✅ 19 - 3 **Бороская Имерия**
+date: 2025-04-28T19:45:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,18 +24,18 @@ color=#111100><b></b></color>
 <br>
 
 ### [Discord](https://discord.gg/3A9WHQV)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔺  (140)|
-| ELO Competitive | 1361 🔺  (220)|
-| Total Matches | 12 |
-| Wins | 11 |
+| ELO Regular | 1346 🔺  (118)|
+| ELO Competitive | 1376 🔺  (199)|
+| Total Matches | 13 |
+| Wins | 12 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 4 |
 
 ---
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744818167,1743699956,1742446429,1741982433,1741512774,1740920501,1731427426,1729859099,1716623612,1714279399,1713065249,1711434257];
+        let timestamps = [1745437511,1744818167,1743699956,1742446429,1741982433,1741512774,1740920501,1731427426,1729859099,1716623612,1714279399,1713065249,1711434257];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 19-3 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2025/04/21 | 26-3 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ✅ | 2025/04/08 | 15-14 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/03/25 | 34-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
@@ -164,5 +165,5 @@ Corporation ID: a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745250167"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745869511"></span>
 </div>
