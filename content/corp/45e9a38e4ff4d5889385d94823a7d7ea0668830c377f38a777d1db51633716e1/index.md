@@ -1,9 +1,9 @@
 ---
 title: ​星瀚协议
-description: W:7 L:5 D:0 Bonus ✅ 
+description: W:8 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 3 - 0 **使命白星**
-date: 2025-04-23T11:42:06.000Z
+Summary: ✅ 9 - 0 **复生会**
+date: 2025-04-28T12:39:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-23T11:42:06.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (274)|
-| ELO Competitive | 1252 🔺  (439)|
-| Total Matches | 12 |
-| Wins | 7 |
+| ELO Regular | 1265 🔺  (248)|
+| ELO Competitive | 1265 🔺  (411)|
+| Total Matches | 13 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
+        let timestamps = [1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 9-0 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
 | ✅ | 2025/04/23 | 3-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2025/04/22 | 8-0 | [星瀚协议：追光之宇](https://ws.tsl.rocks/corp/0c385f7bbee6eeb3082726c932b86d8b9cc770806e9785a536623ea61be316e5/) |
 | ✅ | 2025/04/09 | 3-0 | [星瀚协议：守望之城](https://ws.tsl.rocks/corp/8cc8aca54d2881fb3ac64cadf68e0ba57110a758b0f3976e30e19f70dd73cff2/) |
@@ -155,5 +156,5 @@ Corporation ID: 45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745408526"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745843960"></span>
 </div>
