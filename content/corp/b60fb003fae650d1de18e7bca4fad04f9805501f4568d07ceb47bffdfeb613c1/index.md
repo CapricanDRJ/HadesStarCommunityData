@@ -1,6 +1,6 @@
 ---
 title: ​Nox Imperium
-description: W:32 L:3 D:0 Bonus ✅ 36%
+description: W:32 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 36 - 4 **六大天神**
 date: 2025-04-21T17:43:01.000Z
@@ -17,7 +17,7 @@ date: 2025-04-21T17:43:01.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

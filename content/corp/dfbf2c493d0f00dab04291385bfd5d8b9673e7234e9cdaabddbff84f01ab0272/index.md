@@ -1,9 +1,9 @@
 ---
 title: ​V0RTEX
-description: W:16 L:5 D:2 Bonus ✅ 
+description: W:17 L:5 D:2 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 0 **BAB**
-date: 2025-04-22T19:35:37.000Z
+Summary: ✅ 18 - 1 **Alpaca Nation**
+date: 2025-04-28T17:34:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-22T19:35:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (148)|
-| ELO Competitive | 1328 🔺  (273)|
-| Total Matches | 23 |
-| Wins | 16 |
+| ELO Regular | 1340 🔺  (131)|
+| ELO Competitive | 1345 🔺  (246)|
+| Total Matches | 24 |
+| Wins | 17 |
 | Losses | 5 |
 | Draws | 2 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
+        let timestamps = [1745429695,1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 18-1 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/04/22 | 15-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ✅ | 2025/04/22 | 17-0 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/04/17 | 10-5 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
@@ -176,5 +177,5 @@ Corporation ID: dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745350537"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745861695"></span>
 </div>

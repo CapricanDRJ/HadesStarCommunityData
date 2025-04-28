@@ -1,9 +1,9 @@
 ---
 title: ​WinterComes
-description: W:8 L:16 D:0 Bonus ❌ 12%
+description: W:9 L:16 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ✅ 14 - 13 **Void**
-date: 2025-04-20T14:10:15.000Z
+Summary: ✅ 27 - 0 **ZORG IND**
+date: 2025-04-28T15:59:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,17 +23,17 @@ Winter Comes to Hades</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔺  (911)|
-| ELO Competitive | 1256 🔺  (432)|
-| Total Matches | 24 |
-| Wins | 8 |
+| ELO Regular | 1196 🔺  (580)|
+| ELO Competitive | 1272 🔺  (387)|
+| Total Matches | 25 |
+| Wins | 9 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 6 |
 
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744726215,1744121308,1743525659,1742832918,1742300672,1741622759,1740496185,1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1745423983,1744726215,1744121308,1743525659,1742832918,1742300672,1741622759,1740496185,1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 27-0 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2025/04/20 | 14-13 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ✅ | 2025/04/13 | 13-7 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2025/04/06 | 5-28 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
@@ -181,5 +182,5 @@ Corporation ID: a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745158215"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745855983"></span>
 </div>

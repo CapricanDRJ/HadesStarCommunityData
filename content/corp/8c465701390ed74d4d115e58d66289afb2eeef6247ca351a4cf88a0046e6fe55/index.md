@@ -1,9 +1,9 @@
 ---
 title: ​探索舰队
-description: W:19 L:17 D:1 Bonus ✅ 34%
+description: W:19 L:19 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **红日初升，其道大光**
-date: 2025-04-23T14:37:27.000Z
+Summary: ❌ 0 - 12 **Blazing Stars**
+date: 2025-04-28T17:54:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ date: 2025-04-23T14:37:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (742)|
-| ELO Competitive | 1271 🔺  (390)|
-| Total Matches | 37 |
+| ELO Regular | 1164 🔻  (1101)|
+| ELO Competitive | 1263 🔻  (413)|
+| Total Matches | 39 |
 | Wins | 19 |
-| Losses | 17 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 8 |
 | Flagship | 4 |
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744987047,1742104741,1735705282,1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
+        let timestamps = [1745430897,1745427290,1744987047,1742104741,1735705282,1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/28 | 0-12 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
+| ❌ | 2025/04/28 | 0-7 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) |
 | ✅ | 2025/04/23 | 8-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/03/21 | 0-18 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ✅ | 2025/01/06 | 1-0 | [IMC](https://ws.tsl.rocks/corp/a751775849b67dbfefb552a6bb2a08317a4c01bc68b929101c41612e9b8f82d7/) |
@@ -192,5 +194,5 @@ Corporation ID: 8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745419047"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745862897"></span>
 </div>
