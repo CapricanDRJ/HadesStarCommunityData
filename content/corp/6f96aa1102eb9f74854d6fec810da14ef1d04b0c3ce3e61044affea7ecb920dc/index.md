@@ -1,9 +1,9 @@
 ---
 title: ​северный шторм
-description: W:17 L:23 D:1 Bonus ❌ 7%
+description: W:18 L:23 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 9 - 46 **Stella☆Glow**
-date: 2025-04-28T02:48:26.000Z
+Summary: ✅ 11 - 4 **BlankBoosters**
+date: 2025-04-28T04:18:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 2025-04-28T02:48:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (1053)|
-| ELO Competitive | 1297 🔻  (324)|
-| Total Matches | 41 |
-| Wins | 17 |
+| ELO Regular | 1185 🔺  (782)|
+| ELO Competitive | 1318 🔺  (290)|
+| Total Matches | 42 |
+| Wins | 18 |
 | Losses | 23 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745376506,1744796828,1744787815,1744190420,1744181707,1743593870,1743584855,1743038267,1742969651,1742363483,1742359765,1741766385,1741762180,1741162092,1741157586,1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1745381914,1745376506,1744796828,1744787815,1744190420,1744181707,1743593870,1743584855,1743038267,1742969651,1742363483,1742359765,1741766385,1741762180,1741162092,1741157586,1740551782,1740546974,1739941737,1739941737,1739349152,1739340139,1738749348,1738738532,1738131790,1737495044,1736912644,1736313973,1735692774,1735099341,1734501717,1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 11-4 | [BlankBoosters](https://ws.tsl.rocks/corp/4785b4fb166ccb4b23d12d1041a31d9b52b59e5284bdf5965805338cbc1c2e33/) |
 | ❌ | 2025/04/28 | 9-46 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/04/21 | 1-4 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2025/04/21 | 7-31 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
@@ -191,5 +192,5 @@ Corporation ID: 6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745808506"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745813914"></span>
 </div>

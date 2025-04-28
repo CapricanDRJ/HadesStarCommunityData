@@ -1,9 +1,9 @@
 ---
 title: ​Лютые
-description: W:26 L:12 D:1 Bonus ✅ 36%
+description: W:27 L:12 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 16 - 10 **Justice Vengers**
-date: 2025-04-21T07:56:58.000Z
+Summary: ✅ 35 - 1 **StellaMysterium**
+date: 2025-04-28T04:28:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ date: 2025-04-21T07:56:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔺  (68)|
-| ELO Competitive | 1498 🔺  (88)|
-| Total Matches | 39 |
-| Wins | 26 |
+| ELO Regular | 1400 🔺  (67)|
+| ELO Competitive | 1504 🔺  (84)|
+| Total Matches | 40 |
+| Wins | 27 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744790218,1744262841,1743651271,1743043586,1742455743,1741858632,1741233762,1740625703,1739417667,1737083043,1734589454,1733369217,1732769140,1731551527,1730972446,1727924937,1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
+        let timestamps = [1745382514,1744790218,1744262841,1743651271,1743043586,1742455743,1741858632,1741233762,1740625703,1739417667,1737083043,1734589454,1733369217,1732769140,1731551527,1730972446,1727924937,1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 35-1 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2025/04/21 | 16-10 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2025/04/15 | 29-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2025/04/08 | 10-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
@@ -192,5 +193,5 @@ Corporation ID: c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745222218"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745814514"></span>
 </div>

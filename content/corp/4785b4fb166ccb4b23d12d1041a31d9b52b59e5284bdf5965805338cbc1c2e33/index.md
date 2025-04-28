@@ -1,9 +1,9 @@
 ---
 title: ​BlankBoosters
-description: W:1 L:3 D:0 Bonus ❌ 5%
+description: W:1 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **神圣罗马帝国**
-date: 2024-03-10T10:42:16.000Z
+Summary: ❌ 4 - 11 **северный шторм**
+date: 2025-04-28T04:18:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Centre mine
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (964)|
-| ELO Competitive | 1182 🔺  (1088)|
-| Total Matches | 4 |
+| ELO Regular | 1160 🔻  (1134)|
+| ELO Competitive | 1172 🔻  (1189)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709635336,1706504455,1704690256,1700322258];
+        let timestamps = [1745381914,1709635336,1706504455,1704690256,1700322258];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/28 | 4-11 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2024/03/10 | 3-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/02/03 | 1-29 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024/01/13 | 3-30 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
@@ -147,5 +148,5 @@ Corporation ID: 4785b4fb166ccb4b23d12d1041a31d9b52b59e5284bdf5965805338cbc1c2e33
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1710067336"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745813914"></span>
 </div>
