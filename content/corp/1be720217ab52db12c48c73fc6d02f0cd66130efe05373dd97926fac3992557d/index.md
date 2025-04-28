@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:53 L:43 D:0 Bonus ✅ 48%
+description: W:53 L:43 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 29 - 69 **Legion**
 date: 2025-04-27T20:12:51.000Z
@@ -17,7 +17,7 @@ date: 2025-04-27T20:12:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
