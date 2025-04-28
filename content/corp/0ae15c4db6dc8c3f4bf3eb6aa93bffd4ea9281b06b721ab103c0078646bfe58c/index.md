@@ -25,7 +25,7 @@ t.me/CorpSputnik
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔻  (141)|
+| ELO Regular | 1332 🔻  (142)|
 | ELO Competitive | 1398 🔻  (174)|
 | Total Matches | 48 |
 | Wins | 36 |
