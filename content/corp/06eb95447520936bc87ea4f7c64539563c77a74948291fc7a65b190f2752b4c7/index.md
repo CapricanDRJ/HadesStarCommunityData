@@ -1,6 +1,6 @@
 ---
 title: ​UGSS
-description: W:3 L:3 D:0 Bonus ✅ 
+description: W:3 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 4 - 25 **✨ℛedstar Order«**
 date: 2025-04-27T16:57:28.000Z
@@ -15,7 +15,7 @@ date: 2025-04-27T16:57:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
