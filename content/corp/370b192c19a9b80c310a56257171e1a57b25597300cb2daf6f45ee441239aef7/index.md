@@ -21,7 +21,7 @@ https://discord.gg/eMsE7sU
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (889)|
+| ELO Regular | 1184 🔻  (890)|
 | ELO Competitive | 1187 🔻  (913)|
 | Total Matches | 1 |
 | Wins | 0 |

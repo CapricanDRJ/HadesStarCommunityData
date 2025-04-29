@@ -1,9 +1,9 @@
 ---
 title: ​Splendid
-description: W:8 L:4 D:0 Bonus ❌ 5%
+description: W:8 L:5 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 14 - 0 **Cerberus**
-date: 2025-04-20T04:24:19.000Z
+Summary: ❌ 3 - 4 **AlyTec Sys\.**
+date: 2025-04-29T05:31:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ rporation.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (261)|
-| ELO Competitive | 1267 🔺  (403)|
-| Total Matches | 12 |
+| ELO Regular | 1240 🔻  (324)|
+| ELO Competitive | 1249 🔻  (447)|
+| Total Matches | 13 |
 | Wins | 8 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 3 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744691059,1743226905,1737126616,1734989684,1731527190,1729587172,1724231864,1723351651,1722091905,1721500787,1720804461,1720290846];
+        let timestamps = [1745472662,1744691059,1743226905,1737126616,1734989684,1731527190,1729587172,1724231864,1723351651,1722091905,1721500787,1720804461,1720290846];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -131,12 +130,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/29 | 3-4 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2025/04/20 | 14-0 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) |
 | ✅ | 2025/04/03 | 8-0 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2025/01/22 | 11-3 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) |
@@ -156,5 +161,5 @@ Corporation ID: 8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745123059"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745904662"></span>
 </div>
