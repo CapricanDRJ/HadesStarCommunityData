@@ -1,9 +1,9 @@
 ---
 title: ​Space Oddity
-description: W:15 L:10 D:0 Bonus ✅ 42%
+description: W:16 L:10 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 26 - 4 **Germania**
-date: 2025-04-23T21:38:13.000Z
+Summary: ✅ 27 - 0 **Prosperity**
+date: 2025-04-28T22:00:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (300)|
-| ELO Competitive | 1290 🔺  (345)|
-| Total Matches | 25 |
-| Wins | 15 |
+| ELO Regular | 1256 🔺  (265)|
+| ELO Competitive | 1300 🔺  (319)|
+| Total Matches | 26 |
+| Wins | 16 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
+        let timestamps = [1745445624,1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/28 | 27-0 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
 | ✅ | 2025/04/23 | 26-4 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2024/05/04 | 4-17 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ✅ | 2024/04/27 | 23-3 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
@@ -175,5 +177,5 @@ Corporation ID: a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745444293"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745877624"></span>
 </div>

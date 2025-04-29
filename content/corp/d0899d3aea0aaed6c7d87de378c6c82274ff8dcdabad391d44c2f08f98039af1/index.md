@@ -1,6 +1,6 @@
 ---
 title: ​Croce del Sud
-description: W:19 L:13 D:0 Bonus ✅ 36%
+description: W:19 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 29 - 25 **СССР**
 date: 2025-04-22T00:13:41.000Z
@@ -18,7 +18,7 @@ date: 2025-04-22T00:13:41.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
