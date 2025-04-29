@@ -1,9 +1,9 @@
 ---
 title: ​The Gladiators
-description: W:1 L:8 D:2 Bonus ❌ 4%
+description: W:2 L:8 D:2 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **WhiteSTarfighte**
-date: 2025-04-20T17:55:40.000Z
+Summary: ✅ 1 - 0 **GatosEsponjosos**
+date: 2025-04-29T19:12:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ White star every 2 weeks
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔻  (1340)|
-| ELO Competitive | 1133 🔻  (1416)|
-| Total Matches | 11 |
-| Wins | 1 |
+| ELO Regular | 1139 🔺  (1269)|
+| ELO Competitive | 1151 🔺  (1352)|
+| Total Matches | 12 |
+| Wins | 2 |
 | Losses | 8 |
 | Draws | 2 |
 | Flagship | 1 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744739740,1744269151,1743543696,1743030666,1742340372,1741738447,1741301394,1730506986,1709826432,1707569106,1707064428];
+        let timestamps = [1745521948,1744739740,1744269151,1743543696,1743030666,1742340372,1741738447,1741301394,1730506986,1709826432,1707569106,1707064428];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/29 | 1-0 | [GatosEsponjosos](https://ws.tsl.rocks/corp/8aa1da53aac586f3d48c29de100a9c86df9e6fb6c8d89d274e26794b905f4456/) |
 | ❌ | 2025/04/20 | 0-6 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2025/04/15 | 0-18 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ❌ | 2025/04/06 | 0-10 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -156,5 +157,5 @@ Corporation ID: 4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745171740"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745953948"></span>
 </div>

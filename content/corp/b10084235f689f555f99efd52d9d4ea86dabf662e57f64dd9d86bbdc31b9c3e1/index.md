@@ -1,9 +1,9 @@
 ---
 title: ​Hexwood
-description: W:13 L:9 D:0 Bonus ❌ 8%
+description: W:14 L:9 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 40 - 3 **九州·白星**
-date: 2025-04-20T08:39:42.000Z
+Summary: ✅ 54 - 4 **Galaxians**
+date: 2025-04-29T19:17:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ A social, easygoing Corp with allies to join together with for Red or
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (232)|
-| ELO Competitive | 1318 🔺  (292)|
-| Total Matches | 22 |
-| Wins | 13 |
+| ELO Regular | 1281 🔺  (217)|
+| ELO Competitive | 1329 🔺  (272)|
+| Total Matches | 23 |
+| Wins | 14 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 5 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744706382,1743533776,1741333364,1739463040,1738178971,1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
+        let timestamps = [1745522248,1744706382,1743533776,1741333364,1739463040,1738178971,1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) | 2 | 0 | 0 | 2 |
 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/29 | 54-4 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2025/04/20 | 40-3 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ✅ | 2025/04/06 | 26-4 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ❌ | 2025/03/12 | 15-23 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
@@ -175,5 +177,5 @@ Corporation ID: b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745138382"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745954248"></span>
 </div>

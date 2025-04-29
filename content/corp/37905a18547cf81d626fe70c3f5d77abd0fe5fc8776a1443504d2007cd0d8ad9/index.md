@@ -1,9 +1,9 @@
 ---
 title: ​星系联盟
-description: W:1 L:1 D:1 Bonus ❌ 
+description: W:1 L:1 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **KEPLER\-442  b**
-date: 2025-04-18T16:10:02.000Z
+Summary: ↔️ 0 - 0 **the kings**
+date: 2025-04-29T21:16:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-04-18T16:10:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (533)|
-| ELO Competitive | 1205 🔺  (675)|
-| Total Matches | 3 |
+| ELO Regular | 1198 🔻  (562)|
+| ELO Competitive | 1204 🔻  (680)|
+| Total Matches | 4 |
 | Wins | 1 |
 | Losses | 1 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744560602,1736455624,1735896494];
+        let timestamps = [1745529399,1744560602,1736455624,1735896494];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/29 | 0-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ↔️ | 2025/04/18 | 0-0 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ✅ | 2025/01/14 | 2-0 | [UKRAINE STARS](https://ws.tsl.rocks/corp/a16f43d47a501623dad41df6137ed7e44bb4e4ce370062bfe8472d2a525c5e98/) |
 | ❌ | 2025/01/08 | 0-13 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
@@ -144,5 +145,5 @@ Corporation ID: 37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744992602"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745961399"></span>
 </div>

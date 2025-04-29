@@ -19,8 +19,8 @@ KillFrist
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 934 🔻  (1497)|
-| ELO Competitive | 970 🔻  (1507)|
+| ELO Regular | 934 🔻  (1498)|
+| ELO Competitive | 970 🔻  (1508)|
 | Total Matches | 63 |
 | Wins | 1 |
 | Losses | 44 |

@@ -20,7 +20,7 @@ Looking for members. Come grow with us!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (227)|
+| ELO Regular | 1275 🔺  (228)|
 | ELO Competitive | 1337 🔺  (259)|
 | Total Matches | 25 |
 | Wins | 16 |

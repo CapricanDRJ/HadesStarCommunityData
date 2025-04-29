@@ -2,14 +2,14 @@
 layout: page
 title: Custom ELO Weighting
 description: Hades' Star top 100 trial ranks inclusive of all whitestar matches.
-date: 2025-04-29T18:55:09.498Z
+date: 2025-04-29T21:55:08.641Z
 permalink: /ctop100/
 searchHidden: true
 ---
 
 | Rank | Corporation Name | WeightedELO |
 |------|-----------------|------------|
-| 1 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4) | 1767|
+| 1 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4) | 1770|
 | 2 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75) | 1750|
 | 3 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20) | 1718|
 | 4 | [Hand Of NOD! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9) | 1684|
@@ -27,7 +27,7 @@ searchHidden: true
 | 16 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337) | 1606|
 | 17 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b) | 1605|
 | 18 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03) | 1599|
-| 19 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb) | 1594|
+| 19 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb) | 1596|
 | 20 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22) | 1593|
 | 21 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780) | 1590|
 | 22 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1) | 1588|
@@ -39,12 +39,12 @@ searchHidden: true
 | 28 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c) | 1576|
 | 29 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd) | 1575|
 | 30 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3) | 1572|
-| 31 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b) | 1569|
-| 32 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d) | 1567|
-| 33 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83) | 1567|
-| 34 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d) | 1564|
-| 35 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 1563|
-| 36 | [Brodudes Inc.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466) | 1562|
+| 31 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d) | 1567|
+| 32 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83) | 1567|
+| 33 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d) | 1564|
+| 34 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70) | 1563|
+| 35 | [Brodudes Inc.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466) | 1562|
+| 36 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b) | 1562|
 | 37 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d) | 1562|
 | 38 | [BrazilCorp.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf) | 1561|
 | 39 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff) | 1561|
@@ -171,41 +171,41 @@ searchHidden: true
 | 160 | [Dacia Chill](https://ws.tsl.rocks/corp/b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208) | 1479|
 | 161 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac) | 1479|
 | 162 | [ISERLOHN](https://ws.tsl.rocks/corp/6c287f852581788415a341fe40fa82f1f10d0da5752b2474833cb58351972699) | 1479|
-| 163 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9) | 1479|
-| 164 | [Россия](https://ws.tsl.rocks/corp/5c3297d91f4c01633055dcdfdb3419996b991e00e2d7c7d7087b00fb853b1c69) | 1479|
-| 165 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7) | 1479|
-| 166 | [Imperium](https://ws.tsl.rocks/corp/4d1bd313c919d981ca390e6f96e152d6f97602d72167108074a99770fc7e74ef) | 1479|
-| 167 | [鱼的死水潭](https://ws.tsl.rocks/corp/efa98d404149f8b6e11a215ad7c8c1df056f7ef117393bc3e625ac48fb27f044) | 1479|
-| 168 | [푸르미르](https://ws.tsl.rocks/corp/1c9b5babd17b2882c769078b72c789e9b69e9aa52ae8d3948d6728e378b42b91) | 1479|
-| 169 | [✨😝🛒🧬💞🔰✨](https://ws.tsl.rocks/corp/e2de72cedd834be4ee36f5e0e7c3feb5c7212fb345dfc94be74330250ea14a3d) | 1479|
-| 170 | [Yishun CC](https://ws.tsl.rocks/corp/74e61ec5d74099cf9d2b44f45371203030d742671222f17f41300dc23594599b) | 1479|
-| 171 | [IA5](https://ws.tsl.rocks/corp/a86622f7625d40a3455992647e02c761e639c1b172e6f5c87ae6d31f6dda7223) | 1479|
-| 172 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d) | 1478|
-| 173 | [华夏三体-阿拜多斯集团 ](https://ws.tsl.rocks/corp/78854ef22e7a0ed0424f4452ba62768664f785bcc2796bc04700c2f50683441f) | 1478|
-| 174 | [YU-GI-OH](https://ws.tsl.rocks/corp/28f250641a870cb4c3bc77c2320c4892ec2c7006422ca4530475e1f3f372786a) | 1478|
-| 175 | [Corp of Anarchy](https://ws.tsl.rocks/corp/ce07a19337e372e27adfb36d563f9db70ef925fb5f8844c1229454e7aa14337f) | 1478|
-| 176 | [银星·暗域信标](https://ws.tsl.rocks/corp/c86cfa17ee72ccda5c13347f8bfe6a29187e7f79dd0203ca07d06478de74aa97) | 1478|
-| 177 | [амурочка](https://ws.tsl.rocks/corp/6cc927cc370ca2dc8f42d77e6d2dfc76b6949703648b704cc4c691a559756b0b) | 1478|
-| 178 | [вавилон 5](https://ws.tsl.rocks/corp/9fb82c905e6843abf36a6911b09a7bbe345d48e4e2a0073f1cfb65e8cc164ae5) | 1478|
-| 179 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80) | 1478|
-| 180 | [best room entry](https://ws.tsl.rocks/corp/6a3c77591d0df0cec141d0148a8b712d534702b3f936ca8a0c66ce2a5944ad6f) | 1478|
-| 181 | [dosti room](https://ws.tsl.rocks/corp/679d1a84f4938856ed291bb8b55f4fc0c50ffa2d7f1d1f316e6867b82a58910b) | 1478|
-| 182 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d) | 1477|
-| 183 | [EDEMs](https://ws.tsl.rocks/corp/76ba95fd9096dfec91dcf08671e93c566f43d1500a55541d9ba3d011fd28e055) | 1477|
-| 184 | [DreamTeam](https://ws.tsl.rocks/corp/c3255342c77e619e693501ae518fc1894516bcf9fc3807690c504b6e04527fb5) | 1477|
-| 185 | [love room entry](https://ws.tsl.rocks/corp/dddc6493bdfcb5d9d40421547b247b3fb4c53c896893579b8ea2811a72824153) | 1477|
-| 186 | [chhota room](https://ws.tsl.rocks/corp/4d7b5625ade8539392cb86cf71b078b944ce1506bb0b121a1c04165cc24905ab) | 1477|
-| 187 | [星瀚协议：追光之宇](https://ws.tsl.rocks/corp/0c385f7bbee6eeb3082726c932b86d8b9cc770806e9785a536623ea61be316e5) | 1477|
-| 188 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02) | 1476|
-| 189 | [Тартария](https://ws.tsl.rocks/corp/fd6366ca6eb6845a94559e3ce702b79f718a80a7c32022540ab3661b552e9416) | 1476|
-| 190 | [Sun light](https://ws.tsl.rocks/corp/668a9100e61ce2b71bda851beb8ae9a6aa3ce9f2d64681f29f29c4233adc104c) | 1476|
-| 191 | [VD Redux](https://ws.tsl.rocks/corp/4c01d685744a017bb7d4799959ee348598a769d8919e005542cc71d67e2e6cf7) | 1476|
-| 192 | [Os Guild](https://ws.tsl.rocks/corp/95419ee3d00a8d81d84d6fdba1cc4478098c152940903bb6a203af8f646d4e13) | 1476|
-| 193 | [✨🔰🔫💓🔰✨😝](https://ws.tsl.rocks/corp/05bb6e34dd52a8ccb3835f8f87ccede7ffb56741414ac7b3dd10e88a542c6c07) | 1476|
-| 194 | [love do you 👻](https://ws.tsl.rocks/corp/8bf1cff7b7ecfba046b45aaaf239229375c2d75a021cfd13eae13ce99fbf83bc) | 1476|
-| 195 | [dosti room🚚](https://ws.tsl.rocks/corp/e3b3acde7243499e951303924c2ab589f8b898b204b4d785bdb137a76e140395) | 1476|
-| 196 | [love room](https://ws.tsl.rocks/corp/e0d14fd70b77e006878f273de53342f8938248f1761b4860a9a806756250db84) | 1476|
-| 197 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65) | 1475|
+| 163 | [Россия](https://ws.tsl.rocks/corp/5c3297d91f4c01633055dcdfdb3419996b991e00e2d7c7d7087b00fb853b1c69) | 1479|
+| 164 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7) | 1479|
+| 165 | [Imperium](https://ws.tsl.rocks/corp/4d1bd313c919d981ca390e6f96e152d6f97602d72167108074a99770fc7e74ef) | 1479|
+| 166 | [鱼的死水潭](https://ws.tsl.rocks/corp/efa98d404149f8b6e11a215ad7c8c1df056f7ef117393bc3e625ac48fb27f044) | 1479|
+| 167 | [푸르미르](https://ws.tsl.rocks/corp/1c9b5babd17b2882c769078b72c789e9b69e9aa52ae8d3948d6728e378b42b91) | 1479|
+| 168 | [✨😝🛒🧬💞🔰✨](https://ws.tsl.rocks/corp/e2de72cedd834be4ee36f5e0e7c3feb5c7212fb345dfc94be74330250ea14a3d) | 1479|
+| 169 | [Yishun CC](https://ws.tsl.rocks/corp/74e61ec5d74099cf9d2b44f45371203030d742671222f17f41300dc23594599b) | 1479|
+| 170 | [IA5](https://ws.tsl.rocks/corp/a86622f7625d40a3455992647e02c761e639c1b172e6f5c87ae6d31f6dda7223) | 1479|
+| 171 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d) | 1478|
+| 172 | [华夏三体-阿拜多斯集团 ](https://ws.tsl.rocks/corp/78854ef22e7a0ed0424f4452ba62768664f785bcc2796bc04700c2f50683441f) | 1478|
+| 173 | [YU-GI-OH](https://ws.tsl.rocks/corp/28f250641a870cb4c3bc77c2320c4892ec2c7006422ca4530475e1f3f372786a) | 1478|
+| 174 | [Corp of Anarchy](https://ws.tsl.rocks/corp/ce07a19337e372e27adfb36d563f9db70ef925fb5f8844c1229454e7aa14337f) | 1478|
+| 175 | [银星·暗域信标](https://ws.tsl.rocks/corp/c86cfa17ee72ccda5c13347f8bfe6a29187e7f79dd0203ca07d06478de74aa97) | 1478|
+| 176 | [амурочка](https://ws.tsl.rocks/corp/6cc927cc370ca2dc8f42d77e6d2dfc76b6949703648b704cc4c691a559756b0b) | 1478|
+| 177 | [вавилон 5](https://ws.tsl.rocks/corp/9fb82c905e6843abf36a6911b09a7bbe345d48e4e2a0073f1cfb65e8cc164ae5) | 1478|
+| 178 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80) | 1478|
+| 179 | [best room entry](https://ws.tsl.rocks/corp/6a3c77591d0df0cec141d0148a8b712d534702b3f936ca8a0c66ce2a5944ad6f) | 1478|
+| 180 | [dosti room](https://ws.tsl.rocks/corp/679d1a84f4938856ed291bb8b55f4fc0c50ffa2d7f1d1f316e6867b82a58910b) | 1478|
+| 181 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d) | 1477|
+| 182 | [EDEMs](https://ws.tsl.rocks/corp/76ba95fd9096dfec91dcf08671e93c566f43d1500a55541d9ba3d011fd28e055) | 1477|
+| 183 | [DreamTeam](https://ws.tsl.rocks/corp/c3255342c77e619e693501ae518fc1894516bcf9fc3807690c504b6e04527fb5) | 1477|
+| 184 | [love room entry](https://ws.tsl.rocks/corp/dddc6493bdfcb5d9d40421547b247b3fb4c53c896893579b8ea2811a72824153) | 1477|
+| 185 | [chhota room](https://ws.tsl.rocks/corp/4d7b5625ade8539392cb86cf71b078b944ce1506bb0b121a1c04165cc24905ab) | 1477|
+| 186 | [星瀚协议：追光之宇](https://ws.tsl.rocks/corp/0c385f7bbee6eeb3082726c932b86d8b9cc770806e9785a536623ea61be316e5) | 1477|
+| 187 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02) | 1476|
+| 188 | [Тартария](https://ws.tsl.rocks/corp/fd6366ca6eb6845a94559e3ce702b79f718a80a7c32022540ab3661b552e9416) | 1476|
+| 189 | [Sun light](https://ws.tsl.rocks/corp/668a9100e61ce2b71bda851beb8ae9a6aa3ce9f2d64681f29f29c4233adc104c) | 1476|
+| 190 | [VD Redux](https://ws.tsl.rocks/corp/4c01d685744a017bb7d4799959ee348598a769d8919e005542cc71d67e2e6cf7) | 1476|
+| 191 | [Os Guild](https://ws.tsl.rocks/corp/95419ee3d00a8d81d84d6fdba1cc4478098c152940903bb6a203af8f646d4e13) | 1476|
+| 192 | [✨🔰🔫💓🔰✨😝](https://ws.tsl.rocks/corp/05bb6e34dd52a8ccb3835f8f87ccede7ffb56741414ac7b3dd10e88a542c6c07) | 1476|
+| 193 | [love do you 👻](https://ws.tsl.rocks/corp/8bf1cff7b7ecfba046b45aaaf239229375c2d75a021cfd13eae13ce99fbf83bc) | 1476|
+| 194 | [dosti room🚚](https://ws.tsl.rocks/corp/e3b3acde7243499e951303924c2ab589f8b898b204b4d785bdb137a76e140395) | 1476|
+| 195 | [love room](https://ws.tsl.rocks/corp/e0d14fd70b77e006878f273de53342f8938248f1761b4860a9a806756250db84) | 1476|
+| 196 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65) | 1475|
+| 197 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9) | 1475|
 | 198 | [Outcasts](https://ws.tsl.rocks/corp/a5d77400f5f6762d9c869428160b2f0bf115c23cba5a694f6c8e7b9cd71c2bf0) | 1475|
 | 199 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a) | 1474|
 | 200 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c) | 1474|
