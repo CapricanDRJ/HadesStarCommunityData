@@ -1,6 +1,6 @@
 ---
 title: ​Winter Star llc
-description: W:14 L:10 D:1 Bonus ✅ 32%
+description: W:14 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **彩虹神圣太空队**
 date: 2025-04-22T09:24:28.000Z
@@ -17,7 +17,7 @@ ons! //You must Join our Discord within 7 days
 <br>
 
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -22,8 +22,8 @@ rsuit of power!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (442)|
-| ELO Competitive | 1214 🔺  (615)|
+| ELO Regular | 1214 🔺  (443)|
+| ELO Competitive | 1214 🔺  (616)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

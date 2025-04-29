@@ -1,9 +1,9 @@
 ---
 title: ​TheDuckeanFlow
-description: W:1 L:1 D:0 Bonus ❌ 
+description: W:2 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 5 **DINASTÍA SOLAR**
-date: 2025-04-23T21:08:10.000Z
+Summary: ✅ 3 - 0 **V0RTEX**
+date: 2025-04-29T08:46:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-23T21:08:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (577)|
-| ELO Competitive | 1197 🔻  (743)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1217 🔺  (417)|
+| ELO Competitive | 1218 🔺  (570)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745010490,1744572067];
+        let timestamps = [1745484380,1745010490,1744572067];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/29 | 3-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/04/23 | 3-5 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 | ✅ | 2025/04/18 | 11-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 
@@ -143,5 +144,5 @@ Corporation ID: bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745442490"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745916380"></span>
 </div>

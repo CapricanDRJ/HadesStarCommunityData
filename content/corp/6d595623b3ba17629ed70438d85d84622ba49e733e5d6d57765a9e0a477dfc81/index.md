@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:53 L:54 D:3 Bonus ✅ 40%
+description: W:53 L:54 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 30 **万星联盟**
 date: 2025-04-22T14:30:01.000Z
@@ -27,7 +27,7 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
