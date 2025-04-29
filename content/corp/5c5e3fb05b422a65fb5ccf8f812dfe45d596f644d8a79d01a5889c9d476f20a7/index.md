@@ -1,6 +1,6 @@
 ---
 title: ​GN星际联合
-description: W:6 L:3 D:0 Bonus ✅ 
+description: W:6 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 0 **星瀚协议：守望之城**
 date: 2025-04-22T12:14:45.000Z
@@ -15,7 +15,7 @@ date: 2025-04-22T12:14:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

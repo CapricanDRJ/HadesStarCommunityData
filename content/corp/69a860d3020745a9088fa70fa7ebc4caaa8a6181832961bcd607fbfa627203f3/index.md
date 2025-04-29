@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的（分团）
-description: W:24 L:18 D:1 Bonus ✅ 36%
+description: W:24 L:18 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 17 - 3 **OKC THUNDER **
 date: 2025-04-22T12:19:46.000Z
@@ -17,7 +17,7 @@ o华浩 QQ767311697
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
