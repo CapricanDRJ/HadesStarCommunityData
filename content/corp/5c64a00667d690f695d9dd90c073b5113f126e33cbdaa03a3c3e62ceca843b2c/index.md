@@ -1,9 +1,9 @@
 ---
 title: ​FoxTale
-description: W:9 L:8 D:1 Bonus ❌ 6%
+description: W:9 L:9 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 1 - 13 **Hades’ galaxy**
-date: 2025-04-14T20:21:33.000Z
+Summary: ❌ 3 - 8 **Blazing Stars**
+date: 2025-04-29T02:30:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (375)|
-| ELO Competitive | 1248 🔻  (452)|
-| Total Matches | 18 |
+| ELO Regular | 1218 🔻  (411)|
+| ELO Competitive | 1241 🔻  (483)|
+| Total Matches | 19 |
 | Wins | 9 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744230093,1743137345,1742521861,1741910619,1741301519,1740700523,1740215011,1739659568,1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
+        let timestamps = [1745461847,1744230093,1743137345,1742521861,1741910619,1741301519,1740700523,1740215011,1739659568,1737079738,1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,12 +133,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/29 | 3-8 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2025/04/14 | 1-13 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ✅ | 2025/04/02 | 7-6 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/03/26 | 0-2 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
@@ -164,5 +170,5 @@ Corporation ID: 5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744662093"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745893847"></span>
 </div>

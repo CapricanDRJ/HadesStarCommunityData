@@ -1,9 +1,9 @@
 ---
 title: ​Blazing Stars
-description: W:23 L:5 D:1 Bonus ✅ 34%
+description: W:24 L:5 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 12 - 0 **探索舰队**
-date: 2025-04-28T17:54:57.000Z
+Summary: ✅ 8 - 3 **FoxTale**
+date: 2025-04-29T02:30:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ e Hades Galaxy. Join us and have fun
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1386 🔺  (77)|
+| ELO Regular | 1395 🔺  (69)|
 | ELO Competitive | 1443 🔺  (131)|
-| Total Matches | 29 |
-| Wins | 23 |
+| Total Matches | 30 |
+| Wins | 24 |
 | Losses | 5 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 11 |
 | Flagship | 1 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745430897,1744768286,1744701875,1744171491,1744160075,1743588253,1743562322,1743017140,1742915258,1742256835,1741789524,1741659119,1741200256,1740392509,1739811322,1739362974,1738673620,1738597294,1737981541,1737074631,1736210051,1734861679,1734427199,1734397460,1733875537,1733834367,1733039129,1732682281,1732592440];
+        let timestamps = [1745461847,1745430897,1744768286,1744701875,1744171491,1744160075,1743588253,1743562322,1743017140,1742915258,1742256835,1741789524,1741659119,1741200256,1740392509,1739811322,1739362974,1738673620,1738597294,1737981541,1737074631,1736210051,1734861679,1734427199,1734397460,1733875537,1733834367,1733039129,1732682281,1732592440];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) | 2 | 0 | 0 | 2 |
 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -143,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/29 | 8-3 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2025/04/28 | 12-0 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
 | ❌ | 2025/04/21 | 14-16 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ❌ | 2025/04/20 | 0-13 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
@@ -179,5 +182,5 @@ Corporation ID: f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745862897"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745893847"></span>
 </div>
