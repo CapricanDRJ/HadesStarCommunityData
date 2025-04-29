@@ -19,8 +19,8 @@ Casual players welcome
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (528)|
-| ELO Competitive | 1201 🔻  (708)|
+| ELO Regular | 1201 🔻  (529)|
+| ELO Competitive | 1201 🔻  (707)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |

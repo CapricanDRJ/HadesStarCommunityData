@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-04-29T15:55:09.379Z
+date: 2025-04-29T18:55:09.969Z
 summary: "Corporation directory"
 ---
 
@@ -674,7 +674,7 @@ summary: "Corporation directory"
 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) | 1427 | 1513 | 36 |
 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) | 1130 | 1147 | 6 |
 | [Quin Armarda 2](https://ws.tsl.rocks/corp/529de2f6f4f84d776caefa1e49ce587d581b86c0659533f7fab2eb642b04a928/) | 1150 | 1160 | 4 |
-| [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) | 1169 | 1179 | 5 |
+| [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) | 1153 | 1168 | 6 |
 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) | 1197 | 1291 | 66 |
 | [R\.S\.F\.](https://ws.tsl.rocks/corp/13ad6b9ead07b9381b75292807b1698944fe7f1b4c947901559a5810cd677a57/) | 1171 | 1171 | 2 |
 | [R2D2](https://ws.tsl.rocks/corp/2a0e449fd09efb171bfb82091edade0616e79d74801e14f1701d2212e8427c32/) | 1175 | 1174 | 2 |
@@ -683,7 +683,7 @@ summary: "Corporation directory"
 | [RATAS](https://ws.tsl.rocks/corp/d1735017baebdc46be84fde565fc4554965b078e36a974f706eef623a932ea3d/) | 1185 | 1190 | 1 |
 | [RDR2](https://ws.tsl.rocks/corp/5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd/) | 1166 | 1169 | 3 |
 | [Rebellion\!](https://ws.tsl.rocks/corp/43daf4a5a2ec7f33566ebf93d9e37b36ebc9e0f4f982dbfac8c7ce7d5789e891/) | 1190 | 1198 | 2 |
-| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 1143 | 1282 | 63 |
+| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 1159 | 1293 | 64 |
 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) | 1344 | 1500 | 84 |
 | [Red Dwarf](https://ws.tsl.rocks/corp/49202a011f1e2333a5cb54f3abd75ccc2514e568f1108edc968f13003720629e/) | 1187 | 1187 | 1 |
 | [Red Noobs](https://ws.tsl.rocks/corp/77a15a2a5ecb3dbd333ea491275d2d41c23e39c1744dd9f1c092c5e3306a2e14/) | 1186 | 1186 | 1 |
@@ -899,7 +899,7 @@ summary: "Corporation directory"
 | [The Goonies](https://ws.tsl.rocks/corp/12ebe9e9a1c71d9a15f622670c299d2b2193e3e7a9ef18b1773c8b5965cb68ab/) | 1150 | 1177 | 12 |
 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 1293 | 1411 | 41 |
 | [The Hexagonix](https://ws.tsl.rocks/corp/61bda63b50c29b34fb12f0bef2b4436cdd3b114bc9896e392d4d6286368fd6b5/) | 1151 | 1152 | 9 |
-| [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) | 1156 | 1207 | 10 |
+| [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) | 1143 | 1192 | 11 |
 | [the light](https://ws.tsl.rocks/corp/ffcf6a565b50a1ba20885e043d38b47b7c53096114c00ff595f43b33c8c883a8/) | 1182 | 1184 | 1 |
 | [The Mini Elite](https://ws.tsl.rocks/corp/326c171e00430611fcd6534040ac09d702c8a3b5a0c607da4a5cbaf22260bfe8/) | 1145 | 1146 | 4 |
 | [The Nerd Herd](https://ws.tsl.rocks/corp/1e8c6f561b78ffd1dafab5c6427d0d87f3ad6ca8631f538a38ec388c4b30aa41/) | 1191 | 1192 | 3 |
@@ -1401,7 +1401,7 @@ summary: "Corporation directory"
 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) | 1074 | 1140 | 41 |
 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) | 1225 | 1243 | 11 |
 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) | 1225 | 1244 | 4 |
-| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1189 | 1205 | 9 |
+| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1202 | 1220 | 10 |
 | [洛神峰](https://ws.tsl.rocks/corp/69e75c04e1e97e3e1e943a1b8bb5ebd468da38c5daf44840707bdcd1d4823540/) | 1174 | 1174 | 2 |
 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) | 1199 | 1207 | 5 |
 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) | 1076 | 1086 | 22 |
