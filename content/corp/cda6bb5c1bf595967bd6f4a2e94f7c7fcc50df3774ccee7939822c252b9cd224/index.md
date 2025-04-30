@@ -1,9 +1,9 @@
 ---
 title: ​萌新集团
-description: W:9 L:7 D:0 Bonus ❌ 
+description: W:9 L:7 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 11 **Destroyer**
-date: 2025-04-24T09:24:20.000Z
+Summary: ↔️ 0 - 0 **红日初升，其道大光**
+date: 2025-04-30T07:53:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-04-24T09:24:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (378)|
-| ELO Competitive | 1248 🔻  (454)|
-| Total Matches | 16 |
+| ELO Regular | 1223 🔻  (384)|
+| ELO Competitive | 1255 🔺  (434)|
+| Total Matches | 17 |
 | Wins | 9 |
 | Losses | 7 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745054660,1744420001,1743759076,1741936949,1741327355,1740656646,1740145502,1739638230,1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
+        let timestamps = [1745567618,1745054660,1744420001,1743759076,1741936949,1741327355,1740656646,1740145502,1739638230,1737540713,1736604287,1736168519,1735733633,1734550999,1734099978,1733633648,1732994879];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -129,12 +129,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1 | 0 | 1 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/04/30 | 0-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/04/24 | 0-11 | [Destroyer](https://ws.tsl.rocks/corp/a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613/) |
 | ❌ | 2025/04/17 | 5-10 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/04/09 | 3-1 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -158,5 +164,5 @@ Corporation ID: cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745486660"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745999618"></span>
 </div>

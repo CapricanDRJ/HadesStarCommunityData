@@ -25,7 +25,7 @@ established '18
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (887)|
-| ELO Competitive | 1184 🔻  (1057)|
+| ELO Competitive | 1184 🔻  (1056)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

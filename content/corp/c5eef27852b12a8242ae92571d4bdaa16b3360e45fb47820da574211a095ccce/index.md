@@ -1,6 +1,6 @@
 ---
 title: ​한국우주연합
-description: W:10 L:16 D:0 Bonus ✅ 32%
+description: W:10 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 8 - 4 **DarkMoon**
 date: 2025-04-23T08:41:48.000Z
@@ -15,11 +15,11 @@ kor.cop 많이 들어와주세요
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (1091)|
+| ELO Regular | 1165 🔺  (1089)|
 | ELO Competitive | 1187 🔺  (924)|
 | Total Matches | 26 |
 | Wins | 10 |

@@ -1,9 +1,9 @@
 ---
 title: ​Romania
-description: W:0 L:2 D:1 Bonus ❌ 
+description: W:0 L:3 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 10 **Eastern Front**
-date: 2025-04-24T17:25:13.000Z
+Summary: ❌ 1 - 7 **Тихий Омут**
+date: 2025-04-30T07:03:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-24T17:25:13.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (911)|
-| ELO Competitive | 1194 🔻  (778)|
-| Total Matches | 3 |
+| ELO Regular | 1164 🔻  (1102)|
+| ELO Competitive | 1187 🔻  (916)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745083513,1738835661,1736068130];
+        let timestamps = [1745564614,1745083513,1738835661,1736068130];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/30 | 1-7 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2025/04/24 | 0-10 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2025/02/11 | 0-46 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ↔️ | 2025/01/10 | 0-0 | [Spaceforce](https://ws.tsl.rocks/corp/24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805/) |
@@ -144,5 +145,5 @@ Corporation ID: 4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745515513"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745996614"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​CTG
-description: W:42 L:49 D:0 Bonus ✅ 40%
+description: W:42 L:49 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 10 - 5 **Wompwompway **
 date: 2025-04-23T09:06:50.000Z
@@ -18,11 +18,11 @@ y newbie and big guy to join us! If you're interested, say hi!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (996)|
+| ELO Regular | 1173 🔺  (994)|
 | ELO Competitive | 1410 🔺  (166)|
 | Total Matches | 91 |
 | Wins | 42 |
