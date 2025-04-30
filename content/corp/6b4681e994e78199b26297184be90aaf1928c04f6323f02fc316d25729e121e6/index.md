@@ -1,6 +1,6 @@
 ---
 title: ​101
-description: W:61 L:96 D:6 Bonus ✅ 42%
+description: W:61 L:96 D:6 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 15 - 5 **CTG**
 date: 2025-04-23T04:56:26.000Z
@@ -17,7 +17,7 @@ date: 2025-04-23T04:56:26.000Z
 <br>
 
 ### [Discord](https://discord.gg/Sh82822)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
