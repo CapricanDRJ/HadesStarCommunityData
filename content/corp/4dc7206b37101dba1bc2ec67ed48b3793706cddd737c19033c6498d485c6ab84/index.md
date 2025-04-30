@@ -1,6 +1,6 @@
 ---
 title: ​Team Rainbow
-description: W:7 L:3 D:0 Bonus ✅ 34%
+description: W:7 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 34 - 0 **柯伊伯带**
 date: 2025-04-23T12:22:10.000Z
@@ -18,7 +18,7 @@ ap fyah, so get cooked.**
 <br>
 
 ### [Discord](https://discord.gg/eghZesnPZn)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

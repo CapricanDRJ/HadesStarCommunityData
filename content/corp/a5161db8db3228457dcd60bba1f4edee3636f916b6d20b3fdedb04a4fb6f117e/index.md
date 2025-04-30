@@ -1,9 +1,9 @@
 ---
 title: ​Hades’ galaxy
-description: W:13 L:3 D:1 Bonus ✅ 
+description: W:14 L:3 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 11 - 0 **佛矿寺**
-date: 2025-04-25T10:11:04.000Z
+Summary: ✅ 10 - 3 **万顷稻花**
+date: 2025-04-30T12:04:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-25T10:11:04.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (191)|
-| ELO Competitive | 1333 🔺  (266)|
-| Total Matches | 17 |
-| Wins | 13 |
+| ELO Regular | 1305 🔺  (172)|
+| ELO Competitive | 1342 🔺  (248)|
+| Total Matches | 18 |
+| Wins | 14 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745143864,1744998240,1744686252,1744230093,1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
+        let timestamps = [1745582643,1745143864,1744998240,1744686252,1744230093,1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/30 | 10-3 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ✅ | 2025/04/25 | 11-0 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ↔️ | 2025/04/23 | 0-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2025/04/20 | 19-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
@@ -159,5 +161,5 @@ Corporation ID: a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745575864"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746014643"></span>
 </div>

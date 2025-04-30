@@ -1,6 +1,6 @@
 ---
 title: ​Nebulae Traders
-description: W:15 L:64 D:5 Bonus ✅ 38%
+description: W:15 L:64 D:5 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 6 - 23 **Spaceballs**
 date: 2025-04-29T21:57:45.000Z
@@ -16,12 +16,12 @@ date: 2025-04-29T21:57:45.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1020 🔻  (1472)|
-| ELO Competitive | 1182 🔻  (1087)|
+| ELO Regular | 1020 🔻  (1473)|
+| ELO Competitive | 1182 🔻  (1088)|
 | Total Matches | 84 |
 | Wins | 15 |
 | Losses | 64 |

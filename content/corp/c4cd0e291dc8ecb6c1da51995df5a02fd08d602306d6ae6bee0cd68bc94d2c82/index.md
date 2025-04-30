@@ -22,8 +22,8 @@ paces. Discord optional
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1219)|
-| ELO Competitive | 1147 🔻  (1369)|
+| ELO Regular | 1148 🔻  (1220)|
+| ELO Competitive | 1147 🔻  (1370)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

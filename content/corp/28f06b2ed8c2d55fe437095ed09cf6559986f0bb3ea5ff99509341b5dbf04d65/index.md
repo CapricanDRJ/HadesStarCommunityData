@@ -1,6 +1,6 @@
 ---
 title: ​六大天神
-description: W:131 L:74 D:2 Bonus ✅ 50%
+description: W:131 L:74 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 22 - 39 **Emergence**
 date: 2025-04-28T11:09:11.000Z
@@ -23,7 +23,7 @@ date: 2025-04-28T11:09:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
