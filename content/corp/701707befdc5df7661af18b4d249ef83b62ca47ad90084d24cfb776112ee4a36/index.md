@@ -1,9 +1,9 @@
 ---
 title: ​星系联盟
-description: W:10 L:7 D:0 Bonus ✅ 32%
+description: W:10 L:8 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 12 - 0 **游徒之家**
-date: 2025-04-25T09:46:25.000Z
+Summary: ❌ 0 - 8 **九州分团**
+date: 2025-04-30T14:44:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-04-25T09:46:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (348)|
-| ELO Competitive | 1267 🔺  (403)|
-| Total Matches | 17 |
+| ELO Regular | 1224 🔻  (384)|
+| ELO Competitive | 1263 🔻  (414)|
+| Total Matches | 18 |
 | Wins | 10 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 1 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745142385,1744378830,1743822268,1743163188,1742559723,1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
+        let timestamps = [1745592262,1745142385,1744378830,1743822268,1743163188,1742559723,1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/30 | 0-8 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2025/04/25 | 12-0 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2025/04/16 | 0-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2025/04/10 | 3-13 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
@@ -160,5 +161,5 @@ Corporation ID: 701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745574385"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746024262"></span>
 </div>

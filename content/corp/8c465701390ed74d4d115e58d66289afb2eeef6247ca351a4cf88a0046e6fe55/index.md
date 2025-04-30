@@ -1,6 +1,6 @@
 ---
 title: ​探索舰队
-description: W:19 L:19 D:1 Bonus ✅ 34%
+description: W:19 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 12 **Blazing Stars**
 date: 2025-04-28T17:54:57.000Z
@@ -22,12 +22,12 @@ date: 2025-04-28T17:54:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (1100)|
-| ELO Competitive | 1263 🔻  (411)|
+| ELO Competitive | 1263 🔻  (410)|
 | Total Matches | 39 |
 | Wins | 19 |
 | Losses | 19 |

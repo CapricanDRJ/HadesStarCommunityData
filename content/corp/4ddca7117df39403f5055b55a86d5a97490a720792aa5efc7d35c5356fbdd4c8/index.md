@@ -1,9 +1,9 @@
 ---
 title: ​百万繁星
-description: W:1 L:2 D:2 Bonus ❌ 
+description: W:1 L:3 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **方星集团**
-date: 2025-04-24T13:27:00.000Z
+Summary: ❌ 0 - 12 **SPACING GUILD**
+date: 2025-04-30T14:24:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-24T13:27:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (640)|
-| ELO Competitive | 1202 🔻  (691)|
-| Total Matches | 5 |
+| ELO Regular | 1177 🔻  (947)|
+| ELO Competitive | 1188 🔻  (885)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745069220,1744599963,1740837854,1740114552,1739455526];
+        let timestamps = [1745591059,1745069220,1744599963,1740837854,1740114552,1739455526];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/30 | 0-12 | [SPACING GUILD](https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/) |
 | ↔️ | 2025/04/24 | 0-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ↔️ | 2025/04/19 | 0-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2025/03/06 | 0-16 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -146,5 +147,5 @@ Corporation ID: 4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745501220"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746023059"></span>
 </div>

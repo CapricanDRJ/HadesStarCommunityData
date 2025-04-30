@@ -22,7 +22,7 @@ re ausgeschiedenen Pensionisten!      https://discord.gg/V5SHx
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (746)|
-| ELO Competitive | 1186 🔻  (947)|
+| ELO Competitive | 1186 🔻  (948)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

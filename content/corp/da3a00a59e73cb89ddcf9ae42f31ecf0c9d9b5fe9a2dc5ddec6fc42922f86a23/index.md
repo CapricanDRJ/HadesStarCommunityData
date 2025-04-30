@@ -24,8 +24,8 @@ Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (625)|
-| ELO Competitive | 1228 🔻  (522)|
+| ELO Regular | 1191 🔻  (626)|
+| ELO Competitive | 1228 🔻  (524)|
 | Total Matches | 21 |
 | Wins | 10 |
 | Losses | 11 |

@@ -1,9 +1,9 @@
 ---
 title: ​Destroyer
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 11 - 0 **萌新集团**
-date: 2025-04-24T09:24:20.000Z
+Summary: ✅ 8 - 0 **Draconis**
+date: 2025-04-30T13:59:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-24T09:24:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (391)|
-| ELO Competitive | 1224 🔺  (541)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1234 🔺  (348)|
+| ELO Competitive | 1237 🔺  (496)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745054660,1744522474,1743978256];
+        let timestamps = [1745589556,1745054660,1744522474,1743978256];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/30 | 8-0 | [Draconis](https://ws.tsl.rocks/corp/90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d/) |
 | ✅ | 2025/04/24 | 11-0 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ✅ | 2025/04/18 | 9-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
 | ❌ | 2025/04/11 | 2-4 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
@@ -146,5 +147,5 @@ Corporation ID: a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745486660"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746021556"></span>
 </div>
