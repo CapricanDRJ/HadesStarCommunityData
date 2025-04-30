@@ -1,6 +1,6 @@
 ---
 title: ​Polish Pirates
-description: W:30 L:15 D:0 Bonus ✅ 48%
+description: W:30 L:15 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **Sith Empire**
 date: 2025-04-23T02:00:55.000Z
@@ -22,11 +22,11 @@ vGfaYFN
 <br>
 
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔺  (52)|
+| ELO Regular | 1415 🔺  (51)|
 | ELO Competitive | 1487 🔺  (98)|
 | Total Matches | 45 |
 | Wins | 30 |

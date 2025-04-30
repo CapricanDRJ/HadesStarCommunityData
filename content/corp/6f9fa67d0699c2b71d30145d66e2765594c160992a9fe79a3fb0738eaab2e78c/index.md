@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:28 L:14 D:0 Bonus ✅ 36%
+description: W:28 L:14 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 33 **Sprite**
 date: 2025-04-28T12:39:20.000Z
@@ -17,12 +17,12 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1305 🔻  (172)|
-| ELO Competitive | 1435 🔻  (136)|
+| ELO Competitive | 1435 🔻  (135)|
 | Total Matches | 42 |
 | Wins | 28 |
 | Losses | 14 |

@@ -1,9 +1,9 @@
 ---
 title: ​The Syndicate 
-description: W:34 L:7 D:0 Bonus ❌ 8%
+description: W:34 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 23 - 0 **titan tv**
-date: 2025-04-08T22:43:35.000Z
+Summary: ❌ 4 - 18 **OKC THUNDER **
+date: 2025-04-30T01:43:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,13 +24,12 @@ ons.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1412 🔺  (56)|
-| ELO Competitive | 1452 🔺  (123)|
-| Total Matches | 41 |
+| ELO Regular | 1388 🔻  (74)|
+| ELO Competitive | 1428 🔻  (144)|
+| Total Matches | 42 |
 | Wins | 34 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 20 |
 | Flagship | 3 |
 
@@ -50,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1743720215,1743090905,1741865543,1741261847,1740656646,1739450660,1738840699,1738240144,1737644684,1736437487,1735815061,1734600870,1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
+        let timestamps = [1745545384,1743720215,1743090905,1741865543,1741261847,1740656646,1739450660,1738840699,1738240144,1737644684,1736437487,1735815061,1734600870,1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/30 | 4-18 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 | ✅ | 2025/04/08 | 23-0 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ✅ | 2025/04/01 | 9-1 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2025/03/18 | 0-19 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
@@ -195,5 +195,5 @@ Corporation ID: a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744152215"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1745977384"></span>
 </div>
