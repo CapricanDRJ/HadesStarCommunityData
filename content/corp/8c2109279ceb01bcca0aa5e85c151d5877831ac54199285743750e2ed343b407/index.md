@@ -1,6 +1,6 @@
 ---
 title: ​绛紫星
-description: W:37 L:31 D:2 Bonus ✅ 38%
+description: W:37 L:31 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 9 **Stone Legion**
 date: 2025-04-22T23:30:59.000Z
@@ -23,7 +23,7 @@ date: 2025-04-22T23:30:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

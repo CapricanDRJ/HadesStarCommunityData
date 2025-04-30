@@ -1,6 +1,6 @@
 ---
 title: ​TheBasics
-description: W:52 L:85 D:2 Bonus ❌ 40%
+description: W:52 L:85 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 4 - 15 **Empire of Hades**
 date: 2025-04-28T12:14:18.000Z
@@ -16,7 +16,7 @@ Just log in and play once per day.
 <br>
 
 ### [Discord](https://discord.gg/pTS382n7ZR)
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
