@@ -1,6 +1,6 @@
 ---
 title: ​DINASTÍA SOLAR
-description: W:5 L:2 D:0 Bonus ✅ 
+description: W:5 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 5 - 3 **TheDuckeanFlow**
 date: 2025-04-23T21:08:10.000Z
@@ -15,7 +15,7 @@ date: 2025-04-23T21:08:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

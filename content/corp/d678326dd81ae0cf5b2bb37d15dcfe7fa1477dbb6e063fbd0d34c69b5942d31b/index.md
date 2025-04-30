@@ -1,6 +1,6 @@
 ---
 title: ​Hungary First
-description: W:19 L:17 D:1 Bonus ✅ 34%
+description: W:19 L:17 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 1 - 9 **九州·华夏**
 date: 2025-04-30T18:19:46.000Z
@@ -16,7 +16,7 @@ nguages: Hungarian, English.
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

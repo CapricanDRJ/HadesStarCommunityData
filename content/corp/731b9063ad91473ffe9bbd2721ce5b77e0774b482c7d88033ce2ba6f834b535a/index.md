@@ -1,9 +1,9 @@
 ---
 title: ​pérola negra 
-description: W:1 L:4 D:1 Bonus ✅ 
+description: W:1 L:5 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 1 - 0 **风云集团**
-date: 2025-04-25T10:15:11.000Z
+Summary: ❌ 1 - 3 **New YuGiOh**
+date: 2025-04-30T20:35:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-25T10:15:11.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔺  (1082)|
-| ELO Competitive | 1172 🔺  (1200)|
-| Total Matches | 6 |
+| ELO Regular | 1160 🔻  (1132)|
+| ELO Competitive | 1165 🔻  (1263)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745144111,1743264786,1741455682,1736683331,1736210051,1735742349];
+        let timestamps = [1745613300,1745144111,1743264786,1741455682,1736683331,1736210051,1735742349];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/30 | 1-3 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/04/25 | 1-0 | [风云集团](https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/) |
 | ❌ | 2025/04/03 | 1-10 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ❌ | 2025/03/13 | 0-13 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
@@ -147,5 +148,5 @@ Corporation ID: 731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745576111"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746045300"></span>
 </div>

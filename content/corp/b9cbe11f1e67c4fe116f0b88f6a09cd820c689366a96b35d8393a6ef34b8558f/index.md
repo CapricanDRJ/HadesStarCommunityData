@@ -1,9 +1,9 @@
 ---
 title: ​九州·华夏
-description: W:14 L:10 D:1 Bonus ✅ 
+description: W:15 L:10 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 1 **Hungary First**
-date: 2025-04-30T18:19:46.000Z
+Summary: ✅ 8 - 0 **New YuGiOh**
+date: 2025-04-30T19:49:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-04-30T18:19:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (234)|
-| ELO Competitive | 1321 🔺  (288)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1293 🔺  (193)|
+| ELO Competitive | 1327 🔺  (276)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745605186,1745171773,1745163449,1744715696,1744714194,1744264644,1744156470,1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1745610595,1745605186,1745171773,1745163449,1744715696,1744714194,1744264644,1744156470,1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/30 | 8-0 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ✅ | 2025/04/30 | 9-1 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2025/04/25 | 7-1 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/04/25 | 7-1 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -173,5 +174,5 @@ Corporation ID: b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746037186"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746042595"></span>
 </div>
