@@ -1,6 +1,6 @@
 ---
 title: ​Rogue One
-description: W:54 L:38 D:1 Bonus ✅ 42%
+description: W:54 L:38 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 6 - 24 **Лунный Феникс**
 date: 2025-04-23T18:37:53.000Z
@@ -18,12 +18,12 @@ us and Righteous Fury! ws every week,
 <br>
 
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1331 🔻  (141)|
-| ELO Competitive | 1474 🔺  (110)|
+| ELO Competitive | 1474 🔺  (109)|
 | Total Matches | 93 |
 | Wins | 54 |
 | Losses | 38 |

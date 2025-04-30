@@ -1,6 +1,6 @@
 ---
 title: ​Лунный Феникс
-description: W:63 L:35 D:2 Bonus ✅ 42%
+description: W:63 L:35 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 24 - 6 **Rogue One**
 date: 2025-04-23T18:37:53.000Z
@@ -16,11 +16,11 @@ date: 2025-04-23T18:37:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔺  (95)|
+| ELO Regular | 1368 🔺  (96)|
 | ELO Competitive | 1615 🔺  (29)|
 | Total Matches | 100 |
 | Wins | 63 |

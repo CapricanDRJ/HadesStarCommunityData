@@ -1,9 +1,9 @@
 ---
 title: ​Hungary First
-description: W:19 L:16 D:1 Bonus ✅ 34%
+description: W:19 L:17 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 8 - 1 **蓝色星系二号分盟**
-date: 2025-04-23T19:32:59.000Z
+Summary: ❌ 1 - 9 **九州·华夏**
+date: 2025-04-30T18:19:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ nguages: Hungarian, English.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (391)|
-| ELO Competitive | 1270 🔺  (397)|
-| Total Matches | 36 |
+| ELO Regular | 1208 🔻  (488)|
+| ELO Competitive | 1257 🔻  (428)|
+| Total Matches | 37 |
 | Wins | 19 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745004779,1744480408,1743842403,1731658796,1730461324,1729246979,1728021388,1726834112,1726224172,1725604854,1725027912,1724407357,1723186368,1721985809,1720768088,1719571384,1718345154,1717140526,1715932313,1714980185,1711696869,1710658438,1709800591,1708950538,1707338537,1706623157,1706001092,1705309310,1704811362,1704111760,1703102013,1702455653,1701955538,1701369183,1700848930,1699867883];
+        let timestamps = [1745605186,1745004779,1744480408,1743842403,1731658796,1730461324,1729246979,1728021388,1726834112,1726224172,1725604854,1725027912,1724407357,1723186368,1721985809,1720768088,1719571384,1718345154,1717140526,1715932313,1714980185,1711696869,1710658438,1709800591,1708950538,1707338537,1706623157,1706001092,1705309310,1704811362,1704111760,1703102013,1702455653,1701955538,1701369183,1700848930,1699867883];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/04/30 | 1-9 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/04/23 | 8-1 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2025/04/17 | 3-16 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2025/04/10 | 0-14 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
@@ -186,5 +187,5 @@ Corporation ID: d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745436779"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746037186"></span>
 </div>
