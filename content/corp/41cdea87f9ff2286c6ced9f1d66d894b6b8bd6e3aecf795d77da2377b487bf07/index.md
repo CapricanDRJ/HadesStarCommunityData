@@ -1,9 +1,9 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:2 L:1 D:0 Bonus ❌ 4%
+description: W:3 L:1 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 9 - 3 **Justice Vengers**
-date: 2025-02-10T19:51:52.000Z
+Summary: ✅ 16 - 3 **星际造梦**
+date: 2025-05-01T03:50:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ to have you on board!
 <br>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (452)|
-| ELO Competitive | 1226 🔺  (532)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1229 🔺  (364)|
+| ELO Competitive | 1242 🔺  (478)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 3 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1738785112,1736808665,1706521581];
+        let timestamps = [1745639442,1738785112,1736808665,1706521581];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/01 | 16-3 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ✅ | 2025/02/10 | 9-3 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2025/01/18 | 14-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/02/03 | 6-25 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
@@ -149,5 +150,5 @@ Corporation ID: 41cdea87f9ff2286c6ced9f1d66d894b6b8bd6e3aecf795d77da2377b487bf07
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739217112"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746071442"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Alpha to Omega
-description: W:6 L:9 D:2 Bonus ✅ 30%
+description: W:6 L:9 D:2 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **💮問鼎無垠💮**
 date: 2025-04-24T04:13:48.000Z
@@ -16,7 +16,7 @@ Start here. Figure things out. Have fun.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

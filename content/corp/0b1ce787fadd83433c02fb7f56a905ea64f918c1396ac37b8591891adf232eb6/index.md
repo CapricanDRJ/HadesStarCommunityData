@@ -1,6 +1,6 @@
 ---
 title: ​Kelebra
-description: W:28 L:29 D:1 Bonus ✅ 36%
+description: W:28 L:29 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 21 - 3 **imperio estelar**
 date: 2025-04-24T06:29:02.000Z
@@ -17,7 +17,7 @@ date: 2025-04-24T06:29:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
