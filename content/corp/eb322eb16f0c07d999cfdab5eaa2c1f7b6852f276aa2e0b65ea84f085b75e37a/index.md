@@ -20,8 +20,8 @@ our. account.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (920)|
-| ELO Competitive | 1186 🔻  (960)|
+| ELO Regular | 1181 🔻  (921)|
+| ELO Competitive | 1186 🔻  (961)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

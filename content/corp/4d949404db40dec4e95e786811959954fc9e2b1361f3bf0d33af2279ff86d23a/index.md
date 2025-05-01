@@ -22,7 +22,7 @@ latively active. Discord not required but recommended.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (315)|
+| ELO Regular | 1242 🔺  (313)|
 | ELO Competitive | 1279 🔺  (376)|
 | Total Matches | 24 |
 | Wins | 13 |

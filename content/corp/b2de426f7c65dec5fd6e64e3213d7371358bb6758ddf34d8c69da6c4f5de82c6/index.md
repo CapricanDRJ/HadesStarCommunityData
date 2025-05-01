@@ -20,8 +20,8 @@ idat. WS-ezés feltétele a discord.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 834 🔻  (1509)|
-| ELO Competitive | 1116 🔻  (1448)|
+| ELO Regular | 834 🔻  (1510)|
+| ELO Competitive | 1116 🔻  (1449)|
 | Total Matches | 109 |
 | Wins | 14 |
 | Losses | 95 |

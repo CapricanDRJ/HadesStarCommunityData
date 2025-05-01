@@ -25,8 +25,8 @@ Join via Discord: N3uPEvsFY9</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1411)|
-| ELO Competitive | 1162 🔻  (1285)|
+| ELO Regular | 1090 🔻  (1412)|
+| ELO Competitive | 1162 🔻  (1286)|
 | Total Matches | 28 |
 | Wins | 7 |
 | Losses | 20 |

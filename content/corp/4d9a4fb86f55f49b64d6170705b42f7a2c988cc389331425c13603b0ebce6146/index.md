@@ -19,8 +19,8 @@ Discord https://discord.gg/mXaAX7Caga
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (930)|
-| ELO Competitive | 1182 🔺  (1091)|
+| ELO Regular | 1180 🔺  (931)|
+| ELO Competitive | 1182 🔺  (1092)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |
