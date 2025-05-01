@@ -19,7 +19,7 @@ fuck you spy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (910)|
+| ELO Regular | 1182 🔻  (911)|
 | ELO Competitive | 1185 🔻  (997)|
 | Total Matches | 1 |
 | Wins | 0 |

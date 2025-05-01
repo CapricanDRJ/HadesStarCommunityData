@@ -22,8 +22,8 @@ cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1274)|
-| ELO Competitive | 1157 🔻  (1321)|
+| ELO Regular | 1137 🔻  (1275)|
+| ELO Competitive | 1157 🔻  (1322)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 11 |

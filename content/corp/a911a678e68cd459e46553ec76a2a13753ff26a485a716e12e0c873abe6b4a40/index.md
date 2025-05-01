@@ -21,8 +21,8 @@ will get free artificants lv 1.2.3.4.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (877)|
-| ELO Competitive | 1190 🔻  (854)|
+| ELO Regular | 1184 🔻  (878)|
+| ELO Competitive | 1190 🔻  (855)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |
