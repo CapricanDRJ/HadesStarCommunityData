@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:38 L:12 D:0 Bonus ✅ 36%
+description: W:38 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 23 - 14 **Рейнджеры**
 date: 2025-04-24T10:09:25.000Z
@@ -17,7 +17,7 @@ date: 2025-04-24T10:09:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -23,8 +23,8 @@ BorgHadesStar.reddit.com
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (629)|
-| ELO Competitive | 1192 🔻  (804)|
+| ELO Regular | 1191 🔻  (630)|
+| ELO Competitive | 1192 🔻  (805)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

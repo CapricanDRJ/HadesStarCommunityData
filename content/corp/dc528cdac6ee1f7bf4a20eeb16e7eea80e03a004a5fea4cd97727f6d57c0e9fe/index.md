@@ -1,9 +1,9 @@
 ---
 title: ​The Foundation 
-description: W:0 L:1 D:0 Bonus ❌ 1%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **Dark Halo**
-date: 2024-10-08T15:09:53.000Z
+Summary: ❌ 0 - 1 **Страж Галактики**
+date: 2025-05-01T12:21:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ anew with the old Tiesa crew!
 <br>
 
 ### [Discord](https://discord.gg/wuKuPvr)
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (890)|
-| ELO Competitive | 1184 🔻  (1066)|
-| Total Matches | 1 |
+| ELO Regular | 1168 🔻  (1072)|
+| ELO Competitive | 1169 🔻  (1232)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727968193];
+        let timestamps = [1745670065,1727968193];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/01 | 0-1 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ❌ | 2024/10/08 | 0-7 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 
 ---
@@ -144,5 +145,5 @@ Corporation ID: dc528cdac6ee1f7bf4a20eeb16e7eea80e03a004a5fea4cd97727f6d57c0e9fe
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1728400193"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746102065"></span>
 </div>
