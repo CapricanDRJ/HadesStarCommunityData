@@ -1,6 +1,6 @@
 ---
 title: ​Terran empire 
-description: W:16 L:3 D:0 Bonus ✅ 
+description: W:16 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 1 - 7 **九州·华夏**
 date: 2025-04-25T15:37:29.000Z
@@ -15,7 +15,7 @@ date: 2025-04-25T15:37:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

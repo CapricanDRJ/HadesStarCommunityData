@@ -1,6 +1,6 @@
 ---
 title: ​Eastern Front
-description: W:71 L:75 D:3 Bonus ✅ 42%
+description: W:71 L:75 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 2 - 6 **Winter Star llc**
 date: 2025-05-01T14:51:58.000Z
@@ -17,7 +17,7 @@ e strategies, and give out advice.        -  Tensible
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
