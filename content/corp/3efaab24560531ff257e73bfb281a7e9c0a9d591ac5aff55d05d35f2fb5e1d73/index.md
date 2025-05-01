@@ -1,6 +1,6 @@
 ---
 title: ​CIS
-description: W:47 L:15 D:1 Bonus ✅ 38%
+description: W:47 L:15 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 28 - 3 **Forces of Light**
 date: 2025-04-23T23:28:22.000Z
@@ -17,7 +17,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
 <br>
 
 ### [Discord](https://discord.gg/eVBvw68KEU)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

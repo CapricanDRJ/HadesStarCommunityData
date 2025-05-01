@@ -1,9 +1,9 @@
 ---
 title: ​РARADISЕ
-description: W:12 L:7 D:1 Bonus ✅ 
+description: W:13 L:7 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 20 - 0 **КОРПОРАЦИЯ ЗЛА**
-date: 2025-04-25T04:56:18.000Z
+Summary: ✅ 25 - 1 **KEPLER\-442  b**
+date: 2025-04-30T22:30:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-25T04:56:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (323)|
-| ELO Competitive | 1344 🔺  (247)|
-| Total Matches | 20 |
-| Wins | 12 |
+| ELO Regular | 1254 🔺  (276)|
+| ELO Competitive | 1354 🔺  (232)|
+| Total Matches | 21 |
+| Wins | 13 |
 | Losses | 7 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745124978,1744575937,1744575373,1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
+        let timestamps = [1745620212,1745124978,1744575937,1744575373,1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/04/30 | 25-1 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ✅ | 2025/04/25 | 20-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2025/04/18 | 0-11 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2025/04/18 | 25-6 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
@@ -167,5 +169,5 @@ Corporation ID: 03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745556978"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746052212"></span>
 </div>

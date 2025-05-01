@@ -25,7 +25,7 @@ guna actividad con los demas compañeros
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔻  (213)|
-| ELO Competitive | 1333 🔻  (265)|
+| ELO Competitive | 1333 🔻  (266)|
 | Total Matches | 19 |
 | Wins | 12 |
 | Losses | 7 |
