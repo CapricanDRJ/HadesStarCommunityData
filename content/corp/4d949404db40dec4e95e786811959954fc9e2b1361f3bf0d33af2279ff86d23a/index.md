@@ -1,6 +1,6 @@
 ---
 title: ​Out landers
-description: W:13 L:10 D:1 Bonus ✅ 32%
+description: W:13 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 11 - 0 **Minutemen**
 date: 2025-04-24T19:45:29.000Z
@@ -18,7 +18,7 @@ latively active. Discord not required but recommended.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
