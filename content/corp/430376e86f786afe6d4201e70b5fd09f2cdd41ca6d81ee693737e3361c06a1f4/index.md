@@ -1,6 +1,6 @@
 ---
 title: ​Likapa
-description: W:129 L:10 D:0 Bonus ✅ 50%
+description: W:129 L:10 D:0 Bonus ✅ 52%
 image: ./favicon.png
 Summary: ✅ 23 - 6 **Sentencia**
 date: 2025-04-29T19:12:28.000Z
@@ -18,7 +18,7 @@ or></size></b>
 <br>
 
 ### [Discord](https://discord.gg/3CE2zAs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |

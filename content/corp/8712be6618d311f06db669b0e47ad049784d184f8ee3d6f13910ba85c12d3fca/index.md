@@ -1,6 +1,6 @@
 ---
 title: ​=AMG=
-description: W:2 L:4 D:0 Bonus ✅ 
+description: W:2 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 23 - 22 **Españoles**
 date: 2025-04-25T20:13:01.000Z
@@ -15,7 +15,7 @@ date: 2025-04-25T20:13:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

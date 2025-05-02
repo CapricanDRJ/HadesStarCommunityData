@@ -1,6 +1,6 @@
 ---
 title: ​FURIA 2.0
-description: W:26 L:31 D:0 Bonus ✅ 36%
+description: W:26 L:31 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 16 - 10 **Kobol**
 date: 2025-04-25T20:23:02.000Z
@@ -16,7 +16,7 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Corvus Ind.
-description: W:32 L:9 D:0 Bonus ✅ 40%
+description: W:32 L:9 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 4 **BrinySeal**
 date: 2025-04-25T19:47:58.000Z
@@ -21,7 +21,7 @@ https://discord.gg/ysGrswJTUp
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
