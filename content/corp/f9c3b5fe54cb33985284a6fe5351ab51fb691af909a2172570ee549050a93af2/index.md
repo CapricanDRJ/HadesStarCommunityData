@@ -1,9 +1,9 @@
 ---
 title: ​STAR TERROR CZ
-description: W:17 L:15 D:0 Bonus ✅ 38%
+description: W:18 L:15 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 34 - 12 **Слава Украине\!**
-date: 2025-04-25T18:07:46.000Z
+Summary: ✅ 25 - 2 **Highlife**
+date: 2025-05-02T18:15:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (150)|
-| ELO Competitive | 1424 🔺  (156)|
-| Total Matches | 32 |
-| Wins | 17 |
+| ELO Regular | 1326 🔺  (145)|
+| ELO Competitive | 1430 🔺  (146)|
+| Total Matches | 33 |
+| Wins | 18 |
 | Losses | 15 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 8 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745172466,1743980058,1743369097,1742826605,1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1745777701,1745172466,1743980058,1743369097,1742826605,1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/02 | 25-2 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2025/04/25 | 34-12 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/04/11 | 3-23 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ✅ | 2025/04/04 | 47-0 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
@@ -181,5 +183,5 @@ Corporation ID: f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745604466"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746209701"></span>
 </div>
