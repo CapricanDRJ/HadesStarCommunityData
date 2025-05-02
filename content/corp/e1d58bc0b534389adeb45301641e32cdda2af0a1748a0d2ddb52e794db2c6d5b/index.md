@@ -1,6 +1,6 @@
 ---
 title: ​EarthFederation
-description: W:16 L:7 D:2 Bonus ✅ 32%
+description: W:16 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 11 - 0 **N K B**
 date: 2025-04-25T14:12:18.000Z
@@ -16,7 +16,7 @@ Looking for members. Come grow with us!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

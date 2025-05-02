@@ -1,6 +1,6 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:22 L:6 D:0 Bonus ✅ 
+description: W:22 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 0 **Axioma**
 date: 2025-04-25T15:32:28.000Z
@@ -15,11 +15,11 @@ date: 2025-04-25T15:32:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔺  (128)|
+| ELO Regular | 1344 🔺  (126)|
 | ELO Competitive | 1367 🔺  (215)|
 | Total Matches | 28 |
 | Wins | 22 |
