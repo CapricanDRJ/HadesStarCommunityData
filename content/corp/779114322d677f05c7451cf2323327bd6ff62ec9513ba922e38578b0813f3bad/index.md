@@ -1,6 +1,6 @@
 ---
 title: ​Red Star
-description: W:23 L:24 D:2 Bonus ✅ 36%
+description: W:23 L:24 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 4 - 41 **Blood Hounds**
 date: 2025-05-01T15:47:05.000Z
@@ -15,7 +15,7 @@ date: 2025-05-01T15:47:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Кулак
-description: W:27 L:102 D:0 Bonus ✅ 50%
+description: W:27 L:102 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 6 - 33 **ГОРИЗОНТ**
 date: 2025-04-25T05:31:21.000Z
@@ -17,7 +17,7 @@ date: 2025-04-25T05:31:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
