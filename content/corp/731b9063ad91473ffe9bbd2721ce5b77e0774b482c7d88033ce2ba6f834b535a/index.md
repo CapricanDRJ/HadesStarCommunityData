@@ -1,6 +1,6 @@
 ---
 title: ​pérola negra 
-description: W:1 L:5 D:1 Bonus ✅ 
+description: W:1 L:5 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 1 - 3 **New YuGiOh**
 date: 2025-04-30T20:35:00.000Z
@@ -15,7 +15,7 @@ date: 2025-04-30T20:35:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

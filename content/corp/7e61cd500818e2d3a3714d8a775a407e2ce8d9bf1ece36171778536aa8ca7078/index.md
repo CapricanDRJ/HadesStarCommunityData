@@ -1,6 +1,6 @@
 ---
 title: ​新星汇聚
-description: W:12 L:8 D:0 Bonus ✅ 32%
+description: W:12 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **●Black•Sails●**
 date: 2025-04-25T12:22:05.000Z
@@ -18,7 +18,7 @@ date: 2025-04-25T12:22:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
