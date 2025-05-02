@@ -1,6 +1,6 @@
 ---
 title: ​星系联盟
-description: W:10 L:8 D:0 Bonus ✅ 32%
+description: W:10 L:8 D:0 Bonus ❌ 32%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **九州分团**
 date: 2025-04-30T14:44:22.000Z
@@ -16,7 +16,7 @@ date: 2025-04-30T14:44:22.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 32%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Ещё один Миф
-description: W:14 L:26 D:0 Bonus ❌ 10%
+description: W:14 L:27 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 8 - 37 **Октябристы**
-date: 2025-04-27T05:18:36.000Z
+Summary: ❌ 7 - 30 **Stellar Exports**
+date: 2025-05-02T08:03:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-04-27T05:18:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1364)|
-| ELO Competitive | 1217 🔻  (585)|
-| Total Matches | 40 |
+| ELO Regular | 1107 🔻  (1385)|
+| ELO Competitive | 1214 🔻  (629)|
+| Total Matches | 41 |
 | Wins | 14 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745299116,1744656505,1743983962,1743509703,1742934196,1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1745741028,1745299116,1744656505,1743983962,1743509703,1742934196,1741833397,1741388967,1740931024,1740925311,1740451411,1740433084,1739990423,1739532746,1739092524,1737996872,1737526591,1736899110,1736437487,1735974474,1735067198,1734629418,1734162780,1733730106,1733168807,1732679578,1732245664,1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/02 | 7-30 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2025/04/27 | 8-37 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2025/04/19 | 20-28 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2025/04/11 | 23-3 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
@@ -194,5 +195,5 @@ Corporation ID: b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745731116"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746173028"></span>
 </div>
