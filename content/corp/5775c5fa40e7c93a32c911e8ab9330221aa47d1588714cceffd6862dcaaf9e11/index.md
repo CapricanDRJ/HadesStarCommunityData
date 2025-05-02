@@ -19,7 +19,7 @@ Federation X.  I am mean, we're still here.  Why aren't you?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (716)|
+| ELO Regular | 1187 🔻  (717)|
 | ELO Competitive | 1187 🔻  (917)|
 | Total Matches | 1 |
 | Wins | 0 |

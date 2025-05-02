@@ -1,6 +1,6 @@
 ---
 title: ​ALPHA
-description: W:37 L:14 D:1 Bonus ✅ 36%
+description: W:37 L:14 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 13 **\*Alfa y Omega\***
 date: 2025-04-30T13:49:15.000Z
@@ -16,11 +16,11 @@ Crecer principal objetivo        Leko:Join us we need active member
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔻  (142)|
+| ELO Regular | 1328 🔻  (141)|
 | ELO Competitive | 1404 🔻  (171)|
 | Total Matches | 52 |
 | Wins | 37 |

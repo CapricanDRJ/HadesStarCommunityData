@@ -1,6 +1,6 @@
 ---
 title: ​47підрозділССП
-description: W:20 L:5 D:0 Bonus ✅ 
+description: W:20 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 10 - 13 **Atlas Star llc\.**
 date: 2025-04-30T17:29:40.000Z
@@ -15,11 +15,11 @@ date: 2025-04-30T17:29:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔻  (75)|
+| ELO Regular | 1387 🔻  (76)|
 | ELO Competitive | 1466 🔻  (112)|
 | Total Matches | 25 |
 | Wins | 20 |

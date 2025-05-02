@@ -1,6 +1,6 @@
 ---
 title: ​ГОРИЗОНТ
-description: W:37 L:98 D:0 Bonus ✅ 50%
+description: W:37 L:98 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 7 - 43 ** RELAX CZ/SK**
 date: 2025-04-25T22:18:13.000Z
@@ -17,7 +17,7 @@ date: 2025-04-25T22:18:13.000Z
 <br>
 
 ### [Discord](https://discord.gg/hn2S7qy58g)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
