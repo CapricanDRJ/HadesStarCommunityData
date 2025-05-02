@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:16 L:3 D:0 Bonus ❌ 
+description: W:17 L:3 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 1 - 7 **九州·华夏**
-date: 2025-04-25T15:37:29.000Z
+Summary: ✅ 20 - 0 **星瀚协议**
+date: 2025-05-01T23:07:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-25T15:37:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1340 🔻  (132)|
-| ELO Competitive | 1367 🔺  (215)|
-| Total Matches | 19 |
-| Wins | 16 |
+| ELO Regular | 1352 🔺  (110)|
+| ELO Competitive | 1378 🔺  (198)|
+| Total Matches | 20 |
+| Wins | 17 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745163449,1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1745708876,1745163449,1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 2 | 0 | 0 | 2 |
 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/01 | 20-0 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ❌ | 2025/04/25 | 1-7 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/04/24 | 22-2 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
 | ✅ | 2025/04/19 | 22-1 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -166,5 +168,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745595449"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746140876"></span>
 </div>

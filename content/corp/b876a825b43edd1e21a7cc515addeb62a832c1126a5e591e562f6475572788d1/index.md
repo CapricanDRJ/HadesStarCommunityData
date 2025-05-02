@@ -1,9 +1,9 @@
 ---
 title: ​AlSounT
-description: W:27 L:22 D:0 Bonus ✅ 40%
+description: W:27 L:23 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 24 - 3 **Dumpster Fire**
-date: 2025-05-01T16:22:09.000Z
+Summary: ❌ 0 - 17 **毛绒团子**
+date: 2025-05-01T23:58:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-05-01T16:22:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (273)|
-| ELO Competitive | 1429 🔺  (145)|
-| Total Matches | 49 |
+| ELO Regular | 1247 🔻  (297)|
+| ELO Competitive | 1429 🔺  (146)|
+| Total Matches | 50 |
 | Wins | 27 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745684529,1745219038,1745216334,1744731625,1744730723,1744179303,1743497407,1743496206,1743048994,1743044488,1742570244,1742570244,1742123071,1741529304,1741062336,1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1745711937,1745684529,1745219038,1745216334,1744731625,1744730723,1744179303,1743497407,1743496206,1743048994,1743044488,1742570244,1742570244,1742123071,1741529304,1741062336,1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/01 | 0-17 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/05/01 | 24-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2025/04/26 | 0-11 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2025/04/26 | 1-33 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
@@ -200,5 +201,5 @@ Corporation ID: b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746116529"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746143937"></span>
 </div>
