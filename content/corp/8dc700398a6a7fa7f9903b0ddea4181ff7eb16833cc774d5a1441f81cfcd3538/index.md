@@ -1,9 +1,9 @@
 ---
 title: ​沐星楼
-description: W:2 L:1 D:1 Bonus ✅ 
+description: W:3 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 0 **63SALVADORES36**
-date: 2025-04-27T18:22:38.000Z
+Summary: ✅ 3 - 0 **BRASIL ACADEMY**
+date: 2025-05-03T21:45:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-04-27T18:22:38.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (373)|
-| ELO Competitive | 1244 🔺  (469)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1237 🔺  (335)|
+| ELO Competitive | 1258 🔺  (426)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745346158,1744841681,1744295595,1743862240];
+        let timestamps = [1745876704,1745346158,1744841681,1744295595,1743862240];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/03 | 3-0 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ✅ | 2025/04/27 | 7-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2025/04/21 | 10-10 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2025/04/15 | 0-10 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
@@ -145,5 +148,5 @@ Corporation ID: 8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745778158"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746308704"></span>
 </div>

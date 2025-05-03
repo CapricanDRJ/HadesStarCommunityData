@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:21 L:20 D:0 Bonus ✅ 48%
+description: W:21 L:20 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 20 - 10 **DTC**
 date: 2025-04-26T20:40:31.000Z
@@ -16,7 +16,7 @@ date: 2025-04-26T20:40:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
