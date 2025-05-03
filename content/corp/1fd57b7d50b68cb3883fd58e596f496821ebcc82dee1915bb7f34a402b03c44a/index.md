@@ -1,6 +1,6 @@
 ---
 title: ​Scar
-description: W:51 L:31 D:1 Bonus ✅ 40%
+description: W:51 L:31 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **BlackStar Order**
 date: 2025-05-02T13:59:27.000Z
@@ -18,7 +18,7 @@ r involvement. Link is 👇
 <br>
 
 ### [Discord](https://discord.gg/J5kNRjVJM4)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
