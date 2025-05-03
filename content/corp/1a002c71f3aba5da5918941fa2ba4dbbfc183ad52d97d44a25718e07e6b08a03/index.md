@@ -1,6 +1,6 @@
 ---
 title: ​OntarioDawn
-description: W:63 L:14 D:0 Bonus ✅ 38%
+description: W:63 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 32 - 10 **italian warrior**
 date: 2025-04-26T17:20:07.000Z
@@ -21,7 +21,7 @@ RS1+
 <br>
 
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Pixies
-description: W:15 L:8 D:0 Bonus ✅ 34%
+description: W:15 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 20 - 16 **Октябристы**
 date: 2025-04-26T18:00:12.000Z
@@ -18,7 +18,7 @@ white star active
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

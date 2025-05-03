@@ -22,7 +22,7 @@ r.Rs7 - Rs10Discord zorunludur.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (252)|
+| ELO Regular | 1263 🔻  (251)|
 | ELO Competitive | 1296 🔻  (326)|
 | Total Matches | 28 |
 | Wins | 16 |

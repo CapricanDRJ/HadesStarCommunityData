@@ -1,9 +1,9 @@
 ---
 title: ​C'est pas faux!
-description: W:12 L:7 D:1 Bonus ✅ 36%
+description: W:13 L:7 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 8 - 3 **BRASIL STAR**
-date: 2025-04-26T19:30:23.000Z
+Summary: ✅ 14 - 12 **Halcon español**
+date: 2025-05-03T18:22:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,13 @@ Discord : wZcGGNZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔺  (225)|
-| ELO Competitive | 1350 🔺  (240)|
-| Total Matches | 20 |
-| Wins | 12 |
+| ELO Regular | 1294 🔺  (193)|
+| ELO Competitive | 1366 🔺  (218)|
+| Total Matches | 21 |
+| Wins | 13 |
 | Losses | 7 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -50,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745263823,1744752887,1744748457,1744059414,1743409057,1742793849,1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1745864546,1745263823,1744752887,1744748457,1744059414,1743409057,1742793849,1742326523,1741884777,1741452376,1741019669,1739784874,1739177874,1737630558,1737147055,1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/03 | 14-12 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ✅ | 2025/04/26 | 8-3 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ❌ | 2025/04/20 | 3-19 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ✅ | 2025/04/20 | 42-8 | [Schnuppenfarm](https://ws.tsl.rocks/corp/d744c5acdddfd2b097e4bdad7d855af86571ef171b176ae601d44d74628de5f9/) |
@@ -168,5 +170,5 @@ Corporation ID: fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745695823"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746296546"></span>
 </div>

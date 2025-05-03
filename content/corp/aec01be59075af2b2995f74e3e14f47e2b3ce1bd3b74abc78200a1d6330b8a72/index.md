@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Estelar
-description: W:40 L:22 D:0 Bonus ✅ 42%
+description: W:40 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 27 - 17 **Bl@ck/Galaxy **
 date: 2025-04-26T18:15:14.000Z
@@ -16,7 +16,7 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
