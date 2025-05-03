@@ -1,9 +1,9 @@
 ---
 title: ​普罗米修斯
-description: W:15 L:31 D:1 Bonus ✅ 36%
+description: W:15 L:32 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 11 - 0 **Hun Generals**
-date: 2025-05-03T03:32:18.000Z
+Summary: ❌ 0 - 7 **✨ℛedstar Order«**
+date: 2025-05-03T05:41:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Q：650722059
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1084 🔺  (1425)|
+| ELO Regular | 1079 🔻  (1433)|
 | ELO Competitive | 1250 🔺  (446)|
-| Total Matches | 47 |
+| Total Matches | 48 |
 | Wins | 15 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 5 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745811138,1745244584,1745244584,1744699472,1744695867,1744171191,1744168608,1743601245,1743568331,1742908945,1742899027,1742456644,1742433511,1741972213,1741970710,1741512774,1741483928,1741027783,1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
+        let timestamps = [1745818868,1745811138,1745244584,1745244584,1744699472,1744695867,1744171191,1744168608,1743601245,1743568331,1742908945,1742899027,1742456644,1742433511,1741972213,1741970710,1741512774,1741483928,1741027783,1741019669,1738163642,1732869411,1731670213,1731284101,1730555063,1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/03 | 0-7 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/05/03 | 11-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2025/04/26 | 4-20 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/04/26 | 6-34 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
@@ -198,5 +199,5 @@ Corporation ID: f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746243138"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746250868"></span>
 </div>

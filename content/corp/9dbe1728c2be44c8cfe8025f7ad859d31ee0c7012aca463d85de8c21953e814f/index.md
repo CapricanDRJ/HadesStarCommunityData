@@ -1,6 +1,6 @@
 ---
 title: ​星域 
-description: W:14 L:17 D:0 Bonus ✅ 34%
+description: W:14 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 4 - 3 **Prodexus Domino**
 date: 2025-04-26T04:39:43.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

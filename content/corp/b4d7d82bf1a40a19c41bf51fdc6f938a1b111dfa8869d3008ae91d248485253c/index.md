@@ -1,6 +1,6 @@
 ---
 title: ​骊珠洞天
-description: W:6 L:9 D:1 Bonus ✅ 
+description: W:6 L:9 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 37 **Elysium**
 date: 2025-05-03T01:21:26.000Z
@@ -15,7 +15,7 @@ date: 2025-05-03T01:21:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

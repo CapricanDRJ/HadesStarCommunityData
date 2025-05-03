@@ -1,9 +1,9 @@
 ---
 title: ​REY DE REYES
-description: W:1 L:13 D:0 Bonus ❌ 3%
+description: W:1 L:14 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **新?的星际集团?**
-date: 2025-02-18T14:25:28.000Z
+Summary: ❌ 1 - 3 **Свободный флот**
+date: 2025-05-03T06:11:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ CORPORACION HISPANA NIVEL 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1067 🔻  (1444)|
-| ELO Competitive | 1083 🔻  (1479)|
-| Total Matches | 14 |
+| ELO Regular | 1057 🔻  (1452)|
+| ELO Competitive | 1081 🔻  (1479)|
+| Total Matches | 15 |
 | Wins | 1 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1739456728,1727977213,1725626489,1722406852,1719677178,1719221310,1717004433,1716524593,1710142836,1709611546,1709136844,1708700811,1708235187,1700218681];
+        let timestamps = [1745820670,1739456728,1727977213,1725626489,1722406852,1719677178,1719221310,1717004433,1716524593,1710142836,1709611546,1709136844,1708700811,1708235187,1700218681];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/03 | 1-3 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2025/02/18 | 0-10 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/10/08 | 0-9 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2024/09/11 | 0-12 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
@@ -160,5 +161,5 @@ Corporation ID: 3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1739888728"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746252670"></span>
 </div>

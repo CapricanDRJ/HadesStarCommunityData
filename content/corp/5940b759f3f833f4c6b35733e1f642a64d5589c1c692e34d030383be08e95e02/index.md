@@ -1,9 +1,9 @@
 ---
 title: ​Ark Summit
-description: W:21 L:0 D:0 Bonus ❌ 11%
+description: W:22 L:0 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 48 - 12 **Zvezdec**
-date: 2025-04-20T05:39:26.000Z
+Summary: ✅ 38 - 2 **Слава Украине\!**
+date: 2025-05-03T05:56:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1429 🔺  (46)|
-| ELO Competitive | 1473 🔺  (110)|
-| Total Matches | 21 |
-| Wins | 21 |
+| ELO Regular | 1444 🔺  (34)|
+| ELO Competitive | 1499 🔺  (92)|
+| Total Matches | 22 |
+| Wins | 22 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 21 |
-| Streak Record | 21 |
+| Streak | 22 |
+| Streak Record | 22 |
 | Flagship | 5 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744695566,1743399142,1742125776,1741450873,1740301761,1739144825,1737860140,1737426831,1736994086,1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
+        let timestamps = [1745819769,1744695566,1743399142,1742125776,1741450873,1740301761,1739144825,1737860140,1737426831,1736994086,1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/03 | 38-2 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2025/04/20 | 48-12 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2025/04/05 | 42-19 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ✅ | 2025/03/21 | 28-10 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
@@ -167,5 +168,5 @@ Corporation ID: 5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745127566"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746251769"></span>
 </div>
