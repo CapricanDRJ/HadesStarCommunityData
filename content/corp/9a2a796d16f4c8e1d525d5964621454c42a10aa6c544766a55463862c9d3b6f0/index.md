@@ -1,6 +1,6 @@
 ---
 title: ​Cool Casual
-description: W:16 L:6 D:0 Bonus ✅ 
+description: W:16 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **The Witness**
 date: 2025-04-26T01:48:31.000Z
@@ -15,7 +15,7 @@ date: 2025-04-26T01:48:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

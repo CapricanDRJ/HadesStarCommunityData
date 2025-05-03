@@ -1,6 +1,6 @@
 ---
 title: ​King's Guard
-description: W:29 L:88 D:5 Bonus ✅ 38%
+description: W:29 L:88 D:5 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 34 **VoidRunners**
 date: 2025-05-01T22:22:52.000Z
@@ -17,7 +17,7 @@ Corp. designed primarily for WS players of any level advanced to just
 <br>
 
 ### [Discord](https://discord.gg/XQ4BnnSKvC)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

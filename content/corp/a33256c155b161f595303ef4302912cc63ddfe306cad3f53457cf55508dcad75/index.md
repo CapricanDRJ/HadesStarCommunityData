@@ -1,6 +1,6 @@
 ---
 title: ​Auscorp 
-description: W:105 L:10 D:0 Bonus ✅ 52%
+description: W:105 L:10 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 57 - 26 **русь **
 date: 2025-04-26T02:48:35.000Z
@@ -23,7 +23,7 @@ All FS Donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

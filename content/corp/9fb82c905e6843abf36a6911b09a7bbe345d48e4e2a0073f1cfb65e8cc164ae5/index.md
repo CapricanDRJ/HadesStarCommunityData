@@ -1,9 +1,9 @@
 ---
 title: ​вавилон 5
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 2 **KEPLER\-442  b**
-date: 2025-03-24T09:16:42.000Z
+Summary: ❌ 1 - 16 **落魄山**
+date: 2025-05-03T03:34:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-03-24T09:16:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (860)|
-| ELO Competitive | 1184 🔻  (1051)|
-| Total Matches | 1 |
+| ELO Regular | 1167 🔻  (1076)|
+| ELO Competitive | 1171 🔻  (1208)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1742375802];
+        let timestamps = [1745811284,1742375802];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/03 | 1-16 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/03/24 | 0-2 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 9fb82c905e6843abf36a6911b09a7bbe345d48e4e2a0073f1cfb65e8cc164ae5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742807802"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746243284"></span>
 </div>

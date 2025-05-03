@@ -1,6 +1,6 @@
 ---
 title: ​RUS
-description: W:26 L:23 D:0 Bonus ✅ 50%
+description: W:26 L:23 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 26 - 16 **Legion**
 date: 2025-04-26T01:48:31.000Z
@@ -18,7 +18,7 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
