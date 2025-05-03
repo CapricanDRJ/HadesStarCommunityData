@@ -1,6 +1,6 @@
 ---
 title: ​Star Blazers
-description: W:18 L:47 D:1 Bonus ✅ 36%
+description: W:18 L:47 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 1 - 38 **Nox Imperium**
 date: 2025-05-01T16:56:11.000Z
@@ -23,11 +23,11 @@ Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 <br>
 
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1078 🔻  (1435)|
+| ELO Regular | 1078 🔻  (1436)|
 | ELO Competitive | 1158 🔻  (1319)|
 | Total Matches | 66 |
 | Wins | 18 |

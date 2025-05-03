@@ -1,9 +1,9 @@
 ---
 title: ​White Star Inc.
-description: W:5 L:11 D:0 Bonus ✅ 40%
+description: W:6 L:11 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 34 - 6 **普罗米修斯**
-date: 2025-04-26T14:09:44.000Z
+Summary: ✅ 39 - 3 **世外桃源**
+date: 2025-05-03T06:46:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔺  (1207)|
-| ELO Competitive | 1188 🔺  (885)|
-| Total Matches | 16 |
-| Wins | 5 |
+| ELO Regular | 1156 🔺  (1163)|
+| ELO Competitive | 1204 🔺  (682)|
+| Total Matches | 17 |
+| Wins | 6 |
 | Losses | 11 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745244584,1744680544,1744063922,1743429794,1742819691,1742223143,1741604726,1731508255,1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
+        let timestamps = [1745822774,1745244584,1744680544,1744063922,1743429794,1742819691,1742223143,1741604726,1731508255,1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/03 | 39-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2025/04/26 | 34-6 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2025/04/20 | 14-45 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ❌ | 2025/04/12 | 5-19 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
@@ -167,5 +169,5 @@ Corporation ID: b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745676584"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746254774"></span>
 </div>

@@ -23,7 +23,7 @@ Q：650722059
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1079 🔻  (1433)|
+| ELO Regular | 1079 🔻  (1434)|
 | ELO Competitive | 1250 🔺  (446)|
 | Total Matches | 48 |
 | Wins | 15 |

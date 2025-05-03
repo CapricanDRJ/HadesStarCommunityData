@@ -1,9 +1,9 @@
 ---
 title: ​碧霄殿
-description: W:9 L:6 D:0 Bonus ❌ 6%
+description: W:9 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **超新星联盟**
-date: 2024-10-05T15:12:32.000Z
+Summary: ❌ 0 - 22 **DarkSide**
+date: 2025-05-03T08:36:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,12 @@ date: 2024-10-05T15:12:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (274)|
-| ELO Competitive | 1302 🔺  (317)|
-| Total Matches | 15 |
+| ELO Regular | 1234 🔻  (343)|
+| ELO Competitive | 1291 🔻  (338)|
+| Total Matches | 16 |
 | Wins | 9 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -55,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727709152,1726317030,1724743032,1724307592,1723845994,1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
+        let timestamps = [1745829382,1727709152,1726317030,1724743032,1724307592,1723845994,1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,12 +139,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/03 | 0-22 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/10/05 | 15-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/09/19 | 4-0 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ❌ | 2024/09/01 | 1-32 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
@@ -168,5 +173,5 @@ Corporation ID: 7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1728141152"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746261382"></span>
 </div>
