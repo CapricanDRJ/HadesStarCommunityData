@@ -1,9 +1,9 @@
 ---
 title: ​Stargroup
-description: W:0 L:15 D:5 Bonus ❌ 5%
+description: W:0 L:16 D:5 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **神圣群星帝国**
-date: 2025-04-27T12:42:22.000Z
+Summary: ❌ 0 - 6 **Cool Casual**
+date: 2025-05-03T13:18:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ We do all types of stars we help in red stars we prepare to battle in
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1051 🔻  (1461)|
-| ELO Competitive | 1076 🔻  (1486)|
-| Total Matches | 20 |
+| ELO Regular | 1044 🔻  (1463)|
+| ELO Competitive | 1070 🔻  (1491)|
+| Total Matches | 21 |
 | Wins | 0 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 5 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745325742,1743514536,1743077541,1742468144,1742031625,1741506746,1740852884,1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
+        let timestamps = [1745846308,1745325742,1743514536,1743077541,1742468144,1742031625,1741506746,1740852884,1740394766,1739884639,1739246768,1738729216,1738233953,1737774796,1737342090,1736869366,1736422458,1735913327,1735224030,1734785058,1727767900];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/03 | 0-6 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2025/04/27 | 0-3 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ❌ | 2025/04/06 | 1-3 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ❌ | 2025/04/01 | 0-17 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
@@ -167,5 +168,5 @@ Corporation ID: cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745757742"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746278308"></span>
 </div>

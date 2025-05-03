@@ -1,9 +1,9 @@
 ---
 title: ​新?的星际集团?
-description: W:42 L:22 D:2 Bonus ✅ 36%
+description: W:42 L:22 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 10 - 3 **青丘湖**
-date: 2025-04-27T11:06:49.000Z
+Summary: ↔️ 34 - 34 **three kitties**
+date: 2025-05-03T15:07:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,13 +27,12 @@ date: 2025-04-27T11:06:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1378 🔺  (88)|
-| ELO Competitive | 1456 🔺  (122)|
-| Total Matches | 66 |
+| ELO Regular | 1377 🔻  (89)|
+| ELO Competitive | 1460 🔺  (120)|
+| Total Matches | 67 |
 | Wins | 42 |
 | Losses | 22 |
-| Draws | 2 |
-| Streak | 20 |
+| Draws | 3 |
 | Streak Record | 20 |
 | Flagship | 4 |
 
@@ -53,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745320009,1744730723,1744722898,1744160676,1743666024,1743526561,1743094073,1743076639,1742434713,1741971010,1741970710,1741537119,1741103802,1741075255,1740577022,1739903876,1739890350,1739456728,1739452821,1737465891,1737296111,1736788527,1736695659,1736273103,1735711999,1735692774,1735050671,1735049769,1733909780,1732333105,1731733924,1729951060,1729949858,1729493105,1729484993,1729015883,1728293662,1728129282,1727706447,1727649357,1727263807,1727216220,1726460796,1725945629,1725942623,1725483411,1725461825,1725010052,1724982534,1724507734,1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
+        let timestamps = [1745852823,1745320009,1744730723,1744722898,1744160676,1743666024,1743526561,1743094073,1743076639,1742434713,1741971010,1741970710,1741537119,1741103802,1741075255,1740577022,1739903876,1739890350,1739456728,1739452821,1737465891,1737296111,1736788527,1736695659,1736273103,1735711999,1735692774,1735050671,1735049769,1733909780,1732333105,1731733924,1729951060,1729949858,1729493105,1729484993,1729015883,1728293662,1728129282,1727706447,1727649357,1727263807,1727216220,1726460796,1725945629,1725942623,1725483411,1725461825,1725010052,1724982534,1724507734,1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) | 1 | 0 | 1 | 2 |
 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 1 | 1 | 0 | 2 |
 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 0 | 1 | 1 | 2 |
 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) | 0 | 2 | 0 | 2 |
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/05/03 | 34-34 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2025/04/27 | 10-3 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ✅ | 2025/04/20 | 13-0 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2025/04/20 | 3-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
@@ -226,5 +227,5 @@ Corporation ID: 22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745752009"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746284823"></span>
 </div>

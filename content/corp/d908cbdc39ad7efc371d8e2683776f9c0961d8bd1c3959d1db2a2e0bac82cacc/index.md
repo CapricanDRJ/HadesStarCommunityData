@@ -1,9 +1,9 @@
 ---
 title: ​Милый дом
-description: W:4 L:0 D:0 Bonus ❌ 
+description: W:5 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 20 - 0 **Black Pearl FR**
-date: 2025-04-20T09:24:46.000Z
+Summary: ✅ 24 - 0 **⭐PRETORIANS\.X⭐**
+date: 2025-05-03T13:58:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-04-20T09:24:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (253)|
-| ELO Competitive | 1273 🔺  (385)|
-| Total Matches | 4 |
-| Wins | 4 |
+| ELO Regular | 1269 🔺  (242)|
+| ELO Competitive | 1287 🔺  (352)|
+| Total Matches | 5 |
+| Wins | 5 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744709086,1743839698,1743286133,1742773119];
+        let timestamps = [1745848727,1744709086,1743839698,1743286133,1742773119];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/03 | 24-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/04/20 | 20-0 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ✅ | 2025/04/10 | 25-4 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2025/04/03 | 15-3 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
@@ -147,5 +148,5 @@ Corporation ID: d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745141086"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746280727"></span>
 </div>

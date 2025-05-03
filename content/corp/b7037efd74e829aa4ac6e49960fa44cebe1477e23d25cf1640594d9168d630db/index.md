@@ -1,6 +1,6 @@
 ---
 title: ​Rising star
-description: W:35 L:50 D:0 Bonus ✅ 50%
+description: W:35 L:50 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 14 - 35 **Imperium XIII**
 date: 2025-05-03T10:51:41.000Z
@@ -22,7 +22,7 @@ If kicked for inactivity, please join back when ready.
 <br>
 
 ### [Discord](https://discord.gg/fYBf2GNU7y)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

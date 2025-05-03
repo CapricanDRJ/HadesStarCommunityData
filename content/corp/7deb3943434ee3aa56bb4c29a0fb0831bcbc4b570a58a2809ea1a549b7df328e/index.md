@@ -1,6 +1,6 @@
 ---
 title: ​Sith Empire
-description: W:39 L:47 D:1 Bonus ✅ 50%
+description: W:39 L:47 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 52 - 40 **No Orbit©**
 date: 2025-04-26T14:34:47.000Z
@@ -22,12 +22,12 @@ Public Queue 14%-48%
 <br>
 
 ### [Discord](https://discord.gg/R6sJCw2)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (158)|
-| ELO Competitive | 1511 🔺  (78)|
+| ELO Competitive | 1511 🔺  (77)|
 | Total Matches | 87 |
 | Wins | 39 |
 | Losses | 47 |
