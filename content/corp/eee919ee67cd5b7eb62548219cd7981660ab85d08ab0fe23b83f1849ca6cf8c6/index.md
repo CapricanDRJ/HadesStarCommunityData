@@ -1,6 +1,6 @@
 ---
 title: ​On en a Gros ! 
-description: W:36 L:46 D:0 Bonus ✅ 48%
+description: W:36 L:46 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 32 - 9 **\-=FCA=\-**
 date: 2025-04-26T12:29:31.000Z
@@ -21,7 +21,7 @@ Corpo des alts : On en a petit !
 <br>
 
 ### [Discord](https://discord.gg/EXj5vtr)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

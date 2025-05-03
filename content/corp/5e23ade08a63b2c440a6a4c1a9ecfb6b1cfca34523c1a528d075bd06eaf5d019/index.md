@@ -1,6 +1,6 @@
 ---
 title: ​QONQR 
-description: W:17 L:11 D:0 Bonus ✅ 34%
+description: W:17 L:11 D:0 Bonus ❌ 34%
 image: ./favicon.png
 Summary: ✅ 16 - 9 **Space Marshalls**
 date: 2025-04-26T12:54:34.000Z
@@ -18,7 +18,7 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 34%
 
 | Statistic | Value |
 | --- | --- |

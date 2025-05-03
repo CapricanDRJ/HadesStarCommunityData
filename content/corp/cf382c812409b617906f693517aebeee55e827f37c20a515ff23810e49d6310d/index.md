@@ -1,9 +1,9 @@
 ---
 title: ​BRhue
-description: W:13 L:20 D:0 Bonus ❌ 13%
+description: W:13 L:22 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 4 - 34 **Omega Alpha**
-date: 2025-04-27T11:06:49.000Z
+Summary: ❌ 12 - 30 **六大天神**
+date: 2025-05-03T11:56:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Juntos somos mais fortes.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1172)|
-| ELO Competitive | 1247 🔻  (457)|
-| Total Matches | 33 |
+| ELO Regular | 1140 🔻  (1268)|
+| ELO Competitive | 1246 🔻  (460)|
+| Total Matches | 35 |
 | Wins | 13 |
-| Losses | 20 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745320009,1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
+        let timestamps = [1745841402,1745838097,1745320009,1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 0 | 2 | 0 | 2 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) | 2 | 0 | 0 | 2 |
 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) | 1 | 1 | 0 | 2 |
@@ -147,6 +148,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/03 | 12-30 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
+| ❌ | 2025/05/03 | 13-53 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2025/04/27 | 4-34 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2025/04/21 | 8-27 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ✅ | 2025/04/20 | 19-0 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
@@ -187,5 +190,5 @@ Corporation ID: cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745752009"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746273402"></span>
 </div>

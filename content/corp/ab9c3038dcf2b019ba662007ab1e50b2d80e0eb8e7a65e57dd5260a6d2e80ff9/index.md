@@ -1,6 +1,6 @@
 ---
 title: ​Halcon español
-description: W:39 L:24 D:1 Bonus ✅ 36%
+description: W:39 L:24 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 22 - 6 **Created**
 date: 2025-04-26T10:29:18.000Z
@@ -18,12 +18,12 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔺  (245)|
-| ELO Competitive | 1361 🔺  (223)|
+| ELO Competitive | 1361 🔺  (222)|
 | Total Matches | 64 |
 | Wins | 39 |
 | Losses | 24 |
