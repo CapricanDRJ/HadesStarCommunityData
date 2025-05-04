@@ -1,6 +1,6 @@
 ---
 title: ​Lololol
-description: W:10 L:4 D:0 Bonus ✅ 
+description: W:10 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 11 - 2 **S\.U\.N**
 date: 2025-04-27T00:10:51.000Z
@@ -15,7 +15,7 @@ date: 2025-04-27T00:10:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​U.P.E
-description: W:6 L:7 D:1 Bonus ✅ 30%
+description: W:6 L:7 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **宇宙联盟（中国）**
 date: 2025-04-26T23:25:47.000Z
@@ -15,12 +15,12 @@ United People of Earth.  For the betterment of all people of earth!
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔺  (491)|
-| ELO Competitive | 1222 🔺  (550)|
+| ELO Competitive | 1222 🔺  (551)|
 | Total Matches | 14 |
 | Wins | 6 |
 | Losses | 7 |
