@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:57 L:9 D:0 Bonus ✅ 50%
+description: W:57 L:9 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 23 - 24 **pirates spatial**
 date: 2025-05-03T08:41:24.000Z
@@ -21,7 +21,7 @@ date: 2025-05-03T08:41:24.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Emergence
-description: W:54 L:3 D:0 Bonus ✅ 40%
+description: W:55 L:3 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 39 - 22 **六大天神**
-date: 2025-04-28T11:09:11.000Z
+Summary: ✅ 47 - 3 **WinterComes**
+date: 2025-05-04T10:18:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1588 🔺  (4)|
-| ELO Competitive | 1682 🔺  (18)|
-| Total Matches | 57 |
-| Wins | 54 |
+| ELO Regular | 1591 🔺  (4)|
+| ELO Competitive | 1685 🔺  (18)|
+| Total Matches | 58 |
+| Wins | 55 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 27 |
-| Streak Record | 27 |
+| Streak | 28 |
+| Streak Record | 28 |
 | Flagship | 8 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745406551,1744711489,1744021835,1743286734,1742643576,1742040131,1741445162,1740484460,1739790583,1739185385,1738499621,1736686638,1736081958,1734282379,1733667607,1733061531,1731859241,1731247125,1730637399,1730034904,1729430902,1728906183,1728141306,1727534562,1726915846,1726314024,1725708227,1725189885,1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
+        let timestamps = [1745921935,1745406551,1744711489,1744021835,1743286734,1742643576,1742040131,1741445162,1740484460,1739790583,1739185385,1738499621,1736686638,1736081958,1734282379,1733667607,1733061531,1731859241,1731247125,1730637399,1730034904,1729430902,1728906183,1728141306,1727534562,1726915846,1726314024,1725708227,1725189885,1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -154,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/04 | 47-3 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ✅ | 2025/04/28 | 39-22 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2025/04/20 | 41-18 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ✅ | 2025/04/12 | 43-7 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
@@ -218,5 +219,5 @@ Corporation ID: 1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745838551"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746353935"></span>
 </div>

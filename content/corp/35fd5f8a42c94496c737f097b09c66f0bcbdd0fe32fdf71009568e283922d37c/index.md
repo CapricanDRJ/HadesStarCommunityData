@@ -1,6 +1,6 @@
 ---
 title: ​New Horizons
-description: W:7 L:10 D:0 Bonus ✅ 36%
+description: W:7 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 41 - 39 **Hellfire Club**
 date: 2025-04-27T11:56:54.000Z
@@ -18,7 +18,7 @@ Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
 <br>
 
 ### [Discord](https://discord.gg/DYXwRY8AhC)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​新?的星际集团?
-description: W:42 L:22 D:3 Bonus ✅ 36%
+description: W:42 L:22 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 34 - 34 **three kitties**
 date: 2025-05-03T15:07:03.000Z
@@ -23,7 +23,7 @@ date: 2025-05-03T15:07:03.000Z
 <br>
 
 ### [Discord](https://discord.gg/新星团总部)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
