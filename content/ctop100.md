@@ -2,7 +2,7 @@
 layout: page
 title: Custom ELO Weighting
 description: Hades' Star top 100 trial ranks inclusive of all whitestar matches.
-date: 2025-05-04T12:55:09.030Z
+date: 2025-05-04T15:55:08.002Z
 permalink: /ctop100/
 searchHidden: true
 ---
@@ -128,13 +128,13 @@ searchHidden: true
 | 117 | [中团一建](https://ws.tsl.rocks/corp/3c82f48d57e8ce1b8fa5b4bc7b22c7e2dafa9a227fa0ab95f1ccb95bd1994f6b) | 1498|
 | 118 | [Rogue One Squad](https://ws.tsl.rocks/corp/911d118c4206217f2f2b921bbea3b70d0f405c6384d2c097355bca09e3c7121a) | 1497|
 | 119 | [物质体系](https://ws.tsl.rocks/corp/4f43f77265b1dd577d390b9ea0189d557843856f0c16081b2e97e6e701e86c39) | 1497|
-| 120 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad) | 1496|
-| 121 | [Corp. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72) | 1495|
-| 122 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61) | 1495|
-| 123 | [минск](https://ws.tsl.rocks/corp/350845614fd714115b9d5fbb2d305c4aaeafe40bf25dd9352f762b1cd4c25deb) | 1493|
-| 124 | [USS Federation](https://ws.tsl.rocks/corp/f80b7d89f726eb186efac6eec25882e06056ad582ec48678ba473293aa7854c1) | 1493|
-| 125 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da) | 1492|
-| 126 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538) | 1492|
+| 120 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538) | 1497|
+| 121 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad) | 1496|
+| 122 | [Corp. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72) | 1495|
+| 123 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61) | 1495|
+| 124 | [минск](https://ws.tsl.rocks/corp/350845614fd714115b9d5fbb2d305c4aaeafe40bf25dd9352f762b1cd4c25deb) | 1493|
+| 125 | [USS Federation](https://ws.tsl.rocks/corp/f80b7d89f726eb186efac6eec25882e06056ad582ec48678ba473293aa7854c1) | 1493|
+| 126 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da) | 1492|
 | 127 | [Air/Free_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b) | 1491|
 | 128 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d) | 1490|
 | 129 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2) | 1490|

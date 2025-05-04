@@ -1,6 +1,6 @@
 ---
 title: ​Сварожичи
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 21 - 0 **墨痕空域**
 date: 2025-04-27T14:32:11.000Z
@@ -15,7 +15,7 @@ date: 2025-04-27T14:32:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

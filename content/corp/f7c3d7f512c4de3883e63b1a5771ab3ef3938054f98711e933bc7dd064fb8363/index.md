@@ -1,6 +1,6 @@
 ---
 title: ​Wompwompway 
-description: W:41 L:17 D:0 Bonus ✅ 38%
+description: W:41 L:17 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 29 - 4 **仙女座星雲**
 date: 2025-04-27T13:12:02.000Z
@@ -17,7 +17,7 @@ p anyone who desires the aid.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

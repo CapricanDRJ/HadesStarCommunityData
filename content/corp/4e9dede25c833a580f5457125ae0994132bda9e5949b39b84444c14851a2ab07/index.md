@@ -21,7 +21,7 @@ corporation.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (765)|
+| ELO Regular | 1186 🔻  (764)|
 | ELO Competitive | 1186 🔻  (970)|
 | Total Matches | 1 |
 | Wins | 0 |

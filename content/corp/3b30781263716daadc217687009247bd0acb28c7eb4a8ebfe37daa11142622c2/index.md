@@ -1,9 +1,9 @@
 ---
 title: ​雪月永恒
-description: W:8 L:7 D:0 Bonus ❌ 5%
+description: W:8 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **Z\. O\. V\. **
-date: 2025-04-25T06:07:26.000Z
+Summary: ❌ 0 - 4 **沐星楼**
+date: 2025-05-04T14:24:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2025-04-25T06:07:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (620)|
-| ELO Competitive | 1213 🔻  (633)|
-| Total Matches | 15 |
+| ELO Regular | 1179 🔻  (937)|
+| ELO Competitive | 1200 🔻  (714)|
+| Total Matches | 16 |
 | Wins | 8 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745129246,1744223826,1743691239,1729949858,1729186280,1728136496,1725779035,1723705352,1719677178,1716989374,1716468008,1716020566,1715434462,1714548948,1713544812];
+        let timestamps = [1745936660,1745129246,1744223826,1743691239,1729949858,1729186280,1728136496,1725779035,1723705352,1719677178,1716989374,1716468008,1716020566,1715434462,1714548948,1713544812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/04 | 0-4 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) |
 | ❌ | 2025/04/25 | 0-8 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2025/04/14 | 1-0 | [SpaceX](https://ws.tsl.rocks/corp/3bc1ec1dbc6834fa95adc6d175ab134844b8f2ec4ee1082bc799f5de3c72e301/) |
 | ❌ | 2025/04/08 | 0-8 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
@@ -157,5 +158,5 @@ Corporation ID: 3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745561246"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746368660"></span>
 </div>

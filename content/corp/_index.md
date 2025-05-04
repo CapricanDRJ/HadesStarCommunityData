@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-05-04T12:55:09.508Z
+date: 2025-05-04T15:55:08.478Z
 summary: "Corporation directory"
 ---
 
@@ -1404,7 +1404,7 @@ summary: "Corporation directory"
 | [水星联合组织](https://ws.tsl.rocks/corp/fe67c7b35602faf8640d1765a46ce5f77d08740abf40340479bf82781778944a/) | 1199 | 1213 | 6 |
 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) | 1074 | 1140 | 41 |
 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) | 1225 | 1243 | 11 |
-| [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) | 1237 | 1258 | 5 |
+| [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) | 1250 | 1258 | 6 |
 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1202 | 1220 | 10 |
 | [洛神峰](https://ws.tsl.rocks/corp/69e75c04e1e97e3e1e943a1b8bb5ebd468da38c5daf44840707bdcd1d4823540/) | 1174 | 1174 | 2 |
 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) | 1199 | 1207 | 5 |
@@ -1496,7 +1496,7 @@ summary: "Corporation directory"
 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) | 1187 | 1286 | 36 |
 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 1184 | 1290 | 52 |
 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 1245 | 1435 | 80 |
-| [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) | 1192 | 1213 | 15 |
+| [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) | 1179 | 1200 | 16 |
 | [零号帝国](https://ws.tsl.rocks/corp/972b9a4a3b2871e8708ed94f690dec82625905681c3c77a5688cea7b69d77ee0/) | 1243 | 1244 | 3 |
 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) | 1259 | 1347 | 28 |
 | [青鸾殿](https://ws.tsl.rocks/corp/d92c939be23b35542ca2d0ae7cdc4b1288d5d5e78be2dfb74cb0360f5524d01c/) | 1212 | 1227 | 7 |
