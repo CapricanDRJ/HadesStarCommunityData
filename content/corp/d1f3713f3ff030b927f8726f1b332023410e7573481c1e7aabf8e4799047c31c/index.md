@@ -1,9 +1,9 @@
 ---
 title: ​USSR
-description: W:7 L:1 D:0 Bonus ❌ 8%
+description: W:8 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 13 - 1 **Бороская Имерия**
-date: 2025-02-27T23:48:33.000Z
+Summary: ✅ 21 - 10 **Mass Effect**
+date: 2025-05-04T04:03:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,18 +20,18 @@ date: 2025-02-27T23:48:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (191)|
-| ELO Competitive | 1314 🔺  (300)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1309 🔺  (162)|
+| ELO Competitive | 1331 🔺  (270)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 7 |
 
 ---
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740268113,1739248960,1738792326,1736899110,1734502017,1712900587,1708152126,1705647383];
+        let timestamps = [1745899400,1740268113,1739248960,1738792326,1736899110,1734502017,1712900587,1708152126,1705647383];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/04 | 21-10 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2025/02/27 | 13-1 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2025/02/16 | 14-9 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2025/02/10 | 25-0 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
@@ -156,5 +157,5 @@ Corporation ID: d1f3713f3ff030b927f8726f1b332023410e7573481c1e7aabf8e4799047c31c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740700113"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746331400"></span>
 </div>

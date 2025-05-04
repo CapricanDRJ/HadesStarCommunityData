@@ -1,9 +1,9 @@
 ---
 title: ​Black Pearl FR
-description: W:5 L:1 D:0 Bonus ✅ 
+description: W:6 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 19 - 0 **宇宙联盟（中国）**
-date: 2025-04-27T06:21:22.000Z
+Summary: ✅ 20 - 4 **Lupus Regnum**
+date: 2025-05-04T06:03:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-04-27T06:21:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (285)|
-| ELO Competitive | 1294 🔺  (332)|
-| Total Matches | 6 |
-| Wins | 5 |
+| ELO Regular | 1268 🔺  (244)|
+| ELO Competitive | 1314 🔺  (301)|
+| Total Matches | 7 |
+| Wins | 6 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745302882,1744712992,1744709086,1744198832,1743662689,1743166193];
+        let timestamps = [1745906612,1745302882,1744712992,1744709086,1744198832,1743662689,1743166193];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/04 | 20-4 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/04/27 | 19-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/04/20 | 4-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2025/04/20 | 0-20 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) |
@@ -154,5 +155,5 @@ Corporation ID: 2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745734882"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746338612"></span>
 </div>

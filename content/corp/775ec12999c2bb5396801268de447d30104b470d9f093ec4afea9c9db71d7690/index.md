@@ -1,6 +1,6 @@
 ---
 title: ​USSR
-description: W:3 L:3 D:0 Bonus ✅ 42%
+description: W:3 L:3 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 33 - 22 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2025-04-27T04:01:09.000Z
@@ -18,7 +18,7 @@ date: 2025-04-27T04:01:09.000Z
 <br>
 
 ### [Discord](https://discord.gg/tFTT3b8H)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

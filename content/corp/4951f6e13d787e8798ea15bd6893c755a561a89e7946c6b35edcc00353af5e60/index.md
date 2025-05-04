@@ -1,9 +1,9 @@
 ---
 title: ​龙族之家
-description: W:2 L:5 D:0 Bonus ❌ 
+description: W:2 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 4 **Fairy tail **
-date: 2025-04-28T15:39:41.000Z
+Summary: ❌ 0 - 7 **Lupus Regnum**
+date: 2025-05-04T05:18:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-04-28T15:39:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (1060)|
-| ELO Competitive | 1175 🔻  (1149)|
-| Total Matches | 7 |
+| ELO Regular | 1159 🔻  (1139)|
+| ELO Competitive | 1169 🔻  (1234)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745422781,1744900802,1744468461,1744026630,1743592067,1743094073,1742646582];
+        let timestamps = [1745903907,1745422781,1744900802,1744468461,1744026630,1743592067,1743094073,1742646582];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/04 | 0-7 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/04/28 | 0-4 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ❌ | 2025/04/22 | 0-14 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/04/17 | 1-0 | [chhota room](https://ws.tsl.rocks/corp/4d7b5625ade8539392cb86cf71b078b944ce1506bb0b121a1c04165cc24905ab/) |
@@ -149,5 +150,5 @@ Corporation ID: 4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745854781"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746335907"></span>
 </div>
