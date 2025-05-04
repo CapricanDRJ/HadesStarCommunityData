@@ -1,6 +1,6 @@
 ---
 title: ​Слава Украине!
-description: W:119 L:50 D:1 Bonus ✅ 48%
+description: W:119 L:50 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 2 - 38 **Ark Summit**
 date: 2025-05-03T05:56:09.000Z
@@ -18,7 +18,7 @@ date: 2025-05-03T05:56:09.000Z
 <br>
 
 ### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​" Возрождение "
-description: W:21 L:2 D:0 Bonus ✅ 36%
+description: W:21 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 26 - 19 **Industrial W\.O**
 date: 2025-04-27T09:16:38.000Z
@@ -20,7 +20,7 @@ date: 2025-04-27T09:16:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
