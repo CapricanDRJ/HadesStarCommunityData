@@ -1,9 +1,9 @@
 ---
 title: ​Dominadores
-description: W:1 L:3 D:0 Bonus ❌ 6%
+description: W:1 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 1 - 25 **Blood Hounds**
-date: 2025-02-27T02:35:27.000Z
+Summary: ❌ 6 - 14 **nuevo mundo**
+date: 2025-05-04T18:17:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ udo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (943)|
-| ELO Competitive | 1185 🔻  (998)|
-| Total Matches | 4 |
+| ELO Regular | 1168 🔻  (1070)|
+| ELO Competitive | 1178 🔻  (1123)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740191727,1730578507,1729881040,1729252138];
+        let timestamps = [1745950673,1740191727,1730578507,1729881040,1729252138];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/04 | 6-14 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ❌ | 2025/02/27 | 1-25 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/11/07 | 7-14 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
 | ❌ | 2024/10/30 | 0-31 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) |
@@ -146,5 +147,5 @@ Corporation ID: 2c3d0185f0e77bc1159afedc714f4971e3ecb2373ae811a554f8034b5cc0dd15
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1740623727"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746382673"></span>
 </div>

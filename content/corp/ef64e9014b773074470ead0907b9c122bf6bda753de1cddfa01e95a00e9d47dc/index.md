@@ -1,6 +1,6 @@
 ---
 title: ​Crazy Elite
-description: W:46 L:62 D:0 Bonus ✅ 52%
+description: W:46 L:62 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 28 - 23 **The Star League**
 date: 2025-04-27T17:27:31.000Z
@@ -19,11 +19,11 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (365)|
+| ELO Regular | 1228 🔺  (364)|
 | ELO Competitive | 1357 🔺  (228)|
 | Total Matches | 108 |
 | Wins | 46 |

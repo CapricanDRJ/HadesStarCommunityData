@@ -1,9 +1,9 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:38 L:12 D:0 Bonus ❌ 8%
+description: W:39 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 23 - 14 **Рейнджеры**
-date: 2025-04-24T10:09:25.000Z
+Summary: ✅ 22 - 5 **Сварожичи**
+date: 2025-05-04T16:32:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 2025-04-24T10:09:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1402 🔺  (65)|
-| ELO Competitive | 1466 🔺  (116)|
-| Total Matches | 50 |
-| Wins | 38 |
+| ELO Regular | 1410 🔺  (60)|
+| ELO Competitive | 1473 🔺  (112)|
+| Total Matches | 51 |
+| Wins | 39 |
 | Losses | 12 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 14 |
 | Flagship | 5 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745057365,1744292889,1743703263,1743171905,1742672735,1741979728,1740808399,1739573922,1738610519,1737722506,1736521335,1734989684,1733698564,1731834294,1730231136,1729270124,1724046756,1723461338,1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
+        let timestamps = [1745944361,1745057365,1744292889,1743703263,1743171905,1742672735,1741979728,1740808399,1739573922,1738610519,1737722506,1736521335,1734989684,1733698564,1731834294,1730231136,1729270124,1724046756,1723461338,1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/04 | 22-5 | [Сварожичи](https://ws.tsl.rocks/corp/756e76b1fa697e8ab2f40b1c5c5c93f69beeee26898a3ca128da2a7b69589093/) |
 | ✅ | 2025/04/24 | 23-14 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) |
 | ✅ | 2025/04/15 | 18-0 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2025/04/08 | 13-9 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
@@ -203,5 +204,5 @@ Corporation ID: 5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745489365"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746376361"></span>
 </div>
