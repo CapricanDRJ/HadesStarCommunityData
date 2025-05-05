@@ -1,9 +1,9 @@
 ---
 title: ​自由星际联盟
-description: W:6 L:41 D:0 Bonus ❌ 6%
+description: W:6 L:42 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 30 **Bacon Warriors**
-date: 2025-02-01T03:58:13.000Z
+Summary: ❌ 12 - 18 **Cerulean Star**
+date: 2025-05-05T13:44:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-02-01T03:58:13.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 970 🔻  (1498)|
-| ELO Competitive | 1052 🔻  (1501)|
-| Total Matches | 47 |
+| ELO Regular | 968 🔻  (1498)|
+| ELO Competitive | 1050 🔻  (1501)|
+| Total Matches | 48 |
 | Wins | 6 |
-| Losses | 41 |
+| Losses | 42 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737950293,1732445795,1731818669,1730909347,1729249383,1724950081,1724502623,1724070494,1722223846,1721784663,1721310264,1717741626,1717741626,1716468008,1716436766,1714461789,1713676695,1710025051,1709991393,1709467673,1708611585,1708519034,1708000977,1707552177,1707109539,1706615663,1706583492,1706019124,1705582469,1704970488,1704457651,1703945577,1703505915,1703062448,1703046112,1702560844,1702099501,1702097396,1701607809,1701172024,1700907537,1700694151,1700133328,1700126416,1699692829,1699689930,1698748991];
+        let timestamps = [1746020684,1737950293,1732445795,1731818669,1730909347,1729249383,1724950081,1724502623,1724070494,1722223846,1721784663,1721310264,1717741626,1717741626,1716468008,1716436766,1714461789,1713676695,1710025051,1709991393,1709467673,1708611585,1708519034,1708000977,1707552177,1707109539,1706615663,1706583492,1706019124,1705582469,1704970488,1704457651,1703945577,1703505915,1703062448,1703046112,1702560844,1702099501,1702097396,1701607809,1701172024,1700907537,1700694151,1700133328,1700126416,1699692829,1699689930,1698748991];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/05 | 12-18 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2025/02/01 | 0-30 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2024/11/29 | 0-17 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2024/11/22 | 1-26 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
@@ -199,5 +200,5 @@ Corporation ID: 933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738382293"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746452684"></span>
 </div>

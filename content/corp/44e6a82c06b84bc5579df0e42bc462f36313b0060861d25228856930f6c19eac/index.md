@@ -1,6 +1,6 @@
 ---
 title: ​Fairy tail 
-description: W:8 L:7 D:0 Bonus ✅ 32%
+description: W:8 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **龙族之家**
 date: 2025-04-28T15:39:41.000Z
@@ -16,7 +16,7 @@ Todoas las personas que puedan hablar español esta permitido aqui nos
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

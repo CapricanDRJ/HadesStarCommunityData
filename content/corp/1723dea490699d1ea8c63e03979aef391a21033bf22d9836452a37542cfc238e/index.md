@@ -1,9 +1,9 @@
 ---
 title: ​Soul System
-description: W:13 L:18 D:0 Bonus ❌ 9%
+description: W:14 L:18 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 23 - 2 **Eretria **
-date: 2025-04-28T10:04:04.000Z
+Summary: ✅ 16 - 3 **萌新港\(大佬港\)**
+date: 2025-05-05T13:49:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ ust we are born our souls woven from light. RS and WS focused.
 <br>
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (270)|
-| ELO Competitive | 1329 🔺  (278)|
-| Total Matches | 31 |
-| Wins | 13 |
+| ELO Regular | 1267 🔺  (249)|
+| ELO Competitive | 1339 🔺  (257)|
+| Total Matches | 32 |
+| Wins | 14 |
 | Losses | 18 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745402644,1744877061,1744400471,1743873964,1743414165,1742923675,1742471969,1742038328,1741430434,1740852284,1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
+        let timestamps = [1746020985,1745402644,1744877061,1744400471,1743873964,1743414165,1742923675,1742471969,1742038328,1741430434,1740852284,1740412647,1739980500,1739446509,1738930550,1738294056,1737624849,1737068923,1736605189,1736171225,1735678656,1734994792,1734040191,1719643517,1718183479,1716210835,1712400595,1708088421,1703854218,1702810292,1702125046,1701526363];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 16-3 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2025/04/28 | 23-2 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2025/04/22 | 17-4 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2025/04/16 | 0-34 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -177,5 +178,5 @@ Corporation ID: 1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745834644"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746452985"></span>
 </div>
