@@ -1,9 +1,9 @@
 ---
 title: ​47підрозділССП
-description: W:20 L:5 D:0 Bonus ❌ 
+description: W:21 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 10 - 13 **Atlas Star llc\.**
-date: 2025-04-30T17:29:40.000Z
+Summary: ✅ 20 - 2 **Nebulae Traders**
+date: 2025-05-05T19:45:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-30T17:29:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔻  (79)|
-| ELO Competitive | 1466 🔻  (116)|
-| Total Matches | 25 |
-| Wins | 20 |
+| ELO Regular | 1391 🔺  (74)|
+| ELO Competitive | 1471 🔺  (113)|
+| Total Matches | 26 |
+| Wins | 21 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 13 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745602180,1745131890,1744684450,1744063922,1743561238,1743120222,1742672735,1742221640,1741789524,1741327956,1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
+        let timestamps = [1746042323,1745602180,1745131890,1744684450,1744063922,1743561238,1743120222,1742672735,1742221640,1741789524,1741327956,1740891650,1740437291,1739995233,1739549831,1739104846,1738657693,1738223738,1737790120,1737350803,1736912644,1736478360,1736046098,1735589418,1735139301,1734706935];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 20-2 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2025/04/30 | 10-13 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2025/04/25 | 16-2 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2025/04/20 | 21-1 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
@@ -172,5 +173,5 @@ Corporation ID: a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746034180"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746474323"></span>
 </div>

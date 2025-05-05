@@ -1,6 +1,6 @@
 ---
 title: ​Legión
-description: W:15 L:13 D:0 Bonus ✅ 36%
+description: W:15 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 7 - 13 **Space Oddity**
 date: 2025-05-04T23:43:26.000Z
@@ -18,7 +18,7 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 <br>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

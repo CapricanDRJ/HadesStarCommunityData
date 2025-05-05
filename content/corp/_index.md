@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-05-05T18:55:08.622Z
+date: 2025-05-05T21:55:08.927Z
 summary: "Corporation directory"
 ---
 
@@ -89,7 +89,7 @@ summary: "Corporation directory"
 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) | 1268 | 1314 | 7 |
 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) | 1274 | 1364 | 65 |
 | [Black Sun](https://ws.tsl.rocks/corp/696ca774d5aafa8bb17ba1f82e16b8751b9775c85e733177827be58093cd7b9e/) | 1119 | 1149 | 20 |
-| [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 941 | 975 | 64 |
+| [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 935 | 969 | 65 |
 | [BlackOrca](https://ws.tsl.rocks/corp/b347ab5ef3e7adebf30c571089fbba3e2e586c8012477f52477de359826fdfb5/) | 1185 | 1185 | 1 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 1337 | 1745 | 160 |
 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) | 1185 | 1185 | 2 |
@@ -555,7 +555,7 @@ summary: "Corporation directory"
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1364 | 1719 | 127 |
 | [Nebula](https://ws.tsl.rocks/corp/38bd8c92bc5f2d4ff240d58da260855d87eb4c2c4a241735c5d72215d4a191fb/) | 1052 | 1075 | 22 |
 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) | 1255 | 1266 | 12 |
-| [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) | 1020 | 1182 | 84 |
+| [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) | 1017 | 1177 | 85 |
 | [nebulous](https://ws.tsl.rocks/corp/7dbed8f23359332ebc38b0b4cc1f17633338f4d92b023a517b8a071f26c2fc23/) | 1192 | 1193 | 1 |
 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) | 1189 | 1284 | 63 |
 | [Neutro Corpo](https://ws.tsl.rocks/corp/a6564507c74a5de54d9d1b3f6f3eef4018d03d6e858aa986831e1d8b4e6a6726/) | 1163 | 1163 | 3 |
@@ -980,7 +980,7 @@ summary: "Corporation directory"
 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1254 | 1346 | 71 |
 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) | 1169 | 1170 | 3 |
 | [UNSC](https://ws.tsl.rocks/corp/8744030b57ee77af0999b0e5f4ad2253e2486a5fcd922cf6c5c75d1798b89ba8/) | 1215 | 1219 | 6 |
-| [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) | 1201 | 1213 | 4 |
+| [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) | 1206 | 1219 | 5 |
 | [Urban Legends](https://ws.tsl.rocks/corp/03bfbe3df58b13546a651bc45ed306b09b2875f4813f6d5954a8868a23138fd9/) | 1173 | 1178 | 4 |
 | [USA Corp](https://ws.tsl.rocks/corp/c4cd0e291dc8ecb6c1da51995df5a02fd08d602306d6ae6bee0cd68bc94d2c82/) | 1148 | 1147 | 8 |
 | [USAR@Hadesstar](https://ws.tsl.rocks/corp/f9078ab279bc09e07910475611036038dcd3afd7840597abb5b738afbb32db33/) | 1176 | 1181 | 5 |
@@ -1070,7 +1070,7 @@ summary: "Corporation directory"
 | [27rus](https://ws.tsl.rocks/corp/923fd2244430f309d52a73ea98d10efde744e908940809f2b3c2b7b456e7082a/) | 1185 | 1185 | 1 |
 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 1412 | 1529 | 74 |
 | [42 Nova Corps\.](https://ws.tsl.rocks/corp/f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e/) | 1210 | 1211 | 3 |
-| [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 1387 | 1466 | 25 |
+| [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 1391 | 1471 | 26 |
 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 1196 | 1391 | 63 |
 | [666](https://ws.tsl.rocks/corp/73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/) | 1165 | 1166 | 3 |
 | [8 русский рейх](https://ws.tsl.rocks/corp/8e7c8e4fc8fc755c723fafd3a9584dacda0f5a2eb4b800d5e8d379d664da2a44/) | 1222 | 1222 | 1 |

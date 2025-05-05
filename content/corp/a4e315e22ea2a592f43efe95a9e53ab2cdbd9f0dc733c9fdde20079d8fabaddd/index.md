@@ -1,6 +1,6 @@
 ---
 title: ​Battle Academy
-description: W:12 L:1 D:0 Bonus ✅ 34%
+description: W:12 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **Бороская Имерия**
 date: 2025-04-28T19:45:11.000Z
@@ -24,7 +24,7 @@ color=#111100><b></b></color>
 <br>
 
 ### [Discord](https://discord.gg/3A9WHQV)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

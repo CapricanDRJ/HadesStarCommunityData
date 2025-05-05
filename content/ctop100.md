@@ -2,7 +2,7 @@
 layout: page
 title: Custom ELO Weighting
 description: Hades' Star top 100 trial ranks inclusive of all whitestar matches.
-date: 2025-05-05T18:55:08.136Z
+date: 2025-05-05T21:55:08.445Z
 permalink: /ctop100/
 searchHidden: true
 ---
@@ -52,8 +52,8 @@ searchHidden: true
 | 41 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e) | 1557|
 | 42 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed) | 1555|
 | 43 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7) | 1555|
-| 44 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b) | 1551|
-| 45 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d) | 1551|
+| 44 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d) | 1552|
+| 45 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b) | 1551|
 | 46 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b) | 1547|
 | 47 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1) | 1544|
 | 48 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a) | 1543|
@@ -199,13 +199,13 @@ searchHidden: true
 | 188 | [VD Redux](https://ws.tsl.rocks/corp/4c01d685744a017bb7d4799959ee348598a769d8919e005542cc71d67e2e6cf7) | 1476|
 | 189 | [Os Guild](https://ws.tsl.rocks/corp/95419ee3d00a8d81d84d6fdba1cc4478098c152940903bb6a203af8f646d4e13) | 1476|
 | 190 | [✨🔰🔫💓🔰✨😝](https://ws.tsl.rocks/corp/05bb6e34dd52a8ccb3835f8f87ccede7ffb56741414ac7b3dd10e88a542c6c07) | 1476|
-| 191 | [love do you 👻](https://ws.tsl.rocks/corp/8bf1cff7b7ecfba046b45aaaf239229375c2d75a021cfd13eae13ce99fbf83bc) | 1476|
-| 192 | [dosti room🚚](https://ws.tsl.rocks/corp/e3b3acde7243499e951303924c2ab589f8b898b204b4d785bdb137a76e140395) | 1476|
-| 193 | [love room](https://ws.tsl.rocks/corp/e0d14fd70b77e006878f273de53342f8938248f1761b4860a9a806756250db84) | 1476|
-| 194 | [good room](https://ws.tsl.rocks/corp/6bd7c6ca9d58890fea693442136f2ec26bec804e3523b857c6279206e051a21c) | 1476|
-| 195 | [Argentina 1.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449) | 1475|
-| 196 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711) | 1475|
-| 197 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9) | 1475|
-| 198 | [Outcasts](https://ws.tsl.rocks/corp/a5d77400f5f6762d9c869428160b2f0bf115c23cba5a694f6c8e7b9cd71c2bf0) | 1475|
-| 199 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c) | 1474|
-| 200 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95) | 1474|
+| 191 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3) | 1476|
+| 192 | [love do you 👻](https://ws.tsl.rocks/corp/8bf1cff7b7ecfba046b45aaaf239229375c2d75a021cfd13eae13ce99fbf83bc) | 1476|
+| 193 | [dosti room🚚](https://ws.tsl.rocks/corp/e3b3acde7243499e951303924c2ab589f8b898b204b4d785bdb137a76e140395) | 1476|
+| 194 | [love room](https://ws.tsl.rocks/corp/e0d14fd70b77e006878f273de53342f8938248f1761b4860a9a806756250db84) | 1476|
+| 195 | [good room](https://ws.tsl.rocks/corp/6bd7c6ca9d58890fea693442136f2ec26bec804e3523b857c6279206e051a21c) | 1476|
+| 196 | [Argentina 1.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449) | 1475|
+| 197 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711) | 1475|
+| 198 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9) | 1475|
+| 199 | [Outcasts](https://ws.tsl.rocks/corp/a5d77400f5f6762d9c869428160b2f0bf115c23cba5a694f6c8e7b9cd71c2bf0) | 1475|
+| 200 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c) | 1474|
