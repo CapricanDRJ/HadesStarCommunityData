@@ -1,9 +1,9 @@
 ---
 title: ​Red Alliance
-description: W:27 L:36 D:2 Bonus ✅ 36%
+description: W:28 L:37 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 0 - 25 **viCIOus**
-date: 2025-04-29T19:42:31.000Z
+Summary: ✅ 2 - 0 **한국우주연합**
+date: 2025-05-05T08:59:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ English speaking – would you want to communicate
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1178)|
-| ELO Competitive | 1293 🔺  (334)|
-| Total Matches | 65 |
-| Wins | 27 |
-| Losses | 36 |
+| ELO Regular | 1156 🔺  (1166)|
+| ELO Competitive | 1304 🔺  (317)|
+| Total Matches | 67 |
+| Wins | 28 |
+| Losses | 37 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745523751,1745515664,1744907114,1744868348,1744228891,1744222578,1743729708,1743700558,1743195351,1742389327,1741191483,1740521736,1740003953,1739502585,1738781806,1738759907,1738334558,1737174098,1736698064,1736249657,1735789824,1735237855,1734794376,1734378231,1734341867,1733845787,1733541986,1733395654,1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
+        let timestamps = [1746003554,1746003253,1745523751,1745515664,1744907114,1744868348,1744228891,1744222578,1743729708,1743700558,1743195351,1742389327,1741191483,1740521736,1740003953,1739502585,1738781806,1738759907,1738334558,1737174098,1736698064,1736249657,1735789824,1735237855,1734794376,1734378231,1734341867,1733845787,1733541986,1733395654,1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) | 1 | 1 | 0 | 2 |
 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) | 0 | 3 | 0 | 3 |
 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 2 | 0 | 1 | 3 |
 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) | 1 | 1 | 0 | 2 |
@@ -145,6 +146,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 2-0 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
+| ❌ | 2025/05/05 | 2-15 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ❌ | 2025/04/29 | 0-25 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2025/04/29 | 6-2 | [QVX](https://ws.tsl.rocks/corp/7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665/) |
 | ✅ | 2025/04/22 | 6-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
@@ -217,5 +220,5 @@ Corporation ID: 72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745955751"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746435554"></span>
 </div>

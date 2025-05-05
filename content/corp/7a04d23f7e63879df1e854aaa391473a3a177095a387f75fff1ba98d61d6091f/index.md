@@ -22,8 +22,8 @@ orio per le ws: t.me/StellarCorpIT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔻  (214)|
-| ELO Competitive | 1302 🔻  (318)|
+| ELO Regular | 1283 🔻  (213)|
+| ELO Competitive | 1302 🔻  (319)|
 | Total Matches | 10 |
 | Wins | 8 |
 | Losses | 2 |

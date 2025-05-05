@@ -1,9 +1,9 @@
 ---
 title: ​한국우주연합
-description: W:10 L:16 D:0 Bonus ❌ 6%
+description: W:11 L:17 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 8 - 4 **DarkMoon**
-date: 2025-04-23T08:41:48.000Z
+Summary: ❌ 0 - 2 **Red Alliance**
+date: 2025-05-05T08:59:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ kor.cop 많이 들어와주세요
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (1085)|
-| ELO Competitive | 1187 🔺  (928)|
-| Total Matches | 26 |
-| Wins | 10 |
-| Losses | 16 |
+| ELO Regular | 1163 🔻  (1105)|
+| ELO Competitive | 1206 🔺  (673)|
+| Total Matches | 28 |
+| Wins | 11 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744965708,1742976862,1741523292,1740024685,1738889686,1732841274,1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
+        let timestamps = [1746003554,1746003253,1744965708,1742976862,1741523292,1740024685,1738889686,1732841274,1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -129,12 +129,19 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/05 | 0-2 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
+| ✅ | 2025/05/05 | 15-2 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2025/04/23 | 8-4 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2025/03/31 | 2-13 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/03/14 | 10-6 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
@@ -168,5 +175,5 @@ Corporation ID: c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745397708"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746435554"></span>
 </div>

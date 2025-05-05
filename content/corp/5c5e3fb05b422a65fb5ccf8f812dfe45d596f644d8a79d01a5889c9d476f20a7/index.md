@@ -1,9 +1,9 @@
 ---
 title: ​GN星际联合
-description: W:6 L:3 D:0 Bonus ❌ 
+description: W:6 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 6 - 0 **星瀚协议：守望之城**
-date: 2025-04-22T12:14:45.000Z
+Summary: ❌ 16 - 26 **Empire of Hades**
+date: 2025-05-05T08:09:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-04-22T12:14:45.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (342)|
-| ELO Competitive | 1252 🔺  (440)|
-| Total Matches | 9 |
+| ELO Regular | 1226 🔻  (370)|
+| ELO Competitive | 1244 🔻  (467)|
+| Total Matches | 10 |
 | Wins | 6 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744892085,1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
+        let timestamps = [1746000549,1744892085,1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/05 | 16-26 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2025/04/22 | 6-0 | [星瀚协议：守望之城](https://ws.tsl.rocks/corp/8cc8aca54d2881fb3ac64cadf68e0ba57110a758b0f3976e30e19f70dd73cff2/) |
 | ✅ | 2025/04/07 | 12-7 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2025/03/18 | 3-16 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
@@ -152,5 +152,5 @@ Corporation ID: 5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745324085"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746432549"></span>
 </div>
