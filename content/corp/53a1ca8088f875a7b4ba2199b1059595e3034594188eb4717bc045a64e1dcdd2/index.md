@@ -1,6 +1,6 @@
 ---
 title: ​imperio galacti
-description: W:27 L:17 D:1 Bonus ✅ 36%
+description: W:27 L:17 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 5 **TheBasics**
 date: 2025-05-04T04:43:24.000Z
@@ -17,7 +17,7 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

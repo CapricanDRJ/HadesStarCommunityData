@@ -1,9 +1,9 @@
 ---
 title: ​U.P.E
-description: W:6 L:7 D:1 Bonus ❌ 5%
+description: W:6 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **宇宙联盟（中国）**
-date: 2025-04-26T23:25:47.000Z
+Summary: ❌ 0 - 18 **V0RTEX**
+date: 2025-05-04T23:43:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ United People of Earth.  For the betterment of all people of earth!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (491)|
-| ELO Competitive | 1222 🔺  (552)|
-| Total Matches | 14 |
+| ELO Regular | 1198 🔻  (560)|
+| ELO Competitive | 1213 🔻  (637)|
+| Total Matches | 15 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 1 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745277947,1744338868,1743741727,1743264786,1742773119,1741922334,1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
+        let timestamps = [1745970206,1745277947,1744338868,1743741727,1743264786,1742773119,1741922334,1741087874,1740284383,1739289357,1737210763,1734966546,1734386344,1733843933,1700065946];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/04 | 0-18 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/04/26 | 8-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/04/16 | 9-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ❌ | 2025/04/09 | 0-13 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
@@ -157,5 +157,5 @@ Corporation ID: fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745709947"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746402206"></span>
 </div>

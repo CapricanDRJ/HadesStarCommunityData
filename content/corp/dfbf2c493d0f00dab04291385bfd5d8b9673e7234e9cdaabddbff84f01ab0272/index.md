@@ -1,9 +1,9 @@
 ---
 title: ​V0RTEX
-description: W:17 L:6 D:2 Bonus ✅ 
+description: W:19 L:6 D:2 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 3 **TheDuckeanFlow**
-date: 2025-04-29T08:46:20.000Z
+Summary: ✅ 18 - 0 **U\.P\.E**
+date: 2025-05-04T23:43:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-29T08:46:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔻  (151)|
-| ELO Competitive | 1345 🔺  (251)|
-| Total Matches | 25 |
-| Wins | 17 |
+| ELO Regular | 1338 🔺  (129)|
+| ELO Competitive | 1355 🔺  (229)|
+| Total Matches | 27 |
+| Wins | 19 |
 | Losses | 6 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745484380,1745429695,1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
+        let timestamps = [1745970206,1745968990,1745484380,1745429695,1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +146,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/04 | 18-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
+| ✅ | 2025/05/04 | 21-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2025/04/29 | 0-3 | [TheDuckeanFlow](https://ws.tsl.rocks/corp/bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1/) |
 | ✅ | 2025/04/28 | 18-1 | [Alpaca Nation](https://ws.tsl.rocks/corp/183ddf96d070e4587235f1fe8f0c8a6a5a4af354f44fae28416fe492a1f8f9d1/) |
 | ✅ | 2025/04/22 | 15-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
@@ -177,5 +180,5 @@ Corporation ID: dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745916380"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746402206"></span>
 </div>
