@@ -1,6 +1,6 @@
 ---
 title: ​Soul System
-description: W:13 L:18 D:0 Bonus ✅ 38%
+description: W:13 L:18 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 23 - 2 **Eretria **
 date: 2025-04-28T10:04:04.000Z
@@ -18,12 +18,12 @@ ust we are born our souls woven from light. RS and WS focused.
 <br>
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (269)|
-| ELO Competitive | 1329 🔺  (277)|
+| ELO Regular | 1256 🔺  (270)|
+| ELO Competitive | 1329 🔺  (278)|
 | Total Matches | 31 |
 | Wins | 13 |
 | Losses | 18 |

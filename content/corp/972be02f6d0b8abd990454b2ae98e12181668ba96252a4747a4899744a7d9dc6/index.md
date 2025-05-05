@@ -1,9 +1,9 @@
 ---
 title: ​Новички
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:5 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 5 - 2 **Untitled**
-date: 2025-04-30T06:03:27.000Z
+Summary: ✅ 7 - 0 **彩虹神圣太空队**
+date: 2025-05-05T11:40:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-04-30T06:03:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (315)|
-| ELO Competitive | 1249 🔺  (452)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1253 🔺  (280)|
+| ELO Competitive | 1261 🔺  (418)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745561007,1745085617,1741691264,1741004942,1739884940];
+        let timestamps = [1746013215,1745561007,1745085617,1741691264,1741004942,1739884940];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 7-0 | [彩虹神圣太空队](https://ws.tsl.rocks/corp/65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9/) |
 | ✅ | 2025/04/30 | 5-2 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 | ❌ | 2025/04/24 | 2-22 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/03/16 | 3-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -147,5 +149,5 @@ Corporation ID: 972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745993007"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746445215"></span>
 </div>

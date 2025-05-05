@@ -1,6 +1,6 @@
 ---
 title: ​Quantum Pioneer
-description: W:15 L:7 D:0 Bonus ✅ 
+description: W:15 L:7 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 4 - 0 **复生会**
 date: 2025-04-28T11:24:13.000Z
@@ -15,12 +15,12 @@ date: 2025-04-28T11:24:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1294 🔺  (192)|
-| ELO Competitive | 1333 🔺  (269)|
+| ELO Competitive | 1333 🔺  (270)|
 | Total Matches | 22 |
 | Wins | 15 |
 | Losses | 7 |

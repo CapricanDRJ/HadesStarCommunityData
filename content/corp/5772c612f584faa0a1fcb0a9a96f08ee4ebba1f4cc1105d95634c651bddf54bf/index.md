@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Hades
-description: W:23 L:5 D:1 Bonus ✅ 
+description: W:24 L:5 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 26 - 16 **GN星际联合**
-date: 2025-05-05T08:09:09.000Z
+Summary: ✅ 16 - 1 **超新星联盟**
+date: 2025-05-05T11:54:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-05-05T08:09:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (83)|
+| ELO Regular | 1385 🔺  (80)|
 | ELO Competitive | 1422 🔺  (159)|
-| Total Matches | 29 |
-| Wins | 23 |
+| Total Matches | 30 |
+| Wins | 24 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 12 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746000549,1745410458,1745391528,1744787214,1744184411,1744175698,1743661487,1743656411,1742985875,1742976862,1742365285,1741784113,1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
+        let timestamps = [1746014071,1746000549,1745410458,1745391528,1744787214,1744184411,1744175698,1743661487,1743656411,1742985875,1742976862,1742365285,1741784113,1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 16-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2025/05/05 | 26-16 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ✅ | 2025/04/28 | 15-4 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2025/04/28 | 20-0 | [彩虹神圣太空队](https://ws.tsl.rocks/corp/65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9/) |
@@ -177,5 +178,5 @@ Corporation ID: 5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746432549"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746446071"></span>
 </div>

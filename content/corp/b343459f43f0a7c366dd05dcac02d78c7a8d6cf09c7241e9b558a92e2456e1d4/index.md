@@ -28,7 +28,7 @@ Trust * Loyalty
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 931 🔻  (1503)|
+| ELO Regular | 931 🔻  (1504)|
 | ELO Competitive | 1220 🔺  (558)|
 | Total Matches | 153 |
 | Wins | 31 |

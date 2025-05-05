@@ -1,9 +1,9 @@
 ---
 title: ​超新星联盟
-description: W:7 L:15 D:4 Bonus ❌ 6%
+description: W:7 L:16 D:4 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **环星集团**
-date: 2025-01-31T01:25:32.000Z
+Summary: ❌ 1 - 16 **Empire of Hades**
+date: 2025-05-05T11:54:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-01-31T01:25:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1391)|
-| ELO Competitive | 1181 🔻  (1095)|
-| Total Matches | 26 |
+| ELO Regular | 1100 🔻  (1398)|
+| ELO Competitive | 1175 🔻  (1147)|
+| Total Matches | 27 |
 | Wins | 7 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1737854732,1737192376,1731020634,1727709152,1726465807,1724823179,1724761704,1724131498,1724062981,1723515435,1723433417,1723013581,1722955285,1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
+        let timestamps = [1746014071,1737854732,1737192376,1731020634,1727709152,1726465807,1724823179,1724761704,1724131498,1724062981,1723515435,1723433417,1723013581,1722955285,1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/05 | 1-16 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2025/01/31 | 0-2 | [环星集团](https://ws.tsl.rocks/corp/8a1148b4fbc41d0b26a8a865ec524c7ab8965e7df2c1002344b8cbd075a12fdd/) |
 | ↔️ | 2025/01/23 | 2-2 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
 | ❌ | 2024/11/12 | 0-15 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -175,5 +176,5 @@ Corporation ID: c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1738286732"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746446071"></span>
 </div>

@@ -22,8 +22,8 @@ n always friendly
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (753)|
-| ELO Competitive | 1187 🔻  (926)|
+| ELO Regular | 1186 🔻  (755)|
+| ELO Competitive | 1187 🔻  (927)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

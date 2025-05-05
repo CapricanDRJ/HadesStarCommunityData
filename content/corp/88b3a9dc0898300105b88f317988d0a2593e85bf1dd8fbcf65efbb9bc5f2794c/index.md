@@ -20,8 +20,8 @@ flagship and corp bonuses!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (705)|
-| ELO Competitive | 1188 🔻  (884)|
+| ELO Regular | 1187 🔻  (707)|
+| ELO Competitive | 1188 🔻  (885)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
