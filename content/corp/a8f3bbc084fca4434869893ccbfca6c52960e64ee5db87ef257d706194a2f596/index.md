@@ -1,6 +1,6 @@
 ---
 title: ​WinterComes
-description: W:9 L:17 D:0 Bonus ✅ 44%
+description: W:9 L:17 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 47 **Emergence**
 date: 2025-05-04T10:18:55.000Z
@@ -23,11 +23,11 @@ Winter Comes to Hades</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (610)|
+| ELO Regular | 1193 🔻  (608)|
 | ELO Competitive | 1270 🔻  (396)|
 | Total Matches | 26 |
 | Wins | 9 |

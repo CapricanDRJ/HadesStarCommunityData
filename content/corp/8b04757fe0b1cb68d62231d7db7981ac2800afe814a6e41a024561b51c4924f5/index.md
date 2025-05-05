@@ -21,7 +21,7 @@ Discord: https://discord.gg/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (780)|
+| ELO Regular | 1186 🔻  (779)|
 | ELO Competitive | 1186 🔻  (965)|
 | Total Matches | 3 |
 | Wins | 1 |

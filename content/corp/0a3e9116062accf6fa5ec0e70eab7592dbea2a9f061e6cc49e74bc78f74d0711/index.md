@@ -1,9 +1,9 @@
 ---
 title: ​Justice Vengers
-description: W:41 L:14 D:2 Bonus ❌ 9%
+description: W:42 L:14 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 30 - 6 **Space Pirates**
-date: 2025-04-26T21:45:38.000Z
+Summary: ✅ 36 - 0 **Рейнджеры**
+date: 2025-05-05T16:20:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ date: 2025-04-26T21:45:38.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (96)|
-| ELO Competitive | 1511 🔺  (78)|
-| Total Matches | 57 |
-| Wins | 41 |
+| ELO Regular | 1371 🔺  (93)|
+| ELO Competitive | 1514 🔺  (73)|
+| Total Matches | 58 |
+| Wins | 42 |
 | Losses | 14 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745271938,1744790218,1743420175,1742570244,1741893192,1740800586,1740240165,1739670385,1739219949,1738785112,1738777297,1738152522,1738148616,1737518780,1737479417,1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1746030001,1745271938,1744790218,1743420175,1742570244,1741893192,1740800586,1740240165,1739670385,1739219949,1738785112,1738777297,1738152522,1738148616,1737518780,1737479417,1736967340,1736962831,1736271901,1736256871,1735205106,1734724066,1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 36-0 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) |
 | ✅ | 2025/04/26 | 30-6 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ❌ | 2025/04/21 | 10-16 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
 | ✅ | 2025/04/05 | 21-10 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
@@ -212,5 +214,5 @@ Corporation ID: 0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745703938"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746462001"></span>
 </div>

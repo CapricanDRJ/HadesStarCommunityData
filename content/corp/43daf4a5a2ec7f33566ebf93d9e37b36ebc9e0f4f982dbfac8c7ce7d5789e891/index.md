@@ -20,7 +20,7 @@ Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (642)|
+| ELO Regular | 1190 🔻  (640)|
 | ELO Competitive | 1198 🔻  (741)|
 | Total Matches | 2 |
 | Wins | 0 |

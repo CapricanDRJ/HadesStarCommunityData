@@ -1,9 +1,9 @@
 ---
 title: ​莫比乌斯-星环
-description: W:8 L:9 D:0 Bonus ❌ 
+description: W:9 L:9 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 9 - 22 **柯伊伯带**
-date: 2025-04-30T00:09:31.000Z
+Summary: ✅ 25 - 12 **OKC THUNDER **
+date: 2025-05-05T16:45:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-30T00:09:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (494)|
-| ELO Competitive | 1245 🔻  (464)|
-| Total Matches | 17 |
-| Wins | 8 |
+| ELO Regular | 1222 🔺  (385)|
+| ELO Competitive | 1260 🔺  (421)|
+| Total Matches | 18 |
+| Wins | 9 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745539771,1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1746031503,1745539771,1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 25-12 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 | ❌ | 2025/04/30 | 9-22 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2025/04/20 | 10-0 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2025/04/20 | 17-25 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
@@ -159,5 +160,5 @@ Corporation ID: f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745971771"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746463503"></span>
 </div>

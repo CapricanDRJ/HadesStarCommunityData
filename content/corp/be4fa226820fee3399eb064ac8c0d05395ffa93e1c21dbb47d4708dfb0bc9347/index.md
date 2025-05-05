@@ -1,9 +1,9 @@
 ---
 title: ​Рейнджеры
-description: W:7 L:17 D:0 Bonus ❌ 8%
+description: W:7 L:18 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 14 - 23 **9\-Й СКОРПИОН**
-date: 2025-04-24T10:09:25.000Z
+Summary: ❌ 0 - 36 **Justice Vengers**
+date: 2025-05-05T16:20:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ry
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1344)|
-| ELO Competitive | 1155 🔻  (1339)|
-| Total Matches | 24 |
+| ELO Regular | 1117 🔻  (1358)|
+| ELO Competitive | 1151 🔻  (1354)|
+| Total Matches | 25 |
 | Wins | 7 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745057365,1738051258,1724812750,1723300568,1717401108,1716203923,1715497562,1714647175,1713724771,1712653304,1711804144,1710666852,1709056018,1708058073,1707281385,1706601821,1705838211,1704991670,1703605088,1702806084,1702195377,1701593081,1700377074,1699164017];
+        let timestamps = [1746030001,1745057365,1738051258,1724812750,1723300568,1717401108,1716203923,1715497562,1714647175,1713724771,1712653304,1711804144,1710666852,1709056018,1708058073,1707281385,1706601821,1705838211,1704991670,1703605088,1702806084,1702195377,1701593081,1700377074,1699164017];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/05 | 0-36 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2025/04/24 | 14-23 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2025/02/02 | 14-10 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ❌ | 2024/09/02 | 0-17 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
@@ -174,5 +175,5 @@ Corporation ID: be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745489365"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746462001"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​G.02
-description: W:4 L:3 D:0 Bonus ✅ 
+description: W:4 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 7 - 0 **探索舰队**
 date: 2025-04-28T16:54:50.000Z
@@ -15,12 +15,12 @@ date: 2025-04-28T16:54:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (478)|
-| ELO Competitive | 1220 🔺  (558)|
+| ELO Regular | 1210 🔺  (479)|
+| ELO Competitive | 1220 🔺  (557)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 3 |
