@@ -444,13 +444,24 @@ searchHidden: true
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>8</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>276%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
                 <tr>
-                    <td>10</td>
+                    <td>8</td>
                     <td><img src="trade.png" alt="trade"></td>
-                    <td>RS9</td>
+                    <td>RS7</td>
                     <td>270%</td>
                 </tr>
             

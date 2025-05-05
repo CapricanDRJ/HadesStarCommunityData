@@ -25,7 +25,7 @@ https://discord.gg/nUgqhbn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (156)|
+| ELO Regular | 1317 🔺  (157)|
 | ELO Competitive | 1436 🔺  (139)|
 | Total Matches | 66 |
 | Wins | 41 |
