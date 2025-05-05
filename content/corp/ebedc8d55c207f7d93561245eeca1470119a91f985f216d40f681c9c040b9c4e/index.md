@@ -1,9 +1,9 @@
 ---
 title: ​Frontier X
-description: W:10 L:5 D:0 Bonus ❌ 6%
+description: W:11 L:5 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **Avantgarde**
-date: 2025-04-20T02:59:12.000Z
+Summary: ✅ 17 - 4 **泰拉瑞亚**
+date: 2025-05-05T04:11:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,17 @@ o7233
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (272)|
-| ELO Competitive | 1262 🔺  (415)|
-| Total Matches | 15 |
-| Wins | 10 |
+| ELO Regular | 1268 🔺  (245)|
+| ELO Competitive | 1275 🔺  (384)|
+| Total Matches | 16 |
+| Wins | 11 |
 | Losses | 5 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -45,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744685952,1744250871,1708440607,1707770797,1707178917,1706661628,1706126108,1705454759,1704735032,1703696447,1702944038,1701702179,1701104706,1700510220,1699833927];
+        let timestamps = [1745986307,1744685952,1744250871,1708440607,1707770797,1707178917,1706661628,1706126108,1705454759,1704735032,1703696447,1702944038,1701702179,1701104706,1700510220,1699833927];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 17-4 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ✅ | 2025/04/20 | 13-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2025/04/15 | 0-19 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ❌ | 2024/02/25 | 8-20 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
@@ -158,5 +160,5 @@ Corporation ID: ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745117952"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746418307"></span>
 </div>

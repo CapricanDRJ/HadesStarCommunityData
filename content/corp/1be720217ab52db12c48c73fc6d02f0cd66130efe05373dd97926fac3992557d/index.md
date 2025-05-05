@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:54 L:45 D:0 Bonus ✅ 48%
+description: W:54 L:45 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 31 - 37 **Likapa**
 date: 2025-05-03T10:26:35.000Z
@@ -17,7 +17,7 @@ date: 2025-05-03T10:26:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

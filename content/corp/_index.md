@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-05-05T03:55:08.684Z
+date: 2025-05-05T06:55:09.133Z
 summary: "Corporation directory"
 ---
 
@@ -314,7 +314,7 @@ summary: "Corporation directory"
 | [Freelancer](https://ws.tsl.rocks/corp/a0869b90acd7d157a6dffbad36c452fb58f606bb9477807e47a87c05ea9df4e2/) | 1174 | 1174 | 2 |
 | [FreeSpcAlliance](https://ws.tsl.rocks/corp/96bea64334265762457ed1f5f2d255d54618ac74fcee63697cfe08ccf08d99ce/) | 1197 | 1199 | 6 |
 | [From the Fire](https://ws.tsl.rocks/corp/df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf/) | 1126 | 1138 | 9 |
-| [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e/) | 1255 | 1262 | 15 |
+| [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e/) | 1268 | 1275 | 16 |
 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) | 1231 | 1373 | 58 |
 | [Furyans](https://ws.tsl.rocks/corp/971c13e71df362d95d80e5823735c939fd9710e349532ae3c4a66898156c45be/) | 1216 | 1216 | 1 |
 | [FėniX•](https://ws.tsl.rocks/corp/8307d1da2d91b1b6f2cdf365b891741a148ac78d385e34734a0e083d318248b2/) | 1188 | 1189 | 8 |
@@ -1405,7 +1405,7 @@ summary: "Corporation directory"
 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) | 1074 | 1140 | 41 |
 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) | 1225 | 1243 | 11 |
 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) | 1250 | 1258 | 6 |
-| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1202 | 1220 | 10 |
+| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1189 | 1207 | 11 |
 | [洛神峰](https://ws.tsl.rocks/corp/69e75c04e1e97e3e1e943a1b8bb5ebd468da38c5daf44840707bdcd1d4823540/) | 1174 | 1174 | 2 |
 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) | 1199 | 1207 | 5 |
 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) | 1076 | 1086 | 22 |

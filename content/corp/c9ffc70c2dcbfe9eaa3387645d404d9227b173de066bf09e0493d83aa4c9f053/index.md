@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:27 L:12 D:1 Bonus ✅ 36%
+description: W:27 L:12 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 35 - 1 **StellaMysterium**
 date: 2025-04-28T04:28:34.000Z
@@ -16,7 +16,7 @@ date: 2025-04-28T04:28:34.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

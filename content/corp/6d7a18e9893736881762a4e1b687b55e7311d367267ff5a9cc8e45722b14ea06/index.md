@@ -1,6 +1,6 @@
 ---
 title: ​U.S.A
-description: W:26 L:56 D:1 Bonus ✅ 36%
+description: W:26 L:56 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 22 **UFO**
 date: 2025-05-03T22:42:53.000Z
@@ -18,7 +18,7 @@ embers Star Nations that are apart of it against the chaos outside of
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

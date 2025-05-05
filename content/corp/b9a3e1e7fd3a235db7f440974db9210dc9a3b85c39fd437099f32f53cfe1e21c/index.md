@@ -1,6 +1,6 @@
 ---
 title: ​星舰月球
-description: W:46 L:32 D:0 Bonus ✅ 46%
+description: W:46 L:32 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 38 - 25 **Deadspace**
 date: 2025-04-28T05:43:42.000Z
@@ -19,7 +19,7 @@ date: 2025-04-28T05:43:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
