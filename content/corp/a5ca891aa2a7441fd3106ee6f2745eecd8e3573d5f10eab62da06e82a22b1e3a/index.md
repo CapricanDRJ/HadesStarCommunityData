@@ -1,6 +1,6 @@
 ---
 title: ​泰拉瑞亚
-description: W:5 L:6 D:0 Bonus ✅ 30%
+description: W:5 L:6 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 4 - 17 **Frontier X**
 date: 2025-05-05T04:11:47.000Z
@@ -16,11 +16,11 @@ date: 2025-05-05T04:11:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (656)|
+| ELO Regular | 1189 🔻  (655)|
 | ELO Competitive | 1207 🔻  (671)|
 | Total Matches | 11 |
 | Wins | 5 |
