@@ -1,9 +1,9 @@
 ---
 title: ​Spaceballs
-description: W:30 L:20 D:0 Bonus ✅ 38%
+description: W:31 L:20 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 23 - 6 **Nebulae Traders**
-date: 2025-04-29T21:57:45.000Z
+Summary: ✅ 24 - 23 **Atlas Star llc\.**
+date: 2025-05-06T19:37:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ titans.com
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔺  (96)|
-| ELO Competitive | 1460 🔺  (121)|
-| Total Matches | 50 |
-| Wins | 30 |
+| ELO Regular | 1385 🔺  (84)|
+| ELO Competitive | 1478 🔺  (109)|
+| Total Matches | 51 |
+| Wins | 31 |
 | Losses | 20 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 14 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745531865,1744314531,1743102791,1742512848,1741893192,1740708635,1740082702,1739485279,1738888484,1737661514,1737060809,1736452217,1735849923,1734636931,1734032677,1733438930,1732215918,1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
+        let timestamps = [1746128266,1745531865,1744314531,1743102791,1742512848,1741893192,1740708635,1740082702,1739485279,1738888484,1737661514,1737060809,1736452217,1735849923,1734636931,1734032677,1733438930,1732215918,1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) | 1 | 1 | 0 | 2 |
 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1 | 2 | 0 | 3 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 2 | 0 | 0 | 2 |
 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 2 | 1 | 0 | 3 |
@@ -146,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/06 | 24-23 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2025/04/29 | 23-6 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2025/04/15 | 11-19 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ✅ | 2025/04/01 | 16-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
@@ -203,5 +206,5 @@ Corporation ID: 1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745963865"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746560266"></span>
 </div>

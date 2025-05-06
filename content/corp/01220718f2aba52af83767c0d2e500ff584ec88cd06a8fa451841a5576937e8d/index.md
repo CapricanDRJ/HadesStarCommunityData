@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:24 L:11 D:1 Bonus ✅ 
+description: W:24 L:12 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 0 **普罗米修斯**
-date: 2025-05-03T05:41:08.000Z
+Summary: ❌ 0 - 28 **РARADISЕ**
+date: 2025-05-06T20:02:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-03T05:41:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1351 🔺  (114)|
-| ELO Competitive | 1391 🔺  (183)|
-| Total Matches | 36 |
+| ELO Regular | 1331 🔻  (139)|
+| ELO Competitive | 1374 🔻  (204)|
+| Total Matches | 37 |
 | Wins | 24 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
-| Streak | 10 |
 | Streak Record | 10 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745818868,1745650863,1745341048,1745218137,1744900802,1744780918,1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1746129769,1745818868,1745650863,1745341048,1745218137,1744900802,1744780918,1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/06 | 0-28 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/05/03 | 7-0 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2025/05/01 | 2-0 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ✅ | 2025/04/27 | 25-4 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
@@ -185,5 +185,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746250868"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746561769"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​The Gladiators
-description: W:2 L:8 D:2 Bonus ✅ 30%
+description: W:2 L:8 D:2 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 1 - 0 **GatosEsponjosos**
 date: 2025-04-29T19:12:28.000Z
@@ -19,7 +19,7 @@ White star every 2 weeks
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

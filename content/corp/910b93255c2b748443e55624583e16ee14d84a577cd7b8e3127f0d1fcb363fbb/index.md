@@ -1,6 +1,6 @@
 ---
 title: ​viCIOus
-description: W:35 L:5 D:1 Bonus ✅ 36%
+description: W:35 L:5 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 4 - 8 **星际公约组织**
 date: 2025-05-06T04:31:11.000Z
@@ -15,11 +15,11 @@ New!!! Join to expand!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1424 🔻  (50)|
+| ELO Regular | 1424 🔻  (49)|
 | ELO Competitive | 1485 🔻  (100)|
 | Total Matches | 41 |
 | Wins | 35 |
