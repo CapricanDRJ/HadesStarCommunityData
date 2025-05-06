@@ -1,6 +1,6 @@
 ---
 title: ​TheDuckeanFlow
-description: W:2 L:1 D:0 Bonus ✅ 
+description: W:2 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 3 - 0 **V0RTEX**
 date: 2025-04-29T08:46:20.000Z
@@ -15,7 +15,7 @@ date: 2025-04-29T08:46:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

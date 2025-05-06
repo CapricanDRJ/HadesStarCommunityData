@@ -1,9 +1,9 @@
 ---
 title: ​新星汇聚
-description: W:12 L:8 D:0 Bonus ❌ 6%
+description: W:13 L:8 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 16 - 0 **●Black•Sails●**
-date: 2025-04-25T12:22:05.000Z
+Summary: ✅ 26 - 1 **StellaMysterium**
+date: 2025-05-06T07:56:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ date: 2025-04-25T12:22:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (292)|
-| ELO Competitive | 1316 🔺  (295)|
-| Total Matches | 20 |
-| Wins | 12 |
+| ELO Regular | 1258 🔺  (268)|
+| ELO Competitive | 1329 🔺  (278)|
+| Total Matches | 21 |
+| Wins | 13 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745151725,1744712692,1743625966,1743031868,1741199354,1740902769,1740745592,1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
+        let timestamps = [1746086192,1745151725,1744712692,1743625966,1743031868,1741199354,1740902769,1740745592,1738938064,1738483689,1738038038,1737550028,1737080525,1736428770,1735256498,1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/06 | 26-1 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2025/04/25 | 16-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2025/04/20 | 23-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2025/04/07 | 31-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
@@ -166,5 +167,5 @@ Corporation ID: 7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745583725"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746518192"></span>
 </div>

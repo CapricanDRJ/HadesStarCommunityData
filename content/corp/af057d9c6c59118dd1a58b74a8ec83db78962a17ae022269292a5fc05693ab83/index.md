@@ -1,9 +1,9 @@
 ---
 title: ​孤星长城
-description: W:12 L:1 D:0 Bonus ✅ 
+description: W:12 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 9 - 0 **青丘湖**
-date: 2025-05-06T03:01:03.000Z
+Summary: ❌ 4 - 36 **BrinySeal**
+date: 2025-05-06T07:51:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-06T03:01:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1369 🔺  (95)|
+| ELO Regular | 1356 🔻  (110)|
 | ELO Competitive | 1355 🔺  (231)|
-| Total Matches | 13 |
+| Total Matches | 14 |
 | Wins | 12 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 12 |
 | Streak Record | 12 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746068463,1744719302,1744712391,1737440952,1737421829,1736967340,1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
+        let timestamps = [1746085891,1746068463,1744719302,1744712391,1737440952,1737421829,1736967340,1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/06 | 4-36 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2025/05/06 | 9-0 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ✅ | 2025/04/20 | 10-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/04/20 | 20-4 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
@@ -161,5 +161,5 @@ Corporation ID: af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746500463"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746517891"></span>
 </div>

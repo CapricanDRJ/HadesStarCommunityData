@@ -1,9 +1,9 @@
 ---
 title: ​方星集团
-description: W:6 L:9 D:2 Bonus ❌ 6%
+description: W:6 L:10 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **百万繁星**
-date: 2025-04-24T13:27:00.000Z
+Summary: ❌ 0 - 5 **New YuGiOh**
+date: 2025-05-06T08:23:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-04-24T13:27:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (1175)|
-| ELO Competitive | 1182 🔺  (1091)|
-| Total Matches | 17 |
+| ELO Regular | 1149 🔻  (1220)|
+| ELO Competitive | 1176 🔻  (1142)|
+| Total Matches | 18 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745069220,1744522474,1742734944,1741344127,1739194401,1738649882,1738150186,1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
+        let timestamps = [1746087786,1745069220,1744522474,1742734944,1741344127,1739194401,1738649882,1738150186,1737694564,1737235411,1736729324,1736002299,1735448787,1735207501,1734693411,1734185920,1733541986,1732629997];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -130,12 +130,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/06 | 0-5 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ↔️ | 2025/04/24 | 0-0 | [百万繁星](https://ws.tsl.rocks/corp/4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8/) |
 | ❌ | 2025/04/18 | 0-9 | [Destroyer](https://ws.tsl.rocks/corp/a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613/) |
 | ❌ | 2025/03/28 | 0-2 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
@@ -160,5 +166,5 @@ Corporation ID: 6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745501220"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746519786"></span>
 </div>

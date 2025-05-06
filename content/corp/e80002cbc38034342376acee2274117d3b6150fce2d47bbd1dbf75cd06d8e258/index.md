@@ -1,6 +1,6 @@
 ---
 title: ​OPA
-description: W:63 L:24 D:0 Bonus ✅ 42%
+description: W:63 L:24 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 23 **对，进就进人少的（分团）**
 date: 2025-04-29T14:26:55.000Z
@@ -19,7 +19,7 @@ Discord required : discord.gg/2RmfWZB777
 <br>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
