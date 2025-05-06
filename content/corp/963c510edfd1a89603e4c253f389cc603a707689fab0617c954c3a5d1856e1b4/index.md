@@ -1,9 +1,9 @@
 ---
 title: ​Черное солнце
-description: W:0 L:5 D:1 Bonus ❌ 4%
+description: W:0 L:6 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **hades star萌新指引站**
-date: 2025-03-17T10:19:57.000Z
+Summary: ❌ 2 - 15 **红日初升，其道大光**
+date: 2025-05-06T02:15:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ https://t.me/klrlo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1314)|
-| ELO Competitive | 1155 🔻  (1334)|
-| Total Matches | 6 |
+| ELO Regular | 1118 🔻  (1352)|
+| ELO Competitive | 1150 🔻  (1357)|
+| Total Matches | 7 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1741774797,1737370933,1734169090,1723126871,1707478802,1707466240];
+        let timestamps = [1746065759,1741774797,1737370933,1734169090,1723126871,1707478802,1707466240];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/06 | 2-15 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/03/17 | 0-18 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2025/01/25 | 0-10 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2024/12/19 | 2-8 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -149,5 +150,5 @@ Corporation ID: 963c510edfd1a89603e4c253f389cc603a707689fab0617c954c3a5d1856e1b4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1742206797"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746497759"></span>
 </div>

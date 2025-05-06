@@ -22,7 +22,7 @@ r><b>En La tumba sin nombre junto a la de Arch Stanton.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1465 🔻  (24)|
-| ELO Competitive | 1513 🔻  (74)|
+| ELO Competitive | 1513 🔻  (75)|
 | Total Matches | 34 |
 | Wins | 29 |
 | Losses | 5 |

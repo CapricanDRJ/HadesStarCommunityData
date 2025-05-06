@@ -1,9 +1,9 @@
 ---
 title: ​孤星长城
-description: W:11 L:1 D:0 Bonus ❌ 
+description: W:12 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 10 - 3 **星际公约组织**
-date: 2025-04-20T12:15:02.000Z
+Summary: ✅ 9 - 0 **青丘湖**
+date: 2025-05-06T03:01:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-04-20T12:15:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (106)|
-| ELO Competitive | 1339 🔺  (258)|
-| Total Matches | 12 |
-| Wins | 11 |
+| ELO Regular | 1369 🔺  (94)|
+| ELO Competitive | 1355 🔺  (231)|
+| Total Matches | 13 |
+| Wins | 12 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744719302,1744712391,1737440952,1737421829,1736967340,1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
+        let timestamps = [1746068463,1744719302,1744712391,1737440952,1737421829,1736967340,1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/06 | 9-0 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ✅ | 2025/04/20 | 10-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2025/04/20 | 20-4 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2025/01/26 | 23-0 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
@@ -160,5 +161,5 @@ Corporation ID: af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745151302"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746500463"></span>
 </div>
