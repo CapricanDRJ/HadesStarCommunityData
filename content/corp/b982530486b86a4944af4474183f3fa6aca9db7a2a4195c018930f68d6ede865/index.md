@@ -1,9 +1,9 @@
 ---
 title: ​ 边域
-description: W:8 L:14 D:2 Bonus ❌ 6%
+description: W:8 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **BlackDawn**
-date: 2025-04-17T06:32:13.000Z
+Summary: ❌ 0 - 3 **星际公约组织**
+date: 2025-05-06T06:00:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-04-17T06:32:13.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1349)|
-| ELO Competitive | 1138 🔻  (1408)|
-| Total Matches | 24 |
+| ELO Regular | 1113 🔻  (1372)|
+| ELO Competitive | 1134 🔻  (1418)|
+| Total Matches | 25 |
 | Wins | 8 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744439533,1743252456,1741485430,1740815612,1739933510,1738501124,1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1746079244,1744439533,1743252456,1741485430,1740815612,1739933510,1738501124,1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -130,12 +130,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/06 | 0-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ↔️ | 2025/04/17 | 0-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2025/04/03 | 0-9 | [DINASTÍA SOLAR](https://ws.tsl.rocks/corp/ad2fb0a499c4bed8883dbbb54af2585e84353be5ade52e585828b4d86c4f0994/) |
 | ❌ | 2025/03/14 | 0-1 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
@@ -167,5 +173,5 @@ Corporation ID: b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744871533"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746511244"></span>
 </div>

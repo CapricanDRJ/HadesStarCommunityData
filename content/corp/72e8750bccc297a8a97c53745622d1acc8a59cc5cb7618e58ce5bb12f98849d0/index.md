@@ -1,9 +1,9 @@
 ---
 title: ​星际公约组织
-description: W:36 L:16 D:1 Bonus ❌ 8%
+description: W:38 L:16 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 6 - 2 **星约组织：基地分团**
-date: 2025-04-20T14:00:14.000Z
+Summary: ✅ 3 - 0 ** 边域**
+date: 2025-05-06T06:00:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,16 +24,17 @@ Q群：993612413
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1364 🔺  (101)|
-| ELO Competitive | 1427 🔺  (154)|
-| Total Matches | 53 |
-| Wins | 36 |
+| ELO Regular | 1387 🔺  (80)|
+| ELO Competitive | 1445 🔺  (131)|
+| Total Matches | 55 |
+| Wins | 38 |
 | Losses | 16 |
 | Draws | 1 |
+| Streak | 3 |
 | Streak Record | 10 |
 | Flagship | 3 |
 
@@ -53,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744725614,1744719302,1744077740,1743944887,1743510929,1743428291,1742916494,1742821495,1742386621,1742381570,1741781708,1741781128,1741334866,1741262148,1740894655,1740663860,1740401825,1740204100,1739876826,1739673073,1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1746079244,1746073871,1744725614,1744719302,1744077740,1743944887,1743510929,1743428291,1742916494,1742821495,1742386621,1742381570,1741781708,1741781128,1741334866,1741262148,1740894655,1740663860,1740401825,1740204100,1739876826,1739673073,1739417066,1739161649,1738968001,1738658895,1738473471,1738160636,1738032930,1737706581,1737597810,1737165385,1737095662,1736656884,1736591360,1736145381,1735711999,1735705390,1735206900,1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 2 | 0 | 0 | 2 |
 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) | 3 | 1 | 0 | 4 |
 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 2 | 0 | 0 | 2 |
 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) | 2 | 0 | 0 | 2 |
@@ -151,6 +153,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/06 | 3-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
+| ✅ | 2025/05/06 | 8-4 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2025/04/20 | 6-2 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ❌ | 2025/04/20 | 3-10 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2025/04/13 | 7-5 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -211,5 +215,5 @@ Corporation ID: 72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745157614"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746511244"></span>
 </div>
