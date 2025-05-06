@@ -1,9 +1,9 @@
 ---
 title: ​Sentencia
-description: W:29 L:5 D:0 Bonus ❌ 8%
+description: W:30 L:5 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 6 - 23 **Likapa**
-date: 2025-04-29T19:12:28.000Z
+Summary: ✅ 33 - 5 **Повстанцы Хаоса**
+date: 2025-05-06T10:51:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1465 🔻  (24)|
-| ELO Competitive | 1513 🔻  (76)|
-| Total Matches | 34 |
-| Wins | 29 |
+| ELO Regular | 1483 🔺  (19)|
+| ELO Competitive | 1533 🔺  (66)|
+| Total Matches | 35 |
+| Wins | 30 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 14 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745521948,1744768286,1744716598,1743792163,1743003912,1742248995,1740709536,1738859034,1736768384,1734325344,1733474978,1731312338,1729038121,1728350160,1727429379,1725975075,1725149058,1723627221,1722818853,1720130371,1718414732,1716477923,1715025558,1714234934,1713652665,1713211592,1712438461,1711979328,1710759701,1709396461,1706320537,1705874883,1705361003,1704365995];
+        let timestamps = [1746096710,1745521948,1744768286,1744716598,1743792163,1743003912,1742248995,1740709536,1738859034,1736768384,1734325344,1733474978,1731312338,1729038121,1728350160,1727429379,1725975075,1725149058,1723627221,1722818853,1720130371,1718414732,1716477923,1715025558,1714234934,1713652665,1713211592,1712438461,1711979328,1710759701,1709396461,1706320537,1705874883,1705361003,1704365995];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/06 | 33-5 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2025/04/29 | 6-23 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2025/04/21 | 16-14 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2025/04/20 | 1-0 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
@@ -184,5 +185,5 @@ Corporation ID: 288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745953948"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746528710"></span>
 </div>

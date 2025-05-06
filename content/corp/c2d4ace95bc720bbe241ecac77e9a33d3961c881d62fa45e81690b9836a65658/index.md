@@ -1,9 +1,9 @@
 ---
 title: ​青丘湖
-description: W:16 L:13 D:0 Bonus ✅ 34%
+description: W:17 L:13 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **孤星长城**
-date: 2025-05-06T03:01:03.000Z
+Summary: ✅ 35 - 3 **RGW**
+date: 2025-05-06T10:21:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,10 +29,10 @@ date: 2025-05-06T03:01:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔻  (296)|
-| ELO Competitive | 1332 🔻  (271)|
-| Total Matches | 29 |
-| Wins | 16 |
+| ELO Regular | 1268 🔺  (246)|
+| ELO Competitive | 1366 🔺  (217)|
+| Total Matches | 30 |
+| Wins | 17 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746068463,1745625319,1745320009,1745168258,1744796828,1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
+        let timestamps = [1746094906,1746068463,1745625319,1745320009,1745168258,1744796828,1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/06 | 35-3 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2025/05/06 | 0-9 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2025/04/30 | 19-7 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2025/04/27 | 3-10 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
@@ -181,5 +182,5 @@ Corporation ID: c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746500463"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746526906"></span>
 </div>
