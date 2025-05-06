@@ -1,9 +1,9 @@
 ---
 title: ​Croce del Sud
-description: W:19 L:13 D:0 Bonus ❌ 8%
+description: W:20 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 29 - 25 **СССР**
-date: 2025-04-22T00:13:41.000Z
+Summary: ✅ 29 - 10 **Spacefleet**
+date: 2025-05-05T22:50:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ date: 2025-04-22T00:13:41.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (225)|
-| ELO Competitive | 1345 🔺  (251)|
-| Total Matches | 32 |
-| Wins | 19 |
+| ELO Regular | 1292 🔺  (198)|
+| ELO Competitive | 1367 🔺  (214)|
+| Total Matches | 33 |
+| Wins | 20 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 8 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744848821,1743637152,1742538988,1741248027,1740010263,1738798335,1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1746053441,1744848821,1743637152,1742538988,1741248027,1740010263,1738798335,1736978462,1735195484,1733955460,1732745099,1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 2 | 0 | 0 | 2 |
 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 1 | 1 | 0 | 2 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 2 | 2 | 0 | 4 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/05 | 29-10 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2025/04/22 | 29-25 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2025/04/07 | 26-0 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2025/03/26 | 30-7 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
@@ -186,5 +188,5 @@ Corporation ID: d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745280821"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746485441"></span>
 </div>

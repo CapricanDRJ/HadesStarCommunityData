@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的
-description: W:67 L:67 D:6 Bonus ✅ 42%
+description: W:67 L:67 D:6 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 2 - 34 **Stella☆Glow**
 date: 2025-05-05T01:48:37.000Z
@@ -18,7 +18,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 <br>
 
 ### [Discord](https://discord.gg/dqW4bytGPe)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -21,7 +21,7 @@ Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (258)|
+| ELO Regular | 1263 🔻  (257)|
 | ELO Competitive | 1267 🔻  (402)|
 | Total Matches | 7 |
 | Wins | 6 |
