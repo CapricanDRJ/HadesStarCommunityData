@@ -1,6 +1,6 @@
 ---
 title: ​RGW
-description: W:36 L:16 D:0 Bonus ✅ 36%
+description: W:36 L:16 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 35 **青丘湖**
 date: 2025-05-06T10:21:46.000Z
@@ -15,7 +15,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
