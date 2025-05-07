@@ -1,6 +1,6 @@
 ---
 title: ​OKC THUNDER 
-description: W:5 L:10 D:0 Bonus ✅ 38%
+description: W:5 L:10 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 12 - 25 **莫比乌斯\-星环**
 date: 2025-05-05T16:45:03.000Z
@@ -16,7 +16,7 @@ ome also:)
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​DarkMoon
-description: W:40 L:13 D:1 Bonus ✅ 42%
+description: W:42 L:13 D:1 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 27 - 0 **Тихий Омут**
-date: 2025-04-30T05:38:25.000Z
+Summary: ✅ 33 - 0 **万星联盟**
+date: 2025-05-07T02:20:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ date: 2025-04-30T05:38:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔺  (52)|
-| ELO Competitive | 1537 🔺  (61)|
-| Total Matches | 54 |
-| Wins | 40 |
+| ELO Regular | 1441 🔺  (36)|
+| ELO Competitive | 1553 🔺  (53)|
+| Total Matches | 56 |
+| Wins | 42 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 4 |
 | Streak Record | 9 |
 | Flagship | 7 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745559505,1745558947,1744965708,1744956092,1744356294,1744348481,1743741727,1743741426,1743137345,1743137345,1742554613,1742540490,1741932848,1741924737,1741364020,1741355903,1740726361,1740716746,1740119059,1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
+        let timestamps = [1746152458,1746151400,1745559505,1745558947,1744965708,1744956092,1744356294,1744348481,1743741727,1743741426,1743137345,1743137345,1742554613,1742540490,1741932848,1741924737,1741364020,1741355903,1740726361,1740716746,1740119059,1739476864,1739432165,1738792025,1737927460,1737313245,1723194180,1720067357,1720063291,1715999617,1715515290,1714870526,1714254165,1713669485,1713079972,1712416523,1710315001,1710315001,1709802994,1709795184,1709056018,1708623306,1708163544,1708130494,1707694770,1707682751,1707250437,1707248032,1706815489,1706803767,1706369220,1706368619,1705922056,1705433723,1704992271,1704559828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 2 | 0 | 0 | 2 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 4 | 0 | 0 | 4 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 2 | 0 | 0 | 2 |
 
@@ -144,6 +145,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/07 | 33-0 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
+| ✅ | 2025/05/07 | 5-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2025/04/30 | 27-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2025/04/30 | 36-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2025/04/23 | 4-8 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
@@ -205,5 +208,5 @@ Corporation ID: 90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745991505"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746584458"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​" Возрождение "
-description: W:21 L:2 D:0 Bonus ❌ 8%
+description: W:22 L:2 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 26 - 19 **Industrial W\.O**
-date: 2025-04-27T09:16:38.000Z
+Summary: ✅ 56 - 0 **Alpha **
+date: 2025-05-07T02:18:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ date: 2025-04-27T09:16:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1420 🔺  (50)|
-| ELO Competitive | 1494 🔺  (92)|
-| Total Matches | 23 |
-| Wins | 21 |
+| ELO Regular | 1422 🔺  (51)|
+| ELO Competitive | 1496 🔺  (91)|
+| Total Matches | 24 |
+| Wins | 22 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 10 |
 | Flagship | 5 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745313398,1744685952,1743947894,1743269597,1742111051,1740478150,1739850687,1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
+        let timestamps = [1746152302,1745313398,1744685952,1743947894,1743269597,1742111051,1740478150,1739850687,1739252998,1738689550,1738128786,1737479417,1736897922,1736355146,1735230643,1734736988,1734291695,1733798617,1733337068,1732368565,1730793659,1729048336,1727237968,1725608159];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/07 | 56-0 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ✅ | 2025/04/27 | 26-19 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2025/04/20 | 49-3 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2025/04/11 | 43-3 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
@@ -171,5 +172,5 @@ Corporation ID: 4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745745398"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746584302"></span>
 </div>

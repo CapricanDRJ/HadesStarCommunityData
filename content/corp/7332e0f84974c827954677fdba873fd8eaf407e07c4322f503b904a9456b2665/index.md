@@ -1,9 +1,9 @@
 ---
 title: ​QVX
-description: W:1 L:5 D:0 Bonus ❌ 
+description: W:2 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 2 - 6 **Red Alliance**
-date: 2025-04-29T17:27:44.000Z
+Summary: ✅ 8 - 0 **萌新集团**
+date: 2025-05-07T01:03:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-29T17:27:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1194)|
-| ELO Competitive | 1168 🔻  (1236)|
-| Total Matches | 6 |
-| Wins | 1 |
+| ELO Regular | 1171 🔺  (1033)|
+| ELO Competitive | 1187 🔺  (916)|
+| Total Matches | 7 |
+| Wins | 2 |
 | Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745515664,1744854528,1744392058,1743927340,1743442420,1742944849];
+        let timestamps = [1746147794,1745515664,1744854528,1744392058,1743927340,1743442420,1742944849];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/07 | 8-0 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ❌ | 2025/04/29 | 2-6 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2025/04/22 | 0-17 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ❌ | 2025/04/16 | 0-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -152,5 +153,5 @@ Corporation ID: 7332e0f84974c827954677fdba873fd8eaf407e07c4322f503b904a9456b2665
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745947664"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746579794"></span>
 </div>
