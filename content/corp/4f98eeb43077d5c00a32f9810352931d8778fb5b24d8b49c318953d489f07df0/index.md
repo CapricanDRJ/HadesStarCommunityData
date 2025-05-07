@@ -1,9 +1,9 @@
 ---
 title: ​AlyTec Sys.
-description: W:13 L:18 D:2 Bonus ❌ 6%
+description: W:13 L:19 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 3 **Splendid**
-date: 2025-04-29T05:31:02.000Z
+Summary: ❌ 0 - 17 **毛绒团子**
+date: 2025-05-07T09:38:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (662)|
-| ELO Competitive | 1226 🔺  (537)|
-| Total Matches | 33 |
+| ELO Regular | 1183 🔻  (891)|
+| ELO Competitive | 1219 🔻  (564)|
+| Total Matches | 34 |
 | Wins | 13 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745472662,1744860236,1744377929,1743635779,1743019545,1742392333,1741769072,1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1746178716,1745472662,1744860236,1744377929,1743635779,1743019545,1742392333,1741769072,1741200256,1740414450,1740409942,1739916803,1738789873,1738010697,1736903029,1736068732,1735330100,1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/07 | 0-17 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/04/29 | 4-3 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ↔️ | 2025/04/22 | 3-3 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2025/04/16 | 0-10 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
@@ -183,5 +184,5 @@ Corporation ID: 4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745904662"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746610716"></span>
 </div>

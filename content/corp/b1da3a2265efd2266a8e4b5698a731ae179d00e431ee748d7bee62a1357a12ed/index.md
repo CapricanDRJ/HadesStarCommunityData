@@ -1,9 +1,9 @@
 ---
 title: ​＊Alfa y Omega＊
-description: W:34 L:14 D:2 Bonus ✅ 36%
+description: W:35 L:14 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **ALPHA**
-date: 2025-04-30T13:49:15.000Z
+Summary: ✅ 18 - 0 **101**
+date: 2025-05-07T09:03:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔺  (116)|
-| ELO Competitive | 1438 🔺  (142)|
-| Total Matches | 50 |
-| Wins | 34 |
+| ELO Regular | 1353 🔺  (114)|
+| ELO Competitive | 1453 🔺  (125)|
+| Total Matches | 51 |
+| Wins | 35 |
 | Losses | 14 |
 | Draws | 2 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745588955,1744646586,1743400945,1742696476,1742170561,1741550645,1740934331,1739991926,1739144825,1737988756,1737313245,1736808364,1736274306,1735701786,1735160337,1734465667,1733032081,1732468339,1731800643,1731233898,1730737168,1730062558,1729392135,1728864718,1728310793,1727738608,1727237968,1726766210,1726207949,1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
+        let timestamps = [1746176639,1745588955,1744646586,1743400945,1742696476,1742170561,1741550645,1740934331,1739991926,1739144825,1737988756,1737313245,1736808364,1736274306,1735701786,1735160337,1734465667,1733032081,1732468339,1731800643,1731233898,1730737168,1730062558,1729392135,1728864718,1728310793,1727738608,1727237968,1726766210,1726207949,1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 0 | 0 | 2 |
 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) | 1 | 1 | 0 | 2 |
 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) | 2 | 0 | 0 | 2 |
 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 3 | 0 | 0 | 3 |
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/07 | 18-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2025/04/30 | 13-0 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2025/04/19 | 10-8 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2025/04/05 | 17-0 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
@@ -203,5 +205,5 @@ Corporation ID: b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746020955"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746608639"></span>
 </div>
