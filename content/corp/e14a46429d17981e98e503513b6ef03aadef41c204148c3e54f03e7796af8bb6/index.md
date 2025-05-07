@@ -1,6 +1,6 @@
 ---
 title: ​Proxima
-description: W:0 L:6 D:0 Bonus ❌ 3%
+description: W:0 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 2 - 24 **Бороская Имерия**
 date: 2025-04-20T14:48:44.000Z
@@ -15,12 +15,12 @@ date: 2025-04-20T14:48:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (1240)|
-| ELO Competitive | 1162 🔻  (1289)|
+| ELO Competitive | 1162 🔻  (1288)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

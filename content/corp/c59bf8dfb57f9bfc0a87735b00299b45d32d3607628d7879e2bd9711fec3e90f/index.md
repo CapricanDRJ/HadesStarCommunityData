@@ -1,6 +1,6 @@
 ---
 title: ​empire
-description: W:2 L:6 D:1 Bonus ❌ 4%
+description: W:2 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 2 **✨ℛedstar Order«**
 date: 2025-05-01T07:01:03.000Z
@@ -15,12 +15,12 @@ dont give in we help each other in start a White star ever 2 day
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (1198)|
-| ELO Competitive | 1162 🔻  (1286)|
+| ELO Competitive | 1162 🔻  (1285)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

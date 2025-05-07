@@ -1,6 +1,6 @@
 ---
 title: ​Kratos
-description: W:56 L:42 D:0 Bonus ❌ 9%
+description: W:56 L:42 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 11 **Eastern Front**
 date: 2025-05-07T02:43:24.000Z
@@ -16,7 +16,7 @@ Bienvenidos 😁
 <br>
 
 ### [Discord](https://discord.gg/RgusRrPMKT)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

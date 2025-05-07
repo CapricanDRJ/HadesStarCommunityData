@@ -1,6 +1,6 @@
 ---
 title: ​KhaOSs
-description: W:1 L:8 D:0 Bonus ❌ 4%
+description: W:1 L:8 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 3 - 5 **Alpaca Nation**
 date: 2025-04-20T21:36:05.000Z
@@ -20,7 +20,7 @@ EUR
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

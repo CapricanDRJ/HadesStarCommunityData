@@ -1,6 +1,6 @@
 ---
 title: ​OntarioDawn
-description: W:63 L:15 D:0 Bonus ❌ 9%
+description: W:63 L:15 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 2 - 15 **Brodudes Inc\.**
 date: 2025-05-03T19:12:31.000Z
@@ -21,7 +21,7 @@ RS1+
 <br>
 
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

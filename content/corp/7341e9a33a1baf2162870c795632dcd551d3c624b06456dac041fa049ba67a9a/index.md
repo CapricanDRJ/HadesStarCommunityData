@@ -1,6 +1,6 @@
 ---
 title: ​11th Engineers
-description: W:4 L:68 D:10 Bonus ❌ 8%
+description: W:4 L:68 D:10 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 32 **Osmium Star llc**
 date: 2025-04-30T05:48:26.000Z
@@ -15,7 +15,7 @@ date: 2025-04-30T05:48:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

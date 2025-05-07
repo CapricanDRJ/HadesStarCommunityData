@@ -1,6 +1,6 @@
 ---
 title: ​italian warrior
-description: W:39 L:59 D:3 Bonus ❌ 12%
+description: W:39 L:59 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 9 - 27 **Rogue One**
 date: 2025-05-03T10:16:33.000Z
@@ -22,7 +22,7 @@ Discord: https://discord.gg/A26JEJgPwh
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

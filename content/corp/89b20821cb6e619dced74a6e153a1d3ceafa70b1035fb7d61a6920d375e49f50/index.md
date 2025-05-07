@@ -1,6 +1,6 @@
 ---
 title: ​Winter Star llc
-description: W:15 L:10 D:1 Bonus ✅ 32%
+description: W:15 L:10 D:1 Bonus ✅ 34%
 image: ./favicon.png
 Summary: ✅ 6 - 2 **Eastern Front**
 date: 2025-05-01T14:51:58.000Z
@@ -17,7 +17,7 @@ ons! //You must Join our Discord within 7 days
 <br>
 
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

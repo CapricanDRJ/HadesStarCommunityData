@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2025-05-07T21:55:09.363Z
+date: 2025-05-07T23:02:21.947Z
 summary: "Corporation directory"
 ---
 
@@ -1229,7 +1229,7 @@ summary: "Corporation directory"
 | [Ẁhıťɛ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/4019e0b42b27f4016da780eed9d3c84aec7ad9d180e90febddb3a9a22dac131c/) | 1142 | 1160 | 4 |
 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) | 987 | 1009 | 31 |
 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) | 1307 | 1308 | 21 |
-| [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 1095 | 1165 | 59 |
+| [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 1090 | 1160 | 60 |
 | [★BLACK•TALON★](https://ws.tsl.rocks/corp/3e7a8d9fa0eccda2bbaba515d9658797d143de56c55303f6587d9f817fa80be0/) | 1160 | 1183 | 5 |
 | [☆Sternenkrieger](https://ws.tsl.rocks/corp/92ab203a792b5a43a059604230acd16e90840dfee16043dfb35f8fa512772a39/) | 1191 | 1193 | 1 |
 | [⚜NOVA⚜](https://ws.tsl.rocks/corp/7b5024d2611b3988a770a86633a4d122a631176d333c0a15e054b18a646771c4/) | 1163 | 1166 | 3 |
@@ -1349,7 +1349,7 @@ summary: "Corporation directory"
 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) | 1298 | 1336 | 20 |
 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) | 1137 | 1157 | 20 |
 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) | 1098 | 1142 | 23 |
-| [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) | 1377 | 1460 | 67 |
+| [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) | 1382 | 1465 | 68 |
 | [新兴帝国](https://ws.tsl.rocks/corp/9fa462f31ce0b962d9b98aa9b68477e4a7ad4a97b1b3c0bfcbe3d258ccbafd8b/) | 1196 | 1200 | 7 |
 | [新手联邦活动用团](https://ws.tsl.rocks/corp/f5b74270579ff2fa4013980499962e39d8250d419177582f7d64a13f715b9d6e/) | 1187 | 1191 | 1 |
 | [新手联邦（新经济开发区）](https://ws.tsl.rocks/corp/c7d71837164a41f0f3a49a6fa7a0c6d70a01f245de86b3783940bba2632a8804/) | 1459 | 1480 | 27 |

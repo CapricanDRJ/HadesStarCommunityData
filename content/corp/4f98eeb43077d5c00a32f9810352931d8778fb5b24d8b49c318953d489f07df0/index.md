@@ -1,6 +1,6 @@
 ---
 title: ​AlyTec Sys.
-description: W:13 L:19 D:2 Bonus ❌ 6%
+description: W:13 L:19 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 17 **毛绒团子**
 date: 2025-05-07T09:38:36.000Z
@@ -18,7 +18,7 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

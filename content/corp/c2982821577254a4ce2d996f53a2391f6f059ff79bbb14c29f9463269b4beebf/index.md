@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:16 L:16 D:1 Bonus ✅ 36%
+description: W:16 L:16 D:1 Bonus ✅ 38%
 image: ./favicon.png
 Summary: ✅ 20 - 16 **White Dwarf**
 date: 2025-05-01T11:26:32.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

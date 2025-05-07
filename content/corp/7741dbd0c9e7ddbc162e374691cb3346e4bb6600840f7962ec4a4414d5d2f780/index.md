@@ -1,6 +1,6 @@
 ---
 title: ​Tuatha De Danan
-description: W:69 L:19 D:0 Bonus ✅ 42%
+description: W:69 L:19 D:0 Bonus ✅ 44%
 image: ./favicon.png
 Summary: ✅ 46 - 2 **仙女座星雲**
 date: 2025-05-04T03:48:19.000Z
@@ -17,7 +17,7 @@ rk Red Stars. (First Language: English)
 <br>
 
 ### [Discord](https://discord.gg/zeDuYzkCzk)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |

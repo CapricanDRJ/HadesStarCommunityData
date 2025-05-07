@@ -1,6 +1,6 @@
 ---
 title: ​新星汇聚
-description: W:13 L:8 D:0 Bonus ✅ 32%
+description: W:13 L:8 D:0 Bonus ✅ 34%
 image: ./favicon.png
 Summary: ✅ 26 - 1 **StellaMysterium**
 date: 2025-05-06T07:56:32.000Z
@@ -18,7 +18,7 @@ date: 2025-05-06T07:56:32.000Z
 <br>
 
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |

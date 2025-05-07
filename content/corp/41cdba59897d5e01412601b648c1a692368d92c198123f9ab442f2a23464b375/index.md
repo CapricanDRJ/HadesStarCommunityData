@@ -1,6 +1,6 @@
 ---
 title: ​Crux Cadre
-description: W:39 L:42 D:2 Bonus ✅ 48%
+description: W:39 L:42 D:2 Bonus ✅ 50%
 image: ./favicon.png
 Summary: ✅ 26 - 16 **Death Flight**
 date: 2025-05-07T15:29:39.000Z
@@ -18,7 +18,7 @@ e run with us! Say hi on Discord!
 <br>
 
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |

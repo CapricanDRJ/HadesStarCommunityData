@@ -1,6 +1,6 @@
 ---
 title: ​⚜NOVA⚜
-description: W:0 L:3 D:0 Bonus ❌ 9%
+description: W:0 L:3 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 1 - 22 **Españoles**
 date: 2025-04-22T10:04:32.000Z
@@ -18,7 +18,7 @@ date: 2025-04-22T10:04:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

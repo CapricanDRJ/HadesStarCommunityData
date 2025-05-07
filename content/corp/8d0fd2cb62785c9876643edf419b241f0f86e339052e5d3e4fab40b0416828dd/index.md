@@ -1,6 +1,6 @@
 ---
 title: ​Splendid
-description: W:8 L:5 D:0 Bonus ❌ 5%
+description: W:8 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 3 - 4 **AlyTec Sys\.**
 date: 2025-04-29T05:31:02.000Z
@@ -16,7 +16,7 @@ rporation.
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

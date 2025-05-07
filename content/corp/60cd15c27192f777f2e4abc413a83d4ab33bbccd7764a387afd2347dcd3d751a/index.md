@@ -1,6 +1,6 @@
 ---
 title: ​Stone Legion
-description: W:34 L:19 D:1 Bonus ❌ 9%
+description: W:34 L:19 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **绛紫星**
 date: 2025-04-22T23:30:59.000Z
@@ -19,7 +19,7 @@ date: 2025-04-22T23:30:59.000Z
 <br>
 
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

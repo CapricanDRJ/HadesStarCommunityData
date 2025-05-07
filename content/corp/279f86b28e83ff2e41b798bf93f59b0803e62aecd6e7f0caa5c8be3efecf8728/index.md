@@ -1,6 +1,6 @@
 ---
 title: ​The Foundation
-description: W:17 L:6 D:2 Bonus ❌ 7%
+description: W:17 L:6 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 4 - 3 **清霄阁（防御协会）**
 date: 2025-04-22T01:48:48.000Z
@@ -18,7 +18,7 @@ ated to helping new players grow. Discord recommended for White Stars
 <br>
 
 ### [Discord](https://discord.gg/Y5SBYmr)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

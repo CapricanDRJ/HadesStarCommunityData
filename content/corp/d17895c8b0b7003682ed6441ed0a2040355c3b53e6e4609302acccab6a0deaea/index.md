@@ -1,6 +1,6 @@
 ---
 title: ​BAB
-description: W:0 L:9 D:2 Bonus ❌ 4%
+description: W:0 L:9 D:2 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **BlackDawn**
 date: 2025-04-30T03:39:29.000Z
@@ -16,7 +16,7 @@ date: 2025-04-30T03:39:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

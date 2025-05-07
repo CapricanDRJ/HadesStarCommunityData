@@ -1,6 +1,6 @@
 ---
 title: ​星を継ぐもの
-description: W:74 L:33 D:1 Bonus ✅ 40%
+description: W:74 L:33 D:1 Bonus ✅ 42%
 image: ./favicon.png
 Summary: ❌ 20 - 43 **Ninth Planet**
 date: 2025-05-05T06:59:03.000Z
@@ -17,7 +17,7 @@ date: 2025-05-05T06:59:03.000Z
 <br>
 
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |

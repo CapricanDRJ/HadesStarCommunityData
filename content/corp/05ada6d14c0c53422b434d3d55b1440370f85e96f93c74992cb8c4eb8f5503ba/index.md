@@ -1,6 +1,6 @@
 ---
 title: ​BrinySeal
-description: W:81 L:34 D:3 Bonus ✅ 42%
+description: W:81 L:34 D:3 Bonus ✅ 44%
 image: ./favicon.png
 Summary: ✅ 36 - 4 **孤星长城**
 date: 2025-05-06T07:51:31.000Z
@@ -18,7 +18,7 @@ quired. We can help speed your progress :)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |

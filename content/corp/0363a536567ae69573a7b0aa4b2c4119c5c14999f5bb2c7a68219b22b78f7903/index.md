@@ -1,6 +1,6 @@
 ---
 title: ​Forces of Light
-description: W:16 L:9 D:1 Bonus ❌ 6%
+description: W:16 L:9 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 3 - 28 **CIS**
 date: 2025-04-23T23:28:22.000Z
@@ -18,7 +18,7 @@ upo si deseas unirte solo consulta al primer oficial.
 <br>
 
 ### [Discord](https://discord.gg/X6xAG8J9)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

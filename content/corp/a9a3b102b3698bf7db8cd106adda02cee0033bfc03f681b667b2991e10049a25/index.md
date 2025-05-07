@@ -1,6 +1,6 @@
 ---
 title: ​Млечный путь
-description: W:25 L:28 D:0 Bonus ✅ 36%
+description: W:25 L:28 D:0 Bonus ✅ 38%
 image: ./favicon.png
 Summary: ✅ 28 - 2 **Dumpster Fire 2**
 date: 2025-05-03T05:21:06.000Z
@@ -18,7 +18,7 @@ date: 2025-05-03T05:21:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/d4xpzqrZ2f)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

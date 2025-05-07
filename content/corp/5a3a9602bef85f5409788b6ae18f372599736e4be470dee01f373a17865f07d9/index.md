@@ -1,6 +1,6 @@
 ---
 title: ​绛紫星云
-description: W:2 L:6 D:1 Bonus ❌ 4%
+description: W:2 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 3 - 14 **神圣群星帝国**
 date: 2025-04-21T10:37:13.000Z
@@ -22,7 +22,7 @@ date: 2025-04-21T10:37:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

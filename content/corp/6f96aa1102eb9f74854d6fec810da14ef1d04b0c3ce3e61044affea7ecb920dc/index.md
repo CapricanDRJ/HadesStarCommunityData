@@ -1,6 +1,6 @@
 ---
 title: ​северный шторм
-description: W:19 L:24 D:1 Bonus ✅ 34%
+description: W:19 L:24 D:1 Bonus ✅ 36%
 image: ./favicon.png
 Summary: ✅ 10 - 4 **星落苑**
 date: 2025-05-05T12:14:33.000Z
@@ -16,7 +16,7 @@ date: 2025-05-05T12:14:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |

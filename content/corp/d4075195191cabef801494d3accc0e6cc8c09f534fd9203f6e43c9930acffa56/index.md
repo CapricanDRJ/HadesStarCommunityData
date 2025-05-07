@@ -1,6 +1,6 @@
 ---
 title: ​Hamburg AG 2
-description: W:16 L:28 D:0 Bonus ❌ 12%
+description: W:16 L:28 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **украина№1**
 date: 2025-04-20T13:15:09.000Z
@@ -17,7 +17,7 @@ Vordergrund.
 <br>
 
 ### [Discord](https://discord.gg/UXNc44dxk6)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

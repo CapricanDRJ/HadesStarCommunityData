@@ -1,6 +1,6 @@
 ---
 title: ​蓝色星系二号分盟
-description: W:25 L:10 D:0 Bonus ❌ 7%
+description: W:25 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 1 - 8 **Hungary First**
 date: 2025-04-23T19:32:59.000Z
@@ -16,7 +16,7 @@ date: 2025-04-23T19:32:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

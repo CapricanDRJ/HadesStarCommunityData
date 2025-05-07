@@ -1,6 +1,6 @@
 ---
 title: ​Повстанцы Хаоса
-description: W:59 L:10 D:0 Bonus ❌ 10%
+description: W:59 L:10 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 5 - 33 **Sentencia**
 date: 2025-05-06T10:51:50.000Z
@@ -20,7 +20,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 <br>
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

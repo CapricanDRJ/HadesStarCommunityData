@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mond
-description: W:88 L:58 D:0 Bonus ✅ 54%
+description: W:88 L:58 D:0 Bonus ✅ 56%
 image: ./favicon.png
 Summary: ✅ 50 - 48 **Auscorp **
 date: 2025-05-03T12:46:48.000Z
@@ -18,7 +18,7 @@ s please register exclusively via our Discord bot 🙂
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ✅ 56%
 
 | Statistic | Value |
 | --- | --- |

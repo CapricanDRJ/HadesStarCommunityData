@@ -1,6 +1,6 @@
 ---
 title: ​Quilliance
-description: W:33 L:4 D:0 Bonus ✅ 36%
+description: W:33 L:4 D:0 Bonus ✅ 38%
 image: ./favicon.png
 Summary: ✅ 32 - 6 **Gummibärenbande**
 date: 2025-05-04T09:45:03.000Z
@@ -18,7 +18,7 @@ Discord Active • Coop DRS7-10
 <br>
 
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Regulus
-description: W:9 L:15 D:0 Bonus ❌ 12%
+description: W:9 L:15 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 45 - 0 **IMPERIAL ARMADA**
 date: 2025-04-20T03:04:12.000Z
@@ -18,7 +18,7 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​青丘湖
-description: W:17 L:13 D:0 Bonus ✅ 34%
+description: W:17 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **RGW**
 date: 2025-05-06T10:21:46.000Z
@@ -25,7 +25,7 @@ date: 2025-05-06T10:21:46.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
