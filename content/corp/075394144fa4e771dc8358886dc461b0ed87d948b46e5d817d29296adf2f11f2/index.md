@@ -1,6 +1,6 @@
 ---
 title: ​СНГ — РОССИЯ
-description: W:7 L:10 D:3 Bonus ✅ 30%
+description: W:7 L:10 D:3 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **EarthFederation**
 date: 2025-05-06T17:27:31.000Z
@@ -15,7 +15,7 @@ date: 2025-05-06T17:27:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
