@@ -1,9 +1,9 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:30 L:7 D:0 Bonus ❌ 8%
+description: W:30 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 22 **Cerulean Star**
-date: 2025-04-21T08:57:03.000Z
+Summary: ❌ 3 - 17 **Cydonia Order**
+date: 2025-05-07T20:15:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -31,11 +31,11 @@ English only.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔻  (88)|
-| ELO Competitive | 1445 🔺  (132)|
-| Total Matches | 37 |
+| ELO Regular | 1363 🔻  (101)|
+| ELO Competitive | 1428 🔻  (150)|
+| Total Matches | 38 |
 | Wins | 30 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 21 |
 | Flagship | 4 |
@@ -56,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744793823,1744684031,1744150162,1742195796,1741218587,1740289142,1737474006,1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
+        let timestamps = [1746216908,1744793823,1744684031,1744150162,1742195796,1741218587,1740289142,1737474006,1736324188,1735139301,1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) | 0 | 2 | 0 | 2 |
 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -152,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/07 | 3-17 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2025/04/21 | 0-22 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2025/04/20 | 20-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2025/04/13 | 1-49 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
@@ -196,5 +198,5 @@ Corporation ID: 54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745225823"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746648908"></span>
 </div>

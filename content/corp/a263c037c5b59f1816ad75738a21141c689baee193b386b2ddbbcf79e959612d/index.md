@@ -1,9 +1,9 @@
 ---
 title: ​清霄阁（防御协会）
-description: W:9 L:16 D:1 Bonus ❌ 6%
+description: W:9 L:17 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 4 **The Foundation**
-date: 2025-04-22T01:48:48.000Z
+Summary: ❌ 1 - 7 **Z\. O\. V\. **
+date: 2025-05-07T19:15:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-04-22T01:48:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1285)|
-| ELO Competitive | 1196 🔻  (758)|
-| Total Matches | 26 |
+| ELO Regular | 1128 🔻  (1323)|
+| ELO Competitive | 1190 🔻  (842)|
+| Total Matches | 27 |
 | Wins | 9 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744854528,1743339251,1743336022,1742475576,1741863740,1741425384,1740283493,1739745820,1739202216,1738731320,1738201205,1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1746213302,1744854528,1743339251,1743336022,1742475576,1741863740,1741425384,1740283493,1739745820,1739202216,1738731320,1738201205,1737726413,1737179546,1736490079,1735734534,1735287426,1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/07 | 1-7 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2025/04/22 | 3-4 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ❌ | 2025/04/04 | 0-7 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/04/04 | 0-3 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
@@ -176,5 +177,5 @@ Corporation ID: a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745286528"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746645302"></span>
 </div>
