@@ -1,6 +1,6 @@
 ---
 title: ​SPACING GUILD
-description: W:3 L:1 D:0 Bonus ✅ 
+description: W:3 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 12 - 0 **百万繁星**
 date: 2025-04-30T14:24:19.000Z
@@ -15,7 +15,7 @@ date: 2025-04-30T14:24:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
