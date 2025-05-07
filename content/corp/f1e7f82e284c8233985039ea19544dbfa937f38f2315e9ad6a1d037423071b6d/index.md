@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:25 L:10 D:0 Bonus ✅ 36%
+description: W:25 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 37 - 3 **对，进就进人少的**
 date: 2025-04-30T17:34:41.000Z
@@ -16,7 +16,7 @@ date: 2025-04-30T17:34:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

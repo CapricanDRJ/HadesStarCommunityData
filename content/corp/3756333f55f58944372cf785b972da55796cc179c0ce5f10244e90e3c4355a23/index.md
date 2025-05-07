@@ -19,8 +19,8 @@ We are here to play white stars. No bs afk players needed!!!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (567)|
-| ELO Competitive | 1229 🔻  (526)|
+| ELO Regular | 1197 🔻  (566)|
+| ELO Competitive | 1229 🔻  (527)|
 | Total Matches | 34 |
 | Wins | 16 |
 | Losses | 18 |
