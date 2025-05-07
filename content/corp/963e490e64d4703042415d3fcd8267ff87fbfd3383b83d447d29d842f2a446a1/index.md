@@ -1,6 +1,6 @@
 ---
 title: ​KLM
-description: W:17 L:46 D:0 Bonus ✅ 48%
+description: W:17 L:46 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 43 - 0 **柯伊伯带**
 date: 2025-04-29T23:02:51.000Z
@@ -16,7 +16,7 @@ Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 <br>
 
 ### [Discord](https://discord.gg/cWymECU)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

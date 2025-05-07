@@ -1,9 +1,9 @@
 ---
 title: ​RUS
-description: W:26 L:23 D:0 Bonus ❌ 15%
+description: W:27 L:23 D:0 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 26 - 16 **Legion**
-date: 2025-04-26T01:48:31.000Z
+Summary: ✅ 62 - 1 **King's Guard**
+date: 2025-05-07T00:08:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (231)|
-| ELO Competitive | 1409 🔺  (168)|
-| Total Matches | 49 |
-| Wins | 26 |
+| ELO Regular | 1280 🔺  (226)|
+| ELO Competitive | 1413 🔺  (165)|
+| Total Matches | 50 |
+| Wins | 27 |
 | Losses | 23 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 15 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745200111,1744695566,1744695266,1742706091,1740313481,1737896801,1737872457,1735641394,1735107751,1734503820,1734501116,1733852099,1733069347,1733039292,1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
+        let timestamps = [1746144491,1745200111,1744695566,1744695266,1742706091,1740313481,1737896801,1737872457,1735641394,1735107751,1734503820,1734501116,1733852099,1733069347,1733039292,1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -154,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/07 | 62-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2025/04/26 | 26-16 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2025/04/20 | 27-4 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) |
 | ❌ | 2025/04/20 | 21-53 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
@@ -210,5 +211,5 @@ Corporation ID: d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745632111"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746576491"></span>
 </div>
