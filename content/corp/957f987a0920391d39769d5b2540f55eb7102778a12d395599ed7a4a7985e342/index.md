@@ -1,9 +1,9 @@
 ---
 title: ​Stellaris
-description: W:5 L:14 D:1 Bonus ❌ 9%
+description: W:6 L:14 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 5 - 7 **SILVER TERRA**
-date: 2025-05-01T08:16:12.000Z
+Summary: ✅ 12 - 1 **Свободный флот**
+date: 2025-05-08T18:52:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ N'hésitez pas à venir discuter ou poser vos questions
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1254)|
-| ELO Competitive | 1183 🔻  (1088)|
-| Total Matches | 20 |
-| Wins | 5 |
+| ELO Regular | 1162 🔺  (1114)|
+| ELO Competitive | 1209 🔺  (661)|
+| Total Matches | 21 |
+| Wins | 6 |
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745655372,1743936771,1742570244,1732035328,1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
+        let timestamps = [1746298345,1745655372,1743936771,1742570244,1732035328,1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/08 | 12-1 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2025/05/01 | 5-7 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2025/04/11 | 8-23 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/03/26 | 11-6 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
@@ -162,5 +163,5 @@ Corporation ID: 957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746087372"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746730345"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Vega Conflict
-description: W:17 L:13 D:0 Bonus ❌ 7%
+description: W:18 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 6 - 34 **Newbs**
-date: 2025-04-27T19:57:50.000Z
+Summary: ✅ 30 - 25 **ДИВЕРСАНТЫ**
+date: 2025-05-08T21:12:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔻  (203)|
-| ELO Competitive | 1340 🔻  (256)|
-| Total Matches | 30 |
-| Wins | 17 |
+| ELO Regular | 1314 🔺  (157)|
+| ELO Competitive | 1367 🔺  (218)|
+| Total Matches | 31 |
+| Wins | 18 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745351870,1744562449,1743308369,1742064179,1740931926,1740006056,1737360717,1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
+        let timestamps = [1746306760,1745351870,1744562449,1743308369,1742064179,1740931926,1740006056,1737360717,1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/08 | 30-25 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2025/04/27 | 6-34 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2025/04/18 | 28-4 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/04/04 | 15-5 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
@@ -178,5 +179,5 @@ Corporation ID: 396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745783870"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746738760"></span>
 </div>
