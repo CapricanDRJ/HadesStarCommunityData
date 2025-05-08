@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:39 L:33 D:1 Bonus ✅ 38%
+description: W:39 L:33 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 1 - 2 **imperio estelar**
 date: 2025-05-08T06:26:05.000Z
@@ -18,7 +18,7 @@ date: 2025-05-08T06:26:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

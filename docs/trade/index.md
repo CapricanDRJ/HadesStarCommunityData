@@ -444,17 +444,6 @@ searchHidden: true
         </tr>
     
         <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>6</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>276%</td>
-                </tr>
-            
-        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
