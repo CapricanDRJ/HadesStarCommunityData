@@ -26,8 +26,8 @@ Alt Corp - Time Lords Alts
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (897)|
-| ELO Competitive | 1183 🔻  (1081)|
+| ELO Regular | 1183 🔻  (898)|
+| ELO Competitive | 1183 🔻  (1082)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

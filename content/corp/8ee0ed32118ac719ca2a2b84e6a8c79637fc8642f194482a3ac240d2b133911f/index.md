@@ -22,7 +22,7 @@ vents (when possible), Also make use of the timemachine capability if
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (935)|
+| ELO Regular | 1178 🔻  (936)|
 | ELO Competitive | 1348 🔻  (246)|
 | Total Matches | 112 |
 | Wins | 48 |

@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:3 L:1 D:0 Bonus ✅ 28%
+description: W:3 L:1 D:0 Bonus ❌ 28%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **星际造梦**
 date: 2025-05-01T03:50:42.000Z
@@ -18,7 +18,7 @@ to have you on board!
 <br>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 28%
 
 | Statistic | Value |
 | --- | --- |
