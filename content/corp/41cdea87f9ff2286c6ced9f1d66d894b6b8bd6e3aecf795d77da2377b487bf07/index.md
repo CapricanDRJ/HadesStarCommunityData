@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:3 L:1 D:0 Bonus ❌ 28%
+description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **星际造梦**
 date: 2025-05-01T03:50:42.000Z
@@ -18,12 +18,12 @@ to have you on board!
 <br>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ❌ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (361)|
-| ELO Competitive | 1242 🔺  (476)|
+| ELO Regular | 1229 🔺  (362)|
+| ELO Competitive | 1242 🔺  (477)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

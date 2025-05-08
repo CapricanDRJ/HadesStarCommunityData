@@ -1,9 +1,9 @@
 ---
 title: ​imperio estelar
-description: W:12 L:21 D:3 Bonus ❌ 8%
+description: W:13 L:21 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 21 **Kelebra**
-date: 2025-04-24T06:29:02.000Z
+Summary: ✅ 2 - 1 **SILVER TERRA**
+date: 2025-05-08T06:26:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1127)|
-| ELO Competitive | 1241 🔻  (483)|
-| Total Matches | 36 |
-| Wins | 12 |
+| ELO Regular | 1179 🔺  (934)|
+| ELO Competitive | 1265 🔺  (410)|
+| Total Matches | 37 |
+| Wins | 13 |
 | Losses | 21 |
 | Draws | 3 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745044142,1744257707,1743514836,1742718720,1742186482,1741569575,1741021772,1740516927,1739991926,1739251195,1737996872,1737293406,1736679724,1736006811,1735382679,1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1746253565,1745044142,1744257707,1743514836,1742718720,1742186482,1741569575,1741021772,1740516927,1739991926,1739251195,1737996872,1737293406,1736679724,1736006811,1735382679,1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/08 | 2-1 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2025/04/24 | 3-21 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2025/04/15 | 4-13 | [ 星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) |
 | ❌ | 2025/04/06 | 4-12 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
@@ -190,5 +191,5 @@ Corporation ID: c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745476142"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746685565"></span>
 </div>

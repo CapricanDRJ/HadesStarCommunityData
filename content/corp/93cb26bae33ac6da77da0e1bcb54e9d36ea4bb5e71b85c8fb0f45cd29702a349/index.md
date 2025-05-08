@@ -1,9 +1,9 @@
 ---
 title: ​NOVA STRATUM
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 8 - 0 **Kratos**
-date: 2025-05-01T13:41:48.000Z
+Summary: ✅ 7 - 0 **神圣群星帝国**
+date: 2025-05-08T05:22:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-05-01T13:41:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (410)|
-| ELO Competitive | 1223 🔺  (549)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1231 🔺  (352)|
+| ELO Competitive | 1237 🔺  (493)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745674908];
+        let timestamps = [1746249739,1745674908];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/08 | 7-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
 | ✅ | 2025/05/01 | 8-0 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 93cb26bae33ac6da77da0e1bcb54e9d36ea4bb5e71b85c8fb0f45cd29702a349
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746106908"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746681739"></span>
 </div>
