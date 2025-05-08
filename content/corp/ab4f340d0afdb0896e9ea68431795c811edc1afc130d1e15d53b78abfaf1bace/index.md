@@ -1,6 +1,6 @@
 ---
 title: ​Страж Галактики
-description: W:2 L:3 D:1 Bonus ✅ 28%
+description: W:2 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **WhiteSTarfighte**
 date: 2025-05-06T13:19:52.000Z
@@ -16,7 +16,7 @@ date: 2025-05-06T13:19:52.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/WRdbp8Xg)
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​BRhue
-description: W:13 L:22 D:0 Bonus ❌ 13%
+description: W:13 L:23 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 12 - 30 **六大天神**
-date: 2025-05-03T11:56:42.000Z
+Summary: ❌ 12 - 28 **United Stars **
+date: 2025-05-08T12:01:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Juntos somos mais fortes.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1274)|
-| ELO Competitive | 1246 🔻  (461)|
-| Total Matches | 35 |
+| ELO Regular | 1134 🔻  (1301)|
+| ELO Competitive | 1240 🔻  (484)|
+| Total Matches | 36 |
 | Wins | 13 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745841402,1745838097,1745320009,1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
+        let timestamps = [1746273700,1745841402,1745838097,1745320009,1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/08 | 12-28 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ❌ | 2025/05/03 | 12-30 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2025/05/03 | 13-53 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2025/04/27 | 4-34 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
@@ -190,5 +191,5 @@ Corporation ID: cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746273402"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746705700"></span>
 </div>

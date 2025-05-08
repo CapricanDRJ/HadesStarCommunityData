@@ -1,6 +1,6 @@
 ---
 title: ​WSC(no DISCORD)
-description: W:57 L:47 D:8 Bonus ✅ 40%
+description: W:57 L:47 D:8 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 18 **Day Light**
 date: 2025-05-06T16:12:23.000Z
@@ -15,7 +15,7 @@ date: 2025-05-06T16:12:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

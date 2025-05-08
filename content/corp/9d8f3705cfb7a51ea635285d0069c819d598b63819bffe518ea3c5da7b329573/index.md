@@ -1,9 +1,9 @@
 ---
 title: ​落魄山
-description: W:6 L:15 D:1 Bonus ✅ 
+description: W:6 L:16 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 37 **ITALIA**
-date: 2025-05-08T05:56:02.000Z
+Summary: ❌ 0 - 5 **星际造梦**
+date: 2025-05-08T10:19:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-08T05:56:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1253)|
+| ELO Regular | 1132 🔻  (1309)|
 | ELO Competitive | 1219 🔻  (565)|
-| Total Matches | 22 |
+| Total Matches | 23 |
 | Wins | 6 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746251762,1745811284,1745803269,1745230649,1745208222,1744728001,1744699472,1744022422,1743577344,1743561238,1743073333,1743029464,1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
+        let timestamps = [1746267564,1746251762,1745811284,1745803269,1745230649,1745208222,1744728001,1744699472,1744022422,1743577344,1743561238,1743073333,1743029464,1742538403,1742535390,1742065681,1742044787,1741582447,1741087874,1740648233,1740628707,1740144901,1740136486];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/08 | 0-5 | [星际造梦](https://ws.tsl.rocks/corp/aa25ebf7f012818b7ee0d4ed4bef10a7f6c2a22b528584e91d5b3a78355eeabd/) |
 | ❌ | 2025/05/08 | 0-37 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2025/05/03 | 16-1 | [вавилон 5](https://ws.tsl.rocks/corp/9fb82c905e6843abf36a6911b09a7bbe345d48e4e2a0073f1cfb65e8cc164ae5/) |
 | ✅ | 2025/05/03 | 18-5 | [Гарри Поттер](https://ws.tsl.rocks/corp/f6776b51b0578a0ec96f8674d12c88c324a9e087c9053c0d42153a1a5090a665/) |
@@ -171,5 +172,5 @@ Corporation ID: 9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746683762"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746699564"></span>
 </div>
