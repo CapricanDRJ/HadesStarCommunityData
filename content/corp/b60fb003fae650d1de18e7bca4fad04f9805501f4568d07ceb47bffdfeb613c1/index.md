@@ -1,6 +1,6 @@
 ---
 title: ​Nox Imperium
-description: W:33 L:3 D:0 Bonus ✅ 36%
+description: W:33 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 38 - 1 **Star Blazers**
 date: 2025-05-01T16:56:11.000Z
@@ -17,7 +17,7 @@ date: 2025-05-01T16:56:11.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
