@@ -1,9 +1,9 @@
 ---
 title: ​NERF TOY'S
-description: W:24 L:37 D:2 Bonus ❌ 12%
+description: W:25 L:37 D:2 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 1 - 29 **ДИВЕРСАНТЫ**
-date: 2025-05-03T14:21:59.000Z
+Summary: ✅ 18 - 9 **VoidRunners**
+date: 2025-05-08T14:31:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ lor=yellow>weekly WS's and daily Corp runs
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (654)|
-| ELO Competitive | 1284 🔻  (366)|
-| Total Matches | 63 |
-| Wins | 24 |
+| ELO Regular | 1203 🔺  (515)|
+| ELO Competitive | 1307 🔺  (309)|
+| Total Matches | 64 |
+| Wins | 25 |
 | Losses | 37 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745850119,1745208222,1744684031,1744683248,1730791255,1727851290,1727354859,1726736157,1725594639,1724868946,1724435911,1723996568,1723353153,1722569123,1721220114,1720704068,1720608192,1720139986,1719661548,1719227020,1719222813,1718576417,1718519911,1718101437,1718064181,1717623221,1717437180,1717178694,1716816270,1716741146,1716350241,1716274531,1715795315,1715789304,1715354844,1715278834,1714915892,1714778584,1714449471,1714051051,1714000580,1713499441,1713438446,1712792723,1712292726,1711662914,1711071581,1710333027,1709753423,1709641345,1709069242,1709007032,1708586044,1708572507,1708130494,1707518228,1706862966,1705959929,1705350784,1704406872,1702021054,1701102602,1699145389];
+        let timestamps = [1746282718,1745850119,1745208222,1744684031,1744683248,1730791255,1727851290,1727354859,1726736157,1725594639,1724868946,1724435911,1723996568,1723353153,1722569123,1721220114,1720704068,1720608192,1720139986,1719661548,1719227020,1719222813,1718576417,1718519911,1718101437,1718064181,1717623221,1717437180,1717178694,1716816270,1716741146,1716350241,1716274531,1715795315,1715789304,1715354844,1715278834,1714915892,1714778584,1714449471,1714051051,1714000580,1713499441,1713438446,1712792723,1712292726,1711662914,1711071581,1710333027,1709753423,1709641345,1709069242,1709007032,1708586044,1708572507,1708130494,1707518228,1706862966,1705959929,1705350784,1704406872,1702021054,1701102602,1699145389];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1 | 1 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 1 | 1 | 0 | 2 |
 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) | 2 | 0 | 0 | 2 |
 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) | 2 | 0 | 0 | 2 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/08 | 18-9 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2025/05/03 | 1-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ✅ | 2025/04/26 | 19-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ❌ | 2025/04/20 | 0-20 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
@@ -218,5 +220,5 @@ Corporation ID: 34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746282119"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746714718"></span>
 </div>
