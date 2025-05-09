@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SE7EN"
-description: "SE7EN}"
+description: "SE7EN"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

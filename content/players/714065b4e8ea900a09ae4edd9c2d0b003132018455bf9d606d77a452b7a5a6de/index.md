@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Victor0"
-description: "Victor0}"
+description: "Victor0"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

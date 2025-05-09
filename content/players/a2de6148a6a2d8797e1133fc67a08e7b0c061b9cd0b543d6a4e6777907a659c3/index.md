@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kalistes"
-description: "Kalistes}"
+description: "Kalistes"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

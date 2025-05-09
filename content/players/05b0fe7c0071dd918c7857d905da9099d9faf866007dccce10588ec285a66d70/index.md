@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CopiousGallery14"
-description: "CopiousGallery14}"
+description: "CopiousGallery14"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.39  

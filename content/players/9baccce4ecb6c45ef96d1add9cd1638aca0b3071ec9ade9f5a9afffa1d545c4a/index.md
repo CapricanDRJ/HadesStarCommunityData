@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "UndulantShadows"
-description: "UndulantShadows}"
+description: "UndulantShadows"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

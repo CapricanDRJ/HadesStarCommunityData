@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nova_Soldier"
-description: "Nova_Soldier}"
+description: "Nova_Soldier"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

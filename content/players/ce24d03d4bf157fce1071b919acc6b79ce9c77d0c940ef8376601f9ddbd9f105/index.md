@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "卡布奇诺"
-description: "卡布奇诺}"
+description: "卡布奇诺"
 ---
 - **WhiteStars**: 2
 - **μ**: 23.19  

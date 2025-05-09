@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MaggotPhRo"
-description: "MaggotPhRo}"
+description: "MaggotPhRo"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

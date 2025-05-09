@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DavidComander5"
-description: "DavidComander5}"
+description: "DavidComander5"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

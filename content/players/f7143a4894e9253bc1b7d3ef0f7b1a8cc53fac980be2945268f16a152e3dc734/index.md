@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VauntedNavigator"
-description: "VauntedNavigator}"
+description: "VauntedNavigator"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.12  

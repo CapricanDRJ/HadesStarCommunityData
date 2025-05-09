@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mulan"
-description: "Mulan}"
+description: "Mulan"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

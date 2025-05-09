@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Odin"
-description: "Odin}"
+description: "Odin"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.35  

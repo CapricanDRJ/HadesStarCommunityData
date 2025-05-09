@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SolarTom"
-description: "SolarTom}"
+description: "SolarTom"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PotatoTomato"
-description: "PotatoTomato}"
+description: "PotatoTomato"
 ---
 - **WhiteStars**: 2
 - **μ**: 27.22  

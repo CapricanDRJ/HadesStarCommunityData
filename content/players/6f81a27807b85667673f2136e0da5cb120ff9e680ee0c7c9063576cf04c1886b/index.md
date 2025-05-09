@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Darwin"
-description: "Darwin}"
+description: "Darwin"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

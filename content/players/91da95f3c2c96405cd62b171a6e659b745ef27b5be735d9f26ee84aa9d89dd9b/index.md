@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "玱清"
-description: "玱清}"
+description: "玱清"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

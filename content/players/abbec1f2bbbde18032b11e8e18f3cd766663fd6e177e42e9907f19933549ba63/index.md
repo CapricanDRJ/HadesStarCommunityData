@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hydra"
-description: "Hydra}"
+description: "Hydra"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

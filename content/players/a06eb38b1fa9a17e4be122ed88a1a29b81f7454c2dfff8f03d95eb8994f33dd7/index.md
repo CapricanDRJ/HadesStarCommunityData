@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "andreika"
-description: "andreika}"
+description: "andreika"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.10  

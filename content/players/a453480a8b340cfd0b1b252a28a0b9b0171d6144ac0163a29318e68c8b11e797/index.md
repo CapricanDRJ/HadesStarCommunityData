@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Maks"
-description: "Maks}"
+description: "Maks"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

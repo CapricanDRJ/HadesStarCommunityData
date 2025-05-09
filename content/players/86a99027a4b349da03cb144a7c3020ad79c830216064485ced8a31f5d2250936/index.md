@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "exsimeister"
-description: "exsimeister}"
+description: "exsimeister"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Killua"
-description: "Killua}"
+description: "Killua"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.74  

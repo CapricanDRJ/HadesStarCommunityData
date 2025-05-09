@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curtisbb94"
-description: "Curtisbb94}"
+description: "Curtisbb94"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.06  

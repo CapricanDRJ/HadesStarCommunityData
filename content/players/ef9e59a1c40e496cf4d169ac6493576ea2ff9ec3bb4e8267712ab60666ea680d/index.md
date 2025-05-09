@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Khairito"
-description: "Khairito}"
+description: "Khairito"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

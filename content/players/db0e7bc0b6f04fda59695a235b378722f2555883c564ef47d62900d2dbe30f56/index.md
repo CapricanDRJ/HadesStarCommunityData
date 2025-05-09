@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "[BZC] Cruz"
-description: "[BZC] Cruz}"
+description: "[BZC] Cruz"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

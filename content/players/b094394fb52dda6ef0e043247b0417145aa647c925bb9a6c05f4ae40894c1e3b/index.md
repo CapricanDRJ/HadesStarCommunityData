@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VLͥAlͣkͫ"
-description: "VLͥAlͣkͫ}"
+description: "VLͥAlͣkͫ"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.02  

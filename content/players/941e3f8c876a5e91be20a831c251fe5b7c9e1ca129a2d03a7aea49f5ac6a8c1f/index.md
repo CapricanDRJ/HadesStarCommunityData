@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MrCocaKoala"
-description: "MrCocaKoala}"
+description: "MrCocaKoala"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.20  

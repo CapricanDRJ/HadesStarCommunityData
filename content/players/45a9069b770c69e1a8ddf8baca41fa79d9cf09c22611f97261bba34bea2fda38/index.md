@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "BörkBörk"
-description: "BörkBörk}"
+description: "BörkBörk"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

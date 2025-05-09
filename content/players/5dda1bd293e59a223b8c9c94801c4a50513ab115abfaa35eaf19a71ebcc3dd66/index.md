@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bilbo"
-description: "Bilbo}"
+description: "Bilbo"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

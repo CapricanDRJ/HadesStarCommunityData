@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Poly"
-description: "Poly}"
+description: "Poly"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

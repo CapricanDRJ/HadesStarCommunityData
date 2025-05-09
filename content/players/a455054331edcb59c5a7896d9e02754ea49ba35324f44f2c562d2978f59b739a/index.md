@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "third worlds"
-description: "third worlds}"
+description: "third worlds"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

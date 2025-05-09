@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DrDitka"
-description: "DrDitka}"
+description: "DrDitka"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

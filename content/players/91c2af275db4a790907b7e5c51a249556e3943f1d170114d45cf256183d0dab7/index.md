@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "schro"
-description: "schro}"
+description: "schro"
 ---
 - **WhiteStars**: 2
 - **μ**: 23.09  

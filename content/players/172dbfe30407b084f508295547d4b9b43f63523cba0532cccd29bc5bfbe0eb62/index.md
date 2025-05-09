@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "thefolkmetal"
-description: "thefolkmetal}"
+description: "thefolkmetal"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

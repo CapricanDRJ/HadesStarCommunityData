@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Krypton"
-description: "Krypton}"
+description: "Krypton"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.01  

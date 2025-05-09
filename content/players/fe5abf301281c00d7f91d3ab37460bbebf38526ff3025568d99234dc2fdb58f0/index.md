@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Carapullo"
-description: "Carapullo}"
+description: "Carapullo"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.06  

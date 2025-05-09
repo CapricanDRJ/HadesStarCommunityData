@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kelmorve"
-description: "Kelmorve}"
+description: "Kelmorve"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.35  

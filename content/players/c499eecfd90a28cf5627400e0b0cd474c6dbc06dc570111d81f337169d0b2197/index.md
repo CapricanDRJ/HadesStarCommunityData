@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Menemyr"
-description: "Menemyr}"
+description: "Menemyr"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.01  

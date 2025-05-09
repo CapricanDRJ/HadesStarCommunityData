@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rearguard4657"
-description: "Rearguard4657}"
+description: "Rearguard4657"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.99  

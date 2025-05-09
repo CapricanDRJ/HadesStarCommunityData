@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "烬雪无痕"
-description: "烬雪无痕}"
+description: "烬雪无痕"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.99  

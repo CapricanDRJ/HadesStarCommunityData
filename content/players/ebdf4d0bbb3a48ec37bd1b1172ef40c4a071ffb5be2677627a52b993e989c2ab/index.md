@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Vega"
-description: "Vega}"
+description: "Vega"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

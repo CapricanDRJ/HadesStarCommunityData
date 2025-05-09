@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nukehead"
-description: "Nukehead}"
+description: "Nukehead"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

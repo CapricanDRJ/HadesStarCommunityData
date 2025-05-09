@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Timmeh"
-description: "Timmeh}"
+description: "Timmeh"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

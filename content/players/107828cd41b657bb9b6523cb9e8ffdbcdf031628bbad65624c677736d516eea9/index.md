@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "易觉辰"
-description: "易觉辰}"
+description: "易觉辰"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

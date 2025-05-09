@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "0xunruly"
-description: "0xunruly}"
+description: "0xunruly"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

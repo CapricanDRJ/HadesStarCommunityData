@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "BlazerPlayz"
-description: "BlazerPlayz}"
+description: "BlazerPlayz"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

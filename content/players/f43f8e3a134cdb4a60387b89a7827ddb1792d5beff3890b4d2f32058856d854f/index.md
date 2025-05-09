@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jim52909"
-description: "Jim52909}"
+description: "Jim52909"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

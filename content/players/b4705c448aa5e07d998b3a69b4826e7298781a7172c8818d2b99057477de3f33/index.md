@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "沙漠"
-description: "沙漠}"
+description: "沙漠"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wild Bill"
-description: "Wild Bill}"
+description: "Wild Bill"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.35  

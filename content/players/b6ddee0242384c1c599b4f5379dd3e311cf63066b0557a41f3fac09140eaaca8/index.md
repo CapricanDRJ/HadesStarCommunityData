@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LANGEBE"
-description: "LANGEBE}"
+description: "LANGEBE"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

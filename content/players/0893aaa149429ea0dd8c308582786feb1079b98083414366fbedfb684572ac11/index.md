@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "iVanCoMik"
-description: "iVanCoMik}"
+description: "iVanCoMik"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

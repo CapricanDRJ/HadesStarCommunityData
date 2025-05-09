@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "“V”"
-description: "“V”}"
+description: "“V”"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

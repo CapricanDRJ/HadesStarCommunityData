@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dráp"
-description: "Dráp}"
+description: "Dráp"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

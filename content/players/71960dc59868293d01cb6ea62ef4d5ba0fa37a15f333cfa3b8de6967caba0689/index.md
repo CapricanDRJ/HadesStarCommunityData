@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "[BZC] zMaX1Mosz"
-description: "[BZC] zMaX1Mosz}"
+description: "[BZC] zMaX1Mosz"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

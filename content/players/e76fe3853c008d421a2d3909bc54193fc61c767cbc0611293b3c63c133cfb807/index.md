@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SGT_Slaughtered"
-description: "SGT_Slaughtered}"
+description: "SGT_Slaughtered"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

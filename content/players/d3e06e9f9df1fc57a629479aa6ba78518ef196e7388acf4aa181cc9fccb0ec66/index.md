@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Breadboy"
-description: "Breadboy}"
+description: "Breadboy"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

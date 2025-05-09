@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Map Hacking Kid"
-description: "Map Hacking Kid}"
+description: "Map Hacking Kid"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

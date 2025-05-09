@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wundula"
-description: "Wundula}"
+description: "Wundula"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

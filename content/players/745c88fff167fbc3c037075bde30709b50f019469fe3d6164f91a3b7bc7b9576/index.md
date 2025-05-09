@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Андирадус"
-description: "Андирадус}"
+description: "Андирадус"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

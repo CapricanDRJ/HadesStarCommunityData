@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nikolas205H"
-description: "Nikolas205H}"
+description: "Nikolas205H"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

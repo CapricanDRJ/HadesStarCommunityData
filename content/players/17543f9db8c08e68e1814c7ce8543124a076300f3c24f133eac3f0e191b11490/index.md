@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "arsenium23"
-description: "arsenium23}"
+description: "arsenium23"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

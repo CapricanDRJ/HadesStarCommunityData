@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ahlims"
-description: "ahlims}"
+description: "ahlims"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

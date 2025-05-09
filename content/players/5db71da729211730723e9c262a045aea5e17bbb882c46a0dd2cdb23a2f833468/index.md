@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rosazie"
-description: "Rosazie}"
+description: "Rosazie"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

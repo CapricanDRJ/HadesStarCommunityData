@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milambersys"
-description: "milambersys}"
+description: "milambersys"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

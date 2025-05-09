@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tyron Brandt"
-description: "Tyron Brandt}"
+description: "Tyron Brandt"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

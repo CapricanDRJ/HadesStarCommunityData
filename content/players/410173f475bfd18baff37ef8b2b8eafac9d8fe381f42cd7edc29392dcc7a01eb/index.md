@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "鸭脖"
-description: "鸭脖}"
+description: "鸭脖"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

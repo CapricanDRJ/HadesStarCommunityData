@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Earth"
-description: "Earth}"
+description: "Earth"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

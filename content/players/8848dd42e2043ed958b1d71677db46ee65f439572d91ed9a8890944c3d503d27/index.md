@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Stark☣️"
-description: "Stark☣️}"
+description: "Stark☣️"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

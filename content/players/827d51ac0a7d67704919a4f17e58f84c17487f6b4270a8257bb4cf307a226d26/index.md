@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Penetron"
-description: "Penetron}"
+description: "Penetron"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

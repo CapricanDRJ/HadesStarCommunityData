@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ĐคƦƦФฬ"
-description: "ĐคƦƦФฬ}"
+description: "ĐคƦƦФฬ"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

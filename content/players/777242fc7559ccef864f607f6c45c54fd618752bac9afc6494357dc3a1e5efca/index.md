@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "biggocelot123"
-description: "biggocelot123}"
+description: "biggocelot123"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Zeros"
-description: "Zeros}"
+description: "Zeros"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

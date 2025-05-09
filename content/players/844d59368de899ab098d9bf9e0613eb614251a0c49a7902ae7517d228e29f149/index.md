@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Molfar78"
-description: "Molfar78}"
+description: "Molfar78"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

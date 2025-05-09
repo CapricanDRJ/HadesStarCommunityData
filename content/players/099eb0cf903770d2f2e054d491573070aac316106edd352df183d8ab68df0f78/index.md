@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "自由"
-description: "自由}"
+description: "自由"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

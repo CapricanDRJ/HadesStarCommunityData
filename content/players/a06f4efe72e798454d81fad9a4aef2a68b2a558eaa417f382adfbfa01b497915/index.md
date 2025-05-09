@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LCFR"
-description: "LCFR}"
+description: "LCFR"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

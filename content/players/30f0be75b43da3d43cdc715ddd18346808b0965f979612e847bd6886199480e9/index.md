@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ALLSEEINGMIND"
-description: "ALLSEEINGMIND}"
+description: "ALLSEEINGMIND"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

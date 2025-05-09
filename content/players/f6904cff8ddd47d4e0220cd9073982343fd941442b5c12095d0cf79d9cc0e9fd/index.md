@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "pizzathomas"
-description: "pizzathomas}"
+description: "pizzathomas"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

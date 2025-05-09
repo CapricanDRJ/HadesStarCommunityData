@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "光粒"
-description: "光粒}"
+description: "光粒"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

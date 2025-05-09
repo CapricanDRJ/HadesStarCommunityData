@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Return"
-description: "The Return}"
+description: "The Return"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

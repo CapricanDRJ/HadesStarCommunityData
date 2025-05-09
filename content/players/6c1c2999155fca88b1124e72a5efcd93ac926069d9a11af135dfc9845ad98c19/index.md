@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kasey"
-description: "Kasey}"
+description: "Kasey"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.20  

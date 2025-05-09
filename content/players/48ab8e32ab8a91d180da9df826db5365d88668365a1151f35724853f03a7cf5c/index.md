@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "New Genesis"
-description: "New Genesis}"
+description: "New Genesis"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.91  

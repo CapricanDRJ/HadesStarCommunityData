@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "sposers"
-description: "sposers}"
+description: "sposers"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

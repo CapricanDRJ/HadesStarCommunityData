@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "呵呵"
-description: "呵呵}"
+description: "呵呵"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

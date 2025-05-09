@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bengereng 2.0"
-description: "Bengereng 2.0}"
+description: "Bengereng 2.0"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

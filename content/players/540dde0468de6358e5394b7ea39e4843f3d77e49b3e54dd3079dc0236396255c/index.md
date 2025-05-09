@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "XACOB"
-description: "XACOB}"
+description: "XACOB"
 ---
 - **WhiteStars**: 4
 - **μ**: 28.35  

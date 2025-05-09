@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "太阳系2"
-description: "太阳系2}"
+description: "太阳系2"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

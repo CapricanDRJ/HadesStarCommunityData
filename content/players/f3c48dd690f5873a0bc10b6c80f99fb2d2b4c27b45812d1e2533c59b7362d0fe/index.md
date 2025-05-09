@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Captain Awesome"
-description: "Captain Awesome}"
+description: "Captain Awesome"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

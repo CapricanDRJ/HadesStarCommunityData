@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Danelion"
-description: "Danelion}"
+description: "Danelion"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

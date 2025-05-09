@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Psyco73"
-description: "Psyco73}"
+description: "Psyco73"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

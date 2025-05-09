@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "[DS]Master"
-description: "[DS]Master}"
+description: "[DS]Master"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

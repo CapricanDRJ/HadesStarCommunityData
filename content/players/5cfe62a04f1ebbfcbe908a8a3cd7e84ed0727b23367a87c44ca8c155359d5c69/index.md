@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FROSTBITE"
-description: "FROSTBITE}"
+description: "FROSTBITE"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

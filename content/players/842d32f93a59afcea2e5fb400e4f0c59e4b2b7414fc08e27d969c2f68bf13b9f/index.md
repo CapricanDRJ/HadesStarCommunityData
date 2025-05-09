@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Braindead"
-description: "Braindead}"
+description: "Braindead"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.01  

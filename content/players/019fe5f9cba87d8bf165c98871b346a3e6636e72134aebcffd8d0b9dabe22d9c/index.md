@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Omro"
-description: "Omro}"
+description: "Omro"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

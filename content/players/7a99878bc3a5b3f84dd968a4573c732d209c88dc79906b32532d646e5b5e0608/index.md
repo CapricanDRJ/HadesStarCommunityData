@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "quevesman"
-description: "quevesman}"
+description: "quevesman"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

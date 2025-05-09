@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VΞΠΦΜ"
-description: "VΞΠΦΜ}"
+description: "VΞΠΦΜ"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

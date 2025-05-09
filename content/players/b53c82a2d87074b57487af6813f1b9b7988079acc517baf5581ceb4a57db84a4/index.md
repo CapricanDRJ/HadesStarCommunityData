@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Apolo"
-description: "Apolo}"
+description: "Apolo"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Elethion"
-description: "Elethion}"
+description: "Elethion"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

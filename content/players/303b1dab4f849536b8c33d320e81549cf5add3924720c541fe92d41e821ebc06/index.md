@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Noctis Veil"
-description: "Noctis Veil}"
+description: "Noctis Veil"
 ---
 - **WhiteStars**: 2
 - **μ**: 24.96  

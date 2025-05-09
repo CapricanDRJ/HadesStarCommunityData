@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "whattheheck908"
-description: "whattheheck908}"
+description: "whattheheck908"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "小蝦米大京魚"
-description: "小蝦米大京魚}"
+description: "小蝦米大京魚"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

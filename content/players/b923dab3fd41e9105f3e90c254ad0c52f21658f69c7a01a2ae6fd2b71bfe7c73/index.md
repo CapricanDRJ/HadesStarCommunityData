@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "璃豔"
-description: "璃豔}"
+description: "璃豔"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Шах и Мат"
-description: "Шах и Мат}"
+description: "Шах и Мат"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

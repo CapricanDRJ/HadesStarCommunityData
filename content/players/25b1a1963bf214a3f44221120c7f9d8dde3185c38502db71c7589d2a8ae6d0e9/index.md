@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Pommesgabel666"
-description: "Pommesgabel666}"
+description: "Pommesgabel666"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

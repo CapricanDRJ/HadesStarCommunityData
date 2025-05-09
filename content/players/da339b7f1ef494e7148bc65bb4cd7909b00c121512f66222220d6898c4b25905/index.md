@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sairaj"
-description: "Sairaj}"
+description: "Sairaj"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

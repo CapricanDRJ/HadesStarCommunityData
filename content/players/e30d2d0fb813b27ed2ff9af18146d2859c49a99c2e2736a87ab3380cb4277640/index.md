@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "下一场雨"
-description: "下一场雨}"
+description: "下一场雨"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

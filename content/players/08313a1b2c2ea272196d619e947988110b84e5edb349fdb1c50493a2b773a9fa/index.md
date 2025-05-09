@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "泠鳶"
-description: "泠鳶}"
+description: "泠鳶"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

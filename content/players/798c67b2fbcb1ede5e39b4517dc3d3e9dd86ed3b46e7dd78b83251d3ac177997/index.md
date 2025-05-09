@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DarthWolf"
-description: "DarthWolf}"
+description: "DarthWolf"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

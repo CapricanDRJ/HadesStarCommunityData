@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "UnknownX"
-description: "UnknownX}"
+description: "UnknownX"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

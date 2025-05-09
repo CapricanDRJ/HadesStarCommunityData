@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chara"
-description: "Chara}"
+description: "Chara"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.86  

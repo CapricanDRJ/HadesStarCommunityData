@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "人机"
-description: "人机}"
+description: "人机"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.89  

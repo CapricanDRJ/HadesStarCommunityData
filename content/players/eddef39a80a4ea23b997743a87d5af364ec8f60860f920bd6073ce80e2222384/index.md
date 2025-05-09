@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Caprican"
-description: "Caprican}"
+description: "Caprican"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

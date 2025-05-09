@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cronyx"
-description: "Cronyx}"
+description: "Cronyx"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

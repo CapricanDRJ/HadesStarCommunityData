@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kinothi"
-description: "Kinothi}"
+description: "Kinothi"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

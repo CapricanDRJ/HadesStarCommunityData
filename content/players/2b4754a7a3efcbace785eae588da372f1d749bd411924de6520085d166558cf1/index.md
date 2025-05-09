@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ChaoticMlem"
-description: "ChaoticMlem}"
+description: "ChaoticMlem"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

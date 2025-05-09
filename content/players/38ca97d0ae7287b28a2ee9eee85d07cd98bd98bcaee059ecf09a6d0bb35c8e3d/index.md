@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "哈迪斯帝国"
-description: "哈迪斯帝国}"
+description: "哈迪斯帝国"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

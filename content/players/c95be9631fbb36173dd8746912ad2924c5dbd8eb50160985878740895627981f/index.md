@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Daclaw"
-description: "Daclaw}"
+description: "Daclaw"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.95  

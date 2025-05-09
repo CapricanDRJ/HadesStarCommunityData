@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sleepy!4ever"
-description: "Sleepy!4ever}"
+description: "Sleepy!4ever"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.74  

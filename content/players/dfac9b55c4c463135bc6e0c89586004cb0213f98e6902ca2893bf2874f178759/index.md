@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Revmirych"
-description: "Revmirych}"
+description: "Revmirych"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

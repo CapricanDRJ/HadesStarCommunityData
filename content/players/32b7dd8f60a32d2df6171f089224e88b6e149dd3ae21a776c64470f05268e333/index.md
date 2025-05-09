@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Draconys"
-description: "Draconys}"
+description: "Draconys"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

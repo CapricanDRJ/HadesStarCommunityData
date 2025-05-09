@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Salvor"
-description: "Salvor}"
+description: "Salvor"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

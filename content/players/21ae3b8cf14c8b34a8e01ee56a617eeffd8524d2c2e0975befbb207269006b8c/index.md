@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Xadom"
-description: "Xadom}"
+description: "Xadom"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

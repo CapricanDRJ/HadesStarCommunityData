@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Global"
-description: "Global}"
+description: "Global"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

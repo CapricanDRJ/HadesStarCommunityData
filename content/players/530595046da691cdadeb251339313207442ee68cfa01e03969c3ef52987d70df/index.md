@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Garmonica"
-description: "Garmonica}"
+description: "Garmonica"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

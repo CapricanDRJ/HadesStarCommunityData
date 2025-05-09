@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rune"
-description: "Rune}"
+description: "Rune"
 ---
 - **WhiteStars**: 3
 - **μ**: 27.74  

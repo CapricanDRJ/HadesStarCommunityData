@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "elgonzatur"
-description: "elgonzatur}"
+description: "elgonzatur"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

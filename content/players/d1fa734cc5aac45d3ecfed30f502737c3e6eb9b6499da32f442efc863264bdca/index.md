@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TheOldRepublic"
-description: "TheOldRepublic}"
+description: "TheOldRepublic"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.82  

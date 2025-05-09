@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SilverWolf "
-description: "SilverWolf }"
+description: "SilverWolf "
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

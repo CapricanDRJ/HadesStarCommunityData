@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "zoomzoomdoom"
-description: "zoomzoomdoom}"
+description: "zoomzoomdoom"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.28  

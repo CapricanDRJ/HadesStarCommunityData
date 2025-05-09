@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kolobok"
-description: "Kolobok}"
+description: "Kolobok"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.10  

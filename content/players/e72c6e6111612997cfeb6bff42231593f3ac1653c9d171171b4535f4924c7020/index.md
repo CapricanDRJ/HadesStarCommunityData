@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PumpkinHeaD"
-description: "PumpkinHeaD}"
+description: "PumpkinHeaD"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

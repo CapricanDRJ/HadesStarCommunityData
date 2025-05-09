@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ангел Хоронитель"
-description: "Ангел Хоронитель}"
+description: "Ангел Хоронитель"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kiro"
-description: "Kiro}"
+description: "Kiro"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

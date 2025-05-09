@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "T. Fersouza"
-description: "T. Fersouza}"
+description: "T. Fersouza"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

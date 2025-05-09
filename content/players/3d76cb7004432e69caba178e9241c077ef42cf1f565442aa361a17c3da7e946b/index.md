@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bamberg-_-98"
-description: "Bamberg-_-98}"
+description: "Bamberg-_-98"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

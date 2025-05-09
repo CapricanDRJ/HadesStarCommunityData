@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Comrade"
-description: "Comrade}"
+description: "Comrade"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Takotys"
-description: "Takotys}"
+description: "Takotys"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.35  

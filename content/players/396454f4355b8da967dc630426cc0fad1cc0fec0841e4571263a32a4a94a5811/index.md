@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TheRez25"
-description: "TheRez25}"
+description: "TheRez25"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

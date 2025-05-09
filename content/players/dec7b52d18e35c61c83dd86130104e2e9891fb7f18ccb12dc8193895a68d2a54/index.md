@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Flinx"
-description: "Flinx}"
+description: "Flinx"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

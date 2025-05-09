@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "blond"
-description: "blond}"
+description: "blond"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

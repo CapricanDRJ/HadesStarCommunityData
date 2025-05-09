@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "风影声"
-description: "风影声}"
+description: "风影声"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

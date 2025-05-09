@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "何去何从"
-description: "何去何从}"
+description: "何去何从"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

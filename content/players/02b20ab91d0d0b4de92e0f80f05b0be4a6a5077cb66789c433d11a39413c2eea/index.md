@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "jondough101"
-description: "jondough101}"
+description: "jondough101"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OneBlackMamba"
-description: "OneBlackMamba}"
+description: "OneBlackMamba"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.22  

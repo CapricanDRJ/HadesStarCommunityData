@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "俊俏的小郎哥"
-description: "俊俏的小郎哥}"
+description: "俊俏的小郎哥"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

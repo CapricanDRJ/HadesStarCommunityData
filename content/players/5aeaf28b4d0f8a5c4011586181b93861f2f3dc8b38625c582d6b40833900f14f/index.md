@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Iltschi"
-description: "Iltschi}"
+description: "Iltschi"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

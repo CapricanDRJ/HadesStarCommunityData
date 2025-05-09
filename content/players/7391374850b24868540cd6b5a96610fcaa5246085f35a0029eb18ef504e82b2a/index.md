@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Talon Karrde"
-description: "Talon Karrde}"
+description: "Talon Karrde"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

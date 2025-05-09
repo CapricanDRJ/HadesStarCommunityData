@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MakJlyxa"
-description: "MakJlyxa}"
+description: "MakJlyxa"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DarkBlazer"
-description: "DarkBlazer}"
+description: "DarkBlazer"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.00  

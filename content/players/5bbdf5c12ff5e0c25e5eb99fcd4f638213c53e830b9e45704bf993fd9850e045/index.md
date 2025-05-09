@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Willie C"
-description: "Willie C}"
+description: "Willie C"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.20  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rom2466"
-description: "Rom2466}"
+description: "Rom2466"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

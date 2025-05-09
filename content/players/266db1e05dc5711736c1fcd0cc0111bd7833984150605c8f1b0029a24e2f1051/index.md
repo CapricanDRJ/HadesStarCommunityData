@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Drake"
-description: "Drake}"
+description: "Drake"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

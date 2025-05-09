@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Z1LL4tr0n"
-description: "Z1LL4tr0n}"
+description: "Z1LL4tr0n"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

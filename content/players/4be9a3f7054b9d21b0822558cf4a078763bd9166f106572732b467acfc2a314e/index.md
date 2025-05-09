@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tr4pcore"
-description: "Tr4pcore}"
+description: "Tr4pcore"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.74  

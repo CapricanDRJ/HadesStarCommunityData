@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "鱼兮鱼兮"
-description: "鱼兮鱼兮}"
+description: "鱼兮鱼兮"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

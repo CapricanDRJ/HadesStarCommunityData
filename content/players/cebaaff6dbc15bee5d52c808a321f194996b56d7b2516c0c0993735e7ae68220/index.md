@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "初阳"
-description: "初阳}"
+description: "初阳"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

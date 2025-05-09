@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "BOSSFROMALBANIA9"
-description: "BOSSFROMALBANIA9}"
+description: "BOSSFROMALBANIA9"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.06  

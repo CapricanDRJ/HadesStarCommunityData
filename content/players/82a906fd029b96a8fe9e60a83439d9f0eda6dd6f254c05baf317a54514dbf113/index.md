@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reque"
-description: "Reque}"
+description: "Reque"
 ---
 - **WhiteStars**: 3
 - **μ**: 27.61  

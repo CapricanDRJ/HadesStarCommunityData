@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kelsomi"
-description: "Kelsomi}"
+description: "Kelsomi"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

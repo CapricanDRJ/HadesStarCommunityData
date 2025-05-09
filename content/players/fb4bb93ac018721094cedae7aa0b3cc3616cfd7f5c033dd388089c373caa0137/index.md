@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TheDarkPrince"
-description: "TheDarkPrince}"
+description: "TheDarkPrince"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

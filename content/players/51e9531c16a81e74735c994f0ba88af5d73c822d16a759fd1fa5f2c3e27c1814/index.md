@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Váhrmïr"
-description: "Váhrmïr}"
+description: "Váhrmïr"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

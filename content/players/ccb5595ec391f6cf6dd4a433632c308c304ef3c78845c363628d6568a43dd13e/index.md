@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kaky"
-description: "Kaky}"
+description: "Kaky"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

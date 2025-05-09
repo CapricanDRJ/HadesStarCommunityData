@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SIRKANTE"
-description: "SIRKANTE}"
+description: "SIRKANTE"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Oorchi"
-description: "Oorchi}"
+description: "Oorchi"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "owner"
-description: "owner}"
+description: "owner"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

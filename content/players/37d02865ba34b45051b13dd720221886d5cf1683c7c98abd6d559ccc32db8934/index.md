@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "asp7yxia"
-description: "asp7yxia}"
+description: "asp7yxia"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

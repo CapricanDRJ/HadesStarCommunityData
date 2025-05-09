@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "嘶嘶嘶嘶嘶"
-description: "嘶嘶嘶嘶嘶}"
+description: "嘶嘶嘶嘶嘶"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.99  

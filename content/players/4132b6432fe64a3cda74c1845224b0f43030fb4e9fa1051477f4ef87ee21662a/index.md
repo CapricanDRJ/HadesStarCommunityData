@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Oaksey"
-description: "Oaksey}"
+description: "Oaksey"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

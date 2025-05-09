@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "jarmenkail"
-description: "jarmenkail}"
+description: "jarmenkail"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "有点虚弱"
-description: "有点虚弱}"
+description: "有点虚弱"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

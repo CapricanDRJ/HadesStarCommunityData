@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OneG Bandit"
-description: "OneG Bandit}"
+description: "OneG Bandit"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.81  

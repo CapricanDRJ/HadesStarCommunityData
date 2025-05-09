@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "nomdeplume101"
-description: "nomdeplume101}"
+description: "nomdeplume101"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

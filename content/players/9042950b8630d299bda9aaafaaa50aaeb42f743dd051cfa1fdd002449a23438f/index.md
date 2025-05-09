@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jager"
-description: "Jager}"
+description: "Jager"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

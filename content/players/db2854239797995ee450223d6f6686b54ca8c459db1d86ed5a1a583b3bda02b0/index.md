@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MCCD"
-description: "MCCD}"
+description: "MCCD"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

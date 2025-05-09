@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GabikShu"
-description: "GabikShu}"
+description: "GabikShu"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Top Player Ratings
-date: 2025-05-09T14:53:08.181Z
+date: 2025-05-09T15:12:50.982Z
 permalink: /players/
 description: "Hades' Star Top WhiteStar Players"
 searchHidden: true

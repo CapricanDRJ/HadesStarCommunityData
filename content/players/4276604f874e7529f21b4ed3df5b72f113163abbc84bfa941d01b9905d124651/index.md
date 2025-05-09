@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "sfxpireaus"
-description: "sfxpireaus}"
+description: "sfxpireaus"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

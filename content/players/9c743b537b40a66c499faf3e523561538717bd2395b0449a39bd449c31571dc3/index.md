@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "evenger"
-description: "evenger}"
+description: "evenger"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milamberspace"
-description: "milamberspace}"
+description: "milamberspace"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

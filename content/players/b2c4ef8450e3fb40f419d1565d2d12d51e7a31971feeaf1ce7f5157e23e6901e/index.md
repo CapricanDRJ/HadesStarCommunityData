@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Drew"
-description: "Drew}"
+description: "Drew"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

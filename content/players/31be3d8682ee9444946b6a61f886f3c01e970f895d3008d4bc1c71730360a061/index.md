@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TRUST ™"
-description: "TRUST ™}"
+description: "TRUST ™"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

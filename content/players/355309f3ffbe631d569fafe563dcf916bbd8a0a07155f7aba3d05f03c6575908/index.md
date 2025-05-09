@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GudvinFox"
-description: "GudvinFox}"
+description: "GudvinFox"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "已经死了的KCN"
-description: "已经死了的KCN}"
+description: "已经死了的KCN"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

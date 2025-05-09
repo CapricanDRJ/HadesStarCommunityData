@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Okeush"
-description: "Okeush}"
+description: "Okeush"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.02  

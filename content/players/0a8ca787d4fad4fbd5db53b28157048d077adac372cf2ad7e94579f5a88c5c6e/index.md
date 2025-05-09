@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ocean_9432"
-description: "Ocean_9432}"
+description: "Ocean_9432"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

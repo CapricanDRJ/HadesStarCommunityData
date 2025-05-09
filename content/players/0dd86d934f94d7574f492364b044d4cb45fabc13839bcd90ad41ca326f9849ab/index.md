@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DARKEN RAHL8835"
-description: "DARKEN RAHL8835}"
+description: "DARKEN RAHL8835"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

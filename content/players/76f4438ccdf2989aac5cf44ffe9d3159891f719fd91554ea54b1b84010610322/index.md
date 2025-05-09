@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Corvec"
-description: "Corvec}"
+description: "Corvec"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.03  

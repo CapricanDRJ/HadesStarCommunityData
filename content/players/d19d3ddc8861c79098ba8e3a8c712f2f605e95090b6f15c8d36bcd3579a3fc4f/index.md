@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NoApologies"
-description: "NoApologies}"
+description: "NoApologies"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

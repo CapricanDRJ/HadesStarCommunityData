@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nexus Defender"
-description: "Nexus Defender}"
+description: "Nexus Defender"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

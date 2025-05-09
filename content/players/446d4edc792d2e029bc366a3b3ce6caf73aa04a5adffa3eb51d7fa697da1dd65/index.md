@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gabrielvicks123"
-description: "Gabrielvicks123}"
+description: "Gabrielvicks123"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

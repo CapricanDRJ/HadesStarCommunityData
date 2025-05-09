@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kermit"
-description: "Kermit}"
+description: "Kermit"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

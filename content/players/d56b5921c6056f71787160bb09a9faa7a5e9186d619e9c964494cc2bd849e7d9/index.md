@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ori"
-description: "Ori}"
+description: "Ori"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "RazorChamp"
-description: "RazorChamp}"
+description: "RazorChamp"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.89  

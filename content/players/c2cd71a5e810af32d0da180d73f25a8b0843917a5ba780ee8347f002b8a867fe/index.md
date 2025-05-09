@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "samhandwichson"
-description: "samhandwichson}"
+description: "samhandwichson"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.99  

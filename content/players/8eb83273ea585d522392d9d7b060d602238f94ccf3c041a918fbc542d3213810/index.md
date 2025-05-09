@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "_GEDZA_"
-description: "_GEDZA_}"
+description: "_GEDZA_"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

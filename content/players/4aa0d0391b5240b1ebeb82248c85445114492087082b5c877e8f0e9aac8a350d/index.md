@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "YriiGagarin"
-description: "YriiGagarin}"
+description: "YriiGagarin"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

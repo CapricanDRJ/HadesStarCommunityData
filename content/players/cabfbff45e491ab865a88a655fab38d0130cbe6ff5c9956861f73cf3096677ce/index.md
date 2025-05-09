@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Olivo"
-description: "Olivo}"
+description: "Olivo"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

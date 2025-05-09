@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Friner"
-description: "Friner}"
+description: "Friner"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

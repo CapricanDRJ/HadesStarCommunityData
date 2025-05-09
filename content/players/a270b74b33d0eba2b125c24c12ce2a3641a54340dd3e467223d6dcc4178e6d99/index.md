@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Lone Battleship"
-description: "Lone Battleship}"
+description: "Lone Battleship"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.06  

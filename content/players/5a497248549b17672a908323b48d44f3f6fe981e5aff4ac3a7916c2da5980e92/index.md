@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Petele"
-description: "Petele}"
+description: "Petele"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

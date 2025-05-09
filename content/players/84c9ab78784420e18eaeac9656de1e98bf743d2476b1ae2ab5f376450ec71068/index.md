@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "vdruzh"
-description: "vdruzh}"
+description: "vdruzh"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

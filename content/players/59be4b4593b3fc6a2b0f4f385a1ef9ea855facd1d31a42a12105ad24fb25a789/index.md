@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Morlock"
-description: "Morlock}"
+description: "Morlock"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

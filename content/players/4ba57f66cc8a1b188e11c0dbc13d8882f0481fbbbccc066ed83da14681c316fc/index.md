@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kanabu4"
-description: "Kanabu4}"
+description: "Kanabu4"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

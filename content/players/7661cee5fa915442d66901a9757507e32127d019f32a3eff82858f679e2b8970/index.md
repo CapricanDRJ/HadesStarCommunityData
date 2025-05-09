@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "KaleyObsidia"
-description: "KaleyObsidia}"
+description: "KaleyObsidia"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

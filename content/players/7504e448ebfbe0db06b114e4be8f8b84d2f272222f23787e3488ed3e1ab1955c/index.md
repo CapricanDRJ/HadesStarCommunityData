@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DemosSLD"
-description: "DemosSLD}"
+description: "DemosSLD"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

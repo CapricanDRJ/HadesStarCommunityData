@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "猫羽雫"
-description: "猫羽雫}"
+description: "猫羽雫"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

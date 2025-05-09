@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SchwesterEmilia"
-description: "SchwesterEmilia}"
+description: "SchwesterEmilia"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

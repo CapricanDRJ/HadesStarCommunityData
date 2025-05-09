@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Traggh"
-description: "Traggh}"
+description: "Traggh"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

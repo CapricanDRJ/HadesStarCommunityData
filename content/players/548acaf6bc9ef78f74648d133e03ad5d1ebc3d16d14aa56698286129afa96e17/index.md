@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ponchus"
-description: "Ponchus}"
+description: "Ponchus"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

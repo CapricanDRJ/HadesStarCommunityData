@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kinamar Mossbe"
-description: "Kinamar Mossbe}"
+description: "Kinamar Mossbe"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.80  

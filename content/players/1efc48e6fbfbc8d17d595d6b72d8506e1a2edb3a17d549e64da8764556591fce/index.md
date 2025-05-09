@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Yggdrasil"
-description: "Yggdrasil}"
+description: "Yggdrasil"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

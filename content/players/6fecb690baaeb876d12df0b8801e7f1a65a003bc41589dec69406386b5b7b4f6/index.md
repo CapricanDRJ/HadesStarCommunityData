@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sefu"
-description: "Sefu}"
+description: "Sefu"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.20  

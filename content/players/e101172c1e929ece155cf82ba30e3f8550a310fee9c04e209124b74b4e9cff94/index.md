@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mahtarea"
-description: "Mahtarea}"
+description: "Mahtarea"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.20  

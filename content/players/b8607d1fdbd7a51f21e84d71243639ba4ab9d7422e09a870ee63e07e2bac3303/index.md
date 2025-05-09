@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "WT4"
-description: "WT4}"
+description: "WT4"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

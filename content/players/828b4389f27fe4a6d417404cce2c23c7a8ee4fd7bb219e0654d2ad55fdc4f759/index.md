@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "amah2"
-description: "amah2}"
+description: "amah2"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

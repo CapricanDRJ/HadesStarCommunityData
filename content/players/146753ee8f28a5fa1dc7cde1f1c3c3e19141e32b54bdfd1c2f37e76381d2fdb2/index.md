@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SamKay"
-description: "SamKay}"
+description: "SamKay"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

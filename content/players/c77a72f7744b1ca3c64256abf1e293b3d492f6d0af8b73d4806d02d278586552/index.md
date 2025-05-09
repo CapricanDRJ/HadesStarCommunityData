@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "G12345"
-description: "G12345}"
+description: "G12345"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

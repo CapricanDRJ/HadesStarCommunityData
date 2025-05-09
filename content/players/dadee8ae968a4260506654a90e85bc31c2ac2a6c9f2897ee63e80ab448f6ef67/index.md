@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Qgmad"
-description: "Qgmad}"
+description: "Qgmad"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

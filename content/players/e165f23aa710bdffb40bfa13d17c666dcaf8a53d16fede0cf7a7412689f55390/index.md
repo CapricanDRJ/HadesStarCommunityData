@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mentalfloss"
-description: "Mentalfloss}"
+description: "Mentalfloss"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "poorgamer"
-description: "poorgamer}"
+description: "poorgamer"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.06  

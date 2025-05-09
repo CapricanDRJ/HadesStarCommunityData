@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "vagabond-muse"
-description: "vagabond-muse}"
+description: "vagabond-muse"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.35  

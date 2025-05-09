@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reaper"
-description: "Reaper}"
+description: "Reaper"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

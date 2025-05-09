@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Igris 脅威"
-description: "Igris 脅威}"
+description: "Igris 脅威"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

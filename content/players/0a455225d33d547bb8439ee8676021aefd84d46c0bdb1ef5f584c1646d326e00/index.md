@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "-=Iconoclaster=-"
-description: "-=Iconoclaster=-}"
+description: "-=Iconoclaster=-"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

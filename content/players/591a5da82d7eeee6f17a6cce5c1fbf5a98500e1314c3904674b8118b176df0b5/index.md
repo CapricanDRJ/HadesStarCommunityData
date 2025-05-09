@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "D13ANTWOORD"
-description: "D13ANTWOORD}"
+description: "D13ANTWOORD"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GAMEMODE PLEY"
-description: "GAMEMODE PLEY}"
+description: "GAMEMODE PLEY"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Коньячный ЗАВОД"
-description: "Коньячный ЗАВОД}"
+description: "Коньячный ЗАВОД"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

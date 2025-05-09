@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "maxaraji"
-description: "maxaraji}"
+description: "maxaraji"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

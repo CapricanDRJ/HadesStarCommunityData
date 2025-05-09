@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Uli"
-description: "Uli}"
+description: "Uli"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

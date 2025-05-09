@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Joelle"
-description: "Joelle}"
+description: "Joelle"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.85  

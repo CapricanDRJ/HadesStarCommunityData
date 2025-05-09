@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Evesy"
-description: "Evesy}"
+description: "Evesy"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

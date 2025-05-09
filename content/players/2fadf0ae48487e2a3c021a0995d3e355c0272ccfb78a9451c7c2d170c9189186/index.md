@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "mytchel"
-description: "mytchel}"
+description: "mytchel"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

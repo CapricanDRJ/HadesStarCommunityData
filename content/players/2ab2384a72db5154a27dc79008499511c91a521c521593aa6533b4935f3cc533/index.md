@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Red Defender"
-description: "The Red Defender}"
+description: "The Red Defender"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

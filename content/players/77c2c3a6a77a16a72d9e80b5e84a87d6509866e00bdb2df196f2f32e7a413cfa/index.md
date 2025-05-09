@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "琉璃狐"
-description: "琉璃狐}"
+description: "琉璃狐"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

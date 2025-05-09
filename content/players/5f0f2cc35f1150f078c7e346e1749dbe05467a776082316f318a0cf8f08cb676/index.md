@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archenzo"
-description: "Archenzo}"
+description: "Archenzo"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.99  

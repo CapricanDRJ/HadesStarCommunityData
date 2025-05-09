@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "RuntyGoal27670"
-description: "RuntyGoal27670}"
+description: "RuntyGoal27670"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

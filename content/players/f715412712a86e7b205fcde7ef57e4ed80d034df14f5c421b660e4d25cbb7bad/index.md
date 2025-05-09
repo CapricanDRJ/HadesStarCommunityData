@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Little_Kill"
-description: "Little_Kill}"
+description: "Little_Kill"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

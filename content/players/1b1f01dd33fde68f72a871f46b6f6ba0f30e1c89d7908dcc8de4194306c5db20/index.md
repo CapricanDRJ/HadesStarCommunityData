@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CrimsonStorm"
-description: "CrimsonStorm}"
+description: "CrimsonStorm"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

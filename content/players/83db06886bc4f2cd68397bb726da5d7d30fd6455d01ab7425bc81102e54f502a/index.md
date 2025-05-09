@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Viperisback"
-description: "Viperisback}"
+description: "Viperisback"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.95  

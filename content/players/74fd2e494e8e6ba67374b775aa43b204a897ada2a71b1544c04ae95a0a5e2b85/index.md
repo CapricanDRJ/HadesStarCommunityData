@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "你们的爸爸"
-description: "你们的爸爸}"
+description: "你们的爸爸"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

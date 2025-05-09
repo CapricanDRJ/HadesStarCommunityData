@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Henrap"
-description: "Henrap}"
+description: "Henrap"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bear"
-description: "Bear}"
+description: "Bear"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

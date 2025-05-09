@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Argus"
-description: "Argus}"
+description: "Argus"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

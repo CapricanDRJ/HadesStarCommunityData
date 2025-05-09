@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "宇尘"
-description: "宇尘}"
+description: "宇尘"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

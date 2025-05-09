@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Klistir"
-description: "Klistir}"
+description: "Klistir"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

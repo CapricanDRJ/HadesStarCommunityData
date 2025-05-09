@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bossier"
-description: "Bossier}"
+description: "Bossier"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.01  

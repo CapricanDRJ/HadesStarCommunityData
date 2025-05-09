@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "foglem"
-description: "foglem}"
+description: "foglem"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

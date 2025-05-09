@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "swebeus"
-description: "swebeus}"
+description: "swebeus"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

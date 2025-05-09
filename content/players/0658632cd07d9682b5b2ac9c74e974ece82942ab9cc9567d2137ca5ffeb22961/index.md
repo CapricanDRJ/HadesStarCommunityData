@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "EspejoOesed72"
-description: "EspejoOesed72}"
+description: "EspejoOesed72"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

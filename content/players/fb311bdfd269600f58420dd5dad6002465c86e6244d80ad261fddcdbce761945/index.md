@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Funk"
-description: "Funk}"
+description: "Funk"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

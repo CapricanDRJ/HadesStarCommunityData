@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "_rK"
-description: "_rK}"
+description: "_rK"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

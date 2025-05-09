@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Plague"
-description: "Plague}"
+description: "Plague"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

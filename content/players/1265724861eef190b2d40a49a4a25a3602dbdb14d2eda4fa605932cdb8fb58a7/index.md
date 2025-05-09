@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Galaxol"
-description: "Galaxol}"
+description: "Galaxol"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

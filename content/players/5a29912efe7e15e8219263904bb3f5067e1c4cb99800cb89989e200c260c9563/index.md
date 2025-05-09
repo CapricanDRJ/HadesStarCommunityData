@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Vovan_737"
-description: "Vovan_737}"
+description: "Vovan_737"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

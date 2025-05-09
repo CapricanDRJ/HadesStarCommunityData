@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Father"
-description: "Father}"
+description: "Father"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

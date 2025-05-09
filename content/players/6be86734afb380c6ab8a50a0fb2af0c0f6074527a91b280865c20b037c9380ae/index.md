@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nebukadnezar"
-description: "Nebukadnezar}"
+description: "Nebukadnezar"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

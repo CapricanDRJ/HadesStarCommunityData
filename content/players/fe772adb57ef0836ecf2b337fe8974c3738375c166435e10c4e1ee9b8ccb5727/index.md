@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Furia"
-description: "Furia}"
+description: "Furia"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

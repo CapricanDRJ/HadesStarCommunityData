@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ku145"
-description: "Ku145}"
+description: "Ku145"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.07  

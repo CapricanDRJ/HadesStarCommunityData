@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kierrip"
-description: "Kierrip}"
+description: "Kierrip"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

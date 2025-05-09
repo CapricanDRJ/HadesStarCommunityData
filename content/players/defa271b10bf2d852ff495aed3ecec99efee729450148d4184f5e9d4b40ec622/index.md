@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Zondra"
-description: "Zondra}"
+description: "Zondra"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

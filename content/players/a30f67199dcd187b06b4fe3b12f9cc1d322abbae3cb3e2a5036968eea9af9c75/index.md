@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "嗨嗨嗨，来了啊！恐龙扛狼"
-description: "嗨嗨嗨，来了啊！恐龙扛狼}"
+description: "嗨嗨嗨，来了啊！恐龙扛狼"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

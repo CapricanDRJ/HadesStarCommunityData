@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "internel"
-description: "internel}"
+description: "internel"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

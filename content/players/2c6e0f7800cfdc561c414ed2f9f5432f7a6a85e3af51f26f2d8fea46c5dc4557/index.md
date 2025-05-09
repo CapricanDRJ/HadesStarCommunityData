@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GinormousMonster"
-description: "GinormousMonster}"
+description: "GinormousMonster"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.35  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HumblerGas19"
-description: "HumblerGas19}"
+description: "HumblerGas19"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

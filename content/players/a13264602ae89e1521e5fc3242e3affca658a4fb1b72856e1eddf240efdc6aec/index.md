@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "bsquared"
-description: "bsquared}"
+description: "bsquared"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

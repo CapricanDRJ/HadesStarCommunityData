@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Neitsabès"
-description: "Neitsabès}"
+description: "Neitsabès"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

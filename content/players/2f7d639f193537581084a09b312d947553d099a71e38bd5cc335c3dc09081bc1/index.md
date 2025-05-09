@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Orion Sacuroa"
-description: "Orion Sacuroa}"
+description: "Orion Sacuroa"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

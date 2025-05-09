@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "KREATOR"
-description: "KREATOR}"
+description: "KREATOR"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

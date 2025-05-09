@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TheSF8"
-description: "TheSF8}"
+description: "TheSF8"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

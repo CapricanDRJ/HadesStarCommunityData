@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "中国"
-description: "中国}"
+description: "中国"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

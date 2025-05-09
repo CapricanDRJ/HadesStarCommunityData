@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Moyn"
-description: "Moyn}"
+description: "Moyn"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Radwer"
-description: "Radwer}"
+description: "Radwer"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

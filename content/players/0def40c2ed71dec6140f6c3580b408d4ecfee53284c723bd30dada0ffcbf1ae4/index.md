@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "P2Cactus"
-description: "P2Cactus}"
+description: "P2Cactus"
 ---
 - **WhiteStars**: 2
 - **μ**: 24.93  

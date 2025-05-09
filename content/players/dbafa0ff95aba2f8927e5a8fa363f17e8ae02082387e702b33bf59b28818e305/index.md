@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MereLand81"
-description: "MereLand81}"
+description: "MereLand81"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

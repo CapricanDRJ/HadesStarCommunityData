@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mitsuri Kanroji"
-description: "Mitsuri Kanroji}"
+description: "Mitsuri Kanroji"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.01  

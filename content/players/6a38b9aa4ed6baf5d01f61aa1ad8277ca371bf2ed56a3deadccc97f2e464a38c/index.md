@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SKAI"
-description: "SKAI}"
+description: "SKAI"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.82  

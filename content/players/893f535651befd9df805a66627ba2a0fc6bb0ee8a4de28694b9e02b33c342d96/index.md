@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Legendary Blazer"
-description: "Legendary Blazer}"
+description: "Legendary Blazer"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

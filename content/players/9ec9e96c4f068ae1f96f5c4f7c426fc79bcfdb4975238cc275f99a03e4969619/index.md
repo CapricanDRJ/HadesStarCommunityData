@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gen. Capican"
-description: "Gen. Capican}"
+description: "Gen. Capican"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

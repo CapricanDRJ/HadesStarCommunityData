@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "xenozex"
-description: "xenozex}"
+description: "xenozex"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

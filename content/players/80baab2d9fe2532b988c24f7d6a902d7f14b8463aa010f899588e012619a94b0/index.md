@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "landstar"
-description: "landstar}"
+description: "landstar"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

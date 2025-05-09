@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "soumindas47"
-description: "soumindas47}"
+description: "soumindas47"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CaptainBarnicles"
-description: "CaptainBarnicles}"
+description: "CaptainBarnicles"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.72  

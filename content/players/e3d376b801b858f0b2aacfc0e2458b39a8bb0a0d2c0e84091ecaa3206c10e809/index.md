@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Talon"
-description: "Talon}"
+description: "Talon"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

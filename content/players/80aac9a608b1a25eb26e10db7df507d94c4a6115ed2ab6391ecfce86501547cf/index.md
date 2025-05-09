@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "COMMANDER VARAD"
-description: "COMMANDER VARAD}"
+description: "COMMANDER VARAD"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

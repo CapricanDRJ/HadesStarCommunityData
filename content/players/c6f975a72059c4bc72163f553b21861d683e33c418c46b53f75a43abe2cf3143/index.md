@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HamBone"
-description: "HamBone}"
+description: "HamBone"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ligaya"
-description: "Ligaya}"
+description: "Ligaya"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.71  

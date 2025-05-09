@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythical Yannis"
-description: "Mythical Yannis}"
+description: "Mythical Yannis"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

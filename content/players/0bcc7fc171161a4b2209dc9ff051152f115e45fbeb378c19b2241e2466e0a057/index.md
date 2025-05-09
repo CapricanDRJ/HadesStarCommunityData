@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "一架南方航空的A380"
-description: "一架南方航空的A380}"
+description: "一架南方航空的A380"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "[BZC] DiogoMFDS"
-description: "[BZC] DiogoMFDS}"
+description: "[BZC] DiogoMFDS"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

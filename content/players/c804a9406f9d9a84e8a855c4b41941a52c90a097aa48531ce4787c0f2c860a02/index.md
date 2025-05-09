@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Thane"
-description: "Thane}"
+description: "Thane"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

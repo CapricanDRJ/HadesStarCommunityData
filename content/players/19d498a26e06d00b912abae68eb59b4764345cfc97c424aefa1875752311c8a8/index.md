@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "kozlovskiu"
-description: "kozlovskiu}"
+description: "kozlovskiu"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

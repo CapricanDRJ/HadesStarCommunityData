@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "vital-Feger"
-description: "vital-Feger}"
+description: "vital-Feger"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

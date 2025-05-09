@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TANUNAH"
-description: "TANUNAH}"
+description: "TANUNAH"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

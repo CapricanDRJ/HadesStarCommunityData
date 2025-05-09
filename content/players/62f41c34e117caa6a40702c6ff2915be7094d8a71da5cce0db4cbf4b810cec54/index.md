@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Napoleon218"
-description: "Napoleon218}"
+description: "Napoleon218"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  
