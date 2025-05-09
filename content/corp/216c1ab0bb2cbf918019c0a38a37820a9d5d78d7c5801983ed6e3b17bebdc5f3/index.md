@@ -1,6 +1,6 @@
 ---
 title: ​lonewolf
-description: W:40 L:12 D:1 Bonus ✅ 38%
+description: W:40 L:12 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 36 - 5 **The Allegiant**
 date: 2025-05-02T06:43:38.000Z
@@ -18,7 +18,7 @@ nks
 <br>
 
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
