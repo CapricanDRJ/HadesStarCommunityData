@@ -21,7 +21,7 @@ rio galacti imp estelar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (864)|
+| ELO Regular | 1184 🔻  (863)|
 | ELO Competitive | 1185 🔻  (1048)|
 | Total Matches | 1 |
 | Wins | 0 |

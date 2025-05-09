@@ -25,7 +25,7 @@ ders and a focus on WS!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1545 🔺  (7)|
-| ELO Competitive | 1627 🔺  (26)|
+| ELO Competitive | 1627 🔺  (27)|
 | Total Matches | 74 |
 | Wins | 64 |
 | Losses | 10 |
