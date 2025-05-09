@@ -1,610 +1,110 @@
 ---
 layout: page
 title: Top Player Ratings
-description: Hades' Star player skill leaderboard (by μ)
-date: 2025-05-09T04:10:27.032Z
+date: 2025-05-09T04:28:23.740Z
 permalink: /players/
 searchHidden: true
 ---
 
-| Rank | Name | Rating |
-|------|------|------------------|
-| 1 | [XACOB](https://ws.tsl.rocks/players/540dde0468de6358e5394b7ea39e4843f3d77e49b3e54dd3079dc0236396255c/) | 28.35|
-| 2 | [Rune](https://ws.tsl.rocks/players/51a5be2b3461a56fbca275678716d8cee05d67a3bb591f087b006a5f8a548f8f/) | 27.74|
-| 3 | [First Order](https://ws.tsl.rocks/players/6b6b254f90fd7e6bd4bbf6c895ffaaca48f7cd4cf890b4a3b3706b19e7f889b4/) | 27.74|
-| 4 | [VerifiedHuman](https://ws.tsl.rocks/players/45ef9f3e490e5a74c702f3dc97b15d9d4a7207c66956e1624ebd36a4e2614d03/) | 27.65|
-| 5 | [Reque](https://ws.tsl.rocks/players/82a906fd029b96a8fe9e60a83439d9f0eda6dd6f254c05baf317a54514dbf113/) | 27.61|
-| 6 | [PotatoTomato](https://ws.tsl.rocks/players/e2ede1ce209f19c8c5197ff4082ab4c63b447448816153086ec3e244959ef1d1/) | 27.22|
-| 7 | [Dark Knight](https://ws.tsl.rocks/players/e58c0f015fe5206981af46c97e453542e14a473ebd521c48984939caa2ae6aca/) | 26.93|
-| 8 | [Chara](https://ws.tsl.rocks/players/3f9468b1199e09244147be38ab1c35a23aeeb152afd750c07acf5791362d0a8c/) | 26.86|
-| 9 | [curlytoorich](https://ws.tsl.rocks/players/028bc351a6c127560d9ddd9b0770fee31309d8539913d448b560f70b489c2c4e/) | 26.82|
-| 10 | [TheOldRepublic](https://ws.tsl.rocks/players/d1fa734cc5aac45d3ecfed30f502737c3e6eb9b6499da32f442efc863264bdca/) | 26.82|
-| 11 | [SKAI](https://ws.tsl.rocks/players/6a38b9aa4ed6baf5d01f61aa1ad8277ca371bf2ed56a3deadccc97f2e464a38c/) | 26.82|
-| 12 | [Alaric](https://ws.tsl.rocks/players/d144209a8eb5bde652761268b56b8fa13c55e817d145b5e1ac8a9681a3069ddf/) | 26.78|
-| 13 | [Schoon](https://ws.tsl.rocks/players/d89a7e1a52909addb7e154a08978480986a78f7acbe7208c794c81d48c0027d0/) | 26.78|
-| 14 | [mrbar42](https://ws.tsl.rocks/players/34b281c3c7754233c5e6ac34755a90a65e85e5f79ebd01496adea2f67c40baa1/) | 26.78|
-| 15 | [dragoth](https://ws.tsl.rocks/players/2b50fb9d35d81ae3485f4e98804efb3d9a50a2306421d6ccb2644ce849489beb/) | 26.78|
-| 16 | [_GEDZA_](https://ws.tsl.rocks/players/8eb83273ea585d522392d9d7b060d602238f94ccf3c041a918fbc542d3213810/) | 26.78|
-| 17 | [Thirteen](https://ws.tsl.rocks/players/d8a709c7b39211713bb0042b8723b4ccc2a97610fbedb223d766837c6fadb1e0/) | 26.78|
-| 18 | [Draconys](https://ws.tsl.rocks/players/32b7dd8f60a32d2df6171f089224e88b6e149dd3ae21a776c64470f05268e333/) | 26.78|
-| 19 | [Darwin](https://ws.tsl.rocks/players/6f81a27807b85667673f2136e0da5cb120ff9e680ee0c7c9063576cf04c1886b/) | 26.78|
-| 20 | [Cecret](https://ws.tsl.rocks/players/4910b8a8c4f9fdee90344e7088659d3efcbdcb5372e3e269bd1754a06a81880a/) | 26.74|
-| 21 | [Willie B](https://ws.tsl.rocks/players/e932f03af78b13b6eb69630711eb4d41323ee2812e4aee33b22c18750ef8cdf3/) | 26.74|
-| 22 | [Sleepy!4ever](https://ws.tsl.rocks/players/05f0b62709182798120b0435c8a38259fcf582def904fffd99034e1aef2be34d/) | 26.74|
-| 23 | [Killua](https://ws.tsl.rocks/players/dbcd5281265a91f6620ff855bf55e86d70ab2650e3c64a3b82e7276c2a1bc2d0/) | 26.74|
-| 24 | [iNFAMOUSJACK](https://ws.tsl.rocks/players/22b32889efa603e996d92f907ba536f53a2f59248f193ebc5088c1aacf83ab18/) | 26.74|
-| 25 | [Tr4pcore](https://ws.tsl.rocks/players/4be9a3f7054b9d21b0822558cf4a078763bd9166f106572732b467acfc2a314e/) | 26.74|
-| 26 | [Space_C0wboy](https://ws.tsl.rocks/players/2bf67f68ddfb52d905327da9c5e52517798ad7015df04f628ebbc7042c8ce03e/) | 26.74|
-| 27 | [Wheatstone](https://ws.tsl.rocks/players/0c6cf2a2f20a880daa26389738ec124fceb85ee9eabdff960f509a1e5f7e0218/) | 26.72|
-| 28 | [CaptainBarnicles](https://ws.tsl.rocks/players/3949ec37541747c779a621abc4afe5287f0f9b03a0ead8136fa9803c318f383d/) | 26.72|
-| 29 | [Ligaya](https://ws.tsl.rocks/players/81013f1097dd05e3a353b12c21237ec20836b93d00fc6d9d2d4f78933d36f9d3/) | 26.71|
-| 30 | [CopiousGallery14](https://ws.tsl.rocks/players/05b0fe7c0071dd918c7857d905da9099d9faf866007dccce10588ec285a66d70/) | 26.39|
-| 31 | [WarMage](https://ws.tsl.rocks/players/bd32195e443280ae5a4bf844fb0171c3a7fcd5722c0f7f71b899ad816f3f117d/) | 26.28|
-| 32 | [zoomzoomdoom](https://ws.tsl.rocks/players/dd5d73ff4c18afd3eccc333c958e163eac693a08612d83e06d178791d97e2895/) | 26.28|
-| 33 | [Prizefighta](https://ws.tsl.rocks/players/3fb791a83e1e179386e273211a9ea5b0a812d97c677f737ef3ae1258275ae09b/) | 26.28|
-| 34 | [Sefu](https://ws.tsl.rocks/players/6fecb690baaeb876d12df0b8801e7f1a65a003bc41589dec69406386b5b7b4f6/) | 26.2|
-| 35 | [Willie C](https://ws.tsl.rocks/players/5bbdf5c12ff5e0c25e5eb99fcd4f638213c53e830b9e45704bf993fd9850e045/) | 26.2|
-| 36 | [Kasey](https://ws.tsl.rocks/players/6c1c2999155fca88b1124e72a5efcd93ac926069d9a11af135dfc9845ad98c19/) | 26.2|
-| 37 | [ZeroG Bandit](https://ws.tsl.rocks/players/5682b955fe260ec64125b77b453daa64b6c5244f418d2fc0b68e6de38206b478/) | 26.2|
-| 38 | [MrCocaKoala](https://ws.tsl.rocks/players/941e3f8c876a5e91be20a831c251fe5b7c9e1ca129a2d03a7aea49f5ac6a8c1f/) | 26.2|
-| 39 | [dasefx](https://ws.tsl.rocks/players/d79d31c0c295506e5b254b453f7b43733b4475cf4affd77c5b477712130af963/) | 26.2|
-| 40 | [Mahtarea](https://ws.tsl.rocks/players/e101172c1e929ece155cf82ba30e3f8550a310fee9c04e209124b74b4e9cff94/) | 26.2|
-| 41 | [Keyan](https://ws.tsl.rocks/players/3ba8d8652b2b23ff0bf94a9d199d25bb7bd78fa9eef5fda507ef758aca78065a/) | 26.2|
-| 42 | [Syoga65RUS](https://ws.tsl.rocks/players/b2fe05102fba5bdee9ce2f4f554770486ce96ef11db5019e0e44787a24119701/) | 26.04|
-| 43 | [WT4](https://ws.tsl.rocks/players/b8607d1fdbd7a51f21e84d71243639ba4ab9d7422e09a870ee63e07e2bac3303/) | 26.04|
-| 44 | [ДИМА 32RUS](https://ws.tsl.rocks/players/83d9c38e96ec401c3666881ad43008458ec1c4e183eb4ef3ed106ddeeecd57e7/) | 26.04|
-| 45 | [exsimeister](https://ws.tsl.rocks/players/86a99027a4b349da03cb144a7c3020ad79c830216064485ced8a31f5d2250936/) | 26.04|
-| 46 | [TANUNAH](https://ws.tsl.rocks/players/eee841ee49f742ee9788f078dfc5a1cc05121685b4181a18b5582a19100a3676/) | 26.04|
-| 47 | [Шах и Мат](https://ws.tsl.rocks/players/5c9a53f812894857303ea3954639b300873de06e811f2e1cbd2737160ea50bc0/) | 26.04|
-| 48 | [MakJlyxa](https://ws.tsl.rocks/players/5c36e482db50aa4031f6294fa564c8735a30799e55093e49140d4c98edba35b7/) | 26.04|
-| 49 | [YriiGagarin](https://ws.tsl.rocks/players/4aa0d0391b5240b1ebeb82248c85445114492087082b5c877e8f0e9aac8a350d/) | 26.04|
-| 50 | [ナイトスター](https://ws.tsl.rocks/players/203aea39b2ae8cecef36cee25b945c0d9b1e87171ee2ebcdb26b5aeceee51585/) | 26.04|
-| 51 | [draquila1](https://ws.tsl.rocks/players/e0b28a9cdbee9e4ca4d81b08be27a20d353904086b82c2a4aa4ccc6a2a95c459/) | 26.03|
-| 52 | [lurokus](https://ws.tsl.rocks/players/496e6c833d86441440ce6301fc2f892f86a9f8b33bef5201d65cd3fffdb8b9c6/) | 26.03|
-| 53 | [FatTalker](https://ws.tsl.rocks/players/021ecbd83559cc87c5ebf4ac8e7a548bc4607de8239626300cd7d65a33c512c6/) | 26.03|
-| 54 | [Corvec](https://ws.tsl.rocks/players/76f4438ccdf2989aac5cf44ffe9d3159891f719fd91554ea54b1b84010610322/) | 26.03|
-| 55 | [VLͥAlͣkͫ](https://ws.tsl.rocks/players/b094394fb52dda6ef0e043247b0417145aa647c925bb9a6c05f4ae40894c1e3b/) | 26.02|
-| 56 | [Okeush](https://ws.tsl.rocks/players/cfd0a085ac537930a1940b01ead1f2cfbc22c7f141b33eab284881a481ae411a/) | 26.02|
-| 57 | [G.I.Joe](https://ws.tsl.rocks/players/b2b752dad46f60de048c8f68d31754c49e36eea574a41ad26b8f023f6623545e/) | 26.02|
-| 58 | [Vovan_737](https://ws.tsl.rocks/players/5a29912efe7e15e8219263904bb3f5067e1c4cb99800cb89989e200c260c9563/) | 26.01|
-| 59 | [Klistir](https://ws.tsl.rocks/players/e211ee95c2513970304bac1ef67214764eb9b45c4b08bf315029a14891191c24/) | 26.01|
-| 60 | [Ryaven](https://ws.tsl.rocks/players/8317b76ac802a042b9733b2e9fe9b47be25727fdb5a0ca2ed61f86ff5174f881/) | 26.01|
-| 61 | [Хило](https://ws.tsl.rocks/players/05fd5a1f9a8789a56da045e773b5fb8e441998c54877f525c463a4c4e2b36f67/) | 26.01|
-| 62 | [DemosSLD](https://ws.tsl.rocks/players/7504e448ebfbe0db06b114e4be8f8b84d2f272222f23787e3488ed3e1ab1955c/) | 26.01|
-| 63 | [Furia](https://ws.tsl.rocks/players/fe772adb57ef0836ecf2b337fe8974c3738375c166435e10c4e1ee9b8ccb5727/) | 26.01|
-| 64 | [TRUST ™](https://ws.tsl.rocks/players/31be3d8682ee9444946b6a61f886f3c01e970f895d3008d4bc1c71730360a061/) | 26.01|
-| 65 | [D13ANTWOORD](https://ws.tsl.rocks/players/591a5da82d7eeee6f17a6cce5c1fbf5a98500e1314c3904674b8118b176df0b5/) | 26.01|
-| 66 | [vdruzh](https://ws.tsl.rocks/players/84c9ab78784420e18eaeac9656de1e98bf743d2476b1ae2ab5f376450ec71068/) | 26.01|
-| 67 | [✴☄⚔SergLord⚔☄✴](https://ws.tsl.rocks/players/cc8daa3691e80f48cad95bbbb371fd0e5c02526ad3a20a4972b95129c24ea870/) | 26.01|
-| 68 | [AkselM](https://ws.tsl.rocks/players/51298bf887acb1df3647423acd694603b00eb7617147566003c16520d1ec0177/) | 26.01|
-| 69 | [God_of_Death](https://ws.tsl.rocks/players/275d23be76dcb9fadc3dd7465d22b60256b497251267533a85a31282627c2e28/) | 25.99|
-| 70 | [Archenzo](https://ws.tsl.rocks/players/5f0f2cc35f1150f078c7e346e1749dbe05467a776082316f318a0cf8f08cb676/) | 25.99|
-| 71 | [samhandwichson](https://ws.tsl.rocks/players/c2cd71a5e810af32d0da180d73f25a8b0843917a5ba780ee8347f002b8a867fe/) | 25.99|
-| 72 | [LegitWrecker](https://ws.tsl.rocks/players/cfcc23583b96d682c7b4c72601553c75b36df227d4c8c17dc51bb1a0b58277f0/) | 25.99|
-| 73 | [Viperisback](https://ws.tsl.rocks/players/83db06886bc4f2cd68397bb726da5d7d30fd6455d01ab7425bc81102e54f502a/) | 25.95|
-| 74 | [crashed1001](https://ws.tsl.rocks/players/2f0794ba0d65357094b8d543215118a83b706078b198390e012f0557a7e428eb/) | 25.95|
-| 75 | [shers](https://ws.tsl.rocks/players/29adc784f5d4641ae9574b460ed0db449ae697802a085364e3f7deb5c272a89b/) | 25.95|
-| 76 | [MrAlGore](https://ws.tsl.rocks/players/000e14527b0051422e8399c98d65c02460657b0133f9ac81723ccbf8bb174249/) | 25.95|
-| 77 | [assassin319x](https://ws.tsl.rocks/players/7b31a0265b0aa791e885d19a0832d401c437fa40f55e7163f5d0733cc59c3e11/) | 25.95|
-| 78 | [Daclaw](https://ws.tsl.rocks/players/c95be9631fbb36173dd8746912ad2924c5dbd8eb50160985878740895627981f/) | 25.95|
-| 79 | [Whiska](https://ws.tsl.rocks/players/a34c5fe5493f1e5e0d772a4f4f06918a265ae35e24182aae9fc2487ee708225e/) | 25.95|
-| 80 | [VoodooCrawfish](https://ws.tsl.rocks/players/323da44f6f99b3665298e11d54bbdb94cd66057066db0338cfa16daf5eb0bae1/) | 25.94|
-| 81 | [08jordanc](https://ws.tsl.rocks/players/e62a529b2a6a065e00b7dfc82736a3905598d41447865546dcf76584d5c0e068/) | 25.94|
-| 82 | [Hunr3n](https://ws.tsl.rocks/players/cdd073fd7275a2d88f1c9a9c350f786b9b3b0e219a71838d2f2532784bb46bab/) | 25.94|
-| 83 | [***](https://ws.tsl.rocks/players/101bb27ee4e6d6d2fc0a26339841fe9bf4e8aa2cfb0de87abe29252d751a9fa5/) | 25.94|
-| 84 | [xenozex](https://ws.tsl.rocks/players/65b5b283dc7600747912971841008a4911d6337c0097d9ca370b4664aa6ab37d/) | 25.94|
-| 85 | [landstar](https://ws.tsl.rocks/players/80baab2d9fe2532b988c24f7d6a902d7f14b8463aa010f899588e012619a94b0/) | 25.94|
-| 86 | [quevesman](https://ws.tsl.rocks/players/7a99878bc3a5b3f84dd968a4573c732d209c88dc79906b32532d646e5b5e0608/) | 25.94|
-| 87 | [whoabeast](https://ws.tsl.rocks/players/4714b9bdd9a5fd252575a36411a4e67ae77a1870e1deaf9266f19cdb3c436277/) | 25.94|
-| 88 | [Orion](https://ws.tsl.rocks/players/ec2037030819bac80ba975d796710ee170902a622e0d5ad49680a78e6e34c03f/) | 25.94|
-| 89 | [Nexus Defender](https://ws.tsl.rocks/players/791372dc080783afbf75b459de123e2311b622bdd39060011bf1c4cd6569974e/) | 25.94|
-| 90 | [kirs734](https://ws.tsl.rocks/players/6616164712829d64d56508336aa8bf6dc7b62a8a20b1e91a15e91c692576aec8/) | 25.94|
-| 91 | [MaggotPhRo](https://ws.tsl.rocks/players/9458079578d49e57b7b01f71e98f92c65cbf8eca0da84ce6aa0dd35340dcab22/) | 25.94|
-| 92 | [DrMineword](https://ws.tsl.rocks/players/3d769addc40f624babdf7e468a72251069628c077ba89e7b426f9f8396ea44c4/) | 25.94|
-| 93 | [The Red Defender](https://ws.tsl.rocks/players/2ab2384a72db5154a27dc79008499511c91a521c521593aa6533b4935f3cc533/) | 25.94|
-| 94 | [Mulan](https://ws.tsl.rocks/players/b99489f837bb3dcc430dcc6ea5bb826ac95f2cdefeee1f9dab0c5c2c2a4cf463/) | 25.94|
-| 95 | [NoApologies](https://ws.tsl.rocks/players/d19d3ddc8861c79098ba8e3a8c712f2f605e95090b6f15c8d36bcd3579a3fc4f/) | 25.94|
-| 96 | [BörkBörk](https://ws.tsl.rocks/players/45a9069b770c69e1a8ddf8baca41fa79d9cf09c22611f97261bba34bea2fda38/) | 25.94|
-| 97 | [kirs734](https://ws.tsl.rocks/players/cb4ab1bb15a047032a3b97505d4c8f17c342a9efde3a9efac02243dea20daf84/) | 25.94|
-| 98 | [BörkBörkBörk](https://ws.tsl.rocks/players/3b98869bdfad2c3edf88ca2a8ef083d4971983405ce3fa349cb04e3ca708ef33/) | 25.94|
-| 99 | [SlAyER1](https://ws.tsl.rocks/players/3e1f1c761748e1b75e5b620ed8bc6c5c9a7d82473b900328dc633ef61508112f/) | 25.93|
-| 100 | [Neitsabès](https://ws.tsl.rocks/players/d66152ae55a4b4dd3d2262bd2a0029a305a250769109bb38f801419f74691e26/) | 25.93|
-| 101 | [COMMANDER VARAD](https://ws.tsl.rocks/players/80aac9a608b1a25eb26e10db7df507d94c4a6115ed2ab6391ecfce86501547cf/) | 25.93|
-| 102 | [Salvor](https://ws.tsl.rocks/players/9f12de54103d8874deb9058bae584e70f6e32092a2122002830366cd7c8341f1/) | 25.93|
-| 103 | [Reaper](https://ws.tsl.rocks/players/2fac1ce598ea04824e3bee740d4d20687a82e0a8a94ad8ce9b576a15b19a1b52/) | 25.93|
-| 104 | [Apolo](https://ws.tsl.rocks/players/b53c82a2d87074b57487af6813f1b9b7988079acc517baf5581ceb4a57db84a4/) | 25.93|
-| 105 | [Sairaj](https://ws.tsl.rocks/players/da339b7f1ef494e7148bc65bb4cd7909b00c121512f66222220d6898c4b25905/) | 25.93|
-| 106 | [DarthWolf](https://ws.tsl.rocks/players/798c67b2fbcb1ede5e39b4517dc3d3e9dd86ed3b46e7dd78b83251d3ac177997/) | 25.93|
-| 107 | [nameless](https://ws.tsl.rocks/players/242b86ab3e817aba007b6e464e1cea05179a4b97f8eace5009b400217b8f342b/) | 25.93|
-| 108 | [FROSTBITE](https://ws.tsl.rocks/players/5cfe62a04f1ebbfcbe908a8a3cd7e84ed0727b23367a87c44ca8c155359d5c69/) | 25.93|
-| 109 | [苦蓿](https://ws.tsl.rocks/players/157761e74c573055a9b4a73db6c6a6372a599b08018fc1b118a1753d4ee5da03/) | 25.93|
-| 110 | [YourPancake\|>д\<)](https://ws.tsl.rocks/players/d1e645393c7373077d6c7e2ae15a35e737716ddb83963bfdf63a9036502b247c/) | 25.93|
-| 111 | [雪白银狐](https://ws.tsl.rocks/players/124045e95cbc53bfb7d2cfc6ebdd93d1348c965a3ef49de65c2e824d525caa0c/) | 25.93|
-| 112 | [枫咕](https://ws.tsl.rocks/players/92893420f32e655395026fc72c0ea45c320a0480d9f2c96d600f1cdc8d117747/) | 25.93|
-| 113 | [苦玖](https://ws.tsl.rocks/players/3759b6c43fb06570c72554d9f908406a92692221bb02946f5e7e4221f2a501a0/) | 25.93|
-| 114 | [琉璃狐](https://ws.tsl.rocks/players/77c2c3a6a77a16a72d9e80b5e84a87d6509866e00bdb2df196f2f32e7a413cfa/) | 25.93|
-| 115 | [查理查理查](https://ws.tsl.rocks/players/15c5e66a4522d04fd53621170aa0268f86a1c7320af8278394381ea116d808dc/) | 25.93|
-| 116 | [乌圆烨](https://ws.tsl.rocks/players/64d42f8d490aeef235304dd302710e42b60e7d7b879caaa68702c5beaa7809af/) | 25.93|
-| 117 | [辰砂Cinnabar](https://ws.tsl.rocks/players/71d9a987ac82a8e2b10ea2ebd1ce03b357679b9fc628abede1ddce9bd713a66b/) | 25.93|
-| 118 | [玱清](https://ws.tsl.rocks/players/91da95f3c2c96405cd62b171a6e659b745ef27b5be735d9f26ee84aa9d89dd9b/) | 25.93|
-| 119 | [Mythical Hot-Dog](https://ws.tsl.rocks/players/72028b710482c636a5f5f96d7f020b570f2e12f1a1df3bc7e402e597d3a15930/) | 25.93|
-| 120 | [asp7yxia](https://ws.tsl.rocks/players/37d02865ba34b45051b13dd720221886d5cf1683c7c98abd6d559ccc32db8934/) | 25.93|
-| 121 | [Carangloss](https://ws.tsl.rocks/players/e3e00cb24bf0793ec6b537b10b7d68d41afa981db875b1680553be279cd669f0/) | 25.93|
-| 122 | [SilverWolf ](https://ws.tsl.rocks/players/0b015b2e80dae72d82a0ed199bbaeef98f2474d297282c9a48786a39d4f6d40a/) | 25.93|
-| 123 | [Orion Sacuroa](https://ws.tsl.rocks/players/2f7d639f193537581084a09b312d947553d099a71e38bd5cc335c3dc09081bc1/) | 25.93|
-| 124 | [bsquared](https://ws.tsl.rocks/players/a13264602ae89e1521e5fc3242e3affca658a4fb1b72856e1eddf240efdc6aec/) | 25.93|
-| 125 | [SamKay](https://ws.tsl.rocks/players/146753ee8f28a5fa1dc7cde1f1c3c3e19141e32b54bdfd1c2f37e76381d2fdb2/) | 25.93|
-| 126 | [Map Hacking Kid](https://ws.tsl.rocks/players/a3998e6f329bf4067a6fd8c3df1da8919d46d294f8af482310bd4638ada97768/) | 25.93|
-| 127 | [Funk](https://ws.tsl.rocks/players/fb311bdfd269600f58420dd5dad6002465c86e6244d80ad261fddcdbce761945/) | 25.93|
-| 128 | [SergeantPeter](https://ws.tsl.rocks/players/9064585a0a07fd8da034a0ed1aa7a7fa772382c654a432e49d646984c7c5b94b/) | 25.93|
-| 129 | [PrinceOfTheAbyss](https://ws.tsl.rocks/players/e79baf11de4e6aab8f01d9c6d45d362941ce4035d9be504bee4d75aa5dd85b1f/) | 25.93|
-| 130 | [Citizenband](https://ws.tsl.rocks/players/0ca3a9fdcd68eb38da396704f8069ddd5a0bc98c2b6e4599844e806202325ec3/) | 25.93|
-| 131 | [Mentalfloss](https://ws.tsl.rocks/players/e165f23aa710bdffb40bfa13d17c666dcaf8a53d16fede0cf7a7412689f55390/) | 25.93|
-| 132 | [CORREGIDOR](https://ws.tsl.rocks/players/66d549783b0aceb259d29ed97c9cba1c9275ae880565dccaeec1a0f232984ceb/) | 25.93|
-| 133 | [[DS]Master Aid](https://ws.tsl.rocks/players/6da3f75b0bb04b5b94a36a35ffaacdfaafcabde3a68f18429ba253d5c46a4761/) | 25.92|
-| 134 | [Olsin](https://ws.tsl.rocks/players/856f57463b162990292845892e4c508c34d98e70c4bf748a06fc5070f85074b0/) | 25.92|
-| 135 | [DirkWiggler](https://ws.tsl.rocks/players/dd9c636060ef03788cc3817a264f46db6f38476a05a4eafe669d4919873e4cfb/) | 25.92|
-| 136 | [0xunruly](https://ws.tsl.rocks/players/467ed698890c8734041adc1f760601d451fd69c44022f96aaaabac4a63ca6354/) | 25.92|
-| 137 | [Bear](https://ws.tsl.rocks/players/8439c3f3440aa4975301accd0aa6906eb7ed266114a326b81fadee39447e5b1c/) | 25.92|
-| 138 | [[DS]Aid](https://ws.tsl.rocks/players/249dfbf4f46aed4ffade8d6424f8d4807061ad99deefc937ba8fd7f75e722bb6/) | 25.92|
-| 139 | [Aldo](https://ws.tsl.rocks/players/19d16971cf94b542acfe8fcf5b705bd9d9d08cfe1a6973467fc03a52142d6575/) | 25.92|
-| 140 | [Asiphia](https://ws.tsl.rocks/players/cc82cfd1c8c037c0be0caaa9233d6eebe6b7b2f936a5f6a285244a8361ae861d/) | 25.92|
-| 141 | [Váhrmïr](https://ws.tsl.rocks/players/51e9531c16a81e74735c994f0ba88af5d73c822d16a759fd1fa5f2c3e27c1814/) | 25.92|
-| 142 | [[DS]Master](https://ws.tsl.rocks/players/e24c6002531e50e116e4ad84cdf6d7e853ceaa87a9a61709162ede2ebea7e6e3/) | 25.92|
-| 143 | [Князь Света](https://ws.tsl.rocks/players/20b281fffad1d4dfe3f6bb303e19e42f179fd153d9a688a1feb48bb84ab81128/) | 25.92|
-| 144 | [OverLord](https://ws.tsl.rocks/players/b67957028e115e1f2b0bcb6990adc922dd8ab1ede0f42f9acd6f6947ff6e64cd/) | 25.92|
-| 145 | [AmazonkaNN](https://ws.tsl.rocks/players/9bf2f418d94e85d03062e235bc576914c478c3e5884e42e3d371c8caea428197/) | 25.92|
-| 146 | [^^YaHOo-ярю!^^](https://ws.tsl.rocks/players/31cbaf17b2f9c4afd28febdf8ce89299be59fb78519c94fdd9d8c366109d9c8d/) | 25.92|
-| 147 | [maxaraji](https://ws.tsl.rocks/players/7d61cd4900dc05b9b9ce42fabfdc6ad4e583c36861f9857bcdf91a72e257230e/) | 25.92|
-| 148 | [tolik2706](https://ws.tsl.rocks/players/8455ba25ac57ed8ea806c6cd48433acca63e11c31ac37339c0a751693bddef9b/) | 25.92|
-| 149 | [Tokpay](https://ws.tsl.rocks/players/4a45275cc9d810a628b8086ad86c740c6503c57bec4ad96408490066caac9665/) | 25.92|
-| 150 | [Ангел Хоронитель](https://ws.tsl.rocks/players/a8d1920aec451d9f41e7454ed2323d78d305ea12c43ad358b26bd9d7c6faf2fc/) | 25.92|
-| 151 | [⭐YaHOo-ею⭐](https://ws.tsl.rocks/players/bd9083d74c04ec93c1c6f9291843fe7f4f664846dc6ca72d76fc3b061c187332/) | 25.92|
-| 152 | [Ardjony](https://ws.tsl.rocks/players/fca65e4929d2b72671987226796bfab022e413970d1fbc790436b2e695ee86c5/) | 25.92|
-| 153 | [DrDitka](https://ws.tsl.rocks/players/ba7698438f6c5eca78afcb064c9255caf39d8715e5875382a77e43bb4f301f70/) | 25.92|
-| 154 | [Mitch9192](https://ws.tsl.rocks/players/468cf6ce92c4543bf83f7edf0f0058c33a90ad513d7adbc075056fae2eee97b3/) | 25.92|
-| 155 | [foglem](https://ws.tsl.rocks/players/6aa39c7af782eac4923e53df654355e8edd6dba403008198fe2b61deb1758db9/) | 25.92|
-| 156 | [TheSF8](https://ws.tsl.rocks/players/bb8311ab2288ba09b46d764423525c87dfb552875b560cc1c8e252c809131641/) | 25.92|
-| 157 | [thefolkmetal](https://ws.tsl.rocks/players/172dbfe30407b084f508295547d4b9b43f63523cba0532cccd29bc5bfbe0eb62/) | 25.92|
-| 158 | [Buffalodan](https://ws.tsl.rocks/players/5a69b7d98692555cbab48de76c6e14b0e1d2cb59dea915a847f3bbe2af9941bb/) | 25.92|
-| 159 | [VinnyGoombatz](https://ws.tsl.rocks/players/a12a78254768b08265d2dadf4dd9d7ec9d734b20524ea76b2662940eb39d1d71/) | 25.92|
-| 160 | [Gerrg](https://ws.tsl.rocks/players/1f228c2b64a64bd603d686445a025ed098fd43e653d22e85a6b8345ceef80f13/) | 25.92|
-| 161 | [19Heif](https://ws.tsl.rocks/players/a789af4c6322e75bb40f1b463f73ef31663714101e03848fcffa7586db62d195/) | 25.92|
-| 162 | [Speedydano](https://ws.tsl.rocks/players/8f7da06cb3fcc8d035e131b0dcb5e3fd0e68eff83c5d9efe0d0c351d9d8af5af/) | 25.92|
-| 163 | [Milambertech](https://ws.tsl.rocks/players/7ae88297f4fa78d4e0ee63b1a8494682afe8adbf8a82ac5710f6a7c42a3249ce/) | 25.92|
-| 164 | [Moin](https://ws.tsl.rocks/players/d618ffab9e7a2c0f2bcd4de96001dcab5b27963bb1cf6e3922b6c94ce9c780a1/) | 25.92|
-| 165 | [milambersys](https://ws.tsl.rocks/players/f2114abc33295a21020c75ea887ec24cba0ace4dee2a06873655e2cbc7d9988a/) | 25.92|
-| 166 | [milamberspace](https://ws.tsl.rocks/players/c0ace0cdf2396b0fc32828f3449d3df651b51b9c8ca577008133fa09ac09f05f/) | 25.92|
-| 167 | [Kinothi](https://ws.tsl.rocks/players/610a51e04dd21a8eb23b07e8bfbfb98a5c29a9e7ade01ff49f4c8b8cc47419c0/) | 25.92|
-| 168 | [Lola69](https://ws.tsl.rocks/players/aa25d64f80309fa21da587aea4bba0f645a5d8853e0daec6b964a5c4c2222316/) | 25.92|
-| 169 | [Moyn](https://ws.tsl.rocks/players/7682437e49e1cb3a7f80044e7d5714eb8559a19e74dea3b87a400b3b49c5582c/) | 25.92|
-| 170 | [Little_Kill](https://ws.tsl.rocks/players/f715412712a86e7b205fcde7ef57e4ed80d034df14f5c421b660e4d25cbb7bad/) | 25.92|
-| 171 | [Argus](https://ws.tsl.rocks/players/a50e486567ec5d01334331300483e105c030fe270e36349c41a6652c2e0b7496/) | 25.92|
-| 172 | [Senitia](https://ws.tsl.rocks/players/419ddcf95d26c8d103c2b5d81e1abcf8653fc0d1523ec154437e5f6ed0d64f03/) | 25.92|
-| 173 | [Kermit](https://ws.tsl.rocks/players/a8c4c597be808b18babaf89f2294ab6f4c9c07fd584b1a1e00c9c73e594454a4/) | 25.92|
-| 174 | [[BZC] zMaX1Mosz](https://ws.tsl.rocks/players/71960dc59868293d01cb6ea62ef4d5ba0fa37a15f333cfa3b8de6967caba0689/) | 25.92|
-| 175 | [T. Fersouza](https://ws.tsl.rocks/players/cf0bb8e14ac9c1cc0446c043a9320081850b86b86cec77a781f7a7700c84fb4f/) | 25.92|
-| 176 | [[BZC] DiogoMFDS](https://ws.tsl.rocks/players/7ebc93e5cc65697e64a6aa38189de8a4374f7ffa4fbdc60bf02bf1717d5499f6/) | 25.92|
-| 177 | [Pão De Queijo](https://ws.tsl.rocks/players/f9d88d3645f3ae47c16217fbc0e48e4b455e77f87a75aa70b1b4b0ac28a39e27/) | 25.92|
-| 178 | [Pégasos](https://ws.tsl.rocks/players/b0856076fd8ab8f8dc020f1504b063fa336ce14a3b995724b77da4c3431e2d8a/) | 25.92|
-| 179 | [Dragaurus](https://ws.tsl.rocks/players/8c003bd2d6265d1b621b7193ecedb07114c425573c4f1b003944445f9fa685fb/) | 25.92|
-| 180 | [[BZC] Cruz](https://ws.tsl.rocks/players/db0e7bc0b6f04fda59695a235b378722f2555883c564ef47d62900d2dbe30f56/) | 25.92|
-| 181 | [kalls](https://ws.tsl.rocks/players/939d2c4f2f3524e9ce88411c7cf8bfaaef0a244d93be2db8fdea0a46f6b0e05b/) | 25.92|
-| 182 | [BulletzBre](https://ws.tsl.rocks/players/a1153f3e1fc508c60a68842729ab4db1efdbed04f2a5476d37fba61e750d84c4/) | 25.92|
-| 183 | [DiogoMFDS2](https://ws.tsl.rocks/players/adb0d0e3a11ddc36212e5b27b41b233ab2ec2b62914f641fb238b3b239d7d837/) | 25.92|
-| 184 | [Petele](https://ws.tsl.rocks/players/5a497248549b17672a908323b48d44f3f6fe981e5aff4ac3a7916c2da5980e92/) | 25.92|
-| 185 | [Maximilian94](https://ws.tsl.rocks/players/2327f58ee64242f351eca31c23bc426392ceb66847c825b23dba3f86a6f8fa90/) | 25.92|
-| 186 | [Darth_Niko (URU)](https://ws.tsl.rocks/players/5e2cb501bd8181f7fceec2ddbb4aff4a581dcfd10ed365b08ce82ea8f68563a0/) | 25.92|
-| 187 | [Zeros](https://ws.tsl.rocks/players/dcf1016ef08b7f489df733fd8820bad46a4e23e5137198b0fb323f57160fa59b/) | 25.92|
-| 188 | [ZetaLander](https://ws.tsl.rocks/players/41bb01bff2f2f65899dfb4f40e508594cef5d5e376a22e6daeeaec6ed1069539/) | 25.92|
-| 189 | [EspejoOesed72](https://ws.tsl.rocks/players/0658632cd07d9682b5b2ac9c74e974ece82942ab9cc9567d2137ca5ffeb22961/) | 25.92|
-| 190 | [TheRealweonCosmi](https://ws.tsl.rocks/players/db9d47c613e0d29f9248effc7589c5b81f8f08807809292c2568febde0544e99/) | 25.92|
-| 191 | [Pollo Alpha](https://ws.tsl.rocks/players/7faa5abcaf00ecfd1f443025b4b629cc221a140c03234ed0896ed34c1f588f00/) | 25.92|
-| 192 | [elgonzatur](https://ws.tsl.rocks/players/b1477472c522e39d8e5fa6b03b0fad164b6013339c5d4119f58a658c0c5185d2/) | 25.92|
-| 193 | [CrimsonStorm](https://ws.tsl.rocks/players/1b1f01dd33fde68f72a871f46b6f6ba0f30e1c89d7908dcc8de4194306c5db20/) | 25.92|
-| 194 | [GAMEMODE PLEY](https://ws.tsl.rocks/players/502456336d4be2a5a099ecf9aa29079c69513fc1325ec435aa2683af197c4f60/) | 25.92|
-| 195 | [AFK](https://ws.tsl.rocks/players/ddb924e27f5619c77d566e8b9f4dd9a300d7e971eb774802fc340a59827b3bc6/) | 25.92|
-| 196 | [Thomy](https://ws.tsl.rocks/players/aaeef1243be61e1f0efa05dc7b2b19e25a4892585c0041993f2966c07ed18803/) | 25.92|
-| 197 | [PhantomAssassin7](https://ws.tsl.rocks/players/8ec4bbca30f4d666340e6dc481bc27e91eefecdaf66aea9f98d0c91f08a4ccbf/) | 25.92|
-| 198 | [Nikolas205H](https://ws.tsl.rocks/players/6e83b4fe229ae3bcf41cd4d6122b6783e4e872893e10556eb97db587551d7822/) | 25.92|
-| 199 | [Zhora](https://ws.tsl.rocks/players/a4961b5532ce671f88d3f96b3c3e7b1f23be82cbe5d25758512b61a7604775dd/) | 25.92|
-| 200 | [Thane](https://ws.tsl.rocks/players/c804a9406f9d9a84e8a855c4b41941a52c90a097aa48531ce4787c0f2c860a02/) | 25.92|
-| 201 | [Penetron](https://ws.tsl.rocks/players/827d51ac0a7d67704919a4f17e58f84c17487f6b4270a8257bb4cf307a226d26/) | 25.92|
-| 202 | [Solo](https://ws.tsl.rocks/players/b77ab8704e28bf4d2a429d9ce89d8600b6f080b26f06992b913a6e3c4411b605/) | 25.92|
-| 203 | [Kelsomi](https://ws.tsl.rocks/players/6ebb069a67bf2fe3c1663dc04246ff5b52353374eb6f7fd5e39f9fac676a0581/) | 25.92|
-| 204 | [mitch359](https://ws.tsl.rocks/players/1a6be64c31379e43bb09a862fb24951babcf9470ad0f3358f4e19c820d3ef179/) | 25.92|
-| 205 | [Tyron Brandt](https://ws.tsl.rocks/players/573024688a6c65022077661f5e92ea29f69e7a212850f86e4be94fa3bed5c51e/) | 25.92|
-| 206 | [FerrusVectrum](https://ws.tsl.rocks/players/7f4a8acb715815be8595feded47f3337d8f7637e478d6e112d6a7894408dfaae/) | 25.92|
-| 207 | [Drew](https://ws.tsl.rocks/players/b2c4ef8450e3fb40f419d1565d2d12d51e7a31971feeaf1ce7f5157e23e6901e/) | 25.92|
-| 208 | [Kratzkronaut](https://ws.tsl.rocks/players/7393fefea243be6186f0d4cdcf08379495e25ebecc6567ce3f9c5c0c26b9af1a/) | 25.92|
-| 209 | [Bilbo](https://ws.tsl.rocks/players/5dda1bd293e59a223b8c9c94801c4a50513ab115abfaa35eaf19a71ebcc3dd66/) | 25.92|
-| 210 | [Global](https://ws.tsl.rocks/players/aca1db8040c463a1e65dbc4bc1e4eee4bdd9c96ab77447ea116f3a599cb76c3d/) | 25.92|
-| 211 | [Uli](https://ws.tsl.rocks/players/d213f8076682eb339ae874bf32b41896284d88b1d33f4fa3c04a2c1d3499fdc6/) | 25.92|
-| 212 | [sposers](https://ws.tsl.rocks/players/d0e900a41c6d5f71a71140455365903c57cdad8c33e22713703b7e20782dddc6/) | 25.92|
-| 213 | [Blacklisted](https://ws.tsl.rocks/players/4b15c4f240062efc31c735262bfd4dc215a27399795f4e97cf0a74044d627fb5/) | 25.92|
-| 214 | [SparedWhistle](https://ws.tsl.rocks/players/99ad278961651570b9a426bd85c31c380334faaeefcf94a1fb9bef86e490bf26/) | 25.92|
-| 215 | [SGT_Slaughtered](https://ws.tsl.rocks/players/e76fe3853c008d421a2d3909bc54193fc61c767cbc0611293b3c63c133cfb807/) | 25.92|
-| 216 | [Gen. Capican](https://ws.tsl.rocks/players/9ec9e96c4f068ae1f96f5c4f7c426fc79bcfdb4975238cc275f99a03e4969619/) | 25.92|
-| 217 | [Crashed Tater](https://ws.tsl.rocks/players/7ca5f17f57941d300851a6d994aeada302a7d1a03c3eaeb5b7fcc4333b982f3b/) | 25.92|
-| 218 | [Valenvaryon](https://ws.tsl.rocks/players/6785a9fcdaf0ee55deac626f1289df6b5915398bf3b24ded819b995294978692/) | 25.92|
-| 219 | [Dyminus](https://ws.tsl.rocks/players/992dfe28659e4a96e350d9c9919823b471d47e571eb1d2c56ad596a2d97477a1/) | 25.92|
-| 220 | [Admiral Palleon](https://ws.tsl.rocks/players/950cf74d8e77f16ae50d1822b9cddd9311b187100facaaf9254abb8a3bcef8e7/) | 25.92|
-| 221 | [vital-Feger](https://ws.tsl.rocks/players/46035d1ba1daadfd1ec7d9712607e6bff00697e44f679c04088e600050e2b305/) | 25.92|
-| 222 | [Legendary Blazer](https://ws.tsl.rocks/players/893f535651befd9df805a66627ba2a0fc6bb0ee8a4de28694b9e02b33c342d96/) | 25.92|
-| 223 | [noname#1](https://ws.tsl.rocks/players/0e942f3da0421d1cc66140d7a371c6b6c892322e423bce2777f76885466edf35/) | 25.92|
-| 224 | [ME](https://ws.tsl.rocks/players/68675baf37d39027b416ad27772ca9ccc7622324224547e37edc30f9cce6e1ab/) | 25.91|
-| 225 | [New Genesis](https://ws.tsl.rocks/players/48ab8e32ab8a91d180da9df826db5365d88668365a1151f35724853f03a7cf5c/) | 25.91|
-| 226 | [General Pryde](https://ws.tsl.rocks/players/dbd002d307623879546646214d48c82c0dd6bc0cf7233d4c5deb308ec6f71044/) | 25.91|
-| 227 | [Flinx](https://ws.tsl.rocks/players/dec7b52d18e35c61c83dd86130104e2e9891fb7f18ccb12dc8193895a68d2a54/) | 25.9|
-| 228 | [Jim52909](https://ws.tsl.rocks/players/f43f8e3a134cdb4a60387b89a7827ddb1792d5beff3890b4d2f32058856d854f/) | 25.9|
-| 229 | [SE7EN](https://ws.tsl.rocks/players/5d664b549fe70057d8dbd39affe977ec01c7df97eebf28562fd02f58d701e493/) | 25.9|
-| 230 | [LeonineAlpha](https://ws.tsl.rocks/players/4577814f50c1c54725ed523b2659ee718857b42c1ed75c669ad0ae2955dd9932/) | 25.9|
-| 231 | [jeprox](https://ws.tsl.rocks/players/baac16ea7db72f713361909f37066b839b6090aeec7d8b98a1731a1c79ad3235/) | 25.9|
-| 232 | [_rK](https://ws.tsl.rocks/players/ef514c0a524bc37d45a32e7c3e0b94bae3120ca1e5936307e68ed97da2643b33/) | 25.9|
-| 233 | [Rustybus](https://ws.tsl.rocks/players/902600984ff342ea217046013c0222fb9d2e0588e656922ade0fafd1a29f43f6/) | 25.9|
-| 234 | [Galaxol](https://ws.tsl.rocks/players/1265724861eef190b2d40a49a4a25a3602dbdb14d2eda4fa605932cdb8fb58a7/) | 25.9|
-| 235 | [Centrius](https://ws.tsl.rocks/players/e5003a5f7b3c2e3ab359cc3a65b1bbf8d511a88520c21922013c49ac0dd1f88d/) | 25.9|
-| 236 | [Iltschi](https://ws.tsl.rocks/players/5aeaf28b4d0f8a5c4011586181b93861f2f3dc8b38625c582d6b40833900f14f/) | 25.9|
-| 237 | [RAD THE IMPALER](https://ws.tsl.rocks/players/a95e27601f7a222b5f4a063a68f734691ef4295f0d6feeabe1e61df4e64c2be8/) | 25.89|
-| 238 | [Lt.Fluffytail](https://ws.tsl.rocks/players/aa289b9ee9b0493cfde8284cb6fb617b28e7e6024c471b82d0d7c17bf3a464be/) | 25.89|
-| 239 | [the 4D people](https://ws.tsl.rocks/players/061405b3a39a2c7b7de80d087e5c59751cf38fef3590ced23a65395724c3e95a/) | 25.89|
-| 240 | [人机](https://ws.tsl.rocks/players/b69091eb8fb06188a2f95be88580b4e743266952b524dc2ebf294a4fb0e3b6d2/) | 25.89|
-| 241 | [RazorChamp](https://ws.tsl.rocks/players/d4d03aab702486749fbb4ff1c510ea74e485c20902cdcbd735b00d2748158771/) | 25.89|
-| 242 | [DavidComander5](https://ws.tsl.rocks/players/c70b77fdd3df961accc450420043f5645c3841b45f627bcfe496142013052eb1/) | 25.88|
-| 243 | [Skyfall06](https://ws.tsl.rocks/players/cda2fdc44dc90da4c53529f0854bd34e2f545d3dd1351858c3d34ac7013eeb51/) | 25.88|
-| 244 | [Jager](https://ws.tsl.rocks/players/9042950b8630d299bda9aaafaaa50aaeb42f743dd051cfa1fdd002449a23438f/) | 25.88|
-| 245 | [Maxthonت](https://ws.tsl.rocks/players/a245321d4b5af51912ab808596fc0085abfcb2bb32e5d556d5391c29d0f5c847/) | 25.88|
-| 246 | [Friner](https://ws.tsl.rocks/players/70e2d9c7f309675e864fa5fb2c9746dcd557ff28ca7502b207cadb5f5777f1ad/) | 25.88|
-| 247 | [Khairito](https://ws.tsl.rocks/players/ef9e59a1c40e496cf4d169ac6493576ea2ff9ec3bb4e8267712ab60666ea680d/) | 25.88|
-| 248 | [ᵗᵐFantasma☯︎](https://ws.tsl.rocks/players/39f3a8cc4065b17687fcf8975c54024abd29364502dd35cfb33c069852a2d4ed/) | 25.88|
-| 249 | [HKDamian](https://ws.tsl.rocks/players/36af909eb85cc65673af1ced797c864e254f54d66043c8e66487d3367443f793/) | 25.88|
-| 250 | [DaviB50](https://ws.tsl.rocks/players/c1d5e73b3684bd784cb8010d798364bcb6c55460887f952f91173bd34e288f46/) | 25.88|
-| 251 | [Zack](https://ws.tsl.rocks/players/458c2d728c2d61a7f0e493dcf81bdf6a49a646c6766da7df5d48ec9809a65448/) | 25.88|
-| 252 | [SNOOPX01](https://ws.tsl.rocks/players/c0adf3dffd5a1de4b9ae0763384e5416dc69b6de93dddf58cedf1b28a612f963/) | 25.85|
-| 253 | [Joelle](https://ws.tsl.rocks/players/920709fe55644278fade7261232ab6199b491f773ab1350c1755cbe25d017c8d/) | 25.85|
-| 254 | [OneG Bandit](https://ws.tsl.rocks/players/3c708b6d90d7054a0192bd5d6f4f090cf29da1ec2a92dd44ad413d7630d5d260/) | 25.81|
-| 255 | [Jumpshipz](https://ws.tsl.rocks/players/81aa1f43d9f3888e266fad737dbcabe03a2f080f40b59549eaae7220d405a8da/) | 25.81|
-| 256 | [Ironhead](https://ws.tsl.rocks/players/9c0c84eff113c3928e8d1108d8b0acecdd5e7a8a887f6865abacaac4997d32dc/) | 25.81|
-| 257 | [ƁƐƝƝŸ Ģ](https://ws.tsl.rocks/players/c6f6d929236403cad3b3233447646f4e67dad5751731ce06f90def029eac2e13/) | 25.8|
-| 258 | [Kinamar Mossbe](https://ws.tsl.rocks/players/69407b76a7fd1b98102c68fc88b324a0a53a1a916bc0afc8f0440b0d4ef40fb2/) | 25.8|
-| 259 | [Kelux](https://ws.tsl.rocks/players/af1cb8dcca78c4ee9a28dc1d75583ea1ae188855a722d7f07c67223e0adcbba4/) | 25.8|
-| 260 | [Kermit](https://ws.tsl.rocks/players/527d5e3778f10fcf840eb9a2dbe0a31a43691ce8120eb5f0a78919f25b8f0699/) | 25.39|
-| 261 | [vagabond-muse](https://ws.tsl.rocks/players/952aceb0cd40770d53a850c1c83b0a3dc5805e90302c643664bb0c21294dfa8c/) | 25.35|
-| 262 | [Takotys](https://ws.tsl.rocks/players/a61c0977f7e729897a72b5bed97acc7e47b93ccfb6ff4fdbb183dc4e2423f19f/) | 25.35|
-| 263 | [Wild Bill](https://ws.tsl.rocks/players/b654ff449e801448a36df59ed5a5473bf42cd9f33369676baa11bde5dc8d429b/) | 25.35|
-| 264 | [GinormousMonster](https://ws.tsl.rocks/players/2c6e0f7800cfdc561c414ed2f9f5432f7a6a85e3af51f26f2d8fea46c5dc4557/) | 25.35|
-| 265 | [Kelmorve](https://ws.tsl.rocks/players/d575ab71b156f8843d8bbbae118ea691fbc360053f583fd77a8993a964cb0ebb/) | 25.35|
-| 266 | [Odin](https://ws.tsl.rocks/players/8c10c8263cf659c8d12d99915cd8e70d7db516869b4e2709a4dce6c5d86364e7/) | 25.35|
-| 267 | [Daleth Alizar](https://ws.tsl.rocks/players/71b5a71172bd673fda9590f0b8f94cb7105d41c9c5191947cb34305929c5c74f/) | 25.14|
-| 268 | [Flavia Firma](https://ws.tsl.rocks/players/deb9b99e184d49fd03a57ccc1dec6613ab492766eb5f2b74d18c29986ec28967/) | 25.14|
-| 269 | [Galactex 04](https://ws.tsl.rocks/players/b856407e89abed60f372852066e305fe8d5565df6595e80e4e2300fed621c4a4/) | 25.14|
-| 270 | [mitiy1127](https://ws.tsl.rocks/players/5ec16f7a7d4a3669a987738841fd627c44e308139888d34f09d38e431ac5930b/) | 25.12|
-| 271 | [sur0g@](https://ws.tsl.rocks/players/f30f966bac53855ea1fe46406a93adc02d2a5667d46016a77c89604db5f6f389/) | 25.1|
-| 272 | [1BOBAH1](https://ws.tsl.rocks/players/0d4d208c94ca91c5681097272c2e84bb9ef5c31a9d790c5dd2d433fbe956bcaa/) | 25.1|
-| 273 | [andreika](https://ws.tsl.rocks/players/a06eb38b1fa9a17e4be122ed88a1a29b81f7454c2dfff8f03d95eb8994f33dd7/) | 25.1|
-| 274 | [Rune](https://ws.tsl.rocks/players/2b6cdd43d484b8531d960f7a549dc135712b9fd02c09dc09ef52ec8dd910b265/) | 25.1|
-| 275 | [N0DUS1](https://ws.tsl.rocks/players/064e3430070bd369a979509c334bf6b4f6532f0cd24bdc6b5076a18e33e3e415/) | 25.1|
-| 276 | [Kolobok](https://ws.tsl.rocks/players/ceb87e1249eed65902a577d82164773865d9259dbaff4328156c6fe9b9107d80/) | 25.1|
-| 277 | [D҉O҉N҉A҉T҉҉1K҉](https://ws.tsl.rocks/players/52d091c70b122d0361695851e1efa544eaa41981221125072b988ec624aa7605/) | 25.1|
-| 278 | [Space Pirate-Z](https://ws.tsl.rocks/players/2e54b62e004399e8c7f8dbefafdd9a657b90818a0507b2ac4541236b150f3894/) | 25.08|
-| 279 | [B0n](https://ws.tsl.rocks/players/b20bb409a1c7832d2c13a9fe62c17174a417a0d0cc2e6cb806a59b6a73805cd6/) | 25.08|
-| 280 | [whattheheck908](https://ws.tsl.rocks/players/266b55853a046d9eee1c15bfbd61ddcdadac8817b5b61a7b81c8b8f956d024d9/) | 25.08|
-| 281 | [SuperCoolShawdi](https://ws.tsl.rocks/players/0b3c8179b202325625f079ddcbb9e1a9f192309685aa454bf483a6c22d9f6e08/) | 25.08|
-| 282 | [emias2038](https://ws.tsl.rocks/players/508ac8229ab95b12f13176ff3686502a643b8057fd83d8245f263fa0bc91782d/) | 25.08|
-| 283 | [Ku145](https://ws.tsl.rocks/players/5b7b77d66c9bc9abd838b50db7d6ecf1c71be6af7571c6761d700f185f08eab6/) | 25.07|
-| 284 | [Soviet Union](https://ws.tsl.rocks/players/6b564bb84d916783f9941f4aee936783d0c42a7d8b5aff3317108780e06e3ecf/) | 25.07|
-| 285 | [thefattestcat](https://ws.tsl.rocks/players/b9a5dd4fdd44985c33e32d4542e2995be4aadaab114a20db1ca440aa812d8438/) | 25.07|
-| 286 | [BlueSteel](https://ws.tsl.rocks/players/7b52733da6b9e22f913b1fb47ff03cca6d3f2eaf5b5f28a98cbc44dedcefe0dd/) | 25.06|
-| 287 | [Lone Battleship](https://ws.tsl.rocks/players/a270b74b33d0eba2b125c24c12ce2a3641a54340dd3e467223d6dcc4178e6d99/) | 25.06|
-| 288 | [poorgamer](https://ws.tsl.rocks/players/bc1ae801326064a6de675c7e6e4af9f0f409ce4ff7880ebacc6a54133a999104/) | 25.06|
-| 289 | [BOSSFROMALBANIA9](https://ws.tsl.rocks/players/817baa9894c7883ce53ab9ae1c07e31a4a6f8907e3cef50feddcd0b6fd1cd576/) | 25.06|
-| 290 | [Carapullo](https://ws.tsl.rocks/players/fe5abf301281c00d7f91d3ab37460bbebf38526ff3025568d99234dc2fdb58f0/) | 25.06|
-| 291 | [Curtisbb94](https://ws.tsl.rocks/players/377598fb6a7a1b198d47bc83d489d407c7c37ce5f7348a4eaefce94a81e56484/) | 25.06|
-| 292 | [enemyordo1](https://ws.tsl.rocks/players/ea75f7d46ffd9189dd88ef20480a2d21e74371317d4f5a9ab43ea66411697513/) | 25.02|
-| 293 | [purpl3sniper961](https://ws.tsl.rocks/players/5a0038ae040d9fce7809938f59905d7e5e42219e50f18025f8f7e4b19b769159/) | 25.02|
-| 294 | [brightnight](https://ws.tsl.rocks/players/16cec64a95b0062ee2fa7b2c62d9b66576915c58bcd42926eeaea6b728af52bb/) | 25.01|
-| 295 | [Lambtron](https://ws.tsl.rocks/players/e1120302b99dc7b66537dffa7c63380dce5f754cf8cae9853c523b83da6b2419/) | 25.01|
-| 296 | [Börk](https://ws.tsl.rocks/players/bc6d094f601017c1b2905c631b6e94b053420ece9a300b685c92e54e5bf82118/) | 25.01|
-| 297 | [DarkBlazer](https://ws.tsl.rocks/players/d2fe33c8d2f1376b47766034712e12110d13b17e12e5e4d92049ac145bfab32b/) | 25|
-| 298 | [Noctis Veil](https://ws.tsl.rocks/players/303b1dab4f849536b8c33d320e81549cf5add3924720c541fe92d41e821ebc06/) | 24.96|
-| 299 | [P2Cactus](https://ws.tsl.rocks/players/0def40c2ed71dec6140f6c3580b408d4ecfee53284c723bd30dada0ffcbf1ae4/) | 24.93|
-| 300 | [Sayorizin](https://ws.tsl.rocks/players/56f2cbd7aa8610c5b99e1f04e44b5070ec53054e36156c4e90216e950fde16c4/) | 24.93|
-| 301 | [Gunkeltron](https://ws.tsl.rocks/players/fd08af09aae69876525b9f231ada17b54796bb3258e4f0765f69e99f8d29e5f6/) | 24.9|
-| 302 | [GudvinFox](https://ws.tsl.rocks/players/355309f3ffbe631d569fafe563dcf916bbd8a0a07155f7aba3d05f03c6575908/) | 24.27|
-| 303 | [redismagadan](https://ws.tsl.rocks/players/30a982ce5dd471a15bf0240370b57ff0eb97a8e8bf516a86d69a1bbe8fd6016e/) | 24.27|
-| 304 | [Dasler](https://ws.tsl.rocks/players/7221ed74304c7bd5a1e0953c8cfe86d8b5e5cbee08f9a58b9ad4218473027d1b/) | 24.27|
-| 305 | [VIZA_1990](https://ws.tsl.rocks/players/6a483dcfb854e3cb64ffbcd5a674c25fe4c3592c0d3eda1c03ccf4b407d2a645/) | 24.27|
-| 306 | [Андирадус](https://ws.tsl.rocks/players/745c88fff167fbc3c037075bde30709b50f019469fe3d6164f91a3b7bc7b9576/) | 24.27|
-| 307 | [Moisey](https://ws.tsl.rocks/players/fc618eaaea2948e96fe5dbe61feaed7a2d8c1566193ce19c1aa3f9ea954c292c/) | 24.27|
-| 308 | [Vega](https://ws.tsl.rocks/players/ebdf4d0bbb3a48ec37bd1b1172ef40c4a071ffb5be2677627a52b993e989c2ab/) | 24.27|
-| 309 | [Dachtozhetakoe](https://ws.tsl.rocks/players/8fbcfb4b5006dea1fb2899421757ce165c85f6bc3443a32bcb6aff07cc5feede/) | 24.27|
-| 310 | [G12345](https://ws.tsl.rocks/players/c77a72f7744b1ca3c64256abf1e293b3d492f6d0af8b73d4806d02d278586552/) | 24.27|
-| 311 | [Lexx](https://ws.tsl.rocks/players/c33e840f62c4fbaf7d1ecdfa9a7f0adb6b97e6164bf42de151f531e184573b8e/) | 24.27|
-| 312 | [Drew Alizar](https://ws.tsl.rocks/players/d76348da9cda58e0c2663acbbec78ebdc9cf071f0e2da0b1029fabd45900fbba/) | 24.22|
-| 313 | [NOVA](https://ws.tsl.rocks/players/4e924208ead2686c0192e7fe3d8f77e047ff6272e66457e29792ba82915e75ca/) | 24.22|
-| 314 | [OneBlackMamba](https://ws.tsl.rocks/players/4837720ab95a5e18445f48407f676510ecb85bf5124983cb36d2c49025f1ea7c/) | 24.22|
-| 315 | [鱼兮鱼兮](https://ws.tsl.rocks/players/4266a0aea4334a2c615f0fa866df4522d32b36ebd42007d14bbcbbff2754f91c/) | 24.19|
-| 316 | [鸭脖](https://ws.tsl.rocks/players/410173f475bfd18baff37ef8b2b8eafac9d8fe381f42cd7edc29392dcc7a01eb/) | 24.19|
-| 317 | [雾★雨★魔★理★沙](https://ws.tsl.rocks/players/c0b2a357068cda67339e40636a0dd1b5283338210ec5e335da64a06621790114/) | 24.19|
-| 318 | [俊俏的小郎哥](https://ws.tsl.rocks/players/c37193ac8794bd677346a96a8fdacbc54f4363b70c37a882249872d5f56f24e1/) | 24.19|
-| 319 | [十六夜咲夜](https://ws.tsl.rocks/players/e9462a3c27bde4ed0a0eaa2f21e7c226ca2c6b30c06adc64489e26137ab8a6a4/) | 24.19|
-| 320 | [☯博☯丽☯灵☯梦☯](https://ws.tsl.rocks/players/83638a0d75e4860d25e55d307860319548649974dbbb3fc26871e78c5fd065fd/) | 24.19|
-| 321 | [你们的爸爸](https://ws.tsl.rocks/players/74fd2e494e8e6ba67374b775aa43b204a897ada2a71b1544c04ae95a0a5e2b85/) | 24.19|
-| 322 | [amah](https://ws.tsl.rocks/players/11f9c5c03c5ec9e9cc77b0102eebee13eef0c3036fafff2b778f10920d5273c4/) | 24.19|
-| 323 | [MCCD](https://ws.tsl.rocks/players/db2854239797995ee450223d6f6686b54ca8c459db1d86ed5a1a583b3bda02b0/) | 24.19|
-| 324 | [Evesy](https://ws.tsl.rocks/players/b0b76edfdfd044d6593ea93e0e1fc0615620cd7a18f310546cfa30c09d07da00/) | 24.19|
-| 325 | [-=Iconoclaster=-](https://ws.tsl.rocks/players/0a455225d33d547bb8439ee8676021aefd84d46c0bdb1ef5f584c1646d326e00/) | 24.19|
-| 326 | [Kiro](https://ws.tsl.rocks/players/2c04142eaac808583e96f2d744e5115ce98a6fccc384b9caa607b0b70d8bbfb2/) | 24.19|
-| 327 | [Super](https://ws.tsl.rocks/players/e2d3d9ed602f626b928a1bb4fd111d6bbf6ec5a8b99cfc5cbc207964b409f063/) | 24.19|
-| 328 | [Omro](https://ws.tsl.rocks/players/019fe5f9cba87d8bf165c98871b346a3e6636e72134aebcffd8d0b9dabe22d9c/) | 24.19|
-| 329 | [CharismaticLeo](https://ws.tsl.rocks/players/e7239e3f0b41c8d836fa08ddbcdf4082db54f96bb678c5d27d21233d60188584/) | 24.19|
-| 330 | [ItalianJoe1](https://ws.tsl.rocks/players/588d5e8c95ab4c0544db8624e909599571fdfebf72ec16abfcc1fb0be4878bd8/) | 24.19|
-| 331 | [amah2](https://ws.tsl.rocks/players/828b4389f27fe4a6d417404cce2c23c7a8ee4fd7bb219e0654d2ad55fdc4f759/) | 24.19|
-| 332 | [DeGoSaurus](https://ws.tsl.rocks/players/ca0a35e3213aea03c80ce8dc1f8a4caf4df4b03c2be25ae824afeaf1ae506b08/) | 24.14|
-| 333 | [FeuerUndFlamme78](https://ws.tsl.rocks/players/4d691fbb3bd920a860a4d0e4496d193f270d0810b0f7ab8e9e1b799e28686b5d/) | 24.14|
-| 334 | [HumblerGas19](https://ws.tsl.rocks/players/4e70e8331c3cef9906029068155eb620b194031efc029ff78e4ac892c052f877/) | 24.14|
-| 335 | [desillusion](https://ws.tsl.rocks/players/6bf0d4a4dfe15871822d55121aed1334ebba34e8c0580894ab1f8eaa2c697238/) | 24.14|
-| 336 | [Nebukadnezar](https://ws.tsl.rocks/players/6be86734afb380c6ab8a50a0fb2af0c0f6074527a91b280865c20b037c9380ae/) | 24.14|
-| 337 | [Kalistes](https://ws.tsl.rocks/players/a2de6148a6a2d8797e1133fc67a08e7b0c061b9cd0b543d6a4e6777907a659c3/) | 24.14|
-| 338 | [ironsky03](https://ws.tsl.rocks/players/4137b1f746ee27c71a65c230d79c48015bb782c1baab00e97ef4452d3f0298e3/) | 24.14|
-| 339 | [Wundula](https://ws.tsl.rocks/players/8c495d6163b5f751c63115df01057f7f977748c0f5679f485232a3b119109887/) | 24.14|
-| 340 | [SIRKANTE](https://ws.tsl.rocks/players/018a56d6131356a42f14934f84e4e9fd6d21d6486200432a8e3615a1194e2a6e/) | 24.14|
-| 341 | [Zondra](https://ws.tsl.rocks/players/defa271b10bf2d852ff495aed3ecec99efee729450148d4184f5e9d4b40ec622/) | 24.14|
-| 342 | [Grimm](https://ws.tsl.rocks/players/c07f8b58f3409a14841e426a0799d311dbd96f7023eb50c212562c5119dc7622/) | 24.12|
-| 343 | [Vandall Alliance](https://ws.tsl.rocks/players/72c29d1a737713374413066a01533753dff8fa9cc0da4553e3327379e8ea571d/) | 24.12|
-| 344 | [VauntedNavigator](https://ws.tsl.rocks/players/f7143a4894e9253bc1b7d3ef0f7b1a8cc53fac980be2945268f16a152e3dc734/) | 24.12|
-| 345 | [Toemmuemmue](https://ws.tsl.rocks/players/bd17472456095a0675e6ceaaa3e2a0c2fa8d1da182ce26f5f12c9d1910deda18/) | 24.11|
-| 346 | [Pommesgabel666](https://ws.tsl.rocks/players/25b1a1963bf214a3f44221120c7f9d8dde3185c38502db71c7589d2a8ae6d0e9/) | 24.11|
-| 347 | [Qgmad](https://ws.tsl.rocks/players/dadee8ae968a4260506654a90e85bc31c2ac2a6c9f2897ee63e80ab448f6ef67/) | 24.11|
-| 348 | [mimimi](https://ws.tsl.rocks/players/76331de294346f37cb6e4f683c3ae95b9f341ea127490447e73202347cdd92c0/) | 24.11|
-| 349 | [TheRez25](https://ws.tsl.rocks/players/396454f4355b8da967dc630426cc0fad1cc0fec0841e4571263a32a4a94a5811/) | 24.11|
-| 350 | [MaceWidoo](https://ws.tsl.rocks/players/863e68cc77cc566e90b757a3a617a7a67772c8e9e27217ccfcd53c5ce5cbb2c7/) | 24.11|
-| 351 | [Ori](https://ws.tsl.rocks/players/d56b5921c6056f71787160bb09a9faa7a5e9186d619e9c964494cc2bd849e7d9/) | 24.11|
-| 352 | [LANGEBE](https://ws.tsl.rocks/players/b6ddee0242384c1c599b4f5379dd3e311cf63066b0557a41f3fac09140eaaca8/) | 24.11|
-| 353 | [Cor Angar](https://ws.tsl.rocks/players/09a9319cd0a270735bd1b250d609e48bbd031ba41f8a5536a5c32d7a6b74bc09/) | 24.11|
-| 354 | [Barbarossa](https://ws.tsl.rocks/players/0d519525aa050fc565039cd08fd3b2ee5ddc456d9e29f6e8e811122028795e96/) | 24.11|
-| 355 | [mytchel](https://ws.tsl.rocks/players/2fadf0ae48487e2a3c021a0995d3e355c0272ccfb78a9451c7c2d170c9189186/) | 24.09|
-| 356 | [tedtex](https://ws.tsl.rocks/players/10a2067e87fa3e087125cb012510357c2d88f416e19b981986b98f0a60e10f91/) | 24.09|
-| 357 | [Dronin](https://ws.tsl.rocks/players/784c3bc658e47db3a2ab49c67257ce214fd1dabab13d23ce0fff9c7b3a1d7dcd/) | 24.09|
-| 358 | [Cronyx](https://ws.tsl.rocks/players/e29f998d7a11776c5169310d2648e8223445dd97a7112b4a42bd8b341a85a4a7/) | 24.09|
-| 359 | [republica zaufu](https://ws.tsl.rocks/players/5341f4e67d833e99ed2fb0288da7f0a8bfbacb483a7e519a0d15a5de8a99ab88/) | 24.09|
-| 360 | [Traggh](https://ws.tsl.rocks/players/61af7a5176ada6fecc6b313a23afd10b6d8f5052e9214bf0a4678c713aea2b04/) | 24.09|
-| 361 | [Luiz](https://ws.tsl.rocks/players/93db75ed900d6d5b2650d899a4bba734315160eb8d54a1a01be527f0a063dcc7/) | 24.09|
-| 362 | [Arti](https://ws.tsl.rocks/players/99962cd7a29311e3d3abf8f1126f1afcf046867051f12768f775644c8bbe89db/) | 24.09|
-| 363 | [Gabrielvicks123](https://ws.tsl.rocks/players/446d4edc792d2e029bc366a3b3ce6caf73aa04a5adffa3eb51d7fa697da1dd65/) | 24.09|
-| 364 | [ConcentricSword4](https://ws.tsl.rocks/players/9701cdb1909cbbce4cf7fdc80b5c93dfbe1e62f10f02ebccac0e5279d6959df1/) | 24.09|
-| 365 | [Poly](https://ws.tsl.rocks/players/07b0fc702a66164b336297c7aff824408072c30e26c86805bf71b2765c0680ef/) | 24.08|
-| 366 | [有点虚弱](https://ws.tsl.rocks/players/512be43be575a8b386f6915e206566099083f133bedb59b4941211c2642c2ceb/) | 24.08|
-| 367 | [积极的消吉](https://ws.tsl.rocks/players/3eaa6bcb2a4e9b0e38fe0d3df5b226ad9dd1fe81b307ac12d86cb496a85d5570/) | 24.08|
-| 368 | [已经死了的KCN](https://ws.tsl.rocks/players/ee18c196fb8f19fc714f0e2ff2dee19bbb184edf31b9b367cf42833ff0437100/) | 24.08|
-| 369 | [Сүка](https://ws.tsl.rocks/players/da02608184cff87d9b11b571cb9c38c97b25e15b7b8b496836bb4aa4432b9f17/) | 24.08|
-| 370 | [易觉辰](https://ws.tsl.rocks/players/107828cd41b657bb9b6523cb9e8ffdbcdf031628bbad65624c677736d516eea9/) | 24.08|
-| 371 | [ProRocK](https://ws.tsl.rocks/players/d72b818621f878f1e76ed6eda13b089dc16b6f4b17b445dbe313a940b5434c7e/) | 24.08|
-| 372 | [璇弈](https://ws.tsl.rocks/players/eec67736d643157a6397198285c86660100d1eb24e60894c529456cf0dce13c0/) | 24.08|
-| 373 | [嗨嗨嗨，来了啊！恐龙扛狼](https://ws.tsl.rocks/players/a30f67199dcd187b06b4fe3b12f9cc1d322abbae3cb3e2a5036968eea9af9c75/) | 24.08|
-| 374 | [Napoleon218](https://ws.tsl.rocks/players/62f41c34e117caa6a40702c6ff2915be7094d8a71da5cce0db4cbf4b810cec54/) | 24.08|
-| 375 | [Degsperados ](https://ws.tsl.rocks/players/c396fd1ad30d7abba603e71c2227d10a4991ab0a59e7c1c8b47a006c92c86a85/) | 24.08|
-| 376 | [ahlims](https://ws.tsl.rocks/players/eb800b0b3ce9b5eecd3dde2bb70433bfc5708585344d47e7e502be22fed889df/) | 24.08|
-| 377 | [YellowFrenemy239](https://ws.tsl.rocks/players/7144a89b2fec825dc60702cc27c72661a98434c2d092137bfcabfd3b631fd31e/) | 24.08|
-| 378 | [Z1LL4tr0n](https://ws.tsl.rocks/players/ef2504e99024dabaec9ffaf59a45c794bed17ac234e8d7fcae59d442638274f4/) | 24.08|
-| 379 | [soumindas47](https://ws.tsl.rocks/players/a32a59af4b7cd153cc858027dacc3cf379262a8adbd33653df7991cd2e984da0/) | 24.08|
-| 380 | [ChaoticMlem](https://ws.tsl.rocks/players/2b4754a7a3efcbace785eae588da372f1d749bd411924de6520085d166558cf1/) | 24.08|
-| 381 | [GroudonRamsay](https://ws.tsl.rocks/players/818302ce60fde49c02c55c154cb0fd6c461205c90f5224ff40b1757f5974db22/) | 24.08|
-| 382 | [internel](https://ws.tsl.rocks/players/0f988756eed579f771512d852d5102b4ef25faf6700ca0b879165530f4be2ce1/) | 24.08|
-| 383 | [Nova_Soldier](https://ws.tsl.rocks/players/34579a58c5b68e5a85a0a421ece879e7cfc18ca2739a36456faeae4fbfec9c06/) | 24.08|
-| 384 | [Dráp](https://ws.tsl.rocks/players/da53661789eb47da9eaefc389882f6f76d69479cacc50c9adf435480236a4fb8/) | 24.08|
-| 385 | [pizzathomas](https://ws.tsl.rocks/players/f6904cff8ddd47d4e0220cd9073982343fd941442b5c12095d0cf79d9cc0e9fd/) | 24.08|
-| 386 | [canarylolz](https://ws.tsl.rocks/players/ca121960c5ddeaf2cb9a8064d2cfef51bce8641b9cc2a27607359167eecc11ea/) | 24.08|
-| 387 | [Caprican](https://ws.tsl.rocks/players/eddef39a80a4ea23b997743a87d5af364ec8f60860f920bd6073ce80e2222384/) | 24.08|
-| 388 | [Solanos Rex](https://ws.tsl.rocks/players/6159ccfa9b220e0fbc6256a0266539c863d869f0a5ae9fef57c950ff0459ccdb/) | 24.08|
-| 389 | [Yggdrasil](https://ws.tsl.rocks/players/1efc48e6fbfbc8d17d595d6b72d8506e1a2edb3a17d549e64da8764556591fce/) | 24.08|
-| 390 | [gerloon](https://ws.tsl.rocks/players/5243ee0e6e19eece5bdde1a4531c9249a1a5a8c6d6eccb4b203e1a1a85d6ac6c/) | 24.08|
-| 391 | [ElatedPhantom127](https://ws.tsl.rocks/players/56001ff4bb5c20e07adb2a47754b2e15a7ebf5f885a732227419c56b0f5c7b2a/) | 24.08|
-| 392 | [Kestra Akadi](https://ws.tsl.rocks/players/ad4db0d6257f3cb46eebe15a5b0e8bacb286cd630f59916e9f02b0be6469ad63/) | 24.08|
-| 393 | [Hydra](https://ws.tsl.rocks/players/abbec1f2bbbde18032b11e8e18f3cd766663fd6e177e42e9907f19933549ba63/) | 24.08|
-| 394 | [biggocelot123](https://ws.tsl.rocks/players/777242fc7559ccef864f607f6c45c54fd618752bac9afc6494357dc3a1e5efca/) | 24.08|
-| 395 | [Elethion](https://ws.tsl.rocks/players/1d10189fab27afa46b59867dcade1d1f661ad0e8dc0fc1ba28a805265e97dd73/) | 24.08|
-| 396 | [Kaky](https://ws.tsl.rocks/players/ccb5595ec391f6cf6dd4a433632c308c304ef3c78845c363628d6568a43dd13e/) | 24.08|
-| 397 | [SopHie 87](https://ws.tsl.rocks/players/99aab4224011b6fc55519a2d614cace5d6389059c0781665b2e7246784ffcbfe/) | 24.08|
-| 398 | [SchwesterEmilia](https://ws.tsl.rocks/players/ac91a6e52365e3a169024141e3654b2911693320fc6b49c11bbae74dde4a5884/) | 24.08|
-| 399 | [Talona](https://ws.tsl.rocks/players/314aa382b2e6ca69077d7851682696a0024c04bb88dc2bb18992102604224749/) | 24.08|
-| 400 | [Spaceball](https://ws.tsl.rocks/players/8e3235708efe29ecac11beb80b14cc3db058db7e787fffaff816f6c71f51e713/) | 24.08|
-| 401 | [Flocken](https://ws.tsl.rocks/players/010226f13209713c247857769ce689244b89444bf033059a29966cd173ae91ac/) | 24.08|
-| 402 | [SolarTom](https://ws.tsl.rocks/players/2e1b239924b9787138eee54efacb64f006e7c7a1cc275bb8313c604f6c2d2c84/) | 24.08|
-| 403 | [The Return](https://ws.tsl.rocks/players/1f19f1209abe1896f02ad7e7f9dc398ed438bcdd7aac59bc71d60398bfb2f03c/) | 24.08|
-| 404 | [MereLand81](https://ws.tsl.rocks/players/dbafa0ff95aba2f8927e5a8fa363f17e8ae02082387e702b33bf59b28818e305/) | 24.08|
-| 405 | [728](https://ws.tsl.rocks/players/5d2e7af15a0d832ee7aef28c5c33a9b98eee33d2384c9332531824461ffebb57/) | 24.08|
-| 406 | [dalik](https://ws.tsl.rocks/players/2255e47cf0ee040cf6c7b3e724e814891f89e7388ca68ec4eef3bdffcd1567f7/) | 24.08|
-| 407 | [GabikShu](https://ws.tsl.rocks/players/76bc57942c86bdadf5a7acf4fc1a666634cd96ee51a61735ab8af260fe131932/) | 24.08|
-| 408 | [evenger](https://ws.tsl.rocks/players/9c743b537b40a66c499faf3e523561538717bd2395b0449a39bd449c31571dc3/) | 24.08|
-| 409 | [Earth](https://ws.tsl.rocks/players/ce03054403b02790771384025384ea3d2e558633e4917751673c077afad9fa48/) | 24.08|
-| 410 | [blond](https://ws.tsl.rocks/players/af62bf21a6056ef7a614faa838d87b4ae0eba8893e7687d7fbba364874f60e7b/) | 24.08|
-| 411 | [ruliik](https://ws.tsl.rocks/players/1ff20c8f4768ba24cb288fc79f1595956c55768f3d7bd7e1ec20241ac18158aa/) | 24.08|
-| 412 | [Gena6393](https://ws.tsl.rocks/players/b999e173b670ad882c8be71307bbb53d51cf666c0e91783c66bceb8a40fe3867/) | 24.08|
-| 413 | [Achaia](https://ws.tsl.rocks/players/f4f8ec098c7c495d241f9ada5ddd8520c80598cd787a95725490f50156968195/) | 24.08|
-| 414 | [dendis_cz](https://ws.tsl.rocks/players/5955a17e061cf13c439027e0a382327621a7e88f4e99d04b553cf7d62c17bcc3/) | 24.08|
-| 415 | [KaleyObsidia](https://ws.tsl.rocks/players/7661cee5fa915442d66901a9757507e32127d019f32a3eff82858f679e2b8970/) | 24.08|
-| 416 | [eagleguy101](https://ws.tsl.rocks/players/65c7d0c19c87e13280bb880b21ac35aa5da2367d89102f5fa14f34308cc7fb71/) | 24.08|
-| 417 | [3Shadows](https://ws.tsl.rocks/players/51dde257bded544e22996f4137077b02c808efcfe65a77715c41e6949a876128/) | 24.08|
-| 418 | [UndulantShadows](https://ws.tsl.rocks/players/9baccce4ecb6c45ef96d1add9cd1638aca0b3071ec9ade9f5a9afffa1d545c4a/) | 24.08|
-| 419 | [Mythical Yannis](https://ws.tsl.rocks/players/6e8ea40f82683e7c1748615b796dddb9a3887431fda9851b769554aeff3ff67f/) | 24.08|
-| 420 | [jondough101](https://ws.tsl.rocks/players/02b20ab91d0d0b4de92e0f80f05b0be4a6a5077cb66789c433d11a39413c2eea/) | 24.08|
-| 421 | [eagleguy102](https://ws.tsl.rocks/players/3a0803bfc9d713fbe4a968028c87435032f2d516ba3e0077c72f471d77baa9dd/) | 24.08|
-| 422 | [nomdeplume101](https://ws.tsl.rocks/players/3cf501c940bce0c758bd7395e13cb604f654a758758d9150da7e4d420985d7a7/) | 24.08|
-| 423 | [Mhor](https://ws.tsl.rocks/players/7195f159939833a1fb7d815b4c847703227bede237e0565e8651200069525d5f/) | 24.08|
-| 424 | [Brian](https://ws.tsl.rocks/players/4da3c8d16f5f298500a27d78acf15b819216852e25629a790ead04465fbf362f/) | 24.08|
-| 425 | [Kierrip](https://ws.tsl.rocks/players/a772cbf1684cd04587d053d216f2a0ba9e4e0b582aeb093a128d0c745ad2dc45/) | 24.08|
-| 426 | [Avey](https://ws.tsl.rocks/players/e121541710caf5d8a620a458b817c258d84c088d811c2de8295622b61db6ef37/) | 24.08|
-| 427 | [PrinceOfTheRoast](https://ws.tsl.rocks/players/4e25e745bc331ec4e3597fe6e2d7815e4995c1418aba959703c9620d9fd5ec3f/) | 24.08|
-| 428 | [Another BJORN](https://ws.tsl.rocks/players/227b3616f0ae8fdf76223e9477855a547f2f7f648e0e4282c523fb921598e338/) | 24.08|
-| 429 | [Timmeh](https://ws.tsl.rocks/players/e3eb7a2945b9efd0fcbda194b64f8fdd03dc607e87848345f21eb9a1c35b8139/) | 24.08|
-| 430 | [Death Lurks](https://ws.tsl.rocks/players/fffb77c31c2f4531f02285fd38aba7d6000af60b6bfedd561056a88c83f309a7/) | 24.08|
-| 431 | [swebeus](https://ws.tsl.rocks/players/67fb4883674b57efdf65195eabfdb18baebff90a4972dfc695351468ddc29f23/) | 24.08|
-| 432 | [Igris 脅威](https://ws.tsl.rocks/players/9687a5704d0803927221ac008349c9929e4376ab1a4402bb4f1c5c92339bfb7f/) | 24.08|
-| 433 | [ketanor](https://ws.tsl.rocks/players/db04f1273936fb4080158c1d2ef577e200a9f57848833e3929d9ddf1416a928e/) | 24.07|
-| 434 | [КОБР](https://ws.tsl.rocks/players/8337fa28149fd4fa39ce2713fe83a75bb9159921c500f5c9dbc41c3a81a4a0e3/) | 24.07|
-| 435 | [Sashulkin](https://ws.tsl.rocks/players/bed2acd9483a5168b8c4f73e48f7e51c0c52f3a39e16cdcdd2f52a2a918c48df/) | 24.07|
-| 436 | [Impuls](https://ws.tsl.rocks/players/4919b70c5d9e7390b0a3c0811bf0a7c6344d5c696356994c5943a80ad7d90307/) | 24.07|
-| 437 | [Stimpi](https://ws.tsl.rocks/players/e1420f60a052677cfd948ab4a2b0ee4a372e1e7176761eb78a4cb844348055bd/) | 24.07|
-| 438 | [PumpkinHeaD](https://ws.tsl.rocks/players/e72c6e6111612997cfeb6bff42231593f3ac1653c9d171171b4535f4924c7020/) | 24.07|
-| 439 | [Otaman](https://ws.tsl.rocks/players/ac1671ac6e2f57d7fbb6a44dc227133d17534bd757f704b119544b6b8b01d841/) | 24.07|
-| 440 | [Kanabu4](https://ws.tsl.rocks/players/4ba57f66cc8a1b188e11c0dbc13d8882f0481fbbbccc066ed83da14681c316fc/) | 24.07|
-| 441 | [Molfar78](https://ws.tsl.rocks/players/844d59368de899ab098d9bf9e0613eb614251a0c49a7902ae7517d228e29f149/) | 24.07|
-| 442 | [апофіс](https://ws.tsl.rocks/players/18ce8e29d40f3568df3347aa5f3b020dcd2fc786eac81e9c44e71494d8e09907/) | 24.07|
-| 443 | [Strathclyde](https://ws.tsl.rocks/players/3efc75e30c9897b4122d5f03cdb72272161a711389ce10c72e836eb33309f399/) | 24.07|
-| 444 | [Jakanzar](https://ws.tsl.rocks/players/46df1aa5e1b8d766f29707332e8c0cfaacb80c60f5719c79f394279019e70523/) | 24.07|
-| 445 | [Ardshel](https://ws.tsl.rocks/players/74e88c7da914355e55ef489900305945817701999fb493c8c99dd18427fed82a/) | 24.07|
-| 446 | [ekleenex](https://ws.tsl.rocks/players/453c0c94940edc7004522251dabba4478527c22a22ed1e5f6f403e938ca65a90/) | 24.07|
-| 447 | [Smoke](https://ws.tsl.rocks/players/8c50d0e66efcdc4a001084509c9e9a532a51fa0c4b498f7901b05d28e5e87333/) | 24.07|
-| 448 | [Raise](https://ws.tsl.rocks/players/d72b6bdd8a44714947ff6f948629f4f82dec3e6af1f4f58145a2059fff3ad1de/) | 24.07|
-| 449 | [Oaksey](https://ws.tsl.rocks/players/4132b6432fe64a3cda74c1845224b0f43030fb4e9fa1051477f4ef87ee21662a/) | 24.07|
-| 450 | [Ryebrand](https://ws.tsl.rocks/players/54ae96a46eaf3d9eade85363dab0851d8cd34d4674b800d4e5292f3945c5579f/) | 24.07|
-| 451 | [franktastiko](https://ws.tsl.rocks/players/53c2aad24e007860c89b10b9502406694a96a591e00634bb9c02854354387e8a/) | 24.07|
-| 452 | [SageSharkCat](https://ws.tsl.rocks/players/6cecf1bb74d636e566baf69206d35fddc3be8213a2a3172e951a89e8e510a965/) | 24.07|
-| 453 | [Hairy Faberge](https://ws.tsl.rocks/players/4404de5893c82659572dbde564e2e087cf5e4baaf39f9ab3005e51b14589ad49/) | 24.07|
-| 454 | [Olivo](https://ws.tsl.rocks/players/cabfbff45e491ab865a88a655fab38d0130cbe6ff5c9956861f73cf3096677ce/) | 24.07|
-| 455 | [Duck 6685](https://ws.tsl.rocks/players/0d7c167c4813451b956f263a6204b1fa3ac206ef15a872db754ec9ee450015da/) | 24.07|
-| 456 | [“V”](https://ws.tsl.rocks/players/8d7a4fbf09bc00904b3c2eef89d2810ed30b21af7321373e3a47cbf3ff1d8da0/) | 24.07|
-| 457 | [BossRobot](https://ws.tsl.rocks/players/5fc1211495c17a4b9f879ecc1dc6ec53164e15d67122471f9a21010de5bd902d/) | 24.07|
-| 458 | [Il_Jordy_84](https://ws.tsl.rocks/players/1a25fdc72a4f5aa19fd5b2135a21d22ddf700a79d1b5ef90f2781fed0064921f/) | 24.07|
-| 459 | [lutzo](https://ws.tsl.rocks/players/34952658725748b71250d288298eaaff2f6a775b3332e7d042e286e2a798d00f/) | 24.07|
-| 460 | [Psyco73](https://ws.tsl.rocks/players/4575a7352757f234391906ee228658ab9b68a74755d63b3a86533e8212f1e739/) | 24.07|
-| 461 | [Xadom](https://ws.tsl.rocks/players/21ae3b8cf14c8b34a8e01ee56a617eeffd8524d2c2e0975befbb207269006b8c/) | 24.07|
-| 462 | [Berserker Roy](https://ws.tsl.rocks/players/72bc2a1e5e5d4353c225ba95bc123cc17684662250eb4e3d340ad28690ae8864/) | 24.07|
-| 463 | [King of Champ II](https://ws.tsl.rocks/players/79ef90b71adf3ae5097e59b07c7a0cdfcb45192ee4daec70931d19c98bd2ad95/) | 24.07|
-| 464 | [King Champagne](https://ws.tsl.rocks/players/3e9af134da58daacfee89acc85e69756e190d52e6b731beae5cedb8ed4ba97ac/) | 24.07|
-| 465 | [Plague](https://ws.tsl.rocks/players/babc39cd35f91d722881cb863b2d34aad25f72d997310af4952beaaa753c58fb/) | 24.07|
-| 466 | [Drake](https://ws.tsl.rocks/players/266db1e05dc5711736c1fcd0cc0111bd7833984150605c8f1b0029a24e2f1051/) | 24.07|
-| 467 | [WING☯CHUN](https://ws.tsl.rocks/players/f2a085ea8ce00eb773504895db9d7c2d4b886f7f328e963c4f962f433ea9975f/) | 24.07|
-| 468 | [Коньячный ЗАВОД](https://ws.tsl.rocks/players/aa39ddc385d33a5b317dfe31f67d5885be1868fc34ef0d369b6c51327d0c0018/) | 24.07|
-| 469 | [Psyker](https://ws.tsl.rocks/players/e66a2ca20f747b59d981a088a105d2e3f75f9f49d47636bd14538539af10fb7f/) | 24.07|
-| 470 | [kozlovskiu](https://ws.tsl.rocks/players/19d498a26e06d00b912abae68eb59b4764345cfc97c424aefa1875752311c8a8/) | 24.07|
-| 471 | [Rom2466](https://ws.tsl.rocks/players/10b8249de68e478ed7b382dd954d384281d44314a52811b6c38ecd18c33ccb81/) | 24.07|
-| 472 | [Storm](https://ws.tsl.rocks/players/d4aee55a512f3ee1bf9f12b47c23eda425954ae6be1c7b658e517e141ade507e/) | 24.07|
-| 473 | [SoDoMoN91](https://ws.tsl.rocks/players/790b55e48a5775fe1378953d1448d5cfdb49da8d8bd9b1988301c41ad472ef44/) | 24.07|
-| 474 | [Maks](https://ws.tsl.rocks/players/a453480a8b340cfd0b1b252a28a0b9b0171d6144ac0163a29318e68c8b11e797/) | 24.07|
-| 475 | [Ocean_9432](https://ws.tsl.rocks/players/0a8ca787d4fad4fbd5db53b28157048d077adac372cf2ad7e94579f5a88c5c6e/) | 24.07|
-| 476 | [BlazerPlayz](https://ws.tsl.rocks/players/9856b065d1bea35a29cd529c5ee7c8fcba4c80c1376ac1f34f7a1c45511da7a9/) | 24.07|
-| 477 | [NovaRanger47](https://ws.tsl.rocks/players/c330f1bab5f301ffe8ec5ca6562a43b9d862271f46505483363d0d5d28d10a1c/) | 24.07|
-| 478 | [Light Matter](https://ws.tsl.rocks/players/6668c26b97bdeea9f5d60fcf986b6ef844ddfbfb99d500bc12369809f2535d81/) | 24.07|
-| 479 | [Dark Matter](https://ws.tsl.rocks/players/4ab6301b742bbfae6302293da023699fedcace8e4c07951d21fe91d2ac472a92/) | 24.07|
-| 480 | [Red-is](https://ws.tsl.rocks/players/aed514de43efc3469ed9f8e2b15a8c539145c0ada98746450b7345039431b7a9/) | 24.07|
-| 481 | [WarySamurai1055](https://ws.tsl.rocks/players/b2493807d90a82093210f90e0f59bf1ff53da152ebfb7f8c192b0d3fa3f7a759/) | 24.07|
-| 482 | [gagauz2](https://ws.tsl.rocks/players/5b31224bb288caacf6298c693957b54f850e4890c2685c5607b90db975809637/) | 24.07|
-| 483 | [Father](https://ws.tsl.rocks/players/4719ec5a16d9079d3b432a617b8b68b1eccbf68b2a2ebacbeb088293a8dfcfe2/) | 24.07|
-| 484 | [iridium174](https://ws.tsl.rocks/players/12de8e3d509c621d83992355837026487b90a1de06df62985abd19fbf63cab0c/) | 24.07|
-| 485 | [delov@r](https://ws.tsl.rocks/players/a5993bd24738609c13109579321e808f6ec5a17a6010dc9afa133b24b2b31828/) | 24.07|
-| 486 | [arsenium23](https://ws.tsl.rocks/players/17543f9db8c08e68e1814c7ce8543124a076300f3c24f133eac3f0e191b11490/) | 24.07|
-| 487 | [iVanCoMik](https://ws.tsl.rocks/players/0893aaa149429ea0dd8c308582786feb1079b98083414366fbedfb684572ac11/) | 24.07|
-| 488 | [低语云歌](https://ws.tsl.rocks/players/1881634c40d7efb5cae62e4c9c3325454c2587d73ed01bd50d348393039b1f52/) | 24.07|
-| 489 | [雷霆统治者](https://ws.tsl.rocks/players/d9b293c22e679aed614e4247bead9f99b18049d524325354d2148d1908c302e4/) | 24.07|
-| 490 | [下一场雨](https://ws.tsl.rocks/players/e30d2d0fb813b27ed2ff9af18146d2859c49a99c2e2736a87ab3380cb4277640/) | 24.07|
-| 491 | [光粒](https://ws.tsl.rocks/players/448004f6d2018b4437a526e968e4202f10860e1ad3a7d0eefc1856c4708e2b9d/) | 24.07|
-| 492 | [Rosazie](https://ws.tsl.rocks/players/5db71da729211730723e9c262a045aea5e17bbb882c46a0dd2cdb23a2f833468/) | 24.07|
-| 493 | [Zhora](https://ws.tsl.rocks/players/31de8c26e5b5b9a3748efe38d0d9bea4eeec8f7598d3d3d5c09eaede9d24eb93/) | 24.07|
-| 494 | [owner](https://ws.tsl.rocks/players/86032de80d355820bd94a15bac0f895ebdcd9dabf685db9dccb3812cebbb64f2/) | 24.07|
-| 495 | [Talon](https://ws.tsl.rocks/players/e3d376b801b858f0b2aacfc0e2458b39a8bb0a0d2c0e84091ecaa3206c10e809/) | 24.07|
-| 496 | [璃豔](https://ws.tsl.rocks/players/b923dab3fd41e9105f3e90c254ad0c52f21658f69c7a01a2ae6fd2b71bfe7c73/) | 24.07|
-| 497 | [泠鳶](https://ws.tsl.rocks/players/08313a1b2c2ea272196d619e947988110b84e5edb349fdb1c50493a2b773a9fa/) | 24.07|
-| 498 | [ALLSEEINGMIND](https://ws.tsl.rocks/players/30f0be75b43da3d43cdc715ddd18346808b0965f979612e847bd6886199480e9/) | 24.07|
-| 499 | [jarmenkail](https://ws.tsl.rocks/players/8c893d17cdd6fe5927775cd6e324b3a5defa4cf154afa95f767232815734111f/) | 24.07|
-| 500 | [Ponchus](https://ws.tsl.rocks/players/548acaf6bc9ef78f74648d133e03ad5d1ebc3d16d14aa56698286129afa96e17/) | 24.07|
-| 501 | [UnknownX](https://ws.tsl.rocks/players/273afc33df742ca466d1e256c884d3eaa1064d0c18eb9751877e467d4f383a37/) | 24.07|
-| 502 | [Starlight](https://ws.tsl.rocks/players/2fa5e23f4febee28341d6066fe85fa29574189a4e5fc6293bab369d124975086/) | 24.07|
-| 503 | [002ANDREI](https://ws.tsl.rocks/players/072590fdca0abf2437f73792786de05983f249f14a65bb8d9201ec52b9291737/) | 24.07|
-| 504 | [Comrade](https://ws.tsl.rocks/players/0f4f4c6c22c82694f18922de43ce3cd942c79e76bad1c707399c0d624cfb4dfb/) | 24.07|
-| 505 | [third worlds](https://ws.tsl.rocks/players/a455054331edcb59c5a7896d9e02754ea49ba35324f44f2c562d2978f59b739a/) | 24.07|
-| 506 | [AndreX](https://ws.tsl.rocks/players/362ce1c010710e8e6df8e92a07bf8a69210af3de8d69e159865d28891b6d6f15/) | 24.07|
-| 507 | [UNKNOWN USER](https://ws.tsl.rocks/players/092c3de1d293b5e721af8a64a0c59d1620e7c93d8e3e3727445cc1cb68a769c4/) | 24.07|
-| 508 | [​‭‭​‭‭​](https://ws.tsl.rocks/players/8533fd75719d338c14374d409addca680c3d27f4dbc4cce2e65a112df2330b6f/) | 24.06|
-| 509 | [海莉艾塔](https://ws.tsl.rocks/players/ef249ced50d36fc000d51fbfce7d7d645e3e51f7de6a64307237061ad0795dbf/) | 24.06|
-| 510 | [中国](https://ws.tsl.rocks/players/d2e72509af1f3f270cf719c68ecb580da7f0c9837b49f9b512ed399e70289758/) | 24.06|
-| 511 | [小蝦米大京魚](https://ws.tsl.rocks/players/b273295d932fe8935593964f22933d55bf48ea23e6346afe99aedea8736a95b8/) | 24.06|
-| 512 | [呵呵](https://ws.tsl.rocks/players/a6dc7ee0c14f14d5777f57b64666e3715d466fad528c346f949421f69fa0f6b1/) | 24.06|
-| 513 | [风影声](https://ws.tsl.rocks/players/b4bc1e038a3ccf627a2ac252128e7c568c63c22085857b0d5fb83dc784864576/) | 24.06|
-| 514 | [何去何从](https://ws.tsl.rocks/players/3d091f421d03f11a041a1c3a9382f15d4985d5526cd359c8d1ceda9ce34b9579/) | 24.06|
-| 515 | [yaozai](https://ws.tsl.rocks/players/212af165e11e0c9aa86aa274eab7af6a66a99c3b0151f36d24157be70e9bfb8c/) | 24.06|
-| 516 | [夜月冥](https://ws.tsl.rocks/players/88f7b430822e73b6f08e2b3ee24cfaaf8a270e97fbdf6df1d82bbe8f11421bad/) | 24.06|
-| 517 | [猫羽雫](https://ws.tsl.rocks/players/77fd20ffbe4d7776402e2f11387721719e06d38ba112bda252818b75ab7a90a8/) | 24.06|
-| 518 | [自由](https://ws.tsl.rocks/players/099eb0cf903770d2f2e054d491573070aac316106edd352df183d8ab68df0f78/) | 24.06|
-| 519 | [一架南方航空的A380](https://ws.tsl.rocks/players/0bcc7fc171161a4b2209dc9ff051152f115e45fbeb378c19b2241e2466e0a057/) | 24.06|
-| 520 | [太阳系2](https://ws.tsl.rocks/players/5246b5dd9ee1830d26e13115db57dd8ea8f40b3ad815e293aa46f6d657686a31/) | 24.06|
-| 521 | [初阳](https://ws.tsl.rocks/players/cebaaff6dbc15bee5d52c808a321f194996b56d7b2516c0c0993735e7ae68220/) | 24.06|
-| 522 | [哈迪斯帝国](https://ws.tsl.rocks/players/38ca97d0ae7287b28a2ee9eee85d07cd98bd98bcaee059ecf09a6d0bb35c8e3d/) | 24.06|
-| 523 | [宇宙行者](https://ws.tsl.rocks/players/bf7e4f2d0bf71e7232d0f71ad7699ed62c9a8d729f869472a61afe317e8ceb90/) | 24.06|
-| 524 | [Max](https://ws.tsl.rocks/players/43f352a98151699ced42dff94d7dd670c46e9cdb26e442ddfec8247b0c3dd11a/) | 24.06|
-| 525 | [宇尘](https://ws.tsl.rocks/players/41d4d6867dd194bc20bbdb8363e363640c148f7c6e645d16fbd95e308f6d82a5/) | 24.06|
-| 526 | [沙漠](https://ws.tsl.rocks/players/b4705c448aa5e07d998b3a69b4826e7298781a7172c8818d2b99057477de3f33/) | 24.06|
-| 527 | [帝王星](https://ws.tsl.rocks/players/5d69a2ae207d9e7e7b08eb3f0ea666ca662b8f80bef1b98061c084fedd4a34d8/) | 24.06|
-| 528 | [HamBone](https://ws.tsl.rocks/players/c6f975a72059c4bc72163f553b21861d683e33c418c46b53f75a43abe2cf3143/) | 24.06|
-| 529 | [Garmonica](https://ws.tsl.rocks/players/530595046da691cdadeb251339313207442ee68cfa01e03969c3ef52987d70df/) | 24.06|
-| 530 | [TheDarkPrince](https://ws.tsl.rocks/players/fb4bb93ac018721094cedae7aa0b3cc3616cfd7f5c033dd388089c373caa0137/) | 24.06|
-| 531 | [Stark☣️](https://ws.tsl.rocks/players/8848dd42e2043ed958b1d71677db46ee65f439572d91ed9a8890944c3d503d27/) | 24.06|
-| 532 | [Breadboy](https://ws.tsl.rocks/players/d3e06e9f9df1fc57a629479aa6ba78518ef196e7388acf4aa181cc9fccb0ec66/) | 24.06|
-| 533 | [Rohit](https://ws.tsl.rocks/players/5eee7dc0dce2c722a56521ecffb2876415e5fac92ebfcd407cdf696a3641ecc6/) | 24.06|
-| 534 | [jxjxjxsm](https://ws.tsl.rocks/players/b6f67c07b0d083b3b7f817f3cb570969611d5e86c7fc3d9266ae046bda2ca8ca/) | 24.06|
-| 535 | [Danelion](https://ws.tsl.rocks/players/3324ed9380455e13b9158bceb09f7f5cc8cd4f6998a72992594a90ba9633e365/) | 24.06|
-| 536 | [Doomsday](https://ws.tsl.rocks/players/f0f681d4056e658dcb6b0edd60c4b2c8d843c8052f7e4c87b0885a715456c77d/) | 24.06|
-| 537 | [Bamberg-_-98](https://ws.tsl.rocks/players/3d76cb7004432e69caba178e9241c077ef42cf1f565442aa361a17c3da7e946b/) | 24.06|
-| 538 | [Bahus](https://ws.tsl.rocks/players/586065d565f3f7ee4da48d9fe8b143db94d53fcbe535d91aa984876f68324ae4/) | 24.05|
-| 539 | [nrgnoname](https://ws.tsl.rocks/players/25c72cceb167ca5e40f151916ac2e7fdd575c8fb78cf9bf4da747b1ea994fa1c/) | 24.05|
-| 540 | [Revmirych](https://ws.tsl.rocks/players/dfac9b55c4c463135bc6e0c89586004cb0213f98e6902ca2893bf2874f178759/) | 24.05|
-| 541 | [ArcterniuS](https://ws.tsl.rocks/players/98501635f7e6fde25a695224b06ba02f723abaf8bcedc15917ae86fe267a6cd1/) | 24.05|
-| 542 | [Krunaro](https://ws.tsl.rocks/players/a790ed2c7c09f06b7ffb0a283a57492732960ce5b3d5579aa9e18ed01ddbec1a/) | 24.05|
-| 543 | [Kristofer](https://ws.tsl.rocks/players/cdd8e1962e8d0372a1a3453d622ebdb4e1bd43b209cc04ab9a976ed3c9538533/) | 24.05|
-| 544 | [mazzatolik](https://ws.tsl.rocks/players/a99bde935fb449855797d29760ed0f3f8b01009fed3a2fe9959956360cca1faf/) | 24.05|
-| 545 | [AL](https://ws.tsl.rocks/players/e78d1cbf682467aa8b2417212bac8612089a9912f50d5bd4bc2b0f4c3be16bfd/) | 24.05|
-| 546 | [LCFR](https://ws.tsl.rocks/players/a06f4efe72e798454d81fad9a4aef2a68b2a558eaa417f382adfbfa01b497915/) | 24.05|
-| 547 | [Minuart](https://ws.tsl.rocks/players/76fb41b2ce763900d7e4ced06d8e5c2bb3f14d0ef94f7d57ab6a61bc9a10aa0e/) | 24.05|
-| 548 | [StarChaser](https://ws.tsl.rocks/players/049447e6fe4714567ef4b75bf781264c82b80c441cabc914debb882dfa02b172/) | 24.03|
-| 549 | [Nukehead](https://ws.tsl.rocks/players/58fa22b7a3cc27779d0d1d31d78f06b7102637c4406900cda8a5f2e80fb15461/) | 24.02|
-| 550 | [Captain Awesome](https://ws.tsl.rocks/players/f3c48dd690f5873a0bc10b6c80f99fb2d2b4c27b45812d1e2533c59b7362d0fe/) | 24.02|
-| 551 | [sfxpireaus](https://ws.tsl.rocks/players/4276604f874e7529f21b4ed3df5b72f113163abbc84bfa941d01b9905d124651/) | 24.02|
-| 552 | [Stu](https://ws.tsl.rocks/players/43e9e8714878a00b7b53bf899d1efcdec54b301cece2b16f891bf13f57cb9c7f/) | 24.02|
-| 553 | [Ƭʀιƈӄʏ Ф ᴛɛʀʀօƦ](https://ws.tsl.rocks/players/df4d6d45fecb9abe433dfbd4ae3fa3c6159a62e0cd80b644f57132efb56a73be/) | 24.02|
-| 554 | [Talon Karrde](https://ws.tsl.rocks/players/7391374850b24868540cd6b5a96610fcaa5246085f35a0029eb18ef504e82b2a/) | 24.02|
-| 555 | [ĐคƦƦФฬ](https://ws.tsl.rocks/players/76d68977a587e5c1ee884483a55bf07f04e618c16c24ee3161e0bd667a22d09d/) | 24.02|
-| 556 | [VΞΠΦΜ](https://ws.tsl.rocks/players/48e1055d465f98877354fc523d43219110b60b0e0f3d4608dc7de4e8fdef584f/) | 24.02|
-| 557 | [Victor0](https://ws.tsl.rocks/players/714065b4e8ea900a09ae4edd9c2d0b003132018455bf9d606d77a452b7a5a6de/) | 24.02|
-| 558 | [Mitsuri Kanroji](https://ws.tsl.rocks/players/00a82f53ac07955b0a5cdc901a1adf1108b8f1ddae5acdc4daae1b17faba6ac5/) | 24.01|
-| 559 | [xrider632](https://ws.tsl.rocks/players/18d3aad7d38be41cea7cdbf366c562e7df0aa5d50d34f07935f6d094fbf5debf/) | 24.01|
-| 560 | [Krypton](https://ws.tsl.rocks/players/6d8cc46f497d1d5566c5c002bc897406ee249ca511e4fb2d90b3b83f3eb5c14a/) | 24.01|
-| 561 | [Braindead](https://ws.tsl.rocks/players/842d32f93a59afcea2e5fb400e4f0c59e4b2b7414fc08e27d969c2f68bf13b9f/) | 24.01|
-| 562 | [Bossier](https://ws.tsl.rocks/players/fa3335429f582107ec4c6d26cd5500d5ee47ea44cc408e6c121b2c1b8507dbc9/) | 24.01|
-| 563 | [Menemyr](https://ws.tsl.rocks/players/c499eecfd90a28cf5627400e0b0cd474c6dbc06dc570111d81f337169d0b2197/) | 24.01|
-| 564 | [RuntyGoal27670](https://ws.tsl.rocks/players/24a02d0ff471ab3e2d39cfbaf2199d34df2c1521a7a06a203b7a8f47479b324e/) | 24.01|
-| 565 | [Oorchi](https://ws.tsl.rocks/players/6c9a616281a4c7e64a7e33ba3ed352fd1e824f153bc3df7c72a0fe21f283c749/) | 24.01|
-| 566 | [Radwer](https://ws.tsl.rocks/players/508f82bdcae2bb64d3a4e2dea31417290990773e7fb618cee02942a38dc4b6e8/) | 24.01|
-| 567 | [Henrap](https://ws.tsl.rocks/players/435a0d03a63572627691f8b46b56b3c9f19ade2420de3f3f093a24cad2b63c9c/) | 24.01|
-| 568 | [MercenaryBattery](https://ws.tsl.rocks/players/1952f377ff7094f7e6d333293891c32c49b08ceff51dd7f109598c7342a75894/) | 24.01|
-| 569 | [DARKEN RAHL8835](https://ws.tsl.rocks/players/0dd86d934f94d7574f492364b044d4cb45fabc13839bcd90ad41ca326f9849ab/) | 24.01|
-| 570 | [Mushy](https://ws.tsl.rocks/players/f4018945e663a16f914a929497c02479d81a79a32aa1066fa858aa90714c6a13/) | 24.01|
-| 571 | [XxWinnslowxX](https://ws.tsl.rocks/players/b65e22b3fa826a40f4668577eb8a0c04ccb695400e9e9e61989c99a22aeb5188/) | 24.01|
-| 572 | [First Kanguroo](https://ws.tsl.rocks/players/d461816f06b7ab6c72f2179d9d5ce20c9c656fd9e4fdbb3ac91cd345e5b111d6/) | 24.01|
-| 573 | [Fienest_fien9087](https://ws.tsl.rocks/players/c58bf3d8b13b40f8b4010a9e7f396e6f911a6d81d9a72e679485fdb537af6683/) | 24.01|
-| 574 | [Joemethylxanthin](https://ws.tsl.rocks/players/408f1cc73d4c66a22bca9057a59daa0662c75489bed05af64f78f237af6c0a9c/) | 24|
-| 575 | [烬雪无痕](https://ws.tsl.rocks/players/b11598c26289a6a5ac77e2c2bbd1f937cc3e6e6c2ec0334cf07636a52257f390/) | 23.99|
-| 576 | [天青色等烟雨](https://ws.tsl.rocks/players/60eec2d6a83b0ee1556b91496256026b961724bf1771f80a751fbc591f9e0fca/) | 23.99|
-| 577 | [贪婪的心在膨胀  掠夺的手在扩张](https://ws.tsl.rocks/players/8ea9cdbd27401b69a2e50a58af36b9c85073c0089413a27f4674ea28b73752a5/) | 23.99|
-| 578 | [呜呜呜呜呜](https://ws.tsl.rocks/players/7ab51c57a8a98ab1d6aa1ec3195dcf5760cae3d64a4f8c55aa9db820d48fe283/) | 23.99|
-| 579 | [呼呼呼呼呼](https://ws.tsl.rocks/players/bd9f1f9148a4e9dbfb884292fc0cec6bef91f2a25b320d2d39ce58a1259e7a5c/) | 23.99|
-| 580 | [啦啦啦啦啦](https://ws.tsl.rocks/players/08c5a5772e41d07504454020e768bcd45d7c38d893efad75a41669ebd978ea00/) | 23.99|
-| 581 | [嘶嘶嘶嘶嘶](https://ws.tsl.rocks/players/b8bd5d9a342c358d9dd2ad89edbfc1d6c4bf7ef7de3c1bdad6488b181f18da63/) | 23.99|
-| 582 | [Rearguard4657](https://ws.tsl.rocks/players/b0f52fc51380b9ac36415ab4ae45efb344469501c15da3d103dcdcfeeb3be514/) | 23.99|
-| 583 | [Zhora](https://ws.tsl.rocks/players/c6fa4cc247e41aed01df75d69880f332a07381b118082fc833ab7bce0875b876/) | 23.99|
-| 584 | [dark_anubis](https://ws.tsl.rocks/players/be0ce5bd28c1d31028f746e856fba9e0a2446da984b1ca922d6ceba3748b8d05/) | 23.97|
-| 585 | [KREATOR](https://ws.tsl.rocks/players/7663f3c9b8c21646f2f987c680be1eedfd4f2fa561ed6d556c26fadea994b6ac/) | 23.97|
-| 586 | [Симониус](https://ws.tsl.rocks/players/0bbfd100d9d092472a103de11e449dee9bfef978926031f0894b3c4e3b44e6f1/) | 23.97|
-| 587 | [ВОВАН500](https://ws.tsl.rocks/players/e38f7f96cac5c9c4b00635ca816da08def88d5da18d5f8dea2e9967037f1ad46/) | 23.97|
-| 588 | [BrassRuffian](https://ws.tsl.rocks/players/c4b6fa70cbb80b5c4eaf6ae3b6194662a679af586ab5a36d89f6791e547a9536/) | 23.97|
-| 589 | [Legnum_JDM](https://ws.tsl.rocks/players/9b21d7aa768b61a3428e8745cd36bc906369aae2f50b0cea7952af8946c1b8ae/) | 23.97|
-| 590 | [Morlock](https://ws.tsl.rocks/players/59be4b4593b3fc6a2b0f4f385a1ef9ea855facd1d31a42a12105ad24fb25a789/) | 23.97|
-| 591 | [stkell](https://ws.tsl.rocks/players/4805e9aa34cdfccaf8827e9641df7aea31c93dc650cb5dc0c94908f208c0dc05/) | 23.97|
-| 592 | [denyr](https://ws.tsl.rocks/players/d2d5494d80409417da69df161c0d26d331bfef77792c9cd2733a7bea0a04e3bf/) | 23.97|
-| 593 | [Bengereng 2.0](https://ws.tsl.rocks/players/2652fc5e2ec610ad40129036e7fe74594710a69d65a04409dfb2dcf1216559f9/) | 23.97|
-| 594 | [Disdyakis Alizar](https://ws.tsl.rocks/players/83f53fe18e4186951830ccde2bd8e4c5f9fadea408e5ee7d69d93b8e3448d3c0/) | 23.21|
-| 595 | [卡布奇诺](https://ws.tsl.rocks/players/ce24d03d4bf157fce1071b919acc6b79ce9c77d0c940ef8376601f9ddbd9f105/) | 23.19|
-| 596 | [哈哈哈哈哈](https://ws.tsl.rocks/players/d68bffae8a7c4b0ba33ffbc8058def1b7c9f19219f9e271f2cecef0fff48105a/) | 23.19|
-| 597 | [啊啊啊啊啊](https://ws.tsl.rocks/players/51ef2857fccfaaf86bdb016325ee12c3858645e05da2f3d2d073d6895c82a43d/) | 23.19|
-| 598 | [schro](https://ws.tsl.rocks/players/91c2af275db4a790907b7e5c51a249556e3943f1d170114d45cf256183d0dab7/) | 23.09|
-| 599 | [zebulonxii](https://ws.tsl.rocks/players/7c393bc1cbdcc35698a8343263cb51bb0938cf52a8f4c70a88456b5c08310360/) | 23.07|
+| Rank | Player Name    | Rating |
+|------|----------------|------------------|
+| 1 | [XACOB](players/540dde0468de6358e5394b7ea39e4843f3d77e49b3e54dd3079dc0236396255c/) | 28.35 |
+| 2 | [Rune](players/51a5be2b3461a56fbca275678716d8cee05d67a3bb591f087b006a5f8a548f8f/) | 27.74 |
+| 3 | [First Order](players/6b6b254f90fd7e6bd4bbf6c895ffaaca48f7cd4cf890b4a3b3706b19e7f889b4/) | 27.74 |
+| 4 | [VerifiedHuman](players/45ef9f3e490e5a74c702f3dc97b15d9d4a7207c66956e1624ebd36a4e2614d03/) | 27.65 |
+| 5 | [Reque](players/82a906fd029b96a8fe9e60a83439d9f0eda6dd6f254c05baf317a54514dbf113/) | 27.61 |
+| 6 | [PotatoTomato](players/e2ede1ce209f19c8c5197ff4082ab4c63b447448816153086ec3e244959ef1d1/) | 27.22 |
+| 7 | [Dark Knight](players/e58c0f015fe5206981af46c97e453542e14a473ebd521c48984939caa2ae6aca/) | 26.93 |
+| 8 | [Chara](players/3f9468b1199e09244147be38ab1c35a23aeeb152afd750c07acf5791362d0a8c/) | 26.86 |
+| 9 | [curlytoorich](players/028bc351a6c127560d9ddd9b0770fee31309d8539913d448b560f70b489c2c4e/) | 26.82 |
+| 10 | [TheOldRepublic](players/d1fa734cc5aac45d3ecfed30f502737c3e6eb9b6499da32f442efc863264bdca/) | 26.82 |
+| 11 | [SKAI](players/6a38b9aa4ed6baf5d01f61aa1ad8277ca371bf2ed56a3deadccc97f2e464a38c/) | 26.82 |
+| 12 | [Alaric](players/d144209a8eb5bde652761268b56b8fa13c55e817d145b5e1ac8a9681a3069ddf/) | 26.78 |
+| 13 | [Schoon](players/d89a7e1a52909addb7e154a08978480986a78f7acbe7208c794c81d48c0027d0/) | 26.78 |
+| 14 | [mrbar42](players/34b281c3c7754233c5e6ac34755a90a65e85e5f79ebd01496adea2f67c40baa1/) | 26.78 |
+| 15 | [dragoth](players/2b50fb9d35d81ae3485f4e98804efb3d9a50a2306421d6ccb2644ce849489beb/) | 26.78 |
+| 16 | [_GEDZA_](players/8eb83273ea585d522392d9d7b060d602238f94ccf3c041a918fbc542d3213810/) | 26.78 |
+| 17 | [Thirteen](players/d8a709c7b39211713bb0042b8723b4ccc2a97610fbedb223d766837c6fadb1e0/) | 26.78 |
+| 18 | [Draconys](players/32b7dd8f60a32d2df6171f089224e88b6e149dd3ae21a776c64470f05268e333/) | 26.78 |
+| 19 | [Darwin](players/6f81a27807b85667673f2136e0da5cb120ff9e680ee0c7c9063576cf04c1886b/) | 26.78 |
+| 20 | [Cecret](players/4910b8a8c4f9fdee90344e7088659d3efcbdcb5372e3e269bd1754a06a81880a/) | 26.74 |
+| 21 | [Willie B](players/e932f03af78b13b6eb69630711eb4d41323ee2812e4aee33b22c18750ef8cdf3/) | 26.74 |
+| 22 | [Sleepy!4ever](players/05f0b62709182798120b0435c8a38259fcf582def904fffd99034e1aef2be34d/) | 26.74 |
+| 23 | [Killua](players/dbcd5281265a91f6620ff855bf55e86d70ab2650e3c64a3b82e7276c2a1bc2d0/) | 26.74 |
+| 24 | [iNFAMOUSJACK](players/22b32889efa603e996d92f907ba536f53a2f59248f193ebc5088c1aacf83ab18/) | 26.74 |
+| 25 | [Tr4pcore](players/4be9a3f7054b9d21b0822558cf4a078763bd9166f106572732b467acfc2a314e/) | 26.74 |
+| 26 | [Space_C0wboy](players/2bf67f68ddfb52d905327da9c5e52517798ad7015df04f628ebbc7042c8ce03e/) | 26.74 |
+| 27 | [Wheatstone](players/0c6cf2a2f20a880daa26389738ec124fceb85ee9eabdff960f509a1e5f7e0218/) | 26.72 |
+| 28 | [CaptainBarnicles](players/3949ec37541747c779a621abc4afe5287f0f9b03a0ead8136fa9803c318f383d/) | 26.72 |
+| 29 | [Ligaya](players/81013f1097dd05e3a353b12c21237ec20836b93d00fc6d9d2d4f78933d36f9d3/) | 26.71 |
+| 30 | [CopiousGallery14](players/05b0fe7c0071dd918c7857d905da9099d9faf866007dccce10588ec285a66d70/) | 26.39 |
+| 31 | [WarMage](players/bd32195e443280ae5a4bf844fb0171c3a7fcd5722c0f7f71b899ad816f3f117d/) | 26.28 |
+| 32 | [zoomzoomdoom](players/dd5d73ff4c18afd3eccc333c958e163eac693a08612d83e06d178791d97e2895/) | 26.28 |
+| 33 | [Prizefighta](players/3fb791a83e1e179386e273211a9ea5b0a812d97c677f737ef3ae1258275ae09b/) | 26.28 |
+| 34 | [Sefu](players/6fecb690baaeb876d12df0b8801e7f1a65a003bc41589dec69406386b5b7b4f6/) | 26.2 |
+| 35 | [Willie C](players/5bbdf5c12ff5e0c25e5eb99fcd4f638213c53e830b9e45704bf993fd9850e045/) | 26.2 |
+| 36 | [Kasey](players/6c1c2999155fca88b1124e72a5efcd93ac926069d9a11af135dfc9845ad98c19/) | 26.2 |
+| 37 | [ZeroG Bandit](players/5682b955fe260ec64125b77b453daa64b6c5244f418d2fc0b68e6de38206b478/) | 26.2 |
+| 38 | [MrCocaKoala](players/941e3f8c876a5e91be20a831c251fe5b7c9e1ca129a2d03a7aea49f5ac6a8c1f/) | 26.2 |
+| 39 | [dasefx](players/d79d31c0c295506e5b254b453f7b43733b4475cf4affd77c5b477712130af963/) | 26.2 |
+| 40 | [Mahtarea](players/e101172c1e929ece155cf82ba30e3f8550a310fee9c04e209124b74b4e9cff94/) | 26.2 |
+| 41 | [Keyan](players/3ba8d8652b2b23ff0bf94a9d199d25bb7bd78fa9eef5fda507ef758aca78065a/) | 26.2 |
+| 42 | [Syoga65RUS](players/b2fe05102fba5bdee9ce2f4f554770486ce96ef11db5019e0e44787a24119701/) | 26.04 |
+| 43 | [WT4](players/b8607d1fdbd7a51f21e84d71243639ba4ab9d7422e09a870ee63e07e2bac3303/) | 26.04 |
+| 44 | [ДИМА 32RUS](players/83d9c38e96ec401c3666881ad43008458ec1c4e183eb4ef3ed106ddeeecd57e7/) | 26.04 |
+| 45 | [exsimeister](players/86a99027a4b349da03cb144a7c3020ad79c830216064485ced8a31f5d2250936/) | 26.04 |
+| 46 | [TANUNAH](players/eee841ee49f742ee9788f078dfc5a1cc05121685b4181a18b5582a19100a3676/) | 26.04 |
+| 47 | [Шах и Мат](players/5c9a53f812894857303ea3954639b300873de06e811f2e1cbd2737160ea50bc0/) | 26.04 |
+| 48 | [MakJlyxa](players/5c36e482db50aa4031f6294fa564c8735a30799e55093e49140d4c98edba35b7/) | 26.04 |
+| 49 | [YriiGagarin](players/4aa0d0391b5240b1ebeb82248c85445114492087082b5c877e8f0e9aac8a350d/) | 26.04 |
+| 50 | [ナイトスター](players/203aea39b2ae8cecef36cee25b945c0d9b1e87171ee2ebcdb26b5aeceee51585/) | 26.04 |
+| 51 | [draquila1](players/e0b28a9cdbee9e4ca4d81b08be27a20d353904086b82c2a4aa4ccc6a2a95c459/) | 26.03 |
+| 52 | [lurokus](players/496e6c833d86441440ce6301fc2f892f86a9f8b33bef5201d65cd3fffdb8b9c6/) | 26.03 |
+| 53 | [FatTalker](players/021ecbd83559cc87c5ebf4ac8e7a548bc4607de8239626300cd7d65a33c512c6/) | 26.03 |
+| 54 | [Corvec](players/76f4438ccdf2989aac5cf44ffe9d3159891f719fd91554ea54b1b84010610322/) | 26.03 |
+| 55 | [VLͥAlͣkͫ](players/b094394fb52dda6ef0e043247b0417145aa647c925bb9a6c05f4ae40894c1e3b/) | 26.02 |
+| 56 | [Okeush](players/cfd0a085ac537930a1940b01ead1f2cfbc22c7f141b33eab284881a481ae411a/) | 26.02 |
+| 57 | [G.I.Joe](players/b2b752dad46f60de048c8f68d31754c49e36eea574a41ad26b8f023f6623545e/) | 26.02 |
+| 58 | [Vovan_737](players/5a29912efe7e15e8219263904bb3f5067e1c4cb99800cb89989e200c260c9563/) | 26.01 |
+| 59 | [Klistir](players/e211ee95c2513970304bac1ef67214764eb9b45c4b08bf315029a14891191c24/) | 26.01 |
+| 60 | [Ryaven](players/8317b76ac802a042b9733b2e9fe9b47be25727fdb5a0ca2ed61f86ff5174f881/) | 26.01 |
+| 61 | [Хило](players/05fd5a1f9a8789a56da045e773b5fb8e441998c54877f525c463a4c4e2b36f67/) | 26.01 |
+| 62 | [DemosSLD](players/7504e448ebfbe0db06b114e4be8f8b84d2f272222f23787e3488ed3e1ab1955c/) | 26.01 |
+| 63 | [Furia](players/fe772adb57ef0836ecf2b337fe8974c3738375c166435e10c4e1ee9b8ccb5727/) | 26.01 |
+| 64 | [TRUST ™](players/31be3d8682ee9444946b6a61f886f3c01e970f895d3008d4bc1c71730360a061/) | 26.01 |
+| 65 | [D13ANTWOORD](players/591a5da82d7eeee6f17a6cce5c1fbf5a98500e1314c3904674b8118b176df0b5/) | 26.01 |
+| 66 | [vdruzh](players/84c9ab78784420e18eaeac9656de1e98bf743d2476b1ae2ab5f376450ec71068/) | 26.01 |
+| 67 | [✴☄⚔SergLord⚔☄✴](players/cc8daa3691e80f48cad95bbbb371fd0e5c02526ad3a20a4972b95129c24ea870/) | 26.01 |
+| 68 | [AkselM](players/51298bf887acb1df3647423acd694603b00eb7617147566003c16520d1ec0177/) | 26.01 |
+| 69 | [God_of_Death](players/275d23be76dcb9fadc3dd7465d22b60256b497251267533a85a31282627c2e28/) | 25.99 |
+| 70 | [Archenzo](players/5f0f2cc35f1150f078c7e346e1749dbe05467a776082316f318a0cf8f08cb676/) | 25.99 |
+| 71 | [samhandwichson](players/c2cd71a5e810af32d0da180d73f25a8b0843917a5ba780ee8347f002b8a867fe/) | 25.99 |
+| 72 | [LegitWrecker](players/cfcc23583b96d682c7b4c72601553c75b36df227d4c8c17dc51bb1a0b58277f0/) | 25.99 |
+| 73 | [Viperisback](players/83db06886bc4f2cd68397bb726da5d7d30fd6455d01ab7425bc81102e54f502a/) | 25.95 |
+| 74 | [crashed1001](players/2f0794ba0d65357094b8d543215118a83b706078b198390e012f0557a7e428eb/) | 25.95 |
+| 75 | [shers](players/29adc784f5d4641ae9574b460ed0db449ae697802a085364e3f7deb5c272a89b/) | 25.95 |
+| 76 | [MrAlGore](players/000e14527b0051422e8399c98d65c02460657b0133f9ac81723ccbf8bb174249/) | 25.95 |
+| 77 | [assassin319x](players/7b31a0265b0aa791e885d19a0832d401c437fa40f55e7163f5d0733cc59c3e11/) | 25.95 |
+| 78 | [Daclaw](players/c95be9631fbb36173dd8746912ad2924c5dbd8eb50160985878740895627981f/) | 25.95 |
+| 79 | [Whiska](players/a34c5fe5493f1e5e0d772a4f4f06918a265ae35e24182aae9fc2487ee708225e/) | 25.95 |
+| 80 | [VoodooCrawfish](players/323da44f6f99b3665298e11d54bbdb94cd66057066db0338cfa16daf5eb0bae1/) | 25.94 |
+| 81 | [08jordanc](players/e62a529b2a6a065e00b7dfc82736a3905598d41447865546dcf76584d5c0e068/) | 25.94 |
+| 82 | [Hunr3n](players/cdd073fd7275a2d88f1c9a9c350f786b9b3b0e219a71838d2f2532784bb46bab/) | 25.94 |
+| 83 | [***](players/101bb27ee4e6d6d2fc0a26339841fe9bf4e8aa2cfb0de87abe29252d751a9fa5/) | 25.94 |
+| 84 | [xenozex](players/65b5b283dc7600747912971841008a4911d6337c0097d9ca370b4664aa6ab37d/) | 25.94 |
+| 85 | [landstar](players/80baab2d9fe2532b988c24f7d6a902d7f14b8463aa010f899588e012619a94b0/) | 25.94 |
+| 86 | [quevesman](players/7a99878bc3a5b3f84dd968a4573c732d209c88dc79906b32532d646e5b5e0608/) | 25.94 |
+| 87 | [whoabeast](players/4714b9bdd9a5fd252575a36411a4e67ae77a1870e1deaf9266f19cdb3c436277/) | 25.94 |
+| 88 | [Orion](players/ec2037030819bac80ba975d796710ee170902a622e0d5ad49680a78e6e34c03f/) | 25.94 |
+| 89 | [Nexus Defender](players/791372dc080783afbf75b459de123e2311b622bdd39060011bf1c4cd6569974e/) | 25.94 |
+| 90 | [kirs734](players/6616164712829d64d56508336aa8bf6dc7b62a8a20b1e91a15e91c692576aec8/) | 25.94 |
+| 91 | [MaggotPhRo](players/9458079578d49e57b7b01f71e98f92c65cbf8eca0da84ce6aa0dd35340dcab22/) | 25.94 |
+| 92 | [DrMineword](players/3d769addc40f624babdf7e468a72251069628c077ba89e7b426f9f8396ea44c4/) | 25.94 |
+| 93 | [The Red Defender](players/2ab2384a72db5154a27dc79008499511c91a521c521593aa6533b4935f3cc533/) | 25.94 |
+| 94 | [Mulan](players/b99489f837bb3dcc430dcc6ea5bb826ac95f2cdefeee1f9dab0c5c2c2a4cf463/) | 25.94 |
+| 95 | [NoApologies](players/d19d3ddc8861c79098ba8e3a8c712f2f605e95090b6f15c8d36bcd3579a3fc4f/) | 25.94 |
+| 96 | [BörkBörk](players/45a9069b770c69e1a8ddf8baca41fa79d9cf09c22611f97261bba34bea2fda38/) | 25.94 |
+| 97 | [kirs734](players/cb4ab1bb15a047032a3b97505d4c8f17c342a9efde3a9efac02243dea20daf84/) | 25.94 |
+| 98 | [BörkBörkBörk](players/3b98869bdfad2c3edf88ca2a8ef083d4971983405ce3fa349cb04e3ca708ef33/) | 25.94 |
+| 99 | [SlAyER1](players/3e1f1c761748e1b75e5b620ed8bc6c5c9a7d82473b900328dc633ef61508112f/) | 25.93 |
+| 100 | [Neitsabès](players/d66152ae55a4b4dd3d2262bd2a0029a305a250769109bb38f801419f74691e26/) | 25.93 |
