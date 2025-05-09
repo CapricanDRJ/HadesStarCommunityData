@@ -1,6 +1,6 @@
 ---
 title: ​Terran empire 
-description: W:18 L:3 D:0 Bonus ✅ 
+description: W:18 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 28 - 2 **DarkSide**
 date: 2025-05-02T22:10:29.000Z
@@ -15,7 +15,7 @@ date: 2025-05-02T22:10:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
