@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:5 L:7 D:1 Bonus ✅ 
+description: W:6 L:7 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 16 **Winter Star llc**
-date: 2025-05-08T22:12:47.000Z
+Summary: ✅ 2 - 0 **龙族之家**
+date: 2025-05-09T08:33:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-05-08T22:12:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (564)|
-| ELO Competitive | 1235 🔻  (504)|
-| Total Matches | 13 |
-| Wins | 5 |
+| ELO Regular | 1211 🔺  (470)|
+| ELO Competitive | 1259 🔺  (429)|
+| Total Matches | 14 |
+| Wins | 6 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746310367,1745763269,1745761766,1745325742,1745274041,1744892687,1744799833,1744356294,1744032341,1743867051,1743516340,1743430695,1742997901];
+        let timestamps = [1746347597,1746310367,1745763269,1745761766,1745325742,1745274041,1744892687,1744799833,1744356294,1744032341,1743867051,1743516340,1743430695,1742997901];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/09 | 2-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
 | ❌ | 2025/05/08 | 0-16 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2025/05/02 | 1-2 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ✅ | 2025/05/02 | 5-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
@@ -155,5 +156,5 @@ Corporation ID: 12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746742367"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746779597"></span>
 </div>

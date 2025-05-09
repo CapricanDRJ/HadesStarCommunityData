@@ -23,7 +23,7 @@ https://discord.gg/SCWbttfZbU
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1063)|
+| ELO Regular | 1169 🔻  (1064)|
 | ELO Competitive | 1172 🔻  (1196)|
 | Total Matches | 4 |
 | Wins | 0 |
