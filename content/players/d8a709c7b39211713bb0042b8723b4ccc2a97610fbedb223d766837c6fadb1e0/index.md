@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Thirteen"
+description: "Thirteen}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

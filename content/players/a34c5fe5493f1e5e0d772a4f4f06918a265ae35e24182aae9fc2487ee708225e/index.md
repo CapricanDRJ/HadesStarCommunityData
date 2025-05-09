@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Whiska"
+description: "Whiska}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.95  

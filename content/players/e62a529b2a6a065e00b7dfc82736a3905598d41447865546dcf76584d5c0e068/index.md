@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "08jordanc"
+description: "08jordanc}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

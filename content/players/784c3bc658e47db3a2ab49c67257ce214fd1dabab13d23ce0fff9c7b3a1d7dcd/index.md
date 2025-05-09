@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dronin"
+description: "Dronin}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

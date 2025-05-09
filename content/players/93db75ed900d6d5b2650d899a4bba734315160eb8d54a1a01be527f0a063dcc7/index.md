@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Luiz"
+description: "Luiz}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ConcentricSword4"
+description: "ConcentricSword4}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

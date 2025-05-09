@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "GroudonRamsay"
+description: "GroudonRamsay}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

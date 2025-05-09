@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AkselM"
+description: "AkselM}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

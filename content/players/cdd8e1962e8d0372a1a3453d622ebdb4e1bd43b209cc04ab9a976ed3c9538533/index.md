@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Kristofer"
+description: "Kristofer}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

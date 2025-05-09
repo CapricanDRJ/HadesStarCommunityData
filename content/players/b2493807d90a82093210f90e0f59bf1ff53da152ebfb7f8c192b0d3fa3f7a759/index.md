@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "WarySamurai1055"
+description: "WarySamurai1055}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

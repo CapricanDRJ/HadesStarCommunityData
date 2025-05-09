@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Disdyakis Alizar"
+description: "Disdyakis Alizar}"
 ---
 - **WhiteStars**: 2
 - **μ**: 23.21  

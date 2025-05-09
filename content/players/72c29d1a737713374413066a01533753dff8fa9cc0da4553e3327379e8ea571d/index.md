@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Vandall Alliance"
+description: "Vandall Alliance}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.12  

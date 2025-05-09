@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "BossRobot"
+description: "BossRobot}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

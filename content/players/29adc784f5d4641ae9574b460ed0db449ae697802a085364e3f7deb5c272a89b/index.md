@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "shers"
+description: "shers}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.95  

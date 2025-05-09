@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Starlight"
+description: "Starlight}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

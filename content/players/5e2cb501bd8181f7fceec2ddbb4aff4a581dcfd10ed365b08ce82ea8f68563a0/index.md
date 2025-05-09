@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Darth_Niko (URU)"
+description: "Darth_Niko (URU)}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

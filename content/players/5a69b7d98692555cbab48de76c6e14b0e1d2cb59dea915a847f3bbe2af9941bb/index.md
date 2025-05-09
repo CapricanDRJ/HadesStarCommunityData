@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Buffalodan"
+description: "Buffalodan}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

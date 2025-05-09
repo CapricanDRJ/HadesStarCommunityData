@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Flavia Firma"
+description: "Flavia Firma}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.14  

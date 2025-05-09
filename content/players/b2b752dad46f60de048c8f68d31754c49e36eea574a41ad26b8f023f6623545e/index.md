@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "G.I.Joe"
+description: "G.I.Joe}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.02  

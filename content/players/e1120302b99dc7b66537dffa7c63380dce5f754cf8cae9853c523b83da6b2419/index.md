@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Lambtron"
+description: "Lambtron}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.01  

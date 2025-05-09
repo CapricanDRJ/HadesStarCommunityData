@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "⭐YaHOo-ею⭐"
+description: "⭐YaHOo-ею⭐}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

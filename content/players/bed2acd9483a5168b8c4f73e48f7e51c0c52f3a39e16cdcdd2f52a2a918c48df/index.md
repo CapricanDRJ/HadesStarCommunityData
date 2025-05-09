@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Sashulkin"
+description: "Sashulkin}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

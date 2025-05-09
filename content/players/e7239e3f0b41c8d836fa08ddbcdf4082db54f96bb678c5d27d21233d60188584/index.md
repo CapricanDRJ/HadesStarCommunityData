@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "CharismaticLeo"
+description: "CharismaticLeo}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

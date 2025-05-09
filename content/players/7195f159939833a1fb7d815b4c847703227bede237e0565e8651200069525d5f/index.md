@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mhor"
+description: "Mhor}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

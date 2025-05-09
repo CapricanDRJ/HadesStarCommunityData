@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "海莉艾塔"
+description: "海莉艾塔}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

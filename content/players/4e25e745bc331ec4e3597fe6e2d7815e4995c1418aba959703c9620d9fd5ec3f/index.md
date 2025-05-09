@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "PrinceOfTheRoast"
+description: "PrinceOfTheRoast}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

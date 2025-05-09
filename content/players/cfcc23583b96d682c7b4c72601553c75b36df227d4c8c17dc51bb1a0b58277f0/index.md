@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "LegitWrecker"
+description: "LegitWrecker}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.99  

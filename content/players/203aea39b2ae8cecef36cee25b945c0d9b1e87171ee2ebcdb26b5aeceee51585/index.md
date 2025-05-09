@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ナイトスター"
+description: "ナイトスター}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

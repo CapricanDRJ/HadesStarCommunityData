@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Storm"
+description: "Storm}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

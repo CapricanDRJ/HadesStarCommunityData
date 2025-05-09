@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "N0DUS1"
+description: "N0DUS1}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.10  

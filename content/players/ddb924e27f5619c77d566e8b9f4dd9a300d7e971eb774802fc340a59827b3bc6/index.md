@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AFK"
+description: "AFK}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

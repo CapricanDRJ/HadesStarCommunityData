@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Soviet Union"
+description: "Soviet Union}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.07  

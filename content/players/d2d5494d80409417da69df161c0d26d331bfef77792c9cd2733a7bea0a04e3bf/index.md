@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "denyr"
+description: "denyr}"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

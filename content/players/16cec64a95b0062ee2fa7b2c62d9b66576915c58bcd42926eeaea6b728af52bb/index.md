@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "brightnight"
+description: "brightnight}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.01  

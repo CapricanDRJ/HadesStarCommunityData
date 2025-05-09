@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Red-is"
+description: "Red-is}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "gagauz2"
+description: "gagauz2}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

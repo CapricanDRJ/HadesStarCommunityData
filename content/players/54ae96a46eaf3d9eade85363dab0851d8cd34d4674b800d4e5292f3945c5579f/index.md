@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ryebrand"
+description: "Ryebrand}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

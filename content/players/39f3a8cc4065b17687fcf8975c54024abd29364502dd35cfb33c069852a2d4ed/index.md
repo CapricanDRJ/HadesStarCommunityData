@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ᵗᵐFantasma☯︎"
+description: "ᵗᵐFantasma☯︎}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

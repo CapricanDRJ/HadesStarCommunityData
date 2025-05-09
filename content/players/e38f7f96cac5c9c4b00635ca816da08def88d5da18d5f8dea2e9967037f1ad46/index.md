@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ВОВАН500"
+description: "ВОВАН500}"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

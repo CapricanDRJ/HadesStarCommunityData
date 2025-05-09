@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "辰砂Cinnabar"
+description: "辰砂Cinnabar}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

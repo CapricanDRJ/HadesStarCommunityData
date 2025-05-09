@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ArcterniuS"
+description: "ArcterniuS}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

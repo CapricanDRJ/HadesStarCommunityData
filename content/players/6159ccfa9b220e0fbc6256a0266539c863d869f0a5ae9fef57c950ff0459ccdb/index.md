@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Solanos Rex"
+description: "Solanos Rex}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

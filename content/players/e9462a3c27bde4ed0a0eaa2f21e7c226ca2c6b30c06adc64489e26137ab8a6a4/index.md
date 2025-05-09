@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "十六夜咲夜"
+description: "十六夜咲夜}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

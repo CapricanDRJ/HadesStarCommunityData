@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Lexx"
+description: "Lexx}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

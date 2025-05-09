@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "zebulonxii"
+description: "zebulonxii}"
 ---
 - **WhiteStars**: 2
 - **μ**: 23.07  

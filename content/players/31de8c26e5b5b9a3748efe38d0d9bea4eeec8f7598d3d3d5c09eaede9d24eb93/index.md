@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Zhora"
+description: "Zhora}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

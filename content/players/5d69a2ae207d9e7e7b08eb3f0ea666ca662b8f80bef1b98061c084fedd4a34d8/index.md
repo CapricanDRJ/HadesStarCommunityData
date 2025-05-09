@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "帝王星"
+description: "帝王星}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

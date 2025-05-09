@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "dalik"
+description: "dalik}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

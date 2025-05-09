@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "mimimi"
+description: "mimimi}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

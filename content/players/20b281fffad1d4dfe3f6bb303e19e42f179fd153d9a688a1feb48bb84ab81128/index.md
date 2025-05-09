@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Князь Света"
+description: "Князь Света}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

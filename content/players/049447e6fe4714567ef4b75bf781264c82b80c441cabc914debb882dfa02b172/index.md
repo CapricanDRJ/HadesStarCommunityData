@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "StarChaser"
+description: "StarChaser}"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.03  

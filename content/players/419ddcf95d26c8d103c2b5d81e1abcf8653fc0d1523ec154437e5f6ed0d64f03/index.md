@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Senitia"
+description: "Senitia}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

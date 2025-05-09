@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Crashed Tater"
+description: "Crashed Tater}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

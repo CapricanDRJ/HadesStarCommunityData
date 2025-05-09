@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Avey"
+description: "Avey}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

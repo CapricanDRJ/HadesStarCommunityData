@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Asiphia"
+description: "Asiphia}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

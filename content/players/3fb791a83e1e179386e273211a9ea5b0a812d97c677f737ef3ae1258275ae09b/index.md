@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Prizefighta"
+description: "Prizefighta}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.28  

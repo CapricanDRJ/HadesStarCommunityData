@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Daleth Alizar"
+description: "Daleth Alizar}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.14  

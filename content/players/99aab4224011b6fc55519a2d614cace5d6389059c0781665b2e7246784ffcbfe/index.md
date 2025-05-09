@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SopHie 87"
+description: "SopHie 87}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

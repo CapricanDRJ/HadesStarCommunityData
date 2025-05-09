@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "枫咕"
+description: "枫咕}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

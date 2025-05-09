@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Moin"
+description: "Moin}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

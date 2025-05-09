@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dark Matter"
+description: "Dark Matter}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

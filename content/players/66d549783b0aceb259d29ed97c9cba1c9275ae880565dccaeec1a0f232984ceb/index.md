@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "CORREGIDOR"
+description: "CORREGIDOR}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

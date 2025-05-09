@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Schoon"
+description: "Schoon}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

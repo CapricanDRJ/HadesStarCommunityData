@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "General Pryde"
+description: "General Pryde}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.91  

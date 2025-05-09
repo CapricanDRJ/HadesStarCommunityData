@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "WING☯CHUN"
+description: "WING☯CHUN}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Centrius"
+description: "Centrius}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

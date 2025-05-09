@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "desillusion"
+description: "desillusion}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

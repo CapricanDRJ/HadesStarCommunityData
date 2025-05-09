@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Сүка"
+description: "Сүка}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Valenvaryon"
+description: "Valenvaryon}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

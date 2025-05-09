@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "VerifiedHuman"
+description: "VerifiedHuman}"
 ---
 - **WhiteStars**: 3
 - **μ**: 27.65  

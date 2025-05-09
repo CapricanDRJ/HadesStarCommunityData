@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Death Lurks"
+description: "Death Lurks}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

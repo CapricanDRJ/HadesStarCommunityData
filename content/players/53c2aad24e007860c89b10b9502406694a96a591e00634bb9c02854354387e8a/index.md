@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "franktastiko"
+description: "franktastiko}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

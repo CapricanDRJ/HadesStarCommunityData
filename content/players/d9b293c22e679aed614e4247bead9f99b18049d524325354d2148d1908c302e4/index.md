@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "雷霆统治者"
+description: "雷霆统治者}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

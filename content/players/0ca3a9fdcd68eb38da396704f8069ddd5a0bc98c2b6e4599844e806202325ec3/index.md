@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Citizenband"
+description: "Citizenband}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

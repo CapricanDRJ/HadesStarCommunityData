@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ardjony"
+description: "Ardjony}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

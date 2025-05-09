@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Strathclyde"
+description: "Strathclyde}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

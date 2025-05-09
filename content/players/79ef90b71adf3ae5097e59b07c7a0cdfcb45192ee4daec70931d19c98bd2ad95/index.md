@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "King of Champ II"
+description: "King of Champ II}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

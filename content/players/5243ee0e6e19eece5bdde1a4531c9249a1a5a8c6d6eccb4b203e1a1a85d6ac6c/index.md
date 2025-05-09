@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "gerloon"
+description: "gerloon}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

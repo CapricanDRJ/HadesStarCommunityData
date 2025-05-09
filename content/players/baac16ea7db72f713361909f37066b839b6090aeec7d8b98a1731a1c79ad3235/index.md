@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "jeprox"
+description: "jeprox}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

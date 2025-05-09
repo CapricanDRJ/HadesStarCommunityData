@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "King Champagne"
+description: "King Champagne}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ironhead"
+description: "Ironhead}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.81  

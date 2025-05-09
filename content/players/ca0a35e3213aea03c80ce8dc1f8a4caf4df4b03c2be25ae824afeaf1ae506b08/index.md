@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DeGoSaurus"
+description: "DeGoSaurus}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

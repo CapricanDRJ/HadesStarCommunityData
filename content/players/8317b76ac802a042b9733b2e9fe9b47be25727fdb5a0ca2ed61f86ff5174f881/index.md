@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ryaven"
+description: "Ryaven}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.01  

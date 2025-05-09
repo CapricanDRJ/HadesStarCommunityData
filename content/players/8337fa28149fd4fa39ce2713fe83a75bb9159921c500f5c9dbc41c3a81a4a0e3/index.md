@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "КОБР"
+description: "КОБР}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

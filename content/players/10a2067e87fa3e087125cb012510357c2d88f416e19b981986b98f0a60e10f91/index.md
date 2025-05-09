@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "tedtex"
+description: "tedtex}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

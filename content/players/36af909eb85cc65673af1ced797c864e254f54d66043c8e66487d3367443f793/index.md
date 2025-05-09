@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "HKDamian"
+description: "HKDamian}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

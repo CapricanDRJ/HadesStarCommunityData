@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Arti"
+description: "Arti}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

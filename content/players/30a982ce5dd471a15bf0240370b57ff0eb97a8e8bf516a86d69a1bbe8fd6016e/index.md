@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "redismagadan"
+description: "redismagadan}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

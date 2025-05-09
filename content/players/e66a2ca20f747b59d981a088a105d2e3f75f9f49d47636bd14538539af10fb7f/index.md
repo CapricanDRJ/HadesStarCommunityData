@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Psyker"
+description: "Psyker}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

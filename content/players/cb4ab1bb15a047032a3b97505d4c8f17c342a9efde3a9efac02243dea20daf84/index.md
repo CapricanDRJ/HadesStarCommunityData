@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "kirs734"
+description: "kirs734}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Talona"
+description: "Talona}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Alaric"
+description: "Alaric}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

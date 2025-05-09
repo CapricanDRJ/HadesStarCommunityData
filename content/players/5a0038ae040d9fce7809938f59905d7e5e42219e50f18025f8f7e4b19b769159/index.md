@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "purpl3sniper961"
+description: "purpl3sniper961}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.02  

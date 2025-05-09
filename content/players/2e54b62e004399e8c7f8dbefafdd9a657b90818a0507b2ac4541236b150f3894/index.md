@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Space Pirate-Z"
+description: "Space Pirate-Z}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.08  

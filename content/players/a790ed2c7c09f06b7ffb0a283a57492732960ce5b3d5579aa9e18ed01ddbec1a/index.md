@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Krunaro"
+description: "Krunaro}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

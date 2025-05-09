@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "First Order"
+description: "First Order}"
 ---
 - **WhiteStars**: 3
 - **μ**: 27.74  

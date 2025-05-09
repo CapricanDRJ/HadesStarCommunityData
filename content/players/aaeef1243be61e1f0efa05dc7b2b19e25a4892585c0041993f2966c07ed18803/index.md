@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Thomy"
+description: "Thomy}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

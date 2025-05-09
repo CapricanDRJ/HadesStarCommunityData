@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Lt.Fluffytail"
+description: "Lt.Fluffytail}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.89  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "3Shadows"
+description: "3Shadows}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

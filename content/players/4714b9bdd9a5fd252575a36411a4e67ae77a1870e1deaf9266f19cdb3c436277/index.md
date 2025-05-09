@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "whoabeast"
+description: "whoabeast}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

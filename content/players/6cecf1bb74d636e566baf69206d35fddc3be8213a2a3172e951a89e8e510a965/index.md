@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SageSharkCat"
+description: "SageSharkCat}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

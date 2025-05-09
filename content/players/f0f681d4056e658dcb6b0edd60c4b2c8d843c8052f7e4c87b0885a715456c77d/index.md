@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Doomsday"
+description: "Doomsday}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

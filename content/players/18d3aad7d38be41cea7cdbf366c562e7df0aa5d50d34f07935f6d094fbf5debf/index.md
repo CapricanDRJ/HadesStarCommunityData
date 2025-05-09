@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "xrider632"
+description: "xrider632}"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.01  

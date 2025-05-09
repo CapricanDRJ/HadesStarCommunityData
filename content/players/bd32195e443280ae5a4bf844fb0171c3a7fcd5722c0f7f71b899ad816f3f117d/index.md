@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "WarMage"
+description: "WarMage}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.28  

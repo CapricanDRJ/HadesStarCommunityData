@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Syoga65RUS"
+description: "Syoga65RUS}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

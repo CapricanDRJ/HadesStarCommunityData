@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "夜月冥"
+description: "夜月冥}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

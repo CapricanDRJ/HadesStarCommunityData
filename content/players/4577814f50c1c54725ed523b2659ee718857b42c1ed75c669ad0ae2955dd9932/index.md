@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "LeonineAlpha"
+description: "LeonineAlpha}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.90  

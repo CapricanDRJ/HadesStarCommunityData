@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ElatedPhantom127"
+description: "ElatedPhantom127}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Spaceball"
+description: "Spaceball}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

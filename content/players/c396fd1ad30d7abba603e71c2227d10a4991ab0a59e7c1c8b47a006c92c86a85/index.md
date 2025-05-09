@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Degsperados "
+description: "Degsperados }"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "iNFAMOUSJACK"
+description: "iNFAMOUSJACK}"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.74  

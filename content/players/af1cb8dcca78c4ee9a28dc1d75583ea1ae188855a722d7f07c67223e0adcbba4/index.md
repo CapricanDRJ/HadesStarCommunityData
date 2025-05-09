@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Kelux"
+description: "Kelux}"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.80  

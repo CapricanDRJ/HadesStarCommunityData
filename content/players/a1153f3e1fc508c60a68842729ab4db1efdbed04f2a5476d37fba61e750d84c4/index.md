@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "BulletzBre"
+description: "BulletzBre}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

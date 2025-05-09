@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DaviB50"
+description: "DaviB50}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.88  

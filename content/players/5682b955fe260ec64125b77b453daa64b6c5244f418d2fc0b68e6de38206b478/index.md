@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ZeroG Bandit"
+description: "ZeroG Bandit}"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.20  

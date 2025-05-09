@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "BrassRuffian"
+description: "BrassRuffian}"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

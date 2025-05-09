@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SoDoMoN91"
+description: "SoDoMoN91}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

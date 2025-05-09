@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Impuls"
+description: "Impuls}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

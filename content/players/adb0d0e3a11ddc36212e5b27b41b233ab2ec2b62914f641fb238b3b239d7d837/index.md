@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DiogoMFDS2"
+description: "DiogoMFDS2}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

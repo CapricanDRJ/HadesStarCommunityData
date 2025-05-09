@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "VoodooCrawfish"
+description: "VoodooCrawfish}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

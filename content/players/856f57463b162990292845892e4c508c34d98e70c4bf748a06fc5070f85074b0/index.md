@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Olsin"
+description: "Olsin}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

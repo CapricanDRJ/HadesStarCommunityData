@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "kalls"
+description: "kalls}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

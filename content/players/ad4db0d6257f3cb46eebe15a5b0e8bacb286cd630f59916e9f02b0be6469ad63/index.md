@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Kestra Akadi"
+description: "Kestra Akadi}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

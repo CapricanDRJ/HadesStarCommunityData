@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SNOOPX01"
+description: "SNOOPX01}"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.85  

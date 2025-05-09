@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "B0n"
+description: "B0n}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.08  

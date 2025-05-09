@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mythical Hot-Dog"
+description: "Mythical Hot-Dog}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

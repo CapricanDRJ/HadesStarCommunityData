@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "lurokus"
+description: "lurokus}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.03  

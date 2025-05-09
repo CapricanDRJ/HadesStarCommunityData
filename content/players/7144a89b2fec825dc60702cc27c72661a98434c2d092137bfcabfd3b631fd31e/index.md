@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "YellowFrenemy239"
+description: "YellowFrenemy239}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

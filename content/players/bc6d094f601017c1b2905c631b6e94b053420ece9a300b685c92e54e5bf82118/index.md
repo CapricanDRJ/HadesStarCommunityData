@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Börk"
+description: "Börk}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.01  

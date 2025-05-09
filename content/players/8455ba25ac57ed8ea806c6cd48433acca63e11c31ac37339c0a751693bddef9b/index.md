@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "tolik2706"
+description: "tolik2706}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

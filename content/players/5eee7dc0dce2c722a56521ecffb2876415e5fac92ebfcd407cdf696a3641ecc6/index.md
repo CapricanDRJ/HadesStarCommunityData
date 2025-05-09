@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Rohit"
+description: "Rohit}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

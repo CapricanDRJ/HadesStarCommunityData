@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Grimm"
+description: "Grimm}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.12  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Stu"
+description: "Stu}"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.02  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AL"
+description: "AL}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

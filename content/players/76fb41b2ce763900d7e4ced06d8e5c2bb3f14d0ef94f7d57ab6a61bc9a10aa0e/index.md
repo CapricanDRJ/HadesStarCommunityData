@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Minuart"
+description: "Minuart}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "YourPancake|>д<)"
+description: "YourPancake|>д<)}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "noname#1"
+description: "noname#1}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

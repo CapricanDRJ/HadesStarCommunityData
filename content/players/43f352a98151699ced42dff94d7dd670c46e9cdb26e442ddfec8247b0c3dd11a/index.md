@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Max"
+description: "Max}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

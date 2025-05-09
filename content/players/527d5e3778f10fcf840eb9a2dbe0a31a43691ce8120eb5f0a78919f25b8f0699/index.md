@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Kermit"
+description: "Kermit}"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.39  

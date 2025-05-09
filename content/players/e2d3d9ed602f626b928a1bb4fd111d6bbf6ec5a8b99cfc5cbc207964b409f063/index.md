@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Super"
+description: "Super}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

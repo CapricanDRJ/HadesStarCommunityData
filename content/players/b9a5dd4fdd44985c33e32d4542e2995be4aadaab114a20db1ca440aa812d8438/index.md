@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "thefattestcat"
+description: "thefattestcat}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.07  

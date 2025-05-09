@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ketanor"
+description: "ketanor}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

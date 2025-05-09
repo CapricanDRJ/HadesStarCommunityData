@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Duck 6685"
+description: "Duck 6685}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

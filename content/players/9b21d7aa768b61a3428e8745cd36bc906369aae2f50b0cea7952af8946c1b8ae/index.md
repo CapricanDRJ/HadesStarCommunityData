@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Legnum_JDM"
+description: "Legnum_JDM}"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

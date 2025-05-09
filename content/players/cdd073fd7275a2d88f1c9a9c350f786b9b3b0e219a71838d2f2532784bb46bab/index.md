@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Hunr3n"
+description: "Hunr3n}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

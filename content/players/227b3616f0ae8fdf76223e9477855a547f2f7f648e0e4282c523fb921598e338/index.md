@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Another BJORN"
+description: "Another BJORN}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

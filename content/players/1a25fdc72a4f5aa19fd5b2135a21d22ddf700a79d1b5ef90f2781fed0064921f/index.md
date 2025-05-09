@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Il_Jordy_84"
+description: "Il_Jordy_84}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

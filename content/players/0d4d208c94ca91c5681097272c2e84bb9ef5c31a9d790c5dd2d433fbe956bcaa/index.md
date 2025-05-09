@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "1BOBAH1"
+description: "1BOBAH1}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.10  

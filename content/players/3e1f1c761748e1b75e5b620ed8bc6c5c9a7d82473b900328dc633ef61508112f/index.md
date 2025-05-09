@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SlAyER1"
+description: "SlAyER1}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

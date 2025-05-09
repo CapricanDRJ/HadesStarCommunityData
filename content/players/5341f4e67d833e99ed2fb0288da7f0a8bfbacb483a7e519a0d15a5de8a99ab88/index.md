@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "republica zaufu"
+description: "republica zaufu}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.09  

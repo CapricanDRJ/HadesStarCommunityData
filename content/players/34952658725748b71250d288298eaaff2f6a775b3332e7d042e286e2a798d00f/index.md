@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "lutzo"
+description: "lutzo}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

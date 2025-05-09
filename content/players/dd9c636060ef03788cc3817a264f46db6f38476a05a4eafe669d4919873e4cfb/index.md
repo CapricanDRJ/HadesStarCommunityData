@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DirkWiggler"
+description: "DirkWiggler}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

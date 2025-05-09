@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SparedWhistle"
+description: "SparedWhistle}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

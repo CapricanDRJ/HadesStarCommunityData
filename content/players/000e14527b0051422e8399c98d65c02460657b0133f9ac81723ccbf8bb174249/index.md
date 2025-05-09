@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MrAlGore"
+description: "MrAlGore}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.95  

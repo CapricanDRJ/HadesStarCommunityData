@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Gena6393"
+description: "Gena6393}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

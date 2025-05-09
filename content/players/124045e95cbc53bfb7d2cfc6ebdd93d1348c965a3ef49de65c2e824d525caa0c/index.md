@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "雪白银狐"
+description: "雪白银狐}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.93  

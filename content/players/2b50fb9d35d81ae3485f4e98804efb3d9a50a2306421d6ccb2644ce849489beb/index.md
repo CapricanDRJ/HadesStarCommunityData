@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "dragoth"
+description: "dragoth}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

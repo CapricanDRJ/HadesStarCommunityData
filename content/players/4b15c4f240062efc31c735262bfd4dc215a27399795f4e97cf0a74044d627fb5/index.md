@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Blacklisted"
+description: "Blacklisted}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "D҉O҉N҉A҉T҉҉1K҉"
+description: "D҉O҉N҉A҉T҉҉1K҉}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.10  

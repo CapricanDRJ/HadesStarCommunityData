@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MaceWidoo"
+description: "MaceWidoo}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

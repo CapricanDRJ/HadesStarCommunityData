@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "PhantomAssassin7"
+description: "PhantomAssassin7}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

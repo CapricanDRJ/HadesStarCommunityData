@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "BlueSteel"
+description: "BlueSteel}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.06  

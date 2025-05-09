@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "TheRealweonCosmi"
+description: "TheRealweonCosmi}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

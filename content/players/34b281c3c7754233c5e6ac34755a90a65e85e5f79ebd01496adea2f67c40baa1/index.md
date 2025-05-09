@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "mrbar42"
+description: "mrbar42}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.78  

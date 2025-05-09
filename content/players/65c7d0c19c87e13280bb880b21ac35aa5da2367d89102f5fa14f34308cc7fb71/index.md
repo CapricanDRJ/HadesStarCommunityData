@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "eagleguy101"
+description: "eagleguy101}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

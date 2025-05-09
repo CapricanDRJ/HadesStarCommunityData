@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "NOVA"
+description: "NOVA}"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.22  

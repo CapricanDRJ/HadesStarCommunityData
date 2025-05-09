@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "mitiy1127"
+description: "mitiy1127}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.12  

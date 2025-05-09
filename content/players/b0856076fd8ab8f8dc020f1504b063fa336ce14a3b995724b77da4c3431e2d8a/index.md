@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pégasos"
+description: "Pégasos}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "апофіс"
+description: "апофіс}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Drew Alizar"
+description: "Drew Alizar}"
 ---
 - **WhiteStars**: 3
 - **μ**: 24.22  

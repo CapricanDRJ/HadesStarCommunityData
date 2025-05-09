@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MercenaryBattery"
+description: "MercenaryBattery}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

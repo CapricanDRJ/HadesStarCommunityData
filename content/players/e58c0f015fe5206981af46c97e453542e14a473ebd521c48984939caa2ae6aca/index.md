@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dark Knight"
+description: "Dark Knight}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.93  

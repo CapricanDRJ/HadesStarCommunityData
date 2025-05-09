@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ДИМА 32RUS"
+description: "ДИМА 32RUS}"
 ---
 - **WhiteStars**: 1
 - **μ**: 26.04  

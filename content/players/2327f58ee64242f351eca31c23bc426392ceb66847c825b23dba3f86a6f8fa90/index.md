@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Maximilian94"
+description: "Maximilian94}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

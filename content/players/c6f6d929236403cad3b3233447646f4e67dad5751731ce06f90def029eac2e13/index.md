@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ƁƐƝƝŸ Ģ"
+description: "ƁƐƝƝŸ Ģ}"
 ---
 - **WhiteStars**: 3
 - **μ**: 25.80  

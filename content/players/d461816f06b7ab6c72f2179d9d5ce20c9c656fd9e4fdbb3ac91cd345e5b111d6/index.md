@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "First Kanguroo"
+description: "First Kanguroo}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

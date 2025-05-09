@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bahus"
+description: "Bahus}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

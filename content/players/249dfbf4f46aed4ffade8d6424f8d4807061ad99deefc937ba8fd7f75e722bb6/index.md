@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "[DS]Aid"
+description: "[DS]Aid}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

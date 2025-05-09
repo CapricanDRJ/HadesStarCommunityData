@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "delov@r"
+description: "delov@r}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

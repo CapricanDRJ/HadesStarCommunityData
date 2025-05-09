@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DrMineword"
+description: "DrMineword}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.94  

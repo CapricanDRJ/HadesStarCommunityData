@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "the 4D people"
+description: "the 4D people}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.89  

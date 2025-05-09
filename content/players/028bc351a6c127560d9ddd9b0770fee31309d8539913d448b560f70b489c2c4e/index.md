@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "curlytoorich"
+description: "curlytoorich}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.82  

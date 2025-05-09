@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ruliik"
+description: "ruliik}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

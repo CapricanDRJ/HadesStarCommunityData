@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ItalianJoe1"
+description: "ItalianJoe1}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.19  

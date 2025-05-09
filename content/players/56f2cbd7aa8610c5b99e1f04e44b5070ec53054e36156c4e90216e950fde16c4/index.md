@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Sayorizin"
+description: "Sayorizin}"
 ---
 - **WhiteStars**: 2
 - **μ**: 24.93  

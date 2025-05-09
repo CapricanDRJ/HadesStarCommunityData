@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ZetaLander"
+description: "ZetaLander}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

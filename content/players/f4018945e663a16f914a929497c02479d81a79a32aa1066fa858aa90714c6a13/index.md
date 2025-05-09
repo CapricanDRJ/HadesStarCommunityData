@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mushy"
+description: "Mushy}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.01  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "VIZA_1990"
+description: "VIZA_1990}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

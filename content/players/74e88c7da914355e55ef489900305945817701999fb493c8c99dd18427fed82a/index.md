@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ardshel"
+description: "Ardshel}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

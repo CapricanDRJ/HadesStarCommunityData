@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Galactex 04"
+description: "Galactex 04}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.14  

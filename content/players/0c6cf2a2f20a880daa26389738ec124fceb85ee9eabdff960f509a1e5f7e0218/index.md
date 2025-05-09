@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Wheatstone"
+description: "Wheatstone}"
 ---
 - **WhiteStars**: 2
 - **μ**: 26.72  

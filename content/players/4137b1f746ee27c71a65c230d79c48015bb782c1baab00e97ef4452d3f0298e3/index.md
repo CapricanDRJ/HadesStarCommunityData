@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ironsky03"
+description: "ironsky03}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.14  

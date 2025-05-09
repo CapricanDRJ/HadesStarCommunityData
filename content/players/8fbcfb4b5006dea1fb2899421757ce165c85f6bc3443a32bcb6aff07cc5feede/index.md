@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dachtozhetakoe"
+description: "Dachtozhetakoe}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

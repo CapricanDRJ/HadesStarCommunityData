@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Jumpshipz"
+description: "Jumpshipz}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.81  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SuperCoolShawdi"
+description: "SuperCoolShawdi}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.08  

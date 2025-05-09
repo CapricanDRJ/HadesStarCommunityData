@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "RAD THE IMPALER"
+description: "RAD THE IMPALER}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.89  

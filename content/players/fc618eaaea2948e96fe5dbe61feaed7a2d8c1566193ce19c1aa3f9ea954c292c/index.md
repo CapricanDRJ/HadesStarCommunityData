@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Moisey"
+description: "Moisey}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

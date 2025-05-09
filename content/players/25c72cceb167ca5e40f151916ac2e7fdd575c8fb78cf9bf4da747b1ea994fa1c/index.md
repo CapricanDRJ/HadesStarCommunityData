@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "nrgnoname"
+description: "nrgnoname}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.05  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "宇宙行者"
+description: "宇宙行者}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.06  

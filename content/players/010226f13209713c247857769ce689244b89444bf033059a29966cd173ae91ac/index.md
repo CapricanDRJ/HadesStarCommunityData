@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Flocken"
+description: "Flocken}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Gunkeltron"
+description: "Gunkeltron}"
 ---
 - **WhiteStars**: 2
 - **μ**: 24.90  

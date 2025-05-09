@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Smoke"
+description: "Smoke}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

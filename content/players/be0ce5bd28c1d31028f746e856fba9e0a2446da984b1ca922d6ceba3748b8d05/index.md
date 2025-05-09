@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "dark_anubis"
+description: "dark_anubis}"
 ---
 - **WhiteStars**: 1
 - **μ**: 23.97  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Space_C0wboy"
+description: "Space_C0wboy}"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.74  

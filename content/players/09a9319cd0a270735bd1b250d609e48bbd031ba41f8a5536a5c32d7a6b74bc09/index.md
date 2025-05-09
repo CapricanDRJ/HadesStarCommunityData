@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Cor Angar"
+description: "Cor Angar}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

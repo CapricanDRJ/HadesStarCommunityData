@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Toemmuemmue"
+description: "Toemmuemmue}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.11  

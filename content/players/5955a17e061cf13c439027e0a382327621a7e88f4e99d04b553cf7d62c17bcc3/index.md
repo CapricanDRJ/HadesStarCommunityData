@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "dendis_cz"
+description: "dendis_cz}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

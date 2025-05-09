@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Speedydano"
+description: "Speedydano}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

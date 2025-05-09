@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Achaia"
+description: "Achaia}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

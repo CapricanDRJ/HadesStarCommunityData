@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AmazonkaNN"
+description: "AmazonkaNN}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  

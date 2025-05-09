@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "enemyordo1"
+description: "enemyordo1}"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.02  

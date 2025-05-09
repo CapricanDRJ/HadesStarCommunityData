@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ProRocK"
+description: "ProRocK}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.08  

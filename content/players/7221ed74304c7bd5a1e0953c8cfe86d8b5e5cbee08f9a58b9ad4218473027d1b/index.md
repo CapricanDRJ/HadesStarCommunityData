@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dasler"
+description: "Dasler}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.27  

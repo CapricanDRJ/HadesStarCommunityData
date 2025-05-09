@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Willie B"
+description: "Willie B}"
 ---
 - **WhiteStars**: 4
 - **μ**: 26.74  

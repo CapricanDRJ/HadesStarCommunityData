@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "NovaRanger47"
+description: "NovaRanger47}"
 ---
 - **WhiteStars**: 1
 - **μ**: 24.07  

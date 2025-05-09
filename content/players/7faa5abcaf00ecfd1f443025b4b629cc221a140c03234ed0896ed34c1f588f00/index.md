@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pollo Alpha"
+description: "Pollo Alpha}"
 ---
 - **WhiteStars**: 1
 - **μ**: 25.92  
