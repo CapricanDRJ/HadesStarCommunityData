@@ -1,6 +1,6 @@
 ---
 title: ​VoidRunners
-description: W:92 L:83 D:1 Bonus ✅ 44%
+description: W:92 L:83 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 9 - 18 **NERF TOY'S**
 date: 2025-05-08T14:31:58.000Z
@@ -23,7 +23,7 @@ date: 2025-05-08T14:31:58.000Z
 <br>
 
 ### [Discord](https://discord.gg/vmbXh7r7yt)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Winter Star llc
-description: W:15 L:10 D:1 Bonus ❌ 7%
+description: W:16 L:10 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 6 - 2 **Eastern Front**
-date: 2025-05-01T14:51:58.000Z
+Summary: ✅ 16 - 0 **神圣群星帝国**
+date: 2025-05-08T22:12:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ ons! //You must Join our Discord within 7 days
 <br>
 
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔺  (264)|
-| ELO Competitive | 1310 🔺  (305)|
-| Total Matches | 26 |
-| Wins | 15 |
+| ELO Regular | 1274 🔺  (232)|
+| ELO Competitive | 1323 🔺  (289)|
+| Total Matches | 27 |
+| Wins | 16 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745679118,1744881868,1743800334,1743090905,1742508340,1741910619,1741279579,1740164137,1738871056,1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
+        let timestamps = [1746310367,1745679118,1744881868,1743800334,1743090905,1742508340,1741910619,1741279579,1740164137,1738871056,1738430798,1737510367,1736401726,1735511594,1734796780,1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/08 | 16-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ✅ | 2025/05/01 | 6-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2025/04/22 | 23-0 | [彩虹神圣太空队](https://ws.tsl.rocks/corp/65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9/) |
 | ❌ | 2025/04/09 | 4-7 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
@@ -177,5 +178,5 @@ Corporation ID: 89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746111118"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746742367"></span>
 </div>
