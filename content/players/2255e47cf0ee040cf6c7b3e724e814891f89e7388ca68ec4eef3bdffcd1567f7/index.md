@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dalik
+title: "dalik"
 description: Player stats
 ---
 ## Rating
@@ -13,7 +13,7 @@ description: Player stats
 
 ## Top 5 Recurring Corporations
 
-| Corporation | Matches |
+| Corporation | WhiteStars |
 | --- | --- |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 |
 

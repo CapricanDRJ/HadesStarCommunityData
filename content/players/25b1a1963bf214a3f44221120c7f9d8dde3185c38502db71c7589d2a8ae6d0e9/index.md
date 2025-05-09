@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pommesgabel666
+title: "Pommesgabel666"
 description: Player stats
 ---
 ## Rating
@@ -13,7 +13,7 @@ description: Player stats
 
 ## Top 5 Recurring Corporations
 
-| Corporation | Matches |
+| Corporation | WhiteStars |
 | --- | --- |
 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 1 |
 

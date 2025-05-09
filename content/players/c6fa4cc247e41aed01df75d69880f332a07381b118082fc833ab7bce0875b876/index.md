@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhora
+title: "Zhora"
 description: Player stats
 ---
 ## Rating
@@ -13,7 +13,7 @@ description: Player stats
 
 ## Top 5 Recurring Corporations
 
-| Corporation | Matches |
+| Corporation | WhiteStars |
 | --- | --- |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1 |
 

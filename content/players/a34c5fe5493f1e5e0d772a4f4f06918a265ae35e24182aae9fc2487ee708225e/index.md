@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Whiska
+title: "Whiska"
 description: Player stats
 ---
 ## Rating
@@ -13,7 +13,7 @@ description: Player stats
 
 ## Top 5 Recurring Corporations
 
-| Corporation | Matches |
+| Corporation | WhiteStars |
 | --- | --- |
 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) | 1 |
 

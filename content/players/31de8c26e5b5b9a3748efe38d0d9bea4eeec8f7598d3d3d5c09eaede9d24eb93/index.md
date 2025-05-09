@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhora
+title: "Zhora"
 description: Player stats
 ---
 ## Rating
@@ -13,7 +13,7 @@ description: Player stats
 
 ## Top 5 Recurring Corporations
 
-| Corporation | Matches |
+| Corporation | WhiteStars |
 | --- | --- |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 |
 
