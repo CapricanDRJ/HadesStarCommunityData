@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Olivo
-description: mu:24.07 sigma:8.30 games:1
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 24.07  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:24.07 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:24.07 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-05-08 | [9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 27-30 | [ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
+| 2025-05-08 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 27-30 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

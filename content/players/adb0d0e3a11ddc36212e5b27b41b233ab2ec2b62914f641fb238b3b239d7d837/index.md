@@ -1,13 +1,13 @@
 ---
 layout: page
 title: DiogoMFDS2
-description: mu:25.92 sigma:8.30 games:1
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 25.92  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:25.92 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 1 |
+| [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:25.92 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-04-25 | [623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 29-23 | [e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
+| 2025-04-25 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 29-23 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |

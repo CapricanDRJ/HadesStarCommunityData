@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Rearguard4657
-description: mu:23.99 sigma:8.30 games:1
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 23.99  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:23.99 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:23.99 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-04-26 | [1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 6-47 | [ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
+| 2025-04-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 6-47 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

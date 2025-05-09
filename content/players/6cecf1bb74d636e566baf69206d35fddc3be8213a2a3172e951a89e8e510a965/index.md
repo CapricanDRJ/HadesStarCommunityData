@@ -1,13 +1,13 @@
 ---
 layout: page
 title: SageSharkCat
-description: mu:24.07 sigma:8.30 games:1
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 24.07  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:24.07 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1 |
+| [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:24.07 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-04-20 | [61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 15-44 | [41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
+| 2025-04-20 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 15-44 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |

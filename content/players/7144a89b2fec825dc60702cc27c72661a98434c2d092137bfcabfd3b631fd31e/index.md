@@ -1,13 +1,13 @@
 ---
 layout: page
 title: YellowFrenemy239
-description: mu:24.08 sigma:8.30 games:1
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 24.08  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:24.08 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 1 |
+| [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:24.08 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-05-03 | [3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 48-50 | [a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
+| 2025-05-03 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 48-50 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |

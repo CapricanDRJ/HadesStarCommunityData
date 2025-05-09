@@ -1,13 +1,13 @@
 ---
 layout: page
 title: 玱清
-description: mu:25.93 sigma:8.30 games:1
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 25.93  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:25.93 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) | 1 |
+| [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:25.93 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-04-20 | [2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) | 13-0 | [f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
+| 2025-04-20 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) | 13-0 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |

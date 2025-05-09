@@ -1,13 +1,13 @@
 ---
 layout: page
-title: VIZA\_1990
-description: mu:24.27 sigma:8.30 games:1
+title: VIZA_1990
+description: Player stats
 ---
 ## Rating
 
+- **WhiteStars**: 1
 - **μ**: 24.27  
 - **σ**: 8.30  
-- **Games**: 1
 
 ---
 
@@ -15,7 +15,7 @@ description: mu:24.27 sigma:8.30 games:1
 
 | Corporation | Matches |
 | --- | --- |
-| [ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 |
 
 ---
 
@@ -23,4 +23,4 @@ description: mu:24.27 sigma:8.30 games:1
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
-| 2025-05-03 | [ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-47 | [fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
+| 2025-05-03 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-47 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
