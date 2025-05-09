@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:27 L:2 D:0 Bonus ✅ 36%
+description: W:27 L:2 D:0 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ✅ 36 - 5 **АНДРОМЕДА **
 date: 2025-05-02T15:54:43.000Z
@@ -17,7 +17,7 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |
