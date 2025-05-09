@@ -4,7 +4,7 @@ title: "Dark Knight"
 description: "Dark Knight"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.93  
+- **μ**: 26.94  
 - **σ**: 8.26  
 
 ---
@@ -13,7 +13,7 @@ description: "Dark Knight"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 1 |
+| [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) | 1 |
 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 1 |
 
 ---

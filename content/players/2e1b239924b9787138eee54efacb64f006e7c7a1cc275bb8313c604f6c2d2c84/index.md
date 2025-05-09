@@ -3,9 +3,9 @@ layout: page
 title: "SolarTom"
 description: "SolarTom"
 ---
-- **WhiteStars**: 1
-- **μ**: 24.08  
-- **σ**: 8.30  
+- **WhiteStars**: 2
+- **μ**: 25.10  
+- **σ**: 8.26  
 
 ---
 
@@ -13,7 +13,7 @@ description: "SolarTom"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 1 |
+| [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 2 |
 
 ---
 

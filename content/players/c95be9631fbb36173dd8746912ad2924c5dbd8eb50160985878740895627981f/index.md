@@ -3,9 +3,9 @@ layout: page
 title: "Daclaw"
 description: "Daclaw"
 ---
-- **WhiteStars**: 1
-- **μ**: 25.95  
-- **σ**: 8.30  
+- **WhiteStars**: 2
+- **μ**: 26.78  
+- **σ**: 8.26  
 
 ---
 
@@ -13,7 +13,7 @@ description: "Daclaw"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) | 1 |
+| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 2 |
 
 ---
 

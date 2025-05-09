@@ -4,7 +4,7 @@ title: "DARKEN RAHL8835"
 description: "DARKEN RAHL8835"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.01  
+- **μ**: 24.00  
 - **σ**: 8.30  
 
 ---

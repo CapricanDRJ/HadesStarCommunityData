@@ -4,7 +4,7 @@ title: "RuntyGoal27670"
 description: "RuntyGoal27670"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.01  
+- **μ**: 24.00  
 - **σ**: 8.30  
 
 ---

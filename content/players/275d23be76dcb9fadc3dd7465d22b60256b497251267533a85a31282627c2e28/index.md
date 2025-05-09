@@ -4,7 +4,7 @@ title: "God_of_Death"
 description: "God_of_Death"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.99  
+- **μ**: 26.00  
 - **σ**: 8.30  
 
 ---

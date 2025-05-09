@@ -4,7 +4,7 @@ title: "Archenzo"
 description: "Archenzo"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.99  
+- **μ**: 26.00  
 - **σ**: 8.30  
 
 ---

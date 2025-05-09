@@ -4,7 +4,7 @@ title: "Kelux"
 description: "Kelux"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.80  
+- **μ**: 25.81  
 - **σ**: 8.23  
 
 ---

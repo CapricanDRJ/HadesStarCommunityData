@@ -3,9 +3,9 @@ layout: page
 title: "YellowFrenemy239"
 description: "YellowFrenemy239"
 ---
-- **WhiteStars**: 1
-- **μ**: 24.08  
-- **σ**: 8.30  
+- **WhiteStars**: 2
+- **μ**: 24.91  
+- **σ**: 8.26  
 
 ---
 
@@ -13,7 +13,7 @@ description: "YellowFrenemy239"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 1 |
+| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 2 |
 
 ---
 
