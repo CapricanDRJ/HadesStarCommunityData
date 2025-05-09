@@ -19,7 +19,7 @@ relax
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1204)|
+| ELO Regular | 1152 🔻  (1205)|
 | ELO Competitive | 1152 🔻  (1348)|
 | Total Matches | 4 |
 | Wins | 0 |

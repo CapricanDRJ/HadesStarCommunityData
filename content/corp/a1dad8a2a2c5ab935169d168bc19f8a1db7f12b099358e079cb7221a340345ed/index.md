@@ -23,7 +23,7 @@ de early learning guidance for newbies joining the group.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (365)|
-| ELO Competitive | 1298 🔻  (328)|
+| ELO Competitive | 1298 🔻  (329)|
 | Total Matches | 24 |
 | Wins | 13 |
 | Losses | 11 |
