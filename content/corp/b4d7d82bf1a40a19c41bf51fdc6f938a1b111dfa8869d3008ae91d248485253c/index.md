@@ -1,9 +1,9 @@
 ---
 title: ​骊珠洞天
-description: W:6 L:11 D:1 Bonus ❌ 
+description: W:7 L:11 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 41 **Свободный флот**
-date: 2025-05-08T11:21:36.000Z
+Summary: ✅ 6 - 0 **星域 **
+date: 2025-05-09T18:56:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-05-08T11:21:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1200)|
-| ELO Competitive | 1276 🔻  (381)|
-| Total Matches | 18 |
-| Wins | 6 |
+| ELO Regular | 1168 🔺  (1076)|
+| ELO Competitive | 1301 🔺  (324)|
+| Total Matches | 19 |
+| Wins | 7 |
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746271296,1745921034,1745803286,1745208215,1745201913,1744728032,1744700673,1744011905,1743577344,1743560519,1743119921,1743054559,1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
+        let timestamps = [1746384967,1746271296,1745921034,1745803286,1745208215,1745201913,1744728032,1744700673,1744011905,1743577344,1743560519,1743119921,1743054559,1742539172,1742538403,1742088818,1742051255,1741582447,1741573887];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,7 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) | 1 | 2 | 0 | 3 |
+| [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) | 2 | 2 | 0 | 4 |
 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 1 | 1 | 1 | 3 |
 
 ---
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/09 | 6-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2025/05/08 | 0-41 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2025/05/04 | 0-59 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2025/05/03 | 0-37 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
@@ -166,5 +167,5 @@ Corporation ID: b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746703296"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746816967"></span>
 </div>

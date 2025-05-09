@@ -1,9 +1,9 @@
 ---
 title: ​星域 
-description: W:14 L:19 D:0 Bonus ❌ 7%
+description: W:14 L:20 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 32 **GDZ**
-date: 2025-05-04T10:48:58.000Z
+Summary: ❌ 0 - 6 **骊珠洞天**
+date: 2025-05-09T18:56:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1117)|
-| ELO Competitive | 1360 🔻  (226)|
-| Total Matches | 33 |
+| ELO Regular | 1147 🔻  (1235)|
+| ELO Competitive | 1341 🔻  (257)|
+| Total Matches | 34 |
 | Wins | 14 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745923738,1745920433,1745210383,1745208215,1744752064,1744728001,1743679819,1743678013,1743054559,1743025257,1742589240,1742523664,1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
+        let timestamps = [1746384967,1745923738,1745920433,1745210383,1745208215,1744752064,1744728001,1743679819,1743678013,1743054559,1743025257,1742589240,1742523664,1742044787,1742038328,1741576786,1741573887,1741132051,1741102614,1740649802,1740624880,1740182169,1740143398,1739703641,1739698631,1739266265,1739258106,1738807648,1738803715,1738373388,1738362872,1737910930,1737906120,1728287053];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,7 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 2 | 1 | 0 | 3 |
+| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 2 | 2 | 0 | 4 |
 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 2 | 0 | 0 | 2 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 1 | 1 | 0 | 2 |
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/09 | 0-6 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 | ❌ | 2025/05/04 | 0-32 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2025/05/04 | 0-55 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ✅ | 2025/04/26 | 4-3 | [Prodexus Domino](https://ws.tsl.rocks/corp/85917429bb52fbc2dac3f7310ca739f27cae6f39ad628c7d42e2985267005e77/) |
@@ -182,5 +183,5 @@ Corporation ID: 9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746355738"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746816967"></span>
 </div>
