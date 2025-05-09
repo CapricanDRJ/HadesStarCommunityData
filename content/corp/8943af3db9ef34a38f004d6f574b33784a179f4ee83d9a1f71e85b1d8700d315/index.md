@@ -22,8 +22,8 @@ ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1186)|
-| ELO Competitive | 1154 🔻  (1339)|
+| ELO Regular | 1154 🔻  (1187)|
+| ELO Competitive | 1154 🔻  (1340)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

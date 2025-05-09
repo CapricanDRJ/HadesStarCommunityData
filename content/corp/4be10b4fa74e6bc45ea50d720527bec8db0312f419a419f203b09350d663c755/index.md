@@ -1,6 +1,6 @@
 ---
 title: ​DTC
-description: W:33 L:73 D:0 Bonus ✅ 52%
+description: W:33 L:73 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 7 - 43 **BrazilCorp\.**
 date: 2025-05-09T11:08:57.000Z
@@ -18,11 +18,11 @@ Depuis le 10/2018       Ouverte à toutes et tous                  Rs9
 <br>
 
 ### [Discord](https://discord.gg/5FcqEU96nM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1273)|
+| ELO Regular | 1139 🔻  (1274)|
 | ELO Competitive | 1380 🔻  (197)|
 | Total Matches | 106 |
 | Wins | 33 |

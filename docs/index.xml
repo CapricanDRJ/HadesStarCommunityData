@@ -6,133 +6,182 @@
     <description>Recent content in Hades&#39; Star resources on Hades&#39; Star Resources</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 15:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 18:47:55 +0000</lastBuildDate>
     <atom:link href="https://ws.tsl.rocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Average Relics</title>
       <link>https://ws.tsl.rocks/avgrelics/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/avgrelics/</guid>
       <description>Hades&amp;#39; Star top corporations by average relics per match (only corporations with &amp;gt;5 matches)</description>
     </item>
     <item>
       <title>Comp ELO</title>
       <link>https://ws.tsl.rocks/comp100/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/comp100/</guid>
       <description>Hades&amp;#39; Star top competitive Elo ranks</description>
     </item>
     <item>
       <title>Relics</title>
       <link>https://ws.tsl.rocks/relics100/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/relics100/</guid>
       <description>Hades&amp;#39; Star top corporations by relics collected since Dark Nebula&amp;#39;s release</description>
     </item>
     <item>
       <title>Scanning ±12h</title>
       <link>https://ws.tsl.rocks/scanning/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanning/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning ±12h</description>
     </item>
     <item>
       <title>Scanning Friday</title>
       <link>https://ws.tsl.rocks/scanfri/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanfri/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Friday</description>
     </item>
     <item>
       <title>Scanning Monday</title>
       <link>https://ws.tsl.rocks/scanmon/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanmon/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Monday</description>
     </item>
     <item>
       <title>Scanning Saturday</title>
       <link>https://ws.tsl.rocks/scansat/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scansat/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Saturday</description>
     </item>
     <item>
       <title>Scanning Sunday</title>
       <link>https://ws.tsl.rocks/scansun/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scansun/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Sunday</description>
     </item>
     <item>
       <title>Scanning Thursday</title>
       <link>https://ws.tsl.rocks/scanthu/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanthu/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Thursday</description>
     </item>
     <item>
       <title>Scanning Tuesday</title>
       <link>https://ws.tsl.rocks/scantue/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scantue/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Tuesday</description>
     </item>
     <item>
       <title>Scanning Wednesday</title>
       <link>https://ws.tsl.rocks/scanwed/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanwed/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Wednesday</description>
     </item>
     <item>
       <title>Top Bonus</title>
       <link>https://ws.tsl.rocks/bonus/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/bonus/</guid>
       <description>Top Corporations with bonus</description>
     </item>
     <item>
       <title>Top Corporations By Flagship</title>
       <link>https://ws.tsl.rocks/topfs/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/topfs/</guid>
       <description>Flagship level leaderboard (infrequent updates)</description>
     </item>
     <item>
       <title>Top ELO</title>
       <link>https://ws.tsl.rocks/top100/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/top100/</guid>
       <description>Hades&amp;#39; Star top Elo ranks inclusive of all whitestar matches.</description>
     </item>
     <item>
       <title>Top Lose</title>
       <link>https://ws.tsl.rocks/lose100/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/lose100/</guid>
       <description>Hades&amp;#39; Star corporations ranked by historic total losses</description>
     </item>
     <item>
       <title>Top Win</title>
       <link>https://ws.tsl.rocks/win100/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/win100/</guid>
       <description>Hades&amp;#39; Star corporations ranked by historic total wins</description>
     </item>
     <item>
       <title>Total WhiteStars</title>
       <link>https://ws.tsl.rocks/totalws/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/totalws/</guid>
       <description>Hades&amp;#39; Star corporations with the most whitestars since the Dark Nebula release.</description>
     </item>
     <item>
       <title>Win Streak</title>
       <link>https://ws.tsl.rocks/streak/</link>
-      <pubDate>Fri, 09 May 2025 15:55:16 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 18:47:55 +0000</pubDate>
       <guid>https://ws.tsl.rocks/streak/</guid>
       <description>Hades&amp;#39; Star corporations longest win streak leaderboard</description>
+    </item>
+    <item>
+      <title>​TeddisaurusWrex</title>
+      <link>https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/</link>
+      <pubDate>Fri, 09 May 2025 18:34:48 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/</guid>
+      <description>W:48 L:24 D:0 Bonus ❌ 9%</description>
+    </item>
+    <item>
+      <title>​Лунный Феникс</title>
+      <link>https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/</link>
+      <pubDate>Fri, 09 May 2025 18:34:48 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/</guid>
+      <description>W:66 L:36 D:2 Bonus ✅ 42%</description>
+    </item>
+    <item>
+      <title>​TheBasics</title>
+      <link>https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/</link>
+      <pubDate>Fri, 09 May 2025 17:54:43 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/</guid>
+      <description>W:55 L:85 D:2 Bonus ✅ 40%</description>
+    </item>
+    <item>
+      <title>​HUN TERS</title>
+      <link>https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/</link>
+      <pubDate>Fri, 09 May 2025 17:49:43 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/</guid>
+      <description>W:1 L:0 D:0 Bonus ✅</description>
+    </item>
+    <item>
+      <title>​The Witness</title>
+      <link>https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/</link>
+      <pubDate>Fri, 09 May 2025 17:49:43 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/</guid>
+      <description>W:19 L:44 D:5 Bonus ❌ 8%</description>
+    </item>
+    <item>
+      <title>​alienigenas</title>
+      <link>https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/</link>
+      <pubDate>Fri, 09 May 2025 15:49:29 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/</guid>
+      <description>W:13 L:7 D:0 Bonus ✅ 36%</description>
+    </item>
+    <item>
+      <title>​lonewolf</title>
+      <link>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</link>
+      <pubDate>Fri, 09 May 2025 15:49:29 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</guid>
+      <description>W:40 L:13 D:1 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​-=FCA=-</title>
@@ -188,7 +237,7 @@
       <link>https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/</link>
       <pubDate>Fri, 09 May 2025 11:08:57 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/</guid>
-      <description>W:33 L:73 D:0 Bonus ✅ 52%</description>
+      <description>W:33 L:73 D:0 Bonus ❌ 16%</description>
     </item>
     <item>
       <title>​Stellar Exports</title>
@@ -1829,13 +1878,6 @@
       <description>W:27 L:17 D:1 Bonus ❌ 8%</description>
     </item>
     <item>
-      <title>​TheBasics</title>
-      <link>https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/</link>
-      <pubDate>Sun, 04 May 2025 04:43:24 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/</guid>
-      <description>W:54 L:85 D:2 Bonus ✅ 40%</description>
-    </item>
-    <item>
       <title>​Mass Effect</title>
       <link>https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/</link>
       <pubDate>Sun, 04 May 2025 04:03:20 +0000</pubDate>
@@ -2281,14 +2323,14 @@
       <link>https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/</link>
       <pubDate>Fri, 02 May 2025 18:20:02 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/</guid>
-      <description>W:30 L:49 D:1 Bonus ✅ 38%</description>
+      <description>W:30 L:49 D:1 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​STAR TERROR CZ</title>
       <link>https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/</link>
       <pubDate>Fri, 02 May 2025 18:15:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/</guid>
-      <description>W:18 L:15 D:0 Bonus ✅ 38%</description>
+      <description>W:18 L:15 D:0 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​Star Destroyers</title>
@@ -2298,18 +2340,11 @@
       <description>W:38 L:38 D:2 Bonus ❌ 11%</description>
     </item>
     <item>
-      <title>​Лунный Феникс</title>
-      <link>https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/</link>
-      <pubDate>Fri, 02 May 2025 16:34:49 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/</guid>
-      <description>W:65 L:35 D:2 Bonus ✅ 42%</description>
-    </item>
-    <item>
       <title>​Interestelar</title>
       <link>https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/</link>
       <pubDate>Fri, 02 May 2025 15:54:43 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/</guid>
-      <description>W:27 L:2 D:0 Bonus ❌ 36%</description>
+      <description>W:27 L:2 D:0 Bonus ❌ 8%</description>
     </item>
     <item>
       <title>​Scar</title>
@@ -2324,13 +2359,6 @@
       <pubDate>Fri, 02 May 2025 13:23:35 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/</guid>
       <description>W:26 L:0 D:0 Bonus ❌ 8%</description>
-    </item>
-    <item>
-      <title>​lonewolf</title>
-      <link>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</link>
-      <pubDate>Fri, 02 May 2025 06:43:38 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/</guid>
-      <description>W:40 L:12 D:1 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​The Allegiant</title>
@@ -2373,13 +2401,6 @@
       <pubDate>Thu, 01 May 2025 16:56:11 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/</guid>
       <description>W:33 L:3 D:0 Bonus ❌ 8%</description>
-    </item>
-    <item>
-      <title>​TeddisaurusWrex</title>
-      <link>https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/</link>
-      <pubDate>Thu, 01 May 2025 12:41:41 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/</guid>
-      <description>W:48 L:23 D:0 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​The Foundation</title>
@@ -2744,13 +2765,6 @@
       <pubDate>Sat, 26 Apr 2025 06:48:57 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/679d1a84f4938856ed291bb8b55f4fc0c50ffa2d7f1d1f316e6867b82a58910b/</guid>
       <description>W:0 L:1 D:0 Bonus ❌</description>
-    </item>
-    <item>
-      <title>​The Witness</title>
-      <link>https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/</link>
-      <pubDate>Sat, 26 Apr 2025 01:48:31 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/</guid>
-      <description>W:19 L:43 D:5 Bonus ❌ 8%</description>
     </item>
     <item>
       <title>​Kobol</title>
@@ -3514,13 +3528,6 @@
       <pubDate>Sat, 12 Apr 2025 11:45:29 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/</guid>
       <description>W:17 L:25 D:2 Bonus ❌ 7%</description>
-    </item>
-    <item>
-      <title>​alienigenas</title>
-      <link>https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/</link>
-      <pubDate>Fri, 11 Apr 2025 15:48:29 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/</guid>
-      <description>W:12 L:7 D:0 Bonus ❌ 8%</description>
     </item>
     <item>
       <title>​Галич</title>

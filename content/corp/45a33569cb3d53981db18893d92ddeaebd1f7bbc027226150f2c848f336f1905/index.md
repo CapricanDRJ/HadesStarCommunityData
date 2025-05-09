@@ -26,7 +26,7 @@ RS9-11
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1391)|
+| ELO Regular | 1105 🔻  (1392)|
 | ELO Competitive | 1301 🔻  (323)|
 | Total Matches | 92 |
 | Wins | 41 |

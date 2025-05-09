@@ -1,6 +1,6 @@
 ---
 title: ​STAR TERROR CZ
-description: W:18 L:15 D:0 Bonus ✅ 38%
+description: W:18 L:15 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 25 - 2 **Highlife**
 date: 2025-05-02T18:15:01.000Z
@@ -17,12 +17,12 @@ nos.github.io/HadesSpace/
 <br>
 
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔺  (142)|
-| ELO Competitive | 1430 🔺  (148)|
+| ELO Competitive | 1430 🔺  (149)|
 | Total Matches | 33 |
 | Wins | 18 |
 | Losses | 15 |

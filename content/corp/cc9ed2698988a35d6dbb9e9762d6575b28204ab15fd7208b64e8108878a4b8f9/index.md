@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:27 L:2 D:0 Bonus ❌ 36%
+description: W:27 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 36 - 5 **АНДРОМЕДА **
 date: 2025-05-02T15:54:43.000Z
@@ -17,11 +17,11 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1474 🔺  (22)|
+| ELO Regular | 1474 🔺  (21)|
 | ELO Competitive | 1522 🔺  (71)|
 | Total Matches | 29 |
 | Wins | 27 |
