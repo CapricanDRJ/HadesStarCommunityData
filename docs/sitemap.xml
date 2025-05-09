@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ws.tsl.rocks/corp/</loc>
-    <lastmod>2025-05-09T15:12:51+00:00</lastmod>
-  </url><url>
     <loc>https://ws.tsl.rocks/avgrelics/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/comp100/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/relics100/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanning/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanfri/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanmon/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scansat/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scansun/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanthu/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scantue/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanwed/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/bonus/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/topfs/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/top100/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/lose100/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/players/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/win100/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/totalws/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/streak/</loc>
-    <lastmod>2025-05-09T15:12:50+00:00</lastmod>
+    <lastmod>2025-05-09T15:53:04+00:00</lastmod>
+  </url><url>
+    <loc>https://ws.tsl.rocks/corp/</loc>
+    <lastmod>2025-05-09T15:12:51+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/</loc>
     <lastmod>2025-05-09T13:34:14+00:00</lastmod>
@@ -1396,9 +1396,6 @@
   </url><url>
     <loc>https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/</loc>
     <lastmod>2025-04-20T04:34:20+00:00</lastmod>
-  </url><url>
-    <loc>https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/</loc>
-    <lastmod>2025-04-20T04:04:18+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/</loc>
     <lastmod>2025-04-20T03:29:15+00:00</lastmod>
