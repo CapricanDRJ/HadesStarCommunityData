@@ -25,8 +25,8 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 963 🔻  (1503)|
-| ELO Competitive | 1017 🔻  (1510)|
+| ELO Regular | 963 🔻  (1504)|
+| ELO Competitive | 1017 🔻  (1511)|
 | Total Matches | 87 |
 | Wins | 16 |
 | Losses | 70 |

@@ -20,8 +20,8 @@ Greetings, Starfighter! You have been recruited by the star league to
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1128)|
-| ELO Competitive | 1163 🔻  (1286)|
+| ELO Regular | 1161 🔻  (1129)|
+| ELO Competitive | 1163 🔻  (1287)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |
