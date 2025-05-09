@@ -1,9 +1,9 @@
 ---
 title: ​Rogue Corp
-description: W:2 L:25 D:0 Bonus ❌ 9%
+description: W:2 L:26 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 5 - 20 **nuevo mundo**
-date: 2025-04-21T14:07:36.000Z
+Summary: ❌ 3 - 35 **INFINITY STAR**
+date: 2025-05-09T11:44:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ or weekly <color=white>WS</color> and private <color=red>RS</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1036 🔻  (1470)|
-| ELO Competitive | 1062 🔻  (1500)|
-| Total Matches | 27 |
+| ELO Regular | 1026 🔻  (1475)|
+| ELO Competitive | 1055 🔻  (1501)|
+| Total Matches | 28 |
 | Wins | 2 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Flagship | 7 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744812456,1742974458,1741325852,1739774959,1738755958,1737394979,1735434667,1726144846,1725380396,1717442292,1716378478,1715540235,1714640565,1713865072,1712607639,1711145796,1709346277,1708070392,1707530846,1706926375,1706250815,1704838715,1703387213,1702617046,1702107614,1701284433,1700557399];
+        let timestamps = [1746359041,1744812456,1742974458,1741325852,1739774959,1738755958,1737394979,1735434667,1726144846,1725380396,1717442292,1716378478,1715540235,1714640565,1713865072,1712607639,1711145796,1709346277,1708070392,1707530846,1706926375,1706250815,1704838715,1703387213,1702617046,1702107614,1701284433,1700557399];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/09 | 3-35 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2025/04/21 | 5-20 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2025/03/31 | 21-11 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2025/03/12 | 2-25 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
@@ -176,5 +177,5 @@ Corporation ID: 6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745244456"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746791041"></span>
 </div>
