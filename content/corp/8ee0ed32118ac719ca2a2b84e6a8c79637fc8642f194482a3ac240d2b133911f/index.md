@@ -1,6 +1,6 @@
 ---
 title: ​Interstellar
-description: W:48 L:61 D:3 Bonus ❌ 40%
+description: W:48 L:61 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 4 - 37 **AlSounT**
 date: 2025-05-07T07:28:49.000Z
@@ -18,7 +18,7 @@ vents (when possible), Also make use of the timemachine capability if
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

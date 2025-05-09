@@ -1,17 +1,14 @@
 ---
 layout: page
 title: "XACOB"
-description: Player stats
 ---
-## Rating
-
 - **WhiteStars**: 4
 - **μ**: 28.35  
 - **σ**: 8.19  
 
 ---
 
-## Top 5 Recurring Corporations
+## Top Recurring Corporations
 
 | Corporation | WhiteStars |
 | --- | --- |
@@ -20,7 +17,7 @@ description: Player stats
 
 ---
 
-## Recent Match History (last 50)
+## Participation History (last 50)
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |

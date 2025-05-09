@@ -1,17 +1,14 @@
 ---
 layout: page
 title: "Keyan"
-description: Player stats
 ---
-## Rating
-
 - **WhiteStars**: 4
 - **μ**: 26.20  
 - **σ**: 8.20  
 
 ---
 
-## Top 5 Recurring Corporations
+## Top Recurring Corporations
 
 | Corporation | WhiteStars |
 | --- | --- |
@@ -21,7 +18,7 @@ description: Player stats
 
 ---
 
-## Recent Match History (last 50)
+## Participation History (last 50)
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |

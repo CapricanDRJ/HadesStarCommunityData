@@ -1,6 +1,6 @@
 ---
 title: ​Hermitage
-description: W:20 L:13 D:1 Bonus ❌ 36%
+description: W:20 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 43 - 30 **украина№1**
 date: 2025-05-02T05:38:32.000Z
@@ -18,7 +18,7 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

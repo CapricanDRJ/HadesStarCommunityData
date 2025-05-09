@@ -1,17 +1,14 @@
 ---
 layout: page
 title: "雾★雨★魔★理★沙"
-description: Player stats
 ---
-## Rating
-
 - **WhiteStars**: 1
 - **μ**: 24.19  
 - **σ**: 8.30  
 
 ---
 
-## Top 5 Recurring Corporations
+## Top Recurring Corporations
 
 | Corporation | WhiteStars |
 | --- | --- |
@@ -19,7 +16,7 @@ description: Player stats
 
 ---
 
-## Recent Match History (last 50)
+## Participation History (last 50)
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |

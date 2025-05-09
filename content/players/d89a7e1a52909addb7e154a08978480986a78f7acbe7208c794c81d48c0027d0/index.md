@@ -1,17 +1,14 @@
 ---
 layout: page
 title: "Schoon"
-description: Player stats
 ---
-## Rating
-
 - **WhiteStars**: 2
 - **μ**: 26.78  
 - **σ**: 8.26  
 
 ---
 
-## Top 5 Recurring Corporations
+## Top Recurring Corporations
 
 | Corporation | WhiteStars |
 | --- | --- |
@@ -20,7 +17,7 @@ description: Player stats
 
 ---
 
-## Recent Match History (last 50)
+## Participation History (last 50)
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
