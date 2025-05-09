@@ -1,6 +1,6 @@
 ---
 title: ​111
-description: W:77 L:25 D:0 Bonus ❌ 50%
+description: W:77 L:25 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 23 - 28 **Слава Украине\!**
 date: 2025-05-08T06:01:02.000Z
@@ -17,7 +17,7 @@ date: 2025-05-08T06:01:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
