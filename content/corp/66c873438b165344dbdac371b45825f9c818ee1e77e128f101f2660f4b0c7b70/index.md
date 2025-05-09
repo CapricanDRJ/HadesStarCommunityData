@@ -1,6 +1,6 @@
 ---
 title: ​Free Ag3nts
-description: W:26 L:0 D:0 Bonus ✅ 36%
+description: W:26 L:0 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 3 **宇宙联盟（中国）**
 date: 2025-05-02T13:23:35.000Z
@@ -15,7 +15,7 @@ date: 2025-05-02T13:23:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

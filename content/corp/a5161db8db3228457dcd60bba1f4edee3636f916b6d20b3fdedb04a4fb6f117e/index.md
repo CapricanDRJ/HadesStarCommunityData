@@ -1,6 +1,6 @@
 ---
 title: ​Hades’ galaxy
-description: W:15 L:4 D:1 Bonus ✅ 
+description: W:15 L:4 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 8 **九州分团**
 date: 2025-05-05T17:45:10.000Z
@@ -15,7 +15,7 @@ date: 2025-05-05T17:45:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

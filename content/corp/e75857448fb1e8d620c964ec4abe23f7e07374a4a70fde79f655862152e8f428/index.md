@@ -1,6 +1,6 @@
 ---
 title: ​BlackStar Order
-description: W:93 L:69 D:0 Bonus ✅ 58%
+description: W:93 L:69 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 13 - 40 **Grunthal Gang**
 date: 2025-05-08T16:47:12.000Z
@@ -22,7 +22,7 @@ Discord: (YTaYrhy)
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |
