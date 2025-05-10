@@ -5,7 +5,7 @@ theme: "hugo-PaperMod"
 contentDir: "content"
 publishDir: "docs"
 enableEmoji: true
-mainsections: ["home", "corp", "search", "resources"]
+mainsections: ["home", "corp", "search", "players"]
 env: "production"
 pagination:
   pagerSize: 40
@@ -59,6 +59,10 @@ menu:
     - identifier: corp
       name: Corporations
       url: /corp/
+      weight: 2
+    - identifier: players
+      name: Players
+      url: /players/
       weight: 2
     - identifier: search
       name: Search
