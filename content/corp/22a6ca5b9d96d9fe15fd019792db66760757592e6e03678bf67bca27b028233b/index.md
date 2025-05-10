@@ -1,6 +1,6 @@
 ---
 title: ​АарнСарт 
-description: W:22 L:5 D:0 Bonus ✅ 
+description: W:22 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 16 - 0 **UGSS**
 date: 2025-05-03T00:42:13.000Z
@@ -15,7 +15,7 @@ date: 2025-05-03T00:42:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
