@@ -4,7 +4,7 @@ title: "Kaky"
 description: "Kaky"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.10  
+- **μ**: 25.15  
 - **σ**: 8.26  
 
 ---

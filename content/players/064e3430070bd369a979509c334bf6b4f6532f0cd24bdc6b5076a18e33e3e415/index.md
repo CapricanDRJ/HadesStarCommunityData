@@ -4,7 +4,7 @@ title: "N0DUS1"
 description: "N0DUS1"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.10  
+- **μ**: 25.05  
 - **σ**: 8.26  
 
 ---

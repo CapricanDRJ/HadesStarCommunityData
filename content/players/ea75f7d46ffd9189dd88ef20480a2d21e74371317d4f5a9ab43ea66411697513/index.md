@@ -4,7 +4,7 @@ title: "enemyordo1"
 description: "enemyordo1"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.85  
+- **μ**: 25.84  
 - **σ**: 8.23  
 
 ---

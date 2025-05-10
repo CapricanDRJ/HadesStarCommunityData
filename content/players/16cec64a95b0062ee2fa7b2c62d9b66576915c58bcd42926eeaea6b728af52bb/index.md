@@ -4,7 +4,7 @@ title: "brightnight"
 description: "brightnight"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.01  
+- **μ**: 25.06  
 - **σ**: 8.26  
 
 ---

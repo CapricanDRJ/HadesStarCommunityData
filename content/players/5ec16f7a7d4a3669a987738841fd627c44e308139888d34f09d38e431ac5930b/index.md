@@ -4,7 +4,7 @@ title: "mitiy1127"
 description: "mitiy1127"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.11  
+- **μ**: 25.07  
 - **σ**: 8.26  
 
 ---

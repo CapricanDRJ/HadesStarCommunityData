@@ -4,7 +4,7 @@ title: "Willie B"
 description: "Willie B"
 ---
 - **WhiteStars**: 4
-- **μ**: 26.74  
+- **μ**: 26.73  
 - **σ**: 8.19  
 
 ---

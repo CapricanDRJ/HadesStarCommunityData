@@ -4,7 +4,7 @@ title: "Killua"
 description: "Killua"
 ---
 - **WhiteStars**: 4
-- **μ**: 26.74  
+- **μ**: 26.73  
 - **σ**: 8.19  
 
 ---

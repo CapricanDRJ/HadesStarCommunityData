@@ -1,6 +1,6 @@
 ---
 title: ​Elysium
-description: W:59 L:15 D:0 Bonus ✅ 40%
+description: W:59 L:15 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 37 - 0 **骊珠洞天**
 date: 2025-05-03T01:21:26.000Z
@@ -18,7 +18,7 @@ in and play. Join today!
 <br>
 
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

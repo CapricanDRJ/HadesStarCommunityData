@@ -4,7 +4,7 @@ title: "Hune"
 description: "Hune"
 ---
 - **WhiteStars**: 1
-- **μ**: 23.96  
+- **μ**: 23.97  
 - **σ**: 8.30  
 
 ---

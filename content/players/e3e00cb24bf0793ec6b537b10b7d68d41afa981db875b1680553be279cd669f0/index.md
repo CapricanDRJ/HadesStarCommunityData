@@ -4,7 +4,7 @@ title: "Carangloss"
 description: "Carangloss"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.93  
+- **μ**: 25.92  
 - **σ**: 8.30  
 
 ---

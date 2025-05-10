@@ -4,7 +4,7 @@ title: "1BOBAH1"
 description: "1BOBAH1"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.10  
+- **μ**: 25.05  
 - **σ**: 8.26  
 
 ---

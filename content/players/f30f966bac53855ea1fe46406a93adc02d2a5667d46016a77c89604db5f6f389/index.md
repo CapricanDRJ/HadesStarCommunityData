@@ -4,7 +4,7 @@ title: "sur0g@"
 description: "sur0g@"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.10  
+- **μ**: 25.05  
 - **σ**: 8.26  
 
 ---

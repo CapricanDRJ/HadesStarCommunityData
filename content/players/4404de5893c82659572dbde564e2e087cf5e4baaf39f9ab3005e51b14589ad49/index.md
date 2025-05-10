@@ -4,7 +4,7 @@ title: "Hairy Faberge"
 description: "Hairy Faberge"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.07  
+- **μ**: 24.08  
 - **σ**: 8.30  
 
 ---
