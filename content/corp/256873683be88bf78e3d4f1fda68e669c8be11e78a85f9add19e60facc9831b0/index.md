@@ -1,9 +1,9 @@
 ---
 title: ​Ironbear Legion
-description: W:27 L:42 D:0 Bonus ❌ 13%
+description: W:28 L:42 D:0 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ❌ 5 - 43 **Fleet Corp Ares**
-date: 2025-04-26T15:49:57.000Z
+Summary: ✅ 18 - 13 **Imperium XIII**
+date: 2025-05-10T04:21:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 2025-04-26T15:49:57.000Z
 <br>
 
 ### [Discord](https://discord.gg/EnduRy84t7)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (972)|
-| ELO Competitive | 1291 🔻  (344)|
-| Total Matches | 69 |
-| Wins | 27 |
+| ELO Regular | 1197 🔺  (572)|
+| ELO Competitive | 1313 🔺  (302)|
+| Total Matches | 70 |
+| Wins | 28 |
 | Losses | 42 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745250597,1744021835,1743429794,1742752681,1741568074,1740962284,1740337828,1739736504,1739248960,1738582266,1737328272,1736707385,1736112029,1735570483,1734312127,1733691654,1733109611,1732537147,1731879078,1730664753,1730045425,1729430902,1727627418,1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
+        let timestamps = [1746418895,1745250597,1744021835,1743429794,1742752681,1741568074,1740962284,1740337828,1739736504,1739248960,1738582266,1737328272,1736707385,1736112029,1735570483,1734312127,1733691654,1733109611,1732537147,1731879078,1730664753,1730045425,1729430902,1727627418,1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 2 | 1 | 0 | 3 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 3 | 0 | 3 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 4 | 0 | 6 |
@@ -143,13 +144,13 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 0 | 2 | 0 | 2 |
 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) | 0 | 2 | 0 | 2 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 0 | 2 | 0 | 2 |
-| [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 18-13 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2025/04/26 | 5-43 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ❌ | 2025/04/12 | 7-43 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ❌ | 2025/04/05 | 21-30 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
@@ -226,5 +227,5 @@ Corporation ID: 256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745682597"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746850895"></span>
 </div>

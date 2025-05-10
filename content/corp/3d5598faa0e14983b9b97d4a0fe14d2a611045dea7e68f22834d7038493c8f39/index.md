@@ -22,8 +22,8 @@ s sommes une team avant tout.Recrutement actif + Formation WS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (235)|
-| ELO Competitive | 1300 🔻  (327)|
+| ELO Regular | 1273 🔻  (236)|
+| ELO Competitive | 1300 🔻  (328)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

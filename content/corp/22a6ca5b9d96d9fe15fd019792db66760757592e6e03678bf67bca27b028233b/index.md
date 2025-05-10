@@ -1,9 +1,9 @@
 ---
 title: ​АарнСарт 
-description: W:22 L:5 D:0 Bonus ❌ 
+description: W:23 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 16 - 0 **UGSS**
-date: 2025-05-03T00:42:13.000Z
+Summary: ✅ 29 - 3 **Terran empire **
+date: 2025-05-10T04:00:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-05-03T00:42:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1394 🔺  (74)|
-| ELO Competitive | 1471 🔺  (113)|
-| Total Matches | 27 |
-| Wins | 22 |
+| ELO Regular | 1408 🔺  (63)|
+| ELO Competitive | 1483 🔺  (105)|
+| Total Matches | 28 |
+| Wins | 23 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745800933,1745206119,1744595503,1743980058,1743978256,1743421678,1743417771,1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
+        let timestamps = [1746417641,1745800933,1745206119,1744595503,1743980058,1743978256,1743421678,1743417771,1742806768,1742221340,1741610737,1740997431,1740391908,1739784874,1739155572,1738560933,1737966517,1737400230,1737324967,1736758167,1736200081,1735550949,1734945810,1734931090,1734393255,1734320838,1733739119,1733120725];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 29-3 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/05/03 | 16-0 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ✅ | 2025/04/26 | 22-1 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ✅ | 2025/04/19 | 15-2 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
@@ -176,5 +177,5 @@ Corporation ID: 22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746232933"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746849641"></span>
 </div>

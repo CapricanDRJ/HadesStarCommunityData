@@ -1,9 +1,9 @@
 ---
 title: ​泰拉瑞亚
-description: W:5 L:6 D:0 Bonus ❌ 5%
+description: W:5 L:7 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 4 - 17 **Frontier X**
-date: 2025-05-05T04:11:47.000Z
+Summary: ❌ 3 - 16 **Милый дом**
+date: 2025-05-10T04:35:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 2025-05-05T04:11:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (655)|
-| ELO Competitive | 1207 🔻  (673)|
-| Total Matches | 11 |
+| ELO Regular | 1178 🔻  (943)|
+| ELO Competitive | 1195 🔻  (766)|
+| Total Matches | 12 |
 | Wins | 5 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745986307,1745511278,1745051956,1744618037,1744184411,1743740225,1743266019,1742821795,1742389327,1709172001,1699838615];
+        let timestamps = [1746419745,1745986307,1745511278,1745051956,1744618037,1744184411,1743740225,1743266019,1742821795,1742389327,1709172001,1699838615];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 3-16 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) |
 | ❌ | 2025/05/05 | 4-17 | [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e/) |
 | ✅ | 2025/04/29 | 12-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ✅ | 2025/04/24 | 8-0 | [Junker  Nation](https://ws.tsl.rocks/corp/57f12051efed19092f9dce087e27dd9bc0c568ec40e829548316c0d3376984de/) |
@@ -154,5 +155,5 @@ Corporation ID: a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746418307"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746851745"></span>
 </div>

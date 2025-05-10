@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:18 L:3 D:0 Bonus ❌ 
+description: W:18 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 28 - 2 **DarkSide**
-date: 2025-05-02T22:10:29.000Z
+Summary: ❌ 3 - 29 **АарнСарт **
+date: 2025-05-10T04:00:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-02T22:10:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (108)|
-| ELO Competitive | 1385 🔺  (190)|
-| Total Matches | 21 |
+| ELO Regular | 1345 🔻  (122)|
+| ELO Competitive | 1373 🔻  (205)|
+| Total Matches | 22 |
 | Wins | 18 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745791829,1745708876,1745163449,1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1746417641,1745791829,1745708876,1745163449,1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 3-29 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ✅ | 2025/05/02 | 28-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2025/05/01 | 20-0 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ❌ | 2025/04/25 | 1-7 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
@@ -170,5 +170,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746223829"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746849641"></span>
 </div>
