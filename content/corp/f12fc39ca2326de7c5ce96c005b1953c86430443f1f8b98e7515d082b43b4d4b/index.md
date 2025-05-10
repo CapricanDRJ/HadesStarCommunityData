@@ -1,6 +1,6 @@
 ---
 title: ​Providence
-description: W:41 L:25 D:0 Bonus ✅ 48%
+description: W:41 L:25 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 53 - 13 **BRhue**
 date: 2025-05-03T11:01:37.000Z
@@ -21,12 +21,12 @@ https://discord.gg/nUgqhbn
 <br>
 
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (154)|
-| ELO Competitive | 1436 🔺  (143)|
+| ELO Regular | 1317 🔺  (153)|
+| ELO Competitive | 1436 🔺  (144)|
 | Total Matches | 66 |
 | Wins | 41 |
 | Losses | 25 |

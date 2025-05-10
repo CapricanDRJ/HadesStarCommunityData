@@ -19,7 +19,7 @@ HAGUANTE MILEY CARRAJO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (614)|
+| ELO Regular | 1192 🔻  (613)|
 | ELO Competitive | 1197 🔻  (747)|
 | Total Matches | 5 |
 | Wins | 2 |

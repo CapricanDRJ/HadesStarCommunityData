@@ -1,6 +1,6 @@
 ---
 title: ​Imperium XIII
-description: W:52 L:34 D:0 Bonus ✅ 48%
+description: W:52 L:34 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 13 - 18 **Ironbear Legion**
 date: 2025-05-10T04:21:35.000Z
@@ -21,12 +21,12 @@ Discord is required.
 <br>
 
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1334 🔻  (134)|
-| ELO Competitive | 1462 🔻  (122)|
+| ELO Competitive | 1462 🔻  (121)|
 | Total Matches | 86 |
 | Wins | 52 |
 | Losses | 34 |

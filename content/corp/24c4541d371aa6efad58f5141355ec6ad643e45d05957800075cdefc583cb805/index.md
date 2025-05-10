@@ -1,9 +1,9 @@
 ---
 title: ​Spaceforce
-description: W:2 L:6 D:1 Bonus ❌ 7%
+description: W:2 L:7 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Romania**
-date: 2025-01-10T09:08:50.000Z
+Summary: ❌ 0 - 19 **Interestelar**
+date: 2025-05-10T12:16:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ DISC: EEpZuWf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (1000)|
-| ELO Competitive | 1181 🔺  (1099)|
-| Total Matches | 9 |
+| ELO Regular | 1168 🔻  (1070)|
+| ELO Competitive | 1178 🔻  (1127)|
+| Total Matches | 10 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Flagship | 5 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1736068130,1729106944,1727760239,1727245453,1726340074,1725207619,1723327917,1722076269,1710253707];
+        let timestamps = [1746447387,1736068130,1729106944,1727760239,1727245453,1726340074,1725207619,1723327917,1722076269,1710253707];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 0-19 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ↔️ | 2025/01/10 | 0-0 | [Romania](https://ws.tsl.rocks/corp/4bc1e3eab391c81e6df74808732909cd97beed52349b5800b7717f65416b0e30/) |
 | ❌ | 2024/10/21 | 2-26 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2024/10/06 | 0-18 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
@@ -153,5 +154,5 @@ Corporation ID: 24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1736500130"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746879387"></span>
 </div>

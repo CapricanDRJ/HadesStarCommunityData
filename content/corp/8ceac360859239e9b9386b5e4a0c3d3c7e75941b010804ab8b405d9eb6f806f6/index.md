@@ -1,9 +1,9 @@
 ---
 title: ​Fleet Corp Ares
-description: W:28 L:16 D:0 Bonus ✅ 38%
+description: W:28 L:17 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 33 - 4 **Ƭιтαηѕ Ф тєʀʀσƦ**
-date: 2025-05-03T15:32:06.000Z
+Summary: ❌ 9 - 22 **Nearland Ind**
+date: 2025-05-10T12:26:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ We don't care. You should try it.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1363 🔺  (102)|
-| ELO Competitive | 1467 🔺  (118)|
-| Total Matches | 44 |
+| ELO Regular | 1348 🔻  (116)|
+| ELO Competitive | 1462 🔻  (122)|
+| Total Matches | 45 |
 | Wins | 28 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 8 |
 | Flagship | 8 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745854326,1745250597,1744654702,1744033543,1742643576,1742211223,1741662724,1740830340,1740313782,1739879230,1739298374,1738864745,1738431700,1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
+        let timestamps = [1746447988,1745854326,1745250597,1744654702,1744033543,1742643576,1742211223,1741662724,1740830340,1740313782,1739879230,1739298374,1738864745,1738431700,1737869453,1737290099,1736829697,1736222616,1735619463,1734569627,1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 2 | 0 | 2 |
 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 2 | 0 | 0 | 2 |
 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 3 | 0 | 0 | 3 |
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1 | 1 | 0 | 2 |
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 9-22 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ✅ | 2025/05/03 | 33-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2025/04/26 | 43-5 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2025/04/19 | 33-18 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
@@ -197,5 +198,5 @@ Corporation ID: 8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746286326"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746879988"></span>
 </div>

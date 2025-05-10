@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mond
-description: W:88 L:59 D:0 Bonus ✅ 56%
+description: W:88 L:59 D:0 Bonus ❌ 56%
 image: ./favicon.png
 Summary: ❌ 7 - 25 ** RELAX CZ/SK**
 date: 2025-05-09T23:00:16.000Z
@@ -18,12 +18,12 @@ s please register exclusively via our Discord bot 🙂
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 56%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1412 🔻  (56)|
-| ELO Competitive | 1755 🔻  (8)|
+| ELO Competitive | 1755 🔻  (9)|
 | Total Matches | 147 |
 | Wins | 88 |
 | Losses | 59 |

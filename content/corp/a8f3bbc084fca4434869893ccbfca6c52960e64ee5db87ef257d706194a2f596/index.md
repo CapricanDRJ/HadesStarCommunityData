@@ -1,9 +1,9 @@
 ---
 title: ​WinterComes
-description: W:9 L:17 D:0 Bonus ❌ 13%
+description: W:9 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 3 - 47 **Emergence**
-date: 2025-05-04T10:18:55.000Z
+Summary: ❌ 19 - 21 **Rising star**
+date: 2025-05-10T11:31:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ Winter Comes to Hades</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (612)|
-| ELO Competitive | 1270 🔻  (398)|
-| Total Matches | 26 |
+| ELO Regular | 1174 🔻  (977)|
+| ELO Competitive | 1253 🔻  (440)|
+| Total Matches | 27 |
 | Wins | 9 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 6 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745921935,1745423983,1744726215,1744121308,1743525659,1742832918,1742300672,1741622759,1740496185,1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1746444682,1745921935,1745423983,1744726215,1744121308,1743525659,1742832918,1742300672,1741622759,1740496185,1739896662,1739418268,1738689550,1738005588,1736804758,1736192266,1735628474,1734975562,1733237910,1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 19-21 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ❌ | 2025/05/04 | 3-47 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ✅ | 2025/04/28 | 27-0 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2025/04/20 | 14-13 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
@@ -182,5 +183,5 @@ Corporation ID: a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746353935"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746876682"></span>
 </div>

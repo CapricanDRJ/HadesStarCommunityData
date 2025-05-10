@@ -1,9 +1,9 @@
 ---
 title: ​Gummibärenbande
-description: W:9 L:39 D:0 Bonus ❌ 13%
+description: W:9 L:40 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 6 - 32 **Quilliance**
-date: 2025-05-04T09:45:03.000Z
+Summary: ❌ 14 - 46 **Likapa**
+date: 2025-05-10T12:01:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,11 +28,11 @@ Mitglied der Tartaros Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (1440)|
-| ELO Competitive | 1156 🔻  (1331)|
-| Total Matches | 48 |
+| ELO Regular | 1076 🔻  (1441)|
+| ELO Competitive | 1156 🔻  (1336)|
+| Total Matches | 49 |
 | Wins | 9 |
-| Losses | 39 |
+| Losses | 40 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 12 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745919903,1745915325,1745388224,1744791421,1744548621,1743967435,1743331513,1742135696,1741535315,1740312279,1740302663,1739727786,1739696527,1739132805,1737872457,1736709788,1733749035,1733133343,1732447899,1731839102,1730717329,1730055645,1729412869,1728229959,1727078412,1726408100,1725794776,1724423888,1722802027,1721661863,1720982090,1719768233,1718541551,1717842381,1715594612,1714903573,1714311849,1713699529,1712477217,1711921941,1711290934,1710088453,1708860093,1707728719,1707092861,1706477713,1703915825,1700210567];
+        let timestamps = [1746446485,1745919903,1745915325,1745388224,1744791421,1744548621,1743967435,1743331513,1742135696,1741535315,1740312279,1740302663,1739727786,1739696527,1739132805,1737872457,1736709788,1733749035,1733133343,1732447899,1731839102,1730717329,1730055645,1729412869,1728229959,1727078412,1726408100,1725794776,1724423888,1722802027,1721661863,1720982090,1719768233,1718541551,1717842381,1715594612,1714903573,1714311849,1713699529,1712477217,1711921941,1711290934,1710088453,1708860093,1707728719,1707092861,1706477713,1703915825,1700210567];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -154,6 +154,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 14-46 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2025/05/04 | 6-32 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ❌ | 2025/05/04 | 15-21 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2025/04/28 | 6-28 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
@@ -209,5 +210,5 @@ Corporation ID: 7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746351903"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746878485"></span>
 </div>

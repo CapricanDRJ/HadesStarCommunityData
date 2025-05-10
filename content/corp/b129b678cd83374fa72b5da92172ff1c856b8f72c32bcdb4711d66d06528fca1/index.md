@@ -1,9 +1,9 @@
 ---
 title: ​1st/Ave/Junkie2
-description: W:22 L:30 D:1 Bonus ❌ 8%
+description: W:22 L:31 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 28 **three kitties**
-date: 2025-04-26T14:24:45.000Z
+Summary: ❌ 0 - 4 **Тихий Омут**
+date: 2025-05-10T10:46:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ active! We are actively looking for White Star Players
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (987)|
-| ELO Competitive | 1227 🔻  (535)|
-| Total Matches | 53 |
+| ELO Regular | 1157 🔻  (1164)|
+| ELO Competitive | 1220 🔻  (561)|
+| Total Matches | 54 |
 | Wins | 22 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745245485,1744752887,1743328807,1739948947,1733079265,1730806579,1730219114,1729637649,1729106944,1728512320,1727912596,1725271618,1724613520,1723906703,1723317097,1722774372,1720647870,1719758313,1718986631,1718488964,1717968015,1717456118,1716944303,1716483333,1715938021,1715427851,1714991902,1714517078,1714033324,1713314655,1712835683,1712317963,1711825482,1710848637,1710404538,1709080359,1708257001,1707822779,1707343947,1706885805,1706403481,1705943997,1705508848,1704972434,1704470876,1703989758,1703265499,1702605328,1702005129,1701532074,1700765078,1700165491,1699585003];
+        let timestamps = [1746441977,1745245485,1744752887,1743328807,1739948947,1733079265,1730806579,1730219114,1729637649,1729106944,1728512320,1727912596,1725271618,1724613520,1723906703,1723317097,1722774372,1720647870,1719758313,1718986631,1718488964,1717968015,1717456118,1716944303,1716483333,1715938021,1715427851,1714991902,1714517078,1714033324,1713314655,1712835683,1712317963,1711825482,1710848637,1710404538,1709080359,1708257001,1707822779,1707343947,1706885805,1706403481,1705943997,1705508848,1704972434,1704470876,1703989758,1703265499,1702605328,1702005129,1701532074,1700765078,1700165491,1699585003];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 0-4 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2025/04/26 | 0-28 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2025/04/20 | 19-3 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ❌ | 2025/04/04 | 4-23 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
@@ -206,5 +207,5 @@ Corporation ID: b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745677485"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746873977"></span>
 </div>

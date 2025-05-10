@@ -1,9 +1,9 @@
 ---
 title: ​GalaxyNova
-description: W:8 L:3 D:0 Bonus ❌ 6%
+description: W:9 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 15 - 37 **Слава Украине\!**
-date: 2024-09-11T11:46:23.000Z
+Summary: ✅ 30 - 21 **Rogue One**
+date: 2025-05-10T10:46:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ but no being mean and excluding... Aires adds: (unless in a blue star
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (252)|
-| ELO Competitive | 1290 🔻  (347)|
-| Total Matches | 11 |
-| Wins | 8 |
+| ELO Regular | 1283 🔺  (217)|
+| ELO Competitive | 1312 🔺  (305)|
+| Total Matches | 12 |
+| Wins | 9 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725623183,1723493200,1719758313,1718908474,1716784417,1715614143,1713524979,1711503968,1709572842,1707435594,1704838414];
+        let timestamps = [1746441977,1725623183,1723493200,1719758313,1718908474,1716784417,1715614143,1713524979,1711503968,1709572842,1707435594,1704838414];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 30-21 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/09/11 | 15-37 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/08/17 | 27-6 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/05 | 32-0 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
@@ -156,5 +157,5 @@ Corporation ID: d3df4ca63632d4113f93581cd3629f93a8b06733db25c5ea94da3e7889cd8b94
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1726055183"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746873977"></span>
 </div>
