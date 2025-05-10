@@ -1,9 +1,9 @@
 ---
 title: ​V0RTEX
-description: W:20 L:6 D:2 Bonus ✅ 
+description: W:20 L:7 D:2 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 11 - 5 **沐星楼**
-date: 2025-05-10T02:40:33.000Z
+Summary: ❌ 0 - 6 **PODER ETERNO**
+date: 2025-05-10T20:47:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-10T02:40:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1349 🔺  (114)|
-| ELO Competitive | 1366 🔺  (219)|
-| Total Matches | 28 |
+| ELO Regular | 1328 🔻  (141)|
+| ELO Competitive | 1366 🔺  (220)|
+| Total Matches | 29 |
 | Wins | 20 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746412833,1745970206,1745968990,1745484380,1745429695,1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
+        let timestamps = [1746478049,1746412833,1745970206,1745968990,1745484380,1745429695,1744918537,1744854528,1744420001,1744412190,1743957214,1743957214,1743442420,1743440917,1742955831,1742929086,1742501127,1742496317,1741981832,1741541327,1741455682,1740961984,1740768134,1740506104,1740044309,1739995233,1739557692,1739051061,1738525777];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 0-6 | [PODER ETERNO](https://ws.tsl.rocks/corp/57d0f28e0092febc8df34805f3199249e0890faa0381ef2f14065fd3c39ec2b1/) |
 | ✅ | 2025/05/10 | 11-5 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) |
 | ✅ | 2025/05/04 | 18-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ✅ | 2025/05/04 | 21-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
@@ -181,5 +181,5 @@ Corporation ID: dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746844833"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746910049"></span>
 </div>

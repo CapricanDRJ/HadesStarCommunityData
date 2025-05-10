@@ -22,7 +22,7 @@ lor=yellow>weekly WS's and daily Corp runs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (518)|
+| ELO Regular | 1203 🔺  (519)|
 | ELO Competitive | 1307 🔺  (311)|
 | Total Matches | 64 |
 | Wins | 25 |

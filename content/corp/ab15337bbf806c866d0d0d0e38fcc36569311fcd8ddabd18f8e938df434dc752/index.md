@@ -20,8 +20,8 @@ Requirement: Active and have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (416)|
-| ELO Competitive | 1216 🔺  (594)|
+| ELO Regular | 1216 🔺  (417)|
+| ELO Competitive | 1216 🔺  (595)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

@@ -1,9 +1,9 @@
 ---
 title: ​Legión
-description: W:15 L:13 D:0 Bonus ❌ 8%
+description: W:16 L:13 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 7 - 13 **Space Oddity**
-date: 2025-05-04T23:43:26.000Z
+Summary: ✅ 14 - 10 **C'est pas faux\!**
+date: 2025-05-10T19:42:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 <br>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔻  (200)|
-| ELO Competitive | 1354 🔻  (234)|
-| Total Matches | 28 |
-| Wins | 15 |
+| ELO Regular | 1306 🔺  (165)|
+| ELO Competitive | 1370 🔺  (213)|
+| Total Matches | 29 |
+| Wins | 16 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745970206,1745444122,1744914028,1744798330,1743955411,1743518444,1742703988,1742119165,1741650708,1741404290,1740308672,1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1746474142,1745970206,1745444122,1744914028,1744798330,1743955411,1743518444,1742703988,1742119165,1741650708,1741404290,1740308672,1739732897,1739634022,1738358966,1737555738,1736527949,1735554854,1735090630,1734636931,1733960266,1733499320,1732920902,1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 14-10 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ❌ | 2025/05/04 | 7-13 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) |
 | ✅ | 2025/04/28 | 14-12 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2025/04/22 | 5-4 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
@@ -178,5 +179,5 @@ Corporation ID: 50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746402206"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746906142"></span>
 </div>

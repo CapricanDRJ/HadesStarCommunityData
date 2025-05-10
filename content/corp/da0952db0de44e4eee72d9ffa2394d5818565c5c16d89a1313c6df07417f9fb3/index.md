@@ -20,7 +20,7 @@ For the friends and normies
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (193)|
+| ELO Regular | 1295 🔺  (194)|
 | ELO Competitive | 1347 🔺  (251)|
 | Total Matches | 26 |
 | Wins | 17 |

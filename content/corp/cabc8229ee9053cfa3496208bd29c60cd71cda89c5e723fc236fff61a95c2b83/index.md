@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:7 L:20 D:3 Bonus ✅ 32%
+description: W:7 L:20 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 3 - 17 **Terran empire **
 date: 2025-05-10T16:16:57.000Z
@@ -18,12 +18,12 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1336)|
-| ELO Competitive | 1207 🔻  (670)|
+| ELO Regular | 1126 🔻  (1337)|
+| ELO Competitive | 1207 🔻  (671)|
 | Total Matches | 30 |
 | Wins | 7 |
 | Losses | 20 |

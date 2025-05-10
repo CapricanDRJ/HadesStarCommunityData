@@ -1,9 +1,9 @@
 ---
 title: ​九州·白星
-description: W:0 L:4 D:0 Bonus ❌ 
+description: W:0 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 38 **BrazilCorp\.**
-date: 2025-05-05T14:54:51.000Z
+Summary: ❌ 0 - 34 **Bl@ck/Galaxy **
+date: 2025-05-10T20:17:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-05T14:54:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1208)|
-| ELO Competitive | 1178 🔻  (1122)|
-| Total Matches | 4 |
+| ELO Regular | 1145 🔻  (1249)|
+| ELO Competitive | 1173 🔻  (1180)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746024891,1745572426,1745139404,1744706382];
+        let timestamps = [1746476246,1746024891,1745572426,1745139404,1744706382];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 0-34 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ❌ | 2025/05/05 | 0-38 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2025/04/30 | 0-19 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2025/04/25 | 0-29 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
@@ -145,5 +146,5 @@ Corporation ID: 1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746456891"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746908246"></span>
 </div>
