@@ -1,6 +1,6 @@
 ---
 title: ​普罗米修斯
-description: W:15 L:32 D:1 Bonus ✅ 36%
+description: W:15 L:32 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 7 **✨ℛedstar Order«**
 date: 2025-05-03T05:41:08.000Z
@@ -19,12 +19,12 @@ Q：650722059
 <br>
 
 ### [Discord](https://discord.gg/akTfXJGv)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1079 🔻  (1436)|
-| ELO Competitive | 1250 🔺  (453)|
+| ELO Competitive | 1250 🔺  (452)|
 | Total Matches | 48 |
 | Wins | 15 |
 | Losses | 32 |

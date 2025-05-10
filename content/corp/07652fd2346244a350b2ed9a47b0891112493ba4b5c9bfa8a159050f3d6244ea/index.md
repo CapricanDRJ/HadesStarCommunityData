@@ -19,7 +19,7 @@ Looking for active playerz to compete in white stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (682)|
+| ELO Regular | 1188 🔻  (683)|
 | ELO Competitive | 1194 🔻  (780)|
 | Total Matches | 1 |
 | Wins | 0 |

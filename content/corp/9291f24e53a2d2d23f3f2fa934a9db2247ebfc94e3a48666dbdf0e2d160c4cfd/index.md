@@ -1,6 +1,6 @@
 ---
 title: ​СССР
-description: W:72 L:46 D:2 Bonus ✅ 50%
+description: W:72 L:46 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 27 - 30 **Continuum**
 date: 2025-05-08T21:52:45.000Z
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 <br>
 
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
