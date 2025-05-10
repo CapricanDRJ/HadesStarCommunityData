@@ -20,6 +20,10 @@ outputs:
     - HTML
     - RSS
     - JSON
+  section:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   defaultTheme: dark
