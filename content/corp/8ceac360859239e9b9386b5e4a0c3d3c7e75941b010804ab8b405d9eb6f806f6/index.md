@@ -1,6 +1,6 @@
 ---
 title: ​Fleet Corp Ares
-description: W:28 L:17 D:0 Bonus ✅ 38%
+description: W:28 L:17 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 9 - 22 **Nearland Ind**
 date: 2025-05-10T12:26:28.000Z
@@ -15,7 +15,7 @@ We don't care. You should try it.
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

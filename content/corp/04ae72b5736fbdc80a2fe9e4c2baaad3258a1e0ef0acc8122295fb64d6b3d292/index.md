@@ -1,6 +1,6 @@
 ---
 title: ​three kitties
-description: W:67 L:37 D:5 Bonus ✅ 40%
+description: W:67 L:37 D:5 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ↔️ 34 - 34 **新?的星际集团?**
 date: 2025-05-03T15:07:03.000Z
@@ -17,7 +17,7 @@ e Infos on Discord or at: hadestitans.com
 <br>
 
 ### [Discord](https://discord.gg/YPC7XenfdY)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

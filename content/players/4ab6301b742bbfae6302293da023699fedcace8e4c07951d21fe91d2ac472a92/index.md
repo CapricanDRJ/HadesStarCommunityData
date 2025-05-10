@@ -3,9 +3,9 @@ layout: page
 title: "Dark Matter"
 description: "Dark Matter"
 ---
-- **WhiteStars**: 1
-- **μ**: 24.07  
-- **σ**: 8.30  
+- **WhiteStars**: 2
+- **μ**: 25.11  
+- **σ**: 8.26  
 
 ---
 
@@ -14,6 +14,7 @@ description: "Dark Matter"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 1 |
+| [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 |
 
 ---
 
@@ -21,4 +22,5 @@ description: "Dark Matter"
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2025-05-10 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 37-1 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | 2025-04-20 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 4-48 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

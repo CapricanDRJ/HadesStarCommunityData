@@ -1,6 +1,6 @@
 ---
 title: ​Cool Casual
-description: W:17 L:6 D:0 Bonus ✅ 
+description: W:17 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 0 **Stargroup**
 date: 2025-05-03T13:18:28.000Z
@@ -15,7 +15,7 @@ date: 2025-05-03T13:18:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
