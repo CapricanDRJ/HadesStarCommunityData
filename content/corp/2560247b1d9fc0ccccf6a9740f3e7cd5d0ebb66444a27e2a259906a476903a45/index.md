@@ -1,9 +1,9 @@
 ---
 title: ​Revólver
-description: W:14 L:24 D:1 Bonus ✅ 38%
+description: W:14 L:25 D:1 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 23 - 2 **Sprite**
-date: 2025-05-03T16:22:12.000Z
+Summary: ❌ 0 - 14 **Warriorlords**
+date: 2025-05-10T18:37:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 2025-05-03T16:22:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (932)|
-| ELO Competitive | 1234 🔺  (508)|
-| Total Matches | 39 |
+| ELO Regular | 1173 🔻  (997)|
+| ELO Competitive | 1230 🔻  (518)|
+| Total Matches | 40 |
 | Wins | 14 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745857332,1738970224,1738434706,1736170322,1734376728,1733754444,1733150774,1732553077,1731957205,1731339685,1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
+        let timestamps = [1746470233,1745857332,1738970224,1738434706,1736170322,1734376728,1733754444,1733150774,1732553077,1731957205,1731339685,1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 0-14 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ✅ | 2025/05/03 | 23-2 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2025/02/12 | 4-16 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ✅ | 2025/02/06 | 20-4 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
@@ -189,5 +190,5 @@ Corporation ID: 2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746289332"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746902233"></span>
 </div>

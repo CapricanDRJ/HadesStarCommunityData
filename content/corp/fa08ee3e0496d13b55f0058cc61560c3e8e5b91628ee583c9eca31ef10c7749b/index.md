@@ -1,6 +1,6 @@
 ---
 title: ​C'est pas faux!
-description: W:13 L:7 D:1 Bonus ✅ 36%
+description: W:13 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 12 **Halcon español**
 date: 2025-05-03T18:22:26.000Z
@@ -21,7 +21,7 @@ Discord : wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ )
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

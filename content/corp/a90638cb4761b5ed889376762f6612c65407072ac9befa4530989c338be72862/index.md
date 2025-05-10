@@ -1,9 +1,9 @@
 ---
 title: ​Corp. Luminá
-description: W:20 L:5 D:0 Bonus ❌ 7%
+description: W:21 L:5 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 30 **Industrial W\.O**
-date: 2025-05-02T19:55:13.000Z
+Summary: ✅ 13 - 0 **titan tv**
+date: 2025-05-10T17:27:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔻  (135)|
-| ELO Competitive | 1372 🔻  (206)|
-| Total Matches | 25 |
-| Wins | 20 |
+| ELO Regular | 1338 🔺  (131)|
+| ELO Competitive | 1379 🔺  (202)|
+| Total Matches | 26 |
+| Wins | 21 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745783713,1744728018,1743344140,1742826605,1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
+        let timestamps = [1746466025,1745783713,1744728018,1743344140,1742826605,1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 13-0 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2025/05/02 | 0-30 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2025/04/20 | 21-1 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2025/04/04 | 29-3 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
@@ -169,5 +170,5 @@ Corporation ID: a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746215713"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746898025"></span>
 </div>
