@@ -1,6 +1,6 @@
 ---
 title: ​DarkSide
-description: W:56 L:77 D:2 Bonus ✅ 40%
+description: W:56 L:77 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 22 - 0 **碧霄殿**
 date: 2025-05-03T08:36:22.000Z
@@ -18,7 +18,7 @@ https://t.me/DS_DarkSide
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

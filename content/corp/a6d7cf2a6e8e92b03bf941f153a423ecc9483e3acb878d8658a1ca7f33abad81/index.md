@@ -1,9 +1,9 @@
 ---
 title: ​Space Oddity
-description: W:17 L:10 D:0 Bonus ✅ 42%
+description: W:18 L:10 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 13 - 7 **Legión**
-date: 2025-05-04T23:43:26.000Z
+Summary: ✅ 44 - 9 **Сварожичи**
+date: 2025-05-10T07:31:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (235)|
-| ELO Competitive | 1318 🔺  (294)|
-| Total Matches | 27 |
-| Wins | 17 |
+| ELO Regular | 1286 🔺  (213)|
+| ELO Competitive | 1329 🔺  (277)|
+| Total Matches | 28 |
+| Wins | 18 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745970206,1745445624,1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
+        let timestamps = [1746430260,1745970206,1745445624,1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 44-9 | [Сварожичи](https://ws.tsl.rocks/corp/756e76b1fa697e8ab2f40b1c5c5c93f69beeee26898a3ca128da2a7b69589093/) |
 | ✅ | 2025/05/04 | 13-7 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2025/04/28 | 27-0 | [Prosperity](https://ws.tsl.rocks/corp/a78b903885754b355b532fb47d983aa5725cb7c73c25e75dbfe4c440cdfffec0/) |
 | ✅ | 2025/04/23 | 26-4 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
@@ -178,5 +179,5 @@ Corporation ID: a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746402206"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746862260"></span>
 </div>

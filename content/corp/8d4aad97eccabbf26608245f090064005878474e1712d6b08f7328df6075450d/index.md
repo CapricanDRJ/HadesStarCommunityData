@@ -1,6 +1,6 @@
 ---
 title: ​Серебряная орда
-description: W:64 L:62 D:3 Bonus ✅ 40%
+description: W:64 L:62 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 26 - 1 **Rogue One**
 date: 2025-05-03T08:51:25.000Z
@@ -18,7 +18,7 @@ r="green">Русский, English
 <br>
 
 ### [Discord](https://discord.gg/p6rrFevJbJ)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

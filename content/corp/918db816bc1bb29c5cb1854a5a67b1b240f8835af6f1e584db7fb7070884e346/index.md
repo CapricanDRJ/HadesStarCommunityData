@@ -1,9 +1,9 @@
 ---
 title: ​Polaris Corpo
-description: W:14 L:16 D:0 Bonus ❌ 8%
+description: W:14 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 8 - 29 **Death Star llc\.**
-date: 2025-04-29T06:36:08.000Z
+Summary: ❌ 3 - 31 **\[Blue\*Nation\]**
+date: 2025-05-10T08:51:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 2025-04-29T06:36:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (556)|
-| ELO Competitive | 1292 🔻  (344)|
-| Total Matches | 30 |
+| ELO Regular | 1196 🔻  (585)|
+| ELO Competitive | 1288 🔻  (351)|
+| Total Matches | 31 |
 | Wins | 14 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745476568,1744704579,1744697369,1744005596,1743434603,1742988882,1742471969,1740143398,1739101841,1738417569,1738415164,1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
+        let timestamps = [1746435067,1745476568,1744704579,1744697369,1744005596,1743434603,1742988882,1742471969,1740143398,1739101841,1738417569,1738415164,1737634765,1737630558,1737035556,1737026237,1736336509,1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 3-31 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2025/04/29 | 8-29 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2025/04/20 | 0-16 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/04/20 | 3-38 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
@@ -183,5 +184,5 @@ Corporation ID: 918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745908568"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746867067"></span>
 </div>

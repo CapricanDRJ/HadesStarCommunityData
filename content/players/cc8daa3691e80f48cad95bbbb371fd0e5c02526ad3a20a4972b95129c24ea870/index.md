@@ -3,9 +3,9 @@ layout: page
 title: "✴☄⚔SergLord⚔☄✴"
 description: "✴☄⚔SergLord⚔☄✴"
 ---
-- **WhiteStars**: 1
-- **μ**: 26.01  
-- **σ**: 8.30  
+- **WhiteStars**: 2
+- **μ**: 26.78  
+- **σ**: 8.26  
 
 ---
 
@@ -13,7 +13,7 @@ description: "✴☄⚔SergLord⚔☄✴"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 2 |
 
 ---
 
@@ -21,4 +21,5 @@ description: "✴☄⚔SergLord⚔☄✴"
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2025-05-10 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 41-8 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | 2025-04-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 47-6 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

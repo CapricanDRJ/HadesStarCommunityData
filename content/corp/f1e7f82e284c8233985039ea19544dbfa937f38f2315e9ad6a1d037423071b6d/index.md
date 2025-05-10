@@ -1,9 +1,9 @@
 ---
 title: ​RUFORS
-description: W:25 L:10 D:0 Bonus ❌ 8%
+description: W:26 L:10 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 37 - 3 **对，进就进人少的**
-date: 2025-04-30T17:34:41.000Z
+Summary: ✅ 20 - 2 **Space Marshalls**
+date: 2025-05-10T09:41:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 2025-04-30T17:34:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 🔺  (91)|
-| ELO Competitive | 1439 🔺  (142)|
-| Total Matches | 35 |
-| Wins | 25 |
+| ELO Regular | 1382 🔺  (89)|
+| ELO Competitive | 1450 🔺  (129)|
+| Total Matches | 36 |
+| Wins | 26 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 | Flagship | 5 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745602481,1744923045,1744216266,1743514836,1742646282,1741890186,1741106206,1740521736,1739546871,1738752052,1737795228,1737331877,1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
+        let timestamps = [1746438071,1745602481,1744923045,1744216266,1743514836,1742646282,1741890186,1741106206,1740521736,1739546871,1738752052,1737795228,1737331877,1736079854,1734892635,1733303110,1732399222,1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/10 | 20-2 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2025/04/30 | 37-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/04/22 | 16-15 | [MiddleOfNowhere](https://ws.tsl.rocks/corp/5533fe0fd0191ec67175c5e7330d8716ef0ce35fdbf47e4c07e41393dcf6eb42/) |
 | ✅ | 2025/04/14 | 14-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
@@ -185,5 +186,5 @@ Corporation ID: f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746034481"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746870071"></span>
 </div>

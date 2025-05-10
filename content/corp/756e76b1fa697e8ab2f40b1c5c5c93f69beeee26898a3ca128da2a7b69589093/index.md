@@ -1,9 +1,9 @@
 ---
 title: ​Сварожичи
-description: W:2 L:1 D:0 Bonus ❌ 
+description: W:2 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 5 - 22 **9\-Й СКОРПИОН**
-date: 2025-05-04T16:32:41.000Z
+Summary: ❌ 9 - 44 **Space Oddity**
+date: 2025-05-10T07:31:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-04T16:32:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (382)|
-| ELO Competitive | 1238 🔻  (494)|
-| Total Matches | 3 |
+| ELO Regular | 1209 🔻  (482)|
+| ELO Competitive | 1226 🔻  (538)|
+| Total Matches | 4 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745944361,1745332331,1744892987];
+        let timestamps = [1746430260,1745944361,1745332331,1744892987];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/10 | 9-44 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) |
 | ❌ | 2025/05/04 | 5-22 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2025/04/27 | 21-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2025/04/22 | 9-4 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
@@ -145,5 +146,5 @@ Corporation ID: 756e76b1fa697e8ab2f40b1c5c5c93f69beeee26898a3ca128da2a7b69589093
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746376361"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746862260"></span>
 </div>

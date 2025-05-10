@@ -1,6 +1,6 @@
 ---
 title: ​pirates spatial
-description: W:76 L:59 D:0 Bonus ✅ 50%
+description: W:76 L:59 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 24 - 23 **Omega Alpha**
 date: 2025-05-03T08:41:24.000Z
@@ -21,7 +21,7 @@ https://discord.gg/wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

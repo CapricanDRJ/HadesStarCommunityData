@@ -1,6 +1,6 @@
 ---
 title: ​ГОРИЗОНТ
-description: W:38 L:101 D:0 Bonus ✅ 50%
+description: W:38 L:101 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 8 - 61 **Auscorp **
 date: 2025-05-09T01:58:04.000Z
@@ -17,7 +17,7 @@ date: 2025-05-09T01:58:04.000Z
 <br>
 
 ### [Discord](https://discord.gg/hn2S7qy58g)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
