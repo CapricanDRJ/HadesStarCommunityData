@@ -1,9 +1,9 @@
 ---
 title: ​Black Pearl FR
-description: W:6 L:1 D:0 Bonus ❌ 
+description: W:7 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 20 - 4 **Lupus Regnum**
-date: 2025-05-04T06:03:32.000Z
+Summary: ✅ 27 - 3 **九州·华夏**
+date: 2025-05-11T13:54:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-05-04T06:03:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (247)|
-| ELO Competitive | 1314 🔺  (301)|
-| Total Matches | 7 |
-| Wins | 6 |
+| ELO Regular | 1285 🔺  (216)|
+| ELO Competitive | 1330 🔺  (275)|
+| Total Matches | 8 |
+| Wins | 7 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745906612,1745302882,1744712992,1744709086,1744198832,1743662689,1743166193];
+        let timestamps = [1746539642,1745906612,1745302882,1744712992,1744709086,1744198832,1743662689,1743166193];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/11 | 27-3 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/05/04 | 20-4 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/04/27 | 19-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/04/20 | 4-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
@@ -155,5 +156,5 @@ Corporation ID: 2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746338612"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746971642"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​沐星楼
-description: W:4 L:2 D:1 Bonus ✅ 
+description: W:4 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 5 - 11 **V0RTEX**
 date: 2025-05-10T02:40:33.000Z
@@ -15,11 +15,11 @@ date: 2025-05-10T02:40:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (328)|
+| ELO Regular | 1239 🔻  (327)|
 | ELO Competitive | 1247 🔻  (463)|
 | Total Matches | 7 |
 | Wins | 4 |

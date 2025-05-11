@@ -1,9 +1,9 @@
 ---
 title: ​九州·华夏
-description: W:17 L:10 D:1 Bonus ✅ 
+description: W:18 L:11 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 0 **新星工程**
-date: 2025-05-06T09:21:40.000Z
+Summary: ✅ 11 - 6 **New YuGiOh**
+date: 2025-05-11T14:24:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-06T09:21:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (150)|
-| ELO Competitive | 1343 🔺  (256)|
-| Total Matches | 28 |
-| Wins | 17 |
-| Losses | 10 |
+| ELO Regular | 1321 🔺  (147)|
+| ELO Competitive | 1362 🔺  (225)|
+| Total Matches | 30 |
+| Wins | 18 |
+| Losses | 11 |
 | Draws | 1 |
-| Streak | 8 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746091300,1746085291,1745610595,1745605186,1745171773,1745163449,1744715696,1744714194,1744264644,1744156470,1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
+        let timestamps = [1746541445,1746539642,1746091300,1746085291,1745610595,1745605186,1745171773,1745163449,1744715696,1744714194,1744264644,1744156470,1743822268,1743516340,1743389828,1743047192,1742913154,1742591112,1742468663,1742137199,1742031115,1741695171,1741483928,1741233907,1740734474,1740185173,1739530041,1739360871,1739018301,1738545311];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 2 | 0 | 0 | 2 |
 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) | 1 | 1 | 0 | 2 |
 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) | 2 | 0 | 0 | 2 |
 
@@ -142,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/11 | 11-6 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
+| ❌ | 2025/05/11 | 3-27 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ✅ | 2025/05/06 | 4-0 | [新星工程](https://ws.tsl.rocks/corp/22f9ba6fe47854adceeccbf19b9818b2338270bc2711f18dc2238d12e40f7b32/) |
 | ✅ | 2025/05/06 | 5-1 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
 | ✅ | 2025/04/30 | 8-0 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -177,5 +179,5 @@ Corporation ID: b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746523300"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746973445"></span>
 </div>
