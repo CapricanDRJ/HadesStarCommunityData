@@ -1,6 +1,6 @@
 ---
 title: ​Hexacropians
-description: W:67 L:19 D:2 Bonus ✅ 44%
+description: W:67 L:19 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 59 - 0 **骊珠洞天**
 date: 2025-05-04T10:03:54.000Z
@@ -18,11 +18,11 @@ Ngā mihi nui, from NZ (and Aus!)
 <br>
 
 ### [Discord](https://discord.gg/Y7EZe2eQk9)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1413 🔺  (55)|
+| ELO Regular | 1413 🔺  (54)|
 | ELO Competitive | 1534 🔺  (61)|
 | Total Matches | 88 |
 | Wins | 67 |

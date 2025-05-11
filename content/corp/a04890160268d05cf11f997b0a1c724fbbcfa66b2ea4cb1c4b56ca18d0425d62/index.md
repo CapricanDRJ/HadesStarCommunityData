@@ -1,6 +1,6 @@
 ---
 title: ​GDZ
-description: W:56 L:46 D:0 Bonus ✅ 48%
+description: W:56 L:46 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 32 - 0 **星域 **
 date: 2025-05-04T10:48:58.000Z
@@ -16,7 +16,7 @@ date: 2025-05-04T10:48:58.000Z
 <br>
 
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -23,7 +23,7 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1260 🔺  (268)|
-| ELO Competitive | 1354 🔺  (235)|
+| ELO Competitive | 1354 🔺  (236)|
 | Total Matches | 66 |
 | Wins | 40 |
 | Losses | 25 |
