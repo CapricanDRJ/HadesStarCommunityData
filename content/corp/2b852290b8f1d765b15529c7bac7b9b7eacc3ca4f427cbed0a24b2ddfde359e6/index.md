@@ -1,6 +1,6 @@
 ---
 title: ​Black Pearl FR
-description: W:6 L:1 D:0 Bonus ✅ 
+description: W:6 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 20 - 4 **Lupus Regnum**
 date: 2025-05-04T06:03:32.000Z
@@ -15,7 +15,7 @@ date: 2025-05-04T06:03:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -22,7 +22,7 @@ Welcome to KINETIC! A corporation almost as old as the Hades universe
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (83)|
+| ELO Regular | 1387 🔺  (82)|
 | ELO Competitive | 1443 🔺  (137)|
 | Total Matches | 16 |
 | Wins | 15 |

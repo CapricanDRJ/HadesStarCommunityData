@@ -1,6 +1,6 @@
 ---
 title: ​USSR
-description: W:8 L:1 D:0 Bonus ✅ 36%
+description: W:8 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 21 - 10 **Mass Effect**
 date: 2025-05-04T04:03:20.000Z
@@ -20,7 +20,7 @@ date: 2025-05-04T04:03:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

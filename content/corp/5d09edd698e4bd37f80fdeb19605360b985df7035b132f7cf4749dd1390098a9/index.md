@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:24 L:12 D:0 Bonus ✅ 
+description: W:24 L:12 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 4 - 20 **Black Pearl FR**
 date: 2025-05-04T06:03:32.000Z
@@ -15,7 +15,7 @@ date: 2025-05-04T06:03:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
