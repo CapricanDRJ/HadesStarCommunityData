@@ -1,9 +1,9 @@
 ---
 title: ​星瀚协议
-description: W:8 L:7 D:0 Bonus ❌ 
+description: W:8 L:8 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 3 - 21 **对，进就进人少的（分团）**
-date: 2025-05-04T22:18:19.000Z
+Summary: ❌ 0 - 12 **九州分团**
+date: 2025-05-11T00:12:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-04T22:18:19.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (322)|
-| ELO Competitive | 1253 🔻  (441)|
-| Total Matches | 15 |
+| ELO Regular | 1231 🔻  (349)|
+| ELO Competitive | 1249 🔻  (455)|
+| Total Matches | 16 |
 | Wins | 8 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745965099,1745708876,1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
+        let timestamps = [1746490379,1745965099,1745708876,1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/11 | 0-12 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/05/04 | 3-21 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2025/05/01 | 0-20 | [Terran empire ](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2025/04/28 | 9-0 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
@@ -162,5 +163,5 @@ Corporation ID: 45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746397099"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746922379"></span>
 </div>
