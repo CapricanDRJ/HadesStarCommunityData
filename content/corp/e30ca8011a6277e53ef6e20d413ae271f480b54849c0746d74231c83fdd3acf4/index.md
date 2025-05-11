@@ -1,9 +1,9 @@
 ---
 title: ​ALPHA
-description: W:37 L:15 D:1 Bonus ❌ 8%
+description: W:37 L:16 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **九州分团**
-date: 2025-05-05T15:58:52.000Z
+Summary: ❌ 5 - 27 **Бороская Имерия**
+date: 2025-05-11T01:07:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Crecer principal objetivo        Leko:Join us we need active member
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔻  (154)|
-| ELO Competitive | 1396 🔻  (182)|
-| Total Matches | 53 |
+| ELO Regular | 1299 🔻  (188)|
+| ELO Competitive | 1378 🔻  (203)|
+| Total Matches | 54 |
 | Wins | 37 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 13 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746028732,1745588955,1745124978,1744663719,1744222578,1743786205,1743305364,1742796758,1742352066,1741907015,1741408196,1740975801,1740543068,1740105239,1739667381,1739234371,1738792025,1738349649,1737898906,1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1746493672,1746028732,1745588955,1745124978,1744663719,1744222578,1743786205,1743305364,1742796758,1742352066,1741907015,1741408196,1740975801,1740543068,1740105239,1739667381,1739234371,1738792025,1738349649,1737898906,1737434341,1736986275,1736533358,1736096093,1735662131,1735224030,1734768294,1734319937,1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/11 | 5-27 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2025/05/05 | 0-8 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2025/04/30 | 0-13 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2025/04/25 | 9-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
@@ -204,5 +205,5 @@ Corporation ID: e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746460732"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746925672"></span>
 </div>
