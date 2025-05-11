@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:39 L:12 D:0 Bonus ✅ 36%
+description: W:39 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 22 - 5 **Сварожичи**
 date: 2025-05-04T16:32:41.000Z
@@ -17,7 +17,7 @@ date: 2025-05-04T16:32:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Black Pearl FR
-description: W:7 L:1 D:0 Bonus ✅ 
+description: W:8 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 27 - 3 **九州·华夏**
-date: 2025-05-11T13:54:02.000Z
+Summary: ✅ 10 - 5 **EarthFederation**
+date: 2025-05-11T17:54:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2025-05-11T13:54:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔺  (216)|
-| ELO Competitive | 1330 🔺  (275)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1300 🔺  (186)|
+| ELO Competitive | 1330 🔺  (274)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746539642,1745906612,1745302882,1744712992,1744709086,1744198832,1743662689,1743166193];
+        let timestamps = [1746554069,1746539642,1745906612,1745302882,1744712992,1744709086,1744198832,1743662689,1743166193];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/11 | 10-5 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ✅ | 2025/05/11 | 27-3 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/05/04 | 20-4 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/04/27 | 19-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
@@ -156,5 +157,5 @@ Corporation ID: 2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746971642"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746986069"></span>
 </div>

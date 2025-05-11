@@ -1,6 +1,6 @@
 ---
 title: ​nuevo mundo
-description: W:19 L:12 D:0 Bonus ✅ 36%
+description: W:19 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 6 **Dominadores**
 date: 2025-05-04T18:17:53.000Z
@@ -21,7 +21,7 @@ Esperamos su llegada!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

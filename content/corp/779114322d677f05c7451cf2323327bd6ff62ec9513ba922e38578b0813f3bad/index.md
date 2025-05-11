@@ -1,9 +1,9 @@
 ---
 title: ​Red Star
-description: W:23 L:26 D:2 Bonus ❌ 8%
+description: W:23 L:27 D:2 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 45 **AFronteiraFinal**
-date: 2025-05-06T17:52:34.000Z
+Summary: ❌ 4 - 11 **RedStar Raiding**
+date: 2025-05-11T18:44:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-06T17:52:34.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (549)|
-| ELO Competitive | 1349 🔻  (248)|
-| Total Matches | 51 |
+| ELO Regular | 1178 🔻  (944)|
+| ELO Competitive | 1325 🔻  (282)|
+| Total Matches | 52 |
 | Wins | 23 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746121954,1746114741,1745682425,1745574829,1745119570,1745114761,1744668828,1744377628,1744165783,1743935268,1743601245,1743199259,1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1746557075,1746121954,1746114741,1745682425,1745574829,1745119570,1745114761,1744668828,1744377628,1744165783,1743935268,1743601245,1743199259,1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/11 | 4-11 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2025/05/06 | 3-45 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ❌ | 2025/05/06 | 1-11 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2025/05/01 | 4-41 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
@@ -204,5 +205,5 @@ Corporation ID: 779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746553954"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746989075"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Lupus Regnum
-description: W:25 L:12 D:0 Bonus ✅ 
+description: W:26 L:12 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 13 - 0 **青丘湖**
-date: 2025-05-11T09:38:36.000Z
+Summary: ✅ 7 - 1 **pérola negra **
+date: 2025-05-11T16:29:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-05-11T09:38:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (195)|
-| ELO Competitive | 1420 🔺  (159)|
-| Total Matches | 37 |
-| Wins | 25 |
+| ELO Regular | 1304 🔺  (176)|
+| ELO Competitive | 1420 🔺  (160)|
+| Total Matches | 38 |
+| Wins | 26 |
 | Losses | 12 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746524316,1745906612,1745903907,1745171773,1745154130,1744700073,1744698199,1743940378,1743936771,1743393300,1743344440,1742746369,1742746369,1742130886,1742128180,1741523292,1741518808,1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
+        let timestamps = [1746548960,1746524316,1745906612,1745903907,1745171773,1745154130,1744700073,1744698199,1743940378,1743936771,1743393300,1743344440,1742746369,1742746369,1742130886,1742128180,1741523292,1741518808,1740920501,1740917435,1740333620,1740325505,1739745820,1739710952,1739127694,1739104846,1738501124,1738493308,1737902513,1737900409,1737296111,1737288596,1736739840,1736684533,1736090981,1736079854,1735507087,1735507087];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/11 | 7-1 | [pérola negra ](https://ws.tsl.rocks/corp/731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a/) |
 | ✅ | 2025/05/11 | 13-0 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2025/05/04 | 4-20 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ✅ | 2025/05/04 | 7-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
@@ -184,5 +186,5 @@ Corporation ID: 5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746956316"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746980960"></span>
 </div>
