@@ -23,8 +23,8 @@ Discord Mandatory.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (589)|
-| ELO Competitive | 1196 🔻  (754)|
+| ELO Regular | 1195 🔻  (590)|
+| ELO Competitive | 1196 🔻  (755)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

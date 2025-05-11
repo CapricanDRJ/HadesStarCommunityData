@@ -1,9 +1,9 @@
 ---
 title: ​Best UA West
-description: W:2 L:4 D:0 Bonus ❌ 6%
+description: W:3 L:4 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 17 - 1 **纳塔Natlan**
-date: 2025-04-18T10:30:06.000Z
+Summary: ✅ 6 - 2 **Hades’ galaxy**
+date: 2025-05-11T08:23:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ Discord https://discord.gg/mXaAX7Caga
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (930)|
-| ELO Competitive | 1182 🔺  (1095)|
-| Total Matches | 6 |
-| Wins | 2 |
+| ELO Regular | 1200 🔺  (537)|
+| ELO Competitive | 1203 🔺  (690)|
+| Total Matches | 7 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 5 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1744540206,1743064318,1701611417,1701057823,1699820701,1698912184];
+        let timestamps = [1746519809,1744540206,1743064318,1701611417,1701057823,1699820701,1698912184];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/11 | 6-2 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
 | ✅ | 2025/04/18 | 17-1 | [纳塔Natlan](https://ws.tsl.rocks/corp/3256a70ba8c9fd0e9dff34e19c2f7f25b85b460a55a2bfc2de9ecd2422971f44/) |
 | ✅ | 2025/04/01 | 9-6 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2023/12/08 | 4-17 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
@@ -149,5 +150,5 @@ Corporation ID: 4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1744972206"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746951809"></span>
 </div>
