@@ -1,9 +1,9 @@
 ---
 title: ​OKC THUNDER 
-description: W:5 L:10 D:0 Bonus ❌ 9%
+description: W:6 L:10 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 12 - 25 **莫比乌斯\-星环**
-date: 2025-05-05T16:45:03.000Z
+Summary: ✅ 27 - 5 **SQPT**
+date: 2025-05-11T18:49:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ ome also:)
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (909)|
-| ELO Competitive | 1216 🔻  (599)|
-| Total Matches | 15 |
-| Wins | 5 |
+| ELO Regular | 1195 🔺  (593)|
+| ELO Competitive | 1238 🔺  (493)|
+| Total Matches | 16 |
+| Wins | 6 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746031503,1745545384,1744892386,1744455761,1743924449,1743367594,1742699180,1741458387,1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
+        let timestamps = [1746557376,1746031503,1745545384,1744892386,1744455761,1743924449,1743367594,1742699180,1741458387,1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/11 | 27-5 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2025/05/05 | 12-25 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ✅ | 2025/04/30 | 18-4 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ❌ | 2025/04/22 | 3-17 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
@@ -163,5 +164,5 @@ Corporation ID: e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746463503"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746989376"></span>
 </div>

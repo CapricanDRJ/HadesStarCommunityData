@@ -1,6 +1,6 @@
 ---
 title: ​Eretria 
-description: W:38 L:45 D:1 Bonus ✅ 38%
+description: W:38 L:45 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 17 - 6 **Sussy Coloner**
 date: 2025-05-04T20:33:09.000Z
@@ -18,7 +18,7 @@ uld be an Honor that you would join us! >=)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

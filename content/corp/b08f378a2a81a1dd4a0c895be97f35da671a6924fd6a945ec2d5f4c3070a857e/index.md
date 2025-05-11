@@ -19,7 +19,7 @@ Worship of a boi named Vanu
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (863)|
+| ELO Regular | 1184 🔻  (864)|
 | ELO Competitive | 1184 🔻  (1066)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -1,9 +1,9 @@
 ---
 title: ​The Star League
-description: W:9 L:18 D:0 Bonus ❌ 14%
+description: W:9 L:19 D:0 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 23 - 28 **Crazy Elite**
-date: 2025-04-27T17:27:31.000Z
+Summary: ❌ 26 - 28 **Internationals**
+date: 2025-05-11T21:24:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ color> focus.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1123)|
-| ELO Competitive | 1235 🔻  (502)|
-| Total Matches | 27 |
+| ELO Regular | 1155 🔻  (1182)|
+| ELO Competitive | 1230 🔻  (524)|
+| Total Matches | 28 |
 | Wins | 9 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 12 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745342851,1743086558,1740757916,1739803506,1737444256,1732503796,1726517801,1725906569,1725207318,1724608410,1722893384,1721310564,1720523745,1719204786,1716870969,1711357036,1709071947,1708262411,1707236611,1706762597,1706552239,1705960229,1705318324,1704733830,1704137911,1703262794,1699010444];
+        let timestamps = [1746566693,1745342851,1743086558,1740757916,1739803506,1737444256,1732503796,1726517801,1725906569,1725207318,1724608410,1722893384,1721310564,1720523745,1719204786,1716870969,1711357036,1709071947,1708262411,1707236611,1706762597,1706552239,1705960229,1705318324,1704733830,1704137911,1703262794,1699010444];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/11 | 26-28 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2025/04/27 | 23-28 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2025/04/01 | 16-37 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2025/03/05 | 29-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
@@ -180,5 +181,5 @@ Corporation ID: f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745774851"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1746998693"></span>
 </div>

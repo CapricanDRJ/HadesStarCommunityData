@@ -1,6 +1,6 @@
 ---
 title: ​Crazy Elite
-description: W:47 L:63 D:0 Bonus ✅ 52%
+description: W:47 L:63 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 32 - 36 ** RELAX CZ/SK**
 date: 2025-05-09T19:39:57.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
