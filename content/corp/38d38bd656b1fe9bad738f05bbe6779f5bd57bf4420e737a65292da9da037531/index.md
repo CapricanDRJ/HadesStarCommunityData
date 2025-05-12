@@ -1,9 +1,9 @@
 ---
 title: ​Lololol
-description: W:10 L:5 D:0 Bonus ❌ 
+description: W:11 L:5 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 5 - 21 **星落苑**
-date: 2025-05-05T09:14:15.000Z
+Summary: ✅ 21 - 0 **WSC\(no DISCORD\)**
+date: 2025-05-12T13:01:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-05-05T09:14:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (246)|
-| ELO Competitive | 1306 🔻  (316)|
-| Total Matches | 15 |
-| Wins | 10 |
+| ELO Regular | 1280 🔺  (230)|
+| ELO Competitive | 1322 🔺  (291)|
+| Total Matches | 16 |
+| Wins | 11 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746004455,1745280651,1744695867,1743646164,1742874690,1742428403,1741939157,1741254336,1740621197,1740003953,1739152635,1738576557,1737765402,1737107237,1736473854];
+        let timestamps = [1746622876,1746004455,1745280651,1744695867,1743646164,1742874690,1742428403,1741939157,1741254336,1740621197,1740003953,1739152635,1738576557,1737765402,1737107237,1736473854];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/12 | 21-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2025/05/05 | 5-21 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2025/04/27 | 11-2 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ✅ | 2025/04/20 | 15-5 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
@@ -157,5 +158,5 @@ Corporation ID: 38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746436455"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747054876"></span>
 </div>

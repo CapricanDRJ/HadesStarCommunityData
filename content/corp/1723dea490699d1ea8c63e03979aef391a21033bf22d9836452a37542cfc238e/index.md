@@ -1,6 +1,6 @@
 ---
 title: ​Soul System
-description: W:14 L:19 D:0 Bonus ✅ 38%
+description: W:14 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 7 **White Dwarf**
 date: 2025-05-10T20:57:30.000Z
@@ -18,7 +18,7 @@ ust we are born our souls woven from light. RS and WS focused.
 <br>
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
