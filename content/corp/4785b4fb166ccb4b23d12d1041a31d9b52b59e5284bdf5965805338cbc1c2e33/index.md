@@ -1,9 +1,9 @@
 ---
 title: ​BlankBoosters
-description: W:1 L:4 D:0 Bonus ❌ 5%
+description: W:2 L:4 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 4 - 11 **северный шторм**
-date: 2025-04-28T04:18:34.000Z
+Summary: ✅ 3 - 0 **墨痕空域**
+date: 2025-05-12T10:41:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Centre mine
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1138)|
-| ELO Competitive | 1172 🔻  (1195)|
-| Total Matches | 5 |
-| Wins | 1 |
+| ELO Regular | 1168 🔺  (1080)|
+| ELO Competitive | 1191 🔺  (832)|
+| Total Matches | 6 |
+| Wins | 2 |
 | Losses | 4 |
 | Draws | 0 |
 | Flagship | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745381914,1709635336,1706504455,1704690256,1700322258];
+        let timestamps = [1746614461,1745381914,1709635336,1706504455,1704690256,1700322258];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/12 | 3-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2025/04/28 | 4-11 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2024/03/10 | 3-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/02/03 | 1-29 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
@@ -148,5 +149,5 @@ Corporation ID: 4785b4fb166ccb4b23d12d1041a31d9b52b59e5284bdf5965805338cbc1c2e33
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745813914"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747046461"></span>
 </div>

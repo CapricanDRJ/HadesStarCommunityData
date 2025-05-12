@@ -1,6 +1,6 @@
 ---
 title: ​северный шторм
-description: W:19 L:26 D:1 Bonus ✅ 36%
+description: W:19 L:26 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 13 - 29 **星を継ぐもの**
 date: 2025-05-12T06:50:40.000Z
@@ -16,7 +16,7 @@ date: 2025-05-12T06:50:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

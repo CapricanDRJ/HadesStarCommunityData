@@ -22,7 +22,7 @@ ss,14 day grace. We want to be more active again and have a good time
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (808)|
-| ELO Competitive | 1185 🔻  (1010)|
+| ELO Competitive | 1185 🔻  (1011)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

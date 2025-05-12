@@ -1,6 +1,6 @@
 ---
 title: ​Новички
-description: W:5 L:1 D:0 Bonus ✅ 
+description: W:5 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 7 - 0 **彩虹神圣太空队**
 date: 2025-05-05T11:40:15.000Z
@@ -15,12 +15,12 @@ date: 2025-05-05T11:40:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1253 🔺  (284)|
-| ELO Competitive | 1261 🔺  (421)|
+| ELO Competitive | 1261 🔺  (420)|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |

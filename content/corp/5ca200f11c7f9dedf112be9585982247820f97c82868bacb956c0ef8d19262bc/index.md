@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Light
-description: W:21 L:38 D:2 Bonus ✅ 36%
+description: W:21 L:39 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 7 - 1 **OPA**
-date: 2025-05-06T10:31:47.000Z
+Summary: ❌ 0 - 8 **新?的星际集团?**
+date: 2025-05-12T12:36:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ space of this game. WS every week. Join us into the Light!
 <br>
 
 ### [Discord](https://discord.gg/pfsfZwqh)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔺  (1316)|
-| ELO Competitive | 1281 🔺  (368)|
-| Total Matches | 61 |
+| ELO Regular | 1125 🔻  (1338)|
+| ELO Competitive | 1273 🔻  (389)|
+| Total Matches | 62 |
 | Wins | 21 |
-| Losses | 38 |
+| Losses | 39 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746095507,1745455538,1744986746,1744502344,1743924749,1743924449,1743482385,1742899027,1742372196,1741828291,1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1746621373,1746095507,1745455538,1744986746,1744502344,1743924749,1743924449,1743482385,1742899027,1742372196,1741828291,1741319321,1740849278,1739871745,1739392129,1738660698,1737857436,1737175600,1736662292,1736035051,1736029061,1734611386,1734603273,1733897464,1733895061,1733446440,1733444638,1732812108,1732789569,1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) | 1 | 1 | 0 | 2 |
 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 0 | 2 | 0 | 2 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 3 | 0 | 0 | 3 |
 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/12 | 0-8 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2025/05/06 | 7-1 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2025/04/29 | 5-11 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ↔️ | 2025/04/23 | 3-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
@@ -212,5 +214,5 @@ Corporation ID: 5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746527507"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747053373"></span>
 </div>
