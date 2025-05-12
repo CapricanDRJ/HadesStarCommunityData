@@ -1,9 +1,9 @@
 ---
 title: ​Hands Of God
-description: W:0 L:1 D:0 Bonus ❌ 5%
+description: W:0 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **koalition**
-date: 2024-06-27T20:19:20.000Z
+Summary: ❌ 0 - 19 **Empire of Hades**
+date: 2025-05-12T04:28:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2024-06-27T20:19:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (752)|
-| ELO Competitive | 1186 🔻  (957)|
-| Total Matches | 1 |
+| ELO Regular | 1179 🔻  (937)|
+| ELO Competitive | 1180 🔻  (1107)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719087560];
+        let timestamps = [1746592111,1719087560];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/12 | 0-19 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2024/06/27 | 0-9 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 737612566d1b11dd779660de211c576dcb421c49df9eb55390e082f496924c9b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1719519560"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747024111"></span>
 </div>

@@ -21,8 +21,8 @@ y. 30days afk=kick https://discord.gg/g7HzK7s
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1331)|
-| ELO Competitive | 1166 🔻  (1267)|
+| ELO Regular | 1127 🔻  (1332)|
+| ELO Competitive | 1166 🔻  (1268)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 6 |

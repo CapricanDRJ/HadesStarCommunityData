@@ -1,9 +1,9 @@
 ---
 title: ​СНГ — РОССИЯ
-description: W:7 L:10 D:3 Bonus ❌ 5%
+description: W:7 L:11 D:3 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **EarthFederation**
-date: 2025-05-06T17:27:31.000Z
+Summary: ❌ 0 - 12 **U\.P\.E**
+date: 2025-05-12T03:57:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-06T17:27:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1153)|
-| ELO Competitive | 1213 🔻  (640)|
-| Total Matches | 20 |
+| ELO Regular | 1145 🔻  (1250)|
+| ELO Competitive | 1198 🔻  (746)|
+| Total Matches | 21 |
 | Wins | 7 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 3 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746120451,1745559806,1739504805,1730884706,1727071502,1720492493,1720192874,1719890534,1714279399,1712776499,1711325494,1711313476,1709156201,1707311731,1707311731,1706691317,1706662331,1706095816,1705588264,1704842321];
+        let timestamps = [1746590267,1746120451,1745559806,1739504805,1730884706,1727071502,1720492493,1720192874,1719890534,1714279399,1712776499,1711325494,1711313476,1709156201,1707311731,1707311731,1706691317,1706662331,1706095816,1705588264,1704842321];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/12 | 0-12 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ❌ | 2025/05/06 | 0-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ✅ | 2025/04/30 | 4-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2025/02/19 | 3-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
@@ -162,5 +163,5 @@ Corporation ID: 075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746552451"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747022267"></span>
 </div>

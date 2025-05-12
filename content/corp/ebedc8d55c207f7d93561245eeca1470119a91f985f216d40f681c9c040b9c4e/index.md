@@ -1,6 +1,6 @@
 ---
 title: ​Frontier X
-description: W:11 L:5 D:0 Bonus ✅ 34%
+description: W:11 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 17 - 4 **泰拉瑞亚**
 date: 2025-05-05T04:11:47.000Z
@@ -16,7 +16,7 @@ o7233
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
