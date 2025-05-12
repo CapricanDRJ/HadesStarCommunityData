@@ -1,6 +1,6 @@
 ---
 title: ​47підрозділССП
-description: W:21 L:6 D:0 Bonus ✅ 
+description: W:21 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 6 - 36 **Nox Imperium**
 date: 2025-05-11T04:38:09.000Z
@@ -15,7 +15,7 @@ date: 2025-05-11T04:38:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
