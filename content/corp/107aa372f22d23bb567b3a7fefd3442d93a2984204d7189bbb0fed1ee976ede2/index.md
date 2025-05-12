@@ -1,6 +1,6 @@
 ---
 title: ​星を継ぐもの
-description: W:74 L:33 D:1 Bonus ✅ 42%
+description: W:74 L:33 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 20 - 43 **Ninth Planet**
 date: 2025-05-05T06:59:03.000Z
@@ -17,11 +17,11 @@ date: 2025-05-05T06:59:03.000Z
 <br>
 
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1408 🔻  (61)|
+| ELO Regular | 1408 🔻  (62)|
 | ELO Competitive | 1662 🔺  (22)|
 | Total Matches | 108 |
 | Wins | 74 |

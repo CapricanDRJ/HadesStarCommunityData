@@ -1,6 +1,6 @@
 ---
 title: ​Order of Hades
-description: W:82 L:36 D:1 Bonus ✅ 50%
+description: W:82 L:36 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 8 - 41 **IX Легион**
 date: 2025-05-10T06:00:53.000Z
@@ -17,7 +17,7 @@ iscord is mandatory for membership.
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

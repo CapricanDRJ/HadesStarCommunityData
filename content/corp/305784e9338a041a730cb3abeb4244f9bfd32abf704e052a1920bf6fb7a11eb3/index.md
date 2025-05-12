@@ -1,9 +1,9 @@
 ---
 title: ​Untitled
-description: W:3 L:2 D:0 Bonus ✅ 
+description: W:4 L:2 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 7 - 0 **BlackDawn**
-date: 2025-05-05T20:00:24.000Z
+Summary: ✅ 5 - 0 **✨ℛedstar Order«**
+date: 2025-05-12T00:30:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-05-05T20:00:24.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (501)|
-| ELO Competitive | 1219 🔺  (563)|
-| Total Matches | 5 |
-| Wins | 3 |
+| ELO Regular | 1227 🔺  (369)|
+| ELO Competitive | 1242 🔺  (484)|
+| Total Matches | 6 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746043224,1745561007,1744752064,1744201237,1743119921];
+        let timestamps = [1746577807,1746043224,1745561007,1744752064,1744201237,1743119921];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/12 | 5-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ✅ | 2025/05/05 | 7-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2025/04/30 | 2-5 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
 | ✅ | 2025/04/20 | 6-0 | [星域 ](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
@@ -147,5 +149,5 @@ Corporation ID: 305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746475224"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747009807"></span>
 </div>
