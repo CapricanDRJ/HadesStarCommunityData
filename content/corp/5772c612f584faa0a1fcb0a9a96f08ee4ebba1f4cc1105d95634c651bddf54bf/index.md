@@ -1,9 +1,9 @@
 ---
 title: ​Empire of Hades
-description: W:25 L:5 D:1 Bonus ✅ 
+description: W:26 L:5 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 19 - 0 **Hands Of God**
-date: 2025-05-12T04:28:31.000Z
+Summary: ✅ 21 - 10 **северный шторм**
+date: 2025-05-12T06:50:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2025-05-12T04:28:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔺  (75)|
-| ELO Competitive | 1428 🔺  (153)|
-| Total Matches | 31 |
-| Wins | 25 |
+| ELO Regular | 1400 🔺  (68)|
+| ELO Competitive | 1434 🔺  (150)|
+| Total Matches | 32 |
+| Wins | 26 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 12 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746592111,1746014071,1746000549,1745410458,1745391528,1744787214,1744184411,1744175698,1743661487,1743656411,1742985875,1742976862,1742365285,1741784113,1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
+        let timestamps = [1746600640,1746592111,1746014071,1746000549,1745410458,1745391528,1744787214,1744184411,1744175698,1743661487,1743656411,1742985875,1742976862,1742365285,1741784113,1741175011,1740489269,1739884639,1739289357,1738770986,1738126683,1737562652,1737101671,1736588656,1736002901,1735649508,1735411530,1734875504,1734875203,1734364407,1733847891,1733304312];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/12 | 21-10 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2025/05/12 | 19-0 | [Hands Of God](https://ws.tsl.rocks/corp/737612566d1b11dd779660de211c576dcb421c49df9eb55390e082f496924c9b/) |
 | ✅ | 2025/05/05 | 16-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2025/05/05 | 26-16 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
@@ -179,5 +180,5 @@ Corporation ID: 5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1747024111"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747032640"></span>
 </div>

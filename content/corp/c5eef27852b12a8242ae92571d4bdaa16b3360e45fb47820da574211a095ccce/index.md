@@ -1,6 +1,6 @@
 ---
 title: ​한국우주연합
-description: W:11 L:17 D:0 Bonus ✅ 32%
+description: W:11 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 2 **Red Alliance**
 date: 2025-05-05T08:59:14.000Z
@@ -15,7 +15,7 @@ kor.cop 많이 들어와주세요
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

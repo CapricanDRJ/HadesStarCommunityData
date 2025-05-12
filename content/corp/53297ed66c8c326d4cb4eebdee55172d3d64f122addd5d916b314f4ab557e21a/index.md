@@ -1,6 +1,6 @@
 ---
 title: ​Ninth Planet
-description: W:73 L:7 D:1 Bonus ✅ 40%
+description: W:73 L:7 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 43 - 20 **星を継ぐもの**
 date: 2025-05-05T06:59:03.000Z
@@ -17,7 +17,7 @@ itty
 <br>
 
 ### [Discord](https://discord.gg/ )
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

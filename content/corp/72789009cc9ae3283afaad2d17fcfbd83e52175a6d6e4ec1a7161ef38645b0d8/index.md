@@ -1,6 +1,6 @@
 ---
 title: ​Red Alliance
-description: W:28 L:37 D:2 Bonus ✅ 36%
+description: W:28 L:37 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **한국우주연합**
 date: 2025-05-05T08:59:14.000Z
@@ -15,7 +15,7 @@ English speaking – would you want to communicate
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

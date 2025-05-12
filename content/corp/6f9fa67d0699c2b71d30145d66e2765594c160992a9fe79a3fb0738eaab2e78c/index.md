@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:29 L:15 D:0 Bonus ✅ 36%
+description: W:29 L:15 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 4 - 10 **северный шторм**
 date: 2025-05-05T12:14:33.000Z
@@ -17,12 +17,12 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1298 🔻  (193)|
-| ELO Competitive | 1445 🔺  (133)|
+| ELO Competitive | 1445 🔺  (134)|
 | Total Matches | 44 |
 | Wins | 29 |
 | Losses | 15 |
