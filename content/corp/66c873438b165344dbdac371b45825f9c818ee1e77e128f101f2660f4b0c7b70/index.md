@@ -1,9 +1,9 @@
 ---
 title: ​Free Ag3nts
-description: W:26 L:0 D:0 Bonus ❌ 8%
+description: W:27 L:0 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 14 - 3 **宇宙联盟（中国）**
-date: 2025-05-02T13:23:35.000Z
+Summary: ✅ 34 - 3 **The Syndicate **
+date: 2025-05-13T21:09:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2025-05-02T13:23:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1437 🔺  (42)|
-| ELO Competitive | 1462 🔺  (118)|
-| Total Matches | 26 |
-| Wins | 26 |
+| ELO Regular | 1450 🔺  (32)|
+| ELO Competitive | 1476 🔺  (109)|
+| Total Matches | 27 |
+| Wins | 27 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 26 |
-| Streak Record | 26 |
+| Streak | 27 |
+| Streak Record | 27 |
 | Flagship | 6 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745760215,1745274041,1744781113,1744335863,1743850015,1742790424,1742199643,1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
+        let timestamps = [1746738568,1745760215,1745274041,1744781113,1744335863,1743850015,1742790424,1742199643,1741733340,1741099294,1740630544,1740164137,1739676610,1739228362,1738795789,1738302279,1737765402,1737250134,1736808364,1736276710,1735842409,1735330100,1734858975,1734043260,1719598745,1716019746,1715472326];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/13 | 34-3 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2025/05/02 | 14-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/04/26 | 28-2 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
 | ✅ | 2025/04/21 | 28-4 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
@@ -169,5 +170,5 @@ Corporation ID: 66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746192215"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747170568"></span>
 </div>

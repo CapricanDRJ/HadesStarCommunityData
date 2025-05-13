@@ -1,9 +1,9 @@
 ---
 title: ​The Syndicate 
-description: W:35 L:8 D:0 Bonus ❌ 8%
+description: W:35 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 18 - 4 **万顷稻花**
-date: 2025-05-06T11:41:53.000Z
+Summary: ❌ 3 - 34 **Free Ag3nts**
+date: 2025-05-13T21:09:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ ons.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔺  (73)|
-| ELO Competitive | 1434 🔺  (149)|
-| Total Matches | 43 |
+| ELO Regular | 1382 🔻  (86)|
+| ELO Competitive | 1420 🔻  (161)|
+| Total Matches | 44 |
 | Wins | 35 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 20 |
 | Flagship | 3 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746099713,1745545384,1743720215,1743090905,1741865543,1741261847,1740656646,1739450660,1738840699,1738240144,1737644684,1736437487,1735815061,1734600870,1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
+        let timestamps = [1746738568,1746099713,1745545384,1743720215,1743090905,1741865543,1741261847,1740656646,1739450660,1738840699,1738240144,1737644684,1736437487,1735815061,1734600870,1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/13 | 3-34 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ✅ | 2025/05/06 | 18-4 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ❌ | 2025/04/30 | 4-18 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 | ✅ | 2025/04/08 | 23-0 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
@@ -196,5 +197,5 @@ Corporation ID: a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746531713"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747170568"></span>
 </div>
