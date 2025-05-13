@@ -24,7 +24,7 @@ A social, easygoing Corp with allies to join together with for Red or
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (225)|
+| ELO Regular | 1281 🔺  (226)|
 | ELO Competitive | 1329 🔺  (278)|
 | Total Matches | 23 |
 | Wins | 14 |

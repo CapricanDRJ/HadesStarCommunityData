@@ -1,6 +1,6 @@
 ---
 title: ​孤星长城
-description: W:12 L:2 D:0 Bonus ✅ 
+description: W:12 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 4 - 36 **BrinySeal**
 date: 2025-05-06T07:51:31.000Z
@@ -15,7 +15,7 @@ date: 2025-05-06T07:51:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
