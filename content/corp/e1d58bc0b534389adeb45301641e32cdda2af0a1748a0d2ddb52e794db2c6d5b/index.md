@@ -1,6 +1,6 @@
 ---
 title: ​EarthFederation
-description: W:17 L:8 D:2 Bonus ✅ 34%
+description: W:17 L:8 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 5 - 10 **Black Pearl FR**
 date: 2025-05-11T17:54:29.000Z
@@ -16,7 +16,7 @@ Looking for members. Come grow with us!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

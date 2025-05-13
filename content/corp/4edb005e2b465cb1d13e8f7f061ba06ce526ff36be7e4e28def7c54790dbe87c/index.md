@@ -1,6 +1,6 @@
 ---
 title: ​Day Light
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 18 - 3 **WSC\(no DISCORD\)**
 date: 2025-05-06T16:12:23.000Z
@@ -15,7 +15,7 @@ date: 2025-05-06T16:12:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

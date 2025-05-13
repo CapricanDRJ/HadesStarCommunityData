@@ -1,6 +1,6 @@
 ---
 title: ​AFronteiraFinal
-description: W:33 L:7 D:1 Bonus ✅ 36%
+description: W:33 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 45 - 3 **Red Star**
 date: 2025-05-06T17:52:34.000Z
@@ -18,7 +18,7 @@ a em dia. Temos grupo de Discord.
 <br>
 
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
