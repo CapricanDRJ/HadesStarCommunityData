@@ -1,9 +1,9 @@
 ---
 title: ​Trade Station
-description: W:11 L:57 D:0 Bonus ❌ 14%
+description: W:12 L:57 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ❌ 13 - 45 **Crazy Elite**
-date: 2025-05-04T19:28:01.000Z
+Summary: ✅ 47 - 11 **Death Flight**
+date: 2025-05-13T07:28:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,14 +23,14 @@ Find us on Discord: YTaYrhy
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1012 🔻  (1490)|
-| ELO Competitive | 1102 🔻  (1469)|
-| Total Matches | 68 |
-| Wins | 11 |
+| ELO Regular | 1024 🔺  (1482)|
+| ELO Competitive | 1123 🔺  (1443)|
+| Total Matches | 69 |
+| Wins | 12 |
 | Losses | 57 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745954881,1744778200,1744263442,1743586057,1742976562,1742486698,1741931647,1741083066,1740046622,1739312198,1738752953,1738090927,1737608925,1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
+        let timestamps = [1746689282,1745954881,1744778200,1744263442,1743586057,1742976562,1742486698,1741931647,1741083066,1740046622,1739312198,1738752953,1738090927,1737608925,1737008808,1736169120,1735432564,1734839403,1732706918,1731892599,1731367034,1730815896,1730330296,1729861804,1729391534,1728909489,1727403842,1726782137,1725382199,1724601497,1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 2 | 0 | 0 | 2 |
 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 2 | 1 | 0 | 3 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 | 4 | 0 | 5 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 1 | 0 | 3 |
@@ -161,6 +162,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/13 | 47-11 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2025/05/04 | 13-45 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2025/04/21 | 35-4 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2025/04/15 | 10-37 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
@@ -236,5 +238,5 @@ Corporation ID: 7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746386881"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747121282"></span>
 </div>

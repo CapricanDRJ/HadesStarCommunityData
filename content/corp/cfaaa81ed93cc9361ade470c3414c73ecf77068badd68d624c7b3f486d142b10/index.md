@@ -1,6 +1,6 @@
 ---
 title: ​StellaMysterium
-description: W:34 L:59 D:2 Bonus ✅ 38%
+description: W:34 L:59 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 36 - 10 **Deadspace**
 date: 2025-05-06T08:36:36.000Z
@@ -18,7 +18,7 @@ rp. Come and join a fun loving and chill family like team! Welcome to
 <br>
 
 ### [Discord](https://discord.gg/K45fhFgcXv)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​✨ℛedstar Order«
-description: W:25 L:13 D:1 Bonus ✅ 
+description: W:26 L:13 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 5 **Untitled**
-date: 2025-05-12T00:30:07.000Z
+Summary: ✅ 14 - 2 **DarkSide**
+date: 2025-05-13T08:23:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-05-12T00:30:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔻  (148)|
-| ELO Competitive | 1376 🔻  (204)|
-| Total Matches | 39 |
-| Wins | 25 |
+| ELO Regular | 1328 🔺  (140)|
+| ELO Competitive | 1415 🔺  (166)|
+| Total Matches | 40 |
+| Wins | 26 |
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 10 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746577807,1746260176,1746129769,1745818868,1745650863,1745341048,1745218137,1744900802,1744780918,1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
+        let timestamps = [1746692588,1746577807,1746260176,1746129769,1745818868,1745650863,1745341048,1745218137,1744900802,1744780918,1744464778,1744348261,1744029034,1743914549,1743562322,1743481784,1743064318,1743018429,1742632185,1742582269,1742177504,1742137199,1741695585,1741681951,1741233907,1741175011,1740800285,1740716746,1740333620,1740283493,1739898550,1739806812,1739450660,1739374696,1738987951,1738889686,1738525777,1738430798,1738074429,1737632061];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/13 | 14-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2025/05/12 | 0-5 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 | ✅ | 2025/05/08 | 29-0 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80/) |
 | ❌ | 2025/05/06 | 0-28 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
@@ -187,5 +188,5 @@ Corporation ID: 01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1747009807"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747124588"></span>
 </div>

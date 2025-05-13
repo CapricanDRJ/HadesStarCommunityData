@@ -1,6 +1,6 @@
 ---
 title: ​BrinySeal
-description: W:81 L:35 D:3 Bonus ✅ 44%
+description: W:81 L:35 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 17 - 20 **莫比乌斯\-星环**
 date: 2025-05-11T10:38:41.000Z
@@ -18,7 +18,7 @@ quired. We can help speed your progress :)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

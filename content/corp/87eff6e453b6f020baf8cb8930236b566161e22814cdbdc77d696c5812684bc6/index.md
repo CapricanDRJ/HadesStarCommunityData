@@ -1,9 +1,9 @@
 ---
 title: ​Space Pirates
-description: W:10 L:62 D:0 Bonus ❌ 9%
+description: W:10 L:63 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 0 - 31 **\[Blue\*Nation\]**
-date: 2025-05-03T07:56:20.000Z
+Summary: ❌ 3 - 55 **White Dwarf**
+date: 2025-05-13T06:52:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Discord invite code is https://discord.gg/44nD9yX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 937 🔻  (1509)|
-| ELO Competitive | 1010 🔻  (1514)|
-| Total Matches | 72 |
+| ELO Regular | 934 🔻  (1508)|
+| ELO Competitive | 1008 🔻  (1515)|
+| Total Matches | 73 |
 | Wins | 10 |
-| Losses | 62 |
+| Losses | 63 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745826980,1745271938,1744616234,1744031804,1743409658,1742804665,1742230358,1741597514,1740443600,1739825750,1739189592,1738597895,1737986652,1737363120,1736759970,1736156196,1734350882,1733780592,1733161594,1732515814,1731948489,1731315642,1730718832,1730129866,1729502419,1728900472,1728302377,1727683605,1727077811,1726476323,1725876812,1725265309,1724656488,1723480576,1722929139,1722257200,1721656753,1721030173,1720535898,1719850268,1719358948,1718695712,1718056971,1717449207,1716903423,1716285345,1715592509,1715079934,1714400488,1713792365,1713247945,1712698682,1712053243,1711437261,1710831513,1710305688,1709692128,1708999790,1708369695,1707731123,1706642695,1705979459,1705390146,1704795434,1702884525,1702364588,1701855458,1701207798,1700608198,1700017259,1699380067,1698809346];
+        let timestamps = [1746687179,1745826980,1745271938,1744616234,1744031804,1743409658,1742804665,1742230358,1741597514,1740443600,1739825750,1739189592,1738597895,1737986652,1737363120,1736759970,1736156196,1734350882,1733780592,1733161594,1732515814,1731948489,1731315642,1730718832,1730129866,1729502419,1728900472,1728302377,1727683605,1727077811,1726476323,1725876812,1725265309,1724656488,1723480576,1722929139,1722257200,1721656753,1721030173,1720535898,1719850268,1719358948,1718695712,1718056971,1717449207,1716903423,1716285345,1715592509,1715079934,1714400488,1713792365,1713247945,1712698682,1712053243,1711437261,1710831513,1710305688,1709692128,1708999790,1708369695,1707731123,1706642695,1705979459,1705390146,1704795434,1702884525,1702364588,1701855458,1701207798,1700608198,1700017259,1699380067,1698809346];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 0 | 2 | 0 | 2 |
 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) | 0 | 2 | 0 | 2 |
 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 0 | 3 | 0 | 3 |
 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 0 | 2 | 0 | 2 |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/13 | 3-55 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2025/05/03 | 0-31 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2025/04/26 | 6-30 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2025/04/19 | 4-21 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6/) |
@@ -230,5 +232,5 @@ Corporation ID: 87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746258980"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747119179"></span>
 </div>
