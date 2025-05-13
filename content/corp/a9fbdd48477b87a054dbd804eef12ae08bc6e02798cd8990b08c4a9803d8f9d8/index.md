@@ -1,9 +1,9 @@
 ---
 title: ​MÉXICO INFINITO
-description: W:20 L:32 D:0 Bonus ✅ 34%
+description: W:21 L:32 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 20 - 0 **lesescargots**
-date: 2025-05-08T05:10:57.000Z
+Summary: ✅ 3 - 2 **对，进就进人少的（分团）**
+date: 2025-05-13T13:58:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ ella blanca=EB EB cuando se nos salga de los huevos
 <br>
 
 ### [Discord](https://discord.gg/invite/MwEdMAZu)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (1267)|
-| ELO Competitive | 1222 🔺  (553)|
-| Total Matches | 52 |
-| Wins | 20 |
+| ELO Regular | 1163 🔺  (1111)|
+| ELO Competitive | 1243 🔺  (481)|
+| Total Matches | 53 |
+| Wins | 21 |
 | Losses | 32 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 5 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746249057,1745206119,1743286133,1739720572,1737823782,1734858975,1733354197,1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
+        let timestamps = [1746712721,1746249057,1745206119,1743286133,1739720572,1737823782,1734858975,1733354197,1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/13 | 3-2 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2025/05/08 | 20-0 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2025/04/26 | 1-22 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2025/04/03 | 1-35 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
@@ -203,5 +205,5 @@ Corporation ID: a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746681057"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747144721"></span>
 </div>

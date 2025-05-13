@@ -1,9 +1,9 @@
 ---
 title: ​对，进就进人少的（分团）
-description: W:26 L:18 D:1 Bonus ❌ 8%
+description: W:26 L:19 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 21 - 3 **星瀚协议**
-date: 2025-05-04T22:18:19.000Z
+Summary: ❌ 2 - 3 **MÉXICO INFINITO**
+date: 2025-05-13T13:58:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ o华浩 QQ767311697
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔺  (174)|
-| ELO Competitive | 1359 🔺  (228)|
-| Total Matches | 45 |
+| ELO Regular | 1284 🔻  (218)|
+| ELO Competitive | 1338 🔻  (260)|
+| Total Matches | 46 |
 | Wins | 26 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745965099,1745504815,1744892386,1744335863,1743662689,1743084154,1742470466,1741811765,1741306026,1740700523,1740064659,1739576626,1739127106,1737014217,1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1746712721,1745965099,1745504815,1744892386,1744335863,1743662689,1743084154,1742470466,1741811765,1741306026,1740700523,1740064659,1739576626,1739127106,1737014217,1736577236,1735824678,1735256498,1734656161,1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/13 | 2-3 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ✅ | 2025/05/04 | 21-3 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ✅ | 2025/04/29 | 23-0 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2025/04/22 | 17-3 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
@@ -190,5 +190,5 @@ Corporation ID: 69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746397099"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747144721"></span>
 </div>

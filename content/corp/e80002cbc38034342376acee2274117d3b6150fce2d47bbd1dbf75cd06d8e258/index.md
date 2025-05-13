@@ -1,6 +1,6 @@
 ---
 title: ​OPA
-description: W:64 L:25 D:0 Bonus ✅ 42%
+description: W:64 L:25 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 49 - 3 **Galaxians**
 date: 2025-05-06T13:07:02.000Z
@@ -19,7 +19,7 @@ Discord required : discord.gg/2RmfWZB777
 <br>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
