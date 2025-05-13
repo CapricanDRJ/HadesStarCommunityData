@@ -1,6 +1,6 @@
 ---
 title: ​Destroyer
-description: W:4 L:1 D:0 Bonus ✅ 
+description: W:4 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 1 **pérola negra **
 date: 2025-05-05T23:50:46.000Z
@@ -15,7 +15,7 @@ date: 2025-05-05T23:50:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

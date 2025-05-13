@@ -1,6 +1,6 @@
 ---
 title: ​Death Star llc.
-description: W:68 L:23 D:1 Bonus ✅ 40%
+description: W:68 L:23 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 33 - 3 **Greek Warriors**
 date: 2025-05-06T00:10:48.000Z
@@ -19,11 +19,11 @@ Discord required | Part of Astral Alliance
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1382 🔺  (87)|
+| ELO Regular | 1382 🔺  (86)|
 | ELO Competitive | 1488 🔺  (97)|
 | Total Matches | 92 |
 | Wins | 68 |

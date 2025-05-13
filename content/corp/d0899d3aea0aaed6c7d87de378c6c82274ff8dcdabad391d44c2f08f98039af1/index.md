@@ -1,6 +1,6 @@
 ---
 title: ​Croce del Sud
-description: W:20 L:13 D:0 Bonus ✅ 38%
+description: W:20 L:13 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 29 - 10 **Spacefleet**
 date: 2025-05-05T22:50:41.000Z
@@ -18,7 +18,7 @@ date: 2025-05-05T22:50:41.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

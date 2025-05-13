@@ -24,7 +24,7 @@ https://discord.gg/Mvy7Myx
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (541)|
+| ELO Regular | 1200 ▫️  (540)|
 | ELO Competitive | 1200 ▫️  (715)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -1,9 +1,9 @@
 ---
 title: ​РARADISЕ
-description: W:14 L:8 D:1 Bonus ✅ 
+description: W:15 L:8 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 28 - 0 **✨ℛedstar Order«**
-date: 2025-05-06T20:02:49.000Z
+Summary: ✅ 22 - 0 **新?的星际集团?**
+date: 2025-05-12T22:32:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-05-06T20:02:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (260)|
-| ELO Competitive | 1370 🔺  (211)|
-| Total Matches | 23 |
-| Wins | 14 |
+| ELO Regular | 1283 🔺  (219)|
+| ELO Competitive | 1390 🔺  (186)|
+| Total Matches | 24 |
+| Wins | 15 |
 | Losses | 8 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746129769,1746129769,1745620212,1745124978,1744575937,1744575373,1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
+        let timestamps = [1746657138,1746129769,1746129769,1745620212,1745124978,1744575937,1744575373,1744057141,1744056493,1743562622,1743555412,1743030666,1743019545,1742508340,1742501127,1741983335,1741905212,1741485430,1741382356,1740961984,1740864909,1740348948,1740204100,1739696828];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/12 | 22-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2025/05/06 | 28-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2025/05/06 | 0-5 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2025/04/30 | 25-1 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
@@ -170,5 +172,5 @@ Corporation ID: 03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746561769"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747089138"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​First Legion
-description: W:51 L:68 D:1 Bonus ✅ 40%
+description: W:51 L:68 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 2 - 13 **リリース**
 date: 2025-05-06T00:20:49.000Z
@@ -17,7 +17,7 @@ Sister corporations: TeddisaurusWrex, Armored Union
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

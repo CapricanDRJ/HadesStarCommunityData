@@ -1,6 +1,6 @@
 ---
 title: ​E.T.A
-description: W:15 L:45 D:0 Bonus ✅ 52%
+description: W:15 L:45 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 53 **Internationals**
 date: 2025-05-06T00:45:51.000Z
@@ -16,7 +16,7 @@ date: 2025-05-06T00:45:51.000Z
 <br>
 
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
