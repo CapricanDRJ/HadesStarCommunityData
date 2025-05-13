@@ -4,8 +4,8 @@ title: "Timmeh"
 description: "Timmeh"
 ---
 - **WhiteStars**: 2
-- **μ**: 24.96  
-- **σ**: 8.26  
+- **μ**: 24.89  
+- **σ**: 8.29  
 
 ---
 

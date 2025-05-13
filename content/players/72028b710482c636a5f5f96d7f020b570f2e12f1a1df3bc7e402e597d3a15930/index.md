@@ -4,8 +4,8 @@ title: "Mythical Hot-Dog"
 description: "Mythical Hot-Dog"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.93  
-- **σ**: 8.30  
+- **μ**: 25.82  
+- **σ**: 8.31  
 
 ---
 

@@ -4,8 +4,8 @@ title: "Kinamar Mossbe"
 description: "Kinamar Mossbe"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.81  
-- **σ**: 8.23  
+- **μ**: 25.66  
+- **σ**: 8.26  
 
 ---
 

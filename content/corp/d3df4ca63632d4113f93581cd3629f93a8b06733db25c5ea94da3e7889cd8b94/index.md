@@ -23,7 +23,7 @@ but no being mean and excluding... Aires adds: (unless in a blue star
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔺  (218)|
-| ELO Competitive | 1312 🔺  (306)|
+| ELO Competitive | 1312 🔺  (307)|
 | Total Matches | 12 |
 | Wins | 9 |
 | Losses | 3 |

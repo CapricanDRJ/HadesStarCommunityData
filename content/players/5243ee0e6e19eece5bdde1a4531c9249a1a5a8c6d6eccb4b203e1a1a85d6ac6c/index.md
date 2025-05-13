@@ -4,8 +4,8 @@ title: "gerloon"
 description: "gerloon"
 ---
 - **WhiteStars**: 2
-- **μ**: 23.39  
-- **σ**: 8.26  
+- **μ**: 23.51  
+- **σ**: 8.28  
 
 ---
 

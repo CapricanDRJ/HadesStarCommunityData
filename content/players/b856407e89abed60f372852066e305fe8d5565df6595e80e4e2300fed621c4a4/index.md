@@ -4,8 +4,8 @@ title: "Galactex 04"
 description: "Galactex 04"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.14  
-- **σ**: 8.26  
+- **μ**: 25.07  
+- **σ**: 8.28  
 
 ---
 

@@ -4,8 +4,8 @@ title: "Fractalsphere"
 description: "Fractalsphere"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.08  
-- **σ**: 8.30  
+- **μ**: 24.17  
+- **σ**: 8.31  
 
 ---
 

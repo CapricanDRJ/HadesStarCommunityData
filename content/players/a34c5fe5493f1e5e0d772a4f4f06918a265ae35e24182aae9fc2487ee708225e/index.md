@@ -4,8 +4,8 @@ title: "Whiska"
 description: "Whiska"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.78  
-- **σ**: 8.26  
+- **μ**: 26.51  
+- **σ**: 8.29  
 
 ---
 

@@ -4,8 +4,8 @@ title: "MrAlGore"
 description: "MrAlGore"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.86  
-- **σ**: 8.26  
+- **μ**: 26.65  
+- **σ**: 8.28  
 
 ---
 

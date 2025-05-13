@@ -4,8 +4,8 @@ title: "VerifiedHuman"
 description: "VerifiedHuman"
 ---
 - **WhiteStars**: 3
-- **μ**: 27.65  
-- **σ**: 8.23  
+- **μ**: 27.34  
+- **σ**: 8.26  
 
 ---
 

@@ -4,8 +4,8 @@ title: "OneG Bandit"
 description: "OneG Bandit"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.81  
-- **σ**: 8.23  
+- **μ**: 25.85  
+- **σ**: 8.26  
 
 ---
 

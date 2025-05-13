@@ -4,8 +4,8 @@ title: "MuscularKnight43"
 description: "MuscularKnight43"
 ---
 - **WhiteStars**: 1
-- **μ**: 26.03  
-- **σ**: 8.30  
+- **μ**: 25.86  
+- **σ**: 8.31  
 
 ---
 

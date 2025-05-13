@@ -4,8 +4,8 @@ title: "SpaceSloth 2.0"
 description: "SpaceSloth 2.0"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.18  
-- **σ**: 8.30  
+- **μ**: 24.27  
+- **σ**: 8.31  
 
 ---
 

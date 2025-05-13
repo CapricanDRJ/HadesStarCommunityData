@@ -4,8 +4,8 @@ title: "First Order"
 description: "First Order"
 ---
 - **WhiteStars**: 3
-- **μ**: 27.74  
-- **σ**: 8.23  
+- **μ**: 27.39  
+- **σ**: 8.26  
 
 ---
 

@@ -4,8 +4,8 @@ title: "DlDAL"
 description: "DlDAL"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.07  
-- **σ**: 8.30  
+- **μ**: 24.16  
+- **σ**: 8.31  
 
 ---
 

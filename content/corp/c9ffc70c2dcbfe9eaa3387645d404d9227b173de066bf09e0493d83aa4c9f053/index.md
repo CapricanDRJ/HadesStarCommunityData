@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:28 L:12 D:1 Bonus ✅ 36%
+description: W:28 L:12 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 28 - 0 **阿尔特拉集团**
 date: 2025-05-06T06:06:20.000Z
@@ -16,7 +16,7 @@ date: 2025-05-06T06:06:20.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

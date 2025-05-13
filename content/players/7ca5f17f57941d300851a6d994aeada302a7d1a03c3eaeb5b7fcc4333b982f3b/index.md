@@ -4,8 +4,8 @@ title: "Crashed Tater"
 description: "Crashed Tater"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.92  
-- **σ**: 8.30  
+- **μ**: 25.74  
+- **σ**: 8.31  
 
 ---
 

@@ -4,8 +4,8 @@ title: "thefattestcat"
 description: "thefattestcat"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.07  
-- **σ**: 8.26  
+- **μ**: 25.04  
+- **σ**: 8.30  
 
 ---
 

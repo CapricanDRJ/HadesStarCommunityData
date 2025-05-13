@@ -4,8 +4,8 @@ title: "whoabeast"
 description: "whoabeast"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.94  
-- **σ**: 8.30  
+- **μ**: 25.74  
+- **σ**: 8.31  
 
 ---
 

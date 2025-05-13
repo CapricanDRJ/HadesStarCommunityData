@@ -4,8 +4,8 @@ title: "bmxjordan28"
 description: "bmxjordan28"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.07  
-- **σ**: 8.30  
+- **μ**: 24.17  
+- **σ**: 8.31  
 
 ---
 

@@ -4,8 +4,8 @@ title: "Schoon"
 description: "Schoon"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.78  
-- **σ**: 8.26  
+- **μ**: 26.60  
+- **σ**: 8.28  
 
 ---
 

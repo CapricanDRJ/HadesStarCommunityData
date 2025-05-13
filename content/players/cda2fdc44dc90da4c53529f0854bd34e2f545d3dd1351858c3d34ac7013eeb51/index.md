@@ -4,8 +4,8 @@ title: "Skyfall06"
 description: "Skyfall06"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.88  
-- **σ**: 8.30  
+- **μ**: 25.81  
+- **σ**: 8.31  
 
 ---
 

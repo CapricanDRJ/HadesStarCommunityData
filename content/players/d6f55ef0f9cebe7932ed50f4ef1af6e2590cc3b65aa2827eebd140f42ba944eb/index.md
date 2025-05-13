@@ -4,8 +4,8 @@ title: "Jeremy"
 description: "Jeremy"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.84  
-- **σ**: 8.30  
+- **μ**: 25.69  
+- **σ**: 8.31  
 
 ---
 

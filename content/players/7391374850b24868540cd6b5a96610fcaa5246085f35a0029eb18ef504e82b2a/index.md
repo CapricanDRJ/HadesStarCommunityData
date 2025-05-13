@@ -4,8 +4,8 @@ title: "Talon Karrde"
 description: "Talon Karrde"
 ---
 - **WhiteStars**: 4
-- **μ**: 23.20  
-- **σ**: 8.19  
+- **μ**: 23.26  
+- **σ**: 8.24  
 
 ---
 

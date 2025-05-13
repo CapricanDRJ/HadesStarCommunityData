@@ -4,8 +4,8 @@ title: "Z1LL4tr0n"
 description: "Z1LL4tr0n"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.08  
-- **σ**: 8.30  
+- **μ**: 24.16  
+- **σ**: 8.31  
 
 ---
 

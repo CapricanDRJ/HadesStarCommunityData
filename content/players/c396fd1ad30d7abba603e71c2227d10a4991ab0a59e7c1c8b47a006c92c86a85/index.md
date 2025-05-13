@@ -4,8 +4,8 @@ title: "Degsperados "
 description: "Degsperados "
 ---
 - **WhiteStars**: 2
-- **μ**: 24.91  
-- **σ**: 8.26  
+- **μ**: 24.84  
+- **σ**: 8.29  
 
 ---
 

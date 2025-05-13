@@ -4,8 +4,8 @@ title: "schro"
 description: "schro"
 ---
 - **WhiteStars**: 2
-- **μ**: 23.09  
-- **σ**: 8.26  
+- **μ**: 23.28  
+- **σ**: 8.28  
 
 ---
 

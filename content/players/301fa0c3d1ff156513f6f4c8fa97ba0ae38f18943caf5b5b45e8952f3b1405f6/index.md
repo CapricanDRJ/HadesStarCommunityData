@@ -4,8 +4,8 @@ title: "Nvladik"
 description: "Nvladik"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.95  
-- **σ**: 8.30  
+- **μ**: 25.75  
+- **σ**: 8.31  
 
 ---
 

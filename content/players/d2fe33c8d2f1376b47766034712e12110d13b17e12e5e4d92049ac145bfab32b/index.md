@@ -5,7 +5,7 @@ description: "DarkBlazer"
 ---
 - **WhiteStars**: 2
 - **μ**: 25.00  
-- **σ**: 8.26  
+- **σ**: 8.28  
 
 ---
 

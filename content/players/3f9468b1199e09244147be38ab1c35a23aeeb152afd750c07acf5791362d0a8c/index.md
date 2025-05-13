@@ -4,8 +4,8 @@ title: "Chara"
 description: "Chara"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.86  
-- **σ**: 8.26  
+- **μ**: 26.58  
+- **σ**: 8.29  
 
 ---
 

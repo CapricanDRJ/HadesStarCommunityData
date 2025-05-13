@@ -4,8 +4,8 @@ title: "Daleth Alizar"
 description: "Daleth Alizar"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.14  
-- **σ**: 8.26  
+- **μ**: 25.07  
+- **σ**: 8.28  
 
 ---
 

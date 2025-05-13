@@ -4,8 +4,8 @@ title: "Skykiller60"
 description: "Skykiller60"
 ---
 - **WhiteStars**: 1
-- **μ**: 23.99  
-- **σ**: 8.30  
+- **μ**: 24.20  
+- **σ**: 8.31  
 
 ---
 

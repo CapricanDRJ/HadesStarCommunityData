@@ -4,8 +4,8 @@ title: "zoomzoomdoom"
 description: "zoomzoomdoom"
 ---
 - **WhiteStars**: 1
-- **μ**: 26.28  
-- **σ**: 8.30  
+- **μ**: 25.93  
+- **σ**: 8.32  
 
 ---
 

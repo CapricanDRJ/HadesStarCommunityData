@@ -4,8 +4,8 @@ title: "SIRKANTE"
 description: "SIRKANTE"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.14  
-- **σ**: 8.30  
+- **μ**: 24.22  
+- **σ**: 8.31  
 
 ---
 

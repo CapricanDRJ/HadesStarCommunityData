@@ -4,8 +4,8 @@ title: "zebulonxii"
 description: "zebulonxii"
 ---
 - **WhiteStars**: 2
-- **μ**: 23.07  
-- **σ**: 8.26  
+- **μ**: 23.31  
+- **σ**: 8.28  
 
 ---
 

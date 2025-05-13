@@ -4,8 +4,8 @@ title: "ShoutingYak393"
 description: "ShoutingYak393"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.93  
-- **σ**: 8.30  
+- **μ**: 25.83  
+- **σ**: 8.31  
 
 ---
 

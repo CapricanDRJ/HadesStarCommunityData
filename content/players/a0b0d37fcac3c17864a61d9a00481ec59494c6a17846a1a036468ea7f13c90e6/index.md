@@ -4,8 +4,8 @@ title: "Greyarea"
 description: "Greyarea"
 ---
 - **WhiteStars**: 1
-- **μ**: 23.97  
-- **σ**: 8.30  
+- **μ**: 24.14  
+- **σ**: 8.31  
 
 ---
 

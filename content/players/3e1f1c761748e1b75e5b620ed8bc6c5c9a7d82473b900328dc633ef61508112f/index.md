@@ -4,8 +4,8 @@ title: "SlAyER1"
 description: "SlAyER1"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.93  
-- **σ**: 8.30  
+- **μ**: 25.85  
+- **σ**: 8.31  
 
 ---
 

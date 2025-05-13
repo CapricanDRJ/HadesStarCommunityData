@@ -4,8 +4,8 @@ title: "Bamberg-_-98"
 description: "Bamberg-_-98"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.06  
-- **σ**: 8.30  
+- **μ**: 24.26  
+- **σ**: 8.31  
 
 ---
 

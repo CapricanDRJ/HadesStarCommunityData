@@ -4,8 +4,8 @@ title: "GinormousMonster"
 description: "GinormousMonster"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.35  
-- **σ**: 8.27  
+- **μ**: 25.08  
+- **σ**: 8.29  
 
 ---
 

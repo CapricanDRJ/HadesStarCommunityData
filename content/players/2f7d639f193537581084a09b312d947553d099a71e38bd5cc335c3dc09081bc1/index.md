@@ -4,8 +4,8 @@ title: "Orion Sacuroa"
 description: "Orion Sacuroa"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.93  
-- **σ**: 8.30  
+- **μ**: 25.77  
+- **σ**: 8.31  
 
 ---
 

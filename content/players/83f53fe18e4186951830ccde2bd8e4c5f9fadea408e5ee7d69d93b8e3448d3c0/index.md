@@ -4,8 +4,8 @@ title: "Disdyakis Alizar"
 description: "Disdyakis Alizar"
 ---
 - **WhiteStars**: 2
-- **μ**: 23.21  
-- **σ**: 8.26  
+- **μ**: 23.36  
+- **σ**: 8.28  
 
 ---
 

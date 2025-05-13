@@ -4,8 +4,8 @@ title: "Mahtarea"
 description: "Mahtarea"
 ---
 - **WhiteStars**: 4
-- **μ**: 26.20  
-- **σ**: 8.20  
+- **μ**: 26.24  
+- **σ**: 8.25  
 
 ---
 

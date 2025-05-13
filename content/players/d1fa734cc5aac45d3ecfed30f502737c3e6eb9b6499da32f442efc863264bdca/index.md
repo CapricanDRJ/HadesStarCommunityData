@@ -4,8 +4,8 @@ title: "TheOldRepublic"
 description: "TheOldRepublic"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.82  
-- **σ**: 8.26  
+- **μ**: 26.66  
+- **σ**: 8.28  
 
 ---
 

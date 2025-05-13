@@ -4,8 +4,8 @@ title: "Molfar78"
 description: "Molfar78"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.07  
-- **σ**: 8.30  
+- **μ**: 24.23  
+- **σ**: 8.31  
 
 ---
 

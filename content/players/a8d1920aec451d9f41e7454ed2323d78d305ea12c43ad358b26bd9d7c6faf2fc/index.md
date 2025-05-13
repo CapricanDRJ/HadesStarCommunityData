@@ -3,9 +3,9 @@ layout: page
 title: "Ангел Хоронитель"
 description: "Ангел Хоронитель"
 ---
-- **WhiteStars**: 1
-- **μ**: 25.92  
-- **σ**: 8.30  
+- **WhiteStars**: 2
+- **μ**: 26.50  
+- **σ**: 8.29  
 
 ---
 
@@ -13,7 +13,7 @@ description: "Ангел Хоронитель"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 1 |
+| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 2 |
 
 ---
 
@@ -21,4 +21,5 @@ description: "Ангел Хоронитель"
 
 | Date | Your Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2025-05-13 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 39-1 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | 2025-04-26 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 26-16 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |

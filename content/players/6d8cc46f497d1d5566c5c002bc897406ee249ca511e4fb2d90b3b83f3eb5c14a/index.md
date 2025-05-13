@@ -4,8 +4,8 @@ title: "Krypton"
 description: "Krypton"
 ---
 - **WhiteStars**: 4
-- **μ**: 23.19  
-- **σ**: 8.19  
+- **μ**: 23.37  
+- **σ**: 8.23  
 
 ---
 

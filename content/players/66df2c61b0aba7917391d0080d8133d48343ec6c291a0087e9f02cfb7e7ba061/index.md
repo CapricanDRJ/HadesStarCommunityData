@@ -4,8 +4,8 @@ title: "King of Hell"
 description: "King of Hell"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.92  
-- **σ**: 8.30  
+- **μ**: 25.83  
+- **σ**: 8.31  
 
 ---
 

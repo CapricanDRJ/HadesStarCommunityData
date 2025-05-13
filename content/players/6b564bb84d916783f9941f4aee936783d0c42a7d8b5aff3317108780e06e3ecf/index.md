@@ -4,8 +4,8 @@ title: "Soviet Union"
 description: "Soviet Union"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.93  
-- **σ**: 8.22  
+- **μ**: 25.82  
+- **σ**: 8.27  
 
 ---
 

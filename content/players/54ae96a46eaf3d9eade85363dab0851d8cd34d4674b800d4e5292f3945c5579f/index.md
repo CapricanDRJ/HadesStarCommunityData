@@ -4,8 +4,8 @@ title: "Ryebrand"
 description: "Ryebrand"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.07  
-- **σ**: 8.30  
+- **μ**: 24.20  
+- **σ**: 8.31  
 
 ---
 

@@ -4,8 +4,8 @@ title: "D13ANTWOORD"
 description: "D13ANTWOORD"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.78  
-- **σ**: 8.26  
+- **μ**: 26.49  
+- **σ**: 8.29  
 
 ---
 

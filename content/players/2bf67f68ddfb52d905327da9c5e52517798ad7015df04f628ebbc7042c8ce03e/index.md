@@ -4,8 +4,8 @@ title: "Space_C0wboy"
 description: "Space_C0wboy"
 ---
 - **WhiteStars**: 4
-- **μ**: 26.73  
-- **σ**: 8.19  
+- **μ**: 26.62  
+- **σ**: 8.24  
 
 ---
 

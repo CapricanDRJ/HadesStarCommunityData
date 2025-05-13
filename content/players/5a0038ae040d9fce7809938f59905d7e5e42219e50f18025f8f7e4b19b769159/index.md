@@ -4,8 +4,8 @@ title: "purpl3sniper961"
 description: "purpl3sniper961"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.02  
-- **σ**: 8.26  
+- **μ**: 24.98  
+- **σ**: 8.28  
 
 ---
 

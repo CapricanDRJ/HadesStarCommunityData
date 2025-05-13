@@ -4,8 +4,8 @@ title: "SopHie 87"
 description: "SopHie 87"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.08  
-- **σ**: 8.30  
+- **μ**: 24.16  
+- **σ**: 8.31  
 
 ---
 

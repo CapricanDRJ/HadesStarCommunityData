@@ -4,8 +4,8 @@ title: "Joelle"
 description: "Joelle"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.85  
-- **σ**: 8.23  
+- **μ**: 25.79  
+- **σ**: 8.25  
 
 ---
 

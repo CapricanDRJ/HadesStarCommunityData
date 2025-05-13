@@ -4,8 +4,8 @@ title: "Carapullo"
 description: "Carapullo"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.91  
-- **σ**: 8.23  
+- **μ**: 25.92  
+- **σ**: 8.26  
 
 ---
 

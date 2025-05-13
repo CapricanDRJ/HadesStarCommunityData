@@ -4,8 +4,8 @@ title: "xrider632"
 description: "xrider632"
 ---
 - **WhiteStars**: 3
-- **μ**: 24.01  
-- **σ**: 8.23  
+- **μ**: 24.12  
+- **σ**: 8.26  
 
 ---
 

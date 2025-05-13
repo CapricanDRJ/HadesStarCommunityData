@@ -4,8 +4,8 @@ title: "Morlock"
 description: "Morlock"
 ---
 - **WhiteStars**: 1
-- **μ**: 23.97  
-- **σ**: 8.30  
+- **μ**: 24.11  
+- **σ**: 8.31  
 
 ---
 

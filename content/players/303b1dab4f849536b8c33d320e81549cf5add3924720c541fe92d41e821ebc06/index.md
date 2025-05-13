@@ -4,8 +4,8 @@ title: "Noctis Veil"
 description: "Noctis Veil"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.01  
-- **σ**: 8.26  
+- **μ**: 25.03  
+- **σ**: 8.28  
 
 ---
 

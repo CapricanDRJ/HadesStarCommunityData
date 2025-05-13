@@ -4,8 +4,8 @@ title: "BörkBörkBörk"
 description: "BörkBörkBörk"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.94  
-- **σ**: 8.30  
+- **μ**: 25.85  
+- **σ**: 8.31  
 
 ---
 

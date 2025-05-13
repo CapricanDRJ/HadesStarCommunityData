@@ -4,8 +4,8 @@ title: "Biff_mc"
 description: "Biff_mc"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.05  
-- **σ**: 8.30  
+- **μ**: 24.25  
+- **σ**: 8.31  
 
 ---
 

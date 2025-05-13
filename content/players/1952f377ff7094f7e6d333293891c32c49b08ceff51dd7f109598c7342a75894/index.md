@@ -4,8 +4,8 @@ title: "MercenaryBattery"
 description: "MercenaryBattery"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.00  
-- **σ**: 8.30  
+- **μ**: 24.11  
+- **σ**: 8.31  
 
 ---
 

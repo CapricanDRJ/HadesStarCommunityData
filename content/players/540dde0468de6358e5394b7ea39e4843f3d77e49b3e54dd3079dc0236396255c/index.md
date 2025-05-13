@@ -4,8 +4,8 @@ title: "XACOB"
 description: "XACOB"
 ---
 - **WhiteStars**: 4
-- **μ**: 28.35  
-- **σ**: 8.19  
+- **μ**: 27.97  
+- **σ**: 8.24  
 
 ---
 

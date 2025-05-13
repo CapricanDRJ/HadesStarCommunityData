@@ -4,8 +4,8 @@ title: "Ligaya"
 description: "Ligaya"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.71  
-- **σ**: 8.26  
+- **μ**: 26.58  
+- **σ**: 8.28  
 
 ---
 

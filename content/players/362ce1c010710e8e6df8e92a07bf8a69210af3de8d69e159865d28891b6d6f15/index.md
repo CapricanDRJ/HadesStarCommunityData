@@ -4,8 +4,8 @@ title: "AndreX"
 description: "AndreX"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.07  
-- **σ**: 8.30  
+- **μ**: 24.15  
+- **σ**: 8.31  
 
 ---
 

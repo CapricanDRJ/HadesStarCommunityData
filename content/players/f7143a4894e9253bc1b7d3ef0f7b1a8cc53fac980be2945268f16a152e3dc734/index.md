@@ -4,8 +4,8 @@ title: "VauntedNavigator"
 description: "VauntedNavigator"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.12  
-- **σ**: 8.30  
+- **μ**: 24.19  
+- **σ**: 8.31  
 
 ---
 

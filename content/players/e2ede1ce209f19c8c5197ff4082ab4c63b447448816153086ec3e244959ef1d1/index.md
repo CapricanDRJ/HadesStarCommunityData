@@ -4,8 +4,8 @@ title: "PotatoTomato"
 description: "PotatoTomato"
 ---
 - **WhiteStars**: 2
-- **μ**: 27.22  
-- **σ**: 8.26  
+- **μ**: 26.75  
+- **σ**: 8.29  
 
 ---
 

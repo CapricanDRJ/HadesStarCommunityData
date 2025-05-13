@@ -4,8 +4,8 @@ title: "StarChaser"
 description: "StarChaser"
 ---
 - **WhiteStars**: 4
-- **μ**: 23.21  
-- **σ**: 8.19  
+- **μ**: 23.35  
+- **σ**: 8.23  
 
 ---
 

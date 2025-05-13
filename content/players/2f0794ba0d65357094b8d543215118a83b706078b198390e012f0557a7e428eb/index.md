@@ -4,8 +4,8 @@ title: "crashed1001"
 description: "crashed1001"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.95  
-- **σ**: 8.30  
+- **μ**: 25.83  
+- **σ**: 8.31  
 
 ---
 

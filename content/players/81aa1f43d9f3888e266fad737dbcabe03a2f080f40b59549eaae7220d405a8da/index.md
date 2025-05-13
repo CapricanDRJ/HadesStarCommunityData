@@ -4,8 +4,8 @@ title: "Jumpshipz"
 description: "Jumpshipz"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.81  
-- **σ**: 8.30  
+- **μ**: 25.76  
+- **σ**: 8.31  
 
 ---
 

@@ -4,8 +4,8 @@ title: "Cor Angar"
 description: "Cor Angar"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.11  
-- **σ**: 8.30  
+- **μ**: 24.18  
+- **σ**: 8.31  
 
 ---
 

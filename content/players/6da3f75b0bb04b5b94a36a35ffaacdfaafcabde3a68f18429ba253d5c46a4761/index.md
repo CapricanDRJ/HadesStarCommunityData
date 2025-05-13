@@ -4,8 +4,8 @@ title: "[DS]Master Aid"
 description: "[DS]Master Aid"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.92  
-- **σ**: 8.30  
+- **μ**: 25.84  
+- **σ**: 8.31  
 
 ---
 

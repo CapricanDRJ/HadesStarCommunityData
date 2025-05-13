@@ -4,8 +4,8 @@ title: "Menemyr"
 description: "Menemyr"
 ---
 - **WhiteStars**: 4
-- **μ**: 25.00  
-- **σ**: 8.19  
+- **μ**: 24.91  
+- **σ**: 8.24  
 
 ---
 

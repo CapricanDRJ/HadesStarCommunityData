@@ -4,8 +4,8 @@ title: "Dark Knight"
 description: "Dark Knight"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.94  
-- **σ**: 8.26  
+- **μ**: 26.62  
+- **σ**: 8.29  
 
 ---
 

@@ -4,8 +4,8 @@ title: "Gunkeltron"
 description: "Gunkeltron"
 ---
 - **WhiteStars**: 2
-- **μ**: 24.90  
-- **σ**: 8.26  
+- **μ**: 24.89  
+- **σ**: 8.28  
 
 ---
 

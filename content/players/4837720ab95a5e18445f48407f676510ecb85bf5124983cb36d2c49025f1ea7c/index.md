@@ -4,8 +4,8 @@ title: "OneBlackMamba"
 description: "OneBlackMamba"
 ---
 - **WhiteStars**: 3
-- **μ**: 24.22  
-- **σ**: 8.23  
+- **μ**: 24.23  
+- **σ**: 8.25  
 
 ---
 

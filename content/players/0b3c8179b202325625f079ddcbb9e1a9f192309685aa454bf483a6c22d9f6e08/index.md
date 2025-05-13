@@ -4,8 +4,8 @@ title: "SuperCoolShawdi"
 description: "SuperCoolShawdi"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.93  
-- **σ**: 8.23  
+- **μ**: 25.81  
+- **σ**: 8.26  
 
 ---
 

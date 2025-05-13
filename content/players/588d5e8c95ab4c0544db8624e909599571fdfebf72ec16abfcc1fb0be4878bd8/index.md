@@ -4,8 +4,8 @@ title: "ItalianJoe1"
 description: "ItalianJoe1"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.19  
-- **σ**: 8.30  
+- **μ**: 24.24  
+- **σ**: 8.31  
 
 ---
 

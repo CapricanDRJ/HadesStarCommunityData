@@ -4,8 +4,8 @@ title: "UndulantShadows"
 description: "UndulantShadows"
 ---
 - **WhiteStars**: 2
-- **μ**: 24.91  
-- **σ**: 8.26  
+- **μ**: 24.96  
+- **σ**: 8.28  
 
 ---
 

@@ -4,8 +4,8 @@ title: "Kermit"
 description: "Kermit"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.34  
-- **σ**: 8.23  
+- **μ**: 25.42  
+- **σ**: 8.28  
 
 ---
 

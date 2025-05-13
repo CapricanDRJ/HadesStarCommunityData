@@ -4,8 +4,8 @@ title: "Moisey"
 description: "Moisey"
 ---
 - **WhiteStars**: 2
-- **μ**: 23.44  
-- **σ**: 8.26  
+- **μ**: 23.69  
+- **σ**: 8.30  
 
 ---
 

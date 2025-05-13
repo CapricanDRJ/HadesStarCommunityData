@@ -4,8 +4,8 @@ title: "Thirteen"
 description: "Thirteen"
 ---
 - **WhiteStars**: 3
-- **μ**: 27.46  
-- **σ**: 8.23  
+- **μ**: 27.25  
+- **σ**: 8.26  
 
 ---
 

@@ -4,8 +4,8 @@ title: "AkselM"
 description: "AkselM"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.87  
-- **σ**: 8.26  
+- **μ**: 26.56  
+- **σ**: 8.29  
 
 ---
 

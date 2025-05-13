@@ -4,8 +4,8 @@ title: "FireCat"
 description: "FireCat"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.26  
-- **σ**: 8.30  
+- **μ**: 24.29  
+- **σ**: 8.31  
 
 ---
 

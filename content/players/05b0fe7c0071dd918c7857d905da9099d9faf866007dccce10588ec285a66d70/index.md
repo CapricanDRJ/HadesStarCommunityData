@@ -4,8 +4,8 @@ title: "CopiousGallery14"
 description: "CopiousGallery14"
 ---
 - **WhiteStars**: 4
-- **μ**: 26.39  
-- **σ**: 8.20  
+- **μ**: 26.43  
+- **σ**: 8.24  
 
 ---
 

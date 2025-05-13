@@ -4,8 +4,8 @@ title: "Captain Awesome"
 description: "Captain Awesome"
 ---
 - **WhiteStars**: 4
-- **μ**: 25.00  
-- **σ**: 8.19  
+- **μ**: 24.80  
+- **σ**: 8.24  
 
 ---
 

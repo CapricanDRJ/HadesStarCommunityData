@@ -4,8 +4,8 @@ title: "Dark Matter"
 description: "Dark Matter"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.11  
-- **σ**: 8.26  
+- **μ**: 25.09  
+- **σ**: 8.30  
 
 ---
 

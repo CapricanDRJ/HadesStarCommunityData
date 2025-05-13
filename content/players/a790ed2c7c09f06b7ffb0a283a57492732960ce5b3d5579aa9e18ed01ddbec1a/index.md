@@ -4,8 +4,8 @@ title: "Krunaro"
 description: "Krunaro"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.05  
-- **σ**: 8.30  
+- **μ**: 24.17  
+- **σ**: 8.31  
 
 ---
 

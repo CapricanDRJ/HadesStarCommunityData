@@ -4,8 +4,8 @@ title: "KOPCAP"
 description: "KOPCAP"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.82  
-- **σ**: 8.30  
+- **μ**: 25.73  
+- **σ**: 8.31  
 
 ---
 

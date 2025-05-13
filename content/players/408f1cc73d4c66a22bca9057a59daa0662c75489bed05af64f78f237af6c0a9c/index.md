@@ -4,8 +4,8 @@ title: "Joemethylxanthin"
 description: "Joemethylxanthin"
 ---
 - **WhiteStars**: 4
-- **μ**: 23.17  
-- **σ**: 8.19  
+- **μ**: 23.29  
+- **σ**: 8.24  
 
 ---
 

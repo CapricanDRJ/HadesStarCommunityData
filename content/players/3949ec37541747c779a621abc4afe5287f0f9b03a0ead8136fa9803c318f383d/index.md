@@ -4,8 +4,8 @@ title: "CaptainBarnicles"
 description: "CaptainBarnicles"
 ---
 - **WhiteStars**: 2
-- **μ**: 26.68  
-- **σ**: 8.26  
+- **μ**: 26.55  
+- **σ**: 8.28  
 
 ---
 

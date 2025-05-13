@@ -4,8 +4,8 @@ title: "RazorChamp"
 description: "RazorChamp"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.89  
-- **σ**: 8.23  
+- **μ**: 25.71  
+- **σ**: 8.26  
 
 ---
 

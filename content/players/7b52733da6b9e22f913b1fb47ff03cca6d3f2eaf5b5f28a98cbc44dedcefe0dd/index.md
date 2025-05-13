@@ -4,8 +4,8 @@ title: "BlueSteel"
 description: "BlueSteel"
 ---
 - **WhiteStars**: 3
-- **μ**: 25.92  
-- **σ**: 8.23  
+- **μ**: 25.82  
+- **σ**: 8.25  
 
 ---
 

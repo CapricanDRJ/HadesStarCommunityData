@@ -4,8 +4,8 @@ title: "Furia"
 description: "Furia"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.04  
-- **σ**: 8.26  
+- **μ**: 24.91  
+- **σ**: 8.29  
 
 ---
 

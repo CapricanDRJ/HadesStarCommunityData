@@ -4,8 +4,8 @@ title: "RareSamurai26362"
 description: "RareSamurai26362"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.09  
-- **σ**: 8.30  
+- **μ**: 24.17  
+- **σ**: 8.31  
 
 ---
 

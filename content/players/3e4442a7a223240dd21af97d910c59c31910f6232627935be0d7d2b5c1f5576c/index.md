@@ -4,8 +4,8 @@ title: "Granite King"
 description: "Granite King"
 ---
 - **WhiteStars**: 1
-- **μ**: 26.01  
-- **σ**: 8.30  
+- **μ**: 25.80  
+- **σ**: 8.31  
 
 ---
 

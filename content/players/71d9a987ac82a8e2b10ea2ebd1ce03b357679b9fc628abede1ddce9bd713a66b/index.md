@@ -4,8 +4,8 @@ title: "辰砂Cinnabar"
 description: "辰砂Cinnabar"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.93  
-- **σ**: 8.30  
+- **μ**: 25.74  
+- **σ**: 8.31  
 
 ---
 

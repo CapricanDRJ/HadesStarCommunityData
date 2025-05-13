@@ -5,7 +5,7 @@ description: "Lambtron"
 ---
 - **WhiteStars**: 2
 - **μ**: 24.96  
-- **σ**: 8.26  
+- **σ**: 8.29  
 
 ---
 

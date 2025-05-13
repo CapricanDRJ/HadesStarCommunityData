@@ -4,8 +4,8 @@ title: "the 4D people"
 description: "the 4D people"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.89  
-- **σ**: 8.30  
+- **μ**: 25.82  
+- **σ**: 8.31  
 
 ---
 

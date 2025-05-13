@@ -4,8 +4,8 @@ title: "Owenspears"
 description: "Owenspears"
 ---
 - **WhiteStars**: 1
-- **μ**: 25.91  
-- **σ**: 8.30  
+- **μ**: 25.83  
+- **σ**: 8.31  
 
 ---
 

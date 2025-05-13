@@ -4,8 +4,8 @@ title: "ProRocK"
 description: "ProRocK"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.08  
-- **σ**: 8.30  
+- **μ**: 24.26  
+- **σ**: 8.31  
 
 ---
 

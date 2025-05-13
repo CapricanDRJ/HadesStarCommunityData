@@ -4,8 +4,8 @@ title: "Victor0"
 description: "Victor0"
 ---
 - **WhiteStars**: 4
-- **μ**: 23.19  
-- **σ**: 8.19  
+- **μ**: 23.30  
+- **σ**: 8.24  
 
 ---
 

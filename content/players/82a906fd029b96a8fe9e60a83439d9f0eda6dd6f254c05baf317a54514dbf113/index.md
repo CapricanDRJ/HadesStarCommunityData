@@ -4,8 +4,8 @@ title: "Reque"
 description: "Reque"
 ---
 - **WhiteStars**: 3
-- **μ**: 27.62  
-- **σ**: 8.23  
+- **μ**: 27.41  
+- **σ**: 8.25  
 
 ---
 

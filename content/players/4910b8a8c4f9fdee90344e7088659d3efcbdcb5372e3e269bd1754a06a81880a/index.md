@@ -4,8 +4,8 @@ title: "Cecret"
 description: "Cecret"
 ---
 - **WhiteStars**: 4
-- **μ**: 26.73  
-- **σ**: 8.19  
+- **μ**: 26.60  
+- **σ**: 8.24  
 
 ---
 

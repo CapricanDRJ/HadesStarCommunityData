@@ -4,8 +4,8 @@ title: "SchwesterEmilia"
 description: "SchwesterEmilia"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.15  
-- **σ**: 8.26  
+- **μ**: 25.06  
+- **σ**: 8.28  
 
 ---
 

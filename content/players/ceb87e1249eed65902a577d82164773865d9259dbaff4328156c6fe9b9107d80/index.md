@@ -4,8 +4,8 @@ title: "Kolobok"
 description: "Kolobok"
 ---
 - **WhiteStars**: 2
-- **μ**: 25.05  
-- **σ**: 8.26  
+- **μ**: 25.02  
+- **σ**: 8.28  
 
 ---
 

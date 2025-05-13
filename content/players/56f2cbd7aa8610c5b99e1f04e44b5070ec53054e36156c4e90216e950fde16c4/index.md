@@ -5,7 +5,7 @@ description: "Sayorizin"
 ---
 - **WhiteStars**: 2
 - **μ**: 24.93  
-- **σ**: 8.26  
+- **σ**: 8.28  
 
 ---
 

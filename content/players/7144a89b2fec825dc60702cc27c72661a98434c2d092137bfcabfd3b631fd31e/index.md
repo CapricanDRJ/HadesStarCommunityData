@@ -4,8 +4,8 @@ title: "YellowFrenemy239"
 description: "YellowFrenemy239"
 ---
 - **WhiteStars**: 2
-- **μ**: 24.91  
-- **σ**: 8.26  
+- **μ**: 24.84  
+- **σ**: 8.29  
 
 ---
 

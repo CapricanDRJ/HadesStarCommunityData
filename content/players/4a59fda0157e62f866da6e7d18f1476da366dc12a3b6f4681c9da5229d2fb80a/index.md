@@ -4,8 +4,8 @@ title: "Lawman"
 description: "Lawman"
 ---
 - **WhiteStars**: 1
-- **μ**: 24.16  
-- **σ**: 8.30  
+- **μ**: 24.24  
+- **σ**: 8.31  
 
 ---
 
