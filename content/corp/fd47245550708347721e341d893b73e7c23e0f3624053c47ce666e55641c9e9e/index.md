@@ -22,7 +22,7 @@ on events. No alts.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1077 🔻  (1442)|
-| ELO Competitive | 1199 🔻  (736)|
+| ELO Competitive | 1199 🔻  (735)|
 | Total Matches | 79 |
 | Wins | 36 |
 | Losses | 41 |

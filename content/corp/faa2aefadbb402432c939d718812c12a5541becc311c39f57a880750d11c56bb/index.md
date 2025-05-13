@@ -1,9 +1,9 @@
 ---
 title: ​传说之下2
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:1 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ↔️ 10 - 10 **中央山脈礦工勞動部**
-date: 2025-05-05T12:04:32.000Z
+Summary: ❌ 3 - 7 **NOVA STRATUM**
+date: 2025-05-13T06:42:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-05T12:04:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (537)|
-| ELO Competitive | 1200 🔺  (712)|
-| Total Matches | 1 |
+| ELO Regular | 1187 🔻  (724)|
+| ELO Competitive | 1187 🔻  (921)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746014672];
+        let timestamps = [1746686578,1746014672];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/13 | 3-7 | [NOVA STRATUM](https://ws.tsl.rocks/corp/93cb26bae33ac6da77da0e1bcb54e9d36ea4bb5e71b85c8fb0f45cd29702a349/) |
 | ↔️ | 2025/05/05 | 10-10 | [中央山脈礦工勞動部](https://ws.tsl.rocks/corp/c76c16c18a4d8c5a2d28b213f59db208dec670f2f230700e69fd411c8f962ea2/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746446672"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747118578"></span>
 </div>
