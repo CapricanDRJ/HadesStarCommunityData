@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Light
-description: W:21 L:40 D:2 Bonus ✅ 38%
+description: W:21 L:40 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 5 **Star Blazers**
 date: 2025-05-12T14:56:29.000Z
@@ -17,7 +17,7 @@ space of this game. WS every week. Join us into the Light!
 <br>
 
 ### [Discord](https://discord.gg/pfsfZwqh)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

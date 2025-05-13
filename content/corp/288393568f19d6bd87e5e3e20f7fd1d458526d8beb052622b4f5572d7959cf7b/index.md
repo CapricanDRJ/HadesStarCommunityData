@@ -1,6 +1,6 @@
 ---
 title: ​Sentencia
-description: W:30 L:5 D:0 Bonus ✅ 36%
+description: W:30 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 33 - 5 **Повстанцы Хаоса**
 date: 2025-05-06T10:51:50.000Z
@@ -17,7 +17,7 @@ r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

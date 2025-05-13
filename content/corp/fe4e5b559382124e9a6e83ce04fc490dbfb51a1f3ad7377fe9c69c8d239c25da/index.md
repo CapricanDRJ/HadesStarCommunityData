@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Pioneer
-description: W:15 L:8 D:0 Bonus ❌ 
+description: W:16 L:8 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 1 - 5 **九州·华夏**
-date: 2025-05-06T07:41:31.000Z
+Summary: ✅ 13 - 0 **使命白星**
+date: 2025-05-13T10:43:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-05-06T07:41:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (235)|
-| ELO Competitive | 1317 🔻  (298)|
-| Total Matches | 23 |
-| Wins | 15 |
+| ELO Regular | 1290 🔺  (205)|
+| ELO Competitive | 1329 🔺  (280)|
+| Total Matches | 24 |
+| Wins | 16 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746085291,1745407453,1744900802,1744423006,1743957214,1743463158,1743410259,1742944849,1742939005,1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
+        let timestamps = [1746701000,1746085291,1745407453,1744900802,1744423006,1743957214,1743463158,1743410259,1742944849,1742939005,1742417585,1742417284,1741983335,1741983335,1741427730,1740800285,1740081198,1739530041,1739051061,1738422380,1737870655,1737250134,1736644048,1735733633];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/13 | 13-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2025/05/06 | 1-5 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2025/04/28 | 4-0 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
 | ✅ | 2025/04/22 | 14-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
@@ -172,5 +173,5 @@ Corporation ID: fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746517291"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747133000"></span>
 </div>

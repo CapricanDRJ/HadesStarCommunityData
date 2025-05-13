@@ -1,6 +1,6 @@
 ---
 title: ​星系联盟
-description: W:11 L:8 D:0 Bonus ✅ 32%
+description: W:11 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **Copelius**
 date: 2025-05-06T11:01:49.000Z
@@ -16,7 +16,7 @@ date: 2025-05-06T11:01:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

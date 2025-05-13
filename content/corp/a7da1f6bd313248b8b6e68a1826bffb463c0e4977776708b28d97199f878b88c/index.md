@@ -1,6 +1,6 @@
 ---
 title: ​The Syndicate 
-description: W:35 L:8 D:0 Bonus ✅ 36%
+description: W:35 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 18 - 4 **万顷稻花**
 date: 2025-05-06T11:41:53.000Z
@@ -20,12 +20,12 @@ ons.
 <br>
 
 ### [Discord](https://discord.gg/B3N5by8zUb)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1395 🔺  (73)|
-| ELO Competitive | 1434 🔺  (150)|
+| ELO Competitive | 1434 🔺  (149)|
 | Total Matches | 43 |
 | Wins | 35 |
 | Losses | 8 |

@@ -1,6 +1,6 @@
 ---
 title: ​青丘湖
-description: W:17 L:15 D:0 Bonus ✅ 36%
+description: W:17 L:15 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 7 - 24 **Cerulean Star**
 date: 2025-05-11T10:48:42.000Z
@@ -25,7 +25,7 @@ date: 2025-05-11T10:48:42.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

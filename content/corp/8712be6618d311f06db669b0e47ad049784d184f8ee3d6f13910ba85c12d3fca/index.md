@@ -1,6 +1,6 @@
 ---
 title: ​=AMG=
-description: W:3 L:4 D:0 Bonus ✅ 
+description: W:3 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 26 - 22 **Lost Legion**
 date: 2025-05-06T12:52:00.000Z
@@ -15,12 +15,12 @@ date: 2025-05-06T12:52:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔺  (919)|
-| ELO Competitive | 1221 🔺  (561)|
+| ELO Competitive | 1221 🔺  (560)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |
