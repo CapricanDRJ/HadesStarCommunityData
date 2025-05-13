@@ -1,6 +1,6 @@
 ---
 title: ​Spaceballs
-description: W:31 L:20 D:0 Bonus ✅ 38%
+description: W:31 L:20 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 24 - 23 **Atlas Star llc\.**
 date: 2025-05-06T19:37:46.000Z
@@ -18,7 +18,7 @@ titans.com
 <br>
 
 ### [Discord](https://discord.gg/QhMTEDb8zt)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​BRhue
-description: W:14 L:24 D:0 Bonus ✅ 46%
+description: W:15 L:24 D:0 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ❌ 0 - 45 **Likapa**
-date: 2025-05-13T15:28:52.000Z
+Summary: ✅ 19 - 6 **Ещё один Миф**
+date: 2025-05-13T19:09:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,10 +24,10 @@ Juntos somos mais fortes.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1207)|
-| ELO Competitive | 1262 🔻  (416)|
-| Total Matches | 38 |
-| Wins | 14 |
+| ELO Regular | 1165 🔺  (1096)|
+| ELO Competitive | 1276 🔺  (382)|
+| Total Matches | 39 |
+| Wins | 15 |
 | Losses | 24 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746718132,1746282718,1746273700,1745841402,1745838097,1745320009,1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
+        let timestamps = [1746731355,1746718132,1746282718,1746273700,1745841402,1745838097,1745320009,1744811855,1744711489,1744121308,1743435806,1742951024,1742494213,1734482793,1733795312,1732486071,1731842107,1730827618,1730150606,1729547504,1729038121,1728460144,1727779768,1727124095,1726530418,1725906569,1725297166,1724735570,1724706981,1724098447,1723489293,1722893384,1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/13 | 19-6 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ❌ | 2025/05/13 | 0-45 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2025/05/08 | 22-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ❌ | 2025/05/08 | 12-28 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
@@ -193,5 +194,5 @@ Corporation ID: cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1747150132"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747163355"></span>
 </div>

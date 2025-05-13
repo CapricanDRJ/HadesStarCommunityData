@@ -26,7 +26,7 @@ Discord-Free White Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (1399)|
+| ELO Regular | 1102 🔻  (1398)|
 | ELO Competitive | 1216 🔻  (601)|
 | Total Matches | 86 |
 | Wins | 27 |

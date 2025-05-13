@@ -1,9 +1,9 @@
 ---
 title: ​Disintegrators
-description: W:2 L:1 D:0 Bonus ❌ 3%
+description: W:2 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **C\.C Legion**
-date: 2023-12-13T01:42:00.000Z
+Summary: ↔️ 0 - 0 **Snack Empire**
+date: 2025-05-13T18:59:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,16 +16,16 @@ cord))
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (456)|
-| ELO Competitive | 1213 🔻  (634)|
-| Total Matches | 3 |
+| ELO Regular | 1210 🔻  (482)|
+| ELO Competitive | 1210 🔻  (653)|
+| Total Matches | 4 |
 | Wins | 2 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 1 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1701999720,1700973364,1699784321];
+        let timestamps = [1746730754,1701999720,1700973364,1699784321];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/05/13 | 0-0 | [Snack Empire](https://ws.tsl.rocks/corp/e7b912cdbd535c7bae1a2176819caef605c402607aa368b529db6b36d746036b/) |
 | ❌ | 2023/12/13 | 0-9 | [C\.C Legion](https://ws.tsl.rocks/corp/abfecd12aedde7b07396a1ea1839e4051e7e227fd7fbe5d7627d9e67a4cf0a53/) |
 | ✅ | 2023/12/01 | 3-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ✅ | 2023/11/17 | 4-2 | [l'empire sylli](https://ws.tsl.rocks/corp/0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587/) |
@@ -146,5 +147,5 @@ Corporation ID: cbdef8da60308e24e459a21944778e7c06fa40927f67ecbbf136e3c899f717ae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1702431720"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747162754"></span>
 </div>
