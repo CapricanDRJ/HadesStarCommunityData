@@ -20,7 +20,7 @@ Union短期目标：没有   新手和不经常上线的想加入本团的前往
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1289)|
+| ELO Regular | 1137 🔻  (1290)|
 | ELO Competitive | 1138 🔻  (1414)|
 | Total Matches | 7 |
 | Wins | 1 |

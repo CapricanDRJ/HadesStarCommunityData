@@ -24,7 +24,7 @@ Em breve faremos estrelas brancas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (547)|
+| ELO Regular | 1200 🔻  (546)|
 | ELO Competitive | 1202 🔻  (693)|
 | Total Matches | 2 |
 | Wins | 1 |

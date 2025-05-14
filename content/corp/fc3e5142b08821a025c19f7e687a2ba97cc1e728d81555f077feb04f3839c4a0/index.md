@@ -1,6 +1,6 @@
 ---
 title: ​柯伊伯带
-description: W:95 L:36 D:1 Bonus ✅ 48%
+description: W:95 L:36 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 4 - 53 **Hexacropians**
 date: 2025-05-11T14:25:33.000Z
@@ -18,7 +18,7 @@ date: 2025-05-11T14:25:33.000Z
 <br>
 
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

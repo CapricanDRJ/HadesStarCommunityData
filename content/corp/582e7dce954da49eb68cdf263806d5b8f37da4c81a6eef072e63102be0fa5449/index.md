@@ -1,9 +1,9 @@
 ---
 title: ​Argentina 1.0
-description: W:43 L:24 D:1 Bonus ✅ 44%
+description: W:43 L:25 D:1 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ✅ 23 - 1 **Wompwompway **
-date: 2025-05-08T04:45:54.000Z
+Summary: ❌ 18 - 44 **OPA**
+date: 2025-05-13T22:44:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (88)|
-| ELO Competitive | 1524 🔺  (76)|
-| Total Matches | 68 |
+| ELO Regular | 1365 🔻  (98)|
+| ELO Competitive | 1512 🔻  (82)|
+| Total Matches | 69 |
 | Wins | 43 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 9 |
 | Flagship | 8 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746247554,1746189861,1745548388,1744835601,1744827485,1744385744,1744354792,1743735717,1743735717,1743168297,1742526067,1741922334,1741333364,1740714944,1739508110,1738897196,1737685851,1736887102,1735971033,1735253180,1734523048,1733968377,1732553077,1731594493,1730980559,1730334202,1728881842,1728270527,1727450721,1726979551,1726466408,1725850973,1725176962,1724640863,1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
+        let timestamps = [1746744277,1746247554,1746189861,1745548388,1744835601,1744827485,1744385744,1744354792,1743735717,1743735717,1743168297,1742526067,1741922334,1741333364,1740714944,1739508110,1738897196,1737685851,1736887102,1735971033,1735253180,1734523048,1733968377,1732553077,1731594493,1730980559,1730334202,1728881842,1728270527,1727450721,1726979551,1726466408,1725850973,1725176962,1724640863,1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,10 +135,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 1 | 2 | 0 | 3 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 1 | 1 | 0 | 2 |
 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 0 | 2 | 0 | 2 |
 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1 | 1 | 0 | 2 |
-| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 1 | 1 | 0 | 2 |
 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) | 2 | 0 | 0 | 2 |
 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) | 2 | 0 | 0 | 2 |
 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) | 0 | 2 | 0 | 2 |
@@ -152,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/13 | 18-44 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2025/05/08 | 23-1 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2025/05/07 | 52-12 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2025/04/30 | 42-16 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
@@ -227,5 +227,5 @@ Corporation ID: 582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746679554"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747176277"></span>
 </div>

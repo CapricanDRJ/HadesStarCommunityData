@@ -298,17 +298,6 @@ searchHidden: true
         </tr>
     
         <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>5</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS7</td>
-                    <td>166%</td>
-                </tr>
-            
-        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         

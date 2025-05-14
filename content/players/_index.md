@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hades' Star Top WhiteStar Players
-date: 2025-05-13T21:55:07.853Z
+date: 2025-05-14T00:55:08.990Z
 permalink: /players/
 description: "Player ratings are derived via OpenSkill’s implementation of the Weng-Lin Bayesian inference framework, utilizing conjugate priors and analytic Gaussian posterior approximations. Match volatility is dynamically modulated using a certainty-weighted β scheduler, encoding outcome ambiguity. Time-evolved μ drift is governed by bounded directional correction toward equilibrium, with rating state transitions committed via atomic transactional replacement over a chronologically ingested event stream. All upstream data is preconditioned via rigid structural constraints and sourced from a non-fungible, externally governed data issuance vector."
 searchHidden: false

@@ -1,6 +1,6 @@
 ---
 title: ​Osmium Star llc
-description: W:42 L:7 D:0 Bonus ✅ 36%
+description: W:42 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 21 - 12 **六大天神**
 date: 2025-05-06T22:03:01.000Z
@@ -18,7 +18,7 @@ act officers or senior members, Discord invite code:zQGwx3ZtDp
 <br>
 
 ### [Discord](https://discord.gg/zQGwx3ZtDp)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
