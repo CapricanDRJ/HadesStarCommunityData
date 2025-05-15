@@ -1,9 +1,9 @@
 ---
 title: ​星系联盟
-description: W:11 L:8 D:0 Bonus ❌ 6%
+description: W:11 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 14 - 0 **Copelius**
-date: 2025-05-06T11:01:49.000Z
+Summary: ❌ 18 - 23 **Osmium Star llc**
+date: 2025-05-14T15:21:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2025-05-06T11:01:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (337)|
-| ELO Competitive | 1275 🔺  (386)|
-| Total Matches | 19 |
+| ELO Regular | 1231 🔻  (353)|
+| ELO Competitive | 1269 🔻  (402)|
+| Total Matches | 20 |
 | Wins | 11 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 1 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746097309,1745592262,1745142385,1744378830,1743822268,1743163188,1742559723,1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
+        let timestamps = [1746804069,1746097309,1745592262,1745142385,1744378830,1743822268,1743163188,1742559723,1742045543,1741432838,1740807497,1740145502,1739116270,1736941014,1736422458,1735980206,1735364951,1734668777,1734141451,1732243561];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/14 | 18-23 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2025/05/06 | 14-0 | [Copelius](https://ws.tsl.rocks/corp/5ccdfe71720f707dabd274b5bab6f84a443484f3e38ec1065ad5f5a20268649f/) |
 | ❌ | 2025/04/30 | 0-8 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2025/04/25 | 12-0 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
@@ -162,5 +163,5 @@ Corporation ID: 701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746529309"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747236069"></span>
 </div>

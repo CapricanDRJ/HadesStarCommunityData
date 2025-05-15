@@ -1,9 +1,9 @@
 ---
 title: ​The Titans Pro
-description: W:1 L:0 D:0 Bonus ❌ 6%
+description: W:1 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 18 - 6 **CDG**
-date: 2024-05-26T00:50:01.000Z
+Summary: ❌ 3 - 7 **63SALVADORES36**
+date: 2025-05-14T10:16:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ete a nuestra corp y se uno más de lo conquistadores estelares
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (403)|
-| ELO Competitive | 1223 🔺  (551)|
-| Total Matches | 1 |
+| ELO Regular | 1202 🔻  (520)|
+| ELO Competitive | 1215 🔻  (620)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716252601];
+        let timestamps = [1746785774,1716252601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/14 | 3-7 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2024/05/26 | 18-6 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 
 ---
@@ -145,5 +146,5 @@ Corporation ID: 6c33cc4da54eb02ded19a2665da42f3cf6cad815dd1255f5e9843e27f61f76f7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1716684601"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747217774"></span>
 </div>

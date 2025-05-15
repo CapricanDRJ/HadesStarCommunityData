@@ -20,7 +20,7 @@ ome also:)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (592)|
+| ELO Regular | 1195 🔺  (591)|
 | ELO Competitive | 1238 🔺  (496)|
 | Total Matches | 16 |
 | Wins | 6 |

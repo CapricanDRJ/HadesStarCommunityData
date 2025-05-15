@@ -1,6 +1,6 @@
 ---
 title: ​Death Flight
-description: W:32 L:124 D:1 Bonus ✅ 48%
+description: W:32 L:124 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 11 - 47 **Trade Station**
 date: 2025-05-13T07:28:02.000Z
@@ -24,12 +24,12 @@ Trust * Loyalty
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 931 🔻  (1510)|
-| ELO Competitive | 1235 🔻  (504)|
+| ELO Competitive | 1235 🔻  (505)|
 | Total Matches | 157 |
 | Wins | 32 |
 | Losses | 124 |

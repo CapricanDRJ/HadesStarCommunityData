@@ -1,6 +1,6 @@
 ---
 title: ​毛绒团子
-description: W:20 L:1 D:0 Bonus ✅ 
+description: W:20 L:1 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 17 - 0 **AlyTec Sys\.**
 date: 2025-05-07T09:38:36.000Z
@@ -15,12 +15,12 @@ date: 2025-05-07T09:38:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1439 🔺  (40)|
-| ELO Competitive | 1450 🔺  (132)|
+| ELO Competitive | 1450 🔺  (131)|
 | Total Matches | 21 |
 | Wins | 20 |
 | Losses | 1 |

@@ -1,6 +1,6 @@
 ---
 title: ​QVX
-description: W:2 L:5 D:0 Bonus ✅ 
+description: W:2 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 8 - 0 **萌新集团**
 date: 2025-05-07T01:03:14.000Z
@@ -15,12 +15,12 @@ date: 2025-05-07T01:03:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (1032)|
-| ELO Competitive | 1187 🔺  (920)|
+| ELO Regular | 1171 🔺  (1031)|
+| ELO Competitive | 1187 🔺  (921)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 5 |

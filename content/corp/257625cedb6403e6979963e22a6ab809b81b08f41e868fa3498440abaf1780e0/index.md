@@ -1,9 +1,9 @@
 ---
 title: ​Tacitus
-description: W:5 L:0 D:0 Bonus ❌ 11%
+description: W:6 L:0 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 57 - 5 **世外桃源**
-date: 2025-03-05T07:26:03.000Z
+Summary: ✅ 54 - 2 **ГОРИЗОНТ**
+date: 2025-05-14T13:55:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ Part of Oceania Alliance.     New players welcome
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (292)|
-| ELO Competitive | 1270 🔺  (395)|
-| Total Matches | 5 |
-| Wins | 5 |
+| ELO Regular | 1261 🔺  (264)|
+| ELO Competitive | 1293 🔺  (343)|
+| Total Matches | 6 |
+| Wins | 6 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 8 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1740727563,1740095026,1737040366,1729699847,1718487160];
+        let timestamps = [1746798959,1740727563,1740095026,1737040366,1729699847,1718487160];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/14 | 54-2 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2025/03/05 | 57-5 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2025/02/25 | 35-3 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2025/01/21 | 41-3 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
@@ -149,5 +150,5 @@ Corporation ID: 257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1741159563"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747230959"></span>
 </div>

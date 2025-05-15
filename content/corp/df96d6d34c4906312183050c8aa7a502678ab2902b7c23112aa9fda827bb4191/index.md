@@ -1,6 +1,6 @@
 ---
 title: ​Spica​
-description: W:43 L:9 D:1 Bonus ✅ 36%
+description: W:43 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **101**
 date: 2025-05-07T08:04:08.000Z
@@ -18,7 +18,7 @@ date: 2025-05-07T08:04:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/XQ47nAEXuY)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

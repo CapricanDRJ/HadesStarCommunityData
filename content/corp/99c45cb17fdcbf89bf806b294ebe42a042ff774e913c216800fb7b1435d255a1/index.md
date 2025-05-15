@@ -1,9 +1,9 @@
 ---
 title: ​HUN TERS
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 15 - 0 **The Witness**
-date: 2025-05-09T17:49:43.000Z
+Summary: ✅ 15 - 0 **Z\. O\. V\. **
+date: 2025-05-14T18:41:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-05-09T17:49:43.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (498)|
-| ELO Competitive | 1212 🔺  (640)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1225 🔺  (376)|
+| ELO Competitive | 1236 🔺  (499)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746380983];
+        let timestamps = [1746816091,1746380983];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/14 | 15-0 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2025/05/09 | 15-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746812983"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747248091"></span>
 </div>

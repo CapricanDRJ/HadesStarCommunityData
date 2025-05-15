@@ -22,7 +22,7 @@ WhatsApp: <color=#00FFFF>034 99879-2012</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (378)|
+| ELO Regular | 1225 🔺  (380)|
 | ELO Competitive | 1246 🔺  (468)|
 | Total Matches | 18 |
 | Wins | 10 |

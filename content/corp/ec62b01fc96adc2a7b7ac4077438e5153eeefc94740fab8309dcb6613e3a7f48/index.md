@@ -1,9 +1,9 @@
 ---
 title: ​Bacon Warriors
-description: W:31 L:25 D:1 Bonus ✅ 36%
+description: W:32 L:25 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 3 **Star Blazers**
-date: 2025-05-07T03:28:28.000Z
+Summary: ✅ 22 - 2 **Interstellar**
+date: 2025-05-14T04:20:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ e lose amd every two weeks if we win. No discord required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔺  (205)|
-| ELO Competitive | 1368 🔺  (217)|
-| Total Matches | 57 |
-| Wins | 31 |
+| ELO Regular | 1300 🔺  (188)|
+| ELO Competitive | 1382 🔺  (197)|
+| Total Matches | 58 |
+| Wins | 32 |
 | Losses | 25 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 6 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746156508,1745558904,1744951585,1744516164,1743308369,1742874991,1742271527,1741408196,1740891650,1740115454,1739161950,1738559130,1737950293,1737384759,1736946599,1736088875,1735563870,1734706935,1734108094,1732630898,1731082429,1730116640,1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
+        let timestamps = [1746764405,1746156508,1745558904,1744951585,1744516164,1743308369,1742874991,1742271527,1741408196,1740891650,1740115454,1739161950,1738559130,1737950293,1737384759,1736946599,1736088875,1735563870,1734706935,1734108094,1732630898,1731082429,1730116640,1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 1 | 1 | 0 | 2 |
 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 0 | 2 | 0 | 2 |
 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) | 0 | 2 | 0 | 2 |
 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 0 | 1 | 1 | 2 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/14 | 22-2 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2025/05/07 | 17-3 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2025/04/30 | 28-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2025/04/23 | 4-29 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
@@ -212,5 +214,5 @@ Corporation ID: ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746588508"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747196405"></span>
 </div>

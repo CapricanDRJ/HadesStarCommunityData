@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:28 L:23 D:0 Bonus ✅ 40%
+description: W:28 L:23 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 37 - 4 **Interstellar**
 date: 2025-05-07T07:28:49.000Z
@@ -17,12 +17,12 @@ date: 2025-05-07T07:28:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (265)|
-| ELO Competitive | 1441 🔺  (141)|
+| ELO Regular | 1260 🔺  (268)|
+| ELO Competitive | 1441 🔺  (140)|
 | Total Matches | 51 |
 | Wins | 28 |
 | Losses | 23 |

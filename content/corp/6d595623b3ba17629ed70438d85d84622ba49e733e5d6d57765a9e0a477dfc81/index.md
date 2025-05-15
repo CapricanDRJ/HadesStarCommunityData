@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:56 L:55 D:3 Bonus ✅ 40%
+description: W:56 L:55 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 15 - 21 **Death Star llc\.**
 date: 2025-05-13T12:08:29.000Z
@@ -27,12 +27,12 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (279)|
-| ELO Competitive | 1430 🔻  (152)|
+| ELO Regular | 1255 🔻  (283)|
+| ELO Competitive | 1430 🔻  (153)|
 | Total Matches | 114 |
 | Wins | 56 |
 | Losses | 55 |

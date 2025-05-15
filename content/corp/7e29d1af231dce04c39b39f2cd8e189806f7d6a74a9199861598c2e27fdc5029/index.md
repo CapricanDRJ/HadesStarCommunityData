@@ -1,9 +1,9 @@
 ---
 title: ​One True Empire
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 5 **KEPLER\-442  b**
-date: 2025-05-08T02:30:43.000Z
+Summary: ✅ 5 - 3 **红日初升，其道大光**
+date: 2025-05-14T02:09:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-05-08T02:30:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (807)|
-| ELO Competitive | 1185 🔻  (999)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1201 🔺  (534)|
+| ELO Competitive | 1209 🔺  (657)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746239443];
+        let timestamps = [1746756593,1746239443];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/14 | 5-3 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/05/08 | 3-5 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 7e29d1af231dce04c39b39f2cd8e189806f7d6a74a9199861598c2e27fdc5029
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746671443"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747188593"></span>
 </div>

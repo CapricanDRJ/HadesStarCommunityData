@@ -1,9 +1,9 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:24 L:6 D:0 Bonus ❌ 
+description: W:24 L:7 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ✅ 5 - 0 **РARADISЕ**
-date: 2025-05-06T20:02:49.000Z
+Summary: ❌ 1 - 16 **S\.U\.N**
+date: 2025-05-14T15:36:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-06T20:02:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1364 🔺  (102)|
-| ELO Competitive | 1382 🔺  (197)|
-| Total Matches | 30 |
+| ELO Regular | 1344 🔻  (124)|
+| ELO Competitive | 1362 🔻  (223)|
+| Total Matches | 31 |
 | Wins | 24 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746129769,1746081421,1745163148,1745036028,1744437730,1744426010,1743978256,1743951517,1743508224,1743496206,1743068525,1743047192,1742606888,1742520960,1742168866,1742088818,1741714104,1741565971,1741120933,1741099294,1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
+        let timestamps = [1746804971,1746129769,1746081421,1745163148,1745036028,1744437730,1744426010,1743978256,1743951517,1743508224,1743496206,1743068525,1743047192,1742606888,1742520960,1742168866,1742088818,1741714104,1741565971,1741120933,1741099294,1740459522,1740006056,1739863906,1739418869,1738986449,1738926342,1738488498,1737900409,1737331877,1737328572];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/14 | 1-16 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ✅ | 2025/05/06 | 5-0 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) |
 | ✅ | 2025/05/06 | 11-2 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9/) |
 | ✅ | 2025/04/25 | 6-0 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
@@ -173,5 +173,5 @@ Corporation ID: 2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746561769"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747236971"></span>
 </div>

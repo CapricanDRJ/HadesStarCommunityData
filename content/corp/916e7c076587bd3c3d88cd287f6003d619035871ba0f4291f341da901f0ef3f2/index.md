@@ -1,9 +1,9 @@
 ---
 title: ​S.U.N
-description: W:10 L:6 D:1 Bonus ❌ 6%
+description: W:11 L:6 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 2 - 11 **Lololol**
-date: 2025-04-27T00:10:51.000Z
+Summary: ✅ 16 - 1 **💮問鼎無垠💮**
+date: 2025-05-14T15:36:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-04-27T00:10:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (311)|
-| ELO Competitive | 1273 🔻  (390)|
-| Total Matches | 17 |
-| Wins | 10 |
+| ELO Regular | 1264 🔺  (257)|
+| ELO Competitive | 1292 🔺  (344)|
+| Total Matches | 18 |
+| Wins | 11 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745280651,1743822268,1743064318,1742064780,1741119731,1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
+        let timestamps = [1746804971,1745280651,1743822268,1743064318,1742064780,1741119731,1740392509,1739632819,1738781806,1738152522,1737457476,1736276710,1735206900,1734105389,1732558788,1732106839,1731474902,1731030746];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/14 | 16-1 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ❌ | 2025/04/27 | 2-11 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ✅ | 2025/04/10 | 13-3 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 | ✅ | 2025/04/01 | 19-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
@@ -159,5 +160,5 @@ Corporation ID: 916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745712651"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747236971"></span>
 </div>

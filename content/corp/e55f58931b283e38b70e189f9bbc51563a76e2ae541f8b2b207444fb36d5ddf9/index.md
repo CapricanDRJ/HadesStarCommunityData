@@ -1,9 +1,9 @@
 ---
 title: ​Cydonia Order
-description: W:29 L:17 D:3 Bonus ✅ 36%
+description: W:30 L:17 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 3 **IMPERIAL ARMADA**
-date: 2025-05-07T20:15:08.000Z
+Summary: ✅ 25 - 0 **对，进就进人少的**
+date: 2025-05-14T20:51:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ THE CYDONIAN EMPIRE™
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1349 🔺  (116)|
-| ELO Competitive | 1415 🔺  (165)|
-| Total Matches | 49 |
-| Wins | 29 |
+| ELO Regular | 1358 🔺  (106)|
+| ELO Competitive | 1432 🔺  (149)|
+| Total Matches | 50 |
+| Wins | 30 |
 | Losses | 17 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 11 |
 | Flagship | 6 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746216908,1745759060,1745159541,1744580782,1744145054,1743557815,1742947419,1742340048,1741843010,1741218587,1740775947,1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
+        let timestamps = [1746823905,1746216908,1745759060,1745159541,1744580782,1744145054,1743557815,1742947419,1742340048,1741843010,1741218587,1740775947,1740185774,1739572420,1738959406,1738336426,1737739337,1737123610,1736472051,1735776908,1735237855,1734690106,1734141150,1733609913,1732930216,1732399222,1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/14 | 25-0 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2025/05/07 | 17-3 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ❌ | 2025/05/02 | 4-29 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/04/25 | 23-8 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
@@ -198,5 +200,5 @@ Corporation ID: e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746648908"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747255905"></span>
 </div>

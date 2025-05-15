@@ -1,6 +1,6 @@
 ---
 title: ​Crux Cadre
-description: W:39 L:43 D:2 Bonus ✅ 50%
+description: W:39 L:43 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 5 - 43 **UAGC**
 date: 2025-05-13T20:49:26.000Z
@@ -18,12 +18,12 @@ e run with us! Say hi on Discord!
 <br>
 
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1343)|
-| ELO Competitive | 1284 🔻  (366)|
+| ELO Regular | 1124 🔻  (1344)|
+| ELO Competitive | 1284 🔻  (368)|
 | Total Matches | 84 |
 | Wins | 39 |
 | Losses | 43 |

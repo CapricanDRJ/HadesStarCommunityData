@@ -1,6 +1,6 @@
 ---
 title: ​Эдем
-description: W:25 L:19 D:1 Bonus ✅ 36%
+description: W:25 L:19 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 7 - 8 **Death Flight**
 date: 2025-05-07T17:25:12.000Z
@@ -17,11 +17,11 @@ date: 2025-05-07T17:25:12.000Z
 <br>
 
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (258)|
+| ELO Regular | 1263 🔻  (260)|
 | ELO Competitive | 1410 🔺  (173)|
 | Total Matches | 45 |
 | Wins | 25 |

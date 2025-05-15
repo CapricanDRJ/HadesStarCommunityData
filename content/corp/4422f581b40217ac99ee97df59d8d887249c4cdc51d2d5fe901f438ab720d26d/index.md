@@ -1,6 +1,6 @@
 ---
 title: ​" Возрождение "
-description: W:22 L:2 D:0 Bonus ✅ 36%
+description: W:22 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 56 - 0 **Alpha **
 date: 2025-05-07T02:18:22.000Z
@@ -20,11 +20,11 @@ date: 2025-05-07T02:18:22.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1422 🔺  (49)|
+| ELO Regular | 1422 🔺  (50)|
 | ELO Competitive | 1496 🔺  (90)|
 | Total Matches | 24 |
 | Wins | 22 |
