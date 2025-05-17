@@ -22,8 +22,8 @@ e together.Be active in chat and white stars for promotion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1309)|
-| ELO Competitive | 1165 🔻  (1278)|
+| ELO Regular | 1133 🔻  (1310)|
+| ELO Competitive | 1165 🔻  (1279)|
 | Total Matches | 23 |
 | Wins | 8 |
 | Losses | 14 |

@@ -1,9 +1,9 @@
 ---
 title: ​Бороская Имерия
-description: W:21 L:12 D:0 Bonus ✅ 36%
+description: W:22 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 27 - 5 **ALPHA**
-date: 2025-05-11T01:07:52.000Z
+Summary: ✅ 10 - 2 **Império Brasil**
+date: 2025-05-17T16:18:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ date: 2025-05-11T01:07:52.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (163)|
-| ELO Competitive | 1354 🔺  (238)|
-| Total Matches | 33 |
-| Wins | 21 |
+| ELO Regular | 1319 🔺  (151)|
+| ELO Competitive | 1363 🔺  (223)|
+| Total Matches | 34 |
+| Wins | 22 |
 | Losses | 12 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 5 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746493672,1745437511,1744728524,1743681018,1742807069,1741979728,1741367026,1740268113,1739798396,1739311297,1738703077,1737307835,1736685435,1736679724,1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1747066711,1746493672,1745437511,1744728524,1743681018,1742807069,1741979728,1741367026,1740268113,1739798396,1739311297,1738703077,1737307835,1736685435,1736679724,1736035673,1736029061,1735245067,1734547425,1733841580,1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/17 | 10-2 | [Império Brasil](https://ws.tsl.rocks/corp/c3f9eea369e51d3ddb7e0cb2e5304ff71da83de8c3ae14dea829db7c5c301166/) |
 | ✅ | 2025/05/11 | 27-5 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2025/04/28 | 3-19 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) |
 | ✅ | 2025/04/20 | 24-2 | [Proxima](https://ws.tsl.rocks/corp/e14a46429d17981e98e503513b6ef03aadef41c204148c3e54f03e7796af8bb6/) |
@@ -177,5 +179,5 @@ Corporation ID: 13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746925672"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747498711"></span>
 </div>
