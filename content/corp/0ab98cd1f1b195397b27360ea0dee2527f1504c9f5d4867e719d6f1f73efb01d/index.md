@@ -1,6 +1,6 @@
 ---
 title: ​Grunthal Gang
-description: W:53 L:36 D:0 Bonus ✅ 54%
+description: W:53 L:36 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 40 - 13 **BlackStar Order**
 date: 2025-05-08T16:47:12.000Z
@@ -18,11 +18,11 @@ r of our corp. https://discord.gg/jUQReQtRJN
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔺  (74)|
+| ELO Regular | 1395 🔺  (75)|
 | ELO Competitive | 1592 🔺  (39)|
 | Total Matches | 89 |
 | Wins | 53 |

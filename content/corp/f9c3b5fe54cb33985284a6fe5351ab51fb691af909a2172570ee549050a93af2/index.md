@@ -1,9 +1,9 @@
 ---
 title: ​STAR TERROR CZ
-description: W:19 L:15 D:0 Bonus ✅ 38%
+description: W:20 L:15 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 41 - 4 **The X \- Files**
-date: 2025-05-09T22:00:11.000Z
+Summary: ✅ 32 - 23 **Lacuna X**
+date: 2025-05-17T03:02:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (137)|
-| ELO Competitive | 1432 🔺  (151)|
-| Total Matches | 34 |
-| Wins | 19 |
+| ELO Regular | 1350 🔺  (115)|
+| ELO Competitive | 1452 🔺  (131)|
+| Total Matches | 35 |
+| Wins | 20 |
 | Losses | 15 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 8 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746396011,1745777701,1745172466,1743980058,1743369097,1742826605,1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1747018930,1746396011,1745777701,1745172466,1743980058,1743369097,1742826605,1742203007,1741550044,1740945154,1740944853,1740342637,1740339030,1739755433,1739155339,1739132504,1738529685,1737927460,1737370933,1737318355,1736721812,1736711292,1736106316,1736105714,1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) | 1 | 1 | 0 | 2 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/17 | 32-23 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2025/05/09 | 41-4 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2025/05/02 | 25-2 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2025/04/25 | 34-12 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
@@ -184,5 +186,5 @@ Corporation ID: f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746828011"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747450930"></span>
 </div>

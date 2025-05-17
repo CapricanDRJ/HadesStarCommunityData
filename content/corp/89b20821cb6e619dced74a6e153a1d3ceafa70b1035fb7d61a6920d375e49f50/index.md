@@ -1,6 +1,6 @@
 ---
 title: ​Winter Star llc
-description: W:16 L:10 D:1 Bonus ✅ 34%
+description: W:16 L:10 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **神圣群星帝国**
 date: 2025-05-08T22:12:47.000Z
@@ -17,12 +17,12 @@ ons! //You must Join our Discord within 7 days
 <br>
 
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (238)|
-| ELO Competitive | 1323 🔺  (291)|
+| ELO Regular | 1274 🔺  (239)|
+| ELO Competitive | 1323 🔺  (290)|
 | Total Matches | 27 |
 | Wins | 16 |
 | Losses | 10 |

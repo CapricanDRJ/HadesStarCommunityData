@@ -1,9 +1,9 @@
 ---
 title: ​Cool Casual
-description: W:18 L:6 D:0 Bonus ✅ 
+description: W:18 L:7 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 6 - 3 **Fairy tail **
-date: 2025-05-11T17:42:37.000Z
+Summary: ❌ 3 - 9 **WhiteSTarfighte**
+date: 2025-05-17T04:32:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2025-05-11T17:42:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1297 🔺  (193)|
-| ELO Competitive | 1323 🔺  (287)|
-| Total Matches | 24 |
+| ELO Regular | 1282 🔻  (222)|
+| ELO Competitive | 1308 🔻  (311)|
+| Total Matches | 25 |
 | Wins | 18 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746553357,1745846308,1745200111,1744121485,1743656411,1743201837,1742742069,1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1747024339,1746553357,1745846308,1745200111,1744121485,1743656411,1743201837,1742742069,1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/17 | 3-9 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2025/05/11 | 6-3 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ✅ | 2025/05/03 | 6-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2025/04/26 | 3-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
@@ -173,5 +173,5 @@ Corporation ID: 9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746985357"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747456339"></span>
 </div>

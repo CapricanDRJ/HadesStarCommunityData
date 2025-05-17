@@ -1,9 +1,9 @@
 ---
 title: ​蓝星集团
-description: W:14 L:5 D:0 Bonus ❌ 6%
+description: W:14 L:6 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 10 - 0 **银河护卫队**
-date: 2024-12-25T23:28:08.000Z
+Summary: ❌ 0 - 7 **Grand Impire**
+date: 2025-05-16T13:20:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 2024-12-25T23:28:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (187)|
-| ELO Competitive | 1339 🔺  (257)|
-| Total Matches | 19 |
+| ELO Regular | 1281 🔻  (227)|
+| ELO Competitive | 1319 🔻  (300)|
+| Total Matches | 20 |
 | Wins | 14 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734737288,1734086455,1733631764,1733182630,1733017360,1732610765,1732107440,1731662100,1731209284,1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
+        let timestamps = [1746969645,1734737288,1734086455,1733631764,1733182630,1733017360,1732610765,1732107440,1731662100,1731209284,1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/16 | 0-7 | [Grand Impire](https://ws.tsl.rocks/corp/951e0a6117eb48cf35f1928c5445d7d509d927d4c6883bcd5b5384430c2e206b/) |
 | ✅ | 2024/12/25 | 10-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/12/18 | 13-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/12/13 | 16-0 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
@@ -169,5 +169,5 @@ Corporation ID: 9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1735169288"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747401645"></span>
 </div>

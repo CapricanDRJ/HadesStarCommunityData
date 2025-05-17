@@ -1,9 +1,9 @@
 ---
 title: ​QONQR 
-description: W:17 L:11 D:0 Bonus ❌ 7%
+description: W:18 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 16 - 9 **Space Marshalls**
-date: 2025-04-26T12:54:34.000Z
+Summary: ✅ 13 - 3 **King's Guard**
+date: 2025-05-17T05:17:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔺  (206)|
-| ELO Competitive | 1354 🔺  (240)|
-| Total Matches | 28 |
-| Wins | 17 |
+| ELO Regular | 1292 🔺  (200)|
+| ELO Competitive | 1359 🔺  (226)|
+| Total Matches | 29 |
+| Wins | 18 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 4 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1745240074,1744668828,1743944887,1742492109,1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1747027043,1745240074,1744668828,1743944887,1742492109,1741250130,1740663559,1739892153,1738752052,1737383256,1736179641,1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/17 | 13-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2025/04/26 | 16-9 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2025/04/19 | 16-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2025/04/11 | 7-14 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
@@ -181,5 +182,5 @@ Corporation ID: 5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1745672074"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747459043"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Vega Conflict
-description: W:18 L:13 D:0 Bonus ✅ 36%
+description: W:18 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 30 - 25 **ДИВЕРСАНТЫ**
 date: 2025-05-08T21:12:40.000Z
@@ -16,12 +16,12 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (155)|
-| ELO Competitive | 1367 🔺  (218)|
+| ELO Regular | 1314 🔺  (156)|
+| ELO Competitive | 1367 🔺  (217)|
 | Total Matches | 31 |
 | Wins | 18 |
 | Losses | 13 |

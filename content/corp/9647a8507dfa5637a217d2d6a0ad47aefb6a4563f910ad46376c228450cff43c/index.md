@@ -1,6 +1,6 @@
 ---
 title: ​CTG
-description: W:44 L:49 D:0 Bonus ✅ 40%
+description: W:44 L:49 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **Out landers**
 date: 2025-05-10T03:25:38.000Z
@@ -18,11 +18,11 @@ y newbie and big guy to join us! If you're interested, say hi!
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (589)|
+| ELO Regular | 1195 🔺  (590)|
 | ELO Competitive | 1424 🔺  (157)|
 | Total Matches | 93 |
 | Wins | 44 |

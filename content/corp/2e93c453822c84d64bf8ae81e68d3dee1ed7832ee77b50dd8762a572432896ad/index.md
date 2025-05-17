@@ -20,8 +20,8 @@ Bye
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (606)|
-| ELO Competitive | 1194 🔻  (779)|
+| ELO Regular | 1193 🔻  (607)|
+| ELO Competitive | 1194 🔻  (780)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

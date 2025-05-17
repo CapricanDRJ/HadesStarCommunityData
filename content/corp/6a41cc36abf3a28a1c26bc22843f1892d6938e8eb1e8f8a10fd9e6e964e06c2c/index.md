@@ -1,6 +1,6 @@
 ---
 title: ​Space Marshalls
-description: W:40 L:36 D:0 Bonus ✅ 38%
+description: W:40 L:36 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 37 - 0 **Avantgarde**
 date: 2025-05-10T10:01:13.000Z
@@ -17,11 +17,11 @@ len.
 <br>
 
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔺  (1159)|
+| ELO Regular | 1158 🔺  (1160)|
 | ELO Competitive | 1363 🔺  (222)|
 | Total Matches | 76 |
 | Wins | 40 |

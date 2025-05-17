@@ -1,6 +1,6 @@
 ---
 title: ​VoidCorp
-description: W:49 L:34 D:2 Bonus ✅ 50%
+description: W:49 L:34 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 44 - 33 **italian warrior**
 date: 2025-05-09T21:55:11.000Z
@@ -17,12 +17,12 @@ e.
 <br>
 
 ### [Discord](https://discord.gg/9vG4zU3)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔺  (126)|
-| ELO Competitive | 1452 🔺  (129)|
+| ELO Competitive | 1452 🔺  (130)|
 | Total Matches | 85 |
 | Wins | 49 |
 | Losses | 34 |

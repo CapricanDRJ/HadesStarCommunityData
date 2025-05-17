@@ -1,6 +1,6 @@
 ---
 title: ​NERF TOY'S
-description: W:25 L:37 D:2 Bonus ✅ 44%
+description: W:25 L:37 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 18 - 9 **VoidRunners**
 date: 2025-05-08T14:31:58.000Z
@@ -18,12 +18,12 @@ lor=yellow>weekly WS's and daily Corp runs
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (517)|
-| ELO Competitive | 1307 🔺  (314)|
+| ELO Regular | 1203 🔺  (520)|
+| ELO Competitive | 1307 🔺  (313)|
 | Total Matches | 64 |
 | Wins | 25 |
 | Losses | 37 |

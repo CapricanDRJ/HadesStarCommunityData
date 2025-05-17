@@ -1,6 +1,6 @@
 ---
 title: ​pirates spatial
-description: W:78 L:59 D:0 Bonus ✅ 50%
+description: W:78 L:59 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 24 - 16 **On en a Gros \! **
 date: 2025-05-10T11:31:22.000Z
@@ -21,12 +21,12 @@ https://discord.gg/wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1430 🔺  (47)|
-| ELO Competitive | 1617 🔺  (30)|
+| ELO Competitive | 1617 🔺  (29)|
 | Total Matches | 137 |
 | Wins | 78 |
 | Losses | 59 |

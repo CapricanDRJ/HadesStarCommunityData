@@ -1,6 +1,6 @@
 ---
 title: ​украина№1
-description: W:52 L:58 D:0 Bonus ✅ 46%
+description: W:52 L:58 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 35 - 18 **SQPT**
 date: 2025-05-10T14:36:44.000Z
@@ -18,11 +18,11 @@ date: 2025-05-10T14:36:44.000Z
 <br>
 
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (1058)|
+| ELO Regular | 1169 🔺  (1060)|
 | ELO Competitive | 1416 🔺  (165)|
 | Total Matches | 110 |
 | Wins | 52 |

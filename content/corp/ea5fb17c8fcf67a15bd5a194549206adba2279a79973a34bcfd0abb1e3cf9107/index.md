@@ -1,6 +1,6 @@
 ---
 title: ​Continuum
-description: W:117 L:58 D:2 Bonus ✅ 56%
+description: W:117 L:58 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 0 - 54 **Auscorp **
 date: 2025-05-08T23:57:55.000Z
@@ -19,11 +19,11 @@ S. 18+, English. Discord - apply + RS queue.
 <br>
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1411 🔻  (57)|
+| ELO Regular | 1411 🔻  (58)|
 | ELO Competitive | 1746 🔺  (12)|
 | Total Matches | 177 |
 | Wins | 117 |

@@ -1,6 +1,6 @@
 ---
 title: ​GalaxyNova
-description: W:9 L:3 D:0 Bonus ✅ 32%
+description: W:9 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 30 - 21 **Rogue One**
 date: 2025-05-10T10:46:17.000Z
@@ -18,12 +18,12 @@ but no being mean and excluding... Aires adds: (unless in a blue star
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔺  (217)|
-| ELO Competitive | 1312 🔺  (308)|
+| ELO Regular | 1283 🔺  (216)|
+| ELO Competitive | 1312 🔺  (307)|
 | Total Matches | 12 |
 | Wins | 9 |
 | Losses | 3 |

@@ -1,6 +1,6 @@
 ---
 title: ​Interestelar
-description: W:28 L:2 D:0 Bonus ✅ 36%
+description: W:28 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **Spaceforce**
 date: 2025-05-10T12:16:27.000Z
@@ -17,11 +17,11 @@ enas", nuestra corporación principal
 <br>
 
 ### [Discord](https://discord.gg/B4d7wfghZ4)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1478 🔺  (23)|
+| ELO Regular | 1478 🔺  (21)|
 | ELO Competitive | 1526 🔺  (72)|
 | Total Matches | 30 |
 | Wins | 28 |

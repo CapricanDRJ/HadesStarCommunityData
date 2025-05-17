@@ -1,6 +1,6 @@
 ---
 title: ​alienigenas
-description: W:13 L:7 D:0 Bonus ✅ 36%
+description: W:13 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 44 - 14 **lonewolf**
 date: 2025-05-09T15:49:29.000Z
@@ -20,11 +20,11 @@ guna actividad con los demas compañeros
 <br>
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔺  (172)|
+| ELO Regular | 1306 🔺  (173)|
 | ELO Competitive | 1357 🔺  (229)|
 | Total Matches | 20 |
 | Wins | 13 |

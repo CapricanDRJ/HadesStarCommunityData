@@ -1,6 +1,6 @@
 ---
 title: ​＊СССР＊
-description: W:53 L:49 D:1 Bonus ✅ 48%
+description: W:53 L:49 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 4 - 41 **White Star Inc\.**
 date: 2025-05-09T06:58:31.000Z
@@ -18,11 +18,11 @@ date: 2025-05-09T06:58:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (581)|
+| ELO Regular | 1196 🔻  (584)|
 | ELO Competitive | 1523 🔺  (76)|
 | Total Matches | 103 |
 | Wins | 53 |

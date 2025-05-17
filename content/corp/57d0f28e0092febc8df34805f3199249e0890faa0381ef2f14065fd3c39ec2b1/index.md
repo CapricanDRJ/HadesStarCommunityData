@@ -1,9 +1,9 @@
 ---
 title: ​PODER ETERNO
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 6 - 0 **V0RTEX**
-date: 2025-05-10T20:47:29.000Z
+Summary: ✅ 22 - 0 **星系联盟**
+date: 2025-05-16T15:22:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2025-05-10T20:47:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (393)|
-| ELO Competitive | 1222 🔺  (556)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1235 🔺  (345)|
+| ELO Competitive | 1236 🔺  (509)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746478049];
+        let timestamps = [1746976951,1746478049];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/16 | 22-0 | [星系联盟](https://ws.tsl.rocks/corp/37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9/) |
 | ✅ | 2025/05/10 | 6-0 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 57d0f28e0092febc8df34805f3199249e0890faa0381ef2f14065fd3c39ec2b1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746910049"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747408951"></span>
 </div>

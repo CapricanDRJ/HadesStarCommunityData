@@ -1,9 +1,9 @@
 ---
 title: ​Terran empire 
-description: W:19 L:4 D:0 Bonus ✅ 
+description: W:21 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 17 - 3 **BRASIL ACADEMY**
-date: 2025-05-10T16:16:57.000Z
+Summary: ✅ 7 - 6 **Stellaris**
+date: 2025-05-16T21:41:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2025-05-10T16:16:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (113)|
-| ELO Competitive | 1393 🔺  (184)|
-| Total Matches | 23 |
-| Wins | 19 |
+| ELO Regular | 1368 🔺  (96)|
+| ELO Competitive | 1402 🔺  (176)|
+| Total Matches | 25 |
+| Wins | 21 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 3 |
 | Streak Record | 9 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746461817,1746417641,1745791829,1745708876,1745163449,1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
+        let timestamps = [1746999703,1746991588,1746461817,1746417641,1745791829,1745708876,1745163449,1745085617,1744634563,1744505048,1744133632,1743927340,1743543696,1743310839,1742997901,1742707292,1742473773,1741880570,1741370332,1740762298,1740080596,1739572420,1739031827,1738362872,1737920848];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/16 | 7-6 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
+| ✅ | 2025/05/16 | 15-0 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ✅ | 2025/05/10 | 17-3 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2025/05/10 | 3-29 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ✅ | 2025/05/02 | 28-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
@@ -172,5 +175,5 @@ Corporation ID: ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746893817"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747431703"></span>
 </div>

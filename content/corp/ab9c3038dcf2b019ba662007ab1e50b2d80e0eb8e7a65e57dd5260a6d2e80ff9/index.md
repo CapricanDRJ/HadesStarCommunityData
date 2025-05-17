@@ -1,6 +1,6 @@
 ---
 title: ​Halcon español
-description: W:40 L:25 D:1 Bonus ✅ 38%
+description: W:40 L:25 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 16 - 4 **Dumpster Fire 2**
 date: 2025-05-10T12:01:25.000Z
@@ -18,12 +18,12 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (270)|
-| ELO Competitive | 1354 🔺  (237)|
+| ELO Regular | 1260 🔺  (268)|
+| ELO Competitive | 1354 🔺  (236)|
 | Total Matches | 66 |
 | Wins | 40 |
 | Losses | 25 |

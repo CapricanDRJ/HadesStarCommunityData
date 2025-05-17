@@ -1,9 +1,9 @@
 ---
 title: ​沐星楼
-description: W:4 L:2 D:1 Bonus ❌ 
+description: W:5 L:2 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 5 - 11 **V0RTEX**
-date: 2025-05-10T02:40:33.000Z
+Summary: ✅ 21 - 3 **TheBasics**
+date: 2025-05-15T10:58:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-05-10T02:40:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (327)|
-| ELO Competitive | 1247 🔻  (464)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1253 🔺  (286)|
+| ELO Competitive | 1270 🔺  (401)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746412833,1745936660,1745876704,1745346158,1744841681,1744295595,1743862240];
+        let timestamps = [1746874685,1746412833,1745936660,1745876704,1745346158,1744841681,1744295595,1743862240];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/15 | 21-3 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2025/05/10 | 5-11 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) |
 | ✅ | 2025/05/04 | 4-0 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) |
 | ✅ | 2025/05/03 | 3-0 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -149,5 +150,5 @@ Corporation ID: 8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746844833"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747306685"></span>
 </div>

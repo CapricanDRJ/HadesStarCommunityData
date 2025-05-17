@@ -22,7 +22,7 @@ ccount inGame to be a member. InGame space is prioritized for running
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (377)|
+| ELO Regular | 1225 🔺  (380)|
 | ELO Competitive | 1358 🔺  (228)|
 | Total Matches | 70 |
 | Wins | 31 |

@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:6 L:7 D:1 Bonus ✅ 
+description: W:8 L:7 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 2 - 0 **龙族之家**
-date: 2025-05-09T08:33:17.000Z
+Summary: ✅ 1 - 0 **泰拉瑞亚**
+date: 2025-05-15T11:03:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,14 @@ date: 2025-05-09T08:33:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (469)|
-| ELO Competitive | 1259 🔺  (428)|
-| Total Matches | 14 |
-| Wins | 6 |
+| ELO Regular | 1235 🔺  (346)|
+| ELO Competitive | 1271 🔺  (396)|
+| Total Matches | 16 |
+| Wins | 8 |
 | Losses | 7 |
 | Draws | 1 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746347597,1746310367,1745763269,1745761766,1745325742,1745274041,1744892687,1744799833,1744356294,1744032341,1743867051,1743516340,1743430695,1742997901];
+        let timestamps = [1746874986,1746846738,1746347597,1746310367,1745763269,1745761766,1745325742,1745274041,1744892687,1744799833,1744356294,1744032341,1743867051,1743516340,1743430695,1742997901];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/15 | 1-0 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
+| ✅ | 2025/05/15 | 15-1 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2025/05/09 | 2-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
 | ❌ | 2025/05/08 | 0-16 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2025/05/02 | 1-2 | [Hades’ galaxy](https://ws.tsl.rocks/corp/a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e/) |
@@ -156,5 +159,5 @@ Corporation ID: 12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746779597"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747306986"></span>
 </div>

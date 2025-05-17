@@ -1,6 +1,6 @@
 ---
 title: ​Prodexus Domino
-description: W:1 L:4 D:0 Bonus ✅ 
+description: W:1 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 7 - 0 **百万繁星**
 date: 2025-05-08T21:32:43.000Z
@@ -15,12 +15,12 @@ date: 2025-05-08T21:32:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (1101)|
-| ELO Competitive | 1175 🔺  (1155)|
+| ELO Regular | 1165 🔺  (1102)|
+| ELO Competitive | 1175 🔺  (1158)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

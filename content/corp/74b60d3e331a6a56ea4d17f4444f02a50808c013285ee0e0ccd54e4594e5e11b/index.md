@@ -1,6 +1,6 @@
 ---
 title: ​русь 
-description: W:100 L:50 D:0 Bonus ✅ 54%
+description: W:100 L:50 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 37 - 1 **Stargate Corp**
 date: 2025-05-10T10:06:14.000Z
@@ -17,7 +17,7 @@ date: 2025-05-10T10:06:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

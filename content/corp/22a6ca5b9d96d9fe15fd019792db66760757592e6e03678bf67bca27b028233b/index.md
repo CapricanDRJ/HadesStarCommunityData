@@ -1,6 +1,6 @@
 ---
 title: ​АарнСарт 
-description: W:23 L:5 D:0 Bonus ✅ 
+description: W:23 L:5 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 29 - 3 **Terran empire **
 date: 2025-05-10T04:00:41.000Z
@@ -15,12 +15,12 @@ date: 2025-05-10T04:00:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1408 🔺  (62)|
-| ELO Competitive | 1483 🔺  (102)|
+| ELO Competitive | 1483 🔺  (104)|
 | Total Matches | 28 |
 | Wins | 23 |
 | Losses | 5 |

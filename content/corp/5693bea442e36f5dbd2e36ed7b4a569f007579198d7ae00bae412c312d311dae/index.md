@@ -1,9 +1,9 @@
 ---
 title: ​WhiteSTarfighte
-description: W:26 L:17 D:2 Bonus ✅ 36%
+description: W:27 L:17 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **love room 🏪**
-date: 2025-05-12T04:13:41.000Z
+Summary: ✅ 9 - 3 **Cool Casual**
+date: 2025-05-17T04:32:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ Lets WiN all white Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1301 🔺  (182)|
-| ELO Competitive | 1326 🔺  (282)|
-| Total Matches | 45 |
-| Wins | 26 |
+| ELO Regular | 1316 🔺  (154)|
+| ELO Competitive | 1341 🔺  (255)|
+| Total Matches | 46 |
+| Wins | 27 |
 | Losses | 17 |
 | Draws | 2 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 3 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746591221,1746105592,1745660312,1745186592,1744739740,1744285977,1743666024,1743204668,1742754785,1742318406,1741880570,1741432838,1740994426,1740554185,1740115454,1739675378,1739213637,1738770986,1738333119,1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
+        let timestamps = [1747024339,1746591221,1746105592,1745660312,1745186592,1744739740,1744285977,1743666024,1743204668,1742754785,1742318406,1741880570,1741432838,1740994426,1740554185,1740115454,1739675378,1739213637,1738770986,1738333119,1737885379,1737442168,1736986275,1736513819,1736063327,1735584166,1735149332,1734640057,1734198976,1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/17 | 9-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2025/05/12 | 9-0 | [love room 🏪](https://ws.tsl.rocks/corp/7ca0bfed7ce63805cc97ad100c6ab05ebf10c690abcaf3ccd3071f4688fbf57d/) |
 | ✅ | 2025/05/06 | 9-0 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ✅ | 2025/05/01 | 8-0 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
@@ -194,5 +195,5 @@ Corporation ID: 5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1747023221"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747456339"></span>
 </div>

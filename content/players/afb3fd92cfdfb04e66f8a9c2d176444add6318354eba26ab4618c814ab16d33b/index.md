@@ -1,0 +1,24 @@
+---
+layout: page
+title: "喵喵喵"
+description: "喵喵喵"
+---
+- **WhiteStars**: 1
+- **μ**: 24.21  
+- **σ**: 8.31  
+
+---
+
+## Top Recurring Corporations
+
+| Corporation | WhiteStars |
+| --- | --- |
+| [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) | 1 |
+
+---
+
+## Participation History (last 50)
+
+| Date | Your Corp | Score | Opponent |
+| --- | --- | --- | --- |
+| 2025-05-14 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) | 18-23 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |

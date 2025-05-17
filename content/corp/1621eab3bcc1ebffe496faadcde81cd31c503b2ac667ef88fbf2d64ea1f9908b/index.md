@@ -1,6 +1,6 @@
 ---
 title: ​IX Легион
-description: W:108 L:48 D:0 Bonus ✅ 54%
+description: W:108 L:48 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 19 - 20 **Октябристы**
 date: 2025-05-10T06:05:53.000Z
@@ -20,11 +20,11 @@ gy
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1494 🔻  (16)|
+| ELO Regular | 1494 🔻  (15)|
 | ELO Competitive | 1795 🔺  (4)|
 | Total Matches | 156 |
 | Wins | 108 |

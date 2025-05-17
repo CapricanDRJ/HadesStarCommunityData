@@ -1,6 +1,6 @@
 ---
 title: ​Октябристы
-description: W:79 L:91 D:2 Bonus ✅ 44%
+description: W:79 L:91 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 20 - 19 **IX Легион**
 date: 2025-05-10T06:05:53.000Z
@@ -17,11 +17,11 @@ date: 2025-05-10T06:05:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (242)|
+| ELO Regular | 1271 🔺  (243)|
 | ELO Competitive | 1604 🔺  (35)|
 | Total Matches | 172 |
 | Wins | 79 |

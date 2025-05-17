@@ -1,9 +1,9 @@
 ---
 title: ​莫比乌斯-星环
-description: W:10 L:10 D:0 Bonus ✅ 
+description: W:11 L:10 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 7 - 9 **Stella☆Glow**
-date: 2025-05-12T09:40:55.000Z
+Summary: ✅ 41 - 16 **Lost Legion**
+date: 2025-05-16T16:51:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2025-05-12T09:40:55.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔻  (346)|
-| ELO Competitive | 1286 🔺  (359)|
-| Total Matches | 20 |
-| Wins | 10 |
+| ELO Regular | 1242 🔺  (315)|
+| ELO Competitive | 1298 🔺  (331)|
+| Total Matches | 21 |
+| Wins | 11 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746610855,1746527921,1746031503,1745539771,1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1746982270,1746610855,1746527921,1746031503,1745539771,1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/16 | 41-16 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2025/05/12 | 7-9 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ✅ | 2025/05/11 | 20-17 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2025/05/05 | 25-12 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
@@ -162,5 +163,5 @@ Corporation ID: f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1747042855"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747414270"></span>
 </div>

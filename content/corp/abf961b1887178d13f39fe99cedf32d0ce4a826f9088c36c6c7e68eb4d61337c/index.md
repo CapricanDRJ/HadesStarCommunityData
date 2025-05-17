@@ -1,6 +1,6 @@
 ---
 title: ​-=FCA=-
-description: W:2 L:12 D:0 Bonus ✅ 30%
+description: W:2 L:12 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 32 - 30 **Hinterm Mars**
 date: 2025-05-09T13:34:14.000Z
@@ -15,12 +15,12 @@ date: 2025-05-09T13:34:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔺  (1411)|
-| ELO Competitive | 1197 🔺  (754)|
+| ELO Regular | 1094 🔺  (1413)|
+| ELO Competitive | 1197 🔺  (757)|
 | Total Matches | 14 |
 | Wins | 2 |
 | Losses | 12 |

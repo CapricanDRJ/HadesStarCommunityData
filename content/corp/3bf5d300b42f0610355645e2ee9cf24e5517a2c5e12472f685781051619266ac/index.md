@@ -1,9 +1,9 @@
 ---
 title: ​Sprite
-description: W:37 L:13 D:1 Bonus ✅ 38%
+description: W:38 L:13 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 30 - 0 **Glashan**
-date: 2025-05-09T00:31:25.000Z
+Summary: ✅ 37 - 0 **Лунный Феникс**
+date: 2025-05-16T13:25:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ a. Nuestra filosofía: unidos somos invencibles.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (115)|
-| ELO Competitive | 1477 🔺  (107)|
-| Total Matches | 51 |
-| Wins | 37 |
+| ELO Regular | 1366 🔺  (98)|
+| ELO Competitive | 1498 🔺  (90)|
+| Total Matches | 52 |
+| Wins | 38 |
 | Losses | 13 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 20 |
 | Flagship | 5 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746318685,1745871851,1745857332,1745411960,1745114761,1744973220,1744371618,1743438211,1742573552,1741913022,1741458387,1740945154,1740236557,1739706653,1739200412,1738605109,1737116395,1736511714,1735131487,1734664271,1734088257,1732885437,1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
+        let timestamps = [1746969945,1746318685,1745871851,1745857332,1745411960,1745114761,1744973220,1744371618,1743438211,1742573552,1741913022,1741458387,1740945154,1740236557,1739706653,1739200412,1738605109,1737116395,1736511714,1735131487,1734664271,1734088257,1732885437,1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/16 | 37-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2025/05/09 | 30-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ❌ | 2025/05/03 | 3-4 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2025/05/03 | 2-23 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
@@ -204,5 +206,5 @@ Corporation ID: 3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746750685"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747401945"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​ RELAX CZ/SK
-description: W:96 L:59 D:0 Bonus ✅ 46%
+description: W:96 L:59 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 25 - 7 **Hinterm Mond**
 date: 2025-05-09T23:00:16.000Z
@@ -17,12 +17,12 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 <br>
 
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (286)|
-| ELO Competitive | 1624 🔺  (29)|
+| ELO Regular | 1253 🔺  (285)|
+| ELO Competitive | 1624 🔺  (28)|
 | Total Matches | 155 |
 | Wins | 96 |
 | Losses | 59 |

@@ -21,7 +21,7 @@ hatsapp:83-99339-5118.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (673)|
-| ELO Competitive | 1188 🔻  (896)|
+| ELO Competitive | 1188 🔻  (897)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,6 +1,6 @@
 ---
 title: ​United Stars 
-description: W:47 L:28 D:3 Bonus ✅ 40%
+description: W:47 L:28 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 8 - 31 **六大天神**
 date: 2025-05-14T03:30:01.000Z
@@ -20,12 +20,12 @@ Join the family! Active on discord!
 <br>
 
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔻  (105)|
-| ELO Competitive | 1491 🔻  (95)|
+| ELO Regular | 1360 🔻  (106)|
+| ELO Competitive | 1491 🔻  (96)|
 | Total Matches | 78 |
 | Wins | 47 |
 | Losses | 28 |

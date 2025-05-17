@@ -1,9 +1,9 @@
 ---
 title: ​Red Star
-description: W:23 L:28 D:2 Bonus ❌ 8%
+description: W:24 L:29 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 45 **Stella☆Glow**
-date: 2025-05-11T20:39:48.000Z
+Summary: ❌ 0 - 21 **New YuGiOh**
+date: 2025-05-17T00:31:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2025-05-11T20:39:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (1064)|
-| ELO Competitive | 1338 🔻  (260)|
-| Total Matches | 53 |
-| Wins | 23 |
-| Losses | 28 |
+| ELO Regular | 1174 🔻  (980)|
+| ELO Competitive | 1348 🔺  (246)|
+| Total Matches | 55 |
+| Wins | 24 |
+| Losses | 29 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746563988,1746557075,1746121954,1746114741,1745682425,1745574829,1745119570,1745114761,1744668828,1744377628,1744165783,1743935268,1743601245,1743199259,1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1747009918,1747000906,1746563988,1746557075,1746121954,1746114741,1745682425,1745574829,1745119570,1745114761,1744668828,1744377628,1744165783,1743935268,1743601245,1743199259,1743110907,1742648687,1742585876,1742124272,1742064780,1741569575,1741527800,1740967991,1740931024,1740342637,1740266010,1739892153,1739740111,1739292063,1739252998,1738777297,1738758363,1738255291,1737822880,1737386863,1736857942,1736851030,1736385201,1736351840,1735868253,1735842409,1735403115,1734966546,1734957830,1734471077,1734457798,1734030874,1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 0 | 2 | 0 | 2 |
 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 0 | 2 | 0 | 2 |
 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) | 0 | 2 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 0 | 1 | 1 | 2 |
@@ -146,6 +147,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/17 | 0-21 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
+| ✅ | 2025/05/16 | 24-16 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2025/05/11 | 3-45 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2025/05/11 | 4-11 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2025/05/06 | 3-45 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
@@ -206,5 +209,5 @@ Corporation ID: 779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746995988"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747441918"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​第一序列
-description: W:43 L:58 D:0 Bonus ✅ 48%
+description: W:43 L:58 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 12 - 38 **Hand Of NOD\! **
 date: 2025-05-11T05:13:13.000Z
@@ -18,12 +18,12 @@ date: 2025-05-11T05:13:13.000Z
 <br>
 
 ### [Discord](https://discord.gg/U7S2BaueGU)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1277)|
-| ELO Competitive | 1468 🔺  (115)|
+| ELO Regular | 1139 🔻  (1279)|
+| ELO Competitive | 1468 🔺  (117)|
 | Total Matches | 101 |
 | Wins | 43 |
 | Losses | 58 |

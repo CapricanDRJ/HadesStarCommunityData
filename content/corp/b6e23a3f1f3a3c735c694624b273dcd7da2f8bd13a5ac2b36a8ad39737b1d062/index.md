@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:58 L:9 D:0 Bonus ✅ 50%
+description: W:58 L:9 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 28 - 10 **UKR Spase**
 date: 2025-05-10T09:26:10.000Z
@@ -21,7 +21,7 @@ date: 2025-05-10T09:26:10.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

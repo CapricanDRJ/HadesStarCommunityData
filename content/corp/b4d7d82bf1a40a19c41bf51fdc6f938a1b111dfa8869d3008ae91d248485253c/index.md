@@ -1,6 +1,6 @@
 ---
 title: ​骊珠洞天
-description: W:7 L:11 D:1 Bonus ✅ 
+description: W:7 L:11 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 6 - 0 **星域 **
 date: 2025-05-09T18:56:07.000Z
@@ -15,12 +15,12 @@ date: 2025-05-09T18:56:07.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (1076)|
-| ELO Competitive | 1301 🔺  (326)|
+| ELO Regular | 1168 🔺  (1079)|
+| ELO Competitive | 1301 🔺  (325)|
 | Total Matches | 19 |
 | Wins | 7 |
 | Losses | 11 |

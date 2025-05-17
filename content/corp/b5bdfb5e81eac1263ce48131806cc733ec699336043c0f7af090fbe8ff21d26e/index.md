@@ -1,6 +1,6 @@
 ---
 title: ​White Star Inc.
-description: W:7 L:11 D:0 Bonus ✅ 40%
+description: W:7 L:11 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 41 - 4 **\*СССР\***
 date: 2025-05-09T06:58:31.000Z
@@ -18,12 +18,12 @@ ffer experienced mentors on hand to help with regular WS and RS runs.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (981)|
-| ELO Competitive | 1230 🔺  (521)|
+| ELO Regular | 1174 🔺  (984)|
+| ELO Competitive | 1230 🔺  (524)|
 | Total Matches | 18 |
 | Wins | 7 |
 | Losses | 11 |

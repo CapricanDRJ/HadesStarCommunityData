@@ -1,6 +1,6 @@
 ---
 title: ​FURIA 2.0
-description: W:27 L:32 D:0 Bonus ✅ 38%
+description: W:27 L:32 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **Galactic Empire**
 date: 2025-05-09T21:05:05.000Z
@@ -16,11 +16,11 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (308)|
+| ELO Regular | 1244 🔺  (307)|
 | ELO Competitive | 1385 🔺  (191)|
 | Total Matches | 59 |
 | Wins | 27 |

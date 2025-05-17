@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:26 L:10 D:0 Bonus ✅ 36%
+description: W:26 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 20 - 2 **Space Marshalls**
 date: 2025-05-10T09:41:11.000Z
@@ -16,12 +16,12 @@ date: 2025-05-10T09:41:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1382 🔺  (87)|
-| ELO Competitive | 1450 🔺  (130)|
+| ELO Regular | 1382 🔺  (88)|
+| ELO Competitive | 1450 🔺  (132)|
 | Total Matches | 36 |
 | Wins | 26 |
 | Losses | 10 |

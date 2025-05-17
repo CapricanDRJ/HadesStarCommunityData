@@ -21,8 +21,8 @@ r〉南极星联盟成员
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1074 🔻  (1445)|
-| ELO Competitive | 1140 🔻  (1410)|
+| ELO Regular | 1074 🔻  (1448)|
+| ELO Competitive | 1140 🔻  (1414)|
 | Total Matches | 41 |
 | Wins | 10 |
 | Losses | 31 |

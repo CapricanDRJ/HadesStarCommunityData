@@ -1,6 +1,6 @@
 ---
 title: ​Кулак
-description: W:29 L:104 D:0 Bonus ✅ 50%
+description: W:29 L:104 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 2 - 47 **Polish Pirates**
 date: 2025-05-09T08:23:40.000Z
@@ -17,12 +17,12 @@ date: 2025-05-09T08:23:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1026 🔻  (1480)|
-| ELO Competitive | 1343 🔺  (251)|
+| ELO Regular | 1026 🔻  (1483)|
+| ELO Competitive | 1343 🔺  (253)|
 | Total Matches | 133 |
 | Wins | 29 |
 | Losses | 104 |

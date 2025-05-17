@@ -1,6 +1,6 @@
 ---
 title: ​Rogue One
-description: W:56 L:40 D:1 Bonus ✅ 42%
+description: W:56 L:40 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2025-05-10T10:51:08.000Z
@@ -18,12 +18,12 @@ us and Righteous Fury! ws every week,
 <br>
 
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (183)|
-| ELO Competitive | 1487 🔺  (97)|
+| ELO Regular | 1300 🔺  (184)|
+| ELO Competitive | 1487 🔺  (99)|
 | Total Matches | 97 |
 | Wins | 56 |
 | Losses | 40 |

@@ -1,6 +1,6 @@
 ---
 title: ​Brodudes Inc.
-description: W:84 L:26 D:1 Bonus ✅ 44%
+description: W:84 L:26 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 19 - 1 **украина№1**
 date: 2025-05-10T14:31:44.000Z
@@ -18,12 +18,12 @@ unication. <B>Discord required!</B> Newbies welcome!
 <br>
 
 ### [Discord](https://discord.gg/xhXh3DkNBW)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1438 🔺  (42)|
-| ELO Competitive | 1570 🔺  (48)|
+| ELO Competitive | 1570 🔺  (47)|
 | Total Matches | 111 |
 | Wins | 84 |
 | Losses | 26 |

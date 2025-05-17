@@ -1,9 +1,9 @@
 ---
 title: ​Hades’ galaxy
-description: W:15 L:5 D:1 Bonus ❌ 
+description: W:15 L:5 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 6 **Best UA West**
-date: 2025-05-11T08:23:29.000Z
+Summary: ↔️ 4 - 4 **ALPHA**
+date: 2025-05-16T16:23:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2025-05-11T08:23:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔻  (215)|
-| ELO Competitive | 1317 🔻  (300)|
-| Total Matches | 21 |
+| ELO Regular | 1285 🔺  (214)|
+| ELO Competitive | 1320 🔺  (295)|
+| Total Matches | 22 |
 | Wins | 15 |
 | Losses | 5 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746519809,1746035110,1745763269,1745582643,1745143864,1744998240,1744686252,1744230093,1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
+        let timestamps = [1746980588,1746519809,1746035110,1745763269,1745582643,1745143864,1744998240,1744686252,1744230093,1743758253,1743313477,1743201837,1742821795,1742646582,1742373999,1741939157,1741506746,1740998933,1740750230,1740554185,1739849766,1739405405];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2025/05/16 | 4-4 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2025/05/11 | 2-6 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
 | ❌ | 2025/05/05 | 0-8 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2025/05/02 | 2-1 | [神圣群星帝国](https://ws.tsl.rocks/corp/12f7f9ac2089354bdf775f46f0c4d77c32eccbfd2869d2d3bf93e88f4f23adce/) |
@@ -163,5 +164,5 @@ Corporation ID: a5161db8db3228457dcd60bba1f4edee3636f916b6d20b3fdedb04a4fb6f117e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746951809"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747412588"></span>
 </div>

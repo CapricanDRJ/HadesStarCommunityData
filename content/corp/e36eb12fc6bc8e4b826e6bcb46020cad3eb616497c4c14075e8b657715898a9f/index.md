@@ -1,6 +1,6 @@
 ---
 title: ​INFINITY STAR
-description: W:18 L:27 D:1 Bonus ✅ 38%
+description: W:18 L:27 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **Rogue Corp**
 date: 2025-05-09T11:44:01.000Z
@@ -16,12 +16,12 @@ Lost in Space...? Dann komm zu uns!
 <br>
 
 ### [Discord](https://discord.gg/qZFjFeg5wP)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔺  (1154)|
-| ELO Competitive | 1255 🔺  (436)|
+| ELO Regular | 1158 🔺  (1155)|
+| ELO Competitive | 1255 🔺  (437)|
 | Total Matches | 46 |
 | Wins | 18 |
 | Losses | 27 |

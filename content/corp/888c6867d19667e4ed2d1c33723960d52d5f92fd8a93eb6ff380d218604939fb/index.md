@@ -1,6 +1,6 @@
 ---
 title: ​ДИВЕРСАНТЫ
-description: W:92 L:18 D:1 Bonus ✅ 50%
+description: W:92 L:18 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 30 - 28 **Hellfire Club**
 date: 2025-05-10T07:20:59.000Z
@@ -20,7 +20,7 @@ date: 2025-05-10T07:20:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

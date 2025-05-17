@@ -1,9 +1,9 @@
 ---
 title: ​pérola negra 
-description: W:1 L:7 D:1 Bonus ❌ 
+description: W:2 L:7 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 1 - 7 **Lupus Regnum**
-date: 2025-05-11T16:29:20.000Z
+Summary: ✅ 3 - 0 **BlackDawn**
+date: 2025-05-17T14:29:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2025-05-11T16:29:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1275)|
-| ELO Competitive | 1148 🔻  (1375)|
-| Total Matches | 9 |
-| Wins | 1 |
+| ELO Regular | 1146 🔺  (1242)|
+| ELO Competitive | 1156 🔺  (1337)|
+| Total Matches | 10 |
+| Wins | 2 |
 | Losses | 7 |
 | Draws | 1 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746548960,1746057046,1745613300,1745144111,1743264786,1741455682,1736683331,1736210051,1735742349];
+        let timestamps = [1747060174,1746548960,1746057046,1745613300,1745144111,1743264786,1741455682,1736683331,1736210051,1735742349];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2025/05/17 | 3-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2025/05/11 | 1-7 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2025/05/05 | 1-6 | [Destroyer](https://ws.tsl.rocks/corp/a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613/) |
 | ❌ | 2025/04/30 | 1-3 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -150,5 +151,5 @@ Corporation ID: 731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746980960"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747492174"></span>
 </div>

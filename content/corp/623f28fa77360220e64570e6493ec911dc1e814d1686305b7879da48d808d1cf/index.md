@@ -1,6 +1,6 @@
 ---
 title: ​BrazilCorp.
-description: W:66 L:18 D:0 Bonus ✅ 42%
+description: W:66 L:18 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 43 - 7 **DTC**
 date: 2025-05-09T11:08:57.000Z
@@ -21,11 +21,11 @@ intensas nas Estrelas Brancas.
 <br>
 
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔺  (56)|
+| ELO Regular | 1415 🔺  (57)|
 | ELO Competitive | 1607 🔺  (33)|
 | Total Matches | 84 |
 | Wins | 66 |

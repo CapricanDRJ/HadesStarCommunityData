@@ -1,9 +1,9 @@
 ---
 title: ​AlSounT
-description: W:28 L:23 D:0 Bonus ❌ 10%
+description: W:28 L:24 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ✅ 37 - 4 **Interstellar**
-date: 2025-05-07T07:28:49.000Z
+Summary: ❌ 4 - 30 **Elysium**
+date: 2025-05-17T02:12:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2025-05-07T07:28:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (268)|
-| ELO Competitive | 1441 🔺  (140)|
-| Total Matches | 51 |
+| ELO Regular | 1254 🔻  (282)|
+| ELO Competitive | 1433 🔻  (149)|
+| Total Matches | 52 |
 | Wins | 28 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746170929,1745711937,1745684529,1745219038,1745216334,1744731625,1744730723,1744179303,1743497407,1743496206,1743048994,1743044488,1742570244,1742570244,1742123071,1741529304,1741062336,1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1747015926,1746170929,1745711937,1745684529,1745219038,1745216334,1744731625,1744730723,1744179303,1743497407,1743496206,1743048994,1743044488,1742570244,1742570244,1742123071,1741529304,1741062336,1740549379,1739634022,1739120780,1738498117,1738062375,1737474006,1736934577,1736435984,1735916935,1734537475,1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/17 | 4-30 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2025/05/07 | 37-4 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2025/05/01 | 0-17 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ✅ | 2025/05/01 | 24-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
@@ -202,5 +203,5 @@ Corporation ID: b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746602929"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747447926"></span>
 </div>

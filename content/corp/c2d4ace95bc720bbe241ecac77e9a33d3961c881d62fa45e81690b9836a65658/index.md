@@ -1,9 +1,9 @@
 ---
 title: ​青丘湖
-description: W:17 L:15 D:0 Bonus ❌ 8%
+description: W:17 L:17 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 7 - 24 **Cerulean Star**
-date: 2025-05-11T10:48:42.000Z
+Summary: ❌ 8 - 14 **9\-Й СКОРПИОН**
+date: 2025-05-16T17:06:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 2025-05-11T10:48:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (306)|
-| ELO Competitive | 1357 🔻  (231)|
-| Total Matches | 32 |
+| ELO Regular | 1213 🔻  (460)|
+| ELO Competitive | 1346 🔻  (249)|
+| Total Matches | 34 |
 | Wins | 17 |
-| Losses | 15 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746528522,1746524316,1746094906,1746068463,1745625319,1745320009,1745168258,1744796828,1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
+        let timestamps = [1746983171,1746969043,1746528522,1746524316,1746094906,1746068463,1745625319,1745320009,1745168258,1744796828,1744729521,1744294092,1743862240,1743852320,1743420175,1742874991,1742399248,1741963494,1741518784,1741062336,1740527746,1740015971,1739549831,1739114766,1738678128,1738237958,1728133791,1727686309,1726286677,1724131197,1723213116,1722744020,1715898970,1715081737];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/16 | 8-14 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
+| ❌ | 2025/05/16 | 0-11 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2025/05/11 | 7-24 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2025/05/11 | 0-13 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2025/05/06 | 35-3 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
@@ -184,5 +186,5 @@ Corporation ID: c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746960522"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747415171"></span>
 </div>

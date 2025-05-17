@@ -1,6 +1,6 @@
 ---
 title: ​Stellar Exports
-description: W:81 L:57 D:0 Bonus ✅ 48%
+description: W:81 L:57 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 35 **仙女座星雲**
 date: 2025-05-09T09:18:46.000Z
@@ -25,11 +25,11 @@ Discord preferred nBrqgsV
 <br>
 
 ### [Discord](https://discord.gg/nBrqgsV)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔻  (180)|
+| ELO Regular | 1302 🔻  (181)|
 | ELO Competitive | 1588 🔺  (41)|
 | Total Matches | 138 |
 | Wins | 81 |

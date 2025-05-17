@@ -1,9 +1,9 @@
 ---
 title: ​星系联盟
-description: W:1 L:2 D:2 Bonus ❌ 
+description: W:1 L:3 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 11 **💮問鼎無垠💮**
-date: 2025-05-06T06:37:01.000Z
+Summary: ❌ 0 - 22 **PODER ETERNO**
+date: 2025-05-16T15:22:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-05-06T06:37:01.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (666)|
-| ELO Competitive | 1196 🔻  (761)|
-| Total Matches | 5 |
+| ELO Regular | 1175 🔻  (967)|
+| ELO Competitive | 1182 🔻  (1098)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1746081421,1745529399,1744560602,1736455624,1735896494];
+        let timestamps = [1746976951,1746081421,1745529399,1744560602,1736455624,1735896494];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2025/05/16 | 0-22 | [PODER ETERNO](https://ws.tsl.rocks/corp/57d0f28e0092febc8df34805f3199249e0890faa0381ef2f14065fd3c39ec2b1/) |
 | ❌ | 2025/05/06 | 2-11 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ↔️ | 2025/04/29 | 0-0 | [the kings](https://ws.tsl.rocks/corp/e5401c31454641df970c76a211cb6fa604fcad47f1974d42db317169a796b1cc/) |
 | ↔️ | 2025/04/18 | 0-0 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
@@ -146,5 +147,5 @@ Corporation ID: 37905a18547cf81d626fe70c3f5d77abd0fe5fc8776a1443504d2007cd0d8ad9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1746513421"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1747408951"></span>
 </div>
