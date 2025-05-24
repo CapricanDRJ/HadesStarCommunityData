@@ -1,0 +1,154 @@
+---
+title: ​Destroyer
+description: W:6 L:1 D:0 Bonus ✅ 
+image: ./favicon.png
+Summary: ✅ 15 - 0 **Disintegrators**
+date: 2025-05-19T19:28:39.000Z
+---
+<head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
+
+```
+
+```
+<br>
+
+### Whitestar Bonus ✅ 
+
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1272 🔺  (240)|
+| ELO Competitive | 1282 🔺  (369)|
+| Total Matches | 7 |
+| Wins | 6 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 6 |
+| Flagship | 0 |
+
+---
+
+### Whitestar Match Day
+
+This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+
+<!-- Create a canvas element where the chart will be rendered -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1747250919,1746798358,1746057046,1745589556,1745054660,1744522474,1743978256];
+
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+                data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: fontColor
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: fontColor
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
+    
+---
+
+---
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ✅ | 2025/05/19 | 15-0 | [Disintegrators](https://ws.tsl.rocks/corp/cbdef8da60308e24e459a21944778e7c06fa40927f67ecbbf136e3c899f717ae/) |
+| ✅ | 2025/05/14 | 10-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
+| ✅ | 2025/05/05 | 6-1 | [pérola negra ](https://ws.tsl.rocks/corp/731b9063ad91473ffe9bbd2721ce5b77e0774b482c7d88033ce2ba6f834b535a/) |
+| ✅ | 2025/04/30 | 8-0 | [Draconis](https://ws.tsl.rocks/corp/90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d/) |
+| ✅ | 2025/04/24 | 11-0 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
+| ✅ | 2025/04/18 | 9-0 | [方星集团](https://ws.tsl.rocks/corp/6e29868db27043e07c83b3dbde6f5982a9bad1b7857a5ee1ef05e8b9a6d245c0/) |
+| ❌ | 2025/04/11 | 2-4 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
+
+---
+Corporation ID: a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="/assets/localtime.js"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="1747682919"></span>
+</div>
