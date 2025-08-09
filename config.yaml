@@ -1,0 +1,118 @@
+baseURL: "https://ws.tsl.rocks/"
+title: "Hades' Star Resources"
+languageCode: "en-us"
+theme: "hugo-PaperMod"
+contentDir: "content"
+publishDir: "docs"
+enableEmoji: true
+mainsections: ["home", "corp", "search", "players"]
+env: "production"
+pagination:
+  pagerSize: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  defaultTheme: dark
+  search: true
+  ShowShareButtons: true
+  homeInfoParams:
+    Title: "Hades' Star Resources"
+    Content: "Several community projects related to the Hades' Star video game.<br>This site could be better, if you are a web developer who would like to make that happen, please join us on discord."
+  socialIcons:
+    - name: github
+      title: View Source on GitHub
+      url: "https://github.com/CapricanDRJ/HadesStarCommunityData"
+    - name: discord
+      title: WS Community Leaderboard
+      url: "https://discord.gg/p588eHaFqh"
+  profileMode:
+    enabled: false
+    title: "Hades Star Community Data"
+  description: "Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX)."
+  tagline: "Hades' Star Community Data"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink"]
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: corp
+      name: Corporations
+      url: /corp/
+      weight: 2
+    - identifier: players
+      name: Players
+      url: /players/
+      weight: 2
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 3
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 4
+    - identifier: top100
+      name: Top 100
+      url: /top100/
+      weight: 5
+    - identifier: comp100
+      name: Comp 100
+      url: /comp100/
+      weight: 5
+    - identifier: scanning
+      name: Scanning
+      url: /scanning/
+      weight: 5
+    - identifier: bonus
+      name: Bonus
+      url: /bonus/
+      weight: 10
+    - identifier: relics100
+      name: Relics 100
+      url: /relics100/
+      weight: 10
+    - identifier: win100
+      name: Win 100
+      url: /win100/
+      weight: 10
+    - identifier: lose100
+      name: Lose 100
+      url: /lose100/
+      weight: 10
+    - identifier: trade
+      name: Trade
+      url: /trade/
+      weight: 10
+    - identifier: avgRelics
+      name: Avg Relics
+      url: /avgRelics/
+      weight: 10
+    - identifier: streak
+      name: Streak
+      url: /streak/
+      weight: 10
