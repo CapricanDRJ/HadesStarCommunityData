@@ -1,0 +1,109 @@
+
+<div style="width: 100%; max-width: 800px; height: 150px;">
+  <canvas id="matchChart"></canvas>
+</div>
+<div style="width: 100%; max-width: 800px; height: 150px;">
+  <canvas id="dayChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const fontColor = 'rgba(64, 128, 160, 1)';
+
+    const matchCtx = document.getElementById('matchChart').getContext('2d');
+    new Chart(matchCtx, {
+      type: 'line',
+      data: {
+        labels: ["2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02","2025-03","2025-04","2025-05","2025-06","2025-07","2025-08","2025-09","2025-10","2025-11","2025-12","2026-01"],
+        datasets: [{
+          label: 'Whitestars',
+          data: [952,1065,1164,1058,1053,999,965,916,989,967,941,935,928,902,942,882,966,977,959,969,986,917,917,1003,906,1116,1051],
+          borderColor: 'rgba(0, 191, 255, 1)',
+          backgroundColor: 'rgba(0, 191, 255, 0.2)',
+          tension: 0.3,
+          fill: true
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            ticks: { color: fontColor },
+            grid: { color: 'rgba(255, 255, 255, 0.1)' }
+          },
+          y: {
+            beginAtZero: true,
+            ticks: { color: fontColor },
+            grid: { color: 'rgba(255, 255, 255, 0.1)' }
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          title: {
+            display: true,
+            text: 'Whitestars by Year/Month',
+            color: fontColor,
+            font: { size: 16, weight: 'bold' }
+          }
+        }
+      }
+    });
+
+    const dayCtx = document.getElementById('dayChart').getContext('2d');
+    new Chart(dayCtx, {
+      type: 'bar',
+      data: {
+        labels: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        datasets: [{
+          label: 'Match Frequency',
+          data: [21,31,36,30,34,20,13],
+          backgroundColor: [
+            'rgba(0, 191, 255, 0.2)',
+            'rgba(135, 206, 250, 0.2)',
+            'rgba(173, 216, 230, 0.2)',
+            'rgba(214, 236, 243, 0.2)',
+            'rgba(173, 216, 230, 0.2)',
+            'rgba(135, 206, 250, 0.2)',
+            'rgba(0, 191, 255, 0.2)'
+          ],
+          borderColor: [
+            'rgba(0, 191, 255, 1)',
+            'rgba(135, 206, 250, 1)',
+            'rgba(173, 216, 230, 1)',
+            'rgba(214, 236, 243, 1)',
+            'rgba(173, 216, 230, 1)',
+            'rgba(135, 206, 250, 1)',
+            'rgba(0, 191, 255, 1)'
+          ],
+          borderWidth: 1,
+          minBarLength: 5
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            ticks: { color: fontColor },
+            grid: { display: false }
+          },
+          y: {
+            beginAtZero: true,
+            ticks: { color: fontColor },
+            grid: { color: 'rgba(255, 255, 255, 0.1)' }
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          title: {
+            display: true,
+            text: 'Whitestar Match Days Last Week',
+            color: fontColor,
+            font: { size: 16, weight: 'bold' }
+          }
+        }
+      }
+    });
+  });
+</script>
