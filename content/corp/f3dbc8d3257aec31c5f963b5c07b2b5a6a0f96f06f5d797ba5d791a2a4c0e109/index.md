@@ -1,0 +1,169 @@
+---
+title: ​星月挽歌
+description: W:5 L:8 D:4 Bonus ❌ 
+image: ./favicon.png
+Summary: ❌ 0 - 26 **星际联邦**
+date: 2026-06-24T05:46:11.000Z
+---
+<head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
+
+```
+
+```
+<br>
+
+### Whitestar Bonus ❌ 
+
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1189 🔻  (-9)|
+| ELO Competitive | 1226 🔻  (-8)|
+| Total Matches | 17 |
+| Wins | 5 |
+| Losses | 8 |
+| Draws | 4 |
+| Streak Record | 2 |
+| Flagship | 0 |
+
+---
+
+### Whitestar Match Day
+
+This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+
+<!-- Create a canvas element where the chart will be rendered -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1781847971,1781262428,1780823729,1780332318,1779861223,1778938246,1778423648,1777918533,1777448356,1777009688,1774522513,1773993565,1752894403,1752459590,1751705127,1751005320,1750398315];
+
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+                data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: fontColor
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: fontColor
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
+    
+---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) | 1 | 0 | 1 | 2 |
+| [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) | 1 | 1 | 0 | 2 |
+
+---
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ❌ | 2026/06/24 | 0-26 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
+| ✅ | 2026/06/17 | 11-2 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
+| ✅ | 2026/06/12 | 12-1 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
+| ❌ | 2026/06/06 | 0-13 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
+| ✅ | 2026/06/01 | 3-0 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) |
+| ↔️ | 2026/05/21 | 0-0 | [红巨星联盟](https://ws.tsl.rocks/corp/872aa66eedf58950cc95e01facf71c38a9bc09e7b4d5dcd1d5af928f490d6632/) |
+| ↔️ | 2026/05/15 | 3-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
+| ❌ | 2026/05/09 | 2-24 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
+| ✅ | 2026/05/04 | 13-0 | [The Killers](https://ws.tsl.rocks/corp/67cc028d0db771a5c889d615f9746561896830087b7b26ff3557a88e16c6b512/) |
+| ❌ | 2026/04/29 | 5-17 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
+| ❌ | 2026/03/31 | 0-10 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
+| ↔️ | 2026/03/25 | 3-3 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
+| ↔️ | 2025/07/24 | 6-6 | [新星工程分团](https://ws.tsl.rocks/corp/32118ce6bd19b8bf3c71207205af9e433ae29cc8a80ebde0a608e508b6c37895/) |
+| ❌ | 2025/07/19 | 3-11 | [中央山脈礦工勞動部](https://ws.tsl.rocks/corp/c76c16c18a4d8c5a2d28b213f59db208dec670f2f230700e69fd411c8f962ea2/) |
+| ❌ | 2025/07/10 | 0-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
+| ❌ | 2025/07/02 | 3-10 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
+| ✅ | 2025/06/25 | 10-0 | [TalAsmara](https://ws.tsl.rocks/corp/b26a65cbae3e4bac814b3cd1672ea9abd96bbc5aad7a605292275a394c2485f0/) |
+
+---
+Corporation ID: f3dbc8d3257aec31c5f963b5c07b2b5a6a0f96f06f5d797ba5d791a2a4c0e109
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="/assets/localtime.js"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="1782279971"></span>
+</div>
