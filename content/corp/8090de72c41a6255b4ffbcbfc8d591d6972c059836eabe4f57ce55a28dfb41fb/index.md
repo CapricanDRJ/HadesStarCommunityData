@@ -1,0 +1,204 @@
+---
+title: ​红色太阳
+description: W:33 L:17 D:0 Bonus ✅ 
+image: ./favicon.png
+Summary: ✅ 54 - 0 **Dumpster Fire**
+date: 2026-07-22T23:11:27.000Z
+---
+<head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
+
+```
+
+```
+<br>
+
+### Whitestar Bonus ✅ 
+
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1357 🔺  (5)|
+| ELO Competitive | 1560 🔺  (10)|
+| Total Matches | 50 |
+| Wins | 33 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+| Flagship | 0 |
+
+---
+
+### Whitestar Match Day
+
+This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+
+<!-- Create a canvas element where the chart will be rendered -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1784329887,1784328943,1783872333,1783850697,1783413881,1783382944,1782952429,1782904653,1782471437,1782468432,1782027045,1781583884,1781149451,1780706928,1780271035,1779836893,1779339013,1779335709,1778851386,1778332547,1777874367,1777432735,1776818615,1776314185,1775804344,1775317323,1774847749,1774285307,1773759528,1773325692,1772876253,1771978270,1771978270,1771428179,1771404144,1770918032,1770467971,1770023622,1769563373,1769054891,1768605250,1768170657,1767711261,1767244944,1766809627,1766791905,1766352635,1765910733,1765437755,1764991858];
+
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+                data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: fontColor
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: fontColor
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
+    
+---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) | 1 | 1 | 0 | 2 |
+| [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) | 2 | 0 | 0 | 2 |
+| [Star Union](https://ws.tsl.rocks/corp/16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be/) | 0 | 2 | 0 | 2 |
+
+---
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ✅ | 2026/07/22 | 54-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
+| ✅ | 2026/07/22 | 13-0 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
+| ❌ | 2026/07/17 | 3-10 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
+| ✅ | 2026/07/17 | 23-3 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
+| ❌ | 2026/07/12 | 3-24 | [Новый Мир](https://ws.tsl.rocks/corp/5563c95f687e98cc5e151634915ffa5e0f4bb39709901c5acc52e34094f19409/) |
+| ✅ | 2026/07/12 | 6-3 | [Dark Monarchs](https://ws.tsl.rocks/corp/c23ec9ebc110eb3dd1c56d100e206f8e421ad61de0748f4c6229e6297d736b4c/) |
+| ❌ | 2026/07/07 | 3-5 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
+| ✅ | 2026/07/06 | 11-7 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
+| ✅ | 2026/07/01 | 29-3 | [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) |
+| ❌ | 2026/07/01 | 2-6 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
+| ✅ | 2026/06/26 | 7-4 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
+| ✅ | 2026/06/21 | 31-0 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
+| ✅ | 2026/06/16 | 39-0 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
+| ✅ | 2026/06/11 | 36-1 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
+| ✅ | 2026/06/05 | 27-2 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
+| ❌ | 2026/05/31 | 3-17 | [Yishun CC](https://ws.tsl.rocks/corp/74e61ec5d74099cf9d2b44f45371203030d742671222f17f41300dc23594599b/) |
+| ✅ | 2026/05/26 | 23-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
+| ✅ | 2026/05/26 | 14-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
+| ✅ | 2026/05/20 | 25-23 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
+| ✅ | 2026/05/14 | 14-7 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
+| ❌ | 2026/05/09 | 6-17 | [Cosmosia](https://ws.tsl.rocks/corp/56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38/) |
+| ✅ | 2026/05/04 | 33-0 | [琼霄阁](https://ws.tsl.rocks/corp/70c83552ab1caa2af7d4dc63cedb7cfeb74c8c83def002c92cfe59dbfbf2f33f/) |
+| ❌ | 2026/04/27 | 13-17 | [Space Potatoes](https://ws.tsl.rocks/corp/8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02/) |
+| ❌ | 2026/04/21 | 5-17 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
+| ❌ | 2026/04/15 | 14-17 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
+| ✅ | 2026/04/09 | 9-0 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
+| ✅ | 2026/04/04 | 4-3 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
+| ❌ | 2026/03/28 | 3-20 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
+| ✅ | 2026/03/22 | 3-1 | [The Hatchery](https://ws.tsl.rocks/corp/cfa094fb1a12713c7944637df597385f6adc131dbe9ec59e6957ae3b5b161aa1/) |
+| ✅ | 2026/03/17 | 5-0 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
+| ❌ | 2026/03/12 | 3-17 | [Star Union](https://ws.tsl.rocks/corp/16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be/) |
+| ❌ | 2026/03/02 | 3-29 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
+| ✅ | 2026/03/02 | 4-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
+| ✅ | 2026/02/23 | 14-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
+| ✅ | 2026/02/23 | 23-0 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
+| ✅ | 2026/02/17 | 31-0 | [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484/) |
+| ✅ | 2026/02/12 | 24-2 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
+| ❌ | 2026/02/07 | 0-8 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
+| ✅ | 2026/02/02 | 25-2 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
+| ❌ | 2026/01/27 | 3-14 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
+| ✅ | 2026/01/21 | 25-0 | [球球大作战](https://ws.tsl.rocks/corp/4e012bc708c48472962a77524dda86fb89147b8f06c2a0aa8343f0056c6b1439/) |
+| ✅ | 2026/01/16 | 21-0 | [Lemmejustwin\!](https://ws.tsl.rocks/corp/3df061e37044f80f90566ba046b4e65cf8aaa94927d03f0a134b25de37300899/) |
+| ✅ | 2026/01/11 | 21-0 | [ua online](https://ws.tsl.rocks/corp/44b08e73701f4c4f27862a999db8466f21cb2d041006906eb9d101fe30bdbc91/) |
+| ✅ | 2026/01/06 | 18-15 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) |
+| ❌ | 2026/01/01 | 1-10 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
+| ❌ | 2025/12/31 | 0-8 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
+| ❌ | 2025/12/26 | 4-27 | [Star Union](https://ws.tsl.rocks/corp/16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be/) |
+| ✅ | 2025/12/21 | 15-0 | [IMPERIO](https://ws.tsl.rocks/corp/de0f6b2eb6d092d67bb8ebf5ab07b73659f7d948af7349782941a06b382cbbd3/) |
+| ✅ | 2025/12/16 | 3-2 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
+| ✅ | 2025/12/11 | 4-1 | [One True Empire](https://ws.tsl.rocks/corp/7e29d1af231dce04c39b39f2cd8e189806f7d6a74a9199861598c2e27fdc5029/) |
+
+---
+Corporation ID: 8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="/assets/localtime.js"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="1784761887"></span>
+</div>

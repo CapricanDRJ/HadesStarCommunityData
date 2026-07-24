@@ -1,0 +1,194 @@
+---
+title: ​Solar Corp
+description: W:36 L:5 D:0 Bonus ✅ 
+image: ./favicon.png
+Summary: ✅ 15 - 3 **元素联邦**
+date: 2026-07-21T00:57:26.000Z
+---
+<head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
+
+```
+
+```
+<br>
+
+### Whitestar Bonus ✅ 
+
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1450 🔺  (14)|
+| ELO Competitive | 1548 🔺  (15)|
+| Total Matches | 41 |
+| Wins | 36 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 17 |
+| Flagship | 0 |
+
+---
+
+### Whitestar Match Day
+
+This chart shows the frequency of days of the week when whitestars were matched in your local timezone
+
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+
+<!-- Create a canvas element where the chart will be rendered -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
+
+        const fontColor = 'rgba(64, 128, 160, 1)';
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+                data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(214, 236, 243, 0.2)', // Custom light blue (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(214, 236, 243, 1)',
+                    'rgba(173, 216, 230, 1)',
+                    'rgba(135, 206, 250, 1)',
+                    'rgba(0, 191, 255, 1)'
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            color: fontColor
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: fontColor
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
+    
+---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) | 2 | 0 | 0 | 2 |
+| [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 1 | 0 | 2 |
+
+---
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ✅ | 2026/07/21 | 15-3 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
+| ✅ | 2026/07/14 | 19-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
+| ✅ | 2026/07/07 | 6-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
+| ✅ | 2026/06/30 | 20-1 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
+| ✅ | 2026/06/23 | 22-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
+| ✅ | 2026/06/16 | 12-1 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) |
+| ❌ | 2026/06/09 | 4-5 | [Кузня Лютых](https://ws.tsl.rocks/corp/21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721/) |
+| ✅ | 2026/06/02 | 18-0 | [U\.P\.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
+| ✅ | 2026/05/25 | 19-0 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
+| ❌ | 2026/05/18 | 3-10 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
+| ✅ | 2026/05/12 | 25-0 | [Phoenix Kiwis](https://ws.tsl.rocks/corp/1733c82f8ca13bdcc93f58688926776c3551305ab9ba3e837a094a2215bdafec/) |
+| ✅ | 2026/05/05 | 14-2 | [中华人民共和国](https://ws.tsl.rocks/corp/2acf0be46829b53620f0aa02fc71aaa7e3e9c54d9446951bb26288c05727ae84/) |
+| ❌ | 2026/04/28 | 3-7 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
+| ✅ | 2026/04/21 | 17-2 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
+| ✅ | 2026/04/14 | 15-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
+| ✅ | 2026/04/07 | 19-1 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
+| ✅ | 2026/03/31 | 7-4 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
+| ✅ | 2026/03/24 | 16-0 | [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb/) |
+| ✅ | 2026/03/17 | 19-0 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
+| ✅ | 2026/03/10 | 10-1 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
+| ✅ | 2026/03/03 | 13-0 | [墨痕](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
+| ✅ | 2026/02/24 | 9-3 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
+| ✅ | 2026/02/17 | 5-3 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
+| ✅ | 2026/02/04 | 12-0 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
+| ✅ | 2026/01/26 | 11-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
+| ✅ | 2026/01/13 | 18-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
+| ✅ | 2026/01/07 | 11-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
+| ✅ | 2026/01/02 | 10-0 | [RDR2](https://ws.tsl.rocks/corp/5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd/) |
+| ✅ | 2025/12/27 | 17-1 | [龙的传人分团](https://ws.tsl.rocks/corp/fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc/) |
+| ✅ | 2025/12/22 | 19-0 | [Gaters](https://ws.tsl.rocks/corp/fac0e8b8cffd044563ab5df71f1cc417f9267afb61e865a4dafa19713ae77394/) |
+| ❌ | 2025/12/16 | 4-16 | [Crucible](https://ws.tsl.rocks/corp/778178a7255ba7f4c8e2fdeb41fb777fb90ecf6e84a3ba79431f055f869521c6/) |
+| ✅ | 2025/12/04 | 17-0 | [Star War School](https://ws.tsl.rocks/corp/bc547471cfb7aa2682ad1959c806ce65b7b97b8f8749723998cce3c740734a54/) |
+| ✅ | 2025/11/29 | 14-3 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
+| ✅ | 2025/11/24 | 8-0 | [The Turtles](https://ws.tsl.rocks/corp/91b979bfc3c7fe8f6e58d58bd2feac8f8deba5a5bfb6c9ea60885c2b37fb2a0a/) |
+| ✅ | 2025/11/18 | 17-0 | [Ouacearean](https://ws.tsl.rocks/corp/fa8806a0316f6a4eff4477d2dd0e3f3f556d3234e4c9c30444a6e20393e0199f/) |
+| ❌ | 2025/11/11 | 2-9 | [Stargate Sg7](https://ws.tsl.rocks/corp/f0fadd303b5cb5e09aa473359c0f11f4e077acf35ab94cef2c850d3fa8162e81/) |
+| ✅ | 2025/11/04 | 11-2 | [U\.N\.S\.C](https://ws.tsl.rocks/corp/70dea9b99e388e4ecc15b483cde11adecf8126fc5fd8976564ee112bd466c1ac/) |
+| ✅ | 2025/10/26 | 14-0 | [The Confederacy](https://ws.tsl.rocks/corp/8dc2bdc63e47ab6f518cb6e87ad697b1f120db8119441bf8a4038e711c206340/) |
+| ✅ | 2025/10/14 | 11-0 | [Darknova](https://ws.tsl.rocks/corp/2badefc535747c4b2d431ed2e3d48983575a349ac4d5c361576a24521b0accf7/) |
+| ✅ | 2025/10/02 | 11-1 | [One True Empire](https://ws.tsl.rocks/corp/7e29d1af231dce04c39b39f2cd8e189806f7d6a74a9199861598c2e27fdc5029/) |
+| ✅ | 2025/09/25 | 10-0 | [Raine](https://ws.tsl.rocks/corp/db92e9f0141e3e56a92eef374a7cfeb204852318338a71b9de16edb1058871c5/) |
+
+---
+Corporation ID: 48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="/assets/localtime.js"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="1784595446"></span>
+</div>
