@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "" B ""
+title: "\" B \""
 description: "ws: 1 μ: 25.45"
 ---
 - **WhiteStars**: 1

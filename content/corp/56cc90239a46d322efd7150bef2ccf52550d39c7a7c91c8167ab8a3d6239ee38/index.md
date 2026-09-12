@@ -1,6 +1,6 @@
 ---
 title: ​Cosmosia
-description: W:8 L:2 D:0 Bonus ✅ 34%
+description: W:8 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 24 - 13 **Spanish Fury**
 date: 2026-09-05T13:35:12.000Z
@@ -15,7 +15,7 @@ date: 2026-09-05T13:35:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
