@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:69 L:37 D:2 Bonus ✅ 44%
+description: W:69 L:37 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 27 - 3 **First Legion**
 date: 2026-09-05T21:07:46.000Z
@@ -17,7 +17,7 @@ date: 2026-09-05T21:07:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

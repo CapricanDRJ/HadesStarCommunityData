@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-09-12T18:55:40.371Z
+date: 2026-09-12T21:55:40.285Z
 summary: "Corporation directory"
 ---
 
@@ -151,7 +151,7 @@ summary: "Corporation directory"
 | [BrbroZ](https://ws.tsl.rocks/corp/30b4148a5831c38d4e258cd0a3e21598dcb3cab51ae585e7035c8900b836d2ba/) | 1189 | 1207 | 11 |
 | [Brethren Court](https://ws.tsl.rocks/corp/58ce9bed114bde298d77f20adf5584e22292e24f89dd59298051b01d66212ad4/) | 1287 | 1298 | 5 |
 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) | 873 | 1334 | 183 |
-| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 1415 | 1918 | 296 |
+| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 1408 | 1919 | 298 |
 | [brit boys](https://ws.tsl.rocks/corp/1b37d746045178a34153b75c717add2f45fe50a4e280d1e5a8d7482ff700d2e8/) | 1199 | 1199 | 2 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 1389 | 1558 | 127 |
 | [BSO Academy](https://ws.tsl.rocks/corp/d032f0193d9b3acb579e4e6525a5c8b68f5ec9526dd9644bd45fda747013e876/) | 1355 | 1369 | 15 |
@@ -180,7 +180,7 @@ summary: "Corporation directory"
 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) | 1290 | 1339 | 16 |
 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1323 | 1557 | 56 |
 | [Cereal Grapest](https://ws.tsl.rocks/corp/f661ce364406ed8915f920351e6567e15b1925ac07127273b42dca69998ef888/) | 1191 | 1193 | 1 |
-| [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) | 1242 | 1262 | 6 |
+| [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) | 1234 | 1261 | 7 |
 | [Cerulean Nebula](https://ws.tsl.rocks/corp/b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81/) | 1232 | 1286 | 25 |
 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 1456 | 1711 | 126 |
 | [challenger corp](https://ws.tsl.rocks/corp/7c39adae75191c15a3bab070d08a4cf21efb3b5ec37d69363b7c1060f272d80d/) | 1220 | 1243 | 16 |
@@ -472,7 +472,7 @@ summary: "Corporation directory"
 | [Green Renegade](https://ws.tsl.rocks/corp/5bcda6e468d8e8f48d7a13e1d432ee0017e369e5a06a9b194be44292a3daa395/) | 1186 | 1187 | 1 |
 | [Greener pasture](https://ws.tsl.rocks/corp/9b996e09b50face65e7ebfca3b23b8810cf734165a6ee3331fb3404de5a35eca/) | 1217 | 1219 | 1 |
 | [Gregycool](https://ws.tsl.rocks/corp/f3d8710927bd368f1c3120cd4d2f0b3130f4ba478e4bdee0555ced460ba56b1a/) | 1186 | 1186 | 1 |
-| [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1426 | 1999 | 180 |
+| [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1441 | 2011 | 181 |
 | [Gulinga](https://ws.tsl.rocks/corp/63ab273ab0cfc2919038a10f1641498d1beb4496658f7c5a0fee55c2518815fe/) | 1171 | 1171 | 2 |
 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 1186 | 1560 | 134 |
 | [Gwiezdna Horda](https://ws.tsl.rocks/corp/f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18/) | 1255 | 1255 | 4 |

@@ -52,6 +52,99 @@ searchHidden: true
 
     <table>
         <tr>
+            <th colspan="4" class="username-header">Hatter [Cerulean Star]</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>5</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS10</td>
+                    <td>250%</td>
+                </tr>
+            
+                <tr>
+                    <td>7</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS10</td>
+                    <td>250%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS10</td>
+                    <td>250%</td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS10</td>
+                    <td>250%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS10</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS8</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS10</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS8</td>
+                    <td>220%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/1400385036519346296">Hade’s Research Station [ HRS ]</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">Mandrax 🇷🇸 [Warriorlords]</th>
         </tr>
         <tr>
