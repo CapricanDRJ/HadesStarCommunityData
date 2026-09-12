@@ -1,6 +1,6 @@
 ---
 title: ​Nebulae Traders
-description: W:50 L:107 D:6 Bonus ✅ 46%
+description: W:50 L:107 D:6 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **Grand Mechanism**
 date: 2026-09-05T15:20:23.000Z
@@ -16,7 +16,7 @@ date: 2026-09-05T15:20:23.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

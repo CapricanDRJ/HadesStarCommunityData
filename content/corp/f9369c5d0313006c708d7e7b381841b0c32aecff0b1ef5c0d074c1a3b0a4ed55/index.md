@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人
-description: W:36 L:42 D:3 Bonus ✅ 42%
+description: W:36 L:42 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **Aeon**
 date: 2026-09-05T14:10:16.000Z
@@ -15,7 +15,7 @@ date: 2026-09-05T14:10:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
