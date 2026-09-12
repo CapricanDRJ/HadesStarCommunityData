@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Апофигиоз"
-description: "ws: 9 μ: 24.54"
+description: "ws: 10 μ: 24.78"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 9
-- **Rating**: 0.52
-- **μ**: 24.54  
-- **σ**: 8.01
-- W: 5, L: 4, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 10
+- **Rating**: 0.81
+- **μ**: 24.78  
+- **σ**: 7.99
+- W: 5, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 24.54"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 9 |
+| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 24.54"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-12 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 3-39 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-23 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 16-11 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | 2026-03-14 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 16-26 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | 2026-02-28 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 4-15 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |

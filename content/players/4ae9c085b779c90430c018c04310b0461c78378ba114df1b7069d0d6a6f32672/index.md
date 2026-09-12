@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "IXL.Serega-56xXx"
-description: "ws: 56 μ: 33.91"
+description: "ws: 57 μ: 34.11"
 ---
-- **WhiteStars**: 56
-- **Eligible**: 36
-- **Rating**: 11.40
-- **μ**: 33.91  
-- **σ**: 7.51
-- W: 52, L: 4, T: 0
+- **WhiteStars**: 57
+- **Eligible**: 37
+- **Rating**: 11.62
+- **μ**: 34.11  
+- **σ**: 7.49
+- W: 53, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 56 μ: 33.91"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 36 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 37 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 56 μ: 33.91"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-12 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 39-3 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2026-09-06 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 26-6 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-08-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 3-19 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | 2026-08-22 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 32-1 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
