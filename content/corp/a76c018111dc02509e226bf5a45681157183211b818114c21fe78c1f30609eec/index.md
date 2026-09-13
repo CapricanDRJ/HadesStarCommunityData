@@ -1,6 +1,6 @@
 ---
 title: ​Mantle
-description: W:9 L:3 D:0 Bonus ✅ 32%
+description: W:9 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **testims**
 date: 2026-09-06T09:11:51.000Z
@@ -15,7 +15,7 @@ date: 2026-09-06T09:11:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

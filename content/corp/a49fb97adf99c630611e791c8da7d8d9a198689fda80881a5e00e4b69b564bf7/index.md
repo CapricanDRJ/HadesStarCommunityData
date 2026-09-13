@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mars
-description: W:119 L:107 D:3 Bonus ✅ 52%
+description: W:119 L:107 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 7 - 19 **UKR Spase**
 date: 2026-09-12T11:13:54.000Z
@@ -18,7 +18,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

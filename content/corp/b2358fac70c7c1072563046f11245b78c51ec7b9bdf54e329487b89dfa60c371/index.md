@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:18 L:2 D:0 Bonus ❌ 8%
+description: W:19 L:2 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **testims**
-date: 2026-09-06T06:21:38.000Z
+Summary: ✅ 17 - 5 **Lupus Regnum**
+date: 2026-09-13T08:15:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-09-06T06:21:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (9)|
-| ELO Competitive | 1355 🔺  (9)|
-| Total Matches | 20 |
-| Wins | 18 |
+| ELO Regular | 1374 🔺  (8)|
+| ELO Competitive | 1379 🔺  (24)|
+| Total Matches | 21 |
+| Wins | 19 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/13 | 17-5 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/09/06 | 21-0 | [testims](https://ws.tsl.rocks/corp/2590dd84965e5423ba4a7f6d8d1f21fa9c9a6efd98027939eacdf7b1462d9447/) |
 | ✅ | 2026/09/06 | 10-1 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ✅ | 2026/08/30 | 13-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
@@ -168,5 +169,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788675698"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789287347"></span>
 </div>

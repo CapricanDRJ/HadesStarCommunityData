@@ -1,6 +1,6 @@
 ---
 title: ​Hand Of NOD!
-description: W:117 L:39 D:2 Bonus ✅ 50%
+description: W:117 L:39 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 9 - 13 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2026-09-13T06:40:40.000Z
@@ -16,7 +16,7 @@ PEACE THROUGH POWER!
 <br>
 
 ### [Discord](https://discord.gg/HfGM4PkP8d)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

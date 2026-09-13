@@ -1,9 +1,9 @@
 ---
 title: ​资助会
-description: W:12 L:6 D:0 Bonus ❌ 7%
+description: W:13 L:6 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 19 - 4 **💮問鼎無垠💮**
-date: 2026-09-06T00:36:14.000Z
+Summary: ✅ 16 - 0 **Eretria**
+date: 2026-09-13T08:40:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,17 +16,17 @@ date: 2026-09-06T00:36:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (22)|
-| ELO Competitive | 1318 🔺  (27)|
-| Total Matches | 18 |
-| Wins | 12 |
+| ELO Regular | 1288 🔺  (8)|
+| ELO Competitive | 1330 🔺  (11)|
+| Total Matches | 19 |
+| Wins | 13 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788222974,1771239206,1759334974,1754205149,1738489100,1727717871,1723782282,1723299966,1721786877,1721400113,1721241455,1720749455,1707741940,1707153372,1707147066,1706709706,1702048049,1699102115];
+        let timestamps = [1788856848,1788222974,1771239206,1759334974,1754205149,1738489100,1727717871,1723782282,1723299966,1721786877,1721400113,1721241455,1720749455,1707741940,1707153372,1707147066,1706709706,1702048049,1699102115];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/13 | 16-0 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2026/09/06 | 19-4 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2026/02/21 | 24-3 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2025/10/06 | 6-27 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
@@ -162,5 +163,5 @@ Corporation ID: 4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788654974"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789288848"></span>
 </div>
