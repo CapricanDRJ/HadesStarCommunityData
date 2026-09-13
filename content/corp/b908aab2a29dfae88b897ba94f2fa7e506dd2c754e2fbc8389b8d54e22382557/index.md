@@ -1,9 +1,9 @@
 ---
 title: ​甜甜圈
-description: W:3 L:1 D:0 Bonus ✅ 30%
+description: W:3 L:2 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **中国星系集团**
-date: 2026-09-08T11:15:10.000Z
+Summary: ❌ 0 - 3 **太阳系联邦**
+date: 2026-09-13T11:21:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-09-08T11:15:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (19)|
-| ELO Competitive | 1239 🔺  (19)|
-| Total Matches | 4 |
+| ELO Regular | 1217 🔻  (-18)|
+| ELO Competitive | 1224 🔻  (-14)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788434110,1787997644,1787547283,1787114961];
+        let timestamps = [1788866461,1788434110,1787997644,1787547283,1787114961];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/13 | 0-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2026/09/08 | 4-0 | [中国星系集团](https://ws.tsl.rocks/corp/8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/) |
 | ✅ | 2026/09/03 | 2-0 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
 | ❌ | 2026/08/29 | 2-3 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101/) |
@@ -147,5 +147,5 @@ Corporation ID: b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788866110"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789298461"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​太阳系联邦
-description: W:9 L:22 D:0 Bonus ✅ 36%
+description: W:10 L:22 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 8 **Quantum Mass**
-date: 2026-09-07T16:13:34.000Z
+Summary: ✅ 3 - 0 **甜甜圈**
+date: 2026-09-13T11:21:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2026-09-07T16:13:34.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (-12)|
-| ELO Competitive | 1252 🔺  (25)|
-| Total Matches | 31 |
-| Wins | 9 |
+| ELO Regular | 1182 🔺  (18)|
+| ELO Competitive | 1267 🔺  (14)|
+| Total Matches | 32 |
+| Wins | 10 |
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788365614,1788260219,1787731349,1787207193,1786883914,1786321775,1785646383,1785637970,1785202175,1785201143,1784761626,1784290524,1783847993,1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
+        let timestamps = [1788866461,1788365614,1788260219,1787731349,1787207193,1786883914,1786321775,1785646383,1785637970,1785202175,1785201143,1784761626,1784290524,1783847993,1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/13 | 3-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/09/07 | 3-8 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ✅ | 2026/09/06 | 16-0 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ✅ | 2026/08/31 | 16-0 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
@@ -180,5 +181,5 @@ Corporation ID: 1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788797614"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789298461"></span>
 </div>

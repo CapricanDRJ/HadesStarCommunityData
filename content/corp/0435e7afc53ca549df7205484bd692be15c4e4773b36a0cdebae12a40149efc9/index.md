@@ -1,9 +1,9 @@
 ---
 title: ​+SATELLITE•卫星联+
-description: W:12 L:14 D:1 Bonus ❌ 6%
+description: W:12 L:15 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **甜甜圈**
-date: 2026-09-03T10:00:44.000Z
+Summary: ❌ 0 - 13 **attraction\.F**
+date: 2026-09-13T11:36:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-09-03T10:00:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (-17)|
-| ELO Competitive | 1267 🔻  (-19)|
-| Total Matches | 27 |
+| ELO Regular | 1213 🔻  (-9)|
+| ELO Competitive | 1257 🔻  (-10)|
+| Total Matches | 28 |
 | Wins | 12 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787997644,1787541275,1786098992,1785346758,1784811790,1784700036,1784012025,1783579116,1783144392,1781083657,1780034293,1754295598,1753767354,1753321132,1752852033,1752378227,1751822622,1751382119,1750887536,1750366641,1749931631,1749490790,1749048768,1748590814,1748143386,1747594083,1747147243];
+        let timestamps = [1788867363,1787997644,1787541275,1786098992,1785346758,1784811790,1784700036,1784012025,1783579116,1783144392,1781083657,1780034293,1754295598,1753767354,1753321132,1752852033,1752378227,1751822622,1751382119,1750887536,1750366641,1749931631,1749490790,1749048768,1748590814,1748143386,1747594083,1747147243];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/13 | 0-13 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ❌ | 2026/09/03 | 0-2 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/08/29 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/08/12 | 1-3 | [先和先知](https://ws.tsl.rocks/corp/54c8fbf9e85f95a3e28c0b3d2833d49a40758d5340c6de6d6822c6c48aa070eb/) |
@@ -175,5 +176,5 @@ Corporation ID: 0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788429644"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789299363"></span>
 </div>

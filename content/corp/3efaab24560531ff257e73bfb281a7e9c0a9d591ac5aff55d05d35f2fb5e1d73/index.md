@@ -1,6 +1,6 @@
 ---
 title: ​CIS
-description: W:80 L:24 D:1 Bonus ✅ 48%
+description: W:80 L:24 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 33 - 28 **中国星系集团**
 date: 2026-09-06T11:22:00.000Z
@@ -17,7 +17,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
 <br>
 
 ### [Discord](https://discord.gg/eVBvw68KEU)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

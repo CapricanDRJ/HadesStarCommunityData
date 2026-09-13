@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:90 L:81 D:3 Bonus ✅ 50%
+description: W:90 L:81 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 5 - 17 **attraction\.F**
 date: 2026-09-13T08:15:47.000Z
@@ -15,7 +15,7 @@ date: 2026-09-13T08:15:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

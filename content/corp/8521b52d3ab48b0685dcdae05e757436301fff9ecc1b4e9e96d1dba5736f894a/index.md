@@ -1,9 +1,9 @@
 ---
 title: ​中国星系集团
-description: W:10 L:4 D:0 Bonus ❌ 6%
+description: W:11 L:4 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **甜甜圈**
-date: 2026-09-08T11:15:10.000Z
+Summary: ✅ 19 - 18 **Лунный Феникс**
+date: 2026-09-13T10:35:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-08T11:15:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔻  (-19)|
-| ELO Competitive | 1320 🔻  (-4)|
-| Total Matches | 14 |
-| Wins | 10 |
+| ELO Regular | 1300 🔺  (20)|
+| ELO Competitive | 1348 🔺  (28)|
+| Total Matches | 15 |
+| Wins | 11 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788434110,1788261720,1787753988,1787265288,1786802175,1786366836,1713691800,1707573213,1707401935,1706887007,1706879493,1706444046,1703935359,1702553029];
+        let timestamps = [1788863757,1788434110,1788261720,1787753988,1787265288,1786802175,1786366836,1713691800,1707573213,1707401935,1706887007,1706879493,1706444046,1703935359,1702553029];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/13 | 19-18 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2026/09/08 | 0-4 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/09/06 | 28-33 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2026/08/31 | 14-13 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
@@ -156,5 +157,5 @@ Corporation ID: 8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788866110"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789295757"></span>
 </div>
