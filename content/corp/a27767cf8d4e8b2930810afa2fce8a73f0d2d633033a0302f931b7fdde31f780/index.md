@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:3 L:2 D:1 Bonus ❌ 5%
+description: W:3 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 6 - 8 **中华五千年**
-date: 2026-09-01T23:02:48.000Z
+Summary: ❌ 1 - 9 **BRASIL ACADEMY**
+date: 2026-09-13T03:25:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-01T23:02:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (-13)|
-| ELO Competitive | 1249 🔻  (-9)|
-| Total Matches | 6 |
+| ELO Regular | 1212 🔻  (-15)|
+| ELO Competitive | 1245 🔻  (-4)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/13 | 1-9 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2026/09/01 | 6-8 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ✅ | 2026/08/26 | 3-2 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/08/21 | 6-13 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
@@ -148,5 +149,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788303768"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789269925"></span>
 </div>

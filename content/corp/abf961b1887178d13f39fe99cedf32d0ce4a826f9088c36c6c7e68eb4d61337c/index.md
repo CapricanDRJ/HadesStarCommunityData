@@ -1,6 +1,6 @@
 ---
 title: ​-=FCA=-
-description: W:22 L:77 D:0 Bonus ✅ 44%
+description: W:22 L:77 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 23 - 3 **SternenStaub**
 date: 2026-09-06T02:41:23.000Z
@@ -15,7 +15,7 @@ date: 2026-09-06T02:41:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​RUS
-description: W:92 L:55 D:0 Bonus ✅ 56%
+description: W:92 L:55 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 3 - 39 **IX Легион**
 date: 2026-09-12T14:36:15.000Z
@@ -18,7 +18,7 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​泰拉瑞亚
-description: W:51 L:65 D:3 Bonus ✅ 46%
+description: W:51 L:65 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 4 - 18 **Corp\. Luminá**
 date: 2026-09-11T16:37:15.000Z
@@ -16,7 +16,7 @@ date: 2026-09-11T16:37:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
