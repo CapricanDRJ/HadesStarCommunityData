@@ -1,6 +1,6 @@
 ---
 title: ​attraction.F
-description: W:18 L:2 D:0 Bonus ✅ 36%
+description: W:18 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **testims**
 date: 2026-09-06T06:21:38.000Z
@@ -15,7 +15,7 @@ date: 2026-09-06T06:21:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

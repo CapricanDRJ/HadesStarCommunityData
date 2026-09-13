@@ -1,6 +1,6 @@
 ---
 title: ​Duchy Arrakis
-description: W:58 L:23 D:2 Bonus ✅ 46%
+description: W:58 L:23 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 30 - 4 **Austria**
 date: 2026-09-06T06:11:37.000Z
@@ -17,7 +17,7 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

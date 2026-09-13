@@ -1,6 +1,6 @@
 ---
 title: ​Эдем
-description: W:61 L:64 D:3 Bonus ✅ 46%
+description: W:61 L:64 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **Новый Мир**
 date: 2026-09-06T05:54:51.000Z
@@ -17,7 +17,7 @@ date: 2026-09-06T05:54:51.000Z
 <br>
 
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

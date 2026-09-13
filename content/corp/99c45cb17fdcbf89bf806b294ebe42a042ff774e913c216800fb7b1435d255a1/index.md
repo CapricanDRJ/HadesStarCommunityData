@@ -1,6 +1,6 @@
 ---
 title: ​HUN TERS
-description: W:61 L:31 D:2 Bonus ✅ 46%
+description: W:61 L:31 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 53 **Лунный Феникс**
 date: 2026-09-06T06:51:41.000Z
@@ -15,7 +15,7 @@ date: 2026-09-06T06:51:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
