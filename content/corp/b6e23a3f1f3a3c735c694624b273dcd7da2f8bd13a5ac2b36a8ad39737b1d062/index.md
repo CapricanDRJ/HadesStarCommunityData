@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:125 L:23 D:0 Bonus ✅ 56%
+description: W:125 L:23 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **Tuatha De Danan**
 date: 2026-09-06T14:17:16.000Z
@@ -21,7 +21,7 @@ date: 2026-09-06T14:17:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

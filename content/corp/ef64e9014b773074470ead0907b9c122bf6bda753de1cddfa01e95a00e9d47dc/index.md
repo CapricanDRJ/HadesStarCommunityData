@@ -1,6 +1,6 @@
 ---
 title: ​Crazy Elite
-description: W:86 L:101 D:0 Bonus ✅ 56%
+description: W:86 L:101 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 13 - 2 **Stellar Exports**
 date: 2026-09-06T13:32:11.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

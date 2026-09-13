@@ -1,6 +1,6 @@
 ---
 title: ​Лунный Феникс
-description: W:122 L:78 D:3 Bonus ✅ 52%
+description: W:122 L:78 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 11 - 14 **Black Pearl FR**
 date: 2026-09-13T11:41:03.000Z
@@ -16,7 +16,7 @@ date: 2026-09-13T11:41:03.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

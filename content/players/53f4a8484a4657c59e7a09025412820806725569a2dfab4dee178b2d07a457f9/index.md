@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Venex Athed"
-description: "ws: 9 μ: 25.29"
+description: "ws: 10 μ: 24.72"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 9
-- **Rating**: 1.14
-- **μ**: 25.29  
-- **σ**: 8.05
-- W: 3, L: 6, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 10
+- **Rating**: 0.65
+- **μ**: 24.72  
+- **σ**: 8.02
+- W: 3, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 25.29"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 9 |
+| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 25.29"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 5-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-08-02 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 51-3 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-02-22 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 6-20 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-02-14 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 11-34 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |

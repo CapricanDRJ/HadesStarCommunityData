@@ -1,9 +1,9 @@
 ---
 title: ​聚集地
-description: W:0 L:1 D:0 Bonus ❌ 3%
+description: W:0 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 3 - 16 **白虹贯日**
-date: 2026-09-08T06:29:49.000Z
+Summary: ↔️ 0 - 0 **苏维埃联邦**
+date: 2026-09-13T13:01:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2026-09-08T06:29:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (-10)|
-| ELO Competitive | 1190 🔻  (-10)|
-| Total Matches | 1 |
+| ELO Regular | 1182 🔻  (-8)|
+| ELO Competitive | 1183 🔻  (-7)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788416989];
+        let timestamps = [1788872471,1788416989];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/13 | 0-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2026/09/08 | 3-16 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788848989"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789304471"></span>
 </div>

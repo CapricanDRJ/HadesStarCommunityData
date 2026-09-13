@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Evgen174rus"
-description: "ws: 30 μ: 28.32"
+description: "ws: 31 μ: 27.34"
 ---
-- **WhiteStars**: 30
-- **Eligible**: 28
-- **Rating**: 5.82
-- **μ**: 28.32  
-- **σ**: 7.50
-- W: 16, L: 14, T: 0
+- **WhiteStars**: 31
+- **Eligible**: 29
+- **Rating**: 4.92
+- **μ**: 27.34  
+- **σ**: 7.47
+- W: 16, L: 15, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 30 μ: 28.32"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 28 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 30 μ: 28.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 11-14 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | 2026-09-06 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 13-6 | [Mosaic](https://ws.tsl.rocks/corp/d250101b49e076429c32c0592d9e908708353313c2a00ad7d540a9fe533418d7/) |
 | 2026-08-23 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 47-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | 2026-08-16 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 36-5 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |

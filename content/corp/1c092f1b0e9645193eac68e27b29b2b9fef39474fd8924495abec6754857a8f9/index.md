@@ -1,6 +1,6 @@
 ---
 title: ​alienigenas
-description: W:61 L:16 D:0 Bonus ✅ 48%
+description: W:61 L:16 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 15 - 17 **Imperium XIII**
 date: 2026-09-12T14:09:12.000Z
@@ -20,7 +20,7 @@ guna actividad con los demas compañeros
 <br>
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

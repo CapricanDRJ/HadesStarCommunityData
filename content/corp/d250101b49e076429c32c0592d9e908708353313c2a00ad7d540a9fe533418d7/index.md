@@ -1,6 +1,6 @@
 ---
 title: ​Mosaic
-description: W:1 L:1 D:0 Bonus ❌ 3%
+description: W:1 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 6 - 13 **Лунный Феникс**
 date: 2026-09-06T14:32:18.000Z
@@ -15,7 +15,7 @@ date: 2026-09-06T14:32:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

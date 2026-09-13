@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Avrellii"
-description: "ws: 5 μ: 22.30"
+description: "ws: 6 μ: 21.55"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 4
-- **Rating**: -2.29
-- **μ**: 22.30  
-- **σ**: 8.20
-- W: 2, L: 3, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 5
+- **Rating**: -2.94
+- **μ**: 21.55  
+- **σ**: 8.16
+- W: 2, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 22.30"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 4 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 22.30"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 18-19 | [中国星系集团](https://ws.tsl.rocks/corp/8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/) |
 | 2026-09-06 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 13-6 | [Mosaic](https://ws.tsl.rocks/corp/d250101b49e076429c32c0592d9e908708353313c2a00ad7d540a9fe533418d7/) |
 | 2026-08-29 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 3-27 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
 | 2026-08-23 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 20-0 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |

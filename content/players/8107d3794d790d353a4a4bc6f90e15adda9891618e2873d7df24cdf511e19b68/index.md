@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Hexacorp"
-description: "ws: 10 μ: 23.98"
+description: "ws: 11 μ: 23.81"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 9
-- **Rating**: -0.21
-- **μ**: 23.98  
-- **σ**: 8.06
-- W: 3, L: 7, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 10
+- **Rating**: -0.30
+- **μ**: 23.81  
+- **σ**: 8.04
+- W: 3, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 10 μ: 23.98"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 9 |
+| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 10 μ: 23.98"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 5-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-07-25 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 7-36 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-05-04 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 12-0 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-02-22 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 6-20 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Быстрая"
-description: "ws: 2 μ: 24.05"
+description: "ws: 3 μ: 23.33"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 1
-- **Rating**: -0.84
-- **μ**: 24.05  
-- **σ**: 8.30
-- W: 1, L: 1, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 2
+- **Rating**: -1.45
+- **μ**: 23.33  
+- **σ**: 8.26
+- W: 1, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 2 μ: 24.05"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 1 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 2 |
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 24.05"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 18-19 | [中国星系集团](https://ws.tsl.rocks/corp/8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/) |
 | 2026-08-29 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 3-27 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
 | 2026-08-23 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 20-0 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |

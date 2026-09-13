@@ -1,6 +1,6 @@
 ---
 title: ​Stellar Exports
-description: W:153 L:122 D:1 Bonus ✅ 54%
+description: W:153 L:122 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 33 - 1 **Hamburg AG 2**
 date: 2026-09-06T13:42:12.000Z
@@ -25,7 +25,7 @@ Discord preferred nBrqgsV
 <br>
 
 ### [Discord](https://discord.gg/nBrqgsV)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
