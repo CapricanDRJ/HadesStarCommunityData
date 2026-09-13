@@ -1,9 +1,9 @@
 ---
 title: ​CERBERUS SYSTEM
-description: W:34 L:22 D:0 Bonus ✅ 40%
+description: W:35 L:22 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 29 - 4 **星河绮梦**
-date: 2026-09-07T12:48:15.000Z
+Summary: ✅ 35 - 3 **共联·世界**
+date: 2026-09-12T22:45:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-09-07T12:48:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (21)|
-| ELO Competitive | 1557 🔺  (17)|
-| Total Matches | 56 |
-| Wins | 34 |
+| ELO Regular | 1337 🔺  (13)|
+| ELO Competitive | 1571 🔺  (14)|
+| Total Matches | 57 |
+| Wins | 35 |
 | Losses | 22 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788353295,1787921033,1786982162,1786461779,1786022532,1785547837,1784894098,1784879382,1784362595,1784327184,1783788771,1783716412,1782891437,1782878220,1782176983,1781585995,1781561354,1780978293,1779762432,1779732033,1779126720,1778563752,1777951216,1777942710,1777366151,1777361228,1776163066,1776158261,1775164402,1774311751,1774294022,1773781164,1773651367,1773051398,1773048094,1772417228,1771952732,1771437194,1771432687,1770862450,1770550892,1770363416,1769792541,1769184022,1768671213,1768031231,1767590794,1766963750,1766342717,1765863795,1765255081,1764693501,1764190777,1763706156,1763229650,1762794322];
+        let timestamps = [1788821105,1788353295,1787921033,1786982162,1786461779,1786022532,1785547837,1784894098,1784879382,1784362595,1784327184,1783788771,1783716412,1782891437,1782878220,1782176983,1781585995,1781561354,1780978293,1779762432,1779732033,1779126720,1778563752,1777951216,1777942710,1777366151,1777361228,1776163066,1776158261,1775164402,1774311751,1774294022,1773781164,1773651367,1773051398,1773048094,1772417228,1771952732,1771437194,1771432687,1770862450,1770550892,1770363416,1769792541,1769184022,1768671213,1768031231,1767590794,1766963750,1766342717,1765863795,1765255081,1764693501,1764190777,1763706156,1763229650,1762794322];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) | 2 | 0 | 0 | 2 |
 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) | 1 | 1 | 0 | 2 |
 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) | 1 | 1 | 0 | 2 |
 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) | 2 | 0 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/12 | 35-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ✅ | 2026/09/07 | 29-4 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2026/09/02 | 26-14 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
 | ✅ | 2026/08/22 | 22-3 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
@@ -208,5 +210,5 @@ Corporation ID: 84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788785295"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789253105"></span>
 </div>

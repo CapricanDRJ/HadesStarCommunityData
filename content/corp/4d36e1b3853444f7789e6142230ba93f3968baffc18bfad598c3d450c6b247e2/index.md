@@ -1,6 +1,6 @@
 ---
 title: ​资助会
-description: W:12 L:6 D:0 Bonus ✅ 34%
+description: W:12 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 19 - 4 **💮問鼎無垠💮**
 date: 2026-09-06T00:36:14.000Z
@@ -16,7 +16,7 @@ date: 2026-09-06T00:36:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

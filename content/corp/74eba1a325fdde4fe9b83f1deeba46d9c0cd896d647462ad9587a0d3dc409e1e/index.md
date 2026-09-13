@@ -1,9 +1,9 @@
 ---
 title: ​ВЕЧНОСТЬ
-description: W:0 L:2 D:0 Bonus ❌ 3%
+description: W:0 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Mondluftschiff**
-date: 2026-08-25T03:36:20.000Z
+Summary: ❌ 0 - 7 **Knights of Solo**
+date: 2026-09-12T23:10:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-08-25T03:36:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (-14)|
-| ELO Competitive | 1171 🔻  (-14)|
-| Total Matches | 2 |
+| ELO Regular | 1156 🔻  (-15)|
+| ELO Competitive | 1159 🔻  (-12)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787196980,1717307929];
+        let timestamps = [1788822607,1787196980,1717307929];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/12 | 0-7 | [Knights of Solo](https://ws.tsl.rocks/corp/ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5/) |
 | ❌ | 2026/08/25 | 0-3 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ❌ | 2024/06/07 | 1-3 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 74eba1a325fdde4fe9b83f1deeba46d9c0cd896d647462ad9587a0d3dc409e1e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787628980"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789254607"></span>
 </div>

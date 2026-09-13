@@ -1,6 +1,6 @@
 ---
 title: ​Nine's Own Goal
-description: W:53 L:52 D:2 Bonus ✅ 48%
+description: W:53 L:52 D:2 Bonus ❌ 48%
 image: ./favicon.png
 Summary: ✅ 27 - 3 **BrazilCorp\.**
 date: 2026-09-06T00:46:15.000Z
@@ -17,7 +17,7 @@ on events. No alts.
 <br>
 
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 48%
 
 | Statistic | Value |
 | --- | --- |

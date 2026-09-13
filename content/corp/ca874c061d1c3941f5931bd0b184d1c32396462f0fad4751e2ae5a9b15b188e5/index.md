@@ -1,9 +1,9 @@
 ---
 title: ​Knights of Solo
-description: W:5 L:8 D:2 Bonus ❌ 6%
+description: W:6 L:8 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 15 **Cerulean Star**
-date: 2026-09-07T16:33:36.000Z
+Summary: ✅ 7 - 0 **ВЕЧНОСТЬ**
+date: 2026-09-12T23:10:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-07T16:33:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (-5)|
-| ELO Competitive | 1249 🔻  (-2)|
-| Total Matches | 15 |
-| Wins | 5 |
+| ELO Regular | 1190 🔺  (15)|
+| ELO Competitive | 1261 🔺  (12)|
+| Total Matches | 16 |
+| Wins | 6 |
 | Losses | 8 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788366816,1787203588,1787023024,1786268889,1785795119,1785726010,1785100797,1784380164,1784379397,1783715811,1783475770,1782351668,1781842395,1781383190,1780788367];
+        let timestamps = [1788822607,1788366816,1787203588,1787023024,1786268889,1785795119,1785726010,1785100797,1784380164,1784379397,1783715811,1783475770,1782351668,1781842395,1781383190,1780788367];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/12 | 7-0 | [ВЕЧНОСТЬ](https://ws.tsl.rocks/corp/74eba1a325fdde4fe9b83f1deeba46d9c0cd896d647462ad9587a0d3dc409e1e/) |
 | ❌ | 2026/09/07 | 0-15 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2026/08/25 | 1-0 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ❌ | 2026/08/23 | 0-22 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
@@ -162,5 +163,5 @@ Corporation ID: ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788798816"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789254607"></span>
 </div>
