@@ -1,6 +1,6 @@
 ---
 title: ​Void
-description: W:25 L:41 D:0 Bonus ✅ 46%
+description: W:25 L:41 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 39 - 1 **ГОРИЗОНТ**
 date: 2026-09-06T20:42:03.000Z
@@ -23,7 +23,7 @@ Primarily English
 <br>
 
 ### [Discord](https://discord.gg/jPftecDuNp)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

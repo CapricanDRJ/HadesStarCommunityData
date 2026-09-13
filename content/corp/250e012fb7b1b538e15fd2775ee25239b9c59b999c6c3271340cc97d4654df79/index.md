@@ -1,6 +1,6 @@
 ---
 title: ​italian warrior
-description: W:72 L:151 D:3 Bonus ✅ 52%
+description: W:72 L:151 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 20 - 4 **Death Flight**
 date: 2026-09-06T21:42:09.000Z
@@ -22,7 +22,7 @@ Discord: https://discord.gg/A26JEJgPwh
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

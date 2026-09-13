@@ -1,6 +1,6 @@
 ---
 title: ​Outland Ind.
-description: W:44 L:14 D:0 Bonus ✅ 44%
+description: W:44 L:14 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 40 - 2 **ГОРИЗОНТ**
 date: 2026-09-06T19:21:54.000Z
@@ -22,7 +22,7 @@ Discord is mandatory:
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

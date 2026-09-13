@@ -1,6 +1,6 @@
 ---
 title: ​Ender
-description: W:141 L:107 D:1 Bonus ✅ 56%
+description: W:141 L:107 D:1 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **UAGC**
 date: 2026-09-12T18:44:42.000Z
@@ -28,7 +28,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
