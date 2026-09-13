@@ -1,6 +1,6 @@
 ---
 title: ​Argentina 1.0
-description: W:95 L:48 D:1 Bonus ✅ 52%
+description: W:95 L:48 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 34 - 3 **Farland Ind\.**
 date: 2026-09-06T16:12:27.000Z
@@ -17,7 +17,7 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/JapURyAWBw)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

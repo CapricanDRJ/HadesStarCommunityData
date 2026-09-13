@@ -1,9 +1,9 @@
 ---
 title: ​Gemini Ind.
-description: W:51 L:10 D:0 Bonus ❌ 11%
+description: W:52 L:10 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 14 - 0 **Untitled**
-date: 2026-08-30T20:38:46.000Z
+Summary: ✅ 18 - 1 **太阳系联邦**
+date: 2026-09-13T15:51:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,17 +24,17 @@ We have awesome queue for rs runs!
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1471 🔺  (7)|
-| ELO Competitive | 1583 🔺  (5)|
-| Total Matches | 61 |
-| Wins | 51 |
+| ELO Regular | 1476 🔺  (5)|
+| ELO Competitive | 1587 🔺  (4)|
+| Total Matches | 62 |
+| Wins | 52 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 16 |
 | Flagship | 5 |
 
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787690326,1786499936,1785194235,1784053485,1782840060,1781601906,1780380985,1779122986,1778589416,1777342904,1776180494,1775390930,1774311751,1773748109,1765827145,1751953037,1747220561,1744734630,1741587000,1739132504,1731315642,1728902576,1725830846,1720983418,1720368378,1719797381,1719152494,1718560187,1717942164,1717342504,1716742950,1716185297,1715537531,1714316960,1713699229,1713119043,1712489838,1711894891,1711279812,1710684583,1710100475,1709501034,1708882635,1708281949,1707677941,1707080842,1706471701,1705863761,1705277463,1704652092,1704384329,1704049863,1703462946,1702837044,1702232050,1701634264,1701041598,1700420658,1699813184,1699213299,1698687065];
+        let timestamps = [1788882689,1787690326,1786499936,1785194235,1784053485,1782840060,1781601906,1780380985,1779122986,1778589416,1777342904,1776180494,1775390930,1774311751,1773748109,1765827145,1751953037,1747220561,1744734630,1741587000,1739132504,1731315642,1728902576,1725830846,1720983418,1720368378,1719797381,1719152494,1718560187,1717942164,1717342504,1716742950,1716185297,1715537531,1714316960,1713699229,1713119043,1712489838,1711894891,1711279812,1710684583,1710100475,1709501034,1708882635,1708281949,1707677941,1707080842,1706471701,1705863761,1705277463,1704652092,1704384329,1704049863,1703462946,1702837044,1702232050,1701634264,1701041598,1700420658,1699813184,1699213299,1698687065];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -157,6 +157,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/13 | 18-1 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2026/08/30 | 14-0 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 | ✅ | 2026/08/17 | 14-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2026/08/01 | 22-2 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
@@ -225,5 +226,5 @@ Corporation ID: c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788122326"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789314689"></span>
 </div>

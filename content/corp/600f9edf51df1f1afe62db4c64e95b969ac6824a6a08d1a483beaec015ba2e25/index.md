@@ -1,6 +1,6 @@
 ---
 title: ​地球联合
-description: W:23 L:8 D:1 Bonus ✅ 44%
+description: W:23 L:8 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 1 - 12 **Death Flight**
 date: 2026-09-12T01:23:07.000Z
@@ -23,7 +23,7 @@ QQ群号：742063070
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

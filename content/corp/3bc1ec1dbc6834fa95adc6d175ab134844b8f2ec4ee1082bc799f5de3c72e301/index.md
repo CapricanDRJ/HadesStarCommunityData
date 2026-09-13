@@ -1,6 +1,6 @@
 ---
 title: ​SpaceX
-description: W:0 L:3 D:1 Bonus ❌ 
+description: W:0 L:3 D:1 Bonus ❌ 2%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **Latinos :\)**
 date: 2026-05-22T18:45:21.000Z
@@ -15,7 +15,7 @@ date: 2026-05-22T18:45:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
