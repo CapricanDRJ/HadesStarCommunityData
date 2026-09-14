@@ -1,6 +1,6 @@
 ---
 title: ​IMPERIAL ARMADA
-description: W:76 L:53 D:3 Bonus ✅ 52%
+description: W:76 L:53 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 5 - 23 **Tuatha De Danan**
 date: 2026-09-12T15:54:24.000Z
@@ -22,7 +22,7 @@ https://discord.gg/bAAYCqG2cE
 <br>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

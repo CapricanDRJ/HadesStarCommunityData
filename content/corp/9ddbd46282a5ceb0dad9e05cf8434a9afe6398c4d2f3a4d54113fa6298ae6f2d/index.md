@@ -1,9 +1,9 @@
 ---
 title: ​Ainz ooal gown
-description: W:31 L:5 D:0 Bonus ✅ 38%
+description: W:32 L:5 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 22 - 0 **自由之地**
-date: 2026-09-08T12:40:18.000Z
+Summary: ✅ 26 - 0 **红日初升，其道大光**
+date: 2026-09-14T12:48:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-09-08T12:40:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1449 🔺  (8)|
-| ELO Competitive | 1514 🔺  (9)|
-| Total Matches | 36 |
-| Wins | 31 |
+| ELO Regular | 1455 🔺  (7)|
+| ELO Competitive | 1533 🔺  (19)|
+| Total Matches | 37 |
+| Wins | 32 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 21 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
+        let timestamps = [1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/14 | 26-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2026/09/08 | 22-0 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ✅ | 2026/09/02 | 30-3 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
 | ✅ | 2026/08/27 | 26-1 | [SPACING GUILD](https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/) |
@@ -184,5 +185,5 @@ Corporation ID: 9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788871218"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789390102"></span>
 </div>
