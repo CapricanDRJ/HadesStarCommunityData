@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:84 L:33 D:3 Bonus ✅ 44%
+description: W:84 L:33 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 46 - 0 **世外桃源**
 date: 2026-09-07T07:12:49.000Z
@@ -17,7 +17,7 @@ date: 2026-09-07T07:12:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

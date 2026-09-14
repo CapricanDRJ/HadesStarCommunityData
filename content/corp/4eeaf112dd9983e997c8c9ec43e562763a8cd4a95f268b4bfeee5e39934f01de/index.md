@@ -1,6 +1,6 @@
 ---
 title: ​Terranova
-description: W:45 L:135 D:0 Bonus ✅ 54%
+description: W:45 L:135 D:0 Bonus ❌ 54%
 image: ./favicon.png
 Summary: ✅ 50 - 0 **RELAX CZ/SK**
 date: 2026-09-07T09:53:00.000Z
@@ -16,7 +16,7 @@ date: 2026-09-07T09:53:00.000Z
 <br>
 
 ### [Discord](https://discord.gg/SUVSGGYGz2)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 54%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​第一序列
-description: W:73 L:74 D:0 Bonus ✅ 54%
+description: W:73 L:74 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **红日初升，其道大光**
 date: 2026-09-07T09:27:58.000Z
@@ -18,7 +18,7 @@ date: 2026-09-07T09:27:58.000Z
 <br>
 
 ### [Discord](https://discord.gg/U7S2BaueGU)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
