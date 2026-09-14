@@ -1,6 +1,6 @@
 ---
 title: ​Providence
-description: W:64 L:43 D:1 Bonus ✅ 52%
+description: W:64 L:43 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 18 - 10 **Mass Effect**
 date: 2026-09-07T03:59:15.000Z
@@ -21,7 +21,7 @@ https://discord.gg/nUgqhbn
 <br>
 
 ### [Discord](https://discord.gg/nUgqhbn)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

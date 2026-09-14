@@ -1,6 +1,6 @@
 ---
 title: ​QONQR
-description: W:52 L:18 D:0 Bonus ✅ 46%
+description: W:52 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **47підрозділССП**
 date: 2026-09-07T05:17:41.000Z
@@ -18,7 +18,7 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
