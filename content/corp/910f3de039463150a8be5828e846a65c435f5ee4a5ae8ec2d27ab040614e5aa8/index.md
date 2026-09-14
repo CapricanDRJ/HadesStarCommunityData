@@ -1,9 +1,9 @@
 ---
 title: ​Bastille FR
-description: W:23 L:20 D:0 Bonus ❌ 9%
+description: W:23 L:21 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 4 - 13 **New YuGiOh**
-date: 2026-09-14T11:43:17.000Z
+Summary: ❌ 0 - 4 **Red star \(all\)**
+date: 2026-09-14T21:14:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-14T11:43:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (-6)|
+| ELO Regular | 1236 🔻  (-18)|
 | ELO Competitive | 1433 🔻  (-7)|
-| Total Matches | 43 |
+| Total Matches | 44 |
 | Wins | 23 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788954197,1788349990,1788338575,1787741085,1787731349,1787143498,1786539612,1785794518,1781629251,1781014556,1774366725,1773763434,1773168872,1772549409,1771928095,1771320625,1770736267,1770120960,1769418461,1768915180,1768310060,1767083919,1766485129,1764686588,1764064289,1763372062,1762767579,1762182880,1761651675,1761634551,1760953884,1760953382,1760345464,1759730996,1759247840,1758518643,1757921583,1757310760,1756812594,1756106360,1755412836,1754894396,1754375527];
+        let timestamps = [1788988457,1788954197,1788349990,1788338575,1787741085,1787731349,1787143498,1786539612,1785794518,1781629251,1781014556,1774366725,1773763434,1773168872,1772549409,1771928095,1771320625,1770736267,1770120960,1769418461,1768915180,1768310060,1767083919,1766485129,1764686588,1764064289,1763372062,1762767579,1762182880,1761651675,1761634551,1760953884,1760953382,1760345464,1759730996,1759247840,1758518643,1757921583,1757310760,1756812594,1756106360,1755412836,1754894396,1754375527];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/14 | 0-4 | [Red star \(all\)](https://ws.tsl.rocks/corp/018359ba3867f626bd6cdd2f79f962028325907ff1caef526e4405b064e0c015/) |
 | ❌ | 2026/09/14 | 4-13 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2026/09/07 | 0-10 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2026/09/07 | 12-3 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
@@ -193,5 +194,5 @@ Corporation ID: 910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789386197"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789420457"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Red Monarchs
-description: W:2 L:1 D:0 Bonus ✅ 30%
+description: W:2 L:2 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 18 - 0 **水素資源難民キャンプ**
-date: 2026-09-08T00:14:41.000Z
+Summary: ❌ 3 - 9 **Space Dragons**
+date: 2026-09-14T21:04:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-08T00:14:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (14)|
-| ELO Competitive | 1223 🔺  (15)|
-| Total Matches | 3 |
+| ELO Regular | 1197 🔻  (-17)|
+| ELO Competitive | 1218 🔻  (-5)|
+| Total Matches | 4 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788394481,1787959795,1787453136];
+        let timestamps = [1788987856,1788394481,1787959795,1787453136];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/14 | 3-9 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
 | ✅ | 2026/09/08 | 18-0 | [水素資源難民キャンプ](https://ws.tsl.rocks/corp/0466d9532b4f4770d248c52c1de0dab76bf5a291897cdbe1895c00b1a2b42238/) |
 | ❌ | 2026/09/02 | 0-32 | [红色太阳·红活团](https://ws.tsl.rocks/corp/b4d1d276fab66049a6c980d31aba4c6216ab2c806768b1dccd1b49361b4d70d0/) |
 | ✅ | 2026/08/28 | 17-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
@@ -144,5 +145,5 @@ Corporation ID: 761820b9c8f9e63f72ef9be1fbc4daf3c32b67c035b595bb61876aaa40528c53
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788826481"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789419856"></span>
 </div>

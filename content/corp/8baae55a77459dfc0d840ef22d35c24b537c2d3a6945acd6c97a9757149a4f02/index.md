@@ -1,6 +1,6 @@
 ---
 title: ​Space Potatoes
-description: W:24 L:3 D:0 Bonus ✅ 38%
+description: W:24 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 26 - 3 **Empire of Light**
 date: 2026-09-07T20:13:59.000Z
@@ -15,7 +15,7 @@ date: 2026-09-07T20:13:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
