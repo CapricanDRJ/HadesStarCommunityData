@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:58 L:32 D:2 Bonus ✅ 46%
+description: W:58 L:32 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ↔️ 6 - 6 **RGW**
 date: 2026-09-07T16:38:36.000Z
@@ -17,7 +17,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

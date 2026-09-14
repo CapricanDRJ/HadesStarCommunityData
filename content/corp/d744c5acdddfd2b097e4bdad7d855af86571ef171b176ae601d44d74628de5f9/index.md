@@ -1,6 +1,6 @@
 ---
 title: ​Schnuppenfarm
-description: W:10 L:18 D:0 Bonus ✅ 38%
+description: W:10 L:18 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 33 - 6 **Death Flight**
 date: 2026-09-06T23:12:16.000Z
@@ -17,7 +17,7 @@ date: 2026-09-06T23:12:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

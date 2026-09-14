@@ -1,9 +1,9 @@
 ---
 title: ​莫比乌斯-星环
-description: W:34 L:22 D:1 Bonus ✅ 40%
+description: W:35 L:22 D:1 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 27 - 0 **Black Mirror Co**
-date: 2026-09-08T23:16:26.000Z
+Summary: ✅ 23 - 6 **italian warrior**
+date: 2026-09-13T23:22:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-08T23:16:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (8)|
-| ELO Competitive | 1552 🔺  (3)|
-| Total Matches | 57 |
-| Wins | 34 |
+| ELO Regular | 1328 🔺  (4)|
+| ELO Competitive | 1566 🔺  (14)|
+| Total Matches | 58 |
+| Wins | 35 |
 | Losses | 22 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788477386,1788338575,1787532865,1786995685,1786962031,1786291877,1785834769,1785819450,1785327923,1784889592,1784177563,1783669846,1783663238,1783114240,1783074092,1782605731,1782146935,1781357951,1754670312,1754406177,1754099081,1753936522,1753376121,1752851733,1752398360,1751937715,1751935612,1751462644,1750860486,1749825241,1749565009,1748359150,1747871430,1747843784,1747425803,1747148445,1746982270,1746610855,1746527921,1746031503,1745539771,1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
+        let timestamps = [1788909739,1788477386,1788338575,1787532865,1786995685,1786962031,1786291877,1785834769,1785819450,1785327923,1784889592,1784177563,1783669846,1783663238,1783114240,1783074092,1782605731,1782146935,1781357951,1754670312,1754406177,1754099081,1753936522,1753376121,1752851733,1752398360,1751937715,1751935612,1751462644,1750860486,1749825241,1749565009,1748359150,1747871430,1747843784,1747425803,1747148445,1746982270,1746610855,1746527921,1746031503,1745539771,1744712090,1744681145,1744116498,1743643761,1742942611,1742409644,1742104741,1741963494,1741531107,1740215011,1739676610,1739161649,1738658895,1738152522,1736597973,1735824678];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 2 | 0 | 0 | 2 |
 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 0 | 2 | 0 | 2 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 2 | 0 | 0 | 2 |
 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 1 | 0 | 1 | 2 |
@@ -142,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/13 | 23-6 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2026/09/08 | 27-0 | [Black Mirror Co](https://ws.tsl.rocks/corp/0f50fbb3940836c7065ddc39d09a4b6b286e8a3adb62ee5f46c3a4c9b74a759e/) |
 | ❌ | 2026/09/07 | 3-12 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
 | ✅ | 2026/08/29 | 17-6 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
@@ -206,5 +209,5 @@ Corporation ID: f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788909386"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789341739"></span>
 </div>
