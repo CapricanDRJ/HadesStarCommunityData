@@ -1,6 +1,6 @@
 ---
 title: ​Looping
-description: W:49 L:26 D:0 Bonus ✅ 42%
+description: W:49 L:26 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 11 - 5 **The Pichu team**
 date: 2026-09-07T10:48:04.000Z
@@ -17,7 +17,7 @@ kick-off d'idéation de projet consultative du phallus de Fred
 <br>
 
 ### [Discord](https://discord.gg/tdyuYBQ5xs)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

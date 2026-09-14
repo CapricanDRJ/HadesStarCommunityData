@@ -1,9 +1,9 @@
 ---
 title: ​YU-GI-OH
-description: W:11 L:11 D:0 Bonus ❌ 8%
+description: W:12 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 2 - 3 **New YuGiOh**
-date: 2026-09-09T11:34:39.000Z
+Summary: ✅ 6 - 5 **Quantum Mass**
+date: 2026-09-14T12:13:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-09T11:34:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (-5)|
-| ELO Competitive | 1235 🔻  (-2)|
-| Total Matches | 22 |
-| Wins | 11 |
+| ELO Regular | 1236 🔺  (17)|
+| ELO Competitive | 1253 🔺  (17)|
+| Total Matches | 23 |
+| Wins | 12 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788521679,1787891357,1787449916,1786208499,1774062371,1773781765,1771328436,1769184022,1764320875,1763885225,1763451077,1762876038,1762405629,1761786885,1761243962,1760649821,1759667592,1759226205,1758514137,1757947120,1751995406,1735422049];
+        let timestamps = [1788955999,1788521679,1787891357,1787449916,1786208499,1774062371,1773781765,1771328436,1769184022,1764320875,1763885225,1763451077,1762876038,1762405629,1761786885,1761243962,1760649821,1759667592,1759226205,1758514137,1757947120,1751995406,1735422049];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/14 | 6-5 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/09/09 | 2-3 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2026/09/02 | 0-15 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2026/08/28 | 6-0 | [请输入文本](https://ws.tsl.rocks/corp/dd9d972d90241532a87c021497f2f1bcab86dcc1c8ef7bcf718730bba133f5fb/) |
@@ -170,5 +171,5 @@ Corporation ID: 28f250641a870cb4c3bc77c2320c4892ec2c7006422ca4530475e1f3f372786a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788953679"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789387999"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​红日初升，其道大光
-description: W:101 L:77 D:7 Bonus ✅ 48%
+description: W:101 L:77 D:7 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **Bastille FR**
 date: 2026-09-07T11:53:10.000Z
@@ -17,7 +17,7 @@ rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生�
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

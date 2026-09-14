@@ -1,9 +1,9 @@
 ---
 title: ​Space Catz
-description: W:16 L:5 D:1 Bonus ✅ 36%
+description: W:17 L:5 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 15 - 2 **宇宙聯盟**
-date: 2026-09-08T20:36:09.000Z
+Summary: ✅ 13 - 3 **无人深空**
+date: 2026-09-14T10:30:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-09-08T20:36:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔺  (10)|
-| ELO Competitive | 1350 🔺  (10)|
-| Total Matches | 22 |
-| Wins | 16 |
+| ELO Regular | 1340 🔺  (14)|
+| ELO Competitive | 1364 🔺  (15)|
+| Total Matches | 23 |
+| Wins | 17 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788467769,1787661754,1787103245,1786452164,1785857302,1784855051,1784021337,1783422592,1782866807,1781599503,1781588690,1780995327,1780970397,1780367769,1780367769,1779788514,1779780103,1779247675,1779200202,1778539250,1778463842,1778009260];
+        let timestamps = [1788949839,1788467769,1787661754,1787103245,1786452164,1785857302,1784855051,1784021337,1783422592,1782866807,1781599503,1781588690,1780995327,1780970397,1780367769,1780367769,1779788514,1779780103,1779247675,1779200202,1778539250,1778463842,1778009260];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/14 | 13-3 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/09/08 | 15-2 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ✅ | 2026/08/30 | 16-0 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ✅ | 2026/08/24 | 15-0 | [United aurora](https://ws.tsl.rocks/corp/3f3996a7c9cea319017d3c8b8dba8de3d6f8fc4fb6c44148d043083db87b3050/) |
@@ -165,5 +166,5 @@ Corporation ID: 41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788899769"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789381839"></span>
 </div>
