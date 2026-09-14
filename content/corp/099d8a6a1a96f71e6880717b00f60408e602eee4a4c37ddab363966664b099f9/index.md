@@ -1,9 +1,9 @@
 ---
 title: ​白虹贯日
-description: W:16 L:4 D:0 Bonus ✅ 36%
+description: W:17 L:4 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 16 - 3 **聚集地**
-date: 2026-09-08T06:29:49.000Z
+Summary: ✅ 14 - 0 **Новички**
+date: 2026-09-14T02:29:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-08T06:29:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (10)|
-| ELO Competitive | 1329 🔺  (10)|
-| Total Matches | 20 |
-| Wins | 16 |
+| ELO Regular | 1334 🔺  (12)|
+| ELO Competitive | 1341 🔺  (12)|
+| Total Matches | 21 |
+| Wins | 17 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
+        let timestamps = [1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/14 | 14-0 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
 | ✅ | 2026/09/08 | 16-3 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ❌ | 2026/09/02 | 4-16 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
 | ✅ | 2026/08/26 | 18-0 | [testims](https://ws.tsl.rocks/corp/52f90541dd8cfd0a2b314cabb2c15a301471f7e968171dec0051bbf5372c4c4a/) |
@@ -167,5 +169,5 @@ Corporation ID: 099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788848989"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789352983"></span>
 </div>
