@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:84 L:38 D:1 Bonus ✅ 48%
+description: W:84 L:38 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 22 - 11 **元素联邦**
 date: 2026-09-07T18:38:48.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
