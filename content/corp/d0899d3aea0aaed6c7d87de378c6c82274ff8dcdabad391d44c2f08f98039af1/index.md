@@ -1,6 +1,6 @@
 ---
 title: ​Croce del Sud
-description: W:46 L:38 D:0 Bonus ✅ 48%
+description: W:46 L:38 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 46 - 0 **BRhue**
 date: 2026-09-08T21:31:11.000Z
@@ -18,7 +18,7 @@ date: 2026-09-08T21:31:11.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
