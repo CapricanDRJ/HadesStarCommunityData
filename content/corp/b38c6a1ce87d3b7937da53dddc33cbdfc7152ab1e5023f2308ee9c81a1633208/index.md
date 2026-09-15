@@ -1,6 +1,6 @@
 ---
 title: ​Dacia Chill
-description: W:35 L:8 D:0 Bonus ❌ 10%
+description: W:35 L:8 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 25 - 3 **Hinterm Mond**
 date: 2026-08-23T18:43:26.000Z
@@ -19,7 +19,7 @@ WDL 88/2/4
 <br>
 
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
