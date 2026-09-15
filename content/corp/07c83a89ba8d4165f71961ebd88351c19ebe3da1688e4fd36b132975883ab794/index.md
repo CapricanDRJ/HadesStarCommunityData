@@ -1,6 +1,6 @@
 ---
 title: ​Ordo Malleus
-description: W:5 L:5 D:2 Bonus ❌ 
+description: W:5 L:5 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **万顷稻花**
 date: 2026-05-31T22:48:12.000Z
@@ -15,7 +15,7 @@ date: 2026-05-31T22:48:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​星际联邦
-description: W:24 L:10 D:1 Bonus ❌ 9%
+description: W:25 L:10 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 3 - 13 **Brethren Court**
-date: 2026-09-07T11:43:09.000Z
+Summary: ✅ 10 - 7 **Ereboros**
+date: 2026-09-15T12:25:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-07T11:43:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔻  (-18)|
-| ELO Competitive | 1402 🔻  (-21)|
-| Total Matches | 35 |
-| Wins | 24 |
+| ELO Regular | 1337 🔺  (15)|
+| ELO Competitive | 1415 🔺  (13)|
+| Total Matches | 36 |
+| Wins | 25 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788349389,1787752786,1787155367,1786624604,1786092530,1783954048,1783561996,1783422592,1782988995,1782440773,1781847971,1781152755,1781103485,1780671218,1780053872,1779279085,1778758853,1778280943,1778275755,1777619302,1777587461,1777043640,1776340620,1775851967,1775226286,1775221478,1774608083,1774013695,1773476209,1771861102,1771425174,1770906312,1770370626,1769887506,1769415157];
+        let timestamps = [1789043128,1788349389,1787752786,1787155367,1786624604,1786092530,1783954048,1783561996,1783422592,1782988995,1782440773,1781847971,1781152755,1781103485,1780671218,1780053872,1779279085,1778758853,1778280943,1778275755,1777619302,1777587461,1777043640,1776340620,1775851967,1775226286,1775221478,1774608083,1774013695,1773476209,1771861102,1771425174,1770906312,1770370626,1769887506,1769415157];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/15 | 10-7 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
 | ❌ | 2026/09/07 | 3-13 | [Brethren Court](https://ws.tsl.rocks/corp/58ce9bed114bde298d77f20adf5584e22292e24f89dd59298051b01d66212ad4/) |
 | ❌ | 2026/08/31 | 11-21 | [璃寒教廷](https://ws.tsl.rocks/corp/e81682fd11ea50def0fc7853a56c023bd6e38a6142f2a0bd06817e1a546d55d2/) |
 | ✅ | 2026/08/24 | 11-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
@@ -186,5 +187,5 @@ Corporation ID: 0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788781389"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789475128"></span>
 </div>

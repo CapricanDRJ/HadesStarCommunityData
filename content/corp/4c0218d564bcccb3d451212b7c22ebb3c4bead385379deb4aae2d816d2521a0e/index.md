@@ -1,6 +1,6 @@
 ---
 title: ​星空漫游者-GR
-description: W:28 L:2 D:0 Bonus ✅ 44%
+description: W:28 L:2 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 27 - 6 **リリース**
 date: 2026-09-08T10:04:19.000Z
@@ -22,7 +22,7 @@ QQ群:663677762
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
