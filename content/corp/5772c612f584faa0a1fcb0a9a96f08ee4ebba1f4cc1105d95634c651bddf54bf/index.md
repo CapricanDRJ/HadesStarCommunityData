@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Hades
-description: W:96 L:38 D:4 Bonus ✅ 48%
+description: W:96 L:38 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 22 - 1 **Star Blazers**
 date: 2026-09-08T06:44:50.000Z
@@ -15,7 +15,7 @@ date: 2026-09-08T06:44:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
