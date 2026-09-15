@@ -1,9 +1,9 @@
 ---
 title: ​W.A.L.R.U.S.
-description: W:5 L:24 D:3 Bonus ❌ 6%
+description: W:5 L:25 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **ParalleL**
-date: 2026-08-27T10:55:57.000Z
+Summary: ❌ 3 - 24 **云深不知处**
+date: 2026-09-15T14:05:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-27T10:55:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (-12)|
-| ELO Competitive | 1118 🔻  (-11)|
-| Total Matches | 32 |
+| ELO Regular | 1035 🔻  (-10)|
+| ELO Competitive | 1106 🔻  (-12)|
+| Total Matches | 33 |
 | Wins | 5 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 3 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787396157,1785417152,1783382644,1781703758,1780756018,1780037047,1778917184,1778148350,1777060685,1776488132,1775844306,1774725422,1774076791,1772913210,1772007106,1771534545,1770776160,1769112882,1768675002,1767303538,1766791304,1766161535,1765638460,1765132743,1764698009,1764264381,1763784591,1762894970,1762363445,1761854721,1761311254,1760765797];
+        let timestamps = [1789049137,1787396157,1785417152,1783382644,1781703758,1780756018,1780037047,1778917184,1778148350,1777060685,1776488132,1775844306,1774725422,1774076791,1772913210,1772007106,1771534545,1770776160,1769112882,1768675002,1767303538,1766791304,1766161535,1765638460,1765132743,1764698009,1764264381,1763784591,1762894970,1762363445,1761854721,1761311254,1760765797];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) | 1 | 1 | 0 | 2 |
 | [中华人民共和国](https://ws.tsl.rocks/corp/2acf0be46829b53620f0aa02fc71aaa7e3e9c54d9446951bb26288c05727ae84/) | 0 | 2 | 0 | 2 |
 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) | 0 | 2 | 0 | 2 |
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/15 | 3-24 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ❌ | 2026/08/27 | 0-9 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/08/04 | 0-20 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ❌ | 2026/07/12 | 0-9 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -179,5 +181,5 @@ Corporation ID: 3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787828157"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789481137"></span>
 </div>

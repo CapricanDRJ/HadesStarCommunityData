@@ -1,9 +1,9 @@
 ---
 title: ​云深不知处
-description: W:5 L:9 D:0 Bonus ✅ 32%
+description: W:6 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 22 - 0 **中华五千年**
-date: 2026-09-10T10:04:22.000Z
+Summary: ✅ 24 - 3 **W\.A\.L\.R\.U\.S\.**
+date: 2026-09-15T14:05:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-09-10T10:04:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔺  (21)|
-| ELO Competitive | 1190 🔺  (24)|
-| Total Matches | 14 |
-| Wins | 5 |
+| ELO Regular | 1169 🔺  (10)|
+| ELO Competitive | 1202 🔺  (12)|
+| Total Matches | 15 |
+| Wins | 6 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 3 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788602662,1788145591,1787707124,1774725422,1774251086,1773707466,1773274932,1736550492,1736013427,1735568980,1731595094,1731138623,1730630186,1730120246];
+        let timestamps = [1789049137,1788602662,1788145591,1787707124,1774725422,1774251086,1773707466,1773274932,1736550492,1736013427,1735568980,1731595094,1731138623,1730630186,1730120246];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313/) | 1 | 1 | 0 | 2 |
 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) | 2 | 0 | 0 | 2 |
 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) | 0 | 2 | 0 | 2 |
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/15 | 24-3 | [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313/) |
 | ✅ | 2026/09/10 | 22-0 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ✅ | 2026/09/05 | 18-0 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) |
 | ✅ | 2026/08/31 | 3-2 | [Irish Pride](https://ws.tsl.rocks/corp/a3c944ea9abef71001c52b6127e716ac11dfbf2b33d21d6f9312cfa0361f1eb8/) |
@@ -163,5 +165,5 @@ Corporation ID: 640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789034662"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789481137"></span>
 </div>

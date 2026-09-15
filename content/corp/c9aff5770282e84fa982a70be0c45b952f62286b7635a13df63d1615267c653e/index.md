@@ -1,9 +1,9 @@
 ---
 title: ​亚洲团队
-description: W:3 L:3 D:0 Bonus ❌ 4%
+description: W:3 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **宇宙聯盟**
-date: 2026-08-23T09:12:33.000Z
+Summary: ❌ 0 - 7 **欢迎新手**
+date: 2026-09-15T13:06:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-23T09:12:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (-15)|
-| ELO Competitive | 1209 🔻  (-16)|
-| Total Matches | 6 |
+| ELO Regular | 1177 🔻  (-18)|
+| ELO Competitive | 1193 🔻  (-15)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787044353,1786008113,1785501274,1785036502,1784551916,1784118977];
+        let timestamps = [1789045568,1787044353,1786008113,1785501274,1785036502,1784551916,1784118977];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/15 | 0-7 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ❌ | 2026/08/23 | 0-4 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ❌ | 2026/08/11 | 0-12 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ✅ | 2026/08/05 | 3-0 | [莱恩星际](https://ws.tsl.rocks/corp/7510b8b55ddb419c89f0f789119f72cddd83680fb3508b84b8a32d75e475b40d/) |
@@ -148,5 +149,5 @@ Corporation ID: c9aff5770282e84fa982a70be0c45b952f62286b7635a13df63d1615267c653e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787476353"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789477568"></span>
 </div>

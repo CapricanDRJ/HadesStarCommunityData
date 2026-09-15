@@ -1,9 +1,9 @@
 ---
 title: ​Space Dragons
-description: W:0 L:13 D:2 Bonus ❌ 3%
+description: W:0 L:14 D:2 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 21 **自由之地**
-date: 2026-09-10T03:14:51.000Z
+Summary: ❌ 3 - 31 **星落苑**
+date: 2026-09-15T15:25:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-10T03:14:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1053 🔻  (-8)|
-| ELO Competitive | 1102 🔻  (-5)|
-| Total Matches | 15 |
+| ELO Regular | 1049 🔻  (-5)|
+| ELO Competitive | 1101 🔻  (-2)|
+| Total Matches | 16 |
 | Wins | 0 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788578091,1787913522,1787401565,1781878425,1780883873,1780185111,1777981616,1776664788,1775927532,1775275559,1774606259,1773583170,1765855386,1761249372,1760764922];
+        let timestamps = [1789053946,1788578091,1787913522,1787401565,1781878425,1780883873,1780185111,1777981616,1776664788,1775927532,1775275559,1774606259,1773583170,1765855386,1761249372,1760764922];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/15 | 3-31 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2026/09/10 | 0-21 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ❌ | 2026/09/02 | 3-13 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) |
 | ❌ | 2026/08/27 | 0-22 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
@@ -156,5 +157,5 @@ Corporation ID: 3f6b6b5d181d20730e3ec18ca3bbd08e5b8f8359525a9bb87dff2f8fa1d9f38f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789010091"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789485946"></span>
 </div>

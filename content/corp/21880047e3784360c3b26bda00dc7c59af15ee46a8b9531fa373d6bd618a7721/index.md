@@ -1,6 +1,6 @@
 ---
 title: ​Кузня Лютых
-description: W:13 L:3 D:0 Bonus ✅ 36%
+description: W:13 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 23 - 1 **九州·养老**
 date: 2026-09-08T15:20:35.000Z
@@ -15,7 +15,7 @@ date: 2026-09-08T15:20:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
