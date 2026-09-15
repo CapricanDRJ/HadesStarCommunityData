@@ -1,6 +1,6 @@
 ---
 title: ​No Orbit©
-description: W:35 L:25 D:0 Bonus ✅ 46%
+description: W:35 L:25 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **BlackStar Order**
 date: 2026-09-08T07:49:55.000Z
@@ -18,7 +18,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
