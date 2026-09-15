@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:73 L:28 D:1 Bonus ✅ 50%
+description: W:73 L:28 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 1 - 25 **Russian space 3**
 date: 2026-09-08T07:09:52.000Z
@@ -16,7 +16,7 @@ date: 2026-09-08T07:09:52.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

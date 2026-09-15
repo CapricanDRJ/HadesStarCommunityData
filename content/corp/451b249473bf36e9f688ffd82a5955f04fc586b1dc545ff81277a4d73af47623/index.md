@@ -1,6 +1,6 @@
 ---
 title: ​Lost Legion
-description: W:68 L:136 D:1 Bonus ✅ 52%
+description: W:68 L:136 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 5 - 26 **Rogue One**
 date: 2026-09-13T12:11:06.000Z
@@ -20,7 +20,7 @@ Disc AvYQJJh9
 <br>
 
 ### [Discord](https://discord.gg/najb7MJf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
