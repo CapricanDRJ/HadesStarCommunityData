@@ -1,6 +1,6 @@
 ---
 title: ​太阳系星盟·白星观测站
-description: W:8 L:3 D:0 Bonus ✅ 32%
+description: W:8 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **欢迎新手**
 date: 2026-09-09T12:32:27.000Z
@@ -15,7 +15,7 @@ date: 2026-09-09T12:32:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​E.T.A
-description: W:58 L:120 D:0 Bonus ✅ 56%
+description: W:58 L:120 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 8 - 5 **红色太阳**
 date: 2026-09-09T12:32:27.000Z
@@ -16,7 +16,7 @@ date: 2026-09-09T12:32:27.000Z
 <br>
 
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

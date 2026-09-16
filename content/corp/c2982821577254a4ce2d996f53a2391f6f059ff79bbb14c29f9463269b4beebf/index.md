@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:79 L:66 D:2 Bonus ✅ 50%
+description: W:79 L:66 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 2 - 10 **New YuGiOh**
 date: 2026-09-09T11:27:21.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
