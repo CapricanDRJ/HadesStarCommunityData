@@ -1,9 +1,9 @@
 ---
 title: ​Hades Academy
-description: W:5 L:7 D:0 Bonus ❌ 8%
+description: W:5 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 13 **共联·世界**
-date: 2026-08-15T13:00:36.000Z
+Summary: ❌ 0 - 25 **ༀᅗBAR ESTELARᅗༀ**
+date: 2026-09-16T03:27:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Discord is mandatory!</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (-9)|
-| ELO Competitive | 1195 🔻  (-4)|
-| Total Matches | 12 |
+| ELO Regular | 1162 🔻  (-11)|
+| ELO Competitive | 1186 🔻  (-9)|
+| Total Matches | 13 |
 | Wins | 5 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 8 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1786366836,1779287032,1721346627,1720212709,1709970058,1708770547,1704317920,1703003235,1701064133,1700551390,1699900046,1699198573];
+        let timestamps = [1789097237,1786366836,1779287032,1721346627,1720212709,1709970058,1708770547,1704317920,1703003235,1701064133,1700551390,1699900046,1699198573];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/16 | 0-25 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2026/08/15 | 0-13 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/05/25 | 0-3 | [General](https://ws.tsl.rocks/corp/82f142db6c5d19268a598fa5dc5b7ccf0554422791925a821cd5b839718cf0e6/) |
 | ❌ | 2024/07/23 | 33-39 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
@@ -159,5 +160,5 @@ Corporation ID: b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786798836"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789529237"></span>
 </div>

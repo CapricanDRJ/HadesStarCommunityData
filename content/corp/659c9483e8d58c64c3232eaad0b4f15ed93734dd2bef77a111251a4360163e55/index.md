@@ -1,6 +1,6 @@
 ---
 title: ​Ereboros
-description: W:10 L:2 D:0 Bonus ✅ 32%
+description: W:10 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 7 - 10 **星际联邦**
 date: 2026-09-15T12:25:28.000Z
@@ -15,7 +15,7 @@ date: 2026-09-15T12:25:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​TheBasics
-description: W:147 L:158 D:4 Bonus ✅ 52%
+description: W:147 L:158 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 5 - 25 **Russian space 3**
 date: 2026-09-15T04:54:53.000Z
@@ -16,7 +16,7 @@ Just log in and play once per day.
 <br>
 
 ### [Discord](https://discord.gg/pTS382n7ZR)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
