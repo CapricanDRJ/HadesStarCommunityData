@@ -1,9 +1,9 @@
 ---
 title: ​长安三万里
-description: W:0 L:2 D:0 Bonus ❌ 2%
+description: W:0 L:3 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **Mondluftschiff**
-date: 2026-09-04T12:58:06.000Z
+Summary: ❌ 0 - 9 **Company W**
+date: 2026-09-16T15:17:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-09-04T12:58:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (-14)|
-| ELO Competitive | 1174 🔻  (-14)|
-| Total Matches | 2 |
+| ELO Regular | 1161 🔻  (-12)|
+| ELO Competitive | 1163 🔻  (-11)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788094686,1787650337];
+        let timestamps = [1789139868,1788094686,1787650337];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/16 | 0-9 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101/) |
 | ❌ | 2026/09/04 | 0-14 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ❌ | 2026/08/30 | 0-4 | [神圣群星帝国](https://ws.tsl.rocks/corp/7c3cb9fed2932138322efbd8923aae086504c31685e36adf906dd4a83003569f/) |
 
@@ -143,5 +144,5 @@ Corporation ID: b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788526686"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789571868"></span>
 </div>
