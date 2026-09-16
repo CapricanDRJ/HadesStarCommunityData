@@ -1,6 +1,6 @@
 ---
 title: ​深域
-description: W:105 L:19 D:2 Bonus ✅ 50%
+description: W:105 L:19 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 12 - 3 **северный шторм**
 date: 2026-09-09T03:56:46.000Z
@@ -15,7 +15,7 @@ date: 2026-09-09T03:56:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
