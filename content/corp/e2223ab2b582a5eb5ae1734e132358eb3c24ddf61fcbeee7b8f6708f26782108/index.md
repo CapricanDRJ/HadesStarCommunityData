@@ -1,6 +1,6 @@
 ---
 title: ​Galactic Empire
-description: W:58 L:64 D:1 Bonus ✅ 44%
+description: W:58 L:64 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 8 - 2 **ItaFederalFleet**
 date: 2026-09-09T17:12:52.000Z
@@ -19,7 +19,7 @@ will be kicked! Founder: Emperor
 <br>
 
 ### [Discord](https://discord.gg/Red4yqWn3F)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

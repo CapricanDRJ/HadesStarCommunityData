@@ -1,6 +1,6 @@
 ---
 title: ​Critical Mass
-description: W:71 L:35 D:2 Bonus ✅ 48%
+description: W:71 L:35 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 33 - 5 **Soul System**
 date: 2026-09-09T18:12:58.000Z
@@ -15,7 +15,7 @@ date: 2026-09-09T18:12:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
