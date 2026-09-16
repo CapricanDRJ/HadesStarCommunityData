@@ -1,6 +1,6 @@
 ---
 title: ​无人深空
-description: W:15 L:8 D:1 Bonus ✅ 36%
+description: W:15 L:8 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 13 **Space Catz**
 date: 2026-09-14T10:30:39.000Z
@@ -15,7 +15,7 @@ date: 2026-09-14T10:30:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

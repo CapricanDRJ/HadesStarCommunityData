@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:96 L:39 D:4 Bonus ✅ 48%
+description: W:96 L:39 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 40 - 0 **ProyectCorp**
 date: 2026-09-09T07:47:04.000Z
@@ -18,7 +18,7 @@ date: 2026-09-09T07:47:04.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
