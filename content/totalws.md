@@ -2,7 +2,7 @@
 layout: page
 title: Total WhiteStars
 description: Hades' Star corporations with the most whitestars since the Dark Nebula release.
-date: 2026-09-15T21:55:30.344Z
+date: 2026-09-16T00:55:29.025Z
 permalink: /totalws/
 searchHidden: true
 ---
