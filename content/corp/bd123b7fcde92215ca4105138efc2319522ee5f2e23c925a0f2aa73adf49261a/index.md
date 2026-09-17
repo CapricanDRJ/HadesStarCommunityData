@@ -1,9 +1,9 @@
 ---
 title: ​Best
-description: W:3 L:33 D:0 Bonus ❌ 15%
+description: W:3 L:34 D:0 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 6 - 51 **русь**
-date: 2026-09-12T04:43:22.000Z
+Summary: ❌ 3 - 18 **E\.T\.A**
+date: 2026-09-17T08:39:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2026-09-12T04:43:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 990 🔻  (-1)|
-| ELO Competitive | 1169 🔻  (0)|
-| Total Matches | 36 |
+| ELO Regular | 985 🔻  (-5)|
+| ELO Competitive | 1165 🔻  (-3)|
+| Total Matches | 37 |
 | Wins | 3 |
-| Losses | 33 |
+| Losses | 34 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
+        let timestamps = [1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/17 | 3-18 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2026/09/12 | 6-51 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2026/09/04 | 3-29 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | ❌ | 2026/08/29 | 2-77 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
@@ -188,5 +189,5 @@ Corporation ID: bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789188202"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789634362"></span>
 </div>

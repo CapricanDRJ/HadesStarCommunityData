@@ -1,6 +1,6 @@
 ---
 title: ​imperio viltrum
-description: W:12 L:10 D:2 Bonus ✅ 34%
+description: W:12 L:10 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **老哥最强集团**
 date: 2026-09-10T08:23:44.000Z
@@ -15,7 +15,7 @@ date: 2026-09-10T08:23:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Sunat.
-description: W:2 L:4 D:0 Bonus ❌ 4%
+description: W:3 L:4 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **无人深空**
-date: 2026-09-09T07:58:40.000Z
+Summary: ✅ 3 - 0 **数字星际集团**
+date: 2026-09-17T07:56:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-09T07:58:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (-12)|
-| ELO Competitive | 1192 🔻  (-10)|
-| Total Matches | 6 |
-| Wins | 2 |
+| ELO Regular | 1193 🔺  (10)|
+| ELO Competitive | 1204 🔺  (11)|
+| Total Matches | 7 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
+        let timestamps = [1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 3-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ❌ | 2026/09/09 | 0-14 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/09/04 | 2-0 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ❌ | 2026/08/30 | 0-5 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
@@ -152,5 +153,5 @@ Corporation ID: b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788940720"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789631819"></span>
 </div>

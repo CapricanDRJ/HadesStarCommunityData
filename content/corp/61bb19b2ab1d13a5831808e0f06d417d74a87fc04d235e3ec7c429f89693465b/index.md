@@ -1,9 +1,9 @@
 ---
 title: ​Team Elite
-description: W:23 L:22 D:1 Bonus ✅ 50%
+description: W:24 L:22 D:1 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 19 - 2 **INFINITY STAR**
-date: 2026-09-11T12:31:48.000Z
+Summary: ✅ 26 - 3 **Blood Hounds**
+date: 2026-09-17T06:49:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (8)|
-| ELO Competitive | 1530 🔺  (10)|
-| Total Matches | 46 |
-| Wins | 23 |
+| ELO Regular | 1329 🔺  (21)|
+| ELO Competitive | 1558 🔺  (28)|
+| Total Matches | 47 |
+| Wins | 24 |
 | Losses | 22 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 10 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
+        let timestamps = [1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 26-3 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2026/09/11 | 19-2 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ✅ | 2026/09/05 | 21-3 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2026/08/31 | 13-3 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
@@ -200,5 +201,5 @@ Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789129908"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789627752"></span>
 </div>
