@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "☆》/dev/null"
-description: "ws: 10 μ: 25.82"
+description: "ws: 11 μ: 24.77"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 8
-- **Rating**: 1.67
-- **μ**: 25.82  
-- **σ**: 8.05
-- W: 5, L: 5, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 9
+- **Rating**: 0.71
+- **μ**: 24.77  
+- **σ**: 8.02
+- W: 5, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 10 μ: 25.82"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 8 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 9 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 10 μ: 25.82"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-17 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 14-17 | [Milliways](https://ws.tsl.rocks/corp/e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f/) |
 | 2026-09-10 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 26-0 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
 | 2026-09-03 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 17-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | 2026-08-13 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 4-26 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
