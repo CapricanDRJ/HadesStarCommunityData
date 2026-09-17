@@ -1,9 +1,9 @@
 ---
 title: ​Corp. Luminá
-description: W:37 L:23 D:0 Bonus ✅ 40%
+description: W:38 L:23 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 18 - 4 **泰拉瑞亚**
-date: 2026-09-11T16:37:15.000Z
+Summary: ✅ 28 - 3 **47підрозділССП**
+date: 2026-09-17T14:39:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (11)|
-| ELO Competitive | 1449 🔺  (18)|
-| Total Matches | 60 |
-| Wins | 37 |
+| ELO Regular | 1278 🔺  (8)|
+| ELO Competitive | 1458 🔺  (9)|
+| Total Matches | 61 |
+| Wins | 38 |
 | Losses | 23 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 11 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788712635,1788269531,1787498911,1787010409,1786369540,1785781153,1777914626,1774446339,1771426977,1770669875,1770039545,1769542857,1768898356,1768131589,1767646375,1767214008,1765175158,1764285715,1757549612,1757000680,1755425458,1754357201,1754352395,1753285673,1752635077,1752067218,1751196121,1749717658,1748795457,1748161718,1747588072,1747125306,1747121701,1746474775,1746466025,1745783713,1744728018,1743344140,1742826605,1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
+        let timestamps = [1789223995,1788712635,1788269531,1787498911,1787010409,1786369540,1785781153,1777914626,1774446339,1771426977,1770669875,1770039545,1769542857,1768898356,1768131589,1767646375,1767214008,1765175158,1764285715,1757549612,1757000680,1755425458,1754357201,1754352395,1753285673,1752635077,1752067218,1751196121,1749717658,1748795457,1748161718,1747588072,1747125306,1747121701,1746474775,1746466025,1745783713,1744728018,1743344140,1742826605,1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 2 | 0 | 0 | 2 |
 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 1 | 0 | 2 |
 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) | 2 | 1 | 0 | 3 |
 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) | 1 | 2 | 0 | 3 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 28-3 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2026/09/11 | 18-4 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ✅ | 2026/09/06 | 19-0 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ✅ | 2026/08/28 | 10-3 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
@@ -216,5 +218,5 @@ Corporation ID: a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789144635"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789655995"></span>
 </div>

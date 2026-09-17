@@ -1,6 +1,6 @@
 ---
 title: ​imperio estelar
-description: W:47 L:32 D:4 Bonus ✅ 40%
+description: W:47 L:32 D:4 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 13 - 0 **ALPHA**
 date: 2026-09-10T15:04:52.000Z
@@ -17,7 +17,7 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
