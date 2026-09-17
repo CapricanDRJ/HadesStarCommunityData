@@ -1,9 +1,9 @@
 ---
 title: ​Galactic Emp 2
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **墨痕空域**
-date: 2024-09-06T02:18:50.000Z
+Summary: ❌ 0 - 3 **Galactic Empire**
+date: 2026-09-17T01:57:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ cessary
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (-16)|
-| ELO Competitive | 1193 🔻  (-7)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (-12)|
+| ELO Competitive | 1180 🔻  (-13)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725157130];
+        let timestamps = [1789178249,1725157130];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/17 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ❌ | 2024/09/06 | 0-2 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 
 ---
@@ -143,5 +144,5 @@ Corporation ID: af8e11d9f99113249c47a751e04e2b430f99c974c500124ab156026d5e228218
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1725589130"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789610249"></span>
 </div>

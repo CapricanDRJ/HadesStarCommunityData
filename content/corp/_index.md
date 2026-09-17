@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-09-17T00:55:40.289Z
+date: 2026-09-17T03:55:40.581Z
 summary: "Corporation directory"
 ---
 
@@ -412,11 +412,11 @@ summary: "Corporation directory"
 | [G\.02](https://ws.tsl.rocks/corp/3d66e65d60badaec626f25167e924ca012f6a859eee35b41a49a6e00ded7c124/) | 1252 | 1277 | 10 |
 | [G\.D\.C\.](https://ws.tsl.rocks/corp/a432960462712000978e07d31983919f34392d4027087809eaf89a3f1d8b0733/) | 1184 | 1184 | 1 |
 | [G\.O\.D](https://ws.tsl.rocks/corp/cf6623f6ccdc71e3b5ab5e70c69addbe1f842a1863f4f86b58c5db5c7f3aa18a/) | 1185 | 1186 | 1 |
-| [G\.O\.D 星辰](https://ws.tsl.rocks/corp/10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a/) | 1181 | 1189 | 7 |
+| [G\.O\.D 星辰](https://ws.tsl.rocks/corp/10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a/) | 1170 | 1176 | 8 |
 | [G\.O\.T GALAXY](https://ws.tsl.rocks/corp/07652fd2346244a350b2ed9a47b0891112493ba4b5c9bfa8a159050f3d6244ea/) | 1188 | 1194 | 1 |
-| [Galactic Emp 2](https://ws.tsl.rocks/corp/af8e11d9f99113249c47a751e04e2b430f99c974c500124ab156026d5e228218/) | 1184 | 1193 | 1 |
+| [Galactic Emp 2](https://ws.tsl.rocks/corp/af8e11d9f99113249c47a751e04e2b430f99c974c500124ab156026d5e228218/) | 1172 | 1180 | 2 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) | 1194 | 1536 | 123 |
-| [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) | 1248 | 1231 | 17 |
+| [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) | 1272 | 1245 | 19 |
 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) | 1189 | 1203 | 7 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/b941fd6d79cbc203f95fa35048244cda4277fcd04025a739dc28c47562e6cbb8/) | 1187 | 1188 | 1 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/8fcd7c712bd994be7192b2df55564b3dc1ca7cfae97f392d76c63de849366f75/) | 1193 | 1200 | 1 |
@@ -603,7 +603,7 @@ summary: "Corporation directory"
 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6/) | 1241 | 1268 | 14 |
 | [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/) | 1454 | 1563 | 24 |
 | [KINETIC](https://ws.tsl.rocks/corp/cede0cbd357fd37d5a222b983ddb557199882d8d8a95d55616333f60ee7c8527/) | 1196 | 1200 | 1 |
-| [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 1139 | 1383 | 219 |
+| [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 1132 | 1383 | 220 |
 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) | 1127 | 1157 | 11 |
 | [Kiyoshi](https://ws.tsl.rocks/corp/760b74e84a58b20cd6ee926ecc45da232da8d67fd274698349f814fab6d220ea/) | 1188 | 1189 | 1 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 1076 | 1240 | 80 |
@@ -1061,7 +1061,7 @@ summary: "Corporation directory"
 | [STAR EMPIRE 16](https://ws.tsl.rocks/corp/0a9c6173e2636bb1784f0033a970ad001961ee3f95d4cffb8a08ba7f1c3f54c1/) | 1153 | 1153 | 3 |
 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) | 1213 | 1260 | 14 |
 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) | 1194 | 1244 | 31 |
-| [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) | 1167 | 1264 | 29 |
+| [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) | 1171 | 1269 | 30 |
 | [Star Jumpers](https://ws.tsl.rocks/corp/61a0e0deb37605b84fe697418ea2b42dad3e1dd3e8bb793e8257ff881003c1f2/) | 1186 | 1197 | 1 |
 | [Star League](https://ws.tsl.rocks/corp/f6e399c226abb13fbb01d04c3d26f5771dfeaa767fe4b6c374bec8ca0299d836/) | 1149 | 1154 | 5 |
 | [Star Raiders](https://ws.tsl.rocks/corp/42517e68f38edb2fc73bd661ea28b0bf3d3bcbc58e50dc68d7eea184dd80019c/) | 1179 | 1179 | 2 |
@@ -1699,7 +1699,7 @@ summary: "Corporation directory"
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 1690 | 1966 | 348 |
 | [仙女座星雲红活壹号](https://ws.tsl.rocks/corp/bee285778d7210bbaca39c7a461392ab7cf3495b5afef61fd9ef64a4709416aa/) | 1225 | 1268 | 8 |
 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) | 1115 | 1223 | 21 |
-| [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 1052 | 1141 | 49 |
+| [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 1057 | 1144 | 50 |
 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) | 1150 | 1156 | 9 |
 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) | 1294 | 1336 | 16 |
 | [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb/) | 1305 | 1476 | 49 |
@@ -1747,7 +1747,7 @@ summary: "Corporation directory"
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1149 | 1300 | 53 |
 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1159 | 1279 | 39 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 962 | 1074 | 46 |
-| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1345 | 1464 | 32 |
+| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1353 | 1475 | 34 |
 | [基地联邦](https://ws.tsl.rocks/corp/9e1663122c20a4645bb8c9dd366a5b75a4c70ebbcd9ce2777574ce182e19beba/) | 1216 | 1222 | 1 |
 | [塔罗会](https://ws.tsl.rocks/corp/6bff4eb81afd71832d1e181ac97acc1ce1b280b8cef58e8a01ca31d45df501f4/) | 1187 | 1195 | 1 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |
@@ -1783,7 +1783,7 @@ summary: "Corporation directory"
 | [小红色太阳](https://ws.tsl.rocks/corp/8821d9efed57f79a1c13d2755a543d4c7f598ad290ca699218f1e23c9718cd3d/) | 1164 | 1165 | 2 |
 | [小蚂蚁 Ant](https://ws.tsl.rocks/corp/a1cfaa1473f888ac3fdb9ee3004ad64fdd505530828e8a5c172e581e7cd6a2be/) | 1225 | 1226 | 2 |
 | [希灵帝国](https://ws.tsl.rocks/corp/d704c772517227272eea5818b6f8d4a0641be2d398359a4ed29c0e945e6d707b/) | 1151 | 1172 | 4 |
-| [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) | 803 | 1182 | 98 |
+| [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) | 793 | 1177 | 100 |
 | [幻想乡](https://ws.tsl.rocks/corp/441e1a0c14268ad15932035c1fb348ea3532c5927ced7f058e6ca74a186f77be/) | 1178 | 1182 | 2 |
 | [异星旅人（流浪地球第2分盟）](https://ws.tsl.rocks/corp/9dc08f39359c6ef107f59f385544278a55c72ff4689e9a06a4e639197e7dfac1/) | 1136 | 1160 | 12 |
 | [彩虹神圣太空队](https://ws.tsl.rocks/corp/65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9/) | 1148 | 1154 | 6 |
@@ -1943,7 +1943,7 @@ summary: "Corporation directory"
 | [第六星际](https://ws.tsl.rocks/corp/b322db3cd473083ce32a0b274764dfecf2e77caa341610fc1e898563debc5087/) | 1219 | 1219 | 1 |
 | [第四天灾](https://ws.tsl.rocks/corp/4a95d21903a441f2a20c9e679a90b299942ceb1b304e21b11213de9bb14c17ce/) | 1186 | 1199 | 3 |
 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) | 1287 | 1396 | 45 |
-| [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) | 976 | 1178 | 76 |
+| [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) | 984 | 1193 | 77 |
 | [红巨星联盟](https://ws.tsl.rocks/corp/872aa66eedf58950cc95e01facf71c38a9bc09e7b4d5dcd1d5af928f490d6632/) | 1137 | 1149 | 6 |
 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1209 | 1586 | 187 |
 | [红星超新星爆炸](https://ws.tsl.rocks/corp/004f2173a6d8f08e3ecf198c1d824992198a159f615534a227ee11de18606403/) | 1187 | 1188 | 3 |
@@ -1953,7 +1953,7 @@ summary: "Corporation directory"
 | [纸鸢台](https://ws.tsl.rocks/corp/c4be34dcc0fcf9c2c0cef9c6f2ce31798d5435dadefaccbcb2502e65252ae677/) | 1158 | 1187 | 15 |
 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) | 1219 | 1418 | 80 |
 | [绛紫星云](https://ws.tsl.rocks/corp/5a3a9602bef85f5409788b6ae18f372599736e4be470dee01f373a17865f07d9/) | 1144 | 1168 | 9 |
-| [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) | 1159 | 1219 | 17 |
+| [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) | 1155 | 1216 | 18 |
 | [美丽新世界](https://ws.tsl.rocks/corp/237f60ced9a11f8d992fe2158784705710b2ff412544679b218d86ef44d230ef/) | 1153 | 1158 | 3 |
 | [群星璀璨](https://ws.tsl.rocks/corp/bea31635844ab6ddf96f0a6984cd0498838cd869ca859dac82c7d40d709f52aa/) | 1174 | 1176 | 2 |
 | [群星联合会](https://ws.tsl.rocks/corp/11905bc77352395fbda2d44f2e1d4aae9fdba43b8ee7cda33c68fc45a90f1f27/) | 1192 | 1197 | 1 |
@@ -1966,7 +1966,7 @@ summary: "Corporation directory"
 | [肥橙子](https://ws.tsl.rocks/corp/89ea001d8666ade05d452a0f136622d2451e614c357e549a6d4dddc6d019ba9c/) | 1232 | 1242 | 8 |
 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) | 1154 | 1292 | 61 |
 | [自由free](https://ws.tsl.rocks/corp/f3c8f1a4ff4df82dcb8cacc2471573cc3b267e63353ad34bec874e00d5288fd0/) | 1139 | 1159 | 5 |
-| [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) | 1253 | 1375 | 30 |
+| [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) | 1250 | 1370 | 31 |
 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) | 968 | 1050 | 48 |
 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) | 1123 | 1134 | 11 |
 | [花鸟市场](https://ws.tsl.rocks/corp/45a61cb4d071f081ca6b32010343d3539ff9002b1cc2fd2fb455841faad7d182/) | 1185 | 1185 | 1 |

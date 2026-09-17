@@ -1,9 +1,9 @@
 ---
 title: ​Galactic Empire
-description: W:10 L:7 D:0 Bonus ✅ 48%
+description: W:12 L:7 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **数字星际集团**
-date: 2026-09-12T00:28:04.000Z
+Summary: ✅ 3 - 0 **G\.O\.D 星辰**
+date: 2026-09-17T01:58:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,14 +23,14 @@ Discord: fYBf2GNU7y
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (9)|
-| ELO Competitive | 1231 🔺  (13)|
-| Total Matches | 17 |
-| Wins | 10 |
+| ELO Regular | 1272 🔺  (12)|
+| ELO Competitive | 1245 🔺  (13)|
+| Total Matches | 19 |
+| Wins | 12 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 7 |
 
 ---
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788740884,1788739983,1788228598,1788228288,1787714797,1787705896,1787272744,1787265288,1786815768,1786812393,1719222813,1718108048,1716864960,1715602123,1714990700,1704676135,1704208829];
+        let timestamps = [1789178310,1789178249,1788740884,1788739983,1788228598,1788228288,1787714797,1787705896,1787272744,1787265288,1786815768,1786812393,1719222813,1718108048,1716864960,1715602123,1714990700,1704676135,1704208829];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 3-0 | [G\.O\.D 星辰](https://ws.tsl.rocks/corp/10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a/) |
+| ✅ | 2026/09/17 | 3-0 | [Galactic Emp 2](https://ws.tsl.rocks/corp/af8e11d9f99113249c47a751e04e2b430f99c974c500124ab156026d5e228218/) |
 | ✅ | 2026/09/12 | 3-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ✅ | 2026/09/12 | 3-0 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4/) |
 | ✅ | 2026/09/06 | 3-0 | [TUSFO星舰联邦](https://ws.tsl.rocks/corp/016954ccb4cf18eab01bdcce39c263205f20f80f38920e43516911db71c9d1ab/) |
@@ -164,5 +166,5 @@ Corporation ID: 72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789172884"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789610310"></span>
 </div>

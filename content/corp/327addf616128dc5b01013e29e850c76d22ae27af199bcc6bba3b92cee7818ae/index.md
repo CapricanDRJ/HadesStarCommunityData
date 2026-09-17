@@ -1,9 +1,9 @@
 ---
 title: ​以太超星团
-description: W:5 L:33 D:11 Bonus ❌ 6%
+description: W:5 L:33 D:12 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **Grater U**
-date: 2026-08-30T01:14:26.000Z
+Summary: ↔️ 0 - 0 **维埃星云氮氢钨钽**
+date: 2026-09-17T02:00:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 2026-08-30T01:14:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔺  (20)|
-| ELO Competitive | 1141 🔺  (18)|
-| Total Matches | 49 |
+| ELO Regular | 1057 🔺  (4)|
+| ELO Competitive | 1144 🔺  (3)|
+| Total Matches | 50 |
 | Wins | 5 |
 | Losses | 33 |
-| Draws | 11 |
+| Draws | 12 |
 | Flagship | 3 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787620466,1786942124,1786506845,1786493929,1786071804,1785622066,1785167091,1784712207,1780726754,1780105484,1744426010,1743836387,1740730267,1740279528,1730622674,1728040018,1726898116,1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
+        let timestamps = [1789178454,1787620466,1786942124,1786506845,1786493929,1786071804,1785622066,1785167091,1784712207,1780726754,1780105484,1744426010,1743836387,1740730267,1740279528,1730622674,1728040018,1726898116,1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/17 | 0-0 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
 | ✅ | 2026/08/30 | 3-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ↔️ | 2026/08/22 | 0-0 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |
 | ❌ | 2026/08/17 | 0-12 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
@@ -200,5 +201,5 @@ Corporation ID: 327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788052466"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789610454"></span>
 </div>

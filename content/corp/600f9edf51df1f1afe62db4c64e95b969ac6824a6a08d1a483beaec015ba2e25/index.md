@@ -1,9 +1,9 @@
 ---
 title: ​地球联合
-description: W:23 L:8 D:1 Bonus ❌ 12%
+description: W:25 L:8 D:1 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 1 - 12 **Death Flight**
-date: 2026-09-12T01:23:07.000Z
+Summary: ✅ 43 - 0 **帝国长青**
+date: 2026-09-17T03:09:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,16 +23,17 @@ QQ群号：742063070
 ```
 <br>
 
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1345 🔻  (-27)|
-| ELO Competitive | 1464 🔻  (-11)|
-| Total Matches | 32 |
-| Wins | 23 |
+| ELO Regular | 1353 🔺  (1)|
+| ELO Competitive | 1475 🔺  (12)|
+| Total Matches | 34 |
+| Wins | 25 |
 | Losses | 8 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 5 |
 
@@ -52,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
+        let timestamps = [1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +149,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 43-0 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) |
+| ✅ | 2026/09/17 | 29-6 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2026/09/12 | 1-12 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2026/09/11 | 0-23 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/09/06 | 28-3 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
@@ -187,5 +190,5 @@ Corporation ID: 600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789176187"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789614564"></span>
 </div>
