@@ -1,9 +1,9 @@
 ---
 title: ​Mantle
-description: W:9 L:3 D:0 Bonus ❌ 6%
+description: W:10 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **testims**
-date: 2026-09-06T09:11:51.000Z
+Summary: ✅ 17 - 0 **休闲、红、蓝、白养老集团。**
+date: 2026-09-17T15:55:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-09-06T09:11:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (12)|
-| ELO Competitive | 1304 🔺  (11)|
-| Total Matches | 12 |
-| Wins | 9 |
+| ELO Regular | 1297 🔺  (16)|
+| ELO Competitive | 1320 🔺  (16)|
+| Total Matches | 13 |
+| Wins | 10 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788253911,1787479079,1786888422,1786415516,1785721260,1785704981,1783992501,1783422292,1782048683,1781361256,1780570841,1779538524];
+        let timestamps = [1789228503,1788253911,1787479079,1786888422,1786415516,1785721260,1785704981,1783992501,1783422292,1782048683,1781361256,1780570841,1779538524];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 17-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2026/09/06 | 21-0 | [testims](https://ws.tsl.rocks/corp/2590dd84965e5423ba4a7f6d8d1f21fa9c9a6efd98027939eacdf7b1462d9447/) |
 | ✅ | 2026/08/28 | 26-0 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/08/21 | 16-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
@@ -160,5 +161,5 @@ Corporation ID: a76c018111dc02509e226bf5a45681157183211b818114c21fe78c1f30609eec
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788685911"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789660503"></span>
 </div>
