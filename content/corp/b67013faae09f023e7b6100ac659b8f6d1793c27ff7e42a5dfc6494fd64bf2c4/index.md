@@ -1,9 +1,9 @@
 ---
 title: ​德意志阿尔法帝国
-description: W:3 L:11 D:1 Bonus ❌ 5%
+description: W:3 L:12 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-09-12T00:13:03.000Z
+Summary: ❌ 0 - 2 **中华五千年**
+date: 2026-09-17T12:08:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-12T00:13:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (-11)|
-| ELO Competitive | 1161 🔻  (-13)|
-| Total Matches | 15 |
+| ELO Regular | 1118 🔻  (-9)|
+| ELO Competitive | 1155 🔻  (-6)|
+| Total Matches | 16 |
 | Wins | 3 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788739983,1787913954,1787361040,1786505757,1786071804,1785346758,1784706343,1784692526,1780292391,1761998637,1753089481,1743152426,1722384017,1718816520,1718149733];
+        let timestamps = [1789214913,1788739983,1787913954,1787361040,1786505757,1786071804,1785346758,1784706343,1784692526,1780292391,1761998637,1753089481,1743152426,1722384017,1718816520,1718149733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/17 | 0-2 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ❌ | 2026/09/12 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ✅ | 2026/09/02 | 3-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/08/27 | 2-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -161,5 +162,5 @@ Corporation ID: b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789171983"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789646913"></span>
 </div>

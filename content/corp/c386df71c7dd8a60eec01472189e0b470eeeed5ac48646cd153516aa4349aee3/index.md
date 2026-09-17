@@ -1,9 +1,9 @@
 ---
 title: ​中华五千年
-description: W:26 L:17 D:2 Bonus ✅ 38%
+description: W:27 L:17 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 18 - 0 **红色太阳**
-date: 2026-09-16T03:17:48.000Z
+Summary: ✅ 2 - 0 **德意志阿尔法帝国**
+date: 2026-09-17T12:08:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-16T03:17:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (17)|
+| ELO Regular | 1293 🔺  (9)|
 | ELO Competitive | 1404 🔺  (24)|
-| Total Matches | 45 |
-| Wins | 26 |
+| Total Matches | 46 |
+| Wins | 27 |
 | Losses | 17 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789096668,1788602662,1787871768,1787840759,1787401565,1786955423,1786060861,1786059447,1785615738,1785602300,1785051221,1784465690,1783910484,1783475770,1782986971,1782530019,1782020435,1781585535,1780986316,1780496042,1778672630,1778148350,1777692005,1777637928,1777174879,1777167435,1776609510,1776607406,1776165470,1776163066,1775718418,1775655326,1775235602,1774853440,1774788855,1774344791,1774066411,1773847555,1773409811,1773325692,1772720640,1772278995,1771838268,1771405946,1770973310];
+        let timestamps = [1789214913,1789096668,1788602662,1787871768,1787840759,1787401565,1786955423,1786060861,1786059447,1785615738,1785602300,1785051221,1784465690,1783910484,1783475770,1782986971,1782530019,1782020435,1781585535,1780986316,1780496042,1778672630,1778148350,1777692005,1777637928,1777174879,1777167435,1776609510,1776607406,1776165470,1776163066,1775718418,1775655326,1775235602,1774853440,1774788855,1774344791,1774066411,1773847555,1773409811,1773325692,1772720640,1772278995,1771838268,1771405946,1770973310];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 2-0 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4/) |
 | ✅ | 2026/09/16 | 18-0 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) |
 | ❌ | 2026/09/10 | 0-22 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ✅ | 2026/09/01 | 8-6 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
@@ -195,5 +197,5 @@ Corporation ID: c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789528668"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789646913"></span>
 </div>
