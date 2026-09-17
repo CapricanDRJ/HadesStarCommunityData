@@ -1,9 +1,9 @@
 ---
 title: ​太空的猫
-description: W:11 L:10 D:0 Bonus ✅ 34%
+description: W:11 L:11 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 3 - 14 **ༀᅗBAR ESTELARᅗༀ**
-date: 2026-09-16T11:22:25.000Z
+Summary: ❌ 0 - 21 **63SALVADORES36**
+date: 2026-09-16T22:43:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-16T11:22:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (-14)|
-| ELO Competitive | 1357 🔻  (-16)|
-| Total Matches | 21 |
+| ELO Regular | 1226 🔻  (-18)|
+| ELO Competitive | 1363 🔻  (-10)|
+| Total Matches | 22 |
 | Wins | 11 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
+        let timestamps = [1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 0 | 2 | 0 | 2 |
 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) | 1 | 1 | 0 | 2 |
 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 3 | 0 | 0 | 3 |
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/16 | 0-21 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2026/09/16 | 3-14 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/09/11 | 4-0 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
 | ❌ | 2026/09/06 | 0-33 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
@@ -169,5 +171,5 @@ Corporation ID: f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789557745"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789598611"></span>
 </div>

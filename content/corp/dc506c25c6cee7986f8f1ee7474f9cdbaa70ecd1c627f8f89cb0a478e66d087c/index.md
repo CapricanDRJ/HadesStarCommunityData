@@ -1,9 +1,9 @@
 ---
 title: ​新星帝国属－涵空阁集团
-description: W:0 L:7 D:2 Bonus ❌ 3%
+description: W:0 L:8 D:2 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **UGSS**
-date: 2026-09-11T12:43:10.000Z
+Summary: ❌ 0 - 13 **太阳系星盟·白星观测站**
+date: 2026-09-16T22:34:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-11T12:43:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔺  (0)|
-| ELO Competitive | 1119 🔺  (2)|
-| Total Matches | 9 |
+| ELO Regular | 1101 🔻  (-9)|
+| ELO Competitive | 1110 🔻  (-8)|
+| Total Matches | 10 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788698590,1787542176,1786978255,1786545623,1785936611,1780640840,1779158858,1775273756,1771616014];
+        let timestamps = [1789166042,1788698590,1787542176,1786978255,1786545623,1785936611,1780640840,1779158858,1775273756,1771616014];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/16 | 0-13 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ↔️ | 2026/09/11 | 0-0 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ❌ | 2026/08/29 | 0-16 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ❌ | 2026/08/22 | 0-12 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
@@ -150,5 +151,5 @@ Corporation ID: dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789130590"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789598042"></span>
 </div>

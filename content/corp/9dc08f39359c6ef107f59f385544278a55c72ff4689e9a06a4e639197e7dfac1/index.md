@@ -1,9 +1,9 @@
 ---
 title: ​异星旅人（流浪地球第2分盟）
-description: W:2 L:6 D:3 Bonus ❌ 6%
+description: W:2 L:7 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Avantgarde**
-date: 2026-09-09T07:39:39.000Z
+Summary: ❌ 0 - 6 **63SALVADORES36**
+date: 2026-09-17T00:23:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-09T07:39:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (-14)|
-| ELO Competitive | 1163 🔻  (-7)|
-| Total Matches | 11 |
+| ELO Regular | 1136 🔻  (-13)|
+| ELO Competitive | 1160 🔻  (-4)|
+| Total Matches | 12 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788507579,1787752021,1785605319,1785167198,1784700937,1783825463,1759199471,1756964925,1754578657,1753862316,1753426900];
+        let timestamps = [1789172619,1788507579,1787752021,1785605319,1785167198,1784700937,1783825463,1759199471,1756964925,1754578657,1753862316,1753426900];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/17 | 0-6 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2026/09/09 | 0-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2026/08/31 | 0-1 | [CENTINELAS2](https://ws.tsl.rocks/corp/559ea197d43b38f9b43aaafb3c2729874cac4f82ef0f0213b2d200eb1231b029/) |
 | ❌ | 2026/08/06 | 1-3 | [请输入文本](https://ws.tsl.rocks/corp/dd9d972d90241532a87c021497f2f1bcab86dcc1c8ef7bcf718730bba133f5fb/) |
@@ -153,5 +154,5 @@ Corporation ID: 9dc08f39359c6ef107f59f385544278a55c72ff4689e9a06a4e639197e7dfac1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788939579"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789604619"></span>
 </div>
