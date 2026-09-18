@@ -1,9 +1,9 @@
 ---
 title: ​Vega Conflict
-description: W:32 L:25 D:0 Bonus ❌ 11%
+description: W:33 L:25 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ❌ 4 - 20 **Deadspace**
-date: 2026-09-06T16:42:29.000Z
+Summary: ✅ 18 - 5 **Lololol**
+date: 2026-09-17T23:15:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔻  (-14)|
-| ELO Competitive | 1470 🔻  (-5)|
-| Total Matches | 57 |
-| Wins | 32 |
+| ELO Regular | 1324 🔺  (10)|
+| ELO Competitive | 1483 🔺  (13)|
+| Total Matches | 58 |
+| Wins | 33 |
 | Losses | 25 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788280949,1785882844,1784888691,1783696884,1780986316,1778859199,1778258924,1777038531,1776137835,1773777858,1772823079,1771319724,1769065705,1768621333,1768003290,1766773578,1761851178,1759219596,1756801479,1756019527,1754361708,1749777765,1749558396,1748355542,1747427305,1747164677,1746306760,1745351870,1744562449,1743308369,1742064179,1740931926,1740006056,1737360717,1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
+        let timestamps = [1789254949,1788280949,1785882844,1784888691,1783696884,1780986316,1778859199,1778258924,1777038531,1776137835,1773777858,1772823079,1771319724,1769065705,1768621333,1768003290,1766773578,1761851178,1759219596,1756801479,1756019527,1754361708,1749777765,1749558396,1748355542,1747427305,1747164677,1746306760,1745351870,1744562449,1743308369,1742064179,1740931926,1740006056,1737360717,1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/17 | 18-5 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ❌ | 2026/09/06 | 4-20 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2026/08/09 | 0-27 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ✅ | 2026/07/29 | 18-10 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) |
@@ -210,5 +211,5 @@ Corporation ID: 396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788712949"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789686949"></span>
 </div>
