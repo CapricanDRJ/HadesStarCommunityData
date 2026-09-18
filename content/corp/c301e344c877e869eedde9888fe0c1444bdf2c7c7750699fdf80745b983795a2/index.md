@@ -1,6 +1,6 @@
 ---
 title: ​HIGH COMMAND
-description: W:106 L:47 D:1 Bonus ✅ 50%
+description: W:106 L:47 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 9 - 25 **DOMOVINA**
 date: 2026-09-16T15:47:51.000Z
@@ -15,7 +15,7 @@ date: 2026-09-16T15:47:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

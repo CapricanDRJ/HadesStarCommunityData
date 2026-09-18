@@ -1,6 +1,6 @@
 ---
 title: ​CubeTech
-description: W:8 L:10 D:0 Bonus ✅ 38%
+description: W:8 L:10 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 4 **太空的猫**
 date: 2026-09-11T12:31:48.000Z
@@ -15,7 +15,7 @@ date: 2026-09-11T12:31:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
