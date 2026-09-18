@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:8 L:12 D:1 Bonus ✅ 34%
+description: W:8 L:13 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **甜甜圈**
-date: 2026-09-18T14:07:08.000Z
+Summary: ❌ 0 - 18 **Bacon Warriors**
+date: 2026-09-18T20:27:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-18T14:07:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (-14)|
-| ELO Competitive | 1263 🔻  (-17)|
-| Total Matches | 21 |
+| ELO Regular | 1170 🔻  (-11)|
+| ELO Competitive | 1277 🔻  (-3)|
+| Total Matches | 22 |
 | Wins | 8 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/18 | 0-18 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2026/09/18 | 0-7 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ✅ | 2026/09/13 | 4-0 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2026/09/13 | 10-0 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) |
@@ -168,5 +169,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789740428"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789763273"></span>
 </div>

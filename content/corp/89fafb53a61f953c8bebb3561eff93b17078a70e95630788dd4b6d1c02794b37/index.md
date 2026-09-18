@@ -1,6 +1,6 @@
 ---
 title: ​РУССКИЕ ИДУТ
-description: W:6 L:8 D:0 Bonus ✅ 32%
+description: W:6 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 3 - 42 **Critical Mass**
 date: 2026-09-17T06:29:11.000Z
@@ -15,7 +15,7 @@ date: 2026-09-17T06:29:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
