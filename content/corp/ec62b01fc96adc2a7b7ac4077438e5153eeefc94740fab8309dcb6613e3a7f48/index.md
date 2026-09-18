@@ -1,6 +1,6 @@
 ---
 title: ​Bacon Warriors
-description: W:96 L:78 D:2 Bonus ✅ 48%
+description: W:96 L:78 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 12 - 6 **First Squad**
 date: 2026-09-11T10:10:21.000Z
@@ -16,7 +16,7 @@ e lose amd every two weeks if we win. No discord required.
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

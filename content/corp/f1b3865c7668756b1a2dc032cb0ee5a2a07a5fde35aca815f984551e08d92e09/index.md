@@ -1,6 +1,6 @@
 ---
 title: ​太空的猫
-description: W:11 L:11 D:0 Bonus ✅ 34%
+description: W:11 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **63SALVADORES36**
 date: 2026-09-16T22:43:31.000Z
@@ -15,7 +15,7 @@ date: 2026-09-16T22:43:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

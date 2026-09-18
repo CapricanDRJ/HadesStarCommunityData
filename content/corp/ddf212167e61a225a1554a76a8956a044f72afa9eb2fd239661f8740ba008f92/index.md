@@ -1,6 +1,6 @@
 ---
 title: ​契约-璃月
-description: W:53 L:22 D:2 Bonus ✅ 42%
+description: W:53 L:22 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 34 - 0 **Red Star**
 date: 2026-09-11T12:31:48.000Z
@@ -15,7 +15,7 @@ date: 2026-09-11T12:31:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
