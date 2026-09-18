@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Light Soul"
-description: "ws: 15 μ: 25.15"
+description: "ws: 16 μ: 25.82"
 ---
-- **WhiteStars**: 15
-- **Eligible**: 13
-- **Rating**: 1.38
-- **μ**: 25.15  
-- **σ**: 7.93
-- W: 6, L: 9, T: 0
+- **WhiteStars**: 16
+- **Eligible**: 14
+- **Rating**: 2.13
+- **μ**: 25.82  
+- **σ**: 7.89
+- W: 7, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 15 μ: 25.15"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 7 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 8 |
 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 6 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 15 μ: 25.15"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-17 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 17-13 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-09-11 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 21-4 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | 2026-09-04 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 36-3 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | 2026-08-27 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 26-11 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |

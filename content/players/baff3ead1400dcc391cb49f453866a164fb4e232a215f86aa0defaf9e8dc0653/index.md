@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Astad"
-description: "ws: 7 μ: 25.48"
+description: "ws: 8 μ: 26.18"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 7
-- **Rating**: 1.22
-- **μ**: 25.48  
-- **σ**: 8.09
-- W: 4, L: 3, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 8
+- **Rating**: 2.01
+- **μ**: 26.18  
+- **σ**: 8.05
+- W: 5, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 25.48"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 7 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 8 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 25.48"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-17 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 17-13 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-09-11 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 21-4 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | 2026-09-03 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 17-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | 2026-08-27 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 16-10 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
