@@ -62,6 +62,17 @@ searchHidden: true
         </tr>
     
         <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>4</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS10</td>
+                    <td>250%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         

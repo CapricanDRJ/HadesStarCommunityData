@@ -1,6 +1,6 @@
 ---
 title: ​Тишина
-description: W:4 L:16 D:0 Bonus ✅ 32%
+description: W:4 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 15 - 5 **HIGH COMMAND**
 date: 2026-09-11T05:36:09.000Z
@@ -15,7 +15,7 @@ date: 2026-09-11T05:36:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

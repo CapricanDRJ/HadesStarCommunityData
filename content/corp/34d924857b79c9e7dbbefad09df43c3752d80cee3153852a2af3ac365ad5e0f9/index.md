@@ -1,6 +1,6 @@
 ---
 title: ​复生会
-description: W:4 L:7 D:0 Bonus ❌ 
+description: W:4 L:7 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **Лунный Феникс**
 date: 2025-06-28T02:43:09.000Z
@@ -15,7 +15,7 @@ date: 2025-06-28T02:43:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
