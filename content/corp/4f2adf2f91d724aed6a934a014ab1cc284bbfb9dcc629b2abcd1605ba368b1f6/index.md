@@ -1,6 +1,6 @@
 ---
 title: ​帝国长青
-description: W:8 L:92 D:0 Bonus ✅ 36%
+description: W:8 L:92 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 43 **地球联合**
 date: 2026-09-17T03:09:24.000Z
@@ -15,7 +15,7 @@ date: 2026-09-17T03:09:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

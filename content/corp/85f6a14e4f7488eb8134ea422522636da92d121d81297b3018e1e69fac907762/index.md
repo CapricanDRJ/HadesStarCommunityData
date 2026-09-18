@@ -1,6 +1,6 @@
 ---
 title: ​OrderofTheGeon
-description: W:84 L:78 D:7 Bonus ✅ 42%
+description: W:84 L:78 D:7 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **骊珠洞天**
 date: 2026-09-11T17:57:24.000Z
@@ -16,7 +16,7 @@ rd.
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
