@@ -1,6 +1,6 @@
 ---
 title: ​Spanish Fury
-description: W:29 L:5 D:2 Bonus ✅ 38%
+description: W:29 L:5 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 22 - 0 **墨痕空域**
 date: 2026-09-11T15:37:09.000Z
@@ -15,7 +15,7 @@ date: 2026-09-11T15:37:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Space Pirates
-description: W:26 L:128 D:0 Bonus ✅ 44%
+description: W:26 L:128 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **Blood Hounds**
 date: 2026-09-17T11:29:36.000Z
@@ -17,7 +17,7 @@ Discord invite code is https://discord.gg/44nD9yX
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

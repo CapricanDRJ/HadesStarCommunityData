@@ -1,6 +1,6 @@
 ---
 title: ​奇点教会
-description: W:17 L:12 D:3 Bonus ✅ 36%
+description: W:17 L:12 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 6 - 6 **维埃星云氮氢钨钽**
 date: 2026-09-17T04:54:02.000Z
@@ -15,7 +15,7 @@ date: 2026-09-17T04:54:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

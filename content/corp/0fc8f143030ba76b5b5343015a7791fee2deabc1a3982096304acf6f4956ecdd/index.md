@@ -1,9 +1,9 @@
 ---
 title: ​Karanth Corp.
-description: W:27 L:27 D:1 Bonus ✅ 50%
+description: W:27 L:28 D:1 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 11 - 7 **Ender**
-date: 2026-09-12T00:03:02.000Z
+Summary: ❌ 7 - 10 **Continuum**
+date: 2026-09-18T13:02:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ rd.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (19)|
-| ELO Competitive | 1694 🔺  (26)|
-| Total Matches | 55 |
+| ELO Regular | 1308 🔻  (-15)|
+| ELO Competitive | 1690 🔻  (-4)|
+| Total Matches | 56 |
 | Wins | 27 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 5 |
 | Flagship | 13 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788739382,1788271936,1786277602,1785825158,1785099595,1784652564,1783947436,1783416284,1782591011,1781022971,1781001335,1779693269,1778765462,1778756749,1778307003,1777792049,1777251271,1776662385,1776641360,1776186504,1776142941,1775545660,1774803283,1774248951,1773752616,1773750212,1773091064,1772656358,1772171739,1771730116,1771323930,1771179721,1770592962,1770108043,1769672947,1769198213,1768913978,1768609317,1768073003,1768046855,1767626846,1767607915,1767121477,1766677425,1766669010,1766221323,1765731904,1765298049,1764884597,1764863260,1764429075,1763859691,1763829645,1701601497,1699901550];
+        let timestamps = [1789304520,1788739382,1788271936,1786277602,1785825158,1785099595,1784652564,1783947436,1783416284,1782591011,1781022971,1781001335,1779693269,1778765462,1778756749,1778307003,1777792049,1777251271,1776662385,1776641360,1776186504,1776142941,1775545660,1774803283,1774248951,1773752616,1773750212,1773091064,1772656358,1772171739,1771730116,1771323930,1771179721,1770592962,1770108043,1769672947,1769198213,1768913978,1768609317,1768073003,1768046855,1767626846,1767607915,1767121477,1766677425,1766669010,1766221323,1765731904,1765298049,1764884597,1764863260,1764429075,1763859691,1763829645,1701601497,1699901550];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,12 +135,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 3 | 0 | 3 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 2 | 4 | 0 | 6 |
 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 1 | 1 | 0 | 2 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 0 | 4 | 0 | 4 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 3 | 0 | 0 | 3 |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 0 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 1 | 2 | 0 | 3 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
@@ -153,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/18 | 7-10 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2026/09/12 | 11-7 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2026/09/06 | 10-2 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2026/08/14 | 12-11 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
@@ -215,5 +215,5 @@ Corporation ID: 0fc8f143030ba76b5b5343015a7791fee2deabc1a3982096304acf6f4956ecdd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789171382"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789736520"></span>
 </div>

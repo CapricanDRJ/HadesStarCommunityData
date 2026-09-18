@@ -1,9 +1,9 @@
 ---
 title: ​Space Potatoes
-description: W:24 L:3 D:0 Bonus ❌ 9%
+description: W:25 L:3 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 26 - 3 **Empire of Light**
-date: 2026-09-07T20:13:59.000Z
+Summary: ✅ 26 - 5 **Terran empire**
+date: 2026-09-18T12:46:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-09-07T20:13:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1412 🔺  (5)|
-| ELO Competitive | 1534 🔺  (6)|
-| Total Matches | 27 |
-| Wins | 24 |
+| ELO Regular | 1432 🔺  (20)|
+| ELO Competitive | 1560 🔺  (26)|
+| Total Matches | 28 |
+| Wins | 25 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 14 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788380039,1787779532,1787343287,1786572338,1785868720,1785102299,1784497847,1783717013,1783032042,1781871703,1781219755,1780746880,1780015670,1779398811,1778784693,1778211147,1777588362,1776818615,1776194918,1775674559,1774894016,1774297028,1773781164,1773078441,1772502847,1772070497,1771534545];
+        let timestamps = [1789303618,1788380039,1787779532,1787343287,1786572338,1785868720,1785102299,1784497847,1783717013,1783032042,1781871703,1781219755,1780746880,1780015670,1779398811,1778784693,1778211147,1777588362,1776818615,1776194918,1775674559,1774894016,1774297028,1773781164,1773078441,1772502847,1772070497,1771534545];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/18 | 26-5 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ✅ | 2026/09/07 | 26-3 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2026/08/31 | 9-5 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2026/08/26 | 6-26 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
@@ -176,5 +177,5 @@ Corporation ID: 8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788812039"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789735618"></span>
 </div>

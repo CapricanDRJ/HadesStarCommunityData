@@ -1,9 +1,9 @@
 ---
 title: ​Star Field
-description: W:7 L:7 D:0 Bonus ❌ 6%
+description: W:7 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **STAR TERROR CZ**
-date: 2026-09-11T22:22:54.000Z
+Summary: ↔️ 0 - 0 **老哥最强集团**
+date: 2026-09-18T13:26:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ Star Field-星域
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (-9)|
-| ELO Competitive | 1260 🔻  (-4)|
-| Total Matches | 14 |
+| ELO Regular | 1211 🔻  (-2)|
+| ELO Competitive | 1257 🔻  (-3)|
+| Total Matches | 15 |
 | Wins | 7 |
 | Losses | 7 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788733374,1788262621,1786883914,1786291877,1785838674,1751058394,1720982692,1714509567,1714439558,1714043539,1713436343,1712702888,1711922842,1711453485];
+        let timestamps = [1789306006,1788733374,1788262621,1786883914,1786291877,1785838674,1751058394,1720982692,1714509567,1714439558,1714043539,1713436343,1712702888,1711922842,1711453485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/18 | 0-0 | [老哥最强集团](https://ws.tsl.rocks/corp/fe5c86f6244ba283f6eda53890266425eaac76718f542806046dfea045db20e9/) |
 | ❌ | 2026/09/11 | 0-8 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2026/09/06 | 0-14 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2026/08/21 | 0-7 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
@@ -162,5 +163,5 @@ Corporation ID: 7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789165374"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789738006"></span>
 </div>

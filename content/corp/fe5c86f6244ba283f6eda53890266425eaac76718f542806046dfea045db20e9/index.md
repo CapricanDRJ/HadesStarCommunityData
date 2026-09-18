@@ -1,9 +1,9 @@
 ---
 title: ​老哥最强集团
-description: W:1 L:3 D:0 Bonus ❌ 3%
+description: W:1 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **imperio viltrum**
-date: 2026-09-10T08:23:44.000Z
+Summary: ↔️ 0 - 0 **Star Field**
+date: 2026-09-18T13:26:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2026-09-10T08:23:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (-14)|
-| ELO Competitive | 1184 🔻  (-9)|
-| Total Matches | 4 |
+| ELO Regular | 1178 🔺  (2)|
+| ELO Competitive | 1188 🔺  (3)|
+| Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788596624,1787986562,1787280200,1786785648];
+        let timestamps = [1789306006,1788596624,1787986562,1787280200,1786785648];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/18 | 0-0 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) |
 | ❌ | 2026/09/10 | 0-4 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ❌ | 2026/09/03 | 0-1 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/08/26 | 2-0 | [Голубая устрица](https://ws.tsl.rocks/corp/58d80f81bee374585492700224c205a302dfe5b6eacecbafe1ac4e5ec1202c6f/) |
@@ -145,5 +146,5 @@ Corporation ID: fe5c86f6244ba283f6eda53890266425eaac76718f542806046dfea045db20e9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789028624"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789738006"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​万星联盟
-description: W:135 L:73 D:1 Bonus ✅ 52%
+description: W:135 L:73 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 8 **Space Pirates**
 date: 2026-09-11T14:42:03.000Z
@@ -17,7 +17,7 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
