@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "falcon_2"
-description: "ws: 52 μ: 33.58"
+description: "ws: 53 μ: 34.01"
 ---
-- **WhiteStars**: 52
-- **Eligible**: 44
-- **Rating**: 12.07
-- **μ**: 33.58  
-- **σ**: 7.17
-- W: 40, L: 10, T: 2
+- **WhiteStars**: 53
+- **Eligible**: 45
+- **Rating**: 12.57
+- **μ**: 34.01  
+- **σ**: 7.15
+- W: 41, L: 10, T: 2
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 52 μ: 33.58"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 43 |
+| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 44 |
 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 52 μ: 33.58"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 7-4 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | 2026-09-12 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 51-6 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-09-06 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 18-7 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-08-09 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 2-22 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

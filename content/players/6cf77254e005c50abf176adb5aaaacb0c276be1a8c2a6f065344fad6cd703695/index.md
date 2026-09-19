@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "DesiringGecko78"
-description: "ws: 32 μ: 26.75"
+description: "ws: 33 μ: 27.22"
 ---
-- **WhiteStars**: 32
-- **Eligible**: 28
-- **Rating**: 4.23
-- **μ**: 26.75  
-- **σ**: 7.51
-- W: 22, L: 10, T: 0
+- **WhiteStars**: 33
+- **Eligible**: 29
+- **Rating**: 4.77
+- **μ**: 27.22  
+- **σ**: 7.48
+- W: 23, L: 10, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 32 μ: 26.75"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 28 |
+| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 29 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 32 μ: 26.75"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 7-4 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | 2026-09-12 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 51-6 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-09-06 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 18-7 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-07-18 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 14-3 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |

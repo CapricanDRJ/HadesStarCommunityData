@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Cey1er"
-description: "ws: 33 μ: 29.13"
+description: "ws: 34 μ: 29.54"
 ---
-- **WhiteStars**: 33
-- **Eligible**: 30
-- **Rating**: 6.72
-- **μ**: 29.13  
-- **σ**: 7.47
-- W: 24, L: 9, T: 0
+- **WhiteStars**: 34
+- **Eligible**: 31
+- **Rating**: 7.21
+- **μ**: 29.54  
+- **σ**: 7.44
+- W: 25, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 33 μ: 29.13"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 29 |
+| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 30 |
 | [\-=Содружество=\-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 33 μ: 29.13"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 7-4 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | 2026-09-06 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 18-7 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-08-09 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 2-22 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | 2026-08-02 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 10-5 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |

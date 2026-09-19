@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "WING☯CHUN"
-description: "ws: 21 μ: 25.75"
+description: "ws: 22 μ: 26.06"
 ---
-- **WhiteStars**: 21
-- **Eligible**: 18
-- **Rating**: 2.42
-- **μ**: 25.75  
-- **σ**: 7.78
-- W: 15, L: 5, T: 1
+- **WhiteStars**: 22
+- **Eligible**: 19
+- **Rating**: 2.81
+- **μ**: 26.06  
+- **σ**: 7.75
+- W: 16, L: 5, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 21 μ: 25.75"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 16 |
+| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 17 |
 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 2 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 21 μ: 25.75"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 7-4 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | 2026-08-09 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 2-22 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | 2026-07-25 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-62 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | 2026-07-06 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 19-3 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |

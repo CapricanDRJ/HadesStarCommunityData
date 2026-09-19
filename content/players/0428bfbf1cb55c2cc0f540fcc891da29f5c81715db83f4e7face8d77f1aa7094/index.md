@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "TimA"
-description: "ws: 41 μ: 29.35"
+description: "ws: 42 μ: 29.59"
 ---
-- **WhiteStars**: 41
-- **Eligible**: 35
-- **Rating**: 7.36
-- **μ**: 29.35  
-- **σ**: 7.33
-- W: 31, L: 9, T: 1
+- **WhiteStars**: 42
+- **Eligible**: 36
+- **Rating**: 7.68
+- **μ**: 29.59  
+- **σ**: 7.31
+- W: 32, L: 9, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 41 μ: 29.35"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 34 |
+| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 35 |
 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 41 μ: 29.35"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 7-4 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | 2026-08-09 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 2-22 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | 2026-08-02 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 10-5 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | 2026-07-25 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-62 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |

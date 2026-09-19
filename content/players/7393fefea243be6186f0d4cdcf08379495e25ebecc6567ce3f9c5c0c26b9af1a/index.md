@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Kratzkronaut"
-description: "ws: 16 μ: 29.09"
+description: "ws: 17 μ: 28.47"
 ---
-- **WhiteStars**: 16
-- **Eligible**: 14
-- **Rating**: 5.49
-- **μ**: 29.09  
-- **σ**: 7.87
-- W: 10, L: 6, T: 0
+- **WhiteStars**: 17
+- **Eligible**: 15
+- **Rating**: 4.96
+- **μ**: 28.47  
+- **σ**: 7.84
+- W: 10, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 16 μ: 29.09"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 14 |
+| [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 16 μ: 29.09"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 4-7 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-08-29 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 10-13 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-07-18 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 3-14 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-05-30 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 4-13 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |

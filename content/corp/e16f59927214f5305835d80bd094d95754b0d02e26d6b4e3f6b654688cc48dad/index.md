@@ -1,9 +1,9 @@
 ---
 title: ​Spanish Fury
-description: W:29 L:5 D:2 Bonus ❌ 9%
+description: W:30 L:5 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 22 - 0 **墨痕空域**
-date: 2026-09-11T15:37:09.000Z
+Summary: ✅ 28 - 0 **九州·养老**
+date: 2026-09-19T15:59:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-09-11T15:37:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (4)|
-| ELO Competitive | 1496 🔺  (7)|
-| Total Matches | 36 |
-| Wins | 29 |
+| ELO Regular | 1417 🔺  (7)|
+| ELO Competitive | 1509 🔺  (13)|
+| Total Matches | 37 |
+| Wins | 30 |
 | Losses | 5 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788709029,1788183312,1787586642,1786982162,1785858804,1784577760,1783599243,1782975857,1782315796,1781690537,1781103485,1780556123,1779992837,1779370561,1778733918,1778733918,1778186214,1777544192,1776992867,1776320194,1775739448,1775156395,1774507598,1773929271,1773403800,1772683092,1772142603,1771549936,1771050222,1770550892,1770040747,1769502889,1768955445,1768292634,1767693534,1766910567];
+        let timestamps = [1789401560,1788709029,1788183312,1787586642,1786982162,1785858804,1784577760,1783599243,1782975857,1782315796,1781690537,1781103485,1780556123,1779992837,1779370561,1778733918,1778733918,1778186214,1777544192,1776992867,1776320194,1775739448,1775156395,1774507598,1773929271,1773403800,1772683092,1772142603,1771549936,1771050222,1770550892,1770040747,1769502889,1768955445,1768292634,1767693534,1766910567];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/19 | 28-0 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/09/11 | 22-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2026/09/05 | 13-24 | [Cosmosia](https://ws.tsl.rocks/corp/56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38/) |
 | ✅ | 2026/08/29 | 27-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
@@ -187,5 +189,5 @@ Corporation ID: e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789141029"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789833560"></span>
 </div>
