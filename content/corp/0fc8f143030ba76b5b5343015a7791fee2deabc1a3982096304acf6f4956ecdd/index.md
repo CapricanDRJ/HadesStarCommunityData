@@ -1,6 +1,6 @@
 ---
 title: ​Karanth Corp.
-description: W:27 L:28 D:1 Bonus ✅ 50%
+description: W:27 L:28 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 7 - 10 **Continuum**
 date: 2026-09-18T13:02:00.000Z
@@ -17,7 +17,7 @@ rd.
 <br>
 
 ### [Discord](https://discord.gg/9EdXH7jF)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

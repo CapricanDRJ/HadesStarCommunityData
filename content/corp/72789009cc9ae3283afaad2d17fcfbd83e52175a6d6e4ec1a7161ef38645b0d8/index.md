@@ -1,6 +1,6 @@
 ---
 title: ​Red Alliance
-description: W:69 L:81 D:8 Bonus ✅ 46%
+description: W:69 L:81 D:8 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **First Legion**
 date: 2026-09-12T00:11:47.000Z
@@ -15,7 +15,7 @@ English speaking – would you want to communicate
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

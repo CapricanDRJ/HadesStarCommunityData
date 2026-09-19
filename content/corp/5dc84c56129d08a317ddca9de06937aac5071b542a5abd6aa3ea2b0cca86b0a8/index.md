@@ -1,9 +1,9 @@
 ---
 title: ​VALHALLA
-description: W:0 L:3 D:1 Bonus ❌ 3%
+description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **休闲、红、蓝、白养老集团。**
-date: 2026-09-12T10:33:50.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-09-19T00:33:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ welcome VALHALLA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (-10)|
-| ELO Competitive | 1163 🔻  (-9)|
-| Total Matches | 4 |
+| ELO Regular | 1160 🔻  (-1)|
+| ELO Competitive | 1162 🔻  (0)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788777230,1788228288,1787757622,1699018257];
+        let timestamps = [1789345994,1788777230,1788228288,1787757622,1699018257];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/19 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/09/12 | 0-18 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2026/09/06 | 0-4 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/08/31 | 0-0 | [TUSFO星舰联邦](https://ws.tsl.rocks/corp/016954ccb4cf18eab01bdcce39c263205f20f80f38920e43516911db71c9d1ab/) |
@@ -146,5 +147,5 @@ Corporation ID: 5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789209230"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789777994"></span>
 </div>
