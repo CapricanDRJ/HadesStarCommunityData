@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Maliki"
-description: "ws: 7 μ: 26.29"
+description: "ws: 8 μ: 25.45"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 6
-- **Rating**: 1.87
-- **μ**: 26.29  
-- **σ**: 8.14
-- W: 4, L: 3, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 7
+- **Rating**: 1.07
+- **μ**: 25.45  
+- **σ**: 8.12
+- W: 4, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 26.29"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 6 |
+| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 26.29"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 11-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-05-17 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 9-3 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-02-28 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 9-11 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2026-02-07 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 9-18 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

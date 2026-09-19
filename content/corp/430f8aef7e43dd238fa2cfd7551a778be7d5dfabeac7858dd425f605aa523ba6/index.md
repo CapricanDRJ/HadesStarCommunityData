@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:3 L:2 D:0 Bonus ✅ 28%
+description: W:3 L:3 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 5 - 2 **CORPORATION**
-date: 2026-09-14T01:57:31.000Z
+Summary: ❌ 0 - 9 **聚集地**
+date: 2026-09-19T07:30:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-14T01:57:31.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (15)|
-| ELO Competitive | 1214 🔺  (15)|
-| Total Matches | 5 |
+| ELO Regular | 1194 🔻  (-16)|
+| ELO Competitive | 1198 🔻  (-16)|
+| Total Matches | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/19 | 0-9 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ✅ | 2026/09/14 | 5-2 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ❌ | 2026/09/08 | 2-15 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ❌ | 2026/09/03 | 3-5 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
@@ -147,5 +148,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789351051"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789803058"></span>
 </div>

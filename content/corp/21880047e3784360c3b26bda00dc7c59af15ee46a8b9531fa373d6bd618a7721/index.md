@@ -1,9 +1,9 @@
 ---
 title: ​Кузня Лютых
-description: W:13 L:3 D:0 Bonus ❌ 8%
+description: W:14 L:3 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 23 - 1 **九州·养老**
-date: 2026-09-08T15:20:35.000Z
+Summary: ✅ 18 - 0 **九州分团**
+date: 2026-09-19T06:58:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-09-08T15:20:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔺  (10)|
-| ELO Competitive | 1438 🔺  (17)|
-| Total Matches | 16 |
-| Wins | 13 |
+| ELO Regular | 1383 🔺  (16)|
+| ELO Competitive | 1465 🔺  (27)|
+| Total Matches | 17 |
+| Wins | 14 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788448835,1786092530,1784676306,1783659333,1782364776,1781235373,1780545910,1778834860,1776180795,1776180494,1774002277,1772698711,1771484663,1769173266,1766758250,1766206903];
+        let timestamps = [1789369119,1788448835,1786092530,1784676306,1783659333,1782364776,1781235373,1780545910,1778834860,1776180795,1776180494,1774002277,1772698711,1771484663,1769173266,1766758250,1766206903];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/19 | 18-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2026/09/08 | 23-1 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/08/12 | 23-3 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
 | ✅ | 2026/07/26 | 17-0 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
@@ -164,5 +165,5 @@ Corporation ID: 21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788880835"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789801119"></span>
 </div>

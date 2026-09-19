@@ -1,9 +1,9 @@
 ---
 title: ​Austria
-description: W:29 L:21 D:0 Bonus ✅ 52%
+description: W:31 L:21 D:0 Bonus ✅ 52%
 image: ./favicon.png
-Summary: ✅ 13 - 1 **Legión**
-date: 2026-09-12T10:13:49.000Z
+Summary: ✅ 20 - 2 **Cerulean Galaxy**
+date: 2026-09-19T08:33:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,12 +26,13 @@ UmWZYtn9Hh
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔺  (9)|
-| ELO Competitive | 1538 🔺  (13)|
-| Total Matches | 50 |
-| Wins | 29 |
+| ELO Regular | 1333 🔺  (11)|
+| ELO Competitive | 1543 🔺  (5)|
+| Total Matches | 52 |
+| Wins | 31 |
 | Losses | 21 |
 | Draws | 0 |
+| Streak | 3 |
 | Streak Record | 11 |
 | Flagship | 7 |
 
@@ -51,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788776029,1788772123,1788243097,1788243097,1787554793,1787554793,1786960830,1786958427,1786362329,1786343703,1785818550,1785818549,1785140747,1784538397,1784534493,1783930912,1783924003,1783403068,1783402468,1782727097,1782715682,1782112982,1782109978,1781582982,1781507567,1780990221,1780986917,1780300770,1780298968,1779699278,1779690865,1779110363,1779089030,1778568688,1778566585,1777883980,1777271396,1776331607,1776142641,1775457329,1774769624,1773724677,1772446063,1771307708,1769422967,1768512573,1701034685,1700430580,1699826714,1699137877];
+        let timestamps = [1789374825,1789370921,1788776029,1788772123,1788243097,1788243097,1787554793,1787554793,1786960830,1786958427,1786362329,1786343703,1785818550,1785818549,1785140747,1784538397,1784534493,1783930912,1783924003,1783403068,1783402468,1782727097,1782715682,1782112982,1782109978,1781582982,1781507567,1780990221,1780986917,1780300770,1780298968,1779699278,1779690865,1779110363,1779089030,1778568688,1778566585,1777883980,1777271396,1776331607,1776142641,1775457329,1774769624,1773724677,1772446063,1771307708,1769422967,1768512573,1701034685,1700430580,1699826714,1699137877];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +150,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/19 | 20-2 | [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) |
+| ✅ | 2026/09/19 | 32-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2026/09/12 | 13-1 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ❌ | 2026/09/12 | 2-7 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2026/09/06 | 4-30 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
@@ -206,5 +209,5 @@ Corporation ID: 96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789208029"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789806825"></span>
 </div>
