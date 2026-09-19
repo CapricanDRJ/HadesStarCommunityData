@@ -1,6 +1,6 @@
 ---
 title: ​物竞天择，适者生存
-description: W:18 L:21 D:1 Bonus ✅ 34%
+description: W:18 L:21 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **星光舰队**
 date: 2026-09-12T01:18:07.000Z
@@ -17,7 +17,7 @@ olor=orange>南极星联盟成员</color>
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
