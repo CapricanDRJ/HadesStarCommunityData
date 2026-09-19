@@ -1,6 +1,6 @@
 ---
 title: ​pirates spatial
-description: W:170 L:95 D:0 Bonus ✅ 56%
+description: W:170 L:95 D:0 Bonus ❌ 56%
 image: ./favicon.png
 Summary: ❌ 4 - 21 **Nearland Ind**
 date: 2026-09-12T13:49:10.000Z
@@ -21,7 +21,7 @@ https://discord.gg/wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 56%
 
 | Statistic | Value |
 | --- | --- |

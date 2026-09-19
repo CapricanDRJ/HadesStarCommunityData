@@ -1,6 +1,6 @@
 ---
 title: ​Legion Prime
-description: W:31 L:27 D:0 Bonus ✅ 42%
+description: W:31 L:27 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 37 - 6 **47підрозділССП**
 date: 2026-09-12T05:23:24.000Z
@@ -17,7 +17,7 @@ S!
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
