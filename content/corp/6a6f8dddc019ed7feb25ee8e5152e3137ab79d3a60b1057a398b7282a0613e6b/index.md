@@ -1,6 +1,6 @@
 ---
 title: ​WALRUS
-description: W:15 L:10 D:0 Bonus ✅ 34%
+description: W:15 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 20 - 3 **Новый Мир**
 date: 2026-09-12T11:53:58.000Z
@@ -15,7 +15,7 @@ date: 2026-09-12T11:53:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​imperio galacti
-description: W:116 L:46 D:2 Bonus ✅ 50%
+description: W:116 L:46 D:2 Bonus ❌ 50%
 image: ./favicon.png
 Summary: ✅ 22 - 1 **Terran empire**
 date: 2026-09-12T12:49:04.000Z
@@ -17,7 +17,7 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 50%
 
 | Statistic | Value |
 | --- | --- |

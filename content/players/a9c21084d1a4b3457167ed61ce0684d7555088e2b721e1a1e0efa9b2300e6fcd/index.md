@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Belisarius"
-description: "ws: 5 μ: 23.62"
+description: "ws: 6 μ: 23.22"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 4
-- **Rating**: -0.94
-- **μ**: 23.62  
-- **σ**: 8.19
-- W: 0, L: 4, T: 1
+- **WhiteStars**: 6
+- **Eligible**: 5
+- **Rating**: -1.24
+- **μ**: 23.22  
+- **σ**: 8.15
+- W: 0, L: 5, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 23.62"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 4 |
+| [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 23.62"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 3-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-08-22 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 3-22 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-07-25 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 2-40 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-02-01 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 3-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

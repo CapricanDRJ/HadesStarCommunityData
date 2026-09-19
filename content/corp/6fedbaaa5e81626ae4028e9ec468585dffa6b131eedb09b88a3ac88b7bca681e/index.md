@@ -1,9 +1,9 @@
 ---
 title: ​BattleCo
-description: W:22 L:16 D:1 Bonus ❌ 14%
+description: W:22 L:17 D:1 Bonus ❌ 14%
 image: ./favicon.png
-Summary: ❌ 3 - 36 **Regulus**
-date: 2026-09-09T00:16:31.000Z
+Summary: ❌ 0 - 46 **Tuatha De Danan**
+date: 2026-09-19T11:38:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ s required within 24 hours of joining.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (-6)|
-| ELO Competitive | 1291 🔻  (-3)|
-| Total Matches | 39 |
+| ELO Regular | 1224 🔻  (-3)|
+| ELO Competitive | 1290 🔻  (-1)|
+| Total Matches | 40 |
 | Wins | 22 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 12 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788480991,1764960609,1749845679,1748749476,1717931340,1717170580,1715887552,1714504158,1713406602,1712417124,1711930954,1711475723,1710924353,1710370293,1709841158,1709324344,1708890449,1708656360,1708235064,1707771398,1707248333,1706564262,1706127911,1705595091,1705070099,1704549908,1704067591,1703613204,1703091793,1702586996,1702091086,1701717812,1701283230,1701042800,1700600683,1700165791,1699686624,1699234332,1698786272];
+        let timestamps = [1789385938,1788480991,1764960609,1749845679,1748749476,1717931340,1717170580,1715887552,1714504158,1713406602,1712417124,1711930954,1711475723,1710924353,1710370293,1709841158,1709324344,1708890449,1708656360,1708235064,1707771398,1707248333,1706564262,1706127911,1705595091,1705070099,1704549908,1704067591,1703613204,1703091793,1702586996,1702091086,1701717812,1701283230,1701042800,1700600683,1700165791,1699686624,1699234332,1698786272];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/19 | 0-46 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ❌ | 2026/09/09 | 3-36 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ↔️ | 2025/12/10 | 11-11 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ❌ | 2025/06/18 | 7-74 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
@@ -197,5 +198,5 @@ Corporation ID: 6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788912991"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789817938"></span>
 </div>

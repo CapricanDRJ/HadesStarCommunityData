@@ -1,9 +1,9 @@
 ---
 title: ​CORPORATION
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:1 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
-Summary: ❌ 2 - 5 **宇宙聯盟**
-date: 2026-09-14T01:57:31.000Z
+Summary: ✅ 1 - 0 **超新星联盟**
+date: 2026-09-19T11:18:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-14T01:57:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-15)|
-| ELO Competitive | 1185 🔻  (-15)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1195 🔺  (11)|
+| ELO Competitive | 1199 🔺  (14)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788919051];
+        let timestamps = [1789384736,1788919051];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/19 | 1-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2026/09/14 | 2-5 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789351051"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789816736"></span>
 </div>

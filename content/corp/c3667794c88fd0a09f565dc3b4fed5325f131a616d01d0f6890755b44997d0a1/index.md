@@ -1,9 +1,9 @@
 ---
 title: ​超新星联盟
-description: W:7 L:18 D:4 Bonus ❌ 6%
+description: W:7 L:19 D:4 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 16 **Quantum Mass**
-date: 2026-09-07T10:28:03.000Z
+Summary: ❌ 0 - 1 **CORPORATION**
+date: 2026-09-19T11:18:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2026-09-07T10:28:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1081 🔻  (-9)|
-| ELO Competitive | 1154 🔻  (-11)|
-| Total Matches | 29 |
+| ELO Regular | 1070 🔻  (-11)|
+| ELO Competitive | 1140 🔻  (-14)|
+| Total Matches | 30 |
 | Wins | 7 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788344883,1748689375,1746014071,1737854732,1737192376,1731020634,1727709152,1726465807,1724823179,1724761704,1724131498,1724062981,1723515435,1723433417,1723013581,1722955285,1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
+        let timestamps = [1789384736,1788344883,1748689375,1746014071,1737854732,1737192376,1731020634,1727709152,1726465807,1724823179,1724761704,1724131498,1724062981,1723515435,1723433417,1723013581,1722955285,1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/19 | 0-1 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ❌ | 2026/09/07 | 0-16 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2025/06/05 | 0-23 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ❌ | 2025/05/05 | 1-16 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
@@ -178,5 +179,5 @@ Corporation ID: c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788776883"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789816736"></span>
 </div>

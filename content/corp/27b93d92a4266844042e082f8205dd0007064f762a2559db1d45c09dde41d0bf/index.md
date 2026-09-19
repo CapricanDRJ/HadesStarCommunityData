@@ -1,6 +1,6 @@
 ---
 title: ​共联·世界
-description: W:42 L:28 D:3 Bonus ✅ 40%
+description: W:42 L:28 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 35 **CERBERUS SYSTEM**
 date: 2026-09-12T22:45:05.000Z
@@ -15,7 +15,7 @@ date: 2026-09-12T22:45:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

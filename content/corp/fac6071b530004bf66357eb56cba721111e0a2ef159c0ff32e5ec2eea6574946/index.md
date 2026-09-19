@@ -1,6 +1,6 @@
 ---
 title: ​休闲、红、蓝、白养老集团。
-description: W:11 L:4 D:2 Bonus ✅ 32%
+description: W:11 L:4 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 17 **Mantle**
 date: 2026-09-17T15:55:03.000Z
@@ -15,7 +15,7 @@ date: 2026-09-17T15:55:03.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
