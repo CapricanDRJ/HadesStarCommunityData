@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Дарья'л"
-description: "ws: 25 μ: 28.32"
+description: "ws: 26 μ: 26.72"
 ---
-- **WhiteStars**: 25
-- **Eligible**: 23
-- **Rating**: 5.50
-- **μ**: 28.32  
-- **σ**: 7.61
-- W: 18, L: 7, T: 0
+- **WhiteStars**: 26
+- **Eligible**: 24
+- **Rating**: 3.99
+- **μ**: 26.72  
+- **σ**: 7.58
+- W: 18, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 25 μ: 28.32"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 23 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 24 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 25 μ: 28.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-19 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 9-19 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-04-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 22-3 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2026-03-15 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 32-3 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | 2026-03-08 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 8-33 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |

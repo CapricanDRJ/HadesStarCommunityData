@@ -1,9 +1,9 @@
 ---
 title: ​Cosmosia
-description: W:8 L:2 D:0 Bonus ❌ 7%
+description: W:8 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 24 - 13 **Spanish Fury**
-date: 2026-09-05T13:35:12.000Z
+Summary: ❌ 2 - 23 **imperio galacti**
+date: 2026-09-19T13:09:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-05T13:35:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (21)|
-| ELO Competitive | 1372 🔺  (21)|
-| Total Matches | 10 |
+| ELO Regular | 1296 🔻  (-5)|
+| ELO Competitive | 1370 🔻  (-1)|
+| Total Matches | 11 |
 | Wins | 8 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788183312,1786960830,1785844982,1783418988,1782226256,1781184298,1779707089,1777874367,1774862767,1774214708];
+        let timestamps = [1789391345,1788183312,1786960830,1785844982,1783418988,1782226256,1781184298,1779707089,1777874367,1774862767,1774214708];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/19 | 2-23 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2026/09/05 | 24-13 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
 | ❌ | 2026/08/22 | 2-12 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | ✅ | 2026/08/09 | 30-3 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
@@ -157,5 +158,5 @@ Corporation ID: 56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788615312"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789823345"></span>
 </div>

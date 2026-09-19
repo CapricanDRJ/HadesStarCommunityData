@@ -1,6 +1,6 @@
 ---
 title: ​落魄山
-description: W:16 L:111 D:3 Bonus ✅ 42%
+description: W:16 L:111 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **Red Star**
 date: 2026-09-18T09:01:37.000Z
@@ -15,7 +15,7 @@ date: 2026-09-18T09:01:37.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
