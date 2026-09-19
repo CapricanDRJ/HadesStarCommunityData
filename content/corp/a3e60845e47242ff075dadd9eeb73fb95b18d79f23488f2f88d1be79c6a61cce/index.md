@@ -1,6 +1,6 @@
 ---
 title: ​Team Equilium
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **龙的传人**
 date: 2026-08-11T01:24:03.000Z
@@ -15,7 +15,7 @@ date: 2026-08-11T01:24:03.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
