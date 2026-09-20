@@ -1,6 +1,6 @@
 ---
 title: ​Newbs
-description: W:106 L:55 D:3 Bonus ✅ 50%
+description: W:106 L:55 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 18 - 15 **Omega Alpha**
 date: 2026-09-13T18:21:45.000Z
@@ -18,7 +18,7 @@ rience and have some fun!
 <br>
 
 ### [Discord](https://discord.gg/WKKwkbPsya)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

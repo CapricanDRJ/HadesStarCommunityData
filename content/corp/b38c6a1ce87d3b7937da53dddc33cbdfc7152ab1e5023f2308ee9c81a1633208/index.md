@@ -1,9 +1,9 @@
 ---
 title: ​Dacia Chill
-description: W:35 L:8 D:0 Bonus ❌ 11%
+description: W:36 L:8 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 25 - 3 **Hinterm Mond**
-date: 2026-08-23T18:43:26.000Z
+Summary: ✅ 15 - 6 **Stellar Exports**
+date: 2026-09-20T15:56:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,17 +19,17 @@ WDL 88/2/4
 <br>
 
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1447 🔺  (11)|
-| ELO Competitive | 1613 🔺  (28)|
-| Total Matches | 43 |
-| Wins | 35 |
+| ELO Regular | 1456 🔺  (9)|
+| ELO Competitive | 1637 🔺  (24)|
+| Total Matches | 44 |
+| Wins | 36 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787078606,1784566339,1780964390,1777888185,1776176587,1771405947,1769224356,1768875829,1766458094,1764307050,1761610521,1756847154,1754458761,1752050692,1749614892,1747110284,1745035427,1744681446,1737300320,1734616495,1732616773,1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
+        let timestamps = [1789487772,1787078606,1784566339,1780964390,1777888185,1776176587,1771405947,1769224356,1768875829,1766458094,1764307050,1761610521,1756847154,1754458761,1752050692,1749614892,1747110284,1745035427,1744681446,1737300320,1734616495,1732616773,1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 2 | 0 | 0 | 2 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 2 | 0 | 0 | 2 |
 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 0 | 2 | 0 | 2 |
 
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/20 | 15-6 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2026/08/23 | 25-3 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2026/07/25 | 15-0 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2026/06/14 | 16-3 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
@@ -196,5 +198,5 @@ Corporation ID: b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787510606"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789919772"></span>
 </div>
