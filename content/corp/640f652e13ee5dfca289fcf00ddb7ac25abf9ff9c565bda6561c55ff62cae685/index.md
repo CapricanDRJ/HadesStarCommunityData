@@ -1,9 +1,9 @@
 ---
 title: ​云深不知处
-description: W:6 L:9 D:0 Bonus ✅ 32%
+description: W:6 L:10 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 24 - 3 **W\.A\.L\.R\.U\.S\.**
-date: 2026-09-15T14:05:37.000Z
+Summary: ❌ 0 - 8 **BRASIL ACADEMY**
+date: 2026-09-20T20:26:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-09-15T14:05:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (10)|
-| ELO Competitive | 1202 🔺  (12)|
-| Total Matches | 15 |
+| ELO Regular | 1157 🔻  (-12)|
+| ELO Competitive | 1199 🔻  (-3)|
+| Total Matches | 16 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 3 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789049137,1788602662,1788145591,1787707124,1774725422,1774251086,1773707466,1773274932,1736550492,1736013427,1735568980,1731595094,1731138623,1730630186,1730120246];
+        let timestamps = [1789504000,1789049137,1788602662,1788145591,1787707124,1774725422,1774251086,1773707466,1773274932,1736550492,1736013427,1735568980,1731595094,1731138623,1730630186,1730120246];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/20 | 0-8 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ✅ | 2026/09/15 | 24-3 | [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313/) |
 | ✅ | 2026/09/10 | 22-0 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ✅ | 2026/09/05 | 18-0 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) |
@@ -165,5 +165,5 @@ Corporation ID: 640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789481137"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789936000"></span>
 </div>

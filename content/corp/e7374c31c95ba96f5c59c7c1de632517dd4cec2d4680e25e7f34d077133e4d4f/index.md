@@ -1,6 +1,6 @@
 ---
 title: ​九州分团
-description: W:213 L:148 D:4 Bonus ✅ 54%
+description: W:213 L:148 D:4 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **Кузня Лютых**
 date: 2026-09-19T06:58:39.000Z
@@ -20,7 +20,7 @@ date: 2026-09-19T06:58:39.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/register)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

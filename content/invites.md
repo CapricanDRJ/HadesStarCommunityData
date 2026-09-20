@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discord Invites
-date: 2026-09-20T19:04:38.813Z
+date: 2026-09-20T22:04:38.940Z
 permalink: /invites/
 searchHidden: true
 description: "Provided by Hades' Link Archive."
