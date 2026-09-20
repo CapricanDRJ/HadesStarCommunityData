@@ -1,9 +1,9 @@
 ---
 title: ​Cool Casual
-description: W:40 L:24 D:2 Bonus ❌ 9%
+description: W:40 L:24 D:3 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **ParalleL**
-date: 2026-09-13T11:56:05.000Z
+Summary: ↔️ 3 - 3 **attraction\.F**
+date: 2026-09-20T02:20:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-13T11:56:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (-20)|
-| ELO Competitive | 1349 🔻  (-19)|
-| Total Matches | 66 |
+| ELO Regular | 1291 🔺  (4)|
+| ELO Competitive | 1350 🔺  (1)|
+| Total Matches | 67 |
 | Wins | 40 |
 | Losses | 24 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788868565,1788152291,1787408476,1786428433,1785809838,1783977484,1783356198,1782797101,1782138821,1781599503,1780968895,1780332318,1779711597,1779087529,1778507398,1777875869,1777275902,1775851967,1775383719,1774888306,1774442538,1773967432,1773348830,1766439794,1765697045,1765180879,1763754228,1763225143,1762468009,1760376417,1759939823,1759289303,1756812031,1753379427,1752395956,1751936747,1750673136,1750100708,1749545283,1748913860,1748457556,1747024339,1746553357,1745846308,1745200111,1744121485,1743656411,1743201837,1742742069,1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
+        let timestamps = [1789438812,1788868565,1788152291,1787408476,1786428433,1785809838,1783977484,1783356198,1782797101,1782138821,1781599503,1780968895,1780332318,1779711597,1779087529,1778507398,1777875869,1777275902,1775851967,1775383719,1774888306,1774442538,1773967432,1773348830,1766439794,1765697045,1765180879,1763754228,1763225143,1762468009,1760376417,1759939823,1759289303,1756812031,1753379427,1752395956,1751936747,1750673136,1750100708,1749545283,1748913860,1748457556,1747024339,1746553357,1745846308,1745200111,1744121485,1743656411,1743201837,1742742069,1742256206,1741790208,1741344127,1740815612,1740348948,1739879827,1739399190,1738945880,1738474577,1738013101,1737491138,1736788827,1736280317,1735822273,1734573833,1734038688,1733468369];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) | 0 | 1 | 1 | 2 |
 | [龙的传人分团](https://ws.tsl.rocks/corp/fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc/) | 1 | 1 | 0 | 2 |
 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 3 | 0 | 0 | 3 |
 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) | 2 | 0 | 0 | 2 |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/20 | 3-3 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ❌ | 2026/09/13 | 0-4 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ✅ | 2026/09/05 | 3-0 | [AntiCerberus](https://ws.tsl.rocks/corp/05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29/) |
 | ✅ | 2026/08/27 | 6-5 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101/) |
@@ -215,5 +217,5 @@ Corporation ID: 9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789300565"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789870812"></span>
 </div>
