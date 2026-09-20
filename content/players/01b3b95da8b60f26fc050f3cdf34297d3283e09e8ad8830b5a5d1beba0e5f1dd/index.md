@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Teflon"
-description: "ws: 13 μ: 22.02"
+description: "ws: 14 μ: 23.14"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 9
-- **Rating**: -2.03
-- **μ**: 22.02  
-- **σ**: 8.02
-- W: 5, L: 6, T: 2
+- **WhiteStars**: 14
+- **Eligible**: 10
+- **Rating**: -0.82
+- **μ**: 23.14  
+- **σ**: 7.99
+- W: 6, L: 6, T: 2
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 22.02"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 9 |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 22.02"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-20 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 24-4 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | 2026-09-06 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 2-29 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | 2026-08-07 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 24-0 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) |
 | 2026-07-16 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 3-17 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) |
