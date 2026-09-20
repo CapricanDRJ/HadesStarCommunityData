@@ -1,6 +1,6 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:62 L:33 D:0 Bonus ✅ 44%
+description: W:62 L:33 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 12 - 3 **RED STAR**
 date: 2026-09-13T05:50:36.000Z
@@ -15,7 +15,7 @@ date: 2026-09-13T05:50:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

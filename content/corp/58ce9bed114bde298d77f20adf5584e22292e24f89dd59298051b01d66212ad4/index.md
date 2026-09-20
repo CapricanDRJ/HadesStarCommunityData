@@ -1,6 +1,6 @@
 ---
 title: ​Brethren Court
-description: W:5 L:0 D:0 Bonus ❌ 5%
+description: W:5 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **星际联邦**
 date: 2026-09-07T11:43:09.000Z
@@ -15,7 +15,7 @@ date: 2026-09-07T11:43:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Auscorp
-description: W:195 L:48 D:2 Bonus ✅ 56%
+description: W:195 L:48 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 23 - 1 **Grunthal Gang**
 date: 2026-09-13T06:35:39.000Z
@@ -23,7 +23,7 @@ All FS Donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
