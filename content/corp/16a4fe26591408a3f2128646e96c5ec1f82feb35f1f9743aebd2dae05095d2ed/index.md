@@ -1,9 +1,9 @@
 ---
 title: ​揽月宫
-description: W:16 L:8 D:0 Bonus ✅ 32%
+description: W:16 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 15 - 1 **RGW**
-date: 2026-09-15T13:35:34.000Z
+Summary: ❌ 4 - 16 **Deadspace**
+date: 2026-09-20T15:06:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,12 @@ date: 2026-09-15T13:35:34.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (10)|
-| ELO Competitive | 1384 🔺  (19)|
-| Total Matches | 24 |
+| ELO Regular | 1312 🔻  (-12)|
+| ELO Competitive | 1381 🔻  (-3)|
+| Total Matches | 25 |
 | Wins | 16 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -55,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789047334,1788596653,1779675032,1777953082,1732165436,1731669011,1731119691,1730991379,1730352527,1729911389,1729859099,1729345554,1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
+        let timestamps = [1789484767,1789047334,1788596653,1779675032,1777953082,1732165436,1731669011,1731119691,1730991379,1730352527,1729911389,1729859099,1729345554,1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -151,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/20 | 4-16 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2026/09/15 | 15-1 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ✅ | 2026/09/10 | 25-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2026/05/30 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -182,5 +182,5 @@ Corporation ID: 16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789479334"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789916767"></span>
 </div>
