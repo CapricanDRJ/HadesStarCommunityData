@@ -1,6 +1,6 @@
 ---
 title: ​three kitties
-description: W:132 L:99 D:7 Bonus ✅ 52%
+description: W:132 L:99 D:7 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 18 - 39 **alienigenas**
 date: 2026-09-19T13:54:09.000Z
@@ -17,7 +17,7 @@ e Infos on Discord or at: hadestitans.com
 <br>
 
 ### [Discord](https://discord.gg/YPC7XenfdY)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Knights of Solo
-description: W:6 L:8 D:2 Bonus ✅ 32%
+description: W:6 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **ВЕЧНОСТЬ**
 date: 2026-09-12T23:10:07.000Z
@@ -15,7 +15,7 @@ date: 2026-09-12T23:10:07.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
