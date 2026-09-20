@@ -1,6 +1,6 @@
 ---
 title: ​中国星系集团
-description: W:11 L:5 D:0 Bonus ✅ 32%
+description: W:11 L:5 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 6 - 12 **Новый Мир**
 date: 2026-09-19T11:08:55.000Z
@@ -15,7 +15,7 @@ date: 2026-09-19T11:08:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Internationals
-description: W:104 L:79 D:0 Bonus ✅ 58%
+description: W:104 L:79 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 6 - 14 **Hand Of NOD\!**
 date: 2026-09-20T06:35:28.000Z
@@ -18,7 +18,7 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

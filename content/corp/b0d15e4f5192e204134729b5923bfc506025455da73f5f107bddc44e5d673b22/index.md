@@ -1,6 +1,6 @@
 ---
 title: ​ParalleL
-description: W:8 L:13 D:1 Bonus ✅ 34%
+description: W:8 L:13 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **Bacon Warriors**
 date: 2026-09-18T20:27:53.000Z
@@ -15,7 +15,7 @@ date: 2026-09-18T20:27:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mond
-description: W:156 L:130 D:1 Bonus ✅ 58%
+description: W:156 L:130 D:1 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 1 - 43 **Nearland Ind**
 date: 2026-09-19T21:59:54.000Z
@@ -18,7 +18,7 @@ s please register exclusively via our Discord bot 🙂
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Monkey"
-description: "ws: 1 μ: 24.23"
+description: "ws: 2 μ: 24.23"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: -0.66
 - **μ**: 24.23  
 - **σ**: 8.30
-- W: 0, L: 1, T: 0
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 24.23"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-20 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 29-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-05-23 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 3-24 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |

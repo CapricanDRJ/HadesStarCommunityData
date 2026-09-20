@@ -1,9 +1,9 @@
 ---
 title: ​Ordo Malleus
-description: W:5 L:5 D:2 Bonus ❌ 6%
+description: W:5 L:6 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **万顷稻花**
-date: 2026-05-31T22:48:12.000Z
+Summary: ❌ 2 - 9 **Wolf \- Star**
+date: 2026-09-20T11:28:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-05-31T22:48:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔻  (-1)|
-| ELO Competitive | 1274 🔺  (1)|
-| Total Matches | 12 |
+| ELO Regular | 1201 🔻  (-15)|
+| ELO Competitive | 1257 🔻  (-16)|
+| Total Matches | 13 |
 | Wins | 5 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1779835692,1775730434,1775253173,1771466489,1770832407,1770278693,1770068093,1769723131,1765739117,1765468401,1764146931,1760781748];
+        let timestamps = [1789471694,1779835692,1775730434,1775253173,1771466489,1770832407,1770278693,1770068093,1769723131,1765739117,1765468401,1764146931,1760781748];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/20 | 2-9 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ↔️ | 2026/05/31 | 0-0 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ❌ | 2026/04/14 | 0-9 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2026/04/08 | 3-2 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
@@ -154,5 +155,5 @@ Corporation ID: 07c83a89ba8d4165f71961ebd88351c19ebe3da1688e4fd36b132975883ab794
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1780267692"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789903694"></span>
 </div>

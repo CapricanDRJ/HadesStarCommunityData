@@ -1,9 +1,9 @@
 ---
 title: ​Wolf - Star
-description: W:2 L:0 D:0 Bonus ✅ 30%
+description: W:3 L:0 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **九州·养老**
-date: 2026-09-14T08:18:00.000Z
+Summary: ✅ 9 - 2 **Ordo Malleus**
+date: 2026-09-20T11:28:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-09-14T08:18:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (16)|
-| ELO Competitive | 1247 🔺  (24)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1240 🔺  (15)|
+| ELO Competitive | 1263 🔺  (16)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788941880,1788509225];
+        let timestamps = [1789471694,1788941880,1788509225];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/20 | 9-2 | [Ordo Malleus](https://ws.tsl.rocks/corp/07c83a89ba8d4165f71961ebd88351c19ebe3da1688e4fd36b132975883ab794/) |
 | ✅ | 2026/09/14 | 7-0 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/09/09 | 6-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 
@@ -145,5 +146,5 @@ Corporation ID: 844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789373880"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789903694"></span>
 </div>

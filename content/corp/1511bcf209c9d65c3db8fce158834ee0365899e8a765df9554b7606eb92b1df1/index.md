@@ -1,6 +1,6 @@
 ---
 title: ​太阳系联邦
-description: W:10 L:23 D:0 Bonus ✅ 36%
+description: W:10 L:23 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 1 - 18 **Gemini Ind\.**
 date: 2026-09-13T15:51:29.000Z
@@ -15,7 +15,7 @@ date: 2026-09-13T15:51:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
