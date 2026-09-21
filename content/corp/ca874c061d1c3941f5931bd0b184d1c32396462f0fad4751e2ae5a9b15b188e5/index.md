@@ -1,9 +1,9 @@
 ---
 title: ​Knights of Solo
-description: W:6 L:8 D:2 Bonus ❌ 6%
+description: W:6 L:9 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **ВЕЧНОСТЬ**
-date: 2026-09-12T23:10:07.000Z
+Summary: ❌ 0 - 22 **Corvus Ind\.**
+date: 2026-09-20T22:36:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-12T23:10:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (15)|
-| ELO Competitive | 1261 🔺  (12)|
-| Total Matches | 16 |
+| ELO Regular | 1186 🔻  (-4)|
+| ELO Competitive | 1258 🔻  (-3)|
+| Total Matches | 17 |
 | Wins | 6 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788822607,1788366816,1787203588,1787023024,1786268889,1785795119,1785726010,1785100797,1784380164,1784379397,1783715811,1783475770,1782351668,1781842395,1781383190,1780788367];
+        let timestamps = [1789511811,1788822607,1788366816,1787203588,1787023024,1786268889,1785795119,1785726010,1785100797,1784380164,1784379397,1783715811,1783475770,1782351668,1781842395,1781383190,1780788367];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/20 | 0-22 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ✅ | 2026/09/12 | 7-0 | [ВЕЧНОСТЬ](https://ws.tsl.rocks/corp/74eba1a325fdde4fe9b83f1deeba46d9c0cd896d647462ad9587a0d3dc409e1e/) |
 | ❌ | 2026/09/07 | 0-15 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2026/08/25 | 1-0 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
@@ -163,5 +164,5 @@ Corporation ID: ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789254607"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789943811"></span>
 </div>

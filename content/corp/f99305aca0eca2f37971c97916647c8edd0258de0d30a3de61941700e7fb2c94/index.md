@@ -1,9 +1,9 @@
 ---
 title: ​Corvus Ind.
-description: W:49 L:10 D:0 Bonus ❌ 13%
+description: W:50 L:10 D:0 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ✅ 19 - 0 **龙族之家**
-date: 2026-09-07T00:27:21.000Z
+Summary: ✅ 22 - 0 **Knights of Solo**
+date: 2026-09-20T22:36:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,17 +21,17 @@ https://discord.gg/ysGrswJTUp
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌ 13%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1518 🔺  (2)|
-| ELO Competitive | 1645 🔺  (1)|
-| Total Matches | 59 |
-| Wins | 49 |
+| ELO Regular | 1522 🔺  (4)|
+| ELO Competitive | 1648 🔺  (3)|
+| Total Matches | 60 |
+| Wins | 50 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 25 |
 | Flagship | 5 |
 
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788308841,1787079207,1785869922,1784654367,1783464657,1782182992,1781019966,1779718509,1777909818,1776793077,1774880192,1768931107,1766466205,1765033025,1764366570,1764016827,1763403013,1751228883,1745178478,1742183477,1737346897,1734291695,1731895002,1729477182,1726495556,1724066888,1721587037,1720983594,1719686494,1719166925,1718565598,1717960501,1716746557,1716174783,1715543241,1714963362,1714319967,1713732584,1712514185,1711915028,1710699911,1710098973,1709487509,1708880532,1708273834,1708111371,1707671629,1707665698,1707073628,1706443746,1705833403,1705228772,1704628046,1704375012,1701631257,1701049109,1701023561,1699820400,1698743281];
+        let timestamps = [1789511811,1788308841,1787079207,1785869922,1784654367,1783464657,1782182992,1781019966,1779718509,1777909818,1776793077,1774880192,1768931107,1766466205,1765033025,1764366570,1764016827,1763403013,1751228883,1745178478,1742183477,1737346897,1734291695,1731895002,1729477182,1726495556,1724066888,1721587037,1720983594,1719686494,1719166925,1718565598,1717960501,1716746557,1716174783,1715543241,1714963362,1714319967,1713732584,1712514185,1711915028,1710699911,1710098973,1709487509,1708880532,1708273834,1708111371,1707671629,1707665698,1707073628,1706443746,1705833403,1705228772,1704628046,1704375012,1701631257,1701049109,1701023561,1699820400,1698743281];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/20 | 22-0 | [Knights of Solo](https://ws.tsl.rocks/corp/ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5/) |
 | ✅ | 2026/09/07 | 19-0 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
 | ✅ | 2026/08/23 | 21-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2026/08/09 | 15-0 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
@@ -219,5 +220,5 @@ Corporation ID: f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788740841"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789943811"></span>
 </div>

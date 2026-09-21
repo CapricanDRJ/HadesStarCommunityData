@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL STAR
-description: W:67 L:46 D:3 Bonus ✅ 46%
+description: W:67 L:46 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 24 **中国星际联盟**
 date: 2026-09-20T15:36:10.000Z
@@ -18,7 +18,7 @@ po no chat da corporação :D
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
