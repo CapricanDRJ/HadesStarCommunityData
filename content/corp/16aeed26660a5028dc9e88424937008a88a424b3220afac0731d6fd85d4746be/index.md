@@ -1,9 +1,9 @@
 ---
 title: ​Star Union
-description: W:17 L:10 D:0 Bonus ❌ 8%
+description: W:17 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 2 - 18 **Solar Corp**
-date: 2026-09-08T04:24:40.000Z
+Summary: ❌ 0 - 10 **QONQR**
+date: 2026-09-21T12:57:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-08T04:24:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔻  (-7)|
-| ELO Competitive | 1400 🔻  (-7)|
-| Total Matches | 27 |
+| ELO Regular | 1282 🔻  (-7)|
+| ELO Competitive | 1395 🔻  (-5)|
+| Total Matches | 28 |
 | Wins | 17 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788409480,1787687894,1786668475,1785500974,1785480547,1784768534,1784258382,1783778896,1782755041,1781474825,1780541833,1779147026,1778297989,1777465084,1776286251,1775602152,1773965029,1772876253,1771892951,1770467070,1769481262,1768069397,1766352635,1765026413,1765006971,1762904583,1759804314];
+        let timestamps = [1789563471,1788409480,1787687894,1786668475,1785500974,1785480547,1784768534,1784258382,1783778896,1782755041,1781474825,1780541833,1779147026,1778297989,1777465084,1776286251,1775602152,1773965029,1772876253,1771892951,1770467070,1769481262,1768069397,1766352635,1765026413,1765006971,1762904583,1759804314];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/21 | 0-10 | [QONQR](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ❌ | 2026/09/08 | 2-18 | [Solar Corp](https://ws.tsl.rocks/corp/48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264/) |
 | ✅ | 2026/08/30 | 11-0 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
 | ✅ | 2026/08/19 | 30-0 | [Clube Jogatico](https://ws.tsl.rocks/corp/b7fa1d6ba9752f3526daf60acb3f70f9daaf33a9e81bb5d9c78015c805b74ef4/) |
@@ -175,5 +176,5 @@ Corporation ID: 16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788841480"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789995471"></span>
 </div>

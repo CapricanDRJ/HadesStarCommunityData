@@ -1,6 +1,6 @@
 ---
 title: ​九州·白星
-description: W:62 L:109 D:2 Bonus ✅ 48%
+description: W:62 L:109 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **Закулисье**
 date: 2026-09-19T16:19:39.000Z
@@ -15,7 +15,7 @@ date: 2026-09-19T16:19:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

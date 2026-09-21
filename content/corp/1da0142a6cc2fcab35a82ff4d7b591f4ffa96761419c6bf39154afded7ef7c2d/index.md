@@ -1,6 +1,6 @@
 ---
 title: ​Orden Estelar
-description: W:60 L:37 D:3 Bonus ❌ 12%
+description: W:60 L:37 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 28 **中华五千年**
 date: 2026-08-11T23:37:27.000Z
@@ -17,7 +17,7 @@ Ni retirada ni rendicion
 ```
 <br>
 
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
