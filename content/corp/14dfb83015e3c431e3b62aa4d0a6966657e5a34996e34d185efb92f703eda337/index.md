@@ -1,6 +1,6 @@
 ---
 title: ​New YuGiOh
-description: W:77 L:17 D:3 Bonus ✅ 48%
+description: W:77 L:17 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 13 - 4 **Bastille FR**
 date: 2026-09-14T11:43:17.000Z
@@ -15,7 +15,7 @@ date: 2026-09-14T11:43:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

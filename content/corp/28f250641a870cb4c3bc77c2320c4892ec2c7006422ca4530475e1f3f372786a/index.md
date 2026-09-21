@@ -1,6 +1,6 @@
 ---
 title: ​YU-GI-OH
-description: W:12 L:11 D:0 Bonus ✅ 36%
+description: W:12 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 6 - 5 **Quantum Mass**
 date: 2026-09-14T12:13:19.000Z
@@ -15,7 +15,7 @@ date: 2026-09-14T12:13:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

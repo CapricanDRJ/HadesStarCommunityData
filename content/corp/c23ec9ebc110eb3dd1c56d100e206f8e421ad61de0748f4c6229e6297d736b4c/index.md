@@ -1,6 +1,6 @@
 ---
 title: ​Dark Monarchs
-description: W:38 L:31 D:1 Bonus ❌ 
+description: W:38 L:31 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 53 **Looping**
 date: 2026-08-09T11:48:01.000Z
@@ -15,7 +15,7 @@ date: 2026-08-09T11:48:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Likapa
-description: W:263 L:18 D:0 Bonus ✅ 58%
+description: W:263 L:18 D:0 Bonus ❌ 58%
 image: ./favicon.png
 Summary: ❌ 11 - 21 **IX Легион**
 date: 2026-09-19T04:18:28.000Z
@@ -18,7 +18,7 @@ or></size></b>
 <br>
 
 ### [Discord](https://discord.gg/3CE2zAs)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 58%
 
 | Statistic | Value |
 | --- | --- |

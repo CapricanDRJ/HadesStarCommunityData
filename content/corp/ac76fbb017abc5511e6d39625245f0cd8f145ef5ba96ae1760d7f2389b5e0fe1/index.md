@@ -1,6 +1,6 @@
 ---
 title: ​ProyectCorp
-description: W:21 L:44 D:0 Bonus ✅ 38%
+description: W:21 L:44 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 44 **Nine's Own Goal**
 date: 2026-09-19T21:19:50.000Z
@@ -17,7 +17,7 @@ Our leader is writing a good description, please join the corp, enjoy
 <br>
 
 ### [Discord](https://discord.gg/yddJSxbE72)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

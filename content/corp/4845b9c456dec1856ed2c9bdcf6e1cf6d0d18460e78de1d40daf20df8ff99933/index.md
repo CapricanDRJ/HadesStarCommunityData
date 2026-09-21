@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:2 L:24 D:4 Bonus ❌ 4%
+description: W:3 L:24 D:4 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **新?的星际集团?**
-date: 2026-09-15T16:35:53.000Z
+Summary: ✅ 3 - 2 **红日初升，其道大光**
+date: 2026-09-21T12:02:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-15T16:35:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1034 🔻  (-6)|
-| ELO Competitive | 1099 🔻  (-2)|
-| Total Matches | 30 |
-| Wins | 2 |
+| ELO Regular | 1056 🔺  (22)|
+| ELO Competitive | 1128 🔺  (28)|
+| Total Matches | 31 |
+| Wins | 3 |
 | Losses | 24 |
 | Draws | 4 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/21 | 3-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/09/15 | 0-4 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2026/09/08 | 0-4 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ↔️ | 2026/07/30 | 0-0 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
@@ -178,5 +179,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789490153"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789992166"></span>
 </div>
