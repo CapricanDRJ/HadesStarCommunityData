@@ -1,6 +1,6 @@
 ---
 title: ​元素联邦
-description: W:50 L:20 D:1 Bonus ✅ 40%
+description: W:50 L:20 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 20 - 7 **Z\. O\. V\.**
 date: 2026-09-14T16:28:44.000Z
@@ -17,7 +17,7 @@ date: 2026-09-14T16:28:44.000Z
 <br>
 
 ### [Discord](https://discord.gg/Q群250502867)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

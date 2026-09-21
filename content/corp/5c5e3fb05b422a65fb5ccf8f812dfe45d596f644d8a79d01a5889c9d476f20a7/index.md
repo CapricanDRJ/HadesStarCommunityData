@@ -1,9 +1,9 @@
 ---
 title: ​GN星际联合
-description: W:6 L:9 D:3 Bonus ❌ 6%
+description: W:6 L:10 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 15 **仙女座星雲**
-date: 2026-09-08T23:26:26.000Z
+Summary: ❌ 0 - 3 **龙族之家**
+date: 2026-09-21T17:23:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-08T23:26:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (-2)|
-| ELO Competitive | 1196 🔻  (0)|
-| Total Matches | 18 |
+| ELO Regular | 1153 🔻  (-19)|
+| ELO Competitive | 1178 🔻  (-18)|
+| Total Matches | 19 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788477986,1787705896,1786293858,1785605220,1785167198,1785132433,1784712207,1747309507,1746000549,1744892085,1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
+        let timestamps = [1789579395,1788477986,1787705896,1786293858,1785605220,1785167198,1785132433,1784712207,1747309507,1746000549,1744892085,1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/21 | 0-3 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
 | ❌ | 2026/09/08 | 0-15 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/08/31 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/08/14 | 0-0 | [G\.O\.D 星辰](https://ws.tsl.rocks/corp/10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a/) |
@@ -165,5 +166,5 @@ Corporation ID: 5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788909986"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790011395"></span>
 </div>
