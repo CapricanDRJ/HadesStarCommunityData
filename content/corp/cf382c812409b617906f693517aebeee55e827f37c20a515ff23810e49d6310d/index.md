@@ -1,6 +1,6 @@
 ---
 title: ​BRhue
-description: W:42 L:144 D:1 Bonus ✅ 52%
+description: W:42 L:144 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 40 **SNSS**
 date: 2026-09-20T02:32:13.000Z
@@ -20,7 +20,7 @@ Juntos somos mais fortes.
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
