@@ -1,6 +1,6 @@
 ---
 title: ​Red star (all)
-description: W:3 L:3 D:1 Bonus ✅ 28%
+description: W:3 L:3 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **Bastille FR**
 date: 2026-09-14T21:14:17.000Z
@@ -15,7 +15,7 @@ date: 2026-09-14T21:14:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

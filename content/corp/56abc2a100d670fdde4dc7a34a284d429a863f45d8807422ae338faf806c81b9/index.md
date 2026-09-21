@@ -1,6 +1,6 @@
 ---
 title: ​Space Dragons
-description: W:36 L:40 D:2 Bonus ✅ 38%
+description: W:36 L:40 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **Red Monarchs**
 date: 2026-09-14T21:04:16.000Z
@@ -15,7 +15,7 @@ date: 2026-09-14T21:04:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
