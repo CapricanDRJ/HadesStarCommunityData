@@ -1,9 +1,9 @@
 ---
 title: ​Got Nothing
-description: W:26 L:14 D:0 Bonus ❌ 9%
+description: W:27 L:14 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 19 - 3 **IX Легион**
-date: 2026-08-29T06:09:49.000Z
+Summary: ✅ 26 - 3 **Вселенские 40%**
+date: 2026-09-21T08:37:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ rd for easier coordination and fun!
 <br>
 
 ### [Discord](https://discord.gg/3CBQRhpWmV)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (28)|
-| ELO Competitive | 1483 🔺  (30)|
-| Total Matches | 40 |
-| Wins | 26 |
+| ELO Regular | 1386 🔺  (7)|
+| ELO Competitive | 1492 🔺  (9)|
+| Total Matches | 41 |
+| Wins | 27 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 | Flagship | 7 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787551789,1782720789,1781562556,1779173161,1777384663,1776684914,1774849251,1771803424,1766993486,1744997566,1744680544,1741523593,1731328563,1728333036,1726505476,1724706981,1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
+        let timestamps = [1789547851,1787551789,1782720789,1781562556,1779173161,1777384663,1776684914,1774849251,1771803424,1766993486,1744997566,1744680544,1741523593,1731328563,1728333036,1726505476,1724706981,1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/21 | 26-3 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2026/08/29 | 19-3 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2026/07/04 | 36-3 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ✅ | 2026/06/20 | 13-3 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
@@ -193,5 +194,5 @@ Corporation ID: ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787983789"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789979851"></span>
 </div>

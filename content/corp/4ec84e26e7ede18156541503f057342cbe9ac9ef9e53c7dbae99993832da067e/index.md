@@ -1,9 +1,9 @@
 ---
 title: ​Legion Prime
-description: W:31 L:27 D:0 Bonus ❌ 11%
+description: W:32 L:27 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 37 - 6 **47підрозділССП**
-date: 2026-09-12T05:23:24.000Z
+Summary: ✅ 26 - 6 **Z\. O\. V\.**
+date: 2026-09-21T09:17:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ S!
 ```
 <br>
 
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔺  (6)|
-| ELO Competitive | 1490 🔺  (8)|
-| Total Matches | 58 |
-| Wins | 31 |
+| ELO Regular | 1353 🔺  (17)|
+| ELO Competitive | 1517 🔺  (27)|
+| Total Matches | 59 |
+| Wins | 32 |
 | Losses | 27 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 | Flagship | 9 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788758604,1787531663,1786061893,1784858054,1782737011,1781406018,1780567837,1778544958,1777208899,1775973495,1774791260,1773709658,1772466193,1771290588,1770312644,1769299482,1768262896,1767464293,1766716788,1766152219,1765656790,1765216924,1756777747,1754361708,1752104783,1749520839,1747099769,1744677541,1742171162,1739464542,1734685600,1732398320,1731154325,1729856394,1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
+        let timestamps = [1789550254,1788758604,1787531663,1786061893,1784858054,1782737011,1781406018,1780567837,1778544958,1777208899,1775973495,1774791260,1773709658,1772466193,1771290588,1770312644,1769299482,1768262896,1767464293,1766716788,1766152219,1765656790,1765216924,1756777747,1754361708,1752104783,1749520839,1747099769,1744677541,1742171162,1739464542,1734685600,1732398320,1731154325,1729856394,1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/21 | 26-6 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2026/09/12 | 37-6 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2026/08/29 | 33-0 | [Тишина](https://ws.tsl.rocks/corp/c01132c3ce96835d1c14e411dc68417ed6fc0536d57de0f9e2a4ce86f1a739ca/) |
 | ✅ | 2026/08/12 | 17-7 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
@@ -208,5 +209,5 @@ Corporation ID: 4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789190604"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789982254"></span>
 </div>

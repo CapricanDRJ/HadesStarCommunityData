@@ -1,9 +1,9 @@
 ---
 title: ​CubeTech
-description: W:8 L:10 D:0 Bonus ❌ 9%
+description: W:8 L:12 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **太空的猫**
-date: 2026-09-11T12:31:48.000Z
+Summary: ❌ 0 - 23 **Bastille FR**
+date: 2026-09-21T08:37:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-11T12:31:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (-15)|
-| ELO Competitive | 1329 🔺  (16)|
-| Total Matches | 18 |
+| ELO Regular | 1209 🔻  (-14)|
+| ELO Competitive | 1319 🔻  (-10)|
+| Total Matches | 20 |
 | Wins | 8 |
-| Losses | 10 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788697908,1788678737,1788199784,1787571016,1786986669,1786461779,1785893658,1785162475,1784728792,1784289923,1784276705,1783788771,1783766577,1783321348,1783153706,1782749932,1782721350,1736957335];
+        let timestamps = [1789547851,1789545748,1788697908,1788678737,1788199784,1787571016,1786986669,1786461779,1785893658,1785162475,1784728792,1784289923,1784276705,1783788771,1783766577,1783321348,1783153706,1782749932,1782721350,1736957335];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) | 0 | 2 | 0 | 2 |
 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) | 1 | 1 | 0 | 2 |
 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1 | 1 | 0 | 2 |
 
@@ -141,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/21 | 0-23 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
+| ❌ | 2026/09/21 | 0-12 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
 | ❌ | 2026/09/11 | 0-4 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
 | ✅ | 2026/09/11 | 26-0 | [The Syndicate](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2026/09/05 | 22-0 | [Aeon](https://ws.tsl.rocks/corp/5e4b3d6d6f08dee95abbb170211af935c564afdbc3039ee0a6f333070688724e/) |
@@ -166,5 +169,5 @@ Corporation ID: 87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789129908"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789979851"></span>
 </div>
