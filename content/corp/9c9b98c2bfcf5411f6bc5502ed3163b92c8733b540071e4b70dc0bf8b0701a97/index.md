@@ -1,9 +1,9 @@
 ---
 title: ​UFSG
-description: W:2 L:9 D:1 Bonus ❌ 5%
+description: W:2 L:10 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **仙女座星雲**
-date: 2026-09-16T01:56:45.000Z
+Summary: ❌ 0 - 13 **Quantum Mass**
+date: 2026-09-21T04:22:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ HAGUANTE MILEY CARRAJO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (-1)|
-| ELO Competitive | 1151 🔻  (0)|
-| Total Matches | 12 |
+| ELO Regular | 1124 🔻  (-11)|
+| ELO Competitive | 1142 🔻  (-9)|
+| Total Matches | 13 |
 | Wins | 2 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789091805,1786815768,1786382498,1785428270,1784944348,1784511509,1783144392,1726361281,1724835416,1723849241,1723188919,1722598933];
+        let timestamps = [1789532546,1789091805,1786815768,1786382498,1785428270,1784944348,1784511509,1783144392,1726361281,1724835416,1723849241,1723188919,1722598933];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/21 | 0-13 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/09/16 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/08/20 | 0-2 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/08/15 | 0-0 | [琼霄阁](https://ws.tsl.rocks/corp/70c83552ab1caa2af7d4dc63cedb7cfeb74c8c83def002c92cfe59dbfbf2f33f/) |
@@ -158,5 +159,5 @@ Corporation ID: 9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789523805"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1789964546"></span>
 </div>

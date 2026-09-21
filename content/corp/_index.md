@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-09-21T03:55:41.094Z
+date: 2026-09-21T06:55:40.070Z
 summary: "Corporation directory"
 ---
 
@@ -86,7 +86,7 @@ summary: "Corporation directory"
 | [Azennor inc\.](https://ws.tsl.rocks/corp/b20eec58c56fcfae87efc51986817da9dca387c1c97cdf722432dfdf0e418050/) | 1221 | 1225 | 5 |
 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) | 1088 | 1095 | 11 |
 | [Back of the bus](https://ws.tsl.rocks/corp/d269bac96227b22639d016b35ca2d0ef85c03cdc5943bea3d21d2520b0159bf6/) | 1216 | 1216 | 1 |
-| [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) | 1279 | 1646 | 177 |
+| [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) | 1290 | 1661 | 178 |
 | [Bandidos](https://ws.tsl.rocks/corp/adc57f96c7e8dfd6a8b74d92f1a0c179405f6dabc7d1d8d323b0de3fb62b8099/) | 1190 | 1194 | 1 |
 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) | 1236 | 1433 | 44 |
 | [Battle Academy](https://ws.tsl.rocks/corp/a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd/) | 1434 | 1503 | 23 |
@@ -509,7 +509,7 @@ summary: "Corporation directory"
 | [helvetic force](https://ws.tsl.rocks/corp/954c78bdb9845f358b91263d2f34f919123d624f5b8bfc566781890f90010612/) | 1217 | 1222 | 3 |
 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 1275 | 1441 | 54 |
 | [HerronCorp](https://ws.tsl.rocks/corp/220742540e6deb9741f787e95b338302d66b4d9f0ac35aab435bff0ee4d946ca/) | 1185 | 1185 | 1 |
-| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 1193 | 1710 | 217 |
+| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 1182 | 1710 | 218 |
 | [Hexennacht](https://ws.tsl.rocks/corp/3fa15511879c2f420d8591bac7f8ac61d79ea28055962686156de3e86819a108/) | 1151 | 1202 | 8 |
 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1/) | 1397 | 1553 | 44 |
 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) | 1351 | 1806 | 154 |
@@ -865,7 +865,7 @@ summary: "Corporation directory"
 | [Quadra FR](https://ws.tsl.rocks/corp/e87ef7b09a57216e03405e0f951199ff8b37dd4397d2f7da36bd269fe42ba974/) | 1230 | 1247 | 10 |
 | [Quantum Cats](https://ws.tsl.rocks/corp/0b6309a414bde261db3ee5592ae72168ca48d02558f5bc597950f11e55f92ae6/) | 1185 | 1253 | 24 |
 | [Quantum Jumpers](https://ws.tsl.rocks/corp/2c5d82b8370a36c30a396c7a1b894f347a4698e2393f9e0d31e9ad6c465e2ae2/) | 1187 | 1197 | 10 |
-| [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) | 1240 | 1289 | 13 |
+| [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) | 1250 | 1298 | 14 |
 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) | 1248 | 1350 | 44 |
 | [Quantum Web](https://ws.tsl.rocks/corp/5f0fb485dfc36997fd3fbec2b4f854ed3bd25b16e2500626b9348a1e12d2b796/) | 1189 | 1191 | 2 |
 | [QuantumDrift](https://ws.tsl.rocks/corp/6b976a5cc4450c6b5c8a52b762982560b6d5551146a01c0b659deb8eb5043359/) | 1305 | 1342 | 14 |
@@ -1305,7 +1305,7 @@ summary: "Corporation directory"
 | [Uchiha](https://ws.tsl.rocks/corp/84cbfdcf65b61cfbc76fd507cdad0278bd1469742b77cd098a372506d8f50dbd/) | 1103 | 1181 | 16 |
 | [uDS](https://ws.tsl.rocks/corp/c120f3bc94740ef16cf2e075afe14212a63d35c19798ef6a191623fb76d4dd0f/) | 1150 | 1160 | 6 |
 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) | 998 | 1193 | 87 |
-| [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) | 1134 | 1151 | 12 |
+| [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) | 1124 | 1142 | 13 |
 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) | 1116 | 1158 | 21 |
 | [UK Armada](https://ws.tsl.rocks/corp/2e3b65146fc90421a8e65a738a443ed67c756396af15a641475928091cb261a4/) | 1135 | 1172 | 14 |
 | [Ukr alliance](https://ws.tsl.rocks/corp/0eb13755b8906344c0af35f3d63b7cc0ecebf80877f327f78b1e40aded41ca7c/) | 1175 | 1175 | 5 |

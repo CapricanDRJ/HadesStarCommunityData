@@ -1,6 +1,6 @@
 ---
 title: ​White Dwarf
-description: W:129 L:55 D:1 Bonus ✅ 54%
+description: W:129 L:55 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 3 - 21 **Ƭιтαηѕ Ф тєʀʀσƦ**
 date: 2026-09-20T05:20:23.000Z
@@ -17,7 +17,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 <br>
 
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

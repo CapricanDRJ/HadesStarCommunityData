@@ -1,6 +1,6 @@
 ---
 title: ​Españoles
-description: W:77 L:102 D:1 Bonus ✅ 52%
+description: W:77 L:102 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 39 - 3 **世外桃源**
 date: 2026-09-14T05:07:45.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
