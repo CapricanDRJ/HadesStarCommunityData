@@ -1,6 +1,6 @@
 ---
 title: ​新?的星际集团?
-description: W:79 L:62 D:8 Bonus ✅ 44%
+description: W:79 L:62 D:8 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 55 **OPA**
 date: 2026-09-22T14:39:54.000Z
@@ -23,7 +23,7 @@ date: 2026-09-22T14:39:54.000Z
 <br>
 
 ### [Discord](https://discord.gg/新星团总部)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
