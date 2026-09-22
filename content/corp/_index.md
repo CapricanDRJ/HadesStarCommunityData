@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-09-22T03:55:40.677Z
+date: 2026-09-22T06:55:40.353Z
 summary: "Corporation directory"
 ---
 
@@ -350,7 +350,7 @@ summary: "Corporation directory"
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 1617 | 1724 | 66 |
 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) | 1153 | 1162 | 9 |
 | [EMPIRE](https://ws.tsl.rocks/corp/6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2/) | 1238 | 1243 | 3 |
-| [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1403 | 1705 | 139 |
+| [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1416 | 1711 | 140 |
 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) | 1102 | 1293 | 120 |
 | [Empyre](https://ws.tsl.rocks/corp/b31247ca3aabadd1d2b099494ccc433c768f115c91677798d5b3dac380f90392/) | 1180 | 1186 | 2 |
 | [End of day](https://ws.tsl.rocks/corp/677cda4ea456531f2241fddba358b021389738311f4b62e0275614728e0a19b2/) | 1161 | 1164 | 4 |
@@ -380,7 +380,7 @@ summary: "Corporation directory"
 | [Fang Empire](https://ws.tsl.rocks/corp/3d903fdc947fc738eddae3b29d9759a754c972382ca06dafc30596f20cac6be6/) | 1153 | 1159 | 3 |
 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) | 1107 | 1398 | 76 |
 | [Federation](https://ws.tsl.rocks/corp/5775c5fa40e7c93a32c911e8ab9330221aa47d1588714cceffd6862dcaaf9e11/) | 1181 | 1183 | 2 |
-| [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) | 1457 | 1741 | 95 |
+| [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) | 1440 | 1731 | 96 |
 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) | 1149 | 1155 | 7 |
 | [Firestarters](https://ws.tsl.rocks/corp/975a058b74909c99c34a22d266817bfb7b3f49c34e599099c96f3867b4b77443/) | 1157 | 1159 | 5 |
 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 1320 | 1771 | 243 |
@@ -605,7 +605,7 @@ summary: "Corporation directory"
 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6/) | 1241 | 1268 | 14 |
 | [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/) | 1454 | 1563 | 24 |
 | [KINETIC](https://ws.tsl.rocks/corp/cede0cbd357fd37d5a222b983ddb557199882d8d8a95d55616333f60ee7c8527/) | 1196 | 1200 | 1 |
-| [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 1132 | 1383 | 220 |
+| [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 1158 | 1411 | 221 |
 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) | 1127 | 1157 | 11 |
 | [Kiyoshi](https://ws.tsl.rocks/corp/760b74e84a58b20cd6ee926ecc45da232da8d67fd274698349f814fab6d220ea/) | 1188 | 1189 | 1 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 1076 | 1240 | 80 |
@@ -943,7 +943,7 @@ summary: "Corporation directory"
 | [Russia](https://ws.tsl.rocks/corp/14561981eba434af12062961e19345bd438ed10b7b630295db868067861e6bd6/) | 1184 | 1186 | 5 |
 | [Russian space](https://ws.tsl.rocks/corp/60661432424687137dd115ceeba6850338ef752cae3b9a1b7f3b84cc267c558b/) | 1173 | 1174 | 2 |
 | [Russian space 2](https://ws.tsl.rocks/corp/41b9946501f1125cea47c61a14df7fda0db05330ab02313084c867f908026403/) | 1185 | 1187 | 1 |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1586 | 1893 | 121 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1592 | 1896 | 122 |
 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) | 1286 | 1463 | 71 |
 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) | 1109 | 1109 | 9 |
 | [RWA](https://ws.tsl.rocks/corp/982b5912bb140d203f3c20900e26163787d616d3af33ddbc3ae3349f955caf01/) | 1175 | 1184 | 2 |
@@ -1642,7 +1642,7 @@ summary: "Corporation directory"
 | [минск](https://ws.tsl.rocks/corp/350845614fd714115b9d5fbb2d305c4aaeafe40bf25dd9352f762b1cd4c25deb/) | 1190 | 1196 | 4 |
 | [русский клан](https://ws.tsl.rocks/corp/d8f9003e2fa6789706c2e1330836d6b7fb44d4f30a4f006c37210bac6c9ffcb9/) | 1202 | 1202 | 2 |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1527 | 2112 | 256 |
-| [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 1448 | 1886 | 185 |
+| [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 1438 | 1895 | 187 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1228 | 1655 | 196 |
 | [хранилище](https://ws.tsl.rocks/corp/2bfe6c20be9914b41035d73d5d57975a69b4b1cac238eae823033fc12846fa05/) | 1195 | 1200 | 3 |
 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) | 1305 | 1356 | 31 |
@@ -1753,7 +1753,7 @@ summary: "Corporation directory"
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1149 | 1300 | 53 |
 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1159 | 1279 | 39 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 962 | 1074 | 46 |
-| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1353 | 1475 | 34 |
+| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1334 | 1473 | 36 |
 | [基地联邦](https://ws.tsl.rocks/corp/9e1663122c20a4645bb8c9dd366a5b75a4c70ebbcd9ce2777574ce182e19beba/) | 1216 | 1222 | 1 |
 | [塔罗会](https://ws.tsl.rocks/corp/6bff4eb81afd71832d1e181ac97acc1ce1b280b8cef58e8a01ca31d45df501f4/) | 1187 | 1195 | 1 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |

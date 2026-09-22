@@ -1,6 +1,6 @@
 ---
 title: ​第三十一序列一一辉光议会
-description: W:1 L:0 D:0 Bonus ❌ 
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **imperio viltrum**
 date: 2026-08-23T04:47:12.000Z
@@ -15,7 +15,7 @@ date: 2026-08-23T04:47:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
