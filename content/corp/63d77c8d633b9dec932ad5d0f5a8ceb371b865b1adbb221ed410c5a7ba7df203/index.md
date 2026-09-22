@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Star
-description: W:87 L:40 D:0 Bonus ✅ 48%
+description: W:87 L:40 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 11 - 3 **TheBasics**
 date: 2026-09-14T22:24:24.000Z
@@ -18,7 +18,7 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
