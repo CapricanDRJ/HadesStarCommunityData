@@ -1,9 +1,9 @@
 ---
 title: ​Clube Jogatico
-description: W:22 L:13 D:1 Bonus ❌ 8%
+description: W:23 L:13 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 4 - 6 **Новый ЭДЭМ**
-date: 2026-09-17T07:59:19.000Z
+Summary: ✅ 3 - 2 **Cerulean Star**
+date: 2026-09-22T13:59:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-17T07:59:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (-19)|
-| ELO Competitive | 1338 🔻  (-22)|
-| Total Matches | 36 |
-| Wins | 22 |
+| ELO Regular | 1268 🔺  (23)|
+| ELO Competitive | 1365 🔺  (27)|
+| Total Matches | 37 |
+| Wins | 23 |
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789199959,1787304532,1786668475,1785756653,1785090579,1784469296,1783877441,1781815227,1761307949,1760744467,1760104767,1759649013,1759206679,1758744885,1758294728,1757852474,1757415011,1756808688,1756365060,1755923980,1755455218,1754987789,1754521435,1754038683,1753556712,1753093956,1752647997,1752207847,1751673880,1751191614,1750673136,1750238742,1749738094,1748863730,1748238355,1747231081];
+        let timestamps = [1789653590,1789199959,1787304532,1786668475,1785756653,1785090579,1784469296,1783877441,1781815227,1761307949,1760744467,1760104767,1759649013,1759206679,1758744885,1758294728,1757852474,1757415011,1756808688,1756365060,1755923980,1755455218,1754987789,1754521435,1754038683,1753556712,1753093956,1752647997,1752207847,1751673880,1751191614,1750673136,1750238742,1749738094,1748863730,1748238355,1747231081];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/22 | 3-2 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2026/09/17 | 4-6 | [Новый ЭДЭМ](https://ws.tsl.rocks/corp/f1d15cb357f6e239e540971a84a8b7161bfb5a976716027dbccbbf8e77dac4b5/) |
 | ❌ | 2026/08/26 | 3-21 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/08/19 | 0-30 | [Star Union](https://ws.tsl.rocks/corp/16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be/) |
@@ -185,5 +186,5 @@ Corporation ID: b7fa1d6ba9752f3526daf60acb3f70f9daaf33a9e81bb5d9c78015c805b74ef4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789631959"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790085590"></span>
 </div>

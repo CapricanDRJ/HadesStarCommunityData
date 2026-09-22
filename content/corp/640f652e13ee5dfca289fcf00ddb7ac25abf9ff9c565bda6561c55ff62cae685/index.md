@@ -1,6 +1,6 @@
 ---
 title: ​云深不知处
-description: W:6 L:10 D:0 Bonus ✅ 32%
+description: W:6 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **BRASIL ACADEMY**
 date: 2026-09-20T20:26:40.000Z
@@ -15,7 +15,7 @@ date: 2026-09-20T20:26:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

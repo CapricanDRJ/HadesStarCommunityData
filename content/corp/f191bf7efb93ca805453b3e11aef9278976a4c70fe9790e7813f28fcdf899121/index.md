@@ -1,6 +1,6 @@
 ---
 title: ​Dumpster Fire
-description: W:49 L:132 D:1 Bonus ✅ 48%
+description: W:49 L:132 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 1 - 31 **Russian space 3**
 date: 2026-09-16T07:07:06.000Z
@@ -22,7 +22,7 @@ Discord-Free White Star
 <br>
 
 ### [Discord](https://discord.gg/FCWdtswtP5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

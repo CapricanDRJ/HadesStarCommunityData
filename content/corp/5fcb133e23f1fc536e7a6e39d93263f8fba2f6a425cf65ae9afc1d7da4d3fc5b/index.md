@@ -1,6 +1,6 @@
 ---
 title: ​欢迎新手
-description: W:9 L:17 D:0 Bonus ✅ 34%
+description: W:9 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **亚洲团队**
 date: 2026-09-15T13:06:08.000Z
@@ -15,7 +15,7 @@ date: 2026-09-15T13:06:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

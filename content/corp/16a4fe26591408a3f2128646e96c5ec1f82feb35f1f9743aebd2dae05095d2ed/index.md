@@ -1,6 +1,6 @@
 ---
 title: ​揽月宫
-description: W:16 L:9 D:0 Bonus ✅ 32%
+description: W:16 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 4 - 16 **Deadspace**
 date: 2026-09-20T15:06:07.000Z
@@ -25,7 +25,7 @@ date: 2026-09-20T15:06:07.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
