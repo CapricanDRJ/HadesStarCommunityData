@@ -1,6 +1,6 @@
 ---
 title: ​Solar Corp
-description: W:44 L:6 D:0 Bonus ✅ 40%
+description: W:44 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 6 - 15 **柯伊伯带**
 date: 2026-09-21T23:38:50.000Z
@@ -15,7 +15,7 @@ date: 2026-09-21T23:38:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
