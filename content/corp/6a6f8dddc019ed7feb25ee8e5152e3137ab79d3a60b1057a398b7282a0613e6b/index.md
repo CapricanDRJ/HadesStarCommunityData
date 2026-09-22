@@ -1,9 +1,9 @@
 ---
 title: ​WALRUS
-description: W:15 L:10 D:0 Bonus ❌ 7%
+description: W:16 L:10 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 20 - 3 **Новый Мир**
-date: 2026-09-12T11:53:58.000Z
+Summary: ✅ 32 - 0 **太空的猫**
+date: 2026-09-22T11:49:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-09-12T11:53:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (18)|
-| ELO Competitive | 1453 🔺  (24)|
-| Total Matches | 25 |
-| Wins | 15 |
+| ELO Regular | 1313 🔺  (12)|
+| ELO Competitive | 1464 🔺  (11)|
+| Total Matches | 26 |
+| Wins | 16 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788782038,1788012969,1787576830,1786416117,1785721379,1784492137,1783274778,1781174984,1781174383,1780560328,1779861223,1779770468,1778645302,1778644394,1777963895,1776863584,1776834836,1776167233,1776142341,1773734891,1771940713,1768897155,1765923589,1763493447,1763444774];
+        let timestamps = [1789645779,1788782038,1788012969,1787576830,1786416117,1785721379,1784492137,1783274778,1781174984,1781174383,1780560328,1779861223,1779770468,1778645302,1778644394,1777963895,1776863584,1776834836,1776167233,1776142341,1773734891,1771940713,1768897155,1765923589,1763493447,1763444774];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/22 | 32-0 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
 | ✅ | 2026/09/12 | 20-3 | [Новый Мир](https://ws.tsl.rocks/corp/5563c95f687e98cc5e151634915ffa5e0f4bb39709901c5acc52e34094f19409/) |
 | ✅ | 2026/09/03 | 23-5 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2026/08/29 | 19-0 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
@@ -173,5 +174,5 @@ Corporation ID: 6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789214038"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790077779"></span>
 </div>

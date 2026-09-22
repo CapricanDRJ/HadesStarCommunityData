@@ -1,9 +1,9 @@
 ---
 title: ​太阳系星盟·白星观测站
-description: W:9 L:3 D:0 Bonus ✅ 32%
+description: W:10 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **新星帝国属－涵空阁集团**
-date: 2026-09-16T22:34:02.000Z
+Summary: ✅ 12 - 2 **The Bois**
+date: 2026-09-22T12:24:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-09-16T22:34:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (9)|
-| ELO Competitive | 1289 🔺  (8)|
-| Total Matches | 12 |
-| Wins | 9 |
+| ELO Regular | 1282 🔺  (13)|
+| ELO Competitive | 1301 🔺  (12)|
+| Total Matches | 13 |
+| Wins | 10 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789166042,1788525147,1787401866,1786111155,1785673723,1770164230,1757827833,1755128862,1754696754,1754110498,1753671196,1753103273];
+        let timestamps = [1789647882,1789166042,1788525147,1787401866,1786111155,1785673723,1770164230,1757827833,1755128862,1754696754,1754110498,1753671196,1753103273];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/22 | 12-2 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ✅ | 2026/09/16 | 13-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
 | ✅ | 2026/09/09 | 12-0 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ✅ | 2026/08/27 | 3-0 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
@@ -155,5 +156,5 @@ Corporation ID: 956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789598042"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790079882"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​OPA
-description: W:169 L:60 D:0 Bonus ✅ 54%
+description: W:169 L:60 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 5 - 6 **ALPHA**
 date: 2026-09-15T17:56:01.000Z
@@ -19,7 +19,7 @@ Discord required : discord.gg/2RmfWZB777
 <br>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
