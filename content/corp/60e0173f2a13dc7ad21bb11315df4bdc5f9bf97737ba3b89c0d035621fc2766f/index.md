@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:91 L:68 D:2 Bonus ✅ 48%
+description: W:91 L:68 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 7 - 4 **Kratos**
 date: 2026-09-15T21:01:23.000Z
@@ -18,7 +18,7 @@ date: 2026-09-15T21:01:23.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
