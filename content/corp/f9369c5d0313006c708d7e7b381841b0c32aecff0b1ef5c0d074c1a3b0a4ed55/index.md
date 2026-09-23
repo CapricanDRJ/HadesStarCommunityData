@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人
-description: W:37 L:43 D:3 Bonus ✅ 42%
+description: W:37 L:43 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 2 - 7 **无人深空**
 date: 2026-09-16T10:27:21.000Z
@@ -15,7 +15,7 @@ date: 2026-09-16T10:27:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

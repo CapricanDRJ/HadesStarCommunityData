@@ -1,9 +1,9 @@
 ---
 title: ​С.Н.С.С.
-description: W:1 L:0 D:1 Bonus ❌ 3%
+description: W:2 L:0 D:1 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ↔️ 6 - 6 **Bacon Warriors**
-date: 2026-09-03T08:40:38.000Z
+Summary: ✅ 4 - 0 **无人深空**
+date: 2026-09-23T10:21:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-03T08:40:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (1)|
-| ELO Competitive | 1229 🔺  (12)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1232 🔺  (19)|
+| ELO Competitive | 1249 🔺  (20)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 1 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787992838,1783251041];
+        let timestamps = [1789726879,1787992838,1783251041];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/23 | 4-0 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ↔️ | 2026/09/03 | 6-6 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2026/07/10 | 3-0 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 7c45af82d66043c66506eb4f3b86ac2c5fcebc203b105f592257702772a4ba91
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788424838"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790158879"></span>
 </div>

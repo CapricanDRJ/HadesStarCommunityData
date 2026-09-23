@@ -1,9 +1,9 @@
 ---
 title: ​无人深空
-description: W:16 L:8 D:1 Bonus ✅ 36%
+description: W:16 L:9 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 7 - 2 **龙的传人**
-date: 2026-09-16T10:27:21.000Z
+Summary: ❌ 0 - 4 **С\.Н\.С\.С\.**
+date: 2026-09-23T10:21:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-09-16T10:27:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (15)|
-| ELO Competitive | 1360 🔺  (21)|
-| Total Matches | 25 |
+| ELO Regular | 1280 🔻  (-19)|
+| ELO Competitive | 1340 🔻  (-20)|
+| Total Matches | 26 |
 | Wins | 16 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
+        let timestamps = [1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/23 | 0-4 | [С\.Н\.С\.С\.](https://ws.tsl.rocks/corp/7c45af82d66043c66506eb4f3b86ac2c5fcebc203b105f592257702772a4ba91/) |
 | ✅ | 2026/09/16 | 7-2 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 | ❌ | 2026/09/14 | 3-13 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ✅ | 2026/09/09 | 3-0 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
@@ -172,5 +173,5 @@ Corporation ID: 932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789554441"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790158879"></span>
 </div>

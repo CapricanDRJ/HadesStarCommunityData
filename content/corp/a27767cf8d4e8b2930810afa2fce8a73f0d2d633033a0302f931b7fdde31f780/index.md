@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:3 L:4 D:1 Bonus ❌ 5%
+description: W:3 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 19 **KEPLER\-442 b**
-date: 2026-09-18T05:36:18.000Z
+Summary: ❌ 2 - 26 **契约\-璃月**
+date: 2026-09-23T11:16:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-18T05:36:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (-7)|
-| ELO Competitive | 1241 🔻  (-3)|
-| Total Matches | 8 |
+| ELO Regular | 1195 🔻  (-10)|
+| ELO Competitive | 1238 🔻  (-4)|
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -129,12 +129,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/23 | 2-26 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
 | ❌ | 2026/09/18 | 0-19 | [KEPLER\-442 b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ❌ | 2026/09/13 | 1-9 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2026/09/01 | 6-8 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
@@ -150,5 +156,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789709778"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790162183"></span>
 </div>
