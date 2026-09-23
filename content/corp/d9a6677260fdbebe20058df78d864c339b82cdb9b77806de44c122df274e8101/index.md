@@ -1,6 +1,6 @@
 ---
 title: ​Company W
-description: W:5 L:1 D:0 Bonus ✅ 30%
+description: W:5 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **长安三万里**
 date: 2026-09-16T15:17:48.000Z
@@ -15,7 +15,7 @@ date: 2026-09-16T15:17:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
