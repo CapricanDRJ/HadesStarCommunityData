@@ -1,9 +1,9 @@
 ---
 title: ​复生会
-description: W:4 L:7 D:0 Bonus ❌ 5%
+description: W:4 L:8 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ✅ 12 - 0 **Лунный Феникс**
-date: 2025-06-28T02:43:09.000Z
+Summary: ❌ 0 - 17 **休闲、红、蓝、白养老集团。**
+date: 2026-09-23T00:40:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-06-28T02:43:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (23)|
-| ELO Competitive | 1232 🔺  (27)|
-| Total Matches | 11 |
+| ELO Regular | 1169 🔻  (-11)|
+| ELO Competitive | 1221 🔻  (-11)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1750646589,1745411960,1745407453,1743620623,1739031827,1739027919,1738126683,1737597810,1737588498,1737125414,1736685435];
+        let timestamps = [1789692041,1750646589,1745411960,1745407453,1743620623,1739031827,1739027919,1738126683,1737597810,1737588498,1737125414,1736685435];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/23 | 0-17 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2025/06/28 | 12-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2025/04/28 | 0-9 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ❌ | 2025/04/28 | 0-4 | [Quantum Pioneer](https://ws.tsl.rocks/corp/fe4e5b559382124e9a6e83ce04fc490dbfb51a1f3ad7377fe9c69c8d239c25da/) |
@@ -152,5 +153,5 @@ Corporation ID: 34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1751078589"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790124041"></span>
 </div>

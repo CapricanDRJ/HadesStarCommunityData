@@ -1,9 +1,9 @@
 ---
 title: ​探索舰队
-description: W:23 L:30 D:3 Bonus ❌ 8%
+description: W:23 L:31 D:3 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 22 **自由之地**
-date: 2026-08-05T16:44:56.000Z
+Summary: ❌ 0 - 30 **墨痕空域**
+date: 2026-09-22T22:55:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -26,11 +26,11 @@ date: 2026-08-05T16:44:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (-10)|
-| ELO Competitive | 1284 🔻  (-14)|
-| Total Matches | 56 |
+| ELO Regular | 1123 🔻  (-18)|
+| ELO Competitive | 1269 🔻  (-15)|
+| Total Matches | 57 |
 | Wins | 23 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 3 |
 | Streak Record | 8 |
 | Flagship | 4 |
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785516296,1784130696,1783688501,1783661736,1783222502,1783073539,1775047826,1775036135,1773761030,1773741799,1773034877,1773023763,1772450052,1772441257,1772005778,1771965053,1747427305,1745430897,1745427290,1744987047,1742104741,1735705282,1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
+        let timestamps = [1789685734,1785516296,1784130696,1783688501,1783661736,1783222502,1783073539,1775047826,1775036135,1773761030,1773741799,1773034877,1773023763,1772450052,1772441257,1772005778,1771965053,1747427305,1745430897,1745427290,1744987047,1742104741,1735705282,1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) | 0 | 2 | 0 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 | [SEC](https://ws.tsl.rocks/corp/c36ee5a9ff1f148ada25e8402464cecd17ac847acf81dacd8ea25c29c8fd9bc1/) | 0 | 2 | 0 | 2 |
 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) | 1 | 1 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/22 | 0-30 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2026/08/05 | 0-22 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ❌ | 2026/07/20 | 0-29 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2026/07/15 | 23-0 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
@@ -212,5 +214,5 @@ Corporation ID: 8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1785948296"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790117734"></span>
 </div>
