@@ -1,9 +1,9 @@
 ---
 title: ​РУССКИЕ ИДУТ
-description: W:6 L:8 D:0 Bonus ❌ 6%
+description: W:7 L:8 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 3 - 42 **Critical Mass**
-date: 2026-09-17T06:29:11.000Z
+Summary: ✅ 13 - 3 **繁星一夢**
+date: 2026-09-23T01:15:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-17T06:29:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (-6)|
-| ELO Competitive | 1305 🔻  (-2)|
-| Total Matches | 14 |
-| Wins | 6 |
+| ELO Regular | 1213 🔺  (7)|
+| ELO Competitive | 1316 🔺  (10)|
+| Total Matches | 15 |
+| Wins | 7 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789194551,1788725260,1788271936,1786707826,1786272194,1785777331,1785327923,1784874574,1784437748,1783969071,1783526541,1783087911,1782651694,1779003634];
+        let timestamps = [1789694143,1789194551,1788725260,1788271936,1786707826,1786272194,1785777331,1785327923,1784874574,1784437748,1783969071,1783526541,1783087911,1782651694,1779003634];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/23 | 13-3 | [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) |
 | ❌ | 2026/09/17 | 3-42 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) |
 | ✅ | 2026/09/11 | 15-0 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2026/09/06 | 0-21 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
@@ -161,5 +162,5 @@ Corporation ID: 89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789626551"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790126143"></span>
 </div>
