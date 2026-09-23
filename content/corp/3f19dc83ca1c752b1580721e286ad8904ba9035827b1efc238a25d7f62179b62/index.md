@@ -1,9 +1,9 @@
 ---
 title: ​CORE INFLICTION
-description: W:1 L:1 D:0 Bonus ✅ 40%
+description: W:1 L:2 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 3 - 2 **Curiosity \+ Cat**
-date: 2026-09-17T15:04:58.000Z
+Summary: ❌ 0 - 8 **深域**
+date: 2026-09-23T07:06:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Project for Permanent Peace
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (22)|
-| ELO Competitive | 1216 🔺  (29)|
-| Total Matches | 2 |
+| ELO Regular | 1206 🔻  (-3)|
+| ELO Competitive | 1215 🔻  (-1)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789225498,1701919177];
+        let timestamps = [1789715166,1789225498,1701919177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/23 | 0-8 | [深域](https://ws.tsl.rocks/corp/eecda71374dad3401a154cda170518bbf578f7124c194849a529405246335626/) |
 | ✅ | 2026/09/17 | 3-2 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ❌ | 2023/12/12 | 4-22 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 
@@ -148,5 +149,5 @@ Corporation ID: 3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789657498"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790147166"></span>
 </div>

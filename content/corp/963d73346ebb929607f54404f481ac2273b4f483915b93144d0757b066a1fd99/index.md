@@ -1,6 +1,6 @@
 ---
 title: ​Вселенские 40%
-description: W:50 L:66 D:1 Bonus ✅ 44%
+description: W:50 L:66 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 26 **Got Nothing**
 date: 2026-09-21T08:37:31.000Z
@@ -16,7 +16,7 @@ date: 2026-09-21T08:37:31.000Z
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
