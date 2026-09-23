@@ -1,9 +1,9 @@
 ---
 title: ​ItaFederalFleet
-description: W:28 L:28 D:3 Bonus ❌ 8%
+description: W:29 L:28 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 2 - 8 **Galactic Empire**
-date: 2026-09-09T17:12:52.000Z
+Summary: ✅ 22 - 0 **星域**
+date: 2026-09-23T17:31:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (-16)|
-| ELO Competitive | 1296 🔻  (-7)|
-| Total Matches | 59 |
-| Wins | 28 |
+| ELO Regular | 1185 🔺  (9)|
+| ELO Competitive | 1318 🔺  (21)|
+| Total Matches | 60 |
+| Wins | 29 |
 | Losses | 28 |
 | Draws | 3 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788541972,1786518861,1785604620,1780519780,1779215829,1777990029,1773618626,1770197571,1768780585,1768118969,1766880831,1763516581,1762671126,1761594262,1760551275,1759274283,1757640344,1756421855,1753688923,1751564810,1750372176,1747404764,1743369097,1742467762,1741375743,1739918905,1738678128,1736171525,1733337068,1732541956,1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
+        let timestamps = [1789752716,1788541972,1786518861,1785604620,1780519780,1779215829,1777990029,1773618626,1770197571,1768780585,1768118969,1766880831,1763516581,1762671126,1761594262,1760551275,1759274283,1757640344,1756421855,1753688923,1751564810,1750372176,1747404764,1743369097,1742467762,1741375743,1739918905,1738678128,1736171525,1733337068,1732541956,1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/23 | 22-0 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2026/09/09 | 2-8 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ❌ | 2026/08/17 | 3-15 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2026/08/06 | 8-27 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
@@ -211,5 +212,5 @@ Corporation ID: 02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788973972"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790184716"></span>
 </div>

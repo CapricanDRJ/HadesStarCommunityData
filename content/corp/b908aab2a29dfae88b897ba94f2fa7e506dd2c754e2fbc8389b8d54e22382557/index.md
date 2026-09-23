@@ -1,9 +1,9 @@
 ---
 title: ​甜甜圈
-description: W:4 L:2 D:0 Bonus ✅ 30%
+description: W:4 L:3 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **ParalleL**
-date: 2026-09-18T14:07:08.000Z
+Summary: ❌ 0 - 8 **无人深空**
+date: 2026-09-23T15:56:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-18T14:07:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (14)|
-| ELO Competitive | 1242 🔺  (17)|
-| Total Matches | 6 |
+| ELO Regular | 1218 🔻  (-13)|
+| ELO Competitive | 1231 🔻  (-11)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
+        let timestamps = [1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/23 | 0-8 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/09/18 | 7-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/09/13 | 0-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2026/09/08 | 4-0 | [中国星系集团](https://ws.tsl.rocks/corp/8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/) |
@@ -148,5 +149,5 @@ Corporation ID: b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789740428"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790179008"></span>
 </div>
