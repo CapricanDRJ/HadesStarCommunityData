@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "supajank"
-description: "ws: 2 μ: 24.42"
+description: "ws: 3 μ: 23.97"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 2
-- **Rating**: -0.40
-- **μ**: 24.42  
-- **σ**: 8.27
-- W: 0, L: 2, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 3
+- **Rating**: -0.76
+- **μ**: 23.97  
+- **σ**: 8.24
+- W: 0, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 2 μ: 24.42"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 |
+| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 3 |
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 24.42"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 3-20 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-09-19 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 5-32 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2025-08-21 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 13-28 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
