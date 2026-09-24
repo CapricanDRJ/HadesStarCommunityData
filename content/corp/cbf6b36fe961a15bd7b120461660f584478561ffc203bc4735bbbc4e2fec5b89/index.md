@@ -1,9 +1,9 @@
 ---
 title: ​新手村
-description: W:0 L:3 D:0 Bonus ❌ 3%
+description: W:0 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 2 - 7 **莱恩星际**
-date: 2026-09-03T15:46:17.000Z
+Summary: ↔️ 0 - 0 **Star Field**
+date: 2026-09-24T05:26:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-03T15:46:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (-16)|
-| ELO Competitive | 1162 🔻  (-16)|
-| Total Matches | 3 |
+| ELO Regular | 1160 🔺  (2)|
+| ELO Competitive | 1166 🔺  (4)|
+| Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788018377,1787545480,1787060275];
+        let timestamps = [1789795595,1788018377,1787545480,1787060275];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/24 | 0-0 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) |
 | ❌ | 2026/09/03 | 2-7 | [莱恩星际](https://ws.tsl.rocks/corp/7510b8b55ddb419c89f0f789119f72cddd83680fb3508b84b8a32d75e475b40d/) |
 | ❌ | 2026/08/29 | 1-8 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ❌ | 2026/08/23 | 1-6 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
@@ -144,5 +145,5 @@ Corporation ID: cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788450377"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790227595"></span>
 </div>
