@@ -1,6 +1,6 @@
 ---
 title: ​CORE INFLICTION
-description: W:1 L:2 D:0 Bonus ✅ 40%
+description: W:1 L:2 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **深域**
 date: 2026-09-23T07:06:06.000Z
@@ -20,7 +20,7 @@ Project for Permanent Peace
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

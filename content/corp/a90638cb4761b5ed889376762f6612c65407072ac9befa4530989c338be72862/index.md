@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Luminá
-description: W:38 L:23 D:0 Bonus ✅ 40%
+description: W:38 L:23 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 28 - 3 **47підрозділССП**
 date: 2026-09-17T14:39:55.000Z
@@ -17,7 +17,7 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

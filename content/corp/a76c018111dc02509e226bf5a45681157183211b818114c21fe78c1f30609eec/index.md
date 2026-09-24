@@ -1,6 +1,6 @@
 ---
 title: ​Mantle
-description: W:10 L:3 D:0 Bonus ✅ 32%
+description: W:10 L:3 D:0 Bonus ❌ 32%
 image: ./favicon.png
 Summary: ✅ 17 - 0 **休闲、红、蓝、白养老集团。**
 date: 2026-09-17T15:55:03.000Z
@@ -15,7 +15,7 @@ date: 2026-09-17T15:55:03.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 32%
 
 | Statistic | Value |
 | --- | --- |
