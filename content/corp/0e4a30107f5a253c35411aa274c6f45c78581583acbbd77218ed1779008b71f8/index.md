@@ -1,6 +1,6 @@
 ---
 title: ​The Bois
-description: W:2 L:2 D:0 Bonus ✅ 28%
+description: W:2 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 2 - 12 **太阳系星盟·白星观测站**
 date: 2026-09-22T12:24:42.000Z
@@ -15,7 +15,7 @@ date: 2026-09-22T12:24:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​imperio viltrum
-description: W:12 L:10 D:3 Bonus ❌ 7%
+description: W:12 L:11 D:3 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ↔️ 3 - 3 **奇点教会**
-date: 2026-09-24T03:22:48.000Z
+Summary: ❌ 0 - 13 **聚集地**
+date: 2026-09-24T08:14:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-24T03:22:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (1)|
+| ELO Regular | 1223 🔻  (-17)|
 | ELO Competitive | 1342 🔺  (0)|
-| Total Matches | 25 |
+| Total Matches | 26 |
 | Wins | 12 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789788168,1788596624,1788577725,1788096188,1787672871,1787578828,1787040447,1787028432,1786509852,1786506845,1786008113,1785988289,1785509387,1785475440,1784990835,1784952082,1784446761,1784365641,1783868727,1783570706,1783422292,1782866807,1782785387,1782107875,1781663201];
+        let timestamps = [1789805665,1789788168,1788596624,1788577725,1788096188,1787672871,1787578828,1787040447,1787028432,1786509852,1786506845,1786008113,1785988289,1785509387,1785475440,1784990835,1784952082,1784446761,1784365641,1783868727,1783570706,1783422292,1782866807,1782785387,1782107875,1781663201];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/24 | 0-13 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ↔️ | 2026/09/24 | 3-3 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
 | ✅ | 2026/09/10 | 4-0 | [老哥最强集团](https://ws.tsl.rocks/corp/fe5c86f6244ba283f6eda53890266425eaac76718f542806046dfea045db20e9/) |
 | ✅ | 2026/09/10 | 17-0 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) |
@@ -173,5 +174,5 @@ Corporation ID: 1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790220168"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790237665"></span>
 </div>

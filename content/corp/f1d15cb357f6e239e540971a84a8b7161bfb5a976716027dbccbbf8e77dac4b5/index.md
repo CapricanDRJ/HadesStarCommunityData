@@ -1,6 +1,6 @@
 ---
 title: ​Новый ЭДЭМ
-description: W:4 L:5 D:1 Bonus ✅ 32%
+description: W:4 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **Terran empire**
 date: 2026-09-24T02:32:45.000Z
@@ -17,7 +17,7 @@ date: 2026-09-24T02:32:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
