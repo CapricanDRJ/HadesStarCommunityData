@@ -1,6 +1,6 @@
 ---
 title: ​地球联合
-description: W:25 L:10 D:1 Bonus ✅ 44%
+description: W:25 L:10 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 29 **Empire of Hades**
 date: 2026-09-22T06:19:16.000Z
@@ -23,7 +23,7 @@ QQ群号：742063070
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
