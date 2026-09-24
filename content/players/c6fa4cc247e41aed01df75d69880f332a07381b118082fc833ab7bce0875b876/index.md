@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Zhora"
-description: "ws: 17 μ: 18.99"
+description: "ws: 18 μ: 19.76"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 13
-- **Rating**: -4.91
-- **μ**: 18.99  
-- **σ**: 7.97
-- W: 6, L: 11, T: 0
+- **WhiteStars**: 18
+- **Eligible**: 14
+- **Rating**: -4.07
+- **μ**: 19.76  
+- **σ**: 7.94
+- W: 6, L: 12, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 18.99"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 13 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 14 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 18.99"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 3-26 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-07-25 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-41 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-02 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-33 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-02-13 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 3-10 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

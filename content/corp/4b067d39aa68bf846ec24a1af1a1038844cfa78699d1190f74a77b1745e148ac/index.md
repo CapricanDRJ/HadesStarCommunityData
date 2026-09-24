@@ -1,9 +1,9 @@
 ---
 title: ​苏维埃联邦
-description: W:0 L:24 D:6 Bonus ❌ 5%
+description: W:0 L:24 D:7 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **聚集地**
-date: 2026-09-13T13:01:11.000Z
+Summary: ↔️ 0 - 0 **SpaceX**
+date: 2026-09-24T10:30:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 2026-09-13T13:01:11.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 997 🔺  (8)|
-| ELO Competitive | 1013 🔺  (7)|
-| Total Matches | 30 |
+| ELO Regular | 1003 🔺  (6)|
+| ELO Competitive | 1019 🔺  (6)|
+| Total Matches | 31 |
 | Wins | 0 |
 | Losses | 24 |
-| Draws | 6 |
+| Draws | 7 |
 | Flagship | 1 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788872471,1788094753,1787402166,1786428433,1778463842,1777610289,1775798337,1773557275,1751689543,1738658895,1737537948,1737022420,1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
+        let timestamps = [1789813815,1788872471,1788094753,1787402166,1786428433,1778463842,1777610289,1775798337,1773557275,1751689543,1738658895,1737537948,1737022420,1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/24 | 0-0 | [SpaceX](https://ws.tsl.rocks/corp/3bc1ec1dbc6834fa95adc6d175ab134844b8f2ec4ee1082bc799f5de3c72e301/) |
 | ↔️ | 2026/09/13 | 0-0 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ↔️ | 2026/09/04 | 0-0 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ↔️ | 2026/08/27 | 0-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
@@ -172,5 +173,5 @@ Corporation ID: 4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789304471"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790245815"></span>
 </div>

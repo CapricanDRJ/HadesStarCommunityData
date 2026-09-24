@@ -1,6 +1,6 @@
 ---
 title: ​中华五千年
-description: W:27 L:18 D:2 Bonus ✅ 38%
+description: W:27 L:18 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 19 **ༀᅗBAR ESTELARᅗༀ**
 date: 2026-09-23T01:20:43.000Z
@@ -15,7 +15,7 @@ date: 2026-09-23T01:20:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

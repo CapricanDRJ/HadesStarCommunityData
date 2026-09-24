@@ -1,9 +1,9 @@
 ---
 title: ​Doomsday
-description: W:0 L:2 D:1 Bonus ❌ 2%
+description: W:0 L:3 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **КОРПОРАЦИЯ ЗЛА**
-date: 2026-09-19T09:48:50.000Z
+Summary: ❌ 0 - 8 **龙的传人**
+date: 2026-09-24T11:03:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ Ein kleiner Konzern. Mal schauen wo es hingeht.
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (-13)|
-| ELO Competitive | 1177 🔻  (-4)|
-| Total Matches | 3 |
+| ELO Regular | 1152 🔻  (-11)|
+| ELO Competitive | 1173 🔻  (-4)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789379330,1788618889,1714814850];
+        let timestamps = [1789815803,1789379330,1788618889,1714814850];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/24 | 0-8 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 | ↔️ | 2026/09/19 | 0-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2026/09/10 | 0-18 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ❌ | 2024/05/09 | 0-16 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
@@ -144,5 +145,5 @@ Corporation ID: a57a5e47adc2ad22c26641b93ea4fbed2903e5eb9df7c32fa1ee91605d450d8e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789811330"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790247803"></span>
 </div>

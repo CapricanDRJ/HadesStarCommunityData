@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:3 L:3 D:0 Bonus ❌ 4%
+description: W:4 L:3 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **聚集地**
-date: 2026-09-19T07:30:58.000Z
+Summary: ✅ 3 - 0 **维埃星云氮氢钨钽**
+date: 2026-09-24T11:43:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-19T07:30:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (-16)|
-| ELO Competitive | 1198 🔻  (-16)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1208 🔺  (14)|
+| ELO Competitive | 1214 🔺  (16)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/24 | 3-0 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
 | ❌ | 2026/09/19 | 0-9 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ✅ | 2026/09/14 | 5-2 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ❌ | 2026/09/08 | 2-15 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
@@ -148,5 +149,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789803058"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790250206"></span>
 </div>

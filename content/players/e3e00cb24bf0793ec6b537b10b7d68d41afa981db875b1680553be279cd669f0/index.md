@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Carangloss"
-description: "ws: 16 μ: 19.84"
+description: "ws: 17 μ: 20.96"
 ---
-- **WhiteStars**: 16
-- **Eligible**: 13
-- **Rating**: -3.98
-- **μ**: 19.84  
-- **σ**: 7.94
-- W: 6, L: 10, T: 0
+- **WhiteStars**: 17
+- **Eligible**: 14
+- **Rating**: -2.80
+- **μ**: 20.96  
+- **σ**: 7.92
+- W: 6, L: 11, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 16 μ: 19.84"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 13 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 14 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 16 μ: 19.84"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 3-26 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-07-25 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-41 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-02 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-33 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-02-22 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-27 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

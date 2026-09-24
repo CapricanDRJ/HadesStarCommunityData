@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "iNFAMOUSJACK"
-description: "ws: 29 μ: 24.32"
+description: "ws: 30 μ: 24.69"
 ---
-- **WhiteStars**: 29
-- **Eligible**: 24
-- **Rating**: 1.29
-- **μ**: 24.32  
-- **σ**: 7.68
-- W: 18, L: 11, T: 0
+- **WhiteStars**: 30
+- **Eligible**: 25
+- **Rating**: 1.72
+- **μ**: 24.69  
+- **σ**: 7.65
+- W: 18, L: 12, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 29 μ: 24.32"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 24 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 25 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 29 μ: 24.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 3-26 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-07-25 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-41 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-02 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-33 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-02-22 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0-27 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

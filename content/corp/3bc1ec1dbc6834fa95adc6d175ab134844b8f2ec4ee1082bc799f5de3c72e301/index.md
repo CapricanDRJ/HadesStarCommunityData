@@ -1,9 +1,9 @@
 ---
 title: ​SpaceX
-description: W:0 L:3 D:1 Bonus ❌ 2%
+description: W:0 L:3 D:2 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Latinos :\)**
-date: 2026-05-22T18:45:21.000Z
+Summary: ↔️ 0 - 0 **苏维埃联邦**
+date: 2026-09-24T10:30:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-05-22T18:45:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (0)|
-| ELO Competitive | 1158 🔺  (0)|
-| Total Matches | 4 |
+| ELO Regular | 1146 🔻  (-6)|
+| ELO Competitive | 1152 🔻  (-6)|
+| Total Matches | 5 |
 | Wins | 0 |
 | Losses | 3 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1779043521,1762283530,1744223826,1734771235];
+        let timestamps = [1789813815,1779043521,1762283530,1744223826,1734771235];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/24 | 0-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ↔️ | 2026/05/22 | 0-0 | [Latinos :\)](https://ws.tsl.rocks/corp/f4ce6442812aef55ce3fc3a333546bb9fe970b19da13112a80fe5b2753d1233e/) |
 | ❌ | 2025/11/09 | 0-2 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
 | ❌ | 2025/04/14 | 0-1 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) |
@@ -145,5 +146,5 @@ Corporation ID: 3bc1ec1dbc6834fa95adc6d175ab134844b8f2ec4ee1082bc799f5de3c72e301
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1779475521"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790245815"></span>
 </div>
