@@ -1,6 +1,6 @@
 ---
 title: ​甜甜圈
-description: W:4 L:3 D:0 Bonus ✅ 30%
+description: W:4 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **无人深空**
 date: 2026-09-23T15:56:48.000Z
@@ -15,7 +15,7 @@ date: 2026-09-23T15:56:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

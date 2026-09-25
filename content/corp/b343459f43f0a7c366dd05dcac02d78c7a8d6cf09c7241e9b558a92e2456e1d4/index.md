@@ -1,6 +1,6 @@
 ---
 title: ​Death Flight
-description: W:75 L:256 D:4 Bonus ✅ 52%
+description: W:75 L:256 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ↔️ 3 - 3 **Eastern Front**
 date: 2026-09-24T18:34:03.000Z
@@ -24,7 +24,7 @@ Trust * Loyalty
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

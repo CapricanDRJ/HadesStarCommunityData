@@ -1,6 +1,6 @@
 ---
 title: ​Mosaic
-description: W:2 L:1 D:0 Bonus ✅ 28%
+description: W:2 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 26 - 3 **RED STAR**
 date: 2026-09-18T13:02:00.000Z
@@ -15,7 +15,7 @@ date: 2026-09-18T13:02:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

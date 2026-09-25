@@ -1,6 +1,6 @@
 ---
 title: ​星域
-description: W:76 L:71 D:2 Bonus ✅ 48%
+description: W:76 L:71 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 22 **ItaFederalFleet**
 date: 2026-09-23T17:31:56.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
