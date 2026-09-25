@@ -1,9 +1,9 @@
 ---
 title: ​Team Equilium
-description: W:0 L:1 D:0 Bonus ❌ 0%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **龙的传人**
-date: 2026-08-11T01:24:03.000Z
+Summary: ❌ 0 - 1 **太阳系星盟·白星观测站**
+date: 2026-09-25T01:59:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-08-11T01:24:03.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 0%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-15)|
-| ELO Competitive | 1193 🔻  (-7)|
-| Total Matches | 1 |
+| ELO Regular | 1174 🔻  (-11)|
+| ELO Competitive | 1183 🔻  (-10)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785979443];
+        let timestamps = [1789869580,1785979443];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/25 | 0-1 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ❌ | 2026/08/11 | 0-9 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: a3e60845e47242ff075dadd9eeb73fb95b18d79f23488f2f88d1be79c6a61cce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786411443"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790301580"></span>
 </div>
