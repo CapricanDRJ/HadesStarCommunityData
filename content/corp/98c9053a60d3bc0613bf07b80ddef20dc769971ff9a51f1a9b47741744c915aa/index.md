@@ -1,9 +1,9 @@
 ---
 title: ​Cerulean Galaxy
-description: W:4 L:4 D:0 Bonus ❌ 5%
+description: W:4 L:4 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 2 - 20 **Austria**
-date: 2026-09-19T08:33:45.000Z
+Summary: ↔️ 4 - 4 **九州·养老**
+date: 2026-09-24T23:51:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-19T08:33:45.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (-11)|
-| ELO Competitive | 1256 🔻  (-5)|
-| Total Matches | 8 |
+| ELO Regular | 1221 🔻  (-2)|
+| ELO Competitive | 1264 🔺  (7)|
+| Total Matches | 9 |
 | Wins | 4 |
 | Losses | 4 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789374825,1788809687,1788311544,1787878377,1787439728,1786920878,1786294730,1785781596];
+        let timestamps = [1789861880,1789374825,1788809687,1788311544,1787878377,1787439728,1786920878,1786294730,1785781596];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/24 | 4-4 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ❌ | 2026/09/19 | 2-20 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | ❌ | 2026/09/12 | 0-30 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2026/09/07 | 6-0 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
@@ -150,5 +151,5 @@ Corporation ID: 98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789806825"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790293880"></span>
 </div>
