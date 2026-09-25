@@ -1,9 +1,9 @@
 ---
 title: ​Vermilion
-description: W:1 L:5 D:1 Bonus ❌ 4%
+description: W:1 L:6 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **Red Suns**
-date: 2024-03-08T06:22:19.000Z
+Summary: ❌ 0 - 25 **Brethren Court**
+date: 2026-09-25T04:44:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ gg/i/27LVznwk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (-13)|
-| ELO Competitive | 1177 🔻  (-8)|
-| Total Matches | 7 |
+| ELO Regular | 1142 🔻  (-9)|
+| ELO Competitive | 1167 🔻  (-10)|
+| Total Matches | 8 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709446939,1709435824,1703553701,1700935494,1700924972,1699752162,1699255360];
+        let timestamps = [1789879491,1709446939,1709435824,1703553701,1700935494,1700924972,1699752162,1699255360];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/25 | 0-25 | [Brethren Court](https://ws.tsl.rocks/corp/58ce9bed114bde298d77f20adf5584e22292e24f89dd59298051b01d66212ad4/) |
 | ❌ | 2024/03/08 | 0-9 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ❌ | 2024/03/08 | 0-17 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2023/12/31 | 0-22 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
@@ -149,5 +150,5 @@ Corporation ID: 1a96e18d1c38ae2d619ce1659e51ddb1b075c87733cacc178f09b8abc52efd89
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1709878939"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790311491"></span>
 </div>

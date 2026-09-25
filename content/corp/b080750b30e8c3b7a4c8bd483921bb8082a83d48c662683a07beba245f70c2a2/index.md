@@ -1,9 +1,9 @@
 ---
 title: ​NEW HOLLAND
-description: W:1 L:8 D:1 Bonus ❌ 3%
+description: W:1 L:9 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 1 - 11 **three kitties**
-date: 2024-02-24T14:30:58.000Z
+Summary: ❌ 0 - 3 **欢迎新手**
+date: 2026-09-25T04:24:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ date: 2024-02-24T14:30:58.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/QEp5Rd7z)
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (-11)|
-| ELO Competitive | 1139 🔻  (-11)|
-| Total Matches | 10 |
+| ELO Regular | 1102 🔻  (-14)|
+| ELO Competitive | 1127 🔻  (-12)|
+| Total Matches | 11 |
 | Wins | 1 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1708353058,1707733226,1706289884,1705608921,1704348868,1702854364,1702564451,1702074859,1701897843,1701597590];
+        let timestamps = [1789878289,1708353058,1707733226,1706289884,1705608921,1704348868,1702854364,1702564451,1702074859,1701897843,1701597590];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/25 | 0-3 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ❌ | 2024/02/24 | 1-11 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/02/17 | 0-11 | [a超越®/a光速℡](https://ws.tsl.rocks/corp/771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/) |
 | ❌ | 2024/01/31 | 0-9 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
@@ -152,5 +153,5 @@ Corporation ID: b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1708785058"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790310289"></span>
 </div>

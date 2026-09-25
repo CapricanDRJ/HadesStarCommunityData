@@ -1,9 +1,9 @@
 ---
 title: ​欢迎新手
-description: W:9 L:17 D:0 Bonus ❌ 7%
+description: W:10 L:17 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **亚洲团队**
-date: 2026-09-15T13:06:08.000Z
+Summary: ✅ 3 - 0 **NEW HOLLAND**
+date: 2026-09-25T04:24:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-09-15T13:06:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (18)|
-| ELO Competitive | 1214 🔺  (15)|
-| Total Matches | 26 |
-| Wins | 9 |
+| ELO Regular | 1147 🔺  (14)|
+| ELO Competitive | 1225 🔺  (12)|
+| Total Matches | 27 |
+| Wins | 10 |
 | Losses | 17 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789045568,1788525147,1788067046,1787298223,1787296184,1786590962,1786544695,1785830564,1785830264,1785387113,1785372694,1784952082,1784919937,1784472301,1784463286,1783939023,1783938121,1783505314,1783482078,1783040752,1781320395,1781302301,1780570841,1779470316,1778853790,1777549299];
+        let timestamps = [1789878289,1789045568,1788525147,1788067046,1787298223,1787296184,1786590962,1786544695,1785830564,1785830264,1785387113,1785372694,1784952082,1784919937,1784472301,1784463286,1783939023,1783938121,1783505314,1783482078,1783040752,1781320395,1781302301,1780570841,1779470316,1778853790,1777549299];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/25 | 3-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ✅ | 2026/09/15 | 7-0 | [亚洲团队](https://ws.tsl.rocks/corp/c9aff5770282e84fa982a70be0c45b952f62286b7635a13df63d1615267c653e/) |
 | ❌ | 2026/09/09 | 0-12 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ❌ | 2026/09/04 | 0-2 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
@@ -175,5 +177,5 @@ Corporation ID: 5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789477568"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790310289"></span>
 </div>

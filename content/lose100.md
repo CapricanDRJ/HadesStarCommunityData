@@ -2,7 +2,7 @@
 layout: page
 title: Top Lose
 description: Hades' Star corporations ranked by last 6 months total losses
-date: 2026-09-25T03:55:29.839Z
+date: 2026-09-25T06:55:30.314Z
 permalink: /lose100/
 searchHidden: true
 ---

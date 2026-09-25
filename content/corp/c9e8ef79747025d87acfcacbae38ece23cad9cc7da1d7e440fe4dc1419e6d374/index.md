@@ -1,6 +1,6 @@
 ---
 title: ​KEPLER-442 b
-description: W:53 L:19 D:6 Bonus ✅ 40%
+description: W:53 L:19 D:6 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **Spacekill**
 date: 2026-09-18T05:36:18.000Z
@@ -15,7 +15,7 @@ date: 2026-09-18T05:36:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
