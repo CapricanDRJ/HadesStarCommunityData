@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "wind&sky"
-description: "ws: 2 μ: 26.05"
+description: "ws: 3 μ: 26.05"
 ---
-- **WhiteStars**: 2
+- **WhiteStars**: 3
 - **Eligible**: 2
 - **Rating**: 1.27
 - **μ**: 26.05  
 - **σ**: 8.26
-- W: 2, L: 0, T: 0
+- W: 3, L: 0, T: 0
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 26.05"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-25 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 7-1 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2025-10-18 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 20-7 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-06-07 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 20-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

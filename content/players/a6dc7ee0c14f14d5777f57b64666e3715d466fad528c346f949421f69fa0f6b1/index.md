@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "呵呵"
-description: "ws: 2 μ: 25.15"
+description: "ws: 3 μ: 25.15"
 ---
-- **WhiteStars**: 2
+- **WhiteStars**: 3
 - **Eligible**: 2
 - **Rating**: 0.37
 - **μ**: 25.15  
 - **σ**: 8.26
-- W: 1, L: 1, T: 0
+- W: 2, L: 1, T: 0
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 25.15"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-25 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 7-1 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2025-06-07 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 20-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-05-06 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 12-21 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |

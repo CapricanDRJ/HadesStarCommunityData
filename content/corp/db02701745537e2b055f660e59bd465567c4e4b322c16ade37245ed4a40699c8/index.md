@@ -1,6 +1,6 @@
 ---
 title: ​Russian Style
-description: W:41 L:30 D:1 Bonus ✅ 38%
+description: W:41 L:30 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 6 - 22 **The Allegiant**
 date: 2026-09-23T21:32:21.000Z
@@ -16,7 +16,7 @@ date: 2026-09-23T21:32:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Ainz ooal gown
-description: W:33 L:5 D:0 Bonus ✅ 38%
+description: W:34 L:5 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 26 - 0 **九州·养老**
-date: 2026-09-19T17:09:26.000Z
+Summary: ✅ 22 - 0 **NERF TOY'S**
+date: 2026-09-25T17:03:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-09-19T17:09:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1461 🔺  (5)|
-| ELO Competitive | 1544 🔺  (11)|
-| Total Matches | 38 |
-| Wins | 33 |
+| ELO Regular | 1465 🔺  (5)|
+| ELO Competitive | 1556 🔺  (12)|
+| Total Matches | 39 |
+| Wins | 34 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 21 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
+        let timestamps = [1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/25 | 22-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/09/19 | 26-0 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/09/14 | 26-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2026/09/08 | 22-0 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
@@ -186,5 +187,5 @@ Corporation ID: 9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789837766"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790355820"></span>
 </div>

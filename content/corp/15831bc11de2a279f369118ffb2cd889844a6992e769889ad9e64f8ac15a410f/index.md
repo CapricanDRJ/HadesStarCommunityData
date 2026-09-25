@@ -1,9 +1,9 @@
 ---
 title: ​No Orbit©
-description: W:35 L:25 D:0 Bonus ❌ 13%
+description: W:35 L:26 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ✅ 9 - 3 **BlackStar Order**
-date: 2026-09-08T07:49:55.000Z
+Summary: ❌ 3 - 15 **Likapa**
+date: 2026-09-25T15:55:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔺  (14)|
-| ELO Competitive | 1575 🔺  (28)|
-| Total Matches | 60 |
+| ELO Regular | 1340 🔻  (-2)|
+| ELO Competitive | 1574 🔻  (-1)|
+| Total Matches | 61 |
 | Wins | 35 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788421795,1787576424,1785853997,1783420490,1782029449,1781013054,1779725422,1779033455,1777220529,1776176587,1773757724,1771341958,1769975251,1769017635,1767537911,1766240254,1765116262,1761683228,1759240928,1756910843,1754492417,1752600823,1751971063,1750079481,1747160168,1747141833,1745246087,1744725914,1744721105,1743949999,1742749074,1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
+        let timestamps = [1789919746,1788421795,1787576424,1785853997,1783420490,1782029449,1781013054,1779725422,1779033455,1777220529,1776176587,1773757724,1771341958,1769975251,1769017635,1767537911,1766240254,1765116262,1761683228,1759240928,1756910843,1754492417,1752600823,1751971063,1750079481,1747160168,1747141833,1745246087,1744725914,1744721105,1743949999,1742749074,1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 3 | 0 | 3 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 2 | 0 | 0 | 2 |
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 2 | 0 | 0 | 2 |
 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) | 0 | 2 | 0 | 2 |
@@ -145,7 +145,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 2 | 0 | 0 | 2 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 0 | 2 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 1 | 1 | 0 | 2 |
-| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 1 | 0 | 3 |
 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 1 | 1 | 0 | 2 |
 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 2 | 0 | 0 | 2 |
@@ -157,6 +156,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/25 | 3-15 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2026/09/08 | 9-3 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ✅ | 2026/08/29 | 38-0 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ✅ | 2026/08/09 | 13-3 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
@@ -224,5 +224,5 @@ Corporation ID: 15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788853795"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790351746"></span>
 </div>

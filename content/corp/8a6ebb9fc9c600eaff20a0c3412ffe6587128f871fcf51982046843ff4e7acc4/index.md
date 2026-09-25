@@ -1,6 +1,6 @@
 ---
 title: ​藏锋府
-description: W:11 L:14 D:2 Bonus ❌ 
+description: W:11 L:14 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 2 **九州·华夏**
 date: 2026-08-07T04:23:00.000Z
@@ -25,7 +25,7 @@ date: 2026-08-07T04:23:00.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
