@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:2 L:0 D:0 Bonus ✅ 26%
+description: W:3 L:0 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 21 - 6 **Hinterm Mars**
-date: 2026-09-20T07:15:31.000Z
+Summary: ✅ 20 - 3 **Red Alliance**
+date: 2026-09-25T20:06:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-09-20T07:15:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (20)|
-| ELO Competitive | 1229 🔺  (29)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1257 🔺  (17)|
+| ELO Competitive | 1254 🔺  (25)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789456531,1789237218];
+        let timestamps = [1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/25 | 20-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2026/09/20 | 21-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2026/09/17 | 17-14 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 
@@ -145,5 +146,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789888531"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790366769"></span>
 </div>
