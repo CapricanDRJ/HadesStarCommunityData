@@ -1,9 +1,9 @@
 ---
 title: ​࿇ÐɑʀҟƑîʀɛ༒🍁
-description: W:2 L:0 D:0 Bonus ✅ 26%
+description: W:3 L:0 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 13 - 2 **attraction\.F**
-date: 2026-09-20T02:20:12.000Z
+Summary: ✅ 13 - 0 **天之始**
+date: 2026-09-25T10:10:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-09-20T02:20:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (22)|
-| ELO Competitive | 1248 🔺  (21)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1249 🔺  (12)|
+| ELO Competitive | 1261 🔺  (13)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789438812,1788960206];
+        let timestamps = [1789899015,1789438812,1788960206];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/25 | 13-0 | [天之始](https://ws.tsl.rocks/corp/74f97ab890d598e052986c864057edf4f04537ea7e142a8dc3aebcf50de4adae/) |
 | ✅ | 2026/09/20 | 13-2 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ✅ | 2026/09/14 | 12-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 
@@ -145,5 +146,5 @@ Corporation ID: 51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789870812"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790331015"></span>
 </div>

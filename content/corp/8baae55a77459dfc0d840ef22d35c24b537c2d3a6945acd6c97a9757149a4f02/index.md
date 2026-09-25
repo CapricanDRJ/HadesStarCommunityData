@@ -1,6 +1,6 @@
 ---
 title: ​Space Potatoes
-description: W:25 L:3 D:0 Bonus ✅ 38%
+description: W:25 L:3 D:0 Bonus ❌ 38%
 image: ./favicon.png
 Summary: ✅ 26 - 5 **Terran empire**
 date: 2026-09-18T12:46:58.000Z
@@ -15,7 +15,7 @@ date: 2026-09-18T12:46:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 38%
 
 | Statistic | Value |
 | --- | --- |

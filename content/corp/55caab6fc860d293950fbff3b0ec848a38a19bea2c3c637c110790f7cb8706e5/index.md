@@ -1,9 +1,9 @@
 ---
 title: ​Star Hunters
-description: W:11 L:17 D:2 Bonus ❌ 7%
+description: W:12 L:17 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ↔️ 14 - 14 **自由之地**
-date: 2026-09-17T03:33:55.000Z
+Summary: ✅ 23 - 0 **共联·世界**
+date: 2026-09-25T12:05:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-17T03:33:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (4)|
-| ELO Competitive | 1269 🔺  (5)|
-| Total Matches | 30 |
-| Wins | 11 |
+| ELO Regular | 1189 🔺  (18)|
+| ELO Competitive | 1293 🔺  (24)|
+| Total Matches | 31 |
+| Wins | 12 |
 | Losses | 17 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789184035,1788228380,1787029333,1785809237,1784894098,1784236453,1783651823,1783182249,1782176983,1781601906,1781007344,1779698978,1778780186,1778060045,1777366151,1776477318,1775954871,1775219676,1774543682,1773455480,1772805052,1771715099,1770985328,1769801256,1768763157,1758492811,1758165538,1758041760,1757538499,1757041242];
+        let timestamps = [1789905925,1789184035,1788228380,1787029333,1785809237,1784894098,1784236453,1783651823,1783182249,1782176983,1781601906,1781007344,1779698978,1778780186,1778060045,1777366151,1776477318,1775954871,1775219676,1774543682,1773455480,1772805052,1771715099,1770985328,1769801256,1768763157,1758492811,1758165538,1758041760,1757538499,1757041242];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/25 | 23-0 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ↔️ | 2026/09/17 | 14-14 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ❌ | 2026/09/06 | 4-13 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2026/08/23 | 5-6 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
@@ -177,5 +178,5 @@ Corporation ID: 55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789616035"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790337925"></span>
 </div>

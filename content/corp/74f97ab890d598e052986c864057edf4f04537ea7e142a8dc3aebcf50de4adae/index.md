@@ -1,9 +1,9 @@
 ---
 title: ​天之始
-description: W:8 L:12 D:1 Bonus ❌ 6%
+description: W:8 L:13 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 16 **63SALVADORES36**
-date: 2026-09-05T01:19:17.000Z
+Summary: ❌ 0 - 13 **࿇ÐɑʀҟƑîʀɛ༒🍁**
+date: 2026-09-25T10:10:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-05T01:19:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (-17)|
-| ELO Competitive | 1208 🔻  (-6)|
-| Total Matches | 21 |
+| ELO Regular | 1146 🔻  (-12)|
+| ELO Competitive | 1195 🔻  (-13)|
+| Total Matches | 22 |
 | Wins | 8 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788139157,1787470968,1786863780,1786232169,1785642776,1785142850,1784685016,1784087948,1783651823,1783219583,1782721350,1782282050,1781841662,1781407499,1780952451,1780448279,1779946866,1779426748,1778917184,1778438308,1777896840];
+        let timestamps = [1789899015,1788139157,1787470968,1786863780,1786232169,1785642776,1785142850,1784685016,1784087948,1783651823,1783219583,1782721350,1782282050,1781841662,1781407499,1780952451,1780448279,1779946866,1779426748,1778917184,1778438308,1777896840];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/25 | 0-13 | [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) |
 | ❌ | 2026/09/05 | 3-16 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2026/08/28 | 0-16 | [KEPLER\-442 b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ❌ | 2026/08/21 | 0-14 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
@@ -169,5 +170,5 @@ Corporation ID: 74f97ab890d598e052986c864057edf4f04537ea7e142a8dc3aebcf50de4adae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788571157"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790331015"></span>
 </div>

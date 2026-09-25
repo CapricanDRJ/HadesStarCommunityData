@@ -1,6 +1,6 @@
 ---
 title: ​Hun Generals
-description: W:31 L:200 D:1 Bonus ✅ 48%
+description: W:31 L:200 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 15 **Неизбежный Рок**
 date: 2026-09-25T08:45:09.000Z
@@ -16,7 +16,7 @@ idat. WS-ezés feltétele a discord.
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
