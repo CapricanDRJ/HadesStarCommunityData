@@ -1,6 +1,6 @@
 ---
 title: ​Тихий Омут
-description: W:200 L:153 D:3 Bonus ✅ 54%
+description: W:200 L:153 D:3 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 3 - 31 **STAR TERROR CZ**
 date: 2026-09-25T18:20:58.000Z
@@ -15,7 +15,7 @@ Only for Russian speakers 🇷🇺
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

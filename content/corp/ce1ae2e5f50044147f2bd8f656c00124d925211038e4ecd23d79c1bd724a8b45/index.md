@@ -1,9 +1,9 @@
 ---
 title: ​SNSS
-description: W:15 L:60 D:1 Bonus ✅ 48%
+description: W:15 L:61 D:1 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ❌ 3 - 11 **Серебряная орда**
-date: 2026-09-25T15:42:37.000Z
+Summary: ❌ 13 - 25 **RELAX CZ/SK**
+date: 2026-09-26T07:56:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ nts, Dark RS focussed corp, with optional WS runs.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1050 🔻  (-7)|
-| ELO Competitive | 1384 🔻  (-4)|
-| Total Matches | 76 |
+| ELO Regular | 1040 🔻  (-10)|
+| ELO Competitive | 1385 🔻  (-3)|
+| Total Matches | 77 |
 | Wins | 15 |
-| Losses | 60 |
+| Losses | 61 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789918957,1789439533,1789438716,1788690997,1788681683,1788230182,1788070651,1787637421,1787626006,1787153714,1787140794,1786310959,1786298336,1785866015,1785814343,1785068945,1785043711,1784609906,1784551015,1783854602,1783396760,1783393456,1782660108,1782223852,1781417734,1780977605,1780964991,1780524586,1780072449,1779632577,1779047877,1778598730,1778596326,1778162773,1777716643,1777241658,1776607106,1776168775,1776138436,1775143064,1774207496,1773709058,1773708457,1772903595,1769288967,1768765261,1768293234,1767775246,1766519088,1765654386,1765204602,1764716642,1764212405,1761673912,1761660690,1759362919,1756833029,1754410085,1751977072,1749552686,1747164677,1747096465,1744749059,1744731926,1732296744,1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
+        let timestamps = [1789977419,1789918957,1789439533,1789438716,1788690997,1788681683,1788230182,1788070651,1787637421,1787626006,1787153714,1787140794,1786310959,1786298336,1785866015,1785814343,1785068945,1785043711,1784609906,1784551015,1783854602,1783396760,1783393456,1782660108,1782223852,1781417734,1780977605,1780964991,1780524586,1780072449,1779632577,1779047877,1778598730,1778596326,1778162773,1777716643,1777241658,1776607106,1776168775,1776138436,1775143064,1774207496,1773709058,1773708457,1772903595,1769288967,1768765261,1768293234,1767775246,1766519088,1765654386,1765204602,1764716642,1764212405,1761673912,1761660690,1759362919,1756833029,1754410085,1751977072,1749552686,1747164677,1747096465,1744749059,1744731926,1732296744,1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 4 | 0 | 5 |
 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) | 2 | 0 | 0 | 2 |
 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 0 | 2 | 0 | 2 |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 0 | 3 | 0 | 3 |
@@ -146,7 +147,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 0 | 2 | 0 | 2 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 3 | 0 | 3 |
-| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 3 | 0 | 4 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 2 | 1 | 0 | 3 |
 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 2 | 0 | 0 | 2 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 0 | 2 | 0 | 2 |
@@ -160,6 +160,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/26 | 13-25 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2026/09/25 | 3-11 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2026/09/20 | 40-0 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2026/09/20 | 5-24 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
@@ -243,5 +244,5 @@ Corporation ID: ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790350957"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790409419"></span>
 </div>

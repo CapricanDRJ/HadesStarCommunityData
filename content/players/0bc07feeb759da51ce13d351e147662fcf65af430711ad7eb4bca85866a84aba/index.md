@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Martus"
-description: "ws: 12 μ: 24.43"
+description: "ws: 13 μ: 24.48"
 ---
-- **WhiteStars**: 12
-- **Eligible**: 12
-- **Rating**: 0.42
-- **μ**: 24.43  
-- **σ**: 8.00
-- W: 2, L: 10, T: 0
+- **WhiteStars**: 13
+- **Eligible**: 13
+- **Rating**: 0.50
+- **μ**: 24.48  
+- **σ**: 7.99
+- W: 2, L: 11, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 12 μ: 24.43"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 12 |
+| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 13 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 12 μ: 24.43"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-08-15 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-07 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-23 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-01-02 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 32-9 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |

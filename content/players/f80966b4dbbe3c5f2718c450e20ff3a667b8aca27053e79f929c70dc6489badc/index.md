@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "VinDanee (⊙⁠.⁠☉)"
-description: "ws: 16 μ: 21.35"
+description: "ws: 17 μ: 21.39"
 ---
-- **WhiteStars**: 16
-- **Eligible**: 16
-- **Rating**: -2.70
-- **μ**: 21.35  
-- **σ**: 8.01
-- W: 0, L: 16, T: 0
+- **WhiteStars**: 17
+- **Eligible**: 17
+- **Rating**: -2.62
+- **μ**: 21.39  
+- **σ**: 8.00
+- W: 0, L: 17, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 16 μ: 21.35"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 16 |
+| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 17 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 16 μ: 21.35"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-08-15 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-08-01 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 4-44 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-07-18 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
