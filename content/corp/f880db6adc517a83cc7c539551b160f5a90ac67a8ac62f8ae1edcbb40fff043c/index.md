@@ -1,6 +1,6 @@
 ---
 title: ​莫比乌斯-星环
-description: W:36 L:24 D:1 Bonus ✅ 40%
+description: W:36 L:24 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 20 **CERBERUS SYSTEM**
 date: 2026-09-26T11:47:16.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T11:47:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​E.T.A
-description: W:60 L:121 D:0 Bonus ✅ 56%
+description: W:60 L:121 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 6 - 49 **Quilliance**
 date: 2026-09-22T16:55:06.000Z
@@ -16,7 +16,7 @@ date: 2026-09-22T16:55:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

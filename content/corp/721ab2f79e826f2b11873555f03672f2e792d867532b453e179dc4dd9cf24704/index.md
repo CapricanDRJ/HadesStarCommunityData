@@ -1,6 +1,6 @@
 ---
 title: ​Deathwatch
-description: W:31 L:18 D:0 Bonus ✅ 42%
+description: W:31 L:18 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 14 - 6 **共联·世界**
 date: 2026-09-19T13:59:10.000Z
@@ -15,7 +15,7 @@ date: 2026-09-19T13:59:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
