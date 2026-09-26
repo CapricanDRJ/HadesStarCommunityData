@@ -1,6 +1,6 @@
 ---
 title: ​Nine's Own Goal
-description: W:55 L:52 D:2 Bonus ✅ 48%
+description: W:55 L:52 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 44 - 0 **ProyectCorp**
 date: 2026-09-19T21:19:50.000Z
@@ -17,7 +17,7 @@ on events. No alts.
 <br>
 
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
