@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "IsmaGamert"
-description: "ws: 8 μ: 29.83"
+description: "ws: 9 μ: 28.87"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 7
-- **Rating**: 5.53
-- **μ**: 29.83  
-- **σ**: 8.10
-- W: 8, L: 0, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 8
+- **Rating**: 4.68
+- **μ**: 28.87  
+- **σ**: 8.06
+- W: 9, L: 0, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 29.83"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 7 |
+| [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 8 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 29.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 32-14 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2025-10-19 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 31-9 | [Orden Estelar](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | 2025-09-20 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 49-4 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2025-09-07 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 30-16 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |

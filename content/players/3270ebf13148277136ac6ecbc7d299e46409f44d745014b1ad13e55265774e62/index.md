@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Neggg11"
-description: "ws: 11 μ: 30.59"
+description: "ws: 12 μ: 31.21"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 10
-- **Rating**: 6.60
-- **μ**: 30.59  
-- **σ**: 8.00
-- W: 11, L: 0, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 11
+- **Rating**: 7.32
+- **μ**: 31.21  
+- **σ**: 7.96
+- W: 12, L: 0, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 11 μ: 30.59"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 8 |
+| [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 9 |
 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) | 2 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 11 μ: 30.59"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 32-14 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-09-06 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 32-6 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2025-10-19 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 31-9 | [Orden Estelar](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | 2025-09-20 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 49-4 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |

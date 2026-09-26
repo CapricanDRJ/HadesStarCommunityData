@@ -1,6 +1,6 @@
 ---
 title: ​Закулисье
-description: W:9 L:2 D:0 Bonus ✅ 30%
+description: W:9 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 3 - 14 **九州分团**
 date: 2026-09-24T17:23:56.000Z
@@ -15,7 +15,7 @@ date: 2026-09-24T17:23:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
