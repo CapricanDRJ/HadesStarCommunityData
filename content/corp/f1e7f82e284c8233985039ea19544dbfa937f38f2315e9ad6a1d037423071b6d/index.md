@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:63 L:20 D:1 Bonus ✅ 44%
+description: W:63 L:20 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 32 - 0 **Hun Generals**
 date: 2026-09-19T12:03:59.000Z
@@ -16,7 +16,7 @@ date: 2026-09-19T12:03:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

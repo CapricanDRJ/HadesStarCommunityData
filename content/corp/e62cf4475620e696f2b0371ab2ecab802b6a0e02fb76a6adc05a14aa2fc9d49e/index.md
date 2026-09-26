@@ -1,6 +1,6 @@
 ---
 title: ​CORPORATION
-description: W:1 L:2 D:0 Bonus ✅ 26%
+description: W:1 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 0 - 16 **白虹贯日**
 date: 2026-09-26T04:06:43.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T04:06:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
