@@ -1,9 +1,9 @@
 ---
 title: ​太阳系联邦
-description: W:10 L:25 D:0 Bonus ❌ 8%
+description: W:10 L:26 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 1 - 15 **Ereboros**
-date: 2026-09-22T08:29:25.000Z
+Summary: ❌ 1 - 21 **Space Dragons**
+date: 2026-09-26T04:36:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-22T08:29:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (-10)|
-| ELO Competitive | 1266 🔻  (-1)|
-| Total Matches | 35 |
+| ELO Regular | 1152 🔻  (-14)|
+| ELO Competitive | 1260 🔻  (-6)|
+| Total Matches | 36 |
 | Wins | 10 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789633765,1789524124,1788882689,1788866461,1788365614,1788260219,1787731349,1787207193,1786883914,1786321775,1785646383,1785637970,1785202175,1785201143,1784761626,1784290524,1783847993,1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
+        let timestamps = [1789965405,1789633765,1789524124,1788882689,1788866461,1788365614,1788260219,1787731349,1787207193,1786883914,1786321775,1785646383,1785637970,1785202175,1785201143,1784761626,1784290524,1783847993,1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/26 | 1-21 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
 | ❌ | 2026/09/22 | 1-15 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
 | ❌ | 2026/09/21 | 1-17 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/09/13 | 1-18 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
@@ -184,5 +185,5 @@ Corporation ID: 1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790065765"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790397405"></span>
 </div>

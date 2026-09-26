@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:85 L:33 D:3 Bonus ✅ 44%
+description: W:85 L:33 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 44 - 0 **\*Alfa y Omega\***
 date: 2026-09-19T06:08:35.000Z
@@ -17,7 +17,7 @@ date: 2026-09-19T06:08:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Errantes
-description: W:1 L:0 D:0 Bonus ✅ 26%
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 30 - 6 **Red Alliance**
 date: 2026-09-19T04:18:28.000Z
@@ -15,7 +15,7 @@ date: 2026-09-19T04:18:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

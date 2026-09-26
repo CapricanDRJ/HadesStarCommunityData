@@ -1,6 +1,6 @@
 ---
 title: ​СССР
-description: W:167 L:70 D:2 Bonus ✅ 56%
+description: W:167 L:70 D:2 Bonus ❌ 56%
 image: ./favicon.png
 Summary: ✅ 6 - 4 **ДИВЕРСАНТЫ**
 date: 2026-09-19T06:48:38.000Z
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 <br>
 
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 56%
 
 | Statistic | Value |
 | --- | --- |

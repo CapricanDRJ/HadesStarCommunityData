@@ -1,6 +1,6 @@
 ---
 title: ​红色太阳·红活团
-description: W:6 L:0 D:0 Bonus ✅ 32%
+description: W:6 L:0 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 38 - 1 **九州·华夏**
 date: 2026-09-19T04:33:29.000Z
@@ -15,7 +15,7 @@ date: 2026-09-19T04:33:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
