@@ -1,9 +1,9 @@
 ---
 title: ​TUSFO星舰联邦
-description: W:0 L:2 D:2 Bonus ❌ 3%
+description: W:0 L:3 D:2 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **共联·世界**
-date: 2026-09-12T11:43:57.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-09-26T02:22:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-12T11:43:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (-11)|
-| ELO Competitive | 1181 🔻  (-4)|
-| Total Matches | 4 |
+| ELO Regular | 1172 🔻  (-1)|
+| ELO Competitive | 1181 🔻  (0)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788781437,1788228598,1787757622,1764060801];
+        let timestamps = [1789957352,1788781437,1788228598,1787757622,1764060801];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/26 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/09/12 | 0-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/09/06 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/08/31 | 0-0 | [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) |
@@ -145,5 +146,5 @@ Corporation ID: 016954ccb4cf18eab01bdcce39c263205f20f80f38920e43516911db71c9d1ab
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789213437"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790389352"></span>
 </div>

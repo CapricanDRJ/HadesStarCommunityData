@@ -1,9 +1,9 @@
 ---
 title: ​Red Monarchs
-description: W:2 L:3 D:0 Bonus ❌ 5%
+description: W:3 L:3 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 7 - 15 **Nebulae Traders**
-date: 2026-09-20T21:11:44.000Z
+Summary: ✅ 9 - 0 **STAR TERROR CZ**
+date: 2026-09-26T03:08:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-20T21:11:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (-9)|
-| ELO Competitive | 1214 🔻  (-4)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1210 🔺  (22)|
+| ELO Competitive | 1241 🔺  (27)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789506704,1788987856,1788394481,1787959795,1787453136];
+        let timestamps = [1789960124,1789506704,1788987856,1788394481,1787959795,1787453136];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/26 | 9-0 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2026/09/20 | 7-15 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2026/09/14 | 3-9 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
 | ✅ | 2026/09/08 | 18-0 | [水素資源難民キャンプ](https://ws.tsl.rocks/corp/0466d9532b4f4770d248c52c1de0dab76bf5a291897cdbe1895c00b1a2b42238/) |
@@ -146,5 +147,5 @@ Corporation ID: 761820b9c8f9e63f72ef9be1fbc4daf3c32b67c035b595bb61876aaa40528c53
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789938704"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790392124"></span>
 </div>

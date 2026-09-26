@@ -1,6 +1,6 @@
 ---
 title: ​imperio estelar
-description: W:48 L:32 D:4 Bonus ✅ 40%
+description: W:48 L:32 D:4 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 14 - 2 **First Legion**
 date: 2026-09-19T01:28:18.000Z
@@ -17,7 +17,7 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
