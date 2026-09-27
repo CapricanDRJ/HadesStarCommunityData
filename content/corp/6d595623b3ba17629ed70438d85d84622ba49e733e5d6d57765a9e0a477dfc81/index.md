@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:126 L:89 D:3 Bonus ✅ 50%
+description: W:126 L:89 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 24 - 0 **BRASIL STAR**
 date: 2026-09-20T15:36:10.000Z
@@ -27,7 +27,7 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

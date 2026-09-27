@@ -1,6 +1,6 @@
 ---
 title: ​对，进就进人少的
-description: W:138 L:139 D:6 Bonus ✅ 52%
+description: W:138 L:139 D:6 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 30 - 4 **世外桃源**
 date: 2026-09-20T13:05:57.000Z
@@ -18,7 +18,7 @@ ltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，
 <br>
 
 ### [Discord](https://discord.gg/dqW4bytGPe)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

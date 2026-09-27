@@ -1,9 +1,9 @@
 ---
 title: ​Mosaic
-description: W:2 L:1 D:0 Bonus ❌ 4%
+description: W:3 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 26 - 3 **RED STAR**
-date: 2026-09-18T13:02:00.000Z
+Summary: ✅ 31 - 5 **Stellaris**
+date: 2026-09-27T15:09:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 2026-09-18T13:02:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (16)|
-| ELO Competitive | 1243 🔺  (25)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1235 🔺  (12)|
+| ELO Competitive | 1265 🔺  (21)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789304520,1788273138,1787577626];
+        let timestamps = [1790089773,1789304520,1788273138,1787577626];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/27 | 31-5 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ✅ | 2026/09/18 | 26-3 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) |
 | ❌ | 2026/09/06 | 6-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2026/08/29 | 28-0 | [Grand Mechanism](https://ws.tsl.rocks/corp/cdae35a4dff3b9b84fa6e79966de8f58259e9ea95a366abeaa8a103815dfa7b3/) |
@@ -144,5 +147,5 @@ Corporation ID: d250101b49e076429c32c0592d9e908708353313c2a00ad7d540a9fe533418d7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789736520"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790521773"></span>
 </div>

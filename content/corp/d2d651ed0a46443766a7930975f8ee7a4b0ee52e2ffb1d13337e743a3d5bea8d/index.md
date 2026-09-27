@@ -1,6 +1,6 @@
 ---
 title: ​RUS
-description: W:94 L:56 D:0 Bonus ✅ 56%
+description: W:94 L:56 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 3 - 13 **русь**
 date: 2026-09-26T03:36:41.000Z
@@ -18,7 +18,7 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
