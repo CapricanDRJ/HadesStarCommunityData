@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Drunken Master"
-description: "ws: 6 μ: 22.70"
+description: "ws: 7 μ: 23.76"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 4
-- **Rating**: -1.88
-- **μ**: 22.70  
-- **σ**: 8.19
-- W: 3, L: 3, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 5
+- **Rating**: -0.72
+- **μ**: 23.76  
+- **σ**: 8.16
+- W: 4, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 22.70"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 4 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 22.70"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 23-2 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | 2026-09-21 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 27-2 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | 2026-09-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 11-14 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | 2026-09-06 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 53-0 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) |

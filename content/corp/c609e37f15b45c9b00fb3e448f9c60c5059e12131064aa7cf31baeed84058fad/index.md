@@ -1,6 +1,6 @@
 ---
 title: ​Magyar Vándor
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **碧海听潮阁**
 date: 2025-03-19T23:50:58.000Z
@@ -15,7 +15,7 @@ date: 2025-03-19T23:50:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

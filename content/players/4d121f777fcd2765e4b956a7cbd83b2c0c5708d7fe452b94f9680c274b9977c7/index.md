@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Assur"
-description: "ws: 43 μ: 22.85"
+description: "ws: 44 μ: 23.69"
 ---
-- **WhiteStars**: 43
-- **Eligible**: 35
-- **Rating**: 0.95
-- **μ**: 22.85  
-- **σ**: 7.30
-- W: 20, L: 23, T: 0
+- **WhiteStars**: 44
+- **Eligible**: 36
+- **Rating**: 1.87
+- **μ**: 23.69  
+- **σ**: 7.27
+- W: 21, L: 23, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 43 μ: 22.85"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 34 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 35 |
 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 43 μ: 22.85"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 23-2 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | 2026-09-21 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 27-2 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | 2026-09-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 11-14 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | 2026-09-06 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 53-0 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) |

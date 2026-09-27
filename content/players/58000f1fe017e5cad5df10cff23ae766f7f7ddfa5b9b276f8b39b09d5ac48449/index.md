@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KILLBOT966194"
-description: "ws: 10 μ: 25.36"
+description: "ws: 11 μ: 26.37"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 9
-- **Rating**: 1.28
-- **μ**: 25.36  
-- **σ**: 8.03
-- W: 5, L: 5, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 10
+- **Rating**: 2.40
+- **μ**: 26.37  
+- **σ**: 7.99
+- W: 6, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 10 μ: 25.36"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 9 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 10 μ: 25.36"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 23-2 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | 2026-09-21 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 27-2 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | 2026-09-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 18-19 | [中国星系集团](https://ws.tsl.rocks/corp/8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/) |
 | 2026-09-06 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 13-6 | [Mosaic](https://ws.tsl.rocks/corp/d250101b49e076429c32c0592d9e908708353313c2a00ad7d540a9fe533418d7/) |

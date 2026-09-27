@@ -1,6 +1,6 @@
 ---
 title: ​Fleet Corp Ares
-description: W:71 L:40 D:3 Bonus ✅ 46%
+description: W:71 L:40 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 13 - 0 **Ironbear Legion**
 date: 2026-09-20T00:20:04.000Z
@@ -15,7 +15,7 @@ We don't care. You should try it.
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
