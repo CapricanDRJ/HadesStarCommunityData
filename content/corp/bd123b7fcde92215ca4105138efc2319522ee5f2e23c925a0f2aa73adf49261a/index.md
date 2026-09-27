@@ -1,9 +1,9 @@
 ---
 title: ​Best
-description: W:3 L:35 D:0 Bonus ❌ 15%
+description: W:3 L:36 D:0 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 0 - 42 **Слава Украине\!**
-date: 2026-09-22T10:39:34.000Z
+Summary: ❌ 3 - 42 **Crazy Elite**
+date: 2026-09-27T15:54:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2026-09-22T10:39:34.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 982 🔻  (-3)|
-| ELO Competitive | 1165 🔻  (0)|
-| Total Matches | 38 |
+| ELO Regular | 979 🔻  (-4)|
+| ELO Competitive | 1164 🔻  (-1)|
+| Total Matches | 39 |
 | Wins | 3 |
-| Losses | 35 |
+| Losses | 36 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
+        let timestamps = [1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/27 | 3-42 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2026/09/22 | 0-42 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2026/09/17 | 3-18 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2026/09/12 | 6-51 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
@@ -191,5 +192,5 @@ Corporation ID: bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790073574"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790524477"></span>
 </div>

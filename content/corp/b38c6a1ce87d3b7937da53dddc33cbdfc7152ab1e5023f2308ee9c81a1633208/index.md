@@ -1,6 +1,6 @@
 ---
 title: ​Dacia Chill
-description: W:36 L:8 D:0 Bonus ✅ 42%
+description: W:36 L:8 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 15 - 6 **Stellar Exports**
 date: 2026-09-20T15:56:12.000Z
@@ -19,7 +19,7 @@ WDL 88/2/4
 <br>
 
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
