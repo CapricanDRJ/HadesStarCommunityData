@@ -1,9 +1,9 @@
 ---
 title: ​Grater U
-description: W:2 L:9 D:3 Bonus ❌ 5%
+description: W:2 L:10 D:3 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **Deathwatch**
-date: 2026-09-13T04:04:22.000Z
+Summary: ❌ 0 - 13 **太阳系星盟·白星观测站**
+date: 2026-09-27T12:29:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (-10)|
-| ELO Competitive | 1166 🔻  (-6)|
-| Total Matches | 14 |
+| ELO Regular | 1114 🔻  (-8)|
+| ELO Competitive | 1157 🔻  (-9)|
+| Total Matches | 15 |
 | Wins | 2 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 3 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
+        let timestamps = [1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/27 | 0-13 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ❌ | 2026/09/13 | 0-9 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ↔️ | 2026/09/07 | 0-0 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |
 | ❌ | 2026/08/30 | 0-3 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
@@ -162,5 +163,5 @@ Corporation ID: 0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789272262"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790512159"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​地球联合
-description: W:25 L:10 D:1 Bonus ❌ 12%
+description: W:25 L:11 D:1 Bonus ❌ 12%
 image: ./favicon.png
-Summary: ❌ 0 - 29 **Empire of Hades**
-date: 2026-09-22T06:19:16.000Z
+Summary: ❌ 0 - 40 **Omega Alpha**
+date: 2026-09-27T10:09:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,11 +27,11 @@ QQ群号：742063070
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔻  (-13)|
-| ELO Competitive | 1473 🔻  (-2)|
-| Total Matches | 36 |
+| ELO Regular | 1329 🔻  (-6)|
+| ELO Competitive | 1471 🔻  (-2)|
+| Total Matches | 37 |
 | Wins | 25 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 5 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789625956,1789624154,1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
+        let timestamps = [1790071747,1789625956,1789624154,1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) | 0 | 2 | 0 | 2 |
 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/27 | 0-40 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2026/09/22 | 0-29 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2026/09/22 | 0-45 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | ✅ | 2026/09/17 | 43-0 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) |
@@ -191,5 +193,5 @@ Corporation ID: 600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790057956"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790503747"></span>
 </div>

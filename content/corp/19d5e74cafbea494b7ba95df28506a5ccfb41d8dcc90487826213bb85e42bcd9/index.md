@@ -1,9 +1,9 @@
 ---
 title: ​战争幽灵
-description: W:1 L:16 D:0 Bonus ❌ 6%
+description: W:1 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 12 **泰拉瑞亚**
-date: 2026-09-22T11:54:40.000Z
+Summary: ❌ 0 - 8 **Wolf \- Star**
+date: 2026-09-27T12:04:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-22T11:54:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1030 🔻  (-10)|
-| ELO Competitive | 1118 🔻  (-3)|
-| Total Matches | 17 |
+| ELO Regular | 1024 🔻  (-7)|
+| ELO Competitive | 1109 🔻  (-9)|
+| Total Matches | 18 |
 | Wins | 1 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
+        let timestamps = [1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/27 | 0-8 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ❌ | 2026/09/22 | 0-12 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ❌ | 2026/09/16 | 0-21 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2026/09/10 | 0-26 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
@@ -163,5 +164,5 @@ Corporation ID: 19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790078080"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790510657"></span>
 </div>

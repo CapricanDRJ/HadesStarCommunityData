@@ -1,6 +1,6 @@
 ---
 title: ​Spacefleet
-description: W:121 L:119 D:2 Bonus ✅ 56%
+description: W:121 L:119 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 36 - 3 **Farland Ind\.**
 date: 2026-09-20T10:20:43.000Z
@@ -23,7 +23,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

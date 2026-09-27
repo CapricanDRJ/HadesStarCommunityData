@@ -1,6 +1,6 @@
 ---
 title: ​NERF TOY'S
-description: W:63 L:78 D:2 Bonus ✅ 50%
+description: W:63 L:78 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 0 - 22 **Ainz ooal gown**
 date: 2026-09-25T17:03:40.000Z
@@ -18,7 +18,7 @@ lor=yellow>weekly WS's and daily Corp runs
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
