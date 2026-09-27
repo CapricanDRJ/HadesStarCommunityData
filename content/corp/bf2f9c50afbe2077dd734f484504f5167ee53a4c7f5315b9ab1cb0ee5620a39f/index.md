@@ -1,6 +1,6 @@
 ---
 title: ​Nebulae Traders
-description: W:52 L:107 D:6 Bonus ✅ 46%
+description: W:52 L:107 D:6 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 15 - 7 **Red Monarchs**
 date: 2026-09-20T21:11:44.000Z
@@ -16,7 +16,7 @@ date: 2026-09-20T21:11:44.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
