@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "thefolkmetal"
-description: "ws: 6 μ: 25.67"
+description: "ws: 7 μ: 24.07"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 5
-- **Rating**: 1.21
-- **μ**: 25.67  
-- **σ**: 8.15
-- W: 3, L: 3, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 6
+- **Rating**: -0.27
+- **μ**: 24.07  
+- **σ**: 8.11
+- W: 3, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 25.67"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 5 |
+| [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 6 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 25.67"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-27 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 4-9 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-03-01 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 1-30 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-02-14 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 38-3 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2026-01-31 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 47-3 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |

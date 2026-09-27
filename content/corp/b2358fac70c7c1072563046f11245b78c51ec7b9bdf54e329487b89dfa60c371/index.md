@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:21 L:3 D:1 Bonus ✅ 36%
+description: W:22 L:3 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 14 - 0 **REAPERS**
-date: 2026-09-27T02:28:35.000Z
+Summary: ✅ 11 - 8 **Будущее**
+date: 2026-09-27T05:08:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-27T02:28:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 🔺  (18)|
+| ELO Regular | 1383 🔺  (8)|
 | ELO Competitive | 1399 🔺  (22)|
-| Total Matches | 25 |
-| Wins | 21 |
+| Total Matches | 26 |
+| Wins | 22 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 13 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/27 | 11-8 | [Будущее](https://ws.tsl.rocks/corp/94e7076f4af932874c346e6114276fdd0b290bdf418ef55c58b17e027af22185/) |
 | ✅ | 2026/09/27 | 14-0 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ❌ | 2026/09/20 | 2-13 | [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) |
 | ↔️ | 2026/09/20 | 3-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
@@ -174,5 +176,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790476115"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790485727"></span>
 </div>

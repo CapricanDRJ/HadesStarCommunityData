@@ -1,9 +1,9 @@
 ---
 title: ​Rogue Corp
-description: W:7 L:40 D:1 Bonus ❌ 10%
+description: W:7 L:41 D:1 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ✅ 19 - 7 **Imperium XIII**
-date: 2026-08-28T12:18:11.000Z
+Summary: ❌ 3 - 12 **Elysium**
+date: 2026-09-27T06:18:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ or weekly <color=white>WS</color> and private <color=red>RS</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1040 🔺  (25)|
-| ELO Competitive | 1123 🔺  (29)|
-| Total Matches | 48 |
+| ELO Regular | 1039 🔻  (-1)|
+| ELO Competitive | 1123 🔻  (-1)|
+| Total Matches | 49 |
 | Wins | 7 |
-| Losses | 40 |
+| Losses | 41 |
 | Draws | 1 |
 | Flagship | 7 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787487491,1786223527,1785345051,1773724677,1772262469,1771395134,1769981866,1769205426,1768662197,1767696839,1766922885,1765441360,1763361548,1761257783,1758494313,1756811693,1754892377,1749838765,1748990783,1747695051,1746359041,1744812456,1742974458,1741325852,1739774959,1738755958,1737394979,1735434667,1726144846,1725380396,1717442292,1716378478,1715540235,1714640565,1713865072,1712607639,1711145796,1709346277,1708070392,1707530846,1706926375,1706250815,1704838715,1703387213,1702617046,1702107614,1701284433,1700557399];
+        let timestamps = [1790057931,1787487491,1786223527,1785345051,1773724677,1772262469,1771395134,1769981866,1769205426,1768662197,1767696839,1766922885,1765441360,1763361548,1761257783,1758494313,1756811693,1754892377,1749838765,1748990783,1747695051,1746359041,1744812456,1742974458,1741325852,1739774959,1738755958,1737394979,1735434667,1726144846,1725380396,1717442292,1716378478,1715540235,1714640565,1713865072,1712607639,1711145796,1709346277,1708070392,1707530846,1706926375,1706250815,1704838715,1703387213,1702617046,1702107614,1701284433,1700557399];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/27 | 3-12 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2026/08/28 | 19-7 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2026/08/13 | 9-12 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ❌ | 2026/08/03 | 3-20 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
@@ -198,5 +199,5 @@ Corporation ID: 6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787919491"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790489931"></span>
 </div>

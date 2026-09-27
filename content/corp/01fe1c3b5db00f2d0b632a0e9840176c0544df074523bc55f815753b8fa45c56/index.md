@@ -1,9 +1,9 @@
 ---
 title: ​第三十一序列一一辉光议会
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **imperio viltrum**
-date: 2026-08-23T04:47:12.000Z
+Summary: ❌ 0 - 11 **Quantum Mass**
+date: 2026-09-27T04:28:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-23T04:47:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (16)|
-| ELO Competitive | 1220 🔺  (20)|
-| Total Matches | 1 |
+| ELO Regular | 1203 🔻  (-12)|
+| ELO Competitive | 1209 🔻  (-11)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787028432];
+        let timestamps = [1790051324,1787028432];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/27 | 0-11 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ✅ | 2026/08/23 | 7-0 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 01fe1c3b5db00f2d0b632a0e9840176c0544df074523bc55f815753b8fa45c56
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787460432"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790483324"></span>
 </div>

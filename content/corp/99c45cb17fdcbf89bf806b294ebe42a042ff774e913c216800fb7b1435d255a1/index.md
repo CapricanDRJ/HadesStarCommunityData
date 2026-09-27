@@ -1,6 +1,6 @@
 ---
 title: ​HUN TERS
-description: W:63 L:31 D:2 Bonus ✅ 46%
+description: W:63 L:31 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 28 - 5 **Тихий Омут**
 date: 2026-09-20T06:05:26.000Z
@@ -15,7 +15,7 @@ date: 2026-09-20T06:05:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

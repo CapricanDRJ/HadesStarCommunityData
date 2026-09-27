@@ -1,6 +1,6 @@
 ---
 title: ​Свободный флот
-description: W:96 L:135 D:7 Bonus ✅ 48%
+description: W:96 L:135 D:7 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 29 **Space Marshalls**
 date: 2026-09-20T08:40:37.000Z
@@ -18,7 +18,7 @@ date: 2026-09-20T08:40:37.000Z
 <br>
 
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
