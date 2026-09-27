@@ -1,6 +1,6 @@
 ---
 title: ​SNSS
-description: W:15 L:61 D:1 Bonus ✅ 48%
+description: W:15 L:61 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 13 - 25 **RELAX CZ/SK**
 date: 2026-09-26T07:56:59.000Z
@@ -18,7 +18,7 @@ nts, Dark RS focussed corp, with optional WS runs.
 <br>
 
 ### [Discord](https://discord.gg/2Dh98GHnug)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
