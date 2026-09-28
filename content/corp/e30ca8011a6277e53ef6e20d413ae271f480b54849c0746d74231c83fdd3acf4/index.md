@@ -1,6 +1,6 @@
 ---
 title: ​ALPHA
-description: W:79 L:60 D:6 Bonus ✅ 46%
+description: W:79 L:60 D:6 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 4 **Corp\. Luminá**
 date: 2026-09-26T00:11:28.000Z
@@ -16,7 +16,7 @@ Crecer principal objetivo        Leko:Join us we need active member
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

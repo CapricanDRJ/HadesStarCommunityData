@@ -1,6 +1,6 @@
 ---
 title: ​Corvus Ind.
-description: W:50 L:10 D:0 Bonus ✅ 46%
+description: W:50 L:10 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 22 - 0 **Knights of Solo**
 date: 2026-09-20T22:36:51.000Z
@@ -21,7 +21,7 @@ https://discord.gg/ysGrswJTUp
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

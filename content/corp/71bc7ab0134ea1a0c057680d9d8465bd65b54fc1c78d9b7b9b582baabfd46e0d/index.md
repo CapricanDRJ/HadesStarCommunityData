@@ -1,6 +1,6 @@
 ---
 title: ​Ender
-description: W:142 L:108 D:1 Bonus ✅ 56%
+description: W:142 L:108 D:1 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 5 - 13 **Spacefleet**
 date: 2026-09-27T19:55:01.000Z
@@ -28,7 +28,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
