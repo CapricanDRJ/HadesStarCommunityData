@@ -1,6 +1,6 @@
 ---
 title: ​RGW
-description: W:59 L:58 D:1 Bonus ✅ 44%
+description: W:59 L:58 D:1 Bonus ❌ 44%
 image: ./favicon.png
 Summary: ✅ 18 - 9 **Stargate Sg7**
 date: 2026-09-21T09:52:36.000Z
@@ -15,7 +15,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 44%
 
 | Statistic | Value |
 | --- | --- |
