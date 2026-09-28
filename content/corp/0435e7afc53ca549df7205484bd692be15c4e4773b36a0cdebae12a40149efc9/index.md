@@ -1,9 +1,9 @@
 ---
 title: ​+SATELLITE•卫星联+
-description: W:12 L:15 D:1 Bonus ❌ 7%
+description: W:12 L:15 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 13 **attraction\.F**
-date: 2026-09-13T11:36:03.000Z
+Summary: ↔️ 0 - 0 **星光舰队**
+date: 2026-09-28T05:27:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-13T11:36:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (-9)|
-| ELO Competitive | 1257 🔻  (-10)|
-| Total Matches | 28 |
+| ELO Regular | 1209 🔻  (-4)|
+| ELO Competitive | 1253 🔻  (-4)|
+| Total Matches | 29 |
 | Wins | 12 |
 | Losses | 15 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788867363,1787997644,1787541275,1786098992,1785346758,1784811790,1784700036,1784012025,1783579116,1783144392,1781083657,1780034293,1754295598,1753767354,1753321132,1752852033,1752378227,1751822622,1751382119,1750887536,1750366641,1749931631,1749490790,1749048768,1748590814,1748143386,1747594083,1747147243];
+        let timestamps = [1790141233,1788867363,1787997644,1787541275,1786098992,1785346758,1784811790,1784700036,1784012025,1783579116,1783144392,1781083657,1780034293,1754295598,1753767354,1753321132,1752852033,1752378227,1751822622,1751382119,1750887536,1750366641,1749931631,1749490790,1749048768,1748590814,1748143386,1747594083,1747147243];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) | 1 | 0 | 1 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 | [Salmon\_Imperium](https://ws.tsl.rocks/corp/b5faa201fbeb2e298123635203c4f54acf0f85cf9e9b60a05d5fd6e7227e0d18/) | 1 | 1 | 0 | 2 |
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/28 | 0-0 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |
 | ❌ | 2026/09/13 | 0-13 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ❌ | 2026/09/03 | 0-2 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/08/29 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -176,5 +178,5 @@ Corporation ID: 0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789299363"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790573233"></span>
 </div>

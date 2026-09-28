@@ -1,9 +1,9 @@
 ---
 title: ​星光舰队
-description: W:4 L:11 D:4 Bonus ❌ 5%
+description: W:4 L:11 D:5 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **ༀᅗBAR ESTELARᅗༀ**
-date: 2026-09-22T02:54:16.000Z
+Summary: ↔️ 0 - 0 **\+SATELLITE•卫星联\+**
+date: 2026-09-28T05:27:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2026-09-22T02:54:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (-8)|
-| ELO Competitive | 1150 🔻  (-7)|
-| Total Matches | 19 |
+| ELO Regular | 1114 🔺  (4)|
+| ELO Competitive | 1154 🔺  (4)|
+| Total Matches | 20 |
 | Wins | 4 |
 | Losses | 11 |
-| Draws | 4 |
+| Draws | 5 |
 | Streak Record | 2 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789613656,1788743887,1788310643,1787793653,1786942124,1786505757,1786061351,1785889859,1785598936,1785076448,1784606001,1783579116,1744474754,1722590156,1721436476,1720946916,1720235844,1719666356,1717772584];
+        let timestamps = [1790141233,1789613656,1788743887,1788310643,1787793653,1786942124,1786505757,1786061351,1785889859,1785598936,1785076448,1784606001,1783579116,1744474754,1722590156,1721436476,1720946916,1720235844,1719666356,1717772584];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) | 0 | 1 | 1 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/09/28 | 0-0 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
 | ❌ | 2026/09/22 | 0-9 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2026/09/12 | 0-2 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ↔️ | 2026/09/07 | 0-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
@@ -166,5 +168,5 @@ Corporation ID: e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790045656"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790573233"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Bacon Warriors
-description: W:98 L:78 D:2 Bonus ✅ 48%
+description: W:98 L:78 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 27 - 0 **Hexacropians**
 date: 2026-09-21T04:12:12.000Z
@@ -16,7 +16,7 @@ e lose amd every two weeks if we win. No discord required.
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
