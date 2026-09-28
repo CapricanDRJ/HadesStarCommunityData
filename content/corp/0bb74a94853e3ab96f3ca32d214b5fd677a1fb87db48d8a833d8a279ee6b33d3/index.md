@@ -1,6 +1,6 @@
 ---
 title: ​星际联邦
-description: W:26 L:10 D:1 Bonus ✅ 38%
+description: W:26 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **Petronus7**
 date: 2026-09-21T11:44:47.000Z
@@ -15,7 +15,7 @@ date: 2026-09-21T11:44:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

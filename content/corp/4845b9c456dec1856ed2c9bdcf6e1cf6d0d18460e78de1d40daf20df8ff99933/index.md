@@ -1,6 +1,6 @@
 ---
 title: ​GermanSpaceDuo
-description: W:3 L:25 D:4 Bonus ✅ 30%
+description: W:3 L:25 D:4 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 5 **Knights of Solo**
 date: 2026-09-26T22:13:18.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T22:13:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

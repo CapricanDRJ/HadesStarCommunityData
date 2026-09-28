@@ -1,6 +1,6 @@
 ---
 title: ​Españoles
-description: W:78 L:103 D:1 Bonus ✅ 52%
+description: W:78 L:103 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 9 - 28 **Слава Украине\!**
 date: 2026-09-28T04:40:44.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:3 L:5 D:1 Bonus ❌ 5%
+description: W:4 L:6 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 2 - 26 **契约\-璃月**
-date: 2026-09-23T11:16:23.000Z
+Summary: ❌ 0 - 3 **Stargate Sg7**
+date: 2026-09-28T12:26:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-09-23T11:16:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (-10)|
-| ELO Competitive | 1238 🔻  (-4)|
-| Total Matches | 9 |
-| Wins | 3 |
-| Losses | 5 |
+| ELO Regular | 1199 🔻  (-12)|
+| ELO Competitive | 1252 🔺  (14)|
+| Total Matches | 11 |
+| Wins | 4 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/28 | 0-3 | [Stargate Sg7](https://ws.tsl.rocks/corp/f0fadd303b5cb5e09aa473359c0f11f4e077acf35ab94cef2c850d3fa8162e81/) |
+| ✅ | 2026/09/28 | 7-4 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62/) |
 | ❌ | 2026/09/23 | 2-26 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
 | ❌ | 2026/09/18 | 0-19 | [KEPLER\-442 b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
 | ❌ | 2026/09/13 | 1-9 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -156,5 +158,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790162183"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790598377"></span>
 </div>
