@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:86 L:38 D:1 Bonus ✅ 48%
+description: W:86 L:38 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 6 - 4 **Stella☆Glow**
 date: 2026-09-21T13:22:53.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

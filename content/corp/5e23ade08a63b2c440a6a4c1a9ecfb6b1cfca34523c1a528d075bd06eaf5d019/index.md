@@ -1,6 +1,6 @@
 ---
 title: ​QONQR
-description: W:54 L:18 D:0 Bonus ✅ 46%
+description: W:54 L:18 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **Star Union**
 date: 2026-09-21T12:57:51.000Z
@@ -18,7 +18,7 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

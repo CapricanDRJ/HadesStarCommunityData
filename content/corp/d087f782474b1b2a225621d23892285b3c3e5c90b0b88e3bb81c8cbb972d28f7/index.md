@@ -1,6 +1,6 @@
 ---
 title: ​生仔未必就系幅
-description: W:1 L:3 D:0 Bonus ❌ 
+description: W:1 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 10 **共联·世界**
 date: 2026-08-10T12:55:09.000Z
@@ -15,7 +15,7 @@ date: 2026-08-10T12:55:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
