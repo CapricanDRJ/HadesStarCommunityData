@@ -1,6 +1,6 @@
 ---
 title: ​New YuGiOh
-description: W:78 L:17 D:3 Bonus ✅ 48%
+description: W:78 L:17 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **Infinity**
 date: 2026-09-21T20:51:47.000Z
@@ -15,7 +15,7 @@ date: 2026-09-21T20:51:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
