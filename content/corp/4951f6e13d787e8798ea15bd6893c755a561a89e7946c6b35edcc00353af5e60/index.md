@@ -1,6 +1,6 @@
 ---
 title: ​龙族之家
-description: W:15 L:40 D:1 Bonus ✅ 38%
+description: W:15 L:40 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **GN星际联合**
 date: 2026-09-21T17:23:15.000Z
@@ -15,7 +15,7 @@ date: 2026-09-21T17:23:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
