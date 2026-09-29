@@ -1,6 +1,6 @@
 ---
 title: ​REAPERS
-description: W:51 L:12 D:1 Bonus ✅ 40%
+description: W:51 L:12 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **attraction\.F**
 date: 2026-09-27T02:28:35.000Z
@@ -15,7 +15,7 @@ date: 2026-09-27T02:28:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​休闲、红、蓝、白养老集团。
-description: W:12 L:4 D:2 Bonus ✅ 32%
+description: W:12 L:5 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 17 - 0 **复生会**
-date: 2026-09-23T00:40:41.000Z
+Summary: ❌ 13 - 15 **RED STAR**
+date: 2026-09-28T22:27:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-23T00:40:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔺  (11)|
-| ELO Competitive | 1331 🔺  (11)|
-| Total Matches | 18 |
+| ELO Regular | 1271 🔻  (-18)|
+| ELO Competitive | 1322 🔻  (-9)|
+| Total Matches | 19 |
 | Wins | 12 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
+        let timestamps = [1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/28 | 13-15 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) |
 | ✅ | 2026/09/23 | 17-0 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9/) |
 | ❌ | 2026/09/17 | 0-17 | [Mantle](https://ws.tsl.rocks/corp/a76c018111dc02509e226bf5a45681157183211b818114c21fe78c1f30609eec/) |
 | ✅ | 2026/09/12 | 18-0 | [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) |
@@ -160,5 +161,5 @@ Corporation ID: fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790124041"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790634434"></span>
 </div>
