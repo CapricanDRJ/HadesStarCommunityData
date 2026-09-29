@@ -1,6 +1,6 @@
 ---
 title: ​Death Star llc.
-description: W:108 L:57 D:2 Bonus ✅ 48%
+description: W:108 L:57 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 33 **Stella☆Glow**
 date: 2026-09-29T00:22:22.000Z
@@ -19,7 +19,7 @@ Discord required | Part of Astral Alliance
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

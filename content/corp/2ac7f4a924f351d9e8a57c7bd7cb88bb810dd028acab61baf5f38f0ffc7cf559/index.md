@@ -1,6 +1,6 @@
 ---
 title: ​Regulus
-description: W:44 L:15 D:0 Bonus ✅ 50%
+description: W:44 L:15 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 31 - 8 **WinterComes**
 date: 2026-09-22T02:03:59.000Z
@@ -18,7 +18,7 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
