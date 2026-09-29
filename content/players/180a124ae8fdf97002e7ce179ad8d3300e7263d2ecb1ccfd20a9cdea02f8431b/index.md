@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Sanya)))"
-description: "ws: 42 μ: 30.55"
+description: "ws: 43 μ: 30.67"
 ---
-- **WhiteStars**: 42
-- **Eligible**: 31
-- **Rating**: 7.81
-- **μ**: 30.55  
-- **σ**: 7.58
-- W: 35, L: 7, T: 0
+- **WhiteStars**: 43
+- **Eligible**: 32
+- **Rating**: 7.97
+- **μ**: 30.67  
+- **σ**: 7.57
+- W: 36, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 42 μ: 30.55"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 27 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 28 |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 4 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 42 μ: 30.55"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 21-6 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-09-22 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 45-0 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | 2026-09-15 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 25-5 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | 2026-09-08 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 25-1 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |

@@ -1,6 +1,6 @@
 ---
 title: ​WALRUS
-description: W:16 L:10 D:0 Bonus ✅ 36%
+description: W:16 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 32 - 0 **太空的猫**
 date: 2026-09-22T11:49:39.000Z
@@ -15,7 +15,7 @@ date: 2026-09-22T11:49:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

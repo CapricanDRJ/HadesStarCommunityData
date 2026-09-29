@@ -1,9 +1,9 @@
 ---
 title: ​伪天星集团
-description: W:2 L:4 D:0 Bonus ❌ 4%
+description: W:2 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 4 - 16 **泰拉瑞亚**
-date: 2026-09-17T10:36:07.000Z
+Summary: ❌ 1 - 16 **契约\-璃月**
+date: 2026-09-29T10:58:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-17T10:36:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (-16)|
-| ELO Competitive | 1211 🔻  (-5)|
-| Total Matches | 6 |
+| ELO Regular | 1161 🔻  (-8)|
+| ELO Competitive | 1208 🔻  (-3)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789209367,1786688000,1786203627,1785744035,1785120322,1783940224];
+        let timestamps = [1790247486,1789209367,1786688000,1786203627,1785744035,1785120322,1783940224];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/29 | 1-16 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
 | ❌ | 2026/09/17 | 4-16 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ❌ | 2026/08/19 | 8-11 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2026/08/13 | 11-6 | [Red star \(all\)](https://ws.tsl.rocks/corp/018359ba3867f626bd6cdd2f79f962028325907ff1caef526e4405b064e0c015/) |
@@ -147,5 +148,5 @@ Corporation ID: 53966bd236f5b18d9f651eff62ee3583704ef3016e1caa8ec7252ee1ed810231
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789641367"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790679486"></span>
 </div>
