@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Hades
-description: W:97 L:39 D:4 Bonus ✅ 48%
+description: W:97 L:39 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **地球联合**
 date: 2026-09-22T06:19:16.000Z
@@ -15,7 +15,7 @@ date: 2026-09-22T06:19:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

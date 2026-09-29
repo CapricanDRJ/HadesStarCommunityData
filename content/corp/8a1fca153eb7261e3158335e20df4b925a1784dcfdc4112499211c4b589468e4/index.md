@@ -1,6 +1,6 @@
 ---
 title: ​SPIRITO HUMANS
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:1 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **CERBERUS SYSTEM**
 date: 2026-07-15T20:46:52.000Z
@@ -15,7 +15,7 @@ date: 2026-07-15T20:46:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

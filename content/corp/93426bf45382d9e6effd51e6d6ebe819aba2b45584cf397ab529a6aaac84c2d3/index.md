@@ -1,6 +1,6 @@
 ---
 title: ​Drama Llama
-description: W:7 L:2 D:0 Bonus ❌ 
+description: W:7 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **\*СССР\***
 date: 2026-08-21T02:37:36.000Z
@@ -15,7 +15,7 @@ date: 2026-08-21T02:37:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
