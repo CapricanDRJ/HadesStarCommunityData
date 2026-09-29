@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "raven_nn"
-description: "ws: 81 μ: 31.34"
+description: "ws: 82 μ: 31.62"
 ---
-- **WhiteStars**: 81
-- **Eligible**: 66
-- **Rating**: 10.65
-- **μ**: 31.34  
-- **σ**: 6.90
-- W: 66, L: 15, T: 0
+- **WhiteStars**: 82
+- **Eligible**: 67
+- **Rating**: 10.97
+- **μ**: 31.62  
+- **σ**: 6.88
+- W: 67, L: 15, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 81 μ: 31.34"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 66 |
+| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 67 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 81 μ: 31.34"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 7-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | 2026-09-24 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 26-3 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | 2026-09-19 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 4-6 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 13-5 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |

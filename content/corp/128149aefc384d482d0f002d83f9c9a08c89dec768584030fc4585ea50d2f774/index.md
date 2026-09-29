@@ -1,6 +1,6 @@
 ---
 title: ​リリース
-description: W:109 L:65 D:0 Bonus ✅ 48%
+description: W:109 L:65 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 32 - 6 **47підрозділССП**
 date: 2026-09-22T14:54:56.000Z
@@ -17,7 +17,7 @@ d必須です！　特別待遇はできかねますのでご注意ください�
 <br>
 
 ### [Discord](https://discord.gg/jmZpzGx7b5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

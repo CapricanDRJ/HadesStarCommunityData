@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "sV"
-description: "ws: 40 μ: 30.66"
+description: "ws: 41 μ: 31.00"
 ---
-- **WhiteStars**: 40
-- **Eligible**: 28
-- **Rating**: 8.03
-- **μ**: 30.66  
-- **σ**: 7.54
-- W: 34, L: 6, T: 0
+- **WhiteStars**: 41
+- **Eligible**: 29
+- **Rating**: 8.42
+- **μ**: 31.00  
+- **σ**: 7.53
+- W: 35, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 40 μ: 30.66"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 28 |
+| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 29 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 40 μ: 30.66"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 7-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | 2026-09-24 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 25-14 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | 2026-09-08 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 34-0 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | 2026-08-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 6-8 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |

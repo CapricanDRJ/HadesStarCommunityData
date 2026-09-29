@@ -1,6 +1,6 @@
 ---
 title: ​Clube Jogatico
-description: W:23 L:13 D:1 Bonus ✅ 36%
+description: W:23 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **Cerulean Star**
 date: 2026-09-22T13:59:50.000Z
@@ -15,7 +15,7 @@ date: 2026-09-22T13:59:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:97 L:39 D:4 Bonus ✅ 48%
+description: W:97 L:39 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 28 - 3 **Space Pirates**
 date: 2026-09-22T12:59:45.000Z
@@ -18,7 +18,7 @@ date: 2026-09-22T12:59:45.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

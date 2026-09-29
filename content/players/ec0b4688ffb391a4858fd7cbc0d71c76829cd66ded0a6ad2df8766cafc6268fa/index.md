@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Deofol"
-description: "ws: 84 μ: 32.49"
+description: "ws: 85 μ: 32.77"
 ---
-- **WhiteStars**: 84
-- **Eligible**: 66
-- **Rating**: 11.80
-- **μ**: 32.49  
-- **σ**: 6.90
-- W: 70, L: 14, T: 0
+- **WhiteStars**: 85
+- **Eligible**: 67
+- **Rating**: 12.12
+- **μ**: 32.77  
+- **σ**: 6.88
+- W: 71, L: 14, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 84 μ: 32.49"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 66 |
+| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 67 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 84 μ: 32.49"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 7-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | 2026-09-24 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 26-3 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | 2026-09-19 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 4-6 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 13-5 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
