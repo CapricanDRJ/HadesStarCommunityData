@@ -1,6 +1,6 @@
 ---
 title: ​Академия Д
-description: W:30 L:4 D:1 Bonus ❌ 
+description: W:30 L:4 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 1 - 28 **Ainz ooal gown**
 date: 2026-08-11T20:57:13.000Z
@@ -15,7 +15,7 @@ date: 2026-08-11T20:57:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
