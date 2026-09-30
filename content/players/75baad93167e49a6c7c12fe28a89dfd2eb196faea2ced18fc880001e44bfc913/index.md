@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Kvad"
-description: "ws: 5 μ: 24.26"
+description: "ws: 6 μ: 24.15"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 4
-- **Rating**: -0.52
-- **μ**: 24.26  
-- **σ**: 8.26
-- W: 1, L: 4, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 5
+- **Rating**: -0.58
+- **μ**: 24.15  
+- **σ**: 8.24
+- W: 1, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 24.26"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 4 |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 24.26"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-25 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-09-03 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-20 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-19 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-07-28 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-17 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

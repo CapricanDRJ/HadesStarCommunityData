@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Дикий скритчер"
-description: "ws: 72 μ: 29.68"
+description: "ws: 73 μ: 29.76"
 ---
-- **WhiteStars**: 72
-- **Eligible**: 33
-- **Rating**: 6.62
-- **μ**: 29.68  
-- **σ**: 7.69
-- W: 69, L: 3, T: 0
+- **WhiteStars**: 73
+- **Eligible**: 34
+- **Rating**: 6.74
+- **μ**: 29.76  
+- **σ**: 7.68
+- W: 70, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 72 μ: 29.68"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 33 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 34 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 72 μ: 29.68"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 25-3 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | 2026-09-24 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 19-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | 2026-09-19 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 26-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | 2026-09-14 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 27-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

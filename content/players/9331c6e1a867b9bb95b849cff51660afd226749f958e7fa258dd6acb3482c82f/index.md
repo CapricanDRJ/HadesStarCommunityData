@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Sikaro"
-description: "ws: 18 μ: 19.65"
+description: "ws: 19 μ: 19.56"
 ---
-- **WhiteStars**: 18
-- **Eligible**: 17
-- **Rating**: -4.11
-- **μ**: 19.65  
-- **σ**: 7.92
-- W: 0, L: 18, T: 0
+- **WhiteStars**: 19
+- **Eligible**: 18
+- **Rating**: -4.17
+- **μ**: 19.56  
+- **σ**: 7.91
+- W: 0, L: 19, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 18 μ: 19.65"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 17 |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 18 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 18 μ: 19.65"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-25 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-09-03 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-20 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-19 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-07-28 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-17 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Boodlaker 2"
-description: "ws: 10 μ: 23.32"
+description: "ws: 11 μ: 23.21"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 9
-- **Rating**: -1.11
-- **μ**: 23.32  
-- **σ**: 8.14
-- W: 0, L: 10, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 10
+- **Rating**: -1.18
+- **μ**: 23.21  
+- **σ**: 8.13
+- W: 0, L: 11, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 10 μ: 23.32"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 9 |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 10 μ: 23.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-25 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-09-03 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-20 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-19 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-07-28 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 3-17 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
