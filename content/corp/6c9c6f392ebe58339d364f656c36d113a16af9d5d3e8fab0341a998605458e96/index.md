@@ -1,9 +1,9 @@
 ---
 title: ​烽烟与黎明
-description: W:6 L:3 D:0 Bonus ❌ 6%
+description: W:6 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **民主团**
-date: 2026-08-29T06:34:51.000Z
+Summary: ❌ 1 - 2 **NERF TOY'S**
+date: 2026-09-30T17:40:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-29T06:34:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (13)|
-| ELO Competitive | 1275 🔺  (18)|
-| Total Matches | 9 |
+| ELO Regular | 1216 🔻  (-18)|
+| ELO Competitive | 1267 🔻  (-8)|
+| Total Matches | 10 |
 | Wins | 6 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787553291,1787034140,1786517359,1786061925,1785811640,1785598911,1785142850,1784709046,1784084433];
+        let timestamps = [1790358035,1787553291,1787034140,1786517359,1786061925,1785811640,1785598911,1785142850,1784709046,1784084433];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/30 | 1-2 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/08/29 | 4-0 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
 | ❌ | 2026/08/23 | 3-35 | [红色太阳·红活团](https://ws.tsl.rocks/corp/b4d1d276fab66049a6c980d31aba4c6216ab2c806768b1dccd1b49361b4d70d0/) |
 | ✅ | 2026/08/17 | 16-2 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
@@ -151,5 +152,5 @@ Corporation ID: 6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787985291"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790790035"></span>
 </div>
