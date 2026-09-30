@@ -1,9 +1,9 @@
 ---
 title: ​自由之地
-description: W:18 L:12 D:1 Bonus ❌ 8%
+description: W:18 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ↔️ 14 - 14 **Star Hunters**
-date: 2026-09-17T03:33:55.000Z
+Summary: ❌ 2 - 6 **九州·白星**
+date: 2026-09-30T02:47:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-17T03:33:55.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (-4)|
-| ELO Competitive | 1370 🔻  (-5)|
-| Total Matches | 31 |
+| ELO Regular | 1234 🔻  (-16)|
+| ELO Competitive | 1364 🔻  (-6)|
+| Total Matches | 32 |
 | Wins | 18 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 8 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
+        let timestamps = [1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/30 | 2-6 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ↔️ | 2026/09/17 | 14-14 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | ✅ | 2026/09/10 | 21-0 | [Space Dragons](https://ws.tsl.rocks/corp/3f6b6b5d181d20730e3ec18ca3bbd08e5b8f8359525a9bb87dff2f8fa1d9f38f/) |
 | ❌ | 2026/09/08 | 0-22 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
@@ -179,5 +180,5 @@ Corporation ID: 9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789616035"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790736470"></span>
 </div>

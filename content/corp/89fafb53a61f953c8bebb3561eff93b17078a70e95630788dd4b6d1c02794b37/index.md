@@ -1,6 +1,6 @@
 ---
 title: ​РУССКИЕ ИДУТ
-description: W:7 L:8 D:0 Bonus ✅ 32%
+description: W:7 L:8 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **繁星一夢**
 date: 2026-09-23T01:15:43.000Z
@@ -15,7 +15,7 @@ date: 2026-09-23T01:15:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
