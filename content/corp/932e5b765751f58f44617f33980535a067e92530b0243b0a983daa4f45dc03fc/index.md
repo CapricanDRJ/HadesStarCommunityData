@@ -1,9 +1,9 @@
 ---
 title: ​无人深空
-description: W:17 L:9 D:1 Bonus ✅ 36%
+description: W:18 L:9 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **甜甜圈**
-date: 2026-09-23T15:56:48.000Z
+Summary: ✅ 11 - 0 **КОРПОРАЦИЯ ЗЛА**
+date: 2026-09-30T05:04:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-23T15:56:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1293 🔺  (13)|
-| ELO Competitive | 1370 🔺  (10)|
-| Total Matches | 27 |
-| Wins | 17 |
+| ELO Regular | 1290 🔺  (1)|
+| ELO Competitive | 1375 🔺  (5)|
+| Total Matches | 29 |
+| Wins | 18 |
 | Losses | 9 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
+        let timestamps = [1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/09/30 | 11-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
+| ↔️ | 2026/09/30 | 3-3 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ✅ | 2026/09/23 | 8-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/09/23 | 0-4 | [С\.Н\.С\.С\.](https://ws.tsl.rocks/corp/7c45af82d66043c66506eb4f3b86ac2c5fcebc203b105f592257702772a4ba91/) |
 | ✅ | 2026/09/16 | 7-2 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
@@ -174,5 +176,5 @@ Corporation ID: 932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790179008"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790744672"></span>
 </div>
