@@ -1,6 +1,6 @@
 ---
 title: ​С.Н.С.С.
-description: W:2 L:0 D:1 Bonus ✅ 28%
+description: W:2 L:0 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **无人深空**
 date: 2026-09-23T10:21:19.000Z
@@ -15,7 +15,7 @@ date: 2026-09-23T10:21:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
