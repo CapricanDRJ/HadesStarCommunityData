@@ -1,6 +1,6 @@
 ---
 title: ​Jesus Followers
-description: W:3 L:12 D:0 Bonus ❌ 7%
+description: W:3 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 7 - 11 **九州·养老**
 date: 2026-08-12T18:19:37.000Z
@@ -17,7 +17,7 @@ e his prisoner, but share in suffering for the gospel by the power of
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

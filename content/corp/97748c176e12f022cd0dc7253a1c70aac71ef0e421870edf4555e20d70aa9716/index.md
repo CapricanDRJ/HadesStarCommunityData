@@ -1,6 +1,6 @@
 ---
 title: ​Critical Mass
-description: W:73 L:36 D:2 Bonus ✅ 48%
+description: W:73 L:36 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 7 - 16 **Серебряная орда**
 date: 2026-09-25T11:05:19.000Z
@@ -15,7 +15,7 @@ date: 2026-09-25T11:05:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

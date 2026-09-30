@@ -1,6 +1,6 @@
 ---
 title: ​63SALVADORES36
-description: W:90 L:104 D:7 Bonus ✅ 48%
+description: W:90 L:104 D:7 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 7 - 18 **墨痕空域**
 date: 2026-09-29T00:52:23.000Z
@@ -25,7 +25,7 @@ Discord: https://discord.gg/wnw8sSwy
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
