@@ -1,6 +1,6 @@
 ---
 title: ​Эдем
-description: W:63 L:65 D:3 Bonus ✅ 48%
+description: W:63 L:65 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 18 - 2 **NERF TOY'S**
 date: 2026-09-23T09:41:16.000Z
@@ -17,7 +17,7 @@ date: 2026-09-23T09:41:16.000Z
 <br>
 
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

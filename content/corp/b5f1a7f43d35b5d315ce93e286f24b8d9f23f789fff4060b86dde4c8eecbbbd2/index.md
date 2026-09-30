@@ -1,9 +1,9 @@
 ---
 title: ​长安三万里
-description: W:1 L:3 D:0 Bonus ✅ 26%
+description: W:1 L:4 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **万顷稻花**
-date: 2026-09-23T23:05:41.000Z
+Summary: ❌ 0 - 12 **民主团**
+date: 2026-09-30T09:39:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-09-23T23:05:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (18)|
-| ELO Competitive | 1185 🔺  (22)|
-| Total Matches | 4 |
+| ELO Regular | 1164 🔻  (-15)|
+| ELO Competitive | 1176 🔻  (-9)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789772741,1789139868,1788094686,1787650337];
+        let timestamps = [1790329193,1789772741,1789139868,1788094686,1787650337];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/09/30 | 0-12 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
 | ✅ | 2026/09/23 | 1-0 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ❌ | 2026/09/16 | 0-9 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101/) |
 | ❌ | 2026/09/04 | 0-14 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
@@ -145,5 +146,5 @@ Corporation ID: b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790204741"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790761193"></span>
 </div>

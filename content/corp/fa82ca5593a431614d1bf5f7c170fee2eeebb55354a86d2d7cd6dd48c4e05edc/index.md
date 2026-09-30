@@ -1,6 +1,6 @@
 ---
 title: ​Battlestar Fr
-description: W:12 L:16 D:0 Bonus ❌ 11%
+description: W:12 L:16 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **Hexacropians**
 date: 2026-09-06T09:51:53.000Z
@@ -20,7 +20,7 @@ Discord : x9QTsuZ3mg
 <br>
 
 ### [Discord](https://discord.gg/x9QTsuZ3mg)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

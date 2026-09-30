@@ -6,8 +6,36 @@
     <description>Recent content in Corporations on Hades&#39; Star Resources</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:39:53 +0000</lastBuildDate>
     <atom:link href="https://ws.tsl.rocks/corp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>​民主团</title>
+      <link>https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/</link>
+      <pubDate>Wed, 30 Sep 2026 09:39:53 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/</guid>
+      <description>W:29 L:26 D:0 Bonus ✅ 38%</description>
+    </item>
+    <item>
+      <title>​长安三万里</title>
+      <link>https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/</link>
+      <pubDate>Wed, 30 Sep 2026 09:39:53 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/</guid>
+      <description>W:1 L:4 D:0 Bonus ✅ 28%</description>
+    </item>
+    <item>
+      <title>​新手村</title>
+      <link>https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/</link>
+      <pubDate>Wed, 30 Sep 2026 09:17:35 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/</guid>
+      <description>W:1 L:3 D:1 Bonus ✅ 28%</description>
+    </item>
+    <item>
+      <title>​风云集团</title>
+      <link>https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/</link>
+      <pubDate>Wed, 30 Sep 2026 09:17:35 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/</guid>
+      <description>W:1 L:7 D:0 Bonus ❌ 3%</description>
+    </item>
     <item>
       <title>​Russian Style</title>
       <link>https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/</link>
@@ -1801,13 +1829,6 @@
       <description>W:7 L:7 D:2 Bonus ❌ 6%</description>
     </item>
     <item>
-      <title>​新手村</title>
-      <link>https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/</link>
-      <pubDate>Thu, 24 Sep 2026 05:26:35 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/</guid>
-      <description>W:0 L:3 D:1 Bonus ❌ 3%</description>
-    </item>
-    <item>
       <title>​Alpaca Haven</title>
       <link>https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/</link>
       <pubDate>Thu, 24 Sep 2026 03:27:49 +0000</pubDate>
@@ -1827,13 +1848,6 @@
       <pubDate>Thu, 24 Sep 2026 02:32:45 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/f1d15cb357f6e239e540971a84a8b7161bfb5a976716027dbccbbf8e77dac4b5/</guid>
       <description>W:4 L:5 D:1 Bonus ❌ 6%</description>
-    </item>
-    <item>
-      <title>​长安三万里</title>
-      <link>https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/</link>
-      <pubDate>Wed, 23 Sep 2026 23:05:41 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/</guid>
-      <description>W:1 L:3 D:0 Bonus ✅ 26%</description>
     </item>
     <item>
       <title>​The Allegiant</title>
@@ -1896,7 +1910,7 @@
       <link>https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/</link>
       <pubDate>Wed, 23 Sep 2026 09:41:16 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/</guid>
-      <description>W:63 L:65 D:3 Bonus ✅ 48%</description>
+      <description>W:63 L:65 D:3 Bonus ❌ 14%</description>
     </item>
     <item>
       <title>​中华五千年</title>
@@ -1960,13 +1974,6 @@
       <pubDate>Tue, 22 Sep 2026 14:39:54 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/</guid>
       <description>W:79 L:62 D:8 Bonus ❌ 12%</description>
-    </item>
-    <item>
-      <title>​民主团</title>
-      <link>https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/</link>
-      <pubDate>Tue, 22 Sep 2026 14:39:54 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/</guid>
-      <description>W:28 L:26 D:0 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​Cerulean Star</title>
@@ -2785,7 +2792,7 @@
       <link>https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc/</link>
       <pubDate>Sun, 06 Sep 2026 09:51:53 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc/</guid>
-      <description>W:12 L:16 D:0 Bonus ❌ 11%</description>
+      <description>W:12 L:16 D:0 Bonus ❌ 12%</description>
     </item>
     <item>
       <title>​testims</title>
@@ -9317,13 +9324,6 @@
       <pubDate>Fri, 25 Apr 2025 14:12:18 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/078cfa0c4e4e118bbd13aa38a810e83f754fe53d40d5ab16232e50a6cf414dec/</guid>
       <description>W:1 L:2 D:0 Bonus ❌</description>
-    </item>
-    <item>
-      <title>​风云集团</title>
-      <link>https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/</link>
-      <pubDate>Fri, 25 Apr 2025 10:15:11 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/</guid>
-      <description>W:1 L:6 D:0 Bonus ❌ 3%</description>
     </item>
     <item>
       <title>​Minutemen</title>
