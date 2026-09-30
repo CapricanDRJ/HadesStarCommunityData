@@ -1,6 +1,6 @@
 ---
 title: ​VoidRunners
-description: W:153 L:198 D:3 Bonus ✅ 52%
+description: W:153 L:198 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 6 - 4 **The X \- Files**
 date: 2026-09-23T19:22:07.000Z
@@ -23,7 +23,7 @@ date: 2026-09-23T19:22:07.000Z
 <br>
 
 ### [Discord](https://discord.gg/vmbXh7r7yt)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

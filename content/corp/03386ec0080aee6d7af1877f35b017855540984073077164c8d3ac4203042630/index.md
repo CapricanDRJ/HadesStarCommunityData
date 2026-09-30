@@ -1,6 +1,6 @@
 ---
 title: ​万顷稻花
-description: W:19 L:25 D:2 Bonus ✅ 36%
+description: W:19 L:25 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 5 **九州分团**
 date: 2026-09-29T20:04:25.000Z
@@ -15,7 +15,7 @@ date: 2026-09-29T20:04:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

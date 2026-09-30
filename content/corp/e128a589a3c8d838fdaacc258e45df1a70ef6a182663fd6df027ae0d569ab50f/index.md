@@ -1,6 +1,6 @@
 ---
 title: ​The Covenant
-description: W:9 L:2 D:0 Bonus ❌ 
+description: W:9 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **契约\-璃月**
 date: 2026-07-25T08:56:37.000Z
@@ -15,7 +15,7 @@ date: 2026-07-25T08:56:37.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

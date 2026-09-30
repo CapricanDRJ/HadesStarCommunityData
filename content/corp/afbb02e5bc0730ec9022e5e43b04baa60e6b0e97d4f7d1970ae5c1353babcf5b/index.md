@@ -1,6 +1,6 @@
 ---
 title: ​Los segadores
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:1 D:0 Bonus ❌ 0%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **The Covenant**
 date: 2026-06-07T17:32:23.000Z
@@ -15,7 +15,7 @@ date: 2026-06-07T17:32:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
