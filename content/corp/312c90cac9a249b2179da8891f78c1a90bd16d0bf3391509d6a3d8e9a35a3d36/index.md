@@ -1,6 +1,6 @@
 ---
 title: ​United Stars
-description: W:77 L:49 D:5 Bonus ✅ 48%
+description: W:77 L:49 D:5 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 40 - 2 **Death Flight**
 date: 2026-09-24T14:03:38.000Z
@@ -20,7 +20,7 @@ Join the family! Active on discord!
 <br>
 
 ### [Discord](https://discord.gg/mjFw6PUW52)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

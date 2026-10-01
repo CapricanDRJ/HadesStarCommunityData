@@ -1,6 +1,6 @@
 ---
 title: ​传说之下2
-description: W:30 L:18 D:1 Bonus ❌ 
+description: W:30 L:18 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 3 **New YuGiOh**
 date: 2026-07-15T14:36:47.000Z
@@ -15,7 +15,7 @@ date: 2026-07-15T14:36:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

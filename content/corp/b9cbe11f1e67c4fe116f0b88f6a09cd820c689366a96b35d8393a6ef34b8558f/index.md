@@ -1,6 +1,6 @@
 ---
 title: ​九州·华夏
-description: W:122 L:92 D:4 Bonus ✅ 52%
+description: W:122 L:92 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 7 - 10 **ༀᅗBAR ESTELARᅗༀ**
 date: 2026-09-29T22:59:07.000Z
@@ -15,7 +15,7 @@ date: 2026-09-29T22:59:07.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
