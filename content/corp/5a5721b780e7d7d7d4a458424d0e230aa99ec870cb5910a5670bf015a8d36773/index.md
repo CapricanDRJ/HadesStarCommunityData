@@ -1,9 +1,9 @@
 ---
 title: ​testims
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 Summary: ❌ 0 - 1 **Village of Evil**
-date: 2026-10-01T09:31:51.000Z
+date: 2026-10-01T10:10:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-01T09:31:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (-2)|
+| ELO Regular | 1195 🔻  (-2)|
 | ELO Competitive | 1196 🔻  (-4)|
-| Total Matches | 1 |
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790415111];
+        let timestamps = [1790417453,1790415111];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Village of Evil](https://ws.tsl.rocks/corp/49560c57406a9c76f00beab7cdbacba9ac9f781243bd9d30d3db9fb112bad738/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/01 | 0-1 | [Village of Evil](https://ws.tsl.rocks/corp/49560c57406a9c76f00beab7cdbacba9ac9f781243bd9d30d3db9fb112bad738/) |
 | ❌ | 2026/10/01 | 0-1 | [Village of Evil](https://ws.tsl.rocks/corp/49560c57406a9c76f00beab7cdbacba9ac9f781243bd9d30d3db9fb112bad738/) |
 
 ---
@@ -142,5 +148,5 @@ Corporation ID: 5a5721b780e7d7d7d4a458424d0e230aa99ec870cb5910a5670bf015a8d36773
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790847111"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790849453"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​SternenStaub
-description: W:49 L:128 D:1 Bonus ✅ 46%
+description: W:49 L:128 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 2 - 17 **Неизбежный Рок**
 date: 2026-10-01T00:41:08.000Z
@@ -15,7 +15,7 @@ Wir haben Spaß zusammen.
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

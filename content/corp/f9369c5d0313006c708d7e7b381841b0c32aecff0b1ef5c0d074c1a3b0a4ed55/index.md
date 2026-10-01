@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人
-description: W:38 L:44 D:3 Bonus ✅ 42%
+description: W:38 L:44 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 4 - 6 **九州·华夏**
 date: 2026-09-24T13:58:38.000Z
@@ -15,7 +15,7 @@ date: 2026-09-24T13:58:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

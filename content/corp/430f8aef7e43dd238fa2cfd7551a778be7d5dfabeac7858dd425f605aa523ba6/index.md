@@ -1,6 +1,6 @@
 ---
 title: ​宇宙聯盟
-description: W:4 L:4 D:1 Bonus ✅ 30%
+description: W:4 L:4 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 1 **欢迎新手**
 date: 2026-10-01T07:56:43.000Z
@@ -15,7 +15,7 @@ date: 2026-10-01T07:56:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
