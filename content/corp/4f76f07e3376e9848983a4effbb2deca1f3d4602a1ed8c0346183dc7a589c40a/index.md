@@ -1,6 +1,6 @@
 ---
 title: ​维埃星云氮氢钨钽
-description: W:7 L:11 D:3 Bonus ✅ 32%
+description: W:7 L:11 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 1 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2026-09-24T19:37:58.000Z
@@ -15,7 +15,7 @@ date: 2026-09-24T19:37:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

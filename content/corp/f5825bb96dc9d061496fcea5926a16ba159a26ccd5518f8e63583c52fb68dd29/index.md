@@ -1,6 +1,6 @@
 ---
 title: ​Red_Coat_Mafia
-description: W:72 L:67 D:4 Bonus ✅ 52%
+description: W:72 L:67 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 32 - 1 **DarkSide**
 date: 2026-09-24T20:34:16.000Z
@@ -18,7 +18,7 @@ ccount inGame to be a member. InGame space is prioritized for running
 <br>
 
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
