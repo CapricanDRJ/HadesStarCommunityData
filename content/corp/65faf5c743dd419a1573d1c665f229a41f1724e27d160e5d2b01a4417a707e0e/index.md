@@ -1,6 +1,6 @@
 ---
 title: ​*СССР*
-description: W:116 L:115 D:1 Bonus ✅ 52%
+description: W:116 L:115 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 1 - 64 **Continuum**
 date: 2026-09-25T03:19:45.000Z
@@ -18,7 +18,7 @@ date: 2026-09-25T03:19:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Spanish Fury
-description: W:31 L:5 D:2 Bonus ✅ 38%
+description: W:31 L:5 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 9 - 2 **九州·白星**
 date: 2026-09-24T16:23:51.000Z
@@ -15,7 +15,7 @@ date: 2026-09-24T16:23:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
