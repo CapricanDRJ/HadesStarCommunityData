@@ -1,6 +1,6 @@
 ---
 title: ​Mass Effect
-description: W:71 L:64 D:1 Bonus ✅ 46%
+description: W:71 L:64 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 44 - 0 **Alpaca Haven**
 date: 2026-09-24T03:27:49.000Z
@@ -18,7 +18,7 @@ Just come and play to the rules!
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

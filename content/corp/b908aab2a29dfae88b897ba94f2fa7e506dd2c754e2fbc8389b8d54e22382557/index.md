@@ -1,9 +1,9 @@
 ---
 title: ​甜甜圈
-description: W:5 L:3 D:0 Bonus ✅ 32%
+description: W:6 L:3 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **Space Catz**
-date: 2026-09-29T04:07:36.000Z
+Summary: ✅ 6 - 0 **GN星际联合**
+date: 2026-10-01T01:56:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-29T04:07:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (21)|
+| ELO Regular | 1250 🔺  (11)|
 | ELO Competitive | 1253 🔺  (22)|
-| Total Matches | 8 |
-| Wins | 5 |
+| Total Matches | 9 |
+| Wins | 6 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790222856,1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
+        let timestamps = [1790387774,1790222856,1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/01 | 6-0 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ✅ | 2026/09/29 | 9-0 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ❌ | 2026/09/23 | 0-8 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/09/18 | 7-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
@@ -150,5 +152,5 @@ Corporation ID: b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790654856"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790819774"></span>
 </div>
