@@ -1,6 +1,6 @@
 ---
 title: ​资助会
-description: W:14 L:6 D:0 Bonus ✅ 34%
+description: W:14 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 28 - 6 **Curiosity \+ Cat**
 date: 2026-09-24T06:58:04.000Z
@@ -16,7 +16,7 @@ date: 2026-09-24T06:58:04.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

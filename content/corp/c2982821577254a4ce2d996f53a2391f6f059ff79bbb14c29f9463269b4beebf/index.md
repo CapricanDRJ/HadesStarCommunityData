@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:80 L:69 D:2 Bonus ❌ 50%
+description: W:80 L:69 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 6 - 28 **资助会**
 date: 2026-09-24T06:58:04.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ❌ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:4 L:3 D:1 Bonus ✅ 30%
+description: W:4 L:4 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ↔️ 3 - 3 **无人深空**
-date: 2026-09-30T04:09:28.000Z
+Summary: ❌ 0 - 1 **欢迎新手**
+date: 2026-10-01T07:56:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-30T04:09:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (4)|
+| ELO Regular | 1194 🔻  (-18)|
 | ELO Competitive | 1220 🔺  (6)|
-| Total Matches | 8 |
+| Total Matches | 9 |
 | Wins | 4 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/01 | 0-1 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ↔️ | 2026/09/30 | 3-3 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/09/24 | 3-0 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
 | ❌ | 2026/09/19 | 0-9 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
@@ -150,5 +151,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790741368"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790841403"></span>
 </div>

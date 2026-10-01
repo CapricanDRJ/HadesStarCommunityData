@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-01T06:55:39.879Z
+date: 2026-10-01T09:55:40.231Z
 summary: "Corporation directory"
 ---
 
@@ -130,7 +130,7 @@ summary: "Corporation directory"
 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 1303 | 1445 | 51 |
 | [BLOK EKIPA](https://ws.tsl.rocks/corp/b52b3a9c372aec6edf23c2fe617847cf4772d46976f5828c415089f5ae0bbcdd/) | 1147 | 1153 | 3 |
 | [Blood Brigade](https://ws.tsl.rocks/corp/ce89aabee19fb85413de6412017d664476f90eef8c162ac415b289797bc770b6/) | 1195 | 1196 | 1 |
-| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1382 | 1960 | 283 |
+| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1390 | 1987 | 284 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1172 | 1398 | 111 |
 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) | 1166 | 1220 | 15 |
 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) | 1194 | 1213 | 9 |
@@ -194,7 +194,7 @@ summary: "Corporation directory"
 | [cikopo](https://ws.tsl.rocks/corp/523cdd29cdccf7732fed590e941edb3ad2c4e7130ef6b474e9ae7a0855af8cc7/) | 1162 | 1163 | 3 |
 | [cikopo](https://ws.tsl.rocks/corp/84965cb95bc004d297437c3f6f8df76e1a9795097b22fe5f5de9608f99d0906c/) | 1196 | 1200 | 1 |
 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) | 1479 | 1652 | 105 |
-| [Clube Jogatico](https://ws.tsl.rocks/corp/b7fa1d6ba9752f3526daf60acb3f70f9daaf33a9e81bb5d9c78015c805b74ef4/) | 1268 | 1365 | 37 |
+| [Clube Jogatico](https://ws.tsl.rocks/corp/b7fa1d6ba9752f3526daf60acb3f70f9daaf33a9e81bb5d9c78015c805b74ef4/) | 1252 | 1346 | 38 |
 | [CODEX IMPERIUS](https://ws.tsl.rocks/corp/3ccc674105e16aced0c61db9965dbb8f479196700e695527054cd35787a5eeb7/) | 1129 | 1147 | 9 |
 | [Colonial Union](https://ws.tsl.rocks/corp/b2d90277f1d3fa44cc631fa37a19706e448c2600c129b9677d83d598fdb0e67c/) | 1185 | 1185 | 1 |
 | [come的喂](https://ws.tsl.rocks/corp/f90837e4bce1227551d4b41b77d175e693d6ed69570ac0e077c9f63cea400981/) | 1174 | 1189 | 2 |
@@ -1205,6 +1205,7 @@ summary: "Corporation directory"
 | [testims](https://ws.tsl.rocks/corp/01282043da00f5934f53d1c08d794194c91e545fda6ed2ef494293ebe92c26cd/) | 1187 | 1189 | 1 |
 | [testims](https://ws.tsl.rocks/corp/c9639c72f7bf8e2243d4179f35e9d1b8ff80cd1572b472490ea20f8106b953fb/) | 1195 | 1196 | 2 |
 | [testims](https://ws.tsl.rocks/corp/f958a85d95e9006f2c13b4453fdf0f381ac6ec8610b8bbf964eccce0cf0819ef/) | 1195 | 1196 | 2 |
+| [testims](https://ws.tsl.rocks/corp/5a5721b780e7d7d7d4a458424d0e230aa99ec870cb5910a5670bf015a8d36773/) | 1198 | 1196 | 1 |
 | [That's wrong en](https://ws.tsl.rocks/corp/8803971777bd23a68162026d331db4423f646a0504aa2c06b089a652b40539d0/) | 1182 | 1183 | 1 |
 | [The 501st](https://ws.tsl.rocks/corp/68cfedff28062f13b5219478e5360e5eb0ffae19528e9545c597f73ceb2443b8/) | 1181 | 1189 | 8 |
 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) | 1186 | 1448 | 143 |
@@ -1369,7 +1370,7 @@ summary: "Corporation directory"
 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) | 1041 | 1144 | 47 |
 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) | 1219 | 1400 | 86 |
 | [Village of Evil](https://ws.tsl.rocks/corp/9c5d7dfe1198273dd21163553e3154778f448ae7355825ae1db7ceba7236744f/) | 1170 | 1185 | 2 |
-| [Village of Evil](https://ws.tsl.rocks/corp/49560c57406a9c76f00beab7cdbacba9ac9f781243bd9d30d3db9fb112bad738/) | 1629 | 1509 | 80 |
+| [Village of Evil](https://ws.tsl.rocks/corp/49560c57406a9c76f00beab7cdbacba9ac9f781243bd9d30d3db9fb112bad738/) | 1631 | 1514 | 81 |
 | [Vitare Corp](https://ws.tsl.rocks/corp/cf8111b4c468251bed72cbc474c276ac775d53b430a6159c85d7cd81a7db663c/) | 1177 | 1182 | 2 |
 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) | 1191 | 1357 | 66 |
 | [VOID](https://ws.tsl.rocks/corp/d07209711dc99f364103332000a642a3abcd2936a85ae8d2054223bd8cd75558/) | 1166 | 1197 | 5 |
@@ -1652,7 +1653,7 @@ summary: "Corporation directory"
 | [хранилище](https://ws.tsl.rocks/corp/2bfe6c20be9914b41035d73d5d57975a69b4b1cac238eae823033fc12846fa05/) | 1195 | 1200 | 3 |
 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) | 1317 | 1391 | 34 |
 | [༺༽ʚ天轮间ɞ༼༻](https://ws.tsl.rocks/corp/ae9308ab2dc25db5a2f984255ff593700ec70a7f87182d04a3e41c2eb5c2063c/) | 1173 | 1180 | 3 |
-| [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) | 1249 | 1261 | 3 |
+| [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) | 1265 | 1281 | 4 |
 | [Ẁhıťɛ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/4019e0b42b27f4016da780eed9d3c84aec7ad9d180e90febddb3a9a22dac131c/) | 1142 | 1160 | 4 |
 | [​Phoenix Squad](https://ws.tsl.rocks/corp/19a48ee4ab2bab7819f0e405a6148687c8e5dc18c868d31af69b7eccf0cc5f4b/) | 1196 | 1200 | 1 |
 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) | 987 | 1009 | 31 |
@@ -1674,7 +1675,7 @@ summary: "Corporation directory"
 | [一切奇迹的起点](https://ws.tsl.rocks/corp/bbdfb933c61ceff037c1c76a72f8d396261bb09cbcf3b7c2a8e045d33c12ccf5/) | 1228 | 1236 | 2 |
 | [一切终将消逝](https://ws.tsl.rocks/corp/64730e13a12911f3b07d8d1362547011103ba27359d24c023fdd8442bc025f0d/) | 1184 | 1188 | 1 |
 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) | 1090 | 1182 | 34 |
-| [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1196 | 1777 | 211 |
+| [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1209 | 1780 | 213 |
 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) | 1187 | 1327 | 46 |
 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) | 1148 | 1161 | 20 |
 | [专业间谍团队](https://ws.tsl.rocks/corp/2e93c453822c84d64bf8ae81e68d3dee1ed7832ee77b50dd8762a572432896ad/) | 1193 | 1194 | 1 |
@@ -1782,7 +1783,7 @@ summary: "Corporation directory"
 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) | 1342 | 1384 | 22 |
 | [宇宙生協](https://ws.tsl.rocks/corp/2183982f221c89c752bcd4baecf8707bd0d9d595cb56eff7df68417aea85b219/) | 1185 | 1186 | 1 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 1167 | 1376 | 170 |
-| [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) | 1211 | 1220 | 8 |
+| [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) | 1194 | 1220 | 9 |
 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) | 1322 | 1356 | 28 |
 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) | 1300 | 1371 | 39 |
 | [宇氏集团](https://ws.tsl.rocks/corp/80315b4e1e3c22c7a5770a4fe63dd861fc3586e2d538f585b2aa8feb8f009713/) | 1174 | 1174 | 2 |
@@ -1813,7 +1814,7 @@ summary: "Corporation directory"
 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) | 987 | 1084 | 63 |
 | [探索舰队](https://ws.tsl.rocks/corp/c18acd17d6d643817b2bf8f28c2bf82cae881f0dd6d41528c9cfbe3292a7de29/) | 1116 | 1168 | 14 |
 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) | 1123 | 1269 | 57 |
-| [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) | 1315 | 1394 | 26 |
+| [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) | 1295 | 1391 | 27 |
 | [敢归云间宿](https://ws.tsl.rocks/corp/f0529cb18a69d98a2c87bfdfc38574318d0027ce8988a8b2a07b2f91e8b0f8c6/) | 1204 | 1212 | 2 |
 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) | 1064 | 1093 | 31 |
 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) | 1098 | 1142 | 23 |
@@ -1890,7 +1891,7 @@ summary: "Corporation directory"
 | [柯伊伯带远征军](https://ws.tsl.rocks/corp/32398adc922cc794e11a465894d7c05b991a9fa42402fad019eab4cdf1e6fc57/) | 1067 | 1137 | 14 |
 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) | 1165 | 1175 | 7 |
 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) | 1055 | 1076 | 31 |
-| [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) | 1147 | 1225 | 27 |
+| [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) | 1165 | 1240 | 28 |
 | [欧若拉](https://ws.tsl.rocks/corp/c16332fe720b983eee2858201e0a78b91ada22255783309148d79632a7d74468/) | 1203 | 1208 | 1 |
 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) | 1482 | 1536 | 30 |
 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) | 1194 | 1336 | 55 |

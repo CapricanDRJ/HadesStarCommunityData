@@ -2,7 +2,7 @@
 layout: page
 title: Scanning Friday
 description: Probability a Hades' Star corporation is scanning Friday
-date: 2026-10-01T06:55:29.372Z
+date: 2026-10-01T09:55:29.601Z
 permalink: /fri/
 searchHidden: true
 ---
@@ -35,56 +35,56 @@ searchHidden: true
 | 24 | [Village of Evil](https://ws.tsl.rocks/corp/49560c57406a9c76f00beab7cdbacba9ac9f781243bd9d30d3db9fb112bad738) | 83.33% |
 | 25 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f) | 83.33% |
 | 26 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22) | 83.33% |
-| 27 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4) | 83.33% |
-| 28 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2) | 83.33% |
-| 29 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba) | 75.0% |
-| 30 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774) | 75.0% |
-| 31 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337) | 75.0% |
-| 32 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1) | 75.0% |
-| 33 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10) | 75.0% |
-| 34 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375) | 75.0% |
-| 35 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c) | 75.0% |
-| 36 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f) | 75.0% |
-| 37 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3) | 75.0% |
-| 38 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e) | 75.0% |
-| 39 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702) | 75.0% |
-| 40 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107) | 75.0% |
-| 41 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121) | 75.0% |
-| 42 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09) | 75.0% |
-| 43 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38) | 66.67% |
-| 44 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f) | 66.67% |
-| 45 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7) | 66.67% |
-| 46 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6) | 66.67% |
-| 47 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046) | 66.67% |
-| 48 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c) | 66.67% |
-| 49 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23) | 66.67% |
+| 27 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2) | 83.33% |
+| 28 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba) | 75.0% |
+| 29 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774) | 75.0% |
+| 30 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337) | 75.0% |
+| 31 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1) | 75.0% |
+| 32 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10) | 75.0% |
+| 33 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375) | 75.0% |
+| 34 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c) | 75.0% |
+| 35 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f) | 75.0% |
+| 36 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3) | 75.0% |
+| 37 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e) | 75.0% |
+| 38 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702) | 75.0% |
+| 39 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107) | 75.0% |
+| 40 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121) | 75.0% |
+| 41 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09) | 75.0% |
+| 42 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38) | 66.67% |
+| 43 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f) | 66.67% |
+| 44 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7) | 66.67% |
+| 45 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6) | 66.67% |
+| 46 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046) | 66.67% |
+| 47 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c) | 66.67% |
+| 48 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23) | 66.67% |
+| 49 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b) | 66.67% |
 | 50 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf) | 66.67% |
 | 51 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75) | 66.67% |
 | 52 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da) | 66.67% |
-| 53 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d) | 66.67% |
-| 54 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7) | 66.67% |
-| 55 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9) | 58.33% |
-| 56 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38) | 58.33% |
-| 57 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e) | 58.33% |
-| 58 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65) | 58.33% |
-| 59 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082) | 58.33% |
-| 60 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0) | 58.33% |
-| 61 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531) | 58.33% |
-| 62 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b) | 58.33% |
+| 53 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4) | 66.67% |
+| 54 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d) | 66.67% |
+| 55 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7) | 66.67% |
+| 56 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9) | 58.33% |
+| 57 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38) | 58.33% |
+| 58 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e) | 58.33% |
+| 59 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65) | 58.33% |
+| 60 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082) | 58.33% |
+| 61 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0) | 58.33% |
+| 62 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531) | 58.33% |
 | 63 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7) | 58.33% |
 | 64 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db) | 58.33% |
-| 65 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d) | 58.33% |
-| 66 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573) | 58.33% |
-| 67 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f) | 58.33% |
-| 68 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d) | 58.33% |
-| 69 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92) | 58.33% |
-| 70 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb) | 50.0% |
-| 71 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b) | 50.0% |
-| 72 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921) | 50.0% |
-| 73 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf) | 50.0% |
-| 74 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75) | 50.0% |
-| 75 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81) | 50.0% |
-| 76 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976) | 50.0% |
+| 65 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573) | 58.33% |
+| 66 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f) | 58.33% |
+| 67 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d) | 58.33% |
+| 68 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92) | 58.33% |
+| 69 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb) | 50.0% |
+| 70 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b) | 50.0% |
+| 71 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921) | 50.0% |
+| 72 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf) | 50.0% |
+| 73 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75) | 50.0% |
+| 74 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81) | 50.0% |
+| 75 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976) | 50.0% |
+| 76 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d) | 50.0% |
 | 77 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d) | 50.0% |
 | 78 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d) | 50.0% |
 | 79 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3) | 50.0% |
@@ -122,51 +122,51 @@ searchHidden: true
 | 111 | [Star Union](https://ws.tsl.rocks/corp/16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be) | 33.33% |
 | 112 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9) | 33.33% |
 | 113 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6) | 33.33% |
-| 114 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d) | 33.33% |
-| 115 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b) | 33.33% |
-| 116 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a) | 33.33% |
-| 117 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5) | 33.33% |
-| 118 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25) | 33.33% |
-| 119 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203) | 33.33% |
-| 120 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe) | 33.33% |
-| 121 | [莱恩星际](https://ws.tsl.rocks/corp/7510b8b55ddb419c89f0f789119f72cddd83680fb3508b84b8a32d75e475b40d) | 33.33% |
-| 122 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b) | 33.33% |
-| 123 | [РУССКИЕ ИДУТ](https://ws.tsl.rocks/corp/89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37) | 33.33% |
-| 124 | [Space Potatoes](https://ws.tsl.rocks/corp/8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02) | 33.33% |
-| 125 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55) | 33.33% |
-| 126 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53) | 33.33% |
-| 127 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1) | 33.33% |
-| 128 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342) | 33.33% |
-| 129 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99) | 33.33% |
-| 130 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62) | 33.33% |
-| 131 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75) | 33.33% |
-| 132 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa) | 33.33% |
-| 133 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596) | 33.33% |
-| 134 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562) | 33.33% |
-| 135 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4) | 33.33% |
-| 136 | [Clube Jogatico](https://ws.tsl.rocks/corp/b7fa1d6ba9752f3526daf60acb3f70f9daaf33a9e81bb5d9c78015c805b74ef4) | 33.33% |
-| 137 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725) | 33.33% |
-| 138 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361) | 33.33% |
-| 139 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108) | 33.33% |
-| 140 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4) | 33.33% |
-| 141 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29) | 33.33% |
-| 142 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2) | 33.33% |
-| 143 | [龙的传人分团](https://ws.tsl.rocks/corp/fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc) | 33.33% |
-| 144 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9) | 25.0% |
-| 145 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711) | 25.0% |
-| 146 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da) | 25.0% |
-| 147 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8) | 25.0% |
-| 148 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541) | 25.0% |
-| 149 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b) | 25.0% |
-| 150 | [Orden Estelar](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d) | 25.0% |
-| 151 | [Кузня Лютых](https://ws.tsl.rocks/corp/21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721) | 25.0% |
-| 152 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae) | 25.0% |
-| 153 | [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313) | 25.0% |
-| 154 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1) | 25.0% |
-| 155 | [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484) | 25.0% |
-| 156 | [Space Dragons](https://ws.tsl.rocks/corp/3f6b6b5d181d20730e3ec18ca3bbd08e5b8f8359525a9bb87dff2f8fa1d9f38f) | 25.0% |
-| 157 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4) | 25.0% |
-| 158 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6) | 25.0% |
+| 114 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6) | 33.33% |
+| 115 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d) | 33.33% |
+| 116 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b) | 33.33% |
+| 117 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a) | 33.33% |
+| 118 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5) | 33.33% |
+| 119 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25) | 33.33% |
+| 120 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203) | 33.33% |
+| 121 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe) | 33.33% |
+| 122 | [莱恩星际](https://ws.tsl.rocks/corp/7510b8b55ddb419c89f0f789119f72cddd83680fb3508b84b8a32d75e475b40d) | 33.33% |
+| 123 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b) | 33.33% |
+| 124 | [РУССКИЕ ИДУТ](https://ws.tsl.rocks/corp/89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37) | 33.33% |
+| 125 | [Space Potatoes](https://ws.tsl.rocks/corp/8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02) | 33.33% |
+| 126 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55) | 33.33% |
+| 127 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53) | 33.33% |
+| 128 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1) | 33.33% |
+| 129 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342) | 33.33% |
+| 130 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99) | 33.33% |
+| 131 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62) | 33.33% |
+| 132 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75) | 33.33% |
+| 133 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa) | 33.33% |
+| 134 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596) | 33.33% |
+| 135 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562) | 33.33% |
+| 136 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4) | 33.33% |
+| 137 | [Clube Jogatico](https://ws.tsl.rocks/corp/b7fa1d6ba9752f3526daf60acb3f70f9daaf33a9e81bb5d9c78015c805b74ef4) | 33.33% |
+| 138 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725) | 33.33% |
+| 139 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361) | 33.33% |
+| 140 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108) | 33.33% |
+| 141 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4) | 33.33% |
+| 142 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29) | 33.33% |
+| 143 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2) | 33.33% |
+| 144 | [龙的传人分团](https://ws.tsl.rocks/corp/fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc) | 33.33% |
+| 145 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9) | 25.0% |
+| 146 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711) | 25.0% |
+| 147 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da) | 25.0% |
+| 148 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8) | 25.0% |
+| 149 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541) | 25.0% |
+| 150 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b) | 25.0% |
+| 151 | [Orden Estelar](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d) | 25.0% |
+| 152 | [Кузня Лютых](https://ws.tsl.rocks/corp/21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721) | 25.0% |
+| 153 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae) | 25.0% |
+| 154 | [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313) | 25.0% |
+| 155 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1) | 25.0% |
+| 156 | [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484) | 25.0% |
+| 157 | [Space Dragons](https://ws.tsl.rocks/corp/3f6b6b5d181d20730e3ec18ca3bbd08e5b8f8359525a9bb87dff2f8fa1d9f38f) | 25.0% |
+| 158 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4) | 25.0% |
 | 159 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623) | 25.0% |
 | 160 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389) | 25.0% |
 | 161 | [Solar Corp](https://ws.tsl.rocks/corp/48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264) | 25.0% |
@@ -264,48 +264,48 @@ searchHidden: true
 | 253 | [testims](https://ws.tsl.rocks/corp/f80dbcaaad10572cdd054e4637d9bd88bfde00320d457156102d171c70fa94de) | 16.67% |
 | 254 | [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb) | 16.67% |
 | 255 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362) | 16.67% |
-| 256 | [星空夜](https://ws.tsl.rocks/corp/fcd78f9dbaf75929d1d9b88812f7f88e35491d7f5873406fedb47803c8d881b1) | 16.67% |
-| 257 | [testims](https://ws.tsl.rocks/corp/0566139abdeebaf89318c68c8d63f82a5782d57ea4b322d5dfbd78a1a557d48e) | 8.33% |
-| 258 | [Aeternae](https://ws.tsl.rocks/corp/05ad49bd809f330a794a7d0278a5e21b110b79ebb26ff8d28a25e8a2f1bcb7c8) | 8.33% |
-| 259 | [Space lover](https://ws.tsl.rocks/corp/05ae9e7fe28126b7508df0081f0d22db119cc2184a95e0c12e263272bbccc6b2) | 8.33% |
-| 260 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab) | 8.33% |
-| 261 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa) | 8.33% |
-| 262 | [Black Mirror Co](https://ws.tsl.rocks/corp/0f50fbb3940836c7065ddc39d09a4b6b286e8a3adb62ee5f46c3a4c9b74a759e) | 8.33% |
-| 263 | [G\.O\.D 星辰](https://ws.tsl.rocks/corp/10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a) | 8.33% |
-| 264 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f) | 8.33% |
-| 265 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed) | 8.33% |
-| 266 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d) | 8.33% |
-| 267 | [LOS DESTERRADOS](https://ws.tsl.rocks/corp/1d4e7036b8369f2ee8e5c2dda469c98a151f95026d458bc7ef7f154ff50d0127) | 8.33% |
-| 268 | [Небула Рока](https://ws.tsl.rocks/corp/22875f3ae77efabcd56b4683dee31b7e35d927cb86876f8f587b5f048dfe68f9) | 8.33% |
-| 269 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559) | 8.33% |
-| 270 | [中华人民共和国](https://ws.tsl.rocks/corp/2acf0be46829b53620f0aa02fc71aaa7e3e9c54d9446951bb26288c05727ae84) | 8.33% |
-| 271 | [우주미아](https://ws.tsl.rocks/corp/2e33086edccff7de82480157f7cfdec520a8472c46402842d4c88cb33b333ab3) | 8.33% |
-| 272 | [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc) | 8.33% |
-| 273 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7) | 8.33% |
-| 274 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9) | 8.33% |
-| 275 | [World Hoppers](https://ws.tsl.rocks/corp/36feb10eb95f4c6b184924f6db081bc4bf7aae6f7f5c633bd809ccf425303931) | 8.33% |
-| 276 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf) | 8.33% |
-| 277 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004) | 8.33% |
-| 278 | [风云集团](https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f) | 8.33% |
-| 279 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62) | 8.33% |
-| 280 | [United aurora](https://ws.tsl.rocks/corp/3f3996a7c9cea319017d3c8b8dba8de3d6f8fc4fb6c44148d043083db87b3050) | 8.33% |
-| 281 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7) | 8.33% |
-| 282 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6) | 8.33% |
-| 283 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60) | 8.33% |
-| 284 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2) | 8.33% |
-| 285 | [Team Rainbow](https://ws.tsl.rocks/corp/4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84) | 8.33% |
-| 286 | [Furyan Corps\.](https://ws.tsl.rocks/corp/4f4b7c44626c8705524a8cdcc1681adc02582e657f1787ea7dbd665f3f4792e1) | 8.33% |
-| 287 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2) | 8.33% |
-| 288 | [testims](https://ws.tsl.rocks/corp/52f90541dd8cfd0a2b314cabb2c15a301471f7e968171dec0051bbf5372c4c4a) | 8.33% |
-| 289 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9) | 8.33% |
-| 290 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588) | 8.33% |
-| 291 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913) | 8.33% |
-| 292 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89) | 8.33% |
-| 293 | [Infinity](https://ws.tsl.rocks/corp/5e747ceba1d950ce8c20aeb9ab63df115fe777aaca6c33e4ba145b59919f6394) | 8.33% |
-| 294 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934) | 8.33% |
-| 295 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d) | 8.33% |
-| 296 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685) | 8.33% |
-| 297 | [WR104](https://ws.tsl.rocks/corp/64cf456d57e7210c360fc7bd9c494d191f5b1af85241a05a2c3364cede29e2a5) | 8.33% |
-| 298 | [The Killers](https://ws.tsl.rocks/corp/67cc028d0db771a5c889d615f9746561896830087b7b26ff3557a88e16c6b512) | 8.33% |
-| 299 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b) | 8.33% |
-| 300 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f) | 8.33% |
+| 256 | [testims](https://ws.tsl.rocks/corp/0566139abdeebaf89318c68c8d63f82a5782d57ea4b322d5dfbd78a1a557d48e) | 8.33% |
+| 257 | [Aeternae](https://ws.tsl.rocks/corp/05ad49bd809f330a794a7d0278a5e21b110b79ebb26ff8d28a25e8a2f1bcb7c8) | 8.33% |
+| 258 | [Space lover](https://ws.tsl.rocks/corp/05ae9e7fe28126b7508df0081f0d22db119cc2184a95e0c12e263272bbccc6b2) | 8.33% |
+| 259 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab) | 8.33% |
+| 260 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa) | 8.33% |
+| 261 | [Black Mirror Co](https://ws.tsl.rocks/corp/0f50fbb3940836c7065ddc39d09a4b6b286e8a3adb62ee5f46c3a4c9b74a759e) | 8.33% |
+| 262 | [G\.O\.D 星辰](https://ws.tsl.rocks/corp/10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a) | 8.33% |
+| 263 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f) | 8.33% |
+| 264 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed) | 8.33% |
+| 265 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d) | 8.33% |
+| 266 | [LOS DESTERRADOS](https://ws.tsl.rocks/corp/1d4e7036b8369f2ee8e5c2dda469c98a151f95026d458bc7ef7f154ff50d0127) | 8.33% |
+| 267 | [Небула Рока](https://ws.tsl.rocks/corp/22875f3ae77efabcd56b4683dee31b7e35d927cb86876f8f587b5f048dfe68f9) | 8.33% |
+| 268 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559) | 8.33% |
+| 269 | [우주미아](https://ws.tsl.rocks/corp/2e33086edccff7de82480157f7cfdec520a8472c46402842d4c88cb33b333ab3) | 8.33% |
+| 270 | [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc) | 8.33% |
+| 271 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7) | 8.33% |
+| 272 | [复生会](https://ws.tsl.rocks/corp/34d924857b79c9e7dbbefad09df43c3752d80cee3153852a2af3ac365ad5e0f9) | 8.33% |
+| 273 | [World Hoppers](https://ws.tsl.rocks/corp/36feb10eb95f4c6b184924f6db081bc4bf7aae6f7f5c633bd809ccf425303931) | 8.33% |
+| 274 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf) | 8.33% |
+| 275 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004) | 8.33% |
+| 276 | [风云集团](https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f) | 8.33% |
+| 277 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62) | 8.33% |
+| 278 | [United aurora](https://ws.tsl.rocks/corp/3f3996a7c9cea319017d3c8b8dba8de3d6f8fc4fb6c44148d043083db87b3050) | 8.33% |
+| 279 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7) | 8.33% |
+| 280 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6) | 8.33% |
+| 281 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60) | 8.33% |
+| 282 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2) | 8.33% |
+| 283 | [Team Rainbow](https://ws.tsl.rocks/corp/4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84) | 8.33% |
+| 284 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2) | 8.33% |
+| 285 | [testims](https://ws.tsl.rocks/corp/52f90541dd8cfd0a2b314cabb2c15a301471f7e968171dec0051bbf5372c4c4a) | 8.33% |
+| 286 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9) | 8.33% |
+| 287 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588) | 8.33% |
+| 288 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913) | 8.33% |
+| 289 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89) | 8.33% |
+| 290 | [Infinity](https://ws.tsl.rocks/corp/5e747ceba1d950ce8c20aeb9ab63df115fe777aaca6c33e4ba145b59919f6394) | 8.33% |
+| 291 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934) | 8.33% |
+| 292 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d) | 8.33% |
+| 293 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685) | 8.33% |
+| 294 | [WR104](https://ws.tsl.rocks/corp/64cf456d57e7210c360fc7bd9c494d191f5b1af85241a05a2c3364cede29e2a5) | 8.33% |
+| 295 | [The Killers](https://ws.tsl.rocks/corp/67cc028d0db771a5c889d615f9746561896830087b7b26ff3557a88e16c6b512) | 8.33% |
+| 296 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b) | 8.33% |
+| 297 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f) | 8.33% |
+| 298 | [WAATECH](https://ws.tsl.rocks/corp/6b60ddbd9b747814d2ac07cbadb1febf489814714f746dff140be654e430cc88) | 8.33% |
+| 299 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3) | 8.33% |
+| 300 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f) | 8.33% |

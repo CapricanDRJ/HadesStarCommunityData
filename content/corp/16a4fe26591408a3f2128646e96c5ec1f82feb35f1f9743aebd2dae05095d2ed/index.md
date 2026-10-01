@@ -1,9 +1,9 @@
 ---
 title: ​揽月宫
-description: W:17 L:9 D:0 Bonus ✅ 32%
+description: W:17 L:10 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **Highlife**
-date: 2026-09-26T01:57:27.000Z
+Summary: ❌ 15 - 19 **万星联盟**
+date: 2026-10-01T08:46:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,15 +25,15 @@ date: 2026-09-26T01:57:27.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔺  (3)|
-| ELO Competitive | 1394 🔺  (13)|
-| Total Matches | 26 |
+| ELO Regular | 1295 🔻  (-20)|
+| ELO Competitive | 1391 🔻  (-3)|
+| Total Matches | 27 |
 | Wins | 17 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789955847,1789484767,1789047334,1788596653,1779675032,1777953082,1732165436,1731669011,1731119691,1730991379,1730352527,1729911389,1729859099,1729345554,1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
+        let timestamps = [1790412407,1789955847,1789484767,1789047334,1788596653,1779675032,1777953082,1732165436,1731669011,1731119691,1730991379,1730352527,1729911389,1729859099,1729345554,1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 0 | 2 | 0 | 2 |
 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -150,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/01 | 15-19 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2026/09/26 | 15-0 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2026/09/20 | 4-16 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2026/09/15 | 15-1 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
@@ -183,5 +185,5 @@ Corporation ID: 16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790387847"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790844407"></span>
 </div>
