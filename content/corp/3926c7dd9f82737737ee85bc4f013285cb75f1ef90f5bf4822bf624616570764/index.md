@@ -1,6 +1,6 @@
 ---
 title: ​Любители Пива
-description: W:17 L:38 D:1 Bonus ✅ 42%
+description: W:17 L:38 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **BRhue**
 date: 2026-09-25T19:16:04.000Z
@@ -16,7 +16,7 @@ https://discord.gg/C3nffwQkCc
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

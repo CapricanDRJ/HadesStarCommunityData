@@ -1,6 +1,6 @@
 ---
 title: ​Mantle
-description: W:11 L:3 D:0 Bonus ✅ 32%
+description: W:11 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 20 - 0 **元素联邦**
 date: 2026-09-25T19:46:59.000Z
@@ -15,7 +15,7 @@ date: 2026-09-25T19:46:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

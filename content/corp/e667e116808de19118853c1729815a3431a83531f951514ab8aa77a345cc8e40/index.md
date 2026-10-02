@@ -1,6 +1,6 @@
 ---
 title: ​Highlife
-description: W:59 L:164 D:3 Bonus ✅ 48%
+description: W:59 L:164 D:3 Bonus ❌ 48%
 image: ./favicon.png
 Summary: ❌ 0 - 15 **揽月宫**
 date: 2026-09-26T01:57:27.000Z
@@ -18,7 +18,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 <br>
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 48%
 
 | Statistic | Value |
 | --- | --- |
