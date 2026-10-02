@@ -1,6 +1,6 @@
 ---
 title: ​Star Hunters
-description: W:12 L:17 D:2 Bonus ✅ 34%
+description: W:12 L:17 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **共联·世界**
 date: 2026-09-25T12:05:25.000Z
@@ -15,7 +15,7 @@ date: 2026-09-25T12:05:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
