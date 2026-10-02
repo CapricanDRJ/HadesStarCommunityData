@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KikiRisky11"
-description: "ws: 1 μ: 26.15"
+description: "ws: 2 μ: 24.15"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: 1.26
-- **μ**: 26.15  
-- **σ**: 8.30
-- W: 1, L: 0, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: -0.63
+- **μ**: 24.15  
+- **σ**: 8.26
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 1 μ: 26.15"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 1 |
+| [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 2 |
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 26.15"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-01 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 2-11 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-02-28 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 4-3 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
