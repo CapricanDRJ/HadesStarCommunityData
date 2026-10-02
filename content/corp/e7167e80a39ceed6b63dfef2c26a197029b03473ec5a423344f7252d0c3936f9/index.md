@@ -1,6 +1,6 @@
 ---
 title: ​亚马孙奶猫团
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:1 D:0 Bonus ❌ 1%
 image: ./favicon.png
 Summary: ❌ 0 - 3 **Новички**
 date: 2026-03-06T05:50:08.000Z
@@ -15,7 +15,7 @@ date: 2026-03-06T05:50:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

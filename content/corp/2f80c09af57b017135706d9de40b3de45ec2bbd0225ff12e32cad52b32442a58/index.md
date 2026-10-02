@@ -1,6 +1,6 @@
 ---
 title: ​哈迪斯作战训练营
-description: W:0 L:4 D:0 Bonus ❌ 
+description: W:0 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 23 **Red Dawn**
 date: 2026-01-07T03:19:25.000Z
@@ -15,7 +15,7 @@ date: 2026-01-07T03:19:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

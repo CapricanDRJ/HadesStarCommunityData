@@ -1,9 +1,9 @@
 ---
 title: ​Team Elite
-description: W:26 L:22 D:1 Bonus ✅ 50%
+description: W:27 L:22 D:1 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 33 - 1 **E\.T\.A**
-date: 2026-09-27T14:59:32.000Z
+Summary: ✅ 31 - 4 **Moon Catchers**
+date: 2026-10-02T16:34:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (12)|
-| ELO Competitive | 1584 🔺  (13)|
-| Total Matches | 49 |
-| Wins | 26 |
+| ELO Regular | 1353 🔺  (4)|
+| ELO Competitive | 1586 🔺  (2)|
+| Total Matches | 50 |
+| Wins | 27 |
 | Losses | 22 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 10 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790089172,1789641574,1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
+        let timestamps = [1790526871,1790089172,1789641574,1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/02 | 31-4 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | ✅ | 2026/09/27 | 33-1 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2026/09/22 | 34-3 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ✅ | 2026/09/17 | 26-3 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
@@ -203,5 +204,5 @@ Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790521172"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1790958871"></span>
 </div>

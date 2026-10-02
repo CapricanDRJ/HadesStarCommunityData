@@ -1,6 +1,6 @@
 ---
 title: ​何为真理
-description: W:30 L:26 D:2 Bonus ✅ 38%
+description: W:30 L:26 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **共联·世界**
 date: 2026-09-25T16:22:13.000Z
@@ -15,7 +15,7 @@ date: 2026-09-25T16:22:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

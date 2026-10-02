@@ -1,6 +1,6 @@
 ---
 title: ​Ainz ooal gown
-description: W:34 L:6 D:0 Bonus ✅ 38%
+description: W:34 L:6 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 19 **仙女座星雲**
 date: 2026-10-01T02:26:16.000Z
@@ -15,7 +15,7 @@ date: 2026-10-01T02:26:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
