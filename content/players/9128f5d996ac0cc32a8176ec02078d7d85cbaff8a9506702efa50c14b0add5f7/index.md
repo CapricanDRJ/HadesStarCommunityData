@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "time"
-description: "ws: 6 μ: 25.01"
+description: "ws: 7 μ: 24.62"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 6
-- **Rating**: 0.65
-- **μ**: 25.01  
-- **σ**: 8.12
-- W: 2, L: 4, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 7
+- **Rating**: 0.33
+- **μ**: 24.62  
+- **σ**: 8.10
+- W: 2, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 25.01"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6 |
+| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 25.01"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-02 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 4-16 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-05-15 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 15-3 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-03-27 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 25-3 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2025-09-01 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 3-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
