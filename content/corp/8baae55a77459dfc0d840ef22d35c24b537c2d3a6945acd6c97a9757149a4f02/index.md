@@ -1,6 +1,6 @@
 ---
 title: ​Space Potatoes
-description: W:26 L:3 D:0 Bonus ✅ 38%
+description: W:26 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 9 - 4 **imperio galacti**
 date: 2026-09-26T16:17:42.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T16:17:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

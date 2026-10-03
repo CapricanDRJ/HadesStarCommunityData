@@ -1,6 +1,6 @@
 ---
 title: ​Nearland Ind
-description: W:187 L:82 D:0 Bonus ✅ 58%
+description: W:187 L:82 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ✅ 13 - 6 **Stargate Corp**
 date: 2026-09-26T18:17:52.000Z
@@ -22,7 +22,7 @@ FS2 - Closed
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |
