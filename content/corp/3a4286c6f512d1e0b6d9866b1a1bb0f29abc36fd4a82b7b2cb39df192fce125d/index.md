@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mond
-description: W:157 L:130 D:1 Bonus ✅ 58%
+description: W:157 L:130 D:1 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ✅ 24 - 10 **Hellfire Club**
 date: 2026-09-26T10:52:11.000Z
@@ -18,7 +18,7 @@ s please register exclusively via our Discord bot 🙂
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

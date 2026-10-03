@@ -1,9 +1,9 @@
 ---
 title: ​生仔未必就系幅
-description: W:1 L:3 D:0 Bonus ❌ 5%
+description: W:1 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **共联·世界**
-date: 2026-08-10T12:55:09.000Z
+Summary: ❌ 0 - 8 **ༀᅗBAR ESTELARᅗༀ**
+date: 2026-10-03T12:41:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-10T12:55:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (-9)|
-| ELO Competitive | 1187 🔻  (-4)|
-| Total Matches | 4 |
+| ELO Regular | 1159 🔻  (-9)|
+| ELO Competitive | 1180 🔻  (-7)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785934509,1778832288,1778396303,1772949857];
+        let timestamps = [1790599268,1785934509,1778832288,1778396303,1772949857];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/03 | 0-8 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2026/08/10 | 0-10 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ✅ | 2026/05/20 | 3-0 | [bbb](https://ws.tsl.rocks/corp/1f15508677f70aea7f1052aa8c1261ff1e684ab8c08768f328226b30947abd24/) |
 | ❌ | 2026/05/15 | 0-3 | [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) |
@@ -145,5 +146,5 @@ Corporation ID: d087f782474b1b2a225621d23892285b3c3e5c90b0b88e3bb81c8cbb972d28f7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786366509"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791031268"></span>
 </div>

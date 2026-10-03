@@ -1,9 +1,9 @@
 ---
 title: ​ༀᅗBAR ESTELARᅗༀ
-description: W:18 L:16 D:0 Bonus ✅ 38%
+description: W:19 L:16 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 10 - 7 **九州·华夏**
-date: 2026-09-29T22:59:07.000Z
+Summary: ✅ 8 - 0 **生仔未必就系幅**
+date: 2026-10-03T12:41:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (11)|
-| ELO Competitive | 1391 🔺  (25)|
-| Total Matches | 34 |
-| Wins | 18 |
+| ELO Regular | 1326 🔺  (9)|
+| ELO Competitive | 1398 🔺  (7)|
+| Total Matches | 35 |
+| Wins | 19 |
 | Losses | 16 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 5 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790290747,1790152560,1789694443,1789613656,1789125745,1789097237,1788593920,1788225978,1787628709,1787060275,1787029333,1786590962,1786575402,1786032448,1785808036,1785500974,1784941269,1784152033,1783701690,1783167224,1782511095,1780724951,1721196977,1720461240,1719882723,1719248361,1718795480,1718337942,1717610294,1717607288,1704242492,1701895437,1701138068,1699737735];
+        let timestamps = [1790599268,1790290747,1790152560,1789694443,1789613656,1789125745,1789097237,1788593920,1788225978,1787628709,1787060275,1787029333,1786590962,1786575402,1786032448,1785808036,1785500974,1784941269,1784152033,1783701690,1783167224,1782511095,1780724951,1721196977,1720461240,1719882723,1719248361,1718795480,1718337942,1717610294,1717607288,1704242492,1701895437,1701138068,1699737735];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/03 | 8-0 | [生仔未必就系幅](https://ws.tsl.rocks/corp/d087f782474b1b2a225621d23892285b3c3e5c90b0b88e3bb81c8cbb972d28f7/) |
 | ✅ | 2026/09/29 | 10-7 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2026/09/28 | 3-14 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ✅ | 2026/09/23 | 19-0 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
@@ -184,5 +186,5 @@ Corporation ID: 874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790722747"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791031268"></span>
 </div>

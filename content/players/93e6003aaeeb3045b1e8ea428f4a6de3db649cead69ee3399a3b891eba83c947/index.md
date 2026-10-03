@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Fallen Hero"
-description: "ws: 19 μ: 29.49"
+description: "ws: 20 μ: 30.04"
 ---
-- **WhiteStars**: 19
-- **Eligible**: 10
-- **Rating**: 5.53
-- **μ**: 29.49  
-- **σ**: 7.99
-- W: 16, L: 3, T: 0
+- **WhiteStars**: 20
+- **Eligible**: 11
+- **Rating**: 6.17
+- **μ**: 30.04  
+- **σ**: 7.96
+- W: 17, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 19 μ: 29.49"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 9 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 10 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 19 μ: 29.49"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-03 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 16-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | 2026-09-26 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 20-0 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | 2026-09-19 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 4-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | 2026-09-12 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 35-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |

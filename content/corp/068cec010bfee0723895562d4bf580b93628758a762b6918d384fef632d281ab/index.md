@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:109 L:65 D:2 Bonus ✅ 54%
+description: W:109 L:65 D:2 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 33 - 5 **Dumpster Fire**
 date: 2026-09-26T11:22:14.000Z
@@ -16,7 +16,7 @@ date: 2026-09-26T11:22:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

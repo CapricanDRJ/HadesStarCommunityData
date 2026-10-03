@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "..  КОЛБАСКА  .."
-description: "ws: 6 μ: 26.67"
+description: "ws: 7 μ: 27.14"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 4
-- **Rating**: 2.10
-- **μ**: 26.67  
-- **σ**: 8.19
-- W: 4, L: 2, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 5
+- **Rating**: 2.68
+- **μ**: 27.14  
+- **σ**: 8.16
+- W: 5, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 26.67"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 4 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 26.67"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-03 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 16-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | 2026-09-26 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 20-0 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | 2026-08-22 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 22-3 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
 | 2026-08-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 0-9 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Dekxn"
-description: "ws: 8 μ: 22.69"
+description: "ws: 9 μ: 23.78"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 3
-- **Rating**: -1.98
-- **μ**: 22.69  
-- **σ**: 8.22
-- W: 1, L: 7, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 4
+- **Rating**: -0.79
+- **μ**: 23.78  
+- **σ**: 8.19
+- W: 2, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 22.69"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 3 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 22.69"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-03 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 16-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | 2026-09-26 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 20-0 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | 2026-08-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 0-9 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | 2026-07-29 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 0-71 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |

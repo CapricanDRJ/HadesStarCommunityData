@@ -1,6 +1,6 @@
 ---
 title: ​pirates spatial
-description: W:171 L:98 D:0 Bonus ✅ 56%
+description: W:171 L:98 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 30 - 0 **Dark Monarchs**
 date: 2026-09-26T10:52:11.000Z
@@ -21,7 +21,7 @@ https://discord.gg/wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
