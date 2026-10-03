@@ -1,6 +1,6 @@
 ---
 title: ​揽月宫
-description: W:17 L:10 D:0 Bonus ✅ 34%
+description: W:17 L:10 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 15 - 19 **万星联盟**
 date: 2026-10-01T08:46:47.000Z
@@ -25,7 +25,7 @@ date: 2026-10-01T08:46:47.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
