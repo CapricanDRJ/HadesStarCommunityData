@@ -1,6 +1,6 @@
 ---
 title: ​вавилон 5
-description: W:13 L:10 D:1 Bonus ❌ 
+description: W:13 L:10 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 10 **HIGH COMMAND**
 date: 2026-04-17T10:38:39.000Z
@@ -15,7 +15,7 @@ date: 2026-04-17T10:38:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

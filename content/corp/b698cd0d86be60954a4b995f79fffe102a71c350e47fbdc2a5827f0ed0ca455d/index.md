@@ -1,6 +1,6 @@
 ---
 title: ​Stargate Corp
-description: W:191 L:74 D:1 Bonus ✅ 58%
+description: W:191 L:74 D:1 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 6 - 13 **Nearland Ind**
 date: 2026-09-26T18:17:52.000Z
@@ -18,7 +18,7 @@ ter guesting RS runs<br><br>Discord mandatory to join!
 <br>
 
 ### [Discord](https://discord.gg/sXxSq4KUmm)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

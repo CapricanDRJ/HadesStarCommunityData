@@ -1,6 +1,6 @@
 ---
 title: ​Dominion
-description: W:16 L:11 D:2 Bonus ❌ 
+description: W:16 L:11 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 20 **Spanish Fury**
 date: 2026-07-07T07:04:17.000Z
@@ -15,7 +15,7 @@ date: 2026-07-07T07:04:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

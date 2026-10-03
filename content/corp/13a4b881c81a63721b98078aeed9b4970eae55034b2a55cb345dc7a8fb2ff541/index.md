@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:70 L:39 D:2 Bonus ✅ 44%
+description: W:70 L:39 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 20 **DOMOVINA**
 date: 2026-09-26T16:47:44.000Z
@@ -17,7 +17,7 @@ date: 2026-09-26T16:47:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​alienigenas
-description: W:63 L:16 D:0 Bonus ✅ 48%
+description: W:63 L:16 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 32 - 14 **UKR Spase**
 date: 2026-09-26T13:52:28.000Z
@@ -20,7 +20,7 @@ guna actividad con los demas compañeros
 <br>
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

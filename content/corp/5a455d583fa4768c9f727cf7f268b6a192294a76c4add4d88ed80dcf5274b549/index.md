@@ -1,6 +1,6 @@
 ---
 title: ​НасРатЬ
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
 Summary: ↔️ 1 - 1 **Dominion**
 date: 2026-06-06T04:12:20.000Z
@@ -15,7 +15,7 @@ date: 2026-06-06T04:12:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​美丽新世界
-description: W:0 L:3 D:0 Bonus ❌ 7%
+description: W:0 L:4 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **E\.T\.A**
-date: 2024-04-09T06:24:56.000Z
+Summary: ❌ 0 - 1 **GermanSpaceDuo**
+date: 2026-10-03T13:55:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2024-04-09T06:24:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (-20)|
-| ELO Competitive | 1158 🔻  (-15)|
-| Total Matches | 3 |
+| ELO Regular | 1134 🔻  (-19)|
+| ELO Competitive | 1141 🔻  (-17)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1712211896,1707250437,1705856247];
+        let timestamps = [1790603721,1712211896,1707250437,1705856247];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/03 | 0-1 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ❌ | 2024/04/09 | 0-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2024/02/11 | 0-10 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ❌ | 2024/01/26 | 0-23 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
@@ -145,5 +146,5 @@ Corporation ID: 237f60ced9a11f8d992fe2158784705710b2ff412544679b218d86ef44d230ef
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1712643896"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791035721"></span>
 </div>

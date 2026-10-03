@@ -1,6 +1,6 @@
 ---
 title: ​On en a Gros !
-description: W:93 L:94 D:0 Bonus ✅ 54%
+description: W:93 L:94 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **Grunthal Gang**
 date: 2026-09-26T12:57:22.000Z
@@ -21,7 +21,7 @@ Corpo des alts : On en a petit !
 <br>
 
 ### [Discord](https://discord.gg/EXj5vtr)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

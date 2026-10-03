@@ -1,6 +1,6 @@
 ---
 title: ​Polaris Corpo
-description: W:53 L:43 D:0 Bonus ✅ 44%
+description: W:53 L:43 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 33 - 6 **Deadspace**
 date: 2026-09-26T15:32:39.000Z
@@ -21,7 +21,7 @@ date: 2026-09-26T15:32:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

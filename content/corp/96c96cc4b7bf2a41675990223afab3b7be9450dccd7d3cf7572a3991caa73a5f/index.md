@@ -1,6 +1,6 @@
 ---
 title: ​Austria
-description: W:32 L:22 D:0 Bonus ✅ 52%
+description: W:32 L:22 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 33 - 0 **imperio galacti**
 date: 2026-09-26T13:37:27.000Z
@@ -22,7 +22,7 @@ UmWZYtn9Hh
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
