@@ -1,6 +1,6 @@
 ---
 title: ​IX Легион
-description: W:238 L:56 D:0 Bonus ✅ 60%
+description: W:238 L:56 D:0 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ❌ 5 - 11 **СОЮЗ**
 date: 2026-09-26T08:37:02.000Z
@@ -20,7 +20,7 @@ gy
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

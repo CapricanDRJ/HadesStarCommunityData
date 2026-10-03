@@ -1,6 +1,6 @@
 ---
 title: ​白虹贯日
-description: W:18 L:5 D:0 Bonus ✅ 36%
+description: W:18 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **CORPORATION**
 date: 2026-09-26T04:06:43.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T04:06:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

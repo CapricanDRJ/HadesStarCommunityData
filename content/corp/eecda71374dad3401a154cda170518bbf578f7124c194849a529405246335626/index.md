@@ -1,6 +1,6 @@
 ---
 title: ​深域
-description: W:108 L:21 D:2 Bonus ✅ 50%
+description: W:108 L:21 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 3 - 16 **lonewolf**
 date: 2026-10-02T05:58:36.000Z
@@ -15,7 +15,7 @@ date: 2026-10-02T05:58:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Space Dragons
-description: W:37 L:40 D:2 Bonus ✅ 40%
+description: W:37 L:40 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 21 - 1 **太阳系联邦**
 date: 2026-09-26T04:36:45.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T04:36:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "глион1001"
-description: "ws: 2 μ: 24.42"
+description: "ws: 3 μ: 24.42"
 ---
-- **WhiteStars**: 2
+- **WhiteStars**: 3
 - **Eligible**: 1
 - **Rating**: -0.47
 - **μ**: 24.42  
 - **σ**: 8.30
-- W: 0, L: 2, T: 0
+- W: 0, L: 3, T: 0
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 24.42"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-03 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 0-29 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-08-29 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 0-31 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-03-28 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 3-18 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
