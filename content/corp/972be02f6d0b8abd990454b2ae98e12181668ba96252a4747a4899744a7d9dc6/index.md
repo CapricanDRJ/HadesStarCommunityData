@@ -1,9 +1,9 @@
 ---
 title: ​Новички
-description: W:12 L:8 D:0 Bonus ❌ 6%
+description: W:12 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 15 **Quantum Mass**
-date: 2026-09-27T02:38:36.000Z
+Summary: ❌ 0 - 4 **The Bois**
+date: 2026-10-03T08:20:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-27T02:38:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (-14)|
-| ELO Competitive | 1234 🔻  (-13)|
-| Total Matches | 20 |
+| ELO Regular | 1201 🔻  (-16)|
+| ELO Competitive | 1218 🔻  (-17)|
+| Total Matches | 21 |
 | Wins | 12 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790044716,1788920983,1785898296,1782988995,1774815606,1774122633,1773476209,1773023763,1772344208,1770617592,1770104749,1769264621,1768364145,1767446259,1746013215,1745561007,1745085617,1741691264,1741004942,1739884940];
+        let timestamps = [1790583648,1790044716,1788920983,1785898296,1782988995,1774815606,1774122633,1773476209,1773023763,1772344208,1770617592,1770104749,1769264621,1768364145,1767446259,1746013215,1745561007,1745085617,1741691264,1741004942,1739884940];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/03 | 0-4 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/09/27 | 0-15 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/09/14 | 0-14 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ❌ | 2026/08/10 | 2-15 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
@@ -167,5 +168,5 @@ Corporation ID: 972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790476716"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791015648"></span>
 </div>

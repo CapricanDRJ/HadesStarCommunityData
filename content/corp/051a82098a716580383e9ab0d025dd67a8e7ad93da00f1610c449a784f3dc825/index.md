@@ -1,6 +1,6 @@
 ---
 title: ​RELAX CZ/SK
-description: W:154 L:140 D:1 Bonus ✅ 52%
+description: W:154 L:140 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 25 - 13 **SNSS**
 date: 2026-09-26T07:56:59.000Z
@@ -17,7 +17,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 <br>
 
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
