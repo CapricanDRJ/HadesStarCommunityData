@@ -1,6 +1,6 @@
 ---
 title: ​Knights of Solo
-description: W:7 L:9 D:2 Bonus ✅ 32%
+description: W:7 L:9 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **GermanSpaceDuo**
 date: 2026-09-26T22:13:18.000Z
@@ -15,7 +15,7 @@ date: 2026-09-26T22:13:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​太空的猫
-description: W:12 L:13 D:0 Bonus ✅ 34%
+description: W:12 L:14 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **地球联合**
-date: 2026-09-27T15:07:37.000Z
+Summary: ❌ 3 - 18 **STAR TERROR CZ**
+date: 2026-10-04T00:32:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-27T15:07:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (20)|
-| ELO Competitive | 1372 🔺  (20)|
-| Total Matches | 25 |
+| ELO Regular | 1215 🔻  (-10)|
+| ELO Competitive | 1366 🔻  (-6)|
+| Total Matches | 26 |
 | Wins | 12 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
+        let timestamps = [1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/04 | 3-18 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/09/27 | 1-0 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ❌ | 2026/09/26 | 0-12 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2026/09/22 | 0-32 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) |
@@ -174,5 +175,5 @@ Corporation ID: f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790521657"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791073929"></span>
 </div>

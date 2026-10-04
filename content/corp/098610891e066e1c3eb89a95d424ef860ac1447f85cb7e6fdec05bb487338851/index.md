@@ -1,9 +1,9 @@
 ---
 title: ​我是沙碧
-description: W:6 L:5 D:1 Bonus ❌ 5%
+description: W:6 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **The Bois**
-date: 2026-09-17T07:44:17.000Z
+Summary: ❌ 0 - 9 **Quantum Mass**
+date: 2026-10-03T22:22:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-17T07:44:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (-15)|
-| ELO Competitive | 1219 🔻  (-16)|
-| Total Matches | 12 |
+| ELO Regular | 1184 🔻  (-11)|
+| ELO Competitive | 1208 🔻  (-11)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789199057,1788280949,1787298223,1786679289,1786208499,1785706484,1785239768,1784771538,1784269822,1783785932,1783277784,1782569075];
+        let timestamps = [1790634121,1789199057,1788280949,1787298223,1786679289,1786208499,1785706484,1785239768,1784771538,1784269822,1783785932,1783277784,1782569075];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/03 | 0-9 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/09/17 | 0-4 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/09/06 | 2-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/08/26 | 1-5 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
@@ -154,5 +155,5 @@ Corporation ID: 098610891e066e1c3eb89a95d424ef860ac1447f85cb7e6fdec05bb487338851
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789631057"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791066121"></span>
 </div>
