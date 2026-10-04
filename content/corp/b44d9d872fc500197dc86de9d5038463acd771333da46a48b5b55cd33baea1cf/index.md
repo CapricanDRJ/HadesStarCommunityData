@@ -1,6 +1,6 @@
 ---
 title: ​阿尔特拉集团
-description: W:45 L:57 D:7 Bonus ✅ 40%
+description: W:45 L:57 D:7 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **红日初升，其道大光**
 date: 2026-09-27T14:59:32.000Z
@@ -21,7 +21,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

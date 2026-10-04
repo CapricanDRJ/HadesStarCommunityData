@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:117 L:124 D:3 Bonus ❌ 54%
+description: W:117 L:124 D:3 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 8 - 6 **Hand Of NOD\!**
 date: 2026-09-27T12:49:20.000Z
@@ -17,7 +17,7 @@ date: 2026-09-27T12:49:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

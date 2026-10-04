@@ -1,9 +1,9 @@
 ---
 title: ​Wolf - Star
-description: W:5 L:0 D:0 Bonus ✅ 30%
+description: W:6 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 9 - 0 **红色太阳**
-date: 2026-10-04T05:22:28.000Z
+Summary: ✅ 3 - 0 **Bunker**
+date: 2026-10-04T13:34:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-10-04T05:22:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (16)|
+| ELO Regular | 1271 🔺  (9)|
 | ELO Competitive | 1299 🔺  (27)|
-| Total Matches | 5 |
-| Wins | 5 |
+| Total Matches | 6 |
+| Wins | 6 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790659348,1790078657,1789471694,1788941880,1788509225];
+        let timestamps = [1790688881,1790659348,1790078657,1789471694,1788941880,1788509225];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/04 | 3-0 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2026/10/04 | 9-0 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) |
 | ✅ | 2026/09/27 | 8-0 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
 | ✅ | 2026/09/20 | 9-2 | [Ordo Malleus](https://ws.tsl.rocks/corp/07c83a89ba8d4165f71961ebd88351c19ebe3da1688e4fd36b132975883ab794/) |
@@ -148,5 +149,5 @@ Corporation ID: 844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791091348"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791120881"></span>
 </div>

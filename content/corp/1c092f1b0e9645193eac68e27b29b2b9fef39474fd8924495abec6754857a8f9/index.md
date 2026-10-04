@@ -1,9 +1,9 @@
 ---
 title: ​alienigenas
-description: W:63 L:16 D:0 Bonus ❌ 14%
+description: W:64 L:16 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 32 - 14 **UKR Spase**
-date: 2026-09-26T13:52:28.000Z
+Summary: ✅ 10 - 6 **Hinterm Mars**
+date: 2026-10-04T15:08:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ guna actividad con los demas compañeros
 <br>
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1505 🔺  (8)|
-| ELO Competitive | 1790 🔺  (11)|
-| Total Matches | 79 |
-| Wins | 63 |
+| ELO Regular | 1513 🔺  (8)|
+| ELO Competitive | 1804 🔺  (14)|
+| Total Matches | 80 |
+| Wins | 64 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 17 |
 | Flagship | 6 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789998748,1789394049,1788790152,1788269832,1786974951,1785857602,1785857602,1785166586,1784647757,1784063170,1783432508,1782225054,1781269620,1781019364,1779802937,1778597528,1778595725,1777879174,1776178991,1776177188,1775466041,1774968217,1773815407,1773762833,1772546705,1771908569,1771337450,1770044354,1768919087,1768224731,1767632855,1766945722,1766502558,1765816025,1765293240,1764087424,1764085921,1763390090,1761662794,1760882078,1760443411,1759239126,1759239126,1758459753,1757944115,1756816501,1756050477,1754401669,1754399265,1753622515,1753102370,1751977974,1751954840,1751214756,1750693125,1749557795,1748783434,1748268704,1747140931,1746373769,1743954509,1741531107,1740323400,1739111460,1737904317,1737288596,1736701071,1729431503,1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
+        let timestamps = [1790694493,1789998748,1789394049,1788790152,1788269832,1786974951,1785857602,1785857602,1785166586,1784647757,1784063170,1783432508,1782225054,1781269620,1781019364,1779802937,1778597528,1778595725,1777879174,1776178991,1776177188,1775466041,1774968217,1773815407,1773762833,1772546705,1771908569,1771337450,1770044354,1768919087,1768224731,1767632855,1766945722,1766502558,1765816025,1765293240,1764087424,1764085921,1763390090,1761662794,1760882078,1760443411,1759239126,1759239126,1758459753,1757944115,1756816501,1756050477,1754401669,1754399265,1753622515,1753102370,1751977974,1751954840,1751214756,1750693125,1749557795,1748783434,1748268704,1747140931,1746373769,1743954509,1741531107,1740323400,1739111460,1737904317,1737288596,1736701071,1729431503,1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 3 | 0 | 0 | 3 |
 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 2 | 0 | 0 | 2 |
 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 1 | 1 | 0 | 2 |
 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) | 2 | 0 | 0 | 2 |
@@ -150,7 +151,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 2 | 0 | 0 | 2 |
 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) | 2 | 0 | 0 | 2 |
 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) | 2 | 0 | 0 | 2 |
-| [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 0 | 0 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 1 | 1 | 0 | 2 |
 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) | 1 | 1 | 0 | 2 |
 
@@ -159,6 +159,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/04 | 10-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2026/09/26 | 32-14 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ✅ | 2026/09/19 | 39-18 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2026/09/12 | 15-17 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
@@ -245,5 +246,5 @@ Corporation ID: 1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790430748"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791126493"></span>
 </div>
