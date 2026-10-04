@@ -1,6 +1,6 @@
 ---
 title: ​СССР
-description: W:169 L:70 D:2 Bonus ✅ 56%
+description: W:169 L:70 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 9 - 4 **Fleet Corp Ares**
 date: 2026-09-27T03:33:40.000Z
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 <br>
 
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​NEW HOLLAND
-description: W:1 L:9 D:1 Bonus ❌ 4%
+description: W:1 L:10 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **欢迎新手**
-date: 2026-09-25T04:24:49.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-10-04T01:17:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2026-09-25T04:24:49.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (-14)|
-| ELO Competitive | 1127 🔻  (-12)|
-| Total Matches | 11 |
+| ELO Regular | 1101 🔻  (-1)|
+| ELO Competitive | 1127 🔻  (0)|
+| Total Matches | 12 |
 | Wins | 1 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789878289,1708353058,1707733226,1706289884,1705608921,1704348868,1702854364,1702564451,1702074859,1701897843,1701597590];
+        let timestamps = [1790644677,1789878289,1708353058,1707733226,1706289884,1705608921,1704348868,1702854364,1702564451,1702074859,1701897843,1701597590];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/04 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/09/25 | 0-3 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ❌ | 2024/02/24 | 1-11 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/02/17 | 0-11 | [a超越®/a光速℡](https://ws.tsl.rocks/corp/771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/) |
@@ -153,5 +154,5 @@ Corporation ID: b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790310289"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791076677"></span>
 </div>
