@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Mythical Hot-Dog"
-description: "ws: 20 μ: 27.83"
+description: "ws: 21 μ: 25.71"
 ---
-- **WhiteStars**: 20
-- **Eligible**: 20
-- **Rating**: 4.79
-- **μ**: 27.83  
-- **σ**: 7.68
-- W: 12, L: 8, T: 0
+- **WhiteStars**: 21
+- **Eligible**: 21
+- **Rating**: 2.75
+- **μ**: 25.71  
+- **σ**: 7.65
+- W: 12, L: 9, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 20 μ: 27.83"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 20 |
+| [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 20 μ: 27.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-04 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 4-22 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-10-20 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 4-9 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) |
 | 2025-10-12 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 10-21 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | 2025-10-06 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 2-40 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |

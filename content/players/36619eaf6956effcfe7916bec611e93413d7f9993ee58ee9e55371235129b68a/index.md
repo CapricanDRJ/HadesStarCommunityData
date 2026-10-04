@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "TRAN"
-description: "ws: 5 μ: 23.13"
+description: "ws: 6 μ: 24.58"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 4
-- **Rating**: -1.53
-- **μ**: 23.13  
-- **σ**: 8.22
-- W: 1, L: 4, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 5
+- **Rating**: 0.00
+- **μ**: 24.58  
+- **σ**: 8.19
+- W: 1, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 23.13"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 4 |
+| [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 23.13"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-04 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 3-17 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-09-20 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 3-38 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2025-08-10 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 16-46 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | 2025-08-01 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 19-0 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
