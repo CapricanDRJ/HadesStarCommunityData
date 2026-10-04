@@ -1,9 +1,9 @@
 ---
 title: ​Austria
-description: W:32 L:23 D:0 Bonus ❌ 16%
+description: W:33 L:23 D:0 Bonus ✅ 52%
 image: ./favicon.png
-Summary: ❌ 10 - 30 **Слава Украине\!**
-date: 2026-10-04T06:32:33.000Z
+Summary: ✅ 38 - 0 **Z\. O\. V\.**
+date: 2026-10-04T08:47:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ UmWZYtn9Hh
 ```
 <br>
 
-### Whitestar Bonus ❌ 16%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔻  (-13)|
-| ELO Competitive | 1566 🔻  (-4)|
-| Total Matches | 55 |
-| Wins | 32 |
+| ELO Regular | 1353 🔺  (16)|
+| ELO Competitive | 1594 🔺  (24)|
+| Total Matches | 56 |
+| Wins | 33 |
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790663553,1789997847,1789973515,1789374825,1789370921,1788776029,1788772123,1788243097,1788243097,1787554793,1787554793,1786960830,1786958427,1786362329,1786343703,1785818550,1785818549,1785140747,1784538397,1784534493,1783930912,1783924003,1783403068,1783402468,1782727097,1782715682,1782112982,1782109978,1781582982,1781507567,1780990221,1780986917,1780300770,1780298968,1779699278,1779690865,1779110363,1779089030,1778568688,1778566585,1777883980,1777271396,1776331607,1776142641,1775457329,1774769624,1773724677,1772446063,1771307708,1769422967,1768512573,1701034685,1700430580,1699826714,1699137877];
+        let timestamps = [1790671662,1790663553,1789997847,1789973515,1789374825,1789370921,1788776029,1788772123,1788243097,1788243097,1787554793,1787554793,1786960830,1786958427,1786362329,1786343703,1785818550,1785818549,1785140747,1784538397,1784534493,1783930912,1783924003,1783403068,1783402468,1782727097,1782715682,1782112982,1782109978,1781582982,1781507567,1780990221,1780986917,1780300770,1780298968,1779699278,1779690865,1779110363,1779089030,1778568688,1778566585,1777883980,1777271396,1776331607,1776142641,1775457329,1774769624,1773724677,1772446063,1771307708,1769422967,1768512573,1701034685,1700430580,1699826714,1699137877];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/04 | 38-0 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2026/10/04 | 10-30 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2026/09/26 | 33-0 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2026/09/26 | 5-28 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
@@ -211,5 +212,5 @@ Corporation ID: 96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791095553"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791103662"></span>
 </div>

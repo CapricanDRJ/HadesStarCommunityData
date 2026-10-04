@@ -1,9 +1,9 @@
 ---
 title: ​Yishun CC
-description: W:8 L:9 D:0 Bonus ❌ 15%
+description: W:9 L:9 D:0 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **自由之地**
-date: 2026-07-19T13:54:19.000Z
+Summary: ✅ 22 - 17 **DOMOVINA**
+date: 2026-10-04T07:19:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-07-19T13:54:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-14)|
-| ELO Competitive | 1274 🔻  (-2)|
-| Total Matches | 17 |
-| Wins | 8 |
+| ELO Regular | 1213 🔺  (28)|
+| ELO Competitive | 1303 🔺  (29)|
+| Total Matches | 18 |
+| Wins | 9 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1784037259,1784037259,1783529233,1783517827,1783031141,1783030840,1782567232,1782555253,1781890033,1781878425,1781000434,1780999833,1780285452,1780282148,1779836893,1779826377,1744339446];
+        let timestamps = [1790666397,1784037259,1784037259,1783529233,1783517827,1783031141,1783030840,1782567232,1782555253,1781890033,1781878425,1781000434,1780999833,1780285452,1780282148,1779836893,1779826377,1744339446];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/04 | 22-17 | [DOMOVINA](https://ws.tsl.rocks/corp/00af6c9318ddf16a1bb684310776fee9681a22f01c1649941b799556a0bb6fb6/) |
 | ❌ | 2026/07/19 | 0-18 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ❌ | 2026/07/19 | 0-31 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ❌ | 2026/07/13 | 0-25 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
@@ -164,5 +165,5 @@ Corporation ID: 74e61ec5d74099cf9d2b44f45371203030d742671222f17f41300dc23594599b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1784469259"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791098397"></span>
 </div>

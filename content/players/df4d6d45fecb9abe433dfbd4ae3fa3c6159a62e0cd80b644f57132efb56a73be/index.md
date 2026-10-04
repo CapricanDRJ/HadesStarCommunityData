@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Ƭʀιƈӄʏ Ф ᴛɛʀʀօƦ"
-description: "ws: 17 μ: 27.91"
+description: "ws: 18 μ: 26.92"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 11
-- **Rating**: 4.04
-- **μ**: 27.91  
-- **σ**: 7.96
-- W: 11, L: 6, T: 0
+- **WhiteStars**: 18
+- **Eligible**: 12
+- **Rating**: 3.16
+- **μ**: 26.92  
+- **σ**: 7.92
+- W: 12, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 27.91"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 11 |
+| [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 12 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 27.91"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-04 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 20-3 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2025-12-13 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 62-0 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2025-10-18 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 0-32 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | 2025-10-05 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1-31 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

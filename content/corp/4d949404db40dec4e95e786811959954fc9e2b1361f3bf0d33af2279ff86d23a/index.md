@@ -1,9 +1,9 @@
 ---
 title: ​Out landers
-description: W:19 L:21 D:1 Bonus ❌ 8%
+description: W:19 L:22 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 21 **VoidRunners**
-date: 2026-07-09T02:32:56.000Z
+Summary: ❌ 1 - 26 **Z\. O\. V\.**
+date: 2026-10-04T08:27:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ latively active. Discord not required but recommended.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (-22)|
-| ELO Competitive | 1322 🔻  (-8)|
-| Total Matches | 41 |
+| ELO Regular | 1204 🔻  (-9)|
+| ELO Competitive | 1321 🔻  (-2)|
+| Total Matches | 42 |
 | Wins | 19 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1783132376,1773759528,1772603783,1771010869,1769255604,1768286326,1767722078,1766176260,1764381594,1763456188,1761883022,1761065134,1758494313,1753190716,1750520598,1748278923,1746415538,1745091929,1737587897,1734401365,1729419481,1725061572,1723992659,1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
+        let timestamps = [1790670461,1783132376,1773759528,1772603783,1771010869,1769255604,1768286326,1767722078,1766176260,1764381594,1763456188,1761883022,1761065134,1758494313,1753190716,1750520598,1748278923,1746415538,1745091929,1737587897,1734401365,1729419481,1725061572,1723992659,1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/04 | 1-26 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2026/07/09 | 0-21 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2026/03/22 | 9-28 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ❌ | 2026/03/09 | 7-17 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
@@ -194,5 +195,5 @@ Corporation ID: 4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1783564376"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791102461"></span>
 </div>

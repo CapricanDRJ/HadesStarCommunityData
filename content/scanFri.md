@@ -2,7 +2,7 @@
 layout: page
 title: Scanning Friday
 description: Probability a Hades' Star corporation is scanning Friday
-date: 2026-10-04T06:55:29.951Z
+date: 2026-10-04T09:55:30.380Z
 permalink: /fri/
 searchHidden: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:93 L:84 D:3 Bonus ✅ 50%
+description: W:93 L:84 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 8 - 9 **BRASIL ACADEMY**
 date: 2026-10-04T05:27:29.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T05:27:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
