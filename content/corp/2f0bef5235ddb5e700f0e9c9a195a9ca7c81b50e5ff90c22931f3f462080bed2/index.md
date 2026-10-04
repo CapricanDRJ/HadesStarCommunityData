@@ -1,6 +1,6 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:63 L:36 D:0 Bonus ✅ 44%
+description: W:63 L:36 D:0 Bonus ✅ 46%
 image: ./favicon.png
 Summary: ✅ 6 - 3 **Galactic Empire**
 date: 2026-10-04T03:50:32.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T03:50:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

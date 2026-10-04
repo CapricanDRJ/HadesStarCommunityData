@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Георгиевич"
-description: "ws: 28 μ: 26.22"
+description: "ws: 29 μ: 26.79"
 ---
-- **WhiteStars**: 28
-- **Eligible**: 25
-- **Rating**: 3.58
-- **μ**: 26.22  
-- **σ**: 7.55
-- W: 19, L: 9, T: 0
+- **WhiteStars**: 29
+- **Eligible**: 26
+- **Rating**: 4.23
+- **μ**: 26.79  
+- **σ**: 7.52
+- W: 20, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 28 μ: 26.22"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 25 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 26 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 28 μ: 26.22"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-04 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 23-7 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-09-19 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 9-19 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-04-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 22-3 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2026-03-15 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 6-24 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |

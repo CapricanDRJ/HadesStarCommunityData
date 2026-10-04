@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Freddy 71"
-description: "ws: 4 μ: 26.52"
+description: "ws: 5 μ: 25.69"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 3
-- **Rating**: 1.82
-- **μ**: 26.52  
-- **σ**: 8.24
-- W: 2, L: 2, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 4
+- **Rating**: 1.10
+- **μ**: 25.69  
+- **σ**: 8.20
+- W: 2, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 4 μ: 26.52"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 3 |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 4 μ: 26.52"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-04 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 25-27 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-09-12 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 31-14 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-06-20 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 0-17 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-05-23 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 19-15 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
