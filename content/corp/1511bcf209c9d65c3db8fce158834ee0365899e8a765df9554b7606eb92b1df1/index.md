@@ -1,6 +1,6 @@
 ---
 title: ​太阳系联邦
-description: W:11 L:26 D:0 Bonus ✅ 36%
+description: W:11 L:26 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **The Bois**
 date: 2026-09-27T20:29:04.000Z
@@ -15,7 +15,7 @@ date: 2026-09-27T20:29:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

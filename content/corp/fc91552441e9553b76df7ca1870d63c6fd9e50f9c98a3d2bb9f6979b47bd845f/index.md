@@ -1,9 +1,9 @@
 ---
 title: ​the heavy
-description: W:29 L:21 D:0 Bonus ❌ 11%
+description: W:30 L:21 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 1 - 26 **Likapa**
-date: 2026-08-10T14:05:14.000Z
+Summary: ✅ 26 - 4 **UAGC**
+date: 2026-10-04T21:33:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 <br>
 
 ### [Discord](https://discord.gg/6vgrePN)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔻  (-1)|
-| ELO Competitive | 1469 🔻  (0)|
-| Total Matches | 50 |
-| Wins | 29 |
+| ELO Regular | 1305 🔺  (17)|
+| ELO Competitive | 1497 🔺  (28)|
+| Total Matches | 51 |
+| Wins | 30 |
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785938714,1783896969,1778441614,1776035391,1768890546,1767020826,1765743024,1762112579,1747611513,1744938628,1744906813,1744003493,1740990821,1740302062,1739135209,1737885379,1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
+        let timestamps = [1790717630,1785938714,1783896969,1778441614,1776035391,1768890546,1767020826,1765743024,1762112579,1747611513,1744938628,1744906813,1744003493,1740990821,1740302062,1739135209,1737885379,1736695659,1734252324,1733048909,1732443391,1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 1 | 1 | 0 | 2 |
 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) | 1 | 1 | 0 | 2 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1 | 1 | 0 | 2 |
 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 4 | 2 | 0 | 6 |
@@ -154,6 +155,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/04 | 26-4 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2026/08/10 | 1-26 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2026/07/17 | 26-6 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ❌ | 2026/05/15 | 7-29 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
@@ -211,5 +213,5 @@ Corporation ID: fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786370714"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791149630"></span>
 </div>

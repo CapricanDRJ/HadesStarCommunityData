@@ -1,6 +1,6 @@
 ---
 title: ​Spacefleet
-description: W:122 L:120 D:2 Bonus ✅ 56%
+description: W:122 L:120 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 11 - 20 **BlackStar Order**
 date: 2026-09-28T14:36:30.000Z
@@ -23,7 +23,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

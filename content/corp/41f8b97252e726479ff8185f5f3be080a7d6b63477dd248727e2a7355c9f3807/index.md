@@ -1,9 +1,9 @@
 ---
 title: ​Space Catz
-description: W:19 L:6 D:1 Bonus ✅ 36%
+description: W:19 L:7 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **甜甜圈**
-date: 2026-09-29T04:07:36.000Z
+Summary: ❌ 3 - 20 **星落苑**
+date: 2026-10-04T18:48:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-29T04:07:36.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔻  (-21)|
-| ELO Competitive | 1399 🔺  (14)|
-| Total Matches | 26 |
+| ELO Regular | 1331 🔻  (-14)|
+| ELO Competitive | 1393 🔻  (-7)|
+| Total Matches | 27 |
 | Wins | 19 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790222856,1790152560,1789418988,1788949839,1788467769,1787661754,1787103245,1786452164,1785857302,1784855051,1784021337,1783422592,1782866807,1781599503,1781588690,1780995327,1780970397,1780367769,1780367769,1779788514,1779780103,1779247675,1779200202,1778539250,1778463842,1778009260];
+        let timestamps = [1790707712,1790222856,1790152560,1789418988,1788949839,1788467769,1787661754,1787103245,1786452164,1785857302,1784855051,1784021337,1783422592,1782866807,1781599503,1781588690,1780995327,1780970397,1780367769,1780367769,1779788514,1779780103,1779247675,1779200202,1778539250,1778463842,1778009260];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/04 | 3-20 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2026/09/29 | 0-9 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ✅ | 2026/09/28 | 14-3 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/09/19 | 16-0 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
@@ -168,5 +169,5 @@ Corporation ID: 41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790654856"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791139712"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Rogue One
-description: W:103 L:67 D:1 Bonus ✅ 50%
+description: W:103 L:67 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 14 - 8 **Stellar Exports**
 date: 2026-09-27T19:04:55.000Z
@@ -18,7 +18,7 @@ us and Righteous Fury! ws every week,
 <br>
 
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
