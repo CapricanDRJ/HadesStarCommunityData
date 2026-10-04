@@ -1,9 +1,9 @@
 ---
 title: ​藏锋府
-description: W:11 L:14 D:2 Bonus ❌ 6%
+description: W:11 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **九州·华夏**
-date: 2026-08-07T04:23:00.000Z
+Summary: ❌ 0 - 9 **STAR TERROR CZ**
+date: 2026-10-04T05:59:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 2026-08-07T04:23:00.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (-13)|
-| ELO Competitive | 1266 🔻  (-3)|
-| Total Matches | 27 |
+| ELO Regular | 1173 🔻  (-8)|
+| ELO Competitive | 1263 🔻  (-4)|
+| Total Matches | 28 |
 | Wins | 11 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785644580,1785011292,1780280347,1779850109,1777517458,1773967771,1742832918,1741055126,1739454624,1739021006,1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1790661584,1785644580,1785011292,1780280347,1779850109,1777517458,1773967771,1742832918,1741055126,1739454624,1739021006,1738559130,1738071392,1737626652,1737174098,1736758167,1736324188,1736237722,1735791026,1735789824,1735357742,1735216216,1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/04 | 0-9 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ❌ | 2026/08/07 | 0-2 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ↔️ | 2026/07/30 | 0-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ❌ | 2026/06/06 | 3-28 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
@@ -184,5 +185,5 @@ Corporation ID: 8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786076580"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791093584"></span>
 </div>

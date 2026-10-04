@@ -1,6 +1,6 @@
 ---
 title: ​-=FCA=-
-description: W:23 L:79 D:0 Bonus ✅ 44%
+description: W:23 L:79 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 11 - 3 **italian warrior**
 date: 2026-09-27T04:33:44.000Z
@@ -15,7 +15,7 @@ date: 2026-09-27T04:33:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

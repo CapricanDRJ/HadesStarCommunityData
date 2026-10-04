@@ -1,9 +1,9 @@
 ---
 title: ​Drama Llama
-description: W:7 L:2 D:0 Bonus ❌ 6%
+description: W:8 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **\*СССР\***
-date: 2026-08-21T02:37:36.000Z
+Summary: ✅ 8 - 6 **Elysium**
+date: 2026-10-04T04:17:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-08-21T02:37:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (14)|
-| ELO Competitive | 1362 🔺  (27)|
-| Total Matches | 9 |
-| Wins | 7 |
+| ELO Regular | 1335 🔺  (24)|
+| ELO Competitive | 1390 🔺  (28)|
+| Total Matches | 10 |
+| Wins | 8 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1786847856,1783193065,1780395402,1777968101,1775499696,1770627205,1769447008,1768874627,1764763807];
+        let timestamps = [1790655444,1786847856,1783193065,1780395402,1777968101,1775499696,1770627205,1769447008,1768874627,1764763807];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/04 | 8-6 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2026/08/21 | 21-0 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2026/07/09 | 2-17 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2026/06/07 | 16-9 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
@@ -151,5 +153,5 @@ Corporation ID: 93426bf45382d9e6effd51e6d6ebe819aba2b45584cf397ab529a6aaac84c2d3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787279856"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791087444"></span>
 </div>
