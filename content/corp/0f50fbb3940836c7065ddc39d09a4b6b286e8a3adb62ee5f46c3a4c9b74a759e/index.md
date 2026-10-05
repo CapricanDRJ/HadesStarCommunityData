@@ -1,9 +1,9 @@
 ---
 title: ​Black Mirror Co
-description: W:0 L:5 D:0 Bonus ❌ 11%
+description: W:0 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 0 - 27 **莫比乌斯\-星环**
-date: 2026-09-08T23:16:26.000Z
+Summary: ❌ 11 - 26 **Argentina 1\.0**
+date: 2026-10-05T17:55:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Find us on Discord:<b>EEpZuWf</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (-8)|
-| ELO Competitive | 1161 🔻  (-3)|
-| Total Matches | 5 |
+| ELO Regular | 1134 🔻  (-7)|
+| ELO Competitive | 1159 🔻  (-2)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 7 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788477386,1785902068,1771440200,1770760307,1701782121];
+        let timestamps = [1790790927,1788477386,1785902068,1771440200,1770760307,1701782121];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 11-26 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2026/09/08 | 0-27 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
 | ❌ | 2026/08/10 | 2-20 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2026/02/23 | 8-34 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
@@ -150,5 +151,5 @@ Corporation ID: 0f50fbb3940836c7065ddc39d09a4b6b286e8a3adb62ee5f46c3a4c9b74a759e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788909386"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791222927"></span>
 </div>

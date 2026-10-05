@@ -1,9 +1,9 @@
 ---
 title: ​请输入文本
-description: W:6 L:3 D:0 Bonus ❌ 6%
+description: W:6 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **YU\-GI\-OH**
-date: 2026-08-28T01:51:56.000Z
+Summary: ❌ 0 - 3 **中华五千年**
+date: 2026-10-05T17:57:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-28T01:51:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔻  (-16)|
-| ELO Competitive | 1257 🔻  (-17)|
-| Total Matches | 9 |
+| ELO Regular | 1222 🔻  (-12)|
+| ELO Competitive | 1248 🔻  (-9)|
+| Total Matches | 10 |
 | Wins | 6 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787449916,1786545623,1786060861,1785605319,1785156068,1784703952,1783669846,1781776163,1781302301];
+        let timestamps = [1790791022,1787449916,1786545623,1786060861,1785605319,1785156068,1784703952,1783669846,1781776163,1781302301];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -129,12 +129,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 0-3 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ❌ | 2026/08/28 | 0-6 | [YU\-GI\-OH](https://ws.tsl.rocks/corp/28f250641a870cb4c3bc77c2320c4892ec2c7006422ca4530475e1f3f372786a/) |
 | ✅ | 2026/08/17 | 2-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
 | ❌ | 2026/08/12 | 0-6 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
@@ -151,5 +157,5 @@ Corporation ID: dd9d972d90241532a87c021497f2f1bcab86dcc1c8ef7bcf718730bba133f5fb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787881916"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791223022"></span>
 </div>

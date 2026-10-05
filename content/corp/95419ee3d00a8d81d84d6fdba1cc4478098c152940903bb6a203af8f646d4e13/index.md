@@ -1,9 +1,9 @@
 ---
 title: ​Os Guild
-description: W:18 L:6 D:0 Bonus ❌ 9%
+description: W:18 L:7 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 9 - 33 **IMPERIAL ARMADA**
-date: 2026-09-07T13:33:18.000Z
+Summary: ❌ 9 - 14 **HIGH COMMAND**
+date: 2026-10-05T16:55:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-07T13:33:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔻  (-15)|
-| ELO Competitive | 1384 🔻  (-6)|
-| Total Matches | 24 |
+| ELO Regular | 1333 🔻  (-14)|
+| ELO Competitive | 1381 🔻  (-2)|
+| Total Matches | 25 |
 | Wins | 18 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 14 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788355998,1785930603,1783546677,1781088761,1778755847,1776259204,1773916068,1771473548,1768977072,1767844949,1766552735,1766550332,1765952124,1765855386,1765518875,1761711767,1761631547,1761105091,1760617066,1760584021,1759287500,1759199471,1758498819,1739266265];
+        let timestamps = [1790787319,1788355998,1785930603,1783546677,1781088761,1778755847,1776259204,1773916068,1771473548,1768977072,1767844949,1766552735,1766550332,1765952124,1765855386,1765518875,1761711767,1761631547,1761105091,1760617066,1760584021,1759287500,1759199471,1758498819,1739266265];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 9-14 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) |
 | ❌ | 2026/09/07 | 9-33 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2026/08/10 | 38-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2026/07/13 | 3-18 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -166,5 +167,5 @@ Corporation ID: 95419ee3d00a8d81d84d6fdba1cc4478098c152940903bb6a203af8f646d4e13
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788787998"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791219319"></span>
 </div>

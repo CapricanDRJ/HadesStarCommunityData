@@ -1,6 +1,6 @@
 ---
 title: ​红色太阳
-description: W:44 L:32 D:0 Bonus ✅ 42%
+description: W:44 L:32 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **Wolf \- Star**
 date: 2026-10-04T05:22:28.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T05:22:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
