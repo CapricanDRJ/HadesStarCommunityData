@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "☆》/dev/null"
+title: "☆》∕dev∕null"
 description: "ws: 13 μ: 25.71"
 ---
 - **WhiteStars**: 13

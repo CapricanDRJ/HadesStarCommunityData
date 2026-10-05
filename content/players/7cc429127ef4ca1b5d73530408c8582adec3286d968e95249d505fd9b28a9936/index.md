@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<b>陆陆陆</b>"
+title: "<b>陆陆陆<∕b>"
 description: "ws: 1 μ: 26.34"
 ---
 - **WhiteStars**: 1

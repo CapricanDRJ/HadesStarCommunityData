@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<b>二十四桥明月</b>"
+title: "<b>二十四桥明月<∕b>"
 description: "ws: 3 μ: 24.24"
 ---
 - **WhiteStars**: 3

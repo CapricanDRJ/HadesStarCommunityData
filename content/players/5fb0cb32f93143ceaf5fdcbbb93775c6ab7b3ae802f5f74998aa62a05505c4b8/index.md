@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ggpp8822//2"
+title: "ggpp8822∕∕2"
 description: "ws: 8 μ: 23.94"
 ---
 - **WhiteStars**: 8

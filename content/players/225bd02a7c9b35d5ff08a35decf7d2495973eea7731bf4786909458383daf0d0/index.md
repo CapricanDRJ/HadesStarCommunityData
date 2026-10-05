@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<b>Bell</b>"
+title: "<b>Bell<∕b>"
 description: "ws: 2 μ: 26.66"
 ---
 - **WhiteStars**: 2

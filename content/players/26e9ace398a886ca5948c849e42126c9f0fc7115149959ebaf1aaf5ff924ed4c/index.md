@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<b>KID</b>"
+title: "<b>KID<∕b>"
 description: "ws: 2 μ: 26.00"
 ---
 - **WhiteStars**: 2

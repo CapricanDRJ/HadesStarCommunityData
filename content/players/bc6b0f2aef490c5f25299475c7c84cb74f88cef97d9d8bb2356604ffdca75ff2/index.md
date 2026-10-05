@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "¯\_(ツ)_/¯"
+title: "¯∖_(ツ)_∕¯"
 description: "ws: 27 μ: 25.60"
 ---
 - **WhiteStars**: 27

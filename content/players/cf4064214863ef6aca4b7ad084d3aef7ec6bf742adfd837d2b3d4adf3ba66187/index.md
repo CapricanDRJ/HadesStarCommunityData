@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "COLONIZADOR24/7"
+title: "COLONIZADOR24∕7"
 description: "ws: 2 μ: 24.49"
 ---
 - **WhiteStars**: 2

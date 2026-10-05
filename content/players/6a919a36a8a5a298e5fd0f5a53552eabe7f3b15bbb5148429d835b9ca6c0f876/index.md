@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "x\V/x"
+title: "x∖V∕x"
 description: "ws: 1 μ: 24.43"
 ---
 - **WhiteStars**: 1

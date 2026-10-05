@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Саня в/ч 3219"
+title: "Саня в∕ч 3219"
 description: "ws: 6 μ: 25.47"
 ---
 - **WhiteStars**: 6

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AndreyKW//K57"
+title: "AndreyKW∕∕K57"
 description: "ws: 1 μ: 24.32"
 ---
 - **WhiteStars**: 1

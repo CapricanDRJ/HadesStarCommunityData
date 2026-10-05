@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Daitix ☆ •/BR/•"
+title: "Daitix ☆ •∕BR∕•"
 description: "ws: 1 μ: 25.45"
 ---
 - **WhiteStars**: 1

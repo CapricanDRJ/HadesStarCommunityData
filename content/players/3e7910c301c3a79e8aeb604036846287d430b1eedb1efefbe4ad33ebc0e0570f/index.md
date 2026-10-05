@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<a>银河基因组</a>"
+title: "<a>银河基因组<∕a>"
 description: "ws: 4 μ: 23.69"
 ---
 - **WhiteStars**: 4

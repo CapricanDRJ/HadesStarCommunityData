@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<i>Racktemiy</i>"
+title: "<i>Racktemiy<∕i>"
 description: "ws: 10 μ: 28.37"
 ---
 - **WhiteStars**: 10

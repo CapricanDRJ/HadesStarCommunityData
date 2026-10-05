@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<a>★  零  ☆</a>"
+title: "<a>★  零  ☆<∕a>"
 description: "ws: 9 μ: 23.52"
 ---
 - **WhiteStars**: 9

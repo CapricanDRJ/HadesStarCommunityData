@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<a>『Nephren』</a>"
+title: "<a>『Nephren』<∕a>"
 description: "ws: 2 μ: 26.66"
 ---
 - **WhiteStars**: 2

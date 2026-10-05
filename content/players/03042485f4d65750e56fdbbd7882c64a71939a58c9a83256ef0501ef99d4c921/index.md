@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<a>Xenorath</a>"
+title: "<a>Xenorath<∕a>"
 description: "ws: 1 μ: 25.82"
 ---
 - **WhiteStars**: 1

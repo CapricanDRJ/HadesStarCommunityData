@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<i>thanatos</i>"
+title: "<i>thanatos<∕i>"
 description: "ws: 2 μ: 26.66"
 ---
 - **WhiteStars**: 2

@@ -1,9 +1,9 @@
 ---
 title: ​LA SOLEDAD
-description: W:1 L:0 D:0 Bonus ✅ 26%
+description: W:1 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **新星帝国属－涵空阁集团**
-date: 2026-09-30T13:55:17.000Z
+Summary: ❌ 0 - 4 **老哥最强集团**
+date: 2026-10-05T22:03:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-30T13:55:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (11)|
-| ELO Competitive | 1211 🔺  (11)|
-| Total Matches | 1 |
+| ELO Regular | 1194 🔻  (-16)|
+| ELO Competitive | 1195 🔻  (-16)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790344517];
+        let timestamps = [1790805782,1790344517];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 0-4 | [老哥最强集团](https://ws.tsl.rocks/corp/fe5c86f6244ba283f6eda53890266425eaac76718f542806046dfea045db20e9/) |
 | ✅ | 2026/09/30 | 1-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 86c3fee8ca305211e9ecda79c6d4eb6a3e3cb6849e943b39256c36caea9ffa59
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790776517"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791237782"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<b>Firecell</b>"
+title: "<b>Firecell<∕b>"
 description: "ws: 6 μ: 22.72"
 ---
 - **WhiteStars**: 6

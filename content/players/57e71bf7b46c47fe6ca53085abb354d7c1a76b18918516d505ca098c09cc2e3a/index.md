@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MPX://Mason"
+title: "MPX:∕∕Mason"
 description: "ws: 4 μ: 23.56"
 ---
 - **WhiteStars**: 4

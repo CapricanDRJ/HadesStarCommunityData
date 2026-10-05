@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "出售320%神器 0.5￥/个"
+title: "出售320%神器 0.5￥∕个"
 description: "ws: 10 μ: 25.43"
 ---
 - **WhiteStars**: 10

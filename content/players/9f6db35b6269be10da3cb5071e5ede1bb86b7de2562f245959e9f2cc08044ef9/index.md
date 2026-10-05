@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<i>Icewave</i>"
+title: "<i>Icewave<∕i>"
 description: "ws: 1 μ: 23.87"
 ---
 - **WhiteStars**: 1
