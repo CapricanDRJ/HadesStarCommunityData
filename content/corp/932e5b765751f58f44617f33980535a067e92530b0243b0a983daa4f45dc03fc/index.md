@@ -1,6 +1,6 @@
 ---
 title: ​无人深空
-description: W:20 L:9 D:2 Bonus ✅ 36%
+description: W:20 L:9 D:2 Bonus ✅ 38%
 image: ./favicon.png
 Summary: ✅ 18 - 2 **龙的传人**
 date: 2026-10-05T12:04:51.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T12:04:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |

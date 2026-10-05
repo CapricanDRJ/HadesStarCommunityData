@@ -1,9 +1,9 @@
 ---
 title: ​Jesus Followers
-description: W:3 L:12 D:0 Bonus ❌ 8%
+description: W:4 L:12 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 7 - 11 **九州·养老**
-date: 2026-08-12T18:19:37.000Z
+Summary: ✅ 14 - 7 **First Squad**
+date: 2026-10-05T14:15:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ e his prisoner, but share in suffering for the gospel by the power of
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (-11)|
-| ELO Competitive | 1170 🔻  (-6)|
-| Total Matches | 15 |
-| Wins | 3 |
+| ELO Regular | 1125 🔺  (15)|
+| ELO Competitive | 1190 🔺  (20)|
+| Total Matches | 16 |
+| Wins | 4 |
 | Losses | 12 |
 | Draws | 0 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1786126777,1783690273,1781264512,1778679841,1776259204,1773818411,1771485865,1768662197,1768216918,1731320750,1717102671,1715552858,1713140379,1709667190,1709080359];
+        let timestamps = [1790777703,1786126777,1783690273,1781264512,1778679841,1776259204,1773818411,1771485865,1768662197,1768216918,1731320750,1717102671,1715552858,1713140379,1709667190,1709080359];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 14-7 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ❌ | 2026/08/12 | 7-11 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/07/15 | 6-5 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2026/06/17 | 2-34 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) |
@@ -163,5 +164,5 @@ Corporation ID: a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786558777"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791209703"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​星域
-description: W:77 L:74 D:2 Bonus ✅ 48%
+description: W:77 L:74 D:2 Bonus ✅ 50%
 image: ./favicon.png
 Summary: ✅ 17 - 0 **AlSounT**
 date: 2026-10-05T12:19:53.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
