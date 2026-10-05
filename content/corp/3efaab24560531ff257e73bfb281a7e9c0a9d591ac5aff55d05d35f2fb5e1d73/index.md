@@ -1,6 +1,6 @@
 ---
 title: ​CIS
-description: W:81 L:24 D:1 Bonus ✅ 48%
+description: W:81 L:24 D:1 Bonus ✅ 50%
 image: ./favicon.png
 Summary: ✅ 31 - 2 **Cerulean Galaxy**
 date: 2026-10-04T21:48:51.000Z
@@ -17,7 +17,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
 <br>
 
 ### [Discord](https://discord.gg/eVBvw68KEU)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |

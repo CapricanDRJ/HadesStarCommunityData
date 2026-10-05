@@ -1,9 +1,9 @@
 ---
 title: ​孤星长城
-description: W:16 L:6 D:0 Bonus ❌ 8%
+description: W:16 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **Слава Украине\!**
-date: 2026-01-07T11:15:03.000Z
+Summary: ❌ 0 - 26 **Кузня Лютых**
+date: 2026-10-05T05:24:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-01-07T11:15:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (-16)|
-| ELO Competitive | 1384 🔻  (-3)|
-| Total Matches | 22 |
+| ELO Regular | 1329 🔻  (-13)|
+| ELO Competitive | 1372 🔻  (-12)|
+| Total Matches | 23 |
 | Wins | 16 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 12 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1767352503,1765638159,1765052050,1754375828,1753689524,1753251416,1752131221,1750751116,1746085891,1746068463,1744719302,1744712391,1737440952,1737421829,1736967340,1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
+        let timestamps = [1790745861,1767352503,1765638159,1765052050,1754375828,1753689524,1753251416,1752131221,1750751116,1746085891,1746068463,1744719302,1744712391,1737440952,1737421829,1736967340,1736949906,1736438390,1735649508,1735633582,1734692510,1734092764,1733404068];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 0-26 | [Кузня Лютых](https://ws.tsl.rocks/corp/21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721/) |
 | ❌ | 2026/01/07 | 0-4 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2025/12/18 | 12-35 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ✅ | 2025/12/11 | 19-3 | [Schwermetall](https://ws.tsl.rocks/corp/e1b124e8bdb48553b0276800acf15a530e72104b006bd4dd401f23bd87bdbbf0/) |
@@ -169,5 +170,5 @@ Corporation ID: af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1767784503"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791177861"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:111 L:65 D:2 Bonus ✅ 54%
+description: W:111 L:65 D:2 Bonus ✅ 56%
 image: ./favicon.png
 Summary: ✅ 23 - 7 **Свободный флот**
 date: 2026-10-04T09:42:46.000Z
@@ -16,7 +16,7 @@ date: 2026-10-04T09:42:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ✅ 56%
 
 | Statistic | Value |
 | --- | --- |

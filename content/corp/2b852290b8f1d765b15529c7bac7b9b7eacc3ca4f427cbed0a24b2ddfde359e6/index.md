@@ -1,6 +1,6 @@
 ---
 title: ​Black Pearl FR
-description: W:80 L:47 D:2 Bonus ✅ 48%
+description: W:80 L:47 D:2 Bonus ✅ 50%
 image: ./favicon.png
 Summary: ❌ 3 - 7 **Orden Estelar**
 date: 2026-10-04T18:23:30.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T18:23:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
