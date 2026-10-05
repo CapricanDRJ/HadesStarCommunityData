@@ -62,17 +62,6 @@ searchHidden: true
         </tr>
     
         <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>5</td>
-                    <td><img src="weapon.png" alt="weapon"></td>
-                    <td>RS11</td>
-                    <td>360%</td>
-                </tr>
-            
-        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         

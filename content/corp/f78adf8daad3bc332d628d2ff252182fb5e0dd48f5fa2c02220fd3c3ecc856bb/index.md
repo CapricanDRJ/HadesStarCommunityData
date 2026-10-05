@@ -1,9 +1,9 @@
 ---
 title: ​奇点教会
-description: W:18 L:12 D:4 Bonus ✅ 36%
+description: W:19 L:12 D:4 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 4 - 3 **元素联邦**
-date: 2026-09-29T05:42:43.000Z
+Summary: ✅ 6 - 1 **万顷稻花**
+date: 2026-10-05T03:44:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-29T05:42:43.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔺  (21)|
-| ELO Competitive | 1377 🔺  (24)|
-| Total Matches | 34 |
-| Wins | 18 |
+| ELO Regular | 1302 🔺  (11)|
+| ELO Competitive | 1390 🔺  (13)|
+| Total Matches | 35 |
+| Wins | 19 |
 | Losses | 12 |
 | Draws | 4 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
+        let timestamps = [1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) | 2 | 0 | 0 | 2 |
 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1 | 0 | 1 | 2 |
 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) | 2 | 0 | 0 | 2 |
 
@@ -141,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 6-1 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ✅ | 2026/09/29 | 4-3 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ↔️ | 2026/09/24 | 3-3 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ↔️ | 2026/09/17 | 6-6 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
@@ -182,5 +185,5 @@ Corporation ID: f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790660563"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791171854"></span>
 </div>

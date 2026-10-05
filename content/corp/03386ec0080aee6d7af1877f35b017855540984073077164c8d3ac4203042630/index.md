@@ -1,9 +1,9 @@
 ---
 title: ​万顷稻花
-description: W:19 L:25 D:2 Bonus ❌ 8%
+description: W:19 L:26 D:2 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **九州分团**
-date: 2026-09-29T20:04:25.000Z
+Summary: ❌ 1 - 6 **奇点教会**
+date: 2026-10-05T03:44:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-29T20:04:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (-8)|
-| ELO Competitive | 1327 🔻  (-1)|
-| Total Matches | 46 |
+| ELO Regular | 1177 🔻  (-11)|
+| ELO Competitive | 1314 🔻  (-13)|
+| Total Matches | 47 |
 | Wins | 19 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790280265,1790262508,1789772741,1789766240,1789166009,1788707835,1788618889,1783839882,1779835692,1779246532,1775370199,1773545580,1773536602,1772957537,1772950758,1772014849,1771401824,1770907814,1770467971,1770006499,1769167256,1768580771,1768004235,1766496847,1765837047,1764099143,1761834951,1760765797,1759333171,1758807068,1758294728,1756994067,1756051379,1754992439,1753856596,1753345469,1752853695,1752405195,1751971965,1751971965,1751424514,1750906290,1750470434,1749359469,1746099713,1745582643];
+        let timestamps = [1790739854,1790280265,1790262508,1789772741,1789766240,1789166009,1788707835,1788618889,1783839882,1779835692,1779246532,1775370199,1773545580,1773536602,1772957537,1772950758,1772014849,1771401824,1770907814,1770467971,1770006499,1769167256,1768580771,1768004235,1766496847,1765837047,1764099143,1761834951,1760765797,1759333171,1758807068,1758294728,1756994067,1756051379,1754992439,1753856596,1753345469,1752853695,1752405195,1751971965,1751971965,1751424514,1750906290,1750470434,1749359469,1746099713,1745582643];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) | 0 | 2 | 0 | 2 |
 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 0 | 2 | 0 | 2 |
 | [Berlin](https://ws.tsl.rocks/corp/4be397f158a4ac8851b4d6f871cfb1b3994de1e41f67d7710ad6e32e271f6034/) | 2 | 0 | 0 | 2 |
 | [中华人民共和国](https://ws.tsl.rocks/corp/2acf0be46829b53620f0aa02fc71aaa7e3e9c54d9446951bb26288c05727ae84/) | 1 | 1 | 0 | 2 |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 1-6 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
 | ❌ | 2026/09/29 | 0-5 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2026/09/29 | 2-14 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
 | ❌ | 2026/09/23 | 0-1 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
@@ -195,5 +197,5 @@ Corporation ID: 03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790712265"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791171854"></span>
 </div>

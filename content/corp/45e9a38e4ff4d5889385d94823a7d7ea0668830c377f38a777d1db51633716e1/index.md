@@ -1,9 +1,9 @@
 ---
 title: ​星瀚协议
-description: W:10 L:15 D:4 Bonus ❌ 7%
+description: W:10 L:16 D:4 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-08-26T00:39:04.000Z
+Summary: ❌ 0 - 3 **以太超星团**
+date: 2026-10-05T03:27:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-26T00:39:04.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (-16)|
-| ELO Competitive | 1222 🔻  (-18)|
-| Total Matches | 29 |
+| ELO Regular | 1151 🔻  (-20)|
+| ELO Competitive | 1203 🔻  (-19)|
+| Total Matches | 30 |
 | Wins | 10 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 4 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787272744,1786509852,1786073878,1785809237,1785204153,1784712113,1782958736,1781841662,1781407820,1780841513,1748267201,1747830860,1747200733,1746490379,1745965099,1745708876,1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
+        let timestamps = [1790738832,1787272744,1786509852,1786073878,1785809237,1785204153,1784712113,1782958736,1781841662,1781407820,1780841513,1748267201,1747830860,1747200733,1746490379,1745965099,1745708876,1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 0-3 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2026/08/26 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/08/17 | 0-0 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ❌ | 2026/08/12 | 0-6 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
@@ -176,5 +177,5 @@ Corporation ID: 45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787704744"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791170832"></span>
 </div>
