@@ -1,9 +1,9 @@
 ---
 title: ​Будущее
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 8 - 11 **attraction\.F**
-date: 2026-09-27T05:08:47.000Z
+Summary: ❌ 3 - 20 **Gemini Ind\.**
+date: 2026-10-04T22:13:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-27T05:08:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (-8)|
-| ELO Competitive | 1193 🔻  (-7)|
-| Total Matches | 1 |
+| ELO Regular | 1187 🔻  (-5)|
+| ELO Competitive | 1190 🔻  (-3)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790053727];
+        let timestamps = [1790720032,1790053727];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/04 | 3-20 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ❌ | 2026/09/27 | 8-11 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 94e7076f4af932874c346e6114276fdd0b290bdf418ef55c58b17e027af22185
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790485727"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791152032"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:8 L:18 D:1 Bonus ❌ 7%
+description: W:8 L:19 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 31 **Crazy Elite**
-date: 2026-10-04T17:58:28.000Z
+Summary: ❌ 1 - 11 **甜甜圈**
+date: 2026-10-05T00:34:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-04T17:58:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (-7)|
+| ELO Regular | 1119 🔻  (-10)|
 | ELO Competitive | 1271 🔻  (-2)|
-| Total Matches | 27 |
+| Total Matches | 28 |
 | Wins | 8 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) | 0 | 2 | 0 | 2 |
 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 1-11 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/10/04 | 0-31 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2026/09/29 | 3-12 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ❌ | 2026/09/29 | 3-21 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
@@ -174,5 +176,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791136708"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791160442"></span>
 </div>
