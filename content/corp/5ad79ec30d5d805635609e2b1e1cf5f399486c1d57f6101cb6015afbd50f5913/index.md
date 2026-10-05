@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:86 L:33 D:3 Bonus ✅ 44%
+description: W:86 L:33 D:3 Bonus ✅ 46%
 image: ./favicon.png
 Summary: ✅ 64 - 0 **italian warrior**
 date: 2026-10-04T15:08:13.000Z
@@ -17,7 +17,7 @@ date: 2026-10-04T15:08:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

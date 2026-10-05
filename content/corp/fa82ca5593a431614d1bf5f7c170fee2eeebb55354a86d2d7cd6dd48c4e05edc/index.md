@@ -1,9 +1,9 @@
 ---
 title: ​Battlestar Fr
-description: W:12 L:16 D:0 Bonus ❌ 12%
+description: W:13 L:16 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ✅ 29 - 0 **Hexacropians**
-date: 2026-09-06T09:51:53.000Z
+Summary: ✅ 32 - 11 **Lost Legion**
+date: 2026-10-05T06:49:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,16 +20,17 @@ Discord : x9QTsuZ3mg
 <br>
 
 ### [Discord](https://discord.gg/x9QTsuZ3mg)
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (14)|
-| ELO Competitive | 1355 🔺  (27)|
-| Total Matches | 28 |
-| Wins | 12 |
+| ELO Regular | 1248 🔺  (9)|
+| ELO Competitive | 1370 🔺  (15)|
+| Total Matches | 29 |
+| Wins | 13 |
 | Losses | 16 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 7 |
 
@@ -49,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788256313,1786110855,1783463156,1778595725,1776174183,1774814705,1773940991,1771919083,1771387624,1770581846,1768374960,1767808598,1767357612,1766792505,1766093339,1765645672,1759112940,1758454043,1757924587,1757272906,1716565651,1705756168,1704639467,1702727041,1701518848,1701001615,1700409537,1699912974];
+        let timestamps = [1790750967,1788256313,1786110855,1783463156,1778595725,1776174183,1774814705,1773940991,1771919083,1771387624,1770581846,1768374960,1767808598,1767357612,1766792505,1766093339,1765645672,1759112940,1758454043,1757924587,1757272906,1716565651,1705756168,1704639467,1702727041,1701518848,1701001615,1700409537,1699912974];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 1 | 1 | 0 | 2 |
 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 1 | 1 | 0 | 2 |
 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) | 2 | 0 | 0 | 2 |
 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) | 2 | 0 | 0 | 2 |
@@ -148,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 32-11 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2026/09/06 | 29-0 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2026/08/12 | 0-23 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2026/07/12 | 30-6 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
@@ -183,5 +186,5 @@ Corporation ID: fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788688313"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791182967"></span>
 </div>

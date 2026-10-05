@@ -1,9 +1,9 @@
 ---
 title: ​九州·养老
-description: W:23 L:29 D:2 Bonus ✅ 38%
+description: W:23 L:30 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **骊珠洞天**
-date: 2026-09-30T10:45:05.000Z
+Summary: ❌ 1 - 3 **九州·白星**
+date: 2026-10-05T07:12:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-30T10:45:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (4)|
-| ELO Competitive | 1445 🔺  (4)|
-| Total Matches | 54 |
+| ELO Regular | 1174 🔻  (-13)|
+| ELO Competitive | 1436 🔻  (-9)|
+| Total Matches | 55 |
 | Wins | 23 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790333105,1790295552,1789861880,1789845056,1789405766,1789401560,1788968920,1788941880,1788448835,1788438917,1787994340,1787990134,1787552390,1787541658,1787106850,1787070792,1786624772,1786624604,1786189568,1786126777,1785744035,1785581785,1785287969,1785142249,1784823508,1784708145,1784288920,1784266792,1783834475,1783822760,1783389552,1783382944,1782916070,1782895942,1782478347,1782429876,1782037263,1781866595,1781543924,1781407499,1781100480,1780968895,1780667273,1780490333,1780168890,1780031890,1779712498,1779581550,1779252481,1779117899,1778808127,1778638769,1778337056,1777890589];
+        let timestamps = [1790752355,1790333105,1790295552,1789861880,1789845056,1789405766,1789401560,1788968920,1788941880,1788448835,1788438917,1787994340,1787990134,1787552390,1787541658,1787106850,1787070792,1786624772,1786624604,1786189568,1786126777,1785744035,1785581785,1785287969,1785142249,1784823508,1784708145,1784288920,1784266792,1783834475,1783822760,1783389552,1783382944,1782916070,1782895942,1782478347,1782429876,1782037263,1781866595,1781543924,1781407499,1781100480,1780968895,1780667273,1780490333,1780168890,1780031890,1779712498,1779581550,1779252481,1779117899,1778808127,1778638769,1778337056,1777890589];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,7 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 2 | 0 | 3 |
+| [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 3 | 0 | 4 |
 | [Dark Monarchs](https://ws.tsl.rocks/corp/c23ec9ebc110eb3dd1c56d100e206f8e421ad61de0748f4c6229e6297d736b4c/) | 0 | 2 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 0 | 2 | 0 | 2 |
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 1-3 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ✅ | 2026/09/30 | 6-0 | [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) |
 | ❌ | 2026/09/30 | 0-24 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
 | ↔️ | 2026/09/24 | 4-4 | [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) |
@@ -203,5 +204,5 @@ Corporation ID: 3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790765105"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791184355"></span>
 </div>

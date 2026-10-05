@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:75 L:28 D:1 Bonus ✅ 50%
+description: W:75 L:28 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 19 - 2 **Bastille FR**
 date: 2026-09-28T07:25:55.000Z
@@ -16,7 +16,7 @@ date: 2026-09-28T07:25:55.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​太阳系联邦
-description: W:11 L:26 D:0 Bonus ❌ 8%
+description: W:12 L:26 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **The Bois**
-date: 2026-09-27T20:29:04.000Z
+Summary: ✅ 7 - 0 **休闲、红、蓝、白养老集团。**
+date: 2026-10-05T08:54:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-09-27T20:29:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (17)|
-| ELO Competitive | 1279 🔺  (13)|
-| Total Matches | 37 |
-| Wins | 11 |
+| ELO Regular | 1188 🔺  (19)|
+| ELO Competitive | 1295 🔺  (16)|
+| Total Matches | 38 |
+| Wins | 12 |
 | Losses | 26 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790108944,1789965405,1789633765,1789524124,1788882689,1788866461,1788365614,1788260219,1787731349,1787207193,1786883914,1786321775,1785646383,1785637970,1785202175,1785201143,1784761626,1784290524,1783847993,1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
+        let timestamps = [1790758476,1790108944,1789965405,1789633765,1789524124,1788882689,1788866461,1788365614,1788260219,1787731349,1787207193,1786883914,1786321775,1785646383,1785637970,1785202175,1785201143,1784761626,1784290524,1783847993,1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) | 2 | 0 | 0 | 2 |
 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) | 1 | 1 | 0 | 2 |
 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 0 | 2 | 0 | 2 |
 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) | 0 | 2 | 0 | 2 |
@@ -142,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 7-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2026/09/27 | 4-0 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/09/26 | 1-21 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
 | ❌ | 2026/09/22 | 1-15 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
@@ -186,5 +189,5 @@ Corporation ID: 1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790540944"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791190476"></span>
 </div>
