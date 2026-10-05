@@ -1,9 +1,9 @@
 ---
 title: ​龙的传人分团
-description: W:14 L:27 D:1 Bonus ❌ 7%
+description: W:15 L:27 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 3 - 15 **REAPERS**
-date: 2026-09-16T05:10:52.000Z
+Summary: ✅ 21 - 1 **Bastille FR**
+date: 2026-10-05T09:49:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-09-16T05:10:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (-4)|
-| ELO Competitive | 1208 🔻  (-4)|
-| Total Matches | 42 |
-| Wins | 14 |
+| ELO Regular | 1138 🔺  (21)|
+| ELO Competitive | 1233 🔺  (24)|
+| Total Matches | 43 |
+| Wins | 15 |
 | Losses | 27 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789103452,1787905111,1787568612,1787034740,1786415516,1785903270,1785428270,1784978816,1784354523,1783822760,1783356198,1783053968,1782315796,1782289980,1781391039,1781361256,1780698560,1780223221,1780111505,1779726624,1779457092,1779200202,1779006111,1778687656,1778408845,1777461274,1776834836,1776451297,1776193115,1775733438,1775037011,1774442538,1773929271,1773151445,1770862450,1770287404,1769641600,1769167256,1768653781,1767623539,1766999494,1766424439];
+        let timestamps = [1790761780,1789103452,1787905111,1787568612,1787034740,1786415516,1785903270,1785428270,1784978816,1784354523,1783822760,1783356198,1783053968,1782315796,1782289980,1781391039,1781361256,1780698560,1780223221,1780111505,1779726624,1779457092,1779200202,1779006111,1778687656,1778408845,1777461274,1776834836,1776451297,1776193115,1775733438,1775037011,1774442538,1773929271,1773151445,1770862450,1770287404,1769641600,1769167256,1768653781,1767623539,1766999494,1766424439];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 21-1 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
 | ❌ | 2026/09/16 | 3-15 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ❌ | 2026/09/02 | 5-11 | [Hangout Spot](https://ws.tsl.rocks/corp/7e4b7aa18e4a302cbbac1e1b0b3118812bec5fb4846a495d2c3fb6d3dd4a8b13/) |
 | ✅ | 2026/08/29 | 7-0 | [莱恩星际](https://ws.tsl.rocks/corp/7510b8b55ddb419c89f0f789119f72cddd83680fb3508b84b8a32d75e475b40d/) |
@@ -194,5 +195,5 @@ Corporation ID: fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789535452"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791193780"></span>
 </div>

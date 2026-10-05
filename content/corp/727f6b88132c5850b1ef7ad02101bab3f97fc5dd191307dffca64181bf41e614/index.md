@@ -1,9 +1,9 @@
 ---
 title: ​STRVS233～
-description: W:20 L:11 D:0 Bonus ❌ 7%
+description: W:20 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 4 - 3 **63SALVADORES36**
-date: 2026-07-28T07:32:44.000Z
+Summary: ❌ 0 - 30 **墨痕空域**
+date: 2026-10-05T10:54:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ rd:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (9)|
-| ELO Competitive | 1358 🔺  (21)|
-| Total Matches | 31 |
+| ELO Regular | 1273 🔻  (-21)|
+| ELO Competitive | 1343 🔻  (-15)|
+| Total Matches | 32 |
 | Wins | 20 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 4 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1784791964,1783901226,1737527403,1737421829,1726224172,1725284540,1724321714,1723884879,1723387115,1722928538,1722432994,1721971646,1721480348,1721025966,1720589240,1720139085,1717780883,1714143292,1711667420,1711156312,1709299700,1707379699,1706916461,1706450359,1706017320,1705578262,1705066794,1704468171,1703679915,1702629066,1701693763];
+        let timestamps = [1790765685,1784791964,1783901226,1737527403,1737421829,1726224172,1725284540,1724321714,1723884879,1723387115,1722928538,1722432994,1721971646,1721480348,1721025966,1720589240,1720139085,1717780883,1714143292,1711667420,1711156312,1709299700,1707379699,1706916461,1706450359,1706017320,1705578262,1705066794,1704468171,1703679915,1702629066,1701693763];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) | 1 | 1 | 0 | 2 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 2 | 0 | 0 | 2 |
 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) | 1 | 1 | 0 | 2 |
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/05 | 0-30 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2026/07/28 | 4-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2026/07/18 | 16-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2025/01/27 | 5-3 | [银钒](https://ws.tsl.rocks/corp/5708fa89476923406d115c0cb58073c5253f64698f1c435ef4918d05c253c7c8/) |
@@ -183,5 +184,5 @@ Corporation ID: 727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1785223964"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791197685"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Академия Д
-description: W:31 L:4 D:1 Bonus ✅ 38%
+description: W:32 L:4 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 19 - 3 **Эдем**
-date: 2026-10-04T20:38:44.000Z
+Summary: ✅ 3 - 0 **КОРПОРАЦИЯ ЗЛА**
+date: 2026-10-05T10:01:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-10-04T20:38:44.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (9)|
+| ELO Regular | 1410 🔺  (1)|
 | ELO Competitive | 1496 🔺  (18)|
-| Total Matches | 36 |
-| Wins | 31 |
+| Total Matches | 37 |
+| Wins | 32 |
 | Losses | 4 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 12 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790714324,1786049833,1783987880,1783534921,1782822933,1782197716,1781738014,1781271423,1780807928,1780367769,1779907204,1779450101,1779005210,1778570117,1777863253,1777304140,1776835136,1776331607,1775873748,1775422182,1774924417,1774469956,1774011291,1773545580,1773106543,1772641334,1772121569,1771658905,1771195347,1770726051,1770244122,1769778115,1769370095,1769212636,1768780585,1768685337];
+        let timestamps = [1790762472,1790714324,1786049833,1783987880,1783534921,1782822933,1782197716,1781738014,1781271423,1780807928,1780367769,1779907204,1779450101,1779005210,1778570117,1777863253,1777304140,1776835136,1776331607,1775873748,1775422182,1774924417,1774469956,1774011291,1773545580,1773106543,1772641334,1772121569,1771658905,1771195347,1770726051,1770244122,1769778115,1769370095,1769212636,1768780585,1768685337];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 2 | 0 | 0 | 2 |
 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 2 | 0 | 0 | 2 |
 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) | 2 | 0 | 0 | 2 |
 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) | 1 | 1 | 0 | 2 |
@@ -142,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 3-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2026/10/04 | 19-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2026/08/11 | 1-28 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ✅ | 2026/07/19 | 6-4 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
@@ -185,5 +188,5 @@ Corporation ID: b1abd18d521db3f91ca83e4b49f5ecc132514e77c54c875dc0d08b977292c470
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791146324"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791194472"></span>
 </div>
