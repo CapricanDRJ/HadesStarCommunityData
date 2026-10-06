@@ -1,9 +1,9 @@
 ---
 title: ​Axioma
-description: W:11 L:31 D:3 Bonus ❌ 6%
+description: W:11 L:32 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **九州·白星**
-date: 2026-07-17T22:11:43.000Z
+Summary: ❌ 0 - 5 **烽烟与黎明**
+date: 2026-10-06T02:41:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ just relax, bro.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1014 🔻  (-6)|
-| ELO Competitive | 1068 🔻  (-1)|
-| Total Matches | 45 |
+| ELO Regular | 1007 🔻  (-7)|
+| ELO Competitive | 1061 🔻  (-7)|
+| Total Matches | 46 |
 | Wins | 11 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 3 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1783894303,1760764922,1745163148,1745157843,1740266010,1726296458,1725225052,1722014318,1721567798,1721135670,1720619913,1720181752,1719671767,1719168127,1718657555,1718211732,1717756350,1717250822,1716811461,1716289851,1715807935,1715344928,1714743624,1714269486,1713802884,1713347702,1711041251,1710121208,1709472782,1709040691,1708358273,1707785522,1707305720,1706483723,1706103865,1705961732,1705370616,1704815269,1703389917,1702657919,1702657619,1702082672,1702078465,1701271808,1700496091];
+        let timestamps = [1790822470,1783894303,1760764922,1745163148,1745157843,1740266010,1726296458,1725225052,1722014318,1721567798,1721135670,1720619913,1720181752,1719671767,1719168127,1718657555,1718211732,1717756350,1717250822,1716811461,1716289851,1715807935,1715344928,1714743624,1714269486,1713802884,1713347702,1711041251,1710121208,1709472782,1709040691,1708358273,1707785522,1707305720,1706483723,1706103865,1705961732,1705370616,1704815269,1703389917,1702657919,1702657619,1702082672,1702078465,1701271808,1700496091];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/06 | 0-5 | [烽烟与黎明](https://ws.tsl.rocks/corp/6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96/) |
 | ❌ | 2026/07/17 | 0-6 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ↔️ | 2025/10/23 | 0-0 | [Space Dragons](https://ws.tsl.rocks/corp/3f6b6b5d181d20730e3ec18ca3bbd08e5b8f8359525a9bb87dff2f8fa1d9f38f/) |
 | ❌ | 2025/04/25 | 0-6 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
@@ -194,5 +195,5 @@ Corporation ID: 2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1784326303"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791254470"></span>
 </div>

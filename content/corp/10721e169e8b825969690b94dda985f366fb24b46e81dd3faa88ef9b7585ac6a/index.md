@@ -1,9 +1,9 @@
 ---
 title: ​G.O.D 星辰
-description: W:1 L:5 D:2 Bonus ❌ 3%
+description: W:1 L:6 D:2 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-09-17T01:58:30.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-10-06T02:46:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-17T01:58:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (-12)|
-| ELO Competitive | 1176 🔻  (-13)|
-| Total Matches | 8 |
+| ELO Regular | 1168 🔻  (-1)|
+| ELO Competitive | 1176 🔻  (0)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789178310,1786293858,1785632864,1785048217,1784606001,1784012025,1782524613,1781407820];
+        let timestamps = [1790822771,1789178310,1786293858,1785632864,1785048217,1784606001,1784012025,1782524613,1781407820];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/06 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/09/17 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/08/14 | 0-0 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ❌ | 2026/08/07 | 0-3 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
@@ -149,5 +155,5 @@ Corporation ID: 10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789610310"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791254771"></span>
 </div>
