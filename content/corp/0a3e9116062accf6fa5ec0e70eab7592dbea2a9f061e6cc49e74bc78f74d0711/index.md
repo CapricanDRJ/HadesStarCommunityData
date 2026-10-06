@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:98 L:39 D:4 Bonus ✅ 48%
+description: W:98 L:39 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 30 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2026-09-29T19:48:54.000Z
@@ -18,7 +18,7 @@ date: 2026-09-29T19:48:54.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

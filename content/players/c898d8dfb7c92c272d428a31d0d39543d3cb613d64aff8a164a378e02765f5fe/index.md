@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ДваЧё"
-description: "ws: 4 μ: 25.14"
+description: "ws: 5 μ: 25.77"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 2
-- **Rating**: 0.34
-- **μ**: 25.14  
-- **σ**: 8.27
-- W: 2, L: 2, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 3
+- **Rating**: 1.08
+- **μ**: 25.77  
+- **σ**: 8.23
+- W: 3, L: 2, T: 0
 
 ---
 
@@ -18,6 +18,7 @@ description: "ws: 4 μ: 25.14"
 | --- | --- |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 1 |
 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) | 1 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1 |
 
 ---
 
@@ -25,6 +26,7 @@ description: "ws: 4 μ: 25.14"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 21-2 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | 2026-04-27 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) | 13-7 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-04-04 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 9-19 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | 2025-10-18 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 0-17 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |

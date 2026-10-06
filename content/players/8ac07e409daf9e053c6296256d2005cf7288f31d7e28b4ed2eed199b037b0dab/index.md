@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Maksim3800"
-description: "ws: 4 μ: 24.83"
+description: "ws: 5 μ: 25.60"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 3
-- **Rating**: 0.10
-- **μ**: 24.83  
-- **σ**: 8.25
-- W: 2, L: 2, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 4
+- **Rating**: 0.97
+- **μ**: 25.60  
+- **σ**: 8.21
+- W: 3, L: 2, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 4 μ: 24.83"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 3 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 4 μ: 24.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 21-2 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | 2026-09-29 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 6-21 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-03-14 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 12-6 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) |
 | 2025-12-01 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 34-3 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

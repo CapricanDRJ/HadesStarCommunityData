@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-06T18:55:41.614Z
+date: 2026-10-06T21:55:40.244Z
 summary: "Corporation directory"
 ---
 
@@ -18,7 +18,7 @@ summary: "Corporation directory"
 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) | 1425 | 1612 | 64 |
 | [Aggronauten](https://ws.tsl.rocks/corp/3bc8488b4cde8d611cbc48bac64a708c40e9954bc2c221dddafb0240b734c679/) | 1157 | 1162 | 4 |
 | [Ahamkara](https://ws.tsl.rocks/corp/33ddc1c3cba50fc92a3d29f65101d92d6967303e9c9acf6ff07064801bbecab8/) | 1170 | 1177 | 2 |
-| [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) | 1459 | 1553 | 40 |
+| [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) | 1461 | 1555 | 41 |
 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) | 1256 | 1285 | 13 |
 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) | 996 | 1141 | 51 |
 | [AKLife](https://ws.tsl.rocks/corp/390b9e24784a0c11450f170d5c42dfcb21f8f3a3289037afa7b93339d7f1a3cf/) | 1190 | 1191 | 2 |
@@ -986,7 +986,7 @@ summary: "Corporation directory"
 | [ShalaskanEmpire](https://ws.tsl.rocks/corp/66735769ab7b1cd4c383aeea954df5aa8bf14e8c7d73384059d3cf505d995eb4/) | 1181 | 1194 | 2 |
 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) | 1221 | 1253 | 38 |
 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) | 1108 | 1286 | 70 |
-| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1366 | 1641 | 163 |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1352 | 1625 | 164 |
 | [Simply Uranus](https://ws.tsl.rocks/corp/951c4b2ef77de2b24b3e3b3cd962679643a8fae1131e289d4ed60482d10aff45/) | 1113 | 1174 | 7 |
 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) | 1260 | 1294 | 28 |
 | [Sistemaimperial](https://ws.tsl.rocks/corp/c5d74741e67bccbb74d8e7772ef2f8cf79edb6ece339b45bb2683cb9e019c94c/) | 1199 | 1199 | 2 |
@@ -998,7 +998,7 @@ summary: "Corporation directory"
 | [SkitleStarOrder](https://ws.tsl.rocks/corp/9462fd612a0624ceac81b5378c972a870fc5117ca12e58f87307cbce2b2c30ae/) | 1244 | 1245 | 3 |
 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) | 903 | 980 | 62 |
 | [SkyTeam](https://ws.tsl.rocks/corp/30727100cc5b41189df428245431821113e0849d03775421425061a59bee0afd/) | 1182 | 1187 | 1 |
-| [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) | 1005 | 1052 | 29 |
+| [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) | 1003 | 1050 | 30 |
 | [Slytherin](https://ws.tsl.rocks/corp/735830d4008f77aa6eca6830b6cba02e5decb3eaed66ab3305b7e39c0bf0c489/) | 1119 | 1126 | 6 |
 | [SMH](https://ws.tsl.rocks/corp/a49f2ea5985187cf528d99e346b4bd74512f4a36568c9ec70705ed97b49cd7e7/) | 1167 | 1178 | 2 |
 | [Smurfing](https://ws.tsl.rocks/corp/686668dde261a7c9e724dca3d2c66659ee78506d8d1918ff5eb81fafcf17e471/) | 1171 | 1171 | 2 |
@@ -1405,7 +1405,7 @@ summary: "Corporation directory"
 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) | 1154 | 1156 | 7 |
 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) | 1267 | 1526 | 92 |
 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) | 1332 | 1435 | 78 |
-| [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) | 1501 | 1757 | 88 |
+| [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) | 1506 | 1762 | 89 |
 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) | 1114 | 1254 | 48 |
 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) | 1319 | 1412 | 41 |
 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) | 1216 | 1530 | 97 |
@@ -1448,7 +1448,7 @@ summary: "Corporation directory"
 | [001\-23](https://ws.tsl.rocks/corp/790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/) | 1054 | 1058 | 12 |
 | [0v0](https://ws.tsl.rocks/corp/a4f79f85aea53451a9563b51f9a29f73de3ea0956cbce10f369a6f2b714709d2/) | 1184 | 1184 | 1 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 911 | 1311 | 268 |
-| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 1218 | 1508 | 179 |
+| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 1213 | 1502 | 180 |
 | [111111](https://ws.tsl.rocks/corp/9ad228252676096cbfc9ad878a15837d902dec746ece50e543f75add623ee8d4/) | 1184 | 1184 | 1 |
 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 689 | 1015 | 192 |
 | [13th Legion](https://ws.tsl.rocks/corp/31290f495b0b33721a314c22b596469ab4286467f9604817f97c33459fe80369/) | 1167 | 1174 | 2 |
@@ -1874,7 +1874,7 @@ summary: "Corporation directory"
 | [星舰地球：空聆](https://ws.tsl.rocks/corp/3ac2f8247a32fbc7dbfeb92411e2336495a193c0ed24ca1fe1a082f969bd60e9/) | 1184 | 1186 | 1 |
 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 1254 | 1563 | 102 |
 | [星落※](https://ws.tsl.rocks/corp/c809f17c8b2dbf6b7f14ea22599eaba029fe84d20fa653bac200aae53d8d137e/) | 1180 | 1183 | 2 |
-| [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) | 1390 | 1627 | 96 |
+| [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) | 1404 | 1637 | 97 |
 | [星虚：银河](https://ws.tsl.rocks/corp/2fde502bf39f8de7db5089a837672eb5a96e4060e17b5c33d3e00061a8d08c8b/) | 1189 | 1189 | 1 |
 | [星辰疗愈所](https://ws.tsl.rocks/corp/71065f4633280c6932bb07af17f4dc70f7a9a4cb9948c04a4a9e275ddab61c26/) | 1212 | 1215 | 1 |
 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 1274 | 1444 | 99 |

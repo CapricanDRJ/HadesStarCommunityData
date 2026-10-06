@@ -1,9 +1,9 @@
 ---
 title: ​Slovensko-Activ
-description: W:2 L:27 D:0 Bonus ❌ 6%
+description: W:2 L:28 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **Sky**
-date: 2026-08-31T03:02:39.000Z
+Summary: ❌ 0 - 27 **Ainz ooal gown**
+date: 2026-10-06T21:27:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ prevention; it's very real, serious topic. have a week off 🤗
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1005 🔺  (12)|
-| ELO Competitive | 1052 🔺  (14)|
-| Total Matches | 29 |
+| ELO Regular | 1003 🔻  (-2)|
+| ELO Competitive | 1050 🔻  (-2)|
+| Total Matches | 30 |
 | Wins | 2 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787713359,1786802175,1779768958,1776088903,1775645108,1773788375,1772595974,1771147265,1764805229,1760984020,1756905133,1755691081,1750021190,1732130884,1731539511,1723068278,1719686894,1718846871,1716844830,1716071729,1714666107,1713551407,1712345009,1709909662,1709420803,1706392063,1705956021,1705948506,1702433416];
+        let timestamps = [1790890066,1787713359,1786802175,1779768958,1776088903,1775645108,1773788375,1772595974,1771147265,1764805229,1760984020,1756905133,1755691081,1750021190,1732130884,1731539511,1723068278,1719686894,1718846871,1716844830,1716071729,1714666107,1713551407,1712345009,1709909662,1709420803,1706392063,1705956021,1705948506,1702433416];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/06 | 0-27 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ✅ | 2026/08/31 | 1-0 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) |
 | ❌ | 2026/08/20 | 2-18 | [中国星系集团](https://ws.tsl.rocks/corp/8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/) |
 | ❌ | 2026/05/31 | 3-11 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
@@ -173,5 +174,5 @@ Corporation ID: 1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788145359"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791322066"></span>
 </div>

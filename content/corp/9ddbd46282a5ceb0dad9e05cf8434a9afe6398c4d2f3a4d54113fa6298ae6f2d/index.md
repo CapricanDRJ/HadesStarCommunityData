@@ -1,9 +1,9 @@
 ---
 title: ​Ainz ooal gown
-description: W:34 L:6 D:0 Bonus ❌ 9%
+description: W:35 L:6 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 3 - 19 **仙女座星雲**
-date: 2026-10-01T02:26:16.000Z
+Summary: ✅ 27 - 0 **Slovensko\-Activ**
+date: 2026-10-06T21:27:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-01T02:26:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1459 🔻  (-6)|
-| ELO Competitive | 1553 🔻  (-3)|
-| Total Matches | 40 |
-| Wins | 34 |
+| ELO Regular | 1461 🔺  (2)|
+| ELO Competitive | 1555 🔺  (2)|
+| Total Matches | 41 |
+| Wins | 35 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 21 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
+        let timestamps = [1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/06 | 27-0 | [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) |
 | ❌ | 2026/10/01 | 3-19 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2026/09/25 | 22-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/09/19 | 26-0 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
@@ -187,5 +188,5 @@ Corporation ID: 9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790821576"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791322066"></span>
 </div>

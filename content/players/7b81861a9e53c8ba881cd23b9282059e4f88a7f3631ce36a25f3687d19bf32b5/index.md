@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Peo"
-description: "ws: 1 μ: 26.52"
+description: "ws: 2 μ: 24.64"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: 1.60
-- **μ**: 26.52  
-- **σ**: 8.30
-- W: 1, L: 0, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: -0.16
+- **μ**: 24.64  
+- **σ**: 8.27
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 1 μ: 26.52"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 1 |
+| [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 2 |
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 26.52"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 2-21 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
 | 2026-02-22 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 15-10 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

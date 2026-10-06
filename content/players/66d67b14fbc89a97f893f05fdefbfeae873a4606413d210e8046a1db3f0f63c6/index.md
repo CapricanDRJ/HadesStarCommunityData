@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "—КАРАТЕЛЬ—"
-description: "ws: 4 μ: 26.30"
+description: "ws: 5 μ: 26.27"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 2
-- **Rating**: 1.50
-- **μ**: 26.30  
-- **σ**: 8.26
-- W: 2, L: 2, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 3
+- **Rating**: 1.58
+- **μ**: 26.27  
+- **σ**: 8.23
+- W: 3, L: 2, T: 0
 
 ---
 
@@ -18,6 +18,7 @@ description: "ws: 4 μ: 26.30"
 | --- | --- |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 1 |
 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) | 1 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1 |
 
 ---
 
@@ -25,6 +26,7 @@ description: "ws: 4 μ: 26.30"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 21-2 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | 2026-04-27 | [Милый дом](https://ws.tsl.rocks/corp/d908cbdc39ad7efc371d8e2683776f9c0961d8bd1c3959d1db2a2e0bac82cacc/) | 13-7 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-02-14 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-41 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | 2025-11-23 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 29-3 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |

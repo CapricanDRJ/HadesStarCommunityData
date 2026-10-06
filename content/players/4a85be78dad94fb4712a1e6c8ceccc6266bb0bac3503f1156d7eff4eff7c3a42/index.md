@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Eldagor"
-description: "ws: 2 μ: 26.17"
+description: "ws: 3 μ: 24.30"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 2
-- **Rating**: 1.37
-- **μ**: 26.17  
-- **σ**: 8.27
-- W: 1, L: 1, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 3
+- **Rating**: -0.39
+- **μ**: 24.30  
+- **σ**: 8.23
+- W: 1, L: 2, T: 0
 
 ---
 
@@ -16,8 +16,8 @@ description: "ws: 2 μ: 26.17"
 
 | Corporation | WhiteStars |
 | --- | --- |
+| [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 2 |
 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 1 |
-| [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 1 |
 
 ---
 
@@ -25,5 +25,6 @@ description: "ws: 2 μ: 26.17"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 2-21 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
 | 2026-02-22 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) | 15-10 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-11-02 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 3-22 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |

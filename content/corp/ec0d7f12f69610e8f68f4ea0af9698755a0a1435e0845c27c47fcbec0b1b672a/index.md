@@ -1,6 +1,6 @@
 ---
 title: ​星河绮梦
-description: W:54 L:16 D:0 Bonus ✅ 40%
+description: W:54 L:16 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 6 - 15 **New YuGiOh**
 date: 2026-10-06T14:07:05.000Z
@@ -26,7 +26,7 @@ QQ群：131920392
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
