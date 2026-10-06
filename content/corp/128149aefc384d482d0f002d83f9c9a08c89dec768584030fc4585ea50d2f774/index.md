@@ -1,6 +1,6 @@
 ---
 title: ​リリース
-description: W:110 L:65 D:0 Bonus ✅ 48%
+description: W:110 L:65 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 21 - 3 **ParalleL**
 date: 2026-09-29T16:28:35.000Z
@@ -17,7 +17,7 @@ d必須です！　特別待遇はできかねますのでご注意ください�
 <br>
 
 ### [Discord](https://discord.gg/jmZpzGx7b5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

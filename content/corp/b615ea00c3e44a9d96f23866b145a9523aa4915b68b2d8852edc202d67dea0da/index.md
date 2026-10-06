@@ -1,6 +1,6 @@
 ---
 title: ​Southall 1
-description: W:4 L:7 D:1 Bonus ❌ 5%
+description: W:4 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 26 **Ainz ooal gown**
 date: 2026-05-25T22:04:42.000Z
@@ -15,7 +15,7 @@ date: 2026-05-25T22:04:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

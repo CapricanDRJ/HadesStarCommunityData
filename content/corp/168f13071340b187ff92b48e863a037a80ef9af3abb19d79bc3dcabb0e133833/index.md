@@ -1,6 +1,6 @@
 ---
 title: ​RES新星
-description: W:5 L:3 D:0 Bonus ❌ 5%
+description: W:5 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 11 **RED STAR**
 date: 2026-08-16T07:32:21.000Z
@@ -15,7 +15,7 @@ date: 2026-08-16T07:32:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
