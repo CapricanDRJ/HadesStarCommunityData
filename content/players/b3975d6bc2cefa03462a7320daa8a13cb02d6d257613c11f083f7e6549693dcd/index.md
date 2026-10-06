@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Gromlt"
-description: "ws: 25 μ: 29.32"
+description: "ws: 26 μ: 29.52"
 ---
-- **WhiteStars**: 25
-- **Eligible**: 22
-- **Rating**: 5.81
-- **μ**: 29.32  
-- **σ**: 7.84
-- W: 23, L: 2, T: 0
+- **WhiteStars**: 26
+- **Eligible**: 23
+- **Rating**: 6.04
+- **μ**: 29.52  
+- **σ**: 7.83
+- W: 24, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 25 μ: 29.32"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 22 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 23 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 25 μ: 29.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 29-9 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | 2026-09-29 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 21-6 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-09-22 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 45-0 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | 2026-09-15 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 25-5 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |

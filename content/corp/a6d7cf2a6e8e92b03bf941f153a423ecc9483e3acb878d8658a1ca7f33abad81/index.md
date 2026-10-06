@@ -1,9 +1,9 @@
 ---
 title: ​Space Oddity
-description: W:33 L:14 D:0 Bonus ❌ 13%
+description: W:33 L:15 D:0 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 9 - 16 **imperio galacti**
-date: 2026-08-09T14:13:15.000Z
+Summary: ❌ 17 - 18 **WALRUS**
+date: 2026-10-06T07:11:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1407 🔻  (-11)|
-| ELO Competitive | 1537 🔻  (-5)|
-| Total Matches | 47 |
+| ELO Regular | 1388 🔻  (-19)|
+| ELO Competitive | 1519 🔻  (-18)|
+| Total Matches | 48 |
 | Wins | 33 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785852795,1785235986,1783596895,1772026031,1771412555,1770712231,1770201176,1768981277,1767864176,1754376429,1752566865,1752051894,1750837350,1750114649,1749550883,1748462215,1747821544,1747340766,1746896326,1746430260,1745970206,1745445624,1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
+        let timestamps = [1790838691,1785852795,1785235986,1783596895,1772026031,1771412555,1770712231,1770201176,1768981277,1767864176,1754376429,1752566865,1752051894,1750837350,1750114649,1749550883,1748462215,1747821544,1747340766,1746896326,1746430260,1745970206,1745445624,1745012293,1714393274,1713782150,1712573076,1711370256,1710770519,1710171681,1709543093,1708934914,1708331826,1707727217,1707125611,1707125310,1706515872,1705916046,1705915144,1705326137,1704706480,1704012594,1703491789,1702889934,1702282538,1701679337,1701075251,1700473850];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/06 | 17-18 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) |
 | ❌ | 2026/08/09 | 9-16 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2026/08/02 | 17-6 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) |
 | ✅ | 2026/07/14 | 17-3 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
@@ -197,5 +198,5 @@ Corporation ID: a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786284795"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791270691"></span>
 </div>

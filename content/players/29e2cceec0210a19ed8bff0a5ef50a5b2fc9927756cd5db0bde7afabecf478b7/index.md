@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "stalkerok281"
-description: "ws: 47 μ: 35.44"
+description: "ws: 48 μ: 35.61"
 ---
-- **WhiteStars**: 47
-- **Eligible**: 35
-- **Rating**: 12.95
-- **μ**: 35.44  
-- **σ**: 7.49
-- W: 43, L: 4, T: 0
+- **WhiteStars**: 48
+- **Eligible**: 36
+- **Rating**: 13.16
+- **μ**: 35.61  
+- **σ**: 7.48
+- W: 44, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 47 μ: 35.44"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 35 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 36 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 47 μ: 35.44"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 29-9 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | 2026-09-29 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 21-6 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-09-22 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 45-0 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | 2026-09-15 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 25-5 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |

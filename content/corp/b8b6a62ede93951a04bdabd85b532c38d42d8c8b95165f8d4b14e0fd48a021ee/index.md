@@ -1,6 +1,6 @@
 ---
 title: ​Hermitage
-description: W:28 L:24 D:2 Bonus ❌ 9%
+description: W:28 L:24 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 26 - 4 **INFINITY STAR**
 date: 2026-08-09T08:17:45.000Z
@@ -18,7 +18,7 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
