@@ -1,6 +1,6 @@
 ---
 title: ​The Imperium
-description: W:2 L:1 D:0 Bonus ❌ 
+description: W:2 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 5 - 21 **DarkMastersComp**
 date: 2026-06-14T16:01:07.000Z
@@ -15,7 +15,7 @@ date: 2026-06-14T16:01:07.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

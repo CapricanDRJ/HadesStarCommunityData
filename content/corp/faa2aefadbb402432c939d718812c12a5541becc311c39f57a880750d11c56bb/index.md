@@ -1,9 +1,9 @@
 ---
 title: ​传说之下2
-description: W:30 L:18 D:1 Bonus ❌ 10%
+description: W:31 L:18 D:1 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **New YuGiOh**
-date: 2026-07-15T14:36:47.000Z
+Summary: ✅ 17 - 3 **Star Blazers**
+date: 2026-10-06T12:31:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-07-15T14:36:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔻  (-9)|
-| ELO Competitive | 1476 🔻  (-3)|
-| Total Matches | 49 |
-| Wins | 30 |
+| ELO Regular | 1316 🔺  (11)|
+| ELO Competitive | 1490 🔺  (13)|
+| Total Matches | 50 |
+| Wins | 31 |
 | Losses | 18 |
 | Draws | 1 |
 | Streak Record | 11 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1783694207,1783677955,1773932577,1772366825,1772360734,1771456297,1771302902,1771003657,1770853740,1770552094,1770394664,1769642833,1769087639,1769036324,1768437158,1767826627,1767135386,1766627060,1766019428,1765408917,1764802576,1764284213,1761778474,1759751427,1759750225,1759237623,1759234017,1757125973,1757122359,1756180276,1756125890,1755675457,1755670650,1755176637,1755175134,1754366514,1754366214,1753360192,1752616631,1752579182,1751972566,1751971965,1750985491,1750247758,1749641632,1748008744,1747350381,1746686578,1746014672];
+        let timestamps = [1790857917,1783694207,1783677955,1773932577,1772366825,1772360734,1771456297,1771302902,1771003657,1770853740,1770552094,1770394664,1769642833,1769087639,1769036324,1768437158,1767826627,1767135386,1766627060,1766019428,1765408917,1764802576,1764284213,1761778474,1759751427,1759750225,1759237623,1759234017,1757125973,1757122359,1756180276,1756125890,1755675457,1755670650,1755176637,1755175134,1754366514,1754366214,1753360192,1752616631,1752579182,1751972566,1751971965,1750985491,1750247758,1749641632,1748008744,1747350381,1746686578,1746014672];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/06 | 17-3 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2026/07/15 | 0-3 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2026/07/15 | 3-18 | [深域](https://ws.tsl.rocks/corp/eecda71374dad3401a154cda170518bbf578f7124c194849a529405246335626/) |
 | ❌ | 2026/03/24 | 0-16 | [Solar Corp](https://ws.tsl.rocks/corp/48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264/) |
@@ -200,5 +201,5 @@ Corporation ID: faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1784126207"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791289917"></span>
 </div>

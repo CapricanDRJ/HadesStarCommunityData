@@ -1,9 +1,9 @@
 ---
 title: ​星际联邦
-description: W:27 L:10 D:1 Bonus ✅ 38%
+description: W:28 L:10 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 14 - 2 **万顷稻花**
-date: 2026-09-29T15:08:28.000Z
+Summary: ✅ 20 - 1 **࿇ÐɑʀҟƑîʀɛ༒🍁**
+date: 2026-10-06T09:46:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-09-29T15:08:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔺  (9)|
-| ELO Competitive | 1433 🔺  (11)|
-| Total Matches | 38 |
-| Wins | 27 |
+| ELO Regular | 1367 🔺  (11)|
+| ELO Competitive | 1442 🔺  (9)|
+| Total Matches | 39 |
+| Wins | 28 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790262508,1789559087,1789043128,1788349389,1787752786,1787155367,1786624604,1786092530,1783954048,1783561996,1783422592,1782988995,1782440773,1781847971,1781152755,1781103485,1780671218,1780053872,1779279085,1778758853,1778280943,1778275755,1777619302,1777587461,1777043640,1776340620,1775851967,1775226286,1775221478,1774608083,1774013695,1773476209,1771861102,1771425174,1770906312,1770370626,1769887506,1769415157];
+        let timestamps = [1790848002,1790262508,1789559087,1789043128,1788349389,1787752786,1787155367,1786624604,1786092530,1783954048,1783561996,1783422592,1782988995,1782440773,1781847971,1781152755,1781103485,1780671218,1780053872,1779279085,1778758853,1778280943,1778275755,1777619302,1777587461,1777043640,1776340620,1775851967,1775226286,1775221478,1774608083,1774013695,1773476209,1771861102,1771425174,1770906312,1770370626,1769887506,1769415157];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/06 | 20-1 | [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) |
 | ✅ | 2026/09/29 | 14-2 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ✅ | 2026/09/21 | 10-0 | [Petronus7](https://ws.tsl.rocks/corp/42fba3023377f1358e181e639f4a408dc97841c8b7cf802ea1d1a29381da5702/) |
 | ✅ | 2026/09/15 | 10-7 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
@@ -190,5 +191,5 @@ Corporation ID: 0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790694508"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791280002"></span>
 </div>

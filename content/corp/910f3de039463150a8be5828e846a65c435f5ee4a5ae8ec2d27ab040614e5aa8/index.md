@@ -1,6 +1,6 @@
 ---
 title: ​Bastille FR
-description: W:27 L:23 D:0 Bonus ✅ 38%
+description: W:27 L:23 D:0 Bonus ✅ 40%
 image: ./favicon.png
 Summary: ✅ 24 - 0 **Avantgarde**
 date: 2026-10-05T09:59:41.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T09:59:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |

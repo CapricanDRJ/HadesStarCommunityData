@@ -1,6 +1,6 @@
 ---
 title: ​attraction.F
-description: W:24 L:3 D:1 Bonus ✅ 36%
+description: W:24 L:3 D:1 Bonus ✅ 38%
 image: ./favicon.png
 Summary: ✅ 17 - 3 **Lupus Regnum**
 date: 2026-10-04T05:17:28.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T05:17:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
