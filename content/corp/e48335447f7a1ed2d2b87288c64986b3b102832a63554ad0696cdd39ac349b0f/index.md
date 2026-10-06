@@ -1,6 +1,6 @@
 ---
 title: ​Milliways
-description: W:6 L:0 D:0 Bonus ✅ 30%
+description: W:6 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
 Summary: ✅ 31 - 7 **Слава Украине\!**
 date: 2026-10-04T06:27:33.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T06:27:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |

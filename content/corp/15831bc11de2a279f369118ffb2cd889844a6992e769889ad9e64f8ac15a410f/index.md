@@ -1,6 +1,6 @@
 ---
 title: ​No Orbit©
-description: W:36 L:26 D:0 Bonus ✅ 46%
+description: W:36 L:26 D:0 Bonus ✅ 48%
 image: ./favicon.png
 Summary: ✅ 42 - 0 **Continuum**
 date: 2026-10-05T14:00:02.000Z
@@ -18,7 +18,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

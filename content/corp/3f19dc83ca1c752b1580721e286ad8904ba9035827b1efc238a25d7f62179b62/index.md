@@ -1,9 +1,9 @@
 ---
 title: ​CORE INFLICTION
-description: W:1 L:3 D:0 Bonus ❌ 10%
+description: W:1 L:4 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 4 - 7 **Spacekill**
-date: 2026-09-28T11:26:11.000Z
+Summary: ❌ 0 - 8 **NERF TOY'S**
+date: 2026-10-06T06:11:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Project for Permanent Peace
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (-15)|
-| ELO Competitive | 1201 🔻  (-14)|
-| Total Matches | 4 |
+| ELO Regular | 1175 🔻  (-16)|
+| ELO Competitive | 1196 🔻  (-5)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790162771,1789715166,1789225498,1701919177];
+        let timestamps = [1790835086,1790162771,1789715166,1789225498,1701919177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/06 | 0-8 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2026/09/28 | 4-7 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
 | ❌ | 2026/09/23 | 0-8 | [深域](https://ws.tsl.rocks/corp/eecda71374dad3401a154cda170518bbf578f7124c194849a529405246335626/) |
 | ✅ | 2026/09/17 | 3-2 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
@@ -150,5 +151,5 @@ Corporation ID: 3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790594771"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791267086"></span>
 </div>

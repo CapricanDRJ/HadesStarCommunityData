@@ -1,6 +1,6 @@
 ---
 title: ​老哥最强集团
-description: W:2 L:3 D:1 Bonus ✅ 28%
+description: W:2 L:3 D:1 Bonus ✅ 30%
 image: ./favicon.png
 Summary: ✅ 4 - 0 **LA SOLEDAD**
 date: 2026-10-05T22:03:02.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T22:03:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |

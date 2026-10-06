@@ -1,6 +1,6 @@
 ---
 title: ​UFO
-description: W:24 L:63 D:2 Bonus ❌ 9%
+description: W:24 L:63 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 23 **Ironbear Legion**
 date: 2026-10-04T00:07:08.000Z
@@ -16,7 +16,7 @@ https://discord.gg/NuvtUTUxQj
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
