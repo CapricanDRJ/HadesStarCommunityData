@@ -1,6 +1,6 @@
 ---
 title: ​RED STAR
-description: W:51 L:40 D:4 Bonus ✅ 42%
+description: W:51 L:40 D:4 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 3 - 12 **契约\-璃月**
 date: 2026-10-04T16:33:20.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T16:33:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

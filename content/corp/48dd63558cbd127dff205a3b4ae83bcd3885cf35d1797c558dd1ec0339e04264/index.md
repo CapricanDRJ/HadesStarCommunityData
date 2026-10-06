@@ -1,9 +1,9 @@
 ---
 title: ​Solar Corp
-description: W:45 L:6 D:0 Bonus ✅ 40%
+description: W:46 L:6 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 29 - 0 **NERF TOY'S**
-date: 2026-09-29T02:12:29.000Z
+Summary: ✅ 17 - 3 **Dark Training**
+date: 2026-10-05T23:45:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-09-29T02:12:29.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1493 🔺  (4)|
-| ELO Competitive | 1646 🔺  (8)|
-| Total Matches | 51 |
-| Wins | 45 |
+| ELO Regular | 1500 🔺  (6)|
+| ELO Competitive | 1653 🔺  (7)|
+| Total Matches | 52 |
+| Wins | 46 |
 | Losses | 6 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 17 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790215949,1789601930,1789001976,1788409480,1787817383,1787193075,1786581950,1785975674,1785366987,1784773340,1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
+        let timestamps = [1790811957,1790215949,1789601930,1789001976,1788409480,1787817383,1787193075,1786581950,1785975674,1785366987,1784773340,1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/05 | 17-3 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2026/09/29 | 29-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2026/09/21 | 6-15 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2026/09/15 | 17-3 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
@@ -199,5 +201,5 @@ Corporation ID: 48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790647949"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791243957"></span>
 </div>

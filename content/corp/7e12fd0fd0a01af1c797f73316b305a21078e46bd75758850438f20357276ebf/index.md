@@ -1,6 +1,6 @@
 ---
 title: ​碧霄殿
-description: W:37 L:115 D:1 Bonus ✅ 42%
+description: W:37 L:115 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 23 - 29 **ITALIA**
 date: 2026-10-05T03:39:14.000Z
@@ -25,7 +25,7 @@ date: 2026-10-05T03:39:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
