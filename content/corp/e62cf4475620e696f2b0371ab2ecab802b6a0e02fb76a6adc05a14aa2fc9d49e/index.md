@@ -1,9 +1,9 @@
 ---
 title: ​CORPORATION
-description: W:2 L:2 D:0 Bonus ✅ 28%
+description: W:3 L:2 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **Magyar Vándor**
-date: 2026-10-01T20:47:54.000Z
+Summary: ✅ 6 - 0 **big hammer**
+date: 2026-10-07T02:28:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2026-10-01T20:47:54.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (16)|
-| ELO Competitive | 1205 🔺  (16)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1216 🔺  (15)|
+| ELO Competitive | 1220 🔺  (15)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790455674,1789963603,1789384736,1788919051];
+        let timestamps = [1790908087,1790455674,1789963603,1789384736,1788919051];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/07 | 6-0 | [big hammer](https://ws.tsl.rocks/corp/5db8041a3b5b3539dc6852900229c36a9b8feb3caabb0830abf281f8282023ab/) |
 | ✅ | 2026/10/01 | 4-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ❌ | 2026/09/26 | 0-16 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ✅ | 2026/09/19 | 1-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
@@ -145,5 +148,5 @@ Corporation ID: e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790887674"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791340087"></span>
 </div>

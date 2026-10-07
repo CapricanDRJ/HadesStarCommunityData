@@ -1,9 +1,9 @@
 ---
 title: ​星空漫游者-GR
-description: W:28 L:2 D:0 Bonus ❌ 12%
+description: W:29 L:2 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ✅ 27 - 6 **リリース**
-date: 2026-09-08T10:04:19.000Z
+Summary: ✅ 26 - 7 **BrinySeal**
+date: 2026-10-07T01:28:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,18 +22,18 @@ QQ群:663677762
 ```
 <br>
 
-### Whitestar Bonus ❌ 12%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1490 🔺  (11)|
-| ELO Competitive | 1629 🔺  (17)|
-| Total Matches | 30 |
-| Wins | 28 |
+| ELO Regular | 1502 🔺  (13)|
+| ELO Competitive | 1655 🔺  (26)|
+| Total Matches | 31 |
+| Wins | 29 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 | Flagship | 4 |
 
 ---
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788429859,1784969205,1784270397,1783474569,1782857195,1782118089,1780975502,1779077014,1778552767,1776229163,1773731586,1771335107,1770281096,1768889945,1767493138,1766495770,1764895413,1764048369,1761625539,1759217794,1756792166,1749629314,1749180677,1747203137,1744689858,1744257707,1708745006,1707919843,1699976082,1699363536];
+        let timestamps = [1790904483,1788429859,1784969205,1784270397,1783474569,1782857195,1782118089,1780975502,1779077014,1778552767,1776229163,1773731586,1771335107,1770281096,1768889945,1767493138,1766495770,1764895413,1764048369,1761625539,1759217794,1756792166,1749629314,1749180677,1747203137,1744689858,1744257707,1708745006,1707919843,1699976082,1699363536];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 2 | 0 | 0 | 2 |
 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/07 | 26-7 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2026/09/08 | 27-6 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2026/07/30 | 32-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2026/07/22 | 22-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
@@ -185,5 +187,5 @@ Corporation ID: 4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788861859"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791336483"></span>
 </div>
