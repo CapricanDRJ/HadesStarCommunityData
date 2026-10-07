@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "FatTalker"
-description: "ws: 17 μ: 30.46"
+description: "ws: 18 μ: 28.97"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 14
-- **Rating**: 6.87
-- **μ**: 30.46  
-- **σ**: 7.86
-- W: 13, L: 3, T: 1
+- **WhiteStars**: 18
+- **Eligible**: 15
+- **Rating**: 5.45
+- **μ**: 28.97  
+- **σ**: 7.84
+- W: 13, L: 4, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 30.46"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 14 |
+| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 30.46"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 8-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-02-22 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 15-9 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-12-01 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 3-34 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-10-15 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 24-0 | [Alpha](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |

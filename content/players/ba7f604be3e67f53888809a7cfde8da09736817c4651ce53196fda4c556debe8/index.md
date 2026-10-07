@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "crunchman59"
-description: "ws: 7 μ: 26.21"
+description: "ws: 8 μ: 24.68"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 3
-- **Rating**: 1.53
-- **μ**: 26.21  
-- **σ**: 8.23
-- W: 5, L: 2, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 4
+- **Rating**: 0.09
+- **μ**: 24.68  
+- **σ**: 8.20
+- W: 5, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 26.21"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 3 |
+| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 26.21"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 8-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-02-22 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 15-9 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-10-15 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 24-0 | [Alpha](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | 2025-10-06 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 19-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

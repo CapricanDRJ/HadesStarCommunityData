@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Drew Alizar"
-description: "ws: 13 μ: 25.43"
+description: "ws: 14 μ: 24.60"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 11
-- **Rating**: 1.55
-- **μ**: 25.43  
-- **σ**: 7.96
-- W: 8, L: 5, T: 0
+- **WhiteStars**: 14
+- **Eligible**: 12
+- **Rating**: 0.80
+- **μ**: 24.60  
+- **σ**: 7.93
+- W: 8, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 25.43"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 11 |
+| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 12 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 25.43"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 8-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-12-01 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 3-34 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-10-06 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 19-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | 2025-09-09 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 13-9 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |

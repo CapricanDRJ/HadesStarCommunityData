@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Flavia Firma"
-description: "ws: 19 μ: 27.91"
+title: "Flav"
+description: "ws: 20 μ: 25.72"
 ---
-- **WhiteStars**: 19
-- **Eligible**: 15
-- **Rating**: 4.40
-- **μ**: 27.91  
-- **σ**: 7.84
-- W: 13, L: 5, T: 1
+- **WhiteStars**: 20
+- **Eligible**: 16
+- **Rating**: 2.29
+- **μ**: 25.72  
+- **σ**: 7.81
+- W: 13, L: 6, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 19 μ: 27.91"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 15 |
+| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 16 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 19 μ: 27.91"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 8-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-10-15 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 24-0 | [Alpha](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | 2025-10-06 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 19-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | 2025-09-27 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 24-0 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |

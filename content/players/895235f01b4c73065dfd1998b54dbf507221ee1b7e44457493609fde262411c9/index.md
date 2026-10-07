@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "River"
-description: "ws: 39 μ: 32.62"
+description: "ws: 40 μ: 32.98"
 ---
-- **WhiteStars**: 39
-- **Eligible**: 27
-- **Rating**: 9.92
-- **μ**: 32.62  
-- **σ**: 7.57
-- W: 32, L: 7, T: 0
+- **WhiteStars**: 40
+- **Eligible**: 28
+- **Rating**: 10.34
+- **μ**: 32.98  
+- **σ**: 7.55
+- W: 33, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 39 μ: 32.62"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 27 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 28 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 39 μ: 32.62"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 14-8 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | 2026-10-02 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 16-4 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | 2026-09-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 35-13 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | 2026-09-20 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 22-6 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
