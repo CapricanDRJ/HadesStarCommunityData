@@ -1,9 +1,9 @@
 ---
 title: ​Mondluftschiff
-description: W:3 L:4 D:1 Bonus ❌ 5%
+description: W:3 L:5 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **REAPERS**
-date: 2026-10-02T02:38:21.000Z
+Summary: ❌ 6 - 8 **Вселенские 40%**
+date: 2026-10-07T08:24:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-02T02:38:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (-7)|
-| ELO Competitive | 1220 🔻  (-4)|
-| Total Matches | 8 |
+| ELO Regular | 1190 🔻  (-18)|
+| ELO Competitive | 1210 🔻  (-10)|
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790476701,1788094686,1787661754,1787196980,1786684395,1786251942,1785768073,1785326721];
+        let timestamps = [1790929485,1790476701,1788094686,1787661754,1787196980,1786684395,1786251942,1785768073,1785326721];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/07 | 6-8 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2026/10/02 | 0-14 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ✅ | 2026/09/04 | 14-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
 | ❌ | 2026/08/30 | 0-16 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
@@ -150,5 +151,5 @@ Corporation ID: c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790908701"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791361485"></span>
 </div>

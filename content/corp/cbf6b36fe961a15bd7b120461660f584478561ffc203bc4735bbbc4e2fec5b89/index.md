@@ -1,6 +1,6 @@
 ---
 title: ​新手村
-description: W:1 L:4 D:1 Bonus ✅ 28%
+description: W:1 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 0 - 6 **何为真理**
 date: 2026-10-05T12:44:55.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T12:44:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

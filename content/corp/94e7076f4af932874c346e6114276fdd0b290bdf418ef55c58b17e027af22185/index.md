@@ -1,6 +1,6 @@
 ---
 title: ​Будущее
-description: W:0 L:2 D:0 Bonus ❌ 2%
+description: W:0 L:2 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 3 - 20 **Gemini Ind\.**
 date: 2026-10-04T22:13:52.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T22:13:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

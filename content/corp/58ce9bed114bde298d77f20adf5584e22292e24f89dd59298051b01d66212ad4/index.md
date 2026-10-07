@@ -1,6 +1,6 @@
 ---
 title: ​Brethren Court
-description: W:8 L:0 D:0 Bonus ✅ 32%
+description: W:8 L:0 D:0 Bonus ✅ 34%
 image: ./favicon.png
 Summary: ✅ 17 - 3 **民主团**
 date: 2026-10-06T13:27:01.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T13:27:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
