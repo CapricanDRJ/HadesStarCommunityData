@@ -1,9 +1,9 @@
 ---
 title: ​GalaxyNova
-description: W:18 L:9 D:0 Bonus ❌ 8%
+description: W:19 L:9 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 4 - 9 **BrinySeal**
-date: 2026-09-25T17:25:53.000Z
+Summary: ✅ 14 - 12 **РУССКИЕ ИДУТ**
+date: 2026-10-07T18:04:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ but no being mean and excluding... Aires adds: (unless in a blue star
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (-11)|
-| ELO Competitive | 1427 🔻  (-2)|
-| Total Matches | 27 |
-| Wins | 18 |
+| ELO Regular | 1335 🔺  (10)|
+| ELO Competitive | 1437 🔺  (10)|
+| Total Matches | 28 |
+| Wins | 19 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789925153,1785889753,1782291156,1778859199,1771425775,1766608925,1764346427,1763510274,1761707562,1758459753,1754661897,1753858398,1752267049,1750706049,1748707409,1746441977,1725623183,1723493200,1719758313,1718908474,1716784417,1715614143,1713524979,1711503968,1709572842,1707435594,1704838414];
+        let timestamps = [1790964268,1789925153,1785889753,1782291156,1778859199,1771425775,1766608925,1764346427,1763510274,1761707562,1758459753,1754661897,1753858398,1752267049,1750706049,1748707409,1746441977,1725623183,1723493200,1719758313,1718908474,1716784417,1715614143,1713524979,1711503968,1709572842,1707435594,1704838414];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/07 | 14-12 | [РУССКИЕ ИДУТ](https://ws.tsl.rocks/corp/89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37/) |
 | ❌ | 2026/09/25 | 4-9 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2026/08/10 | 2-32 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ✅ | 2026/06/29 | 26-9 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
@@ -177,5 +178,5 @@ Corporation ID: d3df4ca63632d4113f93581cd3629f93a8b06733db25c5ea94da3e7889cd8b94
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790357153"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791396268"></span>
 </div>

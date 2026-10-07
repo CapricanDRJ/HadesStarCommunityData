@@ -1,6 +1,6 @@
 ---
 title: ​Stargate Sg7
-description: W:51 L:28 D:0 Bonus ✅ 44%
+description: W:51 L:28 D:0 Bonus ✅ 46%
 image: ./favicon.png
 Summary: ✅ 34 - 0 **落魄山**
 date: 2026-10-05T12:52:43.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T12:52:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |
