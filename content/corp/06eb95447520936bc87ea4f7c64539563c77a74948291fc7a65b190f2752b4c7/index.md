@@ -1,9 +1,9 @@
 ---
 title: ​UGSS
-description: W:5 L:14 D:2 Bonus ❌ 6%
+description: W:5 L:15 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **新星帝国属－涵空阁集团**
-date: 2026-09-11T12:43:10.000Z
+Summary: ❌ 0 - 6 **New YuGiOh**
+date: 2026-10-07T03:48:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-11T12:43:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (0)|
-| ELO Competitive | 1158 🔻  (-2)|
-| Total Matches | 21 |
+| ELO Regular | 1114 🔻  (-3)|
+| ELO Competitive | 1157 🔻  (-1)|
+| Total Matches | 22 |
 | Wins | 5 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788698590,1788094753,1787488693,1787483285,1784602396,1768977072,1762711099,1754267994,1751942272,1751864389,1750329498,1748276814,1747225970,1746647222,1745800933,1745341048,1744898998,1744442538,1743514536,1742490606,1740807497];
+        let timestamps = [1790912925,1788698590,1788094753,1787488693,1787483285,1784602396,1768977072,1762711099,1754267994,1751942272,1751864389,1750329498,1748276814,1747225970,1746647222,1745800933,1745341048,1744898998,1744442538,1743514536,1742490606,1740807497];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/07 | 0-6 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ↔️ | 2026/09/11 | 0-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
 | ↔️ | 2026/09/04 | 0-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2026/08/28 | 0-9 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
@@ -163,5 +164,5 @@ Corporation ID: 06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789130590"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791344925"></span>
 </div>

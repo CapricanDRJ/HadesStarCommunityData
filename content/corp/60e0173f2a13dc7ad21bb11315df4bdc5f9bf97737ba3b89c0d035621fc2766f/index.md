@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:92 L:70 D:2 Bonus ✅ 48%
+description: W:92 L:70 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 33 **星落苑**
 date: 2026-10-06T20:52:43.000Z
@@ -18,7 +18,7 @@ date: 2026-10-06T20:52:43.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
