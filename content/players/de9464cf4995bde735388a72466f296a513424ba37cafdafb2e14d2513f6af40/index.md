@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Ayanami_Rey"
-description: "ws: 11 μ: 23.39"
+description: "ws: 12 μ: 24.35"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 10
-- **Rating**: -0.64
-- **μ**: 23.39  
-- **σ**: 8.01
-- W: 5, L: 6, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 11
+- **Rating**: 0.43
+- **μ**: 24.35  
+- **σ**: 7.97
+- W: 6, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 11 μ: 23.39"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 9 |
+| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 10 |
 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 11 μ: 23.39"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 44-3 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | 2026-09-29 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 6-21 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-07-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 3-46 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | 2026-05-20 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 2-20 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |

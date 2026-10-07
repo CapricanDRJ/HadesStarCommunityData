@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "kottee.attake"
-description: "ws: 24 μ: 24.91"
+description: "ws: 25 μ: 25.81"
 ---
-- **WhiteStars**: 24
-- **Eligible**: 19
-- **Rating**: 1.67
-- **μ**: 24.91  
-- **σ**: 7.75
-- W: 16, L: 8, T: 0
+- **WhiteStars**: 25
+- **Eligible**: 20
+- **Rating**: 2.66
+- **μ**: 25.81  
+- **σ**: 7.72
+- W: 17, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 24 μ: 24.91"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 19 |
+| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 20 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 24 μ: 24.91"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 44-3 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | 2026-09-29 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 6-21 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-07-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 3-46 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | 2026-02-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 9-15 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

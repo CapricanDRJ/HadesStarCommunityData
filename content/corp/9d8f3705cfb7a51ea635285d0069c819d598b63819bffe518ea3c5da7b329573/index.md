@@ -1,6 +1,6 @@
 ---
 title: ​落魄山
-description: W:18 L:115 D:3 Bonus ✅ 42%
+description: W:18 L:115 D:3 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **Legión**
 date: 2026-10-05T16:40:18.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T16:40:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

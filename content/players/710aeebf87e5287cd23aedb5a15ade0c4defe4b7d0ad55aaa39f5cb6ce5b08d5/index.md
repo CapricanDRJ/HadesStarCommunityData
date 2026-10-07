@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KiLLamadly"
-description: "ws: 13 μ: 25.50"
+description: "ws: 14 μ: 26.46"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 10
-- **Rating**: 1.45
-- **μ**: 25.50  
-- **σ**: 8.02
-- W: 10, L: 3, T: 0
+- **WhiteStars**: 14
+- **Eligible**: 11
+- **Rating**: 2.52
+- **μ**: 26.46  
+- **σ**: 7.98
+- W: 11, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 25.50"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 10 |
+| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 11 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 25.50"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 44-3 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | 2026-09-29 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 6-21 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-07-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 3-46 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | 2026-01-27 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 6-13 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |

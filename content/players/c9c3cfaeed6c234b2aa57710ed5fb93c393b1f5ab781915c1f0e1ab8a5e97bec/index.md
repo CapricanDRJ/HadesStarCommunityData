@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Joe90"
-description: "ws: 4 μ: 27.60"
+description: "ws: 5 μ: 25.54"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 4
-- **Rating**: 3.04
-- **μ**: 27.60  
-- **σ**: 8.19
-- W: 4, L: 0, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 5
+- **Rating**: 1.09
+- **μ**: 25.54  
+- **σ**: 8.15
+- W: 4, L: 1, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 4 μ: 27.60"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 4 |
+| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 4 μ: 27.60"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 3-44 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-03-01 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 14-4 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-01-16 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 37-2 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2025-09-07 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 23-17 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
