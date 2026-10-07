@@ -1,9 +1,9 @@
 ---
 title: ​Закулисье
-description: W:10 L:2 D:0 Bonus ✅ 32%
+description: W:11 L:2 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 29 - 3 **Лунный Феникс**
-date: 2026-10-02T11:39:04.000Z
+Summary: ✅ 9 - 1 **战争幽灵**
+date: 2026-10-07T15:24:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-10-02T11:39:04.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (20)|
-| ELO Competitive | 1399 🔺  (28)|
-| Total Matches | 12 |
-| Wins | 10 |
+| ELO Regular | 1316 🔺  (5)|
+| ELO Competitive | 1403 🔺  (5)|
+| Total Matches | 13 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790509144,1789838636,1789402779,1788968920,1786906755,1786471694,1778979076,1778505662,1778066486,1777629516,1777196278,1776760926];
+        let timestamps = [1790954652,1790509144,1789838636,1789402779,1788968920,1786906755,1786471694,1778979076,1778505662,1778066486,1777629516,1777196278,1776760926];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/07 | 9-1 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
 | ✅ | 2026/10/02 | 29-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2026/09/24 | 3-14 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2026/09/19 | 9-0 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
@@ -154,5 +156,5 @@ Corporation ID: 6b6320075ef24f567188c00a140553a525899f5558e6ab6767c88c37e6186437
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790941144"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791386652"></span>
 </div>

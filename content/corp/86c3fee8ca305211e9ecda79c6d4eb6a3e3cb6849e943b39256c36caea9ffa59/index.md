@@ -1,6 +1,6 @@
 ---
 title: ​LA SOLEDAD
-description: W:1 L:1 D:0 Bonus ✅ 26%
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 0 - 4 **老哥最强集团**
 date: 2026-10-05T22:03:02.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T22:03:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
