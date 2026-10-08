@@ -1,6 +1,6 @@
 ---
 title: ​深域
-description: W:110 L:21 D:2 Bonus ✅ 50%
+description: W:110 L:21 D:2 Bonus ✅ 52%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **Blood Hounds**
 date: 2026-10-07T06:23:26.000Z
@@ -15,7 +15,7 @@ date: 2026-10-07T06:23:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |

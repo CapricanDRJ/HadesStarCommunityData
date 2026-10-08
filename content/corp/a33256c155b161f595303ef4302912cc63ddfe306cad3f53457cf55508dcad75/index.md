@@ -1,6 +1,6 @@
 ---
 title: ​Auscorp
-description: W:196 L:49 D:2 Bonus ❌ 18%
+description: W:196 L:49 D:2 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 8 - 10 **BlackStar Order**
 date: 2026-10-06T17:37:24.000Z
@@ -23,7 +23,7 @@ All FS Donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ❌ 18%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |
