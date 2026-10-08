@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:4 L:25 D:4 Bonus ✅ 30%
+description: W:4 L:26 D:4 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **美丽新世界**
-date: 2026-10-03T13:55:21.000Z
+Summary: ❌ 0 - 3 **W\.A\.L\.R\.U\.S\.**
+date: 2026-10-08T18:52:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-03T13:55:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔺  (19)|
-| ELO Competitive | 1135 🔺  (17)|
-| Total Matches | 33 |
+| ELO Regular | 1049 🔻  (-16)|
+| ELO Competitive | 1119 🔻  (-16)|
+| Total Matches | 34 |
 | Wins | 4 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 4 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/08 | 0-3 | [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313/) |
 | ✅ | 2026/10/03 | 1-0 | [美丽新世界](https://ws.tsl.rocks/corp/237f60ced9a11f8d992fe2158784705710b2ff412544679b218d86ef44d230ef/) |
 | ❌ | 2026/09/26 | 0-5 | [Knights of Solo](https://ws.tsl.rocks/corp/ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5/) |
 | ✅ | 2026/09/21 | 3-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -181,5 +182,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791035721"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791485575"></span>
 </div>

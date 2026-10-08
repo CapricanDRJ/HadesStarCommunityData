@@ -1,6 +1,6 @@
 ---
 title: ​The X - Files
-description: W:27 L:129 D:0 Bonus ✅ 44%
+description: W:27 L:129 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 4 - 43 **Critical Mass**
 date: 2026-10-07T19:04:34.000Z
@@ -17,7 +17,7 @@ date: 2026-10-07T19:04:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
