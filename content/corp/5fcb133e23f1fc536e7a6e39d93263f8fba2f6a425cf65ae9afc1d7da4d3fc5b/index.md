@@ -1,9 +1,9 @@
 ---
 title: ​欢迎新手
-description: W:11 L:17 D:0 Bonus ✅ 34%
+description: W:12 L:17 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **宇宙聯盟**
-date: 2026-10-01T07:56:43.000Z
+Summary: ✅ 3 - 1 **白虹贯日**
+date: 2026-10-07T23:49:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-01T07:56:43.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (18)|
-| ELO Competitive | 1240 🔺  (15)|
-| Total Matches | 28 |
-| Wins | 11 |
+| ELO Regular | 1186 🔺  (22)|
+| ELO Competitive | 1260 🔺  (20)|
+| Total Matches | 29 |
+| Wins | 12 |
 | Losses | 17 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790409403,1789878289,1789045568,1788525147,1788067046,1787298223,1787296184,1786590962,1786544695,1785830564,1785830264,1785387113,1785372694,1784952082,1784919937,1784472301,1784463286,1783939023,1783938121,1783505314,1783482078,1783040752,1781320395,1781302301,1780570841,1779470316,1778853790,1777549299];
+        let timestamps = [1790984997,1790409403,1789878289,1789045568,1788525147,1788067046,1787298223,1787296184,1786590962,1786544695,1785830564,1785830264,1785387113,1785372694,1784952082,1784919937,1784472301,1784463286,1783939023,1783938121,1783505314,1783482078,1783040752,1781320395,1781302301,1780570841,1779470316,1778853790,1777549299];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,15 +134,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) | 1 | 2 | 0 | 3 |
 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) | 1 | 1 | 0 | 2 |
 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) | 0 | 2 | 0 | 2 |
-| [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/07 | 3-1 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ✅ | 2026/10/01 | 1-0 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ✅ | 2026/09/25 | 3-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ✅ | 2026/09/15 | 7-0 | [亚洲团队](https://ws.tsl.rocks/corp/c9aff5770282e84fa982a70be0c45b952f62286b7635a13df63d1615267c653e/) |
@@ -178,5 +179,5 @@ Corporation ID: 5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790841403"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791416997"></span>
 </div>

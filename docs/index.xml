@@ -6,133 +6,168 @@
     <description>Recent content in Hades&#39; Star resources on Hades&#39; Star Resources</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 22:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:07:33 +0000</lastBuildDate>
     <atom:link href="https://ws.tsl.rocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discord Invites</title>
       <link>https://ws.tsl.rocks/invites/</link>
-      <pubDate>Wed, 07 Oct 2026 22:04:38 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 01:07:33 +0000</pubDate>
       <guid>https://ws.tsl.rocks/invites/</guid>
       <description>Provided by Hades&amp;#39; Link Archive.</description>
     </item>
     <item>
       <title>Average Relics</title>
       <link>https://ws.tsl.rocks/avgrelics/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/avgrelics/</guid>
       <description>Hades&amp;#39; Star top corporations by average relics per match (only corporations with &amp;gt;5 matches, last 6 months)</description>
     </item>
     <item>
       <title>Comp ELO</title>
       <link>https://ws.tsl.rocks/comp100/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/comp100/</guid>
       <description>Hades&amp;#39; Star top competitive Elo ranks</description>
     </item>
     <item>
       <title>Relics</title>
       <link>https://ws.tsl.rocks/relics100/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/relics100/</guid>
       <description>Hades&amp;#39; Star top corporations by relics collected since last 6 months</description>
     </item>
     <item>
       <title>Scanning ±12h</title>
       <link>https://ws.tsl.rocks/scanning/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanning/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning ±12h</description>
     </item>
     <item>
       <title>Scanning Friday</title>
       <link>https://ws.tsl.rocks/scanfri/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanfri/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Friday</description>
     </item>
     <item>
       <title>Scanning Monday</title>
       <link>https://ws.tsl.rocks/scanmon/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanmon/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Monday</description>
     </item>
     <item>
       <title>Scanning Saturday</title>
       <link>https://ws.tsl.rocks/scansat/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scansat/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Saturday</description>
     </item>
     <item>
       <title>Scanning Sunday</title>
       <link>https://ws.tsl.rocks/scansun/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scansun/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Sunday</description>
     </item>
     <item>
       <title>Scanning Thursday</title>
       <link>https://ws.tsl.rocks/scanthu/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanthu/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Thursday</description>
     </item>
     <item>
       <title>Scanning Tuesday</title>
       <link>https://ws.tsl.rocks/scantue/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scantue/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Tuesday</description>
     </item>
     <item>
       <title>Scanning Wednesday</title>
       <link>https://ws.tsl.rocks/scanwed/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/scanwed/</guid>
       <description>Probability a Hades&amp;#39; Star corporation is scanning Wednesday</description>
     </item>
     <item>
       <title>Top Bonus</title>
       <link>https://ws.tsl.rocks/bonus/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/bonus/</guid>
       <description>Top Corporations with bonus</description>
     </item>
     <item>
       <title>Top ELO</title>
       <link>https://ws.tsl.rocks/top100/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/top100/</guid>
       <description>Hades&amp;#39; Star top Elo ranks inclusive of all whitestar matches.</description>
     </item>
     <item>
       <title>Top Lose</title>
       <link>https://ws.tsl.rocks/lose100/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/lose100/</guid>
       <description>Hades&amp;#39; Star corporations ranked by last 6 months total losses</description>
     </item>
     <item>
       <title>Top Win</title>
       <link>https://ws.tsl.rocks/win100/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/win100/</guid>
       <description>Hades&amp;#39; Star corporations ranked by last 6 months total wins</description>
     </item>
     <item>
       <title>Total WhiteStars</title>
       <link>https://ws.tsl.rocks/totalws/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/totalws/</guid>
       <description>Hades&amp;#39; Star corporations with the most whitestars since the Dark Nebula release.</description>
     </item>
     <item>
       <title>Win Streak</title>
       <link>https://ws.tsl.rocks/streak/</link>
-      <pubDate>Wed, 07 Oct 2026 21:55:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:56:01 +0000</pubDate>
       <guid>https://ws.tsl.rocks/streak/</guid>
       <description>Hades&amp;#39; Star corporations longest win streak leaderboard</description>
+    </item>
+    <item>
+      <title>​Critical Mass</title>
+      <link>https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/</link>
+      <pubDate>Wed, 07 Oct 2026 23:59:57 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/</guid>
+      <description>W:77 L:36 D:2 Bonus ✅ 48%</description>
+    </item>
+    <item>
+      <title>​The Allegiant</title>
+      <link>https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/</link>
+      <pubDate>Wed, 07 Oct 2026 23:59:57 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/</guid>
+      <description>W:64 L:77 D:3 Bonus ❌ 13%</description>
+    </item>
+    <item>
+      <title>​●Black•Sails●</title>
+      <link>https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/</link>
+      <pubDate>Wed, 07 Oct 2026 23:49:57 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/</guid>
+      <description>W:24 L:72 D:7 Bonus ❌ 9%</description>
+    </item>
+    <item>
+      <title>​欢迎新手</title>
+      <link>https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/</link>
+      <pubDate>Wed, 07 Oct 2026 23:49:57 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/</guid>
+      <description>W:12 L:17 D:0 Bonus ✅ 34%</description>
+    </item>
+    <item>
+      <title>​白虹贯日</title>
+      <link>https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/</link>
+      <pubDate>Wed, 07 Oct 2026 23:49:57 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/</guid>
+      <description>W:19 L:6 D:0 Bonus ✅ 36%</description>
     </item>
     <item>
       <title>​Team Elite</title>
@@ -161,13 +196,6 @@
       <pubDate>Wed, 07 Oct 2026 20:54:44 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/</guid>
       <description>W:129 L:79 D:3 Bonus ✅ 52%</description>
-    </item>
-    <item>
-      <title>​Critical Mass</title>
-      <link>https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/</link>
-      <pubDate>Wed, 07 Oct 2026 19:04:34 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/</guid>
-      <description>W:76 L:36 D:2 Bonus ✅ 48%</description>
     </item>
     <item>
       <title>​The X - Files</title>
@@ -475,7 +503,7 @@
       <link>https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/</link>
       <pubDate>Tue, 06 Oct 2026 17:37:24 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/</guid>
-      <description>W:196 L:49 D:2 Bonus ✅ 56%</description>
+      <description>W:196 L:49 D:2 Bonus ❌ 18%</description>
     </item>
     <item>
       <title>​BlackStar Order</title>
@@ -2438,13 +2466,6 @@
       <description>W:4 L:4 D:1 Bonus ❌ 5%</description>
     </item>
     <item>
-      <title>​欢迎新手</title>
-      <link>https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/</link>
-      <pubDate>Thu, 01 Oct 2026 07:56:43 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/</guid>
-      <description>W:11 L:17 D:0 Bonus ✅ 34%</description>
-    </item>
-    <item>
       <title>​*Alfa y Omega*</title>
       <link>https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/</link>
       <pubDate>Thu, 01 Oct 2026 05:26:30 +0000</pubDate>
@@ -2478,13 +2499,6 @@
       <pubDate>Thu, 01 Oct 2026 00:46:08 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/</guid>
       <description>W:48 L:33 D:4 Bonus ❌ 10%</description>
-    </item>
-    <item>
-      <title>​The Allegiant</title>
-      <link>https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/</link>
-      <pubDate>Wed, 30 Sep 2026 13:45:14 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/</guid>
-      <description>W:64 L:76 D:3 Bonus ❌ 13%</description>
     </item>
     <item>
       <title>​风云集团</title>
@@ -2611,13 +2625,6 @@
       <pubDate>Sat, 26 Sep 2026 09:23:16 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/f958a85d95e9006f2c13b4453fdf0f381ac6ec8610b8bbf964eccce0cf0819ef/</guid>
       <description>W:0 L:2 D:0 Bonus ❌ 2%</description>
-    </item>
-    <item>
-      <title>​白虹贯日</title>
-      <link>https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/</link>
-      <pubDate>Sat, 26 Sep 2026 04:06:43 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/</guid>
-      <description>W:18 L:5 D:0 Bonus ❌ 8%</description>
     </item>
     <item>
       <title>​TUSFO星舰联邦</title>
@@ -2982,13 +2989,6 @@
       <pubDate>Tue, 15 Sep 2026 13:06:08 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/c9aff5770282e84fa982a70be0c45b952f62286b7635a13df63d1615267c653e/</guid>
       <description>W:3 L:4 D:0 Bonus ❌ 4%</description>
-    </item>
-    <item>
-      <title>​●Black•Sails●</title>
-      <link>https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/</link>
-      <pubDate>Tue, 15 Sep 2026 03:49:48 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/</guid>
-      <description>W:24 L:71 D:7 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​Red star (all)</title>
@@ -17683,14 +17683,14 @@
       <link>https://ws.tsl.rocks/players/7f739474181aac979110d1385199e3a2620074420b69cc92757f87737cfe8906/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/7f739474181aac979110d1385199e3a2620074420b69cc92757f87737cfe8906/</guid>
-      <description>ws: 4 μ: 25.86</description>
+      <description>ws: 5 μ: 25.86</description>
     </item>
     <item>
       <title>-FYD</title>
       <link>https://ws.tsl.rocks/players/8625f188c2a89f4fe3c82c98b0fc8dcbcca0674e2aefa24a7e0f54e4b19f8cbf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/8625f188c2a89f4fe3c82c98b0fc8dcbcca0674e2aefa24a7e0f54e4b19f8cbf/</guid>
-      <description>ws: 7 μ: 25.86</description>
+      <description>ws: 8 μ: 25.86</description>
     </item>
     <item>
       <title>-Gen4ik-</title>
@@ -20350,7 +20350,7 @@
       <link>https://ws.tsl.rocks/players/983752a256e53f4a0cf9bc3b8e754e1b19d3bf1223d28e82005e2bd23b67b0d1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/983752a256e53f4a0cf9bc3b8e754e1b19d3bf1223d28e82005e2bd23b67b0d1/</guid>
-      <description>ws: 7 μ: 22.92</description>
+      <description>ws: 8 μ: 22.92</description>
     </item>
     <item>
       <title>All1402</title>
@@ -21561,7 +21561,7 @@
       <link>https://ws.tsl.rocks/players/4d121f777fcd2765e4b956a7cbd83b2c0c5708d7fe452b94f9680c274b9977c7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/4d121f777fcd2765e4b956a7cbd83b2c0c5708d7fe452b94f9680c274b9977c7/</guid>
-      <description>ws: 45 μ: 22.98</description>
+      <description>ws: 46 μ: 22.98</description>
     </item>
     <item>
       <title>Astad</title>
@@ -21897,7 +21897,7 @@
       <link>https://ws.tsl.rocks/players/9c62c08dc3e429b1d3dae0c1060643186ea8a2821bca6d95f77483f980b86e49/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/9c62c08dc3e429b1d3dae0c1060643186ea8a2821bca6d95f77483f980b86e49/</guid>
-      <description>ws: 7 μ: 22.71</description>
+      <description>ws: 8 μ: 22.71</description>
     </item>
     <item>
       <title>Avrep</title>
@@ -23416,7 +23416,7 @@
       <link>https://ws.tsl.rocks/players/eff38be9c932bc9b8ff2519f759d5f09d80335244bcb58d5ca1ea7e4a06db15a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/eff38be9c932bc9b8ff2519f759d5f09d80335244bcb58d5ca1ea7e4a06db15a/</guid>
-      <description>ws: 5 μ: 23.89</description>
+      <description>ws: 6 μ: 23.89</description>
     </item>
     <item>
       <title>bobbie42</title>
@@ -25271,7 +25271,7 @@
       <link>https://ws.tsl.rocks/players/b029a958c971a803fbdc776db0d2b2ab3c1de57bff6239d6159668e0575e6652/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/b029a958c971a803fbdc776db0d2b2ab3c1de57bff6239d6159668e0575e6652/</guid>
-      <description>ws: 47 μ: 19.19</description>
+      <description>ws: 48 μ: 19.19</description>
     </item>
     <item>
       <title>cibernoid</title>
@@ -27910,7 +27910,7 @@
       <link>https://ws.tsl.rocks/players/3b89d341437bf50b117e4fa630c8b10a5af8595b1a26d58eeb154c5da6b169bf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/3b89d341437bf50b117e4fa630c8b10a5af8595b1a26d58eeb154c5da6b169bf/</guid>
-      <description>ws: 47 μ: 20.74</description>
+      <description>ws: 48 μ: 20.74</description>
     </item>
     <item>
       <title>Dial</title>
@@ -28414,7 +28414,7 @@
       <link>https://ws.tsl.rocks/players/1635e9682989c018976fb4ad0d9bdb3aa7b7c9d79cb5af14fef77ea650bcc9e6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/1635e9682989c018976fb4ad0d9bdb3aa7b7c9d79cb5af14fef77ea650bcc9e6/</guid>
-      <description>ws: 2 μ: 24.20</description>
+      <description>ws: 3 μ: 24.20</description>
     </item>
     <item>
       <title>Dopat</title>
@@ -28449,7 +28449,7 @@
       <link>https://ws.tsl.rocks/players/611233700ad006f5c40c325caec7e770228d8b477959394fed55a10ce5f74b8b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/611233700ad006f5c40c325caec7e770228d8b477959394fed55a10ce5f74b8b/</guid>
-      <description>ws: 5 μ: 24.72</description>
+      <description>ws: 6 μ: 24.72</description>
     </item>
     <item>
       <title>Dorothy</title>
@@ -28869,7 +28869,7 @@
       <link>https://ws.tsl.rocks/players/388b8ba2f865d75ea353f81a89ec929f624dd85c111efc5254b135dc3e182287/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/388b8ba2f865d75ea353f81a89ec929f624dd85c111efc5254b135dc3e182287/</guid>
-      <description>ws: 8 μ: 22.87</description>
+      <description>ws: 9 μ: 22.87</description>
     </item>
     <item>
       <title>drussax</title>
@@ -29016,7 +29016,7 @@
       <link>https://ws.tsl.rocks/players/0275e296e4f494a4a6947403e51a4da1d3abfdea8c8bc18020641a40077b560e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/0275e296e4f494a4a6947403e51a4da1d3abfdea8c8bc18020641a40077b560e/</guid>
-      <description>ws: 2 μ: 23.66</description>
+      <description>ws: 3 μ: 23.66</description>
     </item>
     <item>
       <title>duncal</title>
@@ -29597,7 +29597,7 @@
       <link>https://ws.tsl.rocks/players/a30912b0a268b89bc0aa6f8a6a050128d0cbe2253fae520ff7abfc784746d7be/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/a30912b0a268b89bc0aa6f8a6a050128d0cbe2253fae520ff7abfc784746d7be/</guid>
-      <description>ws: 1 μ: 25.86</description>
+      <description>ws: 2 μ: 25.86</description>
     </item>
     <item>
       <title>EliteNo1</title>
@@ -30479,7 +30479,7 @@
       <link>https://ws.tsl.rocks/players/4719ec5a16d9079d3b432a617b8b68b1eccbf68b2a2ebacbeb088293a8dfcfe2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/4719ec5a16d9079d3b432a617b8b68b1eccbf68b2a2ebacbeb088293a8dfcfe2/</guid>
-      <description>ws: 13 μ: 21.36</description>
+      <description>ws: 14 μ: 21.36</description>
     </item>
     <item>
       <title>Father</title>
@@ -31592,7 +31592,7 @@
       <link>https://ws.tsl.rocks/players/1b902b23532993677ebf4c7968e83aefeb484197f206f039e934f3ab89fd3396/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/1b902b23532993677ebf4c7968e83aefeb484197f206f039e934f3ab89fd3396/</guid>
-      <description>ws: 65 μ: 18.12</description>
+      <description>ws: 66 μ: 18.12</description>
     </item>
     <item>
       <title>G.I.Joe</title>
@@ -31690,7 +31690,7 @@
       <link>https://ws.tsl.rocks/players/5b31224bb288caacf6298c693957b54f850e4890c2685c5607b90db975809637/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/5b31224bb288caacf6298c693957b54f850e4890c2685c5607b90db975809637/</guid>
-      <description>ws: 5 μ: 24.44</description>
+      <description>ws: 6 μ: 24.44</description>
     </item>
     <item>
       <title>Gahort</title>
@@ -33419,7 +33419,7 @@
       <link>https://ws.tsl.rocks/players/4d2ac1774f7717f478e85fc47f46eab779ffba1d75c2ea9fcc2fb1222e7f0099/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/4d2ac1774f7717f478e85fc47f46eab779ffba1d75c2ea9fcc2fb1222e7f0099/</guid>
-      <description>ws: 3 μ: 23.88</description>
+      <description>ws: 4 μ: 23.88</description>
     </item>
     <item>
       <title>Hang on Sloopy</title>
@@ -35400,7 +35400,7 @@
       <link>https://ws.tsl.rocks/players/0893aaa149429ea0dd8c308582786feb1079b98083414366fbedfb684572ac11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/0893aaa149429ea0dd8c308582786feb1079b98083414366fbedfb684572ac11/</guid>
-      <description>ws: 19 μ: 16.23</description>
+      <description>ws: 20 μ: 16.23</description>
     </item>
     <item>
       <title>Ivanisiys</title>
@@ -37899,7 +37899,7 @@
       <link>https://ws.tsl.rocks/players/58000f1fe017e5cad5df10cff23ae766f7f7ddfa5b9b276f8b39b09d5ac48449/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/58000f1fe017e5cad5df10cff23ae766f7f7ddfa5b9b276f8b39b09d5ac48449/</guid>
-      <description>ws: 12 μ: 25.52</description>
+      <description>ws: 13 μ: 25.52</description>
     </item>
     <item>
       <title>Killer-Rückhalt</title>
@@ -39432,7 +39432,7 @@
       <link>https://ws.tsl.rocks/players/6c85a2c70a6a4870260612227e69ccd541eaa69bce113983da983d297fe42a5e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/6c85a2c70a6a4870260612227e69ccd541eaa69bce113983da983d297fe42a5e/</guid>
-      <description>ws: 8 μ: 24.00</description>
+      <description>ws: 9 μ: 24.00</description>
     </item>
     <item>
       <title>LEF0S</title>
@@ -45529,7 +45529,7 @@
       <link>https://ws.tsl.rocks/players/8ce48f4c5e9f59bb5055c08670e33385b4fbf6d854e9982eb5db193bebbcf7bb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/8ce48f4c5e9f59bb5055c08670e33385b4fbf6d854e9982eb5db193bebbcf7bb/</guid>
-      <description>ws: 7 μ: 25.34</description>
+      <description>ws: 8 μ: 25.34</description>
     </item>
     <item>
       <title>One Love</title>
@@ -45963,7 +45963,7 @@
       <link>https://ws.tsl.rocks/players/46e2f95406e8f62cfc3087ff56171762e086371c2e63ea1d76d22f54d39a7021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/46e2f95406e8f62cfc3087ff56171762e086371c2e63ea1d76d22f54d39a7021/</guid>
-      <description>ws: 3 μ: 25.86</description>
+      <description>ws: 4 μ: 25.86</description>
     </item>
     <item>
       <title>P13pChico</title>
@@ -47405,7 +47405,7 @@
       <link>https://ws.tsl.rocks/players/e66a2ca20f747b59d981a088a105d2e3f75f9f49d47636bd14538539af10fb7f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/e66a2ca20f747b59d981a088a105d2e3f75f9f49d47636bd14538539af10fb7f/</guid>
-      <description>ws: 14 μ: 19.80</description>
+      <description>ws: 15 μ: 19.80</description>
     </item>
     <item>
       <title>PumaRacker</title>
@@ -49099,7 +49099,7 @@
       <link>https://ws.tsl.rocks/players/10b8249de68e478ed7b382dd954d384281d44314a52811b6c38ecd18c33ccb81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/10b8249de68e478ed7b382dd954d384281d44314a52811b6c38ecd18c33ccb81/</guid>
-      <description>ws: 18 μ: 17.97</description>
+      <description>ws: 19 μ: 17.97</description>
     </item>
     <item>
       <title>Romania player</title>
@@ -52970,7 +52970,7 @@
       <link>https://ws.tsl.rocks/players/60e2ba3e528aba14c12ec9b206c05667f64a8e286bd24a53a6216de78349b07f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/60e2ba3e528aba14c12ec9b206c05667f64a8e286bd24a53a6216de78349b07f/</guid>
-      <description>ws: 3 μ: 23.88</description>
+      <description>ws: 4 μ: 23.88</description>
     </item>
     <item>
       <title>Star</title>
@@ -59116,14 +59116,14 @@
       <link>https://ws.tsl.rocks/players/242961ade28a0da5147039832088c162c055d63bd07efdb8cacd48b95bc55a55/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/242961ade28a0da5147039832088c162c055d63bd07efdb8cacd48b95bc55a55/</guid>
-      <description>ws: 4 μ: 24.35</description>
+      <description>ws: 5 μ: 24.35</description>
     </item>
     <item>
       <title>XIONTH</title>
       <link>https://ws.tsl.rocks/players/d2cff4dc4f7067bbaa6e9d502da2922bc05a3b00fd58845b23eff50d6e97525c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/d2cff4dc4f7067bbaa6e9d502da2922bc05a3b00fd58845b23eff50d6e97525c/</guid>
-      <description>ws: 8 μ: 22.77</description>
+      <description>ws: 9 μ: 22.77</description>
     </item>
     <item>
       <title>Xiphr</title>
@@ -60054,7 +60054,7 @@
       <link>https://ws.tsl.rocks/players/6fa2f875f2240c85cfc29cc0e87ea9424f85ba7a76613ddb4f8f32ea8d50e407/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/6fa2f875f2240c85cfc29cc0e87ea9424f85ba7a76613ddb4f8f32ea8d50e407/</guid>
-      <description>ws: 28 μ: 21.89</description>
+      <description>ws: 29 μ: 21.89</description>
     </item>
     <item>
       <title>zeus</title>
@@ -60460,7 +60460,7 @@
       <link>https://ws.tsl.rocks/players/bf738ef2cce64b35378a1e0418ab9584cc7d3c9b8f8eb55e01fb485862c3fbc7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/bf738ef2cce64b35378a1e0418ab9584cc7d3c9b8f8eb55e01fb485862c3fbc7/</guid>
-      <description>ws: 9 μ: 25.85</description>
+      <description>ws: 10 μ: 25.85</description>
     </item>
     <item>
       <title>Δείμος</title>
@@ -60838,7 +60838,7 @@
       <link>https://ws.tsl.rocks/players/8ca14a1c46511da30f2ed56348e5d812cd04316142db2a20c56b7d7a9660e387/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/8ca14a1c46511da30f2ed56348e5d812cd04316142db2a20c56b7d7a9660e387/</guid>
-      <description>ws: 6 μ: 24.69</description>
+      <description>ws: 7 μ: 24.69</description>
     </item>
     <item>
       <title>Вагнер</title>
@@ -60859,7 +60859,7 @@
       <link>https://ws.tsl.rocks/players/d3e22e1ed588210ef3657c95f2d937f1c068e3123660048023754b1fd45074d0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/d3e22e1ed588210ef3657c95f2d937f1c068e3123660048023754b1fd45074d0/</guid>
-      <description>ws: 3 μ: 26.38</description>
+      <description>ws: 4 μ: 26.38</description>
     </item>
     <item>
       <title>Варвар</title>
@@ -61132,7 +61132,7 @@
       <link>https://ws.tsl.rocks/players/11c16cd093655ac884d497a55ee57a7ec027a7cbcf1a9aa440ebe706ececfedf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/11c16cd093655ac884d497a55ee57a7ec027a7cbcf1a9aa440ebe706ececfedf/</guid>
-      <description>ws: 12 μ: 19.11</description>
+      <description>ws: 13 μ: 19.11</description>
     </item>
     <item>
       <title>Диимоооон</title>
@@ -61930,7 +61930,7 @@
       <link>https://ws.tsl.rocks/players/79a448f55d43764b2f063dc30dc9c0cec3d8321cceafa253e50ea4474ad65b64/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/79a448f55d43764b2f063dc30dc9c0cec3d8321cceafa253e50ea4474ad65b64/</guid>
-      <description>ws: 10 μ: 20.08</description>
+      <description>ws: 11 μ: 20.08</description>
     </item>
     <item>
       <title>Норбут</title>
@@ -62147,7 +62147,7 @@
       <link>https://ws.tsl.rocks/players/4db9376932e37c77214da59d8ea8675ce8290199a894d8649fc828273bf8bb25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ws.tsl.rocks/players/4db9376932e37c77214da59d8ea8675ce8290199a894d8649fc828273bf8bb25/</guid>
-      <description>ws: 34 μ: 23.14</description>
+      <description>ws: 35 μ: 23.14</description>
     </item>
     <item>
       <title>Прометей</title>
