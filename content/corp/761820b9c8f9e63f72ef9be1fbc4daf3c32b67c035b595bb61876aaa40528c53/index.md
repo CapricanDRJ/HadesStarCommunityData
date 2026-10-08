@@ -1,6 +1,6 @@
 ---
 title: ​Red Monarchs
-description: W:4 L:4 D:0 Bonus ✅ 30%
+description: W:4 L:4 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 15 - 25 **自由之地**
 date: 2026-10-06T11:31:50.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T11:31:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

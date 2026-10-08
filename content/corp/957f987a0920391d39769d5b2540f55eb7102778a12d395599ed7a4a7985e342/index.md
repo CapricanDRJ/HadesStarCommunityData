@@ -1,6 +1,6 @@
 ---
 title: ​Stellaris
-description: W:33 L:71 D:1 Bonus ✅ 44%
+description: W:33 L:71 D:1 Bonus ✅ 46%
 image: ./favicon.png
 Summary: ❌ 0 - 3 **Sunat\.**
 date: 2026-10-07T14:09:05.000Z
@@ -15,7 +15,7 @@ N'hésitez pas à venir discuter ou poser vos questions
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ✅ 46%
 
 | Statistic | Value |
 | --- | --- |

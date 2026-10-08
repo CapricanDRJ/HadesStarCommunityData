@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:4 L:4 D:1 Bonus ❌ 5%
+description: W:5 L:4 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 1 **欢迎新手**
-date: 2026-10-01T07:56:43.000Z
+Summary: ✅ 6 - 1 **The Bois**
+date: 2026-10-08T10:40:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-01T07:56:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (-18)|
-| ELO Competitive | 1220 🔺  (6)|
-| Total Matches | 9 |
-| Wins | 4 |
+| ELO Regular | 1209 🔺  (16)|
+| ELO Competitive | 1235 🔺  (15)|
+| Total Matches | 10 |
+| Wins | 5 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/08 | 6-1 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/10/01 | 0-1 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
 | ↔️ | 2026/09/30 | 3-3 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/09/24 | 3-0 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
@@ -151,5 +152,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790841403"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791456048"></span>
 </div>
