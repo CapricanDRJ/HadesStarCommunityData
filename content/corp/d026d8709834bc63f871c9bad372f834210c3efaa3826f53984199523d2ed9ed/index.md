@@ -1,6 +1,6 @@
 ---
 title: ​万星联盟
-description: W:136 L:78 D:1 Bonus ✅ 52%
+description: W:136 L:78 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 40 **Серебряная орда**
 date: 2026-10-07T21:29:47.000Z
@@ -17,7 +17,7 @@ red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

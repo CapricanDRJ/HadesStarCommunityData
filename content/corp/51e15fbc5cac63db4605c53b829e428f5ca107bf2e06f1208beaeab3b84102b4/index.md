@@ -1,6 +1,6 @@
 ---
 title: ​࿇ÐɑʀҟƑîʀɛ༒🍁
-description: W:4 L:1 D:0 Bonus ✅ 28%
+description: W:4 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 1 - 20 **星际联邦**
 date: 2026-10-06T09:46:42.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T09:46:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
