@@ -1,9 +1,9 @@
 ---
 title: ​SPACING GUILD
-description: W:11 L:7 D:1 Bonus ❌ 7%
+description: W:11 L:8 D:1 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 16 - 0 **Lololol**
-date: 2026-09-24T06:02:59.000Z
+Summary: ❌ 5 - 6 **Spacekill**
+date: 2026-10-08T16:41:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-24T06:02:59.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (13)|
-| ELO Competitive | 1293 🔺  (20)|
-| Total Matches | 19 |
+| ELO Regular | 1226 🔻  (-18)|
+| ELO Competitive | 1276 🔻  (-17)|
+| Total Matches | 20 |
 | Wins | 11 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789797779,1787430155,1785586893,1778940920,1775927532,1774705021,1773502952,1772217707,1757083607,1754696754,1752413610,1751833444,1751047689,1749213426,1747409574,1745591059,1744474754,1742226751,1741290100];
+        let timestamps = [1791045681,1789797779,1787430155,1785586893,1778940920,1775927532,1774705021,1773502952,1772217707,1757083607,1754696754,1752413610,1751833444,1751047689,1749213426,1747409574,1745591059,1744474754,1742226751,1741290100];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/08 | 5-6 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
 | ✅ | 2026/09/24 | 16-0 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ❌ | 2026/08/27 | 1-26 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ❌ | 2026/08/06 | 0-17 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -161,5 +162,5 @@ Corporation ID: e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790229779"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791477681"></span>
 </div>
