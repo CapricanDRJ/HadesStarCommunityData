@@ -1,9 +1,9 @@
 ---
 title: ​вавилон 5
-description: W:13 L:10 D:1 Bonus ❌ 8%
+description: W:14 L:10 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 10 **HIGH COMMAND**
-date: 2026-04-17T10:38:39.000Z
+Summary: ✅ 7 - 0 **Eretria**
+date: 2026-10-08T12:56:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-04-17T10:38:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (-10)|
-| ELO Competitive | 1277 🔻  (-3)|
-| Total Matches | 24 |
-| Wins | 13 |
+| ELO Regular | 1235 🔺  (9)|
+| ELO Competitive | 1289 🔺  (12)|
+| Total Matches | 25 |
+| Wins | 14 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1775990319,1772186760,1770463163,1768249676,1767409899,1766462600,1765339210,1764099143,1762722821,1761644164,1760961095,1760372810,1759265270,1757860891,1757233840,1756101253,1754295598,1753191509,1752100282,1751058394,1749953279,1747102773,1745811284,1742375802];
+        let timestamps = [1791032161,1775990319,1772186760,1770463163,1768249676,1767409899,1766462600,1765339210,1764099143,1762722821,1761644164,1760961095,1760372810,1759265270,1757860891,1757233840,1756101253,1754295598,1753191509,1752100282,1751058394,1749953279,1747102773,1745811284,1742375802];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/08 | 7-0 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2026/04/17 | 3-10 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) |
 | ✅ | 2026/03/04 | 13-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2026/02/12 | 7-0 | [Berlin](https://ws.tsl.rocks/corp/4be397f158a4ac8851b4d6f871cfb1b3994de1e41f67d7710ad6e32e271f6034/) |
@@ -166,5 +167,5 @@ Corporation ID: 9fb82c905e6843abf36a6911b09a7bbe345d48e4e2a0073f1cfb65e8cc164ae5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1776422319"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791464161"></span>
 </div>

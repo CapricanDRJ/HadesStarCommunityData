@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:4 L:8 D:1 Bonus ❌ 6%
+description: W:4 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 11 - 22 **Cosmosia**
-date: 2026-10-03T15:06:21.000Z
+Summary: ↔️ 0 - 0 **大舰队がな**
+date: 2026-10-08T14:21:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-10-03T15:06:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (-10)|
-| ELO Competitive | 1246 🔻  (-5)|
-| Total Matches | 13 |
+| ELO Regular | 1167 🔻  (-3)|
+| ELO Competitive | 1243 🔻  (-4)|
+| Total Matches | 14 |
 | Wins | 4 |
 | Losses | 8 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/08 | 0-0 | [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) |
 | ❌ | 2026/10/03 | 11-22 | [Cosmosia](https://ws.tsl.rocks/corp/56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38/) |
 | ❌ | 2026/10/03 | 0-22 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/09/28 | 0-3 | [Stargate Sg7](https://ws.tsl.rocks/corp/f0fadd303b5cb5e09aa473359c0f11f4e077acf35ab94cef2c850d3fa8162e81/) |
@@ -160,5 +161,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791039981"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791469268"></span>
 </div>
