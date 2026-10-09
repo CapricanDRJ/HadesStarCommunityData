@@ -1,9 +1,9 @@
 ---
 title: ​sound round
-description: W:0 L:7 D:0 Bonus ❌ 4%
+description: W:0 L:8 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 2 - 15 **BRASIL ACADEMY**
-date: 2026-09-13T02:50:23.000Z
+Summary: ❌ 3 - 35 **红色太阳**
+date: 2026-10-09T19:48:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-13T02:50:23.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (-11)|
-| ELO Competitive | 1172 🔻  (-3)|
-| Total Matches | 7 |
+| ELO Regular | 1120 🔻  (-10)|
+| ELO Competitive | 1169 🔻  (-2)|
+| Total Matches | 8 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788835823,1783024530,1782565168,1782121693,1779454988,1776404312,1773172478];
+        let timestamps = [1791143310,1788835823,1783024530,1782565168,1782121693,1779454988,1776404312,1773172478];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/09 | 3-35 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) |
 | ❌ | 2026/09/13 | 2-15 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2026/07/07 | 4-25 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531/) |
 | ❌ | 2026/07/02 | 3-27 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
@@ -148,5 +149,5 @@ Corporation ID: c5bef6bb1d0b6c510cc6c1b66c86750586ef0e4cdfae379aad0ba15d33398ded
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789267823"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791575310"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​先和先知
-description: W:5 L:9 D:1 Bonus ❌ 6%
+description: W:5 L:9 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 10 **休闲、红、蓝、白养老集团。**
-date: 2026-09-07T05:02:40.000Z
+Summary: ↔️ 0 - 0 **Magyar Vándor**
+date: 2026-10-09T19:31:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-07T05:02:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻  (-10)|
-| ELO Competitive | 1161 🔻  (-9)|
-| Total Matches | 15 |
+| ELO Regular | 1140 🔺  (2)|
+| ELO Competitive | 1163 🔺  (1)|
+| Total Matches | 16 |
 | Wins | 5 |
 | Losses | 9 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788325360,1787832704,1787118565,1786606581,1786098992,1785602300,1785043110,1784557024,1784040522,1783390453,1780743576,1779511479,1776268219,1775798337,1775335653];
+        let timestamps = [1791142280,1788325360,1787832704,1787118565,1786606581,1786098992,1785602300,1785043110,1784557024,1784040522,1783390453,1780743576,1779511479,1776268219,1775798337,1775335653];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/09 | 0-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ❌ | 2026/09/07 | 3-10 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2026/09/01 | 0-7 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/08/24 | 3-4 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
@@ -157,5 +158,5 @@ Corporation ID: 54c8fbf9e85f95a3e28c0b3d2833d49a40758d5340c6de6d6822c6c48aa070eb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788757360"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791574280"></span>
 </div>

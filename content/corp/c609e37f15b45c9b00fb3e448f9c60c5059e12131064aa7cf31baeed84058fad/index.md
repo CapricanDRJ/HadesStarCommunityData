@@ -1,9 +1,9 @@
 ---
 title: ​Magyar Vándor
-description: W:0 L:1 D:1 Bonus ❌ 2%
+description: W:0 L:1 D:2 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **CORPORATION**
-date: 2026-10-01T20:47:54.000Z
+Summary: ↔️ 0 - 0 **先和先知**
+date: 2026-10-09T19:31:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-10-01T20:47:54.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (-16)|
-| ELO Competitive | 1190 🔻  (-16)|
-| Total Matches | 2 |
+| ELO Regular | 1182 🔻  (-2)|
+| ELO Competitive | 1188 🔻  (-1)|
+| Total Matches | 3 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790455674,1741996258];
+        let timestamps = [1791142280,1790455674,1741996258];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/09 | 0-0 | [先和先知](https://ws.tsl.rocks/corp/54c8fbf9e85f95a3e28c0b3d2833d49a40758d5340c6de6d6822c6c48aa070eb/) |
 | ❌ | 2026/10/01 | 0-4 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ↔️ | 2025/03/19 | 0-0 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 
@@ -143,5 +144,5 @@ Corporation ID: c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790887674"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791574280"></span>
 </div>

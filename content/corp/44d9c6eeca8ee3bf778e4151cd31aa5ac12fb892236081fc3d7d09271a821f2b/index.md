@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Mass
-description: W:15 L:4 D:0 Bonus ✅ 34%
+description: W:15 L:5 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 22 - 0 **休闲、红、蓝、白养老集团。**
-date: 2026-10-03T22:47:02.000Z
+Summary: ❌ 2 - 14 **Company W**
+date: 2026-10-09T21:23:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-03T22:47:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (14)|
-| ELO Competitive | 1328 🔺  (15)|
-| Total Matches | 19 |
+| ELO Regular | 1297 🔻  (-17)|
+| ELO Competitive | 1311 🔻  (-17)|
+| Total Matches | 20 |
 | Wins | 15 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790635622,1790634121,1790051324,1790044716,1789546649,1789532546,1788955999,1788940678,1788365614,1788344883,1787840759,1787832704,1787339682,1787296184,1786798268,1786795564,1786270992,1786265585,1785781596];
+        let timestamps = [1791149018,1790635622,1790634121,1790051324,1790044716,1789546649,1789532546,1788955999,1788940678,1788365614,1788344883,1787840759,1787832704,1787339682,1787296184,1786798268,1786795564,1786270992,1786265585,1785781596];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/09 | 2-14 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101/) |
 | ✅ | 2026/10/03 | 22-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2026/10/03 | 9-0 | [我是沙碧](https://ws.tsl.rocks/corp/098610891e066e1c3eb89a95d424ef860ac1447f85cb7e6fdec05bb487338851/) |
 | ✅ | 2026/09/27 | 11-0 | [第三十一序列一一辉光议会](https://ws.tsl.rocks/corp/01fe1c3b5db00f2d0b632a0e9840176c0544df074523bc55f815753b8fa45c56/) |
@@ -162,5 +162,5 @@ Corporation ID: 44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791067622"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791581018"></span>
 </div>
