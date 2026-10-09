@@ -1,9 +1,9 @@
 ---
 title: ​太空的猫
-description: W:12 L:15 D:0 Bonus ❌ 7%
+description: W:12 L:16 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 1 - 15 **63SALVADORES36**
-date: 2026-10-04T03:42:22.000Z
+Summary: ❌ 6 - 15 **Тишина**
+date: 2026-10-09T03:22:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-04T03:42:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (-15)|
-| ELO Competitive | 1366 🔻  (-6)|
-| Total Matches | 27 |
+| ELO Regular | 1181 🔻  (-19)|
+| ELO Competitive | 1344 🔻  (-22)|
+| Total Matches | 28 |
 | Wins | 12 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790653342,1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
+        let timestamps = [1791084128,1790653342,1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/09 | 6-15 | [Тишина](https://ws.tsl.rocks/corp/c01132c3ce96835d1c14e411dc68417ed6fc0536d57de0f9e2a4ce86f1a739ca/) |
 | ❌ | 2026/10/04 | 1-15 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2026/10/04 | 3-18 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/09/27 | 1-0 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
@@ -176,5 +177,5 @@ Corporation ID: f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791085342"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791516128"></span>
 </div>
