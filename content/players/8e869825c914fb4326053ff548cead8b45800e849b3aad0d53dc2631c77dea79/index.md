@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Ovloeel"
-description: "ws: 3 μ: 25.94"
+description: "ws: 4 μ: 24.18"
 ---
-- **WhiteStars**: 3
-- **Eligible**: 1
-- **Rating**: 1.05
-- **μ**: 25.94  
-- **σ**: 8.30
-- W: 1, L: 2, T: 0
+- **WhiteStars**: 4
+- **Eligible**: 2
+- **Rating**: -0.59
+- **μ**: 24.18  
+- **σ**: 8.26
+- W: 1, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 3 μ: 25.94"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1 |
+| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 2 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 3 μ: 25.94"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-08 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 15-16 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-01-17 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 0-31 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-09-26 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 0-9 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2025-06-19 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 26-3 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
