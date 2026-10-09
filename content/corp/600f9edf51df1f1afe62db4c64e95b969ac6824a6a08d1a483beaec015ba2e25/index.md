@@ -1,9 +1,9 @@
 ---
 title: ​地球联合
-description: W:27 L:12 D:1 Bonus ✅ 44%
+description: W:28 L:12 D:1 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ✅ 29 - 0 **帝国长青**
-date: 2026-10-04T05:34:41.000Z
+Summary: ✅ 50 - 24 **E\.T\.A**
+date: 2026-10-09T10:17:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,13 +27,13 @@ QQ群号：742063070
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔺  (1)|
-| ELO Competitive | 1491 🔺  (21)|
-| Total Matches | 40 |
-| Wins | 27 |
+| ELO Regular | 1338 🔺  (13)|
+| ELO Competitive | 1509 🔺  (17)|
+| Total Matches | 41 |
+| Wins | 28 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 5 |
 
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790660081,1790657786,1790089657,1790071747,1789625956,1789624154,1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
+        let timestamps = [1791109058,1790660081,1790657786,1790089657,1790071747,1789625956,1789624154,1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/09 | 50-24 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2026/10/04 | 29-0 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) |
 | ✅ | 2026/10/04 | 29-3 | [Новый Мир](https://ws.tsl.rocks/corp/5563c95f687e98cc5e151634915ffa5e0f4bb39709901c5acc52e34094f19409/) |
 | ❌ | 2026/09/27 | 0-1 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
@@ -198,5 +199,5 @@ Corporation ID: 600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791092081"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791541058"></span>
 </div>
