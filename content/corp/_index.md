@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-09T12:55:40.469Z
+date: 2026-10-09T15:55:41.228Z
 summary: "Corporation directory"
 ---
 
@@ -1764,10 +1764,10 @@ summary: "Corporation directory"
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6f70ed81f6b0fd95da417ce3a268db3bbd0cd3b6e9e188a0e922db3d7f8ac968/) | 1095 | 1144 | 9 |
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6b0f781319f88b96c64aa4c425eb3f834d80a1f0c3ee00918430fd71b2e5b913/) | 1147 | 1164 | 4 |
 | [嘤嘤嘤嘤嘤嘤嘤嘤](https://ws.tsl.rocks/corp/ad65ab5ca4b50864e2b171fc9018045cba5ae1bad1712a63a110a2c55c33f41b/) | 1119 | 1136 | 6 |
-| [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1149 | 1300 | 53 |
+| [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1137 | 1282 | 54 |
 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1159 | 1279 | 39 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 962 | 1074 | 46 |
-| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1338 | 1509 | 41 |
+| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1315 | 1509 | 42 |
 | [基地联邦](https://ws.tsl.rocks/corp/9e1663122c20a4645bb8c9dd366a5b75a4c70ebbcd9ce2777574ce182e19beba/) | 1216 | 1222 | 1 |
 | [塔罗会](https://ws.tsl.rocks/corp/6bff4eb81afd71832d1e181ac97acc1ce1b280b8cef58e8a01ca31d45df501f4/) | 1187 | 1195 | 1 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |
@@ -1782,7 +1782,7 @@ summary: "Corporation directory"
 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) | 1149 | 1228 | 19 |
 | [太宇天宫](https://ws.tsl.rocks/corp/f5c304e2c7f35d7c6dd11f65212748d4877c297f5b8efcca091e60634ef56bd4/) | 1173 | 1178 | 2 |
 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) | 1167 | 1344 | 29 |
-| [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) | 1212 | 1230 | 6 |
+| [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) | 1224 | 1248 | 7 |
 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) | 1286 | 1298 | 16 |
 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) | 1188 | 1295 | 38 |
 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) | 1326 | 1371 | 32 |
@@ -1965,7 +1965,7 @@ summary: "Corporation directory"
 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) | 1287 | 1396 | 45 |
 | [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) | 965 | 1175 | 81 |
 | [红巨星联盟](https://ws.tsl.rocks/corp/872aa66eedf58950cc95e01facf71c38a9bc09e7b4d5dcd1d5af928f490d6632/) | 1137 | 1149 | 6 |
-| [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1145 | 1545 | 193 |
+| [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1167 | 1558 | 194 |
 | [红星私密之家](https://ws.tsl.rocks/corp/889d0661ee2fb884920ee3f90fad1b202ab805e67221ddddf1ae8b5e4f8ad53d/) | 1215 | 1216 | 1 |
 | [红星超新星爆炸](https://ws.tsl.rocks/corp/004f2173a6d8f08e3ecf198c1d824992198a159f615534a227ee11de18606403/) | 1187 | 1188 | 3 |
 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) | 1250 | 1625 | 76 |

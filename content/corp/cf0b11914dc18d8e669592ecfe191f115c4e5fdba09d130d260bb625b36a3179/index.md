@@ -1,9 +1,9 @@
 ---
 title: ​四季长春
-description: W:18 L:28 D:7 Bonus ❌ 7%
+description: W:18 L:29 D:7 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **imperio estelar**
-date: 2026-01-29T12:07:12.000Z
+Summary: ❌ 0 - 15 **太阳系星盟**
+date: 2026-10-09T14:23:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2026-01-29T12:07:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (-7)|
-| ELO Competitive | 1300 🔻  (-8)|
-| Total Matches | 53 |
+| ELO Regular | 1137 🔻  (-12)|
+| ELO Competitive | 1282 🔻  (-18)|
+| Total Matches | 54 |
 | Wins | 18 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 7 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1769256432,1738752549,1738749348,1737080525,1735942371,1735492041,1724451240,1723679812,1723672602,1723158122,1723108839,1722627424,1721580724,1720919570,1720829708,1720132775,1719490862,1719071743,1719027767,1718241783,1718232470,1717775289,1717650653,1717227374,1716822283,1716678338,1716160365,1716159173,1715651701,1715434462,1715010532,1714997010,1714546221,1714515877,1714058645,1714050750,1713447160,1713414111,1712984116,1712961282,1712528690,1712448676,1712067667,1711985639,1711567667,1711479028,1711028609,1710975434,1710595334,1710332426,1709874206,1709384138,1709374822];
+        let timestamps = [1791123780,1769256432,1738752549,1738749348,1737080525,1735942371,1735492041,1724451240,1723679812,1723672602,1723158122,1723108839,1722627424,1721580724,1720919570,1720829708,1720132775,1719490862,1719071743,1719027767,1718241783,1718232470,1717775289,1717650653,1717227374,1716822283,1716678338,1716160365,1716159173,1715651701,1715434462,1715010532,1714997010,1714546221,1714515877,1714058645,1714050750,1713447160,1713414111,1712984116,1712961282,1712528690,1712448676,1712067667,1711985639,1711567667,1711479028,1711028609,1710975434,1710595334,1710332426,1709874206,1709384138,1709374822];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/09 | 0-15 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ❌ | 2026/01/29 | 0-6 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2025/02/10 | 0-13 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2025/02/10 | 0-4 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
@@ -204,5 +205,5 @@ Corporation ID: cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1769688432"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791555780"></span>
 </div>

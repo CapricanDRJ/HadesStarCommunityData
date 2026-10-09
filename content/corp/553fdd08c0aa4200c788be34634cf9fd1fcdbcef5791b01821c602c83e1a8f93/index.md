@@ -1,6 +1,6 @@
 ---
 title: ​RMB
-description: W:1 L:0 D:0 Bonus ✅ 26%
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **战争幽灵**
 date: 2026-10-02T14:29:19.000Z
@@ -15,7 +15,7 @@ date: 2026-10-02T14:29:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

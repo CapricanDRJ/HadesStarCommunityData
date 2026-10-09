@@ -1,9 +1,9 @@
 ---
 title: ​太阳系星盟
-description: W:3 L:2 D:1 Bonus ✅ 30%
+description: W:4 L:2 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 24 - 1 **红日初升，其道大光**
-date: 2026-10-03T14:11:16.000Z
+Summary: ✅ 15 - 0 **四季长春**
+date: 2026-10-09T14:23:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-10-03T14:11:16.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (12)|
-| ELO Competitive | 1230 🔺  (26)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1224 🔺  (12)|
+| ELO Competitive | 1248 🔺  (18)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790604676,1787401866,1748267201,1747834466,1747361990,1746891517];
+        let timestamps = [1791123780,1790604676,1787401866,1748267201,1747834466,1747361990,1746891517];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/09 | 15-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2026/10/03 | 24-1 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/08/27 | 0-3 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ↔️ | 2025/05/31 | 3-3 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
@@ -148,5 +150,5 @@ Corporation ID: 95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791036676"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791555780"></span>
 </div>

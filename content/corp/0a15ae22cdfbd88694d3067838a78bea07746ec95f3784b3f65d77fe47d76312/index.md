@@ -1,6 +1,6 @@
 ---
 title: ​GhostNakcoorp
-description: W:30 L:48 D:0 Bonus ✅ 38%
+description: W:30 L:48 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **Серебряная орда**
 date: 2026-10-02T14:44:21.000Z
@@ -18,7 +18,7 @@ gg☆</color></b>   Recruiting "StarMasters" for WS
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
