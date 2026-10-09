@@ -1,6 +1,6 @@
 ---
 title: ​lonewolf
-description: W:87 L:25 D:3 Bonus ✅ 46%
+description: W:87 L:25 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **深域**
 date: 2026-10-02T05:58:36.000Z
@@ -18,7 +18,7 @@ nks
 <br>
 
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

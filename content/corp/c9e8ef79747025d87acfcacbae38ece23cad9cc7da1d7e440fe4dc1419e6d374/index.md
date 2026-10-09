@@ -1,6 +1,6 @@
 ---
 title: ​KEPLER-442 b
-description: W:55 L:19 D:6 Bonus ✅ 40%
+description: W:55 L:19 D:6 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **共联·世界**
 date: 2026-10-02T06:28:42.000Z
@@ -15,7 +15,7 @@ date: 2026-10-02T06:28:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

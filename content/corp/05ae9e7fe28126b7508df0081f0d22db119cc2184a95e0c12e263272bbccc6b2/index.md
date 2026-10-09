@@ -1,9 +1,9 @@
 ---
 title: ​Space lover
-description: W:2 L:3 D:0 Bonus ❌ 4%
+description: W:2 L:4 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **Cerulean Galaxy**
-date: 2026-08-21T22:54:38.000Z
+Summary: ❌ 3 - 7 **Страж Галактики**
+date: 2026-10-09T05:53:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-21T22:54:38.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (-15)|
-| ELO Competitive | 1193 🔻  (-15)|
-| Total Matches | 5 |
+| ELO Regular | 1171 🔻  (-19)|
+| ELO Competitive | 1175 🔻  (-17)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1786920878,1785546957,1784557024,1777528572,1708027125];
+        let timestamps = [1791093232,1786920878,1785546957,1784557024,1777528572,1708027125];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/09 | 3-7 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ❌ | 2026/08/21 | 0-5 | [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) |
 | ✅ | 2026/08/06 | 2-0 | [testims](https://ws.tsl.rocks/corp/e108fb982b7dce2316956b1bd1b16a9f509d10a7720296049893b311e490754b/) |
 | ✅ | 2026/07/25 | 3-2 | [先和先知](https://ws.tsl.rocks/corp/54c8fbf9e85f95a3e28c0b3d2833d49a40758d5340c6de6d6822c6c48aa070eb/) |
@@ -147,5 +148,5 @@ Corporation ID: 05ae9e7fe28126b7508df0081f0d22db119cc2184a95e0c12e263272bbccc6b2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787352878"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791525232"></span>
 </div>
