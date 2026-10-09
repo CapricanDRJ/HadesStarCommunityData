@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-09T15:55:41.228Z
+date: 2026-10-09T18:55:40.663Z
 summary: "Corporation directory"
 ---
 
@@ -897,7 +897,7 @@ summary: "Corporation directory"
 | [Red Monarchs](https://ws.tsl.rocks/corp/761820b9c8f9e63f72ef9be1fbc4daf3c32b67c035b595bb61876aaa40528c53/) | 1208 | 1244 | 8 |
 | [Red Noobs](https://ws.tsl.rocks/corp/77a15a2a5ecb3dbd333ea491275d2d41c23e39c1744dd9f1c092c5e3306a2e14/) | 1174 | 1176 | 2 |
 | [Red Sky](https://ws.tsl.rocks/corp/c5d615aa6be8025330917694307dea3f25210bff1c7ee2db6c0778a78e1a00d4/) | 1184 | 1184 | 2 |
-| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 1165 | 1589 | 205 |
+| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 1177 | 1616 | 206 |
 | [Red star](https://ws.tsl.rocks/corp/c81b0bb64bdd3869a4fb82e574e3426578bb3978cc5e324700e74f53a9e616de/) | 1203 | 1206 | 2 |
 | [RED STAR](https://ws.tsl.rocks/corp/245570bf3017ea0f1817668a227abc12ee58025af3539a77e59b0bc0bbd1be10/) | 1214 | 1488 | 95 |
 | [Red star \(all\)](https://ws.tsl.rocks/corp/018359ba3867f626bd6cdd2f79f962028325907ff1caef526e4405b064e0c015/) | 1195 | 1216 | 8 |
@@ -1560,7 +1560,7 @@ summary: "Corporation directory"
 | [Кулак академия](https://ws.tsl.rocks/corp/27cf79045603cd3d2f483ac4b4ea2dc03d978904db99c01f210bde42a90464ca/) | 1172 | 1172 | 3 |
 | [Летящий орел](https://ws.tsl.rocks/corp/b39cf2a8d810702af7ba4a49d383736861e0c60d0b10c9934ad8414c4b41d8ef/) | 1190 | 1194 | 1 |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 1410 | 1820 | 211 |
-| [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 1131 | 1312 | 57 |
+| [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 1135 | 1321 | 58 |
 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) | 1453 | 1796 | 106 |
 | [Лютые Перчики](https://ws.tsl.rocks/corp/8ccc077851018f05ab53ff79e84e5e919eb17f661fc7952de5ae93a413b99eaa/) | 1189 | 1192 | 1 |
 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) | 1480 | 1603 | 62 |
@@ -1803,7 +1803,7 @@ summary: "Corporation directory"
 | [小红色太阳](https://ws.tsl.rocks/corp/8821d9efed57f79a1c13d2755a543d4c7f598ad290ca699218f1e23c9718cd3d/) | 1164 | 1165 | 2 |
 | [小蚂蚁 Ant](https://ws.tsl.rocks/corp/a1cfaa1473f888ac3fdb9ee3004ad64fdd505530828e8a5c172e581e7cd6a2be/) | 1225 | 1226 | 2 |
 | [希灵帝国](https://ws.tsl.rocks/corp/d704c772517227272eea5818b6f8d4a0641be2d398359a4ed29c0e945e6d707b/) | 1151 | 1172 | 4 |
-| [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) | 787 | 1169 | 106 |
+| [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) | 783 | 1160 | 107 |
 | [幻想乡](https://ws.tsl.rocks/corp/441e1a0c14268ad15932035c1fb348ea3532c5927ced7f058e6ca74a186f77be/) | 1178 | 1182 | 2 |
 | [异星旅人（流浪地球第2分盟）](https://ws.tsl.rocks/corp/9dc08f39359c6ef107f59f385544278a55c72ff4689e9a06a4e639197e7dfac1/) | 1125 | 1148 | 14 |
 | [彩虹神圣太空队](https://ws.tsl.rocks/corp/65a85756db048115b30d5db1f341e02c1efa0c8baf3a39ae6b57db8b0c52a0d9/) | 1148 | 1154 | 6 |
@@ -1842,7 +1842,7 @@ summary: "Corporation directory"
 | [无名集团](https://ws.tsl.rocks/corp/266849b498781771a16a86208e7da27b90132754fe729e124299235292b232f0/) | 1185 | 1185 | 1 |
 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) | 1235 | 1271 | 20 |
 | [日中連合](https://ws.tsl.rocks/corp/55217d3fb09f4242a79ded9faef3a4749fcfbbe4090a54b707e1576826d2539a/) | 1146 | 1156 | 4 |
-| [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) | 1077 | 1218 | 44 |
+| [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) | 1066 | 1215 | 45 |
 | [日月联邦](https://ws.tsl.rocks/corp/c3b2a7abf778108f6f59d5275315191b33fbd40cec534cf0d87ceadc7da58e00/) | 1169 | 1175 | 4 |
 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) | 1149 | 1164 | 9 |
 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) | 1230 | 1522 | 185 |

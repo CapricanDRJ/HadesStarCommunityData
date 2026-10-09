@@ -1,6 +1,6 @@
 ---
 title: ​神圣群星帝国
-description: W:2 L:12 D:1 Bonus ❌ 
+description: W:2 L:12 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **Curiosity \+ Cat**
 date: 2026-05-26T08:11:41.000Z
@@ -15,7 +15,7 @@ date: 2026-05-26T08:11:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

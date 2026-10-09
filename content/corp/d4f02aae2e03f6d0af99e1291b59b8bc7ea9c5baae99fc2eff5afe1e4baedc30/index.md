@@ -1,9 +1,9 @@
 ---
 title: ​日月星辰
-description: W:12 L:32 D:0 Bonus ❌ 8%
+description: W:12 L:33 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 17 - 19 **Winged Pheonix**
-date: 2026-01-15T10:37:27.000Z
+Summary: ❌ 0 - 31 **Red Star**
+date: 2026-10-09T16:13:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2026-01-15T10:37:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (-13)|
-| ELO Competitive | 1218 🔻  (-14)|
-| Total Matches | 44 |
+| ELO Regular | 1066 🔻  (-11)|
+| ELO Competitive | 1215 🔻  (-3)|
+| Total Matches | 45 |
 | Wins | 12 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1768041447,1766152219,1765638760,1765170352,1764636716,1761030283,1761019470,1760546166,1760543161,1760005916,1760003212,1759240928,1759075685,1758666469,1758606077,1758182061,1758149618,1757684805,1757684179,1757183019,1757140095,1756658463,1756621500,1756178173,1755703404,1755256567,1754801025,1754364111,1753926608,1738772789,1738235756,1737796731,1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
+        let timestamps = [1791130389,1768041447,1766152219,1765638760,1765170352,1764636716,1761030283,1761019470,1760546166,1760543161,1760005916,1760003212,1759240928,1759075685,1758666469,1758606077,1758182061,1758149618,1757684805,1757684179,1757183019,1757140095,1756658463,1756621500,1756178173,1755703404,1755256567,1754801025,1754364111,1753926608,1738772789,1738235756,1737796731,1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/09 | 0-31 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ❌ | 2026/01/15 | 17-19 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ❌ | 2025/12/24 | 2-31 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e/) |
 | ✅ | 2025/12/18 | 21-7 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
@@ -194,5 +195,5 @@ Corporation ID: d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1768473447"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791562389"></span>
 </div>

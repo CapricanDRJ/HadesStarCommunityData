@@ -1,6 +1,6 @@
 ---
 title: ​꧁ Indonesia ꧂
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:0 D:1 Bonus ❌ 0%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **United aurora**
 date: 2026-08-04T03:26:45.000Z
@@ -15,7 +15,7 @@ date: 2026-08-04T03:26:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 0%
 
 | Statistic | Value |
 | --- | --- |
