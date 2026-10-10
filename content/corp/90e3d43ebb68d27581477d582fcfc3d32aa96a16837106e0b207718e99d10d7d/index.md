@@ -1,9 +1,9 @@
 ---
 title: ​Draconis
-description: W:0 L:4 D:1 Bonus ❌ 6%
+description: W:0 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 5 **肥橙子**
-date: 2026-08-07T03:27:54.000Z
+Summary: ❌ 0 - 2 **ParalleL**
+date: 2026-10-10T06:34:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ust play relatively regularly and have fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (-13)|
-| ELO Competitive | 1154 🔻  (-13)|
-| Total Matches | 5 |
+| ELO Regular | 1129 🔻  (-16)|
+| ELO Competitive | 1144 🔻  (-10)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Flagship | 4 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785641274,1745589556,1743425194,1742496317,1700644397];
+        let timestamps = [1791182055,1785641274,1745589556,1743425194,1742496317,1700644397];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/10 | 0-2 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/08/07 | 0-5 | [肥橙子](https://ws.tsl.rocks/corp/89ea001d8666ade05d452a0f136622d2451e614c357e549a6d4dddc6d019ba9c/) |
 | ❌ | 2025/04/30 | 0-8 | [Destroyer](https://ws.tsl.rocks/corp/a577b516f316e05c647ba59ea2ff3d4b0f0980f1f2dd329bc71e48f08460a613/) |
 | ↔️ | 2025/04/05 | 0-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -147,5 +148,5 @@ Corporation ID: 90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1786073274"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791614055"></span>
 </div>

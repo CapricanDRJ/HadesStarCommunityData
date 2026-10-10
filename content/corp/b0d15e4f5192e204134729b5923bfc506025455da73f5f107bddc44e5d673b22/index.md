@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:8 L:19 D:1 Bonus ❌ 7%
+description: W:9 L:20 D:1 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 1 - 11 **甜甜圈**
-date: 2026-10-05T00:34:02.000Z
+Summary: ❌ 2 - 31 **碧霄殿**
+date: 2026-10-10T06:34:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-05T00:34:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (-10)|
-| ELO Competitive | 1271 🔻  (-2)|
-| Total Matches | 28 |
-| Wins | 8 |
-| Losses | 19 |
+| ELO Regular | 1117 🔻  (-18)|
+| ELO Competitive | 1281 🔺  (10)|
+| Total Matches | 30 |
+| Wins | 9 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/10 | 2-31 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
+| ✅ | 2026/10/10 | 2-0 | [Draconis](https://ws.tsl.rocks/corp/90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d/) |
 | ❌ | 2026/10/05 | 1-11 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/10/04 | 0-31 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2026/09/29 | 3-12 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
@@ -176,5 +178,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791160442"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791614055"></span>
 </div>

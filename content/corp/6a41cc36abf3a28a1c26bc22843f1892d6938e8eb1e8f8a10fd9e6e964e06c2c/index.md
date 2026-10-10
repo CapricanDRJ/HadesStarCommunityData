@@ -1,6 +1,6 @@
 ---
 title: ​Space Marshalls
-description: W:81 L:78 D:2 Bonus ✅ 48%
+description: W:81 L:78 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 35 - 0 **碧霄殿**
 date: 2026-10-03T06:40:40.000Z
@@ -17,7 +17,7 @@ len.
 <br>
 
 ### [Discord](https://discord.gg/tJfbtQjcxg)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

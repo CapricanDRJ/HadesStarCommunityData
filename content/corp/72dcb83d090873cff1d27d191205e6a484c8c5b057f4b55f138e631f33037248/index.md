@@ -1,9 +1,9 @@
 ---
 title: ​Galactic Empire
-description: W:17 L:9 D:0 Bonus ✅ 48%
+description: W:18 L:9 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **GN星际联合**
-date: 2026-10-10T03:39:03.000Z
+Summary: ✅ 13 - 1 **甜甜圈**
+date: 2026-10-10T04:35:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,13 +23,13 @@ Discord: fYBf2GNU7y
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (10)|
-| ELO Competitive | 1301 🔺  (10)|
-| Total Matches | 26 |
-| Wins | 17 |
+| ELO Regular | 1299 🔺  (14)|
+| ELO Competitive | 1306 🔺  (14)|
+| Total Matches | 27 |
+| Wins | 18 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 12 |
 | Flagship | 7 |
 
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791171543,1790738805,1790653832,1790146018,1790085566,1789634231,1789611540,1789178310,1789178249,1788740884,1788739983,1788228598,1788228288,1787714797,1787705896,1787272744,1787265288,1786815768,1786812393,1719222813,1718108048,1716864960,1715602123,1714990700,1704676135,1704208829];
+        let timestamps = [1791174919,1791171543,1790738805,1790653832,1790146018,1790085566,1789634231,1789611540,1789178310,1789178249,1788740884,1788739983,1788228598,1788228288,1787714797,1787705896,1787272744,1787265288,1786815768,1786812393,1719222813,1718108048,1716864960,1715602123,1714990700,1704676135,1704208829];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/10 | 13-1 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ✅ | 2026/10/10 | 3-0 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) |
 | ✅ | 2026/10/05 | 3-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ❌ | 2026/10/04 | 3-6 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
@@ -179,5 +180,5 @@ Corporation ID: 72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791603543"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791606919"></span>
 </div>
