@@ -1,6 +1,6 @@
 ---
 title: ​UKR Spase
-description: W:96 L:76 D:0 Bonus ✅ 50%
+description: W:96 L:76 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **Любители Пива**
 date: 2026-10-03T01:32:53.000Z
@@ -19,7 +19,7 @@ date: 2026-10-03T01:32:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

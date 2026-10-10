@@ -1,9 +1,9 @@
 ---
 title: ​Karanth Corp.
-description: W:28 L:29 D:1 Bonus ❌ 15%
+description: W:29 L:29 D:1 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ❌ 4 - 25 **Nearland Ind**
-date: 2026-10-04T06:57:35.000Z
+Summary: ✅ 42 - 3 **Hun Generals**
+date: 2026-10-10T02:13:02.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ rd.
 <br>
 
 ### [Discord](https://discord.gg/9EdXH7jF)
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔻  (-6)|
-| ELO Competitive | 1692 🔻  (-2)|
-| Total Matches | 58 |
-| Wins | 28 |
+| ELO Regular | 1308 🔺  (3)|
+| ELO Competitive | 1696 🔺  (4)|
+| Total Matches | 59 |
+| Wins | 29 |
 | Losses | 29 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790665055,1789945886,1789304520,1788739382,1788271936,1786277602,1785825158,1785099595,1784652564,1783947436,1783416284,1782591011,1781022971,1781001335,1779693269,1778765462,1778756749,1778307003,1777792049,1777251271,1776662385,1776641360,1776186504,1776142941,1775545660,1774803283,1774248951,1773752616,1773750212,1773091064,1772656358,1772171739,1771730116,1771323930,1771179721,1770592962,1770108043,1769672947,1769198213,1768913978,1768609317,1768073003,1768046855,1767626846,1767607915,1767121477,1766677425,1766669010,1766221323,1765731904,1765298049,1764884597,1764863260,1764429075,1763859691,1763829645,1701601497,1699901550];
+        let timestamps = [1791166382,1790665055,1789945886,1789304520,1788739382,1788271936,1786277602,1785825158,1785099595,1784652564,1783947436,1783416284,1782591011,1781022971,1781001335,1779693269,1778765462,1778756749,1778307003,1777792049,1777251271,1776662385,1776641360,1776186504,1776142941,1775545660,1774803283,1774248951,1773752616,1773750212,1773091064,1772656358,1772171739,1771730116,1771323930,1771179721,1770592962,1770108043,1769672947,1769198213,1768913978,1768609317,1768073003,1768046855,1767626846,1767607915,1767121477,1766677425,1766669010,1766221323,1765731904,1765298049,1764884597,1764863260,1764429075,1763859691,1763829645,1701601497,1699901550];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/10 | 42-3 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2026/10/04 | 4-25 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ✅ | 2026/09/25 | 57-3 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2026/09/18 | 7-10 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
@@ -218,5 +219,5 @@ Corporation ID: 0fc8f143030ba76b5b5343015a7791fee2deabc1a3982096304acf6f4956ecdd
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791097055"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791598382"></span>
 </div>
