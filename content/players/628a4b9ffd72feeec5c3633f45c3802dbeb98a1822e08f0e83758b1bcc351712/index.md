@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Kabobo007"
-description: "ws: 9 μ: 24.08"
+description: "ws: 10 μ: 24.89"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 8
-- **Rating**: -0.20
-- **μ**: 24.08  
-- **σ**: 8.09
-- W: 2, L: 7, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 9
+- **Rating**: 0.63
+- **μ**: 24.89  
+- **σ**: 8.08
+- W: 2, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 24.08"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 8 |
+| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 9 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 24.08"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-10 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 3-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-06-20 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0-16 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-07 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 3-31 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-01-25 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 3-13 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

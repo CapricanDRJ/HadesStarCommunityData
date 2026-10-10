@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Romulus Remus"
-description: "ws: 10 μ: 23.63"
+description: "ws: 11 μ: 24.21"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 10
-- **Rating**: -0.59
-- **μ**: 23.63  
-- **σ**: 8.07
-- W: 1, L: 9, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 11
+- **Rating**: 0.03
+- **μ**: 24.21  
+- **σ**: 8.06
+- W: 1, L: 10, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 10 μ: 23.63"
 | Corporation | WhiteStars |
 | --- | --- |
 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 10 |
+| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 10 μ: 23.63"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-10 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 3-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-05-23 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-19 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-28 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-22 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-02-28 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 3-36 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

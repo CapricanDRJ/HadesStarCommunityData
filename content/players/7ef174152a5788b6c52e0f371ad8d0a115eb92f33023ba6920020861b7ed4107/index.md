@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "TinkyCat"
-description: "ws: 9 μ: 23.55"
+description: "ws: 10 μ: 24.48"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 8
-- **Rating**: -0.69
-- **μ**: 23.55  
-- **σ**: 8.08
-- W: 2, L: 7, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 9
+- **Rating**: 0.27
+- **μ**: 24.48  
+- **σ**: 8.07
+- W: 2, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 23.55"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 8 |
+| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 9 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 23.55"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-10 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 3-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-06-20 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0-16 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-07 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 3-31 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2025-12-13 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 4-36 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |

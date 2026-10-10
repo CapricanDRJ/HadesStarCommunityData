@@ -1,6 +1,6 @@
 ---
 title: ​Star Hunters
-description: W:13 L:17 D:2 Bonus ✅ 34%
+description: W:13 L:17 D:2 Bonus ✅ 36%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **Новый Мир**
 date: 2026-10-04T02:35:35.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T02:35:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
