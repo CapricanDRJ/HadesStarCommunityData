@@ -1,6 +1,6 @@
 ---
 title: ​HONECKERTJ CROW
-description: W:0 L:1 D:1 Bonus ❌ 
+description: W:0 L:1 D:1 Bonus ❌ 1%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **Stelar Corp**
 date: 2025-11-28T21:09:46.000Z
@@ -15,7 +15,7 @@ date: 2025-11-28T21:09:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |
