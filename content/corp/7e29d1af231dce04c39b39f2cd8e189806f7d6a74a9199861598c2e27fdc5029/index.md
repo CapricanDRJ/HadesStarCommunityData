@@ -1,6 +1,6 @@
 ---
 title: ​One True Empire
-description: W:46 L:30 D:2 Bonus ❌ 
+description: W:46 L:30 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 6 **Небула Рока**
 date: 2026-01-06T23:44:09.000Z
@@ -15,7 +15,7 @@ date: 2026-01-06T23:44:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
