@@ -1,6 +1,6 @@
 ---
 title: ​Industrial W.O
-description: W:100 L:69 D:3 Bonus ✅ 48%
+description: W:100 L:69 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 27 - 6 **Space Pirates**
 date: 2026-10-03T20:41:52.000Z
@@ -18,7 +18,7 @@ emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 <br>
 
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
