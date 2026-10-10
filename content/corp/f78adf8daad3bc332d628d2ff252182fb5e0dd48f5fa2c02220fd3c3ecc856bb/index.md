@@ -1,9 +1,9 @@
 ---
 title: ​奇点教会
-description: W:19 L:12 D:4 Bonus ✅ 36%
+description: W:20 L:12 D:4 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 6 - 1 **万顷稻花**
-date: 2026-10-05T03:44:14.000Z
+Summary: ✅ 6 - 0 **КОРПОРАЦИЯ ЗЛА**
+date: 2026-10-10T10:23:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-05T03:44:14.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (11)|
-| ELO Competitive | 1390 🔺  (13)|
-| Total Matches | 35 |
-| Wins | 19 |
+| ELO Regular | 1303 🔺  (1)|
+| ELO Competitive | 1394 🔺  (4)|
+| Total Matches | 36 |
+| Wins | 20 |
 | Losses | 12 |
 | Draws | 4 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
+        let timestamps = [1791195789,1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/10 | 6-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2026/10/05 | 6-1 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ✅ | 2026/09/29 | 4-3 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ↔️ | 2026/09/24 | 3-3 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
@@ -185,5 +186,5 @@ Corporation ID: f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791171854"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791627789"></span>
 </div>
