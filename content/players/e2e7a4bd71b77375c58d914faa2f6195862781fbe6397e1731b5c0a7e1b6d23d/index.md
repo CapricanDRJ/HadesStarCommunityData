@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "korrolo"
-description: "ws: 4 μ: 24.39"
+description: "ws: 5 μ: 24.16"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 4
-- **Rating**: -0.23
-- **μ**: 24.39  
-- **σ**: 8.21
-- W: 0, L: 3, T: 1
+- **WhiteStars**: 5
+- **Eligible**: 5
+- **Rating**: -0.34
+- **μ**: 24.16  
+- **σ**: 8.17
+- W: 0, L: 4, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 4 μ: 24.39"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 4 |
+| [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 4 μ: 24.39"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-11 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 6-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-03-14 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 4-35 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-01-30 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 6-20 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-08-10 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 38-38 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

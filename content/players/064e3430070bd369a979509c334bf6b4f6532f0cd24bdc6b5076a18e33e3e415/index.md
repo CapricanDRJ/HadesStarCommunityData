@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "N0DUS1"
-description: "ws: 30 μ: 28.50"
+description: "ws: 31 μ: 28.81"
 ---
-- **WhiteStars**: 30
-- **Eligible**: 24
-- **Rating**: 5.61
-- **μ**: 28.50  
-- **σ**: 7.63
-- W: 23, L: 7, T: 0
+- **WhiteStars**: 31
+- **Eligible**: 25
+- **Rating**: 5.98
+- **μ**: 28.81  
+- **σ**: 7.61
+- W: 24, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 30 μ: 28.50"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 23 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 24 |
 | [USSR](https://ws.tsl.rocks/corp/775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 30 μ: 28.50"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-11 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 55-2 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | 2026-10-04 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 3-20 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | 2026-09-19 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 6-4 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-09-06 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 6-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

@@ -1,9 +1,9 @@
 ---
 title: ​The Imperium
-description: W:2 L:1 D:0 Bonus ❌ 4%
+description: W:2 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 5 - 21 **DarkMastersComp**
-date: 2026-06-14T16:01:07.000Z
+Summary: ❌ 0 - 10 **attraction\.F**
+date: 2026-10-11T10:41:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-06-14T16:01:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (-17)|
-| ELO Competitive | 1214 🔻  (-16)|
-| Total Matches | 3 |
+| ELO Regular | 1206 🔻  (-7)|
+| ELO Competitive | 1208 🔻  (-6)|
+| Total Matches | 4 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1781020867,1780177601,1779470316];
+        let timestamps = [1791283285,1781020867,1780177601,1779470316];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/11 | 0-10 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ❌ | 2026/06/14 | 5-21 | [DarkMastersComp](https://ws.tsl.rocks/corp/95665c4b53e05c34441f6ca22d7dc3794a3fc95ae3d2976ad6c9f01f19ef958c/) |
 | ✅ | 2026/06/04 | 21-0 | [C\.C Legion](https://ws.tsl.rocks/corp/abfecd12aedde7b07396a1ea1839e4051e7e227fd7fbe5d7627d9e67a4cf0a53/) |
 | ✅ | 2026/05/27 | 16-0 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
@@ -145,5 +146,5 @@ Corporation ID: 3938ea9ad4f69fb545e94e7343756fae99e9f090e50a1120664b0024d9b09fea
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1781452867"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791715285"></span>
 </div>

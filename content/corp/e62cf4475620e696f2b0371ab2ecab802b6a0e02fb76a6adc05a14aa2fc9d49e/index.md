@@ -1,6 +1,6 @@
 ---
 title: ​CORPORATION
-description: W:3 L:2 D:0 Bonus ✅ 28%
+description: W:3 L:2 D:0 Bonus ✅ 30%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **big hammer**
 date: 2026-10-07T02:28:07.000Z
@@ -15,7 +15,7 @@ date: 2026-10-07T02:28:07.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |

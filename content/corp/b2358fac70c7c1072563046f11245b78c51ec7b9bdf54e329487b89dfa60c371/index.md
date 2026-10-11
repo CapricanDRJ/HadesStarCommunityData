@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:25 L:3 D:1 Bonus ✅ 38%
+description: W:26 L:3 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 19 - 0 **NERF TOY'S**
-date: 2026-10-11T09:35:28.000Z
+Summary: ✅ 10 - 0 **The Imperium**
+date: 2026-10-11T10:41:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-11T09:35:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (7)|
+| ELO Regular | 1418 🔺  (7)|
 | ELO Competitive | 1439 🔺  (17)|
-| Total Matches | 29 |
-| Wins | 25 |
+| Total Matches | 30 |
+| Wins | 26 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 13 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/11 | 10-0 | [The Imperium](https://ws.tsl.rocks/corp/3938ea9ad4f69fb545e94e7343756fae99e9f090e50a1120664b0024d9b09fea/) |
 | ✅ | 2026/10/11 | 19-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/10/04 | 17-3 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/10/04 | 21-0 | [莫比乌斯\-星环](https://ws.tsl.rocks/corp/f880db6adc517a83cc7c539551b160f5a90ac67a8ac62f8ae1edcbb40fff043c/) |
@@ -180,5 +181,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791711328"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791715285"></span>
 </div>

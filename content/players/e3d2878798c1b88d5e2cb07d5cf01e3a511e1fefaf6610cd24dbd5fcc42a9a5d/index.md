@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "HopeLight"
-description: "ws: 2 μ: 24.80"
+description: "ws: 3 μ: 24.63"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 2
-- **Rating**: -0.05
-- **μ**: 24.80  
-- **σ**: 8.28
-- W: 0, L: 2, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 3
+- **Rating**: -0.14
+- **μ**: 24.63  
+- **σ**: 8.26
+- W: 0, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 2 μ: 24.80"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 3 |
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 24.80"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-11 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2-55 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-28 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 3-45 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-09-13 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 6-28 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "jimmired"
-description: "ws: 8 μ: 28.71"
+description: "ws: 9 μ: 28.27"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 8
-- **Rating**: 4.52
-- **μ**: 28.71  
-- **σ**: 8.07
-- W: 6, L: 2, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 9
+- **Rating**: 4.18
+- **μ**: 28.27  
+- **σ**: 8.03
+- W: 7, L: 2, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 8 μ: 28.71"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 8 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 8 μ: 28.71"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-11 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 15-6 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | 2026-02-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29-3 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | 2026-01-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 6-15 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | 2026-01-15 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 9-7 | [Star Union](https://ws.tsl.rocks/corp/16aeed26660a5028dc9e88424937008a88a424b3220afac0731d6fd85d4746be/) |

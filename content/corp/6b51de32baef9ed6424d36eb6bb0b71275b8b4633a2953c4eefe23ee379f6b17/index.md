@@ -1,9 +1,9 @@
 ---
 title: ​Errantes
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:2 L:0 D:0 Bonus ✅ 26%
 image: ./favicon.png
-Summary: ✅ 30 - 6 **Red Alliance**
-date: 2026-09-19T04:18:28.000Z
+Summary: ✅ 24 - 4 **Bastille FR**
+date: 2026-10-11T11:06:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 2026-09-19T04:18:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (20)|
-| ELO Competitive | 1226 🔺  (26)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1236 🔺  (17)|
+| ELO Competitive | 1250 🔺  (24)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789359508];
+        let timestamps = [1791284787,1789359508];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/11 | 24-4 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
 | ✅ | 2026/09/19 | 30-6 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 6b51de32baef9ed6424d36eb6bb0b71275b8b4633a2953c4eefe23ee379f6b17
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789791508"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791716787"></span>
 </div>

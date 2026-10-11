@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "«demon89»"
-description: "ws: 49 μ: 28.83"
+description: "ws: 50 μ: 29.51"
 ---
-- **WhiteStars**: 49
-- **Eligible**: 42
-- **Rating**: 6.74
-- **μ**: 28.83  
-- **σ**: 7.36
-- W: 40, L: 9, T: 0
+- **WhiteStars**: 50
+- **Eligible**: 43
+- **Rating**: 7.49
+- **μ**: 29.51  
+- **σ**: 7.34
+- W: 41, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 49 μ: 28.83"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 42 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 43 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 49 μ: 28.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-11 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 15-6 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | 2026-10-06 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 6-15 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | 2026-07-25 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 40-2 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | 2026-07-18 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 5-6 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
