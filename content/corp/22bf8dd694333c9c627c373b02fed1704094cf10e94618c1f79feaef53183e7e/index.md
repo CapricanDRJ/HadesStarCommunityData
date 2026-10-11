@@ -1,6 +1,6 @@
 ---
 title: ​新?的星际集团?
-description: W:80 L:63 D:8 Bonus ✅ 46%
+description: W:80 L:63 D:8 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 48 **Tuatha De Danan**
 date: 2026-10-04T18:08:28.000Z
@@ -23,7 +23,7 @@ date: 2026-10-04T18:08:28.000Z
 <br>
 
 ### [Discord](https://discord.gg/新星团总部)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

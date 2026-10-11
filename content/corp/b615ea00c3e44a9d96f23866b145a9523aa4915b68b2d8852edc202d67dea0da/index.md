@@ -1,9 +1,9 @@
 ---
 title: ​Southall 1
-description: W:4 L:7 D:1 Bonus ❌ 6%
+description: W:4 L:8 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 26 **Ainz ooal gown**
-date: 2026-05-25T22:04:42.000Z
+Summary: ❌ 1 - 10 **中华五千年**
+date: 2026-10-11T17:43:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-05-25T22:04:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (-8)|
-| ELO Competitive | 1185 🔻  (-8)|
-| Total Matches | 12 |
+| ELO Regular | 1160 🔻  (-9)|
+| ELO Competitive | 1179 🔻  (-6)|
+| Total Matches | 13 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1779314682,1778874492,1766199804,1765634397,1765105741,1761904351,1760874866,1751135731,1731692154,1704026916,1703330109,1702839749];
+        let timestamps = [1791308623,1779314682,1778874492,1766199804,1765634397,1765105741,1761904351,1760874866,1751135731,1731692154,1704026916,1703330109,1702839749];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/11 | 1-10 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ❌ | 2026/05/25 | 0-26 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ✅ | 2026/05/20 | 3-0 | [萌新集团](https://ws.tsl.rocks/corp/ce01702934684c7c912cca080e785332f51d3f626308b9fb6cb6ed48aa7f042c/) |
 | ❌ | 2025/12/25 | 3-28 | [Crucible](https://ws.tsl.rocks/corp/778178a7255ba7f4c8e2fdeb41fb777fb90ecf6e84a3ba79431f055f869521c6/) |
@@ -154,5 +155,5 @@ Corporation ID: b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1779746682"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791740623"></span>
 </div>
