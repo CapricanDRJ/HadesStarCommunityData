@@ -1,6 +1,6 @@
 ---
 title: ​Hellfire Club
-description: W:126 L:112 D:2 Bonus ✅ 54%
+description: W:126 L:112 D:2 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 3 - 25 **Stargate Corp**
 date: 2026-10-10T11:54:38.000Z
@@ -18,7 +18,7 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

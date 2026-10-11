@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:111 L:67 D:2 Bonus ✅ 56%
+description: W:111 L:67 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 8 - 22 **Слава Украине\!**
 date: 2026-10-10T06:09:13.000Z
@@ -16,7 +16,7 @@ date: 2026-10-10T06:09:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

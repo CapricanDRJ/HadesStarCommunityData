@@ -1,6 +1,6 @@
 ---
 title: ​Yishun CC
-description: W:9 L:9 D:0 Bonus ✅ 50%
+description: W:9 L:9 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 22 - 17 **DOMOVINA**
 date: 2026-10-04T07:19:57.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T07:19:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

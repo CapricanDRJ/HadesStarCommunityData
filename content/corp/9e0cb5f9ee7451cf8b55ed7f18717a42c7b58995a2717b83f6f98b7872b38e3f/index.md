@@ -1,6 +1,6 @@
 ---
 title: ​Farland Ind.
-description: W:27 L:51 D:1 Bonus ✅ 50%
+description: W:27 L:51 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 2 - 9 **Terranova**
 date: 2026-10-05T19:05:35.000Z
@@ -21,7 +21,7 @@ Join via Discord: N3uPEvsFY9</color>
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​八月政府
-description: W:8 L:50 D:1 Bonus ✅ 36%
+description: W:8 L:50 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **Endless**
 date: 2026-10-04T08:52:59.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T08:52:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
