@@ -1,9 +1,9 @@
 ---
 title: ​红星私密之家
-description: W:1 L:0 D:0 Bonus ✅ 26%
+description: W:1 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
-Summary: ✅ 12 - 4 **Red star \(all\)**
-date: 2026-10-09T04:52:14.000Z
+Summary: ❌ 3 - 26 **Stellar Exports**
+date: 2026-10-11T14:11:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-09T04:52:14.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (15)|
+| ELO Regular | 1203 🔻  (-12)|
 | ELO Competitive | 1216 🔺  (16)|
-| Total Matches | 1 |
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791089534];
+        let timestamps = [1791295904,1791089534];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/11 | 3-26 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2026/10/09 | 12-4 | [Red star \(all\)](https://ws.tsl.rocks/corp/018359ba3867f626bd6cdd2f79f962028325907ff1caef526e4405b064e0c015/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 889d0661ee2fb884920ee3f90fad1b202ab805e67221ddddf1ae8b5e4f8ad53d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791521534"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791727904"></span>
 </div>

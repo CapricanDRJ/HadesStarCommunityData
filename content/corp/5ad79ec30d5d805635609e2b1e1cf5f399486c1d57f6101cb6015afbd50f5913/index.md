@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:86 L:34 D:3 Bonus ✅ 46%
+description: W:86 L:34 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 33 **IX Легион**
 date: 2026-10-10T05:54:12.000Z
@@ -17,7 +17,7 @@ date: 2026-10-10T05:54:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
