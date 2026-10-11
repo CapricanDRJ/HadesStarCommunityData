@@ -1,6 +1,6 @@
 ---
 title: ​Polish Pirates
-description: W:73 L:30 D:1 Bonus ✅ 52%
+description: W:73 L:30 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 21 - 3 **RUS**
 date: 2026-10-04T03:19:16.000Z
@@ -22,7 +22,7 @@ vGfaYFN
 <br>
 
 ### [Discord](https://discord.gg/vGfaYFN)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

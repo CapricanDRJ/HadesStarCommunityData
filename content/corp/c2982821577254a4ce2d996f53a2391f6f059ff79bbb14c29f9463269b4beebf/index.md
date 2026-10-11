@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:82 L:69 D:2 Bonus ✅ 50%
+description: W:82 L:69 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **BRASIL ACADEMY**
 date: 2026-10-04T01:12:12.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

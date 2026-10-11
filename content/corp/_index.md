@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-11T00:55:40.347Z
+date: 2026-10-11T03:55:41.295Z
 summary: "Corporation directory"
 ---
 
@@ -346,7 +346,7 @@ summary: "Corporation directory"
 | [Elite](https://ws.tsl.rocks/corp/4ef70b4cf666928ffd82d4e5278e42bb9edc22aa4a1e9d4e3c08ce9865d59fd9/) | 1158 | 1159 | 5 |
 | [ELITE](https://ws.tsl.rocks/corp/eb139c46c9eaf296b3dadaf953613bd2fb966ec6898536714a7e29d1ba1dd4eb/) | 1186 | 1186 | 2 |
 | [Elite2\.0](https://ws.tsl.rocks/corp/7a039367a683ac04f22e6292d73d5bf2088245f47c411e6a7befd45a11740637/) | 1168 | 1183 | 5 |
-| [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 1538 | 1784 | 140 |
+| [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 1544 | 1791 | 141 |
 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) | 1319 | 1385 | 42 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 1617 | 1724 | 66 |
 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) | 1153 | 1162 | 9 |
@@ -923,7 +923,7 @@ summary: "Corporation directory"
 | [ReylZ](https://ws.tsl.rocks/corp/69a8a2b36262bc3c3dec3511df24b34329b82bdbe9813e845bf2365f9d0c7a74/) | 1170 | 1175 | 2 |
 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) | 1189 | 1472 | 120 |
 | [Richthofen](https://ws.tsl.rocks/corp/e0208115ff38526d361b427f8dbd68002d9f4707960809ce5ec4ffc8d2389a18/) | 1195 | 1198 | 2 |
-| [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 1080 | 1330 | 148 |
+| [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 1078 | 1329 | 149 |
 | [Riverside](https://ws.tsl.rocks/corp/3498a8e4016a72186b5f937b808dd55ee03dcfcf8307563456383902898e1532/) | 1211 | 1218 | 1 |
 | [RMB](https://ws.tsl.rocks/corp/553fdd08c0aa4200c788be34634cf9fd1fcdbcef5791b01821c602c83e1a8f93/) | 1208 | 1211 | 1 |
 | [Rocket\-Babies](https://ws.tsl.rocks/corp/727a416b3ce233d4879a14b8a78d7f0a310389efdaa43a0edea09bf96e6eadaf/) | 1172 | 1173 | 2 |
@@ -1029,7 +1029,7 @@ summary: "Corporation directory"
 | [Space Invaders](https://ws.tsl.rocks/corp/206075cd4741ee62b305361bdbb27321be6e12e283438561851493e0ae28e7f6/) | 1185 | 1185 | 1 |
 | [Space lover](https://ws.tsl.rocks/corp/05ae9e7fe28126b7508df0081f0d22db119cc2184a95e0c12e263272bbccc6b2/) | 1171 | 1175 | 6 |
 | [Space Marine](https://ws.tsl.rocks/corp/0b961d6d412f986cbf91da27cad44222c4f7d42d432540520cd762556893064c/) | 1185 | 1185 | 1 |
-| [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 1289 | 1578 | 161 |
+| [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 1283 | 1571 | 162 |
 | [Space Monkeys](https://ws.tsl.rocks/corp/bf0f92381dd40d43b1326fd6cb3455bfd466b0f876fec8c6d9fa885d25d757f9/) | 1133 | 1165 | 26 |
 | [Space Monkeys](https://ws.tsl.rocks/corp/6894d5efb7b658b31de079cb2e732d920d4a9c0be391dc9f063e62e22ac51dac/) | 1332 | 1421 | 42 |
 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) | 1388 | 1519 | 48 |
@@ -1300,7 +1300,7 @@ summary: "Corporation directory"
 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) | 1133 | 1145 | 23 |
 | [Troy](https://ws.tsl.rocks/corp/eab7cf569ca39b6889d9c7b558abe94f4f5861ad6cdfea0cf167f5769f45315c/) | 1186 | 1186 | 1 |
 | [TSS](https://ws.tsl.rocks/corp/fd64fa0e5337edc1df77d01d8678148fa49835790f770924f1b6df6daaeac554/) | 1237 | 1251 | 5 |
-| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1588 | 1915 | 166 |
+| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1590 | 1915 | 167 |
 | [TUSFO星舰第二联邦](https://ws.tsl.rocks/corp/ce300265f7ff838a94e6b41da8dca8d346f0b2200c2ae84d309ef97d4af2777c/) | 1172 | 1180 | 2 |
 | [TUSFO星舰联邦](https://ws.tsl.rocks/corp/016954ccb4cf18eab01bdcce39c263205f20f80f38920e43516911db71c9d1ab/) | 1172 | 1180 | 6 |
 | [Two kitties](https://ws.tsl.rocks/corp/415346ff6e66cb31073d6c917b311d221638ac2dcb73e3b21054880ba1fe6416/) | 1185 | 1185 | 1 |
@@ -1458,7 +1458,7 @@ summary: "Corporation directory"
 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 1379 | 1614 | 130 |
 | [42 Nova Corps\.](https://ws.tsl.rocks/corp/f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e/) | 1210 | 1211 | 3 |
 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 1081 | 1284 | 113 |
-| [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 1236 | 1516 | 203 |
+| [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 1234 | 1514 | 204 |
 | [666](https://ws.tsl.rocks/corp/73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/) | 1165 | 1166 | 3 |
 | [8 русский рейх](https://ws.tsl.rocks/corp/8e7c8e4fc8fc755c723fafd3a9584dacda0f5a2eb4b800d5e8d379d664da2a44/) | 1222 | 1222 | 1 |
 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) | 1393 | 1660 | 123 |
@@ -1716,7 +1716,7 @@ summary: "Corporation directory"
 | [人之领](https://ws.tsl.rocks/corp/3c7c07b752ff8aa79046f7c6e4ca8ad5d71a9c0c07dc80333437e4e6835a2b3f/) | 1189 | 1194 | 1 |
 | [人人平等至上集团](https://ws.tsl.rocks/corp/f53ab6b6753f8863f21f2516c82b29bb8c994a766292a5162a18e30a2f577715/) | 1180 | 1197 | 11 |
 | [仙剑3](https://ws.tsl.rocks/corp/2c702a444d77ffd4549debe294bbbc132825227a98c0116ad385071e73d04c7b/) | 1217 | 1217 | 1 |
-| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 1706 | 1971 | 357 |
+| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 1708 | 1972 | 358 |
 | [仙女座星雲红活壹号](https://ws.tsl.rocks/corp/bee285778d7210bbaca39c7a461392ab7cf3495b5afef61fd9ef64a4709416aa/) | 1225 | 1268 | 8 |
 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) | 1115 | 1223 | 21 |
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 1070 | 1153 | 53 |
@@ -2005,7 +2005,7 @@ summary: "Corporation directory"
 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) | 1205 | 1236 | 18 |
 | [萌新集团](https://ws.tsl.rocks/corp/ce01702934684c7c912cca080e785332f51d3f626308b9fb6cb6ed48aa7f042c/) | 1125 | 1304 | 53 |
 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) | 1178 | 1280 | 36 |
-| [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 891 | 1282 | 136 |
+| [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) | 904 | 1291 | 137 |
 | [蓝太阳](https://ws.tsl.rocks/corp/3d8bcfd3fe682016f1d82e28b9ad7ed8de9df1c1a81ceb6d63e35844660d2212/) | 1162 | 1174 | 5 |
 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) | 1233 | 1270 | 23 |
 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) | 1103 | 1158 | 11 |
@@ -2044,7 +2044,7 @@ summary: "Corporation directory"
 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) | 942 | 1206 | 100 |
 | [青鸾殿](https://ws.tsl.rocks/corp/d92c939be23b35542ca2d0ae7cdc4b1288d5d5e78be2dfb74cb0360f5524d01c/) | 1120 | 1182 | 18 |
 | [风云集团](https://ws.tsl.rocks/corp/3ca747bf4a1e2d8605f7b6e8dd589c2fa5856ae2e3050355378b49fd64a86c1f/) | 1123 | 1124 | 8 |
-| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 841 | 1114 | 92 |
+| [骊珠洞天](https://ws.tsl.rocks/corp/b4d7d82bf1a40a19c41bf51fdc6f938a1b111dfa8869d3008ae91d248485253c/) | 828 | 1106 | 93 |
 | [鱼的死水潭](https://ws.tsl.rocks/corp/efa98d404149f8b6e11a215ad7c8c1df056f7ef117393bc3e625ac48fb27f044/) | 1192 | 1196 | 1 |
 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) | 1152 | 1167 | 12 |
 | [黄昏社](https://ws.tsl.rocks/corp/edeb1d9bd039acfa3cd101a6be6c8145d269b5d438828955d7e5a1ccfdd633f2/) | 1214 | 1221 | 1 |

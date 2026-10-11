@@ -1,6 +1,6 @@
 ---
 title: ​Mosaic
-description: W:4 L:1 D:0 Bonus ❌ 30%
+description: W:4 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 24 - 10 **Legion Prime**
 date: 2026-10-04T00:47:11.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T00:47:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

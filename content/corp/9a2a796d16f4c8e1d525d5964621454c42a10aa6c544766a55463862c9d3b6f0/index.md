@@ -1,6 +1,6 @@
 ---
 title: ​Cool Casual
-description: W:41 L:24 D:3 Bonus ✅ 38%
+description: W:41 L:24 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **太阳系星盟·白星观测站**
 date: 2026-10-04T01:57:15.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T01:57:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
