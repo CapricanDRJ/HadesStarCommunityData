@@ -1,6 +1,6 @@
 ---
 title: ​Ironbear Legion
-description: W:49 L:77 D:0 Bonus ✅ 48%
+description: W:49 L:77 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 23 - 3 **UFO**
 date: 2026-10-04T00:07:08.000Z
@@ -16,7 +16,7 @@ date: 2026-10-04T00:07:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/EnduRy84t7)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

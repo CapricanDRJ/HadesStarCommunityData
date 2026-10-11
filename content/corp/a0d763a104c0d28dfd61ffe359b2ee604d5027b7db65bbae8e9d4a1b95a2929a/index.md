@@ -1,9 +1,9 @@
 ---
 title: ​Rabid Butterfly
-description: W:0 L:1 D:0 Bonus ❌ 8%
+description: W:1 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 3 - 5 **Ereboros**
-date: 2026-10-05T13:14:58.000Z
+Summary: ✅ 14 - 1 **Эдем**
+date: 2026-10-11T00:15:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-05T13:14:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (-10)|
-| ELO Competitive | 1192 🔻  (-8)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1207 🔺  (17)|
+| ELO Competitive | 1219 🔺  (26)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790774098];
+        let timestamps = [1791245741,1790774098];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/11 | 14-1 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2026/10/05 | 3-5 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791206098"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791677741"></span>
 </div>
