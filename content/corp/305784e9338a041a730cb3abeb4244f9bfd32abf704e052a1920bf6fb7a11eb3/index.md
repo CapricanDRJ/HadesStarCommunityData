@@ -1,9 +1,9 @@
 ---
 title: ​Untitled
-description: W:17 L:12 D:2 Bonus ❌ 8%
+description: W:17 L:13 D:2 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **Gemini Ind\.**
-date: 2026-08-30T20:38:46.000Z
+Summary: ❌ 3 - 8 **Akatsuki**
+date: 2026-10-11T20:56:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-08-30T20:38:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔻  (-7)|
-| ELO Competitive | 1278 🔻  (-5)|
-| Total Matches | 31 |
+| ELO Regular | 1226 🔻  (-17)|
+| ELO Competitive | 1259 🔻  (-18)|
+| Total Matches | 32 |
 | Wins | 17 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787690326,1763936011,1762756821,1761703657,1761093076,1760584021,1759981282,1758776125,1757905663,1757191482,1756603773,1756067908,1755469344,1754963095,1754449747,1753741217,1752536220,1751753209,1751081040,1750382563,1749766049,1749236570,1748747073,1747594083,1747102773,1746577807,1746043224,1745561007,1744752064,1744201237,1743119921];
+        let timestamps = [1791320201,1787690326,1763936011,1762756821,1761703657,1761093076,1760584021,1759981282,1758776125,1757905663,1757191482,1756603773,1756067908,1755469344,1754963095,1754449747,1753741217,1752536220,1751753209,1751081040,1750382563,1749766049,1749236570,1748747073,1747594083,1747102773,1746577807,1746043224,1745561007,1744752064,1744201237,1743119921];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/11 | 3-8 | [Akatsuki](https://ws.tsl.rocks/corp/0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939/) |
 | ❌ | 2026/08/30 | 0-14 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2025/11/28 | 1-0 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ❌ | 2025/11/15 | 0-21 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
@@ -180,5 +181,5 @@ Corporation ID: 305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788122326"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791752201"></span>
 </div>

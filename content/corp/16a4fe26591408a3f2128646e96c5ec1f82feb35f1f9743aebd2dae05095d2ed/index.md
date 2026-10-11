@@ -1,9 +1,9 @@
 ---
 title: ​揽月宫
-description: W:17 L:11 D:0 Bonus ❌ 7%
+description: W:17 L:12 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 26 **RUFORS**
-date: 2026-10-06T09:31:41.000Z
+Summary: ❌ 0 - 8 **BRASIL ACADEMY**
+date: 2026-10-11T20:32:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ date: 2026-10-06T09:31:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔻  (-9)|
-| ELO Competitive | 1385 🔻  (-6)|
-| Total Matches | 28 |
+| ELO Regular | 1269 🔻  (-16)|
+| ELO Competitive | 1378 🔻  (-7)|
+| Total Matches | 29 |
 | Wins | 17 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790847101,1790412407,1789955847,1789484767,1789047334,1788596653,1779675032,1777953082,1732165436,1731669011,1731119691,1730991379,1730352527,1729911389,1729859099,1729345554,1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
+        let timestamps = [1791318739,1790847101,1790412407,1789955847,1789484767,1789047334,1788596653,1779675032,1777953082,1732165436,1731669011,1731119691,1730991379,1730352527,1729911389,1729859099,1729345554,1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/11 | 0-8 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2026/10/06 | 0-26 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2026/10/01 | 15-19 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2026/09/26 | 15-0 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
@@ -186,5 +187,5 @@ Corporation ID: 16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791279101"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791750739"></span>
 </div>

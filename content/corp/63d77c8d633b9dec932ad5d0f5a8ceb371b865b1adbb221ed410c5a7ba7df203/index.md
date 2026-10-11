@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Star
-description: W:88 L:41 D:0 Bonus ✅ 50%
+description: W:88 L:41 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 31 - 2 **Tuatha De Danan**
 date: 2026-10-04T19:03:34.000Z
@@ -18,7 +18,7 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

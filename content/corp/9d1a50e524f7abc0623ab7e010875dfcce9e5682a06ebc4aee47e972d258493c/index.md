@@ -1,6 +1,6 @@
 ---
 title: ​NoweUkladyII
-description: W:27 L:0 D:0 Bonus ❌ 8%
+description: W:27 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 30 - 3 **47підрозділССП**
 date: 2026-06-16T16:03:58.000Z
@@ -16,7 +16,7 @@ godę, jak również chętnych na regularne zabawy na WS.
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

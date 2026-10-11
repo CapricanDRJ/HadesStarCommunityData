@@ -1,6 +1,6 @@
 ---
 title: ​the heavy
-description: W:30 L:21 D:0 Bonus ✅ 44%
+description: W:30 L:21 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 26 - 4 **UAGC**
 date: 2026-10-04T21:33:50.000Z
@@ -19,7 +19,7 @@ Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 <br>
 
 ### [Discord](https://discord.gg/6vgrePN)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
