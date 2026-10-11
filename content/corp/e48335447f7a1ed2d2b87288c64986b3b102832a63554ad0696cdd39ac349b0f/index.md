@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:6 L:0 D:0 Bonus ✅ 32%
+description: W:8 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 31 - 7 **Слава Украине\!**
-date: 2026-10-04T06:27:33.000Z
+Summary: ✅ 29 - 3 **阿尔特拉集团**
+date: 2026-10-11T05:31:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-04T06:27:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (20)|
-| ELO Competitive | 1288 🔺  (29)|
-| Total Matches | 6 |
-| Wins | 6 |
+| ELO Regular | 1333 🔺  (7)|
+| ELO Competitive | 1316 🔺  (28)|
+| Total Matches | 8 |
+| Wins | 8 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 8 |
+| Streak Record | 8 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
+        let timestamps = [1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/11 | 29-3 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
+| ✅ | 2026/10/11 | 19-5 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) |
 | ✅ | 2026/10/04 | 31-7 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2026/10/04 | 15-7 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2026/09/27 | 20-3 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
@@ -149,5 +151,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791095253"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791696663"></span>
 </div>

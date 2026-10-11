@@ -1,6 +1,6 @@
 ---
 title: ​Drama Llama
-description: W:8 L:2 D:0 Bonus ✅ 32%
+description: W:8 L:2 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 8 - 6 **Elysium**
 date: 2026-10-04T04:17:24.000Z
@@ -15,7 +15,7 @@ date: 2026-10-04T04:17:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

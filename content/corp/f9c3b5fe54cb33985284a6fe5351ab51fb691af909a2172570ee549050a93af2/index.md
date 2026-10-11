@@ -1,6 +1,6 @@
 ---
 title: ​STAR TERROR CZ
-description: W:56 L:31 D:1 Bonus ✅ 44%
+description: W:56 L:31 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 5 - 12 **Austria**
 date: 2026-10-10T07:59:21.000Z
@@ -17,7 +17,7 @@ nos.github.io/HadesSpace/
 <br>
 
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

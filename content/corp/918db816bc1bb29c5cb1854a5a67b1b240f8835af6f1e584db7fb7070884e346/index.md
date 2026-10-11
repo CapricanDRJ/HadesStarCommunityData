@@ -1,6 +1,6 @@
 ---
 title: ​Polaris Corpo
-description: W:54 L:44 D:0 Bonus ✅ 44%
+description: W:54 L:44 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **Halcon español**
 date: 2026-10-10T10:59:34.000Z
@@ -21,7 +21,7 @@ date: 2026-10-10T10:59:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

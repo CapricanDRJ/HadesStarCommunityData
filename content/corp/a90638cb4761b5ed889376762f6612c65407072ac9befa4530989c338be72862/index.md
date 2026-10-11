@@ -1,9 +1,9 @@
 ---
 title: ​Corp. Luminá
-description: W:41 L:23 D:0 Bonus ✅ 40%
+description: W:42 L:23 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 16 - 8 **Empire of Hades**
-date: 2026-10-06T05:11:21.000Z
+Summary: ✅ 20 - 11 **Lupus Regnum**
+date: 2026-10-11T05:56:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (19)|
-| ELO Competitive | 1511 🔺  (23)|
-| Total Matches | 64 |
-| Wins | 41 |
+| ELO Regular | 1337 🔺  (10)|
+| ELO Competitive | 1529 🔺  (18)|
+| Total Matches | 65 |
+| Wins | 42 |
 | Losses | 23 |
 | Draws | 0 |
-| Streak | 8 |
+| Streak | 9 |
 | Streak Record | 11 |
 | Flagship | 3 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790831481,1790383568,1789949488,1789223995,1788712635,1788269531,1787498911,1787010409,1786369540,1785781153,1777914626,1774446339,1771426977,1770669875,1770039545,1769542857,1768898356,1768131589,1767646375,1767214008,1765175158,1764285715,1757549612,1757000680,1755425458,1754357201,1754352395,1753285673,1752635077,1752067218,1751196121,1749717658,1748795457,1748161718,1747588072,1747125306,1747121701,1746474775,1746466025,1745783713,1744728018,1743344140,1742826605,1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
+        let timestamps = [1791266165,1790831481,1790383568,1789949488,1789223995,1788712635,1788269531,1787498911,1787010409,1786369540,1785781153,1777914626,1774446339,1771426977,1770669875,1770039545,1769542857,1768898356,1768131589,1767646375,1767214008,1765175158,1764285715,1757549612,1757000680,1755425458,1754357201,1754352395,1753285673,1752635077,1752067218,1751196121,1749717658,1748795457,1748161718,1747588072,1747125306,1747121701,1746474775,1746466025,1745783713,1744728018,1743344140,1742826605,1742392333,1741650708,1740357059,1739644542,1739104846,1739104846,1738587676,1738009795,1737566859,1737134731,1736698064,1735139902,1734529059,1733925706,1733407073,1732930216,1732286826,1731682235,1730912953,1730126260,1729444430];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 2 | 0 | 0 | 2 |
 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1 | 1 | 0 | 2 |
 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) | 2 | 0 | 0 | 2 |
 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 1 | 0 | 2 |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/11 | 20-11 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/10/06 | 16-8 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2026/10/01 | 30-14 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ✅ | 2026/09/26 | 4-0 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
@@ -222,5 +224,5 @@ Corporation ID: a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791263481"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791698165"></span>
 </div>

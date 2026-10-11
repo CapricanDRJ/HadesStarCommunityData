@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:60 L:73 D:4 Bonus ✅ 44%
+description: W:60 L:73 D:4 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 9 - 8 **Lupus Regnum**
 date: 2026-10-04T05:27:29.000Z
@@ -18,7 +18,7 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

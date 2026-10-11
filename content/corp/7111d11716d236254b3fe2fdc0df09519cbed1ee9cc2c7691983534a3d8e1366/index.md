@@ -1,6 +1,6 @@
 ---
 title: ​Gummibärenbande
-description: W:38 L:100 D:0 Bonus ✅ 52%
+description: W:38 L:100 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 17 **ДИВЕРСАНТЫ**
 date: 2026-10-04T13:13:03.000Z
@@ -24,7 +24,7 @@ Mitglied der Tartaros Armada
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
