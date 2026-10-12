@@ -1,6 +1,6 @@
 ---
 title: ​Legión
-description: W:51 L:51 D:3 Bonus ✅ 48%
+description: W:51 L:51 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **落魄山**
 date: 2026-10-05T16:40:18.000Z
@@ -18,7 +18,7 @@ sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 <br>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
