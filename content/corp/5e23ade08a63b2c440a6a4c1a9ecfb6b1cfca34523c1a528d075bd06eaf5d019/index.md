@@ -1,6 +1,6 @@
 ---
 title: ​QONQR
-description: W:56 L:19 D:0 Bonus ✅ 46%
+description: W:56 L:19 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 1 - 16 **REAPERS**
 date: 2026-10-07T07:08:29.000Z
@@ -18,7 +18,7 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Battlestar Fr
-description: W:13 L:16 D:0 Bonus ✅ 44%
+description: W:13 L:16 D:0 Bonus ❌ 44%
 image: ./favicon.png
 Summary: ✅ 32 - 11 **Lost Legion**
 date: 2026-10-05T06:49:27.000Z
@@ -20,7 +20,7 @@ Discord : x9QTsuZ3mg
 <br>
 
 ### [Discord](https://discord.gg/x9QTsuZ3mg)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 44%
 
 | Statistic | Value |
 | --- | --- |
