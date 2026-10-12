@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:71 L:40 D:2 Bonus ✅ 44%
+description: W:71 L:40 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 6 - 22 **Russian space 3**
 date: 2026-10-05T09:14:38.000Z
@@ -17,7 +17,7 @@ date: 2026-10-05T09:14:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
