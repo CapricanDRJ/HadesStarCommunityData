@@ -1,6 +1,6 @@
 ---
 title: ​Death Flight
-description: W:76 L:261 D:4 Bonus ✅ 52%
+description: W:76 L:261 D:4 Bonus ❌ 52%
 image: ./favicon.png
 Summary: ❌ 2 - 26 **Got Nothing**
 date: 2026-10-10T11:54:38.000Z
@@ -24,7 +24,7 @@ Trust * Loyalty
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 52%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-12T00:55:39.683Z
+date: 2026-10-12T03:55:40.027Z
 summary: "Corporation directory"
 ---
 
@@ -1580,7 +1580,7 @@ summary: "Corporation directory"
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 1520 | 2034 | 343 |
 | [Нервные колебан](https://ws.tsl.rocks/corp/947465131a3402c9b2d0708d5824cca42c9ed5ea4c0e9fa57ebe297f50850859/) | 1179 | 1187 | 1 |
 | [Неудержимые](https://ws.tsl.rocks/corp/144c80f6e5fb0e145a52f3066b2e61d14a1529f28a8c543720ac999e67c91ef6/) | 1153 | 1166 | 4 |
-| [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) | 1201 | 1218 | 21 |
+| [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) | 1185 | 1206 | 22 |
 | [Новый Мир](https://ws.tsl.rocks/corp/5563c95f687e98cc5e151634915ffa5e0f4bb39709901c5acc52e34094f19409/) | 1286 | 1608 | 73 |
 | [Новый ЭДЭМ](https://ws.tsl.rocks/corp/f1d15cb357f6e239e540971a84a8b7161bfb5a976716027dbccbbf8e77dac4b5/) | 1186 | 1214 | 10 |
 | [Ночные Львы](https://ws.tsl.rocks/corp/0ed108e924dc1ffb26f5569d6644d9eeefc397f2435eb15d122fe9f5368aabd7/) | 1185 | 1185 | 1 |
@@ -1785,7 +1785,7 @@ summary: "Corporation directory"
 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) | 1167 | 1344 | 29 |
 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) | 1224 | 1248 | 7 |
 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) | 1286 | 1298 | 16 |
-| [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) | 1188 | 1295 | 38 |
+| [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) | 1204 | 1307 | 39 |
 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) | 1326 | 1371 | 32 |
 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) | 1303 | 1394 | 36 |
 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) | 1340 | 1607 | 83 |
