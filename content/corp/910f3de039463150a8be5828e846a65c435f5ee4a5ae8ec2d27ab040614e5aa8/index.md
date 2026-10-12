@@ -1,6 +1,6 @@
 ---
 title: ​Bastille FR
-description: W:27 L:25 D:0 Bonus ✅ 40%
+description: W:27 L:25 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 5 **中华五千年**
 date: 2026-10-11T15:11:49.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T15:11:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

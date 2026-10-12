@@ -1,6 +1,6 @@
 ---
 title: ​星域
-description: W:77 L:76 D:2 Bonus ✅ 50%
+description: W:77 L:76 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 0 - 39 **Omega Alpha**
 date: 2026-10-10T14:19:51.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

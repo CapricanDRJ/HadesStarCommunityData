@@ -1,6 +1,6 @@
 ---
 title: ​何为真理
-description: W:31 L:27 D:2 Bonus ✅ 38%
+description: W:31 L:27 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **新手村**
 date: 2026-10-05T12:44:55.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T12:44:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

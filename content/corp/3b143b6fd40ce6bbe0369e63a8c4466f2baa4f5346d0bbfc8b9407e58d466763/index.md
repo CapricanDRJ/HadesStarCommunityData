@@ -1,6 +1,6 @@
 ---
 title: ​九州·养老
-description: W:24 L:32 D:2 Bonus ✅ 38%
+description: W:24 L:32 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 4 - 10 **Wolf \- Star**
 date: 2026-10-11T08:50:41.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T08:50:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

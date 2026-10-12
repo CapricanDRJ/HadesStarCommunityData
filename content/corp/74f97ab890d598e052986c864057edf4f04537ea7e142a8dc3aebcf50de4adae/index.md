@@ -1,9 +1,9 @@
 ---
 title: ​天之始
-description: W:8 L:14 D:1 Bonus ❌ 6%
+description: W:8 L:15 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 26 **Red Monarchs**
-date: 2026-10-01T10:12:42.000Z
+Summary: ❌ 0 - 26 **Ainz ooal gown**
+date: 2026-10-12T12:24:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-01T10:12:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (-12)|
-| ELO Competitive | 1182 🔻  (-13)|
-| Total Matches | 23 |
+| ELO Regular | 1130 🔻  (-4)|
+| ELO Competitive | 1179 🔻  (-3)|
+| Total Matches | 24 |
 | Wins | 8 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790417562,1789899015,1788139157,1787470968,1786863780,1786232169,1785642776,1785142850,1784685016,1784087948,1783651823,1783219583,1782721350,1782282050,1781841662,1781407499,1780952451,1780448279,1779946866,1779426748,1778917184,1778438308,1777896840];
+        let timestamps = [1791375843,1790417562,1789899015,1788139157,1787470968,1786863780,1786232169,1785642776,1785142850,1784685016,1784087948,1783651823,1783219583,1782721350,1782282050,1781841662,1781407499,1780952451,1780448279,1779946866,1779426748,1778917184,1778438308,1777896840];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/12 | 0-26 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ❌ | 2026/10/01 | 0-26 | [Red Monarchs](https://ws.tsl.rocks/corp/761820b9c8f9e63f72ef9be1fbc4daf3c32b67c035b595bb61876aaa40528c53/) |
 | ❌ | 2026/09/25 | 0-13 | [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) |
 | ❌ | 2026/09/05 | 3-16 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
@@ -171,5 +172,5 @@ Corporation ID: 74f97ab890d598e052986c864057edf4f04537ea7e142a8dc3aebcf50de4adae
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790849562"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791807843"></span>
 </div>
