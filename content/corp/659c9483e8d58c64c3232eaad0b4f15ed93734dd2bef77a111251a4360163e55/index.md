@@ -1,6 +1,6 @@
 ---
 title: ​Ereboros
-description: W:13 L:2 D:0 Bonus ✅ 34%
+description: W:13 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 5 - 3 **Rabid Butterfly**
 date: 2026-10-05T13:14:58.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T13:14:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Jesus Followers
-description: W:4 L:12 D:0 Bonus ✅ 36%
+description: W:4 L:12 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 7 **First Squad**
 date: 2026-10-05T14:15:03.000Z
@@ -17,7 +17,7 @@ e his prisoner, but share in suffering for the gospel by the power of
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Continuum
-description: W:226 L:123 D:3 Bonus ✅ 60%
+description: W:226 L:123 D:3 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **Likapa**
 date: 2026-10-10T20:15:24.000Z
@@ -19,7 +19,7 @@ S. 18+, English. Discord - apply + RS queue.
 <br>
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

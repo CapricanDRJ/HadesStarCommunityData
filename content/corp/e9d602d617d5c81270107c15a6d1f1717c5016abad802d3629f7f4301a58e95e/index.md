@@ -1,6 +1,6 @@
 ---
 title: ​元素联邦
-description: W:51 L:24 D:1 Bonus ✅ 40%
+description: W:51 L:24 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 0 **骊珠洞天**
 date: 2026-10-05T13:45:02.000Z
@@ -17,7 +17,7 @@ date: 2026-10-05T13:45:02.000Z
 <br>
 
 ### [Discord](https://discord.gg/Q群250502867)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

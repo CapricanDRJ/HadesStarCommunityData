@@ -1,6 +1,6 @@
 ---
 title: ​聚集地
-description: W:4 L:1 D:1 Bonus ✅ 32%
+description: W:4 L:1 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **Star Field**
 date: 2026-10-05T14:24:56.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T14:24:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
