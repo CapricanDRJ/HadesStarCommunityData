@@ -1,6 +1,6 @@
 ---
 title: ​Gemini Ind.
-description: W:54 L:10 D:0 Bonus ✅ 42%
+description: W:54 L:10 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 20 - 3 **Будущее**
 date: 2026-10-04T22:13:52.000Z
@@ -24,7 +24,7 @@ We have awesome queue for rs runs!
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

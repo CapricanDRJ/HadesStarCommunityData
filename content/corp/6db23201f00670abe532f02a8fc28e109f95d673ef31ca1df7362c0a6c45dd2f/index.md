@@ -1,9 +1,9 @@
 ---
 title: ​(_(_Vossk_)_)
-description: W:23 L:36 D:1 Bonus ❌ 9%
+description: W:24 L:36 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **CubeTech**
-date: 2026-09-27T07:31:27.000Z
+Summary: ✅ 6 - 2 **Star Blazers**
+date: 2026-10-11T23:02:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ in us or prepare to meet your destiny.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (17)|
-| ELO Competitive | 1280 🔺  (17)|
-| Total Matches | 60 |
-| Wins | 23 |
+| ELO Regular | 1190 🔺  (16)|
+| ELO Competitive | 1301 🔺  (21)|
+| Total Matches | 61 |
+| Wins | 24 |
 | Losses | 36 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790062287,1785155768,1784548311,1783753960,1783008303,1782531822,1782001928,1779234158,1778544921,1777629516,1776420832,1771070893,1764120474,1761353019,1760431093,1759461169,1758372623,1757631933,1753530564,1751974068,1750857781,1749903075,1740876026,1739676995,1738326206,1737872458,1736382798,1733920296,1732954252,1732188870,1731019030,1727345843,1726738938,1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
+        let timestamps = [1791327750,1790062287,1785155768,1784548311,1783753960,1783008303,1782531822,1782001928,1779234158,1778544921,1777629516,1776420832,1771070893,1764120474,1761353019,1760431093,1759461169,1758372623,1757631933,1753530564,1751974068,1750857781,1749903075,1740876026,1739676995,1738326206,1737872458,1736382798,1733920296,1732954252,1732188870,1731019030,1727345843,1726738938,1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/11 | 6-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2026/09/27 | 6-0 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
 | ❌ | 2026/08/01 | 7-21 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ✅ | 2026/07/25 | 18-0 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
@@ -213,5 +215,5 @@ Corporation ID: 6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790494287"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791759750"></span>
 </div>
