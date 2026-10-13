@@ -1,6 +1,6 @@
 ---
 title: ​烽烟与黎明
-description: W:7 L:4 D:0 Bonus ✅ 32%
+description: W:7 L:4 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **Axioma**
 date: 2026-10-06T02:41:10.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T02:41:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

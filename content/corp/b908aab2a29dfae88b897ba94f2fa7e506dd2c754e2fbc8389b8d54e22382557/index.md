@@ -1,6 +1,6 @@
 ---
 title: ​甜甜圈
-description: W:8 L:5 D:0 Bonus ✅ 34%
+description: W:8 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 1 - 3 **老哥最强集团**
 date: 2026-10-11T05:21:02.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T05:21:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

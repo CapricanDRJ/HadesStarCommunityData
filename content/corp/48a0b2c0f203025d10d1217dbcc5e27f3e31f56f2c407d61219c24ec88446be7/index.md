@@ -1,6 +1,6 @@
 ---
 title: ​RGW
-description: W:60 L:59 D:1 Bonus ✅ 44%
+description: W:60 L:59 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 34 - 3 **SternenStaub**
 date: 2026-10-06T01:26:04.000Z
@@ -15,7 +15,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
