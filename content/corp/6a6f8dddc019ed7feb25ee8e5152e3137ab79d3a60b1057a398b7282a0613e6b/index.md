@@ -1,6 +1,6 @@
 ---
 title: ​WALRUS
-description: W:17 L:10 D:0 Bonus ✅ 36%
+description: W:17 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 18 - 17 **Space Oddity**
 date: 2026-10-06T07:11:31.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T07:11:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​星际联邦
-description: W:28 L:10 D:1 Bonus ✅ 38%
+description: W:28 L:10 D:1 Bonus ❌ 38%
 image: ./favicon.png
 Summary: ✅ 20 - 1 **࿇ÐɑʀҟƑîʀɛ༒🍁**
 date: 2026-10-06T09:46:42.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T09:46:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 38%
 
 | Statistic | Value |
 | --- | --- |

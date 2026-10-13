@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:76 L:29 D:1 Bonus ✅ 50%
+description: W:76 L:29 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 12 - 9 **северный шторм**
 date: 2026-10-06T07:01:30.000Z
@@ -16,7 +16,7 @@ date: 2026-10-06T07:01:30.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

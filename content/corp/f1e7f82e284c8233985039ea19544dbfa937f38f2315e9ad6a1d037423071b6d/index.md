@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:64 L:21 D:1 Bonus ✅ 44%
+description: W:64 L:21 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **揽月宫**
 date: 2026-10-06T09:31:41.000Z
@@ -16,7 +16,7 @@ date: 2026-10-06T09:31:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
