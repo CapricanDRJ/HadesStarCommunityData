@@ -1,6 +1,6 @@
 ---
 title: ​Stone Legion
-description: W:63 L:38 D:1 Bonus ✅ 48%
+description: W:63 L:38 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 38 - 0 **Ark**
 date: 2026-10-06T16:37:19.000Z
@@ -19,7 +19,7 @@ date: 2026-10-06T16:37:19.000Z
 <br>
 
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

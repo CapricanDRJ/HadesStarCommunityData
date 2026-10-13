@@ -1,9 +1,9 @@
 ---
 title: ​战争幽灵
-description: W:1 L:19 D:0 Bonus ❌ 6%
+description: W:1 L:20 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 1 - 9 **Закулисье**
-date: 2026-10-07T15:24:12.000Z
+Summary: ❌ 0 - 9 **AlSounT**
+date: 2026-10-13T16:50:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-07T15:24:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1011 🔻  (-5)|
-| ELO Competitive | 1094 🔻  (-5)|
-| Total Matches | 20 |
+| ELO Regular | 1003 🔻  (-8)|
+| ELO Competitive | 1092 🔻  (-2)|
+| Total Matches | 21 |
 | Wins | 1 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
+        let timestamps = [1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/13 | 0-9 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2026/10/07 | 1-9 | [Закулисье](https://ws.tsl.rocks/corp/6b6320075ef24f567188c00a140553a525899f5558e6ab6767c88c37e6186437/) |
 | ❌ | 2026/10/02 | 0-15 | [RMB](https://ws.tsl.rocks/corp/553fdd08c0aa4200c788be34634cf9fd1fcdbcef5791b01821c602c83e1a8f93/) |
 | ❌ | 2026/09/27 | 0-8 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
@@ -166,5 +167,5 @@ Corporation ID: 19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791386652"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791910247"></span>
 </div>

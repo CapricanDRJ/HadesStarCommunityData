@@ -1,6 +1,6 @@
 ---
 title: ​Village of Evil
-description: W:81 L:1 D:1 Bonus ✅ 46%
+description: W:81 L:1 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 1 - 0 **testims**
 date: 2026-10-06T17:36:56.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T17:36:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

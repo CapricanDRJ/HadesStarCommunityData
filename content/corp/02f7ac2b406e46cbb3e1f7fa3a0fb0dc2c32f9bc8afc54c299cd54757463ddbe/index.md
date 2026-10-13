@@ -1,6 +1,6 @@
 ---
 title: ​ItaFederalFleet
-description: W:30 L:28 D:3 Bonus ✅ 36%
+description: W:30 L:28 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 27 - 6 **Gold Star**
 date: 2026-10-06T16:12:16.000Z
@@ -18,7 +18,7 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
