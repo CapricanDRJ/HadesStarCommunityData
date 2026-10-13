@@ -1,6 +1,6 @@
 ---
 title: ​Solar Corp
-description: W:46 L:6 D:0 Bonus ✅ 40%
+description: W:46 L:6 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 17 - 3 **Dark Training**
 date: 2026-10-05T23:45:57.000Z
@@ -15,7 +15,7 @@ date: 2026-10-05T23:45:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
