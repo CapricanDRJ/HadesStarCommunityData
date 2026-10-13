@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Spaceman Spiff"
-description: "ws: 3 μ: 25.59"
+description: "ws: 4 μ: 26.11"
 ---
-- **WhiteStars**: 3
-- **Eligible**: 3
-- **Rating**: 0.91
-- **μ**: 25.59  
-- **σ**: 8.23
-- W: 2, L: 1, T: 0
+- **WhiteStars**: 4
+- **Eligible**: 4
+- **Rating**: 1.54
+- **μ**: 26.11  
+- **σ**: 8.19
+- W: 3, L: 1, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 3 μ: 25.59"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 3 |
+| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 3 μ: 25.59"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-13 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 32-20 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-03-03 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 45-2 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2025-08-27 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 37-7 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | 2025-08-12 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 25-28 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

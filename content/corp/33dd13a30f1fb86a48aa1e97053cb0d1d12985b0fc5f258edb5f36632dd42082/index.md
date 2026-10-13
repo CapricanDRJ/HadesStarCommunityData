@@ -1,6 +1,6 @@
 ---
 title: ​E.T.A
-description: W:62 L:125 D:0 Bonus ✅ 56%
+description: W:62 L:125 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 0 - 24 **Likapa**
 date: 2026-10-12T11:43:24.000Z
@@ -16,7 +16,7 @@ date: 2026-10-12T11:43:24.000Z
 <br>
 
 ### [Discord](https://discord.gg/agqGsygv)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

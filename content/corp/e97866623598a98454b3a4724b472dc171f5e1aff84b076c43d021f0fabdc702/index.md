@@ -1,6 +1,6 @@
 ---
 title: ​2ND-R8 Corp.
-description: W:85 L:41 D:4 Bonus ✅ 46%
+description: W:85 L:41 D:4 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 11 - 7 **OPA**
 date: 2026-10-06T15:22:11.000Z
@@ -17,7 +17,7 @@ Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in
 <br>
 
 ### [Discord](https://discord.gg/pVhwrfFjx3)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
