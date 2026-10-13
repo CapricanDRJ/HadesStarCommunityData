@@ -1,6 +1,6 @@
 ---
 title: ​Quilliance
-description: W:53 L:10 D:0 Bonus ✅ 44%
+description: W:53 L:10 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 31 - 7 **Hamburg AG 2**
 date: 2026-10-06T12:36:56.000Z
@@ -18,7 +18,7 @@ Discord Active • Coop DRS7-10
 <br>
 
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

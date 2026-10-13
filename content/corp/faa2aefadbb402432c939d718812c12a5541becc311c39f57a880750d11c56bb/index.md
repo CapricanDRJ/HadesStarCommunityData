@@ -1,6 +1,6 @@
 ---
 title: ​传说之下2
-description: W:31 L:18 D:1 Bonus ✅ 40%
+description: W:31 L:18 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 17 - 3 **Star Blazers**
 date: 2026-10-06T12:31:57.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T12:31:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​自由之地
-description: W:19 L:13 D:1 Bonus ✅ 36%
+description: W:19 L:13 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 25 - 15 **Red Monarchs**
 date: 2026-10-06T11:31:50.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T11:31:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
