@@ -1,6 +1,6 @@
 ---
 title: ​Russian space 3
-description: W:109 L:17 D:0 Bonus ✅ 50%
+description: W:109 L:17 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 29 - 9 **Lololol**
 date: 2026-10-06T05:36:23.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T05:36:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

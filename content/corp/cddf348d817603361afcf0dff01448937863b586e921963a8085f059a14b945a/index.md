@@ -1,6 +1,6 @@
 ---
 title: ​Kobol
-description: W:24 L:28 D:2 Bonus ✅ 46%
+description: W:24 L:28 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 2 - 21 **CERBERUS SYSTEM**
 date: 2026-10-06T18:02:27.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T18:02:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

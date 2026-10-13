@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人分团
-description: W:16 L:27 D:1 Bonus ✅ 36%
+description: W:16 L:27 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **SWORD Command**
 date: 2026-10-06T04:14:45.000Z
@@ -15,7 +15,7 @@ date: 2026-10-06T04:14:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
