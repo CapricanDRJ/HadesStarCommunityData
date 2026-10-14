@@ -1,9 +1,9 @@
 ---
 title: ​Aeon
-description: W:8 L:16 D:2 Bonus ❌ 7%
+description: W:8 L:17 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 22 **CubeTech**
-date: 2026-09-05T18:09:44.000Z
+Summary: ❌ 0 - 9 **休闲、红、蓝、白养老集团。**
+date: 2026-10-14T11:47:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-05T18:09:44.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (-10)|
-| ELO Competitive | 1195 🔻  (-5)|
-| Total Matches | 26 |
+| ELO Regular | 1097 🔻  (-9)|
+| ELO Competitive | 1185 🔻  (-9)|
+| Total Matches | 27 |
 | Wins | 8 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788199784,1788185416,1786423248,1786389375,1784087948,1784084433,1783031141,1782440773,1781713552,1781153356,1779826377,1768661295,1765377588,1763304462,1759617722,1759613914,1758623199,1758579945,1757426128,1756801178,1756609782,1756188988,1755718248,1755641209,1755198879,1754688343];
+        let timestamps = [1791546430,1788199784,1788185416,1786423248,1786389375,1784087948,1784084433,1783031141,1782440773,1781713552,1781153356,1779826377,1768661295,1765377588,1763304462,1759617722,1759613914,1758623199,1758579945,1757426128,1756801178,1756609782,1756188988,1755718248,1755641209,1755198879,1754688343];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/14 | 0-9 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2026/09/05 | 0-22 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
 | ❌ | 2026/09/05 | 0-7 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 | ↔️ | 2026/08/16 | 0-0 | [红巨星联盟](https://ws.tsl.rocks/corp/872aa66eedf58950cc95e01facf71c38a9bc09e7b4d5dcd1d5af928f490d6632/) |
@@ -174,5 +175,5 @@ Corporation ID: 5e4b3d6d6f08dee95abbb170211af935c564afdbc3039ee0a6f333070688724e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788631784"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791978430"></span>
 </div>

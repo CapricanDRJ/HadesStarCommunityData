@@ -1,9 +1,9 @@
 ---
 title: ​休闲、红、蓝、白养老集团。
-description: W:13 L:7 D:2 Bonus ✅ 34%
+description: W:14 L:7 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 4 - 2 **共联·世界**
-date: 2026-10-09T10:10:06.000Z
+Summary: ✅ 9 - 0 **Aeon**
+date: 2026-10-14T11:47:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-10-09T10:10:06.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (14)|
-| ELO Competitive | 1329 🔺  (22)|
-| Total Matches | 22 |
-| Wins | 13 |
+| ELO Regular | 1261 🔺  (9)|
+| ELO Competitive | 1338 🔺  (9)|
+| Total Matches | 23 |
+| Wins | 14 |
 | Losses | 7 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791108606,1790758476,1790635622,1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
+        let timestamps = [1791546430,1791108606,1790758476,1790635622,1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/14 | 9-0 | [Aeon](https://ws.tsl.rocks/corp/5e4b3d6d6f08dee95abbb170211af935c564afdbc3039ee0a6f333070688724e/) |
 | ✅ | 2026/10/09 | 4-2 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/10/05 | 0-7 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ❌ | 2026/10/03 | 0-22 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
@@ -170,5 +172,5 @@ Corporation ID: fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791540606"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791978430"></span>
 </div>
