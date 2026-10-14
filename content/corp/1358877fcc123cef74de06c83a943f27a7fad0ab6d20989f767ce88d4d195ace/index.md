@@ -1,6 +1,6 @@
 ---
 title: ​Повстанцы Хаоса
-description: W:108 L:34 D:1 Bonus ✅ 50%
+description: W:108 L:34 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 17 - 4 **Red Alliance**
 date: 2026-10-07T14:44:08.000Z
@@ -20,7 +20,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 <br>
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

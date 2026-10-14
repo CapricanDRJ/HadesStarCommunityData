@@ -1,6 +1,6 @@
 ---
 title: ​Закулисье
-description: W:11 L:3 D:0 Bonus ✅ 32%
+description: W:11 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 32 - 33 **CERBERUS SYSTEM**
 date: 2026-10-12T19:59:11.000Z
@@ -15,7 +15,7 @@ date: 2026-10-12T19:59:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
