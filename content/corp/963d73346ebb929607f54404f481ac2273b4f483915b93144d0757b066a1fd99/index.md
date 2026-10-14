@@ -1,6 +1,6 @@
 ---
 title: ​Вселенские 40%
-description: W:52 L:72 D:1 Bonus ✅ 44%
+description: W:52 L:72 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 0 - 19 **Solar Corp**
 date: 2026-10-13T05:29:49.000Z
@@ -16,7 +16,7 @@ date: 2026-10-13T05:29:49.000Z
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
