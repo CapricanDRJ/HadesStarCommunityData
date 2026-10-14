@@ -1,9 +1,9 @@
 ---
 title: ​꧁ Indonesia ꧂
-description: W:0 L:0 D:1 Bonus ❌ 0%
+description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **United aurora**
-date: 2026-08-04T03:26:45.000Z
+Summary: ❌ 0 - 5 **宇宙聯盟**
+date: 2026-10-14T16:52:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-08-04T03:26:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 0%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (-1)|
-| ELO Competitive | 1199 🔻  (-1)|
-| Total Matches | 1 |
+| ELO Regular | 1184 🔻  (-15)|
+| ELO Competitive | 1186 🔻  (-13)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785382005];
+        let timestamps = [1791564757,1785382005];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/14 | 0-5 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ↔️ | 2026/08/04 | 0-0 | [United aurora](https://ws.tsl.rocks/corp/3f3996a7c9cea319017d3c8b8dba8de3d6f8fc4fb6c44148d043083db87b3050/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: abaa93a1099b1b42c72cb95ef7970f14e2c1028844d6dbd196127671b9669c07
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1785814005"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791996757"></span>
 </div>

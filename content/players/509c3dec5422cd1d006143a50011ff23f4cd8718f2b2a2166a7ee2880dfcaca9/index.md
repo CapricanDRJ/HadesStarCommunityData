@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Вэлсан"
-description: "ws: 2 μ: 24.10"
+description: "ws: 3 μ: 24.08"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 1
-- **Rating**: -0.79
-- **μ**: 24.10  
-- **σ**: 8.30
-- W: 1, L: 1, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 2
+- **Rating**: -0.70
+- **μ**: 24.08  
+- **σ**: 8.26
+- W: 1, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 2 μ: 24.10"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 1 |
+| [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 2 |
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 24.10"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-14 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 3-52 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) |
 | 2026-05-20 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 20-0 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-10-20 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 3-9 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |

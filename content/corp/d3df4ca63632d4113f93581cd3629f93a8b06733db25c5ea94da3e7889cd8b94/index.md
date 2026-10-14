@@ -1,6 +1,6 @@
 ---
 title: ​GalaxyNova
-description: W:19 L:9 D:0 Bonus ✅ 38%
+description: W:19 L:9 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 14 - 12 **РУССКИЕ ИДУТ**
 date: 2026-10-07T18:04:28.000Z
@@ -18,7 +18,7 @@ but no being mean and excluding... Aires adds: (unless in a blue star
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
