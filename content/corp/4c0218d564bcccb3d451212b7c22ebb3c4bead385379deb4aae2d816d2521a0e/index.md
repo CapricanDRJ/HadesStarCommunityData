@@ -1,6 +1,6 @@
 ---
 title: ​星空漫游者-GR
-description: W:29 L:2 D:0 Bonus ✅ 44%
+description: W:29 L:2 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 26 - 7 **BrinySeal**
 date: 2026-10-07T01:28:03.000Z
@@ -22,7 +22,7 @@ QQ群:663677762
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
