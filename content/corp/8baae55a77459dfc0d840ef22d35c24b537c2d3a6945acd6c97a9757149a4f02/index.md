@@ -1,6 +1,6 @@
 ---
 title: ​Space Potatoes
-description: W:27 L:3 D:0 Bonus ✅ 38%
+description: W:27 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 22 - 3 **ALPHA**
 date: 2026-10-07T06:43:27.000Z
@@ -15,7 +15,7 @@ date: 2026-10-07T06:43:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​自由之地
-description: W:19 L:13 D:1 Bonus ❌ 8%
+description: W:20 L:13 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 25 - 15 **Red Monarchs**
-date: 2026-10-06T11:31:50.000Z
+Summary: ✅ 12 - 3 **Eretria**
+date: 2026-10-14T05:56:47.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-10-06T11:31:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (15)|
-| ELO Competitive | 1374 🔺  (10)|
-| Total Matches | 33 |
-| Wins | 19 |
+| ELO Regular | 1256 🔺  (8)|
+| ELO Competitive | 1383 🔺  (8)|
+| Total Matches | 34 |
+| Wins | 20 |
 | Losses | 13 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790854310,1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
+        let timestamps = [1791525407,1790854310,1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/14 | 12-3 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2026/10/06 | 25-15 | [Red Monarchs](https://ws.tsl.rocks/corp/761820b9c8f9e63f72ef9be1fbc4daf3c32b67c035b595bb61876aaa40528c53/) |
 | ❌ | 2026/09/30 | 2-6 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ↔️ | 2026/09/17 | 14-14 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
@@ -181,5 +183,5 @@ Corporation ID: 9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791286310"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1791957407"></span>
 </div>
