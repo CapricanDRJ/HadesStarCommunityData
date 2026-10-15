@@ -1,6 +1,6 @@
 ---
 title: ​Spacekill
-description: W:5 L:10 D:2 Bonus ✅ 32%
+description: W:5 L:10 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 1 - 26 **星落苑**
 date: 2026-10-14T01:16:28.000Z
@@ -15,7 +15,7 @@ date: 2026-10-14T01:16:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
