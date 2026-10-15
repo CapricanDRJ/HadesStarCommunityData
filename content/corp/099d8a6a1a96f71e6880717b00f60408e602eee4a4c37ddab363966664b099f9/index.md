@@ -1,6 +1,6 @@
 ---
 title: ​白虹贯日
-description: W:19 L:6 D:0 Bonus ✅ 36%
+description: W:19 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 1 - 3 **欢迎新手**
 date: 2026-10-07T23:49:57.000Z
@@ -15,7 +15,7 @@ date: 2026-10-07T23:49:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

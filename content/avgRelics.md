@@ -2,7 +2,7 @@
 layout: page
 title: Average Relics
 description: Hades' Star top corporations by average relics per match (only corporations with >5 matches, last 6 months)
-date: 2026-10-14T21:55:30.769Z
+date: 2026-10-15T00:55:29.720Z
 permalink: /avgrelics/
 searchHidden: true
 ---
@@ -168,14 +168,14 @@ searchHidden: true
 | 157 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de) | 13.37 |
 | 158 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9) | 13.33 |
 | 159 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082) | 13.17 |
-| 160 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2) | 13.09 |
-| 161 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371) | 12.97 |
-| 162 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e) | 12.96 |
-| 163 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e) | 12.9 |
-| 164 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55) | 12.88 |
-| 165 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06) | 12.86 |
-| 166 | [Stargate Sg7](https://ws.tsl.rocks/corp/f0fadd303b5cb5e09aa473359c0f11f4e077acf35ab94cef2c850d3fa8162e81) | 12.85 |
-| 167 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f) | 12.78 |
+| 160 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f) | 13.11 |
+| 161 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2) | 13.09 |
+| 162 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371) | 12.97 |
+| 163 | [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e) | 12.96 |
+| 164 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e) | 12.9 |
+| 165 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55) | 12.88 |
+| 166 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06) | 12.86 |
+| 167 | [Stargate Sg7](https://ws.tsl.rocks/corp/f0fadd303b5cb5e09aa473359c0f11f4e077acf35ab94cef2c850d3fa8162e81) | 12.85 |
 | 168 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6) | 12.77 |
 | 169 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad) | 12.77 |
 | 170 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4) | 12.7 |
@@ -210,13 +210,13 @@ searchHidden: true
 | 199 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337) | 10.75 |
 | 200 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54) | 10.71 |
 | 201 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7) | 10.62 |
-| 202 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101) | 10.43 |
-| 203 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292) | 10.38 |
-| 204 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace) | 10.36 |
-| 205 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f) | 10.26 |
-| 206 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83) | 10.23 |
-| 207 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499) | 10.22 |
-| 208 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb) | 10.15 |
+| 202 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb) | 10.57 |
+| 203 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101) | 10.43 |
+| 204 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292) | 10.38 |
+| 205 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace) | 10.36 |
+| 206 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f) | 10.26 |
+| 207 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83) | 10.23 |
+| 208 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499) | 10.22 |
 | 209 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be) | 10.11 |
 | 210 | [TheSpacingGuild](https://ws.tsl.rocks/corp/81148f4d84461a0810381baa8a5c2d755c0aeb635fa98fdc3ca775fbcc255ea7) | 10.07 |
 | 211 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8) | 10 |
@@ -232,12 +232,12 @@ searchHidden: true
 | 221 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2) | 9.37 |
 | 222 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108) | 9.36 |
 | 223 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db) | 9.32 |
-| 224 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09) | 9.28 |
-| 225 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5) | 9.21 |
-| 226 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf) | 9.16 |
-| 227 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf) | 9.15 |
-| 228 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531) | 9.04 |
-| 229 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762) | 9 |
+| 224 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5) | 9.21 |
+| 225 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf) | 9.16 |
+| 226 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf) | 9.15 |
+| 227 | [Lololol](https://ws.tsl.rocks/corp/38d38bd656b1fe9bad738f05bbe6779f5bd57bf4420e737a65292da9da037531) | 9.04 |
+| 228 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762) | 9 |
+| 229 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09) | 8.97 |
 | 230 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1) | 8.94 |
 | 231 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4) | 8.92 |
 | 232 | [РУССКИЕ ИДУТ](https://ws.tsl.rocks/corp/89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37) | 8.75 |
