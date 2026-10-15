@@ -1,6 +1,6 @@
 ---
 title: ​*СССР*
-description: W:120 L:115 D:1 Bonus ✅ 52%
+description: W:120 L:115 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 16 - 15 **TheBasics**
 date: 2026-10-08T20:51:42.000Z
@@ -18,7 +18,7 @@ date: 2026-10-08T20:51:42.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

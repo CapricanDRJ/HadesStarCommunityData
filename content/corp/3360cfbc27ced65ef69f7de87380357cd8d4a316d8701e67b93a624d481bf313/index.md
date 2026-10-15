@@ -1,6 +1,6 @@
 ---
 title: ​W.A.L.R.U.S.
-description: W:6 L:26 D:3 Bonus ❌ 32%
+description: W:6 L:26 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **GermanSpaceDuo**
 date: 2026-10-08T18:52:55.000Z
@@ -15,7 +15,7 @@ date: 2026-10-08T18:52:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
