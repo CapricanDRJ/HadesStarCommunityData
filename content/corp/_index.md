@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-15T03:55:40.921Z
+date: 2026-10-15T06:55:40.721Z
 summary: "Corporation directory"
 ---
 
@@ -420,7 +420,7 @@ summary: "Corporation directory"
 | [G\.O\.T GALAXY](https://ws.tsl.rocks/corp/07652fd2346244a350b2ed9a47b0891112493ba4b5c9bfa8a159050f3d6244ea/) | 1188 | 1194 | 1 |
 | [Galactic Emp 2](https://ws.tsl.rocks/corp/af8e11d9f99113249c47a751e04e2b430f99c974c500124ab156026d5e228218/) | 1172 | 1180 | 2 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) | 1159 | 1527 | 127 |
-| [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) | 1299 | 1306 | 27 |
+| [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) | 1310 | 1318 | 28 |
 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) | 1189 | 1203 | 7 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/b941fd6d79cbc203f95fa35048244cda4277fcd04025a739dc28c47562e6cbb8/) | 1187 | 1188 | 1 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/8fcd7c712bd994be7192b2df55564b3dc1ca7cfae97f392d76c63de849366f75/) | 1193 | 1200 | 1 |
@@ -1360,7 +1360,7 @@ summary: "Corporation directory"
 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) | 1220 | 1250 | 20 |
 | [V0RTEX](https://ws.tsl.rocks/corp/dfbf2c493d0f00dab04291385bfd5d8b9673e7234e9cdaabddbff84f01ab0272/) | 1163 | 1416 | 110 |
 | [VAJRA](https://ws.tsl.rocks/corp/6e3234d98972b6bac20bbd442b78d6fcfee1fca6ecc187504af518a86e9f9630/) | 1187 | 1188 | 4 |
-| [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) | 1160 | 1163 | 6 |
+| [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) | 1151 | 1156 | 7 |
 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) | 1408 | 1443 | 26 |
 | [Valholl](https://ws.tsl.rocks/corp/c50b6c9e3d2e2b9da27a3d0d7365012560d1dcd340e89518225559ea80edbee4/) | 1183 | 1185 | 1 |
 | [VALLKIRIA](https://ws.tsl.rocks/corp/e9708177659b3a2ed5a1def608b3b496a6de73e49b0ec3429f8688efcd9091f5/) | 1238 | 1240 | 3 |
@@ -1486,7 +1486,7 @@ summary: "Corporation directory"
 | [\*ПОБЕДА\*](https://ws.tsl.rocks/corp/c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/) | 1216 | 1216 | 3 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1342 | 1778 | 236 |
 | [\+\*Galaxia\*\+](https://ws.tsl.rocks/corp/2e0a8fa5ddc8ebd4d8f5cb5ffbe4710cb5fe62046e0b3923b3b4d8679fb6dace/) | 1261 | 1314 | 12 |
-| [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) | 1203 | 1248 | 30 |
+| [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) | 1192 | 1235 | 31 |
 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 1005 | 1353 | 104 |
 | [\-=Содружество=\-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) | 1327 | 1539 | 68 |
 | [\-time\-](https://ws.tsl.rocks/corp/d43dc9815bb9001b28ccdc0a3832a90c4851ea73dbaddc8f5afac4f867e97343/) | 1189 | 1197 | 1 |
@@ -1939,7 +1939,7 @@ summary: "Corporation directory"
 | [电磁脉冲集团](https://ws.tsl.rocks/corp/dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482/) | 1211 | 1230 | 3 |
 | [白星成就团](https://ws.tsl.rocks/corp/732e04d71bf21cab508e981cce14b545ac3b468f05576a443c40ed68bb8277b3/) | 1175 | 1182 | 3 |
 | [白星集团](https://ws.tsl.rocks/corp/5105e807ad3498410d9cb7e583b7e4a87d3af1583f7e7209d1ccce58da37c581/) | 1183 | 1187 | 3 |
-| [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) | 1305 | 1348 | 25 |
+| [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) | 1314 | 1356 | 26 |
 | [白银城](https://ws.tsl.rocks/corp/e0f5ee81a3ed73f579b0341ffdfbdc075986c8c9075cf40883e69f89bdab46f1/) | 1190 | 1199 | 1 |
 | [百万繁星](https://ws.tsl.rocks/corp/4ddca7117df39403f5055b55a86d5a97490a720792aa5efc7d35c5356fbdd4c8/) | 1123 | 1135 | 10 |
 | [盾牌座UY分团](https://ws.tsl.rocks/corp/df9f681d0a0be4f412f0142eeb5bb22188a3a439507c9b1c91ff3bab86206882/) | 1156 | 1158 | 3 |
