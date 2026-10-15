@@ -1,6 +1,6 @@
 ---
 title: ​вавилон 5
-description: W:14 L:10 D:1 Bonus ✅ 36%
+description: W:14 L:10 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **Eretria**
 date: 2026-10-08T12:56:01.000Z
@@ -15,7 +15,7 @@ date: 2026-10-08T12:56:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

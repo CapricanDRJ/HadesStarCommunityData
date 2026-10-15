@@ -1,9 +1,9 @@
 ---
 title: ​Grater U
-description: W:2 L:11 D:3 Bonus ❌ 5%
+description: W:3 L:11 D:3 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-10-05T03:26:45.000Z
+Summary: ✅ 3 - 0 **NEW HOLLAND**
+date: 2026-10-15T15:00:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (-9)|
-| ELO Competitive | 1147 🔻  (-10)|
-| Total Matches | 16 |
-| Wins | 2 |
+| ELO Regular | 1120 🔺  (15)|
+| ELO Competitive | 1161 🔺  (14)|
+| Total Matches | 17 |
+| Wins | 3 |
 | Losses | 11 |
 | Draws | 3 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790738805,1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
+        let timestamps = [1791644428,1790738805,1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/15 | 3-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ❌ | 2026/10/05 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ❌ | 2026/09/27 | 0-13 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ❌ | 2026/09/13 | 0-9 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
@@ -165,5 +166,5 @@ Corporation ID: 0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791170805"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792076428"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:9 L:20 D:1 Bonus ✅ 34%
+description: W:9 L:20 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 2 - 31 **碧霄殿**
-date: 2026-10-10T06:34:15.000Z
+Summary: ↔️ 3 - 3 **Keltiad**
+date: 2026-10-15T15:29:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-10-10T06:34:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (-18)|
-| ELO Competitive | 1281 🔺  (10)|
-| Total Matches | 30 |
+| ELO Regular | 1121 🔺  (4)|
+| ELO Competitive | 1278 🔻  (-3)|
+| Total Matches | 31 |
 | Wins | 9 |
 | Losses | 20 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/15 | 3-3 | [Keltiad](https://ws.tsl.rocks/corp/65e85bf371d3816b9fde6543ff13b0911ac57ac916e3a589dbce3b1a95b40618/) |
 | ❌ | 2026/10/10 | 2-31 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2026/10/10 | 2-0 | [Draconis](https://ws.tsl.rocks/corp/90e3d43ebb68d27581477d582fcfc3d32aa96a16837106e0b207718e99d10d7d/) |
 | ❌ | 2026/10/05 | 1-11 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
@@ -178,5 +179,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791614055"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792078168"></span>
 </div>
