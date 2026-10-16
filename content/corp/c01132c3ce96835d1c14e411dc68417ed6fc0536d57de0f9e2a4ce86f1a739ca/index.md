@@ -1,6 +1,6 @@
 ---
 title: ​Тишина
-description: W:5 L:17 D:0 Bonus ✅ 32%
+description: W:5 L:17 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 15 - 6 **太空的猫**
 date: 2026-10-09T03:22:08.000Z
@@ -15,7 +15,7 @@ date: 2026-10-09T03:22:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

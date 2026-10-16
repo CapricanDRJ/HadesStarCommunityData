@@ -1,6 +1,6 @@
 ---
 title: ​King's Guard
-description: W:73 L:146 D:7 Bonus ✅ 46%
+description: W:73 L:146 D:7 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 4 - 21 **KEPLER\-442 b**
 date: 2026-10-14T18:57:48.000Z
@@ -17,7 +17,7 @@ Corp. designed primarily for WS players of any level advanced to just
 <br>
 
 ### [Discord](https://discord.gg/XQ4BnnSKvC)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
