@@ -1,9 +1,9 @@
 ---
 title: ​长安三万里
-description: W:1 L:5 D:1 Bonus ❌ 4%
+description: W:1 L:6 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **Knights of Solo**
-date: 2026-10-10T17:05:06.000Z
+Summary: ❌ 0 - 9 **无人深空**
+date: 2026-10-16T09:40:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-10T17:05:06.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (-13)|
-| ELO Competitive | 1162 🔻  (-11)|
-| Total Matches | 7 |
+| ELO Regular | 1139 🔻  (-9)|
+| ELO Competitive | 1156 🔻  (-6)|
+| Total Matches | 8 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791219906,1790778733,1790329193,1789772741,1789139868,1788094686,1787650337];
+        let timestamps = [1791711657,1791219906,1790778733,1790329193,1789772741,1789139868,1788094686,1787650337];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/16 | 0-9 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ❌ | 2026/10/10 | 0-6 | [Knights of Solo](https://ws.tsl.rocks/corp/ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5/) |
 | ↔️ | 2026/10/05 | 0-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
 | ❌ | 2026/09/30 | 0-12 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
@@ -148,5 +149,5 @@ Corporation ID: b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791651906"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792143657"></span>
 </div>

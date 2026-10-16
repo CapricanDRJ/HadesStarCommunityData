@@ -1,6 +1,6 @@
 ---
 title: ​黄昏社
-description: W:1 L:0 D:0 Bonus ✅ 26%
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 25 - 3 **太空的猫**
 date: 2026-10-09T07:35:49.000Z
@@ -15,7 +15,7 @@ date: 2026-10-09T07:35:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

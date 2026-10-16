@@ -1,9 +1,9 @@
 ---
 title: ​Space Potatoes
-description: W:27 L:3 D:0 Bonus ❌ 9%
+description: W:28 L:3 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 22 - 3 **ALPHA**
-date: 2026-10-07T06:43:27.000Z
+Summary: ✅ 26 - 3 **E\.T\.A**
+date: 2026-10-16T07:15:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-10-07T06:43:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1456 🔺  (4)|
-| ELO Competitive | 1592 🔺  (6)|
-| Total Matches | 30 |
-| Wins | 27 |
+| ELO Regular | 1464 🔺  (7)|
+| ELO Competitive | 1605 🔺  (13)|
+| Total Matches | 31 |
+| Wins | 28 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 14 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790923407,1790007462,1789303618,1788380039,1787779532,1787343287,1786572338,1785868720,1785102299,1784497847,1783717013,1783032042,1781871703,1781219755,1780746880,1780015670,1779398811,1778784693,1778211147,1777588362,1776818615,1776194918,1775674559,1774894016,1774297028,1773781164,1773078441,1772502847,1772070497,1771534545];
+        let timestamps = [1791702945,1790923407,1790007462,1789303618,1788380039,1787779532,1787343287,1786572338,1785868720,1785102299,1784497847,1783717013,1783032042,1781871703,1781219755,1780746880,1780015670,1779398811,1778784693,1778211147,1777588362,1776818615,1776194918,1775674559,1774894016,1774297028,1773781164,1773078441,1772502847,1772070497,1771534545];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/16 | 26-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2026/10/07 | 22-3 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2026/09/26 | 9-4 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2026/09/18 | 26-5 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -179,5 +180,5 @@ Corporation ID: 8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791355407"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792134945"></span>
 </div>

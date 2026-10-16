@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Чатланин"
-description: "ws: 17 μ: 31.19"
+description: "ws: 18 μ: 31.54"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 14
-- **Rating**: 7.52
-- **μ**: 31.19  
-- **σ**: 7.89
-- W: 13, L: 4, T: 0
+- **WhiteStars**: 18
+- **Eligible**: 15
+- **Rating**: 7.94
+- **μ**: 31.54  
+- **σ**: 7.87
+- W: 14, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 31.19"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 14 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 31.19"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-16 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 44-3 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | 2026-10-08 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 34-3 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | 2026-10-01 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 32-0 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-09-24 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 20-3 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
