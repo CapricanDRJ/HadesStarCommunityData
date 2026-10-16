@@ -1,9 +1,9 @@
 ---
 title: ​Curcubeu
-description: W:17 L:34 D:0 Bonus ❌ 11%
+description: W:17 L:35 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 3 - 23 **Ƭιтαηѕ Ф тєʀʀσƦ**
-date: 2026-10-11T04:35:59.000Z
+Summary: ❌ 3 - 44 **\*СССР\***
+date: 2026-10-16T04:40:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ a browser: https://dsc.gg/sah
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 957 🔻  (-1)|
-| ELO Competitive | 1110 🔻  (0)|
-| Total Matches | 51 |
+| ELO Regular | 954 🔻  (-3)|
+| ELO Competitive | 1110 🔻  (-1)|
+| Total Matches | 52 |
 | Wins | 17 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791261359,1790813759,1790258301,1789818206,1789307225,1769059096,1768609317,1768257489,1767641869,1753639346,1752898009,1743058309,1735743250,1735303952,1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
+        let timestamps = [1791693634,1791261359,1790813759,1790258301,1789818206,1789307225,1769059096,1768609317,1768257489,1767641869,1753639346,1752898009,1743058309,1735743250,1735303952,1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/16 | 3-44 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2026/10/11 | 3-23 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2026/10/06 | 6-41 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ❌ | 2026/09/29 | 7-9 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
@@ -206,5 +207,5 @@ Corporation ID: a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791693359"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792125634"></span>
 </div>
