@@ -1,6 +1,6 @@
 ---
 title: ​地球联合
-description: W:28 L:15 D:1 Bonus ✅ 44%
+description: W:28 L:15 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 6 - 32 **ItaFederalFleet**
 date: 2026-10-14T19:24:08.000Z
@@ -23,7 +23,7 @@ QQ群号：742063070
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

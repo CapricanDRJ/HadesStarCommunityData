@@ -1,9 +1,9 @@
 ---
 title: ​第六星际
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:1 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **Lacuna Academy**
-date: 2024-03-28T14:43:09.000Z
+Summary: ❌ 0 - 5 **CORPORATION**
+date: 2026-10-16T10:59:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2024-03-28T14:43:09.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (19)|
-| ELO Competitive | 1219 🔺  (19)|
-| Total Matches | 1 |
+| ELO Regular | 1204 🔻  (-15)|
+| ELO Competitive | 1204 🔻  (-15)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1711204989];
+        let timestamps = [1791716380,1711204989];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/16 | 0-5 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ✅ | 2024/03/28 | 13-0 | [Lacuna Academy](https://ws.tsl.rocks/corp/ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b/) |
 
 ---
@@ -146,5 +147,5 @@ Corporation ID: b322db3cd473083ce32a0b274764dfecf2e77caa341610fc1e898563debc5087
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1711636989"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792148380"></span>
 </div>

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Cratos"
-description: "ws: 18 μ: 27.08"
+description: "ws: 19 μ: 28.04"
 ---
-- **WhiteStars**: 18
-- **Eligible**: 16
-- **Rating**: 3.42
-- **μ**: 27.08  
-- **σ**: 7.89
-- W: 14, L: 4, T: 0
+- **WhiteStars**: 19
+- **Eligible**: 17
+- **Rating**: 4.49
+- **μ**: 28.04  
+- **σ**: 7.85
+- W: 15, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 18 μ: 27.08"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 12 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 13 |
 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 4 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 18 μ: 27.08"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 13-11 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-08-29 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 12-7 | [On en a Gros \!](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | 2026-08-22 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 13-2 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
 | 2026-06-07 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 4-15 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |

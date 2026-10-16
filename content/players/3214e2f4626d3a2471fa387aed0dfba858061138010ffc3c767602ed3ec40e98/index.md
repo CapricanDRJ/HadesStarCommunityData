@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Killowad"
-description: "ws: 58 μ: 33.01"
+description: "ws: 59 μ: 33.92"
 ---
-- **WhiteStars**: 58
-- **Eligible**: 49
-- **Rating**: 11.47
-- **μ**: 33.01  
-- **σ**: 7.18
-- W: 47, L: 11, T: 0
+- **WhiteStars**: 59
+- **Eligible**: 50
+- **Rating**: 12.46
+- **μ**: 33.92  
+- **σ**: 7.15
+- W: 48, L: 11, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 58 μ: 33.01"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 49 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 50 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 58 μ: 33.01"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 13-11 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-10-06 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 6-15 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | 2026-10-01 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 17-2 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | 2026-09-25 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 15-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |

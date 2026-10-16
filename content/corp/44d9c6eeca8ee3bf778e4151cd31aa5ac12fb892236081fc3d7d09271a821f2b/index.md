@@ -1,9 +1,9 @@
 ---
 title: ​Quantum Mass
-description: W:16 L:5 D:0 Bonus ✅ 34%
+description: W:17 L:5 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 23 - 0 **红日初升，其道大光**
-date: 2026-10-09T22:03:40.000Z
+Summary: ✅ 15 - 0 **无人深空**
+date: 2026-10-16T12:36:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-10-09T22:03:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔺  (10)|
-| ELO Competitive | 1352 🔺  (24)|
-| Total Matches | 21 |
-| Wins | 16 |
+| ELO Regular | 1322 🔺  (15)|
+| ELO Competitive | 1369 🔺  (17)|
+| Total Matches | 22 |
+| Wins | 17 |
 | Losses | 5 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791151420,1791149018,1790635622,1790634121,1790051324,1790044716,1789546649,1789532546,1788955999,1788940678,1788365614,1788344883,1787840759,1787832704,1787339682,1787296184,1786798268,1786795564,1786270992,1786265585,1785781596];
+        let timestamps = [1791722173,1791151420,1791149018,1790635622,1790634121,1790051324,1790044716,1789546649,1789532546,1788955999,1788940678,1788365614,1788344883,1787840759,1787832704,1787339682,1787296184,1786798268,1786795564,1786270992,1786265585,1785781596];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/16 | 15-0 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/10/09 | 23-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/10/09 | 2-14 | [Company W](https://ws.tsl.rocks/corp/d9a6677260fdbebe20058df78d864c339b82cdb9b77806de44c122df274e8101/) |
 | ✅ | 2026/10/03 | 22-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
@@ -163,5 +165,5 @@ Corporation ID: 44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791583420"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792154173"></span>
 </div>
