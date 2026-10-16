@@ -1,6 +1,6 @@
 ---
 title: ​红色太阳
-description: W:45 L:32 D:0 Bonus ✅ 42%
+description: W:45 L:32 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **sound round**
 date: 2026-10-09T19:48:30.000Z
@@ -15,7 +15,7 @@ date: 2026-10-09T19:48:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

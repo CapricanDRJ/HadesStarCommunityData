@@ -1,6 +1,6 @@
 ---
 title: ​Company W
-description: W:6 L:1 D:0 Bonus ✅ 30%
+description: W:6 L:1 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 14 - 2 **Quantum Mass**
 date: 2026-10-09T21:23:38.000Z
@@ -15,7 +15,7 @@ date: 2026-10-09T21:23:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

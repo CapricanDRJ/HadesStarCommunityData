@@ -1,6 +1,6 @@
 ---
 title: ​Crazy Elite
-description: W:91 L:104 D:0 Bonus ✅ 56%
+description: W:91 L:104 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **Russian Style**
 date: 2026-10-09T20:58:37.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
