@@ -1,6 +1,6 @@
 ---
 title: ​太阳系星盟
-description: W:4 L:2 D:1 Bonus ✅ 30%
+description: W:4 L:2 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **四季长春**
 date: 2026-10-09T14:23:00.000Z
@@ -15,7 +15,7 @@ date: 2026-10-09T14:23:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

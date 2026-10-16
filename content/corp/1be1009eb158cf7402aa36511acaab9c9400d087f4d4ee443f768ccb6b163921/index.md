@@ -1,6 +1,6 @@
 ---
 title: ​红日初升，其道大光
-description: W:103 L:86 D:8 Bonus ✅ 50%
+description: W:103 L:86 D:8 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 3 - 15 **Red Star**
 date: 2026-10-16T12:21:11.000Z
@@ -17,7 +17,7 @@ rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生�
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

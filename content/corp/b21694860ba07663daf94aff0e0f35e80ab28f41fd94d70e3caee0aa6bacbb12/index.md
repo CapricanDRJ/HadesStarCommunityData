@@ -1,9 +1,9 @@
 ---
 title: ​Dominion
-description: W:16 L:11 D:2 Bonus ❌ 7%
+description: W:16 L:11 D:3 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 20 **Spanish Fury**
-date: 2026-07-07T07:04:17.000Z
+Summary: ↔️ 0 - 0 **新手村**
+date: 2026-10-16T15:07:45.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-07-07T07:04:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (-9)|
-| ELO Competitive | 1362 🔻  (-11)|
-| Total Matches | 29 |
+| ELO Regular | 1245 🔻  (-4)|
+| ELO Competitive | 1354 🔻  (-8)|
+| Total Matches | 30 |
 | Wins | 16 |
 | Losses | 11 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1782975857,1781774361,1781454991,1780867875,1780698560,1780287140,1780059227,1779711597,1779592660,1779209818,1779006111,1778650102,1778539250,1778212949,1778084664,1777778832,1777610289,1777228436,1777147608,1776768436,1776701141,1776268219,1776175686,1775814858,1775550467,1775037011,1774529260,1774019104,1773216505];
+        let timestamps = [1791731265,1782975857,1781774361,1781454991,1780867875,1780698560,1780287140,1780059227,1779711597,1779592660,1779209818,1779006111,1778650102,1778539250,1778212949,1778084664,1777778832,1777610289,1777228436,1777147608,1776768436,1776701141,1776268219,1776175686,1775814858,1775550467,1775037011,1774529260,1774019104,1773216505];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/16 | 0-0 | [新手村](https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/) |
 | ❌ | 2026/07/07 | 0-20 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
 | ❌ | 2026/06/23 | 0-13 | [星空夜](https://ws.tsl.rocks/corp/fcd78f9dbaf75929d1d9b88812f7f88e35491d7f5873406fedb47803c8d881b1/) |
 | ✅ | 2026/06/19 | 9-2 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
@@ -178,5 +179,5 @@ Corporation ID: b21694860ba07663daf94aff0e0f35e80ab28f41fd94d70e3caee0aa6bacbb12
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1783407857"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792163265"></span>
 </div>
