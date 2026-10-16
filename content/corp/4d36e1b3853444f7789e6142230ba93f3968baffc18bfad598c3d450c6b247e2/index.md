@@ -1,6 +1,6 @@
 ---
 title: ​资助会
-description: W:15 L:6 D:0 Bonus ❌ 7%
+description: W:15 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **Red Star**
 date: 2026-10-07T15:39:14.000Z
@@ -16,7 +16,7 @@ date: 2026-10-07T15:39:14.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
