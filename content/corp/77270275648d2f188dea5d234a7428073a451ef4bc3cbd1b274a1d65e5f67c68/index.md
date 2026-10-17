@@ -1,6 +1,6 @@
 ---
 title: ​Final
-description: W:56 L:41 D:1 Bonus ✅ 52%
+description: W:56 L:41 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 27 - 3 **Lost Legion**
 date: 2026-10-10T17:50:09.000Z
@@ -21,7 +21,7 @@ Are you RS6+ & want to join?
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

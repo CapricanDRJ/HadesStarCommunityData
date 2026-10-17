@@ -1,6 +1,6 @@
 ---
 title: ​YU-GI-OH
-description: W:14 L:11 D:0 Bonus ✅ 36%
+description: W:14 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **羽共和体**
 date: 2026-10-10T16:09:44.000Z
@@ -15,7 +15,7 @@ date: 2026-10-10T16:09:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

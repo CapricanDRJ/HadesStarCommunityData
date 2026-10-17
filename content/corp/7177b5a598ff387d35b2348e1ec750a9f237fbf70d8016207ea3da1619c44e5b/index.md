@@ -1,6 +1,6 @@
 ---
 title: ​death squadron
-description: W:19 L:22 D:0 Bonus ✅ 36%
+description: W:19 L:22 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 14 - 3 **九州分团**
 date: 2026-10-10T16:55:06.000Z
@@ -17,7 +17,7 @@ quadron<br>weekly white stars<br>private red stars 3 to 8
 <br>
 
 ### [Discord](https://discord.gg/HhVjWquh4J)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
