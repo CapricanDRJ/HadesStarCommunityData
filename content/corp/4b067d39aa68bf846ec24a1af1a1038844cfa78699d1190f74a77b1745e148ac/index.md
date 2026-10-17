@@ -1,9 +1,9 @@
 ---
 title: ​苏维埃联邦
-description: W:0 L:26 D:7 Bonus ❌ 5%
+description: W:0 L:27 D:7 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 2 - 3 **以太超星团**
-date: 2026-10-11T11:29:07.000Z
+Summary: ❌ 0 - 3 **红星私密之家**
+date: 2026-10-17T20:39:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2026-10-11T11:29:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 986 🔻  (-12)|
-| ELO Competitive | 1004 🔻  (-9)|
-| Total Matches | 33 |
+| ELO Regular | 979 🔻  (-7)|
+| ELO Competitive | 997 🔻  (-7)|
+| Total Matches | 34 |
 | Wins | 0 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 7 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791286147,1790825774,1789813815,1788872471,1788094753,1787402166,1786428433,1778463842,1777610289,1775798337,1773557275,1751689543,1738658895,1737537948,1737022420,1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
+        let timestamps = [1791837557,1791286147,1790825774,1789813815,1788872471,1788094753,1787402166,1786428433,1778463842,1777610289,1775798337,1773557275,1751689543,1738658895,1737537948,1737022420,1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/17 | 0-3 | [红星私密之家](https://ws.tsl.rocks/corp/889d0661ee2fb884920ee3f90fad1b202ab805e67221ddddf1ae8b5e4f8ad53d/) |
 | ❌ | 2026/10/11 | 2-3 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2026/10/06 | 0-1 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ↔️ | 2026/09/24 | 0-0 | [SpaceX](https://ws.tsl.rocks/corp/3bc1ec1dbc6834fa95adc6d175ab134844b8f2ec4ee1082bc799f5de3c72e301/) |
@@ -175,5 +176,5 @@ Corporation ID: 4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791718147"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792269557"></span>
 </div>

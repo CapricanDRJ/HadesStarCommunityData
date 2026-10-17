@@ -1,6 +1,6 @@
 ---
 title: ​Orden Estelar
-description: W:64 L:37 D:3 Bonus ✅ 46%
+description: W:64 L:37 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **Тихий Омут**
 date: 2026-10-10T19:05:17.000Z
@@ -17,7 +17,7 @@ Ni retirada ni rendicion
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​украина№1
-description: W:86 L:109 D:2 Bonus ✅ 52%
+description: W:86 L:109 D:2 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 25 - 3 **Continuum**
 date: 2026-10-10T20:15:23.000Z
@@ -18,7 +18,7 @@ date: 2026-10-10T20:15:23.000Z
 <br>
 
 ### [Discord](https://discord.gg/nVBRYrQRT6)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
