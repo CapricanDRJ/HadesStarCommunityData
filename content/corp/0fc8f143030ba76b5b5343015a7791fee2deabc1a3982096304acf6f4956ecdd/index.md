@@ -1,6 +1,6 @@
 ---
 title: ​Karanth Corp.
-description: W:29 L:29 D:1 Bonus ✅ 50%
+description: W:29 L:29 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 42 - 3 **Hun Generals**
 date: 2026-10-10T02:13:02.000Z
@@ -17,7 +17,7 @@ rd.
 <br>
 
 ### [Discord](https://discord.gg/9EdXH7jF)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
