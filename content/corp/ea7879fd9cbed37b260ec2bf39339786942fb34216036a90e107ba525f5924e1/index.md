@@ -1,6 +1,6 @@
 ---
 title: ​Got Nothing
-description: W:28 L:14 D:0 Bonus ✅ 38%
+description: W:28 L:14 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 26 - 2 **Death Flight**
 date: 2026-10-10T11:54:38.000Z
@@ -18,7 +18,7 @@ rd for easier coordination and fun!
 <br>
 
 ### [Discord](https://discord.gg/3CBQRhpWmV)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Nearland Ind
-description: W:190 L:83 D:0 Bonus ✅ 58%
+description: W:190 L:83 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 1 - 6 **Fleet Corp Ares**
 date: 2026-10-11T00:05:41.000Z
@@ -22,7 +22,7 @@ FS2 - Closed
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

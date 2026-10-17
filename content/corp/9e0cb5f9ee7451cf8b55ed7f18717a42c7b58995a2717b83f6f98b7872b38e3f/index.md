@@ -1,9 +1,9 @@
 ---
 title: ​Farland Ind.
-description: W:27 L:52 D:1 Bonus ❌ 15%
+description: W:27 L:53 D:1 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 1 - 27 **Gummibärenbande**
-date: 2026-10-11T16:41:58.000Z
+Summary: ❌ 2 - 21 **On en a Gros \!**
+date: 2026-10-17T12:18:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ Join via Discord: N3uPEvsFY9</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (-13)|
-| ELO Competitive | 1432 🔻  (-9)|
-| Total Matches | 80 |
+| ELO Regular | 1125 🔻  (-5)|
+| ELO Competitive | 1430 🔻  (-2)|
+| Total Matches | 81 |
 | Wins | 27 |
-| Losses | 52 |
+| Losses | 53 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 12 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791304918,1790795135,1790667157,1790136342,1789467643,1788875777,1788289613,1788279147,1787332773,1785888552,1783412680,1780999533,1778765462,1778722805,1777409605,1774982941,1773865584,1771986680,1771343760,1769528730,1768873726,1767655690,1767081515,1766549130,1765986074,1765360538,1765316682,1764536057,1764100345,1763511476,1762922605,1762179574,1761637856,1761636654,1761055819,1760535648,1759994500,1759330466,1758537569,1758056184,1757590767,1757008794,1756396012,1755781826,1754581663,1754099081,1753294389,1752042579,1751494200,1750849667,1749562003,1748499169,1740983912,1720825201,1713172222,1712564663,1711273201,1710792458,1710671960,1710092962,1710061707,1709410887,1708909679,1708879029,1707124709,1706510764,1705924460,1705314117,1704624138,1704016501,1703505614,1703434998,1702908869,1702805182,1701622539,1700992898,1700383085,1699799052,1699366541,1698824736];
+        let timestamps = [1791807484,1791304918,1790795135,1790667157,1790136342,1789467643,1788875777,1788289613,1788279147,1787332773,1785888552,1783412680,1780999533,1778765462,1778722805,1777409605,1774982941,1773865584,1771986680,1771343760,1769528730,1768873726,1767655690,1767081515,1766549130,1765986074,1765360538,1765316682,1764536057,1764100345,1763511476,1762922605,1762179574,1761637856,1761636654,1761055819,1760535648,1759994500,1759330466,1758537569,1758056184,1757590767,1757008794,1756396012,1755781826,1754581663,1754099081,1753294389,1752042579,1751494200,1750849667,1749562003,1748499169,1740983912,1720825201,1713172222,1712564663,1711273201,1710792458,1710671960,1710092962,1710061707,1709410887,1708909679,1708879029,1707124709,1706510764,1705924460,1705314117,1704624138,1704016501,1703505614,1703434998,1702908869,1702805182,1701622539,1700992898,1700383085,1699799052,1699366541,1698824736];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,13 +139,13 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [On en a Gros \!](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) | 0 | 3 | 0 | 3 |
 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 0 | 2 | 0 | 2 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 1 | 1 | 0 | 2 |
 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) | 1 | 1 | 0 | 2 |
 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) | 1 | 1 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 2 | 2 | 0 | 4 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 5 | 0 | 5 |
-| [On en a Gros \!](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) | 0 | 2 | 0 | 2 |
 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 3 | 0 | 0 | 3 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 1 | 2 | 0 | 3 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 0 | 3 | 0 | 3 |
@@ -163,6 +163,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/17 | 2-21 | [On en a Gros \!](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2026/10/11 | 1-27 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2026/10/05 | 2-9 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ✅ | 2026/10/04 | 19-14 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
@@ -250,5 +251,5 @@ Corporation ID: 9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791736918"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792239484"></span>
 </div>
