@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mars
-description: W:121 L:111 D:3 Bonus ✅ 52%
+description: W:121 L:111 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 6 - 30 **Black Pearl FR**
 date: 2026-10-11T18:27:07.000Z
@@ -18,7 +18,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
