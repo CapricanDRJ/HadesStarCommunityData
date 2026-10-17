@@ -1,6 +1,6 @@
 ---
 title: ​Stargate Corp
-description: W:194 L:75 D:1 Bonus ✅ 60%
+description: W:194 L:75 D:1 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ✅ 61 - 1 **星域**
 date: 2026-10-10T14:19:51.000Z
@@ -18,7 +18,7 @@ ter guesting RS runs<br><br>Discord mandatory to join!
 <br>
 
 ### [Discord](https://discord.gg/sXxSq4KUmm)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |
