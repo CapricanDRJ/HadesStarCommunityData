@@ -1,6 +1,6 @@
 ---
 title: ​ParalleL
-description: W:9 L:21 D:2 Bonus ✅ 34%
+description: W:9 L:21 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 1 - 4 **Cerulean Galaxy**
 date: 2026-10-15T16:04:32.000Z
@@ -15,7 +15,7 @@ date: 2026-10-15T16:04:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Bacon Warriors
-description: W:99 L:82 D:2 Bonus ✅ 50%
+description: W:99 L:82 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **First Legion**
 date: 2026-10-10T06:09:13.000Z
@@ -16,7 +16,7 @@ e lose amd every two weeks if we win. No discord required.
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

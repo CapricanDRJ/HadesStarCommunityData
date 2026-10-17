@@ -1,6 +1,6 @@
 ---
 title: ​русь
-description: W:172 L:86 D:2 Bonus ✅ 58%
+description: W:172 L:86 D:2 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **RUS**
 date: 2026-10-10T04:09:05.000Z
@@ -17,7 +17,7 @@ date: 2026-10-10T04:09:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

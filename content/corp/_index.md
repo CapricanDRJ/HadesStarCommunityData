@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-17T03:55:41.601Z
+date: 2026-10-17T06:55:41.560Z
 summary: "Corporation directory"
 ---
 
@@ -583,7 +583,7 @@ summary: "Corporation directory"
 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) | 1641 | 1867 | 107 |
 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 979 | 1519 | 234 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 1284 | 1328 | 34 |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1792 | 2287 | 298 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1797 | 2290 | 300 |
 | [Jaggernaut](https://ws.tsl.rocks/corp/6df1b7221151e5585ba4650f2d37794b98704938eb9c17218e076473ed570c36/) | 1191 | 1197 | 1 |
 | [JakeUniverse](https://ws.tsl.rocks/corp/170fb7c7e76b4bffaa9900b0565354b53c44de1c43898b5677ea0c23595fd617/) | 1227 | 1248 | 4 |
 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) | 1060 | 1122 | 45 |
@@ -1405,7 +1405,7 @@ summary: "Corporation directory"
 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) | 1037 | 1112 | 39 |
 | [Weyland Yutani](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) | 1089 | 1205 | 41 |
 | [WFOS](https://ws.tsl.rocks/corp/67334a33c731561a9645b2948596c0dd3f817703ae58e61c37dbbd2bfd4d1643/) | 1186 | 1186 | 1 |
-| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 1436 | 1883 | 190 |
+| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 1432 | 1880 | 191 |
 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) | 1154 | 1156 | 7 |
 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) | 1267 | 1526 | 92 |
 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) | 1332 | 1435 | 78 |
@@ -1472,7 +1472,7 @@ summary: "Corporation directory"
 | [brazil com\.](https://ws.tsl.rocks/corp/c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/) | 1185 | 1186 | 3 |
 | [Eligius](https://ws.tsl.rocks/corp/13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/) | 1177 | 1183 | 5 |
 | [Galactic Bawls](https://ws.tsl.rocks/corp/0f329ba3dd1f05cf740de6c689b196c36d86150eb3b114758c5eb97f0ad08d08/) | 1184 | 1184 | 1 |
-| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1151 | 1770 | 299 |
+| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1177 | 1796 | 301 |
 | [墨痕](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1113 | 1232 | 41 |
 | [星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1502 | 1655 | 31 |
 | [边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1050 | 1070 | 37 |
@@ -1611,7 +1611,7 @@ summary: "Corporation directory"
 | [СОЮЗ](https://ws.tsl.rocks/corp/3ba0134aa297266e773dc2283a04d64ef598f84cd2e4b2d0d2610c99d5e5fd5e/) | 1294 | 1330 | 14 |
 | [СОЮЗ\-2](https://ws.tsl.rocks/corp/7e076cd14646574c68e4d0e7c102c73ebd4e5517c2e3860bdda55e5d9c0f9ac1/) | 1184 | 1184 | 1 |
 | [СПБ](https://ws.tsl.rocks/corp/4e3bfdb11cb1ba6fb115cfa57ba60f1178e43eaa27bdcfa8bcda277bdc6d1a83/) | 1190 | 1191 | 1 |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1494 | 2094 | 246 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1468 | 2094 | 247 |
 | [СССР 2\.0](https://ws.tsl.rocks/corp/2a77c0d4e05f31ab26b8c73af7f6d0b6ac40368b06a702e4a912edbf09eab65b/) | 1144 | 1146 | 8 |
 | [Сварожичи](https://ws.tsl.rocks/corp/756e76b1fa697e8ab2f40b1c5c5c93f69beeee26898a3ca128da2a7b69589093/) | 1171 | 1267 | 23 |
 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 1128 | 1634 | 240 |
