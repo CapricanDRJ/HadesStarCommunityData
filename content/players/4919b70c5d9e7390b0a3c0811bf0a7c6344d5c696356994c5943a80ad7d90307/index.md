@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Impuls"
-description: "ws: 5 μ: 23.62"
+description: "ws: 6 μ: 24.09"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 5
-- **Rating**: -0.90
-- **μ**: 23.62  
-- **σ**: 8.17
-- W: 0, L: 5, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 6
+- **Rating**: -0.36
+- **μ**: 24.09  
+- **σ**: 8.15
+- W: 0, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 23.62"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 5 |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 6 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 23.62"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 4-9 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-05-09 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 7-19 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2025-09-12 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 8-17 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | 2025-06-26 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 24-46 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

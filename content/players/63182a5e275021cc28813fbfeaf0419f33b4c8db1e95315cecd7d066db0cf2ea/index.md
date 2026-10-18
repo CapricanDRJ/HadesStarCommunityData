@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "WM139"
-description: "ws: 6 μ: 27.34"
+description: "ws: 7 μ: 27.53"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 6
-- **Rating**: 2.97
-- **μ**: 27.34  
-- **σ**: 8.12
-- W: 4, L: 2, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 7
+- **Rating**: 3.21
+- **μ**: 27.53  
+- **σ**: 8.11
+- W: 5, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 27.34"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 6 |
+| [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 27.34"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 50-3 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-10-11 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 22-9 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-08-09 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 15-6 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-06-14 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 8-6 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

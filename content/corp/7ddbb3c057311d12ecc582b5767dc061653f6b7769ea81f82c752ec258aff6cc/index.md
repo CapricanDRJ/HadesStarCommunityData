@@ -1,6 +1,6 @@
 ---
 title: ​Internationals
-description: W:109 L:81 D:0 Bonus ✅ 58%
+description: W:109 L:81 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ✅ 26 - 5 **Curiosity \+ Cat**
 date: 2026-10-11T08:11:15.000Z
@@ -18,7 +18,7 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

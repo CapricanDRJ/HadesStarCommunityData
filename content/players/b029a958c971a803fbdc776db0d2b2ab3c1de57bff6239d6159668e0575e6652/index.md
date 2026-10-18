@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ChubbChubbs"
-description: "ws: 49 μ: 18.95"
+description: "ws: 50 μ: 18.80"
 ---
-- **WhiteStars**: 49
-- **Eligible**: 42
-- **Rating**: -2.59
-- **μ**: 18.95  
-- **σ**: 7.18
-- W: 17, L: 31, T: 1
+- **WhiteStars**: 50
+- **Eligible**: 43
+- **Rating**: -2.71
+- **μ**: 18.80  
+- **σ**: 7.17
+- W: 17, L: 32, T: 1
 
 ---
 
@@ -17,7 +17,7 @@ description: "ws: 49 μ: 18.95"
 | Corporation | WhiteStars |
 | --- | --- |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 28 |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 14 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 15 |
 
 ---
 
@@ -25,6 +25,7 @@ description: "ws: 49 μ: 18.95"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-50 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | 2026-10-13 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-46 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
 | 2026-10-07 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-66 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-09-27 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-42 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |

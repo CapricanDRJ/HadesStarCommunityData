@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "КОБР"
-description: "ws: 8 μ: 25.53"
+description: "ws: 9 μ: 24.68"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 8
-- **Rating**: 1.29
-- **μ**: 25.53  
-- **σ**: 8.08
-- W: 2, L: 6, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 9
+- **Rating**: 0.51
+- **μ**: 24.68  
+- **σ**: 8.06
+- W: 2, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 25.53"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 8 |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 9 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 25.53"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 4-9 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-06-14 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 13-7 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-05-09 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 7-19 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2025-10-17 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 3-20 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "gagauz2"
-description: "ws: 7 μ: 24.26"
+description: "ws: 8 μ: 24.06"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 3
-- **Rating**: -0.46
-- **μ**: 24.26  
-- **σ**: 8.24
-- W: 1, L: 6, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 4
+- **Rating**: -0.62
+- **μ**: 24.06  
+- **σ**: 8.23
+- W: 1, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 24.26"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 24.26"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-50 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | 2026-10-13 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-46 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
 | 2026-10-07 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-66 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-08-29 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 2-77 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |

@@ -1,6 +1,6 @@
 ---
 title: ​СССР
-description: W:170 L:75 D:2 Bonus ✅ 56%
+description: W:170 L:75 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 5 - 7 **RELAX CZ/SK**
 date: 2026-10-17T06:32:38.000Z
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 <br>
 
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

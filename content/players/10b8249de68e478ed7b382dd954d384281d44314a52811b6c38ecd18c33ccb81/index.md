@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Rom2466"
-description: "ws: 20 μ: 17.67"
+description: "ws: 21 μ: 17.48"
 ---
-- **WhiteStars**: 20
-- **Eligible**: 14
-- **Rating**: -6.07
-- **μ**: 17.67  
-- **σ**: 7.91
-- W: 0, L: 20, T: 0
+- **WhiteStars**: 21
+- **Eligible**: 15
+- **Rating**: -6.22
+- **μ**: 17.48  
+- **σ**: 7.90
+- W: 0, L: 21, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 20 μ: 17.67"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 14 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 20 μ: 17.67"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-50 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | 2026-10-13 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-46 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
 | 2026-10-07 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-66 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | 2026-09-27 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-42 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
