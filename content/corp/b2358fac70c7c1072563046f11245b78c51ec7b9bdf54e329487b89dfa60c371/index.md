@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:27 L:3 D:1 Bonus ✅ 38%
+description: W:28 L:3 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 21 - 0 **Rzeczypospolita**
-date: 2026-10-18T02:14:12.000Z
+Summary: ✅ 7 - 3 **Nebulae Traders**
+date: 2026-10-18T03:49:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-18T02:14:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1424 🔺  (6)|
-| ELO Competitive | 1445 🔺  (6)|
-| Total Matches | 31 |
-| Wins | 27 |
+| ELO Regular | 1436 🔺  (12)|
+| ELO Competitive | 1459 🔺  (20)|
+| Total Matches | 32 |
+| Wins | 28 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 7 |
+| Streak | 8 |
 | Streak Record | 13 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/18 | 7-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2026/10/18 | 21-0 | [Rzeczypospolita](https://ws.tsl.rocks/corp/669a044e2d8e476c293b7bdc70511065849ca26356c1f3062cc7570251459d6b/) |
 | ✅ | 2026/10/11 | 10-0 | [The Imperium](https://ws.tsl.rocks/corp/3938ea9ad4f69fb545e94e7343756fae99e9f090e50a1120664b0024d9b09fea/) |
 | ✅ | 2026/10/11 | 19-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
@@ -182,5 +183,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792289652"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792295358"></span>
 </div>

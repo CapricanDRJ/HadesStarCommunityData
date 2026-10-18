@@ -1,6 +1,6 @@
 ---
 title: ​老哥最强集团
-description: W:3 L:3 D:1 Bonus ✅ 30%
+description: W:3 L:3 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 3 - 1 **甜甜圈**
 date: 2026-10-11T05:21:02.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T05:21:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

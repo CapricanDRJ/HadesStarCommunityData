@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:8 L:0 D:0 Bonus ✅ 32%
+description: W:9 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 29 - 3 **阿尔特拉集团**
-date: 2026-10-11T05:31:03.000Z
+Summary: ✅ 30 - 7 **Lupus Regnum**
+date: 2026-10-18T05:19:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-11T05:31:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (7)|
-| ELO Competitive | 1316 🔺  (28)|
-| Total Matches | 8 |
-| Wins | 8 |
+| ELO Regular | 1343 🔺  (9)|
+| ELO Competitive | 1340 🔺  (24)|
+| Total Matches | 9 |
+| Wins | 9 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
+        let timestamps = [1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/18 | 30-7 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/10/11 | 29-3 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2026/10/11 | 19-5 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) |
 | ✅ | 2026/10/04 | 31-7 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
@@ -151,5 +152,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791696663"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792300763"></span>
 </div>

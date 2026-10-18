@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:83 L:70 D:2 Bonus ✅ 50%
+description: W:83 L:70 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 5 - 26 **Internationals**
 date: 2026-10-11T08:11:15.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

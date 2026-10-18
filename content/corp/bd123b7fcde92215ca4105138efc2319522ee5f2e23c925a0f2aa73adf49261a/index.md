@@ -1,9 +1,9 @@
 ---
 title: ​Best
-description: W:3 L:38 D:0 Bonus ❌ 15%
+description: W:3 L:39 D:0 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 3 - 46 **Team Elite**
-date: 2026-10-13T05:04:48.000Z
+Summary: ❌ 3 - 50 **Hand Of NOD\!**
+date: 2026-10-18T05:37:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2026-10-13T05:04:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 964 🔻  (-3)|
-| ELO Competitive | 1156 🔻  (-2)|
-| Total Matches | 41 |
+| ELO Regular | 962 🔻  (-2)|
+| ELO Competitive | 1155 🔻  (-1)|
+| Total Matches | 42 |
 | Wins | 3 |
-| Losses | 38 |
+| Losses | 39 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791435888,1790967274,1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
+        let timestamps = [1791869852,1791435888,1790967274,1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/18 | 3-50 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2026/10/13 | 3-46 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
 | ❌ | 2026/10/07 | 0-66 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | ❌ | 2026/09/27 | 3-42 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
@@ -195,5 +196,5 @@ Corporation ID: bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791867888"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792301852"></span>
 </div>

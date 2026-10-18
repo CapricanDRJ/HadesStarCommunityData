@@ -1,6 +1,6 @@
 ---
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:146 L:87 D:3 Bonus ✅ 52%
+description: W:146 L:87 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 23 - 3 **Curcubeu**
 date: 2026-10-11T04:35:59.000Z
@@ -18,7 +18,7 @@ date: 2026-10-11T04:35:59.000Z
 <br>
 
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
