@@ -1,6 +1,6 @@
 ---
 title: ​以太超星团
-description: W:7 L:35 D:12 Bonus ✅ 32%
+description: W:7 L:35 D:12 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **苏维埃联邦**
 date: 2026-10-11T11:29:07.000Z
@@ -16,7 +16,7 @@ date: 2026-10-11T11:29:07.000Z
 <br>
 
 ### [Discord](https://discord.gg/yyZqNDKx6T)
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

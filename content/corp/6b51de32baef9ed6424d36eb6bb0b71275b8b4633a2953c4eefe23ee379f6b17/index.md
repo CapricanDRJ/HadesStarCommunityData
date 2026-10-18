@@ -1,6 +1,6 @@
 ---
 title: ​Errantes
-description: W:2 L:0 D:0 Bonus ✅ 26%
+description: W:2 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 24 - 4 **Bastille FR**
 date: 2026-10-11T11:06:27.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T11:06:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

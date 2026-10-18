@@ -1,9 +1,9 @@
 ---
 title: ​Hermitage
-description: W:28 L:25 D:2 Bonus ❌ 10%
+description: W:28 L:26 D:2 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 6 - 15 **Неизбежный Рок**
-date: 2026-10-11T06:46:09.000Z
+Summary: ❌ 8 - 9 **Internationals**
+date: 2026-10-18T11:59:51.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Lien: https://discord.gg/gaBKUb5t
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (-6)|
-| ELO Competitive | 1440 🔻  (-1)|
-| Total Matches | 55 |
+| ELO Regular | 1259 🔻  (-10)|
+| ELO Competitive | 1438 🔻  (-3)|
+| Total Matches | 56 |
 | Wins | 28 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791269169,1785831465,1779775597,1778568688,1777959991,1777375949,1773038481,1769338840,1768889945,1768374659,1767781554,1761810314,1759818734,1759213588,1756796372,1756042663,1754374025,1751954239,1749535260,1747632240,1747116594,1745732312,1745134595,1743316182,1742752681,1742106243,1741520587,1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
+        let timestamps = [1791892791,1791269169,1785831465,1779775597,1778568688,1777959991,1777375949,1773038481,1769338840,1768889945,1768374659,1767781554,1761810314,1759818734,1759213588,1756796372,1756042663,1754374025,1751954239,1749535260,1747632240,1747116594,1745732312,1745134595,1743316182,1742752681,1742106243,1741520587,1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 0 | 3 | 0 | 3 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 1 | 1 | 0 | 2 |
@@ -150,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/18 | 8-9 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2026/10/11 | 6-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2026/08/09 | 26-4 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2026/05/31 | 19-23 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
@@ -212,5 +214,5 @@ Corporation ID: b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791701169"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792324791"></span>
 </div>
