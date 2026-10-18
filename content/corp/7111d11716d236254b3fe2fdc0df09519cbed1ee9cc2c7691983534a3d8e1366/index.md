@@ -1,6 +1,6 @@
 ---
 title: ​Gummibärenbande
-description: W:39 L:103 D:0 Bonus ✅ 52%
+description: W:39 L:103 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 6 - 27 **Stargate Corp**
 date: 2026-10-17T16:58:30.000Z
@@ -24,7 +24,7 @@ Mitglied der Tartaros Armada
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Corvus Ind.
-description: W:51 L:10 D:0 Bonus ✅ 46%
+description: W:51 L:10 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 20 - 3 **契约\-璃月**
 date: 2026-10-11T17:32:02.000Z
@@ -21,7 +21,7 @@ https://discord.gg/ysGrswJTUp
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

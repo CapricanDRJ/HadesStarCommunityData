@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "h4r1th_2804"
-description: "ws: 1 μ: 26.67"
+description: "ws: 2 μ: 26.67"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: 1.74
 - **μ**: 26.67  
 - **σ**: 8.31
-- W: 1, L: 0, T: 0
+- W: 2, L: 0, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 26.67"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 17-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-08-05 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 11-5 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
