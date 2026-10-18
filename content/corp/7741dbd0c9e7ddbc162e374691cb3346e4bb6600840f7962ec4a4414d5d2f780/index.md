@@ -1,6 +1,6 @@
 ---
 title: ​Tuatha De Danan
-description: W:134 L:33 D:0 Bonus ✅ 52%
+description: W:134 L:33 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 12 - 0 **Rising star**
 date: 2026-10-11T01:25:46.000Z
@@ -17,7 +17,7 @@ rk Red Stars. (First Language: English)
 <br>
 
 ### [Discord](https://discord.gg/zeDuYzkCzk)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

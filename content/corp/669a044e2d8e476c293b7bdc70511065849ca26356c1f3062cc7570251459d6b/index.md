@@ -1,9 +1,9 @@
 ---
 title: ​Rzeczypospolita
-description: W:0 L:1 D:1 Bonus ❌ 1%
+description: W:0 L:2 D:1 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **WhiteSTarfighte**
-date: 2024-11-02T01:31:00.000Z
+Summary: ❌ 0 - 21 **attraction\.F**
+date: 2026-10-18T02:14:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ Używamy discord do komunikacji: https://discord.gg/qgHRcwP
 ```
 <br>
 
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-15)|
-| ELO Competitive | 1186 🔻  (-14)|
-| Total Matches | 2 |
+| ELO Regular | 1179 🔻  (-6)|
+| ELO Competitive | 1180 🔻  (-6)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730079060,1699790876];
+        let timestamps = [1791857652,1730079060,1699790876];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/18 | 0-21 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ❌ | 2024/11/02 | 0-10 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ↔️ | 2023/11/17 | 0-0 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) |
 
@@ -144,5 +145,5 @@ Corporation ID: 669a044e2d8e476c293b7bdc70511065849ca26356c1f3062cc7570251459d6b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1730511060"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792289652"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Elysium
-description: W:114 L:27 D:0 Bonus ✅ 46%
+description: W:114 L:27 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 6 - 4 **Space Marshalls**
 date: 2026-10-11T03:30:55.000Z
@@ -18,7 +18,7 @@ in and play. Join today!
 <br>
 
 ### [Discord](https://discord.gg/cxxcsKHz4N)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
