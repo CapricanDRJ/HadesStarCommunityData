@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:62 L:74 D:5 Bonus ✅ 44%
+description: W:62 L:74 D:5 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ↔️ 4 - 4 **Austria**
 date: 2026-10-18T04:59:22.000Z
@@ -18,7 +18,7 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

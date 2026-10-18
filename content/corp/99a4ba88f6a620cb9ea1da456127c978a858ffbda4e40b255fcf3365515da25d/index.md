@@ -1,6 +1,6 @@
 ---
 title: ​Industrial W.O
-description: W:101 L:69 D:3 Bonus ✅ 48%
+description: W:101 L:69 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 24 - 6 **SternenStaub**
 date: 2026-10-11T19:07:11.000Z
@@ -18,7 +18,7 @@ emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 <br>
 
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
