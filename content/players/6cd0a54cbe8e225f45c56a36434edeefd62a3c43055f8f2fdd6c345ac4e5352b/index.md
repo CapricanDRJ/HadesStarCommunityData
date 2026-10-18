@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Astartes"
-description: "ws: 9 μ: 28.23"
+description: "ws: 10 μ: 29.02"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 9
-- **Rating**: 4.21
-- **μ**: 28.23  
-- **σ**: 8.01
-- W: 6, L: 3, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 10
+- **Rating**: 5.10
+- **μ**: 29.02  
+- **σ**: 7.97
+- W: 7, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 28.23"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 9 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 28.23"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 16-2 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | 2026-10-11 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 26-2 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | 2026-09-26 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 14-32 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | 2026-09-19 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 19-9 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |

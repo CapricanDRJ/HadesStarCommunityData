@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:129 L:89 D:3 Bonus ✅ 52%
+description: W:129 L:89 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **Dumpster Fire**
 date: 2026-10-11T15:36:52.000Z
@@ -27,7 +27,7 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Space Catz
-description: W:20 L:7 D:1 Bonus ✅ 36%
+description: W:20 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **63SALVADORES36**
 date: 2026-10-11T14:41:47.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T14:41:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

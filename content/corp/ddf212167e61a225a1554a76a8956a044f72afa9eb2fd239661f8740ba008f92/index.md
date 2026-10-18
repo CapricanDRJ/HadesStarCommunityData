@@ -1,6 +1,6 @@
 ---
 title: ​契约-璃月
-description: W:57 L:24 D:2 Bonus ✅ 42%
+description: W:57 L:24 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 3 - 20 **Corvus Ind\.**
 date: 2026-10-11T17:32:02.000Z
@@ -15,7 +15,7 @@ date: 2026-10-11T17:32:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

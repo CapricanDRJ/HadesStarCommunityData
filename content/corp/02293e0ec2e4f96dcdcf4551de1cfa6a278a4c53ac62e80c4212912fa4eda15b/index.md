@@ -1,6 +1,6 @@
 ---
 title: ​White Dwarf
-description: W:133 L:57 D:1 Bonus ❌ 54%
+description: W:133 L:57 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 6 - 35 **IX Легион**
 date: 2026-10-17T04:27:29.000Z
@@ -17,7 +17,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 <br>
 
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ❌ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

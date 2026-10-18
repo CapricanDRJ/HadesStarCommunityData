@@ -1,9 +1,9 @@
 ---
 title: ​烽烟与黎明
-description: W:7 L:4 D:0 Bonus ❌ 6%
+description: W:7 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 5 - 0 **Axioma**
-date: 2026-10-06T02:41:10.000Z
+Summary: ❌ 0 - 22 **Gemini Ind\.**
+date: 2026-10-18T14:15:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-06T02:41:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (7)|
-| ELO Competitive | 1275 🔺  (7)|
-| Total Matches | 11 |
+| ELO Regular | 1217 🔻  (-6)|
+| ELO Competitive | 1270 🔻  (-4)|
+| Total Matches | 12 |
 | Wins | 7 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790822470,1790358035,1787553291,1787034140,1786517359,1786061925,1785811640,1785598911,1785142850,1784709046,1784084433];
+        let timestamps = [1791900903,1790822470,1790358035,1787553291,1787034140,1786517359,1786061925,1785811640,1785598911,1785142850,1784709046,1784084433];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/18 | 0-22 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2026/10/06 | 5-0 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 | ❌ | 2026/09/30 | 1-2 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/08/29 | 4-0 | [民主团](https://ws.tsl.rocks/corp/900529bbc3b52d519c9af29a274b6bb263137509cbf25f73d82a2c0190d0bd53/) |
@@ -153,5 +154,5 @@ Corporation ID: 6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791254470"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792332903"></span>
 </div>

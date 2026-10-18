@@ -1,9 +1,9 @@
 ---
 title: ​Bastille FR
-description: W:27 L:25 D:0 Bonus ❌ 10%
+description: W:28 L:26 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ❌ 3 - 5 **中华五千年**
-date: 2026-10-11T15:11:49.000Z
+Summary: ❌ 3 - 5 **Curiosity \+ Cat**
+date: 2026-10-18T14:15:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-11T15:11:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (-12)|
-| ELO Competitive | 1451 🔻  (-17)|
-| Total Matches | 52 |
-| Wins | 27 |
-| Losses | 25 |
+| ELO Regular | 1235 🔻  (-11)|
+| ELO Competitive | 1468 🔺  (16)|
+| Total Matches | 54 |
+| Wins | 28 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791299509,1791284787,1790762381,1790761780,1790166377,1790148355,1789547851,1789545748,1788988457,1788954197,1788349990,1788338575,1787741085,1787731349,1787143498,1786539612,1785794518,1781629251,1781014556,1774366725,1773763434,1773168872,1772549409,1771928095,1771320625,1770736267,1770120960,1769418461,1768915180,1768310060,1767083919,1766485129,1764686588,1764064289,1763372062,1762767579,1762182880,1761651675,1761634551,1760953884,1760953382,1760345464,1759730996,1759247840,1758518643,1757921583,1757310760,1756812594,1756106360,1755412836,1754894396,1754375527];
+        let timestamps = [1791900903,1791896997,1791299509,1791284787,1790762381,1790761780,1790166377,1790148355,1789547851,1789545748,1788988457,1788954197,1788349990,1788338575,1787741085,1787731349,1787143498,1786539612,1785794518,1781629251,1781014556,1774366725,1773763434,1773168872,1772549409,1771928095,1771320625,1770736267,1770120960,1769418461,1768915180,1768310060,1767083919,1766485129,1764686588,1764064289,1763372062,1762767579,1762182880,1761651675,1761634551,1760953884,1760953382,1760345464,1759730996,1759247840,1758518643,1757921583,1757310760,1756812594,1756106360,1755412836,1754894396,1754375527];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +144,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/18 | 3-5 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
+| ✅ | 2026/10/18 | 18-6 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) |
 | ❌ | 2026/10/11 | 3-5 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ❌ | 2026/10/11 | 4-24 | [Errantes](https://ws.tsl.rocks/corp/6b51de32baef9ed6424d36eb6bb0b71275b8b4633a2953c4eefe23ee379f6b17/) |
 | ✅ | 2026/10/05 | 24-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
@@ -203,5 +205,5 @@ Corporation ID: 910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791731509"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792332903"></span>
 </div>

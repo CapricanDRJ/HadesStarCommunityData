@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Shmumpa"
-description: "ws: 11 μ: 27.51"
+description: "ws: 12 μ: 28.29"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 10
-- **Rating**: 3.59
-- **μ**: 27.51  
-- **σ**: 7.97
-- W: 7, L: 4, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 11
+- **Rating**: 4.47
+- **μ**: 28.29  
+- **σ**: 7.94
+- W: 8, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 11 μ: 27.51"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 10 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 11 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 11 μ: 27.51"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-18 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 16-2 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | 2026-10-11 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 26-2 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | 2026-10-03 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 29-0 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) |
 | 2026-09-26 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 14-32 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
