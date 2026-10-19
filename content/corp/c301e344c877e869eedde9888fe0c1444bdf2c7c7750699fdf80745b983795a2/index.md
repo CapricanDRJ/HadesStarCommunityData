@@ -1,6 +1,6 @@
 ---
 title: ​HIGH COMMAND
-description: W:110 L:49 D:1 Bonus ✅ 50%
+description: W:110 L:49 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 4 - 14 **Crazy Elite**
 date: 2026-10-17T15:58:25.000Z
@@ -15,7 +15,7 @@ date: 2026-10-17T15:58:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

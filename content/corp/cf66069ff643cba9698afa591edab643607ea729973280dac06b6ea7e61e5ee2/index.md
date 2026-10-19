@@ -1,6 +1,6 @@
 ---
 title: ​Españoles
-description: W:79 L:104 D:1 Bonus ✅ 52%
+description: W:79 L:104 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 56 - 3 **alienigenas**
 date: 2026-10-12T06:38:01.000Z
@@ -19,7 +19,7 @@ Discord obligatorio: KAguMmM
 <br>
 
 ### [Discord](https://discord.gg/KAguMmM)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

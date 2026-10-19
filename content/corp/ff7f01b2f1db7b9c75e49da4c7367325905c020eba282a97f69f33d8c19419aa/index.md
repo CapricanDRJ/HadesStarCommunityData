@@ -1,9 +1,9 @@
 ---
 title: ​₩.BRASIL.₩
-description: W:2 L:25 D:4 Bonus ❌ 4%
+description: W:2 L:25 D:5 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **银河护卫队**
-date: 2024-12-04T22:51:49.000Z
+Summary: ↔️ 0 - 0 **LA SOLEDAD**
+date: 2026-10-19T03:56:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 🔻  (-10)|
-| ELO Competitive | 1009 🔻  (-8)|
-| Total Matches | 31 |
+| ELO Regular | 995 🔺  (8)|
+| ELO Competitive | 1017 🔺  (8)|
+| Total Matches | 32 |
 | Wins | 2 |
 | Losses | 25 |
-| Draws | 4 |
+| Draws | 5 |
 | Flagship | 2 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732920709,1732338299,1731692154,1731128752,1730666556,1730168932,1729702552,1729104238,1728664213,1728130753,1727658369,1727157441,1726692295,1726238898,1725739186,1725231962,1724728311,1724227615,1723755531,1710035945,1709531978,1708667177,1708059876,1707530245,1706870699,1706396870,1705776308,1704850733,1704389858,1703801333,1700785218];
+        let timestamps = [1791950171,1732920709,1732338299,1731692154,1731128752,1730666556,1730168932,1729702552,1729104238,1728664213,1728130753,1727658369,1727157441,1726692295,1726238898,1725739186,1725231962,1724728311,1724227615,1723755531,1710035945,1709531978,1708667177,1708059876,1707530245,1706870699,1706396870,1705776308,1704850733,1704389858,1703801333,1700785218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/19 | 0-0 | [LA SOLEDAD](https://ws.tsl.rocks/corp/86c3fee8ca305211e9ecda79c6d4eb6a3e3cb6849e943b39256c36caea9ffa59/) |
 | ❌ | 2024/12/04 | 0-4 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/11/28 | 0-11 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/11/20 | 1-2 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) |
@@ -178,5 +179,5 @@ Corporation ID: ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1733352709"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792382171"></span>
 </div>

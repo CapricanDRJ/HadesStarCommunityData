@@ -1,9 +1,9 @@
 ---
 title: ​LA SOLEDAD
-description: W:2 L:1 D:0 Bonus ✅ 26%
+description: W:2 L:1 D:1 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **Core Systems**
-date: 2026-10-13T19:47:56.000Z
+Summary: ↔️ 0 - 0 **₩\.BRASIL\.₩**
+date: 2026-10-19T03:56:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2026-10-13T19:47:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (15)|
-| ELO Competitive | 1211 🔺  (16)|
-| Total Matches | 3 |
+| ELO Regular | 1201 🔻  (-8)|
+| ELO Competitive | 1203 🔻  (-8)|
+| Total Matches | 4 |
 | Wins | 2 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791488876,1790805782,1790344517];
+        let timestamps = [1791950171,1791488876,1790805782,1790344517];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/19 | 0-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2026/10/13 | 1-0 | [Core Systems](https://ws.tsl.rocks/corp/66dfd39587403b544abf2908638162e60a09ff0dfdfebee6265d41ba2a6ab00a/) |
 | ❌ | 2026/10/05 | 0-4 | [老哥最强集团](https://ws.tsl.rocks/corp/fe5c86f6244ba283f6eda53890266425eaac76718f542806046dfea045db20e9/) |
 | ✅ | 2026/09/30 | 1-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
@@ -144,5 +145,5 @@ Corporation ID: 86c3fee8ca305211e9ecda79c6d4eb6a3e3cb6849e943b39256c36caea9ffa59
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791920876"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792382171"></span>
 </div>

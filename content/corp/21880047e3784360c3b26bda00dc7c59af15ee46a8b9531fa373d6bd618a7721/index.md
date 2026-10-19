@@ -1,9 +1,9 @@
 ---
 title: ​Кузня Лютых
-description: W:15 L:3 D:0 Bonus ❌ 9%
+description: W:16 L:3 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 26 - 0 **孤星长城**
-date: 2026-10-05T05:24:21.000Z
+Summary: ✅ 26 - 0 **Spacekill**
+date: 2026-10-19T06:21:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-10-05T05:24:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (13)|
-| ELO Competitive | 1477 🔺  (12)|
-| Total Matches | 18 |
-| Wins | 15 |
+| ELO Regular | 1402 🔺  (6)|
+| ELO Competitive | 1484 🔺  (7)|
+| Total Matches | 19 |
+| Wins | 16 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790745861,1789369119,1788448835,1786092530,1784676306,1783659333,1782364776,1781235373,1780545910,1778834860,1776180795,1776180494,1774002277,1772698711,1771484663,1769173266,1766758250,1766206903];
+        let timestamps = [1791958881,1790745861,1789369119,1788448835,1786092530,1784676306,1783659333,1782364776,1781235373,1780545910,1778834860,1776180795,1776180494,1774002277,1772698711,1771484663,1769173266,1766758250,1766206903];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/19 | 26-0 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
 | ✅ | 2026/10/05 | 26-0 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2026/09/19 | 18-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2026/09/08 | 23-1 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
@@ -166,5 +167,5 @@ Corporation ID: 21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791177861"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792390881"></span>
 </div>

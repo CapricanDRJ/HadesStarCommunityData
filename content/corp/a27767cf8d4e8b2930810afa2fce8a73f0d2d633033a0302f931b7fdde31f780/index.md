@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:5 L:10 D:2 Bonus ❌ 6%
+description: W:5 L:11 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 1 - 26 **星落苑**
-date: 2026-10-14T01:16:28.000Z
+Summary: ❌ 0 - 26 **Кузня Лютых**
+date: 2026-10-19T06:21:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-14T01:16:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (-6)|
-| ELO Competitive | 1260 🔻  (-3)|
-| Total Matches | 17 |
+| ELO Regular | 1164 🔻  (-6)|
+| ELO Competitive | 1253 🔻  (-7)|
+| Total Matches | 18 |
 | Wins | 5 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/19 | 0-26 | [Кузня Лютых](https://ws.tsl.rocks/corp/21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721/) |
 | ❌ | 2026/10/14 | 1-26 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2026/10/13 | 0-42 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2026/10/08 | 6-5 | [SPACING GUILD](https://ws.tsl.rocks/corp/e81af8fe50f976167d2ea644004ff2e4c9ce0e7b399b754c06c4c831934842fd/) |
@@ -164,5 +165,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791940588"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792390881"></span>
 </div>
