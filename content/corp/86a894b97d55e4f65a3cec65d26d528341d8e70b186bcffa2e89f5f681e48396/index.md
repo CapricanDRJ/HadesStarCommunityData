@@ -1,6 +1,6 @@
 ---
 title: ​Stella☆Glow
-description: W:99 L:41 D:1 Bonus ✅ 50%
+description: W:99 L:41 D:1 Bonus ❌ 50%
 image: ./favicon.png
 Summary: ✅ 26 - 6 **Stargate Sg7**
 date: 2026-10-12T15:53:47.000Z
@@ -29,7 +29,7 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 50%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "08jordanc"
-description: "ws: 7 μ: 27.32"
+description: "ws: 8 μ: 24.41"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 3
-- **Rating**: 2.63
-- **μ**: 27.32  
-- **σ**: 8.23
-- W: 5, L: 1, T: 1
+- **WhiteStars**: 8
+- **Eligible**: 4
+- **Rating**: -0.17
+- **μ**: 24.41  
+- **σ**: 8.19
+- W: 5, L: 2, T: 1
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 7 μ: 27.32"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) | 3 |
+| [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 7 μ: 27.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) | 6-17 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
 | 2026-04-07 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) | 3-0 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | 2026-03-25 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) | 8-0 | [纸鸢台](https://ws.tsl.rocks/corp/c4be34dcc0fcf9c2c0cef9c6f2ce31798d5435dadefaccbcb2502e65252ae677/) |
 | 2025-06-25 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) | 0-12 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
