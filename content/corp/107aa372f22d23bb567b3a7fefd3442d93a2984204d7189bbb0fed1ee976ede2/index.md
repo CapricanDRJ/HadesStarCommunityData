@@ -1,6 +1,6 @@
 ---
 title: ​星を継ぐもの
-description: W:115 L:69 D:2 Bonus ✅ 48%
+description: W:115 L:69 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 28 - 8 **Hexacropians**
 date: 2026-10-11T22:02:48.000Z
@@ -17,7 +17,7 @@ date: 2026-10-11T22:02:48.000Z
 <br>
 
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

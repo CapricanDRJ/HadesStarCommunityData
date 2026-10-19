@@ -1,9 +1,9 @@
 ---
 title: ​Sunat.
-description: W:5 L:4 D:1 Bonus ✅ 30%
+description: W:5 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 7 - 2 **GermanSpaceDuo**
-date: 2026-10-13T23:01:20.000Z
+Summary: ❌ 0 - 19 **Space Catz**
+date: 2026-10-19T00:15:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,16 @@ date: 2026-10-13T23:01:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (9)|
-| ELO Competitive | 1238 🔺  (10)|
-| Total Matches | 10 |
+| ELO Regular | 1204 🔻  (-10)|
+| ELO Competitive | 1230 🔻  (-8)|
+| Total Matches | 11 |
 | Wins | 5 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791500480,1790950145,1789664106,1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
+        let timestamps = [1791936957,1791500480,1790950145,1789664106,1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/19 | 0-19 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ✅ | 2026/10/13 | 7-2 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ✅ | 2026/10/07 | 3-0 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ↔️ | 2026/09/22 | 0-0 | [Imperial Navy](https://ws.tsl.rocks/corp/3e07bbe9ec60b90d6861b7ee28cf8803a8f175db765ab57bcc8c20b4dcd3dd09/) |
@@ -158,5 +158,5 @@ Corporation ID: b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791932480"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792368957"></span>
 </div>

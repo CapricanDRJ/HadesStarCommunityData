@@ -1,6 +1,6 @@
 ---
 title: ​GDZ
-description: W:105 L:74 D:1 Bonus ✅ 52%
+description: W:105 L:74 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 30 - 14 **Hexacropians**
 date: 2026-10-11T23:47:32.000Z
@@ -16,7 +16,7 @@ date: 2026-10-11T23:47:32.000Z
 <br>
 
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
