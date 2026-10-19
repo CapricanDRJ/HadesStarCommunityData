@@ -1,6 +1,6 @@
 ---
 title: ​Будущее
-description: W:1 L:2 D:0 Bonus ✅ 28%
+description: W:1 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 22 - 1 **民主团**
 date: 2026-10-12T07:13:04.000Z
@@ -15,7 +15,7 @@ date: 2026-10-12T07:13:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
