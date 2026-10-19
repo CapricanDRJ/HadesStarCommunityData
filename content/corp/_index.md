@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-19T18:55:41.560Z
+date: 2026-10-19T21:55:40.598Z
 summary: "Corporation directory"
 ---
 
@@ -364,7 +364,7 @@ summary: "Corporation directory"
 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) | 1180 | 1205 | 25 |
 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) | 1283 | 1293 | 11 |
 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) | 1343 | 1401 | 16 |
-| [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) | 1061 | 1193 | 122 |
+| [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) | 1073 | 1204 | 123 |
 | [Errantes](https://ws.tsl.rocks/corp/6b51de32baef9ed6424d36eb6bb0b71275b8b4633a2953c4eefe23ee379f6b17/) | 1236 | 1250 | 2 |
 | [ES Gaming](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) | 1235 | 1278 | 30 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 1370 | 1728 | 185 |
@@ -739,7 +739,7 @@ summary: "Corporation directory"
 | [New Legion](https://ws.tsl.rocks/corp/9cdc9d8489a3090982b1084bdd4a76cfa8664b765e95a34db8b12cadbb0840d9/) | 1193 | 1193 | 1 |
 | [New Orbit ©](https://ws.tsl.rocks/corp/158a33fb6417b876a2c91e1274223bf6e35548abc4a68e5adc81776c3ed7eafa/) | 1234 | 1255 | 5 |
 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908/) | 1238 | 1272 | 11 |
-| [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 1527 | 1673 | 100 |
+| [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 1532 | 1686 | 101 |
 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1434 | 1799 | 171 |
 | [NewEmpire](https://ws.tsl.rocks/corp/6315a6939f23618f7d243b2fa0a6fd68cc4764424c14f62d26aafff6ff1724f0/) | 1194 | 1199 | 1 |
 | [NewEmpire](https://ws.tsl.rocks/corp/d3d1fce1149476423a039710177c41d78b73d98af039c18424dac9ba53ed7cf1/) | 1196 | 1200 | 1 |
@@ -1015,7 +1015,7 @@ summary: "Corporation directory"
 | [Solysis](https://ws.tsl.rocks/corp/1dd3b30d4fba97df035310d43fa05c50aa4f77867aa67090be08e245b840b1cf/) | 1137 | 1150 | 10 |
 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) | 1415 | 1536 | 33 |
 | [SONS OF SUNS](https://ws.tsl.rocks/corp/710d8a5c78fa5042356cb21ac8c446d17cc1275cd8b5b3325582a0d4ca7ae318/) | 1144 | 1144 | 4 |
-| [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) | 1164 | 1487 | 117 |
+| [Soul System](https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/) | 1161 | 1482 | 118 |
 | [sound round](https://ws.tsl.rocks/corp/c5bef6bb1d0b6c510cc6c1b66c86750586ef0e4cdfae379aad0ba15d33398ded/) | 1120 | 1169 | 8 |
 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) | 1160 | 1179 | 13 |
 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) | 1261 | 1322 | 41 |
@@ -1108,7 +1108,7 @@ summary: "Corporation directory"
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1311 | 1878 | 288 |
 | [StellarCorpIT](https://ws.tsl.rocks/corp/7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f/) | 1283 | 1302 | 10 |
 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) | 1131 | 1424 | 107 |
-| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1517 | 1766 | 141 |
+| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1520 | 1771 | 142 |
 | [Stella☆Grow](https://ws.tsl.rocks/corp/8767272985b99b3dffd4c8482b4e7faa1c462406acd8bf16ecffb552b91422ca/) | 1291 | 1344 | 10 |
 | [Sterling Gamers](https://ws.tsl.rocks/corp/1c9d0a5b4f5803e2e51f7ce4af435c7caa7e7da9e39c7f1ed26f7be70e4d6638/) | 1201 | 1201 | 2 |
 | [Sternenbund](https://ws.tsl.rocks/corp/bc271b888ea386af54e2fc911a98d01951a0c2bb776a079d2ae005c477072587/) | 1185 | 1185 | 1 |
@@ -1724,7 +1724,7 @@ summary: "Corporation directory"
 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) | 1115 | 1223 | 21 |
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 1082 | 1162 | 54 |
 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) | 1150 | 1156 | 9 |
-| [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) | 1261 | 1338 | 23 |
+| [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) | 1272 | 1347 | 24 |
 | [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb/) | 1316 | 1490 | 50 |
 | [传说之下3](https://ws.tsl.rocks/corp/32a328c15e959a5349e4de24b126a4f8fa7e71fd5683e5d9f2074dde87d36a30/) | 1199 | 1208 | 3 |
 | [伪天星集团](https://ws.tsl.rocks/corp/53966bd236f5b18d9f651eff62ee3583704ef3016e1caa8ec7252ee1ed810231/) | 1161 | 1208 | 7 |
@@ -1821,7 +1821,7 @@ summary: "Corporation directory"
 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) | 1117 | 1141 | 12 |
 | [愿君仍常在](https://ws.tsl.rocks/corp/ab8346790b4db05b33650a32516cee9699fc666a453f55ba76e025fd1246d768/) | 1186 | 1186 | 1 |
 | [我是沙碧](https://ws.tsl.rocks/corp/098610891e066e1c3eb89a95d424ef860ac1447f85cb7e6fdec05bb487338851/) | 1184 | 1208 | 13 |
-| [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) | 1003 | 1092 | 21 |
+| [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) | 990 | 1081 | 22 |
 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) | 987 | 1084 | 63 |
 | [探索舰队](https://ws.tsl.rocks/corp/c18acd17d6d643817b2bf8f28c2bf82cae881f0dd6d41528c9cfbe3292a7de29/) | 1116 | 1168 | 14 |
 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) | 1123 | 1269 | 57 |
@@ -1859,7 +1859,7 @@ summary: "Corporation directory"
 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) | 1365 | 1521 | 70 |
 | [星海共同体](https://ws.tsl.rocks/corp/8716d843d76ec96cdd36cd0de81fbfca825b2ca4195be28dd27973962e1a0e7e/) | 1185 | 1185 | 1 |
 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) | 1267 | 1375 | 41 |
-| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 1150 | 1203 | 31 |
+| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 1140 | 1193 | 32 |
 | [星瀚协议：守望之城](https://ws.tsl.rocks/corp/8cc8aca54d2881fb3ac64cadf68e0ba57110a758b0f3976e30e19f70dd73cff2/) | 1161 | 1166 | 3 |
 | [星瀚协议：追光之宇](https://ws.tsl.rocks/corp/0c385f7bbee6eeb3082726c932b86d8b9cc770806e9785a536623ea61be316e5/) | 1186 | 1187 | 1 |
 | [星环\-星际联盟](https://ws.tsl.rocks/corp/701b2b79715c2d2f9e2cc4c51d16c7e1b2aa2f549955e7191269f81327a78eeb/) | 1186 | 1187 | 1 |
@@ -1971,7 +1971,7 @@ summary: "Corporation directory"
 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1131 | 1545 | 197 |
 | [红星私密之家](https://ws.tsl.rocks/corp/889d0661ee2fb884920ee3f90fad1b202ab805e67221ddddf1ae8b5e4f8ad53d/) | 1206 | 1223 | 4 |
 | [红星超新星爆炸](https://ws.tsl.rocks/corp/004f2173a6d8f08e3ecf198c1d824992198a159f615534a227ee11de18606403/) | 1187 | 1188 | 3 |
-| [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) | 1260 | 1627 | 77 |
+| [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) | 1255 | 1614 | 78 |
 | [红色太阳·红活团](https://ws.tsl.rocks/corp/b4d1d276fab66049a6c980d31aba4c6216ab2c806768b1dccd1b49361b4d70d0/) | 1293 | 1327 | 6 |
 | [纳塔Natlan](https://ws.tsl.rocks/corp/3256a70ba8c9fd0e9dff34e19c2f7f25b85b460a55a2bfc2de9ecd2422971f44/) | 1183 | 1184 | 1 |
 | [纸鸢台](https://ws.tsl.rocks/corp/c4be34dcc0fcf9c2c0cef9c6f2ce31798d5435dadefaccbcb2502e65252ae677/) | 1158 | 1187 | 15 |
