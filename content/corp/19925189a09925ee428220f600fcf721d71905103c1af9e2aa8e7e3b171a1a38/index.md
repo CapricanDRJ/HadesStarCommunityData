@@ -1,6 +1,6 @@
 ---
 title: ​First Legion
-description: W:123 L:122 D:3 Bonus ✅ 50%
+description: W:123 L:122 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 36 - 0 **Лунный Феникс**
 date: 2026-10-12T22:49:24.000Z
@@ -17,7 +17,7 @@ Sister corporations: TeddisaurusWrex, Armored Union
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

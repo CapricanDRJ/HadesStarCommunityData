@@ -1,6 +1,6 @@
 ---
 title: ​BlackStar Order
-description: W:170 L:136 D:2 Bonus ✅ 60%
+description: W:170 L:136 D:2 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ✅ 30 - 3 **SNSS**
 date: 2026-10-12T23:59:29.000Z
@@ -22,7 +22,7 @@ Discord: (YTaYrhy)
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |
