@@ -1,6 +1,6 @@
 ---
 title: ​Ereboros
-description: W:14 L:2 D:0 Bonus ✅ 34%
+description: W:14 L:2 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 14 - 3 **中华人民共和国**
 date: 2026-10-13T15:20:38.000Z
@@ -15,7 +15,7 @@ date: 2026-10-13T15:20:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
