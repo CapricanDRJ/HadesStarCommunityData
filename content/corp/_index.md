@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-20T03:55:40.797Z
+date: 2026-10-20T06:55:40.960Z
 summary: "Corporation directory"
 ---
 
@@ -352,7 +352,7 @@ summary: "Corporation directory"
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 1617 | 1724 | 66 |
 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) | 1153 | 1162 | 9 |
 | [EMPIRE](https://ws.tsl.rocks/corp/6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2/) | 1238 | 1243 | 3 |
-| [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1370 | 1664 | 143 |
+| [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1351 | 1642 | 144 |
 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) | 1102 | 1293 | 120 |
 | [Empyre](https://ws.tsl.rocks/corp/b31247ca3aabadd1d2b099494ccc433c768f115c91677798d5b3dac380f90392/) | 1180 | 1186 | 2 |
 | [End of day](https://ws.tsl.rocks/corp/677cda4ea456531f2241fddba358b021389738311f4b62e0275614728e0a19b2/) | 1161 | 1164 | 4 |
@@ -952,7 +952,7 @@ summary: "Corporation directory"
 | [Russia](https://ws.tsl.rocks/corp/14561981eba434af12062961e19345bd438ed10b7b630295db868067861e6bd6/) | 1184 | 1186 | 5 |
 | [Russian space](https://ws.tsl.rocks/corp/60661432424687137dd115ceeba6850338ef752cae3b9a1b7f3b84cc267c558b/) | 1173 | 1174 | 2 |
 | [Russian space 2](https://ws.tsl.rocks/corp/41b9946501f1125cea47c61a14df7fda0db05330ab02313084c867f908026403/) | 1185 | 1187 | 1 |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1569 | 1912 | 128 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1573 | 1914 | 129 |
 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) | 1242 | 1439 | 75 |
 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) | 1109 | 1109 | 9 |
 | [RWA](https://ws.tsl.rocks/corp/982b5912bb140d203f3c20900e26163787d616d3af33ddbc3ae3349f955caf01/) | 1175 | 1184 | 2 |
@@ -1682,7 +1682,7 @@ summary: "Corporation directory"
 | [✯NLB✯ II](https://ws.tsl.rocks/corp/b305e780e7ad5ac4f03ed0c9c3e86fa879cc681a2a0ad398169d65bbc866249c/) | 1186 | 1187 | 1 |
 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 932 | 1147 | 85 |
 | [ギャラクシー富士山](https://ws.tsl.rocks/corp/2d5888d985fe8a11b0227ed1ac345ca5be43e105bee9c4694e43c695bfd33649/) | 1144 | 1150 | 9 |
-| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 1384 | 1631 | 176 |
+| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 1370 | 1625 | 177 |
 | [一切奇迹的起点](https://ws.tsl.rocks/corp/bbdfb933c61ceff037c1c76a72f8d396261bb09cbcf3b7c2a8e045d33c12ccf5/) | 1228 | 1236 | 2 |
 | [一切终将消逝](https://ws.tsl.rocks/corp/64730e13a12911f3b07d8d1362547011103ba27359d24c023fdd8442bc025f0d/) | 1184 | 1188 | 1 |
 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) | 1090 | 1182 | 34 |
@@ -1737,7 +1737,7 @@ summary: "Corporation directory"
 | [先和先知](https://ws.tsl.rocks/corp/54c8fbf9e85f95a3e28c0b3d2833d49a40758d5340c6de6d6822c6c48aa070eb/) | 1140 | 1163 | 16 |
 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) | 1003 | 1090 | 59 |
 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) | 985 | 1114 | 51 |
-| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1447 | 2034 | 387 |
+| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1459 | 2035 | 388 |
 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) | 1155 | 1230 | 49 |
 | [共产主义舰队](https://ws.tsl.rocks/corp/120341cde0726631443dbaa98c1192b6703daad0119e6c18061f443d2897831e/) | 1277 | 1278 | 8 |
 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) | 1136 | 1233 | 39 |
@@ -1770,7 +1770,7 @@ summary: "Corporation directory"
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1137 | 1282 | 54 |
 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1159 | 1279 | 39 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 962 | 1074 | 46 |
-| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1276 | 1491 | 44 |
+| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1290 | 1513 | 46 |
 | [基地联邦](https://ws.tsl.rocks/corp/9e1663122c20a4645bb8c9dd366a5b75a4c70ebbcd9ce2777574ce182e19beba/) | 1216 | 1222 | 1 |
 | [塔罗会](https://ws.tsl.rocks/corp/6bff4eb81afd71832d1e181ac97acc1ce1b280b8cef58e8a01ca31d45df501f4/) | 1187 | 1195 | 1 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |
@@ -1896,8 +1896,8 @@ summary: "Corporation directory"
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1186 | 1219 | 9 |
 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80/) | 1187 | 1195 | 3 |
 | [极夜](https://ws.tsl.rocks/corp/b797253dd3282ad1171f91b49f6665ac511467a2e7b181b8e4462ab50f46367e/) | 1180 | 1190 | 2 |
-| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1403 | 1851 | 277 |
-| [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1365 | 1478 | 33 |
+| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1417 | 1858 | 278 |
+| [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1353 | 1477 | 34 |
 | [柯伊伯带试炼塔](https://ws.tsl.rocks/corp/dde335e4db20006ce28e1c1cf1cf3bbe510a97c5915b67cb2e31400e98291ca1/) | 1118 | 1135 | 4 |
 | [柯伊伯带远征军](https://ws.tsl.rocks/corp/32398adc922cc794e11a465894d7c05b991a9fa42402fad019eab4cdf1e6fc57/) | 1067 | 1137 | 14 |
 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) | 1165 | 1175 | 7 |
