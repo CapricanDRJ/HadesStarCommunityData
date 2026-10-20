@@ -1,6 +1,6 @@
 ---
 title: ​LA SOLEDAD
-description: W:2 L:1 D:1 Bonus ✅ 28%
+description: W:2 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **₩\.BRASIL\.₩**
 date: 2026-10-19T03:56:11.000Z
@@ -15,7 +15,7 @@ date: 2026-10-19T03:56:11.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
