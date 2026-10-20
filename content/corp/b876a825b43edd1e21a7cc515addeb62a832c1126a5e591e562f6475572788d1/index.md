@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:63 L:91 D:1 Bonus ✅ 48%
+description: W:63 L:91 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **战争幽灵**
 date: 2026-10-13T16:50:47.000Z
@@ -17,7 +17,7 @@ date: 2026-10-13T16:50:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
