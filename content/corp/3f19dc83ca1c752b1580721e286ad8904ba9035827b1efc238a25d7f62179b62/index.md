@@ -1,9 +1,9 @@
 ---
 title: ​CORE INFLICTION
-description: W:2 L:4 D:0 Bonus ❌ 10%
+description: W:2 L:5 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **Mondluftschiff**
-date: 2026-10-13T05:29:49.000Z
+Summary: ❌ 1 - 3 **中华人民共和国**
+date: 2026-10-20T08:38:24.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Project for Permanent Peace
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (16)|
-| ELO Competitive | 1212 🔺  (16)|
-| Total Matches | 6 |
+| ELO Regular | 1173 🔻  (-18)|
+| ELO Competitive | 1199 🔻  (-12)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791437389,1790835086,1790162771,1789715166,1789225498,1701919177];
+        let timestamps = [1792053504,1791437389,1790835086,1790162771,1789715166,1789225498,1701919177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/20 | 1-3 | [中华人民共和国](https://ws.tsl.rocks/corp/2acf0be46829b53620f0aa02fc71aaa7e3e9c54d9446951bb26288c05727ae84/) |
 | ✅ | 2026/10/13 | 3-0 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ❌ | 2026/10/06 | 0-8 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2026/09/28 | 4-7 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
@@ -152,5 +153,5 @@ Corporation ID: 3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791869389"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792485504"></span>
 </div>
