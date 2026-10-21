@@ -1,9 +1,9 @@
 ---
 title: ​Galactic Empire
-description: W:20 L:9 D:0 Bonus ✅ 48%
+description: W:21 L:9 D:0 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **数字星际集团**
-date: 2026-10-15T13:56:12.000Z
+Summary: ✅ 3 - 0 **以太超星团**
+date: 2026-10-21T00:16:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,17 +19,17 @@ Discord: fYBf2GNU7y
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔺  (6)|
-| ELO Competitive | 1318 🔺  (13)|
-| Total Matches | 29 |
-| Wins | 20 |
+| ELO Regular | 1322 🔺  (6)|
+| ELO Competitive | 1327 🔺  (9)|
+| Total Matches | 30 |
+| Wins | 21 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 12 |
 | Flagship | 7 |
 
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791640572,1791614476,1791174919,1791171543,1790738805,1790653832,1790146018,1790085566,1789634231,1789611540,1789178310,1789178249,1788740884,1788739983,1788228598,1788228288,1787714797,1787705896,1787272744,1787265288,1786815768,1786812393,1719222813,1718108048,1716864960,1715602123,1714990700,1704676135,1704208829];
+        let timestamps = [1792109781,1791640572,1791614476,1791174919,1791171543,1790738805,1790653832,1790146018,1790085566,1789634231,1789611540,1789178310,1789178249,1788740884,1788739983,1788228598,1788228288,1787714797,1787705896,1787272744,1787265288,1786815768,1786812393,1719222813,1718108048,1716864960,1715602123,1714990700,1704676135,1704208829];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 2 | 0 | 0 | 2 |
 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) | 2 | 0 | 0 | 2 |
 | [GN星际联合](https://ws.tsl.rocks/corp/5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7/) | 2 | 0 | 0 | 2 |
 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) | 2 | 0 | 0 | 2 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/21 | 3-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ✅ | 2026/10/15 | 3-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ✅ | 2026/10/15 | 3-0 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
 | ✅ | 2026/10/10 | 13-1 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
@@ -183,5 +185,5 @@ Corporation ID: 72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792072572"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792541781"></span>
 </div>

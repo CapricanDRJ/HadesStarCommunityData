@@ -1,6 +1,6 @@
 ---
 title: ​Crux Cadre
-description: W:81 L:75 D:4 Bonus ✅ 52%
+description: W:81 L:75 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 51 - 0 **Ark**
 date: 2026-10-13T23:47:59.000Z
@@ -18,7 +18,7 @@ e run with us! Say hi on Discord!
 <br>
 
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

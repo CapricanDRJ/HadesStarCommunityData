@@ -1,9 +1,9 @@
 ---
 title: ​神圣群星帝国
-description: W:2 L:13 D:1 Bonus ❌ 4%
+description: W:2 L:14 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **ༀᅗBAR ESTELARᅗༀ**
-date: 2026-10-14T16:27:35.000Z
+Summary: ❌ 0 - 2 **The Bois**
+date: 2026-10-20T23:49:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-14T16:27:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1091 🔻  (-6)|
-| ELO Competitive | 1152 🔻  (-5)|
-| Total Matches | 16 |
+| ELO Regular | 1080 🔻  (-11)|
+| ELO Competitive | 1139 🔻  (-13)|
+| Total Matches | 17 |
 | Wins | 2 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791563255,1779351101,1778470175,1777183357,1774842958,1752814472,1752256308,1750985491,1746249739,1743531070,1743508224,1743084154,1743075437,1742621938,1742608416,1742123973];
+        let timestamps = [1792108168,1791563255,1779351101,1778470175,1777183357,1774842958,1752814472,1752256308,1750985491,1746249739,1743531070,1743508224,1743084154,1743075437,1742621938,1742608416,1742123973];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/20 | 0-2 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/10/14 | 0-14 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2026/05/26 | 0-14 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ❌ | 2026/05/16 | 0-13 | [Wolf Hunters](https://ws.tsl.rocks/corp/a760896a66a9a99c4645eda30f3f5ac5da834e6b5a6c61da7866cf789ef6ec50/) |
@@ -162,5 +163,5 @@ Corporation ID: 055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791995255"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792540168"></span>
 </div>
