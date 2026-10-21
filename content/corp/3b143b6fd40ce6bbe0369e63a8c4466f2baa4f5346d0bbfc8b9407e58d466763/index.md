@@ -1,9 +1,9 @@
 ---
 title: ​九州·养老
-description: W:25 L:33 D:2 Bonus ✅ 40%
+description: W:25 L:34 D:2 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ❌ 6 - 28 **Ainz ooal gown**
-date: 2026-10-17T15:33:22.000Z
+Summary: ❌ 0 - 9 **九州分团**
+date: 2026-10-21T19:36:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-17T15:33:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (-5)|
-| ELO Competitive | 1471 🔺  (22)|
-| Total Matches | 60 |
+| ELO Regular | 1184 🔻  (-7)|
+| ELO Competitive | 1469 🔻  (-3)|
+| Total Matches | 61 |
 | Wins | 25 |
-| Losses | 33 |
+| Losses | 34 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791819202,1791742005,1791276641,1791238833,1790766047,1790752355,1790333105,1790295552,1789861880,1789845056,1789405766,1789401560,1788968920,1788941880,1788448835,1788438917,1787994340,1787990134,1787552390,1787541658,1787106850,1787070792,1786624772,1786624604,1786189568,1786126777,1785744035,1785581785,1785287969,1785142249,1784823508,1784708145,1784288920,1784266792,1783834475,1783822760,1783389552,1783382944,1782916070,1782895942,1782478347,1782429876,1782037263,1781866595,1781543924,1781407499,1781100480,1780968895,1780667273,1780490333,1780168890,1780031890,1779712498,1779581550,1779252481,1779117899,1778808127,1778638769,1778337056,1777890589];
+        let timestamps = [1792179378,1791819202,1791742005,1791276641,1791238833,1790766047,1790752355,1790333105,1790295552,1789861880,1789845056,1789405766,1789401560,1788968920,1788941880,1788448835,1788438917,1787994340,1787990134,1787552390,1787541658,1787106850,1787070792,1786624772,1786624604,1786189568,1786126777,1785744035,1785581785,1785287969,1785142249,1784823508,1784708145,1784288920,1784266792,1783834475,1783822760,1783389552,1783382944,1782916070,1782895942,1782478347,1782429876,1782037263,1781866595,1781543924,1781407499,1781100480,1780968895,1780667273,1780490333,1780168890,1780031890,1779712498,1779581550,1779252481,1779117899,1778808127,1778638769,1778337056,1777890589];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 0 | 2 | 0 | 2 |
 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) | 0 | 2 | 0 | 2 |
 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 2 | 3 | 0 | 5 |
 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/21 | 0-9 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2026/10/17 | 6-28 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ✅ | 2026/10/16 | 4-0 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ❌ | 2026/10/11 | 4-10 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
@@ -211,5 +213,5 @@ Corporation ID: 3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792251202"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792611378"></span>
 </div>

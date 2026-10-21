@@ -1,9 +1,9 @@
 ---
 title: ​NoweUkladyII
-description: W:28 L:0 D:0 Bonus ✅ 38%
+description: W:29 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 26 - 0 **Dark Monarchs**
-date: 2026-10-16T20:52:00.000Z
+Summary: ✅ 35 - 3 **ༀᅗBAR ESTELARᅗༀ**
+date: 2026-10-21T21:21:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ godę, jak również chętnych na regularne zabawy na WS.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1502 🔺  (6)|
-| ELO Competitive | 1608 🔺  (12)|
-| Total Matches | 28 |
-| Wins | 28 |
+| ELO Regular | 1511 🔺  (9)|
+| ELO Competitive | 1616 🔺  (8)|
+| Total Matches | 29 |
+| Wins | 29 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 28 |
-| Streak Record | 28 |
+| Streak | 29 |
+| Streak Record | 29 |
 | Flagship | 6 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791751920,1781193838,1780600416,1780015670,1779543067,1778858298,1778254416,1777613894,1776267618,1775831986,1775290581,1774534669,1774015070,1773578061,1773143032,1723422877,1722521644,1721903170,1720903643,1719885428,1719340314,1718795480,1717958998,1717443193,1717003502,1716553331,1716104587,1715636381];
+        let timestamps = [1792185686,1791751920,1781193838,1780600416,1780015670,1779543067,1778858298,1778254416,1777613894,1776267618,1775831986,1775290581,1774534669,1774015070,1773578061,1773143032,1723422877,1722521644,1721903170,1720903643,1719885428,1719340314,1718795480,1717958998,1717443193,1717003502,1716553331,1716104587,1715636381];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -131,12 +131,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/21 | 35-3 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/10/16 | 26-0 | [Dark Monarchs](https://ws.tsl.rocks/corp/c23ec9ebc110eb3dd1c56d100e206f8e421ad61de0748f4c6229e6297d736b4c/) |
 | ✅ | 2026/06/16 | 30-3 | [47підрозділССП](https://ws.tsl.rocks/corp/a8788ba9570f69df1db51d6de5c4c27666546d220234006a48fb8997a05ae63d/) |
 | ✅ | 2026/06/09 | 25-0 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
@@ -172,5 +178,5 @@ Corporation ID: 9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792183920"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792617686"></span>
 </div>
