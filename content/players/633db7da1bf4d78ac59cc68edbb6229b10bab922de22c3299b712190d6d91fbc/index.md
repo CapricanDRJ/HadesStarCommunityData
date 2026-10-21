@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ЯвсеСлышу"
-description: "ws: 47 μ: 28.92"
+description: "ws: 48 μ: 28.92"
 ---
-- **WhiteStars**: 47
+- **WhiteStars**: 48
 - **Eligible**: 40
 - **Rating**: 6.69
 - **μ**: 28.92  
 - **σ**: 7.41
-- W: 40, L: 6, T: 1
+- W: 41, L: 6, T: 1
 
 ---
 
@@ -25,6 +25,7 @@ description: "ws: 47 μ: 28.92"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-21 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 30-0 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | 2026-10-15 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 29-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | 2026-10-10 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 28-2 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | 2026-10-04 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 22-4 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Данил"
-description: "ws: 1 μ: 24.10"
+description: "ws: 2 μ: 24.10"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: -0.79
 - **μ**: 24.10  
 - **σ**: 8.30
-- W: 0, L: 1, T: 0
+- W: 0, L: 2, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 24.10"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-21 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 0-30 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-10-20 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 3-9 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |

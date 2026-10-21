@@ -1,6 +1,6 @@
 ---
 title: ​*Alfa y Omega*
-description: W:57 L:45 D:2 Bonus ✅ 40%
+description: W:57 L:45 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **Space Pirates**
 date: 2026-10-14T07:01:51.000Z
@@ -18,7 +18,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

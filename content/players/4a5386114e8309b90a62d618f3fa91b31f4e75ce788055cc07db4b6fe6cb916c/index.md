@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Bratok"
-description: "ws: 38 μ: 25.77"
+description: "ws: 39 μ: 25.77"
 ---
-- **WhiteStars**: 38
+- **WhiteStars**: 39
 - **Eligible**: 31
 - **Rating**: 3.35
 - **μ**: 25.77  
 - **σ**: 7.47
-- W: 29, L: 8, T: 1
+- W: 30, L: 8, T: 1
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 38 μ: 25.77"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-21 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 30-0 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | 2026-10-15 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 29-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | 2026-09-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 8-8 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | 2026-09-24 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 25-14 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |

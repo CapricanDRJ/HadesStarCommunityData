@@ -1,9 +1,9 @@
 ---
 title: ​Keltiad
-description: W:0 L:0 D:1 Bonus ❌ 2%
+description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ↔️ 3 - 3 **ParalleL**
-date: 2026-10-15T15:29:28.000Z
+Summary: ❌ 1 - 9 **CubeTech**
+date: 2026-10-21T08:49:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-15T15:29:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (-4)|
-| ELO Competitive | 1203 🔺  (3)|
-| Total Matches | 1 |
+| ELO Regular | 1181 🔻  (-16)|
+| ELO Competitive | 1193 🔻  (-10)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791646168];
+        let timestamps = [1792140593,1791646168];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/21 | 1-9 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
 | ↔️ | 2026/10/15 | 3-3 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 65e85bf371d3816b9fde6543ff13b0911ac57ac916e3a589dbce3b1a95b40618
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792078168"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792572593"></span>
 </div>
