@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:63 L:32 D:3 Bonus ✅ 46%
+description: W:63 L:32 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 26 - 1 **Spacekill**
 date: 2026-10-14T01:16:28.000Z
@@ -17,7 +17,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

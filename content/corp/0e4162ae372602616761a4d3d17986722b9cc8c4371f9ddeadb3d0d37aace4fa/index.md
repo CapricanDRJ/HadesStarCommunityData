@@ -1,9 +1,9 @@
 ---
 title: ​Grater U
-description: W:3 L:11 D:3 Bonus ✅ 30%
+description: W:3 L:12 D:3 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **NEW HOLLAND**
-date: 2026-10-15T15:00:28.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-10-21T03:24:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔺  (15)|
-| ELO Competitive | 1161 🔺  (14)|
-| Total Matches | 17 |
+| ELO Regular | 1119 🔻  (-1)|
+| ELO Competitive | 1161 🔻  (0)|
+| Total Matches | 18 |
 | Wins | 3 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 3 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791644428,1790738805,1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
+        let timestamps = [1792121097,1791644428,1790738805,1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,15 +133,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 3 | 0 | 3 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) | 0 | 2 | 0 | 2 |
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 0 | 1 | 1 | 2 |
-| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/21 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2026/10/15 | 3-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ❌ | 2026/10/05 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ❌ | 2026/09/27 | 0-13 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
@@ -166,5 +167,5 @@ Corporation ID: 0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792076428"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792553097"></span>
 </div>

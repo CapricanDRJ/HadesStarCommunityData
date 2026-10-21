@@ -1,6 +1,6 @@
 ---
 title: ​RGW
-description: W:61 L:59 D:2 Bonus ✅ 44%
+description: W:61 L:59 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ↔️ 9 - 9 **2ND\-R8 Corp\.**
 date: 2026-10-20T21:19:31.000Z
@@ -15,7 +15,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

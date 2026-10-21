@@ -1,9 +1,9 @@
 ---
 title: ​Rabid Butterfly
-description: W:2 L:1 D:0 Bonus ✅ 36%
+description: W:3 L:1 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 0 **11th Engineers**
-date: 2026-10-16T00:30:15.000Z
+Summary: ✅ 14 - 3 **新?的星际集团?**
+date: 2026-10-21T03:39:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-16T00:30:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (1)|
-| ELO Competitive | 1226 🔺  (7)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1225 🔺  (17)|
+| ELO Competitive | 1252 🔺  (27)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791678615,1791245741,1790774098];
+        let timestamps = [1792121997,1791678615,1791245741,1790774098];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/21 | 14-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2026/10/16 | 17-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2026/10/11 | 14-1 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2026/10/05 | 3-5 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
@@ -146,5 +147,5 @@ Corporation ID: a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792110615"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792553997"></span>
 </div>
