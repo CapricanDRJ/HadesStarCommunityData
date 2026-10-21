@@ -1,9 +1,9 @@
 ---
 title: ​РУССКИЕ ИДУТ
-description: W:7 L:9 D:0 Bonus ❌ 6%
+description: W:8 L:9 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 12 - 14 **GalaxyNova**
-date: 2026-10-07T18:04:28.000Z
+Summary: ✅ 16 - 4 **Lost Legion**
+date: 2026-10-21T05:25:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-07T18:04:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (-10)|
-| ELO Competitive | 1305 🔻  (-10)|
-| Total Matches | 16 |
-| Wins | 7 |
+| ELO Regular | 1213 🔺  (11)|
+| ELO Competitive | 1322 🔺  (17)|
+| Total Matches | 17 |
+| Wins | 8 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790964268,1789694143,1789194551,1788725260,1788271936,1786707826,1786272194,1785777331,1785327923,1784874574,1784437748,1783969071,1783526541,1783087911,1782651694,1779003634];
+        let timestamps = [1792128305,1790964268,1789694143,1789194551,1788725260,1788271936,1786707826,1786272194,1785777331,1785327923,1784874574,1784437748,1783969071,1783526541,1783087911,1782651694,1779003634];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/21 | 16-4 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2026/10/07 | 12-14 | [GalaxyNova](https://ws.tsl.rocks/corp/d3df4ca63632d4113f93581cd3629f93a8b06733db25c5ea94da3e7889cd8b94/) |
 | ✅ | 2026/09/23 | 13-3 | [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) |
 | ❌ | 2026/09/17 | 3-42 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) |
@@ -163,5 +164,5 @@ Corporation ID: 89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791396268"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792560305"></span>
 </div>
