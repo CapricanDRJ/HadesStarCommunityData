@@ -1,6 +1,6 @@
 ---
 title: ​13th Legion
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
 Summary: ❌ 3 - 5 **Slovensko\-Activ**
 date: 2025-12-08T23:40:29.000Z
@@ -15,7 +15,7 @@ date: 2025-12-08T23:40:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
