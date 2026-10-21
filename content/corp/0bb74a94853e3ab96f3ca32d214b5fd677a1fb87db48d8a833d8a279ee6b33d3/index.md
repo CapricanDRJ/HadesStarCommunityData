@@ -1,9 +1,9 @@
 ---
 title: ​星际联邦
-description: W:29 L:10 D:1 Bonus ✅ 38%
+description: W:30 L:10 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 9 - 3 **龙的传人**
-date: 2026-10-15T12:39:10.000Z
+Summary: ✅ 21 - 0 **КОРПОРАЦИЯ ЗЛА**
+date: 2026-10-21T12:00:34.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-15T12:39:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1377 🔺  (10)|
-| ELO Competitive | 1459 🔺  (17)|
-| Total Matches | 40 |
-| Wins | 29 |
+| ELO Regular | 1377 🔺  (1)|
+| ELO Competitive | 1462 🔺  (3)|
+| Total Matches | 41 |
+| Wins | 30 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791635950,1790848002,1790262508,1789559087,1789043128,1788349389,1787752786,1787155367,1786624604,1786092530,1783954048,1783561996,1783422592,1782988995,1782440773,1781847971,1781152755,1781103485,1780671218,1780053872,1779279085,1778758853,1778280943,1778275755,1777619302,1777587461,1777043640,1776340620,1775851967,1775226286,1775221478,1774608083,1774013695,1773476209,1771861102,1771425174,1770906312,1770370626,1769887506,1769415157];
+        let timestamps = [1792152034,1791635950,1790848002,1790262508,1789559087,1789043128,1788349389,1787752786,1787155367,1786624604,1786092530,1783954048,1783561996,1783422592,1782988995,1782440773,1781847971,1781152755,1781103485,1780671218,1780053872,1779279085,1778758853,1778280943,1778275755,1777619302,1777587461,1777043640,1776340620,1775851967,1775226286,1775221478,1774608083,1774013695,1773476209,1771861102,1771425174,1770906312,1770370626,1769887506,1769415157];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,7 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 2 | 0 | 0 | 2 |
+| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 3 | 0 | 0 | 3 |
 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) | 2 | 0 | 0 | 2 |
 | [Экватор](https://ws.tsl.rocks/corp/53fa2893f5be7a758b9acc7250a6d1fc6becb145e24287ab980c841f61b0312d/) | 2 | 0 | 0 | 2 |
 | [萌新集团](https://ws.tsl.rocks/corp/ce01702934684c7c912cca080e785332f51d3f626308b9fb6cb6ed48aa7f042c/) | 2 | 0 | 0 | 2 |
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/21 | 21-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2026/10/15 | 9-3 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 | ✅ | 2026/10/06 | 20-1 | [࿇ÐɑʀҟƑîʀɛ༒🍁](https://ws.tsl.rocks/corp/51e15fbc5cac63db4605c53b829e428f5ca107bf2e06f1208beaeab3b84102b4/) |
 | ✅ | 2026/09/29 | 14-2 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
@@ -192,5 +193,5 @@ Corporation ID: 0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792067950"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792584034"></span>
 </div>
