@@ -1,6 +1,6 @@
 ---
 title: ​碧霄殿
-description: W:39 L:119 D:1 Bonus ✅ 42%
+description: W:39 L:119 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ❌ 2 - 10 **Terran empire**
 date: 2026-10-21T02:04:51.000Z
@@ -25,7 +25,7 @@ date: 2026-10-21T02:04:51.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
