@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人
-description: W:39 L:47 D:3 Bonus ✅ 44%
+description: W:39 L:47 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 9 **星际联邦**
 date: 2026-10-15T12:39:10.000Z
@@ -15,7 +15,7 @@ date: 2026-10-15T12:39:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

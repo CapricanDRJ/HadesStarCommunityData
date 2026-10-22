@@ -1,9 +1,9 @@
 ---
 title: ​无人深空
-description: W:23 L:11 D:2 Bonus ✅ 38%
+description: W:24 L:11 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **ParalleL**
-date: 2026-10-22T05:42:02.000Z
+Summary: ✅ 20 - 0 **Corp\. Luminá**
+date: 2026-10-22T12:27:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-10-22T05:42:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔺  (8)|
-| ELO Competitive | 1418 🔺  (11)|
-| Total Matches | 36 |
-| Wins | 23 |
+| ELO Regular | 1324 🔺  (17)|
+| ELO Competitive | 1429 🔺  (21)|
+| Total Matches | 37 |
+| Wins | 24 |
 | Losses | 11 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792215722,1791722173,1791711657,1791241536,1791204283,1790769891,1790769891,1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
+        let timestamps = [1792240057,1792215722,1791722173,1791711657,1791241536,1791204283,1790769891,1790769891,1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/22 | 20-0 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2026/10/22 | 3-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/10/16 | 0-15 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ✅ | 2026/10/16 | 9-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
@@ -186,5 +188,5 @@ Corporation ID: 932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792647722"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792672057"></span>
 </div>

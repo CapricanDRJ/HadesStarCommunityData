@@ -1,6 +1,6 @@
 ---
 title: ​甜甜圈
-description: W:9 L:6 D:0 Bonus ✅ 34%
+description: W:9 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 3 - 7 **宇宙聯盟**
 date: 2026-10-20T12:53:44.000Z
@@ -15,7 +15,7 @@ date: 2026-10-20T12:53:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
