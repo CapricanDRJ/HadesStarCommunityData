@@ -1,9 +1,9 @@
 ---
 title: ​Star Field
-description: W:7 L:8 D:2 Bonus ❌ 6%
+description: W:7 L:8 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 15 **聚集地**
-date: 2026-10-05T14:24:56.000Z
+Summary: ↔️ 0 - 0 **Magyar Vándor**
+date: 2026-10-22T04:10:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ Star Field-星域
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (-14)|
-| ELO Competitive | 1237 🔻  (-16)|
-| Total Matches | 17 |
+| ELO Regular | 1194 🔻  (-1)|
+| ELO Competitive | 1235 🔻  (-2)|
+| Total Matches | 18 |
 | Wins | 7 |
 | Losses | 8 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790778296,1789795595,1789306006,1788733374,1788262621,1786883914,1786291877,1785838674,1751058394,1720982692,1714509567,1714439558,1714043539,1713436343,1712702888,1711922842,1711453485];
+        let timestamps = [1792210233,1790778296,1789795595,1789306006,1788733374,1788262621,1786883914,1786291877,1785838674,1751058394,1720982692,1714509567,1714439558,1714043539,1713436343,1712702888,1711922842,1711453485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/22 | 0-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ❌ | 2026/10/05 | 0-15 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ↔️ | 2026/09/24 | 0-0 | [新手村](https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/) |
 | ↔️ | 2026/09/18 | 0-0 | [老哥最强集团](https://ws.tsl.rocks/corp/fe5c86f6244ba283f6eda53890266425eaac76718f542806046dfea045db20e9/) |
@@ -165,5 +166,5 @@ Corporation ID: 7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791210296"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792642233"></span>
 </div>
