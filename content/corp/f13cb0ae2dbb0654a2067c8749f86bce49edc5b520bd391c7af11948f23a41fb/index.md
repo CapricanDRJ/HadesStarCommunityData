@@ -1,6 +1,6 @@
 ---
 title: ​The X - Files
-description: W:28 L:129 D:0 Bonus ✅ 44%
+description: W:28 L:129 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 22 - 8 **繁星一夢**
 date: 2026-10-14T22:03:05.000Z
@@ -17,7 +17,7 @@ date: 2026-10-14T22:03:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

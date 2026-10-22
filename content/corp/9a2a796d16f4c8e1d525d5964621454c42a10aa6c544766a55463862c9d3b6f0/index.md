@@ -1,6 +1,6 @@
 ---
 title: ​Cool Casual
-description: W:42 L:24 D:3 Bonus ✅ 38%
+description: W:42 L:24 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **Страж Галактики**
 date: 2026-10-15T00:28:59.000Z
@@ -15,7 +15,7 @@ date: 2026-10-15T00:28:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
