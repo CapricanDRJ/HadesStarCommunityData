@@ -1,6 +1,6 @@
 ---
 title: ​Nine's Own Goal
-description: W:57 L:52 D:2 Bonus ✅ 48%
+description: W:57 L:52 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 34 - 0 **Тихий Омут**
 date: 2026-10-15T13:15:48.000Z
@@ -17,7 +17,7 @@ on events. No alts.
 <br>
 
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

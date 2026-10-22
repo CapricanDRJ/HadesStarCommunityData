@@ -1,6 +1,6 @@
 ---
 title: ​Grater U
-description: W:3 L:12 D:3 Bonus ✅ 30%
+description: W:3 L:12 D:3 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 0 - 18 **仙女座星雲**
 date: 2026-10-21T03:24:57.000Z
@@ -16,7 +16,7 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
