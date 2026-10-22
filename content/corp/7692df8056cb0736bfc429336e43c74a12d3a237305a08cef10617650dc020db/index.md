@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:40 L:316 D:0 Bonus ✅ 52%
+description: W:40 L:316 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 46 **White Dwarf**
 date: 2026-10-22T10:37:26.000Z
@@ -18,7 +18,7 @@ date: 2026-10-22T10:37:26.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

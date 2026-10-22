@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Galaxy
-description: W:5 L:5 D:1 Bonus ✅ 32%
+description: W:5 L:5 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 4 - 1 **ParalleL**
 date: 2026-10-15T16:04:32.000Z
@@ -15,7 +15,7 @@ date: 2026-10-15T16:04:32.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
