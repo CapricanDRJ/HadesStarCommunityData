@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-22T21:55:41.108Z
+date: 2026-10-23T00:55:41.820Z
 summary: "Corporation directory"
 ---
 
@@ -18,7 +18,7 @@ summary: "Corporation directory"
 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) | 1388 | 1583 | 66 |
 | [Aggronauten](https://ws.tsl.rocks/corp/3bc8488b4cde8d611cbc48bac64a708c40e9954bc2c221dddafb0240b734c679/) | 1157 | 1162 | 4 |
 | [Ahamkara](https://ws.tsl.rocks/corp/33ddc1c3cba50fc92a3d29f65101d92d6967303e9c9acf6ff07064801bbecab8/) | 1170 | 1177 | 2 |
-| [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) | 1470 | 1569 | 43 |
+| [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) | 1480 | 1577 | 44 |
 | [Air/Free\_ziyou](https://ws.tsl.rocks/corp/97e261fb0c1a22ab5190f97566b57c72921c78dfc9021709ee50d11ac5e1955b/) | 1256 | 1285 | 13 |
 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) | 996 | 1141 | 51 |
 | [Akatsuki](https://ws.tsl.rocks/corp/0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939/) | 1205 | 1210 | 2 |
@@ -109,7 +109,7 @@ summary: "Corporation directory"
 | [best room okay](https://ws.tsl.rocks/corp/f648d390410578a444a73777a2f9430de5657ea81f53f0b16b80e0b6649993ae/) | 1192 | 1195 | 1 |
 | [best room okay](https://ws.tsl.rocks/corp/bd929a728957a271e2293e47c8f5eff42310e6d6f62e2832dedea75bcae5fd0f/) | 1192 | 1195 | 1 |
 | [best room ok😔](https://ws.tsl.rocks/corp/62c154cf98e0c6ac45dff2bb8fce43580e81da8a776db6d4deb7fd3dfbf2b431/) | 1168 | 1171 | 2 |
-| [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) | 1332 | 1387 | 25 |
+| [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) | 1322 | 1380 | 26 |
 | [Betelgeuse](https://ws.tsl.rocks/corp/fdd9da8c45ea525e6dd825eede02253ebe322523e06a0e1c30ccb0401c60e081/) | 1171 | 1173 | 3 |
 | [Bey○nd](https://ws.tsl.rocks/corp/cdf595b5b26005e90eabaf16deb2b99a460c6ae1dcdadfd7e275352456bc440f/) | 1135 | 1173 | 6 |
 | [BhatiKreez Corp](https://ws.tsl.rocks/corp/ecfcdcd32ccc2afceb7fd0c542b6d5c0c104abbc044e556cce1bd97900a9f4e9/) | 1180 | 1185 | 2 |

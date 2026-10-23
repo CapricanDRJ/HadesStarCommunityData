@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Solar Union"
-description: "ws: 6 μ: 26.32"
+description: "ws: 7 μ: 26.20"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 2
-- **Rating**: 1.54
-- **μ**: 26.32  
-- **σ**: 8.26
-- W: 3, L: 3, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 3
+- **Rating**: 1.53
+- **μ**: 26.20  
+- **σ**: 8.22
+- W: 4, L: 3, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 6 μ: 26.32"
 | Corporation | WhiteStars |
 | --- | --- |
 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 2 |
+| [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 6 μ: 26.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-22 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 15-12 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-04-19 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 0-39 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-03-22 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 0-16 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2025-08-16 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 0-46 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

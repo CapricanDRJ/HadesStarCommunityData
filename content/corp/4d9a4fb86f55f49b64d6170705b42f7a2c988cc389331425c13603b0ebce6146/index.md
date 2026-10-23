@@ -1,9 +1,9 @@
 ---
 title: ​Best UA West
-description: W:18 L:7 D:0 Bonus ❌ 8%
+description: W:18 L:8 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 14 - 26 **CERBERUS SYSTEM**
-date: 2026-09-02T12:43:53.000Z
+Summary: ❌ 0 - 26 **Ainz ooal gown**
+date: 2026-10-23T00:38:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Discord https://discord.gg/mXaAX7Caga
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔻  (-18)|
-| ELO Competitive | 1387 🔻  (-9)|
-| Total Matches | 25 |
+| ELO Regular | 1322 🔻  (-9)|
+| ELO Competitive | 1380 🔻  (-8)|
+| Total Matches | 26 |
 | Wins | 18 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 11 |
 | Flagship | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787921033,1786172732,1784010316,1783326754,1782282050,1780756018,1779538126,1778077152,1776320193,1773585369,1772372455,1770976315,1768724089,1762980165,1761927490,1760791939,1759820837,1755019485,1746519809,1744540206,1743064318,1701611417,1701057823,1699820701,1698912184];
+        let timestamps = [1792283919,1787921033,1786172732,1784010316,1783326754,1782282050,1780756018,1779538126,1778077152,1776320193,1773585369,1772372455,1770976315,1768724089,1762980165,1761927490,1760791939,1759820837,1755019485,1746519809,1744540206,1743064318,1701611417,1701057823,1699820701,1698912184];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/23 | 0-26 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ❌ | 2026/09/02 | 14-26 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
 | ✅ | 2026/08/13 | 29-0 | [Sky](https://ws.tsl.rocks/corp/9285f76649b8d3ca4faf9a9991522efc7f51d7545a60bc8d12a65e23d548a6f1/) |
 | ✅ | 2026/07/19 | 12-5 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -167,5 +168,5 @@ Corporation ID: 4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788353033"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792715919"></span>
 </div>
