@@ -1,6 +1,6 @@
 ---
 title: ​Mantle
-description: W:13 L:3 D:0 Bonus ✅ 34%
+description: W:13 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 18 - 1 **Quantum Mass**
 date: 2026-10-16T15:31:31.000Z
@@ -15,7 +15,7 @@ date: 2026-10-16T15:31:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

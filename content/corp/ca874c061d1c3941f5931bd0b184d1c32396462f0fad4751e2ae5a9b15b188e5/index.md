@@ -1,6 +1,6 @@
 ---
 title: ​Knights of Solo
-description: W:9 L:9 D:2 Bonus ✅ 32%
+description: W:9 L:9 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **NERF TOY'S**
 date: 2026-10-16T14:51:27.000Z
@@ -15,7 +15,7 @@ date: 2026-10-16T14:51:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​星域
-description: W:78 L:78 D:2 Bonus ✅ 50%
+description: W:78 L:78 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 3 - 11 **ParalleL**
 date: 2026-10-22T05:12:00.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
