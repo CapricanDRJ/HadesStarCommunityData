@@ -1,6 +1,6 @@
 ---
 title: ​Октябристы
-description: W:98 L:124 D:3 Bonus ✅ 48%
+description: W:98 L:124 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **Серебряная орда**
 date: 2026-10-16T20:42:57.000Z
@@ -17,7 +17,7 @@ date: 2026-10-16T20:42:57.000Z
 <br>
 
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
