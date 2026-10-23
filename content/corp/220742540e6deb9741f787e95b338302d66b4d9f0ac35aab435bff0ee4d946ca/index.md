@@ -1,9 +1,9 @@
 ---
 title: ​HerronCorp
-description: W:0 L:1 D:0 Bonus ❌ 0%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 8 **koalition**
-date: 2024-06-14T10:38:57.000Z
+Summary: ❌ 0 - 18 **REAPERS**
+date: 2026-10-23T07:10:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ a corporation
 ```
 <br>
 
-### Whitestar Bonus ❌ 0%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-15)|
-| ELO Competitive | 1185 🔻  (-15)|
-| Total Matches | 1 |
+| ELO Regular | 1179 🔻  (-5)|
+| ELO Competitive | 1182 🔻  (-3)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1717929537];
+        let timestamps = [1792307418,1717929537];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/23 | 0-18 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ❌ | 2024/06/14 | 0-8 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 220742540e6deb9741f787e95b338302d66b4d9f0ac35aab435bff0ee4d946ca
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1718361537"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792739418"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:65 L:21 D:1 Bonus ✅ 44%
+description: W:65 L:21 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 13 - 7 **Red Star**
 date: 2026-10-16T09:20:55.000Z
@@ -16,7 +16,7 @@ date: 2026-10-16T09:20:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
