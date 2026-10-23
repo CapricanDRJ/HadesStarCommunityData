@@ -1,6 +1,6 @@
 ---
 title: ​九州·养老
-description: W:25 L:34 D:2 Bonus ✅ 40%
+description: W:25 L:34 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **九州分团**
 date: 2026-10-21T19:36:18.000Z
@@ -15,7 +15,7 @@ date: 2026-10-21T19:36:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
