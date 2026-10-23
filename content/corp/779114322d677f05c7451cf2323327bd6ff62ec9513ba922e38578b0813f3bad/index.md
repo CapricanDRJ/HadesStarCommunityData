@@ -1,6 +1,6 @@
 ---
 title: ​Red Star
-description: W:84 L:121 D:4 Bonus ✅ 46%
+description: W:84 L:121 D:4 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ↔️ 7 - 7 **Kelebra**
 date: 2026-10-21T23:31:34.000Z
@@ -15,7 +15,7 @@ date: 2026-10-21T23:31:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

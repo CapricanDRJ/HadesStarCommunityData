@@ -1,9 +1,9 @@
 ---
 title: ​GN星际联合
-description: W:6 L:12 D:3 Bonus ❌ 6%
+description: W:6 L:13 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-10-10T03:39:03.000Z
+Summary: ❌ 0 - 3 **Quantum Mass**
+date: 2026-10-23T10:29:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-10T03:39:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (-10)|
-| ELO Competitive | 1156 🔻  (-10)|
-| Total Matches | 21 |
+| ELO Regular | 1125 🔻  (-8)|
+| ELO Competitive | 1150 🔻  (-6)|
+| Total Matches | 22 |
 | Wins | 6 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791171543,1790387774,1789579395,1788477986,1787705896,1786293858,1785605220,1785167198,1785132433,1784712207,1747309507,1746000549,1744892085,1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
+        let timestamps = [1792319354,1791171543,1790387774,1789579395,1788477986,1787705896,1786293858,1785605220,1785167198,1785132433,1784712207,1747309507,1746000549,1744892085,1743593870,1741871553,1739451919,1738850918,1738302279,1737852629,1737383857,1736949605];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/23 | 0-3 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/10/10 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ❌ | 2026/10/01 | 0-6 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/09/21 | 0-3 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) |
@@ -169,5 +170,5 @@ Corporation ID: 5c5e3fb05b422a65fb5ccf8f812dfe45d596f644d8a79d01a5889c9d476f20a7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791603543"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792751354"></span>
 </div>
