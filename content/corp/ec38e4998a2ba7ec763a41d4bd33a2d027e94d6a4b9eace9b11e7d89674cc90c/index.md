@@ -1,9 +1,9 @@
 ---
 title: ​StarControl
-description: W:35 L:16 D:0 Bonus ❌ 16%
+description: W:36 L:16 D:0 Bonus ✅ 52%
 image: ./favicon.png
-Summary: ❌ 6 - 21 **IX Легион**
-date: 2026-08-29T07:29:56.000Z
+Summary: ✅ 9 - 3 **Stargate Corp**
+date: 2026-10-24T17:31:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ rs. Discord is required, please join us there before applying in game
 <br>
 
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ❌ 16%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1393 🔻  (-3)|
-| ELO Competitive | 1582 🔻  (-1)|
-| Total Matches | 51 |
-| Wins | 35 |
+| ELO Regular | 1414 🔺  (22)|
+| ELO Competitive | 1612 🔺  (29)|
+| Total Matches | 52 |
+| Wins | 36 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787556596,1783579417,1779821869,1778883540,1778439510,1749531955,1737560484,1736787625,1734374324,1733712683,1733166403,1731934963,1730905740,1730746485,1730037910,1729459157,1728937148,1728243786,1727684506,1727245479,1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
+        let timestamps = [1792431115,1787556596,1783579417,1779821869,1778883540,1778439510,1749531955,1737560484,1736787625,1734374324,1733712683,1733166403,1731934963,1730905740,1730746485,1730037910,1729459157,1728937148,1728243786,1727684506,1727245479,1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,10 +136,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 6 | 2 | 0 | 8 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 5 | 3 | 0 | 8 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 6 | 3 | 0 | 9 |
 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 1 | 3 | 0 | 4 |
-| [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 5 | 2 | 0 | 7 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 2 | 1 | 0 | 3 |
 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 2 | 1 | 0 | 3 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 2 | 0 | 0 | 2 |
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/24 | 9-3 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2026/08/29 | 6-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2026/07/14 | 14-2 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2026/05/31 | 23-7 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
@@ -208,5 +209,5 @@ Corporation ID: ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787988596"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792863115"></span>
 </div>
