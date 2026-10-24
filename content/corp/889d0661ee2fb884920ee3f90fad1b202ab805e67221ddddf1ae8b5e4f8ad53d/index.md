@@ -1,6 +1,6 @@
 ---
 title: ​红星私密之家
-description: W:2 L:2 D:0 Bonus ✅ 28%
+description: W:2 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **苏维埃联邦**
 date: 2026-10-17T20:39:17.000Z
@@ -15,7 +15,7 @@ date: 2026-10-17T20:39:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

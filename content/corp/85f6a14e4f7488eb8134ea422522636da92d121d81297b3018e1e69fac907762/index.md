@@ -1,6 +1,6 @@
 ---
 title: ​OrderofTheGeon
-description: W:85 L:79 D:7 Bonus ✅ 44%
+description: W:85 L:79 D:7 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 6 - 1 **STAR TERROR CZ**
 date: 2026-10-17T20:02:21.000Z
@@ -16,7 +16,7 @@ rd.
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

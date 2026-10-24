@@ -1,6 +1,6 @@
 ---
 title: ​Закулисье
-description: W:12 L:3 D:0 Bonus ✅ 32%
+description: W:12 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **Bacon Warriors**
 date: 2026-10-17T20:48:52.000Z
@@ -15,7 +15,7 @@ date: 2026-10-17T20:48:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
