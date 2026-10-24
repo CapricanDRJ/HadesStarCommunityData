@@ -1,6 +1,6 @@
 ---
 title: ​Новички
-description: W:13 L:10 D:0 Bonus ✅ 32%
+description: W:13 L:10 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 4 - 2 **Эдем**
 date: 2026-10-17T08:18:21.000Z
@@ -15,7 +15,7 @@ date: 2026-10-17T08:18:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

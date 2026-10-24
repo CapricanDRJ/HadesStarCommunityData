@@ -1,6 +1,6 @@
 ---
 title: ​Highlife
-description: W:60 L:169 D:3 Bonus ✅ 48%
+description: W:60 L:169 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 34 **9\-Й СКОРПИОН**
 date: 2026-10-23T17:50:04.000Z
@@ -18,7 +18,7 @@ Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich
 <br>
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

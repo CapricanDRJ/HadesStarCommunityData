@@ -1,9 +1,9 @@
 ---
 title: ​Тишина
-description: W:5 L:17 D:0 Bonus ❌ 6%
+description: W:5 L:18 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 15 - 6 **太空的猫**
-date: 2026-10-09T03:22:08.000Z
+Summary: ❌ 3 - 24 **Austria**
+date: 2026-10-24T07:41:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-09T03:22:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔺  (19)|
-| ELO Competitive | 1223 🔺  (22)|
-| Total Matches | 22 |
+| ELO Regular | 1129 🔻  (-6)|
+| ELO Competitive | 1221 🔻  (-3)|
+| Total Matches | 23 |
 | Wins | 5 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791084128,1789921247,1788672969,1787531663,1786636623,1785872326,1784980920,1784094646,1783442124,1782930493,1782041169,1771989745,1768402000,1767888817,1767448362,1766872421,1764300139,1763783672,1763128092,1761883623,1760381827,1759840366];
+        let timestamps = [1792395664,1791084128,1789921247,1788672969,1787531663,1786636623,1785872326,1784980920,1784094646,1783442124,1782930493,1782041169,1771989745,1768402000,1767888817,1767448362,1766872421,1764300139,1763783672,1763128092,1761883623,1760381827,1759840366];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/24 | 3-24 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | ✅ | 2026/10/09 | 15-6 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
 | ❌ | 2026/09/25 | 3-31 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2026/09/11 | 15-5 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) |
@@ -164,5 +165,5 @@ Corporation ID: c01132c3ce96835d1c14e411dc68417ed6fc0536d57de0f9e2a4ce86f1a739ca
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791516128"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792827664"></span>
 </div>
