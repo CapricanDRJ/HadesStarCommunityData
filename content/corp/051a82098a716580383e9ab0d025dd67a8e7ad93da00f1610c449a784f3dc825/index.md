@@ -1,6 +1,6 @@
 ---
 title: ​RELAX CZ/SK
-description: W:155 L:145 D:1 Bonus ✅ 52%
+description: W:155 L:145 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 2 - 27 **IX Легион**
 date: 2026-10-17T06:32:38.000Z
@@ -17,7 +17,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 <br>
 
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -204555,4 +204555,12 @@
 {"serverId":"5778cd24fc1606aa","user1":"6bbb54c7dd99ae53","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1792807508,"queue":1},
 {"serverId":"ff3b36757ea8b5e6","user1":"23dd952c9c45a7ac","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1792812838,"queue":1},
 {"serverId":"ff3b36757ea8b5e6","user1":"23dd952c9c45a7ac","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1792812871,"queue":0},
-{"serverId":"ff3b36757ea8b5e6","user1":"23dd952c9c45a7ac","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1792812885,"queue":1}]
+{"serverId":"ff3b36757ea8b5e6","user1":"23dd952c9c45a7ac","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1792812885,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"60b3332ac0469cfc","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1792815056,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"60b3332ac0469cfc","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1792815096,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"7972e161a12ad05d","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1792817594,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"abb0a1cd4ad37243","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1792817832,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"60b3332ac0469cfc","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1792817842,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"7972e161a12ad05d","user2":"abb0a1cd4ad37243","user3":"60b3332ac0469cfc","user4":"","rsType":10.5,"timeStamp":1792817842,"queue":0},
+{"serverId":"5778cd24fc1606aa","user1":"3125cd176d1a5c91","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1792822817,"queue":1},
+{"serverId":"5778cd24fc1606aa","user1":"d67ce4a365efc20b","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1792824409,"queue":1}]
