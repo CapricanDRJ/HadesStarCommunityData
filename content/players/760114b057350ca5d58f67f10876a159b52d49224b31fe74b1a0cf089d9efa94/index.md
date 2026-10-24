@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "kayou"
-description: "ws: 13 μ: 25.74"
+description: "ws: 14 μ: 26.34"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 12
-- **Rating**: 1.95
-- **μ**: 25.74  
-- **σ**: 7.93
-- W: 7, L: 6, T: 0
+- **WhiteStars**: 14
+- **Eligible**: 13
+- **Rating**: 2.64
+- **μ**: 26.34  
+- **σ**: 7.90
+- W: 8, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 25.74"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 12 |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 13 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 25.74"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-24 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 6-3 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-10-04 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 25-27 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-09-06 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 8-9 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-22 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 12-7 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

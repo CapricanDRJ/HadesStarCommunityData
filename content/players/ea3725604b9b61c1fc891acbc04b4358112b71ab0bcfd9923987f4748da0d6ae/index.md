@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "LOUCIFIA01"
-description: "ws: 16 μ: 25.94"
+description: "ws: 17 μ: 26.52"
 ---
-- **WhiteStars**: 16
-- **Eligible**: 14
-- **Rating**: 2.26
-- **μ**: 25.94  
-- **σ**: 7.89
-- W: 7, L: 9, T: 0
+- **WhiteStars**: 17
+- **Eligible**: 15
+- **Rating**: 2.95
+- **μ**: 26.52  
+- **σ**: 7.86
+- W: 8, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 16 μ: 25.94"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 14 |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 16 μ: 25.94"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-24 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 6-3 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-10-04 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 25-27 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-09-06 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 8-9 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-22 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 12-7 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

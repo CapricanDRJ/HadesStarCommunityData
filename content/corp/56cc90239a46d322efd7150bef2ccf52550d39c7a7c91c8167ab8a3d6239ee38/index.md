@@ -1,6 +1,6 @@
 ---
 title: ​Cosmosia
-description: W:11 L:3 D:0 Bonus ✅ 34%
+description: W:11 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 25 - 5 **太阳系星盟**
 date: 2026-10-17T12:43:06.000Z
@@ -15,7 +15,7 @@ date: 2026-10-17T12:43:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

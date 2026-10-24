@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "nagluh"
-description: "ws: 38 μ: 23.46"
+description: "ws: 39 μ: 22.85"
 ---
-- **WhiteStars**: 38
-- **Eligible**: 32
-- **Rating**: 1.21
-- **μ**: 23.46  
-- **σ**: 7.41
-- W: 24, L: 14, T: 0
+- **WhiteStars**: 39
+- **Eligible**: 33
+- **Rating**: 0.69
+- **μ**: 22.85  
+- **σ**: 7.39
+- W: 24, L: 15, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 38 μ: 23.46"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 32 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 33 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 38 μ: 23.46"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-24 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 3-6 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | 2026-10-16 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 11-13 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-10-11 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 9-22 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | 2026-10-04 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 3-20 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
