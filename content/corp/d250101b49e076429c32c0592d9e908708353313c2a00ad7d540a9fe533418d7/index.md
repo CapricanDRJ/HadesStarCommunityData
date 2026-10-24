@@ -1,6 +1,6 @@
 ---
 title: ​Mosaic
-description: W:5 L:1 D:0 Bonus ✅ 32%
+description: W:5 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 26 - 3 **Legión**
 date: 2026-10-17T14:28:16.000Z
@@ -15,7 +15,7 @@ date: 2026-10-17T14:28:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

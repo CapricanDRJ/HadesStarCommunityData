@@ -1,6 +1,6 @@
 ---
 title: ​Dark Monarchs
-description: W:39 L:35 D:1 Bonus ✅ 40%
+description: W:39 L:35 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 22 **落魄山**
 date: 2026-10-22T13:42:43.000Z
@@ -15,7 +15,7 @@ date: 2026-10-22T13:42:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

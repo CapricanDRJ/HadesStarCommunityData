@@ -1,9 +1,9 @@
 ---
 title: ​Team Elite
-description: W:30 L:23 D:1 Bonus ✅ 50%
+description: W:31 L:23 D:1 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 24 - 9 **9\-Й СКОРПИОН**
-date: 2026-10-18T05:19:23.000Z
+Summary: ✅ 26 - 3 **E\.T\.A**
+date: 2026-10-24T12:56:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,13 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔺  (17)|
-| ELO Competitive | 1628 🔺  (17)|
-| Total Matches | 54 |
-| Wins | 30 |
+| ELO Regular | 1377 🔺  (11)|
+| ELO Competitive | 1640 🔺  (12)|
+| Total Matches | 55 |
+| Wins | 31 |
 | Losses | 23 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 10 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791868763,1791435888,1790976587,1790612789,1790526871,1790089172,1789641574,1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
+        let timestamps = [1792414588,1791868763,1791435888,1790976587,1790612789,1790526871,1790089172,1789641574,1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) | 2 | 0 | 0 | 2 |
 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) | 2 | 0 | 0 | 2 |
 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1 | 1 | 0 | 2 |
 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) | 1 | 2 | 0 | 3 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/24 | 26-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2026/10/18 | 24-9 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2026/10/13 | 46-3 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | ✅ | 2026/10/07 | 38-3 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -210,5 +212,5 @@ Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792300763"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792846588"></span>
 </div>
