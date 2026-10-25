@@ -1,9 +1,9 @@
 ---
 title: ​Cosmosia
-description: W:11 L:3 D:0 Bonus ❌ 7%
+description: W:12 L:3 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 25 - 5 **太阳系星盟**
-date: 2026-10-17T12:43:06.000Z
+Summary: ✅ 22 - 0 **太空的猫**
+date: 2026-10-25T05:37:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-10-17T12:43:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔺  (11)|
-| ELO Competitive | 1414 🔺  (9)|
-| Total Matches | 14 |
-| Wins | 11 |
+| ELO Regular | 1337 🔺  (7)|
+| ELO Competitive | 1425 🔺  (11)|
+| Total Matches | 15 |
+| Wins | 12 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791808986,1791199175,1790607981,1789391345,1788183312,1786960830,1785844982,1783418988,1782226256,1781184298,1779707089,1777874367,1774862767,1774214708];
+        let timestamps = [1792474673,1791808986,1791199175,1790607981,1789391345,1788183312,1786960830,1785844982,1783418988,1782226256,1781184298,1779707089,1777874367,1774862767,1774214708];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/25 | 22-0 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
 | ✅ | 2026/10/17 | 25-5 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ✅ | 2026/10/10 | 21-5 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2026/10/03 | 22-11 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
@@ -162,5 +163,5 @@ Corporation ID: 56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792240986"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792906673"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:10 L:0 D:0 Bonus ✅ 32%
+description: W:11 L:0 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 4 - 3 **AFronteiraFinal**
-date: 2026-10-18T10:59:46.000Z
+Summary: ✅ 25 - 3 **地球联合**
+date: 2026-10-25T06:07:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-18T10:59:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (18)|
-| ELO Competitive | 1341 🔺  (25)|
-| Total Matches | 10 |
-| Wins | 10 |
+| ELO Regular | 1373 🔺  (13)|
+| ELO Competitive | 1364 🔺  (23)|
+| Total Matches | 11 |
+| Wins | 11 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
+        let timestamps = [1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/25 | 25-3 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ✅ | 2026/10/18 | 4-3 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ✅ | 2026/10/18 | 30-7 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/10/11 | 29-3 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
@@ -153,5 +154,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792321186"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792908475"></span>
 </div>
