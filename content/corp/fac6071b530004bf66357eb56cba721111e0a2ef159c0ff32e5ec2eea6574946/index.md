@@ -1,9 +1,9 @@
 ---
 title: ​休闲、红、蓝、白养老集团。
-description: W:15 L:7 D:2 Bonus ✅ 34%
+description: W:16 L:7 D:2 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 11 - 0 **星瀚协议**
-date: 2026-10-19T19:32:39.000Z
+Summary: ✅ 8 - 0 **Blackwater co\.**
+date: 2026-10-24T22:47:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-19T19:32:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (10)|
-| ELO Competitive | 1347 🔺  (9)|
-| Total Matches | 24 |
-| Wins | 15 |
+| ELO Regular | 1282 🔺  (10)|
+| ELO Competitive | 1355 🔺  (8)|
+| Total Matches | 25 |
+| Wins | 16 |
 | Losses | 7 |
 | Draws | 2 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792006359,1791546430,1791108606,1790758476,1790635622,1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
+        let timestamps = [1792450045,1792006359,1791546430,1791108606,1790758476,1790635622,1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/24 | 8-0 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) |
 | ✅ | 2026/10/19 | 11-0 | [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) |
 | ✅ | 2026/10/14 | 9-0 | [Aeon](https://ws.tsl.rocks/corp/5e4b3d6d6f08dee95abbb170211af935c564afdbc3039ee0a6f333070688724e/) |
 | ✅ | 2026/10/09 | 4-2 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
@@ -173,5 +174,5 @@ Corporation ID: fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792438359"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792882045"></span>
 </div>

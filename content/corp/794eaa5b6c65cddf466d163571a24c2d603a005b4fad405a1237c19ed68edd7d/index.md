@@ -1,9 +1,9 @@
 ---
 title: ​Blackwater co.
-description: W:0 L:3 D:1 Bonus ❌ 3%
+description: W:0 L:4 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **中央山脈礦工勞動部**
-date: 2025-06-03T12:23:23.000Z
+Summary: ❌ 0 - 8 **休闲、红、蓝、白养老集团。**
+date: 2026-10-24T22:47:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ miglior piazzamento in classifica: 69esimi
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (-14)|
-| ELO Competitive | 1159 🔻  (-13)|
-| Total Matches | 4 |
+| ELO Regular | 1147 🔻  (-10)|
+| ELO Competitive | 1151 🔻  (-8)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1748521403,1747458635,1718149733,1699790876];
+        let timestamps = [1792450045,1748521403,1747458635,1718149733,1699790876];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/24 | 0-8 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2025/06/03 | 0-9 | [中央山脈礦工勞動部](https://ws.tsl.rocks/corp/c76c16c18a4d8c5a2d28b213f59db208dec670f2f230700e69fd411c8f962ea2/) |
 | ❌ | 2025/05/22 | 0-7 | [Bow Down](https://ws.tsl.rocks/corp/402b459520fde5ca47dbb493e4f75201464ab1d46cc1b8dad2f321217265bef4/) |
 | ❌ | 2024/06/16 | 0-18 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4/) |
@@ -148,5 +149,5 @@ Corporation ID: 794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1748953403"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792882045"></span>
 </div>
