@@ -1,6 +1,6 @@
 ---
 title: ​Bastille FR
-description: W:28 L:26 D:1 Bonus ✅ 40%
+description: W:28 L:26 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ↔️ 10 - 10 **Лунный Феникс**
 date: 2026-10-25T07:17:59.000Z
@@ -15,7 +15,7 @@ date: 2026-10-25T07:17:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

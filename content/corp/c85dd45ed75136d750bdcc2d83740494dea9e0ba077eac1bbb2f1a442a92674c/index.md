@@ -1,6 +1,6 @@
 ---
 title: ​Gemini Ind.
-description: W:55 L:10 D:0 Bonus ✅ 44%
+description: W:55 L:10 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 22 - 0 **烽烟与黎明**
 date: 2026-10-18T14:15:03.000Z
@@ -24,7 +24,7 @@ We have awesome queue for rs runs!
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
