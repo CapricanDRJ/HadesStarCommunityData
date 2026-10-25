@@ -1,6 +1,6 @@
 ---
 title: ​HUN TERS
-description: W:66 L:32 D:2 Bonus ✅ 48%
+description: W:66 L:32 D:2 Bonus ❌ 48%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **BRASIL ACADEMY**
 date: 2026-10-18T03:54:18.000Z
@@ -15,7 +15,7 @@ date: 2026-10-18T03:54:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 48%
 
 | Statistic | Value |
 | --- | --- |

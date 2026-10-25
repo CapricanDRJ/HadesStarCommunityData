@@ -1,9 +1,9 @@
 ---
 title: ​Новички
-description: W:13 L:10 D:0 Bonus ❌ 6%
+description: W:13 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 2 **Эдем**
-date: 2026-10-17T08:18:21.000Z
+Summary: ❌ 0 - 15 **attraction\.F**
+date: 2026-10-25T02:27:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-17T08:18:21.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (16)|
-| ELO Competitive | 1232 🔺  (26)|
-| Total Matches | 23 |
+| ELO Regular | 1194 🔻  (-7)|
+| ELO Competitive | 1225 🔻  (-7)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791793101,1791340363,1790583648,1790044716,1788920983,1785898296,1782988995,1774815606,1774122633,1773476209,1773023763,1772344208,1770617592,1770104749,1769264621,1768364145,1767446259,1746013215,1745561007,1745085617,1741691264,1741004942,1739884940];
+        let timestamps = [1792463260,1791793101,1791340363,1790583648,1790044716,1788920983,1785898296,1782988995,1774815606,1774122633,1773476209,1773023763,1772344208,1770617592,1770104749,1769264621,1768364145,1767446259,1746013215,1745561007,1745085617,1741691264,1741004942,1739884940];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/25 | 0-15 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ✅ | 2026/10/17 | 4-2 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2026/10/12 | 0-5 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ❌ | 2026/10/03 | 0-4 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
@@ -170,5 +171,5 @@ Corporation ID: 972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792225101"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792895260"></span>
 </div>

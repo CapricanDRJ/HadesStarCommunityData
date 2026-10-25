@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:28 L:3 D:1 Bonus ✅ 38%
+description: W:29 L:4 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 7 - 3 **Nebulae Traders**
-date: 2026-10-18T03:49:18.000Z
+Summary: ✅ 15 - 0 **Новички**
+date: 2026-10-25T02:27:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-18T03:49:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1436 🔺  (12)|
-| ELO Competitive | 1459 🔺  (20)|
-| Total Matches | 32 |
-| Wins | 28 |
-| Losses | 3 |
+| ELO Regular | 1419 🔺  (7)|
+| ELO Competitive | 1466 🔺  (6)|
+| Total Matches | 34 |
+| Wins | 29 |
+| Losses | 4 |
 | Draws | 1 |
-| Streak | 8 |
 | Streak Record | 13 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/25 | 15-0 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
+| ❌ | 2026/10/25 | 0-9 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ✅ | 2026/10/18 | 7-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2026/10/18 | 21-0 | [Rzeczypospolita](https://ws.tsl.rocks/corp/669a044e2d8e476c293b7bdc70511065849ca26356c1f3062cc7570251459d6b/) |
 | ✅ | 2026/10/11 | 10-0 | [The Imperium](https://ws.tsl.rocks/corp/3938ea9ad4f69fb545e94e7343756fae99e9f090e50a1120664b0024d9b09fea/) |
@@ -183,5 +184,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792295358"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792895260"></span>
 </div>
