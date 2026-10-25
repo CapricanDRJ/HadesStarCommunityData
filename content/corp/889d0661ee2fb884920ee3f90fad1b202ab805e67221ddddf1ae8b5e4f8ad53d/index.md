@@ -1,9 +1,9 @@
 ---
 title: ​红星私密之家
-description: W:2 L:2 D:0 Bonus ❌ 4%
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **苏维埃联邦**
-date: 2026-10-17T20:39:17.000Z
+Summary: ❌ 1 - 29 **Industrial W\.O**
+date: 2026-10-25T06:57:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-17T20:39:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (7)|
-| ELO Competitive | 1223 🔺  (7)|
-| Total Matches | 4 |
+| ELO Regular | 1199 🔻  (-7)|
+| ELO Competitive | 1221 🔻  (-2)|
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791837557,1791821606,1791295904,1791089534];
+        let timestamps = [1792479478,1791837557,1791821606,1791295904,1791089534];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/25 | 1-29 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2026/10/17 | 3-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2026/10/17 | 0-39 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2026/10/11 | 3-26 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
@@ -145,5 +146,5 @@ Corporation ID: 889d0661ee2fb884920ee3f90fad1b202ab805e67221ddddf1ae8b5e4f8ad53d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792269557"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792911478"></span>
 </div>

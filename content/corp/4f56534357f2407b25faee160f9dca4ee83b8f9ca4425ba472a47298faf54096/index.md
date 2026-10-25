@@ -1,6 +1,6 @@
 ---
 title: ​Z. O. V.
-description: W:129 L:69 D:4 Bonus ✅ 50%
+description: W:129 L:69 D:4 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 15 - 6 **Hinterm Mars**
 date: 2026-10-18T09:19:40.000Z
@@ -15,7 +15,7 @@ date: 2026-10-18T09:19:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

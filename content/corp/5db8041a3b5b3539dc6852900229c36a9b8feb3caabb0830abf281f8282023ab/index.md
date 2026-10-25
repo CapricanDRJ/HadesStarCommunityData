@@ -1,9 +1,9 @@
 ---
 title: ​big hammer
-description: W:0 L:1 D:0 Bonus ❌ 2%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **CORPORATION**
-date: 2026-10-07T02:28:07.000Z
+Summary: ❌ 0 - 2 **Wolf \- Star**
+date: 2026-10-25T07:16:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-07T02:28:07.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-15)|
-| ELO Competitive | 1185 🔻  (-15)|
-| Total Matches | 1 |
+| ELO Regular | 1175 🔻  (-10)|
+| ELO Competitive | 1177 🔻  (-9)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790908087];
+        let timestamps = [1792480578,1790908087];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/25 | 0-2 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ❌ | 2026/10/07 | 0-6 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 5db8041a3b5b3539dc6852900229c36a9b8feb3caabb0830abf281f8282023ab
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791340087"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792912578"></span>
 </div>
