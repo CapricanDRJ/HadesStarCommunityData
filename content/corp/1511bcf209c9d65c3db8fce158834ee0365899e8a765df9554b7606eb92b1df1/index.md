@@ -1,6 +1,6 @@
 ---
 title: ​太阳系联邦
-description: W:14 L:26 D:0 Bonus ✅ 36%
+description: W:14 L:26 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 17 - 0 **GermanSpaceDuo**
 date: 2026-10-19T15:42:06.000Z
@@ -15,7 +15,7 @@ date: 2026-10-19T15:42:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

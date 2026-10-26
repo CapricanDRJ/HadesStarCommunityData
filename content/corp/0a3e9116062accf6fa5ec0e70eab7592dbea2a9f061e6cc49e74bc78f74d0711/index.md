@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:99 L:40 D:4 Bonus ✅ 48%
+description: W:99 L:40 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 36 - 5 **Deadspace**
 date: 2026-10-19T13:26:53.000Z
@@ -18,7 +18,7 @@ date: 2026-10-19T13:26:53.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

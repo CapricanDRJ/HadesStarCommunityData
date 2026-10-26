@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Cthulhu"
-description: "ws: 6 μ: 28.11"
+description: "ws: 7 μ: 28.19"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 4
-- **Rating**: 3.54
-- **μ**: 28.11  
-- **σ**: 8.19
-- W: 6, L: 0, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 5
+- **Rating**: 3.73
+- **μ**: 28.19  
+- **σ**: 8.16
+- W: 7, L: 0, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 28.11"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 4 |
+| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 28.11"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-26 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 24-11 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-01-19 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 42-3 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | 2025-12-01 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 28-8 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | 2025-10-13 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 29-3 | [Society of Sin](https://ws.tsl.rocks/corp/2ab9513a45f8770aca94fcf9a693b6d756a83063d99d3ffabacb6523ff638cc1/) |
