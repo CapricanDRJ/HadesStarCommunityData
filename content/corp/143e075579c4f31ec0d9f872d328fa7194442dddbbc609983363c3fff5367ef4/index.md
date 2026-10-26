@@ -1,6 +1,6 @@
 ---
 title: ​Звездный Десант
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:1 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 0 - 17 **63SALVADORES36**
 date: 2026-08-23T20:40:21.000Z
@@ -15,7 +15,7 @@ date: 2026-08-23T20:40:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

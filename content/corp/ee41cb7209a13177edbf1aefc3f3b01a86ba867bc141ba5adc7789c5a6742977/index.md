@@ -1,6 +1,6 @@
 ---
 title: ​星球杯联盟
-description: W:0 L:5 D:1 Bonus ❌ 
+description: W:0 L:5 D:1 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 1 - 8 **Pluto**
 date: 2026-04-26T14:02:35.000Z
@@ -15,7 +15,7 @@ date: 2026-04-26T14:02:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

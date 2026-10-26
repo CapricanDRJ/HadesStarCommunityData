@@ -1,6 +1,6 @@
 ---
 title: ​Legion
-description: W:84 L:113 D:0 Bonus ✅ 56%
+description: W:84 L:113 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 45 - 0 **BRhue**
 date: 2026-10-18T22:20:48.000Z
@@ -18,7 +18,7 @@ r>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 <br>
 
 ### [Discord](https://discord.gg/mA6tbqzS55)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

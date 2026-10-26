@@ -1,6 +1,6 @@
 ---
 title: ​Space Catz
-description: W:21 L:7 D:1 Bonus ✅ 36%
+description: W:21 L:7 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 19 - 0 **Sunat\.**
 date: 2026-10-19T00:15:57.000Z
@@ -15,7 +15,7 @@ date: 2026-10-19T00:15:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

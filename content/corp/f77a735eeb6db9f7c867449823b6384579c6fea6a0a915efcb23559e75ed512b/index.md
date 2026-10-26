@@ -1,6 +1,6 @@
 ---
 title: ​InfinityCorp
-description: W:0 L:0 D:1 Bonus ❌ 
+description: W:0 L:0 D:1 Bonus ❌ 1%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **日月联邦**
 date: 2025-10-07T05:09:47.000Z
@@ -15,7 +15,7 @@ date: 2025-10-07T05:09:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 1%
 
 | Statistic | Value |
 | --- | --- |

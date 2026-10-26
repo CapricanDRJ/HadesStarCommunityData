@@ -1,9 +1,9 @@
 ---
 title: ​Irish Pride
-description: W:1 L:4 D:0 Bonus ❌ 4%
+description: W:1 L:5 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 2 - 3 **云深不知处**
-date: 2026-08-31T01:18:44.000Z
+Summary: ❌ 0 - 9 **Lupus Regnum**
+date: 2026-10-25T22:24:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Join us on Discord: https://discord.gg/RvMW8DejVJ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (-17)|
-| ELO Competitive | 1169 🔻  (-17)|
-| Total Matches | 5 |
+| ELO Regular | 1140 🔻  (-13)|
+| ELO Competitive | 1166 🔻  (-3)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 3 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787707124,1776477318,1770396767,1703506816,1700310349];
+        let timestamps = [1792535057,1787707124,1776477318,1770396767,1703506816,1700310349];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/25 | 0-9 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2026/08/31 | 2-3 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ❌ | 2026/04/23 | 2-7 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | ❌ | 2026/02/11 | 0-15 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
@@ -149,5 +150,5 @@ Corporation ID: a3c944ea9abef71001c52b6127e716ac11dfbf2b33d21d6f9312cfa0361f1eb8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788139124"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1792967057"></span>
 </div>

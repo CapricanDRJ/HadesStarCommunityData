@@ -1,6 +1,6 @@
 ---
 title: ​DEPTH CHARGERS
-description: W:1 L:6 D:0 Bonus ❌ 
+description: W:1 L:6 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 0 - 4 **Bunker**
 date: 2026-04-07T05:01:51.000Z
@@ -15,7 +15,7 @@ date: 2026-04-07T05:01:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
