@@ -1,6 +1,6 @@
 ---
 title: ​Кузня Лютых
-description: W:16 L:3 D:0 Bonus ✅ 38%
+description: W:16 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **Spacekill**
 date: 2026-10-19T06:21:21.000Z
@@ -15,7 +15,7 @@ date: 2026-10-19T06:21:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
