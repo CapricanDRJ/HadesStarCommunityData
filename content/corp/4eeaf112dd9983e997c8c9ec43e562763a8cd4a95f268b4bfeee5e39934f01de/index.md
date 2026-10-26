@@ -1,6 +1,6 @@
 ---
 title: ​Terranova
-description: W:50 L:138 D:1 Bonus ✅ 54%
+description: W:50 L:138 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 11 - 3 **Ender**
 date: 2026-10-19T10:31:37.000Z
@@ -16,7 +16,7 @@ date: 2026-10-19T10:31:37.000Z
 <br>
 
 ### [Discord](https://discord.gg/SUVSGGYGz2)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​启示空间
-description: W:1 L:6 D:1 Bonus ❌ 
+description: W:1 L:6 D:1 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ❌ 2 - 4 **龙的传人分团**
 date: 2026-04-14T11:17:18.000Z
@@ -15,7 +15,7 @@ date: 2026-04-14T11:17:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |

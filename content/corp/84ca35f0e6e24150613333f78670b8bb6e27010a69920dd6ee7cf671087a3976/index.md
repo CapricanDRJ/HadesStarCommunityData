@@ -1,6 +1,6 @@
 ---
 title: ​CERBERUS SYSTEM
-description: W:41 L:22 D:0 Bonus ✅ 40%
+description: W:41 L:22 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 17 - 6 **Space Dragons**
 date: 2026-10-19T11:56:43.000Z
@@ -15,7 +15,7 @@ date: 2026-10-19T11:56:43.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
