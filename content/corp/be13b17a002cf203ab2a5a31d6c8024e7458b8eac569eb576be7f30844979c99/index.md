@@ -1,9 +1,9 @@
 ---
 title: ​Planet Express
-description: W:34 L:12 D:1 Bonus ❌ 10%
+description: W:35 L:12 D:1 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **three kitties**
-date: 2026-08-30T18:28:06.000Z
+Summary: ✅ 19 - 3 **日月星辰**
+date: 2026-10-26T08:40:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (7)|
-| ELO Competitive | 1562 🔺  (17)|
-| Total Matches | 47 |
-| Wins | 34 |
+| ELO Regular | 1377 🔺  (4)|
+| ELO Competitive | 1566 🔺  (4)|
+| Total Matches | 48 |
+| Wins | 35 |
 | Losses | 12 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 10 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787682486,1783420189,1779965794,1776435555,1775977701,1775545360,1775110617,1774676158,1772985310,1769768498,1769017034,1767857566,1765389383,1762334600,1759288101,1757024720,1755986483,1755554374,1754656787,1753154660,1751469257,1749828568,1747391841,1747306201,1744731625,1742468663,1740412046,1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
+        let timestamps = [1792572004,1787682486,1783420189,1779965794,1776435555,1775977701,1775545360,1775110617,1774676158,1772985310,1769768498,1769017034,1767857566,1765389383,1762334600,1759288101,1757024720,1755986483,1755554374,1754656787,1753154660,1751469257,1749828568,1747391841,1747306201,1744731625,1742468663,1740412046,1739953154,1738862640,1737669327,1734785659,1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/26 | 19-3 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 | ✅ | 2026/08/30 | 7-0 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2026/07/12 | 20-9 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2026/06/02 | 6-21 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
@@ -199,5 +200,5 @@ Corporation ID: be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788114486"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793004004"></span>
 </div>

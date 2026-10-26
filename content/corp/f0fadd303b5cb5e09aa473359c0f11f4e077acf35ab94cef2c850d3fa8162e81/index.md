@@ -1,6 +1,6 @@
 ---
 title: ​Stargate Sg7
-description: W:54 L:29 D:0 Bonus ✅ 46%
+description: W:54 L:29 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 31 - 3 **Space Pirates**
 date: 2026-10-19T07:41:26.000Z
@@ -15,7 +15,7 @@ date: 2026-10-19T07:41:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
