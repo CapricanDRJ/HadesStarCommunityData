@@ -1,6 +1,6 @@
 ---
 title: ​Dumpster Fire
-description: W:52 L:137 D:1 Bonus ✅ 48%
+description: W:52 L:137 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 20 **King's Guard**
 date: 2026-10-19T16:57:13.000Z
@@ -22,7 +22,7 @@ Discord-Free White Star
 <br>
 
 ### [Discord](https://discord.gg/FCWdtswtP5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
