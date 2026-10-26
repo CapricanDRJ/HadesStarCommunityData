@@ -1,6 +1,6 @@
 ---
 title: ​Eretria
-description: W:48 L:74 D:2 Bonus ✅ 40%
+description: W:48 L:74 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 1 - 7 **Wolf \- Star**
 date: 2026-10-25T07:02:58.000Z
@@ -18,7 +18,7 @@ uld be an Honor that you would join us! >=)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
