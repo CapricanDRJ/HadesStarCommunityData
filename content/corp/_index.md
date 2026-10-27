@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-27T18:55:40.592Z
+date: 2026-10-27T21:55:40.559Z
 summary: "Corporation directory"
 ---
 
@@ -59,7 +59,7 @@ summary: "Corporation directory"
 | [Aries](https://ws.tsl.rocks/corp/57a94041ebcdebef88d809ea5d9c0db97656be131a2adf363ac768f75f9f66a4/) | 1191 | 1193 | 1 |
 | [Aries](https://ws.tsl.rocks/corp/9114b72336474a936c574329e78863468ed28a9d42699f2650bd88484bc1540b/) | 1209 | 1213 | 1 |
 | [Arik](https://ws.tsl.rocks/corp/9b96b5e086b44903b4c36c63247b93641d99a9e7419d9a6e7dc19dd2b9923086/) | 1290 | 1318 | 14 |
-| [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 1202 | 1438 | 117 |
+| [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 1193 | 1445 | 118 |
 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 1617 | 1791 | 40 |
 | [Armored Union](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 1207 | 1336 | 61 |
 | [Art](https://ws.tsl.rocks/corp/0dec9b3059b4df17b20e4771975d4e1de7602f58c2fefb01eb38a221caa4cbb9/) | 1177 | 1179 | 1 |
@@ -208,7 +208,7 @@ summary: "Corporation directory"
 | [Completist Ind](https://ws.tsl.rocks/corp/e41188f935f50cf1c7895a6954d0f5f468489ab13a0717fec23b4a61b9d46aa9/) | 1218 | 1228 | 1 |
 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) | 1185 | 1197 | 6 |
 | [Continuance](https://ws.tsl.rocks/corp/2c3f87013563292fdca83c5200da0bb1668b92a27af7ff4fa19968b5e4d54de0/) | 1172 | 1172 | 3 |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1359 | 2094 | 357 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1368 | 2094 | 358 |
 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 1314 | 1370 | 69 |
 | [Copelius](https://ws.tsl.rocks/corp/5ccdfe71720f707dabd274b5bab6f84a443484f3e38ec1065ad5f5a20268649f/) | 1163 | 1177 | 3 |
 | [Core](https://ws.tsl.rocks/corp/064e57c0b410f85b0a74583e4e870f987bd016a905bb03f86f8e1eab4b48bd38/) | 1186 | 1186 | 1 |
@@ -1863,7 +1863,7 @@ summary: "Corporation directory"
 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) | 1365 | 1521 | 70 |
 | [星海共同体](https://ws.tsl.rocks/corp/8716d843d76ec96cdd36cd0de81fbfca825b2ca4195be28dd27973962e1a0e7e/) | 1185 | 1185 | 1 |
 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) | 1267 | 1375 | 41 |
-| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 1140 | 1193 | 32 |
+| [星瀚协议](https://ws.tsl.rocks/corp/45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1/) | 1129 | 1182 | 33 |
 | [星瀚协议：守望之城](https://ws.tsl.rocks/corp/8cc8aca54d2881fb3ac64cadf68e0ba57110a758b0f3976e30e19f70dd73cff2/) | 1161 | 1166 | 3 |
 | [星瀚协议：追光之宇](https://ws.tsl.rocks/corp/0c385f7bbee6eeb3082726c932b86d8b9cc770806e9785a536623ea61be316e5/) | 1186 | 1187 | 1 |
 | [星环\-星际联盟](https://ws.tsl.rocks/corp/701b2b79715c2d2f9e2cc4c51d16c7e1b2aa2f549955e7191269f81327a78eeb/) | 1186 | 1187 | 1 |
@@ -1939,7 +1939,7 @@ summary: "Corporation directory"
 | [球球大作战](https://ws.tsl.rocks/corp/4e012bc708c48472962a77524dda86fb89147b8f06c2a0aa8343f0056c6b1439/) | 1173 | 1174 | 2 |
 | [琼霄阁](https://ws.tsl.rocks/corp/70c83552ab1caa2af7d4dc63cedb7cfeb74c8c83def002c92cfe59dbfbf2f33f/) | 1146 | 1174 | 11 |
 | [璃寒教廷](https://ws.tsl.rocks/corp/e81682fd11ea50def0fc7853a56c023bd6e38a6142f2a0bd06817e1a546d55d2/) | 1222 | 1224 | 1 |
-| [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) | 1238 | 1290 | 16 |
+| [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) | 1248 | 1301 | 17 |
 | [生仔未必就系幅](https://ws.tsl.rocks/corp/d087f782474b1b2a225621d23892285b3c3e5c90b0b88e3bb81c8cbb972d28f7/) | 1176 | 1196 | 6 |
 | [电磁脉冲集团](https://ws.tsl.rocks/corp/dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482/) | 1211 | 1230 | 3 |
 | [白星成就团](https://ws.tsl.rocks/corp/732e04d71bf21cab508e981cce14b545ac3b468f05576a443c40ed68bb8277b3/) | 1175 | 1182 | 3 |

@@ -1,9 +1,9 @@
 ---
 title: ​星瀚协议
-description: W:10 L:18 D:4 Bonus ❌ 7%
+description: W:10 L:19 D:4 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 11 **休闲、红、蓝、白养老集团。**
-date: 2026-10-19T19:32:39.000Z
+Summary: ❌ 0 - 5 **甜甜圈**
+date: 2026-10-27T21:26:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-19T19:32:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (-10)|
-| ELO Competitive | 1193 🔻  (-9)|
-| Total Matches | 32 |
+| ELO Regular | 1129 🔻  (-11)|
+| ELO Competitive | 1182 🔻  (-11)|
+| Total Matches | 33 |
 | Wins | 10 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 4 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792006359,1791511892,1790738832,1787272744,1786509852,1786073878,1785809237,1785204153,1784712113,1782958736,1781841662,1781407820,1780841513,1748267201,1747830860,1747200733,1746490379,1745965099,1745708876,1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
+        let timestamps = [1792704400,1792006359,1791511892,1790738832,1787272744,1786509852,1786073878,1785809237,1785204153,1784712113,1782958736,1781841662,1781407820,1780841513,1748267201,1747830860,1747200733,1746490379,1745965099,1745708876,1745411960,1744976526,1744893288,1743747274,1743729708,1743240432,1743157778,1742381570,1740767232,1740762298,1740199309,1738479482,1738173152];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/27 | 0-5 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ❌ | 2026/10/19 | 0-11 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2026/10/14 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/10/05 | 0-3 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
@@ -180,5 +181,5 @@ Corporation ID: 45e9a38e4ff4d5889385d94823a7d7ea0668830c377f38a777d1db51633716e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792438359"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793136400"></span>
 </div>
