@@ -1,6 +1,6 @@
 ---
 title: ​ༀᅗBAR ESTELARᅗༀ
-description: W:24 L:19 D:0 Bonus ✅ 38%
+description: W:24 L:19 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 24 **Corvus Ind\.**
 date: 2026-10-25T15:43:31.000Z
@@ -18,7 +18,7 @@ Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
