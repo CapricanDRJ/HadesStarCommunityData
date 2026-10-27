@@ -1,9 +1,9 @@
 ---
 title: ​白虹贯日
-description: W:21 L:6 D:0 Bonus ✅ 36%
+description: W:22 L:6 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 1 **Страж Галактики**
-date: 2026-10-21T07:40:15.000Z
+Summary: ✅ 23 - 0 **The Bois**
+date: 2026-10-27T02:08:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-21T07:40:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (7)|
-| ELO Competitive | 1363 🔺  (7)|
-| Total Matches | 27 |
-| Wins | 21 |
+| ELO Regular | 1331 🔺  (10)|
+| ELO Competitive | 1371 🔺  (9)|
+| Total Matches | 28 |
+| Wins | 22 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792136415,1791607712,1790984997,1790984997,1789963603,1789449924,1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
+        let timestamps = [1792634920,1792136415,1791607712,1790984997,1790984997,1789963603,1789449924,1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/27 | 23-0 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ✅ | 2026/10/21 | 17-1 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ✅ | 2026/10/15 | 22-0 | [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) |
 | ❌ | 2026/10/07 | 1-3 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
@@ -175,5 +176,5 @@ Corporation ID: 099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792568415"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793066920"></span>
 </div>

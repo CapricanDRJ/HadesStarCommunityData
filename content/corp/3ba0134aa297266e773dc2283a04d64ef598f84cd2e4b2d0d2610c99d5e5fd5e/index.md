@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:11 L:3 D:0 Bonus ❌ 
+description: W:11 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 7 - 17 **红日初升，其道大光**
 date: 2026-07-14T05:53:33.000Z
@@ -15,7 +15,7 @@ date: 2026-07-14T05:53:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

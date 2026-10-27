@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:73 L:43 D:2 Bonus ✅ 44%
+description: W:73 L:43 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 2 - 31 **Black Pearl FR**
 date: 2026-10-25T13:43:29.000Z
@@ -17,7 +17,7 @@ date: 2026-10-25T13:43:29.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

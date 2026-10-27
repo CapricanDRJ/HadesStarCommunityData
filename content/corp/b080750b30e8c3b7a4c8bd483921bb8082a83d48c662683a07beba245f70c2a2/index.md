@@ -1,9 +1,9 @@
 ---
 title: ​NEW HOLLAND
-description: W:1 L:12 D:1 Bonus ❌ 4%
+description: W:1 L:13 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-10-21T01:49:30.000Z
+Summary: ❌ 0 - 10 **宇宙聯盟**
+date: 2026-10-27T01:13:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2026-10-21T01:49:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (-6)|
-| ELO Competitive | 1106 🔻  (-7)|
-| Total Matches | 14 |
+| ELO Regular | 1071 🔻  (-9)|
+| ELO Competitive | 1097 🔻  (-9)|
+| Total Matches | 15 |
 | Wins | 1 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792115370,1791644428,1790644677,1789878289,1708353058,1707733226,1706289884,1705608921,1704348868,1702854364,1702564451,1702074859,1701897843,1701597590];
+        let timestamps = [1792631615,1792115370,1791644428,1790644677,1789878289,1708353058,1707733226,1706289884,1705608921,1704348868,1702854364,1702564451,1702074859,1701897843,1701597590];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/27 | 0-10 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ❌ | 2026/10/21 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ❌ | 2026/10/15 | 0-3 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ❌ | 2026/10/04 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -156,5 +157,5 @@ Corporation ID: b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792547370"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793063615"></span>
 </div>

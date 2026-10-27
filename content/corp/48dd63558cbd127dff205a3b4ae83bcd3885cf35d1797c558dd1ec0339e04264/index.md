@@ -1,9 +1,9 @@
 ---
 title: ​Solar Corp
-description: W:48 L:6 D:0 Bonus ❌ 11%
+description: W:49 L:6 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 28 - 1 **Бороская Имерия**
-date: 2026-10-20T00:07:50.000Z
+Summary: ✅ 29 - 0 **リリース**
+date: 2026-10-27T01:13:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-10-20T00:07:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1512 🔺  (8)|
-| ELO Competitive | 1672 🔺  (14)|
-| Total Matches | 54 |
-| Wins | 48 |
+| ELO Regular | 1521 🔺  (10)|
+| ELO Competitive | 1685 🔺  (13)|
+| Total Matches | 55 |
+| Wins | 49 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 17 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792022870,1791437389,1790811957,1790215949,1789601930,1789001976,1788409480,1787817383,1787193075,1786581950,1785975674,1785366987,1784773340,1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
+        let timestamps = [1792631615,1792022870,1791437389,1790811957,1790215949,1789601930,1789001976,1788409480,1787817383,1787193075,1786581950,1785975674,1785366987,1784773340,1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 2 | 0 | 0 | 2 |
 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) | 2 | 0 | 0 | 2 |
 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) | 2 | 0 | 0 | 2 |
 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 1 | 0 | 2 |
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/27 | 29-0 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2026/10/20 | 28-1 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2026/10/13 | 19-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2026/10/05 | 17-3 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
@@ -204,5 +206,5 @@ Corporation ID: 48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792454870"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793063615"></span>
 </div>

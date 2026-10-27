@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:7 L:5 D:1 Bonus ✅ 32%
+description: W:8 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **CORPORATION**
-date: 2026-10-22T07:32:12.000Z
+Summary: ✅ 10 - 0 **NEW HOLLAND**
+date: 2026-10-27T01:13:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2026-10-22T07:32:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (-15)|
-| ELO Competitive | 1264 🔺  (16)|
-| Total Matches | 13 |
-| Wins | 7 |
+| ELO Regular | 1233 🔺  (9)|
+| ELO Competitive | 1273 🔺  (9)|
+| Total Matches | 14 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/27 | 10-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ❌ | 2026/10/22 | 0-6 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ✅ | 2026/10/20 | 7-3 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ✅ | 2026/10/14 | 5-0 | [꧁ Indonesia ꧂](https://ws.tsl.rocks/corp/abaa93a1099b1b42c72cb95ef7970f14e2c1028844d6dbd196127671b9669c07/) |
@@ -160,5 +161,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792654332"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793063615"></span>
 </div>

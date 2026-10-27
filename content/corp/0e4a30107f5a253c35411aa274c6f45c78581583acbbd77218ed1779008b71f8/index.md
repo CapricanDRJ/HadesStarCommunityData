@@ -1,9 +1,9 @@
 ---
 title: ​The Bois
-description: W:4 L:4 D:1 Bonus ✅ 30%
+description: W:4 L:5 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 2 - 0 **神圣群星帝国**
-date: 2026-10-20T23:49:28.000Z
+Summary: ❌ 0 - 23 **白虹贯日**
+date: 2026-10-27T02:08:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-20T23:49:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (11)|
-| ELO Competitive | 1211 🔺  (13)|
-| Total Matches | 9 |
+| ELO Regular | 1191 🔻  (-10)|
+| ELO Competitive | 1202 🔻  (-9)|
+| Total Matches | 10 |
 | Wins | 4 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792108168,1791574734,1791024048,1790583648,1790108944,1789647882,1789199057,1787237236,1786795564];
+        let timestamps = [1792634920,1792108168,1791574734,1791024048,1790583648,1790108944,1789647882,1789199057,1787237236,1786795564];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/27 | 0-23 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ✅ | 2026/10/20 | 2-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
 | ↔️ | 2026/10/14 | 0-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ❌ | 2026/10/08 | 1-6 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
@@ -150,5 +151,5 @@ Corporation ID: 0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792540168"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793066920"></span>
 </div>
