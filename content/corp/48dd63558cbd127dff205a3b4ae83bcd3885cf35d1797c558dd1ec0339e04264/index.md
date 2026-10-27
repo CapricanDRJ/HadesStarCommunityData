@@ -1,6 +1,6 @@
 ---
 title: ​Solar Corp
-description: W:48 L:6 D:0 Bonus ✅ 42%
+description: W:48 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 28 - 1 **Бороская Имерия**
 date: 2026-10-20T00:07:50.000Z
@@ -15,7 +15,7 @@ date: 2026-10-20T00:07:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

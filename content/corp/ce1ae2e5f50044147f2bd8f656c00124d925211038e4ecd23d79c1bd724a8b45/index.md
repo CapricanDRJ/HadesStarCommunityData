@@ -1,6 +1,6 @@
 ---
 title: ​SNSS
-description: W:18 L:68 D:1 Bonus ✅ 48%
+description: W:18 L:68 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 38 **Stellar Exports**
 date: 2026-10-25T14:03:30.000Z
@@ -18,7 +18,7 @@ nts, Dark RS focussed corp, with optional WS runs.
 <br>
 
 ### [Discord](https://discord.gg/2Dh98GHnug)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
