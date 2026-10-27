@@ -52,6 +52,90 @@ searchHidden: true
 
     <table>
         <tr>
+            <th colspan="4" class="username-header">Caprican 😈</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS11</td>
+                    <td>290%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS9</td>
+                    <td>290%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">DungeonMaster</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>9</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS11</td>
+                    <td>360%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>15</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/700759283628900461">Red_Coat_Mafia</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">SMateD</th>
         </tr>
         <tr>
@@ -74,32 +158,6 @@ searchHidden: true
             
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/1188603970650898515">The Warriorlords gathering hall</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">Triskal</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>7</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS12</td>
-                    <td>350%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: Private</td>
         </tr>
     </table>
     <table>
