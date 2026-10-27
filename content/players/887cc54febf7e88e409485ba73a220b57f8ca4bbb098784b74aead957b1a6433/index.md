@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Oksana"
-description: "ws: 35 μ: 25.20"
+description: "ws: 36 μ: 23.94"
 ---
-- **WhiteStars**: 35
-- **Eligible**: 24
-- **Rating**: 2.30
-- **μ**: 25.20  
-- **σ**: 7.63
-- W: 26, L: 9, T: 0
+- **WhiteStars**: 36
+- **Eligible**: 25
+- **Rating**: 1.12
+- **μ**: 23.94  
+- **σ**: 7.61
+- W: 26, L: 10, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 35 μ: 25.20"
 | Corporation | WhiteStars |
 | --- | --- |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 24 |
+| [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 35 μ: 25.20"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 6-13 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-09-08 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 0-34 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-06-06 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 18-21 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
 | 2026-05-30 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 47-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |

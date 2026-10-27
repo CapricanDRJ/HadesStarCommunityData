@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Сергей"
-description: "ws: 5 μ: 24.74"
+description: "ws: 6 μ: 23.77"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 3
-- **Rating**: 0.06
-- **μ**: 24.74  
-- **σ**: 8.23
-- W: 1, L: 4, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 4
+- **Rating**: -0.81
+- **μ**: 23.77  
+- **σ**: 8.19
+- W: 1, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 24.74"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 2 |
+| [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 3 |
 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 5 μ: 24.74"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 6-13 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-09-08 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 0-34 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-05-02 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 0-26 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-01-23 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) | 30-20 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
