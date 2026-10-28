@@ -1,6 +1,6 @@
 ---
 title: ​资助会
-description: W:16 L:6 D:0 Bonus ✅ 36%
+description: W:16 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 11 - 3 **Galactic Empire**
 date: 2026-10-21T17:36:05.000Z
@@ -16,7 +16,7 @@ date: 2026-10-21T17:36:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

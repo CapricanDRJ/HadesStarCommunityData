@@ -159,6 +159,20 @@ searchHidden: true
                 </tr>
             
                 <tr>
+                    <td>3</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS11</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
                     <td>8</td>
                     <td><img src="drone.png" alt="drone"></td>
                     <td>RS12</td>
