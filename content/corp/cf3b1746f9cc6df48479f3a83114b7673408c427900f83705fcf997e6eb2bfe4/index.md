@@ -1,9 +1,9 @@
 ---
 title: ​DEPTH CHARGERS
-description: W:1 L:6 D:0 Bonus ❌ 4%
+description: W:1 L:7 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **Bunker**
-date: 2026-04-07T05:01:51.000Z
+Summary: ❌ 0 - 28 **63SALVADORES36**
+date: 2026-10-27T23:05:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-04-07T05:01:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔻  (-13)|
-| ELO Competitive | 1160 🔻  (-5)|
-| Total Matches | 7 |
+| ELO Regular | 1131 🔻  (-11)|
+| ELO Competitive | 1157 🔻  (-3)|
+| Total Matches | 8 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1775106111,1774673776,1760677456,1760096053,1759456363,1759011090,1758498819];
+        let timestamps = [1792710348,1775106111,1774673776,1760677456,1760096053,1759456363,1759011090,1758498819];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/27 | 0-28 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2026/04/07 | 0-4 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2026/04/02 | 8-3 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
 | ❌ | 2025/10/22 | 0-11 | [中华人民共和国](https://ws.tsl.rocks/corp/2acf0be46829b53620f0aa02fc71aaa7e3e9c54d9446951bb26288c05727ae84/) |
@@ -148,5 +149,5 @@ Corporation ID: cf3b1746f9cc6df48479f3a83114b7673408c427900f83705fcf997e6eb2bfe4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1775538111"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793142348"></span>
 </div>

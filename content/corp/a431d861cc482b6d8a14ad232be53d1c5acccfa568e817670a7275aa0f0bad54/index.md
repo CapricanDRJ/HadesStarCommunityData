@@ -1,6 +1,6 @@
 ---
 title: ​聚集地
-description: W:6 L:1 D:1 Bonus ✅ 32%
+description: W:6 L:1 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 10 - 0 **Ereboros**
 date: 2026-10-20T23:32:28.000Z
@@ -15,7 +15,7 @@ date: 2026-10-20T23:32:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
