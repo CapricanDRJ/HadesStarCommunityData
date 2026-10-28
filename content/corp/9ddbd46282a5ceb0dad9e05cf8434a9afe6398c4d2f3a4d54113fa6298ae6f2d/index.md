@@ -1,9 +1,9 @@
 ---
 title: ​Ainz ooal gown
-description: W:38 L:6 D:0 Bonus ✅ 38%
+description: W:39 L:6 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 26 - 0 **Best UA West**
-date: 2026-10-23T00:38:39.000Z
+Summary: ✅ 28 - 1 **63SALVADORES36**
+date: 2026-10-28T06:02:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-23T00:38:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1480 🔺  (9)|
-| ELO Competitive | 1577 🔺  (8)|
-| Total Matches | 44 |
-| Wins | 38 |
+| ELO Regular | 1486 🔺  (6)|
+| ELO Competitive | 1590 🔺  (13)|
+| Total Matches | 45 |
+| Wins | 39 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 21 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792283919,1791819202,1791375843,1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
+        let timestamps = [1792735342,1792283919,1791819202,1791375843,1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/28 | 28-1 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2026/10/23 | 26-0 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
 | ✅ | 2026/10/17 | 28-6 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/10/12 | 26-0 | [天之始](https://ws.tsl.rocks/corp/74f97ab890d598e052986c864057edf4f04537ea7e142a8dc3aebcf50de4adae/) |
@@ -193,5 +194,5 @@ Corporation ID: 9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792715919"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793167342"></span>
 </div>

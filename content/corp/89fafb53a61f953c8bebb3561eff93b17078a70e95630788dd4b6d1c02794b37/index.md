@@ -1,6 +1,6 @@
 ---
 title: ​РУССКИЕ ИДУТ
-description: W:8 L:9 D:0 Bonus ✅ 32%
+description: W:8 L:9 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 16 - 4 **Lost Legion**
 date: 2026-10-21T05:25:05.000Z
@@ -15,7 +15,7 @@ date: 2026-10-21T05:25:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
