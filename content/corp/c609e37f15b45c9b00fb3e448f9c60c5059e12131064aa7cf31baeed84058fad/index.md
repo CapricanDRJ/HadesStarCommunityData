@@ -1,9 +1,9 @@
 ---
 title: ​Magyar Vándor
-description: W:0 L:1 D:4 Bonus ❌ 3%
+description: W:0 L:2 D:4 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Star Field**
-date: 2026-10-22T04:10:33.000Z
+Summary: ❌ 0 - 2 **我是沙碧**
+date: 2026-10-28T19:06:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-22T04:10:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (1)|
-| ELO Competitive | 1191 🔺  (2)|
-| Total Matches | 5 |
+| ELO Regular | 1168 🔻  (-15)|
+| ELO Competitive | 1177 🔻  (-14)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 4 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792210233,1791574734,1791142280,1790455674,1741996258];
+        let timestamps = [1792782398,1792210233,1791574734,1791142280,1790455674,1741996258];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/28 | 0-2 | [我是沙碧](https://ws.tsl.rocks/corp/098610891e066e1c3eb89a95d424ef860ac1447f85cb7e6fdec05bb487338851/) |
 | ↔️ | 2026/10/22 | 0-0 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) |
 | ↔️ | 2026/10/14 | 0-0 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ↔️ | 2026/10/09 | 0-0 | [先和先知](https://ws.tsl.rocks/corp/54c8fbf9e85f95a3e28c0b3d2833d49a40758d5340c6de6d6822c6c48aa070eb/) |
@@ -146,5 +147,5 @@ Corporation ID: c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792642233"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793214398"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​U.S.A
-description: W:59 L:88 D:4 Bonus ✅ 44%
+description: W:59 L:88 D:4 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 16 - 5 **Galactic Empire**
 date: 2026-10-21T19:51:18.000Z
@@ -18,7 +18,7 @@ embers Star Nations that are apart of it against the chaos outside of
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

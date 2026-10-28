@@ -1,6 +1,6 @@
 ---
 title: ​Newbs
-description: W:111 L:58 D:3 Bonus ✅ 52%
+description: W:111 L:58 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 26 - 9 **TheBasics**
 date: 2026-10-21T20:26:22.000Z
@@ -18,7 +18,7 @@ rience and have some fun!
 <br>
 
 ### [Discord](https://discord.gg/WKKwkbPsya)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

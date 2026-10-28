@@ -1,9 +1,9 @@
 ---
 title: ​我是沙碧
-description: W:6 L:6 D:1 Bonus ❌ 5%
+description: W:7 L:6 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **Quantum Mass**
-date: 2026-10-03T22:22:01.000Z
+Summary: ✅ 2 - 0 **Magyar Vándor**
+date: 2026-10-28T19:06:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-03T22:22:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (-11)|
-| ELO Competitive | 1208 🔻  (-11)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1199 🔺  (15)|
+| ELO Competitive | 1222 🔺  (14)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790634121,1789199057,1788280949,1787298223,1786679289,1786208499,1785706484,1785239768,1784771538,1784269822,1783785932,1783277784,1782569075];
+        let timestamps = [1792782398,1790634121,1789199057,1788280949,1787298223,1786679289,1786208499,1785706484,1785239768,1784771538,1784269822,1783785932,1783277784,1782569075];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/28 | 2-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ❌ | 2026/10/03 | 0-9 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ❌ | 2026/09/17 | 0-4 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/09/06 | 2-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
@@ -155,5 +156,5 @@ Corporation ID: 098610891e066e1c3eb89a95d424ef860ac1447f85cb7e6fdec05bb487338851
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791066121"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793214398"></span>
 </div>
