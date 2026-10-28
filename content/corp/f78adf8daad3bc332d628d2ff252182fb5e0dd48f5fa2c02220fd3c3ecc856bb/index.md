@@ -1,6 +1,6 @@
 ---
 title: ​奇点教会
-description: W:21 L:12 D:4 Bonus ✅ 36%
+description: W:21 L:12 D:4 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **Akatsuki**
 date: 2026-10-21T03:34:51.000Z
@@ -15,7 +15,7 @@ date: 2026-10-21T03:34:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

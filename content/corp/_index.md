@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-28T00:55:40.430Z
+date: 2026-10-28T03:55:40.617Z
 summary: "Corporation directory"
 ---
 
@@ -1869,7 +1869,7 @@ summary: "Corporation directory"
 | [星环\-星际联盟](https://ws.tsl.rocks/corp/701b2b79715c2d2f9e2cc4c51d16c7e1b2aa2f549955e7191269f81327a78eeb/) | 1186 | 1187 | 1 |
 | [星环共同体](https://ws.tsl.rocks/corp/f43990d02c13a0c01bf7c26e1de201ce153bf91a13b9be2d9e22c61e83387776/) | 1206 | 1209 | 1 |
 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) | 1221 | 1242 | 19 |
-| [星球杯联盟](https://ws.tsl.rocks/corp/ee41cb7209a13177edbf1aefc3f3b01a86ba867bc141ba5adc7789c5a6742977/) | 1131 | 1148 | 6 |
+| [星球杯联盟](https://ws.tsl.rocks/corp/ee41cb7209a13177edbf1aefc3f3b01a86ba867bc141ba5adc7789c5a6742977/) | 1120 | 1135 | 7 |
 | [星空夜](https://ws.tsl.rocks/corp/fcd78f9dbaf75929d1d9b88812f7f88e35491d7f5873406fedb47803c8d881b1/) | 1220 | 1300 | 19 |
 | [星空社会主义共和国](https://ws.tsl.rocks/corp/38c08f04a2ca92d80139f8b0461c7dc786c257fe8072260c4a128313c1b54c5e/) | 1161 | 1193 | 12 |
 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) | 1141 | 1217 | 31 |
@@ -2034,7 +2034,7 @@ summary: "Corporation directory"
 | [遨游星空 kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) | 1147 | 1217 | 34 |
 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) | 1174 | 1249 | 30 |
 | [銀河戰狼](https://ws.tsl.rocks/corp/0e3a0b6c7cab81e9ca908fb9dbeea4ed3917675ad8fb003ad565c772e1b36646/) | 1183 | 1184 | 2 |
-| [銀河星际集团](https://ws.tsl.rocks/corp/c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411/) | 1205 | 1206 | 2 |
+| [銀河星际集团](https://ws.tsl.rocks/corp/c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411/) | 1216 | 1218 | 3 |
 | [银星S Stars‘](https://ws.tsl.rocks/corp/ae73bc387e166c41c7df8d5514866f190e7d81ec4286fdd54d78fe1f07ff71b4/) | 1231 | 1236 | 4 |
 | [银星·暗域信标](https://ws.tsl.rocks/corp/c86cfa17ee72ccda5c13347f8bfe6a29187e7f79dd0203ca07d06478de74aa97/) | 1188 | 1193 | 1 |
 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) | 1238 | 1252 | 17 |

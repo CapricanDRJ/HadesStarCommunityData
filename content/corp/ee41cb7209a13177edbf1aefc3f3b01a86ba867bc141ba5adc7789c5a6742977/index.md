@@ -1,9 +1,9 @@
 ---
 title: ​星球杯联盟
-description: W:0 L:5 D:1 Bonus ❌ 3%
+description: W:0 L:6 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 1 - 8 **Pluto**
-date: 2026-04-26T14:02:35.000Z
+Summary: ❌ 0 - 1 **銀河星际集团**
+date: 2026-10-28T01:49:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-04-26T14:02:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (-11)|
-| ELO Competitive | 1148 🔻  (-11)|
-| Total Matches | 6 |
+| ELO Regular | 1120 🔻  (-12)|
+| ELO Competitive | 1135 🔻  (-13)|
+| Total Matches | 7 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1776780155,1774019104,1774013695,1771175213,1770726051,1770288005];
+        let timestamps = [1792720175,1776780155,1774019104,1774013695,1771175213,1770726051,1770288005];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/28 | 0-1 | [銀河星际集团](https://ws.tsl.rocks/corp/c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411/) |
 | ❌ | 2026/04/26 | 1-8 | [Pluto](https://ws.tsl.rocks/corp/9d229bf57a21235859a00a58e0f951d0ee44ac28c8347fbedaf047d434e0bdf1/) |
 | ↔️ | 2026/03/25 | 2-2 | [Dominion](https://ws.tsl.rocks/corp/b21694860ba07663daf94aff0e0f35e80ab28f41fd94d70e3caee0aa6bacbb12/) |
 | ❌ | 2026/03/25 | 0-14 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
@@ -147,5 +148,5 @@ Corporation ID: ee41cb7209a13177edbf1aefc3f3b01a86ba867bc141ba5adc7789c5a6742977
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1777212155"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793152175"></span>
 </div>

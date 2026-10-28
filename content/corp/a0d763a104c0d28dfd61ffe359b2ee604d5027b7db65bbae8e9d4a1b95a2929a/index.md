@@ -1,6 +1,6 @@
 ---
 title: ​Rabid Butterfly
-description: W:3 L:2 D:0 Bonus ✅ 36%
+description: W:3 L:2 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 5 **Brethren Court**
 date: 2026-10-26T04:19:44.000Z
@@ -15,7 +15,7 @@ date: 2026-10-26T04:19:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
