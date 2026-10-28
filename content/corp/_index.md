@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-28T06:55:40.106Z
+date: 2026-10-28T09:55:40.759Z
 summary: "Corporation directory"
 ---
 
@@ -133,7 +133,7 @@ summary: "Corporation directory"
 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) | 1303 | 1445 | 51 |
 | [BLOK EKIPA](https://ws.tsl.rocks/corp/b52b3a9c372aec6edf23c2fe617847cf4772d46976f5828c415089f5ae0bbcdd/) | 1147 | 1153 | 3 |
 | [Blood Brigade](https://ws.tsl.rocks/corp/ce89aabee19fb85413de6412017d664476f90eef8c162ac415b289797bc770b6/) | 1195 | 1196 | 1 |
-| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1379 | 1982 | 289 |
+| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 1366 | 1962 | 290 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1172 | 1398 | 111 |
 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) | 1166 | 1220 | 15 |
 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) | 1194 | 1213 | 9 |
@@ -460,7 +460,7 @@ summary: "Corporation directory"
 | [Goa'uld](https://ws.tsl.rocks/corp/6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80/) | 1181 | 1182 | 3 |
 | [Goblin Squad](https://ws.tsl.rocks/corp/8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331/) | 1148 | 1211 | 15 |
 | [Gold Hoarders](https://ws.tsl.rocks/corp/aaca876416e0541c13dcce7f298b832a69bd8b10c4343cf74202d27c6abc6b67/) | 1343 | 1410 | 23 |
-| [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) | 1097 | 1211 | 51 |
+| [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) | 1091 | 1207 | 52 |
 | [gold warriors](https://ws.tsl.rocks/corp/ad1b5098c91cf95eaac6e1d12f53047e627c8cfffc513a0e83b95ccdc4f1811a/) | 1190 | 1189 | 1 |
 | [good room](https://ws.tsl.rocks/corp/6bd7c6ca9d58890fea693442136f2ec26bec804e3523b857c6279206e051a21c/) | 1188 | 1194 | 1 |
 | [good room 🤗🤗](https://ws.tsl.rocks/corp/abe32f474843aac7c8698de518c1a539300c435543ee3e00310b4872a5b91396/) | 1192 | 1195 | 1 |
@@ -1406,7 +1406,7 @@ summary: "Corporation directory"
 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) | 1037 | 1112 | 39 |
 | [Weyland Yutani](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) | 1089 | 1205 | 41 |
 | [WFOS](https://ws.tsl.rocks/corp/67334a33c731561a9645b2948596c0dd3f817703ae58e61c37dbbd2bfd4d1643/) | 1186 | 1186 | 1 |
-| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 1433 | 1881 | 192 |
+| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 1446 | 1900 | 193 |
 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) | 1154 | 1156 | 7 |
 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) | 1267 | 1526 | 92 |
 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) | 1332 | 1435 | 78 |
@@ -1727,7 +1727,7 @@ summary: "Corporation directory"
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 1075 | 1153 | 55 |
 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) | 1150 | 1156 | 9 |
 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) | 1282 | 1355 | 25 |
-| [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb/) | 1326 | 1508 | 51 |
+| [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb/) | 1332 | 1513 | 52 |
 | [传说之下3](https://ws.tsl.rocks/corp/32a328c15e959a5349e4de24b126a4f8fa7e71fd5683e5d9f2074dde87d36a30/) | 1199 | 1208 | 3 |
 | [伪天星集团](https://ws.tsl.rocks/corp/53966bd236f5b18d9f651eff62ee3583704ef3016e1caa8ec7252ee1ed810231/) | 1161 | 1208 | 7 |
 | [何为真理](https://ws.tsl.rocks/corp/11ae6056674de9247ee3d35dd0e11fb61b0bf5c4a76f813935502e409761c854/) | 1200 | 1213 | 5 |

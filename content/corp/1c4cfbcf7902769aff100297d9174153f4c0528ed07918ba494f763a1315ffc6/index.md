@@ -1,6 +1,6 @@
 ---
 title: ​The Allegiant
-description: W:66 L:77 D:3 Bonus ✅ 46%
+description: W:66 L:77 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 47 - 0 **世外桃源**
 date: 2026-10-21T09:35:23.000Z
@@ -19,7 +19,7 @@ Red_Coat_Mafia
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

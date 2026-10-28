@@ -152,23 +152,16 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>10</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>10</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>9</td>
-                    <td><img src="default.png" alt="default"></td>
+                    <td>2</td>
+                    <td><img src="shield.png" alt="shield"></td>
                     <td>RS11</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>8</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS12</td>
                     <td>360%</td>
                 </tr>
             
@@ -177,14 +170,138 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>15</td>
+                    <td>10</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>6</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS10</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS11</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS12</td>
                     <td>360%</td>
                 </tr>
             
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS11</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS11</td>
+                    <td>320%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS10</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS10</td>
+                    <td>320%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS9</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS9</td>
+                    <td>320%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS8</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS8</td>
+                    <td>320%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS7</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
+                    <td>10</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS7</td>
+                    <td>320%</td>
+                </tr>
+            
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/700759283628900461">Red_Coat_Mafia</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">MrAlGore</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>5</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
         </tr>
     </table>
     <table>
