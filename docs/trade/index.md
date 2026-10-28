@@ -294,8 +294,61 @@ searchHidden: true
         </tr>
         
                 <tr>
+                    <td>2</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
                     <td>5</td>
                     <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
                     <td>RS9</td>
                     <td>318%</td>
                 </tr>

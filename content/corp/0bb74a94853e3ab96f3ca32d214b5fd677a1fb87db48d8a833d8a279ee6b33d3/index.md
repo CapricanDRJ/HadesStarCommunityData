@@ -1,6 +1,6 @@
 ---
 title: ​星际联邦
-description: W:30 L:10 D:1 Bonus ✅ 38%
+description: W:30 L:10 D:1 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 21 - 0 **КОРПОРАЦИЯ ЗЛА**
 date: 2026-10-21T12:00:34.000Z
@@ -15,7 +15,7 @@ date: 2026-10-21T12:00:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
