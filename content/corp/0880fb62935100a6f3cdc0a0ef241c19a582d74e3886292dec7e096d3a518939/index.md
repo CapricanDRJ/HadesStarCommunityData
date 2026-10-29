@@ -1,9 +1,9 @@
 ---
 title: ​Akatsuki
-description: W:1 L:1 D:0 Bonus ❌ 3%
+description: W:2 L:1 D:0 Bonus ✅ 26%
 image: ./favicon.png
-Summary: ❌ 3 - 9 **奇点教会**
-date: 2026-10-21T03:34:51.000Z
+Summary: ✅ 14 - 2 **红日初升，其道大光**
+date: 2026-10-29T00:22:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-21T03:34:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (-11)|
-| ELO Competitive | 1210 🔻  (-8)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1216 🔺  (10)|
+| ELO Competitive | 1236 🔺  (25)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792121691,1791320201];
+        let timestamps = [1792801372,1792121691,1791320201];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/29 | 14-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/10/21 | 3-9 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
 | ✅ | 2026/10/11 | 8-3 | [Untitled](https://ws.tsl.rocks/corp/305784e9338a041a730cb3abeb4244f9bfd32abf704e052a1920bf6fb7a11eb3/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792553691"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793233372"></span>
 </div>

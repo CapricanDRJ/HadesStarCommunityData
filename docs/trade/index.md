@@ -66,6 +66,13 @@ searchHidden: true
         </tr>
         
                 <tr>
+                    <td>4</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS12</td>
+                    <td>360%</td>
+                </tr>
+            
+                <tr>
                     <td>2</td>
                     <td><img src="shield.png" alt="shield"></td>
                     <td>RS11</td>
@@ -203,7 +210,7 @@ searchHidden: true
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
         </tr>
     </table>
     <table>
