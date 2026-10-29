@@ -1,6 +1,6 @@
 ---
 title: ​ItaFederalFleet
-description: W:32 L:28 D:3 Bonus ✅ 36%
+description: W:32 L:28 D:3 Bonus ❌ 36%
 image: ./favicon.png
 Summary: ✅ 24 - 6 **Cerulean Galaxy**
 date: 2026-10-22T18:53:13.000Z
@@ -18,7 +18,7 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 36%
 
 | Statistic | Value |
 | --- | --- |

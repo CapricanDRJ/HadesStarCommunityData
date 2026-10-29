@@ -1,9 +1,9 @@
 ---
 title: ​W.A.L.R.U.S.
-description: W:6 L:27 D:3 Bonus ❌ 6%
+description: W:6 L:28 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 15 **NERF TOY'S**
-date: 2026-10-21T15:20:54.000Z
+Summary: ❌ 0 - 12 **何为真理**
+date: 2026-10-29T18:43:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-21T15:20:54.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1037 🔻  (-11)|
-| ELO Competitive | 1117 🔻  (-4)|
-| Total Matches | 36 |
+| ELO Regular | 1031 🔻  (-6)|
+| ELO Competitive | 1112 🔻  (-5)|
+| Total Matches | 37 |
 | Wins | 6 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 3 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792164054,1791053575,1789596524,1789049137,1787396157,1785417152,1783382644,1781703758,1780756018,1780037047,1778917184,1778148350,1777060685,1776488132,1775844306,1774725422,1774076791,1772913210,1772007106,1771534545,1770776160,1769112882,1768675002,1767303538,1766791304,1766161535,1765638460,1765132743,1764698009,1764264381,1763784591,1762894970,1762363445,1761854721,1761311254,1760765797];
+        let timestamps = [1792867435,1792164054,1791053575,1789596524,1789049137,1787396157,1785417152,1783382644,1781703758,1780756018,1780037047,1778917184,1778148350,1777060685,1776488132,1775844306,1774725422,1774076791,1772913210,1772007106,1771534545,1770776160,1769112882,1768675002,1767303538,1766791304,1766161535,1765638460,1765132743,1764698009,1764264381,1763784591,1762894970,1762363445,1761854721,1761311254,1760765797];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/29 | 0-12 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
 | ❌ | 2026/10/21 | 3-15 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/10/08 | 3-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
 | ❌ | 2026/09/21 | 0-15 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
@@ -184,5 +185,5 @@ Corporation ID: 3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792596054"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793299435"></span>
 </div>

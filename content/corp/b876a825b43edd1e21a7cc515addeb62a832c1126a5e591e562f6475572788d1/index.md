@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:64 L:94 D:1 Bonus ✅ 48%
+description: W:64 L:94 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 5 - 15 **Dark Monarchs**
 date: 2026-10-28T21:11:50.000Z
@@ -17,7 +17,7 @@ date: 2026-10-28T21:11:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

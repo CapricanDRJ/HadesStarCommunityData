@@ -1,6 +1,6 @@
 ---
 title: ​Lololol
-description: W:47 L:39 D:2 Bonus ✅ 40%
+description: W:47 L:39 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 25 - 3 **Вселенские 40%**
 date: 2026-10-22T15:57:57.000Z
@@ -15,7 +15,7 @@ date: 2026-10-22T15:57:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
