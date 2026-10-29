@@ -1,9 +1,9 @@
 ---
 title: ​Best
-description: W:3 L:40 D:0 Bonus ❌ 15%
+description: W:3 L:41 D:0 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 3 - 42 **星域**
-date: 2026-10-24T02:31:30.000Z
+Summary: ❌ 0 - 37 **\*СССР\***
+date: 2026-10-29T18:53:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2026-10-24T02:31:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 949 🔻  (-13)|
-| ELO Competitive | 1151 🔻  (-5)|
-| Total Matches | 43 |
+| ELO Regular | 947 🔻  (-3)|
+| ELO Competitive | 1150 🔻  (-1)|
+| Total Matches | 44 |
 | Wins | 3 |
-| Losses | 40 |
+| Losses | 41 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792377090,1791869852,1791435888,1790967274,1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
+        let timestamps = [1792868036,1792377090,1791869852,1791435888,1790967274,1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/29 | 0-37 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2026/10/24 | 3-42 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | ❌ | 2026/10/18 | 3-50 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2026/10/13 | 3-46 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
@@ -197,5 +198,5 @@ Corporation ID: bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792809090"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793300036"></span>
 </div>

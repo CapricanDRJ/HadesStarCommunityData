@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Mudes"
-description: "ws: 4 μ: 24.01"
+description: "ws: 5 μ: 23.43"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 4
-- **Rating**: -0.59
-- **μ**: 24.01  
-- **σ**: 8.20
-- W: 1, L: 3, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 5
+- **Rating**: -1.05
+- **μ**: 23.43  
+- **σ**: 8.16
+- W: 1, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 4 μ: 24.01"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 4 |
+| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 4 μ: 24.01"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6-9 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-09-03 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6-17 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-06-26 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6-24 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-04-10 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 4-20 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |

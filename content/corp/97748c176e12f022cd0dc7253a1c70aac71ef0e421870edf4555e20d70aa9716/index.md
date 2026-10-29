@@ -1,6 +1,6 @@
 ---
 title: ​Critical Mass
-description: W:80 L:37 D:2 Bonus ✅ 48%
+description: W:80 L:37 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 24 **Rogue One**
 date: 2026-10-28T14:33:09.000Z
@@ -15,7 +15,7 @@ date: 2026-10-28T14:33:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

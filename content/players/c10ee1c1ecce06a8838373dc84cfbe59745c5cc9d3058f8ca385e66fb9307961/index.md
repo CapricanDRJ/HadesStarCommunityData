@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "REAPER"
-description: "ws: 12 μ: 25.70"
+description: "ws: 13 μ: 26.19"
 ---
-- **WhiteStars**: 12
-- **Eligible**: 4
-- **Rating**: 0.90
-- **μ**: 25.70  
-- **σ**: 8.27
-- W: 12, L: 0, T: 0
+- **WhiteStars**: 13
+- **Eligible**: 5
+- **Rating**: 1.50
+- **μ**: 26.19  
+- **σ**: 8.23
+- W: 13, L: 0, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 12 μ: 25.70"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 4 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 12 μ: 25.70"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 9-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | 2026-08-19 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 16-3 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | 2026-08-14 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 30-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | 2026-08-09 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 11-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

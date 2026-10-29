@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Mylena Vollardor"
-description: "ws: 5 μ: 25.05"
+description: "ws: 6 μ: 24.18"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 5
-- **Rating**: 0.54
-- **μ**: 25.05  
-- **σ**: 8.17
-- W: 2, L: 3, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 6
+- **Rating**: -0.23
+- **μ**: 24.18  
+- **σ**: 8.14
+- W: 2, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 25.05"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 5 |
+| [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 25.05"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6-9 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-10-02 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 4-16 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-06-26 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 6-24 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-05-15 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 15-3 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
