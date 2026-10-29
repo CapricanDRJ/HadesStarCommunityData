@@ -1,6 +1,6 @@
 ---
 title: ​Red Alliance
-description: W:70 L:86 D:8 Bonus ✅ 46%
+description: W:70 L:86 D:8 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 10 - 7 **红日初升，其道大光**
 date: 2026-10-22T13:47:44.000Z
@@ -15,7 +15,7 @@ English speaking – would you want to communicate
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

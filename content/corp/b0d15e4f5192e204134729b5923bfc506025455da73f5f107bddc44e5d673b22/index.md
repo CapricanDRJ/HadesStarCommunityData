@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:10 L:22 D:3 Bonus ❌ 8%
+description: W:11 L:22 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **宇宙聯盟**
-date: 2026-10-29T11:29:20.000Z
+Summary: ✅ 11 - 0 **落魄山**
+date: 2026-10-29T12:48:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-29T11:29:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔺  (5)|
-| ELO Competitive | 1299 🔻  (-1)|
-| Total Matches | 35 |
-| Wins | 10 |
+| ELO Regular | 1125 🔺  (7)|
+| ELO Competitive | 1316 🔺  (15)|
+| Total Matches | 36 |
+| Wins | 11 |
 | Losses | 22 |
 | Draws | 3 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/29 | 11-0 | [落魄山](https://ws.tsl.rocks/corp/9d8f3705cfb7a51ea635285d0069c819d598b63819bffe518ea3c5da7b329573/) |
 | ↔️ | 2026/10/29 | 0-0 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ❌ | 2026/10/22 | 0-3 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/10/22 | 11-3 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
@@ -184,5 +185,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793273360"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793278092"></span>
 </div>
