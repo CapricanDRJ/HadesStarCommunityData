@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-10-29T09:55:40.124Z
+date: 2026-10-29T12:55:41.402Z
 summary: "Corporation directory"
 ---
 
@@ -814,7 +814,7 @@ summary: "Corporation directory"
 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) | 1304 | 1348 | 32 |
 | [P\.A\.R\.T\.Y\.](https://ws.tsl.rocks/corp/0a99fe8c93f61ab28ca67f210967d61b13da1670b60c8b8b233c700b674f410c/) | 1203 | 1219 | 2 |
 | [Panda clan](https://ws.tsl.rocks/corp/7ed113dd0f507f55dbf4d75c26fff0611395492a423c7e9201e7165278d2fd23/) | 1238 | 1247 | 8 |
-| [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) | 1113 | 1301 | 34 |
+| [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) | 1118 | 1299 | 35 |
 | [Paramedic ICU](https://ws.tsl.rocks/corp/2b046351c951cf9e05492ee383c44783b21c628831f51b1a04c9e5404b9b9fa3/) | 1233 | 1252 | 19 |
 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) | 1249 | 1267 | 24 |
 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) | 1088 | 1231 | 69 |
@@ -1797,7 +1797,7 @@ summary: "Corporation directory"
 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) | 1329 | 1372 | 23 |
 | [宇宙生協](https://ws.tsl.rocks/corp/2183982f221c89c752bcd4baecf8707bd0d9d595cb56eff7df68417aea85b219/) | 1185 | 1186 | 1 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 1167 | 1376 | 170 |
-| [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) | 1233 | 1273 | 14 |
+| [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) | 1228 | 1273 | 15 |
 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) | 1322 | 1356 | 28 |
 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) | 1300 | 1371 | 39 |
 | [宇氏集团](https://ws.tsl.rocks/corp/80315b4e1e3c22c7a5770a4fe63dd861fc3586e2d538f585b2aa8feb8f009713/) | 1174 | 1174 | 2 |

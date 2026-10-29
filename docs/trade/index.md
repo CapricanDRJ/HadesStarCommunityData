@@ -230,48 +230,27 @@ searchHidden: true
         
                 <tr>
                     <td>2</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>12</td>
                     <td><img src="shield.png" alt="shield"></td>
                     <td>RS9</td>
                     <td>318%</td>
                 </tr>
             
                 <tr>
-                    <td>3</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="shield.png" alt="shield"></td>
+                    <td>4</td>
+                    <td><img src="combat.png" alt="combat"></td>
                     <td>RS9</td>
                     <td>318%</td>
                 </tr>
             
                 <tr>
                     <td>5</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
                     <td><img src="drone.png" alt="drone"></td>
                     <td>RS9</td>
                     <td>318%</td>
@@ -288,34 +267,15 @@ searchHidden: true
                     <td>318%</td>
                 </tr>
             
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">SMateD</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
                 <tr>
                     <td>1</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS10</td>
-                    <td>320%</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/1188603970650898515">The Warriorlords gathering hall</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
         </tr>
     </table>
     <table>
