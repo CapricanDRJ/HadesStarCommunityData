@@ -1,6 +1,6 @@
 ---
 title: ​Слава Украине!
-description: W:222 L:120 D:2 Bonus ✅ 56%
+description: W:222 L:120 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 3 - 44 **BlackStar Order**
 date: 2026-10-28T17:18:27.000Z
@@ -18,7 +18,7 @@ date: 2026-10-28T17:18:27.000Z
 <br>
 
 ### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

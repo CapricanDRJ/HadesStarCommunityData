@@ -1,9 +1,9 @@
 ---
 title: ​奇点教会
-description: W:21 L:12 D:4 Bonus ❌ 8%
+description: W:21 L:13 D:4 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 9 - 3 **Akatsuki**
-date: 2026-10-21T03:34:51.000Z
+Summary: ❌ 4 - 17 **REAPERS**
+date: 2026-10-29T06:07:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-21T03:34:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (11)|
-| ELO Competitive | 1402 🔺  (8)|
-| Total Matches | 37 |
+| ELO Regular | 1305 🔻  (-9)|
+| ELO Competitive | 1394 🔻  (-8)|
+| Total Matches | 38 |
 | Wins | 21 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 4 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792121691,1791195789,1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
+        let timestamps = [1792822053,1792121691,1791195789,1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/29 | 4-17 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ✅ | 2026/10/21 | 9-3 | [Akatsuki](https://ws.tsl.rocks/corp/0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939/) |
 | ✅ | 2026/10/10 | 6-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2026/10/05 | 6-1 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
@@ -187,5 +187,5 @@ Corporation ID: f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792553691"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793254053"></span>
 </div>

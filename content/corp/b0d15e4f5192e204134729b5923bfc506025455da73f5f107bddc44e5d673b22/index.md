@@ -1,6 +1,6 @@
 ---
 title: ​ParalleL
-description: W:10 L:22 D:2 Bonus ✅ 34%
+description: W:10 L:22 D:2 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 3 **无人深空**
 date: 2026-10-22T05:42:02.000Z
@@ -15,7 +15,7 @@ date: 2026-10-22T05:42:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
