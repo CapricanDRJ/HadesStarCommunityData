@@ -1,9 +1,9 @@
 ---
 title: ​Petronus7
-description: W:0 L:1 D:0 Bonus ❌ 4%
+description: W:0 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **星际联邦**
-date: 2026-09-21T11:44:47.000Z
+Summary: ↔️ 0 - 0 **UNSC**
+date: 2026-10-29T23:16:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-09-21T11:44:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (-9)|
-| ELO Competitive | 1193 🔻  (-7)|
-| Total Matches | 1 |
+| ELO Regular | 1191 🔺  (0)|
+| ELO Competitive | 1194 🔺  (0)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789559087];
+        let timestamps = [1792883795,1789559087];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/29 | 0-0 | [UNSC](https://ws.tsl.rocks/corp/22672847507d30b63230cc8a680ed365280b23759b64ea86d43edc507530fed8/) |
 | ❌ | 2026/09/21 | 0-10 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 42fba3023377f1358e181e639f4a408dc97841c8b7cf802ea1d1a29381da5702
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789991087"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793315795"></span>
 </div>

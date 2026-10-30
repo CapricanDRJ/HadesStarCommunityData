@@ -73,13 +73,6 @@ searchHidden: true
                 </tr>
             
                 <tr>
-                    <td>3</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
                     <td>2</td>
                     <td><img src="combat.png" alt="combat"></td>
                     <td>RS11</td>
