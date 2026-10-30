@@ -66,13 +66,6 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>4</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
                     <td>2</td>
                     <td><img src="combat.png" alt="combat"></td>
                     <td>RS11</td>
@@ -194,7 +187,7 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">MrAlGore</th>
+            <th colspan="4" class="username-header">Mr ExcelsiGor🏴‍☠️</th>
         </tr>
         <tr>
             <th>Amount</th>
@@ -254,7 +247,7 @@ searchHidden: true
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
         </tr>
     </table>
     <table>

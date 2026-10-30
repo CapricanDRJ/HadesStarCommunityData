@@ -1,9 +1,9 @@
 ---
 title: ​中华五千年
-description: W:31 L:19 D:2 Bonus ❌ 10%
+description: W:32 L:19 D:2 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ❌ 0 - 15 **契约\-璃月**
-date: 2026-10-19T01:21:01.000Z
+Summary: ✅ 9 - 0 **Sunat\.**
+date: 2026-10-30T06:16:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-19T01:21:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔻  (-15)|
-| ELO Competitive | 1422 🔻  (-8)|
-| Total Matches | 52 |
-| Wins | 31 |
+| ELO Regular | 1329 🔺  (11)|
+| ELO Competitive | 1430 🔺  (8)|
+| Total Matches | 53 |
+| Wins | 32 |
 | Losses | 19 |
 | Draws | 2 |
 | Streak Record | 6 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791940861,1791308623,1791299509,1790791022,1790783413,1789694443,1789214913,1789096668,1788602662,1787871768,1787840759,1787401565,1786955423,1786060861,1786059447,1785615738,1785602300,1785051221,1784465690,1783910484,1783475770,1782986971,1782530019,1782020435,1781585535,1780986316,1780496042,1778672630,1778148350,1777692005,1777637928,1777174879,1777167435,1776609510,1776607406,1776165470,1776163066,1775718418,1775655326,1775235602,1774853440,1774788855,1774344791,1774066411,1773847555,1773409811,1773325692,1772720640,1772278995,1771838268,1771405946,1770973310];
+        let timestamps = [1792909010,1791940861,1791308623,1791299509,1790791022,1790783413,1789694443,1789214913,1789096668,1788602662,1787871768,1787840759,1787401565,1786955423,1786060861,1786059447,1785615738,1785602300,1785051221,1784465690,1783910484,1783475770,1782986971,1782530019,1782020435,1781585535,1780986316,1780496042,1778672630,1778148350,1777692005,1777637928,1777174879,1777167435,1776609510,1776607406,1776165470,1776163066,1775718418,1775655326,1775235602,1774853440,1774788855,1774344791,1774066411,1773847555,1773409811,1773325692,1772720640,1772278995,1771838268,1771405946,1770973310];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/30 | 9-0 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
 | ❌ | 2026/10/19 | 0-15 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
 | ✅ | 2026/10/11 | 10-1 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) |
 | ✅ | 2026/10/11 | 5-3 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
@@ -204,5 +205,5 @@ Corporation ID: c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792372861"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793341010"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Sunat.
-description: W:6 L:5 D:1 Bonus ✅ 32%
+description: W:6 L:6 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **拼好团**
-date: 2026-10-24T20:12:12.000Z
+Summary: ❌ 0 - 9 **中华五千年**
+date: 2026-10-30T06:16:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-24T20:12:12.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (15)|
-| ELO Competitive | 1244 🔺  (14)|
-| Total Matches | 12 |
+| ELO Regular | 1208 🔻  (-11)|
+| ELO Competitive | 1236 🔻  (-8)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792440732,1791936957,1791500480,1790950145,1789664106,1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
+        let timestamps = [1792909010,1792440732,1791936957,1791500480,1790950145,1789664106,1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/30 | 0-9 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ✅ | 2026/10/24 | 3-0 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
 | ❌ | 2026/10/19 | 0-19 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ✅ | 2026/10/13 | 7-2 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
@@ -159,5 +160,5 @@ Corporation ID: b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792872732"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793341010"></span>
 </div>
