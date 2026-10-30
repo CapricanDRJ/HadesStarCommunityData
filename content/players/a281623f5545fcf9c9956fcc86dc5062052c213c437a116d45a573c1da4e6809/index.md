@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Capitán Phoenix"
-description: "ws: 1 μ: 24.25"
+description: "ws: 2 μ: 24.25"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: -0.64
 - **μ**: 24.25  
 - **σ**: 8.30
-- W: 0, L: 1, T: 0
+- W: 0, L: 2, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 24.25"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-10-30 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) | 1-10 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2025-05-27 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) | 4-40 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |

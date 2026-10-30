@@ -1,9 +1,9 @@
 ---
 title: ​Cerulean Galaxy
-description: W:5 L:6 D:1 Bonus ❌ 6%
+description: W:5 L:7 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 6 - 24 **ItaFederalFleet**
-date: 2026-10-22T18:53:13.000Z
+Summary: ❌ 3 - 12 **ALPHA**
+date: 2026-10-30T17:42:43.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-22T18:53:13.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (-15)|
-| ELO Competitive | 1265 🔻  (-12)|
-| Total Matches | 12 |
+| ELO Regular | 1193 🔻  (-18)|
+| ELO Competitive | 1253 🔻  (-12)|
+| Total Matches | 13 |
 | Wins | 5 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792263193,1791648272,1790718531,1789861880,1789374825,1788809687,1788311544,1787878377,1787439728,1786920878,1786294730,1785781596];
+        let timestamps = [1792950163,1792263193,1791648272,1790718531,1789861880,1789374825,1788809687,1788311544,1787878377,1787439728,1786920878,1786294730,1785781596];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/30 | 3-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2026/10/22 | 6-24 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2026/10/15 | 4-1 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/10/04 | 2-31 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
@@ -154,5 +155,5 @@ Corporation ID: 98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792695193"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793382163"></span>
 </div>

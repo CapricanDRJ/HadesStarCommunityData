@@ -1,9 +1,9 @@
 ---
 title: ​Knights of Solo
-description: W:9 L:9 D:2 Bonus ❌ 6%
+description: W:9 L:10 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **NERF TOY'S**
-date: 2026-10-16T14:51:27.000Z
+Summary: ❌ 4 - 5 **太阳系星盟**
+date: 2026-10-30T17:42:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-16T14:51:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (13)|
-| ELO Competitive | 1300 🔺  (22)|
-| Total Matches | 20 |
+| ELO Regular | 1208 🔻  (-14)|
+| ELO Competitive | 1284 🔻  (-17)|
+| Total Matches | 21 |
 | Wins | 9 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791730287,1791219906,1790028798,1789511811,1788822607,1788366816,1787203588,1787023024,1786268889,1785795119,1785726010,1785100797,1784380164,1784379397,1783715811,1783475770,1782351668,1781842395,1781383190,1780788367];
+        let timestamps = [1792950129,1791730287,1791219906,1790028798,1789511811,1788822607,1788366816,1787203588,1787023024,1786268889,1785795119,1785726010,1785100797,1784380164,1784379397,1783715811,1783475770,1782351668,1781842395,1781383190,1780788367];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/30 | 4-5 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ✅ | 2026/10/16 | 3-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/10/10 | 6-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
 | ✅ | 2026/09/26 | 5-0 | [GermanSpaceDuo](https://ws.tsl.rocks/corp/4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933/) |
@@ -168,5 +168,5 @@ Corporation ID: ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792162287"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793382129"></span>
 </div>

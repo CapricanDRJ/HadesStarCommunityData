@@ -1,6 +1,6 @@
 ---
 title: ​9-Й СКОРПИОН
-description: W:87 L:35 D:3 Bonus ✅ 46%
+description: W:87 L:35 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 34 - 3 **Highlife**
 date: 2026-10-23T17:50:04.000Z
@@ -17,7 +17,7 @@ date: 2026-10-23T17:50:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
