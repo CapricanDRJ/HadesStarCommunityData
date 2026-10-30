@@ -1,9 +1,9 @@
 ---
 title: ​InfinityCorp
-description: W:0 L:0 D:1 Bonus ❌ 1%
+description: W:0 L:0 D:2 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **日月联邦**
-date: 2025-10-07T05:09:47.000Z
+Summary: ↔️ 0 - 0 **何为真理**
+date: 2026-10-30T07:05:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2025-10-07T05:09:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (-1)|
-| ELO Competitive | 1199 🔻  (-1)|
-| Total Matches | 1 |
+| ELO Regular | 1202 🔺  (3)|
+| ELO Competitive | 1206 🔺  (8)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 0 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1759381787];
+        let timestamps = [1792911919,1759381787];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/10/30 | 0-0 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
 | ↔️ | 2025/10/07 | 0-0 | [日月联邦](https://ws.tsl.rocks/corp/c3b2a7abf778108f6f59d5275315191b33fbd40cec534cf0d87ceadc7da58e00/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: f77a735eeb6db9f7c867449823b6384579c6fea6a0a915efcb23559e75ed512b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1759813787"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793343919"></span>
 </div>
