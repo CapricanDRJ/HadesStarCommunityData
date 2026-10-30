@@ -1,6 +1,6 @@
 ---
 title: ​alienigenas
-description: W:65 L:17 D:0 Bonus ✅ 48%
+description: W:65 L:17 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 36 - 4 **Gummibärenbande**
 date: 2026-10-23T15:39:51.000Z
@@ -20,7 +20,7 @@ guna actividad con los demas compañeros
 <br>
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

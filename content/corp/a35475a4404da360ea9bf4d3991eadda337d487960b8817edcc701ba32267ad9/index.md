@@ -1,6 +1,6 @@
 ---
 title: ​太阳系星盟 猫咪团
-description: W:1 L:0 D:0 Bonus ✅ 26%
+description: W:1 L:0 D:0 Bonus ❌ 3%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **G\.O\.D 星辰**
 date: 2026-10-23T14:44:46.000Z
@@ -15,7 +15,7 @@ date: 2026-10-23T14:44:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
