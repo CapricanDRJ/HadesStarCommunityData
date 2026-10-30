@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:64 L:33 D:3 Bonus ✅ 46%
+description: W:64 L:33 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 54 **Imperium XIII**
 date: 2026-10-24T05:35:55.000Z
@@ -17,7 +17,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

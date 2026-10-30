@@ -1,6 +1,6 @@
 ---
 title: ​Quantum Mass
-description: W:19 L:6 D:0 Bonus ✅ 34%
+description: W:19 L:6 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **GN星际联合**
 date: 2026-10-23T10:29:14.000Z
@@ -15,7 +15,7 @@ date: 2026-10-23T10:29:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
