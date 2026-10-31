@@ -1,9 +1,9 @@
 ---
 title: ​Тишина
-description: W:5 L:19 D:0 Bonus ❌ 6%
+description: W:6 L:19 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Atlas Star llc\.**
-date: 2026-10-26T05:49:51.000Z
+Summary: ✅ 21 - 0 **NERF TOY'S**
+date: 2026-10-31T02:11:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-26T05:49:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (-7)|
-| ELO Competitive | 1221 🔻  (-3)|
-| Total Matches | 24 |
-| Wins | 5 |
+| ELO Regular | 1138 🔺  (16)|
+| ELO Competitive | 1245 🔺  (24)|
+| Total Matches | 25 |
+| Wins | 6 |
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792561791,1792395664,1791084128,1789921247,1788672969,1787531663,1786636623,1785872326,1784980920,1784094646,1783442124,1782930493,1782041169,1771989745,1768402000,1767888817,1767448362,1766872421,1764300139,1763783672,1763128092,1761883623,1760381827,1759840366];
+        let timestamps = [1792980715,1792561791,1792395664,1791084128,1789921247,1788672969,1787531663,1786636623,1785872326,1784980920,1784094646,1783442124,1782930493,1782041169,1771989745,1768402000,1767888817,1767448362,1766872421,1764300139,1763783672,1763128092,1761883623,1760381827,1759840366];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/31 | 21-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2026/10/26 | 0-3 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2026/10/24 | 3-24 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | ✅ | 2026/10/09 | 15-6 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
@@ -166,5 +167,5 @@ Corporation ID: c01132c3ce96835d1c14e411dc68417ed6fc0536d57de0f9e2a4ce86f1a739ca
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792993791"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793412715"></span>
 </div>
