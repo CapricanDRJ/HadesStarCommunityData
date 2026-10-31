@@ -1,6 +1,6 @@
 ---
 title: ​Sunat.
-description: W:6 L:6 D:1 Bonus ✅ 32%
+description: W:6 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **中华五千年**
 date: 2026-10-30T06:16:50.000Z
@@ -15,7 +15,7 @@ date: 2026-10-30T06:16:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

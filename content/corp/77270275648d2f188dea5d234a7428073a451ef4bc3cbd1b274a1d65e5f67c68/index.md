@@ -1,6 +1,6 @@
 ---
 title: ​Final
-description: W:58 L:41 D:1 Bonus ✅ 52%
+description: W:58 L:41 D:1 Bonus ❌ 52%
 image: ./favicon.png
 Summary: ✅ 11 - 1 **Nearland Ind**
 date: 2026-10-24T21:47:21.000Z
@@ -21,7 +21,7 @@ Are you RS6+ & want to join?
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 52%
 
 | Statistic | Value |
 | --- | --- |
