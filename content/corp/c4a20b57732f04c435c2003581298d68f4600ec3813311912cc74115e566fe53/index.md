@@ -1,9 +1,9 @@
 ---
 title: ​Mondluftschiff
-description: W:4 L:7 D:1 Bonus ✅ 30%
+description: W:4 L:8 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **长安三万里**
-date: 2026-10-24T12:21:25.000Z
+Summary: ❌ 3 - 4 **STAR TERROR CZ**
+date: 2026-10-31T00:15:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-24T12:21:25.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (14)|
-| ELO Competitive | 1205 🔺  (13)|
-| Total Matches | 12 |
+| ELO Regular | 1164 🔻  (-10)|
+| ELO Competitive | 1202 🔻  (-3)|
+| Total Matches | 13 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792412485,1791888586,1791437389,1790929485,1790476701,1788094686,1787661754,1787196980,1786684395,1786251942,1785768073,1785326721];
+        let timestamps = [1792973725,1792412485,1791888586,1791437389,1790929485,1790476701,1788094686,1787661754,1787196980,1786684395,1786251942,1785768073,1785326721];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/31 | 3-4 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/10/24 | 6-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
 | ❌ | 2026/10/18 | 3-10 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ❌ | 2026/10/13 | 0-3 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62/) |
@@ -159,5 +160,5 @@ Corporation ID: c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792844485"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793405725"></span>
 </div>

@@ -1,9 +1,9 @@
 ---
 title: ​Наша Вселенная
-description: W:0 L:1 D:0 Bonus ❌ 9%
+description: W:0 L:2 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 3 - 6 **\(\_\(\_Vossk\_\)\_\)**
-date: 2023-11-29T00:05:16.000Z
+Summary: ❌ 0 - 15 **Eretria**
+date: 2026-10-30T23:46:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2023-11-29T00:05:16.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (-15)|
-| ELO Competitive | 1186 🔻  (-14)|
-| Total Matches | 1 |
+| ELO Regular | 1165 🔻  (-20)|
+| ELO Competitive | 1171 🔻  (-15)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 6 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1700784316];
+        let timestamps = [1792972004,1700784316];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/30 | 0-15 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2023/11/29 | 3-6 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 
 ---
@@ -144,5 +145,5 @@ Corporation ID: 93748bc015cc77195dd939adec5d4c85b4247dba670029e59792c862e9469f20
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1701216316"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793404004"></span>
 </div>

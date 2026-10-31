@@ -73,13 +73,6 @@ searchHidden: true
                 </tr>
             
                 <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
                     <td>5</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS11</td>
@@ -118,20 +111,6 @@ searchHidden: true
                     <td>1</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS10</td>
                     <td>360%</td>
                 </tr>
             
@@ -222,7 +201,7 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">MrAlGore</th>
+            <th colspan="4" class="username-header">Mr ExcelsiGor🏴‍☠️</th>
         </tr>
         <tr>
             <th>Amount</th>
@@ -310,6 +289,32 @@ searchHidden: true
                 </tr>
             
         <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">MrAlGore</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>5</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+        <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
         </tr>
     </table>
@@ -337,39 +342,6 @@ searchHidden: true
             
         <tr>
             <td colspan="4">Guild: Private</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">wungju</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
         </tr>
     </table>
     </div>
