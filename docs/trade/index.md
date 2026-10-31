@@ -201,7 +201,7 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Mr ExcelsiGor🏴‍☠️</th>
+            <th colspan="4" class="username-header">MrAlGore</th>
         </tr>
         <tr>
             <th>Amount</th>
@@ -214,6 +214,27 @@ searchHidden: true
             <td colspan="4">🏷️ Offering</td>
         </tr>
         
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS11</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>318%</td>
+                </tr>
+            
                 <tr>
                     <td>5</td>
                     <td><img src="drone.png" alt="drone"></td>
@@ -292,46 +313,6 @@ searchHidden: true
                     <td>1</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">MrAlGore</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>1</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS11</td>
                     <td>318%</td>
                 </tr>
             

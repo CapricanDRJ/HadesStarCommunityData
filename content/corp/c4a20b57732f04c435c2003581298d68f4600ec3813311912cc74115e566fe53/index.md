@@ -1,6 +1,6 @@
 ---
 title: ​Mondluftschiff
-description: W:4 L:8 D:1 Bonus ✅ 30%
+description: W:4 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 3 - 4 **STAR TERROR CZ**
 date: 2026-10-31T00:15:25.000Z
@@ -15,7 +15,7 @@ date: 2026-10-31T00:15:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

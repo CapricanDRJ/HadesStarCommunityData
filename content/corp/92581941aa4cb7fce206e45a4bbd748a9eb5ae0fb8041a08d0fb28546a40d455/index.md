@@ -1,9 +1,9 @@
 ---
 title: ​启示空间
-description: W:1 L:6 D:1 Bonus ❌ 3%
+description: W:1 L:7 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 2 - 4 **龙的传人分团**
-date: 2026-04-14T11:17:18.000Z
+Summary: ❌ 0 - 3 **Keltiad**
+date: 2026-10-31T11:23:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-04-14T11:17:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (-12)|
-| ELO Competitive | 1146 🔻  (-12)|
-| Total Matches | 8 |
+| ELO Regular | 1127 🔻  (-13)|
+| ELO Competitive | 1133 🔻  (-13)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1775733438,1775156395,1774529260,1774066411,1773557275,1773066721,1738871056,1738333119];
+        let timestamps = [1793013780,1775733438,1775156395,1774529260,1774066411,1773557275,1773066721,1738871056,1738333119];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/31 | 0-3 | [Keltiad](https://ws.tsl.rocks/corp/65e85bf371d3816b9fde6543ff13b0911ac57ac916e3a589dbce3b1a95b40618/) |
 | ❌ | 2026/04/14 | 2-4 | [龙的传人分团](https://ws.tsl.rocks/corp/fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc/) |
 | ↔️ | 2026/04/07 | 3-3 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad/) |
 | ❌ | 2026/03/31 | 0-3 | [Dominion](https://ws.tsl.rocks/corp/b21694860ba07663daf94aff0e0f35e80ab28f41fd94d70e3caee0aa6bacbb12/) |
@@ -149,5 +150,5 @@ Corporation ID: 92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1776165438"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793445780"></span>
 </div>

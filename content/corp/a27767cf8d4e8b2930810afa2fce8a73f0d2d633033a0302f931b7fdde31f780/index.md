@@ -1,6 +1,6 @@
 ---
 title: ​Spacekill
-description: W:6 L:12 D:3 Bonus ✅ 32%
+description: W:6 L:12 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 6 - 18 **E\.T\.A**
 date: 2026-10-29T13:28:17.000Z
@@ -15,7 +15,7 @@ date: 2026-10-29T13:28:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

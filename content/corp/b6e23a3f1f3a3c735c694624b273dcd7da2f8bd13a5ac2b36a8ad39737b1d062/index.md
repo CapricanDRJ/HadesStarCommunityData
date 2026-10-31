@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:130 L:26 D:0 Bonus ✅ 56%
+description: W:130 L:26 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 25 - 9 **IX Легион**
 date: 2026-10-24T10:06:13.000Z
@@ -21,7 +21,7 @@ date: 2026-10-24T10:06:13.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

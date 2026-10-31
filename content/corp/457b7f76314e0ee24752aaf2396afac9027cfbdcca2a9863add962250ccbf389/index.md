@@ -1,6 +1,6 @@
 ---
 title: ​Лунный Феникс
-description: W:132 L:81 D:4 Bonus ✅ 52%
+description: W:132 L:81 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ↔️ 10 - 10 **Bastille FR**
 date: 2026-10-25T07:17:59.000Z
@@ -16,7 +16,7 @@ date: 2026-10-25T07:17:59.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
