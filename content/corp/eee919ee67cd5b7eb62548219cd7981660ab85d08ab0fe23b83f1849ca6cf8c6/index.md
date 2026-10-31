@@ -1,6 +1,6 @@
 ---
 title: ​On en a Gros !
-description: W:97 L:95 D:0 Bonus ✅ 54%
+description: W:97 L:95 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 11 - 4 **pirates spatial**
 date: 2026-10-24T09:11:09.000Z
@@ -21,7 +21,7 @@ Corpo des alts : On en a petit !
 <br>
 
 ### [Discord](https://discord.gg/EXj5vtr)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

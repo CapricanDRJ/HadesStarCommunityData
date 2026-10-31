@@ -1,6 +1,6 @@
 ---
 title: ​Halcon español
-description: W:87 L:64 D:1 Bonus ✅ 44%
+description: W:87 L:64 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 27 - 23 **Hinterm Mars**
 date: 2026-10-24T09:31:11.000Z
@@ -18,7 +18,7 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

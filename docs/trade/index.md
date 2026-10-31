@@ -215,6 +215,13 @@ searchHidden: true
         </tr>
         
                 <tr>
+                    <td>5</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS9</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
                     <td>1</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS11</td>
@@ -308,9 +315,23 @@ searchHidden: true
         </tr>
         
                 <tr>
-                    <td>5</td>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS11</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>318%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
                     <td><img src="drone.png" alt="drone"></td>
-                    <td>RS9</td>
+                    <td>RS11</td>
                     <td>318%</td>
                 </tr>
             

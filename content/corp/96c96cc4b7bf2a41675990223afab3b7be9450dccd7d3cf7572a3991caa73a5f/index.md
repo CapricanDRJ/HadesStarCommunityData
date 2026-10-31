@@ -1,6 +1,6 @@
 ---
 title: ​Austria
-description: W:36 L:25 D:1 Bonus ✅ 52%
+description: W:36 L:25 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 21 - 29 **Лунный Феникс**
 date: 2026-10-24T10:21:14.000Z
@@ -22,7 +22,7 @@ UmWZYtn9Hh
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
