@@ -1,6 +1,6 @@
 ---
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:148 L:89 D:3 Bonus ✅ 52%
+description: W:148 L:89 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 21 **Hand Of NOD\!**
 date: 2026-10-25T05:57:55.000Z
@@ -18,7 +18,7 @@ date: 2026-10-25T05:57:55.000Z
 <br>
 
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

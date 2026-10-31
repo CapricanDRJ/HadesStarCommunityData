@@ -1,6 +1,6 @@
 ---
 title: ​Grunthal Gang
-description: W:120 L:74 D:0 Bonus ✅ 56%
+description: W:120 L:74 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 46 - 0 **Dark Monarchs**
 date: 2026-10-24T17:46:56.000Z
@@ -18,7 +18,7 @@ r of our corp. https://discord.gg/jUQReQtRJN
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/jUQReQtRJN)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

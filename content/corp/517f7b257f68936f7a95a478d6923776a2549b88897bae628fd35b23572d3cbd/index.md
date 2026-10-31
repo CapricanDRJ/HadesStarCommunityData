@@ -1,6 +1,6 @@
 ---
 title: ​Spacefleet
-description: W:129 L:120 D:2 Bonus ✅ 58%
+description: W:129 L:120 D:2 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ✅ 12 - 11 **Stargate Corp**
 date: 2026-10-24T17:56:57.000Z
@@ -23,7 +23,7 @@ Discord mandatory. <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

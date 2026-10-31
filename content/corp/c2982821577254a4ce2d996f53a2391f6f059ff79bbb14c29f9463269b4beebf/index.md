@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:86 L:71 D:2 Bonus ✅ 50%
+description: W:86 L:71 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 6 - 16 **Space Potatoes**
 date: 2026-10-24T18:52:03.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
