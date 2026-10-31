@@ -1,6 +1,6 @@
 ---
 title: ​Imperium XIII
-description: W:105 L:68 D:1 Bonus ✅ 52%
+description: W:105 L:68 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 54 - 3 **星落苑**
 date: 2026-10-24T05:35:55.000Z
@@ -21,7 +21,7 @@ Discord is required.
 <br>
 
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​русь
-description: W:174 L:86 D:2 Bonus ✅ 58%
+description: W:174 L:86 D:2 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **украина№1**
 date: 2026-10-24T04:45:52.000Z
@@ -17,7 +17,7 @@ date: 2026-10-24T04:45:52.000Z
 <br>
 
 ### [Discord](https://discord.gg/bjmmfFx)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Серебряная орда
-description: W:144 L:133 D:4 Bonus ✅ 52%
+description: W:144 L:133 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 34 - 1 **Red Star**
 date: 2026-10-24T03:55:47.000Z
@@ -18,7 +18,7 @@ r="green">Русский, English
 <br>
 
 ### [Discord](https://discord.gg/p6rrFevJbJ)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
