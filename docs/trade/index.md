@@ -322,6 +322,32 @@ searchHidden: true
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">[FO] Willie C 🚾</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS9</td>
+                    <td>260%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">bbb</th>
         </tr>
         <tr>

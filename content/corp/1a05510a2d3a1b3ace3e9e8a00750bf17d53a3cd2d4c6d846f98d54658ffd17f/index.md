@@ -1,6 +1,6 @@
 ---
 title: ​imperio viltrum
-description: W:13 L:12 D:3 Bonus ✅ 34%
+description: W:13 L:12 D:3 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 7 - 3 **何为真理**
 date: 2026-10-24T13:29:19.000Z
@@ -15,7 +15,7 @@ date: 2026-10-24T13:29:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

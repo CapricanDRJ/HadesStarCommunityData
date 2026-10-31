@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:113 L:69 D:2 Bonus ✅ 56%
+description: W:113 L:69 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 35 - 1 **碧霄殿**
 date: 2026-10-24T14:56:40.000Z
@@ -16,7 +16,7 @@ date: 2026-10-24T14:56:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​战争幽灵
-description: W:1 L:22 D:0 Bonus ❌ 7%
+description: W:1 L:23 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 3 - 17 **Новый Мир**
-date: 2026-10-25T15:53:32.000Z
+Summary: ❌ 0 - 30 **自由之地**
+date: 2026-10-31T13:42:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-25T15:53:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 986 🔻  (-5)|
-| ELO Competitive | 1080 🔻  (-1)|
-| Total Matches | 23 |
+| ELO Regular | 981 🔻  (-4)|
+| ELO Competitive | 1076 🔻  (-4)|
+| Total Matches | 24 |
 | Wins | 1 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792511612,1792007873,1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
+        let timestamps = [1793022161,1792511612,1792007873,1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/10/31 | 0-30 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ❌ | 2026/10/25 | 3-17 | [Новый Мир](https://ws.tsl.rocks/corp/5563c95f687e98cc5e151634915ffa5e0f4bb39709901c5acc52e34094f19409/) |
 | ❌ | 2026/10/19 | 0-8 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2026/10/13 | 0-9 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
@@ -169,5 +170,5 @@ Corporation ID: 19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792943612"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793454161"></span>
 </div>

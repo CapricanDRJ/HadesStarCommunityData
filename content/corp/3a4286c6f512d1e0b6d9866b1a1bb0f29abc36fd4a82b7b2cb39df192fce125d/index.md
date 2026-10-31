@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mond
-description: W:161 L:134 D:1 Bonus ✅ 60%
+description: W:161 L:134 D:1 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ❌ 0 - 30 **Likapa**
 date: 2026-10-25T02:37:41.000Z
@@ -18,7 +18,7 @@ s please register exclusively via our Discord bot 🙂
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

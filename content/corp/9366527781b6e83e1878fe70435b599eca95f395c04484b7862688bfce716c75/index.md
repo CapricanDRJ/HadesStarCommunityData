@@ -1,9 +1,9 @@
 ---
 title: ​自由之地
-description: W:22 L:13 D:1 Bonus ✅ 36%
+description: W:23 L:13 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 18 - 5 **元素联邦**
-date: 2026-10-25T14:33:33.000Z
+Summary: ✅ 30 - 0 **战争幽灵**
+date: 2026-10-31T13:42:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-10-25T14:33:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔺  (20)|
-| ELO Competitive | 1413 🔺  (23)|
-| Total Matches | 36 |
-| Wins | 22 |
+| ELO Regular | 1293 🔺  (4)|
+| ELO Competitive | 1417 🔺  (4)|
+| Total Matches | 37 |
+| Wins | 23 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792506813,1792050801,1791525407,1790854310,1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
+        let timestamps = [1793022161,1792506813,1792050801,1791525407,1790854310,1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/10/31 | 30-0 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
 | ✅ | 2026/10/25 | 18-5 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ✅ | 2026/10/20 | 24-5 | [Будущее](https://ws.tsl.rocks/corp/94e7076f4af932874c346e6114276fdd0b290bdf418ef55c58b17e027af22185/) |
 | ✅ | 2026/10/14 | 12-3 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
@@ -185,5 +186,5 @@ Corporation ID: 9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792938813"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793454161"></span>
 </div>

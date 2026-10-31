@@ -1,6 +1,6 @@
 ---
 title: ​BRhue
-description: W:43 L:155 D:1 Bonus ✅ 52%
+description: W:43 L:155 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **DarkSide**
 date: 2026-10-24T15:11:42.000Z
@@ -20,7 +20,7 @@ Juntos somos mais fortes.
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

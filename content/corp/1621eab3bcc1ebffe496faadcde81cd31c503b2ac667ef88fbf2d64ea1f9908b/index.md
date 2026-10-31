@@ -1,6 +1,6 @@
 ---
 title: ​IX Легион
-description: W:245 L:57 D:0 Bonus ✅ 60%
+description: W:245 L:57 D:0 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ✅ 22 - 8 **Nearland Ind**
 date: 2026-10-24T15:36:44.000Z
@@ -20,7 +20,7 @@ gy
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

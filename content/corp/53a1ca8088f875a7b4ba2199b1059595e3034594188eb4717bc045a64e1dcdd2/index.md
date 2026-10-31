@@ -1,6 +1,6 @@
 ---
 title: ​imperio galacti
-description: W:124 L:48 D:2 Bonus ✅ 52%
+description: W:124 L:48 D:2 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 29 - 6 **Hinterm Mars**
 date: 2026-10-24T15:16:42.000Z
@@ -17,7 +17,7 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

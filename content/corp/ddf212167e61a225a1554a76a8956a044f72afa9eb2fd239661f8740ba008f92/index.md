@@ -1,6 +1,6 @@
 ---
 title: ​契约-璃月
-description: W:59 L:25 D:2 Bonus ❌ 44%
+description: W:59 L:25 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 15 - 3 **Rogue Corp**
 date: 2026-10-24T12:51:27.000Z
@@ -15,7 +15,7 @@ date: 2026-10-24T12:51:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
