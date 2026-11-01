@@ -1,6 +1,6 @@
 ---
 title: ​休闲、红、蓝、白养老集团。
-description: W:16 L:8 D:3 Bonus ✅ 34%
+description: W:16 L:8 D:3 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 3 - 4 **碧霄殿**
 date: 2026-10-30T02:04:34.000Z
@@ -15,7 +15,7 @@ date: 2026-10-30T02:04:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

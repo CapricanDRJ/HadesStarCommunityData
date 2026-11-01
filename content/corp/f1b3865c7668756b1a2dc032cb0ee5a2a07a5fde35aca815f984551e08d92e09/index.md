@@ -1,9 +1,9 @@
 ---
 title: ​太空的猫
-description: W:12 L:21 D:1 Bonus ❌ 8%
+description: W:13 L:22 D:1 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 0 - 22 **Cosmosia**
-date: 2026-10-25T05:37:53.000Z
+Summary: ❌ 0 - 17 **NERF TOY'S**
+date: 2026-11-01T00:33:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-25T05:37:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (-7)|
-| ELO Competitive | 1326 🔻  (-12)|
-| Total Matches | 34 |
-| Wins | 12 |
-| Losses | 21 |
+| ELO Regular | 1136 🔻  (-16)|
+| ELO Competitive | 1351 🔺  (25)|
+| Total Matches | 36 |
+| Wins | 13 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792474673,1792460933,1792027589,1791615464,1791589391,1791099349,1791084128,1790653342,1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
+        let timestamps = [1793061189,1793059687,1792474673,1792460933,1792027589,1791615464,1791589391,1791099349,1791084128,1790653342,1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 0-17 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
+| ✅ | 2026/11/01 | 18-3 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
 | ❌ | 2026/10/25 | 0-22 | [Cosmosia](https://ws.tsl.rocks/corp/56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38/) |
 | ❌ | 2026/10/25 | 3-15 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2026/10/20 | 0-43 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
@@ -184,5 +186,5 @@ Corporation ID: f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792906673"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793493189"></span>
 </div>

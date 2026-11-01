@@ -1,6 +1,6 @@
 ---
 title: ​星を継ぐもの
-description: W:116 L:69 D:2 Bonus ✅ 48%
+description: W:116 L:69 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 14 - 3 **Space Pirates**
 date: 2026-10-24T23:37:28.000Z
@@ -17,7 +17,7 @@ date: 2026-10-24T23:37:28.000Z
 <br>
 
 ### [Discord](https://discord.gg/ukC9fmCx)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
