@@ -1,9 +1,9 @@
 ---
 title: ​Curcubeu
-description: W:17 L:37 D:0 Bonus ❌ 11%
+description: W:17 L:38 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ❌ 4 - 30 **Terranova**
-date: 2026-10-27T03:13:45.000Z
+Summary: ❌ 6 - 39 **IX Легион**
+date: 2026-11-01T05:23:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ a browser: https://dsc.gg/sah
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 937 🔻  (-4)|
-| ELO Competitive | 1106 🔻  (-1)|
-| Total Matches | 54 |
+| ELO Regular | 937 🔻  (0)|
+| ELO Competitive | 1106 🔻  (0)|
+| Total Matches | 55 |
 | Wins | 17 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792638825,1792143323,1791693634,1791261359,1790813759,1790258301,1789818206,1789307225,1769059096,1768609317,1768257489,1767641869,1753639346,1752898009,1743058309,1735743250,1735303952,1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
+        let timestamps = [1793078611,1792638825,1792143323,1791693634,1791261359,1790813759,1790258301,1789818206,1789307225,1769059096,1768609317,1768257489,1767641869,1753639346,1752898009,1743058309,1735743250,1735303952,1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 2 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 0 | 3 | 0 | 3 |
 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) | 1 | 1 | 0 | 2 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 1 | 1 | 0 | 2 |
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 6-39 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2026/10/27 | 4-30 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ❌ | 2026/10/21 | 6-36 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2026/10/16 | 3-44 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
@@ -209,5 +211,5 @@ Corporation ID: a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793070825"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793510611"></span>
 </div>

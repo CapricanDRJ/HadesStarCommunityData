@@ -1,9 +1,9 @@
 ---
 title: ​Türk Yıldızları
-description: W:17 L:16 D:1 Bonus ❌ 8%
+description: W:17 L:17 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Hamburg AG 2**
-date: 2025-12-14T09:48:26.000Z
+Summary: ❌ 3 - 23 **红色太阳**
+date: 2026-11-01T04:23:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ r.Rs7 - Rs10Discord zorunludur.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (-2)|
-| ELO Competitive | 1290 🔺  (3)|
-| Total Matches | 34 |
+| ELO Regular | 1212 🔻  (-14)|
+| ELO Competitive | 1286 🔻  (-4)|
+| Total Matches | 35 |
 | Wins | 17 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1765273706,1758431209,1751977974,1750504392,1749735990,1747119598,1744973220,1716674731,1716107480,1714813436,1713686309,1711783110,1711196573,1710747082,1710237782,1709723973,1709034980,1708428285,1706963336,1706442544,1706003797,1705514559,1705000087,1704378618,1703856022,1703854218,1703403739,1702926905,1702819008,1702463334,1702306883,1701793845,1701345739,1700163387];
+        let timestamps = [1793075006,1765273706,1758431209,1751977974,1750504392,1749735990,1747119598,1744973220,1716674731,1716107480,1714813436,1713686309,1711783110,1711196573,1710747082,1710237782,1709723973,1709034980,1708428285,1706963336,1706442544,1706003797,1705514559,1705000087,1704378618,1703856022,1703854218,1703403739,1702926905,1702819008,1702463334,1702306883,1701793845,1701345739,1700163387];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 3-23 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) |
 | ↔️ | 2025/12/14 | 0-0 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ❌ | 2025/09/26 | 0-42 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2025/07/13 | 6-44 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -184,5 +185,5 @@ Corporation ID: 901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1765705706"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793507006"></span>
 </div>

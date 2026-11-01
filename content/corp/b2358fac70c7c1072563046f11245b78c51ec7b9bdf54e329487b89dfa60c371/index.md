@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:29 L:4 D:1 Bonus ❌ 9%
+description: W:30 L:5 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **Новички**
-date: 2026-10-25T02:27:40.000Z
+Summary: ✅ 13 - 0 **КОРПОРАЦИЯ ЗЛА**
+date: 2026-11-01T05:43:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-25T02:27:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1419 🔺  (7)|
-| ELO Competitive | 1466 🔺  (6)|
-| Total Matches | 34 |
-| Wins | 29 |
-| Losses | 4 |
+| ELO Regular | 1397 🔺  (1)|
+| ELO Competitive | 1469 🔺  (3)|
+| Total Matches | 36 |
+| Wins | 30 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 13 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1793079812,1793075607,1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/01 | 13-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
+| ❌ | 2026/11/01 | 0-5 | [Extinct Honor](https://ws.tsl.rocks/corp/397dd8d1470363f4474fd0c9564a0eaa50a2ea0e1fccf83244240e73f0b9d39d/) |
 | ✅ | 2026/10/25 | 15-0 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) |
 | ❌ | 2026/10/25 | 0-9 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ✅ | 2026/10/18 | 7-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
@@ -184,5 +186,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792895260"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793511812"></span>
 </div>

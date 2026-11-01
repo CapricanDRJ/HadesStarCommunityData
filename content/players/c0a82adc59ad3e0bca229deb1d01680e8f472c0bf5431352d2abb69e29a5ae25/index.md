@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "IKEA Starfleet"
-description: "ws: 2 μ: 23.76"
+description: "ws: 3 μ: 23.76"
 ---
-- **WhiteStars**: 2
+- **WhiteStars**: 3
 - **Eligible**: 2
 - **Rating**: -1.03
 - **μ**: 23.76  
 - **σ**: 8.26
-- W: 0, L: 2, T: 0
+- W: 0, L: 3, T: 0
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 23.76"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) | 1-46 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-12-06 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 3-14 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-10-30 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 6-29 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

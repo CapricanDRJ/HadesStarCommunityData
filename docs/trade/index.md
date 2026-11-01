@@ -207,13 +207,6 @@ searchHidden: true
                     <td>318%</td>
                 </tr>
             
-                <tr>
-                    <td>5</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
         <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>

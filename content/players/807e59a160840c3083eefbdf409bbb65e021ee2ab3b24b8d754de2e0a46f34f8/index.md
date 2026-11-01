@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "FV-215B"
-description: "ws: 44 μ: 29.58"
+description: "ws: 45 μ: 29.58"
 ---
-- **WhiteStars**: 44
+- **WhiteStars**: 45
 - **Eligible**: 31
 - **Rating**: 7.14
 - **μ**: 29.58  
 - **σ**: 7.48
-- W: 34, L: 10, T: 0
+- W: 35, L: 10, T: 0
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 44 μ: 29.58"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 46-1 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | 2026-10-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29-21 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | 2026-10-12 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 0-36 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | 2026-10-07 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 14-8 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

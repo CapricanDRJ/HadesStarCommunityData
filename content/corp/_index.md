@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-01T03:55:41.771Z
+date: 2026-11-01T06:55:40.798Z
 summary: "Corporation directory"
 ---
 
@@ -71,16 +71,16 @@ summary: "Corporation directory"
 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) | 1133 | 1165 | 23 |
 | [Atlas SLV\-1](https://ws.tsl.rocks/corp/22d6e02d0c23dfcde9933252bf0e912846cea7c0c7d6f77c50734310f0a81555/) | 1189 | 1189 | 1 |
 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) | 1331 | 1461 | 87 |
-| [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) | 1419 | 1466 | 34 |
+| [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) | 1397 | 1469 | 36 |
 | [Aurora Burning](https://ws.tsl.rocks/corp/12563d832c8ee65cd0763789549a23ff034c54c9cb77edf2a70afb1cbd904870/) | 1183 | 1184 | 5 |
 | [Aus Alliance](https://ws.tsl.rocks/corp/278f422f7ca14f17f817c9b88cac540b9419c67a4b695fdcfe1651537972bbf9/) | 1183 | 1213 | 3 |
 | [Auscorp](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 1455 | 2082 | 250 |
 | [Aussie Land](https://ws.tsl.rocks/corp/9a275f44b8e7d474a8e80a3871e56e6b0f531ce906623280ccbcb02a9f3a3f81/) | 1188 | 1198 | 1 |
-| [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 1360 | 1625 | 62 |
+| [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 1334 | 1614 | 64 |
 | [Avabel Online](https://ws.tsl.rocks/corp/22c570b1999d8b1a4a0e2b92bbfc1f2214c5028d5b6765b66814b01a2c17d553/) | 1174 | 1185 | 2 |
 | [Avabel Online 2](https://ws.tsl.rocks/corp/5efe2c3c6ca505c52ce401ff3ce7f6de2e885c6372a2741108cb67d09d914baa/) | 1174 | 1177 | 2 |
 | [Avalanche 2\.0](https://ws.tsl.rocks/corp/16518dd73c7ad588d44a7874c0090364c7edb46d86cf55ac73c718c471315a82/) | 1174 | 1177 | 6 |
-| [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 617 | 1016 | 331 |
+| [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 615 | 1015 | 333 |
 | [AwA](https://ws.tsl.rocks/corp/9e1ba6b6db84b30e4d5cc2ff2933e0472d2e943670f25b712564f1cc01a63feb/) | 1291 | 1345 | 20 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 1250 | 1539 | 127 |
 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) | 1007 | 1061 | 46 |
@@ -147,7 +147,7 @@ summary: "Corporation directory"
 | [BR Gear](https://ws.tsl.rocks/corp/8b23b08409bdebed03646b6e5e5d3c0a7a45d20e80f7c663ac21071310081ab8/) | 1147 | 1180 | 4 |
 | [Br Stark Corps](https://ws.tsl.rocks/corp/bb363d47e9cd8710d6808f6dcc2d270bdf33614e63ea6e0943bb739cde625f27/) | 1163 | 1165 | 9 |
 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) | 1180 | 1207 | 16 |
-| [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) | 1292 | 1614 | 143 |
+| [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) | 1277 | 1596 | 144 |
 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) | 1254 | 1574 | 116 |
 | [Bravčové Hlavy](https://ws.tsl.rocks/corp/0a1c70f71772c734a4049b0f4523cbff6c0fcf7bbeafe1a60e8720d686d48c0c/) | 1180 | 1181 | 1 |
 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 1159 | 1501 | 153 |
@@ -182,7 +182,7 @@ summary: "Corporation directory"
 | [CENTINELA](https://ws.tsl.rocks/corp/a7b4952c4c6448ae272ebd43ac83af1809c89edc0822f0d8f9df7e3e59687300/) | 1188 | 1188 | 1 |
 | [CENTINELAS2](https://ws.tsl.rocks/corp/559ea197d43b38f9b43aaafb3c2729874cac4f82ef0f0213b2d200eb1231b029/) | 1214 | 1214 | 1 |
 | [Cerberus](https://ws.tsl.rocks/corp/a1a5b11461becdc8a3e81f7d2a9bf5f284f3906a9b41c846cd83f68dc40ccdca/) | 1290 | 1339 | 16 |
-| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1399 | 1619 | 64 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 1406 | 1632 | 65 |
 | [Cereal Grapest](https://ws.tsl.rocks/corp/f661ce364406ed8915f920351e6567e15b1925ac07127273b42dca69998ef888/) | 1191 | 1193 | 1 |
 | [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) | 1193 | 1253 | 13 |
 | [Cerulean Nebula](https://ws.tsl.rocks/corp/b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81/) | 1232 | 1286 | 25 |
@@ -243,7 +243,7 @@ summary: "Corporation directory"
 | [CSI](https://ws.tsl.rocks/corp/8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/) | 1154 | 1154 | 6 |
 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) | 1177 | 1416 | 104 |
 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) | 1194 | 1325 | 24 |
-| [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 937 | 1106 | 54 |
+| [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 937 | 1106 | 55 |
 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 1357 | 1843 | 161 |
 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) | 1209 | 1273 | 48 |
 | [cyber\_dream](https://ws.tsl.rocks/corp/72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616/) | 1139 | 1161 | 14 |
@@ -358,7 +358,7 @@ summary: "Corporation directory"
 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) | 1102 | 1293 | 120 |
 | [Empyre](https://ws.tsl.rocks/corp/b31247ca3aabadd1d2b099494ccc433c768f115c91677798d5b3dac380f90392/) | 1180 | 1186 | 2 |
 | [End of day](https://ws.tsl.rocks/corp/677cda4ea456531f2241fddba358b021389738311f4b62e0275614728e0a19b2/) | 1161 | 1164 | 4 |
-| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1296 | 1917 | 257 |
+| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1290 | 1932 | 258 |
 | [Endless](https://ws.tsl.rocks/corp/4126eb255ab190d7423ecb21b2279b4a8f0654009c95b5f83c9603f5e8bee40d/) | 1177 | 1180 | 1 |
 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) | 1124 | 1152 | 17 |
 | [Enigma](https://ws.tsl.rocks/corp/b090292814af4e2f0c44d130ddd9ef8f56c0f42990900a3bb4f8ae48970c907d/) | 1179 | 1185 | 3 |
@@ -376,6 +376,7 @@ summary: "Corporation directory"
 | [Eternal empire](https://ws.tsl.rocks/corp/c710661fec52581acc50c1f8a96dfb2dc3e582cf877080c41714526c98cd7193/) | 1102 | 1176 | 22 |
 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) | 1188 | 1222 | 16 |
 | [Expansión Imp\.](https://ws.tsl.rocks/corp/8d756a2b1e8d435e2256a920722c83b2f874a60e390286a79e136c3b01fc2fed/) | 1271 | 1329 | 11 |
+| [Extinct Honor](https://ws.tsl.rocks/corp/397dd8d1470363f4474fd0c9564a0eaa50a2ea0e1fccf83244240e73f0b9d39d/) | 1223 | 1225 | 1 |
 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 1055 | 1215 | 56 |
 | [F\.E\.I\.](https://ws.tsl.rocks/corp/e6172242f942527d0cc02c3931e74f6623dc4fe80a9b061ccaffabedd7aed8e8/) | 1165 | 1170 | 4 |
 | [Failures](https://ws.tsl.rocks/corp/0fefd8c33dd941c6dbab4c3251c94de4fbbc67c33dd0a9b5c82b07982c437b3c/) | 1165 | 1183 | 3 |
@@ -498,7 +499,7 @@ summary: "Corporation directory"
 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 1126 | 1353 | 71 |
 | [Hamle Wala Room](https://ws.tsl.rocks/corp/6239aba8ec24742788b4e083cc5afe3643f09fd9fcc6560f1330a9bdb7585848/) | 1193 | 1194 | 1 |
 | [Hand of Legion](https://ws.tsl.rocks/corp/7545cead0b3b8e060a0987cc20eed24610a7dfd11dfef11c73a495e39eb07d14/) | 1244 | 1247 | 5 |
-| [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 1469 | 1860 | 164 |
+| [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 1454 | 1854 | 165 |
 | [Hands Of God](https://ws.tsl.rocks/corp/737612566d1b11dd779660de211c576dcb421c49df9eb55390e082f496924c9b/) | 1164 | 1167 | 3 |
 | [Hangout Spot](https://ws.tsl.rocks/corp/7e4b7aa18e4a302cbbac1e1b0b3118812bec5fb4846a495d2c3fb6d3dd4a8b13/) | 1198 | 1219 | 5 |
 | [happy猫](https://ws.tsl.rocks/corp/b7df896fa4600ddf6a4e75e4902225df0d79cd8a370bbbe1862b30b323d7e34a/) | 1185 | 1185 | 1 |
@@ -512,7 +513,7 @@ summary: "Corporation directory"
 | [hello](https://ws.tsl.rocks/corp/29c10fc23d296724f898f96163cd1669a210a19235ff17bb38424df9d04f2f51/) | 1181 | 1183 | 1 |
 | [Hells Angels](https://ws.tsl.rocks/corp/01a0f9b4443ddba1497c97bc90959bc981586b396487f54baf35a3c5b534a8d8/) | 1214 | 1214 | 1 |
 | [helvetic force](https://ws.tsl.rocks/corp/954c78bdb9845f358b91263d2f34f919123d624f5b8bfc566781890f90010612/) | 1217 | 1222 | 3 |
-| [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 1259 | 1438 | 56 |
+| [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 1260 | 1440 | 57 |
 | [HerronCorp](https://ws.tsl.rocks/corp/220742540e6deb9741f787e95b338302d66b4d9f0ac35aab435bff0ee4d946ca/) | 1179 | 1182 | 2 |
 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 1167 | 1718 | 228 |
 | [Hexennacht](https://ws.tsl.rocks/corp/3fa15511879c2f420d8591bac7f8ac61d79ea28055962686156de3e86819a108/) | 1151 | 1202 | 8 |
@@ -529,7 +530,7 @@ summary: "Corporation directory"
 | [Hornet](https://ws.tsl.rocks/corp/2a0587feec8e7e7e4b9f69dea0b76b53f03b5def56851d4128b07bd8e880f9e4/) | 1196 | 1197 | 1 |
 | [Hun Avengers](https://ws.tsl.rocks/corp/e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854/) | 1171 | 1277 | 26 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 967 | 1372 | 238 |
-| [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) | 1403 | 1722 | 101 |
+| [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) | 1416 | 1733 | 102 |
 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) | 1073 | 1131 | 47 |
 | [Hunterz](https://ws.tsl.rocks/corp/029e7e302d8b289d7275e9c0006c06b90c8a23cfe7a1994651832e6f555564ed/) | 1214 | 1216 | 1 |
 | [HYDRA](https://ws.tsl.rocks/corp/af8e07c712d53e12787c748d60f8380614730fa89774d6c59ed792f71b1449ab/) | 1187 | 1190 | 1 |
@@ -585,7 +586,7 @@ summary: "Corporation directory"
 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) | 1647 | 1883 | 108 |
 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1007 | 1534 | 238 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 1284 | 1328 | 34 |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1778 | 2301 | 302 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1779 | 2303 | 304 |
 | [Jaggernaut](https://ws.tsl.rocks/corp/6df1b7221151e5585ba4650f2d37794b98704938eb9c17218e076473ed570c36/) | 1191 | 1197 | 1 |
 | [JakeUniverse](https://ws.tsl.rocks/corp/170fb7c7e76b4bffaa9900b0565354b53c44de1c43898b5677ea0c23595fd617/) | 1227 | 1248 | 4 |
 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) | 1060 | 1122 | 45 |
@@ -683,7 +684,7 @@ summary: "Corporation directory"
 | [Love room 😍](https://ws.tsl.rocks/corp/261b27d71afc5f371dc08ff981c369bb8130525954bc3048e4f930f6f8fcc677/) | 1186 | 1188 | 1 |
 | [loveboat](https://ws.tsl.rocks/corp/907db5d6144e9b75e27fd21eccb86092d956c30f562fa2a2c3e09cb34bacc957/) | 1186 | 1186 | 1 |
 | [LUPI ROMÎNI](https://ws.tsl.rocks/corp/934374a52ab97c3cc084b49caec3a1c144b0da9300288269c1efabaa671ca4f6/) | 1157 | 1163 | 5 |
-| [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 1202 | 1570 | 186 |
+| [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 1194 | 1557 | 187 |
 | [Légion Fr](https://ws.tsl.rocks/corp/99e648d421078abbe8c410dd1be35fa87e0f430b234510969cd1330906f0ee60/) | 1181 | 1187 | 1 |
 | [L’Amalgame](https://ws.tsl.rocks/corp/df81071f9e7c53a02b3ea304186da07ff697dbcea3c0ee7a820e6ec44f31156c/) | 1184 | 1189 | 2 |
 | [M4\-Valhalla](https://ws.tsl.rocks/corp/40886172a1ee54e8b5cbd91b5bcf06cb4af03726ad8fe6aba585bde03d4b6bf1/) | 1091 | 1113 | 10 |
@@ -711,7 +712,7 @@ summary: "Corporation directory"
 | [mijael siuuuuuu](https://ws.tsl.rocks/corp/45ca23a78c96de3dd53a33f7c9f029b7dc5edf0fb7f15e5d46f1893c68d28334/) | 1057 | 1059 | 14 |
 | [MILIBARINOS](https://ws.tsl.rocks/corp/a40371bffe9e38d1fabf69105d61e4da70925d5c6ea95c163c1bf16ffa53b24c/) | 1190 | 1190 | 2 |
 | [Millenium Corp](https://ws.tsl.rocks/corp/a812d956c16351fbb4eebea9643700d4d7f4c18ba883c0f87bc04bf5d6b4547b/) | 1196 | 1201 | 2 |
-| [Milliways](https://ws.tsl.rocks/corp/e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f/) | 1380 | 1364 | 12 |
+| [Milliways](https://ws.tsl.rocks/corp/e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f/) | 1400 | 1389 | 14 |
 | [MiniStarRaiders](https://ws.tsl.rocks/corp/c344b22861af6071f18b2ac934abdf7a7cc85553ae061f2853b005d60e53b11c/) | 1186 | 1186 | 1 |
 | [Minutemen](https://ws.tsl.rocks/corp/9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8/) | 1155 | 1206 | 31 |
 | [Mogo](https://ws.tsl.rocks/corp/e441c29b121d5bd55267da6f880158bd37899d37af6830c019cc47f5bf634133/) | 1150 | 1223 | 8 |
@@ -847,7 +848,7 @@ summary: "Corporation directory"
 | [Polandia](https://ws.tsl.rocks/corp/e069826357fea955233cc29c81bb28ed9a781f8991d00833046b9f4fa240c826/) | 1150 | 1167 | 3 |
 | [Polaris](https://ws.tsl.rocks/corp/4802fe8a63e61d18eb0407dc5121d8e0e6a81117a7f47998566752e0f8d846f3/) | 1107 | 1134 | 10 |
 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) | 1343 | 1656 | 99 |
-| [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 1542 | 1954 | 105 |
+| [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 1545 | 1963 | 106 |
 | [Polskie Smoki](https://ws.tsl.rocks/corp/8b18c4cdcba53305c8c04066822c49eca40e1d56b2de06aa9e4fb3108b3e2583/) | 1144 | 1150 | 6 |
 | [Popaiders](https://ws.tsl.rocks/corp/c90a11a6c361c99425799a4d25d76d71f4f7308739011a97a167c88780ea7779/) | 1212 | 1215 | 1 |
 | [Popular Corp\.](https://ws.tsl.rocks/corp/f52c14cb0761f008a0ffe2269579b49b90339ee2576f730c5b532a244c2eedac/) | 1196 | 1200 | 4 |
@@ -945,7 +946,7 @@ summary: "Corporation directory"
 | [Rozen Family](https://ws.tsl.rocks/corp/e545e269a3fe6ff2dd7d4f794a7e13eb190bf12c3b62e0284d34b185cbcb40a2/) | 1170 | 1171 | 4 |
 | [RPFD\-DNR\-RWPB](https://ws.tsl.rocks/corp/0b44b93ba4150cc49e8bc5e489bd0f381cac46064d18e6929011011e0aaaf48c/) | 1184 | 1190 | 5 |
 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) | 1424 | 1630 | 88 |
-| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 1523 | 2005 | 156 |
+| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 1546 | 2027 | 158 |
 | [RUS 2](https://ws.tsl.rocks/corp/117b447f030742648081e6f7af3a13f78fbcd0056918cf113c401476d73df854/) | 1199 | 1200 | 1 |
 | [RusCorp](https://ws.tsl.rocks/corp/544204b2df584af397df626d2db7a02ffcd3e18d0f4198e51a505a38b47218d4/) | 1090 | 1116 | 10 |
 | [Russa V2](https://ws.tsl.rocks/corp/f4674127cbacf46049bd8f067f42bddd77598d1792ef5160e6e412008973da36/) | 1184 | 1185 | 1 |
@@ -954,7 +955,7 @@ summary: "Corporation directory"
 | [Russia](https://ws.tsl.rocks/corp/14561981eba434af12062961e19345bd438ed10b7b630295db868067861e6bd6/) | 1184 | 1186 | 5 |
 | [Russian space](https://ws.tsl.rocks/corp/60661432424687137dd115ceeba6850338ef752cae3b9a1b7f3b84cc267c558b/) | 1173 | 1174 | 2 |
 | [Russian space 2](https://ws.tsl.rocks/corp/41b9946501f1125cea47c61a14df7fda0db05330ab02313084c867f908026403/) | 1185 | 1187 | 1 |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1578 | 1919 | 131 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 1581 | 1922 | 132 |
 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) | 1214 | 1431 | 77 |
 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) | 1109 | 1109 | 9 |
 | [RWA](https://ws.tsl.rocks/corp/982b5912bb140d203f3c20900e26163787d616d3af33ddbc3ae3349f955caf01/) | 1175 | 1184 | 2 |
@@ -1311,7 +1312,7 @@ summary: "Corporation directory"
 | [Two kitties](https://ws.tsl.rocks/corp/415346ff6e66cb31073d6c917b311d221638ac2dcb73e3b21054880ba1fe6416/) | 1185 | 1185 | 1 |
 | [Tycho Corp](https://ws.tsl.rocks/corp/ac893a601cffbd395aa465681401698639a13e61457252dd65b091e650498426/) | 1176 | 1176 | 2 |
 | [Türk](https://ws.tsl.rocks/corp/ec6d1f5fc2ce4664d68162d0fd7a48fe819f00f8c29dc92055a3af4b5d291c33/) | 1248 | 1309 | 16 |
-| [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) | 1226 | 1290 | 34 |
+| [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) | 1212 | 1286 | 35 |
 | [U\.F\.P](https://ws.tsl.rocks/corp/a3332d4711809e693174b620647452b8d3268d5b548752e8518798103849d9ce/) | 1188 | 1188 | 1 |
 | [U\.I\.H](https://ws.tsl.rocks/corp/78c1e8450633b71e1dc3de24e211c79adb14f4eb544e904b6caab0dd9fe8e0c6/) | 1155 | 1155 | 3 |
 | [U\.N\.S\.C](https://ws.tsl.rocks/corp/70dea9b99e388e4ecc15b483cde11adecf8126fc5fd8976564ee112bd466c1ac/) | 1183 | 1200 | 11 |
@@ -1457,7 +1458,7 @@ summary: "Corporation directory"
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 908 | 1307 | 270 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 1206 | 1491 | 184 |
 | [111111](https://ws.tsl.rocks/corp/9ad228252676096cbfc9ad878a15837d902dec746ece50e543f75add623ee8d4/) | 1184 | 1184 | 1 |
-| [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 696 | 1018 | 197 |
+| [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 694 | 1017 | 198 |
 | [13th Legion](https://ws.tsl.rocks/corp/31290f495b0b33721a314c22b596469ab4286467f9604817f97c33459fe80369/) | 1167 | 1174 | 2 |
 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) | 1147 | 1214 | 55 |
 | [27rus](https://ws.tsl.rocks/corp/923fd2244430f309d52a73ea98d10efde744e908940809f2b3c2b7b456e7082a/) | 1188 | 1190 | 2 |
@@ -1476,7 +1477,7 @@ summary: "Corporation directory"
 | [brazil com\.](https://ws.tsl.rocks/corp/c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/) | 1185 | 1186 | 3 |
 | [Eligius](https://ws.tsl.rocks/corp/13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/) | 1177 | 1183 | 5 |
 | [Galactic Bawls](https://ws.tsl.rocks/corp/0f329ba3dd1f05cf740de6c689b196c36d86150eb3b114758c5eb97f0ad08d08/) | 1184 | 1184 | 1 |
-| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1195 | 1818 | 303 |
+| [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1190 | 1816 | 305 |
 | [墨痕](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1113 | 1232 | 41 |
 | [星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) | 1502 | 1655 | 31 |
 | [边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) | 1050 | 1070 | 37 |
@@ -1492,7 +1493,7 @@ summary: "Corporation directory"
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1378 | 1793 | 242 |
 | [\+\*Galaxia\*\+](https://ws.tsl.rocks/corp/2e0a8fa5ddc8ebd4d8f5cb5ffbe4710cb5fe62046e0b3923b3b4d8679fb6dace/) | 1261 | 1314 | 12 |
 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) | 1191 | 1235 | 32 |
-| [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 993 | 1337 | 106 |
+| [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) | 991 | 1337 | 107 |
 | [\-=Содружество=\-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) | 1327 | 1539 | 68 |
 | [\-time\-](https://ws.tsl.rocks/corp/d43dc9815bb9001b28ccdc0a3832a90c4851ea73dbaddc8f5afac4f867e97343/) | 1189 | 1197 | 1 |
 | [\.\- \.\-\.\. \.\-\.\. \.\-](https://ws.tsl.rocks/corp/f71612c31faaae770d61fd8b88f0fc3e0d2c13e7fc8851439ff4c12c0205fda6/) | 1172 | 1181 | 10 |
@@ -1510,7 +1511,7 @@ summary: "Corporation directory"
 | [ﾠﾠﾠ](https://ws.tsl.rocks/corp/34f7bf73a7338d5e9bd2532028955d96fb7ab1dfeb09760b0364c94d43f0932b/) | 1192 | 1198 | 1 |
 | [©®RONO](https://ws.tsl.rocks/corp/2f8d3a3963c08282028756d333f94076234d3bef7d8024797b6a28a297ed7cf8/) | 1168 | 1173 | 3 |
 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) | 1483 | 1565 | 30 |
-| [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1513 | 2078 | 240 |
+| [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 1530 | 2092 | 242 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 1197 | 1591 | 131 |
 | [α阿尔法](https://ws.tsl.rocks/corp/0051cb18cf31f6d75dff8017ba8658dd87c5b87d0a7380e447eb68487f30dc27/) | 1158 | 1160 | 3 |
 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 911 | 1207 | 232 |
@@ -1524,7 +1525,7 @@ summary: "Corporation directory"
 | [Астра Мёбиус](https://ws.tsl.rocks/corp/31d53933b7357c07c2f9941f07009bc7511f831fce4aeee9bb513562d327b427/) | 1196 | 1198 | 1 |
 | [Бакланы](https://ws.tsl.rocks/corp/185498d1915b9dae76f4b81423021419875e961b8cd4f1249364d5ada9845463/) | 1204 | 1207 | 2 |
 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) | 1127 | 1136 | 12 |
-| [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 1321 | 1627 | 118 |
+| [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 1310 | 1616 | 119 |
 | [Будущее](https://ws.tsl.rocks/corp/94e7076f4af932874c346e6114276fdd0b290bdf418ef55c58b17e027af22185/) | 1189 | 1202 | 4 |
 | [ВЕЧНОСТЬ](https://ws.tsl.rocks/corp/74eba1a325fdde4fe9b83f1deeba46d9c0cd896d647462ad9587a0d3dc409e1e/) | 1156 | 1159 | 3 |
 | [Венерский Союз](https://ws.tsl.rocks/corp/6d869628a64fc11a17264dacfd741e7d603069d526d32a166c48ff7fd9499bf6/) | 1166 | 1171 | 15 |
@@ -1552,7 +1553,7 @@ summary: "Corporation directory"
 | [КВАЗАР](https://ws.tsl.rocks/corp/d27b02c96ddf32f83c727a329774e46f3cdaa648d1c4ea06883997c3b9a11394/) | 1178 | 1179 | 4 |
 | [КЕДР](https://ws.tsl.rocks/corp/ae9b298b9bc042d7114f6e2efb587e6657c06060b042e1293fd217093ccec1f0/) | 1184 | 1184 | 1 |
 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) | 1194 | 1199 | 13 |
-| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 739 | 1097 | 344 |
+| [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 738 | 1097 | 346 |
 | [КРЫЛЯ ФЕНИКСА](https://ws.tsl.rocks/corp/a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b/) | 1205 | 1225 | 13 |
 | [КУСАКА](https://ws.tsl.rocks/corp/1e9d85c65ebb5fc9d06d7a503387db620b1ab922d17eed0cb9d1de74d4a64560/) | 1173 | 1188 | 2 |
 | [Картофель 🇲🇬](https://ws.tsl.rocks/corp/5d4771f2f16010ac3d53e0bc6defa1e28a1fd05c83942048171d186c4af2da9d/) | 1209 | 1210 | 1 |
@@ -1583,7 +1584,7 @@ summary: "Corporation directory"
 | [Наш Гадес](https://ws.tsl.rocks/corp/2cd9827d4a3e3b3e9c00606a521470bb4beb2bda862fa6ba3d0b0fc8ad2f01a7/) | 1164 | 1180 | 2 |
 | [Наша Вселенная](https://ws.tsl.rocks/corp/93748bc015cc77195dd939adec5d4c85b4247dba670029e59792c862e9469f20/) | 1165 | 1171 | 2 |
 | [Небула Рока](https://ws.tsl.rocks/corp/22875f3ae77efabcd56b4683dee31b7e35d927cb86876f8f587b5f048dfe68f9/) | 1124 | 1253 | 21 |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 1536 | 2053 | 348 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 1520 | 2053 | 350 |
 | [Нервные колебан](https://ws.tsl.rocks/corp/947465131a3402c9b2d0708d5824cca42c9ed5ea4c0e9fa57ebe297f50850859/) | 1179 | 1187 | 1 |
 | [Неудержимые](https://ws.tsl.rocks/corp/144c80f6e5fb0e145a52f3066b2e61d14a1529f28a8c543720ac999e67c91ef6/) | 1153 | 1166 | 4 |
 | [Новички](https://ws.tsl.rocks/corp/972be02f6d0b8abd990454b2ae98e12181668ba96252a4747a4899744a7d9dc6/) | 1194 | 1225 | 24 |
@@ -1615,7 +1616,7 @@ summary: "Corporation directory"
 | [СОЮЗ](https://ws.tsl.rocks/corp/3ba0134aa297266e773dc2283a04d64ef598f84cd2e4b2d0d2610c99d5e5fd5e/) | 1292 | 1329 | 15 |
 | [СОЮЗ\-2](https://ws.tsl.rocks/corp/7e076cd14646574c68e4d0e7c102c73ebd4e5517c2e3860bdda55e5d9c0f9ac1/) | 1184 | 1184 | 1 |
 | [СПБ](https://ws.tsl.rocks/corp/4e3bfdb11cb1ba6fb115cfa57ba60f1178e43eaa27bdcfa8bcda277bdc6d1a83/) | 1190 | 1191 | 1 |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1473 | 2105 | 249 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1488 | 2111 | 250 |
 | [СССР 2\.0](https://ws.tsl.rocks/corp/2a77c0d4e05f31ab26b8c73af7f6d0b6ac40368b06a702e4a912edbf09eab65b/) | 1144 | 1146 | 8 |
 | [Сварожичи](https://ws.tsl.rocks/corp/756e76b1fa697e8ab2f40b1c5c5c93f69beeee26898a3ca128da2a7b69589093/) | 1171 | 1267 | 23 |
 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 1121 | 1629 | 244 |
@@ -1637,7 +1638,7 @@ summary: "Corporation directory"
 | [ТРУЛЯЛЯ](https://ws.tsl.rocks/corp/92466bf92d54290daae355c6e026bcd6c405a675ee5ce6bc1d146f9ad74d2341/) | 1162 | 1166 | 2 |
 | [Тартария](https://ws.tsl.rocks/corp/fd6366ca6eb6845a94559e3ce702b79f718a80a7c32022540ab3661b552e9416/) | 1178 | 1177 | 2 |
 | [Телерадиокружок](https://ws.tsl.rocks/corp/6195c1e9609147930ec8d81e9d8a8a5da35d26f124a098601e4c2dd19b1278d9/) | 1202 | 1227 | 4 |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1194 | 1665 | 367 |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1177 | 1646 | 369 |
 | [Тишина](https://ws.tsl.rocks/corp/c01132c3ce96835d1c14e411dc68417ed6fc0536d57de0f9e2a4ce86f1a739ca/) | 1138 | 1245 | 25 |
 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) | 1312 | 1429 | 39 |
 | [Тёмный Феникс](https://ws.tsl.rocks/corp/7558698da6213ab97789830842ad4baa89467edc584a6c8594ab04b521ae3488/) | 1038 | 1084 | 17 |
@@ -1662,7 +1663,7 @@ summary: "Corporation directory"
 | [лезвия тьмы](https://ws.tsl.rocks/corp/db7c5557829278a97b936e9b849cb3d1003962011f6b98d1bc26b6219c605e8b/) | 1185 | 1185 | 1 |
 | [минск](https://ws.tsl.rocks/corp/350845614fd714115b9d5fbb2d305c4aaeafe40bf25dd9352f762b1cd4c25deb/) | 1190 | 1196 | 4 |
 | [русский клан](https://ws.tsl.rocks/corp/d8f9003e2fa6789706c2e1330836d6b7fb44d4f30a4f006c37210bac6c9ffcb9/) | 1202 | 1202 | 2 |
-| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1577 | 2155 | 262 |
+| [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1560 | 2134 | 263 |
 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 1394 | 1879 | 196 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1238 | 1679 | 199 |
 | [хранилище](https://ws.tsl.rocks/corp/2bfe6c20be9914b41035d73d5d57975a69b4b1cac238eae823033fc12846fa05/) | 1195 | 1200 | 3 |
@@ -1775,7 +1776,7 @@ summary: "Corporation directory"
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1137 | 1282 | 54 |
 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) | 1159 | 1279 | 39 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 962 | 1074 | 46 |
-| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1299 | 1541 | 48 |
+| [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1324 | 1562 | 50 |
 | [基地联邦](https://ws.tsl.rocks/corp/9e1663122c20a4645bb8c9dd366a5b75a4c70ebbcd9ce2777574ce182e19beba/) | 1216 | 1222 | 1 |
 | [塔罗会](https://ws.tsl.rocks/corp/6bff4eb81afd71832d1e181ac97acc1ce1b280b8cef58e8a01ca31d45df501f4/) | 1187 | 1195 | 1 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |
@@ -1919,7 +1920,7 @@ summary: "Corporation directory"
 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) | 1225 | 1243 | 11 |
 | [沐星楼](https://ws.tsl.rocks/corp/8dc700398a6a7fa7f9903b0ddea4181ff7eb16833cc774d5a1441f81cfcd3538/) | 1297 | 1389 | 34 |
 | [沧海一星](https://ws.tsl.rocks/corp/c602c167d7f3c44a5d18b77cac44e8610981266a81b38b107cb2ed5961c73c1d/) | 1241 | 1244 | 2 |
-| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1180 | 1519 | 126 |
+| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1178 | 1520 | 128 |
 | [洛神峰](https://ws.tsl.rocks/corp/69e75c04e1e97e3e1e943a1b8bb5ebd468da38c5daf44840707bdcd1d4823540/) | 961 | 1138 | 57 |
 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) | 1199 | 1207 | 5 |
 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) | 1076 | 1086 | 22 |
@@ -1978,7 +1979,7 @@ summary: "Corporation directory"
 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1087 | 1509 | 201 |
 | [红星私密之家](https://ws.tsl.rocks/corp/889d0661ee2fb884920ee3f90fad1b202ab805e67221ddddf1ae8b5e4f8ad53d/) | 1199 | 1221 | 5 |
 | [红星超新星爆炸](https://ws.tsl.rocks/corp/004f2173a6d8f08e3ecf198c1d824992198a159f615534a227ee11de18606403/) | 1187 | 1188 | 3 |
-| [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) | 1243 | 1613 | 80 |
+| [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) | 1258 | 1617 | 82 |
 | [红色太阳·红活团](https://ws.tsl.rocks/corp/b4d1d276fab66049a6c980d31aba4c6216ab2c806768b1dccd1b49361b4d70d0/) | 1293 | 1327 | 6 |
 | [纳塔Natlan](https://ws.tsl.rocks/corp/3256a70ba8c9fd0e9dff34e19c2f7f25b85b460a55a2bfc2de9ecd2422971f44/) | 1183 | 1184 | 1 |
 | [纸鸢台](https://ws.tsl.rocks/corp/c4be34dcc0fcf9c2c0cef9c6f2ce31798d5435dadefaccbcb2502e65252ae677/) | 1158 | 1187 | 15 |
@@ -2080,6 +2081,6 @@ summary: "Corporation directory"
 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) | 1080 | 1213 | 50 |
 | [𝖕𝖎𝖗𝖆𝖙𝖊𝖘](https://ws.tsl.rocks/corp/dfa303324f73956393169d9ab02646eb1f9492b8ec55b01c604befbd33461821/) | 1148 | 1154 | 10 |
 | [🌪TORNADO](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) | 1258 | 1296 | 39 |
-| [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) | 1404 | 1732 | 106 |
+| [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) | 1416 | 1742 | 107 |
 | [💮問鼎風待月💮](https://ws.tsl.rocks/corp/e0a96b1ba8037d847784d8cbf84ba4b84d42060efe572236ed61737ee5c0d479/) | 1252 | 1260 | 4 |
 | [😇😇😇😇](https://ws.tsl.rocks/corp/1d65c4b312c7eadfdf0e5acebd9cbcc19d151719b4a8e41e5008c6b8dc1c4eea/) | 1169 | 1177 | 2 |

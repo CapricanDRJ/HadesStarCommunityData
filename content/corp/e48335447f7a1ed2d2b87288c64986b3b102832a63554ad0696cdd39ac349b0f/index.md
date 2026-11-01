@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:12 L:0 D:0 Bonus ✅ 34%
+description: W:14 L:0 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 33 - 0 **Kratos**
-date: 2026-10-25T07:58:02.000Z
+Summary: ✅ 19 - 17 **Тихий Омут**
+date: 2026-11-01T06:28:36.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-25T07:58:02.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (6)|
-| ELO Competitive | 1364 🔺  (23)|
-| Total Matches | 12 |
-| Wins | 12 |
+| ELO Regular | 1400 🔺  (7)|
+| ELO Competitive | 1389 🔺  (25)|
+| Total Matches | 14 |
+| Wins | 14 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 14 |
+| Streak Record | 14 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792483082,1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
+        let timestamps = [1793082516,1793081014,1792483082,1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/01 | 19-17 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
+| ✅ | 2026/11/01 | 28-3 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | ✅ | 2026/10/25 | 33-0 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2026/10/25 | 25-3 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ✅ | 2026/10/18 | 4-3 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
@@ -155,5 +157,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792915082"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793514516"></span>
 </div>
