@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Я IV"
-description: "ws: 17 μ: 28.72"
+description: "ws: 18 μ: 29.12"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 11
-- **Rating**: 4.85
-- **μ**: 28.72  
-- **σ**: 7.96
-- W: 14, L: 3, T: 0
+- **WhiteStars**: 18
+- **Eligible**: 12
+- **Rating**: 5.32
+- **μ**: 29.12  
+- **σ**: 7.93
+- W: 15, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 28.72"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 11 |
+| [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 12 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 28.72"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 9-3 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | 2026-10-26 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 24-0 | [帝国长青](https://ws.tsl.rocks/corp/4f2adf2f91d724aed6a934a014ab1cc284bbfb9dcc629b2abcd1605ba368b1f6/) |
 | 2026-10-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 21-2 | [Kobol](https://ws.tsl.rocks/corp/cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a/) |
 | 2026-09-19 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 4-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

@@ -1,6 +1,6 @@
 ---
 title: ​BRASIL ACADEMY
-description: W:64 L:75 D:5 Bonus ✅ 46%
+description: W:64 L:75 D:5 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 9 - 30 **地球联合**
 date: 2026-11-01T04:48:28.000Z
@@ -18,7 +18,7 @@ adicionado aqui no chat!
 <br>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

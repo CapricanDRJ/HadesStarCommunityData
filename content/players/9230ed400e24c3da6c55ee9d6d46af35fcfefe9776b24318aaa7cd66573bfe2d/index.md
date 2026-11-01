@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "vRaul"
-description: "ws: 1 μ: 24.35"
+description: "ws: 2 μ: 24.21"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: -0.54
-- **μ**: 24.35  
-- **σ**: 8.30
-- W: 0, L: 1, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: -0.61
+- **μ**: 24.21  
+- **σ**: 8.27
+- W: 0, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 1 μ: 24.35"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 1 |
+| [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 2 |
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 24.35"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 6-39 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-09-18 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 3-47 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

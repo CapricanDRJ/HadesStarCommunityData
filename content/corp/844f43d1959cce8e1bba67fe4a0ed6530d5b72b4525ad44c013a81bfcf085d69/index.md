@@ -1,9 +1,9 @@
 ---
 title: ​Wolf - Star
-description: W:12 L:0 D:0 Bonus ✅ 34%
+description: W:14 L:0 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 2 - 0 **big hammer**
-date: 2026-10-25T07:16:18.000Z
+Summary: ✅ 8 - 0 **Bastille FR**
+date: 2026-11-01T09:23:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-10-25T07:16:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (10)|
-| ELO Competitive | 1346 🔺  (10)|
-| Total Matches | 12 |
-| Wins | 12 |
+| ELO Regular | 1336 🔺  (12)|
+| ELO Competitive | 1366 🔺  (21)|
+| Total Matches | 14 |
+| Wins | 14 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 14 |
+| Streak Record | 14 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792480578,1792479778,1791888886,1791883780,1791278766,1791276641,1790688881,1790659348,1790078657,1789471694,1788941880,1788509225];
+        let timestamps = [1793093030,1793091256,1792480578,1792479778,1791888886,1791883780,1791278766,1791276641,1790688881,1790659348,1790078657,1789471694,1788941880,1788509225];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/01 | 8-0 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
+| ✅ | 2026/11/01 | 2-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2026/10/25 | 2-0 | [big hammer](https://ws.tsl.rocks/corp/5db8041a3b5b3539dc6852900229c36a9b8feb3caabb0830abf281f8282023ab/) |
 | ✅ | 2026/10/25 | 7-1 | [Eretria](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2026/10/18 | 3-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
@@ -160,5 +162,5 @@ Corporation ID: 844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792912578"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793525030"></span>
 </div>

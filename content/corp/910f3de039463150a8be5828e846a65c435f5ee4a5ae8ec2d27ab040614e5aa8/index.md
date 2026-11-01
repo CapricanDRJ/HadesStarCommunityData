@@ -1,9 +1,9 @@
 ---
 title: ​Bastille FR
-description: W:28 L:26 D:1 Bonus ❌ 10%
+description: W:29 L:27 D:1 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ↔️ 10 - 10 **Лунный Феникс**
-date: 2026-10-25T07:17:59.000Z
+Summary: ✅ 24 - 3 **繁星一夢**
+date: 2026-11-01T09:28:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-25T07:17:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (7)|
-| ELO Competitive | 1480 🔺  (12)|
-| Total Matches | 55 |
-| Wins | 28 |
-| Losses | 26 |
+| ELO Regular | 1236 🔺  (5)|
+| ELO Competitive | 1484 🔺  (4)|
+| Total Matches | 57 |
+| Wins | 29 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792480679,1791900903,1791896997,1791299509,1791284787,1790762381,1790761780,1790166377,1790148355,1789547851,1789545748,1788988457,1788954197,1788349990,1788338575,1787741085,1787731349,1787143498,1786539612,1785794518,1781629251,1781014556,1774366725,1773763434,1773168872,1772549409,1771928095,1771320625,1770736267,1770120960,1769418461,1768915180,1768310060,1767083919,1766485129,1764686588,1764064289,1763372062,1762767579,1762182880,1761651675,1761634551,1760953884,1760953382,1760345464,1759730996,1759247840,1758518643,1757921583,1757310760,1756812594,1756106360,1755412836,1754894396,1754375527];
+        let timestamps = [1793093330,1793093030,1792480679,1791900903,1791896997,1791299509,1791284787,1790762381,1790761780,1790166377,1790148355,1789547851,1789545748,1788988457,1788954197,1788349990,1788338575,1787741085,1787731349,1787143498,1786539612,1785794518,1781629251,1781014556,1774366725,1773763434,1773168872,1772549409,1771928095,1771320625,1770736267,1770120960,1769418461,1768915180,1768310060,1767083919,1766485129,1764686588,1764064289,1763372062,1762767579,1762182880,1761651675,1761634551,1760953884,1760953382,1760345464,1759730996,1759247840,1758518643,1757921583,1757310760,1756812594,1756106360,1755412836,1754894396,1754375527];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) | 1 | 1 | 0 | 2 |
 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) | 2 | 0 | 0 | 2 |
 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 1 | 1 | 0 | 2 |
 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) | 1 | 1 | 0 | 2 |
@@ -144,6 +145,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/01 | 24-3 | [繁星一夢](https://ws.tsl.rocks/corp/aa5c727d4c474affdae1b8a4ceaa1a4d1749c24368741cfaf77e72e2bef86764/) |
+| ❌ | 2026/11/01 | 0-8 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ↔️ | 2026/10/25 | 10-10 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2026/10/18 | 3-5 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ✅ | 2026/10/18 | 18-6 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) |
@@ -206,5 +209,5 @@ Corporation ID: 910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792912679"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793525330"></span>
 </div>
