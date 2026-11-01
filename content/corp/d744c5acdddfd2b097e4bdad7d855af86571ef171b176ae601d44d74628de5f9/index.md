@@ -1,6 +1,6 @@
 ---
 title: ​Schnuppenfarm
-description: W:11 L:18 D:0 Bonus ✅ 40%
+description: W:11 L:18 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 9 - 6 **Fleet Corp Ares**
 date: 2026-10-25T02:59:21.000Z
@@ -17,7 +17,7 @@ date: 2026-10-25T02:59:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

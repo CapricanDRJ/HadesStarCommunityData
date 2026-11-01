@@ -1,9 +1,9 @@
 ---
 title: ​Star Hunters
-description: W:13 L:18 D:2 Bonus ❌ 8%
+description: W:13 L:19 D:2 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 36 **碧霄殿**
-date: 2026-10-15T07:18:43.000Z
+Summary: ❌ 1 - 46 **Лунный Феникс**
+date: 2026-11-01T02:38:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-15T07:18:43.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (-21)|
-| ELO Competitive | 1309 🔻  (-11)|
-| Total Matches | 33 |
+| ELO Regular | 1182 🔻  (-7)|
+| ELO Competitive | 1307 🔻  (-1)|
+| Total Matches | 34 |
 | Wins | 13 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791616723,1790649335,1789905925,1789184035,1788228380,1787029333,1785809237,1784894098,1784236453,1783651823,1783182249,1782176983,1781601906,1781007344,1779698978,1778780186,1778060045,1777366151,1776477318,1775954871,1775219676,1774543682,1773455480,1772805052,1771715099,1770985328,1769801256,1768763157,1758492811,1758165538,1758041760,1757538499,1757041242];
+        let timestamps = [1793068698,1791616723,1790649335,1789905925,1789184035,1788228380,1787029333,1785809237,1784894098,1784236453,1783651823,1783182249,1782176983,1781601906,1781007344,1779698978,1778780186,1778060045,1777366151,1776477318,1775954871,1775219676,1774543682,1773455480,1772805052,1771715099,1770985328,1769801256,1768763157,1758492811,1758165538,1758041760,1757538499,1757041242];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 1-46 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2026/10/15 | 0-36 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2026/10/04 | 23-0 | [Новый Мир](https://ws.tsl.rocks/corp/5563c95f687e98cc5e151634915ffa5e0f4bb39709901c5acc52e34094f19409/) |
 | ✅ | 2026/09/25 | 23-0 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
@@ -180,5 +181,5 @@ Corporation ID: 55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792048723"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793500698"></span>
 </div>

@@ -72,41 +72,6 @@ searchHidden: true
                     <td>360%</td>
                 </tr>
             
-                <tr>
-                    <td>5</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>3</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>4</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
         <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
@@ -245,27 +210,6 @@ searchHidden: true
                 <tr>
                     <td>5</td>
                     <td><img src="drone.png" alt="drone"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>6</td>
-                    <td><img src="default.png" alt="default"></td>
                     <td>RS9</td>
                     <td>318%</td>
                 </tr>
