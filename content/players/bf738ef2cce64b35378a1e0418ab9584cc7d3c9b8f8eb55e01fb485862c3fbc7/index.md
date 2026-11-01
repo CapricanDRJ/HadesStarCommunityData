@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ανθρωπος λ"
-description: "ws: 13 μ: 25.09"
+description: "ws: 14 μ: 26.16"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 11
-- **Rating**: 1.16
-- **μ**: 25.09  
-- **σ**: 7.97
-- W: 8, L: 4, T: 1
+- **WhiteStars**: 14
+- **Eligible**: 12
+- **Rating**: 2.33
+- **μ**: 26.16  
+- **σ**: 7.94
+- W: 9, L: 4, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 25.09"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 11 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 12 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 25.09"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 30-2 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
 | 2026-10-25 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 10-10 | [Bastille FR](https://ws.tsl.rocks/corp/910f3de039463150a8be5828e846a65c435f5ee4a5ae8ec2d27ab040614e5aa8/) |
 | 2026-10-18 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 22-26 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | 2026-10-13 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 27-2 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |

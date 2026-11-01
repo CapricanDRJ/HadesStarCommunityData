@@ -1,6 +1,6 @@
 ---
 title: ​Новый Мир
-description: W:48 L:27 D:1 Bonus ✅ 44%
+description: W:48 L:27 D:1 Bonus ❌ 44%
 image: ./favicon.png
 Summary: ❌ 4 - 15 **Empire of Hades**
 date: 2026-10-31T08:12:21.000Z
@@ -15,7 +15,7 @@ date: 2026-10-31T08:12:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 44%
 
 | Statistic | Value |
 | --- | --- |

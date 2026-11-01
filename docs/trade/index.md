@@ -218,31 +218,6 @@ searchHidden: true
         </tr>
     
         <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>1</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS11</td>
-                    <td>318%</td>
-                </tr>
-            
-        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         
@@ -261,7 +236,7 @@ searchHidden: true
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
         </tr>
     </table>
     <table>

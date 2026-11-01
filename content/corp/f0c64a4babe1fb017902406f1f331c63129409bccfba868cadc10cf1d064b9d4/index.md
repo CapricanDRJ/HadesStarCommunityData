@@ -1,6 +1,6 @@
 ---
 title: ​AFronteiraFinal
-description: W:49 L:17 D:1 Bonus ✅ 42%
+description: W:49 L:17 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 35 - 2 **Stellar Exports**
 date: 2026-10-25T14:28:32.000Z
@@ -18,7 +18,7 @@ a em dia. Temos grupo de Discord.
 <br>
 
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

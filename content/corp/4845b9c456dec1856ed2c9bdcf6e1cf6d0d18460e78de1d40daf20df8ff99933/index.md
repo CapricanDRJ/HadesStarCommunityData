@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:4 L:29 D:4 Bonus ❌ 5%
+description: W:5 L:29 D:4 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **太阳系星盟**
-date: 2026-10-24T15:46:45.000Z
+Summary: ✅ 3 - 0 **starfleet**
+date: 2026-11-01T13:36:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-10-24T15:46:45.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 5%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1024 🔻  (-8)|
-| ELO Competitive | 1092 🔻  (-9)|
-| Total Matches | 37 |
-| Wins | 4 |
+| ELO Regular | 1046 🔺  (22)|
+| ELO Competitive | 1111 🔺  (20)|
+| Total Matches | 38 |
+| Wins | 5 |
 | Losses | 29 |
 | Draws | 4 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792424805,1791992526,1791500480,1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1793108201,1792424805,1791992526,1791500480,1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/01 | 3-0 | [starfleet](https://ws.tsl.rocks/corp/95968e2dca89c1b47ccc9ac531e63c190594fa76d8b463adb4b6faa257e9f388/) |
 | ❌ | 2026/10/24 | 0-4 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ❌ | 2026/10/19 | 0-17 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ❌ | 2026/10/13 | 2-7 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
@@ -185,5 +186,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792856805"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793540201"></span>
 </div>
