@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "PhilDeNoize"
-description: "ws: 8 μ: 23.90"
+description: "ws: 9 μ: 24.08"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 7
-- **Rating**: -0.47
-- **μ**: 23.90  
-- **σ**: 8.13
-- W: 2, L: 6, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 8
+- **Rating**: -0.17
+- **μ**: 24.08  
+- **σ**: 8.09
+- W: 2, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 23.90"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 7 |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 8 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 23.90"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 17-30 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-01-19 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 7-22 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-12-29 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 56-9 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | 2025-12-07 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 5-55 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

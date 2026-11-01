@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Icyk"
-description: "ws: 3 μ: 24.67"
+description: "ws: 4 μ: 24.13"
 ---
-- **WhiteStars**: 3
-- **Eligible**: 2
-- **Rating**: -0.14
-- **μ**: 24.67  
-- **σ**: 8.27
-- W: 0, L: 3, T: 0
+- **WhiteStars**: 4
+- **Eligible**: 3
+- **Rating**: -0.58
+- **μ**: 24.13  
+- **σ**: 8.24
+- W: 0, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 3 μ: 24.67"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 2 |
+| [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 3 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 3 μ: 24.67"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 4-14 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-10-24 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 3-9 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2025-10-30 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 0-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-09-16 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 3-37 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

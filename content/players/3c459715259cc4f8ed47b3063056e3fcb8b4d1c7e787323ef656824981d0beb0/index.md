@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "deflavr"
-description: "ws: 4 μ: 24.64"
+description: "ws: 5 μ: 24.47"
 ---
-- **WhiteStars**: 4
-- **Eligible**: 4
-- **Rating**: 0.04
-- **μ**: 24.64  
-- **σ**: 8.20
-- W: 1, L: 3, T: 0
+- **WhiteStars**: 5
+- **Eligible**: 5
+- **Rating**: -0.02
+- **μ**: 24.47  
+- **σ**: 8.16
+- W: 1, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 4 μ: 24.64"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 4 |
+| [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 4 μ: 24.64"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 4-14 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-05-22 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 13-33 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-01-26 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 27-3 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | 2025-09-16 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 3-37 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

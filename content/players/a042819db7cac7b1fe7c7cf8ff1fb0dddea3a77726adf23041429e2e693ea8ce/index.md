@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ruewer"
-description: "ws: 6 μ: 26.03"
+description: "ws: 7 μ: 26.07"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 4
-- **Rating**: 1.40
-- **μ**: 26.03  
-- **σ**: 8.21
-- W: 2, L: 4, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 5
+- **Rating**: 1.55
+- **μ**: 26.07  
+- **σ**: 8.17
+- W: 3, L: 4, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 6 μ: 26.03"
 | Corporation | WhiteStars |
 | --- | --- |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 4 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 6 μ: 26.03"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 30-17 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | 2026-07-25 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0-32 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-07-12 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1-11 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | 2026-05-02 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 5-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
