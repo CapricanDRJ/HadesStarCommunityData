@@ -1,9 +1,9 @@
 ---
 title: ​+SATELLITE•卫星联+
-description: W:12 L:17 D:3 Bonus ❌ 7%
+description: W:12 L:17 D:4 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **仙女座星雲**
-date: 2026-10-24T03:14:22.000Z
+Summary: ↔️ 0 - 0 **Grater U**
+date: 2026-11-01T17:44:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-10-24T03:14:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (-1)|
-| ELO Competitive | 1235 🔻  (0)|
-| Total Matches | 32 |
+| ELO Regular | 1188 🔻  (-3)|
+| ELO Competitive | 1232 🔻  (-3)|
+| Total Matches | 33 |
 | Wins | 12 |
 | Losses | 17 |
-| Draws | 3 |
+| Draws | 4 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792379662,1791614476,1791174714,1790141233,1788867363,1787997644,1787541275,1786098992,1785346758,1784811790,1784700036,1784012025,1783579116,1783144392,1781083657,1780034293,1754295598,1753767354,1753321132,1752852033,1752378227,1751822622,1751382119,1750887536,1750366641,1749931631,1749490790,1749048768,1748590814,1748143386,1747594083,1747147243];
+        let timestamps = [1793123055,1792379662,1791614476,1791174714,1790141233,1788867363,1787997644,1787541275,1786098992,1785346758,1784811790,1784700036,1784012025,1783579116,1783144392,1781083657,1780034293,1754295598,1753767354,1753321132,1752852033,1752378227,1751822622,1751382119,1750887536,1750366641,1749931631,1749490790,1749048768,1748590814,1748143386,1747594083,1747147243];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/01 | 0-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ❌ | 2026/10/24 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/10/15 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/10/10 | 0-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
@@ -181,5 +182,5 @@ Corporation ID: 0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792811662"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793555055"></span>
 </div>

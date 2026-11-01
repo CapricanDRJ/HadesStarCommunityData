@@ -1,9 +1,9 @@
 ---
 title: ​Brethren Court
-description: W:11 L:0 D:0 Bonus ✅ 34%
+description: W:11 L:1 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 5 - 3 **Rabid Butterfly**
-date: 2026-10-26T04:19:44.000Z
+Summary: ❌ 6 - 9 **九州·白星**
+date: 2026-11-01T18:09:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-26T04:19:44.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1349 🔺  (10)|
-| ELO Competitive | 1371 🔺  (10)|
-| Total Matches | 11 |
+| ELO Regular | 1329 🔻  (-20)|
+| ELO Competitive | 1366 🔻  (-6)|
+| Total Matches | 12 |
 | Wins | 11 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 11 |
 | Streak Record | 11 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792556384,1791950203,1791359287,1790861221,1790399789,1789879491,1788349389,1787717508,1787107151,1785857302,1784311257];
+        let timestamps = [1793124588,1792556384,1791950203,1791359287,1790861221,1790399789,1789879491,1788349389,1787717508,1787107151,1785857302,1784311257];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 6-9 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ✅ | 2026/10/26 | 5-3 | [Rabid Butterfly](https://ws.tsl.rocks/corp/a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a/) |
 | ✅ | 2026/10/19 | 22-0 | [RES新星](https://ws.tsl.rocks/corp/168f13071340b187ff92b48e863a037a80ef9af3abb19d79bc3dcabb0e133833/) |
 | ✅ | 2026/10/12 | 24-0 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
@@ -154,5 +154,5 @@ Corporation ID: 58ce9bed114bde298d77f20adf5584e22292e24f89dd59298051b01d66212ad4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792988384"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793556588"></span>
 </div>

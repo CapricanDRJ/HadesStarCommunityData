@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Star
-description: W:90 L:41 D:0 Bonus ✅ 50%
+description: W:90 L:41 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **繁星一夢**
 date: 2026-10-25T18:43:53.000Z
@@ -18,7 +18,7 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​九州·养老
-description: W:28 L:34 D:2 Bonus ✅ 40%
+description: W:28 L:35 D:2 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **长安三万里**
-date: 2026-11-01T12:09:06.000Z
+Summary: ❌ 0 - 3 **九州·白星**
+date: 2026-11-01T15:59:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-01T12:09:06.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (11)|
+| ELO Regular | 1211 🔻  (-16)|
 | ELO Competitive | 1481 🔺  (4)|
-| Total Matches | 64 |
+| Total Matches | 65 |
 | Wins | 28 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793102946,1792636888,1792627449,1792179378,1791819202,1791742005,1791276641,1791238833,1790766047,1790752355,1790333105,1790295552,1789861880,1789845056,1789405766,1789401560,1788968920,1788941880,1788448835,1788438917,1787994340,1787990134,1787552390,1787541658,1787106850,1787070792,1786624772,1786624604,1786189568,1786126777,1785744035,1785581785,1785287969,1785142249,1784823508,1784708145,1784288920,1784266792,1783834475,1783822760,1783389552,1783382944,1782916070,1782895942,1782478347,1782429876,1782037263,1781866595,1781543924,1781407499,1781100480,1780968895,1780667273,1780490333,1780168890,1780031890,1779712498,1779581550,1779252481,1779117899,1778808127,1778638769,1778337056,1777890589];
+        let timestamps = [1793116773,1793102946,1792636888,1792627449,1792179378,1791819202,1791742005,1791276641,1791238833,1790766047,1790752355,1790333105,1790295552,1789861880,1789845056,1789405766,1789401560,1788968920,1788941880,1788448835,1788438917,1787994340,1787990134,1787552390,1787541658,1787106850,1787070792,1786624772,1786624604,1786189568,1786126777,1785744035,1785581785,1785287969,1785142249,1784823508,1784708145,1784288920,1784266792,1783834475,1783822760,1783389552,1783382944,1782916070,1782895942,1782478347,1782429876,1782037263,1781866595,1781543924,1781407499,1781100480,1780968895,1780667273,1780490333,1780168890,1780031890,1779712498,1779581550,1779252481,1779117899,1778808127,1778638769,1778337056,1777890589];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,9 +133,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 2 | 4 | 0 | 6 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 0 | 2 | 0 | 2 |
 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) | 0 | 2 | 0 | 2 |
-| [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) | 2 | 3 | 0 | 5 |
 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) | 0 | 2 | 0 | 2 |
 | [Dark Monarchs](https://ws.tsl.rocks/corp/c23ec9ebc110eb3dd1c56d100e206f8e421ad61de0748f4c6229e6297d736b4c/) | 0 | 2 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 0 | 2 | 0 | 2 |
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 0-3 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ✅ | 2026/11/01 | 6-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
 | ✅ | 2026/10/27 | 7-0 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2026/10/27 | 3-0 | [7SinS](https://ws.tsl.rocks/corp/49cc783b265f5512052380c5b19d4262ecff456b1f6cbeb8e5a8a99d225432f9/) |
@@ -217,5 +217,5 @@ Corporation ID: 3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793534946"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793548773"></span>
 </div>
