@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:121 L:127 D:3 Bonus ✅ 54%
+description: W:121 L:127 D:3 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **italian warrior**
 date: 2026-10-25T18:58:53.000Z
@@ -17,7 +17,7 @@ date: 2026-10-25T18:58:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

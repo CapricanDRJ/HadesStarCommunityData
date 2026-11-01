@@ -1,6 +1,6 @@
 ---
 title: ​九州·白星
-description: W:70 L:117 D:2 Bonus ✅ 48%
+description: W:70 L:117 D:2 Bonus ✅ 50%
 image: ./favicon.png
 Summary: ✅ 9 - 6 **Brethren Court**
 date: 2026-11-01T18:09:48.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T18:09:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |

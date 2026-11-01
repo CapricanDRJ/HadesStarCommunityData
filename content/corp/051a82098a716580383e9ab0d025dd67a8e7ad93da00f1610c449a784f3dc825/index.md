@@ -1,6 +1,6 @@
 ---
 title: ​RELAX CZ/SK
-description: W:156 L:148 D:1 Bonus ❌ 16%
+description: W:156 L:148 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 5 - 13 **Polish Pirates**
 date: 2026-11-01T04:23:26.000Z
@@ -17,7 +17,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 <br>
 
 ### [Discord](https://discord.gg/d3bTgrEYmr)
-### Whitestar Bonus ❌ 16%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

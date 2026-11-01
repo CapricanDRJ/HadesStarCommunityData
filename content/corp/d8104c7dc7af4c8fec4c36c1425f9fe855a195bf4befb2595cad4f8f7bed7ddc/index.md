@@ -1,6 +1,6 @@
 ---
 title: ​Nearland Ind
-description: W:192 L:87 D:0 Bonus ✅ 58%
+description: W:192 L:87 D:0 Bonus ✅ 60%
 image: ./favicon.png
 Summary: ✅ 17 - 7 **Auscorp**
 date: 2026-11-01T02:03:16.000Z
@@ -22,7 +22,7 @@ FS2 - Closed
 <br>
 
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ✅ 60%
 
 | Statistic | Value |
 | --- | --- |

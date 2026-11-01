@@ -1,6 +1,6 @@
 ---
 title: ​UKR Spase
-description: W:100 L:76 D:0 Bonus ✅ 50%
+description: W:100 L:76 D:0 Bonus ✅ 52%
 image: ./favicon.png
 Summary: ✅ 11 - 7 **Hinterm Mars**
 date: 2026-11-01T08:33:46.000Z
@@ -19,7 +19,7 @@ date: 2026-11-01T08:33:46.000Z
 <br>
 
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |

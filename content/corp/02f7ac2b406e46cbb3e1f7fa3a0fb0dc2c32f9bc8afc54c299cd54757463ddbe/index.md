@@ -1,9 +1,9 @@
 ---
 title: ​ItaFederalFleet
-description: W:32 L:28 D:3 Bonus ❌ 8%
+description: W:32 L:29 D:3 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 24 - 6 **Cerulean Galaxy**
-date: 2026-10-22T18:53:13.000Z
+Summary: ❌ 25 - 31 **Black Pearl FR**
+date: 2026-11-01T20:30:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ uto settimanale di 10000 crediti per l'ammiraglia.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (15)|
-| ELO Competitive | 1362 🔺  (12)|
-| Total Matches | 63 |
+| ELO Regular | 1221 🔻  (-10)|
+| ELO Competitive | 1360 🔻  (-2)|
+| Total Matches | 64 |
 | Wins | 32 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 3 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792263193,1791573848,1790871136,1789752716,1788541972,1786518861,1785604620,1780519780,1779215829,1777990029,1773618626,1770197571,1768780585,1768118969,1766880831,1763516581,1762671126,1761594262,1760551275,1759274283,1757640344,1756421855,1753688923,1751564810,1750372176,1747404764,1743369097,1742467762,1741375743,1739918905,1738678128,1736171525,1733337068,1732541956,1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
+        let timestamps = [1793133004,1792263193,1791573848,1790871136,1789752716,1788541972,1786518861,1785604620,1780519780,1779215829,1777990029,1773618626,1770197571,1768780585,1768118969,1766880831,1763516581,1762671126,1761594262,1760551275,1759274283,1757640344,1756421855,1753688923,1751564810,1750372176,1747404764,1743369097,1742467762,1741375743,1739918905,1738678128,1736171525,1733337068,1732541956,1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) | 1 | 1 | 0 | 2 |
 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) | 2 | 0 | 0 | 2 |
 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 0 | 2 | 0 | 2 |
 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 0 | 2 | 0 | 2 |
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/01 | 25-31 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | ✅ | 2026/10/22 | 24-6 | [Cerulean Galaxy](https://ws.tsl.rocks/corp/98c9053a60d3bc0613bf07b80ddef20dc769971ff9a51f1a9b47741744c915aa/) |
 | ✅ | 2026/10/14 | 32-6 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ✅ | 2026/10/06 | 27-6 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
@@ -216,5 +217,5 @@ Corporation ID: 02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792695193"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793565004"></span>
 </div>
