@@ -236,7 +236,7 @@ searchHidden: true
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/727147285603156060">Bacon wrapped fun zone</a></td>
         </tr>
     </table>
     <table>

@@ -1,9 +1,9 @@
 ---
 title: ​黑色长城
-description: W:2 L:13 D:2 Bonus ❌ 5%
+description: W:2 L:13 D:3 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 12 **ༀᅗBAR ESTELARᅗༀ**
-date: 2026-10-20T07:08:18.000Z
+Summary: ↔️ 0 - 0 **烽烟与黎明**
+date: 2026-11-02T09:51:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,12 @@ date: 2026-10-20T07:08:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1071 🔻  (-5)|
-| ELO Competitive | 1105 🔻  (-4)|
-| Total Matches | 17 |
+| ELO Regular | 1076 🔺  (6)|
+| ELO Competitive | 1111 🔺  (6)|
+| Total Matches | 18 |
 | Wins | 2 |
 | Losses | 13 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 3 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792048098,1786025920,1785978978,1785201143,1783642212,1776391696,1708174362,1707695971,1707252842,1705856600,1705424104,1704991670,1704039645,1701325605,1700406229,1699971873,1698921199];
+        let timestamps = [1793181075,1792048098,1786025920,1785978978,1785201143,1783642212,1776391696,1708174362,1707695971,1707252842,1705856600,1705424104,1704991670,1704039645,1701325605,1700406229,1699971873,1698921199];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/02 | 0-0 | [烽烟与黎明](https://ws.tsl.rocks/corp/6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96/) |
 | ❌ | 2026/10/20 | 0-12 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ↔️ | 2026/08/11 | 0-0 | [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) |
 | ❌ | 2026/08/11 | 0-32 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
@@ -171,5 +172,5 @@ Corporation ID: 8494a7ecc96c5cc06e4d9c7824f2c0cf9fde23e2878b0305b618382fb4068005
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792480098"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793613075"></span>
 </div>
