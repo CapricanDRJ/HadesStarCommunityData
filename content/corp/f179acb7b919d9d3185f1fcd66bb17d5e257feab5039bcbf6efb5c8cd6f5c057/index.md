@@ -1,6 +1,6 @@
 ---
 title: ​Star Blazers
-description: W:63 L:97 D:3 Bonus ✅ 46%
+description: W:63 L:97 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 6 - 1 **Эдем**
 date: 2026-10-26T02:42:16.000Z
@@ -23,7 +23,7 @@ Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 <br>
 
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "лоликоншик320"
-description: "ws: 1 μ: 24.20"
+description: "ws: 2 μ: 24.20"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: -0.69
 - **μ**: 24.20  
 - **σ**: 8.30
-- W: 0, L: 1, T: 0
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 24.20"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-01 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) | 16-0 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-06-15 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 7-14 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) |
