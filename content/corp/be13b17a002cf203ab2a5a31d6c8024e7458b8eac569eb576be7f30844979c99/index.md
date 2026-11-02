@@ -1,6 +1,6 @@
 ---
 title: ​Planet Express
-description: W:35 L:12 D:1 Bonus ✅ 40%
+description: W:35 L:12 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **日月星辰**
 date: 2026-10-26T08:40:04.000Z
@@ -18,7 +18,7 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 <br>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
