@@ -1,6 +1,6 @@
 ---
 title: ​Тихий Омут
-description: W:206 L:160 D:3 Bonus ❌ 56%
+description: W:206 L:160 D:3 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 17 - 19 **Milliways**
 date: 2026-11-01T06:28:36.000Z
@@ -15,7 +15,7 @@ Only for Russian speakers 🇷🇺
 ```
 <br>
 
-### Whitestar Bonus ❌ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

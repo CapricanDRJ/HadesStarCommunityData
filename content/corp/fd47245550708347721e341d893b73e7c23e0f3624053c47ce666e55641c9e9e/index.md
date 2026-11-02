@@ -1,6 +1,6 @@
 ---
 title: ​Nine's Own Goal
-description: W:58 L:52 D:2 Bonus ✅ 48%
+description: W:58 L:52 D:2 Bonus ❌ 48%
 image: ./favicon.png
 Summary: ✅ 6 - 5 **RUFORS**
 date: 2026-10-26T15:50:47.000Z
@@ -17,7 +17,7 @@ on events. No alts.
 <br>
 
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 48%
 
 | Statistic | Value |
 | --- | --- |

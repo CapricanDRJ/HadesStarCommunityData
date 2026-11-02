@@ -1,6 +1,6 @@
 ---
 title: ​Auscorp
-description: W:198 L:50 D:2 Bonus ✅ 58%
+description: W:198 L:50 D:2 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 7 - 17 **Nearland Ind**
 date: 2026-11-01T02:03:16.000Z
@@ -23,7 +23,7 @@ All FS Donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/skvJzZH)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |
