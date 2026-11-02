@@ -281,7 +281,7 @@ searchHidden: true
                 </tr>
             
                 <tr>
-                    <td>4</td>
+                    <td>1</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS12</td>
                     <td>350%</td>
@@ -302,23 +302,9 @@ searchHidden: true
                 </tr>
             
                 <tr>
-                    <td>3</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
                     <td>1</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS12</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
                     <td>350%</td>
                 </tr>
             
