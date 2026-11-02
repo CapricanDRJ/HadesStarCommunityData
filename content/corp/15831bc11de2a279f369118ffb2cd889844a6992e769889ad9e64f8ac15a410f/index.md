@@ -1,9 +1,9 @@
 ---
 title: ​No Orbit©
-description: W:36 L:26 D:0 Bonus ❌ 14%
+description: W:37 L:26 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 42 - 0 **Continuum**
-date: 2026-10-05T14:00:02.000Z
+Summary: ✅ 24 - 3 **Слава Украине\!**
+date: 2026-11-02T17:47:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1357 🔺  (16)|
-| ELO Competitive | 1603 🔺  (28)|
-| Total Matches | 62 |
-| Wins | 36 |
+| ELO Regular | 1373 🔺  (16)|
+| ELO Competitive | 1629 🔺  (27)|
+| Total Matches | 63 |
+| Wins | 37 |
 | Losses | 26 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790776802,1789919746,1788421795,1787576424,1785853997,1783420490,1782029449,1781013054,1779725422,1779033455,1777220529,1776176587,1773757724,1771341958,1769975251,1769017635,1767537911,1766240254,1765116262,1761683228,1759240928,1756910843,1754492417,1752600823,1751971063,1750079481,1747160168,1747141833,1745246087,1744725914,1744721105,1743949999,1742749074,1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
+        let timestamps = [1793209629,1790776802,1789919746,1788421795,1787576424,1785853997,1783420490,1782029449,1781013054,1779725422,1779033455,1777220529,1776176587,1773757724,1771341958,1769975251,1769017635,1767537911,1766240254,1765116262,1761683228,1759240928,1756910843,1754492417,1752600823,1751971063,1750079481,1747160168,1747141833,1745246087,1744725914,1744721105,1743949999,1742749074,1741612239,1740926815,1739724480,1738521567,1736695659,1733065438,1730040014,1728834354,1727020423,1726408100,1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -156,6 +157,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/02 | 24-3 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2026/10/05 | 42-0 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2026/09/25 | 3-15 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2026/09/08 | 9-3 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
@@ -225,5 +227,5 @@ Corporation ID: 15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791208802"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793641629"></span>
 </div>

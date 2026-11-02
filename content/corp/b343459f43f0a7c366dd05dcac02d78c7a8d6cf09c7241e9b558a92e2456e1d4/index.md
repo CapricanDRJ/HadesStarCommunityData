@@ -1,6 +1,6 @@
 ---
 title: ​Death Flight
-description: W:78 L:265 D:4 Bonus ✅ 52%
+description: W:78 L:265 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 35 **柯伊伯带**
 date: 2026-10-27T03:18:45.000Z
@@ -24,7 +24,7 @@ Trust * Loyalty
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
