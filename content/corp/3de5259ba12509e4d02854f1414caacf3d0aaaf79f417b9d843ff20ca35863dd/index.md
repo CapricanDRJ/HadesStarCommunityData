@@ -1,6 +1,6 @@
 ---
 title: ​Atlas Star llc.
-description: W:63 L:24 D:0 Bonus ✅ 40%
+description: W:63 L:24 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 16 **U\.S\.A**
 date: 2026-10-31T12:39:04.000Z
@@ -17,7 +17,7 @@ ulti-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 <br>
 
 ### [Discord](https://discord.gg/gdwqCqc2VN)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

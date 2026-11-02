@@ -1,9 +1,9 @@
 ---
 title: ​銀河星际集团
-description: W:2 L:1 D:0 Bonus ✅ 26%
+description: W:2 L:2 D:0 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **星球杯联盟**
-date: 2026-10-28T01:49:35.000Z
+Summary: ❌ 0 - 9 **CORPORATION**
+date: 2026-11-02T05:08:20.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-28T01:49:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (12)|
-| ELO Competitive | 1218 🔺  (13)|
-| Total Matches | 3 |
+| ELO Regular | 1203 🔻  (-13)|
+| ELO Competitive | 1205 🔻  (-13)|
+| Total Matches | 4 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792720175,1774164827,1705803354];
+        let timestamps = [1793164100,1792720175,1774164827,1705803354];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/02 | 0-9 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ✅ | 2026/10/28 | 1-0 | [星球杯联盟](https://ws.tsl.rocks/corp/ee41cb7209a13177edbf1aefc3f3b01a86ba867bc141ba5adc7789c5a6742977/) |
 | ❌ | 2026/03/27 | 0-18 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ✅ | 2024/01/26 | 6-1 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
@@ -144,5 +145,5 @@ Corporation ID: c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793152175"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793596100"></span>
 </div>

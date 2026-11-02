@@ -1,6 +1,6 @@
 ---
 title: ​Brethren Court
-description: W:11 L:1 D:0 Bonus ✅ 34%
+description: W:11 L:1 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 6 - 9 **九州·白星**
 date: 2026-11-01T18:09:48.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T18:09:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
