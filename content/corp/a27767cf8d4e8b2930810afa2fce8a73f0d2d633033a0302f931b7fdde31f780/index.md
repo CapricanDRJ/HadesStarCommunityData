@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:6 L:12 D:3 Bonus ❌ 6%
+description: W:6 L:13 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 6 - 18 **E\.T\.A**
-date: 2026-10-29T13:28:17.000Z
+Summary: ❌ 11 - 13 **Stellaris**
+date: 2026-11-03T19:49:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-29T13:28:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (-12)|
-| ELO Competitive | 1271 🔻  (-5)|
-| Total Matches | 21 |
+| ELO Regular | 1143 🔻  (-15)|
+| ELO Competitive | 1264 🔻  (-7)|
+| Total Matches | 22 |
 | Wins | 6 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792848497,1792408879,1792321466,1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1793303384,1792848497,1792408879,1792321466,1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/03 | 11-13 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ❌ | 2026/10/29 | 6-18 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2026/10/24 | 19-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ↔️ | 2026/10/23 | 0-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
@@ -168,5 +169,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793280497"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793735384"></span>
 </div>

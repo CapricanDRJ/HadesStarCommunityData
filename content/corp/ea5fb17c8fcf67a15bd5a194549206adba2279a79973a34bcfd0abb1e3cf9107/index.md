@@ -1,6 +1,6 @@
 ---
 title: ​Continuum
-description: W:230 L:127 D:3 Bonus ✅ 60%
+description: W:230 L:127 D:3 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ❌ 2 - 26 **GDZ**
 date: 2026-11-01T20:20:02.000Z
@@ -19,7 +19,7 @@ S. 18+, English. Discord - apply + RS queue.
 <br>
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

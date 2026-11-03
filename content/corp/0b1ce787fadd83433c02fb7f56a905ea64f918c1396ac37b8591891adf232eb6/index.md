@@ -1,6 +1,6 @@
 ---
 title: ​Kelebra
-description: W:77 L:71 D:2 Bonus ✅ 46%
+description: W:77 L:71 D:2 Bonus ✅ 48%
 image: ./favicon.png
 Summary: ❌ 2 - 23 **六大天神**
 date: 2026-11-01T22:10:14.000Z
@@ -17,7 +17,7 @@ date: 2026-11-01T22:10:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​甜甜圈
-description: W:11 L:7 D:0 Bonus ✅ 34%
+description: W:11 L:7 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 3 **太阳系联邦**
 date: 2026-10-29T01:27:09.000Z
@@ -15,7 +15,7 @@ date: 2026-10-29T01:27:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
