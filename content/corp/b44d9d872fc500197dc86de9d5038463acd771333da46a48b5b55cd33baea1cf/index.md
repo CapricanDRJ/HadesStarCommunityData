@@ -1,6 +1,6 @@
 ---
 title: ​阿尔特拉集团
-description: W:47 L:60 D:7 Bonus ✅ 40%
+description: W:47 L:60 D:7 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 36 **Black Pearl FR**
 date: 2026-11-01T14:19:21.000Z
@@ -21,7 +21,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
