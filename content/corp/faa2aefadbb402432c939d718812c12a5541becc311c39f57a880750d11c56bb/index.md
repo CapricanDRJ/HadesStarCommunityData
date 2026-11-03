@@ -1,9 +1,9 @@
 ---
 title: ​传说之下2
-description: W:33 L:18 D:1 Bonus ✅ 40%
+description: W:33 L:19 D:1 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 10 - 3 **Gold Star**
-date: 2026-10-28T08:12:32.000Z
+Summary: ❌ 5 - 8 **imperio galacti**
+date: 2026-11-03T07:58:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-28T08:12:32.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔺  (6)|
-| ELO Competitive | 1513 🔺  (5)|
-| Total Matches | 52 |
+| ELO Regular | 1326 🔻  (-6)|
+| ELO Competitive | 1510 🔻  (-3)|
+| Total Matches | 53 |
 | Wins | 33 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 11 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792743152,1792256283,1790857917,1783694207,1783677955,1773932577,1772366825,1772360734,1771456297,1771302902,1771003657,1770853740,1770552094,1770394664,1769642833,1769087639,1769036324,1768437158,1767826627,1767135386,1766627060,1766019428,1765408917,1764802576,1764284213,1761778474,1759751427,1759750225,1759237623,1759234017,1757125973,1757122359,1756180276,1756125890,1755675457,1755670650,1755176637,1755175134,1754366514,1754366214,1753360192,1752616631,1752579182,1751972566,1751971965,1750985491,1750247758,1749641632,1748008744,1747350381,1746686578,1746014672];
+        let timestamps = [1793260706,1792743152,1792256283,1790857917,1783694207,1783677955,1773932577,1772366825,1772360734,1771456297,1771302902,1771003657,1770853740,1770552094,1770394664,1769642833,1769087639,1769036324,1768437158,1767826627,1767135386,1766627060,1766019428,1765408917,1764802576,1764284213,1761778474,1759751427,1759750225,1759237623,1759234017,1757125973,1757122359,1756180276,1756125890,1755675457,1755670650,1755176637,1755175134,1754366514,1754366214,1753360192,1752616631,1752579182,1751972566,1751971965,1750985491,1750247758,1749641632,1748008744,1747350381,1746686578,1746014672];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/03 | 5-8 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2026/10/28 | 10-3 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ✅ | 2026/10/22 | 5-3 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ✅ | 2026/10/06 | 17-3 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
@@ -204,5 +204,5 @@ Corporation ID: faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793175152"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793692706"></span>
 </div>

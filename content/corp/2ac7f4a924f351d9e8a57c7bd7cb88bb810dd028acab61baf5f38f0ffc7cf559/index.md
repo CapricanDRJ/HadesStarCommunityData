@@ -1,9 +1,9 @@
 ---
 title: ​Regulus
-description: W:45 L:15 D:0 Bonus ❌ 15%
+description: W:46 L:15 D:0 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ✅ 15 - 6 **Неизбежный Рок**
-date: 2026-10-06T02:06:07.000Z
+Summary: ✅ 24 - 6 **Terranova**
+date: 2026-11-03T09:03:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1506 🔺  (17)|
-| ELO Competitive | 1712 🔺  (26)|
-| Total Matches | 60 |
-| Wins | 45 |
+| ELO Regular | 1513 🔺  (6)|
+| ELO Competitive | 1730 🔺  (18)|
+| Total Matches | 61 |
+| Wins | 46 |
 | Losses | 15 |
 | Draws | 0 |
-| Streak | 37 |
-| Streak Record | 37 |
+| Streak | 38 |
+| Streak Record | 38 |
 | Flagship | 11 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790820367,1789610639,1788480991,1787717638,1785889753,1784679910,1783467360,1782278837,1781157562,1780021677,1778801519,1777613294,1776388091,1775188432,1773883908,1772764503,1771549563,1770333979,1769135713,1767991272,1766792505,1766105355,1765514969,1764302243,1763223339,1761821128,1760782924,1759337679,1758299836,1756963122,1755838948,1754552812,1753521248,1752128818,1749727274,1747281565,1744686252,1725622582,1725600347,1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
+        let timestamps = [1793264612,1790820367,1789610639,1788480991,1787717638,1785889753,1784679910,1783467360,1782278837,1781157562,1780021677,1778801519,1777613294,1776388091,1775188432,1773883908,1772764503,1771549563,1770333979,1769135713,1767991272,1766792505,1766105355,1765514969,1764302243,1763223339,1761821128,1760782924,1759337679,1758299836,1756963122,1755838948,1754552812,1753521248,1752128818,1749727274,1747281565,1744686252,1725622582,1725600347,1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/03 | 24-6 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ✅ | 2026/10/06 | 15-6 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2026/09/22 | 31-8 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ✅ | 2026/09/09 | 36-3 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) |
@@ -216,5 +217,5 @@ Corporation ID: 2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791252367"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793696612"></span>
 </div>
