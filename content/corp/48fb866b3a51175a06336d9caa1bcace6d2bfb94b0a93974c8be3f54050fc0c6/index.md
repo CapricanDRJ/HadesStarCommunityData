@@ -1,6 +1,6 @@
 ---
 title: ​Свободный флот
-description: W:97 L:140 D:7 Bonus ✅ 48%
+description: W:97 L:140 D:7 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 6 - 33 **OPA**
 date: 2026-10-27T13:10:40.000Z
@@ -18,7 +18,7 @@ date: 2026-10-27T13:10:40.000Z
 <br>
 
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

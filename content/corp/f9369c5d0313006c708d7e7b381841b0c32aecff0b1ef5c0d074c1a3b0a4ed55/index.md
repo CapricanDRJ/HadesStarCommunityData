@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人
-description: W:40 L:48 D:3 Bonus ✅ 44%
+description: W:40 L:48 D:3 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 19 **阿尔特拉集团**
 date: 2026-10-27T13:00:39.000Z
@@ -15,7 +15,7 @@ date: 2026-10-27T13:00:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

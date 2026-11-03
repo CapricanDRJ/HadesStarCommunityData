@@ -1,6 +1,6 @@
 ---
 title: ​Ereboros
-description: W:15 L:3 D:0 Bonus ✅ 34%
+description: W:15 L:3 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **烽烟与黎明**
 date: 2026-10-27T12:38:10.000Z
@@ -15,7 +15,7 @@ date: 2026-10-27T12:38:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​CubeTech
-description: W:10 L:14 D:0 Bonus ❌ 9%
+description: W:10 L:16 D:0 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **Avantgarde**
-date: 2026-10-21T08:50:26.000Z
+Summary: ❌ 3 - 13 **Space Catz**
+date: 2026-11-03T10:13:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-10-21T08:50:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (1)|
-| ELO Competitive | 1325 🔺  (10)|
-| Total Matches | 24 |
+| ELO Regular | 1177 🔻  (-8)|
+| ELO Competitive | 1315 🔻  (-10)|
+| Total Matches | 26 |
 | Wins | 10 |
-| Losses | 14 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792140626,1792140593,1790062287,1790062136,1789547851,1789545748,1788697908,1788678737,1788199784,1787571016,1786986669,1786461779,1785893658,1785162475,1784728792,1784289923,1784276705,1783788771,1783766577,1783321348,1783153706,1782749932,1782721350,1736957335];
+        let timestamps = [1793268818,1793268380,1792140626,1792140593,1790062287,1790062136,1789547851,1789545748,1788697908,1788678737,1788199784,1787571016,1786986669,1786461779,1785893658,1785162475,1784728792,1784289923,1784276705,1783788771,1783766577,1783321348,1783153706,1782749932,1782721350,1736957335];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/03 | 3-13 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
+| ❌ | 2026/11/03 | 3-11 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/10/21 | 3-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2026/10/21 | 9-1 | [Keltiad](https://ws.tsl.rocks/corp/65e85bf371d3816b9fde6543ff13b0911ac57ac916e3a589dbce3b1a95b40618/) |
 | ❌ | 2026/09/27 | 0-6 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
@@ -174,5 +175,5 @@ Corporation ID: 87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792572626"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793700818"></span>
 </div>
