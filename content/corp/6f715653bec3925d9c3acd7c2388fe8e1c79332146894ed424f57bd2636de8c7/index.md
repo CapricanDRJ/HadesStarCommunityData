@@ -1,6 +1,6 @@
 ---
 title: ​Mass Effect
-description: W:73 L:67 D:1 Bonus ✅ 46%
+description: W:73 L:67 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 52 **Warriorlords**
 date: 2026-11-02T16:57:02.000Z
@@ -18,7 +18,7 @@ Just come and play to the rules!
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

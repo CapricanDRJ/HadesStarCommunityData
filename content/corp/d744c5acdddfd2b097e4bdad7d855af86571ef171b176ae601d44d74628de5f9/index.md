@@ -1,9 +1,9 @@
 ---
 title: ​Schnuppenfarm
-description: W:11 L:18 D:0 Bonus ❌ 10%
+description: W:12 L:18 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 9 - 6 **Fleet Corp Ares**
-date: 2026-10-25T02:59:21.000Z
+Summary: ✅ 19 - 1 **Croce del Sud**
+date: 2026-11-03T00:22:49.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ date: 2026-10-25T02:59:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (23)|
-| ELO Competitive | 1337 🔺  (27)|
-| Total Matches | 29 |
-| Wins | 11 |
+| ELO Regular | 1191 🔺  (18)|
+| ELO Competitive | 1362 🔺  (25)|
+| Total Matches | 30 |
+| Wins | 12 |
 | Losses | 18 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 6 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792465161,1788304336,1785875332,1783542169,1779290037,1776149249,1775256634,1773815407,1773813304,1771315820,1771311313,1768896254,1768893850,1768246971,1767306843,1766473113,1764313362,1764313362,1761748123,1761723183,1754464772,1754406778,1752129418,1749555992,1744748457,1730527416,1710188811,1705679237,1702441229];
+        let timestamps = [1793233369,1792465161,1788304336,1785875332,1783542169,1779290037,1776149249,1775256634,1773815407,1773813304,1771315820,1771311313,1768896254,1768893850,1768246971,1767306843,1766473113,1764313362,1764313362,1761748123,1761723183,1754464772,1754406778,1752129418,1749555992,1744748457,1730527416,1710188811,1705679237,1702441229];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/03 | 19-1 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ✅ | 2026/10/25 | 9-6 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ✅ | 2026/09/06 | 33-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2026/08/09 | 4-20 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
@@ -174,5 +175,5 @@ Corporation ID: d744c5acdddfd2b097e4bdad7d855af86571ef171b176ae601d44d74628de5f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792897161"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793665369"></span>
 </div>
