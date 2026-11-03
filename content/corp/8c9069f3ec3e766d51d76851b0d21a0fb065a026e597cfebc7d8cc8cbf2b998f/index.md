@@ -1,6 +1,6 @@
 ---
 title: ​TheBasics
-description: W:159 L:160 D:4 Bonus ✅ 52%
+description: W:159 L:160 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **Вселенские 40%**
 date: 2026-10-27T18:21:21.000Z
@@ -16,7 +16,7 @@ Just log in and play once per day.
 <br>
 
 ### [Discord](https://discord.gg/pTS382n7ZR)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
