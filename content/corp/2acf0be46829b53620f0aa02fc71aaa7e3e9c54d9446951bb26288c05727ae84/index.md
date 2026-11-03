@@ -1,6 +1,6 @@
 ---
 title: ​中华人民共和国
-description: W:39 L:39 D:4 Bonus ✅ 40%
+description: W:39 L:39 D:4 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 8 **九州分团**
 date: 2026-11-01T15:14:27.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T15:14:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

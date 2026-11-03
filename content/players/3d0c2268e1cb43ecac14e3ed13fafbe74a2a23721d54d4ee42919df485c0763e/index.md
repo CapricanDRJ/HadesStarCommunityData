@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KH"
-description: "ws: 2 μ: 25.35"
+description: "ws: 3 μ: 24.14"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 2
-- **Rating**: 0.58
-- **μ**: 25.35  
-- **σ**: 8.26
-- W: 1, L: 1, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 3
+- **Rating**: -0.52
+- **μ**: 24.14  
+- **σ**: 8.22
+- W: 1, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 2 μ: 25.35"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 2 |
+| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 3 |
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 25.35"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-03 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 9-13 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-07-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 14-7 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-03-03 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 5-13 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

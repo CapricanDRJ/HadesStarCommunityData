@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Мрачный Вихрь"
-description: "ws: 8 μ: 24.83"
+description: "ws: 9 μ: 25.84"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 5
-- **Rating**: 0.36
-- **μ**: 24.83  
-- **σ**: 8.16
-- W: 5, L: 3, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 6
+- **Rating**: 1.47
+- **μ**: 25.84  
+- **σ**: 8.12
+- W: 6, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 24.83"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 5 |
+| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 6 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 24.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-03 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 13-9 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | 2026-04-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 23-6 | [sound round](https://ws.tsl.rocks/corp/c5bef6bb1d0b6c510cc6c1b66c86750586ef0e4cdfae379aad0ba15d33398ded/) |
 | 2026-03-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 3-38 | [QONQR](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | 2025-11-25 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 2-11 | [深域](https://ws.tsl.rocks/corp/eecda71374dad3401a154cda170518bbf578f7124c194849a529405246335626/) |
