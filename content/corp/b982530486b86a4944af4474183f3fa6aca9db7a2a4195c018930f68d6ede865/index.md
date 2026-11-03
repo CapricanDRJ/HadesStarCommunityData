@@ -1,9 +1,9 @@
 ---
 title: ​边域
-description: W:9 L:25 D:3 Bonus ❌ 7%
+description: W:9 L:26 D:3 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **自由之地**
-date: 2026-08-01T13:49:54.000Z
+Summary: ❌ 0 - 8 **无人深空**
+date: 2026-11-03T03:38:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 2026-08-01T13:49:54.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1050 🔻  (-7)|
-| ELO Competitive | 1070 🔻  (-6)|
-| Total Matches | 37 |
+| ELO Regular | 1044 🔻  (-5)|
+| ELO Competitive | 1067 🔻  (-3)|
+| Total Matches | 38 |
 | Wins | 9 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 3 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1785160194,1764429075,1763907210,1760934959,1759226205,1752947963,1752100282,1751668110,1750722575,1750212692,1749702386,1748804475,1746079244,1744439533,1743252456,1741485430,1740815612,1739933510,1738501124,1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1793245085,1785160194,1764429075,1763907210,1760934959,1759226205,1752947963,1752100282,1751668110,1750722575,1750212692,1749702386,1748804475,1746079244,1744439533,1743252456,1741485430,1740815612,1739933510,1738501124,1738046450,1737537948,1737089954,1736656884,1736168519,1735721850,1735281718,1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/03 | 0-8 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ❌ | 2026/08/01 | 0-6 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ✅ | 2025/12/04 | 3-2 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
 | ❌ | 2025/11/28 | 0-1 | [CAEDRUS \[o\]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
@@ -185,5 +186,5 @@ Corporation ID: b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1785592194"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793677085"></span>
 </div>

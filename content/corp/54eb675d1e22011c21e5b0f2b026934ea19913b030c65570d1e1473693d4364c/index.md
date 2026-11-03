@@ -1,6 +1,6 @@
 ---
 title: ​墨痕空域
-description: W:64 L:103 D:1 Bonus ✅ 46%
+description: W:64 L:103 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 0 - 29 **Cerulean Star**
 date: 2026-11-02T16:36:59.000Z
@@ -16,7 +16,7 @@ date: 2026-11-02T16:36:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
