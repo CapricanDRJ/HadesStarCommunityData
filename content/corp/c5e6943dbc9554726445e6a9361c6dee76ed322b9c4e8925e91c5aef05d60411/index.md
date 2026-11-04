@@ -1,6 +1,6 @@
 ---
 title: ​銀河星际集团
-description: W:2 L:2 D:0 Bonus ✅ 28%
+description: W:2 L:2 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ❌ 0 - 9 **CORPORATION**
 date: 2026-11-02T05:08:20.000Z
@@ -15,7 +15,7 @@ date: 2026-11-02T05:08:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
