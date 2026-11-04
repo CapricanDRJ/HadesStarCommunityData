@@ -1,9 +1,9 @@
 ---
 title: ​Kobol
-description: W:24 L:28 D:2 Bonus ❌ 13%
+description: W:24 L:29 D:2 Bonus ❌ 13%
 image: ./favicon.png
-Summary: ❌ 2 - 21 **CERBERUS SYSTEM**
-date: 2026-10-06T18:02:27.000Z
+Summary: ❌ 14 - 29 **万星联盟**
+date: 2026-11-04T04:45:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-06T18:02:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (-12)|
-| ELO Competitive | 1519 🔺  (24)|
-| Total Matches | 54 |
+| ELO Regular | 1259 🔻  (-19)|
+| ELO Competitive | 1512 🔻  (-6)|
+| Total Matches | 55 |
 | Wins | 24 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790877747,1790835386,1788242196,1788238291,1785823956,1785820351,1783541267,1783535556,1781212846,1780993825,1778564221,1778561799,1776147748,1776142341,1773771848,1773727080,1771928095,1771312815,1771308611,1770584302,1769981866,1768887843,1768887843,1767594398,1766471011,1766469509,1765777532,1765777269,1765219029,1764610872,1764055878,1761632448,1759220197,1756851360,1754375527,1749555090,1747115993,1745180582,1744740041,1740993525,1740990821,1740309574,1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
+        let timestamps = [1793335514,1790877747,1790835386,1788242196,1788238291,1785823956,1785820351,1783541267,1783535556,1781212846,1780993825,1778564221,1778561799,1776147748,1776142341,1773771848,1773727080,1771928095,1771312815,1771308611,1770584302,1769981866,1768887843,1768887843,1767594398,1766471011,1766469509,1765777532,1765777269,1765219029,1764610872,1764055878,1761632448,1759220197,1756851360,1754375527,1749555090,1747115993,1745180582,1744740041,1740993525,1740990821,1740309574,1740301761,1739729590,1739721774,1739041143,1738574668,1738569647,1737911230,1737910930,1737324967,1734702427,1734270105,1734264946];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1 | 1 | 0 | 2 |
 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 1 | 1 | 0 | 2 |
 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) | 1 | 1 | 0 | 2 |
 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 2 | 0 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/04 | 14-29 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2026/10/06 | 2-21 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
 | ✅ | 2026/10/06 | 32-0 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2026/09/06 | 3-22 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
@@ -205,5 +207,5 @@ Corporation ID: cddf348d817603361afcf0dff01448937863b586e921963a8085f059a14b945a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791309747"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793767514"></span>
 </div>
