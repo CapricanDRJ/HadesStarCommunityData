@@ -1,9 +1,9 @@
 ---
 title: ​秉元握枢斡化坎离玄墟旌部
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:1 L:1 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 6 - 10 **E\.T\.A**
-date: 2026-11-04T04:58:36.000Z
+Summary: ✅ 1 - 0 **ParalleL**
+date: 2026-11-04T09:27:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-11-04T04:58:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (-12)|
-| ELO Competitive | 1197 🔻  (-3)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1200 🔺  (12)|
+| ELO Competitive | 1220 🔺  (20)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793336316];
+        let timestamps = [1793352476,1793336316];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/04 | 1-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/11/04 | 6-10 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: f92ac64755d82856a50cfc4d8c59f8741e2cfeb50a5a2f9cb46e0769d22a1bcf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793768316"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793784476"></span>
 </div>

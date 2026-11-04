@@ -1,6 +1,6 @@
 ---
 title: ​传说之下2
-description: W:33 L:19 D:1 Bonus ✅ 40%
+description: W:33 L:19 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 5 - 8 **imperio galacti**
 date: 2026-11-03T07:58:26.000Z
@@ -15,7 +15,7 @@ date: 2026-11-03T07:58:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
