@@ -1,6 +1,6 @@
 ---
 title: ​欢迎新手
-description: W:13 L:17 D:0 Bonus ✅ 34%
+description: W:13 L:17 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **无人深空**
 date: 2026-10-28T16:03:19.000Z
@@ -15,7 +15,7 @@ date: 2026-10-28T16:03:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
