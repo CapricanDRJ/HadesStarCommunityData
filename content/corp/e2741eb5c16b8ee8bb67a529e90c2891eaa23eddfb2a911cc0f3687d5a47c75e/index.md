@@ -1,6 +1,6 @@
 ---
 title: ​Blood Hounds
-description: W:223 L:67 D:3 Bonus ✅ 56%
+description: W:223 L:67 D:3 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 4 - 20 **Critical Mass**
 date: 2026-11-04T09:00:54.000Z
@@ -16,7 +16,7 @@ No camping. Discord mandatory for ws
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/jMqZD8XskE)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

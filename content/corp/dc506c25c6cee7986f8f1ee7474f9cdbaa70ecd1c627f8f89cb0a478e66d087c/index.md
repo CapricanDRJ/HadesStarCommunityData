@@ -1,9 +1,9 @@
 ---
 title: ​新星帝国属－涵空阁集团
-description: W:0 L:12 D:3 Bonus ❌ 4%
+description: W:0 L:13 D:3 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **CORPORATION**
-date: 2026-10-27T22:05:56.000Z
+Summary: ❌ 0 - 7 **Страж Галактики**
+date: 2026-11-04T15:10:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-27T22:05:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1072 🔻  (-8)|
-| ELO Competitive | 1082 🔻  (-9)|
-| Total Matches | 15 |
+| ELO Regular | 1058 🔻  (-13)|
+| ELO Competitive | 1069 🔻  (-13)|
+| Total Matches | 16 |
 | Wins | 0 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 3 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792706756,1791888886,1791210892,1790778733,1790344517,1789166042,1788698590,1787542176,1786978255,1786545623,1785936611,1780640840,1779158858,1775273756,1771616014];
+        let timestamps = [1793373006,1792706756,1791888886,1791210892,1790778733,1790344517,1789166042,1788698590,1787542176,1786978255,1786545623,1785936611,1780640840,1779158858,1775273756,1771616014];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) | 0 | 2 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/04 | 0-7 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
 | ❌ | 2026/10/27 | 0-7 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ❌ | 2026/10/18 | 0-3 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ❌ | 2026/10/10 | 0-19 | [Mantle](https://ws.tsl.rocks/corp/a76c018111dc02509e226bf5a45681157183211b818114c21fe78c1f30609eec/) |
@@ -156,5 +162,5 @@ Corporation ID: dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793138756"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793805006"></span>
 </div>

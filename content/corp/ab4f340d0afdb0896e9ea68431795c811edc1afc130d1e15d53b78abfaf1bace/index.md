@@ -1,9 +1,9 @@
 ---
 title: ​Страж Галактики
-description: W:19 L:41 D:8 Bonus ❌ 9%
+description: W:20 L:41 D:8 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 1 - 17 **白虹贯日**
-date: 2026-10-21T07:40:15.000Z
+Summary: ✅ 7 - 0 **新星帝国属－涵空阁集团**
+date: 2026-11-04T15:10:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 2026-10-21T07:40:15.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/WRdbp8Xg)
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔻  (-7)|
-| ELO Competitive | 1140 🔻  (-7)|
-| Total Matches | 68 |
-| Wins | 19 |
+| ELO Regular | 1122 🔺  (13)|
+| ELO Competitive | 1152 🔺  (13)|
+| Total Matches | 69 |
+| Wins | 20 |
 | Losses | 41 |
 | Draws | 8 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792136415,1791592139,1791093232,1790445544,1787966402,1787339682,1786606581,1785961852,1785522304,1784990835,1784527884,1781738014,1781262428,1780660063,1780077557,1779474572,1777544192,1777036127,1776451297,1775843705,1775213666,1774689713,1773993565,1773427826,1772871445,1772278995,1771616014,1770965746,1770442794,1769867594,1769286519,1768724872,1768197563,1767446259,1766843575,1764976235,1764314564,1763827542,1763018137,1762580515,1761780277,1761283928,1760819076,1759435334,1758985181,1758223527,1757655118,1757125973,1756571925,1755850965,1755380094,1753896562,1753384236,1751668110,1751114672,1750499709,1749104056,1748466422,1748034334,1747596788,1747127525,1746649326,1746105592,1745670065,1745230649,1744737637,1710024150,1700626584];
+        let timestamps = [1793373006,1792136415,1791592139,1791093232,1790445544,1787966402,1787339682,1786606581,1785961852,1785522304,1784990835,1784527884,1781738014,1781262428,1780660063,1780077557,1779474572,1777544192,1777036127,1776451297,1775843705,1775213666,1774689713,1773993565,1773427826,1772871445,1772278995,1771616014,1770965746,1770442794,1769867594,1769286519,1768724872,1768197563,1767446259,1766843575,1764976235,1764314564,1763827542,1763018137,1762580515,1761780277,1761283928,1760819076,1759435334,1758985181,1758223527,1757655118,1757125973,1756571925,1755850965,1755380094,1753896562,1753384236,1751668110,1751114672,1750499709,1749104056,1748466422,1748034334,1747596788,1747127525,1746649326,1746105592,1745670065,1745230649,1744737637,1710024150,1700626584];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) | 2 | 0 | 0 | 2 |
 | [星月挽歌](https://ws.tsl.rocks/corp/f3dbc8d3257aec31c5f963b5c07b2b5a6a0f96f06f5d797ba5d791a2a4c0e109/) | 0 | 1 | 1 | 2 |
 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7/) | 2 | 1 | 1 | 4 |
 | [Darknova](https://ws.tsl.rocks/corp/2badefc535747c4b2d431ed2e3d48983575a349ac4d5c361576a24521b0accf7/) | 0 | 2 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/04 | 7-0 | [新星帝国属－涵空阁集团](https://ws.tsl.rocks/corp/dc506c25c6cee7986f8f1ee7474f9cdbaa70ecd1c627f8f89cb0a478e66d087c/) |
 | ❌ | 2026/10/21 | 1-17 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ❌ | 2026/10/15 | 2-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2026/10/09 | 7-3 | [Space lover](https://ws.tsl.rocks/corp/05ae9e7fe28126b7508df0081f0d22db119cc2184a95e0c12e263272bbccc6b2/) |
@@ -220,5 +222,5 @@ Corporation ID: ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792568415"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793805006"></span>
 </div>

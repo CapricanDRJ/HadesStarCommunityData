@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "SerdceTigra"
-description: "ws: 24 μ: 25.52"
+description: "ws: 25 μ: 25.52"
 ---
-- **WhiteStars**: 24
+- **WhiteStars**: 25
 - **Eligible**: 16
 - **Rating**: 2.04
 - **μ**: 25.52  
 - **σ**: 7.83
-- W: 13, L: 11, T: 0
+- W: 14, L: 11, T: 0
 
 ---
 
@@ -25,6 +25,7 @@ description: "ws: 24 μ: 25.52"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-04 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 33-0 | [QONQR](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | 2026-10-29 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 9-6 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | 2026-10-13 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 20-32 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | 2026-10-05 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 22-6 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
