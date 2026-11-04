@@ -1,9 +1,9 @@
 ---
 title: ​Petronus7
-description: W:0 L:1 D:1 Bonus ❌ 4%
+description: W:0 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **UNSC**
-date: 2026-10-29T23:16:35.000Z
+Summary: ❌ 0 - 10 **63SALVADORES36**
+date: 2026-11-03T23:46:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-29T23:16:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔺  (0)|
-| ELO Competitive | 1194 🔺  (0)|
-| Total Matches | 2 |
+| ELO Regular | 1178 🔻  (-13)|
+| ELO Competitive | 1189 🔻  (-4)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792883795,1789559087];
+        let timestamps = [1793317592,1792883795,1789559087];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/03 | 0-10 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2026/10/29 | 0-0 | [UNSC](https://ws.tsl.rocks/corp/22672847507d30b63230cc8a680ed365280b23759b64ea86d43edc507530fed8/) |
 | ❌ | 2026/09/21 | 0-10 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
 
@@ -143,5 +144,5 @@ Corporation ID: 42fba3023377f1358e181e639f4a408dc97841c8b7cf802ea1d1a29381da5702
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793315795"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793749592"></span>
 </div>

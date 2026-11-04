@@ -1,6 +1,6 @@
 ---
 title: ​RGW
-description: W:62 L:59 D:2 Bonus ✅ 46%
+description: W:62 L:59 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 15 - 13 **Dumpster Fire**
 date: 2026-10-27T22:31:49.000Z
@@ -15,7 +15,7 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
