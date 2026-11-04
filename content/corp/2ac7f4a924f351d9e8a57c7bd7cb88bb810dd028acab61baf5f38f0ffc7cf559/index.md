@@ -1,6 +1,6 @@
 ---
 title: ​Regulus
-description: W:47 L:15 D:0 Bonus ✅ 50%
+description: W:47 L:15 D:0 Bonus ✅ 52%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **Red Star**
 date: 2026-11-04T03:50:28.000Z
@@ -18,7 +18,7 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 layout: page
 title: Average Relics
 description: Hades' Star top corporations by average relics per match (only corporations with >5 matches, last 6 months)
-date: 2026-11-04T18:55:31.343Z
+date: 2026-11-04T21:55:31.602Z
 permalink: /avgrelics/
 searchHidden: true
 ---
@@ -18,7 +18,7 @@ searchHidden: true
 | 7 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716) | 29.46 |
 | 8 | [星空漫游者\-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e) | 28.3 |
 | 9 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe) | 28.18 |
-| 10 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913) | 26.86 |
+| 10 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913) | 27.93 |
 | 11 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73) | 26.13 |
 | 12 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b) | 26.11 |
 | 13 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b) | 26.06 |
@@ -26,37 +26,37 @@ searchHidden: true
 | 15 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2) | 25.48 |
 | 16 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1) | 25.43 |
 | 17 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258) | 25.33 |
-| 18 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4) | 25.21 |
-| 19 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68) | 24.79 |
-| 20 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d) | 24.57 |
+| 18 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68) | 24.79 |
+| 19 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d) | 24.57 |
+| 20 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4) | 24.4 |
 | 21 | [Mosaic](https://ws.tsl.rocks/corp/d250101b49e076429c32c0592d9e908708353313c2a00ad7d540a9fe533418d7) | 24.29 |
 | 22 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d) | 24.03 |
 | 23 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d) | 23.76 |
 | 24 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9) | 23.73 |
 | 25 | [Battlestar Fr](https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc) | 23.67 |
 | 26 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c) | 23 |
-| 27 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1) | 23 |
-| 28 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1) | 22.83 |
-| 29 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81) | 22.78 |
-| 30 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d) | 22.75 |
-| 31 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b) | 22.75 |
-| 32 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b) | 22.7 |
-| 33 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396) | 22.47 |
-| 34 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e) | 22.4 |
-| 35 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b) | 22.38 |
-| 36 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89) | 22.29 |
-| 37 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2) | 22.25 |
-| 38 | [Milliways](https://ws.tsl.rocks/corp/e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f) | 22.21 |
-| 39 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389) | 22.2 |
-| 40 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477) | 21.96 |
-| 41 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289) | 21.94 |
-| 42 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa) | 21.89 |
-| 43 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711) | 21.54 |
-| 44 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b) | 21.38 |
-| 45 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346) | 21.13 |
-| 46 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb) | 21.03 |
-| 47 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062) | 21.03 |
-| 48 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4) | 20.75 |
+| 27 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1) | 22.83 |
+| 28 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81) | 22.78 |
+| 29 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d) | 22.75 |
+| 30 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b) | 22.75 |
+| 31 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b) | 22.7 |
+| 32 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396) | 22.47 |
+| 33 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e) | 22.4 |
+| 34 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b) | 22.38 |
+| 35 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89) | 22.29 |
+| 36 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2) | 22.25 |
+| 37 | [Milliways](https://ws.tsl.rocks/corp/e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f) | 22.21 |
+| 38 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389) | 22.2 |
+| 39 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477) | 21.96 |
+| 40 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289) | 21.94 |
+| 41 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa) | 21.89 |
+| 42 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711) | 21.54 |
+| 43 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b) | 21.38 |
+| 44 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346) | 21.13 |
+| 45 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb) | 21.03 |
+| 46 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062) | 21.03 |
+| 47 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4) | 20.75 |
+| 48 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1) | 20.65 |
 | 49 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203) | 20.57 |
 | 50 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e) | 20.57 |
 | 51 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd) | 20.54 |
@@ -79,13 +79,13 @@ searchHidden: true
 | 68 | [Space Potatoes](https://ws.tsl.rocks/corp/8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02) | 19 |
 | 69 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72) | 19 |
 | 70 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee) | 19 |
-| 71 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a) | 18.52 |
-| 72 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed) | 18.5 |
-| 73 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096) | 18.45 |
-| 74 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328) | 18.44 |
-| 75 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94) | 18.42 |
-| 76 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe) | 18.27 |
-| 77 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36) | 18.19 |
+| 71 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36) | 18.53 |
+| 72 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a) | 18.52 |
+| 73 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed) | 18.5 |
+| 74 | [Z\. O\. V\.](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096) | 18.45 |
+| 75 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328) | 18.44 |
+| 76 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94) | 18.42 |
+| 77 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe) | 18.27 |
 | 78 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c) | 18.1 |
 | 79 | [Кузня Лютых](https://ws.tsl.rocks/corp/21880047e3784360c3b26bda00dc7c59af15ee46a8b9531fa373d6bd618a7721) | 18 |
 | 80 | [The Pichu team](https://ws.tsl.rocks/corp/c282831a6684fdb262ccbad4fec59fe715dd48b7565335f7b7cbc9d54e541d26) | 17.86 |
@@ -172,10 +172,10 @@ searchHidden: true
 | 161 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d) | 13.13 |
 | 162 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1) | 13.08 |
 | 163 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de) | 13.04 |
-| 164 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45) | 12.92 |
-| 165 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75) | 12.89 |
-| 166 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1) | 12.88 |
-| 167 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2) | 12.8 |
+| 164 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75) | 12.89 |
+| 165 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1) | 12.88 |
+| 166 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2) | 12.8 |
+| 167 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45) | 12.78 |
 | 168 | [СОЮЗ](https://ws.tsl.rocks/corp/3ba0134aa297266e773dc2283a04d64ef598f84cd2e4b2d0d2610c99d5e5fd5e) | 12.67 |
 | 169 | [Spanish Fury](https://ws.tsl.rocks/corp/e16f59927214f5305835d80bd094d95754b0d02e26d6b4e3f6b654688cc48dad) | 12.6 |
 | 170 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed) | 12.56 |

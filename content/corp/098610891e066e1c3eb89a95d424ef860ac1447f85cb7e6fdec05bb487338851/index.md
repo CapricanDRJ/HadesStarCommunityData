@@ -1,6 +1,6 @@
 ---
 title: ​我是沙碧
-description: W:7 L:6 D:1 Bonus ✅ 30%
+description: W:7 L:6 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **Magyar Vándor**
 date: 2026-10-28T19:06:38.000Z
@@ -15,7 +15,7 @@ date: 2026-10-28T19:06:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
