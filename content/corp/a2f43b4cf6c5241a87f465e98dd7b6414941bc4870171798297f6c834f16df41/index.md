@@ -1,9 +1,9 @@
 ---
 title: ​Jesus Followers
-description: W:4 L:12 D:0 Bonus ❌ 8%
+description: W:4 L:13 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 14 - 7 **First Squad**
-date: 2026-10-05T14:15:03.000Z
+Summary: ❌ 3 - 27 **северный шторм**
+date: 2026-11-05T07:49:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ e his prisoner, but share in suffering for the gospel by the power of
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔺  (15)|
-| ELO Competitive | 1190 🔺  (20)|
-| Total Matches | 16 |
+| ELO Regular | 1120 🔻  (-5)|
+| ELO Competitive | 1190 🔻  (-1)|
+| Total Matches | 17 |
 | Wins | 4 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Flagship | 5 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790777703,1786126777,1783690273,1781264512,1778679841,1776259204,1773818411,1771485865,1768662197,1768216918,1731320750,1717102671,1715552858,1713140379,1709667190,1709080359];
+        let timestamps = [1793432995,1790777703,1786126777,1783690273,1781264512,1778679841,1776259204,1773818411,1771485865,1768662197,1768216918,1731320750,1717102671,1715552858,1713140379,1709667190,1709080359];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/05 | 3-27 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2026/10/05 | 14-7 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ❌ | 2026/08/12 | 7-11 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ✅ | 2026/07/15 | 6-5 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
@@ -164,5 +165,5 @@ Corporation ID: a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791209703"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793864995"></span>
 </div>
