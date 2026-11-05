@@ -1,6 +1,6 @@
 ---
 title: ​太阳系联邦
-description: W:15 L:28 D:0 Bonus ✅ 36%
+description: W:15 L:28 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 29 **Mosaic**
 date: 2026-11-01T13:09:13.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T13:09:13.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
