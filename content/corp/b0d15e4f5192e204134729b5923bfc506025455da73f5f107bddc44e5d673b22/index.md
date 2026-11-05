@@ -1,6 +1,6 @@
 ---
 title: ​ParalleL
-description: W:11 L:24 D:3 Bonus ❌ 36%
+description: W:11 L:24 D:3 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 1 **秉元握枢斡化坎离玄墟旌部**
 date: 2026-11-04T09:27:56.000Z
@@ -15,7 +15,7 @@ date: 2026-11-04T09:27:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
