@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Джонни_De"
-description: "ws: 16 μ: 18.27"
+description: "ws: 17 μ: 17.91"
 ---
-- **WhiteStars**: 16
-- **Eligible**: 13
-- **Rating**: -5.67
-- **μ**: 18.27  
-- **σ**: 7.98
-- W: 0, L: 16, T: 0
+- **WhiteStars**: 17
+- **Eligible**: 14
+- **Rating**: -5.96
+- **μ**: 17.91  
+- **σ**: 7.96
+- W: 0, L: 17, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 16 μ: 18.27"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 13 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 14 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 16 μ: 18.27"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-05 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-29 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | 2026-10-24 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-42 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) |
 | 2026-10-18 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-50 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | 2026-10-13 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-46 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |

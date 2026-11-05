@@ -1,13 +1,14 @@
 ---
 layout: page
 title: "-= C =-"
-description: "ws: 1 μ: 24.54"
+description: "ws: 2 μ: 25.45"
 ---
-- **WhiteStars**: 1
-- **Rating**: -0.41
-- **μ**: 24.54  
-- **σ**: 8.32
-- W: 0, L: 1, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 1
+- **Rating**: 0.54
+- **μ**: 25.45  
+- **σ**: 8.30
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -23,4 +24,5 @@ description: "ws: 1 μ: 24.54"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-05 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 29-6 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2025-09-27 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 0-24 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

@@ -1,9 +1,9 @@
 ---
 title: ​YU-GI-OH
-description: W:14 L:11 D:0 Bonus ❌ 8%
+description: W:15 L:11 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **羽共和体**
-date: 2026-10-10T16:09:44.000Z
+Summary: ✅ 2 - 0 **神圣群星帝国**
+date: 2026-11-05T16:10:10.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-10-10T16:09:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (9)|
-| ELO Competitive | 1264 🔺  (11)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1262 🔺  (8)|
+| ELO Competitive | 1274 🔺  (10)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791216584,1791010360,1788955999,1788521679,1787891357,1787449916,1786208499,1774062371,1773781765,1771328436,1769184022,1764320875,1763885225,1763451077,1762876038,1762405629,1761786885,1761243962,1760649821,1759667592,1759226205,1758514137,1757947120,1751995406,1735422049];
+        let timestamps = [1793463010,1791216584,1791010360,1788955999,1788521679,1787891357,1787449916,1786208499,1774062371,1773781765,1771328436,1769184022,1764320875,1763885225,1763451077,1762876038,1762405629,1761786885,1761243962,1760649821,1759667592,1759226205,1758514137,1757947120,1751995406,1735422049];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/05 | 2-0 | [神圣群星帝国](https://ws.tsl.rocks/corp/055ceda7fb2db39f514b2d21704cf6cc8ff5dcdd22807d3d7f18f0c3e9d776e9/) |
 | ✅ | 2026/10/10 | 3-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2026/10/08 | 9-0 | [UGSS](https://ws.tsl.rocks/corp/06eb95447520936bc87ea4f7c64539563c77a74948291fc7a65b190f2752b4c7/) |
 | ✅ | 2026/09/14 | 6-5 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
@@ -174,5 +175,5 @@ Corporation ID: 28f250641a870cb4c3bc77c2320c4892ec2c7006422ca4530475e1f3f372786a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791648584"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793895010"></span>
 </div>

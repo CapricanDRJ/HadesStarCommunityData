@@ -1,6 +1,6 @@
 ---
 title: ​何为真理
-description: W:32 L:28 D:3 Bonus ✅ 38%
+description: W:32 L:28 D:3 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ↔️ 0 - 0 **InfinityCorp**
 date: 2026-10-30T07:05:19.000Z
@@ -15,7 +15,7 @@ date: 2026-10-30T07:05:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
