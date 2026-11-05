@@ -1,6 +1,6 @@
 ---
 title: ​REAPERS
-description: W:57 L:13 D:1 Bonus ✅ 40%
+description: W:57 L:13 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 2 - 8 **Star Blazers**
 date: 2026-11-03T09:23:34.000Z
@@ -15,7 +15,7 @@ date: 2026-11-03T09:23:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
