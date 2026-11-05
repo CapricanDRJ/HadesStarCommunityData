@@ -1,9 +1,9 @@
 ---
 title: ​StarControl
-description: W:36 L:16 D:0 Bonus ❌ 16%
+description: W:37 L:16 D:0 Bonus ✅ 52%
 image: ./favicon.png
-Summary: ✅ 9 - 3 **Stargate Corp**
-date: 2026-10-24T17:31:55.000Z
+Summary: ✅ 17 - 12 **Providence**
+date: 2026-11-04T23:39:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ rs. Discord is required, please join us there before applying in game
 <br>
 
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ❌ 16%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1414 🔺  (22)|
-| ELO Competitive | 1612 🔺  (29)|
-| Total Matches | 52 |
-| Wins | 36 |
+| ELO Regular | 1424 🔺  (10)|
+| ELO Competitive | 1627 🔺  (16)|
+| Total Matches | 53 |
+| Wins | 37 |
 | Losses | 16 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 15 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792431115,1787556596,1783579417,1779821869,1778883540,1778439510,1749531955,1737560484,1736787625,1734374324,1733712683,1733166403,1731934963,1730905740,1730746485,1730037910,1729459157,1728937148,1728243786,1727684506,1727245479,1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
+        let timestamps = [1793403557,1792431115,1787556596,1783579417,1779821869,1778883540,1778439510,1749531955,1737560484,1736787625,1734374324,1733712683,1733166403,1731934963,1730905740,1730746485,1730037910,1729459157,1728937148,1728243786,1727684506,1727245479,1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -150,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/04 | 17-12 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2026/10/24 | 9-3 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2026/08/29 | 6-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2026/07/14 | 14-2 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
@@ -209,5 +211,5 @@ Corporation ID: ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792863115"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793835557"></span>
 </div>
