@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Weasel"
-description: "ws: 11 μ: 25.10"
+description: "ws: 12 μ: 24.31"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 4
-- **Rating**: 0.54
-- **μ**: 25.10  
-- **σ**: 8.19
-- W: 4, L: 7, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 5
+- **Rating**: -0.15
+- **μ**: 24.31  
+- **σ**: 8.15
+- W: 4, L: 8, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 11 μ: 25.10"
 | Corporation | WhiteStars |
 | --- | --- |
 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 4 |
+| [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 11 μ: 25.10"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 4-11 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-06 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 0-9 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | 2026-07-29 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 0-71 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | 2026-07-15 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) | 28-0 | [SPIRITO HUMANS](https://ws.tsl.rocks/corp/8a1fca153eb7261e3158335e20df4b925a1784dcfdc4112499211c4b589468e4/) |

@@ -1,6 +1,6 @@
 ---
 title: ​111
-description: W:125 L:60 D:0 Bonus ✅ 52%
+description: W:125 L:60 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 16 **Lost Legion**
 date: 2026-11-05T17:52:18.000Z
@@ -17,7 +17,7 @@ date: 2026-11-05T17:52:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

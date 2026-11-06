@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Pakojjá ki"
-description: "ws: 7 μ: 23.79"
+description: "ws: 8 μ: 23.59"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 6
-- **Rating**: -0.64
-- **μ**: 23.79  
-- **σ**: 8.14
-- W: 0, L: 7, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 7
+- **Rating**: -0.78
+- **μ**: 23.59  
+- **σ**: 8.12
+- W: 0, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 23.79"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 6 |
+| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 23.79"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-9 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-10-23 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-30 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-27 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 11-26 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-05-09 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-43 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

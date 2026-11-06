@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Poronkusemat"
-description: "ws: 11 μ: 22.37"
+description: "ws: 12 μ: 22.17"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 8
-- **Rating**: -1.87
-- **μ**: 22.37  
-- **σ**: 8.08
-- W: 0, L: 11, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 9
+- **Rating**: -2.02
+- **μ**: 22.17  
+- **σ**: 8.06
+- W: 0, L: 12, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 11 μ: 22.37"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 8 |
+| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 9 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 11 μ: 22.37"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-9 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-10-23 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-30 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-09-25 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 0-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-27 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 11-26 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |

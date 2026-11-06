@@ -1,9 +1,9 @@
 ---
 title: ​TheSpacingGuild
-description: W:12 L:21 D:1 Bonus ❌ 10%
+description: W:12 L:22 D:1 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ❌ 3 - 15 **HUN TERS**
-date: 2026-07-26T03:18:18.000Z
+Summary: ❌ 8 - 17 **日月星辰**
+date: 2026-11-06T17:09:08.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ Fedaykin - Athena, Sun, Dune, Ancient
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (-8)|
-| ELO Competitive | 1352 🔻  (-4)|
-| Total Matches | 34 |
+| ELO Regular | 1155 🔻  (-20)|
+| ELO Competitive | 1331 🔻  (-21)|
+| Total Matches | 35 |
 | Wins | 12 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1784603898,1783998508,1783385648,1782784487,1782185095,1780963789,1780370472,1779758173,1779155437,1778550364,1777947374,1777343505,1776751914,1776130626,1775510815,1774894617,1774302137,1773706054,1773086556,1772500744,1771898658,1771435692,1770652744,1770052166,1769498232,1768871923,1768262596,1767683621,1767049975,1766575567,1765222335,1764029446,1762734839,1704660810];
+        let timestamps = [1793552948,1784603898,1783998508,1783385648,1782784487,1782185095,1780963789,1780370472,1779758173,1779155437,1778550364,1777947374,1777343505,1776751914,1776130626,1775510815,1774894617,1774302137,1773706054,1773086556,1772500744,1771898658,1771435692,1770652744,1770052166,1769498232,1768871923,1768262596,1767683621,1767049975,1766575567,1765222335,1764029446,1762734839,1704660810];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/06 | 8-17 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 | ❌ | 2026/07/26 | 3-15 | [HUN TERS](https://ws.tsl.rocks/corp/99c45cb17fdcbf89bf806b294ebe42a042ff774e913c216800fb7b1435d255a1/) |
 | ❌ | 2026/07/19 | 3-8 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2026/07/12 | 8-25 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -188,5 +189,5 @@ Corporation ID: 81148f4d84461a0810381baa8a5c2d755c0aeb635fa98fdc3ca775fbcc255ea7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1785035898"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793984948"></span>
 </div>

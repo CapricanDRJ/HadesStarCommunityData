@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "NA'VI"
-description: "ws: 7 μ: 22.61"
+description: "ws: 8 μ: 22.03"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 6
-- **Rating**: -1.79
-- **μ**: 22.61  
-- **σ**: 8.13
-- W: 1, L: 6, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 7
+- **Rating**: -2.27
+- **μ**: 22.03  
+- **σ**: 8.10
+- W: 1, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 22.61"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 6 |
+| [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 22.61"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 4-11 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-10-13 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 2-27 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-10-05 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 6-22 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-09-20 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) | 6-22 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

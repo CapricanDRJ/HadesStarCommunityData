@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Denisyaka"
-description: "ws: 10 μ: 23.69"
+description: "ws: 11 μ: 24.81"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 9
-- **Rating**: -0.44
-- **μ**: 23.69  
-- **σ**: 8.04
-- W: 2, L: 8, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 10
+- **Rating**: 0.78
+- **μ**: 24.81  
+- **σ**: 8.01
+- W: 3, L: 8, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 10 μ: 23.69"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 9 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 10 μ: 23.69"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 11-4 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | 2026-08-03 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 31-12 | [Stargate Sg7](https://ws.tsl.rocks/corp/f0fadd303b5cb5e09aa473359c0f11f4e077acf35ab94cef2c850d3fa8162e81/) |
 | 2026-06-03 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 3-9 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | 2026-04-11 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 0-35 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |

@@ -1,6 +1,6 @@
 ---
 title: ​ALPHA
-description: W:81 L:65 D:6 Bonus ✅ 46%
+description: W:81 L:65 D:6 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 13 **AFronteiraFinal**
 date: 2026-11-04T20:29:01.000Z
@@ -16,7 +16,7 @@ Crecer principal objetivo        Leko:Join us we need active member
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
