@@ -1,9 +1,9 @@
 ---
 title: ​日月星辰
-description: W:12 L:37 D:0 Bonus ❌ 8%
+description: W:12 L:38 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 23 **ДИВЕРСАНТЫ**
-date: 2026-11-01T09:43:52.000Z
+Summary: ❌ 3 - 15 **Серебряная орда**
+date: 2026-11-06T15:44:01.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2026-11-01T09:43:52.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1057 🔻  (-1)|
-| ELO Competitive | 1213 🔻  (0)|
-| Total Matches | 49 |
+| ELO Regular | 1048 🔻  (-9)|
+| ELO Competitive | 1211 🔻  (-2)|
+| Total Matches | 50 |
 | Wins | 12 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793094232,1793093931,1792659554,1792572004,1791130389,1768041447,1766152219,1765638760,1765170352,1764636716,1761030283,1761019470,1760546166,1760543161,1760005916,1760003212,1759240928,1759075685,1758666469,1758606077,1758182061,1758149618,1757684805,1757684179,1757183019,1757140095,1756658463,1756621500,1756178173,1755703404,1755256567,1754801025,1754364111,1753926608,1738772789,1738235756,1737796731,1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
+        let timestamps = [1793547841,1793094232,1793093931,1792659554,1792572004,1791130389,1768041447,1766152219,1765638760,1765170352,1764636716,1761030283,1761019470,1760546166,1760543161,1760005916,1760003212,1759240928,1759075685,1758666469,1758606077,1758182061,1758149618,1757684805,1757684179,1757183019,1757140095,1756658463,1756621500,1756178173,1755703404,1755256567,1754801025,1754364111,1753926608,1738772789,1738235756,1737796731,1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/06 | 3-15 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2026/11/01 | 3-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2026/11/01 | 0-47 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ❌ | 2026/10/27 | 0-32 | [QONQR](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
@@ -199,5 +200,5 @@ Corporation ID: d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793526232"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793979841"></span>
 </div>

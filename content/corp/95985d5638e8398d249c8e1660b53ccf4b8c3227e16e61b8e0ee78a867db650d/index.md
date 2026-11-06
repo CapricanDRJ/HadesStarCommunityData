@@ -1,9 +1,9 @@
 ---
 title: ​太阳系星盟
-description: W:8 L:4 D:1 Bonus ✅ 32%
+description: W:8 L:5 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 16 - 0 **战争幽灵**
-date: 2026-11-05T22:42:42.000Z
+Summary: ❌ 0 - 8 **宇宙聯盟**
+date: 2026-11-06T13:08:46.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-05T22:42:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (5)|
+| ELO Regular | 1235 🔻  (-16)|
 | ELO Competitive | 1287 🔺  (7)|
-| Total Matches | 13 |
+| Total Matches | 14 |
 | Wins | 8 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793486562,1793022719,1792950129,1792462058,1792424805,1791808986,1791123780,1790604676,1787401866,1748267201,1747834466,1747361990,1746891517];
+        let timestamps = [1793538526,1793486562,1793022719,1792950129,1792462058,1792424805,1791808986,1791123780,1790604676,1787401866,1748267201,1747834466,1747361990,1746891517];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/06 | 0-8 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ✅ | 2026/11/05 | 16-0 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
 | ❌ | 2026/10/31 | 3-10 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/10/30 | 5-4 | [Knights of Solo](https://ws.tsl.rocks/corp/ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5/) |
@@ -155,5 +156,5 @@ Corporation ID: 95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793918562"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793970526"></span>
 </div>

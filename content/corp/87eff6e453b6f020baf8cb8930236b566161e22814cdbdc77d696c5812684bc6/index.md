@@ -1,6 +1,6 @@
 ---
 title: ​Space Pirates
-description: W:27 L:136 D:0 Bonus ✅ 44%
+description: W:27 L:136 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 6 - 17 **Soul System**
 date: 2026-11-05T00:34:21.000Z
@@ -17,7 +17,7 @@ Discord invite code is https://discord.gg/44nD9yX
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
