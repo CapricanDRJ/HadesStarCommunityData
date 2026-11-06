@@ -1,9 +1,9 @@
 ---
 title: ​地球联合
-description: W:33 L:17 D:1 Bonus ✅ 46%
+description: W:34 L:17 D:1 Bonus ✅ 46%
 image: ./favicon.png
-Summary: ✅ 34 - 0 **Ahamkara**
-date: 2026-11-06T05:28:09.000Z
+Summary: ✅ 53 - 9 **SternenStaub**
+date: 2026-11-06T06:58:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -27,13 +27,13 @@ QQ群号：742063070
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔺  (8)|
-| ELO Competitive | 1564 🔺  (3)|
-| Total Matches | 51 |
-| Wins | 33 |
+| ELO Regular | 1336 🔺  (4)|
+| ELO Competitive | 1568 🔺  (6)|
+| Total Matches | 52 |
+| Wins | 34 |
 | Losses | 17 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 5 |
 
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793510889,1793079211,1793076508,1792476475,1792476475,1792044194,1792044193,1791573848,1791564757,1791120174,1791109058,1790660081,1790657786,1790089657,1790071747,1789625956,1789624154,1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
+        let timestamps = [1793516295,1793510889,1793079211,1793076508,1792476475,1792476475,1792044194,1792044193,1791573848,1791564757,1791120174,1791109058,1790660081,1790657786,1790089657,1790071747,1789625956,1789624154,1789182564,1789181331,1788744187,1788729769,1788286006,1788262321,1768868294,1768867718,1768296839,1768296839,1767344692,1767344692,1766907563,1766898852,1766448181,1765968044,1765201537,1764577215,1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -153,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/06 | 53-9 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ✅ | 2026/11/06 | 34-0 | [Ahamkara](https://ws.tsl.rocks/corp/33ddc1c3cba50fc92a3d29f65101d92d6967303e9c9acf6ff07064801bbecab8/) |
 | ✅ | 2026/11/01 | 30-7 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2026/11/01 | 30-9 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
@@ -211,5 +212,5 @@ Corporation ID: 600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793942889"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793948295"></span>
 </div>

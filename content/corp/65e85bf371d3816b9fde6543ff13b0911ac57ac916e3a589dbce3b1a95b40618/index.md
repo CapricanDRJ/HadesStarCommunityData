@@ -1,9 +1,9 @@
 ---
 title: ​Keltiad
-description: W:1 L:1 D:1 Bonus ✅ 26%
+description: W:2 L:1 D:1 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **启示空间**
-date: 2026-10-31T11:23:00.000Z
+Summary: ✅ 3 - 0 **Imperial Navy**
+date: 2026-11-06T07:23:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 2026-10-31T11:23:00.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 26%
+### Whitestar Bonus ✅ 28%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (13)|
-| ELO Competitive | 1206 🔺  (13)|
-| Total Matches | 3 |
-| Wins | 1 |
+| ELO Regular | 1208 🔺  (14)|
+| ELO Competitive | 1222 🔺  (16)|
+| Total Matches | 4 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793013780,1792140593,1791646168];
+        let timestamps = [1793517797,1793013780,1792140593,1791646168];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/06 | 3-0 | [Imperial Navy](https://ws.tsl.rocks/corp/3e07bbe9ec60b90d6861b7ee28cf8803a8f175db765ab57bcc8c20b4dcd3dd09/) |
 | ✅ | 2026/10/31 | 3-0 | [启示空间](https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/) |
 | ❌ | 2026/10/21 | 1-9 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
 | ↔️ | 2026/10/15 | 3-3 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
@@ -144,5 +147,5 @@ Corporation ID: 65e85bf371d3816b9fde6543ff13b0911ac57ac916e3a589dbce3b1a95b40618
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793445780"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793949797"></span>
 </div>

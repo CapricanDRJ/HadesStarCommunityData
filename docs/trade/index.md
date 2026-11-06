@@ -340,67 +340,6 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Triskal</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>4</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
-                    <td>4</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
-                    <td>9</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS12</td>
-                    <td>350%</td>
-                </tr>
-            
-                <tr>
-                    <td>8</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>260%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: Private</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">[FO] Willie C 🚾</th>
         </tr>
         <tr>

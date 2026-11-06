@@ -2,7 +2,7 @@
 layout: page
 title: Scanning Wednesday
 description: Probability a Hades' Star corporation is scanning Wednesday
-date: 2026-11-06T06:55:30.654Z
+date: 2026-11-06T09:55:30.575Z
 permalink: /wed/
 searchHidden: true
 ---
