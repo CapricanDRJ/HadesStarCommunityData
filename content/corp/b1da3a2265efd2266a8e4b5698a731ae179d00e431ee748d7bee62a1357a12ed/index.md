@@ -1,6 +1,6 @@
 ---
 title: ​*Alfa y Omega*
-description: W:58 L:45 D:2 Bonus ✅ 40%
+description: W:58 L:45 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 33 - 3 **世外桃源**
 date: 2026-10-30T10:05:18.000Z
@@ -18,7 +18,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
