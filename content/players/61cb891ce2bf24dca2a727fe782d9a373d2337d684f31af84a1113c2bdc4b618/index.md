@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Legion"
-description: "ws: 15 μ: 28.39"
+description: "ws: 16 μ: 29.07"
 ---
-- **WhiteStars**: 15
-- **Eligible**: 11
-- **Rating**: 4.50
-- **μ**: 28.39  
-- **σ**: 7.96
-- W: 10, L: 5, T: 0
+- **WhiteStars**: 16
+- **Eligible**: 12
+- **Rating**: 5.27
+- **μ**: 29.07  
+- **σ**: 7.93
+- W: 11, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 15 μ: 28.39"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 11 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 12 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 15 μ: 28.39"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-05 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 20-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | 2026-10-30 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 10-1 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | 2026-10-23 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 26-3 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | 2026-10-16 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 24-6 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
