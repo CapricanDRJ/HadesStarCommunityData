@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "DyKv"
-description: "ws: 16 μ: 19.86"
+description: "ws: 17 μ: 21.10"
 ---
-- **WhiteStars**: 16
-- **Eligible**: 10
-- **Rating**: -4.26
-- **μ**: 19.86  
-- **σ**: 8.04
-- W: 1, L: 15, T: 0
+- **WhiteStars**: 17
+- **Eligible**: 11
+- **Rating**: -2.95
+- **μ**: 21.10  
+- **σ**: 8.01
+- W: 2, L: 15, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 16 μ: 19.86"
 | Corporation | WhiteStars |
 | --- | --- |
 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 10 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 16 μ: 19.86"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-06 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 33-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | 2026-10-29 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 37-0 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-05-21 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2-14 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | 2026-05-14 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 1-14 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

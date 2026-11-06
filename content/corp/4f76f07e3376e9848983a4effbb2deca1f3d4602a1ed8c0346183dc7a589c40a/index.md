@@ -1,9 +1,9 @@
 ---
 title: ​维埃星云氮氢钨钽
-description: W:7 L:11 D:3 Bonus ❌ 6%
+description: W:8 L:11 D:3 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **КОРПОРАЦИЯ ЗЛА**
-date: 2026-09-24T19:37:58.000Z
+Summary: ✅ 3 - 0 **Nebulae Traders**
+date: 2026-11-06T06:08:11.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-09-24T19:37:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔺  (3)|
-| ELO Competitive | 1234 🔺  (9)|
-| Total Matches | 21 |
-| Wins | 7 |
+| ELO Regular | 1171 🔺  (22)|
+| ELO Competitive | 1260 🔺  (26)|
+| Total Matches | 22 |
+| Wins | 8 |
 | Losses | 11 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789846678,1789818206,1789188842,1789178454,1788553691,1788514621,1788065543,1787979019,1787614292,1787147404,1780240389,1774788855,1774267576,1773348830,1773322687,1772621806,1772616699,1772121569,1771681146,1771248820,1770779831];
+        let timestamps = [1793513291,1789846678,1789818206,1789188842,1789178454,1788553691,1788514621,1788065543,1787979019,1787614292,1787147404,1780240389,1774788855,1774267576,1773348830,1773322687,1772621806,1772616699,1772121569,1771681146,1771248820,1770779831];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/06 | 3-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2026/09/24 | 1-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2026/09/24 | 0-3 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ↔️ | 2026/09/17 | 6-6 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
@@ -169,5 +171,5 @@ Corporation ID: 4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1790278678"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1793945291"></span>
 </div>

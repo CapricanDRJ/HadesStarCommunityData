@@ -1,6 +1,6 @@
 ---
 title: ​中华五千年
-description: W:32 L:19 D:2 Bonus ✅ 40%
+description: W:32 L:19 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **Sunat\.**
 date: 2026-10-30T06:16:50.000Z
@@ -15,7 +15,7 @@ date: 2026-10-30T06:16:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
