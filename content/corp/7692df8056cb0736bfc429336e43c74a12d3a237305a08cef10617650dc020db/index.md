@@ -1,6 +1,6 @@
 ---
 title: ​世外桃源
-description: W:41 L:319 D:0 Bonus ✅ 52%
+description: W:41 L:319 D:0 Bonus ❌ 52%
 image: ./favicon.png
 Summary: ❌ 3 - 39 **Млечный путь**
 date: 2026-11-05T10:00:06.000Z
@@ -18,7 +18,7 @@ date: 2026-11-05T10:00:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 52%
 
 | Statistic | Value |
 | --- | --- |
