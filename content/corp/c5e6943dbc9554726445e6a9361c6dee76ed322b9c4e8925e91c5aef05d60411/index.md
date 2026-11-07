@@ -1,9 +1,9 @@
 ---
 title: ​銀河星际集团
-description: W:2 L:2 D:0 Bonus ❌ 4%
+description: W:2 L:3 D:0 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 9 **CORPORATION**
-date: 2026-11-02T05:08:20.000Z
+Summary: ❌ 0 - 4 **白虹贯日**
+date: 2026-11-07T06:45:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-02T05:08:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (-13)|
-| ELO Competitive | 1205 🔻  (-13)|
-| Total Matches | 4 |
+| ELO Regular | 1194 🔻  (-10)|
+| ELO Competitive | 1197 🔻  (-8)|
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793164100,1792720175,1774164827,1705803354];
+        let timestamps = [1793601906,1793164100,1792720175,1774164827,1705803354];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/07 | 0-4 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ❌ | 2026/11/02 | 0-9 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ✅ | 2026/10/28 | 1-0 | [星球杯联盟](https://ws.tsl.rocks/corp/ee41cb7209a13177edbf1aefc3f3b01a86ba867bc141ba5adc7789c5a6742977/) |
 | ❌ | 2026/03/27 | 0-18 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
@@ -145,5 +146,5 @@ Corporation ID: c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793596100"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794033906"></span>
 </div>

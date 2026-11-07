@@ -1,9 +1,9 @@
 ---
 title: ​白虹贯日
-description: W:23 L:6 D:0 Bonus ✅ 36%
+description: W:24 L:7 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 4 - 3 **Gemini Ind\.**
-date: 2026-11-02T00:30:27.000Z
+Summary: ✅ 4 - 0 **銀河星际集团**
+date: 2026-11-07T06:45:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-02T00:30:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (21)|
-| ELO Competitive | 1395 🔺  (24)|
-| Total Matches | 29 |
-| Wins | 23 |
-| Losses | 6 |
+| ELO Regular | 1344 🔺  (10)|
+| ELO Competitive | 1402 🔺  (8)|
+| Total Matches | 31 |
+| Wins | 24 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793147427,1792634920,1792136415,1791607712,1790984997,1790984997,1789963603,1789449924,1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
+        let timestamps = [1793601906,1793601605,1793147427,1792634920,1792136415,1791607712,1790984997,1790984997,1789963603,1789449924,1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/07 | 4-0 | [銀河星际集团](https://ws.tsl.rocks/corp/c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411/) |
+| ❌ | 2026/11/07 | 3-5 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2026/11/02 | 4-3 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2026/10/27 | 23-0 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ✅ | 2026/10/21 | 17-1 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) |
@@ -177,5 +178,5 @@ Corporation ID: 099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793579427"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794033906"></span>
 </div>
