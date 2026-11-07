@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KAPATEJIb"
-description: "ws: 37 μ: 30.07"
+description: "ws: 38 μ: 30.07"
 ---
-- **WhiteStars**: 37
+- **WhiteStars**: 38
 - **Eligible**: 25
 - **Rating**: 7.23
 - **μ**: 30.07  
 - **σ**: 7.61
-- W: 30, L: 7, T: 0
+- W: 31, L: 7, T: 0
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 37 μ: 30.07"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 10-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
 | 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 46-1 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | 2026-10-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29-21 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | 2026-08-16 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 36-5 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |

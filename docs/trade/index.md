@@ -228,6 +228,32 @@ searchHidden: true
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Strix</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>2</td>
+                    <td><img src="default.png" alt="default"></td>
+                    <td>RS9</td>
+                    <td>320%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">Timber (Gantores)</th>
         </tr>
         <tr>

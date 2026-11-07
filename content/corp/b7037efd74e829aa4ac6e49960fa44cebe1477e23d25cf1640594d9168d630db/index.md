@@ -1,6 +1,6 @@
 ---
 title: ​Rising star
-description: W:60 L:93 D:0 Bonus ✅ 52%
+description: W:60 L:93 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 15 - 3 **three kitties**
 date: 2026-10-31T20:42:46.000Z
@@ -22,7 +22,7 @@ If kicked for inactivity, please join back when ready.
 <br>
 
 ### [Discord](https://discord.gg/fYBf2GNU7y)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
