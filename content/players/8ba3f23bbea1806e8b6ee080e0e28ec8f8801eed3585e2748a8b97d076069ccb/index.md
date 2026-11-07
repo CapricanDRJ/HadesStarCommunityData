@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "RT0Jeday"
-description: "ws: 50 μ: 25.06"
+description: "ws: 51 μ: 24.25"
 ---
-- **WhiteStars**: 50
-- **Eligible**: 42
-- **Rating**: 3.63
-- **μ**: 25.06  
-- **σ**: 7.14
-- W: 28, L: 21, T: 1
+- **WhiteStars**: 51
+- **Eligible**: 43
+- **Rating**: 2.90
+- **μ**: 24.25  
+- **σ**: 7.11
+- W: 28, L: 22, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 50 μ: 25.06"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 41 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 42 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 50 μ: 25.06"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 6-12 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-5 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-09-12 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 3-39 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-07-12 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-1 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

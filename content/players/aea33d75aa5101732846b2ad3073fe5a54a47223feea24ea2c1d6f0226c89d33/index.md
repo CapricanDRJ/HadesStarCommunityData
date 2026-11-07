@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "БаронЧёрногоМоря"
-description: "ws: 43 μ: 24.21"
+description: "ws: 44 μ: 23.61"
 ---
-- **WhiteStars**: 43
-- **Eligible**: 34
-- **Rating**: 2.26
-- **μ**: 24.21  
-- **σ**: 7.32
-- W: 23, L: 20, T: 0
+- **WhiteStars**: 44
+- **Eligible**: 35
+- **Rating**: 1.76
+- **μ**: 23.61  
+- **σ**: 7.29
+- W: 23, L: 21, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 43 μ: 24.21"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 34 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 35 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 43 μ: 24.21"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 6-12 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-5 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-07-12 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-1 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 3-5 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

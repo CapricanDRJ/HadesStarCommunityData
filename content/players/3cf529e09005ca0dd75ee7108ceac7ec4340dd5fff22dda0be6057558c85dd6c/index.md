@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Dial"
-description: "ws: 41 μ: 26.25"
+description: "ws: 42 μ: 25.25"
 ---
-- **WhiteStars**: 41
-- **Eligible**: 33
-- **Rating**: 4.20
-- **μ**: 26.25  
-- **σ**: 7.35
-- W: 26, L: 15, T: 0
+- **WhiteStars**: 42
+- **Eligible**: 34
+- **Rating**: 3.29
+- **μ**: 25.25  
+- **σ**: 7.32
+- W: 26, L: 16, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 41 μ: 26.25"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 33 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 34 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 41 μ: 26.25"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 6-12 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-5 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-07-12 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-1 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 3-5 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

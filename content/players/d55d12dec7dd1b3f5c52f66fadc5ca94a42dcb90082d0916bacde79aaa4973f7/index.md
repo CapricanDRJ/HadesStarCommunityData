@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Шотландский Ярл"
-description: "ws: 49 μ: 25.24"
+description: "ws: 50 μ: 24.28"
 ---
-- **WhiteStars**: 49
-- **Eligible**: 41
-- **Rating**: 3.78
-- **μ**: 25.24  
-- **σ**: 7.15
-- W: 28, L: 20, T: 1
+- **WhiteStars**: 50
+- **Eligible**: 42
+- **Rating**: 2.91
+- **μ**: 24.28  
+- **σ**: 7.13
+- W: 28, L: 21, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 49 μ: 25.24"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 41 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 42 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 49 μ: 25.24"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 6-12 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-5 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-07-12 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-1 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 3-5 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

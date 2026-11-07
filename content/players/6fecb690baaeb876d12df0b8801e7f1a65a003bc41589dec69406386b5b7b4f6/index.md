@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Sefu"
-description: "ws: 29 μ: 25.04"
+description: "ws: 30 μ: 24.90"
 ---
-- **WhiteStars**: 29
-- **Eligible**: 24
-- **Rating**: 1.90
-- **μ**: 25.04  
-- **σ**: 7.71
-- W: 19, L: 10, T: 0
+- **WhiteStars**: 30
+- **Eligible**: 25
+- **Rating**: 1.79
+- **μ**: 24.90  
+- **σ**: 7.70
+- W: 19, L: 11, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 29 μ: 25.04"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 24 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 25 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 29 μ: 25.04"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 4-28 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-09-25 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 64-1 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-07-25 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 3-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-05-17 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 5-12 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |

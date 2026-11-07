@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Milisandra"
-description: "ws: 29 μ: 27.45"
+description: "ws: 30 μ: 26.40"
 ---
-- **WhiteStars**: 29
-- **Eligible**: 24
-- **Rating**: 4.71
-- **μ**: 27.45  
-- **σ**: 7.58
-- W: 18, L: 10, T: 1
+- **WhiteStars**: 30
+- **Eligible**: 25
+- **Rating**: 3.77
+- **μ**: 26.40  
+- **σ**: 7.55
+- W: 18, L: 11, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 29 μ: 27.45"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 24 |
+| [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 25 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 29 μ: 27.45"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 6-12 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-09-26 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-5 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-07-12 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 11-1 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 3-5 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
