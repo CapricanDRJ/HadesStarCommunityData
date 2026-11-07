@@ -1,6 +1,6 @@
 ---
 title: ​自由之地
-description: W:23 L:13 D:2 Bonus ✅ 36%
+description: W:23 L:13 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 3 - 3 **九州·白星**
 date: 2026-11-07T01:24:46.000Z
@@ -15,7 +15,7 @@ date: 2026-11-07T01:24:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "lohka"
-description: "ws: 5 μ: 23.12"
+description: "ws: 6 μ: 25.84"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 3
-- **Rating**: -1.56
-- **μ**: 23.12  
-- **σ**: 8.23
-- W: 0, L: 5, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 4
+- **Rating**: 1.27
+- **μ**: 25.84  
+- **σ**: 8.19
+- W: 1, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 23.12"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 3 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 23.12"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 12-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | 2026-11-01 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 0-16 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | 2026-04-19 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 0-28 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | 2025-09-13 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 6-15 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |

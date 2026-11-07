@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Сунилла"
-description: "ws: 31 μ: 26.51"
+description: "ws: 32 μ: 27.21"
 ---
-- **WhiteStars**: 31
-- **Eligible**: 26
-- **Rating**: 3.95
-- **μ**: 26.51  
-- **σ**: 7.52
-- W: 15, L: 16, T: 0
+- **WhiteStars**: 32
+- **Eligible**: 27
+- **Rating**: 4.73
+- **μ**: 27.21  
+- **σ**: 7.49
+- W: 16, L: 16, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 31 μ: 26.51"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 26 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 27 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 31 μ: 26.51"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 12-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | 2026-11-01 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 11-7 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | 2026-10-25 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 27-5 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | 2026-10-11 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 26-2 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |

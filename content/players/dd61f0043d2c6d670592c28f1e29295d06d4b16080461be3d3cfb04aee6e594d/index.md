@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "evgen1sider"
-description: "ws: 11 μ: 28.16"
+description: "ws: 12 μ: 28.86"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 9
-- **Rating**: 4.14
-- **μ**: 28.16  
-- **σ**: 8.01
-- W: 6, L: 5, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 10
+- **Rating**: 4.93
+- **μ**: 28.86  
+- **σ**: 7.97
+- W: 7, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 11 μ: 28.16"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 9 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 11 μ: 28.16"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 12-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | 2026-11-01 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 0-16 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | 2026-10-18 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 16-2 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | 2026-09-19 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 19-9 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
