@@ -1,9 +1,9 @@
 ---
 title: ​Rabid Butterfly
-description: W:4 L:2 D:0 Bonus ✅ 36%
+description: W:5 L:2 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **聚集地**
-date: 2026-11-02T15:48:51.000Z
+Summary: ✅ 3 - 2 **STAR TERROR CZ**
+date: 2026-11-07T17:55:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-02T15:48:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (17)|
-| ELO Competitive | 1259 🔺  (17)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1250 🔺  (18)|
+| ELO Competitive | 1285 🔺  (26)|
+| Total Matches | 7 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793202531,1792556384,1792121997,1791678615,1791245741,1790774098];
+        let timestamps = [1793642156,1793202531,1792556384,1792121997,1791678615,1791245741,1790774098];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/07 | 3-2 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/11/02 | 8-0 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
 | ❌ | 2026/10/26 | 3-5 | [Brethren Court](https://ws.tsl.rocks/corp/58ce9bed114bde298d77f20adf5584e22292e24f89dd59298051b01d66212ad4/) |
 | ✅ | 2026/10/21 | 14-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
@@ -148,5 +150,5 @@ Corporation ID: a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793634531"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794074156"></span>
 </div>
