@@ -1,9 +1,9 @@
 ---
 title: ​TheDuckeanFlow
-description: W:5 L:5 D:0 Bonus ❌ 
+description: W:5 L:6 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 3 - 16 **新?的星际集团?**
-date: 2026-04-16T19:29:35.000Z
+Summary: ❌ 0 - 2 **The Bois**
+date: 2026-11-07T03:32:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-04-16T19:29:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (-14)|
-| ELO Competitive | 1222 🔻  (-6)|
-| Total Matches | 10 |
+| ELO Regular | 1188 🔻  (-16)|
+| ELO Competitive | 1206 🔻  (-16)|
+| Total Matches | 11 |
 | Wins | 5 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1775935775,1762538130,1754530315,1753214072,1751934110,1748751279,1747100670,1745484380,1745010490,1744572067];
+        let timestamps = [1793590346,1775935775,1762538130,1754530315,1753214072,1751934110,1748751279,1747100670,1745484380,1745010490,1744572067];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/07 | 0-2 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ❌ | 2026/04/16 | 3-16 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2025/11/12 | 0-1 | [Azennor inc\.](https://ws.tsl.rocks/corp/b20eec58c56fcfae87efc51986817da9dca387c1c97cdf722432dfdf0e418050/) |
 | ✅ | 2025/08/12 | 8-0 | [Blacksteel Tech](https://ws.tsl.rocks/corp/dfd6e8053747b0abe2de98bfe1d4b8521829fea58e48472835363ff3a0a5fc09/) |
@@ -152,5 +153,5 @@ Corporation ID: bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1776367775"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794022346"></span>
 </div>
