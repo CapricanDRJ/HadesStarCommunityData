@@ -1,9 +1,9 @@
 ---
 title: ​Hexwood
-description: W:30 L:14 D:0 Bonus ❌ 11%
+description: W:31 L:14 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 25 - 3 **Stone Legion**
-date: 2026-09-09T16:27:48.000Z
+Summary: ✅ 32 - 0 **Ironbear Legion**
+date: 2026-11-07T12:30:29.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ A social, easygoing Corp with allies to join together with for Red or
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1397 🔺  (11)|
-| ELO Competitive | 1553 🔺  (13)|
-| Total Matches | 44 |
-| Wins | 30 |
+| ELO Regular | 1402 🔺  (5)|
+| ELO Competitive | 1561 🔺  (9)|
+| Total Matches | 45 |
+| Wins | 31 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 5 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1788539268,1785190329,1784531189,1781108894,1778066034,1777549600,1774003479,1772212900,1770806866,1768330195,1765411020,1762995909,1759486405,1757770442,1756992865,1754667307,1754146559,1752266148,1750772147,1749758836,1747247612,1745522248,1744706382,1743533776,1741333364,1739463040,1738178971,1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
+        let timestamps = [1793622629,1788539268,1785190329,1784531189,1781108894,1778066034,1777549600,1774003479,1772212900,1770806866,1768330195,1765411020,1762995909,1759486405,1757770442,1756992865,1754667307,1754146559,1752266148,1750772147,1749758836,1747247612,1745522248,1744706382,1743533776,1741333364,1739463040,1738178971,1735842109,1734004426,1732053961,1730721837,1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/07 | 32-0 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2026/09/09 | 25-3 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ✅ | 2026/08/01 | 48-0 | [\-=FCA=\-](https://ws.tsl.rocks/corp/abf961b1887178d13f39fe99cedf32d0ce4a826f9088c36c6c7e68eb4d61337c/) |
 | ❌ | 2026/07/25 | 9-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
@@ -198,5 +199,5 @@ Corporation ID: b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1788971268"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794054629"></span>
 </div>

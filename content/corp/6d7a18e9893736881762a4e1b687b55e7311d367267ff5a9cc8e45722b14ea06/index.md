@@ -1,6 +1,6 @@
 ---
 title: ​U.S.A
-description: W:60 L:88 D:4 Bonus ✅ 44%
+description: W:60 L:88 D:4 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **Atlas Star llc\.**
 date: 2026-10-31T12:39:04.000Z
@@ -18,7 +18,7 @@ embers Star Nations that are apart of it against the chaos outside of
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Lily"
-description: "ws: 2 μ: 24.82"
+description: "ws: 3 μ: 24.35"
 ---
-- **WhiteStars**: 2
-- **Eligible**: 1
-- **Rating**: -0.14
-- **μ**: 24.82  
-- **σ**: 8.32
-- W: 0, L: 2, T: 0
+- **WhiteStars**: 3
+- **Eligible**: 2
+- **Rating**: -0.51
+- **μ**: 24.35  
+- **σ**: 8.29
+- W: 0, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 2 μ: 24.82"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 1 |
+| [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 2 |
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 24.82"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-07 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 3-48 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-11-01 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 3-36 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2025-11-30 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) | 0-23 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
