@@ -1,9 +1,9 @@
 ---
 title: ​星际联盟（中国）
-description: W:14 L:22 D:2 Bonus ❌ 7%
+description: W:14 L:23 D:2 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ✅ 1 - 0 **九州·华夏**
-date: 2026-08-28T05:10:47.000Z
+Summary: ❌ 0 - 26 **ༀᅗBAR ESTELARᅗༀ**
+date: 2026-11-08T14:27:22.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,11 +29,11 @@ https://discord.gg/fAejNbTH
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔺  (18)|
-| ELO Competitive | 1232 🔺  (28)|
-| Total Matches | 38 |
+| ELO Regular | 1138 🔻  (-7)|
+| ELO Competitive | 1226 🔻  (-6)|
+| Total Matches | 39 |
 | Wins | 14 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1787461847,1777991823,1777107580,1775967909,1775179720,1774680681,1736088273,1735633582,1735169039,1734690106,1734242172,1733791510,1733316931,1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
+        let timestamps = [1793716042,1787461847,1777991823,1777107580,1775967909,1775179720,1774680681,1736088273,1735633582,1735169039,1734690106,1734242172,1733791510,1733316931,1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -150,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/08 | 0-26 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/08/28 | 1-0 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ❌ | 2026/05/10 | 0-6 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2026/04/30 | 3-10 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
@@ -195,5 +196,5 @@ Corporation ID: 1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1787893847"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794148042"></span>
 </div>

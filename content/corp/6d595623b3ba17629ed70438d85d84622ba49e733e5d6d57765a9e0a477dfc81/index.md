@@ -1,6 +1,6 @@
 ---
 title: ​中国星际联盟
-description: W:132 L:89 D:3 Bonus ✅ 52%
+description: W:132 L:89 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 17 - 3 **alienigenas**
 date: 2026-11-01T15:39:29.000Z
@@ -27,7 +27,7 @@ QQ群号为131920392，
 <br>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

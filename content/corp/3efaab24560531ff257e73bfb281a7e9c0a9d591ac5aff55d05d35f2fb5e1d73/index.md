@@ -1,6 +1,6 @@
 ---
 title: ​CIS
-description: W:82 L:24 D:1 Bonus ✅ 50%
+description: W:82 L:24 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 29 - 3 **共联·世界**
 date: 2026-11-01T13:04:12.000Z
@@ -17,7 +17,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
 <br>
 
 ### [Discord](https://discord.gg/eVBvw68KEU)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
