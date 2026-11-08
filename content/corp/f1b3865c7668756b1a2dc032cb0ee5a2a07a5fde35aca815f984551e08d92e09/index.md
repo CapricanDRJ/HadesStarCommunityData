@@ -1,6 +1,6 @@
 ---
 title: ​太空的猫
-description: W:13 L:23 D:1 Bonus ✅ 36%
+description: W:13 L:23 D:1 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **Terran empire**
 date: 2026-11-06T01:07:51.000Z
@@ -15,7 +15,7 @@ date: 2026-11-06T01:07:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

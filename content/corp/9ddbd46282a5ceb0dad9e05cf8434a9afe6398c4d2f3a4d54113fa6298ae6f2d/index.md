@@ -1,9 +1,9 @@
 ---
 title: ​Ainz ooal gown
-description: W:40 L:6 D:0 Bonus ✅ 38%
+description: W:41 L:6 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 26 - 4 **Corp\. Luminá**
-date: 2026-11-02T13:46:40.000Z
+Summary: ✅ 27 - 2 **契约\-璃月**
+date: 2026-11-08T00:11:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-11-02T13:46:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1495 🔺  (9)|
-| ELO Competitive | 1604 🔺  (14)|
-| Total Matches | 46 |
-| Wins | 40 |
+| ELO Regular | 1504 🔺  (9)|
+| ELO Competitive | 1621 🔺  (17)|
+| Total Matches | 47 |
+| Wins | 41 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 21 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793195200,1792735342,1792283919,1791819202,1791375843,1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
+        let timestamps = [1793664687,1793195200,1792735342,1792283919,1791819202,1791375843,1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/08 | 27-2 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
 | ✅ | 2026/11/02 | 26-4 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2026/10/28 | 28-1 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2026/10/23 | 26-0 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
@@ -195,5 +196,5 @@ Corporation ID: 9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793627200"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794096687"></span>
 </div>
