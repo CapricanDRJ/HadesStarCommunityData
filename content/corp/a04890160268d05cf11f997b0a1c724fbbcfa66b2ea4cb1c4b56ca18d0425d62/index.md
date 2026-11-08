@@ -1,6 +1,6 @@
 ---
 title: ​GDZ
-description: W:106 L:76 D:1 Bonus ✅ 52%
+description: W:106 L:76 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 13 - 14 **Hand Of NOD\!**
 date: 2026-11-08T12:42:13.000Z
@@ -16,7 +16,7 @@ date: 2026-11-08T12:42:13.000Z
 <br>
 
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
