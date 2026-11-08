@@ -1,6 +1,6 @@
 ---
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:150 L:89 D:3 Bonus ✅ 52%
+description: W:150 L:89 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 11 - 5 **Неизбежный Рок**
 date: 2026-11-01T05:28:31.000Z
@@ -18,7 +18,7 @@ date: 2026-11-01T05:28:31.000Z
 <br>
 
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Deathwatch
-description: W:31 L:18 D:0 Bonus ❌ 11%
+description: W:31 L:19 D:0 Bonus ❌ 11%
 image: ./favicon.png
-Summary: ✅ 14 - 6 **共联·世界**
-date: 2026-09-19T13:59:10.000Z
+Summary: ❌ 0 - 10 **attraction\.F**
+date: 2026-11-08T06:16:48.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-09-19T13:59:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (15)|
-| ELO Competitive | 1436 🔺  (20)|
-| Total Matches | 49 |
+| ELO Regular | 1271 🔻  (-10)|
+| ELO Competitive | 1422 🔻  (-14)|
+| Total Matches | 50 |
 | Wins | 31 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789394350,1788840262,1787203588,1785858804,1785858804,1785222469,1784559728,1784009529,1783591733,1783419288,1782732204,1782146935,1781515377,1781308681,1781000434,1780329013,1779718509,1778666622,1778599932,1777859348,1777304140,1776715866,1776701141,1776194918,1776180795,1775447206,1775422182,1774899426,1774888306,1774376942,1774361617,1773834934,1773761331,1773022262,1772444416,1771836755,1771367500,1769519415,1768908828,1768881835,1768197563,1767526789,1766580552,1766462600,1765794691,1765255081,1764787850,1764094335,1764060382];
+        let timestamps = [1793686608,1789394350,1788840262,1787203588,1785858804,1785858804,1785222469,1784559728,1784009529,1783591733,1783419288,1782732204,1782146935,1781515377,1781308681,1781000434,1780329013,1779718509,1778666622,1778599932,1777859348,1777304140,1776715866,1776701141,1776194918,1776180795,1775447206,1775422182,1774899426,1774888306,1774376942,1774361617,1773834934,1773761331,1773022262,1772444416,1771836755,1771367500,1769519415,1768908828,1768881835,1768197563,1767526789,1766580552,1766462600,1765794691,1765255081,1764787850,1764094335,1764060382];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/08 | 0-10 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ✅ | 2026/09/19 | 14-6 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ✅ | 2026/09/13 | 9-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ❌ | 2026/08/25 | 0-1 | [Knights of Solo](https://ws.tsl.rocks/corp/ca874c061d1c3941f5931bd0b184d1c32396462f0fad4751e2ae5a9b15b188e5/) |
@@ -200,5 +200,5 @@ Corporation ID: 721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789826350"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794118608"></span>
 </div>

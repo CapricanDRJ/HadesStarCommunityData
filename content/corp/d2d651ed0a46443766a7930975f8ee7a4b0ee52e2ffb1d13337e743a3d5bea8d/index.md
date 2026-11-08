@@ -1,6 +1,6 @@
 ---
 title: ​RUS
-description: W:99 L:60 D:0 Bonus ✅ 56%
+description: W:99 L:60 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 7 - 14 **Spacefleet**
 date: 2026-11-07T03:14:53.000Z
@@ -18,7 +18,7 @@ https://t.me/RSeventHS
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

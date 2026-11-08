@@ -1,6 +1,6 @@
 ---
 title: ​泰拉瑞亚
-description: W:56 L:71 D:3 Bonus ✅ 46%
+description: W:56 L:71 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 9 **九州·养老**
 date: 2026-11-07T13:45:36.000Z
@@ -16,7 +16,7 @@ date: 2026-11-07T13:45:36.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

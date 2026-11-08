@@ -1,6 +1,6 @@
 ---
 title: ​CERBERUS SYSTEM
-description: W:43 L:22 D:0 Bonus ✅ 40%
+description: W:43 L:22 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **Lupus Regnum**
 date: 2026-11-01T06:43:37.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T06:43:37.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

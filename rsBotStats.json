@@ -205891,4 +205891,13 @@
 {"serverId":"ff3b36757ea8b5e6","user1":"691ff9b8c436a373","user2":"68502e1aaa270508","user3":"81c70692ac7c5fdb","user4":"","rsType":12.5,"timeStamp":1794104568,"queue":0},
 {"serverId":"ff3b36757ea8b5e6","user1":"cd589696fbebfae6","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794105304,"queue":1},
 {"serverId":"ff3b36757ea8b5e6","user1":"68502e1aaa270508","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794106502,"queue":1},
-{"serverId":"ff3b36757ea8b5e6","user1":"cd589696fbebfae6","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794106771,"queue":1}]
+{"serverId":"ff3b36757ea8b5e6","user1":"cd589696fbebfae6","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794106771,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"22a3e5f8d50c4ddc","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794112614,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"22a3e5f8d50c4ddc","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794112616,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"7972e161a12ad05d","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794112783,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"d31bfca468e3d7ff","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794113305,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"22a3e5f8d50c4ddc","user2":"7972e161a12ad05d","user3":"d31bfca468e3d7ff","user4":"","rsType":10.5,"timeStamp":1794113305,"queue":0},
+{"serverId":"ff3b36757ea8b5e6","user1":"dd88ece1afdff4fb","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794116064,"queue":1},
+{"serverId":"55d9ca79abea123f","user1":"c3438be1b4ba40b0","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794116476,"queue":1},
+{"serverId":"55d9ca79abea123f","user1":"29fcf55fb2470ff3","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1794120872,"queue":1},
+{"serverId":"55d9ca79abea123f","user1":"29fcf55fb2470ff3","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794120874,"queue":1}]
