@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:15 L:0 D:0 Bonus ✅ 34%
+description: W:16 L:0 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 28 - 0 **Lupus Regnum**
-date: 2026-11-08T06:36:50.000Z
+Summary: ✅ 18 - 10 **Bacon Warriors**
+date: 2026-11-08T07:11:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-11-08T06:36:50.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1408 🔺  (8)|
-| ELO Competitive | 1411 🔺  (23)|
-| Total Matches | 15 |
-| Wins | 15 |
+| ELO Regular | 1416 🔺  (8)|
+| ELO Competitive | 1412 🔺  (23)|
+| Total Matches | 16 |
+| Wins | 16 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 15 |
-| Streak Record | 15 |
+| Streak | 16 |
+| Streak Record | 16 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793687810,1793082516,1793081014,1792483082,1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
+        let timestamps = [1793689912,1793687810,1793082516,1793081014,1792483082,1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/08 | 18-10 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2026/11/08 | 28-0 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/11/01 | 19-17 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2026/11/01 | 28-3 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
@@ -163,5 +164,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794119810"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794121912"></span>
 </div>

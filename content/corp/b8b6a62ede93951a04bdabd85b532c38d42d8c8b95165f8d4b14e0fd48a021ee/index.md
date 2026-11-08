@@ -1,9 +1,9 @@
 ---
 title: ​Hermitage
-description: W:29 L:26 D:2 Bonus ❌ 10%
+description: W:30 L:26 D:2 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 36 - 0 **Avantgarde**
-date: 2026-11-01T06:28:37.000Z
+Summary: ✅ 11 - 4 **three kitties**
+date: 2026-11-08T07:06:52.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ❌ 10%
+### Whitestar Bonus ✅ 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (1)|
-| ELO Competitive | 1440 🔺  (2)|
-| Total Matches | 57 |
-| Wins | 29 |
+| ELO Regular | 1268 🔺  (8)|
+| ELO Competitive | 1459 🔺  (19)|
+| Total Matches | 58 |
+| Wins | 30 |
 | Losses | 26 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 7 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793082517,1791892791,1791269169,1785831465,1779775597,1778568688,1777959991,1777375949,1773038481,1769338840,1768889945,1768374659,1767781554,1761810314,1759818734,1759213588,1756796372,1756042663,1754374025,1751954239,1749535260,1747632240,1747116594,1745732312,1745134595,1743316182,1742752681,1742106243,1741520587,1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
+        let timestamps = [1793689612,1793082517,1791892791,1791269169,1785831465,1779775597,1778568688,1777959991,1777375949,1773038481,1769338840,1768889945,1768374659,1767781554,1761810314,1759818734,1759213588,1756796372,1756042663,1754374025,1751954239,1749535260,1747632240,1747116594,1745732312,1745134595,1743316182,1742752681,1742106243,1741520587,1740912987,1739096732,1738356862,1737883576,1737279880,1736691148,1736081958,1728812103,1728223345,1726392770,1725778247,1720349741,1719733669,1718537342,1717919620,1716715297,1715509582,1714288713,1713726274,1712518394,1711927950,1710714638,1710101077,1708898263,1708298177,1707687259,1707031851,1706038962];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/08 | 11-4 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2026/11/01 | 36-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2026/10/18 | 8-9 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2026/10/11 | 6-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
@@ -215,5 +217,5 @@ Corporation ID: b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793514517"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794121612"></span>
 </div>

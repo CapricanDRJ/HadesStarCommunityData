@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Gizmo"
-description: "ws: 54 μ: 33.15"
+description: "ws: 55 μ: 33.29"
 ---
-- **WhiteStars**: 54
-- **Eligible**: 37
-- **Rating**: 10.65
-- **μ**: 33.15  
-- **σ**: 7.50
-- W: 49, L: 5, T: 0
+- **WhiteStars**: 55
+- **Eligible**: 38
+- **Rating**: 10.81
+- **μ**: 33.29  
+- **σ**: 7.49
+- W: 50, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 54 μ: 33.15"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 36 |
+| [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 37 |
 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 54 μ: 33.15"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-08 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 19-3 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | 2026-11-01 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 36-3 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | 2026-10-27 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 29-3 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | 2026-10-20 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 37-4 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |

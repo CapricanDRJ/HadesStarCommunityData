@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "DEFCON"
-description: "ws: 7 μ: 26.01"
+description: "ws: 8 μ: 25.19"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 4
-- **Rating**: 1.42
-- **μ**: 26.01  
-- **σ**: 8.19
-- W: 5, L: 2, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 5
+- **Rating**: 0.65
+- **μ**: 25.19  
+- **σ**: 8.18
+- W: 5, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 26.01"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 4 |
+| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 26.01"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-08 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 3-19 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-06-26 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 22-6 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-05-30 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 35-0 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-04-25 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 1-22 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

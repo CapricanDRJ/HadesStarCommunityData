@@ -1,6 +1,6 @@
 ---
 title: ​Wolf - Star
-description: W:14 L:0 D:0 Bonus ✅ 34%
+description: W:14 L:0 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **Bastille FR**
 date: 2026-11-01T09:23:50.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T09:23:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

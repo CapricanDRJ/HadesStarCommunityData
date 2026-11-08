@@ -1,6 +1,6 @@
 ---
 title: ​Duchy Arrakis
-description: W:59 L:25 D:2 Bonus ✅ 46%
+description: W:59 L:25 D:2 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 20 - 9 **pirates spatial**
 date: 2026-11-01T08:03:43.000Z
@@ -17,7 +17,7 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

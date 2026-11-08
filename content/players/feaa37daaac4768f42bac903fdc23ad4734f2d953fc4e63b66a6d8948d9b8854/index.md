@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "xnickelxbackx"
-description: "ws: 9 μ: 24.86"
+description: "ws: 10 μ: 24.80"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 6
-- **Rating**: 0.48
-- **μ**: 24.86  
-- **σ**: 8.13
-- W: 5, L: 4, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 7
+- **Rating**: 0.46
+- **μ**: 24.80  
+- **σ**: 8.11
+- W: 5, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 24.86"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 6 |
+| [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 24.86"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-08 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 3-19 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2026-10-17 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 6-35 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-06-26 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 22-6 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-05-30 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) | 35-0 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |

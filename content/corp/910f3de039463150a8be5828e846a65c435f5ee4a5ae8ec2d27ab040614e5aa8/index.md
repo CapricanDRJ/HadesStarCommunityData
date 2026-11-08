@@ -1,6 +1,6 @@
 ---
 title: ​Bastille FR
-description: W:29 L:27 D:1 Bonus ✅ 40%
+description: W:29 L:27 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 24 - 3 **繁星一夢**
 date: 2026-11-01T09:28:50.000Z
@@ -15,7 +15,7 @@ date: 2026-11-01T09:28:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
