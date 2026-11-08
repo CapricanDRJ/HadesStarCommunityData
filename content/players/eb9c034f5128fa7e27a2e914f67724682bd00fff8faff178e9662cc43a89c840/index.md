@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "AtomicDoctrine"
-description: "ws: 2 μ: 25.06"
+description: "ws: 3 μ: 25.06"
 ---
-- **WhiteStars**: 2
+- **WhiteStars**: 3
 - **Eligible**: 2
 - **Rating**: 0.28
 - **μ**: 25.06  
 - **σ**: 8.26
-- W: 1, L: 1, T: 0
+- W: 1, L: 2, T: 0
 
 ---
 
@@ -24,5 +24,6 @@ description: "ws: 2 μ: 25.06"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-08 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 0-28 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-12-31 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) | 3-28 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2025-11-21 | [KEPLER\-442  b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) | 4-2 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

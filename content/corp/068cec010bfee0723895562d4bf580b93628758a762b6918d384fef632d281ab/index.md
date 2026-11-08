@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:114 L:72 D:2 Bonus ✅ 56%
+description: W:114 L:72 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 10 - 28 **六大天神**
 date: 2026-11-07T06:10:04.000Z
@@ -16,7 +16,7 @@ date: 2026-11-07T06:10:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
