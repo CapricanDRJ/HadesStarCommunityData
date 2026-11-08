@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:87 L:72 D:2 Bonus ✅ 50%
+description: W:87 L:72 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 6 - 28 **契约\-璃月**
 date: 2026-11-01T03:38:24.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

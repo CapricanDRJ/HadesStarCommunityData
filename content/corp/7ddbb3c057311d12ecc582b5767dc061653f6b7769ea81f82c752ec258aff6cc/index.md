@@ -1,6 +1,6 @@
 ---
 title: ​Internationals
-description: W:113 L:82 D:0 Bonus ✅ 58%
+description: W:113 L:82 D:0 Bonus ❌ 19%
 image: ./favicon.png
 Summary: ❌ 6 - 16 **pirates spatial**
 date: 2026-11-01T08:13:44.000Z
@@ -18,7 +18,7 @@ S2 donations welcome.
 <br>
 
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 19%
 
 | Statistic | Value |
 | --- | --- |
