@@ -1,6 +1,6 @@
 ---
 title: ​Gummibärenbande
-description: W:41 L:105 D:0 Bonus ✅ 52%
+description: W:41 L:105 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 13 - 9 **Grunthal Gang**
 date: 2026-11-01T18:24:49.000Z
@@ -24,7 +24,7 @@ Mitglied der Tartaros Armada
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

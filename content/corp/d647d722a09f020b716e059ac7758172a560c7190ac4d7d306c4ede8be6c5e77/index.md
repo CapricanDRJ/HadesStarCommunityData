@@ -1,6 +1,6 @@
 ---
 title: ​Void
-description: W:27 L:42 D:0 Bonus ✅ 46%
+description: W:27 L:42 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 19 - 10 **Stellar Exports**
 date: 2026-11-01T17:49:45.000Z
@@ -23,7 +23,7 @@ Primarily English
 <br>
 
 ### [Discord](https://discord.gg/jPftecDuNp)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

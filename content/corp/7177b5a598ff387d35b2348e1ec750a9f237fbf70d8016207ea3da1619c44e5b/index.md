@@ -1,9 +1,9 @@
 ---
 title: ​death squadron
-description: W:19 L:22 D:0 Bonus ❌ 8%
+description: W:20 L:22 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 14 - 3 **九州分团**
-date: 2026-10-10T16:55:06.000Z
+Summary: ✅ 24 - 3 **太阳系联邦**
+date: 2026-11-08T16:12:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ quadron<br>weekly white stars<br>private red stars 3 to 8
 <br>
 
 ### [Discord](https://discord.gg/HhVjWquh4J)
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (24)|
-| ELO Competitive | 1274 🔺  (29)|
-| Total Matches | 41 |
-| Wins | 19 |
+| ELO Regular | 1206 🔺  (15)|
+| ELO Competitive | 1291 🔺  (17)|
+| Total Matches | 42 |
+| Wins | 20 |
 | Losses | 22 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 6 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791219306,1718964058,1718345454,1717190415,1716553331,1715772175,1715116296,1714432648,1713897366,1713896022,1713261466,1712670130,1712041526,1712030712,1711522293,1710975135,1710971228,1710193019,1709648558,1708999790,1708538269,1707951400,1707943098,1707464437,1706973555,1706490633,1706485826,1706043771,1705576459,1705006698,1704547203,1704110858,1703619516,1703111031,1702641989,1702156911,1701553116,1701029875,1700433285,1699737735,1698953656];
+        let timestamps = [1793722351,1791219306,1718964058,1718345454,1717190415,1716553331,1715772175,1715116296,1714432648,1713897366,1713896022,1713261466,1712670130,1712041526,1712030712,1711522293,1710975135,1710971228,1710193019,1709648558,1708999790,1708538269,1707951400,1707943098,1707464437,1706973555,1706490633,1706485826,1706043771,1705576459,1705006698,1704547203,1704110858,1703619516,1703111031,1702641989,1702156911,1701553116,1701029875,1700433285,1699737735,1698953656];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/08 | 24-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2026/10/10 | 14-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/06/26 | 5-17 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/06/19 | 3-6 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
@@ -197,5 +199,5 @@ Corporation ID: 7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791651306"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794154351"></span>
 </div>
