@@ -1,6 +1,6 @@
 ---
 title: ​Polaris Corpo
-description: W:56 L:44 D:0 Bonus ✅ 46%
+description: W:56 L:44 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **Void Dominion**
 date: 2026-11-02T10:41:19.000Z
@@ -21,7 +21,7 @@ date: 2026-11-02T10:41:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

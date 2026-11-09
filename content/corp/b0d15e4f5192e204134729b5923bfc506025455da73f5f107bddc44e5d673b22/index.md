@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:11 L:25 D:3 Bonus ❌ 8%
+description: W:12 L:25 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ❌ 0 - 20 **101**
-date: 2026-11-09T09:28:47.000Z
+Summary: ✅ 4 - 0 **红日初升，其道大光**
+date: 2026-11-09T11:28:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-11-09T09:28:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 8%
+### Whitestar Bonus ✅ 36%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (-23)|
-| ELO Competitive | 1294 🔻  (-15)|
-| Total Matches | 39 |
-| Wins | 11 |
+| ELO Regular | 1092 🔺  (15)|
+| ELO Competitive | 1332 🔺  (23)|
+| Total Matches | 40 |
+| Wins | 12 |
 | Losses | 25 |
 | Draws | 3 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793784527,1793352476,1793328924,1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1793791734,1793784527,1793352476,1793328924,1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/09 | 4-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2026/11/09 | 0-20 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2026/11/04 | 0-1 | [秉元握枢斡化坎离玄墟旌部](https://ws.tsl.rocks/corp/f92ac64755d82856a50cfc4d8c59f8741e2cfeb50a5a2f9cb46e0769d22a1bcf/) |
 | ❌ | 2026/11/04 | 0-26 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
@@ -188,5 +189,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794216527"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794223734"></span>
 </div>

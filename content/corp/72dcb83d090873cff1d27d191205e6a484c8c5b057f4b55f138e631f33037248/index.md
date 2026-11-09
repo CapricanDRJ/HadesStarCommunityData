@@ -1,6 +1,6 @@
 ---
 title: ​Galactic Empire
-description: W:23 L:9 D:0 Bonus ✅ 50%
+description: W:23 L:9 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **德意志阿尔法帝国**
 date: 2026-11-02T11:10:39.000Z
@@ -19,7 +19,7 @@ Discord: fYBf2GNU7y
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

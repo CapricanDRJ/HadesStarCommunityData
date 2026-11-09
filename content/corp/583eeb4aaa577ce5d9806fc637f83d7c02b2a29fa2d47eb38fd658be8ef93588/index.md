@@ -1,6 +1,6 @@
 ---
 title: ​Bunker
-description: W:52 L:68 D:2 Bonus ✅ 42%
+description: W:52 L:68 D:2 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 19 - 3 **Вселенские 40%**
 date: 2026-11-02T12:11:29.000Z
@@ -18,7 +18,7 @@ IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
 <br>
 
 ### [Discord](https://discord.gg/TZRY8esKFz)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

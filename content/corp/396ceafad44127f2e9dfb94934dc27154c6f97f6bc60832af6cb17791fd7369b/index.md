@@ -1,6 +1,6 @@
 ---
 title: ​Vega Conflict
-description: W:34 L:28 D:0 Bonus ✅ 42%
+description: W:34 L:28 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 33 - 8 **HIGH COMMAND**
 date: 2026-11-02T10:01:15.000Z
@@ -16,7 +16,7 @@ ion. Team focused; total support. Growing fast!
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
