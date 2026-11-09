@@ -1,6 +1,6 @@
 ---
 title: ​Space Dragons
-description: W:38 L:44 D:2 Bonus ✅ 40%
+description: W:38 L:44 D:2 Bonus ❌ 40%
 image: ./favicon.png
 Summary: ✅ 17 - 14 **Dumpster Fire**
 date: 2026-11-02T00:50:28.000Z
@@ -15,7 +15,7 @@ date: 2026-11-02T00:50:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |
