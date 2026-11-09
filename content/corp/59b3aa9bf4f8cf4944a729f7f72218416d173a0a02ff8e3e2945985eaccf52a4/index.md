@@ -1,9 +1,9 @@
 ---
 title: ​Anarchy G13
-description: W:0 L:3 D:0 Bonus ❌ 3%
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **Eternal empire**
-date: 2024-02-08T23:15:06.000Z
+Summary: ❌ 0 - 13 **Extinct Honor**
+date: 2026-11-09T04:43:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ hitestar or kick
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (-14)|
-| ELO Competitive | 1158 🔻  (-14)|
-| Total Matches | 3 |
+| ELO Regular | 1146 🔻  (-12)|
+| ELO Competitive | 1146 🔻  (-12)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1707002106,1706065982,1699902345];
+        let timestamps = [1793767406,1707002106,1706065982,1699902345];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/09 | 0-13 | [Extinct Honor](https://ws.tsl.rocks/corp/397dd8d1470363f4474fd0c9564a0eaa50a2ea0e1fccf83244240e73f0b9d39d/) |
 | ❌ | 2024/02/08 | 0-2 | [Eternal empire](https://ws.tsl.rocks/corp/c710661fec52581acc50c1f8a96dfb2dc3e582cf877080c41714526c98cd7193/) |
 | ❌ | 2024/01/29 | 0-9 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2023/11/18 | 0-21 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
@@ -145,5 +146,5 @@ Corporation ID: 59b3aa9bf4f8cf4944a729f7f72218416d173a0a02ff8e3e2945985eaccf52a4
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1707434106"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794199406"></span>
 </div>

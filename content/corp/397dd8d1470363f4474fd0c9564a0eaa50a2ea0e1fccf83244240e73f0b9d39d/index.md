@@ -1,9 +1,9 @@
 ---
 title: ​Extinct Honor
-description: W:1 L:0 D:0 Bonus ❌ 3%
+description: W:2 L:0 D:0 Bonus ✅ 26%
 image: ./favicon.png
-Summary: ✅ 5 - 0 **attraction\.F**
-date: 2026-11-01T04:33:27.000Z
+Summary: ✅ 13 - 0 **Anarchy G13**
+date: 2026-11-09T04:43:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 2026-11-01T04:33:27.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ✅ 26%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (23)|
-| ELO Competitive | 1225 🔺  (25)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1236 🔺  (12)|
+| ELO Competitive | 1237 🔺  (12)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793075607];
+        let timestamps = [1793767406,1793075607];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/09 | 13-0 | [Anarchy G13](https://ws.tsl.rocks/corp/59b3aa9bf4f8cf4944a729f7f72218416d173a0a02ff8e3e2945985eaccf52a4/) |
 | ✅ | 2026/11/01 | 5-0 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 397dd8d1470363f4474fd0c9564a0eaa50a2ea0e1fccf83244240e73f0b9d39d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793507607"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794199406"></span>
 </div>

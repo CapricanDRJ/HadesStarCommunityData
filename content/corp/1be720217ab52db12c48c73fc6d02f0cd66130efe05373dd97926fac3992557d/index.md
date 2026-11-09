@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:122 L:128 D:3 Bonus ✅ 54%
+description: W:122 L:128 D:3 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 2 - 29 **Hexacropians**
 date: 2026-11-02T05:40:54.000Z
@@ -17,7 +17,7 @@ date: 2026-11-02T05:40:54.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
