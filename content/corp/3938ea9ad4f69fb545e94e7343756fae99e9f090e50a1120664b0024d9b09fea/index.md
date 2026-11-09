@@ -1,6 +1,6 @@
 ---
 title: ​The Imperium
-description: W:3 L:2 D:0 Bonus ✅ 30%
+description: W:3 L:2 D:0 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ✅ 6 - 0 **墨痕空域**
 date: 2026-11-02T15:21:50.000Z
@@ -15,7 +15,7 @@ date: 2026-11-02T15:21:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |

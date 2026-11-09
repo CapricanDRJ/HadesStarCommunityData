@@ -1,9 +1,9 @@
 ---
 title: ​拼好团
-description: W:0 L:2 D:1 Bonus ❌ 3%
+description: W:0 L:2 D:2 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 2 - 5 **甜甜圈**
-date: 2026-11-04T13:51:28.000Z
+Summary: ↔️ 0 - 0 **休闲、红、蓝、白养老集团。**
+date: 2026-11-09T13:54:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-11-04T13:51:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (-12)|
-| ELO Competitive | 1177 🔻  (-10)|
-| Total Matches | 3 |
+| ELO Regular | 1177 🔺  (4)|
+| ELO Competitive | 1185 🔺  (7)|
+| Total Matches | 4 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793368288,1792899582,1792440732];
+        let timestamps = [1793800446,1793368288,1792899582,1792440732];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/09 | 0-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2026/11/04 | 2-5 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ↔️ | 2026/10/30 | 0-0 | [双叶幼稚园、向日葵小班](https://ws.tsl.rocks/corp/da120198540581b0b27a10465a89e56ecae76fdd58d84dc275b4f36b37313c98/) |
 | ❌ | 2026/10/24 | 0-3 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
@@ -144,5 +145,5 @@ Corporation ID: a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793800288"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794232446"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​White Dwarf
-description: W:136 L:58 D:1 Bonus ✅ 54%
+description: W:136 L:58 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 3 - 19 **Russian space 3**
 date: 2026-11-08T04:21:42.000Z
@@ -17,7 +17,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 <br>
 
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

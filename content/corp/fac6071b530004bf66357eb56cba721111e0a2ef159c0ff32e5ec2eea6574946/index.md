@@ -1,9 +1,9 @@
 ---
 title: ​休闲、红、蓝、白养老集团。
-description: W:16 L:8 D:3 Bonus ❌ 7%
+description: W:17 L:8 D:4 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 3 - 4 **碧霄殿**
-date: 2026-10-30T02:04:34.000Z
+Summary: ↔️ 0 - 0 **拼好团**
+date: 2026-11-09T13:54:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 2026-10-30T02:04:34.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (-23)|
-| ELO Competitive | 1350 🔻  (-5)|
-| Total Matches | 27 |
-| Wins | 16 |
+| ELO Regular | 1266 🔻  (-4)|
+| ELO Competitive | 1363 🔺  (13)|
+| Total Matches | 29 |
+| Wins | 17 |
 | Losses | 8 |
-| Draws | 3 |
+| Draws | 4 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792893874,1792846867,1792450045,1792006359,1791546430,1791108606,1790758476,1790635622,1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
+        let timestamps = [1793800446,1793798944,1792893874,1792846867,1792450045,1792006359,1791546430,1791108606,1790758476,1790635622,1790202434,1789692041,1789228503,1788777230,1788325360,1787891357,1787736355,1787439728,1787207193,1786978255,1786714136,1786544695,1786241251,1786076911,1785795119,1785622066,1785326721,1785156068,1784706343];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/09 | 0-0 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
+| ✅ | 2026/11/09 | 2-1 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ❌ | 2026/10/30 | 3-4 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ↔️ | 2026/10/29 | 0-0 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) |
 | ✅ | 2026/10/24 | 8-0 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) |
@@ -175,5 +177,5 @@ Corporation ID: fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793325874"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794232446"></span>
 </div>

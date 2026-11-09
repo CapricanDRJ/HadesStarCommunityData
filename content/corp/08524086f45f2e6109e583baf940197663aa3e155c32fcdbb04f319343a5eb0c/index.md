@@ -1,6 +1,6 @@
 ---
 title: ​Looping
-description: W:52 L:28 D:0 Bonus ✅ 44%
+description: W:52 L:28 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 20 - 9 **Stargate Sg7**
 date: 2026-11-02T12:56:34.000Z
@@ -17,7 +17,7 @@ kick-off d'idéation de projet consultative du phallus de Fred
 <br>
 
 ### [Discord](https://discord.gg/tdyuYBQ5xs)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
