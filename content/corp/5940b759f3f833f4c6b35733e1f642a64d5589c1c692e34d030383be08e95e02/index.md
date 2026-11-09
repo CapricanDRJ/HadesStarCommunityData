@@ -1,6 +1,6 @@
 ---
 title: ​Ark Summit
-description: W:41 L:0 D:0 Bonus ✅ 48%
+description: W:41 L:0 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 31 - 6 **IMPERIAL ARMADA**
 date: 2026-11-02T16:21:57.000Z
@@ -18,7 +18,7 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

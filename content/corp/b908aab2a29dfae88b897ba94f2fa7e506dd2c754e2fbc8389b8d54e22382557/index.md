@@ -1,9 +1,9 @@
 ---
 title: ​甜甜圈
-description: W:13 L:7 D:0 Bonus ✅ 34%
+description: W:13 L:8 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 5 - 2 **拼好团**
-date: 2026-11-04T13:51:28.000Z
+Summary: ❌ 0 - 4 **Солнечные Ветры**
+date: 2026-11-09T15:54:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-04T13:51:28.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (12)|
-| ELO Competitive | 1315 🔺  (14)|
-| Total Matches | 20 |
+| ELO Regular | 1242 🔻  (-18)|
+| ELO Competitive | 1295 🔻  (-20)|
+| Total Matches | 21 |
 | Wins | 13 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793368288,1793354627,1792805229,1792704400,1792247268,1792068824,1791628138,1791264062,1791174919,1790825774,1790728442,1790387774,1790222856,1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
+        let timestamps = [1793807657,1793368288,1793354627,1792805229,1792704400,1792247268,1792068824,1791628138,1791264062,1791174919,1790825774,1790728442,1790387774,1790222856,1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/09 | 0-4 | [Солнечные Ветры](https://ws.tsl.rocks/corp/53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1/) |
 | ✅ | 2026/11/04 | 5-2 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
 | ✅ | 2026/11/04 | 1-0 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ❌ | 2026/10/29 | 0-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
@@ -170,5 +170,5 @@ Corporation ID: b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793800288"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794239657"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Cerulean Star
-description: W:91 L:42 D:0 Bonus ✅ 50%
+description: W:91 L:42 D:0 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 5 - 26 **Black Pearl FR**
 date: 2026-11-08T19:37:49.000Z
@@ -18,7 +18,7 @@ riendly community. <b>Must Join Discord</b>
 <br>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

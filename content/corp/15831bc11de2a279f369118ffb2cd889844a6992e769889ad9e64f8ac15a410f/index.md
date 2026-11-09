@@ -1,6 +1,6 @@
 ---
 title: ​No Orbit©
-description: W:37 L:26 D:0 Bonus ✅ 48%
+description: W:37 L:26 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 24 - 3 **Слава Украине\!**
 date: 2026-11-02T17:47:09.000Z
@@ -18,7 +18,7 @@ ot prepared to use Discord you will not be joining No Orbit as we now
 <br>
 
 ### [Discord](https://discord.gg/CNh7tUG)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:90 L:38 D:1 Bonus ✅ 50%
+description: W:90 L:38 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 52 - 0 **Mass Effect**
 date: 2026-11-02T16:57:02.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
