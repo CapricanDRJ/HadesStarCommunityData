@@ -1,6 +1,6 @@
 ---
 title: ​Cool Casual
-description: W:43 L:24 D:3 Bonus ✅ 40%
+description: W:43 L:24 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **Magyar Vándor**
 date: 2026-11-02T21:12:58.000Z
@@ -15,7 +15,7 @@ date: 2026-11-02T21:12:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-09T18:55:40.804Z
+date: 2026-11-09T21:55:40.926Z
 summary: "Corporation directory"
 ---
 
@@ -797,7 +797,7 @@ summary: "Corporation directory"
 | [Orda](https://ws.tsl.rocks/corp/a6d16b7788d32ac2ad2cc692fc58b09af8e46681e62e4aa0c16e3413da433ba6/) | 1189 | 1190 | 1 |
 | [Orden Estelar](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) | 1351 | 1636 | 104 |
 | [Order of Ares](https://ws.tsl.rocks/corp/ed566147265086b7d56b1df1fd1deca6db34c89448bd784f644d9e68cbe9330e/) | 1171 | 1171 | 2 |
-| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1309 | 1570 | 140 |
+| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1294 | 1566 | 141 |
 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) | 1334 | 1525 | 172 |
 | [Ordo Malleus](https://ws.tsl.rocks/corp/07c83a89ba8d4165f71961ebd88351c19ebe3da1688e4fd36b132975883ab794/) | 1201 | 1257 | 13 |
 | [OriginsOfQuarks](https://ws.tsl.rocks/corp/4ab8bb29958d1400c427d8f5e25b6f5d5a03088b5d0237177bd58bf6bc0389bf/) | 1187 | 1190 | 1 |
@@ -1277,7 +1277,7 @@ summary: "Corporation directory"
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 1177 | 1279 | 31 |
 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 1007 | 1145 | 74 |
 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 1087 | 1304 | 160 |
-| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1443 | 1883 | 325 |
+| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1458 | 1897 | 326 |
 | [TheDuckeanFlow](https://ws.tsl.rocks/corp/bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1/) | 1188 | 1206 | 11 |
 | [TheMirrorCorp](https://ws.tsl.rocks/corp/0b6b1efcf003501d33f511ebe6efc06ea16fbdd8a8c51da8b3c79a2be25bb5fd/) | 1184 | 1190 | 2 |
 | [ThePurpl3Fleet](https://ws.tsl.rocks/corp/62b89144efc2dd57c092e008fc14260f17db10074edd2ed82d82c5ebe84ce610/) | 1223 | 1233 | 2 |
@@ -1322,7 +1322,7 @@ summary: "Corporation directory"
 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) | 1329 | 1554 | 152 |
 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) | 1084 | 1129 | 25 |
 | [ua online](https://ws.tsl.rocks/corp/44b08e73701f4c4f27862a999db8466f21cb2d041006906eb9d101fe30bdbc91/) | 1119 | 1153 | 21 |
-| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 1324 | 1929 | 253 |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 1339 | 1933 | 254 |
 | [Ubuntu](https://ws.tsl.rocks/corp/8fdcaabc9f0e38e413f3204da1d2e87e2bc5497fb1245c8f39fda2788152e527/) | 1263 | 1281 | 4 |
 | [Uchiha](https://ws.tsl.rocks/corp/84cbfdcf65b61cfbc76fd507cdad0278bd1469742b77cd098a372506d8f50dbd/) | 1103 | 1181 | 16 |
 | [uDS](https://ws.tsl.rocks/corp/c120f3bc94740ef16cf2e075afe14212a63d35c19798ef6a191623fb76d4dd0f/) | 1150 | 1160 | 6 |
@@ -1908,7 +1908,7 @@ summary: "Corporation directory"
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1186 | 1219 | 9 |
 | [最后的希望](https://ws.tsl.rocks/corp/54a563df4e0d1b99a9881bc9b6c48634cc4d03549c5604afb6f39a3f073fbd80/) | 1187 | 1195 | 3 |
 | [极夜](https://ws.tsl.rocks/corp/b797253dd3282ad1171f91b49f6665ac511467a2e7b181b8e4462ab50f46367e/) | 1180 | 1190 | 2 |
-| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1458 | 1878 | 283 |
+| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1442 | 1863 | 284 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1361 | 1485 | 35 |
 | [柯伊伯带试炼塔](https://ws.tsl.rocks/corp/dde335e4db20006ce28e1c1cf1cf3bbe510a97c5915b67cb2e31400e98291ca1/) | 1118 | 1135 | 4 |
 | [柯伊伯带远征军](https://ws.tsl.rocks/corp/32398adc922cc794e11a465894d7c05b991a9fa42402fad019eab4cdf1e6fc57/) | 1067 | 1137 | 14 |

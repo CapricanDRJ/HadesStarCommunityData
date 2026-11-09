@@ -1,6 +1,6 @@
 ---
 title: ​Os Guild
-description: W:19 L:7 D:0 Bonus ✅ 38%
+description: W:19 L:7 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 31 - 11 **Слава Украине\!**
 date: 2026-11-02T19:32:20.000Z
@@ -15,7 +15,7 @@ date: 2026-11-02T19:32:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

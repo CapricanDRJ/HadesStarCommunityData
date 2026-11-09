@@ -1,6 +1,6 @@
 ---
 title: ​莫比乌斯-星环
-description: W:37 L:27 D:1 Bonus ✅ 40%
+description: W:37 L:27 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 1 - 30 **First Legion**
 date: 2026-11-02T23:08:55.000Z
@@ -15,7 +15,7 @@ date: 2026-11-02T23:08:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
