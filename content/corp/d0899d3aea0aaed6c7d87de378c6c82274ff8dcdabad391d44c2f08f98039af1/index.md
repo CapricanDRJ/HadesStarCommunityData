@@ -1,6 +1,6 @@
 ---
 title: ​Croce del Sud
-description: W:48 L:42 D:0 Bonus ✅ 48%
+description: W:48 L:42 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 1 - 19 **Schnuppenfarm**
 date: 2026-11-03T00:22:49.000Z
@@ -18,7 +18,7 @@ date: 2026-11-03T00:22:49.000Z
 <br>
 
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Schnuppenfarm
-description: W:12 L:18 D:0 Bonus ✅ 40%
+description: W:12 L:18 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 19 - 1 **Croce del Sud**
 date: 2026-11-03T00:22:49.000Z
@@ -17,7 +17,7 @@ date: 2026-11-03T00:22:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Solar Corp
-description: W:50 L:6 D:0 Bonus ✅ 42%
+description: W:50 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 24 - 3 **Dark Monarchs**
 date: 2026-11-03T00:36:52.000Z
@@ -15,7 +15,7 @@ date: 2026-11-03T00:36:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
