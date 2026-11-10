@@ -1,6 +1,6 @@
 ---
 title: ​无人深空
-description: W:27 L:12 D:2 Bonus ✅ 38%
+description: W:27 L:12 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 8 - 0 **边域**
 date: 2026-11-03T03:38:05.000Z
@@ -15,7 +15,7 @@ date: 2026-11-03T03:38:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

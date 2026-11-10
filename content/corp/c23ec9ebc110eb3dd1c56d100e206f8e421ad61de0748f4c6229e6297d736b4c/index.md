@@ -1,6 +1,6 @@
 ---
 title: ​Dark Monarchs
-description: W:41 L:37 D:1 Bonus ✅ 40%
+description: W:41 L:37 D:1 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 25 - 18 **Death Star llc\.**
 date: 2026-11-03T00:57:52.000Z
@@ -15,7 +15,7 @@ date: 2026-11-03T00:57:52.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

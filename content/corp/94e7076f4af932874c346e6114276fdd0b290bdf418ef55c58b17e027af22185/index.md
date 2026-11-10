@@ -1,6 +1,6 @@
 ---
 title: ​Будущее
-description: W:2 L:3 D:0 Bonus ✅ 28%
+description: W:2 L:3 D:0 Bonus ❌ 28%
 image: ./favicon.png
 Summary: ✅ 20 - 5 **Stella☆Glow**
 date: 2026-11-03T03:48:06.000Z
@@ -15,7 +15,7 @@ date: 2026-11-03T03:48:06.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 28%
 
 | Statistic | Value |
 | --- | --- |
