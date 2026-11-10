@@ -1,6 +1,6 @@
 ---
 title: ​Space Catz
-description: W:22 L:7 D:2 Bonus ✅ 36%
+description: W:22 L:7 D:2 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ↔️ 6 - 6 **REAPERS**
 date: 2026-11-09T12:54:01.000Z
@@ -15,7 +15,7 @@ date: 2026-11-09T12:54:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

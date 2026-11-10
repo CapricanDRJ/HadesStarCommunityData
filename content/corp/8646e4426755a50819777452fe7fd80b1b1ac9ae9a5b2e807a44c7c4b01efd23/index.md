@@ -1,6 +1,6 @@
 ---
 title: ​第一序列
-description: W:80 L:76 D:1 Bonus ✅ 54%
+description: W:80 L:76 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 1 - 3 **Лютые**
 date: 2026-11-04T07:40:47.000Z
@@ -18,7 +18,7 @@ date: 2026-11-04T07:40:47.000Z
 <br>
 
 ### [Discord](https://discord.gg/U7S2BaueGU)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

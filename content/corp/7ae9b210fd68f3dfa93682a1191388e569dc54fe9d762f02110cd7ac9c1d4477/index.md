@@ -1,6 +1,6 @@
 ---
 title: ​Rogue One
-description: W:107 L:68 D:1 Bonus ✅ 50%
+description: W:107 L:68 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 36 - 3 **Держава Русь**
 date: 2026-11-03T12:28:52.000Z
@@ -18,7 +18,7 @@ us and Righteous Fury! ws every week,
 <br>
 
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
