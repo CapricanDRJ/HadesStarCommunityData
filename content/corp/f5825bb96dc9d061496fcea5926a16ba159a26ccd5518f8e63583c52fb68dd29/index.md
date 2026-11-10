@@ -1,6 +1,6 @@
 ---
 title: ​Red_Coat_Mafia
-description: W:74 L:69 D:4 Bonus ✅ 52%
+description: W:74 L:69 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **新?的星际集团?**
 date: 2026-11-03T16:29:20.000Z
@@ -18,7 +18,7 @@ ccount inGame to be a member. InGame space is prioritized for running
 <br>
 
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

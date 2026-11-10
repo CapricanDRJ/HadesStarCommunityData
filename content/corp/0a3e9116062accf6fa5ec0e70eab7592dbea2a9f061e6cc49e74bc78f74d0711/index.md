@@ -1,6 +1,6 @@
 ---
 title: ​Justice Vengers
-description: W:100 L:41 D:4 Bonus ✅ 48%
+description: W:100 L:41 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 35 **Stella☆Glow**
 date: 2026-11-09T13:34:04.000Z
@@ -18,7 +18,7 @@ date: 2026-11-09T13:34:04.000Z
 <br>
 
 ### [Discord](https://discord.gg/evPmv96K)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

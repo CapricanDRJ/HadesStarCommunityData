@@ -1,9 +1,9 @@
 ---
 title: ​柯伊伯带伊甸园
-description: W:26 L:9 D:0 Bonus ✅ 36%
+description: W:26 L:10 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **太阳系联邦**
-date: 2026-11-08T19:54:37.000Z
+Summary: ❌ 3 - 25 **リリース**
+date: 2026-11-10T15:46:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 2026-11-08T19:54:37.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1361 🔺  (8)|
+| ELO Regular | 1346 🔻  (-15)|
 | ELO Competitive | 1485 🔺  (8)|
-| Total Matches | 35 |
+| Total Matches | 36 |
 | Wins | 26 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 10 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793735677,1792037041,1769296178,1768522187,1768063687,1766688544,1766073204,1765545312,1754181715,1753489099,1751956041,1751322031,1750404023,1749818327,1749174669,1748572787,1744956092,1732229442,1731702673,1731697564,1731029244,1730417439,1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
+        let timestamps = [1793893565,1793735677,1792037041,1769296178,1768522187,1768063687,1766688544,1766073204,1765545312,1754181715,1753489099,1751956041,1751322031,1750404023,1749818327,1749174669,1748572787,1744956092,1732229442,1731702673,1731697564,1731029244,1730417439,1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/10 | 3-25 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2026/11/08 | 6-0 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ❌ | 2026/10/20 | 6-17 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2026/01/29 | 19-0 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
@@ -187,5 +188,5 @@ Corporation ID: 4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794167677"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794325565"></span>
 </div>

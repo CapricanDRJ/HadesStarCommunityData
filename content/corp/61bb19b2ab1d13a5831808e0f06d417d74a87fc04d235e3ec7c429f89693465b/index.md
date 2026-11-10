@@ -1,6 +1,6 @@
 ---
 title: ​Team Elite
-description: W:33 L:24 D:1 Bonus ✅ 50%
+description: W:33 L:24 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 10 - 13 **Star Wars**
 date: 2026-11-10T11:15:42.000Z
@@ -18,7 +18,7 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
