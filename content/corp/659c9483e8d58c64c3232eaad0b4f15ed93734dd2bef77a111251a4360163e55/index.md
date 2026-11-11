@@ -1,9 +1,9 @@
 ---
 title: ​Ereboros
-description: W:16 L:3 D:0 Bonus ❌ 7%
+description: W:16 L:4 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 10 - 0 **新?的星际集团?**
-date: 2026-11-03T16:29:20.000Z
+Summary: ❌ 0 - 4 **无人深空**
+date: 2026-11-10T22:56:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,16 @@ date: 2026-11-03T16:29:20.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1345 🔺  (10)|
-| ELO Competitive | 1413 🔺  (22)|
-| Total Matches | 19 |
+| ELO Regular | 1329 🔻  (-16)|
+| ELO Competitive | 1399 🔻  (-13)|
+| Total Matches | 20 |
 | Wins | 16 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 8 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793291360,1792672690,1792107148,1791472838,1790774098,1790248687,1789633765,1789043128,1788490602,1787831502,1787237236,1786702719,1786043265,1785421660,1784823508,1784201293,1783599243,1783013711,1782127402];
+        let timestamps = [1793919399,1793291360,1792672690,1792107148,1791472838,1790774098,1790248687,1789633765,1789043128,1788490602,1787831502,1787237236,1786702719,1786043265,1785421660,1784823508,1784201293,1783599243,1783013711,1782127402];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -130,12 +129,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/10 | 0-4 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/11/03 | 10-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2026/10/27 | 8-0 | [烽烟与黎明](https://ws.tsl.rocks/corp/6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96/) |
 | ❌ | 2026/10/20 | 0-10 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
@@ -162,5 +167,5 @@ Corporation ID: 659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793723360"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794351399"></span>
 </div>

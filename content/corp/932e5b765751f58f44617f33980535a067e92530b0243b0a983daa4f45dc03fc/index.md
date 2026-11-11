@@ -1,9 +1,9 @@
 ---
 title: ​无人深空
-description: W:27 L:12 D:2 Bonus ❌ 9%
+description: W:28 L:13 D:2 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **边域**
-date: 2026-11-03T03:38:05.000Z
+Summary: ❌ 0 - 8 **ༀᅗBAR ESTELARᅗༀ**
+date: 2026-11-10T23:16:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,16 @@ date: 2026-11-03T03:38:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (5)|
-| ELO Competitive | 1455 🔺  (6)|
-| Total Matches | 41 |
-| Wins | 27 |
-| Losses | 12 |
+| ELO Regular | 1329 🔻  (-14)|
+| ELO Competitive | 1468 🔺  (13)|
+| Total Matches | 43 |
+| Wins | 28 |
+| Losses | 13 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793245085,1793230666,1792771399,1792771399,1792240057,1792215722,1791722173,1791711657,1791241536,1791204283,1790769891,1790769891,1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
+        let timestamps = [1793920600,1793919399,1793245085,1793230666,1792771399,1792771399,1792240057,1792215722,1791722173,1791711657,1791241536,1791204283,1790769891,1790769891,1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) | 1 | 1 | 0 | 2 |
 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) | 2 | 1 | 0 | 3 |
 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) | 2 | 0 | 0 | 2 |
 | [新手村](https://ws.tsl.rocks/corp/cbf6b36fe961a15bd7b120461660f584478561ffc203bc4735bbbc4e2fec5b89/) | 2 | 0 | 0 | 2 |
@@ -144,6 +144,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/10 | 0-8 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
+| ✅ | 2026/11/10 | 4-0 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
 | ✅ | 2026/11/03 | 8-0 | [边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2026/11/02 | 18-3 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62/) |
 | ❌ | 2026/10/28 | 0-2 | [欢迎新手](https://ws.tsl.rocks/corp/5fcb133e23f1fc536e7a6e39d93263f8fba2f6a425cf65ae9afc1d7da4d3fc5b/) |
@@ -192,5 +194,5 @@ Corporation ID: 932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793677085"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794352600"></span>
 </div>
