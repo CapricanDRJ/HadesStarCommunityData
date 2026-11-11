@@ -1,6 +1,6 @@
 ---
 title: ​甜甜圈
-description: W:13 L:8 D:0 Bonus ✅ 34%
+description: W:13 L:8 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 4 **Солнечные Ветры**
 date: 2026-11-09T15:54:17.000Z
@@ -15,7 +15,7 @@ date: 2026-11-09T15:54:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

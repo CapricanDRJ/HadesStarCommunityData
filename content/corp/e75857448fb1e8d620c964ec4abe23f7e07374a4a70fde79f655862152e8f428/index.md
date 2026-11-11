@@ -1,6 +1,6 @@
 ---
 title: ​BlackStar Order
-description: W:174 L:138 D:2 Bonus ✅ 60%
+description: W:174 L:138 D:2 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ❌ 15 - 17 **Likapa**
 date: 2026-11-04T18:08:48.000Z
@@ -22,7 +22,7 @@ Discord: (YTaYrhy)
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

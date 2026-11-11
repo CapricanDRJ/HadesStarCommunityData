@@ -1,6 +1,6 @@
 ---
 title: ​Страж Галактики
-description: W:20 L:41 D:8 Bonus ✅ 38%
+description: W:20 L:41 D:8 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **新星帝国属－涵空阁集团**
 date: 2026-11-04T15:10:06.000Z
@@ -16,7 +16,7 @@ date: 2026-11-04T15:10:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/WRdbp8Xg)
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

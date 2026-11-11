@@ -1,6 +1,6 @@
 ---
 title: ​碧霄殿
-description: W:43 L:121 D:1 Bonus ✅ 44%
+description: W:43 L:121 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 12 **UKR Spase**
 date: 2026-11-07T10:45:21.000Z
@@ -25,7 +25,7 @@ date: 2026-11-07T10:45:21.000Z
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

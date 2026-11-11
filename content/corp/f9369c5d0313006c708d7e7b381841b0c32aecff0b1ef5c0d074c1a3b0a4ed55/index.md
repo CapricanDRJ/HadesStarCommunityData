@@ -1,6 +1,6 @@
 ---
 title: ​龙的传人
-description: W:41 L:48 D:4 Bonus ✅ 44%
+description: W:41 L:48 D:4 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ↔️ 4 - 4 **Sunat\.**
 date: 2026-11-04T14:16:31.000Z
@@ -15,7 +15,7 @@ date: 2026-11-04T14:16:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
