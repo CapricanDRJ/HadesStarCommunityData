@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:6 L:29 D:4 Bonus ✅ 32%
+description: W:6 L:30 D:4 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **КОРПОРАЦИЯ ЗЛА**
-date: 2026-11-06T13:58:51.000Z
+Summary: ❌ 0 - 10 **星际联邦**
+date: 2026-11-11T16:57:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-06T13:58:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1051 🔺  (4)|
-| ELO Competitive | 1125 🔺  (14)|
-| Total Matches | 39 |
+| ELO Regular | 1046 🔻  (-4)|
+| ELO Competitive | 1121 🔻  (-4)|
+| Total Matches | 40 |
 | Wins | 6 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 4 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793541531,1793108201,1792424805,1791992526,1791500480,1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1793984275,1793541531,1793108201,1792424805,1791992526,1791500480,1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -144,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/11 | 0-10 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
 | ✅ | 2026/11/06 | 4-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2026/11/01 | 3-0 | [starfleet](https://ws.tsl.rocks/corp/95968e2dca89c1b47ccc9ac531e63c190594fa76d8b463adb4b6faa257e9f388/) |
 | ❌ | 2026/10/24 | 0-4 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
@@ -190,5 +190,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793973531"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794416275"></span>
 </div>
