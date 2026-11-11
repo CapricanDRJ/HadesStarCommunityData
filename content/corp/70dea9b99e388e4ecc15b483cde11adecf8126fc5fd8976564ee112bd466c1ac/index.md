@@ -1,9 +1,9 @@
 ---
 title: ​U.N.S.C
-description: W:4 L:5 D:2 Bonus ❌ 
+description: W:4 L:6 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 2 - 3 **Southall 1**
-date: 2025-12-18T13:59:57.000Z
+Summary: ❌ 0 - 6 **Mondluftschiff**
+date: 2026-11-11T05:52:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-12-18T13:59:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (-17)|
-| ELO Competitive | 1200 🔻  (-17)|
-| Total Matches | 11 |
+| ELO Regular | 1167 🔻  (-16)|
+| ELO Competitive | 1185 🔻  (-15)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1765634397,1764930559,1764282294,1763759037,1763218230,1762732136,1762299755,1761849976,1761417623,1760956889,1760499598];
+        let timestamps = [1793944325,1765634397,1764930559,1764282294,1763759037,1763218230,1762732136,1762299755,1761849976,1761417623,1760956889,1760499598];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/11 | 0-6 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ❌ | 2025/12/18 | 2-3 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) |
 | ✅ | 2025/12/10 | 6-0 | [Xeno Corp](https://ws.tsl.rocks/corp/0e82707404c3308e7dba6b941bdc03c52e15071a48a3ea7fdbc2af9d6719ee24/) |
 | ❌ | 2025/12/02 | 0-11 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
@@ -153,5 +154,5 @@ Corporation ID: 70dea9b99e388e4ecc15b483cde11adecf8126fc5fd8976564ee112bd466c1ac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1766066397"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794376325"></span>
 </div>

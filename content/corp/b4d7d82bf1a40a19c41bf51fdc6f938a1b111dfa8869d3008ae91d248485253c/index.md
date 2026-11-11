@@ -1,6 +1,6 @@
 ---
 title: ​骊珠洞天
-description: W:13 L:80 D:4 Bonus ✅ 38%
+description: W:13 L:80 D:4 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 2 - 3 **落魄山**
 date: 2026-11-10T07:28:51.000Z
@@ -15,7 +15,7 @@ date: 2026-11-10T07:28:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
