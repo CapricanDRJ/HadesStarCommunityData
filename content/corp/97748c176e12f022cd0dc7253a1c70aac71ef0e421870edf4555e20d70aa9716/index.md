@@ -1,6 +1,6 @@
 ---
 title: ​Critical Mass
-description: W:82 L:37 D:2 Bonus ✅ 48%
+description: W:82 L:37 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 20 - 4 **Blood Hounds**
 date: 2026-11-04T09:00:54.000Z
@@ -15,7 +15,7 @@ date: 2026-11-04T09:00:54.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

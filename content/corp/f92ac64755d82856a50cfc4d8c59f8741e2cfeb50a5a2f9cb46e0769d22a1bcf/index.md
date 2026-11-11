@@ -1,6 +1,6 @@
 ---
 title: ​秉元握枢斡化坎离玄墟旌部
-description: W:1 L:3 D:0 Bonus ✅ 
+description: W:1 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ❌ 0 - 8 **CORE INFLICTION**
 date: 2026-11-10T14:40:02.000Z
@@ -15,7 +15,7 @@ date: 2026-11-10T14:40:02.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

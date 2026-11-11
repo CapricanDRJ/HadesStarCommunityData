@@ -1,6 +1,6 @@
 ---
 title: ​Quilliance
-description: W:54 L:11 D:0 Bonus ❌ 44%
+description: W:54 L:11 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 39 - 0 **星域**
 date: 2026-11-04T06:45:42.000Z
@@ -18,7 +18,7 @@ Discord Active • Coop DRS7-10
 <br>
 
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ❌ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
