@@ -1,6 +1,6 @@
 ---
 title: ​Akatsuki
-description: W:3 L:1 D:0 Bonus ✅ 28%
+description: W:3 L:1 D:0 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 20 - 0 **Эдем**
 date: 2026-11-04T12:41:19.000Z
@@ -15,7 +15,7 @@ date: 2026-11-04T12:41:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

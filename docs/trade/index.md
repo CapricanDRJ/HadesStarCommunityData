@@ -210,13 +210,6 @@ searchHidden: true
         
                 <tr>
                     <td>1</td>
-                    <td><img src="weapon.png" alt="weapon"></td>
-                    <td>RS9</td>
-                    <td>318%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS9</td>
                     <td>318%</td>

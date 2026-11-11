@@ -1,6 +1,6 @@
 ---
 title: ​BrazilCorp.
-description: W:93 L:60 D:1 Bonus ✅ 50%
+description: W:93 L:60 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 33 - 3 **万星联盟**
 date: 2026-11-04T12:11:15.000Z
@@ -21,7 +21,7 @@ intensas nas Estrelas Brancas.
 <br>
 
 ### [Discord](https://discord.gg/sVVAvk9RqC)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
