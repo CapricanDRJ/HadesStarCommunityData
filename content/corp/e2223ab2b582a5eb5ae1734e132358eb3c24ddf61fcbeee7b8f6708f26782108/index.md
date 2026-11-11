@@ -1,6 +1,6 @@
 ---
 title: ​Galactic Empire
-description: W:60 L:70 D:1 Bonus ✅ 44%
+description: W:60 L:70 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 26 - 0 **ParalleL**
 date: 2026-11-04T02:55:24.000Z
@@ -19,7 +19,7 @@ will be kicked! Founder: Emperor
 <br>
 
 ### [Discord](https://discord.gg/Red4yqWn3F)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
