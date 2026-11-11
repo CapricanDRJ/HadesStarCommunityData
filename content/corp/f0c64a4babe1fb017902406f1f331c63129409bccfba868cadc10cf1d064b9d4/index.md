@@ -1,6 +1,6 @@
 ---
 title: ​AFronteiraFinal
-description: W:51 L:17 D:1 Bonus ✅ 42%
+description: W:51 L:17 D:1 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 13 - 3 **ALPHA**
 date: 2026-11-04T20:29:01.000Z
@@ -18,7 +18,7 @@ a em dia. Temos grupo de Discord.
 <br>
 
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
