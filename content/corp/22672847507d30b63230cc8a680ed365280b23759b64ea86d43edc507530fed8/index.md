@@ -1,9 +1,9 @@
 ---
 title: ​UNSC
-description: W:0 L:0 D:1 Bonus ❌ 2%
+description: W:0 L:1 D:1 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Petronus7**
-date: 2026-10-29T23:16:35.000Z
+Summary: ❌ 3 - 11 **Rabid Butterfly**
+date: 2026-11-12T19:20:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-29T23:16:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (0)|
-| ELO Competitive | 1200 🔻  (0)|
-| Total Matches | 1 |
+| ELO Regular | 1187 🔻  (-13)|
+| ELO Competitive | 1188 🔻  (-11)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792883795];
+        let timestamps = [1794079204,1792883795];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/12 | 3-11 | [Rabid Butterfly](https://ws.tsl.rocks/corp/a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a/) |
 | ↔️ | 2026/10/29 | 0-0 | [Petronus7](https://ws.tsl.rocks/corp/42fba3023377f1358e181e639f4a408dc97841c8b7cf802ea1d1a29381da5702/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 22672847507d30b63230cc8a680ed365280b23759b64ea86d43edc507530fed8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793315795"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794511204"></span>
 </div>
