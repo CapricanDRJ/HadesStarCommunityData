@@ -1,6 +1,6 @@
 ---
 title: ​Lost Legion
-description: W:71 L:142 D:1 Bonus ✅ 52%
+description: W:71 L:142 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **111**
 date: 2026-11-05T17:52:18.000Z
@@ -20,7 +20,7 @@ Disc AvYQJJh9
 <br>
 
 ### [Discord](https://discord.gg/najb7MJf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

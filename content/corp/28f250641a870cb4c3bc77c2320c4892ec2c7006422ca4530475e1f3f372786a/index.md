@@ -1,6 +1,6 @@
 ---
 title: ​YU-GI-OH
-description: W:15 L:11 D:0 Bonus ✅ 36%
+description: W:15 L:11 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **神圣群星帝国**
 date: 2026-11-05T16:10:10.000Z
@@ -15,7 +15,7 @@ date: 2026-11-05T16:10:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

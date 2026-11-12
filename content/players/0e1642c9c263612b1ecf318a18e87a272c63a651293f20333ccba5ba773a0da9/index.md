@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "vivelimperium"
-description: "ws: 10 μ: 31.92"
+description: "ws: 11 μ: 30.56"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 10
-- **Rating**: 7.93
-- **μ**: 31.92  
-- **σ**: 8.00
-- W: 9, L: 1, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 11
+- **Rating**: 6.66
+- **μ**: 30.56  
+- **σ**: 7.96
+- W: 9, L: 2, T: 0
 
 ---
 
@@ -28,6 +28,7 @@ description: "ws: 10 μ: 31.92"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 9-15 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | 2026-08-29 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) | 19-3 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-06-27 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 16-3 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-01-16 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 16-3 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
