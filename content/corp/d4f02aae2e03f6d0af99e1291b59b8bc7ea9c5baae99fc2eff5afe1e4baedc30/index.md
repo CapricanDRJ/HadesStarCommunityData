@@ -1,9 +1,9 @@
 ---
 title: ​日月星辰
-description: W:13 L:38 D:0 Bonus ✅ 36%
+description: W:14 L:39 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 17 - 8 **TheSpacingGuild**
-date: 2026-11-06T17:09:08.000Z
+Summary: ❌ 6 - 15 **SILVER TERRA**
+date: 2026-11-11T22:13:19.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 2026-11-06T17:09:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔺  (20)|
-| ELO Competitive | 1234 🔺  (21)|
-| Total Matches | 51 |
-| Wins | 13 |
-| Losses | 38 |
+| ELO Regular | 1084 🔻  (-5)|
+| ELO Competitive | 1258 🔺  (24)|
+| Total Matches | 53 |
+| Wins | 14 |
+| Losses | 39 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793552948,1793547841,1793094232,1793093931,1792659554,1792572004,1791130389,1768041447,1766152219,1765638760,1765170352,1764636716,1761030283,1761019470,1760546166,1760543161,1760005916,1760003212,1759240928,1759075685,1758666469,1758606077,1758182061,1758149618,1757684805,1757684179,1757183019,1757140095,1756658463,1756621500,1756178173,1755703404,1755256567,1754801025,1754364111,1753926608,1738772789,1738235756,1737796731,1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
+        let timestamps = [1794003199,1794003199,1793552948,1793547841,1793094232,1793093931,1792659554,1792572004,1791130389,1768041447,1766152219,1765638760,1765170352,1764636716,1761030283,1761019470,1760546166,1760543161,1760005916,1760003212,1759240928,1759075685,1758666469,1758606077,1758182061,1758149618,1757684805,1757684179,1757183019,1757140095,1756658463,1756621500,1756178173,1755703404,1755256567,1754801025,1754364111,1753926608,1738772789,1738235756,1737796731,1737362219,1736923160,1736437487,1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1 | 1 | 0 | 2 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 1 | 1 | 0 | 2 |
 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 0 | 3 | 0 | 3 |
 
@@ -143,6 +144,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/11 | 6-15 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
+| ✅ | 2026/11/11 | 24-3 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2026/11/06 | 17-8 | [TheSpacingGuild](https://ws.tsl.rocks/corp/81148f4d84461a0810381baa8a5c2d755c0aeb635fa98fdc3ca775fbcc255ea7/) |
 | ❌ | 2026/11/06 | 3-15 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2026/11/01 | 3-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
@@ -201,5 +204,5 @@ Corporation ID: d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793984948"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794435199"></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: ​Soul System
-description: W:51 L:66 D:3 Bonus ✅ 46%
+description: W:51 L:66 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 17 - 6 **Space Pirates**
 date: 2026-11-05T00:34:21.000Z
@@ -18,7 +18,7 @@ ust we are born our souls woven from light. RS and WS focused.
 <br>
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

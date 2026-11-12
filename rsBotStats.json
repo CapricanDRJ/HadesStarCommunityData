@@ -206298,4 +206298,13 @@
 {"serverId":"ff3b36757ea8b5e6","user1":"47f2a3d283f41061","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794431657,"queue":1},
 {"serverId":"ff3b36757ea8b5e6","user1":"d545068c03a69e3f","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794432486,"queue":1},
 {"serverId":"ff3b36757ea8b5e6","user1":"d545068c03a69e3f","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794433538,"queue":1},
-{"serverId":"ff3b36757ea8b5e6","user1":"47f2a3d283f41061","user2":"d545068c03a69e3f","user3":"","user4":"","rsType":12.5,"timeStamp":1794433737,"queue":0}]
+{"serverId":"ff3b36757ea8b5e6","user1":"47f2a3d283f41061","user2":"d545068c03a69e3f","user3":"","user4":"","rsType":12.5,"timeStamp":1794433737,"queue":0},
+{"serverId":"b6cdd6ab8d02b45d","user1":"b770753e4c03e9a1","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1794435336,"queue":1},
+{"serverId":"b6cdd6ab8d02b45d","user1":"2f8e2c8a550031c6","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1794435352,"queue":1},
+{"serverId":"b6cdd6ab8d02b45d","user1":"b770753e4c03e9a1","user2":"2f8e2c8a550031c6","user3":"","user4":"","rsType":9.5,"timeStamp":1794435629,"queue":0},
+{"serverId":"c47e34593bd9e7f0","user1":"60b3332ac0469cfc","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794439518,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"ffc3603aa2bf8f0e","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794439534,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"abb0a1cd4ad37243","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794439599,"queue":1},
+{"serverId":"c47e34593bd9e7f0","user1":"60b3332ac0469cfc","user2":"ffc3603aa2bf8f0e","user3":"abb0a1cd4ad37243","user4":"","rsType":10.5,"timeStamp":1794439599,"queue":0},
+{"serverId":"c47e34593bd9e7f0","user1":"60b3332ac0469cfc","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794440222,"queue":1},
+{"serverId":"e8d9342910654a8e","user1":"553729351e70b351","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794444843,"queue":1}]

@@ -1,9 +1,9 @@
 ---
 title: ​imperio viltrum
-description: W:13 L:12 D:3 Bonus ❌ 7%
+description: W:14 L:12 D:3 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 7 - 3 **何为真理**
-date: 2026-10-24T13:29:19.000Z
+Summary: ✅ 9 - 2 **宇宙聯盟**
+date: 2026-11-12T00:18:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-10-24T13:29:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (18)|
-| ELO Competitive | 1345 🔺  (19)|
-| Total Matches | 28 |
-| Wins | 13 |
+| ELO Regular | 1245 🔺  (15)|
+| ELO Competitive | 1358 🔺  (13)|
+| Total Matches | 29 |
+| Wins | 14 |
 | Losses | 12 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792416559,1791359287,1789805665,1789788168,1788596624,1788577725,1788096188,1787672871,1787578828,1787040447,1787028432,1786509852,1786506845,1786008113,1785988289,1785509387,1785475440,1784990835,1784952082,1784446761,1784365641,1783868727,1783570706,1783422292,1782866807,1782785387,1782107875,1781663201];
+        let timestamps = [1794010708,1792416559,1791359287,1789805665,1789788168,1788596624,1788577725,1788096188,1787672871,1787578828,1787040447,1787028432,1786509852,1786506845,1786008113,1785988289,1785509387,1785475440,1784990835,1784952082,1784446761,1784365641,1783868727,1783570706,1783422292,1782866807,1782785387,1782107875,1781663201];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/12 | 9-2 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ✅ | 2026/10/24 | 7-3 | [何为真理](https://ws.tsl.rocks/corp/862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507/) |
 | ❌ | 2026/10/12 | 0-24 | [Brethren Court](https://ws.tsl.rocks/corp/58ce9bed114bde298d77f20adf5584e22292e24f89dd59298051b01d66212ad4/) |
 | ❌ | 2026/09/24 | 0-13 | [聚集地](https://ws.tsl.rocks/corp/a431d861cc482b6d8a14ad232be53d1c5acccfa568e817670a7275aa0f0bad54/) |
@@ -176,5 +178,5 @@ Corporation ID: 1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792848559"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794442708"></span>
 </div>
