@@ -1,6 +1,6 @@
 ---
 title: ​Новый Мир
-description: W:49 L:28 D:1 Bonus ✅ 44%
+description: W:49 L:28 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 30 **星域**
 date: 2026-11-10T13:30:53.000Z
@@ -15,7 +15,7 @@ date: 2026-11-10T13:30:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

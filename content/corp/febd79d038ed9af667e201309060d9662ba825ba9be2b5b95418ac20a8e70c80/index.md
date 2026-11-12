@@ -1,6 +1,6 @@
 ---
 title: ​Ark
-description: W:73 L:47 D:2 Bonus ✅ 48%
+description: W:73 L:47 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 47 **地球联合**
 date: 2026-11-11T09:12:18.000Z
@@ -21,7 +21,7 @@ Discord ist erwünscht, aber keine Pflicht.
 <br>
 
 ### [Discord](https://discord.gg/kPuseCu4RE)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
