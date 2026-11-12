@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "raven_nn"
-description: "ws: 89 μ: 31.70"
+description: "ws: 90 μ: 31.91"
 ---
-- **WhiteStars**: 89
-- **Eligible**: 72
-- **Rating**: 11.28
-- **μ**: 31.70  
-- **σ**: 6.81
-- W: 73, L: 16, T: 0
+- **WhiteStars**: 90
+- **Eligible**: 73
+- **Rating**: 11.53
+- **μ**: 31.91  
+- **σ**: 6.80
+- W: 74, L: 16, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 89 μ: 31.70"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 72 |
+| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 73 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 89 μ: 31.70"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-12 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 11-2 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | 2026-11-06 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 9-3 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | 2026-11-01 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 14-4 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | 2026-10-26 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 11-24 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

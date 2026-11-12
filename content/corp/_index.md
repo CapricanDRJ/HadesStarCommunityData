@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-12T06:55:40.315Z
+date: 2026-11-12T09:55:40.145Z
 summary: "Corporation directory"
 ---
 
@@ -743,7 +743,7 @@ summary: "Corporation directory"
 | [New Orbit ©](https://ws.tsl.rocks/corp/158a33fb6417b876a2c91e1274223bf6e35548abc4a68e5adc81776c3ed7eafa/) | 1234 | 1255 | 5 |
 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908/) | 1238 | 1272 | 11 |
 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) | 1540 | 1690 | 103 |
-| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1469 | 1832 | 174 |
+| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1480 | 1842 | 175 |
 | [NewEmpire](https://ws.tsl.rocks/corp/6315a6939f23618f7d243b2fa0a6fd68cc4764424c14f62d26aafff6ff1724f0/) | 1194 | 1199 | 1 |
 | [NewEmpire](https://ws.tsl.rocks/corp/d3d1fce1149476423a039710177c41d78b73d98af039c18424dac9ba53ed7cf1/) | 1196 | 1200 | 1 |
 | [NewGen](https://ws.tsl.rocks/corp/f4567dc5a68e4fcb7bb5687f53ea95360356319f6f9cfd2a129e5276b3bce6fb/) | 1193 | 1197 | 1 |
@@ -1597,7 +1597,7 @@ summary: "Corporation directory"
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 1163 | 1609 | 225 |
 | [Омикрон Альфа](https://ws.tsl.rocks/corp/846ea10029302e3055a59da0b2754bd5ed8a6e3ac7d5fea612255e02034bf544/) | 1207 | 1214 | 2 |
 | [Пабеда](https://ws.tsl.rocks/corp/5f29a5087f1cb6c175a54d845b2f3fd65828af71346fc945c5f69520410a6494/) | 1185 | 1186 | 4 |
-| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 1380 | 1707 | 145 |
+| [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 1368 | 1697 | 146 |
 | [Призрачный Путь](https://ws.tsl.rocks/corp/c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528/) | 1269 | 1280 | 19 |
 | [РARADISЕ](https://ws.tsl.rocks/corp/03c58fc5ec06999aae229fdff322b3b4e29ed65d445af279f69068d3f7180287/) | 1424 | 1628 | 80 |
 | [РАССВЕТ](https://ws.tsl.rocks/corp/06cdb871ca71e2e4e335f97444581f61b410d3cf6b6d9e70c596141c33725347/) | 1189 | 1199 | 1 |
@@ -1636,7 +1636,7 @@ summary: "Corporation directory"
 | [Солярис Рус](https://ws.tsl.rocks/corp/53c9a1a8499380eaf4082161ea9ef9bd7dda1c711f76153ea033738d1a663997/) | 1150 | 1157 | 5 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 1209 | 1333 | 59 |
 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) | 1153 | 1156 | 4 |
-| [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) | 1122 | 1152 | 69 |
+| [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) | 1126 | 1164 | 70 |
 | [Т Е Н Ь](https://ws.tsl.rocks/corp/5f4b3004ce7e14488b409e8036d0f0b04b41aa63e245cb8e9f238b53780c5741/) | 1260 | 1364 | 22 |
 | [ТРУЛЯЛЯ](https://ws.tsl.rocks/corp/92466bf92d54290daae355c6e026bcd6c405a675ee5ce6bc1d146f9ad74d2341/) | 1162 | 1166 | 2 |
 | [Тартария](https://ws.tsl.rocks/corp/fd6366ca6eb6845a94559e3ce702b79f718a80a7c32022540ab3661b552e9416/) | 1178 | 1177 | 2 |
@@ -2067,7 +2067,7 @@ summary: "Corporation directory"
 | [黑星指令](https://ws.tsl.rocks/corp/8a7ecb0dc6afb9154722708bc6a62b62d17c2621b7ded7614bb00e6db72b15c7/) | 1187 | 1188 | 1 |
 | [黑色长城](https://ws.tsl.rocks/corp/8494a7ecc96c5cc06e4d9c7824f2c0cf9fde23e2878b0305b618382fb4068005/) | 1076 | 1111 | 18 |
 | [龙族之家](https://ws.tsl.rocks/corp/4951f6e13d787e8798ea15bd6893c755a561a89e7946c6b35edcc00353af5e60/) | 1091 | 1146 | 56 |
-| [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) | 1233 | 1515 | 94 |
+| [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) | 1228 | 1515 | 95 |
 | [龙的传人分团](https://ws.tsl.rocks/corp/fece9fd0a3d132703f79a07d06b758e02f808f5ca3c915b0874253d307021adc/) | 1156 | 1233 | 44 |
 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) | 1081 | 1231 | 31 |
 | [꧁ Indonesia ꧂](https://ws.tsl.rocks/corp/abaa93a1099b1b42c72cb95ef7970f14e2c1028844d6dbd196127671b9669c07/) | 1184 | 1186 | 2 |

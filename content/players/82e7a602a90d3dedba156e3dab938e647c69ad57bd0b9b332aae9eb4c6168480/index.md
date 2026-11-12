@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Victor"
-description: "ws: 1 μ: 26.64"
+description: "ws: 2 μ: 25.18"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: 1.70
-- **μ**: 26.64  
-- **σ**: 8.31
-- W: 1, L: 0, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: 0.31
+- **μ**: 25.18  
+- **σ**: 8.29
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 1 μ: 26.64"
 | Corporation | WhiteStars |
 | --- | --- |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 1 |
+| [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 1 |
 
 ---
 
@@ -24,4 +25,5 @@ description: "ws: 1 μ: 26.64"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 2-11 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-03-22 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 11-7 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

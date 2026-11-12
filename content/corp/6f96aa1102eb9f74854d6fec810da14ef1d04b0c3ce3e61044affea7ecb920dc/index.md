@@ -1,6 +1,6 @@
 ---
 title: ​северный шторм
-description: W:111 L:85 D:1 Bonus ✅ 52%
+description: W:111 L:85 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 27 - 3 **Jesus Followers**
 date: 2026-11-05T07:49:55.000Z
@@ -16,7 +16,7 @@ date: 2026-11-05T07:49:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

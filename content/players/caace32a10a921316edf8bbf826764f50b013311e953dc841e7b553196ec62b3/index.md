@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "angron85"
-description: "ws: 82 μ: 30.85"
+description: "ws: 83 μ: 31.06"
 ---
-- **WhiteStars**: 82
-- **Eligible**: 69
-- **Rating**: 10.30
-- **μ**: 30.85  
-- **σ**: 6.85
-- W: 67, L: 15, T: 0
+- **WhiteStars**: 83
+- **Eligible**: 70
+- **Rating**: 10.54
+- **μ**: 31.06  
+- **σ**: 6.84
+- W: 68, L: 15, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 82 μ: 30.85"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 69 |
+| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 70 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 82 μ: 30.85"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-12 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 11-2 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | 2026-11-06 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 9-3 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | 2026-11-01 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 23-3 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 | 2026-10-26 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 11-24 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
