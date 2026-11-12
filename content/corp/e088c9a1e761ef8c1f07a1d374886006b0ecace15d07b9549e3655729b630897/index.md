@@ -1,6 +1,6 @@
 ---
 title: ​Germania
-description: W:32 L:87 D:4 Bonus ✅ 40%
+description: W:32 L:87 D:4 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 5 - 1 **Knights of Solo**
 date: 2026-11-05T03:16:16.000Z
@@ -19,7 +19,7 @@ ht so ernst nehmen.
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​奇点教会
-description: W:21 L:14 D:4 Bonus ❌ 8%
+description: W:21 L:15 D:4 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 6 - 9 **New YuGiOh**
-date: 2026-11-06T10:04:41.000Z
+Summary: ❌ 0 - 15 **The Allegiant**
+date: 2026-11-12T03:38:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-06T10:04:41.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔻  (-6)|
-| ELO Competitive | 1389 🔻  (-5)|
-| Total Matches | 39 |
+| ELO Regular | 1279 🔻  (-20)|
+| ELO Competitive | 1376 🔻  (-13)|
+| Total Matches | 40 |
 | Wins | 21 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793527481,1792822053,1792121691,1791195789,1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
+        let timestamps = [1794022722,1793527481,1792822053,1792121691,1791195789,1790739854,1790228563,1789788168,1789188842,1788707835,1787925541,1786790756,1786358723,1785925796,1785461923,1785029595,1784577760,1784107562,1783659333,1783139286,1782635170,1781776163,1781341559,1780635629,1780162686,1779538126,1778931920,1778302485,1777531276,1777087504,1776488132,1775894780,1775231849,1774673776,1774062371,1773487171,1772636326,1772160625,1771728314,1771287284];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/12 | 0-15 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2026/11/06 | 6-9 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2026/10/29 | 4-17 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ✅ | 2026/10/21 | 9-3 | [Akatsuki](https://ws.tsl.rocks/corp/0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939/) |
@@ -188,5 +189,5 @@ Corporation ID: f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793959481"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794454722"></span>
 </div>
