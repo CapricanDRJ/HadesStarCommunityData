@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Value"
-description: "ws: 1 μ: 25.52"
+description: "ws: 2 μ: 25.52"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: 0.61
 - **μ**: 25.52  
 - **σ**: 8.30
-- W: 1, L: 0, T: 0
+- W: 2, L: 0, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 25.52"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 18-0 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2025-12-01 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 27-5 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

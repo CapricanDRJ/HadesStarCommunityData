@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Asriel"
-description: "ws: 1 μ: 24.20"
+description: "ws: 2 μ: 24.20"
 ---
-- **WhiteStars**: 1
+- **WhiteStars**: 2
 - **Eligible**: 1
 - **Rating**: -0.68
 - **μ**: 24.20  
 - **σ**: 8.29
-- W: 0, L: 1, T: 0
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 24.20"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 18-0 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | 2026-02-21 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 22-23 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
