@@ -1,6 +1,6 @@
 ---
 title: ​Imperium XIII
-description: W:107 L:69 D:1 Bonus ✅ 52%
+description: W:107 L:69 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 54 - 0 **11th Engineers**
 date: 2026-11-06T13:38:49.000Z
@@ -21,7 +21,7 @@ Discord is required.
 <br>
 
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

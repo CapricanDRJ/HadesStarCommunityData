@@ -1,6 +1,6 @@
 ---
 title: ​宇宙聯盟
-description: W:10 L:8 D:2 Bonus ✅ 32%
+description: W:10 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 2 - 9 **imperio viltrum**
 date: 2026-11-12T00:18:28.000Z
@@ -15,7 +15,7 @@ date: 2026-11-12T00:18:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

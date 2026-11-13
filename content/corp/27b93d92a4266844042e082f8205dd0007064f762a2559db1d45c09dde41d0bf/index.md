@@ -1,6 +1,6 @@
 ---
 title: ​共联·世界
-description: W:43 L:41 D:3 Bonus ✅ 40%
+description: W:43 L:41 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **九州分团**
 date: 2026-11-12T09:47:09.000Z
@@ -15,7 +15,7 @@ date: 2026-11-12T09:47:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

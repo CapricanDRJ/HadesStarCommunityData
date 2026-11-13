@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-13T12:55:41.507Z
+date: 2026-11-13T15:55:41.764Z
 summary: "Corporation directory"
 ---
 
@@ -235,7 +235,7 @@ summary: "Corporation directory"
 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) | 1133 | 1321 | 94 |
 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) | 1018 | 1105 | 48 |
 | [Cristal Blanco](https://ws.tsl.rocks/corp/6f536af11245f9c72fa44c156d442ec0bd7892cf129d222b1b8f2c35c474a209/) | 1193 | 1197 | 1 |
-| [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 1514 | 1814 | 122 |
+| [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 1517 | 1814 | 123 |
 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) | 1223 | 1635 | 90 |
 | [Cronos World](https://ws.tsl.rocks/corp/7f880fc0563988a97be90bd48b099c7ca69294c9f0122eca543984c8022f8b3e/) | 1171 | 1171 | 2 |
 | [Crucible](https://ws.tsl.rocks/corp/778178a7255ba7f4c8e2fdeb41fb777fb90ecf6e84a3ba79431f055f869521c6/) | 1361 | 1482 | 34 |
@@ -351,7 +351,7 @@ summary: "Corporation directory"
 | [Elite2\.0](https://ws.tsl.rocks/corp/7a039367a683ac04f22e6292d73d5bf2088245f47c411e6a7befd45a11740637/) | 1168 | 1183 | 5 |
 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 1523 | 1786 | 145 |
 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) | 1319 | 1385 | 42 |
-| [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 1617 | 1724 | 66 |
+| [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 1617 | 1733 | 67 |
 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) | 1153 | 1162 | 9 |
 | [EMPIRE](https://ws.tsl.rocks/corp/6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2/) | 1238 | 1243 | 3 |
 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) | 1368 | 1683 | 148 |
@@ -584,7 +584,7 @@ summary: "Corporation directory"
 | [ITA 2\.0](https://ws.tsl.rocks/corp/4df750932663f0d0c51d8493908ca5cfcee13776b7c6644fa47ecda51fd0fb3f/) | 1240 | 1242 | 7 |
 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) | 1221 | 1360 | 64 |
 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) | 1652 | 1895 | 109 |
-| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1015 | 1555 | 242 |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1014 | 1546 | 243 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 1284 | 1328 | 34 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1783 | 2309 | 306 |
 | [Jaggernaut](https://ws.tsl.rocks/corp/6df1b7221151e5585ba4650f2d37794b98704938eb9c17218e076473ed570c36/) | 1191 | 1197 | 1 |
@@ -1276,7 +1276,7 @@ summary: "Corporation directory"
 | [The Visionaries](https://ws.tsl.rocks/corp/fdf81736e2eabec3cd1e7412c8f9bd49a9e0f48418b7e8a8b6131a4538d62b93/) | 1196 | 1196 | 1 |
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 1177 | 1279 | 31 |
 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 1007 | 1145 | 74 |
-| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 1087 | 1304 | 160 |
+| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 1085 | 1302 | 161 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1468 | 1897 | 327 |
 | [TheDuckeanFlow](https://ws.tsl.rocks/corp/bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1/) | 1188 | 1206 | 11 |
 | [TheMirrorCorp](https://ws.tsl.rocks/corp/0b6b1efcf003501d33f511ebe6efc06ea16fbdd8a8c51da8b3c79a2be25bb5fd/) | 1184 | 1190 | 2 |

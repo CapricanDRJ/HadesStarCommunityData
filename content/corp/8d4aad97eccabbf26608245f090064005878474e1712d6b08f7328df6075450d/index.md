@@ -1,6 +1,6 @@
 ---
 title: ​Серебряная орда
-description: W:145 L:136 D:4 Bonus ✅ 52%
+description: W:145 L:136 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 21 **Terran empire**
 date: 2026-11-06T16:27:30.000Z
@@ -18,7 +18,7 @@ r="green">Русский, English
 <br>
 
 ### [Discord](https://discord.gg/p6rrFevJbJ)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​GermanSpaceDuo
-description: W:6 L:30 D:4 Bonus ✅ 32%
+description: W:6 L:30 D:4 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 10 **星际联邦**
 date: 2026-11-11T16:57:55.000Z
@@ -15,7 +15,7 @@ date: 2026-11-11T16:57:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
