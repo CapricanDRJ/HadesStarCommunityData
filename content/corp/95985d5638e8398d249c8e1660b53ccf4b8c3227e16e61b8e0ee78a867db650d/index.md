@@ -1,6 +1,6 @@
 ---
 title: ​太阳系星盟
-description: W:8 L:6 D:1 Bonus ✅ 32%
+description: W:8 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 2 - 6 **九州·华夏**
 date: 2026-11-12T13:54:33.000Z
@@ -15,7 +15,7 @@ date: 2026-11-12T13:54:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
