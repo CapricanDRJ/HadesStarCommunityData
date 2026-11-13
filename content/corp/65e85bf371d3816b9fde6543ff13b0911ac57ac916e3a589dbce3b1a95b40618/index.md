@@ -1,6 +1,6 @@
 ---
 title: ​Keltiad
-description: W:2 L:1 D:1 Bonus ✅ 28%
+description: W:2 L:1 D:1 Bonus ❌ 4%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **Imperial Navy**
 date: 2026-11-06T07:23:17.000Z
@@ -15,7 +15,7 @@ date: 2026-11-06T07:23:17.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |

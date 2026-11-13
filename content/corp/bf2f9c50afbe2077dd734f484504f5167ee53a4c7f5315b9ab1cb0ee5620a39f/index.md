@@ -1,6 +1,6 @@
 ---
 title: ​Nebulae Traders
-description: W:54 L:111 D:6 Bonus ✅ 46%
+description: W:54 L:111 D:6 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 7 - 4 **Тихий Омут**
 date: 2026-11-06T07:28:17.000Z
@@ -16,7 +16,7 @@ date: 2026-11-06T07:28:17.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
