@@ -1,9 +1,9 @@
 ---
 title: ​Space Potatoes
-description: W:30 L:3 D:0 Bonus ❌ 9%
+description: W:31 L:3 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 7 - 2 **63SALVADORES36**
-date: 2026-11-02T22:02:37.000Z
+Summary: ✅ 22 - 6 **Empire of Hades**
+date: 2026-11-13T20:37:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 2026-11-02T22:02:37.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1481 🔺  (6)|
-| ELO Competitive | 1639 🔺  (11)|
-| Total Matches | 33 |
-| Wins | 30 |
+| ELO Regular | 1491 🔺  (10)|
+| ELO Competitive | 1656 🔺  (17)|
+| Total Matches | 34 |
+| Wins | 31 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 8 |
+| Streak | 9 |
 | Streak Record | 14 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793224957,1792435923,1791702945,1790923407,1790007462,1789303618,1788380039,1787779532,1787343287,1786572338,1785868720,1785102299,1784497847,1783717013,1783032042,1781871703,1781219755,1780746880,1780015670,1779398811,1778784693,1778211147,1777588362,1776818615,1776194918,1775674559,1774894016,1774297028,1773781164,1773078441,1772502847,1772070497,1771534545];
+        let timestamps = [1794170232,1793224957,1792435923,1791702945,1790923407,1790007462,1789303618,1788380039,1787779532,1787343287,1786572338,1785868720,1785102299,1784497847,1783717013,1783032042,1781871703,1781219755,1780746880,1780015670,1779398811,1778784693,1778211147,1777588362,1776818615,1776194918,1775674559,1774894016,1774297028,1773781164,1773078441,1772502847,1772070497,1771534545];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/13 | 22-6 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2026/11/02 | 7-2 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2026/10/24 | 16-6 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ✅ | 2026/10/16 | 26-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
@@ -182,5 +183,5 @@ Corporation ID: 8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793656957"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794602232"></span>
 </div>

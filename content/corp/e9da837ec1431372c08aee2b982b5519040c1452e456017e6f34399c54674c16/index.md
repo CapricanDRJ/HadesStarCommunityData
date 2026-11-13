@@ -1,9 +1,9 @@
 ---
 title: ​Void Dominion
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:3 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 22 **HIGH COMMAND**
-date: 2026-11-07T16:10:48.000Z
+Summary: ❌ 0 - 3 **Ahamkara**
+date: 2026-11-13T20:03:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-07T16:10:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (-6)|
-| ELO Competitive | 1197 🔻  (-1)|
-| Total Matches | 2 |
+| ELO Regular | 1168 🔻  (-16)|
+| ELO Competitive | 1181 🔻  (-16)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793635848,1793184079];
+        let timestamps = [1794168221,1793635848,1793184079];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/13 | 0-3 | [Ahamkara](https://ws.tsl.rocks/corp/33ddc1c3cba50fc92a3d29f65101d92d6967303e9c9acf6ff07064801bbecab8/) |
 | ❌ | 2026/11/07 | 0-22 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) |
 | ❌ | 2026/11/02 | 0-26 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 
@@ -143,5 +144,5 @@ Corporation ID: e9da837ec1431372c08aee2b982b5519040c1452e456017e6f34399c54674c16
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794067848"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794600221"></span>
 </div>

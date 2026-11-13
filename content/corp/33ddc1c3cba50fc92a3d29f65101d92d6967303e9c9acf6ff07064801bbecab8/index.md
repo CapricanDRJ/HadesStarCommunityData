@@ -1,9 +1,9 @@
 ---
 title: ​Ahamkara
-description: W:0 L:4 D:0 Bonus ❌ 11%
+description: W:1 L:4 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ❌ 0 - 34 **地球联合**
-date: 2026-11-06T05:28:09.000Z
+Summary: ✅ 3 - 0 **Void Dominion**
+date: 2026-11-13T20:03:41.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ Discord Required - R8nzDPk
 ```
 <br>
 
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 42%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (-8)|
-| ELO Competitive | 1173 🔻  (-3)|
-| Total Matches | 4 |
-| Wins | 0 |
+| ELO Regular | 1169 🔺  (16)|
+| ELO Competitive | 1189 🔺  (16)|
+| Total Matches | 5 |
+| Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
 | Flagship | 10 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793510889,1792964193,1740774745,1700639146];
+        let timestamps = [1794168221,1793510889,1792964193,1740774745,1700639146];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/13 | 3-0 | [Void Dominion](https://ws.tsl.rocks/corp/e9da837ec1431372c08aee2b982b5519040c1452e456017e6f34399c54674c16/) |
 | ❌ | 2026/11/06 | 0-34 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ❌ | 2026/10/30 | 0-7 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2025/03/05 | 14-23 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
@@ -152,5 +153,5 @@ Corporation ID: 33ddc1c3cba50fc92a3d29f65101d92d6967303e9c9acf6ff07064801bbecab8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793942889"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794600221"></span>
 </div>
