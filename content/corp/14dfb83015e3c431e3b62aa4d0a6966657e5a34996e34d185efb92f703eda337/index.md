@@ -1,6 +1,6 @@
 ---
 title: ​New YuGiOh
-description: W:83 L:17 D:3 Bonus ✅ 48%
+description: W:83 L:17 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 9 - 6 **奇点教会**
 date: 2026-11-06T10:04:41.000Z
@@ -15,7 +15,7 @@ date: 2026-11-06T10:04:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

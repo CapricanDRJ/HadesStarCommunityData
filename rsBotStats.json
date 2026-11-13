@@ -206386,4 +206386,12 @@
 {"serverId":"55d9ca79abea123f","user1":"2e01e112dc9cd456","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1794560007,"queue":1},
 {"serverId":"ff3b36757ea8b5e6","user1":"b9af143b08f2313a","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794560496,"queue":1},
 {"serverId":"b9100218a46059b0","user1":"e4e545b390781a08","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794562564,"queue":1},
-{"serverId":"ff3b36757ea8b5e6","user1":"b9af143b08f2313a","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794563203,"queue":1}]
+{"serverId":"ff3b36757ea8b5e6","user1":"b9af143b08f2313a","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794563203,"queue":1},
+{"serverId":"b9100218a46059b0","user1":"5868c2bd3e7b1f63","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794563926,"queue":1},
+{"serverId":"9701b435ddb9843b","user1":"83a4ad62150fb421","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1794565065,"queue":1},
+{"serverId":"ff3b36757ea8b5e6","user1":"cd589696fbebfae6","user2":"","user3":"","user4":"","rsType":12.5,"timeStamp":1794565602,"queue":1},
+{"serverId":"b9100218a46059b0","user1":"e4e545b390781a08","user2":"5868c2bd3e7b1f63","user3":"","user4":"","rsType":11.5,"timeStamp":1794565751,"queue":0},
+{"serverId":"b9100218a46059b0","user1":"5868c2bd3e7b1f63","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794565778,"queue":1},
+{"serverId":"b9100218a46059b0","user1":"e4e545b390781a08","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1794565793,"queue":1},
+{"serverId":"55d9ca79abea123f","user1":"84faf01f9c3a02c4","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1794570480,"queue":1},
+{"serverId":"b9100218a46059b0","user1":"2f7233771c2be5c5","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1794574501,"queue":1}]
