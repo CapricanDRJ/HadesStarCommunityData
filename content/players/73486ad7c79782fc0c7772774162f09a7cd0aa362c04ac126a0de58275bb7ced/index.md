@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "怀容"
-description: "ws: 5 μ: 23.87"
+description: "ws: 6 μ: 23.55"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 3
-- **Rating**: -0.80
-- **μ**: 23.87  
-- **σ**: 8.22
-- W: 2, L: 3, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 4
+- **Rating**: -1.02
+- **μ**: 23.55  
+- **σ**: 8.19
+- W: 2, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 23.87"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 3 |
+| [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 23.87"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 3-23 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-09-20 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 4-24 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-03-04 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 0-18 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-01-25 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 0-29 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

@@ -1,9 +1,9 @@
 ---
 title: ​Austria
-description: W:37 L:28 D:1 Bonus ✅ 52%
+description: W:37 L:29 D:1 Bonus ❌ 16%
 image: ./favicon.png
-Summary: ❌ 4 - 17 **UKR Spase**
-date: 2026-11-07T09:25:16.000Z
+Summary: ❌ 5 - 25 **СССР**
+date: 2026-11-14T07:37:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,15 +22,15 @@ UmWZYtn9Hh
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔻  (-16)|
-| ELO Competitive | 1631 🔺  (17)|
-| Total Matches | 66 |
+| ELO Regular | 1327 🔻  (-8)|
+| ELO Competitive | 1630 🔻  (-2)|
+| Total Matches | 67 |
 | Wins | 37 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 1 |
 | Streak Record | 11 |
 | Flagship | 7 |
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793611516,1793604608,1793081014,1793078611,1792405274,1792395664,1791867562,1791788860,1791187161,1791182956,1790671662,1790663553,1789997847,1789973515,1789374825,1789370921,1788776029,1788772123,1788243097,1788243097,1787554793,1787554793,1786960830,1786958427,1786362329,1786343703,1785818550,1785818549,1785140747,1784538397,1784534493,1783930912,1783924003,1783403068,1783402468,1782727097,1782715682,1782112982,1782109978,1781582982,1781507567,1780990221,1780986917,1780300770,1780298968,1779699278,1779690865,1779110363,1779089030,1778568688,1778566585,1777883980,1777271396,1776331607,1776142641,1775457329,1774769624,1773724677,1772446063,1771307708,1769422967,1768512573,1701034685,1700430580,1699826714,1699137877];
+        let timestamps = [1794209874,1793611516,1793604608,1793081014,1793078611,1792405274,1792395664,1791867562,1791788860,1791187161,1791182956,1790671662,1790663553,1789997847,1789973515,1789374825,1789370921,1788776029,1788772123,1788243097,1788243097,1787554793,1787554793,1786960830,1786958427,1786362329,1786343703,1785818550,1785818549,1785140747,1784538397,1784534493,1783930912,1783924003,1783403068,1783402468,1782727097,1782715682,1782112982,1782109978,1781582982,1781507567,1780990221,1780986917,1780300770,1780298968,1779699278,1779690865,1779110363,1779089030,1778568688,1778566585,1777883980,1777271396,1776331607,1776142641,1775457329,1774769624,1773724677,1772446063,1771307708,1769422967,1768512573,1701034685,1700430580,1699826714,1699137877];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 2 | 0 | 2 |
 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) | 2 | 0 | 0 | 2 |
 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) | 2 | 0 | 0 | 2 |
 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 0 | 2 | 0 | 2 |
@@ -152,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/14 | 5-25 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2026/11/07 | 4-17 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ✅ | 2026/11/07 | 10-5 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ❌ | 2026/11/01 | 3-28 | [Milliways](https://ws.tsl.rocks/corp/e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f/) |
@@ -225,5 +227,5 @@ Corporation ID: 96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794043516"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794641874"></span>
 </div>
