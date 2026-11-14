@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:7 L:13 D:3 Bonus ✅ 32%
+description: W:8 L:13 D:3 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 27 - 0 **DeepSeek**
-date: 2026-11-09T08:03:39.000Z
+Summary: ✅ 27 - 0 **Закулисье**
+date: 2026-11-14T10:13:04.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-09T08:03:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (8)|
-| ELO Competitive | 1277 🔺  (13)|
-| Total Matches | 23 |
-| Wins | 7 |
+| ELO Regular | 1173 🔺  (22)|
+| ELO Competitive | 1298 🔺  (21)|
+| Total Matches | 24 |
+| Wins | 8 |
 | Losses | 13 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793779419,1793303384,1792848497,1792408879,1792321466,1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1794219184,1793779419,1793303384,1792848497,1792408879,1792321466,1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/14 | 27-0 | [Закулисье](https://ws.tsl.rocks/corp/6b6320075ef24f567188c00a140553a525899f5558e6ab6767c88c37e6186437/) |
 | ✅ | 2026/11/09 | 27-0 | [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484/) |
 | ❌ | 2026/11/03 | 11-13 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ❌ | 2026/10/29 | 6-18 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
@@ -170,5 +172,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794211419"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794651184"></span>
 </div>

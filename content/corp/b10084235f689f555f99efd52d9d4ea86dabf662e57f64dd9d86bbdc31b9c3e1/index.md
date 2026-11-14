@@ -1,6 +1,6 @@
 ---
 title: ​Hexwood
-description: W:31 L:14 D:0 Bonus ✅ 42%
+description: W:31 L:14 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 32 - 0 **Ironbear Legion**
 date: 2026-11-07T12:30:29.000Z
@@ -20,7 +20,7 @@ A social, easygoing Corp with allies to join together with for Red or
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

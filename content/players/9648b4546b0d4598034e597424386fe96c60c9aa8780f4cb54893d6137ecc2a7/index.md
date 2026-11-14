@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Hunter"
-description: "ws: 3 μ: 24.32"
+description: "ws: 4 μ: 23.44"
 ---
-- **WhiteStars**: 3
-- **Eligible**: 2
-- **Rating**: -0.52
-- **μ**: 24.32  
-- **σ**: 8.28
-- W: 0, L: 3, T: 0
+- **WhiteStars**: 4
+- **Eligible**: 3
+- **Rating**: -1.27
+- **μ**: 23.44  
+- **σ**: 8.24
+- W: 0, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 3 μ: 24.32"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 2 |
+| [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 3 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 3 μ: 24.32"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 5-25 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-11-07 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 4-17 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | 2026-10-10 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 1-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-09-26 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) | 5-28 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
