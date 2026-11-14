@@ -1,6 +1,6 @@
 ---
 title: ​Stargate Corp
-description: W:199 L:78 D:1 Bonus ❌ 60%
+description: W:199 L:78 D:1 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ✅ 11 - 4 **RELAX CZ/SK**
 date: 2026-11-07T12:55:31.000Z
@@ -18,7 +18,7 @@ ter guesting RS runs<br><br>Discord mandatory to join!
 <br>
 
 ### [Discord](https://discord.gg/sXxSq4KUmm)
-### Whitestar Bonus ❌ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |

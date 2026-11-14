@@ -1,6 +1,6 @@
 ---
 title: ​DarkMoon
-description: W:111 L:23 D:4 Bonus ✅ 52%
+description: W:111 L:23 D:4 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 6 - 9 **九州·白星**
 date: 2026-11-07T13:44:41.000Z
@@ -17,7 +17,7 @@ date: 2026-11-07T13:44:41.000Z
 <br>
 
 ### [Discord](https://discord.gg/Vaf5WV2QQs)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

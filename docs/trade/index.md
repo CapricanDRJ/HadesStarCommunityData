@@ -226,13 +226,6 @@ searchHidden: true
                 </tr>
             
                 <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>260%</td>
-                </tr>
-            
-                <tr>
                     <td>40</td>
                     <td><img src="default.png" alt="default"></td>
                     <td>RS9</td>

@@ -1,6 +1,6 @@
 ---
 title: ​Tuatha De Danan
-description: W:139 L:33 D:0 Bonus ✅ 52%
+description: W:139 L:33 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 16 - 8 **Omega Alpha**
 date: 2026-11-07T13:50:36.000Z
@@ -17,7 +17,7 @@ rk Red Stars. (First Language: English)
 <br>
 
 ### [Discord](https://discord.gg/zeDuYzkCzk)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
