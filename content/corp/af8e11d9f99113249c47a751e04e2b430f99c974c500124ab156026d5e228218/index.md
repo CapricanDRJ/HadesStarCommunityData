@@ -1,9 +1,9 @@
 ---
 title: ​Galactic Emp 2
-description: W:0 L:3 D:1 Bonus ❌ 3%
+description: W:0 L:4 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **九州分团**
-date: 2026-11-07T00:55:25.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-11-14T01:10:05.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ cessary
 ```
 <br>
 
-### Whitestar Bonus ❌ 3%
+### Whitestar Bonus ❌ 4%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (-5)|
+| ELO Regular | 1164 🔻  (-1)|
 | ELO Competitive | 1179 🔻  (0)|
-| Total Matches | 4 |
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793580925,1792199153,1789178249,1725157130];
+        let timestamps = [1794186605,1793580925,1792199153,1789178249,1725157130];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/14 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/11/07 | 0-6 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ↔️ | 2026/10/22 | 0-0 | [Vermilion](https://ws.tsl.rocks/corp/1a96e18d1c38ae2d619ce1659e51ddb1b075c87733cacc178f09b8abc52efd89/) |
 | ❌ | 2026/09/17 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
@@ -146,5 +147,5 @@ Corporation ID: af8e11d9f99113249c47a751e04e2b430f99c974c500124ab156026d5e228218
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794012925"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794618605"></span>
 </div>

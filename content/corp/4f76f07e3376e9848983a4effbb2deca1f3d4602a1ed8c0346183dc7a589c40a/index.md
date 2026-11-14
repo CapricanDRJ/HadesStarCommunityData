@@ -1,6 +1,6 @@
 ---
 title: ​维埃星云氮氢钨钽
-description: W:9 L:11 D:3 Bonus ✅ 32%
+description: W:9 L:11 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 4 - 3 **我是沙碧**
 date: 2026-11-07T03:19:53.000Z
@@ -15,7 +15,7 @@ date: 2026-11-07T03:19:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
