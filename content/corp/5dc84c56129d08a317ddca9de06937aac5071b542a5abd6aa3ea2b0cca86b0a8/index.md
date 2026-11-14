@@ -1,9 +1,9 @@
 ---
 title: ​VALHALLA
-description: W:0 L:6 D:2 Bonus ❌ 4%
+description: W:0 L:6 D:3 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **仙女座星雲**
-date: 2026-11-07T00:52:23.000Z
+Summary: ↔️ 0 - 0 **异星旅人（流浪地球第2分盟）**
+date: 2026-11-14T19:47:00.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ welcome VALHALLA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (-1)|
+| ELO Regular | 1149 🔻  (-1)|
 | ELO Competitive | 1155 🔻  (0)|
-| Total Matches | 8 |
+| Total Matches | 9 |
 | Wins | 0 |
 | Losses | 6 |
-| Draws | 2 |
+| Draws | 3 |
 | Flagship | 2 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793580743,1791607712,1791175595,1789345994,1788777230,1788228288,1787757622,1699018257];
+        let timestamps = [1794253620,1793580743,1791607712,1791175595,1789345994,1788777230,1788228288,1787757622,1699018257];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/14 | 0-0 | [异星旅人（流浪地球第2分盟）](https://ws.tsl.rocks/corp/9dc08f39359c6ef107f59f385544278a55c72ff4689e9a06a4e639197e7dfac1/) |
 | ❌ | 2026/11/07 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/10/15 | 0-22 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ↔️ | 2026/10/10 | 0-0 | [TUSFO星舰联邦](https://ws.tsl.rocks/corp/016954ccb4cf18eab01bdcce39c263205f20f80f38920e43516911db71c9d1ab/) |
@@ -156,5 +157,5 @@ Corporation ID: 5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794012743"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794685620"></span>
 </div>

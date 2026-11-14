@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "FV-215B"
-description: "ws: 46 μ: 29.58"
+description: "ws: 47 μ: 29.75"
 ---
-- **WhiteStars**: 46
-- **Eligible**: 31
-- **Rating**: 7.14
-- **μ**: 29.58  
-- **σ**: 7.48
-- W: 36, L: 10, T: 0
+- **WhiteStars**: 47
+- **Eligible**: 32
+- **Rating**: 7.36
+- **μ**: 29.75  
+- **σ**: 7.46
+- W: 37, L: 10, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 46 μ: 29.58"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 31 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 32 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 46 μ: 29.58"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 26-15 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | 2026-11-07 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 10-0 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) |
 | 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 46-1 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | 2026-10-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29-21 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |

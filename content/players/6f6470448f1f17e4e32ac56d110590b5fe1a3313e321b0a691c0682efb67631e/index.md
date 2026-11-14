@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "авапер"
-description: "ws: 44 μ: 32.23"
+description: "ws: 45 μ: 32.41"
 ---
-- **WhiteStars**: 44
-- **Eligible**: 29
-- **Rating**: 9.65
-- **μ**: 32.23  
-- **σ**: 7.53
-- W: 35, L: 9, T: 0
+- **WhiteStars**: 45
+- **Eligible**: 30
+- **Rating**: 9.88
+- **μ**: 32.41  
+- **σ**: 7.51
+- W: 36, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 44 μ: 32.23"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 27 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 28 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 1 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 1 |
 
@@ -26,6 +26,7 @@ description: "ws: 44 μ: 32.23"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 26-15 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | 2026-11-08 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 28-0 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 46-1 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | 2026-10-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29-21 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |

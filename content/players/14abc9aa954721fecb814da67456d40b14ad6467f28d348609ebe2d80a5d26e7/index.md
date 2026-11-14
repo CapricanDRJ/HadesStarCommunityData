@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Evgen174rus"
-description: "ws: 38 μ: 28.94"
+description: "ws: 39 μ: 29.11"
 ---
-- **WhiteStars**: 38
-- **Eligible**: 34
-- **Rating**: 6.80
-- **μ**: 28.94  
-- **σ**: 7.38
-- W: 22, L: 16, T: 0
+- **WhiteStars**: 39
+- **Eligible**: 35
+- **Rating**: 7.01
+- **μ**: 29.11  
+- **σ**: 7.37
+- W: 23, L: 16, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 38 μ: 28.94"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 34 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 35 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 38 μ: 28.94"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 26-15 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 46-1 | [Star Hunters](https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/) |
 | 2026-10-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 29-21 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | 2026-10-12 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 0-36 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
