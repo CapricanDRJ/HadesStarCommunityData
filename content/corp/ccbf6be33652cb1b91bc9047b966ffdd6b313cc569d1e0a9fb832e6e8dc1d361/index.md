@@ -1,9 +1,9 @@
 ---
 title: ​数字星际集团
-description: W:8 L:21 D:4 Bonus ❌ 6%
+description: W:8 L:22 D:4 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **Galactic Empire**
-date: 2026-10-15T13:56:12.000Z
+Summary: ❌ 0 - 11 **白虹贯日**
+date: 2026-11-14T00:42:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1060 🔻  (-6)|
-| ELO Competitive | 1088 🔻  (-7)|
-| Total Matches | 33 |
+| ELO Regular | 1055 🔻  (-5)|
+| ELO Competitive | 1084 🔻  (-4)|
+| Total Matches | 34 |
 | Wins | 8 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791640572,1790739090,1789199819,1788740884,1787975511,1787360408,1786097487,1785642776,1785204153,1784700937,1783143791,1782275533,1781067352,1729624727,1728739353,1728022039,1726044786,1725542750,1725087803,1718158428,1713691800,1713229618,1712765680,1712319656,1711856429,1711361242,1710852092,1710362480,1709804196,1709370966,1708679496,1708222230,1707126987];
+        let timestamps = [1794184950,1791640572,1790739090,1789199819,1788740884,1787975511,1787360408,1786097487,1785642776,1785204153,1784700937,1783143791,1782275533,1781067352,1729624727,1728739353,1728022039,1726044786,1725542750,1725087803,1718158428,1713691800,1713229618,1712765680,1712319656,1711856429,1711361242,1710852092,1710362480,1709804196,1709370966,1708679496,1708222230,1707126987];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/14 | 0-11 | [白虹贯日](https://ws.tsl.rocks/corp/099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9/) |
 | ❌ | 2026/10/15 | 0-3 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 | ↔️ | 2026/10/05 | 0-0 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) |
 | ❌ | 2026/09/17 | 0-3 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
@@ -185,5 +186,5 @@ Corporation ID: ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792072572"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794616950"></span>
 </div>

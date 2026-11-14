@@ -1,6 +1,6 @@
 ---
 title: ​NERF TOY'S
-description: W:69 L:87 D:2 Bonus ✅ 52%
+description: W:69 L:87 D:2 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 33 **星落苑**
 date: 2026-11-12T10:29:13.000Z
@@ -18,7 +18,7 @@ lor=yellow>weekly WS's and daily Corp runs
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

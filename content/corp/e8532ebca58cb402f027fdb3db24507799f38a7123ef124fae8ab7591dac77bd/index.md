@@ -1,6 +1,6 @@
 ---
 title: ​仙女座星雲
-description: W:259 L:104 D:5 Bonus ✅ 58%
+description: W:259 L:104 D:5 Bonus ❌ 58%
 image: ./favicon.png
 Summary: ✅ 18 - 0 **VALHALLA**
 date: 2026-11-07T00:52:23.000Z
@@ -30,7 +30,7 @@ B站d音搜：仙女座星雲土豆
 <br>
 
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅ 58%
+### Whitestar Bonus ❌ 58%
 
 | Statistic | Value |
 | --- | --- |
