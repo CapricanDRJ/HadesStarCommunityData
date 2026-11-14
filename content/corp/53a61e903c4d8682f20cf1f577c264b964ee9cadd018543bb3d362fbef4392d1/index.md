@@ -1,9 +1,9 @@
 ---
 title: ​Солнечные Ветры
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 0 **甜甜圈**
-date: 2026-11-09T15:54:17.000Z
+Summary: ✅ 5 - 0 **Dark Sun**
+date: 2026-11-14T16:13:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 2026-11-09T15:54:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (18)|
-| ELO Competitive | 1220 🔺  (20)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1229 🔺  (11)|
+| ELO Competitive | 1234 🔺  (14)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793807657];
+        let timestamps = [1794240813,1793807657];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/14 | 5-0 | [Dark Sun](https://ws.tsl.rocks/corp/41ffd72a8eba70ea3f7f69ce602194b0ee84c7e65be6d2e08b87181de24cc9cf/) |
 | ✅ | 2026/11/09 | 4-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: 53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794239657"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794672813"></span>
 </div>

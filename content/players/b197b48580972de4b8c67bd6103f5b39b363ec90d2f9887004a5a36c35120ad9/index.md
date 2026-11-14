@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Tosol_77_Rus"
-description: "ws: 18 μ: 23.21"
+description: "ws: 19 μ: 24.34"
 ---
-- **WhiteStars**: 18
-- **Eligible**: 13
-- **Rating**: -0.48
-- **μ**: 23.21  
-- **σ**: 7.90
-- W: 7, L: 10, T: 1
+- **WhiteStars**: 19
+- **Eligible**: 14
+- **Rating**: 0.74
+- **μ**: 24.34  
+- **σ**: 7.87
+- W: 8, L: 10, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 18 μ: 23.21"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 13 |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 14 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 18 μ: 23.21"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 19-5 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | 2026-10-27 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 13-6 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | 2026-10-18 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 0-17 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-10-04 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 3-30 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |

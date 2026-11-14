@@ -1,9 +1,9 @@
 ---
 title: ​Dark Sun
-description: W:6 L:12 D:2 Bonus ❌ 5%
+description: W:6 L:13 D:2 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **Aeon**
-date: 2025-08-31T06:16:28.000Z
+Summary: ❌ 0 - 5 **Солнечные Ветры**
+date: 2026-11-14T16:13:33.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ n the discord. Trading and co-op RS also available.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (-11)|
-| ELO Competitive | 1204 🔻  (-14)|
-| Total Matches | 20 |
+| ELO Regular | 1115 🔻  (-11)|
+| ELO Competitive | 1190 🔻  (-14)|
+| Total Matches | 21 |
 | Wins | 6 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1756188988,1705026831,1704442927,1703947381,1703947381,1703514931,1703247765,1703073757,1702544615,1702427407,1702082672,1701816694,1701625546,1701319594,1701095688,1700813162,1700640949,1700369261,1700168797,1699680312];
+        let timestamps = [1794240813,1756188988,1705026831,1704442927,1703947381,1703947381,1703514931,1703247765,1703073757,1702544615,1702427407,1702082672,1701816694,1701625546,1701319594,1701095688,1700813162,1700640949,1700369261,1700168797,1699680312];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/14 | 0-5 | [Солнечные Ветры](https://ws.tsl.rocks/corp/53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1/) |
 | ❌ | 2025/08/31 | 0-14 | [Aeon](https://ws.tsl.rocks/corp/5e4b3d6d6f08dee95abbb170211af935c564afdbc3039ee0a6f333070688724e/) |
 | ❌ | 2024/01/17 | 0-16 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ❌ | 2024/01/10 | 0-13 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
@@ -164,5 +165,5 @@ Corporation ID: 41ffd72a8eba70ea3f7f69ce602194b0ee84c7e65be6d2e08b87181de24cc9cf
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1756620988"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794672813"></span>
 </div>

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "catALMA3"
-description: "ws: 18 μ: 22.91"
+description: "ws: 19 μ: 24.03"
 ---
-- **WhiteStars**: 18
-- **Eligible**: 13
-- **Rating**: -0.77
-- **μ**: 22.91  
-- **σ**: 7.89
-- W: 7, L: 9, T: 2
+- **WhiteStars**: 19
+- **Eligible**: 14
+- **Rating**: 0.45
+- **μ**: 24.03  
+- **σ**: 7.86
+- W: 8, L: 9, T: 2
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 18 μ: 22.91"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 13 |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 14 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 18 μ: 22.91"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 19-5 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | 2026-10-27 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 6-33 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | 2026-10-18 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 0-17 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-10-04 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 7-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |

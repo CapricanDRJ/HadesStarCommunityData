@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KuznetsovES"
-description: "ws: 9 μ: 24.36"
+description: "ws: 10 μ: 25.69"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 6
-- **Rating**: 0.00
-- **μ**: 24.36  
-- **σ**: 8.12
-- W: 4, L: 4, T: 1
+- **WhiteStars**: 10
+- **Eligible**: 7
+- **Rating**: 1.44
+- **μ**: 25.69  
+- **σ**: 8.09
+- W: 5, L: 4, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 24.36"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 6 |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 9 μ: 24.36"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 19-5 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | 2026-10-18 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 0-17 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-10-04 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 7-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | 2026-09-20 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 24-4 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |

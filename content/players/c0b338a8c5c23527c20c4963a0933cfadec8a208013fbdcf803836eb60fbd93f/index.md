@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Kree"
-description: "ws: 13 μ: 21.99"
+description: "ws: 14 μ: 23.15"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 9
-- **Rating**: -2.07
-- **μ**: 21.99  
-- **σ**: 8.02
-- W: 3, L: 9, T: 1
+- **WhiteStars**: 14
+- **Eligible**: 10
+- **Rating**: -0.82
+- **μ**: 23.15  
+- **σ**: 7.99
+- W: 4, L: 9, T: 1
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 21.99"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 9 |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 21.99"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 19-5 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | 2026-10-27 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 6-33 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | 2026-10-18 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 0-17 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-10-04 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 7-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |

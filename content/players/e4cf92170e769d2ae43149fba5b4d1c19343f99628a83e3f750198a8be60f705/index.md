@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Sumrak"
-description: "ws: 14 μ: 24.83"
+description: "ws: 15 μ: 25.98"
 ---
-- **WhiteStars**: 14
-- **Eligible**: 10
-- **Rating**: 0.87
-- **μ**: 24.83  
-- **σ**: 7.99
-- W: 6, L: 8, T: 0
+- **WhiteStars**: 15
+- **Eligible**: 11
+- **Rating**: 2.11
+- **μ**: 25.98  
+- **σ**: 7.96
+- W: 7, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 14 μ: 24.83"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 10 |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 11 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 14 μ: 24.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 19-5 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | 2026-10-27 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 13-6 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | 2026-10-18 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 0-23 | [Black Pearl FR](https://ws.tsl.rocks/corp/2b852290b8f1d765b15529c7bac7b9b7eacc3ca4f427cbed0a24b2ddfde359e6/) |
 | 2026-10-04 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 7-23 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |

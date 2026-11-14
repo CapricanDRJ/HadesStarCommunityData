@@ -1,6 +1,6 @@
 ---
 title: ​HIGH COMMAND
-description: W:117 L:52 D:1 Bonus ✅ 50%
+description: W:117 L:52 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 9 - 33 **Imperium XIII**
 date: 2026-11-14T06:22:50.000Z
@@ -15,7 +15,7 @@ date: 2026-11-14T06:22:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

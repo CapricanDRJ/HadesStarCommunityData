@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "《C@t3g@t》"
-description: "ws: 1 μ: 26.00"
+title: "Wessex"
+description: "ws: 2 μ: 23.82"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: 1.13
-- **μ**: 26.00  
-- **σ**: 8.29
-- W: 1, L: 0, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: -0.96
+- **μ**: 23.82  
+- **σ**: 8.26
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 1 μ: 26.00"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 1 |
+| [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 2 |
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 26.00"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 5-19 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-03-10 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 24-19 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

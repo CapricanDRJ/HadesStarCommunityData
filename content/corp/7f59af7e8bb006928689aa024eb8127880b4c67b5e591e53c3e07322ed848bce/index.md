@@ -1,9 +1,9 @@
 ---
 title: ​Legionnaires
-description: W:0 L:2 D:0 Bonus ❌ 5%
+description: W:0 L:3 D:0 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 1 - 29 **Stella☆Glow**
-date: 2024-01-15T15:30:14.000Z
+Summary: ❌ 0 - 43 **Deadspace**
+date: 2026-11-14T17:59:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ WS occasionally but we are very laid back when it comes to PVP.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (-10)|
-| ELO Competitive | 1175 🔻  (-10)|
-| Total Matches | 2 |
+| ELO Regular | 1168 🔻  (-7)|
+| ELO Competitive | 1175 🔻  (-1)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704900614,1704287863];
+        let timestamps = [1794247158,1704900614,1704287863];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/14 | 0-43 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2024/01/15 | 1-29 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2024/01/08 | 1-11 | [OKC THUNDER](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 
@@ -145,5 +146,5 @@ Corporation ID: 7f59af7e8bb006928689aa024eb8127880b4c67b5e591e53c3e07322ed848bce
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1705332614"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794679158"></span>
 </div>

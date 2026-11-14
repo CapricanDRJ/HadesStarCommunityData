@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "MaxBar"
-description: "ws: 3 μ: 25.84"
+description: "ws: 4 μ: 23.83"
 ---
-- **WhiteStars**: 3
-- **Eligible**: 2
-- **Rating**: 1.07
-- **μ**: 25.84  
-- **σ**: 8.26
-- W: 2, L: 1, T: 0
+- **WhiteStars**: 4
+- **Eligible**: 3
+- **Rating**: -0.83
+- **μ**: 23.83  
+- **σ**: 8.22
+- W: 2, L: 2, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 3 μ: 25.84"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 2 |
+| [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 3 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 3 μ: 25.84"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 5-19 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | 2026-03-10 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 24-19 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | 2026-02-25 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 31-0 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | 2025-10-14 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 10-12 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
