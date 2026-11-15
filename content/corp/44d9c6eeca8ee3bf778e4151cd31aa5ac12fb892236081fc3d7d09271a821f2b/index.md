@@ -1,6 +1,6 @@
 ---
 title: ​Quantum Mass
-description: W:21 L:9 D:0 Bonus ✅ 36%
+description: W:21 L:9 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 2 - 13 **REAPERS**
 date: 2026-11-14T16:18:33.000Z
@@ -15,7 +15,7 @@ date: 2026-11-14T16:18:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

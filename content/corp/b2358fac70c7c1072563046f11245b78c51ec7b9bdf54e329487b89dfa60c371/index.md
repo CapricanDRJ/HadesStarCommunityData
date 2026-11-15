@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:31 L:6 D:1 Bonus ✅ 38%
+description: W:32 L:6 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ❌ 2 - 15 **Lupus Regnum**
-date: 2026-11-08T06:16:48.000Z
+Summary: ✅ 13 - 0 **✨ℛedstar Order«**
+date: 2026-11-15T03:04:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,10 +19,10 @@ date: 2026-11-08T06:16:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔻  (-23)|
-| ELO Competitive | 1483 🔺  (14)|
-| Total Matches | 38 |
-| Wins | 31 |
+| ELO Regular | 1388 🔺  (4)|
+| ELO Competitive | 1490 🔺  (7)|
+| Total Matches | 39 |
+| Wins | 32 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 13 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793686608,1793686608,1793079812,1793075607,1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1794279897,1793686608,1793686608,1793079812,1793075607,1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/15 | 13-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2026/11/08 | 2-15 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/11/08 | 10-0 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ✅ | 2026/11/01 | 13-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
@@ -188,5 +189,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794118608"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794711897"></span>
 </div>

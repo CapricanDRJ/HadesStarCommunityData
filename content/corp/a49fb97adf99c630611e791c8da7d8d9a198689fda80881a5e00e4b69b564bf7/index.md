@@ -1,6 +1,6 @@
 ---
 title: ​Hinterm Mars
-description: W:122 L:116 D:3 Bonus ✅ 52%
+description: W:122 L:116 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 18 - 3 **UFO**
 date: 2026-11-08T02:47:27.000Z
@@ -18,7 +18,7 @@ besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche
 <br>
 
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

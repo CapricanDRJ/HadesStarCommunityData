@@ -1,9 +1,9 @@
 ---
 title: ​G.O.D 星辰
-description: W:1 L:8 D:2 Bonus ❌ 4%
+description: W:1 L:9 D:2 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 0 - 3 **太阳系星盟 猫咪团**
-date: 2026-10-23T14:44:46.000Z
+Summary: ❌ 0 - 18 **仙女座星雲**
+date: 2026-11-15T02:04:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-23T14:44:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (-13)|
-| ELO Competitive | 1153 🔻  (-14)|
-| Total Matches | 11 |
+| ELO Regular | 1144 🔻  (-1)|
+| ELO Competitive | 1153 🔻  (0)|
+| Total Matches | 12 |
 | Wins | 1 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792334686,1791278766,1790822771,1789178310,1786293858,1785632864,1785048217,1784606001,1784012025,1782524613,1781407820];
+        let timestamps = [1794276293,1792334686,1791278766,1790822771,1789178310,1786293858,1785632864,1785048217,1784606001,1784012025,1782524613,1781407820];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,13 +132,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
+| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 3 | 0 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/15 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2026/10/23 | 0-3 | [太阳系星盟 猫咪团](https://ws.tsl.rocks/corp/a35475a4404da360ea9bf4d3991eadda337d487960b8817edcc701ba32267ad9/) |
 | ❌ | 2026/10/11 | 0-3 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ❌ | 2026/10/06 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -157,5 +158,5 @@ Corporation ID: 10721e169e8b825969690b94dda985f366fb24b46e81dd3faa88ef9b7585ac6a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792766686"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794708293"></span>
 </div>
