@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Luminá
-description: W:47 L:26 D:0 Bonus ✅ 40%
+description: W:47 L:26 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 15 - 26 **Лунный Феникс**
 date: 2026-11-14T18:09:19.000Z
@@ -17,7 +17,7 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
