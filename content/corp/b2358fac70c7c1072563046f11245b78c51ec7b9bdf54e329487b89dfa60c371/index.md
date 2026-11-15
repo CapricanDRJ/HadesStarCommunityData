@@ -1,9 +1,9 @@
 ---
 title: ​attraction.F
-description: W:32 L:6 D:1 Bonus ✅ 38%
+description: W:33 L:6 D:1 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 13 - 0 **✨ℛedstar Order«**
-date: 2026-11-15T03:04:57.000Z
+Summary: ✅ 15 - 0 **DeepSeek**
+date: 2026-11-15T08:50:17.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-15T03:04:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔺  (4)|
+| ELO Regular | 1390 🔺  (2)|
 | ELO Competitive | 1490 🔺  (7)|
-| Total Matches | 39 |
-| Wins | 32 |
+| Total Matches | 40 |
+| Wins | 33 |
 | Losses | 6 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 13 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794279897,1793686608,1793686608,1793079812,1793075607,1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
+        let timestamps = [1794300617,1794279897,1793686608,1793686608,1793079812,1793075607,1792463260,1792462058,1791863358,1791857652,1791283285,1791279328,1790659048,1790657245,1790053727,1790044115,1789438812,1789438812,1788867363,1788855347,1788243698,1788239793,1787624204,1787624204,1787040447,1787023024,1786416418,1786415516,1785809838,1785809538,1785213158,1785205949,1784614111,1784602396,1784000610,1783992501,1783406372,1783390453,1782785387,1782171577];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484/) | 2 | 0 | 0 | 2 |
 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 2 | 1 | 0 | 3 |
 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) | 2 | 0 | 0 | 2 |
 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 1 | 0 | 1 | 2 |
@@ -143,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/15 | 15-0 | [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484/) |
 | ✅ | 2026/11/15 | 13-0 | [✨ℛedstar Order«](https://ws.tsl.rocks/corp/01220718f2aba52af83767c0d2e500ff584ec88cd06a8fa451841a5576937e8d/) |
 | ❌ | 2026/11/08 | 2-15 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/11/08 | 10-0 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
@@ -189,5 +192,5 @@ Corporation ID: b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794711897"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794732617"></span>
 </div>

@@ -78,32 +78,6 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">DungeonMaster</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>2</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS12</td>
-                    <td>360%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/634122759777157130">Oceania Alliance</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">Strix</th>
         </tr>
         <tr>

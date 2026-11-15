@@ -1,6 +1,6 @@
 ---
 title: ​Curiosity + Cat
-description: W:88 L:73 D:2 Bonus ✅ 50%
+description: W:88 L:73 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 13 - 4 **Deadspace**
 date: 2026-11-08T08:36:57.000Z
@@ -21,7 +21,7 @@ No Discord!
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
