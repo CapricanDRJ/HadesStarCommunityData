@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:97 L:90 D:3 Bonus ✅ 50%
+description: W:97 L:90 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 0 - 28 **Milliways**
 date: 2026-11-08T06:36:50.000Z
@@ -15,7 +15,7 @@ date: 2026-11-08T06:36:50.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
