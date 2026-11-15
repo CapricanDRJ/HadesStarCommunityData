@@ -1,6 +1,6 @@
 ---
 title: ​柯伊伯带伊甸园
-description: W:26 L:10 D:0 Bonus ✅ 36%
+description: W:26 L:10 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 25 **リリース**
 date: 2026-11-10T15:46:05.000Z
@@ -18,7 +18,7 @@ date: 2026-11-10T15:46:05.000Z
 <br>
 
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

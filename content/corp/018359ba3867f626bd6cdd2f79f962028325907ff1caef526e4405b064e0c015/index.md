@@ -1,6 +1,6 @@
 ---
 title: ​Red star (all)
-description: W:4 L:8 D:1 Bonus ✅ 30%
+description: W:4 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
 Summary: ❌ 3 - 10 **Lupus Regnum**
 date: 2026-11-15T13:35:39.000Z
@@ -15,7 +15,7 @@ date: 2026-11-15T13:35:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ❌ 5%
 
 | Statistic | Value |
 | --- | --- |
