@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:10 L:8 D:2 Bonus ❌ 6%
+description: W:11 L:8 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 2 - 9 **imperio viltrum**
-date: 2026-11-12T00:18:28.000Z
+Summary: ✅ 2 - 0 **以太超星团**
+date: 2026-11-15T10:20:23.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-11-12T00:18:28.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (-15)|
-| ELO Competitive | 1287 🔻  (-13)|
-| Total Matches | 20 |
-| Wins | 10 |
+| ELO Regular | 1222 🔺  (9)|
+| ELO Competitive | 1309 🔺  (9)|
+| Total Matches | 21 |
+| Wins | 11 |
 | Losses | 8 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794010708,1793798944,1793538526,1793354627,1793067197,1792841360,1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1794306023,1794010708,1793798944,1793538526,1793354627,1793067197,1792841360,1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/15 | 2-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2026/11/12 | 2-9 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ❌ | 2026/11/09 | 1-2 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2026/11/06 | 8-0 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
@@ -169,5 +170,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794442708"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794738023"></span>
 </div>
