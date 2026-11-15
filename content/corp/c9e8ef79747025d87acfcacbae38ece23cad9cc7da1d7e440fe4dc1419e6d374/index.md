@@ -1,6 +1,6 @@
 ---
 title: ​KEPLER-442 b
-description: W:58 L:22 D:6 Bonus ✅ 40%
+description: W:58 L:22 D:6 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 15 - 0 **Bastille FR**
 date: 2026-11-08T13:17:16.000Z
@@ -15,7 +15,7 @@ date: 2026-11-08T13:17:16.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

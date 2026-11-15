@@ -1,9 +1,9 @@
 ---
 title: ​Red star (all)
-description: W:4 L:7 D:1 Bonus ✅ 30%
+description: W:4 L:8 D:1 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 13 - 3 **Вселенские 40%**
-date: 2026-11-08T19:52:50.000Z
+Summary: ❌ 3 - 10 **Lupus Regnum**
+date: 2026-11-15T13:35:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-08T19:52:50.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (13)|
-| ELO Competitive | 1224 🔺  (20)|
-| Total Matches | 12 |
+| ELO Regular | 1156 🔻  (-13)|
+| ELO Competitive | 1221 🔻  (-3)|
+| Total Matches | 13 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793735570,1793162148,1792690574,1791728784,1791089534,1788988457,1786203627,1785721379,1785076448,1784273701,1783801130,1783355898];
+        let timestamps = [1794317739,1793735570,1793162148,1792690574,1791728784,1791089534,1788988457,1786203627,1785721379,1785076448,1784273701,1783801130,1783355898];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/15 | 3-10 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/11/08 | 13-3 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2026/11/02 | 1-23 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ❌ | 2026/10/27 | 2-12 | [KEPLER\-442 b](https://ws.tsl.rocks/corp/c9e8ef79747025d87acfcacbae38ece23cad9cc7da1d7e440fe4dc1419e6d374/) |
@@ -153,5 +154,5 @@ Corporation ID: 018359ba3867f626bd6cdd2f79f962028325907ff1caef526e4405b064e0c015
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794167570"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794749739"></span>
 </div>
