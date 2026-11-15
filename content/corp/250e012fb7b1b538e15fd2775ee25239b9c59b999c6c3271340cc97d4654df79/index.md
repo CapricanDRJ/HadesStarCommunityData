@@ -1,6 +1,6 @@
 ---
 title: ​italian warrior
-description: W:77 L:164 D:3 Bonus ✅ 52%
+description: W:77 L:164 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 51 **СССР**
 date: 2026-11-14T05:32:47.000Z
@@ -22,7 +22,7 @@ Discord: https://discord.gg/A26JEJgPwh
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
