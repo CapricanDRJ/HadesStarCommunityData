@@ -1,6 +1,6 @@
 ---
 title: ​Stella☆Glow
-description: W:103 L:43 D:1 Bonus ✅ 50%
+description: W:103 L:43 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 0 - 38 **Stellaris**
 date: 2026-11-10T22:46:38.000Z
@@ -29,7 +29,7 @@ Discord required for WS.
 <br>
 
 ### [Discord](https://discord.gg/uhka53GbmX)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
