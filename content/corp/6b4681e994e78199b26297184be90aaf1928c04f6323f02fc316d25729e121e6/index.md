@@ -1,6 +1,6 @@
 ---
 title: ​101
-description: W:77 L:188 D:9 Bonus ✅ 48%
+description: W:77 L:188 D:9 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 0 - 26 **QONQR**
 date: 2026-11-09T09:53:47.000Z
@@ -17,7 +17,7 @@ date: 2026-11-09T09:53:47.000Z
 <br>
 
 ### [Discord](https://discord.gg/Sh82822)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
