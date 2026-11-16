@@ -1,9 +1,9 @@
 ---
 title: ​战争幽灵
-description: W:1 L:25 D:0 Bonus ❌ 7%
+description: W:2 L:25 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ❌ 0 - 25 **中华五千年**
-date: 2026-11-11T13:29:14.000Z
+Summary: ✅ 3 - 0 **Avantgarde**
+date: 2026-11-16T16:33:15.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-11-11T13:29:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 7%
+### Whitestar Bonus ✅ 34%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 972 🔻  (-3)|
-| ELO Competitive | 1065 🔻  (-3)|
-| Total Matches | 26 |
-| Wins | 1 |
+| ELO Regular | 976 🔺  (3)|
+| ELO Competitive | 1078 🔺  (13)|
+| Total Matches | 27 |
+| Wins | 2 |
 | Losses | 25 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793971754,1793486562,1793022161,1792511612,1792007873,1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
+        let timestamps = [1794414795,1793971754,1793486562,1793022161,1792511612,1792007873,1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 2 | 0 | 0 | 2 |
 | [星域](https://ws.tsl.rocks/corp/9dbe1728c2be44c8cfe8025f7ad859d31ee0c7012aca463d85de8c21953e814f/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/16 | 3-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2026/11/11 | 0-25 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ❌ | 2026/11/05 | 0-16 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ❌ | 2026/10/31 | 0-30 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
@@ -172,5 +174,5 @@ Corporation ID: 19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794403754"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794846795"></span>
 </div>

@@ -52,32 +52,6 @@ searchHidden: true
 
     <table>
         <tr>
-            <th colspan="4" class="username-header">DDinis [Imperial Armada]</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>4</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>210%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/1400385036519346296">Hade’s Research Station [ HRS ]</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">Jiblu</th>
         </tr>
         <tr>

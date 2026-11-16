@@ -1,6 +1,6 @@
 ---
 title: ​Grater U
-description: W:4 L:12 D:4 Bonus ✅ 32%
+description: W:4 L:12 D:4 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 2 - 0 **Magyar Vándor**
 date: 2026-11-09T18:29:48.000Z
@@ -16,7 +16,7 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
