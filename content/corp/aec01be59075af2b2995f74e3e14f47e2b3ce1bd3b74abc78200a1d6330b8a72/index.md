@@ -1,6 +1,6 @@
 ---
 title: ​Corp. Estelar
-description: W:62 L:35 D:2 Bonus ✅ 48%
+description: W:62 L:35 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 29 - 6 **Dumpster Fire**
 date: 2026-11-09T03:43:23.000Z
@@ -16,7 +16,7 @@ b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
