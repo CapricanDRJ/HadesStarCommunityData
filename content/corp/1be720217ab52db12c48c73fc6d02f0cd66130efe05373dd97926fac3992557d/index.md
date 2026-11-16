@@ -1,6 +1,6 @@
 ---
 title: ​UAGC
-description: W:123 L:130 D:3 Bonus ✅ 54%
+description: W:123 L:130 D:3 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 15 - 18 **Слава Украине\!**
 date: 2026-11-16T06:21:55.000Z
@@ -17,7 +17,7 @@ date: 2026-11-16T06:21:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

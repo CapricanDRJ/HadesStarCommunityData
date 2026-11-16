@@ -1,9 +1,9 @@
 ---
 title: ​宇氏集团
-description: W:0 L:2 D:0 Bonus ❌ 3%
+description: W:0 L:2 D:1 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 28 **Lacuna X**
-date: 2023-12-21T06:17:09.000Z
+Summary: ↔️ 0 - 0 **11th Engineers**
+date: 2026-11-16T18:58:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,12 +24,12 @@ QQ群：362076387，申请前请加入QQ群
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (-11)|
-| ELO Competitive | 1174 🔻  (-11)|
-| Total Matches | 2 |
+| ELO Regular | 1161 🔻  (-13)|
+| ELO Competitive | 1168 🔻  (-6)|
+| Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 2 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702707429,1701878302];
+        let timestamps = [1794423535,1702707429,1701878302];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/16 | 0-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ❌ | 2023/12/21 | 0-28 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2023/12/11 | 0-11 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) |
 
@@ -148,5 +149,5 @@ Corporation ID: 80315b4e1e3c22c7a5770a4fe63dd861fc3586e2d538f585b2aa8feb8f009713
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1703139429"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794855535"></span>
 </div>
