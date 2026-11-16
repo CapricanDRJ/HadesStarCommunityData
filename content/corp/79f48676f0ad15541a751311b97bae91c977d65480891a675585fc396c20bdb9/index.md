@@ -1,6 +1,6 @@
 ---
 title: ​初始之音
-description: W:12 L:16 D:0 Bonus ✅ 32%
+description: W:12 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 36 - 2 **Держава Русь**
 date: 2026-11-08T22:13:01.000Z
@@ -15,7 +15,7 @@ date: 2026-11-08T22:13:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
