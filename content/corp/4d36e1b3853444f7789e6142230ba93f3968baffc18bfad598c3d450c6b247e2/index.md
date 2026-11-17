@@ -1,9 +1,9 @@
 ---
 title: ​资助会
-description: W:16 L:6 D:0 Bonus ❌ 8%
+description: W:16 L:7 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ✅ 11 - 3 **Galactic Empire**
-date: 2026-10-21T17:36:05.000Z
+Summary: ❌ 0 - 42 **ДИВЕРСАНТЫ**
+date: 2026-11-17T07:43:50.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 2026-10-21T17:36:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (9)|
-| ELO Competitive | 1403 🔺  (21)|
-| Total Matches | 22 |
+| ELO Regular | 1320 🔻  (-4)|
+| ELO Competitive | 1403 🔻  (0)|
+| Total Matches | 23 |
 | Wins | 16 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792172165,1790955554,1789801084,1788856848,1788222974,1771239206,1759334974,1754205149,1738489100,1727717871,1723782282,1723299966,1721786877,1721400113,1721241455,1720749455,1707741940,1707153372,1707147066,1706709706,1702048049,1699102115];
+        let timestamps = [1794469430,1792172165,1790955554,1789801084,1788856848,1788222974,1771239206,1759334974,1754205149,1738489100,1727717871,1723782282,1723299966,1721786877,1721400113,1721241455,1720749455,1707741940,1707153372,1707147066,1706709706,1702048049,1699102115];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/17 | 0-42 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ✅ | 2026/10/21 | 11-3 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2026/10/07 | 9-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2026/09/24 | 28-6 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
@@ -166,5 +166,5 @@ Corporation ID: 4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792604165"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794901430"></span>
 </div>
