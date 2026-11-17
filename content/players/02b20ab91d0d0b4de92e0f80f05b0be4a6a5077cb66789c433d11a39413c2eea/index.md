@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "jondough101"
-description: "ws: 19 μ: 24.42"
+description: "ws: 20 μ: 25.40"
 ---
-- **WhiteStars**: 19
-- **Eligible**: 19
-- **Rating**: 1.28
-- **μ**: 24.42  
-- **σ**: 7.71
-- W: 10, L: 9, T: 0
+- **WhiteStars**: 20
+- **Eligible**: 20
+- **Rating**: 2.33
+- **μ**: 25.40  
+- **σ**: 7.69
+- W: 11, L: 9, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 19 μ: 24.42"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 19 |
+| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 20 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 19 μ: 24.42"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-17 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 35-6 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-03-23 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 11-16 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2025-10-06 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 2-40 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | 2025-09-30 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 24-2 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

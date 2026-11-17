@@ -1,9 +1,9 @@
 ---
 title: ​Solar Corp
-description: W:51 L:6 D:0 Bonus ✅ 42%
+description: W:52 L:6 D:0 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 24 - 0 **Kelebra**
-date: 2026-11-10T02:25:06.000Z
+Summary: ✅ 10 - 8 **💮問鼎無垠💮**
+date: 2026-11-17T00:58:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-11-10T02:25:06.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1533 🔺  (7)|
-| ELO Competitive | 1707 🔺  (12)|
-| Total Matches | 57 |
-| Wins | 51 |
+| ELO Regular | 1543 🔺  (10)|
+| ELO Competitive | 1724 🔺  (17)|
+| Total Matches | 58 |
+| Wins | 52 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 7 |
+| Streak | 8 |
 | Streak Record | 17 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793845506,1793234212,1792631615,1792022870,1791437389,1790811957,1790215949,1789601930,1789001976,1788409480,1787817383,1787193075,1786581950,1785975674,1785366987,1784773340,1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
+        let timestamps = [1794445105,1793845506,1793234212,1792631615,1792022870,1791437389,1790811957,1790215949,1789601930,1789001976,1788409480,1787817383,1787193075,1786581950,1785975674,1785366987,1784773340,1784163446,1783565000,1782970450,1782361772,1781776163,1781174984,1780545910,1779943260,1779316185,1778716798,1778121314,1777558315,1776905739,1776312384,1775760485,1775164402,1774535871,1773932577,1773319381,1772720640,1772127879,1771507197,1770907814,1769801256,1769028154,1767898733,1767364524,1766928594,1766424439,1765963839,1765483726,1764451016,1763988880,1763522589,1763066208,1762458393,1761849976,1761072346,1760049489,1758940478,1758375327];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) | 2 | 0 | 0 | 2 |
 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 2 | 0 | 0 | 2 |
 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) | 2 | 0 | 0 | 2 |
 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) | 2 | 0 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/17 | 10-8 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | ✅ | 2026/11/10 | 24-0 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2026/11/03 | 24-3 | [Dark Monarchs](https://ws.tsl.rocks/corp/c23ec9ebc110eb3dd1c56d100e206f8e421ad61de0748f4c6229e6297d736b4c/) |
 | ✅ | 2026/10/27 | 29-0 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
@@ -208,5 +210,5 @@ Corporation ID: 48dd63558cbd127dff205a3b4ae83bcd3885cf35d1797c558dd1ec0339e04264
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794277506"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794877105"></span>
 </div>

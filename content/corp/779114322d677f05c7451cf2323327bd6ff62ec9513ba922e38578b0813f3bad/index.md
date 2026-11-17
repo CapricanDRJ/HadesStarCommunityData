@@ -1,6 +1,6 @@
 ---
 title: ​Red Star
-description: W:87 L:125 D:4 Bonus ✅ 48%
+description: W:87 L:125 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 11 **Empire of Hades**
 date: 2026-11-10T17:46:15.000Z
@@ -15,7 +15,7 @@ date: 2026-11-10T17:46:15.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

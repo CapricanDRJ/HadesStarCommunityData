@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "P2Cactus"
-description: "ws: 18 μ: 19.28"
+description: "ws: 19 μ: 20.83"
 ---
-- **WhiteStars**: 18
-- **Eligible**: 18
-- **Rating**: -3.95
-- **μ**: 19.28  
-- **σ**: 7.74
-- W: 5, L: 13, T: 0
+- **WhiteStars**: 19
+- **Eligible**: 19
+- **Rating**: -2.33
+- **μ**: 20.83  
+- **σ**: 7.72
+- W: 6, L: 13, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 18 μ: 19.28"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 18 |
+| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 19 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 18 μ: 19.28"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-17 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 35-6 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-03-23 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 11-16 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2026-02-16 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 7-38 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2025-10-12 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 10-21 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
