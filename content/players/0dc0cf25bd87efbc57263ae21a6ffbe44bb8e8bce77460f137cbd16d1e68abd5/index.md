@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "233dada"
-description: "ws: 1 μ: 26.16"
+description: "ws: 2 μ: 24.64"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: 1.27
-- **μ**: 26.16  
-- **σ**: 8.30
-- W: 1, L: 0, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: -0.17
+- **μ**: 24.64  
+- **σ**: 8.27
+- W: 1, L: 1, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 1 μ: 26.16"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 |
 
 ---
 
@@ -24,4 +24,5 @@ description: "ws: 1 μ: 26.16"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-17 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 3-8 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2025-09-08 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 23-14 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |

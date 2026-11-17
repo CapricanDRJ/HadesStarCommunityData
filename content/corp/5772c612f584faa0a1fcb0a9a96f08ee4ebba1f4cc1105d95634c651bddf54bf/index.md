@@ -1,6 +1,6 @@
 ---
 title: ​Empire of Hades
-description: W:100 L:45 D:4 Bonus ✅ 48%
+description: W:100 L:45 D:4 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 6 - 22 **Space Potatoes**
 date: 2026-11-13T20:37:12.000Z
@@ -15,7 +15,7 @@ date: 2026-11-13T20:37:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​リリース
-description: W:113 L:69 D:0 Bonus ❌ 48%
+description: W:113 L:69 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 3 - 20 **柯伊伯带**
 date: 2026-11-17T04:38:39.000Z
@@ -17,7 +17,7 @@ d必須です！　特別待遇はできかねますのでご注意ください�
 <br>
 
 ### [Discord](https://discord.gg/jmZpzGx7b5)
-### Whitestar Bonus ❌ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

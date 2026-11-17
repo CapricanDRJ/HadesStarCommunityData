@@ -1,6 +1,6 @@
 ---
 title: ​Z. O. V.
-description: W:131 L:73 D:4 Bonus ✅ 50%
+description: W:131 L:73 D:4 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 6 - 21 **元素联邦**
 date: 2026-11-17T15:34:24.000Z
@@ -15,7 +15,7 @@ date: 2026-11-17T15:34:24.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
