@@ -62,38 +62,6 @@ searchHidden: true
         </tr>
     
         <tr>
-            <td colspan="4">🏷️ Offering</td>
-        </tr>
-        
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>2</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>360%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>360%</td>
-                </tr>
-            
-        <tr>
             <td colspan="4">💰 Wanting</td>
         </tr>
         

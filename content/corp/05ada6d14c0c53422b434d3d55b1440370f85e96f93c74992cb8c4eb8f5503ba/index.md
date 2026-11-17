@@ -1,6 +1,6 @@
 ---
 title: ​BrinySeal
-description: W:208 L:107 D:5 Bonus ✅ 54%
+description: W:208 L:107 D:5 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 0 - 11 **TheBasics**
 date: 2026-11-15T23:56:31.000Z
@@ -18,7 +18,7 @@ quired. We can help speed your progress :)
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

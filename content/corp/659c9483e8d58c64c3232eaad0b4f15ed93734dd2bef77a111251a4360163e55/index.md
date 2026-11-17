@@ -1,9 +1,9 @@
 ---
 title: ​Ereboros
-description: W:16 L:4 D:0 Bonus ❌ 8%
+description: W:16 L:5 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 4 **无人深空**
-date: 2026-11-10T22:56:39.000Z
+Summary: ❌ 2 - 3 **Rabid Butterfly**
+date: 2026-11-17T19:24:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-10T22:56:39.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔻  (-16)|
-| ELO Competitive | 1399 🔻  (-13)|
-| Total Matches | 20 |
+| ELO Regular | 1311 🔻  (-18)|
+| ELO Competitive | 1380 🔻  (-19)|
+| Total Matches | 21 |
 | Wins | 16 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793919399,1793291360,1792672690,1792107148,1791472838,1790774098,1790248687,1789633765,1789043128,1788490602,1787831502,1787237236,1786702719,1786043265,1785421660,1784823508,1784201293,1783599243,1783013711,1782127402];
+        let timestamps = [1794511482,1793919399,1793291360,1792672690,1792107148,1791472838,1790774098,1790248687,1789633765,1789043128,1788490602,1787831502,1787237236,1786702719,1786043265,1785421660,1784823508,1784201293,1783599243,1783013711,1782127402];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Rabid Butterfly](https://ws.tsl.rocks/corp/a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a/) | 1 | 1 | 0 | 2 |
 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/17 | 2-3 | [Rabid Butterfly](https://ws.tsl.rocks/corp/a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a/) |
 | ❌ | 2026/11/10 | 0-4 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/11/03 | 10-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2026/10/27 | 8-0 | [烽烟与黎明](https://ws.tsl.rocks/corp/6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96/) |
@@ -167,5 +169,5 @@ Corporation ID: 659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794351399"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794943482"></span>
 </div>
