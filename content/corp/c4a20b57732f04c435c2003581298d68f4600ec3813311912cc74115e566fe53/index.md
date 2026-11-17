@@ -1,9 +1,9 @@
 ---
 title: ​Mondluftschiff
-description: W:5 L:9 D:1 Bonus ✅ 30%
+description: W:5 L:10 D:1 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 6 - 0 **U\.N\.S\.C**
-date: 2026-11-11T05:52:05.000Z
+Summary: ❌ 3 - 6 **CORE INFLICTION**
+date: 2026-11-17T09:53:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-11-11T05:52:05.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 30%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (16)|
-| ELO Competitive | 1211 🔺  (15)|
-| Total Matches | 15 |
+| ELO Regular | 1157 🔻  (-15)|
+| ELO Competitive | 1196 🔻  (-15)|
+| Total Matches | 16 |
 | Wins | 5 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793944325,1793476047,1792973725,1792412485,1791888586,1791437389,1790929485,1790476701,1788094686,1787661754,1787196980,1786684395,1786251942,1785768073,1785326721];
+        let timestamps = [1794477238,1793944325,1793476047,1792973725,1792412485,1791888586,1791437389,1790929485,1790476701,1788094686,1787661754,1787196980,1786684395,1786251942,1785768073,1785326721];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62/) | 0 | 2 | 0 | 2 |
 | [长安三万里](https://ws.tsl.rocks/corp/b5f1a7f43d35b5d315ce93e286f24b8d9f23f789fff4060b86dde4c8eecbbbd2/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/17 | 3-6 | [CORE INFLICTION](https://ws.tsl.rocks/corp/3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62/) |
 | ✅ | 2026/11/11 | 6-0 | [U\.N\.S\.C](https://ws.tsl.rocks/corp/70dea9b99e388e4ecc15b483cde11adecf8126fc5fd8976564ee112bd466c1ac/) |
 | ❌ | 2026/11/05 | 3-10 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2026/10/31 | 3-4 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
@@ -162,5 +164,5 @@ Corporation ID: c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794376325"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794909238"></span>
 </div>

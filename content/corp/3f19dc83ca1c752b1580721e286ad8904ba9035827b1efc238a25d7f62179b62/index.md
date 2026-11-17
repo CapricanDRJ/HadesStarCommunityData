@@ -1,9 +1,9 @@
 ---
 title: ​CORE INFLICTION
-description: W:3 L:7 D:0 Bonus ✅ 40%
+description: W:4 L:7 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 8 - 0 **秉元握枢斡化坎离玄墟旌部**
-date: 2026-11-10T14:40:02.000Z
+Summary: ✅ 6 - 3 **Mondluftschiff**
+date: 2026-11-17T09:53:58.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,12 +24,14 @@ Project for Permanent Peace
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (17)|
-| ELO Competitive | 1205 🔺  (16)|
-| Total Matches | 10 |
-| Wins | 3 |
+| ELO Regular | 1183 🔺  (15)|
+| ELO Competitive | 1220 🔺  (15)|
+| Total Matches | 11 |
+| Wins | 4 |
 | Losses | 7 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793889602,1793230666,1792667425,1792053504,1791437389,1790835086,1790162771,1789715166,1789225498,1701919177];
+        let timestamps = [1794477238,1793889602,1793230666,1792667425,1792053504,1791437389,1790835086,1790162771,1789715166,1789225498,1701919177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,12 +135,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/17 | 6-3 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ✅ | 2026/11/10 | 8-0 | [秉元握枢斡化坎离玄墟旌部](https://ws.tsl.rocks/corp/f92ac64755d82856a50cfc4d8c59f8741e2cfeb50a5a2f9cb46e0769d22a1bcf/) |
 | ❌ | 2026/11/02 | 3-18 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ❌ | 2026/10/27 | 2-5 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
@@ -156,5 +164,5 @@ Corporation ID: 3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794321602"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794909238"></span>
 </div>

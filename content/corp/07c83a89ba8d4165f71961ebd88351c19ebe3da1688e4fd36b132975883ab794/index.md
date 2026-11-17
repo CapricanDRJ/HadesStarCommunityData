@@ -1,9 +1,9 @@
 ---
 title: ​Ordo Malleus
-description: W:5 L:6 D:2 Bonus ❌ 6%
+description: W:5 L:8 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 2 - 9 **Wolf \- Star**
-date: 2026-09-20T11:28:14.000Z
+Summary: ❌ 3 - 11 **Dumpster Fire**
+date: 2026-11-17T12:24:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-09-20T11:28:14.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (-15)|
-| ELO Competitive | 1257 🔻  (-16)|
-| Total Matches | 13 |
+| ELO Regular | 1162 🔻  (-23)|
+| ELO Competitive | 1250 🔻  (-7)|
+| Total Matches | 15 |
 | Wins | 5 |
-| Losses | 6 |
+| Losses | 8 |
 | Draws | 2 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1789471694,1779835692,1775730434,1775253173,1771466489,1770832407,1770278693,1770068093,1769723131,1765739117,1765468401,1764146931,1760781748];
+        let timestamps = [1794486249,1794483245,1789471694,1779835692,1775730434,1775253173,1771466489,1770832407,1770278693,1770068093,1769723131,1765739117,1765468401,1764146931,1760781748];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/17 | 3-11 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
+| ❌ | 2026/11/17 | 0-9 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/09/20 | 2-9 | [Wolf \- Star](https://ws.tsl.rocks/corp/844f43d1959cce8e1bba67fe4a0ed6530d5b72b4525ad44c013a81bfcf085d69/) |
 | ↔️ | 2026/05/31 | 0-0 | [万顷稻花](https://ws.tsl.rocks/corp/03386ec0080aee6d7af1877f35b017855540984073077164c8d3ac4203042630/) |
 | ❌ | 2026/04/14 | 0-9 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
@@ -155,5 +157,5 @@ Corporation ID: 07c83a89ba8d4165f71961ebd88351c19ebe3da1688e4fd36b132975883ab794
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1789903694"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794918249"></span>
 </div>
