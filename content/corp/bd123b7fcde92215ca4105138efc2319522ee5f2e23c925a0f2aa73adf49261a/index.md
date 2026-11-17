@@ -1,9 +1,9 @@
 ---
 title: ​Best
-description: W:3 L:43 D:0 Bonus ❌ 15%
+description: W:3 L:44 D:0 Bonus ❌ 15%
 image: ./favicon.png
-Summary: ❌ 0 - 48 **BrinySeal**
-date: 2026-11-10T20:51:30.000Z
+Summary: ❌ 6 - 35 **Internationals**
+date: 2026-11-17T00:43:25.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 2026-11-10T20:51:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 938 🔻  (-2)|
+| ELO Regular | 937 🔻  (-2)|
 | ELO Competitive | 1145 🔻  (0)|
-| Total Matches | 46 |
+| Total Matches | 47 |
 | Wins | 3 |
-| Losses | 43 |
+| Losses | 44 |
 | Draws | 0 |
 | Flagship | 12 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793911890,1793457331,1792868036,1792377090,1791869852,1791435888,1790967274,1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
+        let timestamps = [1794444205,1793911890,1793457331,1792868036,1792377090,1791869852,1791435888,1790967274,1790092477,1789641574,1789202362,1788756202,1788070651,1787587844,1787061477,1786465384,1785699570,1785237188,1784545907,1783963726,1783420537,1782814822,1779735339,1776861572,1775498795,1774884700,1773076114,1772558423,1772456578,1771858097,1770656050,1770132680,1768760452,1768272208,1766481224,1766229435,1765826543,1765216323,1764610271,1764056479,1763393096,1763227547,1749593562,1749573726,1744696768,1744694665,1703512226];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/17 | 6-35 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2026/11/10 | 0-48 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2026/11/05 | 6-29 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2026/10/29 | 0-37 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
@@ -200,5 +201,5 @@ Corporation ID: bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794343890"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794876205"></span>
 </div>
