@@ -1,9 +1,9 @@
 ---
 title: ​Team Elite
-description: W:33 L:24 D:1 Bonus ❌ 15%
+description: W:34 L:24 D:1 Bonus ✅ 50%
 image: ./favicon.png
-Summary: ❌ 10 - 13 **Star Wars**
-date: 2026-11-10T11:15:42.000Z
+Summary: ✅ 31 - 10 **Curcubeu**
+date: 2026-11-17T05:33:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ tive, no stress on speed. WS players wanted. Discord: https://discord
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
-### Whitestar Bonus ❌ 15%
+### Whitestar Bonus ✅ 50%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔻  (-17)|
-| ELO Competitive | 1654 🔻  (-22)|
-| Total Matches | 58 |
-| Wins | 33 |
+| ELO Regular | 1382 🔺  (2)|
+| ELO Competitive | 1655 🔺  (1)|
+| Total Matches | 59 |
+| Wins | 34 |
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793877342,1793296170,1792854510,1792414588,1791868763,1791435888,1790976587,1790612789,1790526871,1790089172,1789641574,1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
+        let timestamps = [1794461622,1793877342,1793296170,1792854510,1792414588,1791868763,1791435888,1790976587,1790612789,1790526871,1790089172,1789641574,1789195752,1788697908,1788209756,1787760299,1786995685,1786475901,1785824857,1784655269,1783834475,1783275079,1782816025,1782210631,1781699851,1780985415,1780381285,1779843501,1779195693,1778586110,1778066034,1777460373,1776955607,1776347832,1775864436,1775320327,1774543683,1773751715,1773136424,1772195773,1771594322,1770796052,1770207786,1769441598,1768889945,1768246971,1767693234,1766959545,1766407909,1765790786,1764168240,1763642761,1763058695,1744548621,1743847812,1709841158,1709326748,1706164570,1705599601];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/17 | 31-10 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | ❌ | 2026/11/10 | 10-13 | [Star Wars](https://ws.tsl.rocks/corp/2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992/) |
 | ✅ | 2026/11/03 | 22-7 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2026/10/29 | 14-3 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
@@ -214,5 +215,5 @@ Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794309342"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794893622"></span>
 </div>

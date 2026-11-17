@@ -1,6 +1,6 @@
 ---
 title: ​ITALIA
-description: W:99 L:8 D:2 Bonus ✅ 48%
+description: W:99 L:8 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 30 - 27 **First Legion**
 date: 2026-11-10T04:50:15.000Z
@@ -17,7 +17,7 @@ ui giàce NONNA DI CAPPUCCETTO.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/WWfeyVes)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
