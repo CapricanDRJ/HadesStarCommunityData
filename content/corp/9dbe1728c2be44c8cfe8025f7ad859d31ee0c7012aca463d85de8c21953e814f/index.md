@@ -1,6 +1,6 @@
 ---
 title: ​星域
-description: W:83 L:80 D:2 Bonus ✅ 50%
+description: W:83 L:80 D:2 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 30 - 3 **Новый Мир**
 date: 2026-11-10T13:30:53.000Z
@@ -15,7 +15,7 @@ Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
