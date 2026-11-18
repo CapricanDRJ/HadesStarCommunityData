@@ -1,9 +1,9 @@
 ---
 title: ​甜甜圈
-description: W:13 L:9 D:0 Bonus ❌ 7%
+description: W:13 L:11 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 0 - 7 **Sunat\.**
-date: 2026-11-11T17:27:58.000Z
+Summary: ❌ 0 - 4 **Cosmic Astrolog**
+date: 2026-11-18T13:20:56.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-11T17:27:58.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (-16)|
-| ELO Competitive | 1297 🔻  (-18)|
-| Total Matches | 22 |
+| ELO Regular | 1195 🔻  (-15)|
+| ELO Competitive | 1283 🔻  (-14)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 9 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793986078,1793807657,1793368288,1793354627,1792805229,1792704400,1792247268,1792068824,1791628138,1791264062,1791174919,1790825774,1790728442,1790387774,1790222856,1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
+        let timestamps = [1794576056,1794575154,1793986078,1793807657,1793368288,1793354627,1792805229,1792704400,1792247268,1792068824,1791628138,1791264062,1791174919,1790825774,1790728442,1790387774,1790222856,1789747008,1789308428,1788866461,1788434110,1787997644,1787547283,1787114961];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,7 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) | 1 | 1 | 0 | 2 |
+| [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) | 1 | 2 | 0 | 3 |
 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) | 0 | 2 | 0 | 2 |
 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) | 2 | 0 | 0 | 2 |
 
@@ -142,6 +142,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/18 | 0-4 | [Cosmic Astrolog](https://ws.tsl.rocks/corp/c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2/) |
+| ❌ | 2026/11/18 | 0-5 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
 | ❌ | 2026/11/11 | 0-7 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
 | ❌ | 2026/11/09 | 0-4 | [Солнечные Ветры](https://ws.tsl.rocks/corp/53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1/) |
 | ✅ | 2026/11/04 | 5-2 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
@@ -171,5 +173,5 @@ Corporation ID: b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794418078"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795008056"></span>
 </div>

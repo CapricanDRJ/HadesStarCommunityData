@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:11 L:8 D:2 Bonus ✅ 32%
+description: W:12 L:8 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 2 - 0 **以太超星团**
-date: 2026-11-15T10:20:23.000Z
+Summary: ✅ 5 - 0 **甜甜圈**
+date: 2026-11-18T13:05:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-15T10:20:23.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (9)|
-| ELO Competitive | 1309 🔺  (9)|
-| Total Matches | 21 |
-| Wins | 11 |
+| ELO Regular | 1237 🔺  (15)|
+| ELO Competitive | 1323 🔺  (14)|
+| Total Matches | 22 |
+| Wins | 12 |
 | Losses | 8 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794306023,1794010708,1793798944,1793538526,1793354627,1793067197,1792841360,1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1794575154,1794306023,1794010708,1793798944,1793538526,1793354627,1793067197,1792841360,1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,7 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) | 1 | 1 | 0 | 2 |
+| [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) | 2 | 1 | 0 | 3 |
 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) | 2 | 0 | 0 | 2 |
 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) | 1 | 1 | 0 | 2 |
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/18 | 5-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ✅ | 2026/11/15 | 2-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2026/11/12 | 2-9 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ❌ | 2026/11/09 | 1-2 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
@@ -170,5 +172,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794738023"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795007154"></span>
 </div>

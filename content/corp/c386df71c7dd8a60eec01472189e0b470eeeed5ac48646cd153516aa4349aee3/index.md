@@ -1,6 +1,6 @@
 ---
 title: ​中华五千年
-description: W:33 L:19 D:2 Bonus ✅ 40%
+description: W:33 L:19 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 25 - 0 **战争幽灵**
 date: 2026-11-11T13:29:14.000Z
@@ -15,7 +15,7 @@ date: 2026-11-11T13:29:14.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

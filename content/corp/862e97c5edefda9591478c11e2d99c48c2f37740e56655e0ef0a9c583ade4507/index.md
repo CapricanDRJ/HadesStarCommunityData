@@ -1,9 +1,9 @@
 ---
 title: ​何为真理
-description: W:32 L:28 D:3 Bonus ❌ 9%
+description: W:33 L:29 D:3 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **InfinityCorp**
-date: 2026-10-30T07:05:19.000Z
+Summary: ✅ 7 - 1 **星际联邦**
+date: 2026-11-18T14:41:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ date: 2026-10-30T07:05:19.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (-3)|
-| ELO Competitive | 1397 🔺  (5)|
-| Total Matches | 63 |
-| Wins | 32 |
-| Losses | 28 |
+| ELO Regular | 1271 🔺  (19)|
+| ELO Competitive | 1415 🔺  (17)|
+| Total Matches | 65 |
+| Wins | 33 |
+| Losses | 29 |
 | Draws | 3 |
 | Streak Record | 9 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792911919,1792867435,1792416559,1790772295,1790769891,1789921333,1787940070,1787717508,1787488693,1786702719,1786050869,1785768073,1784685617,1784685016,1784096449,1784074521,1783642212,1783642212,1783181047,1783167224,1782732204,1778992592,1778541662,1778071443,1777549299,1777113948,1776678305,1776177188,1775661937,1775655326,1775221478,1775219676,1773868589,1773409811,1773405904,1772969385,1772533486,1772469799,1772035946,1771961299,1771466489,1771456297,1770906312,1770901504,1769958116,1769577458,1768932612,1768622535,1767980455,1767969034,1766873622,1766845078,1766315370,1765541406,1765537200,1764976235,1764960008,1764478848,1764429075,1763989782,1763988880,1763519263,1763037964];
+        let timestamps = [1794580863,1794580863,1792911919,1792867435,1792416559,1790772295,1790769891,1789921333,1787940070,1787717508,1787488693,1786702719,1786050869,1785768073,1784685617,1784685016,1784096449,1784074521,1783642212,1783642212,1783181047,1783167224,1782732204,1778992592,1778541662,1778071443,1777549299,1777113948,1776678305,1776177188,1775661937,1775655326,1775221478,1775219676,1773868589,1773409811,1773405904,1772969385,1772533486,1772469799,1772035946,1771961299,1771466489,1771456297,1770906312,1770901504,1769958116,1769577458,1768932612,1768622535,1767980455,1767969034,1766873622,1766845078,1766315370,1765541406,1765537200,1764976235,1764960008,1764478848,1764429075,1763989782,1763988880,1763519263,1763037964];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,9 +133,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) | 2 | 1 | 0 | 3 |
 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 2 | 0 | 0 | 2 |
 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) | 2 | 0 | 0 | 2 |
-| [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) | 1 | 1 | 0 | 2 |
 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -143,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/18 | 7-1 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
+| ❌ | 2026/11/18 | 0-16 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 | ↔️ | 2026/10/30 | 0-0 | [InfinityCorp](https://ws.tsl.rocks/corp/f77a735eeb6db9f7c867449823b6384579c6fea6a0a915efcb23559e75ed512b/) |
 | ✅ | 2026/10/29 | 12-0 | [W\.A\.L\.R\.U\.S\.](https://ws.tsl.rocks/corp/3360cfbc27ced65ef69f7de87380357cd8d4a316d8701e67b93a624d481bf313/) |
 | ❌ | 2026/10/24 | 3-7 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
@@ -213,5 +215,5 @@ Corporation ID: 862e97c5edefda9591478c11e2d99c48c2f37740e56655e0ef0a9c583ade4507
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793343919"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795012863"></span>
 </div>

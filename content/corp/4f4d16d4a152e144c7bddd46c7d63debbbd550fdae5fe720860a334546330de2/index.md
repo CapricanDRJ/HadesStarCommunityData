@@ -1,9 +1,9 @@
 ---
 title: ​Gold Star
-description: W:15 L:34 D:3 Bonus ❌ 8%
+description: W:15 L:35 D:3 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 3 - 10 **传说之下2**
-date: 2026-10-28T08:12:32.000Z
+Summary: ❌ 2 - 19 **龙的传人**
+date: 2026-11-18T15:31:07.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Ruling the universe is our simple goal.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1091 🔻  (-6)|
-| ELO Competitive | 1207 🔻  (-5)|
-| Total Matches | 52 |
+| ELO Regular | 1082 🔻  (-9)|
+| ELO Competitive | 1202 🔻  (-4)|
+| Total Matches | 53 |
 | Wins | 15 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 3 |
 | Streak Record | 4 |
 | Flagship | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792743152,1790871136,1790282938,1789148582,1786295931,1785653293,1783668645,1782914268,1781128125,1779658421,1778194926,1777155721,1775836193,1775035809,1764969216,1761885272,1761360530,1759518860,1758876771,1757763228,1754639960,1754039885,1753446730,1752240902,1751005019,1749213126,1746840689,1745159541,1743266590,1742386621,1741546437,1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
+        let timestamps = [1794583867,1792743152,1790871136,1790282938,1789148582,1786295931,1785653293,1783668645,1782914268,1781128125,1779658421,1778194926,1777155721,1775836193,1775035809,1764969216,1761885272,1761360530,1759518860,1758876771,1757763228,1754639960,1754039885,1753446730,1752240902,1751005019,1749213126,1746840689,1745159541,1743266590,1742386621,1741546437,1740775947,1740169548,1739572420,1738874062,1738100244,1737596308,1733582560,1731503746,1722721186,1719450600,1717140526,1715298364,1714371944,1712791522,1711511116,1710292471,1709804196,1708666064,1707302416,1705727319,1704520318];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/18 | 2-19 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
 | ❌ | 2026/10/28 | 3-10 | [传说之下2](https://ws.tsl.rocks/corp/faa2aefadbb402432c939d718812c12a5541becc311c39f57a880750d11c56bb/) |
 | ❌ | 2026/10/06 | 6-27 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ❌ | 2026/09/29 | 3-12 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
@@ -201,5 +202,5 @@ Corporation ID: 4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793175152"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795015867"></span>
 </div>
