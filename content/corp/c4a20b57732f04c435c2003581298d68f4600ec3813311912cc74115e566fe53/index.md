@@ -1,6 +1,6 @@
 ---
 title: ​Mondluftschiff
-description: W:5 L:10 D:1 Bonus ✅ 32%
+description: W:5 L:10 D:1 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 3 - 6 **CORE INFLICTION**
 date: 2026-11-17T09:53:58.000Z
@@ -15,7 +15,7 @@ date: 2026-11-17T09:53:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​SNSS
-description: W:19 L:74 D:1 Bonus ✅ 48%
+description: W:19 L:74 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 1 - 12 **Croce del Sud**
 date: 2026-11-17T00:08:23.000Z
@@ -18,7 +18,7 @@ nts, Dark RS focussed corp, with optional WS runs.
 <br>
 
 ### [Discord](https://discord.gg/2Dh98GHnug)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
