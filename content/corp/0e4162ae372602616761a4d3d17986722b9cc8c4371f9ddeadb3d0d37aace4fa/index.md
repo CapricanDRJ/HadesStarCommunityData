@@ -1,9 +1,9 @@
 ---
 title: ​Grater U
-description: W:4 L:12 D:4 Bonus ❌ 6%
+description: W:4 L:13 D:4 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 2 - 0 **Magyar Vándor**
-date: 2026-11-09T18:29:48.000Z
+Summary: ❌ 0 - 1 **暗黑星雲**
+date: 2026-11-18T15:47:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ This is part of Grater T.Welcome the ones who are inactive and kicked
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔺  (17)|
-| ELO Competitive | 1179 🔺  (15)|
-| Total Matches | 20 |
+| ELO Regular | 1126 🔻  (-13)|
+| ELO Competitive | 1166 🔻  (-13)|
+| Total Matches | 21 |
 | Wins | 4 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 4 |
 | Flagship | 3 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793816988,1793123055,1792121097,1791644428,1790738805,1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
+        let timestamps = [1794584875,1793816988,1793123055,1792121097,1791644428,1790738805,1790080159,1788840262,1788310643,1787620466,1786812393,1786674783,1786327741,1785605220,1785167091,1784712113,1780975412,1780022278,1727692618,1723947275,1723473663];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/18 | 0-1 | [暗黑星雲](https://ws.tsl.rocks/corp/b90f845286fa87621dc1a84f5f7759bcadad08746b4821246de566568b642a96/) |
 | ✅ | 2026/11/09 | 2-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ↔️ | 2026/11/01 | 0-0 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
 | ❌ | 2026/10/21 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
@@ -169,5 +170,5 @@ Corporation ID: 0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794248988"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795016875"></span>
 </div>

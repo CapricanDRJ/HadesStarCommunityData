@@ -1,9 +1,9 @@
 ---
 title: ​暗黑星雲
-description: W:3 L:4 D:0 Bonus ❌ 
+description: W:4 L:4 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 0 - 7 **Space Catz**
-date: 2026-07-19T09:28:57.000Z
+Summary: ✅ 1 - 0 **Grater U**
+date: 2026-11-18T15:47:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-07-19T09:28:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (-12)|
-| ELO Competitive | 1220 🔻  (-12)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1199 🔺  (13)|
+| ELO Competitive | 1233 🔺  (13)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1784021337,1783506185,1782285747,1781067352,1781059625,1780059227,1779622057];
+        let timestamps = [1794584875,1784021337,1783506185,1782285747,1781067352,1781059625,1780059227,1779622057];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/18 | 1-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ❌ | 2026/07/19 | 0-7 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ✅ | 2026/07/13 | 1-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2026/06/29 | 5-3 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
@@ -149,5 +150,5 @@ Corporation ID: b90f845286fa87621dc1a84f5f7759bcadad08746b4821246de566568b642a96
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1784453337"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795016875"></span>
 </div>

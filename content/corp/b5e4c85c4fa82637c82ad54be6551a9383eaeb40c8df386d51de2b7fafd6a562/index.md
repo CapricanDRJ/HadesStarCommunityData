@@ -1,6 +1,6 @@
 ---
 title: ​Sunat.
-description: W:7 L:6 D:2 Bonus ✅ 32%
+description: W:7 L:6 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 7 - 0 **甜甜圈**
 date: 2026-11-11T17:27:58.000Z
@@ -15,7 +15,7 @@ date: 2026-11-11T17:27:58.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​SPACING GUILD
-description: W:12 L:8 D:1 Bonus ✅ 34%
+description: W:12 L:8 D:1 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ✅ 16 - 0 **Avantgarde**
 date: 2026-11-11T16:07:51.000Z
@@ -15,7 +15,7 @@ date: 2026-11-11T16:07:51.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
