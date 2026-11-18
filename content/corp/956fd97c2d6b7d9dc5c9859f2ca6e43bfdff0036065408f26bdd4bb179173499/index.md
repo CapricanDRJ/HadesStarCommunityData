@@ -1,9 +1,9 @@
 ---
 title: ​太阳系星盟·白星观测站
-description: W:12 L:4 D:0 Bonus ❌ 7%
+description: W:12 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ❌ 2 - 3 **Cool Casual**
-date: 2026-10-04T01:57:15.000Z
+Summary: ❌ 0 - 8 **太阳系星盟**
+date: 2026-11-18T10:55:44.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-04T01:57:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔻  (-15)|
-| ELO Competitive | 1298 🔻  (-13)|
-| Total Matches | 16 |
+| ELO Regular | 1269 🔻  (-17)|
+| ELO Competitive | 1283 🔻  (-15)|
+| Total Matches | 17 |
 | Wins | 12 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 9 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1790647035,1790080159,1789869580,1789647882,1789166042,1788525147,1787401866,1786111155,1785673723,1770164230,1757827833,1755128862,1754696754,1754110498,1753671196,1753103273];
+        let timestamps = [1794567344,1790647035,1790080159,1789869580,1789647882,1789166042,1788525147,1787401866,1786111155,1785673723,1770164230,1757827833,1755128862,1754696754,1754110498,1753671196,1753103273];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -129,12 +129,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/18 | 0-8 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ❌ | 2026/10/04 | 2-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ✅ | 2026/09/27 | 13-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ✅ | 2026/09/25 | 1-0 | [Team Equilium](https://ws.tsl.rocks/corp/a3e60845e47242ff075dadd9eeb73fb95b18d79f23488f2f88d1be79c6a61cce/) |
@@ -158,5 +164,5 @@ Corporation ID: 956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791079035"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794999344"></span>
 </div>
