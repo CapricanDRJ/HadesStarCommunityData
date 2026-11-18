@@ -1,9 +1,9 @@
 ---
 title: ​UFSG
-description: W:2 L:11 D:3 Bonus ❌ 5%
+description: W:2 L:11 D:4 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **仙女座星雲**
-date: 2026-10-26T05:33:13.000Z
+Summary: ↔️ 0 - 0 **Vitare Corp**
+date: 2026-11-18T02:38:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ HAGUANTE MILEY CARRAJO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (-1)|
-| ELO Competitive | 1141 🔻  (0)|
-| Total Matches | 16 |
+| ELO Regular | 1125 🔺  (2)|
+| ELO Competitive | 1143 🔺  (2)|
+| Total Matches | 17 |
 | Wins | 2 |
 | Losses | 11 |
-| Draws | 3 |
+| Draws | 4 |
 | Flagship | 2 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792560793,1791880160,1790739090,1789532546,1789091805,1786815768,1786382498,1785428270,1784944348,1784511509,1783144392,1726361281,1724835416,1723849241,1723188919,1722598933];
+        let timestamps = [1794537534,1792560793,1791880160,1790739090,1789532546,1789091805,1786815768,1786382498,1785428270,1784944348,1784511509,1783144392,1726361281,1724835416,1723849241,1723188919,1722598933];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/18 | 0-0 | [Vitare Corp](https://ws.tsl.rocks/corp/cf8111b4c468251bed72cbc474c276ac775d53b430a6159c85d7cd81a7db663c/) |
 | ❌ | 2026/10/26 | 0-18 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ↔️ | 2026/10/18 | 0-0 | [TUSFO星舰联邦](https://ws.tsl.rocks/corp/016954ccb4cf18eab01bdcce39c263205f20f80f38920e43516911db71c9d1ab/) |
 | ↔️ | 2026/10/05 | 0-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
@@ -162,5 +163,5 @@ Corporation ID: 9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1792992793"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794969534"></span>
 </div>

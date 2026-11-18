@@ -1,9 +1,9 @@
 ---
 title: ​Vitare Corp
-description: W:0 L:2 D:0 Bonus ❌ 
+description: W:0 L:2 D:1 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 14 **New YuGiOh**
-date: 2026-02-25T22:59:51.000Z
+Summary: ↔️ 0 - 0 **UFSG**
+date: 2026-11-18T02:38:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-02-25T22:59:51.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (-7)|
-| ELO Competitive | 1182 🔻  (-3)|
-| Total Matches | 2 |
+| ELO Regular | 1175 🔻  (-2)|
+| ELO Competitive | 1180 🔻  (-2)|
+| Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1771628391,1752852033];
+        let timestamps = [1794537534,1771628391,1752852033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/18 | 0-0 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) |
 | ❌ | 2026/02/25 | 0-14 | [New YuGiOh](https://ws.tsl.rocks/corp/14dfb83015e3c431e3b62aa4d0a6966657e5a34996e34d185efb92f703eda337/) |
 | ❌ | 2025/07/23 | 0-10 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
 
@@ -143,5 +144,5 @@ Corporation ID: cf8111b4c468251bed72cbc474c276ac775d53b430a6159c85d7cd81a7db663c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1772060391"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1794969534"></span>
 </div>
