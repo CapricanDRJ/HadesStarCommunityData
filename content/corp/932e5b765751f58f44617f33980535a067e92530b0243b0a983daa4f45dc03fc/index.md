@@ -1,6 +1,6 @@
 ---
 title: ​无人深空
-description: W:28 L:13 D:2 Bonus ✅ 38%
+description: W:28 L:13 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 0 - 8 **ༀᅗBAR ESTELARᅗༀ**
 date: 2026-11-10T23:16:40.000Z
@@ -15,7 +15,7 @@ date: 2026-11-10T23:16:40.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |
