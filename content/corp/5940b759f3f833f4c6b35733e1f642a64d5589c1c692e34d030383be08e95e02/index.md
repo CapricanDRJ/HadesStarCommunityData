@@ -1,6 +1,6 @@
 ---
 title: ​Ark Summit
-description: W:42 L:0 D:0 Bonus ✅ 48%
+description: W:42 L:0 D:0 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 21 - 3 **SternenStaub**
 date: 2026-11-11T09:42:20.000Z
@@ -18,7 +18,7 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
