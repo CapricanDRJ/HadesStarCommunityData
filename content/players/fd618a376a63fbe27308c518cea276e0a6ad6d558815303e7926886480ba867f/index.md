@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "loris 2019"
-description: "ws: 13 μ: 22.63"
+description: "ws: 14 μ: 22.33"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 12
-- **Rating**: -1.32
-- **μ**: 22.63  
-- **σ**: 7.98
-- W: 2, L: 11, T: 0
+- **WhiteStars**: 14
+- **Eligible**: 13
+- **Rating**: -1.57
+- **μ**: 22.33  
+- **σ**: 7.96
+- W: 2, L: 12, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 22.63"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 12 |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 13 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 22.63"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-19 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 3-33 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-11-14 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 3-51 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-11-01 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 17-30 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-04-19 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 2-34 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "HAXer91"
-description: "ws: 13 μ: 21.93"
+description: "ws: 14 μ: 21.63"
 ---
-- **WhiteStars**: 13
-- **Eligible**: 12
-- **Rating**: -1.99
-- **μ**: 21.93  
-- **σ**: 7.97
-- W: 2, L: 11, T: 0
+- **WhiteStars**: 14
+- **Eligible**: 13
+- **Rating**: -2.23
+- **μ**: 21.63  
+- **σ**: 7.95
+- W: 2, L: 12, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 13 μ: 21.93"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 12 |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 13 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 13 μ: 21.93"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-19 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 3-33 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-11-14 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 3-51 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-11-01 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 17-30 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-06-14 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 3-22 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
