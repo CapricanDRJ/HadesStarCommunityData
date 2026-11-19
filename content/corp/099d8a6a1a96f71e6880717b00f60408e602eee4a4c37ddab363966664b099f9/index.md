@@ -1,9 +1,9 @@
 ---
 title: ​白虹贯日
-description: W:26 L:7 D:0 Bonus ✅ 38%
+description: W:27 L:7 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 8 - 1 **Deathwatch**
-date: 2026-11-14T00:42:30.000Z
+Summary: ✅ 29 - 4 **碧霄殿**
+date: 2026-11-19T09:57:28.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-11-14T00:42:30.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1361 🔺  (13)|
-| ELO Competitive | 1420 🔺  (17)|
-| Total Matches | 33 |
-| Wins | 26 |
+| ELO Regular | 1369 🔺  (7)|
+| ELO Competitive | 1438 🔺  (19)|
+| Total Matches | 34 |
+| Wins | 27 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794184950,1794184950,1793601906,1793601605,1793147427,1792634920,1792136415,1791607712,1790984997,1790984997,1789963603,1789449924,1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
+        let timestamps = [1794650248,1794184950,1794184950,1793601906,1793601605,1793147427,1792634920,1792136415,1791607712,1790984997,1790984997,1789963603,1789449924,1788920983,1788416989,1787925541,1787282603,1786785648,1786330486,1785838674,1785822454,1785387113,1785372694,1784896801,1784879681,1784365641,1784311257,1783857907,1783845225,1783407273,1783389552,1782915770,1782898345,1782466029];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/19 | 29-4 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2026/11/14 | 8-1 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ✅ | 2026/11/14 | 11-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ✅ | 2026/11/07 | 4-0 | [銀河星际集团](https://ws.tsl.rocks/corp/c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411/) |
@@ -181,5 +182,5 @@ Corporation ID: 099d8a6a1a96f71e6880717b00f60408e602eee4a4c37ddab363966664b099f9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794616950"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795082248"></span>
 </div>
