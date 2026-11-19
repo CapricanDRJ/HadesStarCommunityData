@@ -1,9 +1,9 @@
 ---
 title: ​Star Wars
-description: W:42 L:26 D:1 Bonus ❌ 17%
+description: W:43 L:26 D:1 Bonus ✅ 54%
 image: ./favicon.png
-Summary: ✅ 13 - 10 **Team Elite**
-date: 2026-11-10T11:15:42.000Z
+Summary: ✅ 32 - 6 **italian warrior**
+date: 2026-11-19T15:57:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ WhatsApp: <color=#00FFFF>034 99879-2012</color>
 ```
 <br>
 
-### Whitestar Bonus ❌ 17%
+### Whitestar Bonus ✅ 54%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔺  (17)|
-| ELO Competitive | 1531 🔺  (22)|
-| Total Matches | 69 |
-| Wins | 42 |
+| ELO Regular | 1370 🔺  (3)|
+| ELO Competitive | 1547 🔺  (16)|
+| Total Matches | 70 |
+| Wins | 43 |
 | Losses | 26 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 14 |
 | Flagship | 4 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793877342,1793874338,1779306870,1773162562,1771584958,1770805965,1768901059,1768495443,1768444067,1767548130,1767544523,1765614119,1762862816,1762802435,1761834650,1761662193,1760616465,1760532643,1759309431,1759200371,1758300437,1758163436,1757605192,1757446865,1755961241,1755766201,1755508099,1755079277,1754988233,1754517061,1754367416,1753840974,1753770059,1753274472,1753153458,1752626965,1752615550,1751945225,1751936213,1751365799,1751246908,1750731588,1750648954,1750075574,1750073470,1749608883,1749122382,1748662631,1748226939,1747734405,1747260536,1721716180,1712832078,1711101922,1710976636,1707273274,1706592506,1706565163,1705381733,1704692659,1704260218,1702988809,1702924200,1702305079,1702293958,1701747564,1701235917,1700600383,1700587456];
+        let timestamps = [1794671877,1793877342,1793874338,1779306870,1773162562,1771584958,1770805965,1768901059,1768495443,1768444067,1767548130,1767544523,1765614119,1762862816,1762802435,1761834650,1761662193,1760616465,1760532643,1759309431,1759200371,1758300437,1758163436,1757605192,1757446865,1755961241,1755766201,1755508099,1755079277,1754988233,1754517061,1754367416,1753840974,1753770059,1753274472,1753153458,1752626965,1752615550,1751945225,1751936213,1751365799,1751246908,1750731588,1750648954,1750075574,1750073470,1749608883,1749122382,1748662631,1748226939,1747734405,1747260536,1721716180,1712832078,1711101922,1710976636,1707273274,1706592506,1706565163,1705381733,1704692659,1704260218,1702988809,1702924200,1702305079,1702293958,1701747564,1701235917,1700600383,1700587456];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,10 +137,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 2 | 1 | 0 | 3 |
 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) | 0 | 2 | 0 | 2 |
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 1 | 2 | 0 | 3 |
 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) | 2 | 0 | 0 | 2 |
-| [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1 | 1 | 0 | 2 |
 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 0 | 2 | 0 | 2 |
 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) | 1 | 1 | 0 | 2 |
 
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/19 | 32-6 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2026/11/10 | 13-10 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
 | ❌ | 2026/11/10 | 0-24 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2026/05/25 | 18-3 | [Stella☆Grow](https://ws.tsl.rocks/corp/8767272985b99b3dffd4c8482b4e7faa1c462406acd8bf16ecffb552b91422ca/) |
@@ -224,5 +226,5 @@ Corporation ID: 2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794309342"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795103877"></span>
 </div>

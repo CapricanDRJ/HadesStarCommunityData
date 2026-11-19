@@ -1,6 +1,6 @@
 ---
 title: ​九州·白星
-description: W:73 L:119 D:3 Bonus ✅ 50%
+description: W:73 L:119 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 0 - 4 **九州·华夏**
 date: 2026-11-17T19:48:57.000Z
@@ -15,7 +15,7 @@ date: 2026-11-17T19:48:57.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​阿尔特拉集团
-description: W:50 L:62 D:7 Bonus ✅ 40%
+description: W:50 L:62 D:7 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 18 **SILVER TERRA**
 date: 2026-11-17T22:44:58.000Z
@@ -21,7 +21,7 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
