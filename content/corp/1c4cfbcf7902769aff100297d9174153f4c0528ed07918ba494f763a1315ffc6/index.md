@@ -1,6 +1,6 @@
 ---
 title: ​The Allegiant
-description: W:68 L:80 D:3 Bonus ✅ 46%
+description: W:68 L:80 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 3 - 35 **Rogue One**
 date: 2026-11-18T16:31:12.000Z
@@ -19,7 +19,7 @@ Red_Coat_Mafia
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
