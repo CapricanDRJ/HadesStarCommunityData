@@ -1,9 +1,9 @@
 ---
 title: ​NoweUkladyII
-description: W:30 L:0 D:0 Bonus ❌ 9%
+description: W:31 L:0 D:0 Bonus ✅ 38%
 image: ./favicon.png
-Summary: ✅ 42 - 0 **101**
-date: 2026-10-28T12:52:04.000Z
+Summary: ✅ 50 - 0 **无人深空**
+date: 2026-11-18T23:26:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ godę, jak również chętnych na regularne zabawy na WS.
 ```
 <br>
 
-### Whitestar Bonus ❌ 9%
+### Whitestar Bonus ✅ 38%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1512 🔺  (1)|
-| ELO Competitive | 1621 🔺  (4)|
-| Total Matches | 30 |
-| Wins | 30 |
+| ELO Regular | 1520 🔺  (8)|
+| ELO Competitive | 1630 🔺  (9)|
+| Total Matches | 31 |
+| Wins | 31 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 30 |
-| Streak Record | 30 |
+| Streak | 31 |
+| Streak Record | 31 |
 | Flagship | 6 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1792759924,1792185686,1791751920,1781193838,1780600416,1780015670,1779543067,1778858298,1778254416,1777613894,1776267618,1775831986,1775290581,1774534669,1774015070,1773578061,1773143032,1723422877,1722521644,1721903170,1720903643,1719885428,1719340314,1718795480,1717958998,1717443193,1717003502,1716553331,1716104587,1715636381];
+        let timestamps = [1794612402,1792759924,1792185686,1791751920,1781193838,1780600416,1780015670,1779543067,1778858298,1778254416,1777613894,1776267618,1775831986,1775290581,1774534669,1774015070,1773578061,1773143032,1723422877,1722521644,1721903170,1720903643,1719885428,1719340314,1718795480,1717958998,1717443193,1717003502,1716553331,1716104587,1715636381];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/18 | 50-0 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/10/28 | 42-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2026/10/21 | 35-3 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2026/10/16 | 26-0 | [Dark Monarchs](https://ws.tsl.rocks/corp/c23ec9ebc110eb3dd1c56d100e206f8e421ad61de0748f4c6229e6297d736b4c/) |
@@ -180,5 +181,5 @@ Corporation ID: 9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793191924"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795044402"></span>
 </div>

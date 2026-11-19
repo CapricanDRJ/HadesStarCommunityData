@@ -1,6 +1,6 @@
 ---
 title: ​日月星辰
-description: W:14 L:41 D:0 Bonus ✅ 36%
+description: W:14 L:41 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 0 - 36 **Russian space 3**
 date: 2026-11-17T06:13:44.000Z
@@ -17,7 +17,7 @@ date: 2026-11-17T06:13:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

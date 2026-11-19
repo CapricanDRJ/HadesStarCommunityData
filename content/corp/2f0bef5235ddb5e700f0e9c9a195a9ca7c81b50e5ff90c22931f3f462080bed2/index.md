@@ -1,6 +1,6 @@
 ---
 title: ​💮問鼎無垠💮
-description: W:72 L:41 D:0 Bonus ✅ 46%
+description: W:72 L:41 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 8 - 10 **Solar Corp**
 date: 2026-11-17T00:58:25.000Z
@@ -15,7 +15,7 @@ date: 2026-11-17T00:58:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

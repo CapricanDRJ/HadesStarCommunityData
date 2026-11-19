@@ -1,9 +1,9 @@
 ---
 title: ​The Bois
-description: W:5 L:7 D:1 Bonus ❌ 5%
+description: W:5 L:8 D:1 Bonus ❌ 5%
 image: ./favicon.png
-Summary: ❌ 3 - 6 **太阳系星盟**
-date: 2026-11-13T08:31:05.000Z
+Summary: ❌ 0 - 4 **Sunat\.**
+date: 2026-11-18T21:49:42.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-13T08:31:05.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (-14)|
-| ELO Competitive | 1195 🔻  (-12)|
-| Total Matches | 13 |
+| ELO Regular | 1167 🔻  (-13)|
+| ELO Competitive | 1183 🔻  (-12)|
+| Total Matches | 14 |
 | Wins | 5 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794126665,1793590346,1793067197,1792634920,1792108168,1791574734,1791024048,1790583648,1790108944,1789647882,1789199057,1787237236,1786795564];
+        let timestamps = [1794606582,1794126665,1793590346,1793067197,1792634920,1792108168,1791574734,1791024048,1790583648,1790108944,1789647882,1789199057,1787237236,1786795564];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/18 | 0-4 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
 | ❌ | 2026/11/13 | 3-6 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ✅ | 2026/11/07 | 2-0 | [TheDuckeanFlow](https://ws.tsl.rocks/corp/bddfa85ac0ddba1389b3ce0fede44f78e7622f0867ce5d98f55344c6d443f9a1/) |
 | ❌ | 2026/11/01 | 0-3 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
@@ -159,5 +160,5 @@ Corporation ID: 0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794558665"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795038582"></span>
 </div>
