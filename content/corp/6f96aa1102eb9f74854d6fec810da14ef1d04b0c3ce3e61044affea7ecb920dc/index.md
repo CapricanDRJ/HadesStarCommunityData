@@ -1,6 +1,6 @@
 ---
 title: ​северный шторм
-description: W:112 L:85 D:1 Bonus ✅ 52%
+description: W:112 L:85 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 15 - 9 **Industrial W\.O**
 date: 2026-11-12T13:39:31.000Z
@@ -16,7 +16,7 @@ date: 2026-11-12T13:39:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

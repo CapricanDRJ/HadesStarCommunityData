@@ -1,6 +1,6 @@
 ---
 title: ​OrderofTheGeon
-description: W:86 L:80 D:7 Bonus ✅ 44%
+description: W:86 L:80 D:7 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 9 - 0 **Germania**
 date: 2026-11-12T14:19:36.000Z
@@ -16,7 +16,7 @@ rd.
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

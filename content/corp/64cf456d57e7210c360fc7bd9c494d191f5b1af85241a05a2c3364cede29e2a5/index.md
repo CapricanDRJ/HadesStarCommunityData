@@ -1,9 +1,9 @@
 ---
 title: ​WR104
-description: W:0 L:3 D:0 Bonus ❌ 2%
+description: W:0 L:4 D:0 Bonus ❌ 3%
 image: ./favicon.png
-Summary: ❌ 0 - 6 **ParalleL**
-date: 2026-07-29T21:10:50.000Z
+Summary: ❌ 0 - 21 **Deathwatch**
+date: 2026-11-19T15:17:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,15 +16,15 @@ NSC
 ```
 <br>
 
-### Whitestar Bonus ❌ 2%
+### Whitestar Bonus ❌ 3%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (-13)|
-| ELO Competitive | 1162 🔻  (-13)|
-| Total Matches | 3 |
+| ELO Regular | 1146 🔻  (-10)|
+| ELO Competitive | 1158 🔻  (-5)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1784927450,1784218720,1732242359];
+        let timestamps = [1794669473,1784927450,1784218720,1732242359];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/19 | 0-21 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ❌ | 2026/07/29 | 0-6 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/07/21 | 0-21 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2/) |
 | ❌ | 2024/11/27 | 0-1 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
@@ -145,5 +146,5 @@ Corporation ID: 64cf456d57e7210c360fc7bd9c494d191f5b1af85241a05a2c3364cede29e2a5
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1785359450"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795101473"></span>
 </div>

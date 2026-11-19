@@ -1,6 +1,6 @@
 ---
 title: ​星落苑
-description: W:68 L:35 D:3 Bonus ✅ 46%
+description: W:68 L:35 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ❌ 4 - 6 **九州分团**
 date: 2026-11-17T23:17:42.000Z
@@ -17,7 +17,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 <br>
 
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

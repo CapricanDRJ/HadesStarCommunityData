@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-19T12:55:40.805Z
+date: 2026-11-19T15:55:40.401Z
 summary: "Corporation directory"
 ---
 
@@ -285,7 +285,7 @@ summary: "Corporation directory"
 | [death squadron](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) | 1206 | 1291 | 42 |
 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 1255 | 1520 | 174 |
 | [Death Starz](https://ws.tsl.rocks/corp/72050a78d7a3b399e8a6579f780941b77e870b86e7ae26abe0e9f4aaf3b73371/) | 1180 | 1208 | 6 |
-| [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) | 1280 | 1452 | 53 |
+| [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) | 1290 | 1457 | 54 |
 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) | 1033 | 1159 | 73 |
 | [DeepSeek](https://ws.tsl.rocks/corp/3b6cfa9066d6d41f2d411bfc69229f594a18dd7de31fc44eaff787f7153d0484/) | 958 | 1201 | 110 |
 | [Deez Space Nuts](https://ws.tsl.rocks/corp/8eb6d3c95e954b446d792be07de3ae75465cac50c7965ad87a7df821f034ebcb/) | 1183 | 1189 | 1 |
@@ -1425,7 +1425,7 @@ summary: "Corporation directory"
 | [Wolf Hunters](https://ws.tsl.rocks/corp/a760896a66a9a99c4645eda30f3f5ac5da834e6b5a6c61da7866cf789ef6ec50/) | 1274 | 1306 | 18 |
 | [Wompwompway](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) | 1246 | 1449 | 92 |
 | [World Hoppers](https://ws.tsl.rocks/corp/36feb10eb95f4c6b184924f6db081bc4bf7aae6f7f5c633bd809ccf425303931/) | 1185 | 1187 | 4 |
-| [WR104](https://ws.tsl.rocks/corp/64cf456d57e7210c360fc7bd9c494d191f5b1af85241a05a2c3364cede29e2a5/) | 1156 | 1162 | 3 |
+| [WR104](https://ws.tsl.rocks/corp/64cf456d57e7210c360fc7bd9c494d191f5b1af85241a05a2c3364cede29e2a5/) | 1146 | 1158 | 4 |
 | [ws destroyer](https://ws.tsl.rocks/corp/6e49e458a0b4d8e84bbe31cfc515a393f22b447c43b01047d795455900618574/) | 1172 | 1189 | 11 |
 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) | 1110 | 1119 | 20 |
 | [WSC](https://ws.tsl.rocks/corp/77c9701bf78f949dd4c0564f6c475f681f96454f99a253d8cbcd88a4755e2c6c/) | 1178 | 1191 | 2 |
