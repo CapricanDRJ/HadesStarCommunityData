@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:13 L:26 D:3 Bonus ✅ 36%
+description: W:13 L:27 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **\+SATELLITE•卫星联\+**
-date: 2026-11-15T00:34:48.000Z
+Summary: ❌ 0 - 21 **STAR TERROR CZ**
+date: 2026-11-20T09:39:12.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-15T00:34:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔺  (19)|
-| ELO Competitive | 1342 🔺  (11)|
-| Total Matches | 42 |
+| ELO Regular | 1101 🔻  (-8)|
+| ELO Competitive | 1337 🔻  (-5)|
+| Total Matches | 43 |
 | Wins | 13 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794270888,1794267884,1793791734,1793784527,1793352476,1793328924,1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1794735552,1794270888,1794267884,1793791734,1793784527,1793352476,1793328924,1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/20 | 0-21 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/11/15 | 4-0 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
 | ❌ | 2026/11/14 | 0-26 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ✅ | 2026/11/09 | 4-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -191,5 +192,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794702888"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795167552"></span>
 </div>

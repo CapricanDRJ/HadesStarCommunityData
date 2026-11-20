@@ -1,6 +1,6 @@
 ---
 title: ​StarControl
-description: W:38 L:16 D:0 Bonus ✅ 52%
+description: W:38 L:16 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 20 - 0 **Hun Generals**
 date: 2026-11-13T07:20:59.000Z
@@ -18,7 +18,7 @@ rs. Discord is required, please join us there before applying in game
 <br>
 
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
