@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-19T21:55:41.285Z
+date: 2026-11-20T00:55:40.233Z
 summary: "Corporation directory"
 ---
 
@@ -209,7 +209,7 @@ summary: "Corporation directory"
 | [Completist Ind](https://ws.tsl.rocks/corp/e41188f935f50cf1c7895a6954d0f5f468489ab13a0717fec23b4a61b9d46aa9/) | 1218 | 1228 | 1 |
 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) | 1185 | 1197 | 6 |
 | [Continuance](https://ws.tsl.rocks/corp/2c3f87013563292fdca83c5200da0bb1668b92a27af7ff4fa19968b5e4d54de0/) | 1172 | 1172 | 3 |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1315 | 2055 | 365 |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1321 | 2085 | 366 |
 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) | 1323 | 1378 | 70 |
 | [Copelius](https://ws.tsl.rocks/corp/5ccdfe71720f707dabd274b5bab6f84a443484f3e38ec1065ad5f5a20268649f/) | 1163 | 1177 | 3 |
 | [Core](https://ws.tsl.rocks/corp/064e57c0b410f85b0a74583e4e870f987bd016a905bb03f86f8e1eab4b48bd38/) | 1186 | 1186 | 1 |
@@ -1790,7 +1790,7 @@ summary: "Corporation directory"
 | [夢幻之星](https://ws.tsl.rocks/corp/fe40d241313e7c173325e8a74afea4cb16573b59ce638c1262d14dc6516f06c0/) | 1190 | 1192 | 1 |
 | [夢幻之星\*分盟\*](https://ws.tsl.rocks/corp/25ac58a842783eb85413a2cb4896100bd1bdad3b64dbbc3b2d2c9bdf3f878c96/) | 1114 | 1131 | 14 |
 | [大侠饶命](https://ws.tsl.rocks/corp/e8003e44263e1a6d45dabf6a8b06c5ddb784fd979d4e199c24d53fd5545ae568/) | 1189 | 1190 | 1 |
-| [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) | 1093 | 1165 | 24 |
+| [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) | 1087 | 1164 | 25 |
 | [天之始](https://ws.tsl.rocks/corp/74f97ab890d598e052986c864057edf4f04537ea7e142a8dc3aebcf50de4adae/) | 1130 | 1179 | 24 |
 | [天琴座联邦](https://ws.tsl.rocks/corp/3928bc72ac4a6520e6d501a9b13f0595b3401845fb184b605fa521b90cd01fe9/) | 1149 | 1228 | 19 |
 | [太宇天宫](https://ws.tsl.rocks/corp/f5c304e2c7f35d7c6dd11f65212748d4877c297f5b8efcca091e60634ef56bd4/) | 1173 | 1178 | 2 |

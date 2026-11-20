@@ -1,9 +1,9 @@
 ---
 title: ​大舰队がな
-description: W:4 L:17 D:3 Bonus ❌ 7%
+description: W:4 L:18 D:3 Bonus ❌ 7%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **Spacekill**
-date: 2026-10-08T14:21:08.000Z
+Summary: ❌ 0 - 62 **Continuum**
+date: 2026-11-19T23:38:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-10-08T14:21:08.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1093 🔺  (3)|
-| ELO Competitive | 1165 🔺  (4)|
-| Total Matches | 24 |
+| ELO Regular | 1087 🔻  (-7)|
+| ELO Competitive | 1164 🔻  (0)|
+| Total Matches | 25 |
 | Wins | 4 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791037268,1786025920,1785977176,1781144045,1778683747,1778396303,1777894069,1776388091,1773317879,1768615025,1764741274,1749720062,1737547323,1737545820,1727488313,1710053809,1708621503,1708178570,1707736531,1704991670,1704386827,1704167961,1703530862,1702827727];
+        let timestamps = [1794699512,1791037268,1786025920,1785977176,1781144045,1778683747,1778396303,1777894069,1776388091,1773317879,1768615025,1764741274,1749720062,1737547323,1737545820,1727488313,1710053809,1708621503,1708178570,1707736531,1704991670,1704386827,1704167961,1703530862,1702827727];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [黑色长城](https://ws.tsl.rocks/corp/8494a7ecc96c5cc06e4d9c7824f2c0cf9fde23e2878b0305b618382fb4068005/) | 0 | 1 | 1 | 2 |
 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) | 1 | 3 | 0 | 4 |
 | [E\.T\.A 二营](https://ws.tsl.rocks/corp/2f6b0bc6bf0f932bfd9c75dd559a659a45b515277f167f2cd9938a941769a093/) | 1 | 0 | 1 | 2 |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/19 | 0-62 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ↔️ | 2026/10/08 | 0-0 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
 | ↔️ | 2026/08/11 | 0-0 | [黑色长城](https://ws.tsl.rocks/corp/8494a7ecc96c5cc06e4d9c7824f2c0cf9fde23e2878b0305b618382fb4068005/) |
 | ❌ | 2026/08/11 | 0-45 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
@@ -173,5 +175,5 @@ Corporation ID: 31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791469268"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795131512"></span>
 </div>
