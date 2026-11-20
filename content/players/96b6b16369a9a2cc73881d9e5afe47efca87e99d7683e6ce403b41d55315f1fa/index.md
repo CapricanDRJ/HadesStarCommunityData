@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Voodoo"
-description: "ws: 11 μ: 27.23"
+description: "ws: 12 μ: 26.13"
 ---
-- **WhiteStars**: 11
-- **Eligible**: 10
-- **Rating**: 3.25
-- **μ**: 27.23  
-- **σ**: 7.99
-- W: 7, L: 4, T: 0
+- **WhiteStars**: 12
+- **Eligible**: 11
+- **Rating**: 2.26
+- **μ**: 26.13  
+- **σ**: 7.96
+- W: 7, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 11 μ: 27.23"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 10 |
+| [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 11 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 11 μ: 27.23"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-20 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 6-12 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-08-13 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 27-5 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-08-07 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 55-3 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-02-24 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 28-9 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |

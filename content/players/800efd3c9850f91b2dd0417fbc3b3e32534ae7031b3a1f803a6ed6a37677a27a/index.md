@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "DeimosMoon"
-description: "ws: 7 μ: 26.93"
+description: "ws: 8 μ: 24.96"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 7
-- **Rating**: 2.65
-- **μ**: 26.93  
-- **σ**: 8.09
-- W: 5, L: 2, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 8
+- **Rating**: 0.80
+- **μ**: 24.96  
+- **σ**: 8.06
+- W: 5, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 26.93"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 7 |
+| [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 8 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 26.93"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-20 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 6-12 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-02-24 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 28-9 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | 2025-10-14 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 12-10 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | 2025-10-05 | [United Stars](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 5-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

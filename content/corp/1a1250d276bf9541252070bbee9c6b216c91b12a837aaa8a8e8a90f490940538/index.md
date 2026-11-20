@@ -1,6 +1,6 @@
 ---
 title: ​Emergence
-description: W:64 L:3 D:0 Bonus ✅ 44%
+description: W:64 L:3 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 50 - 0 **italian warrior**
 date: 2026-11-13T14:11:36.000Z
@@ -17,7 +17,7 @@ En français svp - Entraide, discussions amicales, bonne humeur. Dites
 <br>
 
 ### [Discord](https://discord.gg/JygbSj6XMP)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
