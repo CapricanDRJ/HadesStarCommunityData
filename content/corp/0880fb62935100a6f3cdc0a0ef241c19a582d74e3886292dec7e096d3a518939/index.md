@@ -1,9 +1,9 @@
 ---
 title: ​Akatsuki
-description: W:4 L:1 D:0 Bonus ❌ 4%
+description: W:5 L:1 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 7 - 0 **CORPORATION**
-date: 2026-11-12T06:13:53.000Z
+Summary: ✅ 13 - 0 **休闲、红、蓝、白养老集团。**
+date: 2026-11-20T06:38:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-11-12T06:13:53.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 4%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (17)|
-| ELO Competitive | 1276 🔺  (16)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1261 🔺  (16)|
+| ELO Competitive | 1295 🔺  (19)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794032033,1793364079,1792801372,1792121691,1791320201];
+        let timestamps = [1794724739,1794032033,1793364079,1792801372,1792121691,1791320201];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/20 | 13-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ✅ | 2026/11/12 | 7-0 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
 | ✅ | 2026/11/04 | 20-0 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2026/10/29 | 14-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
@@ -148,5 +149,5 @@ Corporation ID: 0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794464033"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795156739"></span>
 </div>
