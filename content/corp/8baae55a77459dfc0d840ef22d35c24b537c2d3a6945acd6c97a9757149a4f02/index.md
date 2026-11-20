@@ -1,6 +1,6 @@
 ---
 title: ​Space Potatoes
-description: W:31 L:3 D:0 Bonus ✅ 38%
+description: W:31 L:3 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 22 - 6 **Empire of Hades**
 date: 2026-11-13T20:37:12.000Z
@@ -15,7 +15,7 @@ date: 2026-11-13T20:37:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

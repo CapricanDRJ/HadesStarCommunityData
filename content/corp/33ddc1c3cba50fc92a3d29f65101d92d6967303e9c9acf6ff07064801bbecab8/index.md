@@ -1,6 +1,6 @@
 ---
 title: ​Ahamkara
-description: W:1 L:4 D:0 Bonus ✅ 42%
+description: W:1 L:4 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 3 - 0 **Void Dominion**
 date: 2026-11-13T20:03:41.000Z
@@ -22,7 +22,7 @@ Discord Required - R8nzDPk
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
