@@ -1,9 +1,9 @@
 ---
 title: ​Regulus
-description: W:47 L:15 D:0 Bonus ❌ 16%
+description: W:48 L:15 D:0 Bonus ✅ 52%
 image: ./favicon.png
-Summary: ✅ 19 - 3 **Red Star**
-date: 2026-11-04T03:50:28.000Z
+Summary: ✅ 39 - 0 **大舰队がな**
+date: 2026-11-20T01:43:40.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 <br>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
-### Whitestar Bonus ❌ 16%
+### Whitestar Bonus ✅ 52%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1517 🔺  (4)|
-| ELO Competitive | 1730 🔺  (18)|
-| Total Matches | 62 |
-| Wins | 47 |
+| ELO Regular | 1519 🔺  (2)|
+| ELO Competitive | 1732 🔺  (1)|
+| Total Matches | 63 |
+| Wins | 48 |
 | Losses | 15 |
 | Draws | 0 |
-| Streak | 39 |
-| Streak Record | 39 |
+| Streak | 40 |
+| Streak Record | 40 |
 | Flagship | 11 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793332228,1793264612,1790820367,1789610639,1788480991,1787717638,1785889753,1784679910,1783467360,1782278837,1781157562,1780021677,1778801519,1777613294,1776388091,1775188432,1773883908,1772764503,1771549563,1770333979,1769135713,1767991272,1766792505,1766105355,1765514969,1764302243,1763223339,1761821128,1760782924,1759337679,1758299836,1756963122,1755838948,1754552812,1753521248,1752128818,1749727274,1747281565,1744686252,1725622582,1725600347,1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
+        let timestamps = [1794707020,1793332228,1793264612,1790820367,1789610639,1788480991,1787717638,1785889753,1784679910,1783467360,1782278837,1781157562,1780021677,1778801519,1777613294,1776388091,1775188432,1773883908,1772764503,1771549563,1770333979,1769135713,1767991272,1766792505,1766105355,1765514969,1764302243,1763223339,1761821128,1760782924,1759337679,1758299836,1756963122,1755838948,1754552812,1753521248,1752128818,1749727274,1747281565,1744686252,1725622582,1725600347,1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) | 2 | 0 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) | 2 | 0 | 0 | 2 |
 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 2 | 0 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/20 | 39-0 | [大舰队がな](https://ws.tsl.rocks/corp/31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc/) |
 | ✅ | 2026/11/04 | 19-3 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2026/11/03 | 24-6 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ✅ | 2026/10/06 | 15-6 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
@@ -218,5 +220,5 @@ Corporation ID: 2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793764228"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795139020"></span>
 </div>

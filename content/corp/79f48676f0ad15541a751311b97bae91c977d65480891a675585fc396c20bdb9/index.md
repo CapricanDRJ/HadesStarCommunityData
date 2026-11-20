@@ -1,9 +1,9 @@
 ---
 title: ​初始之音
-description: W:12 L:16 D:0 Bonus ❌ 6%
+description: W:13 L:16 D:0 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 36 - 2 **Держава Русь**
-date: 2026-11-08T22:13:01.000Z
+Summary: ✅ 23 - 0 **HIGH COMMAND**
+date: 2026-11-20T01:13:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,17 @@ date: 2026-11-08T22:13:01.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 6%
+### Whitestar Bonus ✅ 32%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (9)|
-| ELO Competitive | 1219 🔺  (19)|
-| Total Matches | 28 |
-| Wins | 12 |
+| ELO Regular | 1166 🔺  (24)|
+| ELO Competitive | 1249 🔺  (29)|
+| Total Matches | 29 |
+| Wins | 13 |
 | Losses | 16 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 2 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793743981,1724591276,1724570238,1721400113,1719023260,1719021098,1718450492,1718357791,1717998962,1717563325,1717111084,1716678638,1716237581,1716217447,1715772175,1715740933,1714049248,1713598576,1713590163,1713063146,1712654205,1712618756,1712181852,1712129263,1711725116,1711588400,1711156012,1710720948];
+        let timestamps = [1794705218,1793743981,1724591276,1724570238,1721400113,1719023260,1719021098,1718450492,1718357791,1717998962,1717563325,1717111084,1716678638,1716237581,1716217447,1715772175,1715740933,1714049248,1713598576,1713590163,1713063146,1712654205,1712618756,1712181852,1712129263,1711725116,1711588400,1711156012,1710720948];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/20 | 23-0 | [HIGH COMMAND](https://ws.tsl.rocks/corp/c301e344c877e869eedde9888fe0c1444bdf2c7c7750699fdf80745b983795a2/) |
 | ✅ | 2026/11/08 | 36-2 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/08/30 | 0-5 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2024/08/30 | 0-34 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
@@ -176,5 +178,5 @@ Corporation ID: 79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794175981"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795137218"></span>
 </div>
