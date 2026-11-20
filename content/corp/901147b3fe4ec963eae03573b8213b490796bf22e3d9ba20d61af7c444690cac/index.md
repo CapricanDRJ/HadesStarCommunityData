@@ -1,9 +1,9 @@
 ---
 title: ​Türk Yıldızları
-description: W:17 L:18 D:1 Bonus ❌ 8%
+description: W:17 L:19 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 26 **Любители Пива**
-date: 2026-11-07T04:19:57.000Z
+Summary: ❌ 2 - 30 **северный шторм**
+date: 2026-11-20T09:59:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ r.Rs7 - Rs10Discord zorunludur.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (-19)|
-| ELO Competitive | 1271 🔻  (-14)|
-| Total Matches | 36 |
+| ELO Regular | 1186 🔻  (-7)|
+| ELO Competitive | 1270 🔻  (-1)|
+| Total Matches | 37 |
 | Wins | 17 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 6 |
 | Flagship | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793593197,1793075006,1765273706,1758431209,1751977974,1750504392,1749735990,1747119598,1744973220,1716674731,1716107480,1714813436,1713686309,1711783110,1711196573,1710747082,1710237782,1709723973,1709034980,1708428285,1706963336,1706442544,1706003797,1705514559,1705000087,1704378618,1703856022,1703854218,1703403739,1702926905,1702819008,1702463334,1702306883,1701793845,1701345739,1700163387];
+        let timestamps = [1794736753,1793593197,1793075006,1765273706,1758431209,1751977974,1750504392,1749735990,1747119598,1744973220,1716674731,1716107480,1714813436,1713686309,1711783110,1711196573,1710747082,1710237782,1709723973,1709034980,1708428285,1706963336,1706442544,1706003797,1705514559,1705000087,1704378618,1703856022,1703854218,1703403739,1702926905,1702819008,1702463334,1702306883,1701793845,1701345739,1700163387];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/20 | 2-30 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ❌ | 2026/11/07 | 0-26 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) |
 | ❌ | 2026/11/01 | 3-23 | [红色太阳](https://ws.tsl.rocks/corp/8090de72c41a6255b4ffbcbfc8d591d6972c059836eabe4f57ce55a28dfb41fb/) |
 | ↔️ | 2025/12/14 | 0-0 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
@@ -186,5 +187,5 @@ Corporation ID: 901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794025197"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795168753"></span>
 </div>

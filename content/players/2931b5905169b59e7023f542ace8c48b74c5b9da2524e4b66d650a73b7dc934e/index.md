@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "djunkx"
-description: "ws: 46 μ: 23.07"
+description: "ws: 47 μ: 21.97"
 ---
-- **WhiteStars**: 46
-- **Eligible**: 40
-- **Rating**: 1.27
-- **μ**: 23.07  
-- **σ**: 7.27
-- W: 27, L: 19, T: 0
+- **WhiteStars**: 47
+- **Eligible**: 41
+- **Rating**: 0.24
+- **μ**: 21.97  
+- **σ**: 7.24
+- W: 27, L: 20, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 46 μ: 23.07"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 40 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 41 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 46 μ: 23.07"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-20 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 9-10 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | 2026-11-14 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 25-5 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | 2026-11-07 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 11-9 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-11-01 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 11-9 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |

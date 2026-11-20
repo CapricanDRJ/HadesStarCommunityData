@@ -1,9 +1,9 @@
 ---
 title: ​拼好团
-description: W:1 L:2 D:2 Bonus ✅ 28%
+description: W:1 L:3 D:2 Bonus ✅ 28%
 image: ./favicon.png
-Summary: ✅ 4 - 1 **Magyar Vándor**
-date: 2026-11-15T19:36:10.000Z
+Summary: ❌ 0 - 4 **ParalleL**
+date: 2026-11-20T11:09:18.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-15T19:36:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔺  (13)|
-| ELO Competitive | 1198 🔺  (14)|
-| Total Matches | 5 |
+| ELO Regular | 1172 🔻  (-19)|
+| ELO Competitive | 1189 🔻  (-9)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 2 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794339370,1793800446,1793368288,1792899582,1792440732];
+        let timestamps = [1794740958,1794339370,1793800446,1793368288,1792899582,1792440732];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/20 | 0-4 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ✅ | 2026/11/15 | 4-1 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ↔️ | 2026/11/09 | 0-0 | [休闲、红、蓝、白养老集团。](https://ws.tsl.rocks/corp/fac6071b530004bf66357eb56cba721111e0a2ef159c0ff32e5ec2eea6574946/) |
 | ❌ | 2026/11/04 | 2-5 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
@@ -146,5 +147,5 @@ Corporation ID: a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794771370"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795172958"></span>
 </div>

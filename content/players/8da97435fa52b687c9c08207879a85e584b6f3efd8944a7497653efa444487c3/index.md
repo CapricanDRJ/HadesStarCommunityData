@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Dani1993"
-description: "ws: 6 μ: 24.00"
+description: "ws: 7 μ: 25.47"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 3
-- **Rating**: -0.75
-- **μ**: 24.00  
-- **σ**: 8.25
-- W: 0, L: 6, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 4
+- **Rating**: 0.82
+- **μ**: 25.47  
+- **σ**: 8.22
+- W: 1, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 24.00"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3 |
+| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 24.00"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-20 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 10-9 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-11-06 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-9 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-10-23 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3-30 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | 2026-09-25 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 0-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

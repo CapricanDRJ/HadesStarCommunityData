@@ -1,9 +1,9 @@
 ---
 title: ​Ark Summit
-description: W:42 L:0 D:0 Bonus ❌ 14%
+description: W:43 L:0 D:0 Bonus ✅ 48%
 image: ./favicon.png
-Summary: ✅ 21 - 3 **SternenStaub**
-date: 2026-11-11T09:42:20.000Z
+Summary: ✅ 26 - 1 **STAR TERROR CZ**
+date: 2026-11-20T09:49:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ duct yourself appropriately, for we are a highly experienced WS Group
 <br>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
-### Whitestar Bonus ❌ 14%
+### Whitestar Bonus ✅ 48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1623 🔺  (1)|
-| ELO Competitive | 1801 🔺  (2)|
-| Total Matches | 42 |
-| Wins | 42 |
+| ELO Regular | 1627 🔺  (4)|
+| ELO Competitive | 1809 🔺  (7)|
+| Total Matches | 43 |
+| Wins | 43 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 42 |
-| Streak Record | 42 |
+| Streak | 43 |
+| Streak Record | 43 |
 | Flagship | 5 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793958140,1793204517,1785824857,1784619218,1782121994,1779699578,1776059419,1773714464,1771299899,1768118969,1765263492,1761633049,1760510413,1759216592,1756809890,1753271246,1752046485,1749619099,1748241961,1747114190,1745819769,1744695566,1743399142,1742125776,1741450873,1740301761,1739144825,1737860140,1737426831,1736994086,1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
+        let timestamps = [1794736153,1793958140,1793204517,1785824857,1784619218,1782121994,1779699578,1776059419,1773714464,1771299899,1768118969,1765263492,1761633049,1760510413,1759216592,1756809890,1753271246,1752046485,1749619099,1748241961,1747114190,1745819769,1744695566,1743399142,1742125776,1741450873,1740301761,1739144825,1737860140,1737426831,1736994086,1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/20 | 26-1 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/11/11 | 21-3 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ✅ | 2026/11/02 | 31-6 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2026/08/09 | 32-3 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
@@ -196,5 +197,5 @@ Corporation ID: 5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794390140"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795168153"></span>
 </div>
