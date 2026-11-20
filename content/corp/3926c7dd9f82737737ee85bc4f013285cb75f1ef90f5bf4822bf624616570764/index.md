@@ -1,6 +1,6 @@
 ---
 title: ​Любители Пива
-description: W:20 L:42 D:1 Bonus ✅ 42%
+description: W:20 L:42 D:1 Bonus ❌ 42%
 image: ./favicon.png
 Summary: ✅ 12 - 7 **VoidRunners**
 date: 2026-11-13T18:52:03.000Z
@@ -16,7 +16,7 @@ https://discord.gg/C3nffwQkCc
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 42%
 
 | Statistic | Value |
 | --- | --- |
