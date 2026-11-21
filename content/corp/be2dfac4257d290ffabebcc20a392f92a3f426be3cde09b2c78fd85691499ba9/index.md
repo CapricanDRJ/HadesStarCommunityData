@@ -1,9 +1,9 @@
 ---
 title: ​暮光之城
-description: W:3 L:5 D:1 Bonus ❌ 6%
+description: W:3 L:6 D:1 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ↔️ 0 - 0 **共产国际**
-date: 2025-10-23T16:57:46.000Z
+Summary: ❌ 0 - 7 **Oficina Tuga**
+date: 2026-11-21T17:15:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2025-10-23T16:57:46.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (-2)|
-| ELO Competitive | 1219 🔺  (1)|
-| Total Matches | 9 |
+| ELO Regular | 1170 🔻  (-16)|
+| ELO Competitive | 1204 🔻  (-15)|
+| Total Matches | 10 |
 | Wins | 3 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Flagship | 3 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1760806666,1750060850,1749517835,1749516538,1749068005,1718788262,1718286254,1717749438,1717307929];
+        let timestamps = [1794849335,1760806666,1750060850,1749517835,1749516538,1749068005,1718788262,1718286254,1717749438,1717307929];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/21 | 0-7 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
 | ↔️ | 2025/10/23 | 0-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ✅ | 2025/06/21 | 17-12 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2025/06/15 | 12-27 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
@@ -150,5 +151,5 @@ Corporation ID: be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1761238666"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795281335"></span>
 </div>

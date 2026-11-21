@@ -1,6 +1,6 @@
 ---
 title: ​Солнечные Ветры
-description: W:2 L:0 D:1 Bonus ✅ 
+description: W:2 L:0 D:1 Bonus ❌ 
 image: ./favicon.png
 Summary: ↔️ 3 - 3 **Deathwatch**
 date: 2026-11-19T16:17:59.000Z
@@ -15,7 +15,7 @@ date: 2026-11-19T16:17:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​战争幽灵
-description: W:2 L:25 D:0 Bonus ✅ 34%
+description: W:2 L:26 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **Avantgarde**
-date: 2026-11-16T16:33:15.000Z
+Summary: ❌ 0 - 13 **BRASIL ACADEMY**
+date: 2026-11-21T18:36:39.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-16T16:33:15.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 976 🔺  (3)|
-| ELO Competitive | 1078 🔺  (13)|
-| Total Matches | 27 |
+| ELO Regular | 970 🔻  (-5)|
+| ELO Competitive | 1077 🔻  (-1)|
+| Total Matches | 28 |
 | Wins | 2 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794414795,1793971754,1793486562,1793022161,1792511612,1792007873,1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
+        let timestamps = [1794854199,1794414795,1793971754,1793486562,1793022161,1792511612,1792007873,1791478247,1790954652,1790519359,1790078657,1789646080,1789146479,1788639624,1788175501,1787687894,1787236034,1786790455,1786295931,1785852970,1785334534,1784850846,1784418709,1783946534,1783495596,1782992979,1782495173,1781890033];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/21 | 0-13 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ✅ | 2026/11/16 | 3-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2026/11/11 | 0-25 | [中华五千年](https://ws.tsl.rocks/corp/c386df71c7dd8a60eec01472189e0b470eeeed5ac48646cd153516aa4349aee3/) |
 | ❌ | 2026/11/05 | 0-16 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
@@ -174,5 +175,5 @@ Corporation ID: 19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794846795"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795286199"></span>
 </div>

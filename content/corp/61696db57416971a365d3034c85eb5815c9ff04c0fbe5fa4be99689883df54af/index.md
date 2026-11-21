@@ -1,6 +1,6 @@
 ---
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:153 L:90 D:3 Bonus ✅ 52%
+description: W:153 L:90 D:3 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 10 - 14 **RUS**
 date: 2026-11-15T05:45:06.000Z
@@ -18,7 +18,7 @@ date: 2026-11-15T05:45:06.000Z
 <br>
 
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
