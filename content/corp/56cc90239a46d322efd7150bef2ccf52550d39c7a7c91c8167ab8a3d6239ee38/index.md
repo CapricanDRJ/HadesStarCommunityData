@@ -1,6 +1,6 @@
 ---
 title: ​Cosmosia
-description: W:13 L:5 D:0 Bonus ✅ 34%
+description: W:13 L:5 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 5 - 29 **Лунный Феникс**
 date: 2026-11-21T12:41:09.000Z
@@ -15,7 +15,7 @@ date: 2026-11-21T12:41:09.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Свободный флот
-description: W:98 L:141 D:7 Bonus ✅ 48%
+description: W:98 L:141 D:7 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 19 - 5 **Argentina 1\.0**
 date: 2026-11-14T15:23:29.000Z
@@ -18,7 +18,7 @@ date: 2026-11-14T15:23:29.000Z
 <br>
 
 ### [Discord](https://discord.gg/6zQ97TaFpS)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

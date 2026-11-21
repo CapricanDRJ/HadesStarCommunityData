@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Нова"
-description: "ws: 17 μ: 22.65"
+description: "ws: 18 μ: 23.50"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 14
-- **Rating**: -0.94
-- **μ**: 22.65  
-- **σ**: 7.86
-- W: 6, L: 9, T: 2
+- **WhiteStars**: 18
+- **Eligible**: 15
+- **Rating**: 0.01
+- **μ**: 23.50  
+- **σ**: 7.83
+- W: 7, L: 9, T: 2
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 22.65"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 14 |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 22.65"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 24-10 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | 2026-11-15 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 23-3 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | 2026-11-08 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 28-0 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | 2026-11-01 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 30-2 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |

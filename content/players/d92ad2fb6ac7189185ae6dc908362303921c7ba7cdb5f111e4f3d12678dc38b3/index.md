@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "МАИС"
-description: "ws: 5 μ: 23.96"
+description: "ws: 6 μ: 23.90"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 5
-- **Rating**: -0.49
-- **μ**: 23.96  
-- **σ**: 8.15
-- W: 2, L: 3, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 6
+- **Rating**: -0.44
+- **μ**: 23.90  
+- **σ**: 8.11
+- W: 2, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 23.96"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 5 |
+| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 6 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 5 μ: 23.96"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 10-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | 2026-05-25 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 4-13 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | 2026-03-23 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 8-18 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | 2026-03-17 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 26-3 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

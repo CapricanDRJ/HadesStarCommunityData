@@ -1,6 +1,6 @@
 ---
 title: ​Бороская Имерия
-description: W:74 L:46 D:2 Bonus ✅ 44%
+description: W:74 L:46 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 3 - 9 **Austria**
 date: 2026-11-21T07:45:48.000Z
@@ -17,7 +17,7 @@ date: 2026-11-21T07:45:48.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
