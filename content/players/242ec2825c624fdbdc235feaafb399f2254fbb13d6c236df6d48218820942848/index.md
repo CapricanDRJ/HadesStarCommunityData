@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "IXL.PovAndy"
-description: "ws: 45 μ: 27.20"
+description: "ws: 46 μ: 27.19"
 ---
-- **WhiteStars**: 45
-- **Eligible**: 35
-- **Rating**: 3.81
-- **μ**: 27.20  
-- **σ**: 7.80
-- W: 42, L: 3, T: 0
+- **WhiteStars**: 46
+- **Eligible**: 36
+- **Rating**: 3.85
+- **μ**: 27.19  
+- **σ**: 7.78
+- W: 43, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 45 μ: 27.20"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 35 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 36 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 45 μ: 27.20"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 23-4 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2026-09-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 5-11 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | 2026-09-19 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 32-5 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | 2026-09-12 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 14-31 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |

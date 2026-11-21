@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "OverLord"
-description: "ws: 31 μ: 26.37"
+description: "ws: 32 μ: 24.95"
 ---
-- **WhiteStars**: 31
-- **Eligible**: 28
-- **Rating**: 3.91
-- **μ**: 26.37  
-- **σ**: 7.49
-- W: 19, L: 12, T: 0
+- **WhiteStars**: 32
+- **Eligible**: 29
+- **Rating**: 2.53
+- **μ**: 24.95  
+- **σ**: 7.47
+- W: 19, L: 13, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 31 μ: 26.37"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 28 |
+| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 29 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 31 μ: 26.37"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 4-23 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-22 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 7-23 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-15 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 11-19 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | 2026-02-28 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 11-9 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

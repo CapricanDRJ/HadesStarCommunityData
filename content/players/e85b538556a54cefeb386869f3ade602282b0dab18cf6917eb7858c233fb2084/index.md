@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KOPCAP"
-description: "ws: 60 μ: 32.17"
+description: "ws: 61 μ: 32.29"
 ---
-- **WhiteStars**: 60
-- **Eligible**: 51
-- **Rating**: 9.58
-- **μ**: 32.17  
-- **σ**: 7.53
-- W: 57, L: 3, T: 0
+- **WhiteStars**: 61
+- **Eligible**: 52
+- **Rating**: 9.75
+- **μ**: 32.29  
+- **σ**: 7.51
+- W: 58, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 60 μ: 32.17"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 50 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 51 |
 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 60 μ: 32.17"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 23-4 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2026-11-01 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 28-6 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | 2026-10-04 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 34-3 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-09-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 29-3 | [RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |

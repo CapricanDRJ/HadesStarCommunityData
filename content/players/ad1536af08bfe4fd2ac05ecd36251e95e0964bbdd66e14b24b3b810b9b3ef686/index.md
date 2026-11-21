@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "龙宏平"
-description: "ws: 7 μ: 24.62"
+description: "ws: 8 μ: 24.55"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 7
-- **Rating**: 0.24
-- **μ**: 24.62  
-- **σ**: 8.13
-- W: 1, L: 6, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 8
+- **Rating**: 0.23
+- **μ**: 24.55  
+- **σ**: 8.11
+- W: 1, L: 7, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 24.62"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 7 |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 8 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 24.62"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 6-39 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-10-11 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2-55 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-06-20 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2-31 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | 2026-05-28 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 3-45 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

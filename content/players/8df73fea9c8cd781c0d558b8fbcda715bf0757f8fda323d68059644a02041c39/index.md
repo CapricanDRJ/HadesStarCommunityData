@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Sate_s"
-description: "ws: 10 μ: 26.44"
+description: "ws: 11 μ: 24.93"
 ---
-- **WhiteStars**: 10
-- **Eligible**: 9
-- **Rating**: 2.31
-- **μ**: 26.44  
-- **σ**: 8.04
-- W: 6, L: 4, T: 0
+- **WhiteStars**: 11
+- **Eligible**: 10
+- **Rating**: 0.86
+- **μ**: 24.93  
+- **σ**: 8.03
+- W: 6, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 10 μ: 26.44"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 8 |
+| [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 9 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 10 μ: 26.44"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 4-23 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | 2026-03-15 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 11-19 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | 2026-02-28 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 11-9 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | 2026-02-22 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 60-0 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |

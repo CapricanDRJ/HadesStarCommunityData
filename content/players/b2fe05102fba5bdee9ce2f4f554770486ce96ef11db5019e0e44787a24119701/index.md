@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Syoga65RUS"
-description: "ws: 64 μ: 36.80"
+description: "ws: 65 μ: 37.01"
 ---
-- **WhiteStars**: 64
-- **Eligible**: 51
-- **Rating**: 15.44
-- **μ**: 36.80  
-- **σ**: 7.12
-- W: 56, L: 8, T: 0
+- **WhiteStars**: 65
+- **Eligible**: 52
+- **Rating**: 15.68
+- **μ**: 37.01  
+- **σ**: 7.11
+- W: 57, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 64 μ: 36.80"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 51 |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 52 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 64 μ: 36.80"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 39-6 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | 2026-11-14 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 51-3 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | 2026-11-07 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 11-9 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2026-11-01 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 11-9 | [Hand Of NOD\!](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
