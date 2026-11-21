@@ -1,6 +1,6 @@
 ---
 title: ​UKR Spase
-description: W:103 L:78 D:0 Bonus ✅ 52%
+description: W:103 L:78 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 3 - 25 **契约\-璃月**
 date: 2026-11-14T11:48:10.000Z
@@ -19,7 +19,7 @@ date: 2026-11-14T11:48:10.000Z
 <br>
 
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

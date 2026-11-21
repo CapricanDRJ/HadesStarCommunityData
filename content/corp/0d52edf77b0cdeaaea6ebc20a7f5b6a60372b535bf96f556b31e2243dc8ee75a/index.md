@@ -1,6 +1,6 @@
 ---
 title: ​Imperium XIII
-description: W:108 L:70 D:1 Bonus ✅ 52%
+description: W:108 L:70 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 0 - 17 **Looping**
 date: 2026-11-20T20:40:07.000Z
@@ -21,7 +21,7 @@ Discord is required.
 <br>
 
 ### [Discord](https://discord.gg/c9wtCDusgE)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
