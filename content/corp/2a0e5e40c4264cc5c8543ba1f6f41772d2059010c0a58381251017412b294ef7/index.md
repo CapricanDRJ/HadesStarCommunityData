@@ -1,9 +1,9 @@
 ---
 title: ​华夏三体-基沃托斯集团
-description: W:3 L:19 D:2 Bonus ❌ 6%
+description: W:3 L:20 D:2 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 10 **ༀᅗBAR ESTELARᅗༀ**
-date: 2026-10-09T11:47:46.000Z
+Summary: ❌ 1 - 23 **CERBERUS SYSTEM**
+date: 2026-11-21T03:12:59.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Resident gift artifact
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1038 🔻  (-5)|
-| ELO Competitive | 1093 🔻  (-4)|
-| Total Matches | 24 |
+| ELO Regular | 1034 🔻  (-3)|
+| ELO Competitive | 1092 🔻  (-1)|
+| Total Matches | 25 |
 | Wins | 3 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1791114466,1771422942,1770668988,1769875717,1767191174,1765619527,1764402213,1761474403,1748780427,1738585873,1734640057,1734170030,1734003525,1733619227,1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
+        let timestamps = [1794798779,1791114466,1771422942,1770668988,1769875717,1767191174,1765619527,1764402213,1761474403,1748780427,1738585873,1734640057,1734170030,1734003525,1733619227,1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/21 | 1-23 | [CERBERUS SYSTEM](https://ws.tsl.rocks/corp/84ca35f0e6e24150613333f78670b8bb6e27010a69920dd6ee7cf671087a3976/) |
 | ❌ | 2026/10/09 | 0-10 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2026/02/23 | 0-2 | [Небула Рока](https://ws.tsl.rocks/corp/22875f3ae77efabcd56b4683dee31b7e35d927cb86876f8f587b5f048dfe68f9/) |
 | ❌ | 2026/02/14 | 0-4 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
@@ -173,5 +174,5 @@ Corporation ID: 2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1791546466"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795230779"></span>
 </div>

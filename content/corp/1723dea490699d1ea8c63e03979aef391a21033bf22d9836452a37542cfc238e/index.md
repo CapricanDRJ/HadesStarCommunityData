@@ -1,6 +1,6 @@
 ---
 title: ​Soul System
-description: W:52 L:66 D:3 Bonus ✅ 46%
+description: W:52 L:66 D:3 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 22 - 0 **Lost Legion**
 date: 2026-11-14T01:02:31.000Z
@@ -18,7 +18,7 @@ ust we are born our souls woven from light. RS and WS focused.
 <br>
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
