@@ -1,6 +1,6 @@
 ---
 title: ​Halcon español
-description: W:90 L:64 D:1 Bonus ✅ 44%
+description: W:90 L:64 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 36 - 1 **Свободный флот**
 date: 2026-11-14T11:03:07.000Z
@@ -18,7 +18,7 @@ e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​Cosmosia
-description: W:13 L:4 D:0 Bonus ✅ 34%
+description: W:13 L:5 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 5 - 3 **Austria**
-date: 2026-11-14T13:03:17.000Z
+Summary: ❌ 5 - 29 **Лунный Феникс**
+date: 2026-11-21T12:41:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-14T13:03:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔺  (15)|
-| ELO Competitive | 1445 🔺  (23)|
-| Total Matches | 17 |
+| ELO Regular | 1334 🔻  (-10)|
+| ELO Competitive | 1443 🔻  (-2)|
+| Total Matches | 18 |
 | Wins | 13 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794229397,1793625934,1792474673,1791808986,1791199175,1790607981,1789391345,1788183312,1786960830,1785844982,1783418988,1782226256,1781184298,1779707089,1777874367,1774862767,1774214708];
+        let timestamps = [1794832869,1794229397,1793625934,1792474673,1791808986,1791199175,1790607981,1789391345,1788183312,1786960830,1785844982,1783418988,1782226256,1781184298,1779707089,1777874367,1774862767,1774214708];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/21 | 5-29 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2026/11/14 | 5-3 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | ❌ | 2026/11/07 | 23-31 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2026/10/25 | 22-0 | [太空的猫](https://ws.tsl.rocks/corp/f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09/) |
@@ -165,5 +166,5 @@ Corporation ID: 56cc90239a46d322efd7150bef2ccf52550d39c7a7c91c8167ab8a3d6239ee38
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794661397"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795264869"></span>
 </div>

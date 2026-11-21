@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "DevilMayCry"
-description: "ws: 49 μ: 37.37"
+description: "ws: 50 μ: 36.09"
 ---
-- **WhiteStars**: 49
-- **Eligible**: 33
-- **Rating**: 14.80
-- **μ**: 37.37  
-- **σ**: 7.53
-- W: 47, L: 2, T: 0
+- **WhiteStars**: 50
+- **Eligible**: 34
+- **Rating**: 13.58
+- **μ**: 36.09  
+- **σ**: 7.51
+- W: 47, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 49 μ: 37.37"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 32 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 33 |
 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 49 μ: 37.37"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 18-24 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | 2026-11-07 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 48-3 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | 2026-11-01 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 39-6 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | 2026-10-10 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 33-3 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |

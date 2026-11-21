@@ -1,6 +1,6 @@
 ---
 title: ​契约-璃月
-description: W:62 L:28 D:2 Bonus ✅ 44%
+description: W:62 L:28 D:2 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 2 - 3 **imperio galacti**
 date: 2026-11-14T12:13:12.000Z
@@ -15,7 +15,7 @@ date: 2026-11-14T12:13:12.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

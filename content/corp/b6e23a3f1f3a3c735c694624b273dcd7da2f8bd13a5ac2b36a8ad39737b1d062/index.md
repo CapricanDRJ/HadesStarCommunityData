@@ -1,6 +1,6 @@
 ---
 title: ​Omega Alpha
-description: W:133 L:27 D:0 Bonus ✅ 56%
+description: W:133 L:27 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 31 - 1 **Держава Русь**
 date: 2026-11-14T11:13:08.000Z
@@ -21,7 +21,7 @@ date: 2026-11-14T11:13:08.000Z
 <br>
 
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

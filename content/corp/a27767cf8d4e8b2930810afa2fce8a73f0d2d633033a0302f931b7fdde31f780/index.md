@@ -1,6 +1,6 @@
 ---
 title: ​Spacekill
-description: W:8 L:15 D:3 Bonus ✅ 32%
+description: W:8 L:15 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **Galactic Empire**
 date: 2026-11-20T05:48:56.000Z
@@ -15,7 +15,7 @@ date: 2026-11-20T05:48:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

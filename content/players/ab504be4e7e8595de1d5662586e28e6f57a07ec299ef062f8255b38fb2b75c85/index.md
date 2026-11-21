@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "IXL.Dark"
-description: "ws: 36 μ: 30.31"
+description: "ws: 37 μ: 29.00"
 ---
-- **WhiteStars**: 36
-- **Eligible**: 28
-- **Rating**: 7.45
-- **μ**: 30.31  
-- **σ**: 7.62
-- W: 32, L: 4, T: 0
+- **WhiteStars**: 37
+- **Eligible**: 29
+- **Rating**: 6.21
+- **μ**: 29.00  
+- **σ**: 7.60
+- W: 32, L: 5, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 36 μ: 30.31"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 28 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 29 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 36 μ: 30.31"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-21 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 18-24 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | 2026-11-07 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 48-3 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | 2026-11-01 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 39-6 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 | 2026-10-24 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 9-25 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

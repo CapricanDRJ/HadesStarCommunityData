@@ -1,6 +1,6 @@
 ---
 title: ​imperio galacti
-description: W:128 L:48 D:2 Bonus ✅ 52%
+description: W:128 L:48 D:2 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 3 - 2 **契约\-璃月**
 date: 2026-11-14T12:13:12.000Z
@@ -17,7 +17,7 @@ telar, Alfa Omega GuistonRA
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
