@@ -1,6 +1,6 @@
 ---
 title: ​Lupus Regnum
-description: W:98 L:93 D:3 Bonus ✅ 50%
+description: W:98 L:93 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ❌ 3 - 7 **柯伊伯带伊甸园**
 date: 2026-11-22T08:47:38.000Z
@@ -15,7 +15,7 @@ date: 2026-11-22T08:47:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
