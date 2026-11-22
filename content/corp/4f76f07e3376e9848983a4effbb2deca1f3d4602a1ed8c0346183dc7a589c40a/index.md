@@ -1,9 +1,9 @@
 ---
 title: ​维埃星云氮氢钨钽
-description: W:9 L:11 D:3 Bonus ❌ 6%
+description: W:9 L:12 D:4 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ✅ 4 - 3 **我是沙碧**
-date: 2026-11-07T03:19:53.000Z
+Summary: ❌ 1 - 6 **拼好团**
+date: 2026-11-22T05:52:27.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-07T03:19:53.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (16)|
-| ELO Competitive | 1260 🔺  (26)|
-| Total Matches | 23 |
+| ELO Regular | 1179 🔻  (-16)|
+| ELO Competitive | 1269 🔺  (9)|
+| Total Matches | 25 |
 | Wins | 9 |
-| Losses | 11 |
-| Draws | 3 |
-| Streak | 3 |
+| Losses | 12 |
+| Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793589593,1793513291,1789846678,1789818206,1789188842,1789178454,1788553691,1788514621,1788065543,1787979019,1787614292,1787147404,1780240389,1774788855,1774267576,1773348830,1773322687,1772621806,1772616699,1772121569,1771681146,1771248820,1770779831];
+        let timestamps = [1794894747,1794894747,1793589593,1793513291,1789846678,1789818206,1789188842,1789178454,1788553691,1788514621,1788065543,1787979019,1787614292,1787147404,1780240389,1774788855,1774267576,1773348830,1773322687,1772621806,1772616699,1772121569,1771681146,1771248820,1770779831];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +141,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/22 | 1-6 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
+| ↔️ | 2026/11/22 | 0-0 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
 | ✅ | 2026/11/07 | 4-3 | [我是沙碧](https://ws.tsl.rocks/corp/098610891e066e1c3eb89a95d424ef860ac1447f85cb7e6fdec05bb487338851/) |
 | ✅ | 2026/11/06 | 3-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2026/09/24 | 1-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
@@ -172,5 +173,5 @@ Corporation ID: 4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794021593"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795326747"></span>
 </div>

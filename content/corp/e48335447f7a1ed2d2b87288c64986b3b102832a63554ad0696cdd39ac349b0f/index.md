@@ -1,9 +1,9 @@
 ---
 title: ​Milliways
-description: W:18 L:0 D:0 Bonus ✅ 34%
+description: W:20 L:0 D:0 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 23 - 6 **Hinterm Mars**
-date: 2026-11-15T09:25:20.000Z
+Summary: ✅ 23 - 3 **attraction\.F**
+date: 2026-11-22T06:42:30.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-11-15T09:25:20.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1430 🔺  (9)|
-| ELO Competitive | 1438 🔺  (26)|
-| Total Matches | 18 |
-| Wins | 18 |
+| ELO Regular | 1455 🔺  (12)|
+| ELO Competitive | 1467 🔺  (29)|
+| Total Matches | 20 |
+| Wins | 20 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 18 |
-| Streak Record | 18 |
+| Streak | 20 |
+| Streak Record | 20 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794302720,1794290407,1793689912,1793687810,1793082516,1793081014,1792483082,1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
+        let timestamps = [1794897750,1794897450,1794302720,1794290407,1793689912,1793687810,1793082516,1793081014,1792483082,1792476475,1791889186,1791868763,1791264663,1791264663,1790663253,1790663253,1790068444,1789934769,1789456531,1789237218];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 0 | 0 | 2 |
 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 2 | 0 | 0 | 2 |
 
@@ -142,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/22 | 23-3 | [attraction\.F](https://ws.tsl.rocks/corp/b2358fac70c7c1072563046f11245b78c51ec7b9bdf54e329487b89dfa60c371/) |
+| ✅ | 2026/11/22 | 33-2 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2026/11/15 | 23-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2026/11/15 | 26-0 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2026/11/08 | 18-10 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
@@ -167,5 +170,5 @@ Corporation ID: e48335447f7a1ed2d2b87288c64986b3b102832a63554ad0696cdd39ac349b0f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794734720"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795329750"></span>
 </div>

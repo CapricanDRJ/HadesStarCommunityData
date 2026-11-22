@@ -1,6 +1,6 @@
 ---
 title: ​HUN TERS
-description: W:69 L:34 D:3 Bonus ✅ 48%
+description: W:69 L:34 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 23 - 3 **💮問鼎無垠💮**
 date: 2026-11-15T05:05:04.000Z
@@ -15,7 +15,7 @@ date: 2026-11-15T05:05:04.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
