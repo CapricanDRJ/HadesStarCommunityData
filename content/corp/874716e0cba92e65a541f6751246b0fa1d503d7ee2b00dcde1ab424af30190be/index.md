@@ -1,9 +1,9 @@
 ---
 title: ​ༀᅗBAR ESTELARᅗༀ
-description: W:32 L:19 D:1 Bonus ✅ 40%
+description: W:32 L:20 D:1 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 11 - 1 **烽烟与黎明**
-date: 2026-11-21T18:51:42.000Z
+Summary: ❌ 3 - 34 **Space Potatoes**
+date: 2026-11-22T00:07:06.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (8)|
+| ELO Regular | 1385 🔻  (-11)|
 | ELO Competitive | 1505 🔺  (6)|
-| Total Matches | 52 |
+| Total Matches | 53 |
 | Wins | 32 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
-| Streak | 8 |
 | Streak Record | 8 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794855102,1794405532,1794281098,1793920600,1793716042,1793476047,1793268380,1793022719,1792813941,1792511011,1792185686,1792048098,1791739601,1791563255,1791238833,1791114466,1790804449,1790599268,1790290747,1790152560,1789694443,1789613656,1789125745,1789097237,1788593920,1788225978,1787628709,1787060275,1787029333,1786590962,1786575402,1786032448,1785808036,1785500974,1784941269,1784152033,1783701690,1783167224,1782511095,1780724951,1721196977,1720461240,1719882723,1719248361,1718795480,1718337942,1717610294,1717607288,1704242492,1701895437,1701138068,1699737735];
+        let timestamps = [1794874026,1794855102,1794405532,1794281098,1793920600,1793716042,1793476047,1793268380,1793022719,1792813941,1792511011,1792185686,1792048098,1791739601,1791563255,1791238833,1791114466,1790804449,1790599268,1790290747,1790152560,1789694443,1789613656,1789125745,1789097237,1788593920,1788225978,1787628709,1787060275,1787029333,1786590962,1786575402,1786032448,1785808036,1785500974,1784941269,1784152033,1783701690,1783167224,1782511095,1780724951,1721196977,1720461240,1719882723,1719248361,1718795480,1718337942,1717610294,1717607288,1704242492,1701895437,1701138068,1699737735];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/22 | 3-34 | [Space Potatoes](https://ws.tsl.rocks/corp/8baae55a77459dfc0d840ef22d35c24b537c2d3a6945acd6c97a9757149a4f02/) |
 | ✅ | 2026/11/21 | 11-1 | [烽烟与黎明](https://ws.tsl.rocks/corp/6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96/) |
 | ✅ | 2026/11/16 | 12-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2026/11/15 | 19-1 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
@@ -205,5 +205,5 @@ Corporation ID: 874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795287102"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795306026"></span>
 </div>
