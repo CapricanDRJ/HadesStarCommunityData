@@ -1,6 +1,6 @@
 ---
 title: ​UFO
-description: W:25 L:69 D:2 Bonus ✅ 40%
+description: W:25 L:69 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 3 - 36 **六大天神**
 date: 2026-11-22T00:07:05.000Z
@@ -16,7 +16,7 @@ https://discord.gg/NuvtUTUxQj
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

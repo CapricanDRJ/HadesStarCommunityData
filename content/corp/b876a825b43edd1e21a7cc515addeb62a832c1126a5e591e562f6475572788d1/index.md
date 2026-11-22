@@ -1,6 +1,6 @@
 ---
 title: ​AlSounT
-description: W:66 L:98 D:1 Bonus ✅ 48%
+description: W:66 L:98 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 6 - 22 **Omega Alpha**
 date: 2026-11-21T15:06:21.000Z
@@ -17,7 +17,7 @@ date: 2026-11-21T15:06:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
