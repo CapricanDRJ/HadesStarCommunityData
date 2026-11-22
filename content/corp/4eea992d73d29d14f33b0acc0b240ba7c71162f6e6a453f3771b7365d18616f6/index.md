@@ -1,9 +1,9 @@
 ---
 title: ​柯伊伯带伊甸园
-description: W:27 L:10 D:0 Bonus ✅ 36%
+description: W:28 L:10 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 14 - 12 **Stellaris**
-date: 2026-11-17T07:08:48.000Z
+Summary: ✅ 7 - 3 **Lupus Regnum**
+date: 2026-11-22T08:47:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ date: 2026-11-17T07:08:48.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔺  (10)|
-| ELO Competitive | 1501 🔺  (17)|
-| Total Matches | 37 |
-| Wins | 27 |
+| ELO Regular | 1365 🔺  (9)|
+| ELO Competitive | 1520 🔺  (18)|
+| Total Matches | 38 |
+| Wins | 28 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 | Flagship | 3 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794467328,1793893565,1793735677,1792037041,1769296178,1768522187,1768063687,1766688544,1766073204,1765545312,1754181715,1753489099,1751956041,1751322031,1750404023,1749818327,1749174669,1748572787,1744956092,1732229442,1731702673,1731697564,1731029244,1730417439,1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
+        let timestamps = [1794905258,1794467328,1793893565,1793735677,1792037041,1769296178,1768522187,1768063687,1766688544,1766073204,1765545312,1754181715,1753489099,1751956041,1751322031,1750404023,1749818327,1749174669,1748572787,1744956092,1732229442,1731702673,1731697564,1731029244,1730417439,1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) | 2 | 0 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 1 | 1 | 0 | 2 |
 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) | 1 | 1 | 0 | 2 |
 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 2 | 0 | 0 | 2 |
@@ -145,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/22 | 7-3 | [Lupus Regnum](https://ws.tsl.rocks/corp/5d09edd698e4bd37f80fdeb19605360b985df7035b132f7cf4749dd1390098a9/) |
 | ✅ | 2026/11/17 | 14-12 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ❌ | 2026/11/10 | 3-25 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2026/11/08 | 6-0 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
@@ -189,5 +192,5 @@ Corporation ID: 4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794899328"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795337258"></span>
 </div>

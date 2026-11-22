@@ -1,6 +1,6 @@
 ---
 title: ​Hellfire Club
-description: W:128 L:119 D:2 Bonus ✅ 54%
+description: W:128 L:119 D:2 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 18 - 12 **UAGC**
 date: 2026-11-15T07:25:12.000Z
@@ -18,7 +18,7 @@ rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

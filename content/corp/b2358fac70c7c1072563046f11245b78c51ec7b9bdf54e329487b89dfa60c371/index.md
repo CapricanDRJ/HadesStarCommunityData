@@ -1,6 +1,6 @@
 ---
 title: ​attraction.F
-description: W:33 L:7 D:2 Bonus ✅ 38%
+description: W:33 L:7 D:2 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ❌ 3 - 23 **Milliways**
 date: 2026-11-22T06:42:30.000Z
@@ -15,7 +15,7 @@ date: 2026-11-22T06:42:30.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

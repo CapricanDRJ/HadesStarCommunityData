@@ -1,6 +1,6 @@
 ---
 title: ​Hermitage
-description: W:31 L:26 D:2 Bonus ✅ 40%
+description: W:31 L:26 D:2 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 12 - 6 **Hand Of NOD\!**
 date: 2026-11-15T07:25:12.000Z
@@ -18,7 +18,7 @@ Lien: https://discord.gg/gaBKUb5t
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |

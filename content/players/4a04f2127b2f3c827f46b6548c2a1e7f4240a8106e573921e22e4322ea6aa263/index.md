@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "PS-113"
-description: "ws: 31 μ: 27.62"
+description: "ws: 32 μ: 28.18"
 ---
-- **WhiteStars**: 31
-- **Eligible**: 25
-- **Rating**: 4.96
-- **μ**: 27.62  
-- **σ**: 7.55
-- W: 16, L: 15, T: 0
+- **WhiteStars**: 32
+- **Eligible**: 26
+- **Rating**: 5.60
+- **μ**: 28.18  
+- **σ**: 7.53
+- W: 17, L: 15, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 31 μ: 27.62"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 25 |
+| [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 26 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 31 μ: 27.62"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-22 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 24-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | 2026-11-14 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 23-3 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | 2026-11-07 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 17-4 | [Austria](https://ws.tsl.rocks/corp/96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f/) |
 | 2026-11-01 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) | 0-16 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |

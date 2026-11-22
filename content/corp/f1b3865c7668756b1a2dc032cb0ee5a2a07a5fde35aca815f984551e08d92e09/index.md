@@ -1,9 +1,9 @@
 ---
 title: ​太空的猫
-description: W:13 L:25 D:1 Bonus ❌ 8%
+description: W:13 L:26 D:1 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 0 - 24 **Curiosity \+ Cat**
-date: 2026-11-16T13:27:27.000Z
+Summary: ❌ 3 - 24 **UKR Spase**
+date: 2026-11-22T08:37:38.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-16T13:27:27.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔻  (-6)|
-| ELO Competitive | 1347 🔻  (-2)|
-| Total Matches | 39 |
+| ELO Regular | 1114 🔻  (-6)|
+| ELO Competitive | 1345 🔻  (-3)|
+| Total Matches | 40 |
 | Wins | 13 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794403647,1793970455,1793495271,1793061189,1793059687,1792474673,1792460933,1792027589,1791615464,1791589391,1791099349,1791084128,1790653342,1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
+        let timestamps = [1794904658,1794403647,1793970455,1793495271,1793061189,1793059687,1792474673,1792460933,1792027589,1791615464,1791589391,1791099349,1791084128,1790653342,1790641929,1790089657,1789999950,1789645779,1789166611,1789125745,1788697908,1788243097,1787302129,1786664270,1786021931,1785815845,1785260624,1785241393,1784807584,1784762227,1784276705,1784275804,1783811348,1783378439,1782942515,1782495173,1781964225,1781406018,1780971598,1780466602];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/22 | 3-24 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2026/11/16 | 0-24 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ❌ | 2026/11/11 | 0-30 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2026/11/06 | 0-21 | [Terran empire](https://ws.tsl.rocks/corp/ca5552c1a800772ddb6671c92cdaed340e0dcac55d22809ed72c1ead2a701c2d/) |
@@ -189,5 +190,5 @@ Corporation ID: f1b3865c7668756b1a2dc032cb0ee5a2a07a5fde35aca815f984551e08d92e09
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794835647"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795336658"></span>
 </div>
