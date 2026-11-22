@@ -1,6 +1,6 @@
 ---
 title: ​Final
-description: W:60 L:42 D:1 Bonus ✅ 52%
+description: W:60 L:42 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 20 - 6 **Deadspace**
 date: 2026-11-15T17:56:02.000Z
@@ -21,7 +21,7 @@ Are you RS6+ & want to join?
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
