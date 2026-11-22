@@ -1,6 +1,6 @@
 ---
 title: ​lonewolf
-description: W:90 L:27 D:3 Bonus ✅ 48%
+description: W:90 L:27 D:3 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **BRASIL ACADEMY**
 date: 2026-11-15T19:51:12.000Z
@@ -18,7 +18,7 @@ nks
 <br>
 
 ### [Discord](https://discord.gg/bCDnyHe57T)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

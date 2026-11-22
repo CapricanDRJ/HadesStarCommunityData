@@ -1,9 +1,9 @@
 ---
 title: ​Rabid Butterfly
-description: W:7 L:2 D:0 Bonus ✅ 36%
+description: W:7 L:3 D:0 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 3 - 2 **Ereboros**
-date: 2026-11-17T19:24:42.000Z
+Summary: ❌ 3 - 23 **Space Catz**
+date: 2026-11-22T19:28:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-17T19:24:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (18)|
-| ELO Competitive | 1316 🔺  (19)|
-| Total Matches | 9 |
+| ELO Regular | 1270 🔻  (-11)|
+| ELO Competitive | 1306 🔻  (-9)|
+| Total Matches | 10 |
 | Wins | 7 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794511482,1794079204,1793642156,1793202531,1792556384,1792121997,1791678615,1791245741,1790774098];
+        let timestamps = [1794943711,1794511482,1794079204,1793642156,1793202531,1792556384,1792121997,1791678615,1791245741,1790774098];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/22 | 3-23 | [Space Catz](https://ws.tsl.rocks/corp/41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807/) |
 | ✅ | 2026/11/17 | 3-2 | [Ereboros](https://ws.tsl.rocks/corp/659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55/) |
 | ✅ | 2026/11/12 | 11-3 | [UNSC](https://ws.tsl.rocks/corp/22672847507d30b63230cc8a680ed365280b23759b64ea86d43edc507530fed8/) |
 | ✅ | 2026/11/07 | 3-2 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
@@ -157,5 +157,5 @@ Corporation ID: a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794943482"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795375711"></span>
 </div>

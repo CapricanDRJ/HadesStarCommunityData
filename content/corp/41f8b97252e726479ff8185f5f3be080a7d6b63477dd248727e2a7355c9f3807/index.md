@@ -1,9 +1,9 @@
 ---
 title: ​Space Catz
-description: W:23 L:7 D:2 Bonus ✅ 36%
+description: W:24 L:7 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 7 - 2 **Space Dragons**
-date: 2026-11-16T10:42:54.000Z
+Summary: ✅ 23 - 3 **Rabid Butterfly**
+date: 2026-11-22T19:28:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-16T10:42:54.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 🔺  (9)|
-| ELO Competitive | 1454 🔺  (18)|
-| Total Matches | 32 |
-| Wins | 23 |
+| ELO Regular | 1383 🔺  (11)|
+| ELO Competitive | 1463 🔺  (9)|
+| Total Matches | 33 |
+| Wins | 24 |
 | Losses | 7 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 7 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794393774,1793796841,1793268818,1791936957,1791297707,1790707712,1790222856,1790152560,1789418988,1788949839,1788467769,1787661754,1787103245,1786452164,1785857302,1784855051,1784021337,1783422592,1782866807,1781599503,1781588690,1780995327,1780970397,1780367769,1780367769,1779788514,1779780103,1779247675,1779200202,1778539250,1778463842,1778009260];
+        let timestamps = [1794943711,1794393774,1793796841,1793268818,1791936957,1791297707,1790707712,1790222856,1790152560,1789418988,1788949839,1788467769,1787661754,1787103245,1786452164,1785857302,1784855051,1784021337,1783422592,1782866807,1781599503,1781588690,1780995327,1780970397,1780367769,1780367769,1779788514,1779780103,1779247675,1779200202,1778539250,1778463842,1778009260];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/22 | 23-3 | [Rabid Butterfly](https://ws.tsl.rocks/corp/a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a/) |
 | ✅ | 2026/11/16 | 7-2 | [Space Dragons](https://ws.tsl.rocks/corp/56abc2a100d670fdde4dc7a34a284d429a863f45d8807422ae338faf806c81b9/) |
 | ↔️ | 2026/11/09 | 6-6 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ✅ | 2026/11/03 | 13-3 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
@@ -174,5 +176,5 @@ Corporation ID: 41f8b97252e726479ff8185f5f3be080a7d6b63477dd248727e2a7355c9f3807
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794825774"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795375711"></span>
 </div>

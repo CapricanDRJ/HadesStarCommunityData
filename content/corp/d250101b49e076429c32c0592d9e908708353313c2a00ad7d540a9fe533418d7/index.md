@@ -1,6 +1,6 @@
 ---
 title: ​Mosaic
-description: W:7 L:1 D:0 Bonus ✅ 32%
+description: W:7 L:1 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 19 - 2 **KEPLER\-442 b**
 date: 2026-11-15T19:16:08.000Z
@@ -15,7 +15,7 @@ date: 2026-11-15T19:16:08.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
