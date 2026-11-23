@@ -1,6 +1,6 @@
 ---
 title: ​Void
-description: W:28 L:42 D:0 Bonus ✅ 46%
+description: W:28 L:42 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 34 - 3 **Hexacropians**
 date: 2026-11-16T02:46:41.000Z
@@ -23,7 +23,7 @@ Primarily English
 <br>
 
 ### [Discord](https://discord.gg/jPftecDuNp)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
