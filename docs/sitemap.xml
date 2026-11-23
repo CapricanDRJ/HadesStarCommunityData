@@ -3,64 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ws.tsl.rocks/invites/</loc>
-    <lastmod>2026-11-22T22:05:32+00:00</lastmod>
+    <lastmod>2026-11-23T01:05:50+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/</loc>
-    <lastmod>2026-11-22T21:55:40+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:40+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/avgrelics/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/comp100/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/players/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/relics100/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanning/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanfri/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanmon/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scansat/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scansun/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanthu/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scantue/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/scanwed/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/bonus/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/top100/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/lose100/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/win100/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/totalws/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/streak/</loc>
-    <lastmod>2026-11-22T21:55:30+00:00</lastmod>
+    <lastmod>2026-11-23T00:55:30+00:00</lastmod>
+  </url><url>
+    <loc>https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/</loc>
+    <lastmod>2026-11-22T22:23:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/</loc>
+    <lastmod>2026-11-22T22:23:45+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e/</loc>
     <lastmod>2026-11-22T21:43:42+00:00</lastmod>
@@ -253,9 +259,6 @@
   </url><url>
     <loc>https://ws.tsl.rocks/corp/6c9c6f392ebe58339d364f656c36d113a16af9d5d3e8fab0341a998605458e96/</loc>
     <lastmod>2026-11-21T18:51:42+00:00</lastmod>
-  </url><url>
-    <loc>https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/</loc>
-    <lastmod>2026-11-21T18:51:41+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/</loc>
     <lastmod>2026-11-21T18:36:39+00:00</lastmod>
@@ -799,9 +802,6 @@
   </url><url>
     <loc>https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/</loc>
     <lastmod>2026-11-16T18:32:56+00:00</lastmod>
-  </url><url>
-    <loc>https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/</loc>
-    <lastmod>2026-11-16T13:58:52+00:00</lastmod>
   </url><url>
     <loc>https://ws.tsl.rocks/corp/3e07bbe9ec60b90d6861b7ee28cf8803a8f175db765ab57bcc8c20b4dcd3dd09/</loc>
     <lastmod>2026-11-16T13:34:16+00:00</lastmod>
