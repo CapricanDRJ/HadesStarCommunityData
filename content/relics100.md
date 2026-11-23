@@ -2,7 +2,7 @@
 layout: page
 title: Relics
 description: Hades' Star top corporations by relics collected since last 6 months
-date: 2026-11-23T06:55:31.010Z
+date: 2026-11-23T09:55:30.819Z
 permalink: /relics100/
 searchHidden: true
 ---

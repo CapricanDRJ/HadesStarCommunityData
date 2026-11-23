@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "1991"
-description: "ws: 1 μ: 23.82"
+description: "ws: 2 μ: 24.80"
 ---
-- **WhiteStars**: 1
-- **Eligible**: 1
-- **Rating**: -1.07
-- **μ**: 23.82  
-- **σ**: 8.30
-- W: 0, L: 1, T: 0
+- **WhiteStars**: 2
+- **Eligible**: 2
+- **Rating**: -0.05
+- **μ**: 24.80  
+- **σ**: 8.28
+- W: 0, L: 2, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 1 μ: 23.82"
 | Corporation | WhiteStars |
 | --- | --- |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 1 |
+| [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 1 |
 
 ---
 
@@ -24,4 +25,5 @@ description: "ws: 1 μ: 23.82"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) | 11-25 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) |
 | 2025-12-12 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 20-21 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ExDeathevn"
-description: "ws: 8 μ: 25.05"
+description: "ws: 9 μ: 24.62"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 8
-- **Rating**: 0.84
-- **μ**: 25.05  
-- **σ**: 8.07
-- W: 3, L: 5, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 9
+- **Rating**: 0.48
+- **μ**: 24.62  
+- **σ**: 8.05
+- W: 3, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 25.05"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 8 |
+| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 9 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 25.05"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 5-12 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-09-13 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 5-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-08-02 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 51-3 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-06-14 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 5-9 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
