@@ -1,6 +1,6 @@
 ---
 title: ​战争幽灵
-description: W:2 L:26 D:0 Bonus ✅ 34%
+description: W:2 L:26 D:0 Bonus ❌ 7%
 image: ./favicon.png
 Summary: ❌ 0 - 13 **BRASIL ACADEMY**
 date: 2026-11-21T18:36:39.000Z
@@ -15,7 +15,7 @@ date: 2026-11-21T18:36:39.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 34%
+### Whitestar Bonus ❌ 7%
 
 | Statistic | Value |
 | --- | --- |
