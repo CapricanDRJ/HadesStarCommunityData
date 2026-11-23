@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "ПроЗаек"
-description: "ws: 42 μ: 21.77"
+description: "ws: 43 μ: 21.36"
 ---
-- **WhiteStars**: 42
-- **Eligible**: 32
-- **Rating**: -0.73
-- **μ**: 21.77  
-- **σ**: 7.50
-- W: 19, L: 23, T: 0
+- **WhiteStars**: 43
+- **Eligible**: 33
+- **Rating**: -1.06
+- **μ**: 21.36  
+- **σ**: 7.48
+- W: 19, L: 24, T: 0
 
 ---
 
@@ -17,7 +17,7 @@ description: "ws: 42 μ: 21.77"
 | Corporation | WhiteStars |
 | --- | --- |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 17 |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 15 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 16 |
 
 ---
 
@@ -25,6 +25,7 @@ description: "ws: 42 μ: 21.77"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 7-39 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | 2026-11-17 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-35 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | 2026-11-10 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-48 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | 2026-11-05 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-29 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |

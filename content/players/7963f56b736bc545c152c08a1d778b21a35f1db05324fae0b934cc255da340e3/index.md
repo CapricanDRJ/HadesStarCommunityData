@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Саня"
-description: "ws: 9 μ: 23.23"
+description: "ws: 10 μ: 24.05"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 4
-- **Rating**: -1.33
-- **μ**: 23.23  
-- **σ**: 8.19
-- W: 2, L: 7, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 5
+- **Rating**: -0.43
+- **μ**: 24.05  
+- **σ**: 8.16
+- W: 2, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 9 μ: 23.23"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 4 |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 9 μ: 23.23"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 7-39 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | 2026-07-12 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-20 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | 2026-05-30 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-35 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | 2026-03-14 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 17-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

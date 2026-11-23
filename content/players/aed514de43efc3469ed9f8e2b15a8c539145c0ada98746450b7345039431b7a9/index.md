@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Red-is"
-description: "ws: 8 μ: 22.99"
+description: "ws: 9 μ: 22.87"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 6
-- **Rating**: -1.44
-- **μ**: 22.99  
-- **σ**: 8.14
-- W: 1, L: 7, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 7
+- **Rating**: -1.48
+- **μ**: 22.87  
+- **σ**: 8.11
+- W: 1, L: 8, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 22.99"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 5 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6 |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 8 μ: 22.99"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 7-39 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | 2026-09-12 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 51-6 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-08-23 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 3-56 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | 2026-08-16 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-55 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |

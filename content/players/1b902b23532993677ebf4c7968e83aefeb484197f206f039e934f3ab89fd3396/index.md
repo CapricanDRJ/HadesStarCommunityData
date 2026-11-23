@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "G.admiral Thrawn"
-description: "ws: 73 μ: 16.94"
+description: "ws: 74 μ: 16.60"
 ---
-- **WhiteStars**: 73
-- **Eligible**: 59
-- **Rating**: -3.71
-- **μ**: 16.94  
-- **σ**: 6.88
-- W: 22, L: 51, T: 0
+- **WhiteStars**: 74
+- **Eligible**: 60
+- **Rating**: -4.00
+- **μ**: 16.60  
+- **σ**: 6.87
+- W: 22, L: 52, T: 0
 
 ---
 
@@ -17,7 +17,7 @@ description: "ws: 73 μ: 16.94"
 | Corporation | WhiteStars |
 | --- | --- |
 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 41 |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 18 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 19 |
 
 ---
 
@@ -25,6 +25,7 @@ description: "ws: 73 μ: 16.94"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 7-39 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | 2026-11-17 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-35 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | 2026-11-10 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-48 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | 2026-11-05 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-29 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |

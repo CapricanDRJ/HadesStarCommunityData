@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Ricardo360"
-description: "ws: 9 μ: 29.83"
+description: "ws: 10 μ: 28.35"
 ---
-- **WhiteStars**: 9
-- **Eligible**: 7
-- **Rating**: 5.53
-- **μ**: 29.83  
-- **σ**: 8.10
-- W: 9, L: 0, T: 0
+- **WhiteStars**: 10
+- **Eligible**: 8
+- **Rating**: 4.14
+- **μ**: 28.35  
+- **σ**: 8.07
+- W: 10, L: 0, T: 0
 
 ---
 
@@ -17,6 +17,7 @@ description: "ws: 9 μ: 29.83"
 | Corporation | WhiteStars |
 | --- | --- |
 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 7 |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 1 |
 
 ---
 
@@ -24,6 +25,7 @@ description: "ws: 9 μ: 29.83"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 39-7 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-09-07 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 10-0 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2025-10-19 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 31-9 | [Orden Estelar](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | 2025-09-20 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 49-4 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |

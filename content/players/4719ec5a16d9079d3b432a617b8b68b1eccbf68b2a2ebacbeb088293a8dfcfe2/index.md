@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Father"
-description: "ws: 19 μ: 21.37"
+description: "ws: 20 μ: 20.90"
 ---
-- **WhiteStars**: 19
-- **Eligible**: 9
-- **Rating**: -2.79
-- **μ**: 21.37  
-- **σ**: 8.05
-- W: 1, L: 18, T: 0
+- **WhiteStars**: 20
+- **Eligible**: 10
+- **Rating**: -3.17
+- **μ**: 20.90  
+- **σ**: 8.03
+- W: 1, L: 19, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 19 μ: 21.37"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 9 |
+| [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 10 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 19 μ: 21.37"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 7-39 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | 2026-11-17 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 6-35 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | 2026-11-10 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-48 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | 2026-10-29 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 0-37 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |

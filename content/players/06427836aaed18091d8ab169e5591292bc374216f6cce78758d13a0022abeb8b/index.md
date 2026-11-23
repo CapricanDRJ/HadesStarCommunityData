@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Arastadar"
-description: "ws: 6 μ: 25.57"
+description: "ws: 7 μ: 25.48"
 ---
-- **WhiteStars**: 6
-- **Eligible**: 5
-- **Rating**: 1.07
-- **μ**: 25.57  
-- **σ**: 8.17
-- W: 3, L: 3, T: 0
+- **WhiteStars**: 7
+- **Eligible**: 6
+- **Rating**: 1.06
+- **μ**: 25.48  
+- **σ**: 8.14
+- W: 4, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 6 μ: 25.57"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 5 |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 6 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 6 μ: 25.57"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 39-7 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-09-07 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 10-0 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2025-10-19 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 6-4 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | 2025-08-02 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 17-39 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "InfiniteLibra"
-description: "ws: 5 μ: 24.06"
+description: "ws: 6 μ: 25.48"
 ---
-- **WhiteStars**: 5
-- **Eligible**: 4
-- **Rating**: -0.51
-- **μ**: 24.06  
-- **σ**: 8.19
-- W: 2, L: 3, T: 0
+- **WhiteStars**: 6
+- **Eligible**: 5
+- **Rating**: 1.00
+- **μ**: 25.48  
+- **σ**: 8.16
+- W: 3, L: 3, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 5 μ: 24.06"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 3 |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 4 |
 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) | 1 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 5 μ: 24.06"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 39-7 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-09-07 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 10-0 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2025-10-19 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 6-4 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | 2025-09-07 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 13-41 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Ryü"
-description: "ws: 7 μ: 24.51"
+description: "ws: 8 μ: 25.47"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 6
-- **Rating**: 0.12
-- **μ**: 24.51  
-- **σ**: 8.13
-- W: 3, L: 4, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 7
+- **Rating**: 1.17
+- **μ**: 25.47  
+- **σ**: 8.10
+- W: 4, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 24.51"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 6 |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 24.51"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 39-7 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-09-07 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 10-0 | [русь](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | 2025-10-19 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 6-4 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | 2025-08-16 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 12-32 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
