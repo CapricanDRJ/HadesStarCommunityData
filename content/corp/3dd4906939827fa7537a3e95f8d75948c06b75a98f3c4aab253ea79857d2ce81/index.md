@@ -1,6 +1,6 @@
 ---
 title: ​Death Star llc.
-description: W:109 L:63 D:2 Bonus ✅ 48%
+description: W:109 L:63 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 25 - 3 **Death Flight**
 date: 2026-11-16T20:43:08.000Z
@@ -19,7 +19,7 @@ Discord required | Part of Astral Alliance
 <br>
 
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

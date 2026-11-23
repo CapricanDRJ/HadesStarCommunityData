@@ -1,9 +1,9 @@
 ---
 title: ​GermanSpaceDuo
-description: W:6 L:31 D:4 Bonus ❌ 6%
+description: W:6 L:32 D:4 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 2 - 6 **九州·养老**
-date: 2026-11-17T17:24:33.000Z
+Summary: ❌ 0 - 18 **九州·白星**
+date: 2026-11-23T19:06:09.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-17T17:24:33.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1038 🔻  (-8)|
-| ELO Competitive | 1118 🔻  (-3)|
-| Total Matches | 41 |
+| ELO Regular | 1032 🔻  (-6)|
+| ELO Competitive | 1117 🔻  (-1)|
+| Total Matches | 42 |
 | Wins | 6 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 4 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794504273,1793984275,1793541531,1793108201,1792424805,1791992526,1791500480,1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
+        let timestamps = [1795028769,1794504273,1793984275,1793541531,1793108201,1792424805,1791992526,1791500480,1791053575,1790603721,1790028798,1789560166,1789058153,1788452701,1785011292,1783510428,1779397308,1778943925,1778420399,1777909818,1777472691,1776952602,1775666445,1773289941,1772046464,1769980363,1767804992,1766758250,1765651982,1764026442,1762722821,1762189496,1761407405,1760794344,1744722898,1743886589,1743102791,1741714104,1740489269,1740009962,1739331125,1738858733];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/23 | 0-18 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ❌ | 2026/11/17 | 2-6 | [九州·养老](https://ws.tsl.rocks/corp/3b143b6fd40ce6bbe0369e63a8c4466f2baa4f5346d0bbfc8b9407e58d466763/) |
 | ❌ | 2026/11/11 | 0-10 | [星际联邦](https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/) |
 | ✅ | 2026/11/06 | 4-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
@@ -191,5 +192,5 @@ Corporation ID: 4845b9c456dec1856ed2c9bdcf6e1cf6d0d18460e78de1d40daf20df8ff99933
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794936273"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795460769"></span>
 </div>

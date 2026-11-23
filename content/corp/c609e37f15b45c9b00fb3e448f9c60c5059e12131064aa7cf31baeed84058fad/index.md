@@ -1,9 +1,9 @@
 ---
 title: ​Magyar Vándor
-description: W:0 L:5 D:4 Bonus ❌ 4%
+description: W:0 L:6 D:4 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ❌ 1 - 4 **拼好团**
-date: 2026-11-15T19:36:10.000Z
+Summary: ❌ 0 - 7 **Ainz ooal gown**
+date: 2026-11-23T18:49:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-15T19:36:10.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (-13)|
-| ELO Competitive | 1140 🔻  (-14)|
-| Total Matches | 9 |
+| ELO Regular | 1126 🔻  (-3)|
+| ELO Competitive | 1139 🔻  (-2)|
+| Total Matches | 10 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 4 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794339370,1793816988,1793221978,1792782398,1792210233,1791574734,1791142280,1790455674,1741996258];
+        let timestamps = [1795027756,1794339370,1793816988,1793221978,1792782398,1792210233,1791574734,1791142280,1790455674,1741996258];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/23 | 0-7 | [Ainz ooal gown](https://ws.tsl.rocks/corp/9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d/) |
 | ❌ | 2026/11/15 | 1-4 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
 | ❌ | 2026/11/09 | 0-2 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ❌ | 2026/11/02 | 0-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
@@ -150,5 +151,5 @@ Corporation ID: c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794771370"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795459756"></span>
 </div>

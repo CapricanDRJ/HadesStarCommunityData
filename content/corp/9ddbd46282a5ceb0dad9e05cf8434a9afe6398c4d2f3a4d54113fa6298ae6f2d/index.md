@@ -1,9 +1,9 @@
 ---
 title: ​Ainz ooal gown
-description: W:43 L:6 D:0 Bonus ✅ 40%
+description: W:44 L:6 D:0 Bonus ✅ 40%
 image: ./favicon.png
-Summary: ✅ 37 - 0 **NERF TOY'S**
-date: 2026-11-20T03:33:47.000Z
+Summary: ✅ 7 - 0 **Magyar Vándor**
+date: 2026-11-23T18:49:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 2026-11-20T03:33:47.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1510 🔺  (4)|
+| ELO Regular | 1513 🔺  (3)|
 | ELO Competitive | 1634 🔺  (9)|
-| Total Matches | 49 |
-| Wins | 43 |
+| Total Matches | 50 |
+| Wins | 44 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 9 |
+| Streak | 10 |
 | Streak Record | 21 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794713627,1794267884,1793664687,1793195200,1792735342,1792283919,1791819202,1791375843,1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
+        let timestamps = [1795027756,1794713627,1794267884,1793664687,1793195200,1792735342,1792283919,1791819202,1791375843,1790890066,1790389576,1789923820,1789405766,1788958102,1788439218,1787940070,1787430155,1786986669,1786553577,1786049833,1785598911,1785155768,1784695230,1784252075,1783801130,1782931721,1782481351,1782040156,1781571268,1781125120,1780660063,1780223221,1779762432,1779314682,1778799116,1778354788,1777918533,1777485913,1777052655,1776609510,1776166973,1775716616,1775273756,1774815606,1774376942,1773941292,1773492434,1773049699,1766905160,1765149245];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/23 | 7-0 | [Magyar Vándor](https://ws.tsl.rocks/corp/c609e37f15b45c9b00fb3e448f9c60c5059e12131064aa7cf31baeed84058fad/) |
 | ✅ | 2026/11/20 | 37-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2026/11/14 | 26-0 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ✅ | 2026/11/08 | 27-2 | [契约\-璃月](https://ws.tsl.rocks/corp/ddf212167e61a225a1554a76a8956a044f72afa9eb2fd239661f8740ba008f92/) |
@@ -199,5 +200,5 @@ Corporation ID: 9ddbd46282a5ceb0dad9e05cf8434a9afe6398c4d2f3a4d54113fa6298ae6f2d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795145627"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795459756"></span>
 </div>
