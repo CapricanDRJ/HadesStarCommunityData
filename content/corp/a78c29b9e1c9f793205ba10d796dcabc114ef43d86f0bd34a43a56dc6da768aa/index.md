@@ -1,6 +1,6 @@
 ---
 title: ​Warriorlords
-description: W:91 L:38 D:1 Bonus ✅ 50%
+description: W:91 L:38 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 15 - 9 **Слава Украине\!**
 date: 2026-11-16T13:32:27.000Z
@@ -18,7 +18,7 @@ ith the Titans of Terror.
 <br>
 
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
