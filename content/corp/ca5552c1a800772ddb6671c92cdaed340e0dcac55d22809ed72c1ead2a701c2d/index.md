@@ -1,6 +1,6 @@
 ---
 title: ​Terran empire
-description: W:148 L:46 D:1 Bonus ✅ 52%
+description: W:148 L:46 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ❌ 17 - 28 **First Legion**
 date: 2026-11-24T01:50:47.000Z
@@ -15,7 +15,7 @@ date: 2026-11-24T01:50:47.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

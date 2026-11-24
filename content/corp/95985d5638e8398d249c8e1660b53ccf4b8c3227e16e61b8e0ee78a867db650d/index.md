@@ -1,9 +1,9 @@
 ---
 title: ​太阳系星盟
-description: W:10 L:7 D:1 Bonus ✅ 32%
+description: W:10 L:7 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ❌ 1 - 23 **自由之地**
-date: 2026-11-19T15:47:56.000Z
+Summary: ↔️ 5 - 5 **Sunat\.**
+date: 2026-11-24T13:51:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,12 @@ date: 2026-11-19T15:47:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (-13)|
-| ELO Competitive | 1313 🔺  (15)|
-| Total Matches | 18 |
+| ELO Regular | 1241 🔻  (0)|
+| ELO Competitive | 1312 🔻  (-2)|
+| Total Matches | 19 |
 | Wins | 10 |
 | Losses | 7 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794671276,1794567344,1794126665,1794059673,1793538526,1793486562,1793022719,1792950129,1792462058,1792424805,1791808986,1791123780,1790604676,1787401866,1748267201,1747834466,1747361990,1746891517];
+        let timestamps = [1795096295,1794671276,1794567344,1794126665,1794059673,1793538526,1793486562,1793022719,1792950129,1792462058,1792424805,1791808986,1791123780,1790604676,1787401866,1748267201,1747834466,1747361990,1746891517];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/24 | 5-5 | [Sunat\.](https://ws.tsl.rocks/corp/b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562/) |
 | ❌ | 2026/11/19 | 1-23 | [自由之地](https://ws.tsl.rocks/corp/9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75/) |
 | ✅ | 2026/11/18 | 8-0 | [太阳系星盟·白星观测站](https://ws.tsl.rocks/corp/956fd97c2d6b7d9dc5c9859f2ca6e43bfdff0036065408f26bdd4bb179173499/) |
 | ✅ | 2026/11/13 | 6-3 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
@@ -165,5 +166,5 @@ Corporation ID: 95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795103276"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795528295"></span>
 </div>

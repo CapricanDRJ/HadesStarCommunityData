@@ -1,9 +1,9 @@
 ---
 title: ​Sunat.
-description: W:8 L:6 D:2 Bonus ✅ 32%
+description: W:8 L:6 D:3 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **The Bois**
-date: 2026-11-18T21:49:42.000Z
+Summary: ↔️ 5 - 5 **太阳系星盟**
+date: 2026-11-24T13:51:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-18T21:49:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (13)|
-| ELO Competitive | 1275 🔺  (12)|
-| Total Matches | 16 |
+| ELO Regular | 1238 🔺  (0)|
+| ELO Competitive | 1277 🔺  (2)|
+| Total Matches | 17 |
 | Wins | 8 |
 | Losses | 6 |
-| Draws | 2 |
-| Streak | 2 |
+| Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794606582,1793986078,1793369791,1792909010,1792440732,1791936957,1791500480,1790950145,1789664106,1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
+        let timestamps = [1795096295,1794606582,1793986078,1793369791,1792909010,1792440732,1791936957,1791500480,1790950145,1789664106,1789199819,1788508720,1788067046,1787624204,1787181799,1783939023,1781876811];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2026/11/24 | 5-5 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ✅ | 2026/11/18 | 4-0 | [The Bois](https://ws.tsl.rocks/corp/0e4a30107f5a253c35411aa274c6f45c78581583acbbd77218ed1779008b71f8/) |
 | ✅ | 2026/11/11 | 7-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ↔️ | 2026/11/04 | 4-4 | [龙的传人](https://ws.tsl.rocks/corp/f9369c5d0313006c708d7e7b381841b0c32aecff0b1ef5c0d074c1a3b0a4ed55/) |
@@ -164,5 +164,5 @@ Corporation ID: b5e4c85c4fa82637c82ad54be6551a9383eaeb40c8df386d51de2b7fafd6a562
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795038582"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795528295"></span>
 </div>
