@@ -207427,4 +207427,14 @@
 {"serverId":"55d9ca79abea123f","user1":"b2dc2d2b2908f657","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1795535463,"queue":1},
 {"serverId":"55d9ca79abea123f","user1":"9ef92cae6c0d6eeb","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1795535481,"queue":1},
 {"serverId":"55d9ca79abea123f","user1":"02a13e94958854ef","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1795535499,"queue":1},
-{"serverId":"55d9ca79abea123f","user1":"b2dc2d2b2908f657","user2":"9ef92cae6c0d6eeb","user3":"02a13e94958854ef","user4":"","rsType":9.5,"timeStamp":1795535499,"queue":0}]
+{"serverId":"55d9ca79abea123f","user1":"b2dc2d2b2908f657","user2":"9ef92cae6c0d6eeb","user3":"02a13e94958854ef","user4":"","rsType":9.5,"timeStamp":1795535499,"queue":0},
+{"serverId":"b9100218a46059b0","user1":"b5e932895b4356ce","user2":"","user3":"","user4":"","rsType":11.5,"timeStamp":1795535782,"queue":1},
+{"serverId":"b9100218a46059b0","user1":"e4e545b390781a08","user2":"5868c2bd3e7b1f63","user3":"b5e932895b4356ce","user4":"","rsType":11.5,"timeStamp":1795535782,"queue":0},
+{"serverId":"55d9ca79abea123f","user1":"b2dc2d2b2908f657","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1795539613,"queue":1},
+{"serverId":"55d9ca79abea123f","user1":"9ef92cae6c0d6eeb","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1795539694,"queue":1},
+{"serverId":"55d9ca79abea123f","user1":"b2dc2d2b2908f657","user2":"9ef92cae6c0d6eeb","user3":"","user4":"","rsType":9.5,"timeStamp":1795540146,"queue":0},
+{"serverId":"c47e34593bd9e7f0","user1":"7972e161a12ad05d","user2":"","user3":"","user4":"","rsType":10.5,"timeStamp":1795542581,"queue":1},
+{"serverId":"b9100218a46059b0","user1":"ad6526800d2a2477","user2":"","user3":"","user4":"","rsType":9.5,"timeStamp":1795542626,"queue":1},
+{"serverId":"b6cdd6ab8d02b45d","user1":"e79ec0b53aafcff6","user2":"","user3":"","user4":"","rsType":8.5,"timeStamp":1795542914,"queue":1},
+{"serverId":"c627a2ef020fdb9b","user1":"2ecbf11e36b8ac19","user2":"","user3":"","user4":"","rsType":8.5,"timeStamp":1795544580,"queue":1},
+{"serverId":"b6cdd6ab8d02b45d","user1":"bc6e7067e7e8a923","user2":"","user3":"","user4":"","rsType":8.5,"timeStamp":1795545821,"queue":1}]

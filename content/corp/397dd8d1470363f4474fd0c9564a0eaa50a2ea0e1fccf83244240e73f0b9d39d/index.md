@@ -1,9 +1,9 @@
 ---
 title: ​Extinct Honor
-description: W:4 L:0 D:0 Bonus ✅ 28%
+description: W:5 L:0 D:0 Bonus ✅ 30%
 image: ./favicon.png
-Summary: ✅ 15 - 0 **奇点教会**
-date: 2026-11-19T08:47:23.000Z
+Summary: ✅ 17 - 3 **Солнечные Ветры**
+date: 2026-11-24T17:46:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,18 +15,18 @@ date: 2026-11-19T08:47:23.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 28%
+### Whitestar Bonus ✅ 30%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (16)|
-| ELO Competitive | 1281 🔺  (20)|
-| Total Matches | 4 |
-| Wins | 4 |
+| ELO Regular | 1277 🔺  (14)|
+| ELO Competitive | 1294 🔺  (13)|
+| Total Matches | 5 |
+| Wins | 5 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794646043,1794199664,1793767406,1793075607];
+        let timestamps = [1795110415,1794646043,1794199664,1793767406,1793075607];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/24 | 17-3 | [Солнечные Ветры](https://ws.tsl.rocks/corp/53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1/) |
 | ✅ | 2026/11/19 | 15-0 | [奇点教会](https://ws.tsl.rocks/corp/f78adf8daad3bc332d628d2ff252182fb5e0dd48f5fa2c02220fd3c3ecc856bb/) |
 | ✅ | 2026/11/14 | 12-5 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2026/11/09 | 13-0 | [Anarchy G13](https://ws.tsl.rocks/corp/59b3aa9bf4f8cf4944a729f7f72218416d173a0a02ff8e3e2945985eaccf52a4/) |
@@ -147,5 +148,5 @@ Corporation ID: 397dd8d1470363f4474fd0c9564a0eaa50a2ea0e1fccf83244240e73f0b9d39d
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795078043"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795542415"></span>
 </div>

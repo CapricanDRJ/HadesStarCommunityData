@@ -1,6 +1,6 @@
 ---
 title: ​OPA
-description: W:183 L:65 D:0 Bonus ❌ 54%
+description: W:183 L:65 D:0 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ❌ 2 - 21 **lonewolf**
 date: 2026-11-24T14:06:36.000Z
@@ -19,7 +19,7 @@ Discord required : discord.gg/2RmfWZB777
 <br>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
-### Whitestar Bonus ❌ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
