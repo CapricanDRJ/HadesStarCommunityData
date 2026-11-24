@@ -1,6 +1,6 @@
 ---
 title: ​Rabid Butterfly
-description: W:7 L:3 D:0 Bonus ✅ 36%
+description: W:7 L:3 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ❌ 3 - 23 **Space Catz**
 date: 2026-11-22T19:28:31.000Z
@@ -15,7 +15,7 @@ date: 2026-11-22T19:28:31.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |
