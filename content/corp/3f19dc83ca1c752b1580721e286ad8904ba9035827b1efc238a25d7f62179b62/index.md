@@ -1,9 +1,9 @@
 ---
 title: ​CORE INFLICTION
-description: W:4 L:7 D:0 Bonus ❌ 40%
+description: W:4 L:8 D:0 Bonus ❌ 10%
 image: ./favicon.png
-Summary: ✅ 6 - 3 **Mondluftschiff**
-date: 2026-11-17T09:53:58.000Z
+Summary: ❌ 3 - 8 **九州·华夏**
+date: 2026-11-24T10:56:21.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,16 @@ Project for Permanent Peace
 ```
 <br>
 
-### Whitestar Bonus ❌ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (15)|
-| ELO Competitive | 1220 🔺  (15)|
-| Total Matches | 11 |
+| ELO Regular | 1174 🔻  (-9)|
+| ELO Competitive | 1219 🔻  (-2)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 6 |
 
@@ -50,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794477238,1793889602,1793230666,1792667425,1792053504,1791437389,1790835086,1790162771,1789715166,1789225498,1701919177];
+        let timestamps = [1795085781,1794477238,1793889602,1793230666,1792667425,1792053504,1791437389,1790835086,1790162771,1789715166,1789225498,1701919177];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/24 | 3-8 | [九州·华夏](https://ws.tsl.rocks/corp/b9cbe11f1e67c4fe116f0b88f6a09cd820c689366a96b35d8393a6ef34b8558f/) |
 | ✅ | 2026/11/17 | 6-3 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ✅ | 2026/11/10 | 8-0 | [秉元握枢斡化坎离玄墟旌部](https://ws.tsl.rocks/corp/f92ac64755d82856a50cfc4d8c59f8741e2cfeb50a5a2f9cb46e0769d22a1bcf/) |
 | ❌ | 2026/11/02 | 3-18 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
@@ -164,5 +164,5 @@ Corporation ID: 3f19dc83ca1c752b1580721e286ad8904ba9035827b1efc238a25d7f62179b62
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794909238"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795517781"></span>
 </div>

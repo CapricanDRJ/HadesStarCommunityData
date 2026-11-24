@@ -1,6 +1,6 @@
 ---
 title: ​太阳系联邦
-description: W:16 L:30 D:0 Bonus ✅ 36%
+description: W:16 L:30 D:0 Bonus ❌ 8%
 image: ./favicon.png
 Summary: ✅ 22 - 3 **繁星一夢**
 date: 2026-11-17T11:03:44.000Z
@@ -15,7 +15,7 @@ date: 2026-11-17T11:03:44.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 36%
+### Whitestar Bonus ❌ 8%
 
 | Statistic | Value |
 | --- | --- |

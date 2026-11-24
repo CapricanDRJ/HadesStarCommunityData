@@ -1,6 +1,6 @@
 ---
 title: ​Dumpster Fire
-description: W:53 L:144 D:1 Bonus ✅ 48%
+description: W:53 L:144 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 5 - 28 **OPA**
 date: 2026-11-17T13:54:15.000Z
@@ -22,7 +22,7 @@ Discord-Free White Star
 <br>
 
 ### [Discord](https://discord.gg/FCWdtswtP5)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

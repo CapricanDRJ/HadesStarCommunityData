@@ -1,6 +1,6 @@
 ---
 title: ​共联·世界
-description: W:45 L:42 D:3 Bonus ✅ 40%
+description: W:45 L:42 D:3 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ❌ 11 - 24 **Cerulean Star**
 date: 2026-11-22T18:28:26.000Z
@@ -15,7 +15,7 @@ date: 2026-11-22T18:28:26.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
