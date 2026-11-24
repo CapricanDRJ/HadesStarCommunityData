@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-23T21:55:41.316Z
+date: 2026-11-24T00:55:41.686Z
 summary: "Corporation directory"
 ---
 
@@ -283,7 +283,7 @@ summary: "Corporation directory"
 | [Death Flight 1\.](https://ws.tsl.rocks/corp/9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e/) | 1176 | 1177 | 2 |
 | [Death knight](https://ws.tsl.rocks/corp/a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72/) | 1171 | 1185 | 2 |
 | [death squadron](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) | 1206 | 1291 | 42 |
-| [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 1255 | 1520 | 174 |
+| [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 1232 | 1499 | 175 |
 | [Death Starz](https://ws.tsl.rocks/corp/72050a78d7a3b399e8a6579f780941b77e870b86e7ae26abe0e9f4aaf3b73371/) | 1180 | 1208 | 6 |
 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) | 1287 | 1457 | 55 |
 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) | 1033 | 1159 | 73 |
@@ -568,7 +568,7 @@ summary: "Corporation directory"
 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) | 1229 | 1286 | 29 |
 | [Infidels](https://ws.tsl.rocks/corp/5871ffcde726ef95354baf4635b1cf203b7a808210ae8ef8adffae8eef197eef/) | 1187 | 1192 | 2 |
 | [Infinity](https://ws.tsl.rocks/corp/5e747ceba1d950ce8c20aeb9ab63df115fe777aaca6c33e4ba145b59919f6394/) | 1196 | 1198 | 1 |
-| [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 1063 | 1365 | 118 |
+| [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 1086 | 1386 | 119 |
 | [InfinityCorp](https://ws.tsl.rocks/corp/f77a735eeb6db9f7c867449823b6384579c6fea6a0a915efcb23559e75ed512b/) | 1202 | 1206 | 2 |
 | [Int\. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7/) | 1300 | 1339 | 26 |
 | [Intari](https://ws.tsl.rocks/corp/cd40328f5e2c9c9a9048ffbc090999675ccd6672e60c1ec9e8113daa822bf02f/) | 1183 | 1183 | 2 |
@@ -1113,7 +1113,7 @@ summary: "Corporation directory"
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1252 | 1867 | 298 |
 | [StellarCorpIT](https://ws.tsl.rocks/corp/7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f/) | 1283 | 1302 | 10 |
 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) | 1189 | 1505 | 118 |
-| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1485 | 1792 | 148 |
+| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1500 | 1807 | 149 |
 | [Stella☆Grow](https://ws.tsl.rocks/corp/8767272985b99b3dffd4c8482b4e7faa1c462406acd8bf16ecffb552b91422ca/) | 1291 | 1344 | 10 |
 | [Sterling Gamers](https://ws.tsl.rocks/corp/1c9d0a5b4f5803e2e51f7ce4af435c7caa7e7da9e39c7f1ed26f7be70e4d6638/) | 1201 | 1201 | 2 |
 | [Sternenbund](https://ws.tsl.rocks/corp/bc271b888ea386af54e2fc911a98d01951a0c2bb776a079d2ae005c477072587/) | 1185 | 1185 | 1 |
@@ -1403,7 +1403,7 @@ summary: "Corporation directory"
 | [WALRUS](https://ws.tsl.rocks/corp/6a6f8dddc019ed7feb25ee8e5152e3137ab79d3a60b1057a398b7282a0613e6b/) | 1313 | 1466 | 28 |
 | [War Factory](https://ws.tsl.rocks/corp/ede392803b7a300ed38db43f3fef8444b09a3b0533e4cb0059e26a7820b6b8f7/) | 1169 | 1188 | 2 |
 | [Warp Dominion](https://ws.tsl.rocks/corp/ccd60dbdf5091bcb2d6b0f011ba1a3645e89baed985e2e455b2e1de1412769c5/) | 1212 | 1217 | 5 |
-| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 1492 | 1786 | 130 |
+| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 1477 | 1772 | 131 |
 | [Warriors](https://ws.tsl.rocks/corp/5f7939d9e637fca46378b31a0bc98715e317da22c2a819707276e7d779044d83/) | 1228 | 1228 | 4 |
 | [Warriors union](https://ws.tsl.rocks/corp/414b486648e1871ce70a5ac9f1a65f02a15d6a38eebc99c23ab68016ba988ea8/) | 1162 | 1163 | 9 |
 | [We R Bad](https://ws.tsl.rocks/corp/f5cb2c2ba88483bac00f814e32a0d862e4f3a0a10cc614b33ecb9e846766aae0/) | 1046 | 1112 | 21 |
