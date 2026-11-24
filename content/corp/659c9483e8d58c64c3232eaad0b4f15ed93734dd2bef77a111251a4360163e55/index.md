@@ -1,9 +1,9 @@
 ---
 title: ​Ereboros
-description: W:16 L:5 D:0 Bonus ❌ 8%
+description: W:16 L:6 D:0 Bonus ❌ 8%
 image: ./favicon.png
-Summary: ❌ 2 - 3 **Rabid Butterfly**
-date: 2026-11-17T19:24:42.000Z
+Summary: ❌ 0 - 9 **九州·白星**
+date: 2026-11-24T03:20:53.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-17T19:24:42.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔻  (-18)|
-| ELO Competitive | 1380 🔻  (-19)|
-| Total Matches | 21 |
+| ELO Regular | 1295 🔻  (-17)|
+| ELO Competitive | 1375 🔻  (-5)|
+| Total Matches | 22 |
 | Wins | 16 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794511482,1793919399,1793291360,1792672690,1792107148,1791472838,1790774098,1790248687,1789633765,1789043128,1788490602,1787831502,1787237236,1786702719,1786043265,1785421660,1784823508,1784201293,1783599243,1783013711,1782127402];
+        let timestamps = [1795058453,1794511482,1793919399,1793291360,1792672690,1792107148,1791472838,1790774098,1790248687,1789633765,1789043128,1788490602,1787831502,1787237236,1786702719,1786043265,1785421660,1784823508,1784201293,1783599243,1783013711,1782127402];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/24 | 0-9 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ❌ | 2026/11/17 | 2-3 | [Rabid Butterfly](https://ws.tsl.rocks/corp/a0d763a104c0d28dfd61ffe359b2ee604d5027b7db65bbae8e9d4a1b95a2929a/) |
 | ❌ | 2026/11/10 | 0-4 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/11/03 | 10-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
@@ -169,5 +170,5 @@ Corporation ID: 659c9483e8d58c64c3232eaad0b4f15ed93734dd2bef77a111251a4360163e55
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794943482"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795490453"></span>
 </div>

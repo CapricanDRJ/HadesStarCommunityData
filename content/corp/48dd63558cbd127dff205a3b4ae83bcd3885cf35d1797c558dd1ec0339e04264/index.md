@@ -1,6 +1,6 @@
 ---
 title: ​Solar Corp
-description: W:52 L:6 D:0 Bonus ✅ 42%
+description: W:52 L:6 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 10 - 8 **💮問鼎無垠💮**
 date: 2026-11-17T00:58:25.000Z
@@ -15,7 +15,7 @@ date: 2026-11-17T00:58:25.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |
