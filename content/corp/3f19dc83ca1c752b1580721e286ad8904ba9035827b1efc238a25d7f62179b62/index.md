@@ -1,6 +1,6 @@
 ---
 title: ​CORE INFLICTION
-description: W:4 L:7 D:0 Bonus ✅ 40%
+description: W:4 L:7 D:0 Bonus ❌ 40%
 image: ./favicon.png
 Summary: ✅ 6 - 3 **Mondluftschiff**
 date: 2026-11-17T09:53:58.000Z
@@ -20,7 +20,7 @@ Project for Permanent Peace
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 40%
 
 | Statistic | Value |
 | --- | --- |
