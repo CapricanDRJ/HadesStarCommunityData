@@ -1,6 +1,6 @@
 ---
 title: ​Mass Effect
-description: W:75 L:67 D:1 Bonus ❌ 46%
+description: W:75 L:67 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 9 - 6 **日月星辰**
 date: 2026-11-17T03:48:36.000Z
@@ -18,7 +18,7 @@ Just come and play to the rules!
 ```
 <br>
 
-### Whitestar Bonus ❌ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

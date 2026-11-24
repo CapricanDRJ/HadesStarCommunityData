@@ -1,6 +1,6 @@
 ---
 title: ​Red Dawn
-description: W:82 L:60 D:2 Bonus ✅ 48%
+description: W:82 L:60 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 22 - 3 **Atlas Star llc\.**
 date: 2026-11-17T05:18:41.000Z
@@ -19,7 +19,7 @@ date: 2026-11-17T05:18:41.000Z
 <br>
 
 ### [Discord](https://discord.gg/HAUXPBta)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Bacon Warriors
-description: W:100 L:87 D:3 Bonus ✅ 50%
+description: W:100 L:87 D:3 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 25 - 0 **Тихий Омут**
 date: 2026-11-17T05:43:42.000Z
@@ -16,7 +16,7 @@ e lose amd every two weeks if we win. No discord required.
 ```
 <br>
 
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
