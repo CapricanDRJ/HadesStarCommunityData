@@ -1,6 +1,6 @@
 ---
 title: ​SILVER TERRA
-description: W:97 L:71 D:2 Bonus ✅ 48%
+description: W:97 L:71 D:2 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 18 - 3 **阿尔特拉集团**
 date: 2026-11-17T22:44:58.000Z
@@ -18,7 +18,7 @@ date: 2026-11-17T22:44:58.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
