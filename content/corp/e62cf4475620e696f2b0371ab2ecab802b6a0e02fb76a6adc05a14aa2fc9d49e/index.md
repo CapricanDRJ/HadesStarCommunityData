@@ -1,6 +1,6 @@
 ---
 title: ​CORPORATION
-description: W:8 L:3 D:0 Bonus ✅ 32%
+description: W:8 L:3 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 5 - 0 **Страж Галактики**
 date: 2026-11-18T06:30:46.000Z
@@ -15,7 +15,7 @@ date: 2026-11-18T06:30:46.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

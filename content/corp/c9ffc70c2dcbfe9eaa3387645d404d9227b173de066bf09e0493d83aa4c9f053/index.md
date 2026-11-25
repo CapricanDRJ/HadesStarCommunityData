@@ -1,6 +1,6 @@
 ---
 title: ​Лютые
-description: W:79 L:29 D:1 Bonus ✅ 50%
+description: W:79 L:29 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 29 - 0 **Empire of Hades**
 date: 2026-11-18T04:35:19.000Z
@@ -16,7 +16,7 @@ date: 2026-11-18T04:35:19.000Z
 <br>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |
