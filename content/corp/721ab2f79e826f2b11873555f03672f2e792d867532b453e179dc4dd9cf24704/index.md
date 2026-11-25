@@ -1,9 +1,9 @@
 ---
 title: ​Deathwatch
-description: W:35 L:20 D:1 Bonus ✅ 42%
+description: W:36 L:20 D:1 Bonus ✅ 42%
 image: ./favicon.png
-Summary: ✅ 17 - 2 **宇宙聯盟分團**
-date: 2026-11-25T10:23:03.000Z
+Summary: ✅ 18 - 0 **无人深空**
+date: 2026-11-25T15:08:26.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-25T10:23:03.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (11)|
-| ELO Competitive | 1463 🔺  (5)|
-| Total Matches | 56 |
-| Wins | 35 |
+| ELO Regular | 1314 🔺  (16)|
+| ELO Competitive | 1473 🔺  (16)|
+| Total Matches | 57 |
+| Wins | 36 |
 | Losses | 20 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1795170183,1794673079,1794669473,1794184950,1794172636,1793712738,1793686608,1789394350,1788840262,1787203588,1785858804,1785858804,1785222469,1784559728,1784009529,1783591733,1783419288,1782732204,1782146935,1781515377,1781308681,1781000434,1780329013,1779718509,1778666622,1778599932,1777859348,1777304140,1776715866,1776701141,1776194918,1776180795,1775447206,1775422182,1774899426,1774888306,1774376942,1774361617,1773834934,1773761331,1773022262,1772444416,1771836755,1771367500,1769519415,1768908828,1768881835,1768197563,1767526789,1766580552,1766462600,1765794691,1765255081,1764787850,1764094335,1764060382];
+        let timestamps = [1795187306,1795170183,1794673079,1794669473,1794184950,1794172636,1793712738,1793686608,1789394350,1788840262,1787203588,1785858804,1785858804,1785222469,1784559728,1784009529,1783591733,1783419288,1782732204,1782146935,1781515377,1781308681,1781000434,1780329013,1779718509,1778666622,1778599932,1777859348,1777304140,1776715866,1776701141,1776194918,1776180795,1775447206,1775422182,1774899426,1774888306,1774376942,1774361617,1773834934,1773761331,1773022262,1772444416,1771836755,1771367500,1769519415,1768908828,1768881835,1768197563,1767526789,1766580552,1766462600,1765794691,1765255081,1764787850,1764094335,1764060382];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) | 1 | 1 | 0 | 2 |
 | [新星工程分团](https://ws.tsl.rocks/corp/32118ce6bd19b8bf3c71207205af9e433ae29cc8a80ebde0a608e508b6c37895/) | 2 | 0 | 0 | 2 |
 | [Russian space 3](https://ws.tsl.rocks/corp/e801d288bf6d95e9705e8f7d791fdcb030abe8bebaf2980bc32fb453f95575d7/) | 0 | 2 | 0 | 2 |
 | [Академия Д](https://ws.tsl.rocks/corp/b1abd18d521db3f91ca83e4b49f5ecc132514e77c54c875dc0d08b977292c470/) | 0 | 2 | 0 | 2 |
@@ -143,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/25 | 18-0 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/11/25 | 17-2 | [宇宙聯盟分團](https://ws.tsl.rocks/corp/5e799aa429afe1c26044bf43ff4693145b19f195375f6d74ac76b9a15fb433fb/) |
 | ↔️ | 2026/11/19 | 3-3 | [Солнечные Ветры](https://ws.tsl.rocks/corp/53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1/) |
 | ✅ | 2026/11/19 | 21-0 | [WR104](https://ws.tsl.rocks/corp/64cf456d57e7210c360fc7bd9c494d191f5b1af85241a05a2c3364cede29e2a5/) |
@@ -206,5 +209,5 @@ Corporation ID: 721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795602183"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795619306"></span>
 </div>

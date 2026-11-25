@@ -1,6 +1,6 @@
 ---
 title: ​暗黑星雲
-description: W:4 L:4 D:0 Bonus ✅ 
+description: W:4 L:4 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 1 - 0 **Grater U**
 date: 2026-11-18T15:47:55.000Z
@@ -15,7 +15,7 @@ date: 2026-11-18T15:47:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

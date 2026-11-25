@@ -1,9 +1,9 @@
 ---
 title: ​Spacekill
-description: W:8 L:15 D:3 Bonus ❌ 6%
+description: W:8 L:16 D:3 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 0 - 14 **Galactic Empire**
-date: 2026-11-20T05:48:56.000Z
+Summary: ❌ 3 - 4 **ParalleL**
+date: 2026-11-25T13:18:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-20T05:48:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (-14)|
-| ELO Competitive | 1291 🔻  (-6)|
-| Total Matches | 26 |
+| ELO Regular | 1127 🔻  (-16)|
+| ELO Competitive | 1279 🔻  (-12)|
+| Total Matches | 27 |
 | Wins | 8 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794721736,1794721736,1794219184,1793779419,1793303384,1792848497,1792408879,1792321466,1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
+        let timestamps = [1795180696,1794721736,1794721736,1794219184,1793779419,1793303384,1792848497,1792408879,1792321466,1791958881,1791508588,1791471936,1791045681,1791037268,1790607981,1790604676,1790166377,1790162771,1789730183,1789277778,1788837925,1787871768,1787295219,1786840947,1786389375,1785956443,1785522304];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/25 | 3-4 | [ParalleL](https://ws.tsl.rocks/corp/b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22/) |
 | ❌ | 2026/11/20 | 0-14 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ❌ | 2026/11/20 | 5-11 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2026/11/14 | 27-0 | [Закулисье](https://ws.tsl.rocks/corp/6b6320075ef24f567188c00a140553a525899f5558e6ab6767c88c37e6186437/) |
@@ -174,5 +175,5 @@ Corporation ID: a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795153736"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795612696"></span>
 </div>

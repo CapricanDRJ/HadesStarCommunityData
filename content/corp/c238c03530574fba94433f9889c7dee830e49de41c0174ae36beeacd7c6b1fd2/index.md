@@ -1,6 +1,6 @@
 ---
 title: ​Cosmic Astrolog
-description: W:1 L:0 D:0 Bonus ✅ 
+description: W:1 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 4 - 0 **甜甜圈**
 date: 2026-11-18T13:20:56.000Z
@@ -15,7 +15,7 @@ date: 2026-11-18T13:20:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

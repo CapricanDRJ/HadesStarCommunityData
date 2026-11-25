@@ -106,46 +106,6 @@ searchHidden: true
     </table>
     <table>
         <tr>
-            <th colspan="4" class="username-header">Timber (Gantores)</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">💰 Wanting</td>
-        </tr>
-        
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>320%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>320%</td>
-                </tr>
-            
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS11</td>
-                    <td>320%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: Private</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th colspan="4" class="username-header">[FO] Willie C 🚾</th>
         </tr>
         <tr>

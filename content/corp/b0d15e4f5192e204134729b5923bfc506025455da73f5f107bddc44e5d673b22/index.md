@@ -1,9 +1,9 @@
 ---
 title: ​ParalleL
-description: W:14 L:27 D:3 Bonus ✅ 36%
+description: W:16 L:27 D:3 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 4 - 0 **拼好团**
-date: 2026-11-20T11:09:18.000Z
+Summary: ✅ 9 - 0 **CORPORATION**
+date: 2026-11-25T13:18:16.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 2026-11-20T11:09:18.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔺  (19)|
-| ELO Competitive | 1351 🔺  (9)|
-| Total Matches | 44 |
-| Wins | 14 |
+| ELO Regular | 1156 🔺  (20)|
+| ELO Competitive | 1364 🔺  (12)|
+| Total Matches | 46 |
+| Wins | 16 |
 | Losses | 27 |
 | Draws | 3 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794740958,1794735552,1794270888,1794267884,1793791734,1793784527,1793352476,1793328924,1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
+        let timestamps = [1795180696,1795180696,1794740958,1794735552,1794270888,1794267884,1793791734,1793784527,1793352476,1793328924,1792846092,1792841360,1792215722,1792213920,1791648272,1791646168,1791182055,1791182055,1790728442,1790704708,1790281136,1790267315,1789778556,1789766240,1789331273,1789308428,1788868565,1788847477,1788432311,1788386357,1787913954,1787835108,1787402166,1787396157,1786888422,1786879405,1786440749,1786438947,1785988289,1785956743,1785483897,1785399427,1785018481,1784927450,1784511793,1784053485];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +143,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/25 | 9-0 | [CORPORATION](https://ws.tsl.rocks/corp/e62cf4475620e696f2b0371ab2ecab802b6a0e02fb76a6adc05a14aa2fc9d49e/) |
+| ✅ | 2026/11/25 | 4-3 | [Spacekill](https://ws.tsl.rocks/corp/a27767cf8d4e8b2930810afa2fce8a73f0d2d633033a0302f931b7fdde31f780/) |
 | ✅ | 2026/11/20 | 4-0 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
 | ❌ | 2026/11/20 | 0-21 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2026/11/15 | 4-0 | [\+SATELLITE•卫星联\+](https://ws.tsl.rocks/corp/0435e7afc53ca549df7205484bd692be15c4e4773b36a0cdebae12a40149efc9/) |
@@ -193,5 +196,5 @@ Corporation ID: b0d15e4f5192e204134729b5923bfc506025455da73f5f107bddc44e5d673b22
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795172958"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795612696"></span>
 </div>

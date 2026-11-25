@@ -1,9 +1,9 @@
 ---
 title: ​РУССКИЕ ИДУТ
-description: W:8 L:10 D:0 Bonus ❌ 6%
+description: W:8 L:11 D:0 Bonus ❌ 6%
 image: ./favicon.png
-Summary: ❌ 3 - 29 **Blood Hounds**
-date: 2026-11-18T10:00:40.000Z
+Summary: ❌ 0 - 46 **Critical Mass**
+date: 2026-11-25T12:48:14.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-18T10:00:40.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (-9)|
-| ELO Competitive | 1322 🔻  (-1)|
-| Total Matches | 18 |
+| ELO Regular | 1200 🔻  (-5)|
+| ELO Competitive | 1320 🔻  (-2)|
+| Total Matches | 19 |
 | Wins | 8 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794564040,1792128305,1790964268,1789694143,1789194551,1788725260,1788271936,1786707826,1786272194,1785777331,1785327923,1784874574,1784437748,1783969071,1783526541,1783087911,1782651694,1779003634];
+        let timestamps = [1795178894,1794564040,1792128305,1790964268,1789694143,1789194551,1788725260,1788271936,1786707826,1786272194,1785777331,1785327923,1784874574,1784437748,1783969071,1783526541,1783087911,1782651694,1779003634];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) | 0 | 2 | 0 | 2 |
 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/25 | 0-46 | [Critical Mass](https://ws.tsl.rocks/corp/97748c176e12f022cd0dc7253a1c70aac71ef0e421870edf4555e20d70aa9716/) |
 | ❌ | 2026/11/18 | 3-29 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2026/10/21 | 16-4 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2026/10/07 | 12-14 | [GalaxyNova](https://ws.tsl.rocks/corp/d3df4ca63632d4113f93581cd3629f93a8b06733db25c5ea94da3e7889cd8b94/) |
@@ -165,5 +167,5 @@ Corporation ID: 89fafb53a61f953c8bebb3561eff93b17078a70e95630788dd4b6d1c02794b37
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794996040"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795610894"></span>
 </div>
