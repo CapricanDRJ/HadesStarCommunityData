@@ -6,21 +6,42 @@
     <description>Recent content in Corporations on Hades&#39; Star Resources</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:23:32 +0000</lastBuildDate>
     <atom:link href="https://ws.tsl.rocks/corp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>​RGW</title>
+      <link>https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/</link>
+      <pubDate>Wed, 25 Nov 2026 16:23:32 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/</guid>
+      <description>W:63 L:60 D:2 Bonus ✅ 46%</description>
+    </item>
+    <item>
+      <title>​Star Hunters</title>
+      <link>https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/</link>
+      <pubDate>Wed, 25 Nov 2026 16:23:32 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/</guid>
+      <description>W:13 L:20 D:2 Bonus ❌ 8%</description>
+    </item>
+    <item>
+      <title>​Cosmic Astrolog</title>
+      <link>https://ws.tsl.rocks/corp/c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2/</link>
+      <pubDate>Wed, 25 Nov 2026 16:13:31 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2/</guid>
+      <description>W:2 L:0 D:0 Bonus ✅</description>
+    </item>
+    <item>
+      <title>​无人深空</title>
+      <link>https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/</link>
+      <pubDate>Wed, 25 Nov 2026 16:13:31 +0000</pubDate>
+      <guid>https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/</guid>
+      <description>W:29 L:16 D:2 Bonus ❌ 9%</description>
+    </item>
     <item>
       <title>​Deathwatch</title>
       <link>https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/</link>
       <pubDate>Wed, 25 Nov 2026 15:08:26 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/</guid>
       <description>W:36 L:20 D:1 Bonus ✅ 42%</description>
-    </item>
-    <item>
-      <title>​无人深空</title>
-      <link>https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/</link>
-      <pubDate>Wed, 25 Nov 2026 15:08:26 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/</guid>
-      <description>W:29 L:15 D:2 Bonus ❌ 9%</description>
     </item>
     <item>
       <title>​Blood Hounds</title>
@@ -1651,7 +1672,7 @@
       <link>https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/</link>
       <pubDate>Wed, 18 Nov 2026 18:36:21 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/</guid>
-      <description>W:66 L:22 D:1 Bonus ✅ 44%</description>
+      <description>W:66 L:22 D:1 Bonus ❌ 12%</description>
     </item>
     <item>
       <title>​Vega Conflict</title>
@@ -1661,18 +1682,11 @@
       <description>W:34 L:29 D:0 Bonus ❌ 11%</description>
     </item>
     <item>
-      <title>​RGW</title>
-      <link>https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/</link>
-      <pubDate>Wed, 18 Nov 2026 18:11:19 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/</guid>
-      <description>W:62 L:60 D:2 Bonus ❌ 13%</description>
-    </item>
-    <item>
       <title>​Rogue One</title>
       <link>https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/</link>
       <pubDate>Wed, 18 Nov 2026 16:31:12 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/</guid>
-      <description>W:109 L:68 D:1 Bonus ✅ 50%</description>
+      <description>W:109 L:68 D:1 Bonus ❌ 15%</description>
     </item>
     <item>
       <title>​Grater U</title>
@@ -1701,13 +1715,6 @@
       <pubDate>Wed, 18 Nov 2026 14:41:03 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/0bb74a94853e3ab96f3ca32d214b5fd677a1fb87db48d8a833d8a279ee6b33d3/</guid>
       <description>W:31 L:12 D:1 Bonus ❌ 9%</description>
-    </item>
-    <item>
-      <title>​Cosmic Astrolog</title>
-      <link>https://ws.tsl.rocks/corp/c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2/</link>
-      <pubDate>Wed, 18 Nov 2026 13:20:56 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2/</guid>
-      <description>W:1 L:0 D:0 Bonus ❌</description>
     </item>
     <item>
       <title>​甜甜圈</title>
@@ -2639,13 +2646,6 @@
       <pubDate>Sun, 01 Nov 2026 04:23:26 +0000</pubDate>
       <guid>https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/</guid>
       <description>W:74 L:31 D:1 Bonus ❌ 16%</description>
-    </item>
-    <item>
-      <title>​Star Hunters</title>
-      <link>https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/</link>
-      <pubDate>Sun, 01 Nov 2026 02:38:18 +0000</pubDate>
-      <guid>https://ws.tsl.rocks/corp/55caab6fc860d293950fbff3b0ec848a38a19bea2c3c637c110790f7cb8706e5/</guid>
-      <description>W:13 L:19 D:2 Bonus ❌ 8%</description>
     </item>
     <item>
       <title>​СОЮЗ</title>

@@ -1,6 +1,6 @@
 ---
 title: ​Rogue One
-description: W:109 L:68 D:1 Bonus ✅ 50%
+description: W:109 L:68 D:1 Bonus ❌ 15%
 image: ./favicon.png
 Summary: ✅ 35 - 3 **The Allegiant**
 date: 2026-11-18T16:31:12.000Z
@@ -18,7 +18,7 @@ us and Righteous Fury! ws every week,
 <br>
 
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅ 50%
+### Whitestar Bonus ❌ 15%
 
 | Statistic | Value |
 | --- | --- |

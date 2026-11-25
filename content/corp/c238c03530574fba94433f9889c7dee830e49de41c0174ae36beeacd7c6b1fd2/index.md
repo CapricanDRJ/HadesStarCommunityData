@@ -1,9 +1,9 @@
 ---
 title: ​Cosmic Astrolog
-description: W:1 L:0 D:0 Bonus ❌ 
+description: W:2 L:0 D:0 Bonus ✅ 
 image: ./favicon.png
-Summary: ✅ 4 - 0 **甜甜圈**
-date: 2026-11-18T13:20:56.000Z
+Summary: ✅ 4 - 2 **无人深空**
+date: 2026-11-25T16:13:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,18 @@ date: 2026-11-18T13:20:56.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (15)|
-| ELO Competitive | 1218 🔺  (18)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1235 🔺  (19)|
+| ELO Competitive | 1242 🔺  (24)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794576056];
+        let timestamps = [1795191211,1794576056];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/25 | 4-2 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 | ✅ | 2026/11/18 | 4-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 
 ---
@@ -142,5 +145,5 @@ Corporation ID: c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795008056"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795623211"></span>
 </div>

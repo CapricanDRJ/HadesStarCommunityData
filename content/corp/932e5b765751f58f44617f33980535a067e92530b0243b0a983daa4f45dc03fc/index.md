@@ -1,9 +1,9 @@
 ---
 title: ​无人深空
-description: W:29 L:15 D:2 Bonus ❌ 9%
+description: W:29 L:16 D:2 Bonus ❌ 9%
 image: ./favicon.png
-Summary: ❌ 0 - 18 **Deathwatch**
-date: 2026-11-25T15:08:26.000Z
+Summary: ❌ 2 - 4 **Cosmic Astrolog**
+date: 2026-11-25T16:13:31.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-25T15:08:26.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔻  (-16)|
+| ELO Regular | 1295 🔻  (-19)|
 | ELO Competitive | 1458 🔻  (-15)|
-| Total Matches | 46 |
+| Total Matches | 47 |
 | Wins | 29 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1795187306,1794612402,1794577257,1793920600,1793919399,1793245085,1793230666,1792771399,1792771399,1792240057,1792215722,1791722173,1791711657,1791241536,1791204283,1790769891,1790769891,1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
+        let timestamps = [1795191211,1795187306,1794612402,1794577257,1793920600,1793919399,1793245085,1793230666,1792771399,1792771399,1792240057,1792215722,1791722173,1791711657,1791241536,1791204283,1790769891,1790769891,1790312672,1790309368,1789747008,1789726879,1789122441,1788949839,1788514621,1788508720,1787994340,1787986562,1787545480,1787479079,1787007072,1786954221,1786440749,1786358723,1785830564,1785830264,1785239768,1785229077,1784695230,1784694929,1784201293,1784178164,1783591733,1783570706,1783053968,1783046458,1782489164];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/25 | 2-4 | [Cosmic Astrolog](https://ws.tsl.rocks/corp/c238c03530574fba94433f9889c7dee830e49de41c0174ae36beeacd7c6b1fd2/) |
 | ❌ | 2026/11/25 | 0-18 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ❌ | 2026/11/18 | 0-50 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c/) |
 | ✅ | 2026/11/18 | 2-1 | [宇宙聯盟分團](https://ws.tsl.rocks/corp/5e799aa429afe1c26044bf43ff4693145b19f195375f6d74ac76b9a15fb433fb/) |
@@ -198,5 +199,5 @@ Corporation ID: 932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795619306"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795623211"></span>
 </div>

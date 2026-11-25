@@ -1,6 +1,6 @@
 ---
 title: ​RUFORS
-description: W:66 L:22 D:1 Bonus ✅ 44%
+description: W:66 L:22 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 30 - 0 **Vega Conflict**
 date: 2026-11-18T18:36:21.000Z
@@ -16,7 +16,7 @@ date: 2026-11-18T18:36:21.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
