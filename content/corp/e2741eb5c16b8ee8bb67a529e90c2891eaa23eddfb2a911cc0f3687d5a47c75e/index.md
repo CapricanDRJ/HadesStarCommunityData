@@ -1,6 +1,6 @@
 ---
 title: ​Blood Hounds
-description: W:227 L:68 D:3 Bonus ✅ 56%
+description: W:227 L:68 D:3 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 3 - 8 **Terranova**
 date: 2026-11-25T06:27:47.000Z
@@ -16,7 +16,7 @@ No camping. Discord mandatory for ws
 <br>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/jMqZD8XskE)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

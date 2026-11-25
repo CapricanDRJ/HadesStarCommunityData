@@ -1,6 +1,6 @@
 ---
 title: ​太阳系星盟
-description: W:10 L:7 D:2 Bonus ✅ 32%
+description: W:10 L:7 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ↔️ 5 - 5 **Sunat\.**
 date: 2026-11-24T13:51:35.000Z
@@ -15,7 +15,7 @@ date: 2026-11-24T13:51:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

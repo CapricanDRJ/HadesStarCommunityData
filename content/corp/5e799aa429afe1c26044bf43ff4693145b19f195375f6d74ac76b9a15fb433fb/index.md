@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟分團
-description: W:0 L:1 D:0 Bonus ❌ 
+description: W:0 L:2 D:0 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 1 - 2 **无人深空**
-date: 2026-11-18T13:40:57.000Z
+Summary: ❌ 2 - 17 **Deathwatch**
+date: 2026-11-25T10:23:03.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-18T13:40:57.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (-10)|
-| ELO Competitive | 1195 🔻  (-5)|
-| Total Matches | 1 |
+| ELO Regular | 1179 🔻  (-11)|
+| ELO Competitive | 1189 🔻  (-5)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794577257];
+        let timestamps = [1795170183,1794577257];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/25 | 2-17 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ❌ | 2026/11/18 | 1-2 | [无人深空](https://ws.tsl.rocks/corp/932e5b765751f58f44617f33980535a067e92530b0243b0a983daa4f45dc03fc/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: 5e799aa429afe1c26044bf43ff4693145b19f195375f6d74ac76b9a15fb433fb
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795009257"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795602183"></span>
 </div>

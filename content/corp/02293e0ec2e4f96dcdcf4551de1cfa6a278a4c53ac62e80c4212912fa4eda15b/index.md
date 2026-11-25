@@ -1,6 +1,6 @@
 ---
 title: ​White Dwarf
-description: W:138 L:58 D:1 Bonus ✅ 54%
+description: W:138 L:58 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 27 - 23 **alienigenas**
 date: 2026-11-18T11:35:47.000Z
@@ -17,7 +17,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 <br>
 
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |
