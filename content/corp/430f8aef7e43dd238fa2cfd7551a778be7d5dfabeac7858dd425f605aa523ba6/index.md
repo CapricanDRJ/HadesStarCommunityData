@@ -1,9 +1,9 @@
 ---
 title: ​宇宙聯盟
-description: W:13 L:8 D:2 Bonus ✅ 32%
+description: W:13 L:9 D:2 Bonus ✅ 32%
 image: ./favicon.png
-Summary: ✅ 2 - 0 **启示空间**
-date: 2026-11-21T03:45:35.000Z
+Summary: ❌ 2 - 6 **Akatsuki**
+date: 2026-11-26T10:09:54.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-21T03:45:35.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (10)|
-| ELO Competitive | 1323 🔺  (14)|
-| Total Matches | 23 |
+| ELO Regular | 1233 🔻  (-14)|
+| ELO Competitive | 1307 🔻  (-16)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794800735,1794575154,1794306023,1794010708,1793798944,1793538526,1793354627,1793067197,1792841360,1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
+        let timestamps = [1795255794,1794800735,1794575154,1794306023,1794010708,1793798944,1793538526,1793354627,1793067197,1792841360,1792631615,1792222332,1792068824,1791564757,1791024048,1790409403,1790309368,1789818206,1789371058,1788919051,1788467769,1787966402,1787483285,1787044353];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/26 | 2-6 | [Akatsuki](https://ws.tsl.rocks/corp/0880fb62935100a6f3cdc0a0ef241c19a582d74e3886292dec7e096d3a518939/) |
 | ✅ | 2026/11/21 | 2-0 | [启示空间](https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/) |
 | ✅ | 2026/11/18 | 5-0 | [甜甜圈](https://ws.tsl.rocks/corp/b908aab2a29dfae88b897ba94f2fa7e506dd2c754e2fbc8389b8d54e22382557/) |
 | ✅ | 2026/11/15 | 2-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
@@ -173,5 +173,5 @@ Corporation ID: 430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795232735"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795687794"></span>
 </div>

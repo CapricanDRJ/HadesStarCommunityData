@@ -1,6 +1,6 @@
 ---
 title: ​Вселенские 40%
-description: W:53 L:79 D:1 Bonus ✅ 44%
+description: W:53 L:79 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 2 - 12 **星落苑**
 date: 2026-11-24T14:16:37.000Z
@@ -16,7 +16,7 @@ date: 2026-11-24T14:16:37.000Z
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |
