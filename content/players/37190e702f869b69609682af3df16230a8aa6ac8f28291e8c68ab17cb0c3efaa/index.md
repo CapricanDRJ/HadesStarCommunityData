@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "KoyotRust"
-description: "ws: 8 μ: 26.21"
+description: "ws: 9 μ: 26.92"
 ---
-- **WhiteStars**: 8
-- **Eligible**: 6
-- **Rating**: 1.83
-- **μ**: 26.21  
-- **σ**: 8.13
-- W: 4, L: 4, T: 0
+- **WhiteStars**: 9
+- **Eligible**: 7
+- **Rating**: 2.64
+- **μ**: 26.92  
+- **σ**: 8.09
+- W: 5, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 8 μ: 26.21"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 6 |
+| [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 7 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 8 μ: 26.21"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-26 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 11-3 | [💮問鼎無垠💮](https://ws.tsl.rocks/corp/2f0bef5235ddb5e700f0e9c9a195a9ca7c81b50e5ff90c22931f3f462080bed2/) |
 | 2026-11-20 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 30-2 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) |
 | 2026-11-12 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 15-9 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | 2026-11-05 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) | 27-3 | [Jesus Followers](https://ws.tsl.rocks/corp/a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41/) |

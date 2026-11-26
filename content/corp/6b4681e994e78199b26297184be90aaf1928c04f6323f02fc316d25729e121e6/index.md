@@ -1,6 +1,6 @@
 ---
 title: ​101
-description: W:78 L:189 D:9 Bonus ✅ 48%
+description: W:78 L:189 D:9 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ✅ 16 - 3 **Eastern Front**
 date: 2026-11-19T07:48:42.000Z
@@ -17,7 +17,7 @@ date: 2026-11-19T07:48:42.000Z
 <br>
 
 ### [Discord](https://discord.gg/Sh82822)
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
