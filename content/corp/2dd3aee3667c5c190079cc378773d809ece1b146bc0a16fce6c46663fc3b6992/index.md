@@ -1,6 +1,6 @@
 ---
 title: ​Star Wars
-description: W:43 L:26 D:1 Bonus ✅ 54%
+description: W:43 L:26 D:1 Bonus ❌ 17%
 image: ./favicon.png
 Summary: ✅ 32 - 6 **italian warrior**
 date: 2026-11-19T15:57:57.000Z
@@ -18,7 +18,7 @@ WhatsApp: <color=#00FFFF>034 99879-2012</color>
 ```
 <br>
 
-### Whitestar Bonus ✅ 54%
+### Whitestar Bonus ❌ 17%
 
 | Statistic | Value |
 | --- | --- |

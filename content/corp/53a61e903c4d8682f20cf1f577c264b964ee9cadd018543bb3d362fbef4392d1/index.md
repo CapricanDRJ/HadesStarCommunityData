@@ -1,9 +1,9 @@
 ---
 title: ​Солнечные Ветры
-description: W:2 L:1 D:1 Bonus ❌ 
+description: W:3 L:1 D:1 Bonus ✅ 
 image: ./favicon.png
-Summary: ❌ 3 - 17 **Extinct Honor**
-date: 2026-11-24T17:46:55.000Z
+Summary: ✅ 3 - 0 **Nodens Provisio**
+date: 2026-11-26T17:00:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 2026-11-24T17:46:55.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 
+### Whitestar Bonus ✅ 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (-14)|
-| ELO Competitive | 1229 🔻  (-13)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1231 🔺  (13)|
+| ELO Competitive | 1255 🔺  (13)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1795110415,1794673079,1794240813,1793807657];
+        let timestamps = [1795280432,1795110415,1794673079,1794240813,1793807657];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/26 | 3-0 | [Nodens Provisio](https://ws.tsl.rocks/corp/fddc11923365fd1df7f756374f94f8fc2aa3fbcfaaaa82b00f5544e4b55a6c5e/) |
 | ❌ | 2026/11/24 | 3-17 | [Extinct Honor](https://ws.tsl.rocks/corp/397dd8d1470363f4474fd0c9564a0eaa50a2ea0e1fccf83244240e73f0b9d39d/) |
 | ↔️ | 2026/11/19 | 3-3 | [Deathwatch](https://ws.tsl.rocks/corp/721ab2f79e826f2b11873555f03672f2e792d867532b453e179dc4dd9cf24704/) |
 | ✅ | 2026/11/14 | 5-0 | [Dark Sun](https://ws.tsl.rocks/corp/41ffd72a8eba70ea3f7f69ce602194b0ee84c7e65be6d2e08b87181de24cc9cf/) |
@@ -146,5 +147,5 @@ Corporation ID: 53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795542415"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795712432"></span>
 </div>

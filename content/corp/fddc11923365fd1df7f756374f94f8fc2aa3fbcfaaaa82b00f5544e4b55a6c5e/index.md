@@ -1,9 +1,9 @@
 ---
 title: ​Nodens Provisio
-description: W:0 L:1 D:0 Bonus ❌ 1%
+description: W:0 L:2 D:0 Bonus ❌ 2%
 image: ./favicon.png
-Summary: ❌ 0 - 2 **империя тьмы**
-date: 2024-08-19T01:05:22.000Z
+Summary: ❌ 0 - 3 **Солнечные Ветры**
+date: 2026-11-26T17:00:32.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,15 +15,15 @@ Because you can't solo White Stars. https://discord.gg/GWA38Gx
 ```
 <br>
 
-### Whitestar Bonus ❌ 1%
+### Whitestar Bonus ❌ 2%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (-18)|
-| ELO Competitive | 1187 🔻  (-13)|
-| Total Matches | 1 |
+| ELO Regular | 1168 🔻  (-13)|
+| ELO Competitive | 1174 🔻  (-13)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723597522];
+        let timestamps = [1795280432,1723597522];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/26 | 0-3 | [Солнечные Ветры](https://ws.tsl.rocks/corp/53a61e903c4d8682f20cf1f577c264b964ee9cadd018543bb3d362fbef4392d1/) |
 | ❌ | 2024/08/19 | 0-2 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 
 ---
@@ -142,5 +143,5 @@ Corporation ID: fddc11923365fd1df7f756374f94f8fc2aa3fbcfaaaa82b00f5544e4b55a6c5e
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1724029522"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795712432"></span>
 </div>
