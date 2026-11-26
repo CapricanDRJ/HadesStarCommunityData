@@ -1,9 +1,9 @@
 ---
 title: ​自由之地
-description: W:24 L:13 D:2 Bonus ✅ 36%
+description: W:24 L:14 D:2 Bonus ✅ 36%
 image: ./favicon.png
-Summary: ✅ 23 - 1 **太阳系星盟**
-date: 2026-11-19T15:47:56.000Z
+Summary: ❌ 0 - 1 **REAPERS**
+date: 2026-11-26T06:09:35.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-19T15:47:56.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (13)|
-| ELO Competitive | 1435 🔺  (10)|
-| Total Matches | 39 |
+| ELO Regular | 1296 🔻  (-9)|
+| ELO Competitive | 1426 🔻  (-10)|
+| Total Matches | 40 |
 | Wins | 24 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 2 |
 | Streak Record | 8 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794671276,1793582686,1793022161,1792506813,1792050801,1791525407,1790854310,1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
+        let timestamps = [1795241375,1794671276,1793582686,1793022161,1792506813,1792050801,1791525407,1790854310,1790304470,1789184035,1788578091,1788439218,1788115119,1787672871,1787571016,1787107151,1786926586,1786598351,1786454568,1786137013,1786011117,1785632864,1785516296,1785160194,1785036502,1784694929,1784535394,1784252269,1784037259,1783715811,1783568003,1783250440,1783078598,1782481351,1781768353,1781209484,1780743576,1779977812,1779448076,1778992592];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/26 | 0-1 | [REAPERS](https://ws.tsl.rocks/corp/002d1cec93c525f87fb91bba57f25d636bf977c73b34f16b2eedc4cf04d26ebb/) |
 | ✅ | 2026/11/19 | 23-1 | [太阳系星盟](https://ws.tsl.rocks/corp/95985d5638e8398d249c8e1660b53ccf4b8c3227e16e61b8e0ee78a867db650d/) |
 | ↔️ | 2026/11/07 | 3-3 | [九州·白星](https://ws.tsl.rocks/corp/1ece3c742f5a63f10019098583abc17ef0a392394933e56e5c657f4f0b920820/) |
 | ✅ | 2026/10/31 | 30-0 | [战争幽灵](https://ws.tsl.rocks/corp/19d5e74cafbea494b7ba95df28506a5ccfb41d8dcc90487826213bb85e42bcd9/) |
@@ -188,5 +189,5 @@ Corporation ID: 9366527781b6e83e1878fe70435b599eca95f395c04484b7862688bfce716c75
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795103276"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795673375"></span>
 </div>

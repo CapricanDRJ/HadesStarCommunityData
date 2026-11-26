@@ -168,13 +168,6 @@ searchHidden: true
                     <td>260%</td>
                 </tr>
             
-                <tr>
-                    <td>1</td>
-                    <td><img src="default.png" alt="default"></td>
-                    <td>RS9</td>
-                    <td>260%</td>
-                </tr>
-            
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
