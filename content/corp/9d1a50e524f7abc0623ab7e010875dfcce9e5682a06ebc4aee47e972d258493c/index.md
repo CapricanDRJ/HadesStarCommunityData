@@ -1,6 +1,6 @@
 ---
 title: ​NoweUkladyII
-description: W:31 L:0 D:0 Bonus ✅ 38%
+description: W:31 L:0 D:0 Bonus ❌ 9%
 image: ./favicon.png
 Summary: ✅ 50 - 0 **无人深空**
 date: 2026-11-18T23:26:42.000Z
@@ -16,7 +16,7 @@ godę, jak również chętnych na regularne zabawy na WS.
 ```
 <br>
 
-### Whitestar Bonus ✅ 38%
+### Whitestar Bonus ❌ 9%
 
 | Statistic | Value |
 | --- | --- |

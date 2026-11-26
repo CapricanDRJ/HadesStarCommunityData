@@ -1,6 +1,6 @@
 ---
 title: ​Sunat.
-description: W:8 L:6 D:3 Bonus ❌ 32%
+description: W:8 L:6 D:3 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ↔️ 5 - 5 **太阳系星盟**
 date: 2026-11-24T13:51:35.000Z
@@ -15,7 +15,7 @@ date: 2026-11-24T13:51:35.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: ​Schnuppenfarm
-description: W:13 L:18 D:0 Bonus ✅ 40%
+description: W:13 L:18 D:0 Bonus ❌ 10%
 image: ./favicon.png
 Summary: ✅ 17 - 1 **Continuum**
 date: 2026-11-18T23:01:41.000Z
@@ -17,7 +17,7 @@ date: 2026-11-18T23:01:41.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 40%
+### Whitestar Bonus ❌ 10%
 
 | Statistic | Value |
 | --- | --- |
